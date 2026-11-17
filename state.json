@@ -79,7 +79,15 @@
   "48aca63e41031047": "2026-11-17T22:37:35.477631+00:00",
   "7943619ec3cd465e": "2026-11-17T22:37:36.334046+00:00",
   "e90a16a2a9c7f457": "2026-11-17T22:37:36.692577+00:00",
-  "4e2fba7d3b54e15f": "2026-11-17T22:37:37.491006+00:00"
+  "4e2fba7d3b54e15f": "2026-11-17T22:37:37.491006+00:00",
+  "e4195c6ab2803644": "2026-11-17T23:34:25.534158+00:00",
+  "c82ce640e07dae24": "2026-11-17T23:34:25.534222+00:00",
+  "ab694e098b914214": "2026-11-17T23:34:28.078029+00:00",
+  "d137efca0d48d7f0": "2026-11-17T23:34:29.072679+00:00",
+  "7801237f61d31545": "2026-11-17T23:34:30.007973+00:00",
+  "e122f00132201865": "2026-11-17T23:34:46.882278+00:00",
+  "d70dbe6a8e4b1e20": "2026-11-17T23:34:47.640155+00:00",
+  "530f58ec29587acb": "2026-11-17T23:34:48.299431+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -154,7 +162,15 @@
   "80d0a2eab47cd516": "2026-11-17T22:37:33.800718+00:00",
   "087c4b29a6aba269": "2026-11-17T22:37:35.477631+00:00",
   "9ada8d9b82cb90d0": "2026-11-17T22:37:36.692577+00:00",
-  "6bd0725e8eba25c6": "2026-11-17T22:37:37.491006+00:00"
+  "6bd0725e8eba25c6": "2026-11-17T22:37:37.491006+00:00",
+  "9d8dfa84da20da37": "2026-11-17T23:34:25.534158+00:00",
+  "189edf320c0b7826": "2026-11-17T23:34:25.534222+00:00",
+  "07dd145e7f9c81cd": "2026-11-17T23:34:28.078029+00:00",
+  "78e3ffc7553a310e": "2026-11-17T23:34:29.072679+00:00",
+  "a3114d2b72539626": "2026-11-17T23:34:30.007973+00:00",
+  "5b2b79241ff80e42": "2026-11-17T23:34:46.882278+00:00",
+  "ed14556db3d73e51": "2026-11-17T23:34:47.640155+00:00",
+  "98a4ca1f82f95f0e": "2026-11-17T23:34:48.299431+00:00"
  },
  "recent": [
   {
@@ -795,6 +811,70 @@
    "trust": "rumor",
    "status": "skipped",
    "ts": "2026-11-17T22:37:37.491138+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI fans take time off work ahead of long-awaited launch",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-17T23:34:25.534201+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Video. GTA 6: What to know about the upcoming Grand Theft Auto game",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-17T23:34:25.534243+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Miami Heat shows off its 'Vice City hardwood' ahead of the big Grand Theft Auto 6 basketball game",
+   "source": "PC Gamer",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-17T23:34:28.078128+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Here we go again: ‘GTA VI’ release has workers planning time off",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-17T23:34:29.072804+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Grand Theft Auto VI fans request time off work for long-awaited launch",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-17T23:34:30.008079+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Isn't Just For Gamers—Creators And Brands Want In",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-17T23:34:46.882384+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Amazon and Best Buy's Black Friday Sale Start Dates Will Be Competing With GTA 6 This Year",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-17T23:34:47.640270+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI release sparks excitement among gamers in the Cape Fear",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-17T23:34:48.299539+00:00",
    "card_title": ""
   }
  ],
