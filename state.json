@@ -70,7 +70,16 @@
   "6597261f1a5d3a62": "2026-11-17T21:37:11.740446+00:00",
   "f3b4fd30a125e179": "2026-11-17T21:37:12.508237+00:00",
   "36d6a7c774cce501": "2026-11-17T21:37:14.843702+00:00",
-  "e0e1bf822209f5ff": "2026-11-17T21:37:15.366854+00:00"
+  "e0e1bf822209f5ff": "2026-11-17T21:37:15.366854+00:00",
+  "197c0caa5fea994b": "2026-11-17T22:37:31.103825+00:00",
+  "440c3e772d0400a7": "2026-11-17T22:37:31.103881+00:00",
+  "e16438f378a41347": "2026-11-17T22:37:31.103913+00:00",
+  "ac8af24c6035ec38": "2026-11-17T22:37:32.873457+00:00",
+  "01caf9c5ee8c7d71": "2026-11-17T22:37:33.800718+00:00",
+  "48aca63e41031047": "2026-11-17T22:37:35.477631+00:00",
+  "7943619ec3cd465e": "2026-11-17T22:37:36.334046+00:00",
+  "e90a16a2a9c7f457": "2026-11-17T22:37:36.692577+00:00",
+  "4e2fba7d3b54e15f": "2026-11-17T22:37:37.491006+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -137,7 +146,15 @@
   "562c390276e49798": "2026-11-17T21:37:11.740446+00:00",
   "29081bc8b224a434": "2026-11-17T21:37:12.508237+00:00",
   "fbf2b43ec3654695": "2026-11-17T21:37:14.843702+00:00",
-  "f91df4ec013e3bc3": "2026-11-17T21:37:15.366854+00:00"
+  "f91df4ec013e3bc3": "2026-11-17T21:37:15.366854+00:00",
+  "6898d61a89e2f7bc": "2026-11-17T22:37:36.334046+00:00",
+  "d9650cfa5436d583": "2026-11-17T22:37:31.103881+00:00",
+  "f17bfca5a77acd24": "2026-11-17T22:37:31.103913+00:00",
+  "78ba7e3c9992d604": "2026-11-17T22:37:32.873457+00:00",
+  "80d0a2eab47cd516": "2026-11-17T22:37:33.800718+00:00",
+  "087c4b29a6aba269": "2026-11-17T22:37:35.477631+00:00",
+  "9ada8d9b82cb90d0": "2026-11-17T22:37:36.692577+00:00",
+  "6bd0725e8eba25c6": "2026-11-17T22:37:37.491006+00:00"
  },
  "recent": [
   {
@@ -706,6 +723,78 @@
    "trust": "rumor",
    "status": "skipped",
    "ts": "2026-11-17T21:37:15.366975+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "RIP To ‘We Got X Before GTA 6 ’ Memes",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-17T22:37:31.103863+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Nearly 20% of Salaried US Workers are Taking Off Thursday for GTA 6’s Launch",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-17T22:37:31.103901+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Thirsty XBOX Gamers Are Using “New Zealand Trick” To Play ‘GTA 6’ Early",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-17T22:37:31.103928+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Travis Scott’s ‘GTA 6’ x Nike Air Force 1s Will Release With Two Different Chances to Purchase [PHOTOS]",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-17T22:37:32.873562+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "‘GTA 6 Online’ Release Date: Will ‘Grand Theft Auto VI’ Have Multiplayer at Launch?",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-17T22:37:33.800831+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "You can win a free Devolver Digital game – if you delete GTA 6",
+   "source": "VGC",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-17T22:37:35.477729+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "RIP To ‘We Got X Before GTA 6’ Memes",
+   "source": "Kotaku",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-17T22:37:36.334136+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 crossovers already begin as 2026 AAA game reveals free content update",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-17T22:37:36.692699+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "This Cozy New MMO Is A Delight, But Time-Gating During GTA 6 Week Is A Tough Ask",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-17T22:37:37.491138+00:00",
    "card_title": ""
   }
  ],
