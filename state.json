@@ -1,0 +1,738 @@
+{
+ "seen": {
+  "1bf0d4af59f5602d": "2026-11-17T20:46:42.129545+00:00",
+  "6bbf6714070f3e23": "2026-11-17T20:46:42.129545+00:00",
+  "8115bff6a279d0ab": "2026-11-17T20:46:42.129545+00:00",
+  "b3a4d7911c868ce9": "2026-11-17T20:46:42.129545+00:00",
+  "c57f5a6f58852dde": "2026-11-17T20:46:42.129545+00:00",
+  "ed8c29f2863c47d0": "2026-11-17T20:46:42.130550+00:00",
+  "fbefbf6fcc053a5e": "2026-11-17T20:46:42.130550+00:00",
+  "bc477e66244dd982": "2026-11-17T20:46:42.130550+00:00",
+  "f349424f776efe64": "2026-11-17T20:46:42.130550+00:00",
+  "4b125c888cb3cb69": "2026-11-17T20:46:42.130550+00:00",
+  "c54e88f9067fdfb4": "2026-11-17T20:46:42.130550+00:00",
+  "9a0e9ce265088ad9": "2026-11-17T20:46:42.130550+00:00",
+  "79799c776f833b0d": "2026-11-17T20:46:42.130550+00:00",
+  "9f41405d9ccf1215": "2026-11-17T20:46:42.130550+00:00",
+  "3e6d3c237c15ccbf": "2026-11-17T20:46:42.130550+00:00",
+  "b8c32554b18d2951": "2026-11-17T20:46:42.130550+00:00",
+  "68a0d801011814cf": "2026-11-17T20:46:42.130550+00:00",
+  "47cda2ef49df6bf5": "2026-11-17T20:46:42.130550+00:00",
+  "4ddf2cc5aa21a1cd": "2026-11-17T20:46:42.130550+00:00",
+  "e44283180ecdffba": "2026-11-17T20:46:42.130550+00:00",
+  "2916f7775580fcfa": "2026-11-17T20:46:42.130550+00:00",
+  "2d719204d4ea49f2": "2026-11-17T20:46:42.130550+00:00",
+  "579736485090488a": "2026-11-17T20:46:42.130550+00:00",
+  "a5bb239a0f742902": "2026-11-17T20:46:42.130550+00:00",
+  "84f27e818cd3ad86": "2026-11-17T20:46:42.130550+00:00",
+  "9fcae4e729825ceb": "2026-11-17T20:46:42.130550+00:00",
+  "44d7cf554b22f8af": "2026-11-17T20:46:42.130550+00:00",
+  "9aa5f8e42424017e": "2026-11-17T20:46:42.130550+00:00",
+  "3127d6513a562f73": "2026-11-17T20:46:42.130550+00:00",
+  "5d622cb9b5815715": "2026-11-17T20:46:42.130550+00:00",
+  "96b89f1377f5e848": "2026-11-17T20:46:42.130550+00:00",
+  "7045fa7eb2b09698": "2026-11-17T20:46:42.130550+00:00",
+  "e1b61be6289f215c": "2026-11-17T20:46:42.130550+00:00",
+  "af2a98bf49ab9fe1": "2026-11-17T20:46:42.130550+00:00",
+  "704494c7758631ae": "2026-11-17T20:46:42.130550+00:00",
+  "24b642413682fbed": "2026-11-17T20:46:42.130550+00:00",
+  "20ecaff32c9c2523": "2026-11-17T20:46:42.130550+00:00",
+  "061cd605b8165d0a": "2026-11-17T20:46:42.130550+00:00",
+  "51ecd35083e2d578": "2026-11-17T20:46:42.130550+00:00",
+  "20c8f48c26000666": "2026-11-17T20:46:42.130550+00:00",
+  "4aa4b0d3c74da8d9": "2026-11-17T20:46:42.130550+00:00",
+  "cbc7a899b9ed8068": "2026-11-17T20:46:44.529280+00:00",
+  "b300b93cf2de1878": "2026-11-17T20:47:31.229314+00:00",
+  "1ea333ffc08b9a33": "2026-11-17T20:47:45.660040+00:00",
+  "71f9c09cc0abb19a": "2026-11-17T20:47:59.932959+00:00",
+  "ac69bfa789d367cc": "2026-11-17T20:48:14.375272+00:00",
+  "7e7a41998ada122f": "2026-11-17T20:49:01.456177+00:00",
+  "4b03d77385f71345": "2026-11-17T20:49:58.568998+00:00",
+  "ae73b9b8d3a1d9e8": "2026-11-17T20:50:17.646756+00:00",
+  "7f53f827dbeaacf9": "2026-11-17T21:05:24.984461+00:00",
+  "98a4daa23ed991e3": "2026-11-17T21:05:24.984461+00:00",
+  "395fa61feb7d3d53": "2026-11-17T21:05:24.984461+00:00",
+  "6295244afd09067e": "2026-11-17T21:05:24.984461+00:00",
+  "eb22ea8ebf2873c5": "2026-11-17T21:05:28.095311+00:00",
+  "735ed3f941352581": "2026-11-17T21:05:29.567231+00:00",
+  "0960db295f8952fa": "2026-11-17T21:05:30.925971+00:00",
+  "92b882de8414a23f": "2026-11-17T21:05:51.622621+00:00",
+  "04c325c5cecc8fee": "2026-11-17T21:06:16.902243+00:00",
+  "82d9b5de1fb18b51": "2026-11-17T21:06:34.769450+00:00",
+  "58574429f8585484": "2026-11-17T21:10:55.360518+00:00",
+  "2fc2a0860ab257fc": "2026-11-17T21:10:56.258845+00:00",
+  "5828db1bc45a0273": "2026-11-17T21:10:56.991425+00:00",
+  "00490b2fb1593d44": "2026-11-17T21:10:57.740888+00:00",
+  "2bbc9db125a2a079": "2026-11-17T21:18:26.448449+00:00"
+ },
+ "titles": {
+  "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
+  "98f34fd6a4e03c3d": "2026-11-17T20:46:42.130550+00:00",
+  "d700e43e5f7ce796": "2026-11-17T20:46:42.129545+00:00",
+  "b1eb73c08d2958d5": "2026-11-17T20:46:42.129545+00:00",
+  "b9dd8ef5b1f014e3": "2026-11-17T20:46:42.129545+00:00",
+  "0665a3752ed2527e": "2026-11-17T20:46:42.130550+00:00",
+  "be618fa149545be0": "2026-11-17T20:46:42.130550+00:00",
+  "e13dac21391a8fda": "2026-11-17T20:46:42.130550+00:00",
+  "736c3b56587c32b1": "2026-11-17T20:46:42.130550+00:00",
+  "3e463d121ce76ea2": "2026-11-17T20:46:42.130550+00:00",
+  "7944e3a1e51a0bd1": "2026-11-17T20:47:59.932959+00:00",
+  "69e88b09f790cd00": "2026-11-17T20:46:42.130550+00:00",
+  "18edeb269a7f0e8c": "2026-11-17T20:46:42.130550+00:00",
+  "5ad59866e9e3d1fd": "2026-11-17T20:49:58.568998+00:00",
+  "160ab2545be108dd": "2026-11-17T20:46:42.130550+00:00",
+  "de75abfc08106d71": "2026-11-17T20:46:42.130550+00:00",
+  "969e490f6da1f852": "2026-11-17T20:46:42.130550+00:00",
+  "0dde056ffa41493f": "2026-11-17T20:46:42.130550+00:00",
+  "f4c32cee701f8f48": "2026-11-17T20:46:42.130550+00:00",
+  "a3ab8462bd5da111": "2026-11-17T20:46:42.130550+00:00",
+  "3a8342d76ad064af": "2026-11-17T20:46:42.130550+00:00",
+  "5ae993236f5bb515": "2026-11-17T20:46:42.130550+00:00",
+  "c154e13078b436f1": "2026-11-17T20:46:42.130550+00:00",
+  "501e01933385cc5a": "2026-11-17T20:46:42.130550+00:00",
+  "744f464e800f5432": "2026-11-17T20:46:42.130550+00:00",
+  "ecbea545459e42f1": "2026-11-17T20:46:42.130550+00:00",
+  "ecb13d9b95d940c8": "2026-11-17T20:46:42.130550+00:00",
+  "9e3bfb49df8f9d1a": "2026-11-17T20:46:42.130550+00:00",
+  "379870d6e11426b6": "2026-11-17T20:46:42.130550+00:00",
+  "6d6f3b0f0c25af6f": "2026-11-17T20:46:42.130550+00:00",
+  "b1da1daf2417b12c": "2026-11-17T20:46:42.130550+00:00",
+  "90d56014c9e874ad": "2026-11-17T20:46:42.130550+00:00",
+  "10d5e24e8b9d4b39": "2026-11-17T20:46:42.130550+00:00",
+  "6048ce51d032f58a": "2026-11-17T20:46:42.130550+00:00",
+  "a672465f520730c9": "2026-11-17T20:46:42.130550+00:00",
+  "91684e9f228e6328": "2026-11-17T20:46:42.130550+00:00",
+  "a352b8e841ee3e35": "2026-11-17T20:46:42.130550+00:00",
+  "fe7922bb492a4f6c": "2026-11-17T20:46:42.130550+00:00",
+  "8eb64ddd6e086b40": "2026-11-17T20:46:42.130550+00:00",
+  "e62ac2c3bcd2f791": "2026-11-17T20:46:44.529280+00:00",
+  "2df4e65b555560d9": "2026-11-17T20:47:31.229314+00:00",
+  "e9fe6e53b75fd1a1": "2026-11-17T20:47:45.660040+00:00",
+  "c9a81b05df6dd7a7": "2026-11-17T20:48:14.375272+00:00",
+  "3935637a21e26de9": "2026-11-17T20:49:01.456177+00:00",
+  "d151e2cfebd1cc99": "2026-11-17T20:50:17.646756+00:00",
+  "0541b0548e473568": "2026-11-17T21:05:24.984461+00:00",
+  "353b233764a72300": "2026-11-17T21:05:29.567231+00:00",
+  "2ebad299f5ece1a6": "2026-11-17T21:06:34.769450+00:00",
+  "c662caf2db22580b": "2026-11-17T21:05:24.984461+00:00",
+  "d2e24d3ad4ecdf2d": "2026-11-17T21:05:28.095311+00:00",
+  "b9aa68b756eab53f": "2026-11-17T21:05:30.925971+00:00",
+  "90631c9e5b3fadbf": "2026-11-17T21:05:51.622621+00:00",
+  "849acdae16fcf375": "2026-11-17T21:06:16.902243+00:00",
+  "2ab01648ef2ba3c8": "2026-11-17T21:10:55.360518+00:00",
+  "7264c89b29081005": "2026-11-17T21:10:56.258845+00:00",
+  "8d525c31b8d0bcba": "2026-11-17T21:10:56.991425+00:00",
+  "724566f5dd7bede3": "2026-11-17T21:10:57.740888+00:00",
+  "da66143bc2f84f92": "2026-11-17T21:18:26.448449+00:00"
+ },
+ "recent": [
+  {
+   "title": "The Game Awards 2026 Nominations Revealed, GTA 6 Dominates",
+   "source": "IGN",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-17T20:46:42.129545+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "The Game Awards 2026 Nominees Revealed, GTA 6 Up for 8 Awards",
+   "source": "Push Square",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-17T20:46:42.129545+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "We got GTA 6 nominated for Game of the Year at The Game Awards before GTA 6",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-17T20:46:42.129545+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Lucia actor confirmed as GTA 6 sweeps The Game Awards nominations",
+   "source": "VGC",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-17T20:46:42.129545+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to play GTA 6 early with the New Zealand trick",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-17T20:46:42.129545+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How To Play GTA 6 A Day Early",
+   "source": "Kotaku",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-17T20:46:42.130550+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Lucia Actress Officially Revealed During 2026 Game Awards Nominations",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "dup",
+   "ts": "2026-11-17T20:46:42.130550+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "6 New GTA 6 Screenshots Released Showing Dynamic Weather",
+   "source": "Rockstar Intel",
+   "trust": "medium",
+   "status": "dup",
+   "ts": "2026-11-17T20:46:42.130550+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Has A Lot Of Different Bird Species, Here’s How Many",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-17T20:46:42.130550+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 New Zealand time trick for Xbox, PS5: How to play hours early",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-17T20:46:42.130550+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "This GTA 6-Inspired Keycap Set Will Make The Wait For A PC Version Slightly Easier",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-17T20:46:42.130550+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How To Play GTA 6 Early On Xbox Using This Trick",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-17T20:46:42.130550+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Leads TGA Nominations, And Reviews Aren’t Even Live Yet",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-17T20:46:42.130550+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "We got 8 Game Awards nominations for GTA 6 before GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-17T20:46:42.130550+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Sony Is Updating The PS5 Again, And It Might Have GTA 6 Pirates In Mind",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-17T20:46:42.130550+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6’s Lucia Actor Revealed, And It’s The Person Everyone Already Guessed",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-17T20:46:42.130550+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "The Game Awards 2026 Nominations Revealed, GTA 6 Dominates",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-17T20:46:42.130550+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6's Rumored Lucia Actor Confirmed for Cast by Game Awards Nomination",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-17T20:46:42.130550+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Birdwatchers Are Apparently Buying 'GTA 6' Just to Watch Birds. Here's How Many Are in the Game.",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-17T20:46:42.130550+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "The Game Awards 2026 Nominees Revealed, GTA 6 Up for 8 Awards",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-17T20:46:42.130550+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "The Game Awards Reveals Its Six Nominees For Game Of The Year, Including GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-17T20:46:42.130550+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI Nominated For Game of the Year, Has Most Nominations",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-17T20:46:42.130550+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "The 6 Game Of The Year Nominees At The Game Awards – Did ‘GTA 6’ Make It?",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-17T20:46:42.130550+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Британская служба здравоохранения призвала игроков беречь руки перед релизом GTA 6",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-17T20:46:42.130550+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6: все, что нужно знать о главном игровом релизе года",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-17T20:46:42.130550+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How To Play GTA 6 Early On PS5 And Xbox Series X/S",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-17T20:46:42.130550+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Во сколько выйдет GTA 6 на PS5 и Xbox в России, Турции, Индии, Украине и других странах. Точное время запуска по мск",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-17T20:46:42.130550+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Русский язык в GTA 6: будут ли субтитры и озвучка",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-17T20:46:42.130550+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Warnings, Encouragement, and Gift Cards: How Schools Are Preparing for Mass Absences on GTA 6 Launch Day",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-17T20:46:42.130550+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "87% Of GTA VI Pre-Orders Are The $100 Ultimate Edition",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-17T20:46:42.130550+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "My husband and I were serious gamers before having a baby. GTA 6 will be our biggest parenting challenge yet.",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-17T20:46:42.130550+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "The Weather Channel Has Shared New Screenshots of GTA 6's Dynamic Weather",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-17T20:46:42.130550+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Когда выйдет GTA 6 в России — точное время запуска на PS5 и Xbox Series X|S",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-17T20:46:42.130550+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 release times: How far behind the first launch will GTA 6 unlock in your time zone?",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-17T20:46:42.130550+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Россияне пожаловались, что Sony забанила аккаунты с GTA VI из Новой Зеландии",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-17T20:46:42.130550+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Global Release Times Confirmed: Here's How to Play Early Via the New Zealand Trick",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-17T20:46:42.130550+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 еще не вышла, а уже заработала 1,18 млрд долларов",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-17T20:46:42.130550+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Sony блокирует аккаунты с GTA 6 из Новой Зеландии — слух",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-17T20:46:42.130550+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Новые скриншоты GTA 6 демонстрируют погоду в Леониде",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-17T20:46:42.130550+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Sensor Tower: GTA 6 pre-orders exceed $1.4bn, with 87% for the Ultimate Edition",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-17T20:46:42.130550+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Опубликованы новые скриншоты GTA 6 — с реалистичной погодой",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-17T20:46:42.130550+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Grand Theft Auto VI is Now Set to Launch November 19, 2026",
+   "source": "Rockstar Newswire",
+   "trust": "official",
+   "status": "queued",
+   "ts": "2026-11-17T20:47:30.376468+00:00",
+   "card_title": "GTA 6 ОФИЦИАЛЬНАЯ ДАТА РЕЛИЗА"
+  },
+  {
+   "title": "Grand Theft Auto VI Collection Now at the Rockstar Store",
+   "source": "Rockstar Newswire",
+   "trust": "official",
+   "status": "queued",
+   "ts": "2026-11-17T20:47:34.440111+00:00",
+   "card_title": "КОЛЛЕКЦИЯ GTA VI В РОКСТАРЕ"
+  },
+  {
+   "title": "You can vote for GTA 6 to win GOTY before reviews are even out",
+   "source": "VGC",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-17T20:47:45.660040+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "This GTA 6-Inspired Keycap Set Will Make The Wait For A PC Version Slightly Easier",
+   "source": "GameSpot",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-17T20:47:59.932959+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How Grand Theft Auto 6 Can Be Nominated At The Game Awards Despite Not Being Out Yet",
+   "source": "Kotaku",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-17T20:48:39.731684+00:00",
+   "card_title": "GTA 6 НОМИНАНТЫ GAME AWARDS"
+  },
+  {
+   "title": "The Game Awards 2026 nominees announced, and GTA 6 leads with eight nods before it's even out",
+   "source": "Eurogamer",
+   "trust": "high",
+   "status": "published",
+   "ts": "2026-11-17T20:49:28.331371+00:00",
+   "card_title": "GTA 6 – 8 НОМИНАЦИЙ"
+  },
+  {
+   "title": "We got 8 Game Awards nominations for GTA 6 before GTA 6",
+   "source": "PC Gamer",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-17T20:49:59.122248+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "UK's Health Service Issues Warning Over GTA 6, Urges Players to Take Care of Their Hands",
+   "source": "Push Square",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-17T20:50:17.647762+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Lucia actor revealed thanks to The Game Awards Best Performance nomination, and it's exactly who everyone expected",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-17T21:05:24.984461+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Why Should I Care About GTA 6?",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-17T21:05:24.984461+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6's Game Awards Nominations Are Exactly What Everyone Predicted",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-17T21:05:24.984461+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Вы за GTA 6 или The Legend of Zelda: Ocarina of Time? Все номинанты на The Game Awards 2026",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-17T21:05:24.984461+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Погода как вид искусства: телеканал The Weather Channel показал свежие кадры Grand Theft Auto 6 с демонстрацией климатических эффектов",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-17T21:05:28.096320+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Why Should I Care About GTA 6?",
+   "source": "Kotaku",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-17T21:05:29.567231+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Nominated for Game of the Year Before PS5 Reviews Are Released",
+   "source": "Push Square",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-17T21:05:31.340384+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "INTERVIEW: GTA 4 Actor on GTA 6 Reviews: “It Needs To Succeed”",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-17T21:05:51.623624+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Erik Spoelstra Says His Kids Will Not Be Playing GTA VI as the Heat Turn Kaseya Center Into Vice City",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-17T21:06:16.902243+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6's Game Awards Nominations Are Exactly What Everyone Predicted",
+   "source": "Polygon",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-17T21:06:34.770444+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Играть в GTA 6 на Xbox Series X | S можно уже сегодня, но имеется риск блокировки",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-17T21:10:55.361519+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How’s the weather in Leonida for GTA 6? The Weather Channel has the stormy forecast",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-17T21:10:56.258845+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6: как подготовиться к релизу игры",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-17T21:10:56.991425+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "The ‘GTA VI’ Vice City court for the Heat is amazing",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-17T21:10:57.741904+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Xbox Fans Urge Caution Over New Zealand Trick For GTA 6, While Others Say It's A Non-Issue",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-17T21:18:26.448449+00:00",
+   "card_title": ""
+  }
+ ],
+ "queue": [
+  {
+   "item": {
+    "title": "Grand Theft Auto VI is Now Set to Launch November 19, 2026",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZTBtaHBIYlRBTDY1bnNwT3JxUzBWcWRrRjZEdEhwaWV5Ql9xVFZmYkZwcFhzeHI5QXN1MHZseXhlbWZzSTJfYm1MenNFLU1ZVXRhQ2dySG84MVVlTW9rVml3YzljR0JOaHJjZE9JOXFvYXlPVlFBNmgydFZGNXBWaVhvbmZTbmV0cGlqYTVKeGtpcXhYOWRGd3paQTljSUZBZ09wMHhTWXB4Nk50V2ZNTzdtRkhhdU9DLWxZ?oc=5",
+    "summary": "Grand Theft Auto VI is Now Set to Launch November 19, 2026 Rockstar Games",
+    "published": "2026-11-17T13:25:43+00:00",
+    "source": "Rockstar Newswire",
+    "site_name": "Rockstar Games",
+    "trust": "official",
+    "text": "Grand Theft Auto VI is Now Set to Launch November 19, 2026 Rockstar Games",
+    "extra": {}
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 9,
+    "post": "🚀 GTA 6 официально выйдет 19 ноября 2026\n\nRockstar подтвердил дату релиза — игра появится 19 ноября 2026 года. Это значит, что фанаты наконец узнают, когда ждать открытых улиц Vice City 2. Приготовьтесь к предзаказам и кросс‑платформенным баталиям!",
+    "card_title": "GTA 6 ОФИЦИАЛЬНАЯ ДАТА РЕЛИЗА",
+    "reason": "Официальное объявление даты релиза от Rockstar",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "model": "groq:openai/gpt-oss-120b → groq:openai/gpt-oss-120b"
+   },
+   "queued_at": "2026-11-17T20:47:30.376468+00:00",
+   "moderation": "pending",
+   "draft_msg_id": 14
+  },
+  {
+   "item": {
+    "title": "Grand Theft Auto VI Collection Now at the Rockstar Store",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPS2JXeC05cEE2VjY1MWs3X05yc2pPSkVsRjdudlZZVm5KclQ0SW94NUpSZ3F5VFF4bDZ6d0k1WFhudTN0SVA4YS1GZEdEd1IzcE9TdTVfbnZSVDg0NWtzSTR0aUtEZVhqRkNUYTdIOTZWbU8tdjZrQjRMZlhCWkJ4bmQzbUxVRzhNbWhxVkJXZnR5ZHJvdjl1eFdCa29LUE9HcUVUcThqWHF5ZWY4REFwazBnSG9VOG5HU0JoZ2x1UE9qOHVtWmJiZTd1Zk82UGpsZE16Z0g0ZlU?oc=5",
+    "summary": "Grand Theft Auto VI Collection Now at the Rockstar Store Rockstar Games",
+    "published": "2026-11-17T03:14:55+00:00",
+    "source": "Rockstar Newswire",
+    "site_name": "Rockstar Games",
+    "trust": "official",
+    "text": "Grand Theft Auto VI Collection Now at the Rockstar Store Rockstar Games",
+    "extra": {}
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "🛒 Коллекция GTA VI уже в магазине Rockstar\n\nRockstar официально запустила продажу GTA VI Collection в своём онлайн‑магазине. В наборе — базовая игра, дополнения и эксклюзивные предметы, удобно для тех, кто хочет сразу всё. Теперь можно оформить комплект без ожидания распродаж.",
+    "card_title": "КОЛЛЕКЦИЯ GTA VI В РОКСТАРЕ",
+    "reason": "Официальное объявление от Rockstar о доступности коллекции",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "model": "groq:openai/gpt-oss-120b → groq:openai/gpt-oss-120b"
+   },
+   "queued_at": "2026-11-17T20:47:34.440111+00:00",
+   "moderation": "pending",
+   "draft_msg_id": 15
+  },
+  {
+   "item": {
+    "title": "How Grand Theft Auto 6 Can Be Nominated At The Game Awards Despite Not Being Out Yet",
+    "link": "https://kotaku.com/game-awards-2026-nominations-gta-grand-theft-auto-6-lucia-2000757763",
+    "summary": "Rockstar’s open-world crime drama scored multiple nominations, including Game of the Year",
+    "published": "2026-11-17T19:30:34+00:00",
+    "source": "Kotaku",
+    "site_name": "Kotaku",
+    "trust": "high",
+    "text": "The Game Awards just announced its 2026 nominees, and while some of the names that got repeat nods are likely not a surprise to anyone, one of them might be. Grand Theft Auto 6, a game that’s not even out yet, is the most-nominated game of the show this year. As of this writing, reviews haven’t even been published. So, in a roundabout way, some have suggested the early nominations have “spoiled” the reviews and the forthcoming reception to the game.\nFor those who don’t know how the Game Awards work, the nominees and winners are submitted and voted upon by a jury of media outlets (Kotaku doesn’t participate). Outlets submit ballots, the games that get the most votes are made into nominees, and the media jury then casts votes for the winners. These votes make up 90 percent of the final result. The other 10 percent is determined by a fan vote on the official Game Awards website that begins after the nominations are announced.\nThis year’s Game Awards cutoff allowed for all games released before November 20 to be nominated, which means that Grand Theft Auto 6, out November 19, barely slid into the eligibility window. But the nomination has still confused a lot of people because host Geoff Keighley didn’t explain the logistics of the nominating process during today’s announcement stream. It’s a rare circumstance for a game to be nominated but not officially out.\nBut the existence of an explanation hasn’t stopped some folks from crying foul, calling the show “rigged,” and claiming that no one has played this game yet. Some also argue that it doesn’t make sense for the player voting to be open when the game hasn’t yet been made available to the public. Maybe the Game Awards should have held off on doing the whole nominations announcement until the weekend?\nFunnily enough, the Game Awards also confirmed something about GTA 6 that Rockstar Games hasn’t publicly confirmed yet. It revealed that Manny L. Perez is playing Lucia, one of the game’s protagonists. She was nominated in the Best Performance category, but hasn’t been able to publicly confirm that she’s in the game.\nDon’t miss the latest reviews, news and tips. Sign up for our free newsletter.\nCultureNews Fox News Weighs In On Grand Theft Auto 6, Asks If Lucia Is A Hooker ‘I'm not thinking this is a good thing for our culture and society’ By Kenneth Shepard Published November 17, 2026\nCultureNews Here Are All The Game Awards 2026 Nominees World Premiere, or whatever he says By Kenneth Shepard Published November 17, 2026\nCultureNews GTA 6 Hacker Pleads Guilty To Cybercrimes After Infamous 2022 Leak The leak in 2022 was the first time the game was seen by the public before it was officially unveiled the following year By Kenneth Shepard Published November 16, 2026\nCulture Some GTA 6 Box Copies Reported To Have Download Code Issues With No Disc To Fall Back On Shipped with no disc inside, fans who purchased a physical copy of Grand Theft Auto in advance are claiming their codes have already been used, or are missing entirely By Zack Kotzer Published November 14, 2026\nCultureNews This Isn’t A Video From Miami, It’s A GTA 6 Gameplay Clip The video fooled many online who thought it was real life By Zack Zwiezen Published November 11, 2026\nCultureNews GTA 6′s File Size Is Smaller In Australia And Japan, Sparking Censorship Concerns Grand Theft Auto VI's preload file size is slightly lighter in Australia and over 1GB smaller in Japan By Lewis Parker Published November 11, 2026",
+    "extra": {}
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "🏆 GTA 6 уже в числе номинантов Game Awards 2026\n\nИгра, которой ещё нет в продаже, получила больше всех номинаций на Game Awards 2026. Это уже ставит её в ряды претендентов на «Игру года», несмотря на отсутствие отзывов. Кроме того, в категории «Лучшая актёрская игра» упомянули Люсию, озвучку которой, по данным церемонии, исполняет Мэнни П. Пэрез.",
+    "card_title": "GTA 6 НОМИНАНТЫ GAME AWARDS",
+    "reason": "Информация о номинациях подтверждена Kotaku (high), официальных заявлений нет, но факт публичен",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "model": "groq:openai/gpt-oss-120b → groq:openai/gpt-oss-120b"
+   },
+   "queued_at": "2026-11-17T20:48:39.731684+00:00",
+   "moderation": "pending",
+   "draft_msg_id": 16
+  }
+ ],
+ "posts": [
+  "2026-11-17T21:18:29.589248+00:00"
+ ],
+ "tg_offset": 387128911,
+ "channel": {
+  "id": -1003986639147,
+  "title": "GTA 6 | Горячие новости",
+  "username": "gta6_hotnews"
+ },
+ "drafts": []
+}

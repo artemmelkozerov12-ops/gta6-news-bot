@@ -1,0 +1,394 @@
+"""LLM: статья → JSON {type, importance, post, card_title, reason, duplicate, corroborated, ...}.
+
+Всё бесплатно — цепочки моделей у разных провайдеров (config.yaml → llm):
+  triage_chain — разбор КАЖДОЙ статьи (много запросов): Groq, потом Gemini Flash-Lite;
+  writer_chain — финальный текст только для одобренных новостей (до 12 в сутки): Gemini Flash.
+Модель упёрлась в лимит / не отвечает → берём следующую в цепочке. Провайдер без ключа пропускается.
+"""
+from __future__ import annotations
+
+import json
+import os
+import random
+import re
+import time
+from dataclasses import dataclass
+
+import httpx
+
+from .fetch import Item
+from .util import log
+
+TYPES = ("confirmed", "rumor", "leak", "skip")
+FIELDS = ["type", "importance", "reason", "duplicate", "duplicate_of",
+          "corroborated", "corroborated_by", "card_title", "post"]
+
+# JSON-схема ответа (обычный JSON Schema; для Gemini переводится в его формат)
+JSON_SCHEMA = {
+    "type": "object",
+    "properties": {
+        "type": {"type": "string", "enum": list(TYPES)},
+        "importance": {"type": "integer"},
+        "reason": {"type": "string"},
+        "duplicate": {"type": "boolean"},
+        "duplicate_of": {"type": "string"},
+        "corroborated": {"type": "boolean"},
+        "corroborated_by": {"type": "string"},
+        "card_title": {"type": "string"},
+        "post": {"type": "string"},
+    },
+    "required": FIELDS,
+    "additionalProperties": False,
+}
+
+# Отдельная короткая проверка дублей: «это то же событие, что одна из уже опубликованных новостей?»
+SAME_EVENT_SCHEMA = {
+    "type": "object",
+    "properties": {"match": {"type": "integer"}, "reason": {"type": "string"}},
+    "required": ["match", "reason"],
+    "additionalProperties": False,
+}
+SAME_EVENT_PROMPT = (
+    "Ты проверяешь дубли в новостном канале. Дана новая новость и пронумерованный список уже "
+    "опубликованных. Дубль — это ТО ЖЕ САМОЕ событие или факт (например, «актрису Люсии раскрыли на "
+    "номинациях TGA» в разных пересказах разных сайтов), даже если заголовки на разных языках и "
+    "акценты чуть отличаются. Не дубль — просто похожая тема с другим событием. "
+    "Ответ JSON: match — номер дубля из списка или -1, если дубля нет; reason — одна короткая фраза."
+)
+
+
+def to_gemini_schema(schema: dict) -> dict:
+    """Обычный JSON Schema → формат схемы Gemini (типы заглавными, без additionalProperties)."""
+    props = {}
+    for k, v in schema["properties"].items():
+        props[k] = {"type": v["type"].upper(), **({"enum": v["enum"]} if "enum" in v else {})}
+    return {"type": "OBJECT", "properties": props, "required": schema["required"],
+            "propertyOrdering": list(schema["properties"])}
+
+KEY_ENV = {"gemini": "GEMINI_API_KEY", "groq": "GROQ_API_KEY"}
+
+EMOJI = re.compile(
+    "[\U0001F000-\U0001FAFF☀-➿⬀-⯿⌀-⏿〰〽㊗㊙]️?"
+)
+LATIN = re.compile(r"[A-Za-z]")
+CYRILLIC = re.compile(r"[А-Яа-яЁё]")
+
+
+class LLMQuotaExhausted(Exception):
+    """Ни одна модель цепочки не ответила (квота/перегрузка) — дальше в этом запуске не дёргаем."""
+
+
+class LLMBadAnswer(Exception):
+    """Ответ не прошёл валидацию."""
+
+
+class _Retry(Exception):
+    """Временная ошибка (429 в минуту, 5xx) — можно повторить."""
+
+    def __init__(self, msg: str, wait: float | None = None):
+        super().__init__(msg)
+        self.wait = wait
+
+
+class _Dead(Exception):
+    """Модель на этот запуск больше не трогаем (суточный лимит, нет модели, кривой запрос)."""
+
+
+@dataclass
+class Verdict:
+    type: str
+    importance: int
+    post: str
+    card_title: str
+    reason: str
+    duplicate: bool
+    corroborated: bool
+    duplicate_of: str = ""
+    corroborated_by: str = ""
+    model: str = ""
+
+    def to_dict(self) -> dict:
+        return dict(self.__dict__)
+
+    @classmethod
+    def from_dict(cls, d: dict) -> "Verdict":
+        return cls(**{k: d[k] for k in cls.__dataclass_fields__ if k in d})
+
+
+# ---------- проверка ответа ----------
+def limit_emoji(text: str, max_count: int = 2) -> str:
+    """Оставить первые max_count эмодзи, остальные убрать."""
+    seen = 0
+
+    def repl(m):
+        nonlocal seen
+        seen += 1
+        return m.group(0) if seen <= max_count else ""
+
+    text = EMOJI.sub(repl, text)
+    return re.sub(r"[ \t]{2,}", " ", re.sub(r"(?m)^[ \t]+", "", text))
+
+
+def validate(data: dict) -> Verdict:
+    if not isinstance(data, dict):
+        raise LLMBadAnswer("ответ не объект")
+    t = str(data.get("type", "")).strip().lower()
+    if t not in TYPES:
+        raise LLMBadAnswer(f"неизвестный type={t!r}")
+    try:
+        imp = int(data.get("importance"))
+    except (TypeError, ValueError):
+        raise LLMBadAnswer("importance не число")
+    if not 0 <= imp <= 10:
+        raise LLMBadAnswer(f"importance вне 0..10: {imp}")
+    post = str(data.get("post") or "").strip()
+    card = " ".join(str(data.get("card_title") or "").split()).upper()
+    if t in ("confirmed", "rumor"):
+        if not post:
+            raise LLMBadAnswer("пустой post")
+        if not card:
+            raise LLMBadAnswer("пустой card_title")
+        if len(card) > 70:
+            raise LLMBadAnswer("card_title слишком длинный")
+        mixed = [w for w in card.split() if LATIN.search(w) and CYRILLIC.search(w)]
+        if mixed:  # «LEONIADА» — латиница вперемешку с кириллицей в одном слове
+            raise LLMBadAnswer(f"card_title со смесью алфавитов: {mixed}")
+        if not CYRILLIC.search(post):
+            raise LLMBadAnswer("пост не на русском")
+        post = " ".join(w for w in post.split(" ") if not w.startswith("#"))  # без хэштегов
+        post = limit_emoji(post, 2)
+        if len(post) > 900:
+            raise LLMBadAnswer(f"post слишком длинный ({len(post)} симв.)")
+    return Verdict(
+        type=t, importance=imp, post=post, card_title=card,
+        reason=str(data.get("reason") or "").strip(),
+        duplicate=bool(data.get("duplicate")), corroborated=bool(data.get("corroborated")),
+        duplicate_of=str(data.get("duplicate_of") or "").strip(),
+        corroborated_by=str(data.get("corroborated_by") or "").strip(),
+    )
+
+
+def parse_json(text: str) -> dict:
+    text = (text or "").strip()
+    if text.startswith("```"):
+        text = re.sub(r"^```\w*\s*|\s*```$", "", text)
+    try:
+        return json.loads(text)
+    except json.JSONDecodeError:
+        m = re.search(r"\{.*\}", text, re.S)
+        if m:
+            return json.loads(m.group(0))
+        raise
+
+
+def build_user_message(item: Item, recent: list[dict], limit: int) -> str:
+    lines = [
+        f"Источник: {item.site_name} (лента: {item.source}, уровень доверия: {item.trust})",
+        f"Дата публикации (UTC): {item.published[:16].replace('T', ' ')}",
+        f"Заголовок: {item.title}",
+        f"Ссылка: {item.link}",
+        "",
+        "Текст статьи:",
+        item.text.strip() or "(полный текст недоступен — работай только по заголовку и описанию выше)",
+        "",
+        "Недавние новости за 48 часов (для полей duplicate и corroborated):",
+    ]
+    marks = {"published": "[опубликовано]", "queued": "[опубликовано]"}
+    shown = recent[-limit:]
+    if not shown:
+        lines.append("(пусто)")
+    for r in shown:
+        lines.append(f"- {marks.get(r['status'], '[видели]')} {r['title']} — {r['source']}, доверие: {r['trust']}")
+    return "\n".join(lines)
+
+
+# ---------- провайдеры ----------
+class GeminiProvider:
+    def __init__(self, key: str, timeout_s: float):
+        from google import genai
+        from google.genai import types
+
+        self.types = types
+        self.client = genai.Client(api_key=key, http_options=types.HttpOptions(timeout=int(timeout_s * 1000)))
+        self.no_thinking: set[str] = set()
+
+    def call(self, spec: dict, system: str, user: str, temperature: float, schema: dict = JSON_SCHEMA) -> str:
+        from google.genai import errors
+
+        model = spec["model"]
+        kw = {}
+        level = (spec.get("thinking_level") or "").lower()
+        if level and model not in self.no_thinking:
+            kw["thinking_config"] = self.types.ThinkingConfig(thinking_level=level)
+        if spec.get("timeout"):
+            kw["http_options"] = self.types.HttpOptions(timeout=int(float(spec["timeout"]) * 1000))
+        cfg = self.types.GenerateContentConfig(
+            system_instruction=system, response_mime_type="application/json",
+            response_schema=to_gemini_schema(schema), temperature=temperature, **kw)
+        try:
+            return self.client.models.generate_content(model=model, contents=user, config=cfg).text or ""
+        except errors.APIError as e:
+            code, msg = getattr(e, "code", 0) or 0, str(e)
+            if code == 400 and "thinking" in msg.lower() and model not in self.no_thinking:
+                self.no_thinking.add(model)
+                raise _Retry("модель не принимает thinking_level — повторяю без него", wait=0)
+            if code == 429 and "PerDay" in msg:
+                raise _Dead("суточная квота исчерпана")
+            if code == 429 or code >= 500:
+                raise _Retry(f"HTTP {code}")
+            raise _Dead(f"HTTP {code}: {msg[:150]}")
+
+
+class GroqProvider:
+    URL = "https://api.groq.com/openai/v1/chat/completions"
+
+    def __init__(self, key: str, timeout_s: float):
+        self.client = httpx.Client(timeout=timeout_s, headers={"Authorization": f"Bearer {key}"})
+
+    def call(self, spec: dict, system: str, user: str, temperature: float, schema: dict = JSON_SCHEMA) -> str:
+        body = {
+            "model": spec["model"],
+            "messages": [{"role": "system", "content": system}, {"role": "user", "content": user}],
+            "temperature": temperature,
+            "response_format": {"type": "json_schema",
+                                "json_schema": {"name": "answer", "strict": True, "schema": schema}},
+        }
+        if spec.get("reasoning_effort"):
+            body["reasoning_effort"] = spec["reasoning_effort"]
+        try:
+            r = self.client.post(self.URL, json=body)
+        except httpx.HTTPError as e:
+            raise _Retry(type(e).__name__)
+        if r.status_code == 200:
+            return r.json()["choices"][0]["message"]["content"] or ""
+        try:
+            msg = r.json().get("error", {}).get("message", "")
+        except ValueError:
+            msg = r.text[:200]
+        if r.status_code == 429:
+            if re.search(r"per day|\(RPD\)|\(TPD\)", msg, re.I):
+                raise _Dead("суточный лимит исчерпан")
+            wait = r.headers.get("retry-after")
+            raise _Retry("HTTP 429 (лимит в минуту)", wait=float(wait) if wait and wait.replace(".", "").isdigit() else None)
+        if r.status_code >= 500:
+            raise _Retry(f"HTTP {r.status_code}")
+        if r.status_code == 400 and "json" in msg.lower() and "valid" in msg.lower():
+            raise LLMBadAnswer(f"модель вернула невалидный JSON: {msg[:120]}")
+        raise _Dead(f"HTTP {r.status_code}: {msg[:150]}")
+
+
+PROVIDERS = {"gemini": GeminiProvider, "groq": GroqProvider}
+
+
+class LLM:
+    def __init__(self, cfg: dict):
+        c = cfg["llm"]
+        self.system_prompt = cfg["system_prompt"]
+        self.temperature = float(c.get("temperature", 0.6))
+        self.retries = int(cfg.get("http", {}).get("retries", 3))
+        self.backoff = float(cfg.get("http", {}).get("backoff_seconds", 2))
+        timeout = float(c.get("timeout_seconds", 90))
+        self.providers: dict = {}
+        for name, cls in PROVIDERS.items():
+            key = os.getenv(KEY_ENV[name], "").strip()
+            if key:
+                self.providers[name] = cls(key, timeout)
+        self.triage_chain = [s for s in c["triage_chain"] if s["provider"] in self.providers]
+        self.writer_chain = [s for s in c.get("writer_chain", []) if s["provider"] in self.providers]
+        missing = sorted({s["provider"] for s in c["triage_chain"] + c.get("writer_chain", [])} - set(self.providers))
+        if missing:
+            log(f"LLM: нет ключа для {', '.join(missing)} — эти модели пропускаю")
+        if not self.triage_chain:
+            raise RuntimeError("нет ни одной доступной модели для разбора (проверь GROQ_API_KEY / GEMINI_API_KEY)")
+        self.dead: set[str] = set()
+
+    def analyze(self, item: Item, recent: list[dict], recent_limit: int) -> Verdict:
+        """Шаг 1: разбор статьи."""
+        return self._ask(self.triage_chain, build_user_message(item, recent, recent_limit))
+
+    def rewrite(self, item: Item, recent: list[dict], recent_limit: int) -> Verdict | None:
+        """Шаг 2: финальный пост. None — если нет живых моделей/квоты."""
+        if not [s for s in self.writer_chain if self._id(s) not in self.dead]:
+            return None
+        try:
+            return self._ask(self.writer_chain, build_user_message(item, recent, recent_limit))
+        except (LLMQuotaExhausted, LLMBadAnswer) as e:
+            log(f"   writer: {e} — оставляю черновик шага 1")
+            return None
+
+    def same_event(self, item: Item, published: list[str]) -> tuple[int, str] | None:
+        """Это то же событие, что одна из опубликованных новостей? → (номер с нуля, причина) или None.
+        Если нейросеть недоступна — None (не мешаем публикации)."""
+        if not published:
+            return None
+        lines = [f"Новая новость: {item.title}", f"Начало текста: {item.text[:600]}", "", "Опубликовано:"]
+        lines += [f"{n}. {t}" for n, t in enumerate(published, 1)]
+
+        def check(data: dict) -> dict:
+            if not isinstance(data, dict) or not isinstance(data.get("match"), int):
+                raise LLMBadAnswer("нет match")
+            return data
+
+        try:
+            data, _ = self._ask(self.triage_chain, "\n".join(lines), system=SAME_EVENT_PROMPT,
+                                schema=SAME_EVENT_SCHEMA, validator=check, temperature=0)
+        except (LLMQuotaExhausted, LLMBadAnswer) as e:
+            log(f"   проверка дублей недоступна ({e})")
+            return None
+        n = data["match"]
+        return (n - 1, str(data.get("reason", ""))) if 1 <= n <= len(published) else None
+
+    @staticmethod
+    def _id(spec: dict) -> str:
+        return f"{spec['provider']}:{spec['model']}"
+
+    def _ask(self, chain: list[dict], user: str, system: str | None = None, schema: dict = JSON_SCHEMA,
+             validator=None, temperature: float | None = None):
+        """Пройти по цепочке моделей. По умолчанию — разбор статьи → Verdict.
+        С validator — произвольный ответ: возвращает (данные, id модели)."""
+        bad_answer: str | None = None
+        for spec in chain:
+            mid = self._id(spec)
+            if mid in self.dead:
+                continue
+            provider = self.providers[spec["provider"]]
+            retries = int(spec.get("retries", self.retries))
+            attempt = bad = 0
+            while attempt <= retries:
+                try:
+                    text = provider.call(spec, system or self.system_prompt, user,
+                                         self.temperature if temperature is None else temperature, schema)
+                    if validator:
+                        return validator(parse_json(text)), mid
+                    verdict = validate(parse_json(text))
+                    verdict.model = mid
+                    return verdict
+                except _Retry as e:
+                    if attempt >= retries:
+                        log(f"   {mid}: {e} после {retries} повторов — до следующего запуска не трогаю")
+                        self.dead.add(mid)
+                        break
+                    wait = e.wait if e.wait is not None else self.backoff * 2 ** (attempt + 1) + random.uniform(0, 1)
+                    if wait:
+                        log(f"   {mid}: {e}, повтор через {wait:.0f} с")
+                        time.sleep(min(wait, 60))
+                    attempt += 1
+                except _Dead as e:
+                    log(f"   {mid}: {e} — беру следующую модель")
+                    self.dead.add(mid)
+                    break
+                except (json.JSONDecodeError, LLMBadAnswer) as e:
+                    bad += 1
+                    if bad <= 1:
+                        log(f"   {mid}: плохой ответ ({e}), повторяю")
+                        continue
+                    bad_answer = str(e)
+                    log(f"   {mid}: снова плохой ответ — беру следующую модель")
+                    break
+                except Exception as e:  # таймаут, обрыв соединения и т.п.
+                    log(f"   {mid}: {type(e).__name__} — до следующего запуска не трогаю, беру следующую")
+                    self.dead.add(mid)
+                    break
+        if bad_answer:
+            raise LLMBadAnswer(bad_answer)
+        raise LLMQuotaExhausted("ни одна модель не ответила (лимиты/перегрузка)")

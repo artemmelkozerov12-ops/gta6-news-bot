@@ -1,0 +1,223 @@
+# ============================================================
+#  Настройки бота «GTA 6 | Горячие новости»
+#  Всё, что можно крутить без правки кода, — здесь.
+#  Секреты (токены, ключи) сюда НЕ пишем — только в переменные окружения.
+# ============================================================
+
+channel:
+  name: "GTA 6 | Горячие новости"
+  handle: "@gta6_hotnews"
+  timezone: "Europe/Kyiv"
+
+# ---------- Нейросети (всё на бесплатных тарифах) ----------
+# Модели идут цепочкой: упёрлась в лимит / не отвечает → берётся следующая.
+# Провайдер без ключа в переменных окружения просто пропускается.
+#   groq   — ключ GROQ_API_KEY   (console.groq.com, бесплатно, без карты):
+#            ~1000 запросов и 200 тыс. токенов в сутки, 8 тыс. токенов в минуту — НА КАЖДУЮ модель
+#   gemini — ключ GEMINI_API_KEY (aistudio.google.com): Flash — всего 20 запросов в сутки на модель,
+#            Flash-Lite — больше, но часто «перегружен» (503)
+llm:
+  # Шаг 1 — разбор КАЖДОЙ статьи (тип, важность, дубль, черновик поста). Много запросов.
+  triage_chain:
+    - {provider: groq,   model: "openai/gpt-oss-120b", reasoning_effort: low}
+    - {provider: groq,   model: "qwen/qwen3.8-27b"}
+    - {provider: gemini, model: "gemini-flash-lite-latest", thinking_level: low}
+    - {provider: gemini, model: "gemini-3.1-flash-lite"}
+    - {provider: groq,   model: "openai/gpt-oss-20b", reasoning_effort: low}
+  # Шаг 2 — финальный текст ТОЛЬКО для одобренных новостей (до 12 в сутки). Мало запросов.
+  # Кончились лимиты — публикуется черновик из шага 1. Пустой список [] — шаг 2 выключен.
+  # gemini-3.6-flash не берём: его использует проект ai-news-digest с тем же ключом.
+  # Gemini Flash пишет точнее всех; Qwen живее, но выдумывает детали (проверено 18.11.2026) — в авторы не берём.
+  # retries: 1 — если Gemini «перегружен», не ждём минуту, а сразу берём gpt-oss.
+  writer_chain:
+    - {provider: gemini, model: "gemini-3.5-flash", thinking_level: low, retries: 1, timeout: 40}
+    - {provider: gemini, model: "gemini-3.8-flash", thinking_level: low, retries: 1, timeout: 40}
+    - {provider: groq,   model: "openai/gpt-oss-120b", reasoning_effort: medium}
+  timeout_seconds: 90
+  temperature: 0.6
+  max_calls_per_run: 6                   # сколько статей максимум разбирать за один запуск
+  article_max_chars: 4000                # обрезаем текст статьи (меньше токенов → дольше хватает лимитов)
+  recent_titles_in_prompt: 30            # сколько недавних заголовков показывать модели для проверки дублей
+
+# ---------- Правила публикации ----------
+rules:
+  confirmed_min_importance: 6            # type=confirmed публикуем при importance >= 6
+  rumor_min_importance: 8                # type=rumor — при importance >= 8
+  never_publish_types: ["leak", "skip"]  # leak не публикуем НИКОГДА
+  # Источники с trust=rumor (Google News, Reddit) публикуются только если ту же
+  # новость дал другой источник уровня official/high/medium («второе подтверждение»).
+  # Для каких типов это требовать:
+  corroboration_required_for: ["rumor", "confirmed"]
+
+# ---------- Модерация ----------
+# Черновики приходят тебе в личку от бота с кнопками ✅ / ❌; в канал уходит только одобренное.
+# Нужен TELEGRAM_ADMIN_ID (твой chat id — бот пришлёт его в ответ на /start).
+# Канал бот находит сам, когда его добавляют туда администратором.
+# enabled: false — бот публикует сам, без подтверждения.
+moderation:
+  enabled: true
+  # Расписание (время Киева): в каждом слоте — ОДНА лучшая свежая новость на твоё решение.
+  slots:
+    - {name: утро,  emoji: "🌅", start: 9,  end: 12}
+    - {name: обед,  emoji: "🍔", start: 13, end: 16}
+    - {name: вечер, emoji: "🌙", start: 18, end: 22}
+  min_importance: 7                      # для слотов: важность от 7/10
+  max_age_hours: 8                       # для слотов: новость не старше 8 часов
+  # Срочное — присылается сразу, в любое время кроме ночи (01–07):
+  urgent:
+    min_importance: 9                    # важность 9–10/10 …
+    official_min_importance: 8           # … или официальное от Rockstar/Take-Two с важностью от 8
+    max_age_hours: 3                     # и вышло не раньше 3 часов назад
+    per_day: 2                           # не больше 2 срочных в сутки
+  max_drafts_per_day: 6                  # страховка: всего черновиков за сутки
+  # Сколько минут каждый запуск «слушает» кнопки (пост выходит почти сразу после нажатия).
+  # Должно быть меньше интервала cron в .github/workflows/bot.yml (там — каждые 15 минут).
+  listen_minutes: 11
+
+# ---------- Лимиты ----------
+limits:
+  max_posts_per_run: 1
+  max_posts_per_day: 12                  # за скользящие 24 часа
+  min_minutes_between_posts: 40
+  quiet_hours: [1, 7]                    # с 01:00 до 07:00 по Киеву не постим, копим в очередь
+  queue_max_age_hours: 12                # новость, пролежавшая в очереди дольше, считается протухшей
+  max_item_age_hours: 8                  # записи старше этого из RSS не берём вообще (только свежак)
+
+# ---------- Дедупликация ----------
+dedupe:
+  window_hours: 48                       # окно «похожая новость уже была»
+  title_similarity: 0.6                  # порог схожести заголовков (0..1), выше — дубль
+  forget_after_days: 14                  # сколько дней помнить URL и хэши заголовков
+
+# ---------- Сеть ----------
+http:
+  timeout_seconds: 20
+  retries: 3                             # повторы при 429/5xx и сетевых ошибках
+  backoff_seconds: 2                     # пауза 2, 4, 8… секунд
+  user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0 Safari/537.36"
+
+# Новость берём, только если есть одно из этого (регулярки, регистр не важен).
+# keywords_title_only: true — слово обязано быть в ЗАГОЛОВКЕ. Иначе в нейросеть уходят статьи про Zelda,
+# где GTA 6 упомянута одной строчкой в описании, и тратят бесплатные лимиты.
+keywords_title_only: true
+keywords:
+  - 'gta\s*-?\s*(6|vi)\b'
+  - 'grand\s+theft\s+auto\s*(6|vi)\b'
+  - 'rockstar'
+  - 'гта\s*-?\s*(6|vi)\b'
+  - 'рокстар'
+
+# ---------- Источники ----------
+# trust: official / high / medium / rumor
+# enabled: false — источник выключен (причина в комментарии)
+# strip_title_suffix: убрать хвост из заголовка (Google News добавляет « - Издание»)
+sources:
+  # --- official ---
+  - name: "Rockstar Newswire"
+    trust: official
+    # У Newswire нет RSS, а страница собирается JavaScript-ом — данных в HTML нет.
+    # Берём официальные заголовки через поиск Google News по сайту Rockstar.
+    url: "https://news.google.com/rss/search?q=site:rockstargames.com/newswire/article&hl=en-US&gl=US&ceid=US:en"
+    site_name: "Rockstar Games"
+    strip_title_suffix: true
+  - name: "Take-Two"
+    trust: official
+    url: "https://ir.take2games.com/rss/news-releases.xml"
+
+  # --- high ---
+  - {name: "IGN",         trust: high, url: "https://feeds.feedburner.com/ign/games-all"}
+  - {name: "GameSpot",    trust: high, url: "https://www.gamespot.com/feeds/news/"}
+  - {name: "Eurogamer",   trust: high, url: "https://www.eurogamer.net/feed/news"}
+  - {name: "VGC",         trust: high, url: "https://www.videogameschronicle.com/feed/"}
+  - {name: "PC Gamer",    trust: high, url: "https://www.pcgamer.com/rss/"}
+  - {name: "GamesRadar+", trust: high, url: "https://www.gamesradar.com/rss/"}
+  - {name: "Push Square", trust: high, url: "https://www.pushsquare.com/feeds/latest"}
+  - {name: "Pure Xbox",   trust: high, url: "https://www.purexbox.com/feeds/latest"}
+  - {name: "Kotaku",      trust: high, url: "https://kotaku.com/rss"}
+  - {name: "Polygon",     trust: high, url: "https://www.polygon.com/rss/index.xml"}
+
+  # --- medium ---
+  - {name: "Insider Gaming", trust: medium, url: "https://insider-gaming.com/feed/"}
+  - {name: "GTA BOOM",       trust: medium, url: "https://www.gtaboom.com/feed/"}
+  - {name: "Rockstar Intel", trust: medium, url: "https://www.rockstarintel.com/feed/"}
+  - {name: "StopGame",       trust: medium, url: "https://rss.stopgame.ru/rss_all.xml"}
+  - {name: "iXBT.games",     trust: medium, url: "https://ixbt.games/export/news/rss.xml"}
+  # Не отвечают из сети разработчика (таймаут соединения). Проверить из GitHub:
+  # Actions → GTA6 News Bot → Run workflow → mode: check_feeds. Если там 200 — включить.
+  - {name: "DTF",       trust: medium, url: "https://dtf.ru/rss/all",              enabled: false}
+  - {name: "Игромания", trust: medium, url: "https://www.igromania.ru/rss/all.rss", enabled: false}
+
+  # --- rumor ---
+  - name: "Google News (EN)"
+    trust: rumor
+    url: "https://news.google.com/rss/search?q=%22GTA+6%22+OR+%22GTA+VI%22&hl=en-US&gl=US&ceid=US:en"
+    strip_title_suffix: true
+  - name: "Google News (RU)"
+    trust: rumor
+    url: "https://news.google.com/rss/search?q=%22GTA+6%22&hl=ru&gl=RU&ceid=RU:ru"
+    strip_title_suffix: true
+  - name: "r/GTA6"
+    trust: rumor
+    url: "https://www.reddit.com/r/GTA6/.rss"
+    site_name: "Reddit r/GTA6"
+
+# ---------- Карточка ----------
+card:
+  width: 1280
+  height: 720
+  background: "assets/bg.png"            # если файла нет — рисуем градиент
+  title_font: "assets/fonts/RussoOne-Regular.ttf"
+  ui_font: "assets/fonts/Montserrat-Variable.ttf"
+  title_max_size: 104
+  title_min_size: 56
+  title_max_lines: 3
+  # Шаблоны из Figma (фон, плашка, подпись канала — уже на картинке; бот пишет только заголовок).
+  # Файл в Figma: «GTA 6 Hot News — Card Templates». Поменял дизайн → выгрузи слой «art» каждого
+  # шаблона в PNG 1280×720 и положи сюда с теми же именами: confirmed.png, rumor.png, official.png.
+  template:
+    dir: "assets/templates"
+    title_font: "assets/fonts/Unbounded-Variable.ttf"
+    title_variation: "Black"
+    title_x: 64                          # зона заголовка — как у слоя «title (sample)» в Figma
+    title_bottom: 636
+    title_width: 1040
+    title_max_size: 70
+    title_min_size: 44
+    title_max_lines: 3
+    line_height: 1.08
+
+# ---------- Системный промпт для Gemini ----------
+system_prompt: |
+  Ты редактор Telegram-канала «GTA 6 | Горячие новости». Пишешь по-русски для геймеров 16–30 лет.
+  Работай ТОЛЬКО по тексту статьи. Не выдумывай факты, цифры, даты, цитаты и имена.
+  Если чего-то нет в тексте, этого нет в посте.
+
+  Определи:
+  - type: "confirmed" (официально от Rockstar/Take-Two или подтверждено крупными СМИ),
+    "rumor" (слух, инсайдер, теория), "leak" (слитые видео, файлы, катсцены, взлом), "skip" (не про GTA 6, реклама, мусор).
+  - importance: 1–10, насколько это интересно фанатам прямо сейчас.
+
+  Пост (если не leak/skip):
+  - Строка 1: цепляющий заголовок до 70 символов, 1 эмодзи в начале. Без кликбейта и лжи.
+  - 2–3 коротких предложения: суть и почему это важно. Живо, можно одну лёгкую шутку, но факты серьёзно.
+  - Если rumor: первой строкой пометка «🔥 Слух, не подтверждено» и кто источник.
+  - Без хэштегов, максимум 2 эмодзи на весь пост, до 600 символов.
+  - Не копируй фразы статьи, пересказывай своими словами.
+  - Никаких призывов к пиратству, слитым материалам и личных данных людей.
+
+  Также дай card_title: 3–6 слов для картинки, ЗАГЛАВНЫМИ, по-русски.
+
+  Ответ JSON:
+  {"type": "...", "importance": 0, "post": "...", "card_title": "...", "reason": "..."}
+
+  Служебные поля (добавь их в тот же JSON):
+  - duplicate: true, только если ТО ЖЕ САМОЕ событие (не похожая тема, а именно эта новость)
+    уже есть в списке «Недавние новости» с пометкой [опубликовано]. Иначе false.
+    duplicate_of: заголовок этой записи из списка дословно, иначе пустая строка.
+  - corroborated: true, если то же событие есть в списке «Недавние новости» от источника
+    с доверием official, high или medium. Иначе false.
+    corroborated_by: заголовок этой записи из списка дословно, иначе пустая строка.
+  - reason: одна короткая фраза по-русски, почему такой type и importance.
+  Если type = leak или skip, post и card_title оставь пустыми строками.
+  Формат post: заголовок — отдельной строкой, затем пустая строка (\n\n), затем текст.
+  Для rumor: строка пометки «🔥 Слух, не подтверждено…», перенос строки, заголовок, пустая строка, текст.

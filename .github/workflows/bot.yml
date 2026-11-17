@@ -1,0 +1,74 @@
+name: GTA6 News Bot
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"   # каждые 15 минут (время UTC; GitHub иногда запускает с опозданием на 5–15 мин)
+  workflow_dispatch:          # кнопка «Run workflow» (в том числе из приложения GitHub на телефоне)
+    inputs:
+      mode:
+        description: "run — обычный запуск, check_feeds — проверить источники"
+        type: choice
+        options: [run, check_feeds]
+        default: run
+      dry_run:
+        description: "Dry-run: ничего не слать в Telegram, карточки — в артефакт"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write             # чтобы закоммитить обновлённый state.json
+
+concurrency:
+  group: gta6-news-bot        # два запуска одновременно не идут
+  cancel-in-progress: false
+
+jobs:
+  bot:
+    # В канал ничего не уходит без твоей кнопки ✅ — поэтому бот работает сразу.
+    # Выключить: Settings → Secrets and variables → Actions → Variables → BOT_OFF = true
+    if: vars.BOT_OFF != 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Проверка источников
+        if: inputs.mode == 'check_feeds'
+        run: python -m bot.check_feeds --all
+
+      - name: Запуск бота
+        if: inputs.mode != 'check_feeds'
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
+          TELEGRAM_ADMIN_ID: ${{ secrets.TELEGRAM_ADMIN_ID }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          DRY_RUN: ${{ inputs.dry_run && '1' || '0' }}
+        run: python -m bot.main
+
+      - name: Сохранить state.json в репозиторий
+        if: always() && inputs.mode != 'check_feeds'
+        run: |
+          if git diff --quiet -- state.json; then echo "state.json не изменился"; exit 0; fi
+          git config user.name "gta6-news-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add state.json
+          git commit -m "state: обновление [skip ci]"
+          for i in 1 2 3; do git pull --rebase --autostash && git push && exit 0; sleep 5; done
+          exit 1
+
+      - name: Карточки dry-run (скачать во вкладке Summary → Artifacts)
+        if: inputs.mode != 'check_feeds' && hashFiles('out/report.md') != ''
+        uses: actions/upload-artifact@v4
+        with:
+          name: dry-run-out
+          path: out/
+          retention-days: 7
