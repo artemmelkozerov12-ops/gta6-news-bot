@@ -63,7 +63,14 @@
   "2fc2a0860ab257fc": "2026-11-17T21:10:56.258845+00:00",
   "5828db1bc45a0273": "2026-11-17T21:10:56.991425+00:00",
   "00490b2fb1593d44": "2026-11-17T21:10:57.740888+00:00",
-  "2bbc9db125a2a079": "2026-11-17T21:18:26.448449+00:00"
+  "2bbc9db125a2a079": "2026-11-17T21:18:26.448449+00:00",
+  "35e80406cc496686": "2026-11-17T21:37:07.967121+00:00",
+  "ca9ae1c35ce91a62": "2026-11-17T21:37:09.929727+00:00",
+  "ae9491c20f28c112": "2026-11-17T21:37:10.698743+00:00",
+  "6597261f1a5d3a62": "2026-11-17T21:37:11.740446+00:00",
+  "f3b4fd30a125e179": "2026-11-17T21:37:12.508237+00:00",
+  "36d6a7c774cce501": "2026-11-17T21:37:14.843702+00:00",
+  "e0e1bf822209f5ff": "2026-11-17T21:37:15.366854+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -123,7 +130,14 @@
   "7264c89b29081005": "2026-11-17T21:10:56.258845+00:00",
   "8d525c31b8d0bcba": "2026-11-17T21:10:56.991425+00:00",
   "724566f5dd7bede3": "2026-11-17T21:10:57.740888+00:00",
-  "da66143bc2f84f92": "2026-11-17T21:18:26.448449+00:00"
+  "da66143bc2f84f92": "2026-11-17T21:18:26.448449+00:00",
+  "9823aee3bdabc37e": "2026-11-17T21:37:07.967121+00:00",
+  "cd659c44d9e37519": "2026-11-17T21:37:09.929727+00:00",
+  "b71ac5c4e7316201": "2026-11-17T21:37:10.698743+00:00",
+  "562c390276e49798": "2026-11-17T21:37:11.740446+00:00",
+  "29081bc8b224a434": "2026-11-17T21:37:12.508237+00:00",
+  "fbf2b43ec3654695": "2026-11-17T21:37:14.843702+00:00",
+  "f91df4ec013e3bc3": "2026-11-17T21:37:15.366854+00:00"
  },
  "recent": [
   {
@@ -637,6 +651,62 @@
    "status": "dup",
    "ts": "2026-11-17T21:18:26.448449+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GTA 6 Dominates The Game Awards 2026 Even Before Release",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-17T21:37:07.967188+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "This Is the Full Cactus Jack x Nike x GTA 6 Apparel Drop",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-17T21:37:09.929835+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Хакер слил видео GTA 6 - что известно, Rockstar Games смотреть реакцию",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-17T21:37:10.698856+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "From Asteroids to GTA 6: Why video games keep pulling us back",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-17T21:37:11.740572+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Travis Scott Has Another Nike x GTA 6 Clothing Capsule to Go Alongside His Air Force 1 Collab",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-17T21:37:12.508366+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "В GTA 6 геймеров хотят побудить к человечности",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-17T21:37:14.843813+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Как получить бесплатную копию GTA VI Ultimate Edition на Twitch",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-17T21:37:15.366975+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -734,5 +804,7 @@
   "title": "GTA 6 | Горячие новости",
   "username": "gta6_hotnews"
  },
- "drafts": []
+ "drafts": [],
+ "slots_sent": {},
+ "urgent": []
 }
