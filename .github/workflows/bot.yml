@@ -2,7 +2,7 @@ name: GTA6 News Bot
 
 on:
   schedule:
-    - cron: "*/15 * * * *"   # каждые 15 минут (время UTC; GitHub иногда запускает с опозданием на 5–15 мин)
+    - cron: "*/15 * * * *"   # просим каждые 15 мин; на деле GitHub запускает примерно раз в час — пока бот слушает, следующий ждёт в очереди
   workflow_dispatch:          # кнопка «Run workflow» (в том числе из приложения GitHub на телефоне)
     inputs:
       mode:
@@ -28,7 +28,7 @@ jobs:
     # Выключить: Settings → Secrets and variables → Actions → Variables → BOT_OFF = true
     if: vars.BOT_OFF != 'true'
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 70        # бот слушает кнопки ~50 мин, плюс сбор новостей
     steps:
       - uses: actions/checkout@v4
 
