@@ -109,7 +109,16 @@
   "95fb7ba93694920b": "2026-11-18T02:53:36.500920+00:00",
   "9f13f44b24071330": "2026-11-18T02:53:49.602838+00:00",
   "84ed10be2b98e9b0": "2026-11-18T02:53:50.146211+00:00",
-  "564a130f1db205e6": "2026-11-18T02:53:50.865181+00:00"
+  "564a130f1db205e6": "2026-11-18T02:53:50.865181+00:00",
+  "68ce13d2e588215a": "2026-11-18T03:52:00.450846+00:00",
+  "efee04030f15ed8b": "2026-11-18T03:52:00.450906+00:00",
+  "1fde3c9b970cc1f4": "2026-11-18T03:52:00.474958+00:00",
+  "62ddcc8f56f7ca3d": "2026-11-18T03:52:01.915237+00:00",
+  "27d8c8e4f7a64961": "2026-11-18T03:52:03.844819+00:00",
+  "09b9f233d7b981f8": "2026-11-18T03:52:04.898748+00:00",
+  "825dfc9adb0fa756": "2026-11-18T03:52:06.726130+00:00",
+  "2c4ac06dfcd1e9a0": "2026-11-18T03:53:00.125283+00:00",
+  "40e08cf95e5cfb56": "2026-11-18T03:53:00.867850+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -214,7 +223,16 @@
   "c803bb792d015cf3": "2026-11-18T02:53:36.500920+00:00",
   "81bbc057031b1f7b": "2026-11-18T02:53:49.602838+00:00",
   "c7b4b84955c00e72": "2026-11-18T02:53:50.146211+00:00",
-  "a9738c02461f4ebc": "2026-11-18T02:53:50.865181+00:00"
+  "a9738c02461f4ebc": "2026-11-18T02:53:50.865181+00:00",
+  "f538c0ded37c8c64": "2026-11-18T03:52:00.450846+00:00",
+  "dbd61f504e3ac7e1": "2026-11-18T03:52:00.450906+00:00",
+  "69a87f91c5839ca2": "2026-11-18T03:52:00.474958+00:00",
+  "ee2508296b1bdd81": "2026-11-18T03:52:01.915237+00:00",
+  "c3bbbf691b2d6f42": "2026-11-18T03:52:03.844819+00:00",
+  "5b7c21bc7ca091a0": "2026-11-18T03:52:04.898748+00:00",
+  "b82b5b83fbeb888a": "2026-11-18T03:52:06.726130+00:00",
+  "ad76aba219d56a8a": "2026-11-18T03:53:00.125283+00:00",
+  "39d326f2fa87fcf7": "2026-11-18T03:53:00.867850+00:00"
  },
  "recent": [
   {
@@ -1096,6 +1114,78 @@
    "status": "skipped",
    "ts": "2026-11-18T02:53:50.865288+00:00",
    "card_title": ""
+  },
+  {
+   "title": "PS5 Get's A Surprise Software Update Needed To Play GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-18T03:52:00.450887+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Requires New PS5 Firmware Update to Play",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-18T03:52:00.450929+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "The Game Awards: GTA VI Nominated for Game of the Year Before It Even Launches",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-18T03:52:00.475007+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Fact Check: FAKE Rockstar Games Letter Claims GTA VI Release Date Pushed Back To 2027",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-18T03:52:01.915362+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Номинанты TGA 2026, Battlefield'ом рулит босс Call of Duty, GTA VI станет самой «доброй» в серии…",
+   "source": "StopGame",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-18T03:52:03.844917+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "What's the weather forecast for 'GTA 6'? The Weather Channel has a preview.",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-18T03:52:04.898853+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "PS5 Gets Last-Minute Software Update That’s Required To Play GTA 6",
+   "source": "Kotaku",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-18T03:52:59.031733+00:00",
+   "card_title": "ОБЯЗАТЕЛЬНОЕ ОБНОВЛЕНИЕ PS5"
+  },
+  {
+   "title": "'GTA Online': Ahead of GTA VI release, online players prep for 'last ride'",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-18T03:53:00.125394+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Яннис Адетокунбо оценил ажиотаж вокруг GTA 6 перед необычным матчем НБА",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-18T03:53:00.867962+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -1180,6 +1270,32 @@
     "model": "groq:qwen/qwen3.8-27b"
    },
    "queued_at": "2026-11-18T00:36:57.357200+00:00"
+  },
+  {
+   "item": {
+    "title": "PS5 Gets Last-Minute Software Update That’s Required To Play GTA 6",
+    "link": "https://kotaku.com/ps5-gets-last-minute-software-update-thats-required-to-play-gta-6-2000757868",
+    "summary": "Not so fast",
+    "published": "2026-11-18T03:02:45+00:00",
+    "source": "Kotaku",
+    "site_name": "Kotaku",
+    "trust": "high",
+    "text": "Grand Theft Auto VIGTA 6PS5Rockstar Gamesupdate\nWe’re almost inside of 24 hours before the U.S. launch of Grand Theft Auto 6 and Sony has just revealed that a last-minute software update is needed to play the game on PS5. Hurry up and download it. It’s apparently a pretty big one.\n“Sony Interactive has issued a PS5 system software update that is required before playing Grand Theft Auto VI,” the PlayStation Support account tweeted at 8:25 p.m. ET on November 17. “Players should download this update prior to midnight on November 19 so that they’re ready to play on launch day, November 19.” Did you hear that? November 19. Everybody got it?\nThe regular PlayStation account responded with an eyes emoji. “Major outage incoming,” joked one person. Everyone’s praying the computer issues plaguing the rest of the economy take a brief break for GTA 6‘s release.\nSony Interactive has issued a PS5 system software update that is required before playing Grand Theft Auto VI. Players should download this update prior to midnight on November 19 so that they’re ready to play on launch day, November 19. — PlayStation Support US (@PS_Support_US) November 18, 2026\nIt’s not immediately clear what the software update is for. An extra level of security to make sure people don’t accidentally manage to unlock their pre-loaded versions of GTA 6 early? Or is it some sort of fix aimed at the recent scourge of jailbreaking and piracy on the platform?\nAnyone who hasn’t already done so will also need to download a small but not insignificant day-one patch for GTA 6. Version 01.002.001 began rolling out earlier this week. It’s only 602MB, even smaller than the 1GB update that went live back on November 13.\nGTA 6 goes live in the U.S. at midnight on November 19, but anyone who wants to jump through some hoops and tempt fate can can try to set up a New Zealand PSN account to play the game early. The global launch is staggered, and begins in the earliest time zones at 6:00 a.m. ET on November 18.\nDon’t miss the latest reviews, news and tips. Sign up for our free newsletter.\nGames Birdwatchers, Catholic Schools, And The Weather Channel: Everyone’s Hyping Up GTA 6 Release Day They're making sandwiches about video games now, I guess By Amelia Zollner Published November 17, 2026\nGames Why Should I Care About GTA 6? I've never played a GTA before, so I asked my Kotaku colleagues to explain to me what all the fuss was about Rebekah Valentine, Carolyn Petit, Zack Zwiezen Published November 17, 2026\nTips & Guides How To Play GTA 6 A Day Early Welcome to New Zealand By Ethan Gach Published November 17, 2026\nCulture Some GTA 6 Box Copies Reported To Have Download Code Issues With No Disc To Fall Back On Shipped with no disc inside, fans who purchased a physical copy of Grand Theft Auto in advance are claiming their codes have already been used, or are missing entirely By Zack Kotzer Published November 14, 2026\nCultureNews Spider-Man 2 And A Bunch Of Other Great Games Are About To Look Even Better On Base PS5 AI upscaling is finally coming to more than just Wolverine and Ghost of Yotei By Ethan Gach Published November 13, 2026\nCultureNews Take-Two CEO Says Discs Will Become Gaming’s Vinyl: ‘It’s Going To Be A Very Small Part Of The Business’ 'You spin me right 'round, baby, right 'round. Like a record, baby' By Ethan Gach Published November 12, 2026",
+    "extra": {}
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 10,
+    "post": "🎮 PS5 требует срочного обновления перед GTA 6\n\nSony выпустила обязательный патч для консоли, без которого игра не запустится. Скачайте его до полуночи 19 ноября, чтобы не пропустить старт. Плюс небольшой день-один патч для самой игры уже на подходе.",
+    "card_title": "ОБЯЗАТЕЛЬНОЕ ОБНОВЛЕНИЕ PS5",
+    "reason": "Официальное требование от Sony, критически важное для всех владельцев PS5 в день релиза.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "PS5 Get's A Surprise Software Update Needed To Play GTA 6",
+    "model": "groq:qwen/qwen3.8-27b"
+   },
+   "queued_at": "2026-11-18T03:52:59.031717+00:00"
   },
   {
    "item": {
