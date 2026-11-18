@@ -306,7 +306,16 @@
   "e1fc3706e02cf3cc": "2026-11-18T15:55:55.103897+00:00",
   "78247accecce67fd": "2026-11-18T15:55:55.987976+00:00",
   "a0183e8f171d2009": "2026-11-18T15:55:56.569291+00:00",
-  "3cd41bf82d42d82d": "2026-11-18T15:56:12.566262+00:00"
+  "3cd41bf82d42d82d": "2026-11-18T15:56:12.566262+00:00",
+  "1ccb593c48c40f2e": "2026-11-18T16:58:42.773725+00:00",
+  "3802f2f36892d5ef": "2026-11-18T16:58:42.773838+00:00",
+  "7f8064ff4386e647": "2026-11-18T16:58:42.773921+00:00",
+  "24e9da9a22935977": "2026-11-18T16:58:45.235132+00:00",
+  "8e7a31e2a5f5fe2d": "2026-11-18T16:59:07.741786+00:00",
+  "9d5dd8aeea69a271": "2026-11-18T16:59:08.785766+00:00",
+  "52de14a83d96e0f1": "2026-11-18T16:59:10.003525+00:00",
+  "696292df9adb7fd0": "2026-11-18T16:59:41.913142+00:00",
+  "c22e7c2450a7ff88": "2026-11-18T16:59:58.724605+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -605,7 +614,16 @@
   "1da867a980178251": "2026-11-18T15:55:55.103897+00:00",
   "3b5c9cb3969a8209": "2026-11-18T15:55:55.987976+00:00",
   "c4d7a380d109ac88": "2026-11-18T15:55:56.569291+00:00",
-  "061d87d31732cf7d": "2026-11-18T15:56:12.566262+00:00"
+  "061d87d31732cf7d": "2026-11-18T15:56:12.566262+00:00",
+  "86dbfca51c5c11a2": "2026-11-18T16:58:42.773725+00:00",
+  "e456d44882116c73": "2026-11-18T16:58:42.773838+00:00",
+  "3ef9a630f7824d08": "2026-11-18T16:58:42.773921+00:00",
+  "cfbd6d4149ecf214": "2026-11-18T16:58:45.235132+00:00",
+  "7fcf55279e63195f": "2026-11-18T16:59:07.741786+00:00",
+  "4067abd1d31d41f7": "2026-11-18T16:59:08.785766+00:00",
+  "13e1654b74f102dc": "2026-11-18T16:59:10.003525+00:00",
+  "46c468519a8d0841": "2026-11-18T16:59:41.913142+00:00",
+  "273db21edc10a517": "2026-11-18T16:59:58.724605+00:00"
  },
  "recent": [
   {
@@ -3063,6 +3081,78 @@
    "status": "skipped",
    "ts": "2026-11-18T15:56:12.566358+00:00",
    "card_title": ""
+  },
+  {
+   "title": "How to Complete the Tenebrae Lux Minigame Puzzle in GTA 6",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "dup",
+   "ts": "2026-11-18T16:58:42.773789+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 cheats: All the codes and how to unlock them",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-18T16:58:42.773889+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Акции Take-Two Interactive росли на 8% на фоне релиза GTA 6",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-18T16:58:42.773952+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "'We need to come together': On the eve of GTA 6, 1,600 Rockstar workers are voting on unionization",
+   "source": "PC Gamer",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-18T16:59:06.669341+00:00",
+   "card_title": "РОКСТАР ПРОФСОЮЗ В УК"
+  },
+  {
+   "title": "How GTA 6 Cheats Work and Why You Have to Finish the Whole Story First",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "queued",
+   "ts": "2026-11-18T16:59:08.263425+00:00",
+   "card_title": "ЧИТЫ ПОСЛЕ СЮЖЕТА"
+  },
+  {
+   "title": "Все чит-коды в GTA 6: как получить деньги, бронежилет и оружие",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-18T16:59:08.785876+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GAMING-GTA VI/AUSTRALIA",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-18T16:59:10.003634+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 побила рекорд Twitch: стримы игры смотрят более 3 млн зрителей",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-18T16:59:41.913286+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI Reviews Are Stellar. It’s Another Reason to Buy Take-Two Stock.",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-18T16:59:58.724714+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -3117,6 +3207,32 @@
     "model": "groq:qwen/qwen3.8-27b → gemini:gemini-3.5-flash"
    },
    "queued_at": "2026-11-18T12:44:35.932880+00:00"
+  },
+  {
+   "item": {
+    "title": "'We need to come together': On the eve of GTA 6, 1,600 Rockstar workers are voting on unionization",
+    "link": "https://www.pcgamer.com/gaming-industry/we-need-to-come-together-on-the-eve-of-gta-6-1-600-rockstar-workers-are-voting-on-unionization/",
+    "summary": "\"Our games are industry-leading. Our wages, conditions and bonuses should be too.\"",
+    "published": "2026-11-18T16:56:52+00:00",
+    "source": "PC Gamer",
+    "site_name": "PC Gamer",
+    "trust": "high",
+    "text": "As I write this, reviews for Grand Theft Auto 6 have gone live. Gamers in New Zealand have been able to play it for almost six hours, and millions of people farther west are eagerly waiting for clocks to hit midnight in their own timezones. In preorder sales alone, GTA 6 has already generated over $1.6 billion in revenue, and will undoubtedly earn millions more over its launch weekend.\nAs Rockstar is poised to set historic records with its latest release, the workers who made it could be making history of its own: Over 1,600 Rockstar employees in the UK are currently voting on whether to form a union. If it wins recognition when the ballot closes on November 26, the Rockstar Games Workers Union would be the largest in the UK games sector, organizing workers at what's arguably the games industry's highest-profile studio—a major milestone in the push for unionization in game development.\nIn an op-ed for The Guardian, Rockstar animation programmer and union representative Nestor Uriarte said the studio's possible unionization is the product of a decade-long realization that \"to tackle the industry's mounting challenges we need to come together.\" Union recognition, he said, would help safeguard the working conditions of the developers who built GTA 6 into an already record-breaking success.\n\"Behind these numbers are thousands of people whose talent and hard work make the games possible. With a recognized union, we can ensure everyone, across every department, sees a fair share of the success we contributed to,\" Uriarte said. \"Our games are industry-leading. Our wages, conditions and bonuses should be too.\"\nWorking conditions at Rockstar produced one of the early flashpoints in the advancing push for games industry unionization over recent years, sparked by employees' descriptions of its \"death march\" crunch culture and allegations of sexual assault. While the studio's taken steps towards a healthier workplace in the years since, employees have reported continuing concerns around gender pay gaps, crunch, and nebulous bonuses conditions.\nCoinciding with the union vote, a Glasgow tribunal is weighing testimonies in the ongoing legal battle around Rockstar's alleged union-busting and firing of employees who had been involved in organization. Meanwhile, just days before a launch that's projected to earn landmark revenue, Rockstar parent company 2K reportedly laid off a third of the employees at XCOM and Civilization developer Firaxis.\n\"It says a lot about the industry that even my colleagues and I, working on the biggest game of all time, are worried about getting laid off,\" Uriarte said. \"But the truth is that workers across the sector are helpless to resist the waves of redundancies crashing around us, until we get organised.\"\nFrom the creators of Edge: A free weekly videogame industry newsletter, featuring in-depth news, expert analysis and exclusive interviews\nUnion recognition, he said, would also provide developers with a greater ability to negotiate the rapid proliferation of AI in game development, which represents yet another threat of worker devaluation in an industry where one third of the labor force has been laid off in the last two years. A Rockstar union would help protect its workers' future—and the future of the studio.\n\"We’ve heard from colleagues who are nervous that the union is an outside troublemaking force that will threaten the company,\" Uriarte said. \"But we’re not outsiders. We are hundreds of studio employees who live for Rockstar, its output, and the players. We want to see it succeed.\"\nGTA 6 guide: One-stop info shopGTA 6 cars: The garage lineupGTA 6 characters: Your anti-hero castGTA 6 map: Confirmed Vice City localesGTA 6 PC release: When's it going to happen?\nLincoln has been writing about games for 12 years—unless you include the essays about procedural storytelling in Dwarf Fortress he convinced his college professors to accept. Leveraging the brainworms from a youth spent in World of Warcraft to write",
+    "extra": {}
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "🗳️ Работники Rockstar голосуют за профсоюз\n\nВ преддверии выхода GTA 6 более 1600 сотрудников Rockstar UK участвуют в голосовании за создание профсоюза. Если будет признан, это станет крупнейшим союзом в британской игровой индустрии и может изменить условия труда в студии. Для фанатов важно знать, как создаётся игра, которой они так ждут. 🔧",
+    "card_title": "РОКСТАР ПРОФСОЮЗ В УК",
+    "reason": "Подтверждённая новость от надёжного источника, важна для сообщества",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "model": "groq:openai/gpt-oss-120b → groq:openai/gpt-oss-120b"
+   },
+   "queued_at": "2026-11-18T16:59:06.669328+00:00"
   },
   {
    "item": {
@@ -3221,6 +3337,32 @@
     "model": "groq:openai/gpt-oss-120b → groq:openai/gpt-oss-120b"
    },
    "queued_at": "2026-11-18T15:55:54.447260+00:00"
+  },
+  {
+   "item": {
+    "title": "How GTA 6 Cheats Work and Why You Have to Finish the Whole Story First",
+    "link": "https://www.gtaboom.com/how-gta-6-cheats-work-and-why-you-have-to-finish-the-whole-story-first-f2f7",
+    "summary": "All 61 cheats in GTA 6 stay unusable until you finish all 91 main story missions, even if you tackle unlock challenges earlier.",
+    "published": "2026-11-18T16:51:41+00:00",
+    "source": "GTA BOOM",
+    "site_name": "GTA BOOM",
+    "trust": "medium",
+    "text": "Cheats are part of what made Grand Theft Auto a cultural icon, the tank codes and infinite ammo tricks passed around schoolyards for 25 years. Grand Theft Auto VI is no different but Rockstar Games has put them further out of reach than it ever has and we have no choice but to fill up our GTA VI cheats page slowly because of it.\nIf you've heard rumours that you cannot use a cheat in GTA VI until you have beaten the game, it's true. The game has 61 cheats covering player effects, combat, vehicle spawns, environment tweaks and screen filters. None of them are available from the jump. Instead, GTA 6's dedicated Cheats section only appears in the Progress Menu once you have cleared all 91 main story missions across Jason Duval and Lucia Caminos' campaign. You can chip away at the individual unlock challenges mid-playthrough, winning shooting-range medals, clearing activities or shaking wanted levels, but the codes stay dead until the credits roll.\nYou can't brute force your way out of this. The menu itself refuses to show up before the story is done. We know. We've tested. The catch after that is the price of using one. Turning on cheats disables saving and blocks trophies and achievements for the rest of that session, so you can't keep the progress of anything you do with a code active.\nThe change is stark when compared to Grand Theft Auto V, where button and phone codes worked in free roam within your first hour in Los Santos. A handful of vehicle spawns in that game, the Duke O'Death, the Dodo and the Kraken, needed specific unlocks, but the system itself was open from the start and turning a cheat on only switched off achievements while still letting you save. Grand Theft Auto IV, Grand Theft Auto: San Andreas, Grand Theft Auto: Vice City and Grand Theft Auto III all let you cause chaos long before the ending. No earlier entry gated the whole cheat menu and the act of using it, behind full story completion.\nThe design tracks with a studio that built this game to make you play it straight, holding its biggest toys back until the story has settled its weight. Cheats become a reward for finishing rather than a shortcut that can hollow out a first playthrough, a defensible call even though it stings the players who treat a fresh GTA as a sandbox from minute one.\nEither way, the decision, as we've already mentioned, shapes how we are covering this. Our GTA VI cheats page is live and it will grow as we unlock each code ourselves rather than by copying a day-one list scraped from everyone else.\nWe'd rather take the long way, verify every cheat and its unlock challenge in our own game and update the page as we go. The cheats are a post-game prize this time, so earning the right to document them properly is the whole point.\nDo you want cheats as a post-game reward you have to earn, or should a new GTA hand you the tank code the second you hit free roam like it always used to?\nOnce a post receives 3 qualifying Helpful marks\nI cannot decide if it is genius or if it misses the point of cheats entirely. Half the fun of a new Grand Theft Auto used to be breaking it in hour one.\nGTA 6 Just Set a Streaming Record With Over 6 Million Peak Viewers at Launch\nEvery GTA 6 Trophy and Achievement at Launch and How to Unlock Them",
+    "extra": {}
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "🎮 Читы в GTA 6 ждём после сюжета\n\nRockstar упрятала все коды: меню откроется только после прохождения 91 миссии. Включишь чит — потеряешь сохранения и трофеи в этой сессии. Так что сначала катка, потом хаос.",
+    "card_title": "ЧИТЫ ПОСЛЕ СЮЖЕТА",
+    "reason": "Подтверждённые разработчиком механики, важные для геймплея, но не критичные для новичка.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "GTA 6 cheats: All the codes and how to unlock them — Google News (EN)",
+    "model": "groq:qwen/qwen3.8-27b"
+   },
+   "queued_at": "2026-11-18T16:59:08.263411+00:00"
   }
  ],
  "posts": [
