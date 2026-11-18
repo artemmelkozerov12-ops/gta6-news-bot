@@ -291,7 +291,22 @@
   "eef53198632d76ed": "2026-11-18T14:55:55.230192+00:00",
   "0e3e1cab6a7eb9fd": "2026-11-18T14:55:56.070546+00:00",
   "1bde712696f14625": "2026-11-18T14:56:03.259421+00:00",
-  "83c44e29ec02523a": "2026-11-18T14:56:19.637297+00:00"
+  "83c44e29ec02523a": "2026-11-18T14:56:19.637297+00:00",
+  "7a32ddcea1078558": "2026-11-18T15:55:05.398873+00:00",
+  "d8121efe0c001f59": "2026-11-18T15:55:05.398957+00:00",
+  "6b04b5205c326a3c": "2026-11-18T15:55:05.399009+00:00",
+  "af4867a70c3c6dc3": "2026-11-18T15:55:05.399058+00:00",
+  "87c7057e5fba4266": "2026-11-18T15:55:05.399100+00:00",
+  "c76e22be38ae9494": "2026-11-18T15:55:05.399141+00:00",
+  "0bc74664723e5549": "2026-11-18T15:55:05.399180+00:00",
+  "314565d157aa7e08": "2026-11-18T15:55:05.399216+00:00",
+  "425df1facc0339f7": "2026-11-18T15:55:05.399249+00:00",
+  "7aab1f5118c88066": "2026-11-18T15:55:07.835018+00:00",
+  "f5eebab5c5fb4797": "2026-11-18T15:55:09.499188+00:00",
+  "e1fc3706e02cf3cc": "2026-11-18T15:55:55.103897+00:00",
+  "78247accecce67fd": "2026-11-18T15:55:55.987976+00:00",
+  "a0183e8f171d2009": "2026-11-18T15:55:56.569291+00:00",
+  "3cd41bf82d42d82d": "2026-11-18T15:56:12.566262+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -575,7 +590,22 @@
   "61d400e355dd5199": "2026-11-18T14:55:55.230192+00:00",
   "522f4c3ee0e78994": "2026-11-18T14:55:56.070546+00:00",
   "a065da3223307513": "2026-11-18T14:56:03.259421+00:00",
-  "8345706a3fa00898": "2026-11-18T14:56:19.637297+00:00"
+  "8345706a3fa00898": "2026-11-18T14:56:19.637297+00:00",
+  "1ada292c0ee4a983": "2026-11-18T15:55:05.398873+00:00",
+  "983a10108203ccdc": "2026-11-18T15:55:05.398957+00:00",
+  "07b62333eaee40c2": "2026-11-18T15:55:05.399009+00:00",
+  "b3e8f39ac43c2405": "2026-11-18T15:55:05.399058+00:00",
+  "d2b599303f830209": "2026-11-18T15:55:05.399100+00:00",
+  "e274922e33a48d53": "2026-11-18T15:55:05.399141+00:00",
+  "fff8701d6a82fe6b": "2026-11-18T15:55:05.399180+00:00",
+  "afa8d5f1e7fc8b8a": "2026-11-18T15:55:05.399216+00:00",
+  "8b0ddf5116cc03c7": "2026-11-18T15:55:05.399249+00:00",
+  "bac1b5ab46836d4b": "2026-11-18T15:55:07.835018+00:00",
+  "2d996a043f2df4a5": "2026-11-18T15:55:09.499188+00:00",
+  "1da867a980178251": "2026-11-18T15:55:55.103897+00:00",
+  "3b5c9cb3969a8209": "2026-11-18T15:55:55.987976+00:00",
+  "c4d7a380d109ac88": "2026-11-18T15:55:56.569291+00:00",
+  "061d87d31732cf7d": "2026-11-18T15:56:12.566262+00:00"
  },
  "recent": [
   {
@@ -2054,7 +2084,7 @@
    "title": "We Tested How Long It Takes To Run Out Of Gas In GTA 6",
    "source": "Kotaku",
    "trust": "high",
-   "status": "queued",
+   "status": "published",
    "ts": "2026-11-18T11:45:15.499799+00:00",
    "card_title": "ТОПЛИВО В GTA 6"
   },
@@ -2913,35 +2943,129 @@
    "status": "skipped",
    "ts": "2026-11-18T14:56:19.637403+00:00",
    "card_title": ""
+  },
+  {
+   "title": "How to collect your GTA 6 Ultimate Edition bonuses",
+   "source": "PC Gamer",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-18T15:55:05.398927+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "All GTA 6 Challenges & How To Do Them",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "dup",
+   "ts": "2026-11-18T15:55:05.398985+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Rockstar President Sam Houser Issues Rare Statement to Celebrate GTA 6 Launch",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-18T15:55:05.399037+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI: The biggest launch in the history of entertainment",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-18T15:55:05.399080+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Three Big Takeaways From Digital Foundry's GTA 6 Analysis For Xbox Series X|S",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-18T15:55:05.399123+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "McDonald’s Knows You Won’t Want To Pause GTA 6 To Make Dinner",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-18T15:55:05.399162+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Sets New Record As Highest-Rated Video Game of All Time",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-18T15:55:05.399198+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Really Is Better On PS5 Than Xbox",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-18T15:55:05.399232+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Is Apparently Everything Rockstar Promised And Then Some",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-18T15:55:05.399266+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "В Госдуме предложил заставлять россиян отрабатывать больничные, взятые ради GTA VI",
+   "source": "iXBT.games",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-18T15:55:07.835118+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Just Set a Streaming Record With Over 6 Million Peak Viewers at Launch",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "queued",
+   "ts": "2026-11-18T15:55:54.447274+00:00",
+   "card_title": "ГТА 6 РЕКОРД ПОКЛАДОВ"
+  },
+  {
+   "title": "Rockstar hints massive 'GTA 6' map saved room for future content",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-18T15:55:55.104017+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 breaks the all-time livestream viewer record hours before it's available to play for most of the world",
+   "source": "Eurogamer",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-18T15:55:55.988112+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Gamers take sick days, plan schedules ahead of GTA 6 release",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-18T15:55:56.569407+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "10 Things To Do Before Leaving Your Safehouse in GTA 6",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-18T15:56:12.566358+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
-  {
-   "item": {
-    "title": "We Tested How Long It Takes To Run Out Of Gas In GTA 6",
-    "link": "https://kotaku.com/we-tested-how-long-it-takes-to-run-out-of-gas-in-gta-6-2000755601",
-    "summary": "And also tested how long electric cars can go between charges",
-    "published": "2026-11-18T11:30:29+00:00",
-    "source": "Kotaku",
-    "site_name": "Kotaku",
-    "trust": "high",
-    "text": "Grand Theft Auto 6 is a massive game! It takes about an hour and a half to sprint across the map. But most players will be driving around Vice City, and this time around, GTA 6 demands that you monitor your gas tank while cruising the streets and highways of Leonida. So how long before you need to fill up in GTA 6, and does it get annoying?\nTo test this out, I booted up Grand Theft Auto 6 and hopped into two different cars. First, I tested a basic and somewhat older pickup truck. I found a loop of highway near the southern part of Vice City and filled up my gas tank at a local station. Then, the journey began. For this test, I drove around like I normally do in GTA 6 when not being shot at or racing someone. I also tried really hard not to stop, but traffic is traffic, and sometimes I had to slow down or completely brake. I wanted to avoid damaging the engines of any vehicles during testing so as not to toss in yet another variable.\nIt took 29 minutes and 8 seconds for the pickup to run out of gas completely.\nTo provide some context: You can drive across the entire map of GTA 6 via its highways and with a lead foot in under 15 minutes. So, in theory, I think I could drive across the map twice before running out of gas.\nFor my next test, I swapped out the older pickup truck for a Banshee, a fast-as-heck sports car that has been a part of the franchise since at least GTA 3. I loaded up the gas tank and hit the same highway loop as before. I went faster in the Banshee, of course, but still avoided crashing and stopping as much as possible. I may have had to restart the test at one point when I slammed into a minivan and basically blew up my engine. Science is dangerous.\nIn GTA 6, while driving a Banshee sports car, it took 18 minutes and 31 seconds to drain my tank entirely.\nSo, assuming I don’t hit a minivan again, that’s enough time to drive across the entire map via highways and still have some fuel left over to get to a nearby station and fill up.\nFinally, I grabbed an electric car modeled after a Tesla 3, found a nearby charging station, got the battery juiced up, and hit that same highway loop one more time. Luckily, I didn’t crash at all during this test, and after following the same rules as before, it took 20 minutes and 23 seconds.\nIs the fuel tank system annoying in GTA 6?\nPersonally, across over 130 hours of Grand Theft Auto 6, I only ran out of gas once, not counting these tests. I ran out of battery once as well. In both cases they were stolen cars that didn’t have full tanks and I was too busy dodging cops to notice I was running out of go-go juice or zoom liquid. I also had a few moments where I got low on gas during getaways and had to change plans or vehicles to accommodate.\nBut for the most part, I forgot vehicles needed fuel when playing GTA 6. And the game does a good job of letting you know when you hit halfway and when you’re nearing empty, even marking the nearest station on the compass to help you get fueled up ASAP. There are also a lot of gas stations around, so I was rarely too far away to reach one. Also, if I was driving a personal vehicle that I owned, I could just use the in-game Scooter Bros app to request another one of my vehicles. And when, a bit later, I summoned back the car in which I’d run low on gas via that same app, it would have some extra fuel in the tank. Nifty.\nSo I never found the fuel tank (or battery management) annoying at all. In the early hours, when money is tight and car options are limited, it proved a bit more of a hassle. But later on, it stopped being a problem. If anything, it added a fun variable that could derail a robbery if I wasn’t being careful or cause me to ditch a stolen car for another option. I doubt it will cause most players too much annoyance.\nDon’t miss the latest reviews, news and tips. Sign up for our free newsletter.\nCultureNews It Took Me Over Three Hours To Walk Across GTA 6′s Massive Map It was a dangerous and wild journey that was almost cut short b",
-    "extra": {}
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "⛽️ Сколько проедет машина на одном баке в GTA 6\n\nЖурналисты протестировали механику топлива. Пикапу полного бака хватило на 29 минут езды, спорткару Banshee — на 18 минут, а электрокару — на 20 минут. На одном баке можно легко пересечь всю карту дважды, а заправки встречаются часто и отмечаются на компасе.",
-    "card_title": "ТОПЛИВО В GTA 6",
-    "reason": "Подтвержденная механика расхода топлива в GTA 6 от крупного издания.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "model": "gemini:gemini-3.1-flash-lite → gemini:gemini-3.5-flash"
-   },
-   "queued_at": "2026-11-18T11:45:15.499788+00:00"
-  },
   {
    "item": {
     "title": "GTA 6′s Map Contains Areas That Could Be Used In The ‘Future,’ Says Rockstar",
@@ -3071,15 +3195,42 @@
     "model": "gemini:gemini-3.1-flash-lite"
    },
    "queued_at": "2026-11-18T11:47:34.918281+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA 6 Just Set a Streaming Record With Over 6 Million Peak Viewers at Launch",
+    "link": "https://www.gtaboom.com/gta-6-just-set-a-streaming-record-with-over-6-million-peak-viewers-at-launch-0dd9",
+    "summary": "StreamsCharts puts GTA VI's preliminary streaming launch peak at 6.38 million concurrent viewers, versus the previous 1.74 million record.",
+    "published": "2026-11-18T15:45:54+00:00",
+    "source": "GTA BOOM",
+    "site_name": "GTA BOOM",
+    "trust": "medium",
+    "text": "Grand Theft Auto VI broke a record before most of the world could even press start. As the first regions came online, particularly the uber proud New Zealand, millions flooded onto Twitch, YouTube and Kick to watch the lucky few playing GTA VI and the live-streaming analytics firm StreamsCharts says Rockstar Games just posted the biggest streaming launch the medium has seen and it's not even close.\nThe numbers moved fast and they're still growing as we speak. StreamsCharts first clocked a peak above 5.3 million concurrent viewers a few minutes into the game's release then updated to a preliminary 6.38 million a few hours later, with the count still rising as GTA VI unlocked for the rest of the world.\nFor scale, that blows past the previous benchmark, Valorant's closed beta, which drew around 1.74 million back in 2020. It also tops GTA VI's own gameplay reveal, the Grand Theft Auto VI: An Extended Look that pulled roughly 3.97 million concurrent viewers in August and became Netflix's most-watched title of its week.\nThe spread across platforms is its own story, laid out in StreamsCharts' launch report. All of this is preliminary analytics data rather than an official Rockstar figure and it counts people watching, not playing or buying.\nStreamsCharts' combined figure sits at a preliminary 6.38 million and counting.\nGTA VI is console-only with no PC version at launch, which may help explain why some viewers are watching rather than playing. Thirteen years of waiting met a release window marked by a viewership peak no game has come close to.\nIt is one more record in a launch snapping them off by the hour. The same game just tied the highest Metacritic score ever recorded and it also broke European internet-traffic records before it even launched after already being on track for the biggest launch in history on the commercial side, with a 24-hour creator livestream feeding the stream counts further.\nOff-screen or on, the game is rewriting the record book.\nThe streaming peak could climb as the United States and the rest of the map hit midnight, so the final figure is not even set. The point is that it was never a contest. Viewers are tuning in to GTA VI at a scale the industry has never recorded for a game launch.\nWere you one of the millions watching GTA 6 streams before you could play, or holding out to go into Leonida completely blind?\nOnce a post receives 3 qualifying Helpful marks\nSix million people watching a game most of them cannot even play yet is the most GTA VI stat of all.\nEvery GTA 6 Trophy and Achievement at Launch and How to Unlock ThemGTA 6 News\nGTA 6 Metacritic Score Reaches 99 and Ties the All Time RecordGTA 6 News\nGTA 6 Discord Spoiler Rules Require Tags and Forbid Deliberate TrollingGTA 6 News\nKia Shine Describes GTA 6 Voice Recording and Locked Studio Sessions\nNew Zealand Tourism Video Brags About Its Earlier GTA 6 Unlock\nMiami Heat Players Receive Custom GTA 6 PS5 Pro Consoles From Rockstar\nGTA 6 Requires a Mandatory PS5 System Update Before Launch",
+    "extra": {}
+   },
+   "verdict": {
+    "type": "rumor",
+    "importance": 8,
+    "post": "🔥 Слух, не подтверждено (источник: GTA BOOM)\n🚀 GTA 6 побил рекорд просмотров: более 6,3 млн зрителей\n\nПо данным аналитической фирмы StreamsCharts, запуск GTA VI собрал более 6,38 млн одновременных зрителей на Twitch, YouTube и Kick. Это почти в три раза больше предыдущего рекорда и показывает, насколько игра привлекает внимание, даже пока большинство игроков ещё не могут поиграть. Такой масштабный интерес поднимает планку для всех будущих игровых релизов .",
+    "card_title": "ГТА 6 РЕКОРД ПОКЛАДОВ",
+    "reason": "слух о рекордных просмотрах, источник со средним уровнем доверия",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "model": "groq:openai/gpt-oss-120b → groq:openai/gpt-oss-120b"
+   },
+   "queued_at": "2026-11-18T15:55:54.447260+00:00"
   }
  ],
  "posts": [
   "2026-11-17T21:18:29.589248+00:00",
   "2026-11-18T05:01:27.628712+00:00",
   "2026-11-18T10:43:33.044944+00:00",
-  "2026-11-18T11:24:23.175249+00:00"
+  "2026-11-18T11:24:23.175249+00:00",
+  "2026-11-18T16:08:18.621470+00:00"
  ],
- "tg_offset": 387128942,
+ "tg_offset": 387128944,
  "channel": {
   "id": -1003986639147,
   "title": "GTA 6 | Горячие новости",
@@ -3088,11 +3239,13 @@
  "drafts": [
   "2026-11-18T05:00:10.556531+00:00",
   "2026-11-18T07:13:25.212281+00:00",
-  "2026-11-18T11:00:18.299138+00:00"
+  "2026-11-18T11:00:18.299138+00:00",
+  "2026-11-18T16:00:26.651491+00:00"
  ],
  "slots_sent": {
   "2026-11-18:утро": "2026-11-18T07:13:25.212391+00:00",
-  "2026-11-18:обед": "2026-11-18T11:00:18.299237+00:00"
+  "2026-11-18:обед": "2026-11-18T11:00:18.299237+00:00",
+  "2026-11-18:вечер": "2026-11-18T16:00:26.651580+00:00"
  },
  "urgent": [
   "2026-11-18T05:00:10.556622+00:00"
