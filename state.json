@@ -409,7 +409,22 @@
   "096c4334c4205710": "2026-11-18T20:06:08.980650+00:00",
   "c3e3062e7b3d8427": "2026-11-18T20:06:10.246825+00:00",
   "240016ff85995fe3": "2026-11-18T20:06:11.325289+00:00",
-  "31b92d0a44cc490a": "2026-11-18T20:07:05.457055+00:00"
+  "31b92d0a44cc490a": "2026-11-18T20:07:05.457055+00:00",
+  "60a303a38626a172": "2026-11-18T20:50:01.177209+00:00",
+  "809b8f3f2e21926e": "2026-11-18T20:50:01.177285+00:00",
+  "445dbe6215f8fb96": "2026-11-18T20:50:01.177345+00:00",
+  "f649eb9e7c8abe92": "2026-11-18T20:50:01.177400+00:00",
+  "da320200309303ee": "2026-11-18T20:50:01.177447+00:00",
+  "db5a3175beb4526b": "2026-11-18T20:50:01.177488+00:00",
+  "c782b9088b856560": "2026-11-18T20:50:01.177527+00:00",
+  "58857c731b1980c8": "2026-11-18T20:50:01.177567+00:00",
+  "08f0fc3e37b46898": "2026-11-18T20:50:01.177606+00:00",
+  "2773f1105a5ed94d": "2026-11-18T20:50:03.036645+00:00",
+  "5a87db26f5b07209": "2026-11-18T20:50:04.039810+00:00",
+  "df984de3870ba113": "2026-11-18T20:52:14.370432+00:00",
+  "70db13b38f36fb84": "2026-11-18T20:52:44.433367+00:00",
+  "2364b1451712c21e": "2026-11-18T20:53:15.895719+00:00",
+  "a9bbabe0a09a4b37": "2026-11-18T20:53:16.506128+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -774,7 +789,22 @@
   "38d2707ac1f77fdb": "2026-11-18T19:56:01.929135+00:00",
   "b544e7920212fd49": "2026-11-18T19:56:02.852837+00:00",
   "c059d2d6862545af": "2026-11-18T19:56:03.654107+00:00",
-  "1ee428f3031fc693": "2026-11-18T19:56:16.948436+00:00"
+  "1ee428f3031fc693": "2026-11-18T19:56:16.948436+00:00",
+  "c4388ab5d6f46682": "2026-11-18T20:50:01.177209+00:00",
+  "e3d45cc0cdf754e3": "2026-11-18T20:50:01.177285+00:00",
+  "ddc9a1403988ff05": "2026-11-18T20:50:01.177345+00:00",
+  "ae94d9df5887f254": "2026-11-18T20:50:01.177400+00:00",
+  "31422fe96d7b6b6e": "2026-11-18T20:50:01.177447+00:00",
+  "910ee84ffad035ee": "2026-11-18T20:50:01.177488+00:00",
+  "0bc27281a6ce0001": "2026-11-18T20:50:01.177527+00:00",
+  "eeaa163b2cbda6e7": "2026-11-18T20:50:01.177567+00:00",
+  "214f7f4b9ec3fe9c": "2026-11-18T20:50:01.177606+00:00",
+  "dd674dcfeb19ae66": "2026-11-18T20:50:03.036645+00:00",
+  "eb4ccc66c9cd526a": "2026-11-18T20:50:04.039810+00:00",
+  "c915c12d6dfdd76d": "2026-11-18T20:52:14.370432+00:00",
+  "31385c22bba06b70": "2026-11-18T20:52:44.433367+00:00",
+  "97f28b9fa0076828": "2026-11-18T20:53:15.895719+00:00",
+  "148a1ef977cdbccb": "2026-11-18T20:53:16.506128+00:00"
  },
  "recent": [
   {
@@ -3760,6 +3790,126 @@
    "status": "skipped",
    "ts": "2026-11-18T19:56:16.948565+00:00",
    "card_title": ""
+  },
+  {
+   "title": "How to get a snap gun in GTA 6",
+   "source": "PC Gamer",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-18T20:50:01.177261+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "I finished GTA 6's main story: Ask me anything! (except for major spoilers)",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-18T20:50:01.177318+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How Xbox’s Streaming Deal For GTA 6 Could Expand Its Marketshare By 30%",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-18T20:50:01.177374+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "PlayStation Users Report Outages Hours Before ‘GTA 6’ Launch",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-18T20:50:01.177424+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6's Completely Unrealistic Mountains Had to Be in the Game, Rockstar Says",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-18T20:50:01.177468+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Has A Hilarious Riff On Easter Eggs",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-18T20:50:01.177507+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Bigfoot Is Back In GTA 6, And Apparently He Smells Revolting",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-18T20:50:01.177546+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 guide: A full walkthrough of all our tips and advice on Vice City systems",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-18T20:50:01.177585+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "100 часов GTA 6 от VK Play: новая гостья — стример и косплеер Леи Радна",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-18T20:50:01.177628+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Nine days before launch, GTA VI preloads set Virgin Media O2’s daily data record",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-18T20:50:03.036763+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6's Japanese version only partially obscures male nudity by putting Jason in a thong, seemingly due to regional censorship",
+   "source": "Eurogamer",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-18T20:52:12.671399+00:00",
+   "card_title": "ЯПОНСКАЯ ЦЕНЗУРА В GTA 6"
+  },
+  {
+   "title": "Конор Макгрегор объявил для своих работников выходной из-за выхода GTA 6",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-18T20:52:14.370546+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI physical release ditches discs",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-18T20:52:44.433473+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "‘GTA 6’ Rejected Hollywood. ‘Red Dead Redemption’ is in Play — for $100M+",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-18T20:53:15.895842+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Is Out: Wells Fargo Sees 65M Sales By March - Take-Two Interactive (NASDAQ:TTWO)",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-18T20:53:16.506251+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -3892,6 +4042,32 @@
     "model": "groq:openai/gpt-oss-120b → groq:openai/gpt-oss-120b"
    },
    "queued_at": "2026-11-18T18:53:50.118183+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA 6's Japanese version only partially obscures male nudity by putting Jason in a thong, seemingly due to regional censorship",
+    "link": "https://www.eurogamer.net/gta-6-japanese-jason-thong-regional-censorship",
+    "summary": "GTA 6 is slowly rolling out across the globe. The crime epic's already available to play in countries such as South Korea and New Zealand , but Japanese players are finding out that male nudity is only partially obscured by a thin black thong that covers Jason and the other men in Leonida. Read more",
+    "published": "2026-11-18T20:40:20+00:00",
+    "source": "Eurogamer",
+    "site_name": "Eurogamer",
+    "trust": "high",
+    "text": "GTA 6 is slowly rolling out across the globe. The crime epic's already available to play in countries such as South Korea and New Zealand, but Japanese players are finding out that male nudity is only partially obscured by a thin black thong that covers Jason and the other men in Leonida.\nLast week, we reported that GTA 6 might have been censored in Japan since the region's age rating board lacked any mention of the \"sexual content\" we knew it would include elsewhere. The Japanese version's install size was also notably smaller than other places in the world.\nNow that GTA 6 is finally in the hands of players, we have a better idea of what was left out and/or covered up in Japan. Multiple social media accounts playing the game in Japan have reported that when you take main man Jason into the shower, his butt is only kinda covered up by a thong. At least in the version I played, Jason is usually fully naked while washing up.\nGTA 6 censorship on the Japanese version is kinda funny lol https://t.co/u8v0f0cqz0— Genki✨ (@Genki_JPN) November 18, 2026\nエロシーンきた！ #GTA6 #GTAVI https://t.co/RKOEtkONlJ— そら@鼻の治療中 (@SuperLegendsola) November 18, 2026\nAnother social media post spots a different male NPC wearing a very similar black thong during a cutscene that normally has him laid bare in international versions of the game. I'm guessing all instances of male nudity might be obscured similarly in GTA 6's Japanese version.\nGTA 6 is far from the only game that's dealt with regional censorship in Japan, however. Baldur's Gate 3 and The Witcher 3 had their most salacious scenes censored in some manner, for example. And even GTA 5 had to remove its infamous torture scene for approval in Japan. It's quite possible GTA 6 has had to cover more than just the backside of nude men to go on sale in the country, although those regional differences won't become entirely clear until players get further through the story.\nAhead of the game's full launch, GTA 6 managed to break Reddit and viewership records on platforms like YouTube and Twitch. Interesting tidbits are also flying out on release day, like the fact you can't replay missions or use cheats until finishing the story. Our Chris Tapsell still had a cracking time with the epic open worlder. \"A game of opposites and awe, minute detail and impossible scale, Rockstar pushes back the horizon of video games once again with GTA 6. An irreducible mix of silliness, intimacy, grand ideas and rock 'n' roll action - and a load more after that,\" he wrote in Eurogamer's GTA 6 review.",
+    "extra": {}
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "🇯🇵 Японская версия GTA 6 «заправила» мужскую наготу черным стринги‑тхоном\n\nВ Японии вместо полного ню в душевых у Джейсона и прочих парней теперь тонкий чёрный стринг. Забавно, но явно цензура от местных регуляторов. 🤷‍♂️\n\n❤️ — Окей, пусть хоть чуть‑чуть\n— Слишком банально",
+    "card_title": "ЯПОНСКАЯ ЦЕНЗУРА В GTA 6",
+    "reason": "Подтверждённый материал от Eurogamer, интересен из‑за региональных отличий",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "model": "groq:openai/gpt-oss-120b"
+   },
+   "queued_at": "2026-11-18T20:52:12.671383+00:00"
   },
   {
    "item": {
@@ -4081,9 +4257,10 @@
   "2026-11-18T05:01:27.628712+00:00",
   "2026-11-18T10:43:33.044944+00:00",
   "2026-11-18T11:24:23.175249+00:00",
-  "2026-11-18T16:08:18.621470+00:00"
+  "2026-11-18T16:08:18.621470+00:00",
+  "2026-11-18T21:05:33.292788+00:00"
  ],
- "tg_offset": 387128944,
+ "tg_offset": 387128945,
  "channel": {
   "id": -1003986639147,
   "title": "GTA 6 | Горячие новости",
@@ -4103,36 +4280,7 @@
  "urgent": [
   "2026-11-18T05:00:10.556622+00:00"
  ],
- "clips": [
-  {
-   "clip": {
-    "source": "twitch",
-    "url": "https://www.twitch.tv/ohnepixel/clip/PeacefulGlutenFreeVultureShazBotstix-KgHnVnwwgZOeO6Xs",
-    "title": "ohnePixel tries out the strip club's private dance in GTA 6",
-    "author": "ohnePixel",
-    "views": 40373,
-    "duration": 60.0,
-    "created": "2026-11-18T18:14:09+00:00",
-    "lang": "en",
-    "description": ""
-   },
-   "caption": "🔞 В GTA 6 завезли настолько детальные стрип-клубы, что это выглядит как некст-ген уровень. Разработчики явно не теряли времени зря!",
-   "interest": 9,
-   "spoiler": false,
-   "nsfw": true,
-   "watched": true,
-   "model": "gemini:gemini-3.1-flash-lite",
-   "media": {
-    "width": null,
-    "height": 720,
-    "duration": 60
-   },
-   "queued_at": "2026-11-18T20:08:18.154722+00:00",
-   "file_id": "BAACAgIAAxkDAAMYav4Fs3qt9iTTQVveVUaVc6HouckAAm6tAAKKH_BLz2gdsGiz9tQ9BA",
-   "moderation": "pending",
-   "draft_msg_id": 24
-  }
- ],
+ "clips": [],
  "clip_drafts": [
   "2026-11-18T20:08:19.941420+00:00"
  ]
