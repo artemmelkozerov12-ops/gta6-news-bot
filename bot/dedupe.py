@@ -66,6 +66,8 @@ class State:
         self.drafts: list[str] = data.get("drafts", [])       # когда слали черновики (лимит в сутки)
         self.slots_sent: dict = data.get("slots_sent", {})    # {"2026-11-19:утро": iso} — слот закрыт
         self.urgent: list[str] = data.get("urgent", [])       # когда слали срочные черновики
+        self.clips: list[dict] = data.get("clips", [])        # видео-черновики: ждут ✅ / одобрены
+        self.clip_drafts: list[str] = data.get("clip_drafts", [])  # когда слали видео-черновики
 
     # ----- файл -----
     @classmethod
@@ -78,7 +80,8 @@ class State:
         data = {"seen": self.seen, "titles": self.titles, "recent": self.recent,
                 "queue": self.queue, "posts": self.posts, "tg_offset": self.tg_offset,
                 "channel": self.channel, "drafts": self.drafts,
-                "slots_sent": self.slots_sent, "urgent": self.urgent}
+                "slots_sent": self.slots_sent, "urgent": self.urgent,
+                "clips": self.clips, "clip_drafts": self.clip_drafts}
         path.write_text(json.dumps(data, ensure_ascii=False, indent=1), encoding="utf-8")
 
     def prune(self, cfg: dict) -> None:
@@ -92,6 +95,7 @@ class State:
         self.posts = [p for p in self.posts if p >= day_ago]
         self.drafts = [p for p in self.drafts if p >= day_ago]
         self.urgent = [p for p in self.urgent if p >= day_ago]
+        self.clip_drafts = [p for p in self.clip_drafts if p >= day_ago]
         self.slots_sent = {k: v for k, v in self.slots_sent.items() if v >= day_ago}
 
     # ----- дубли -----

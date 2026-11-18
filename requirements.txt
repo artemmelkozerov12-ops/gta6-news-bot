@@ -4,3 +4,4 @@ google-genai>=1.20
 Pillow>=10.4
 PyYAML>=6.0
 tzdata>=2024.1  # база часовых поясов для Windows (на Linux не мешает)
+yt-dlp>=2026.10.21  # скачивание клипов Twitch/YouTube (ffmpeg в GitHub Actions уже есть)

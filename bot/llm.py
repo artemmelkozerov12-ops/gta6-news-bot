@@ -57,6 +57,22 @@ SAME_EVENT_PROMPT = (
 )
 
 
+# Подпись к видео-клипу (Gemini смотрит само видео)
+CLIP_SCHEMA = {
+    "type": "object",
+    "properties": {
+        "about_gta6": {"type": "boolean"},
+        "interest": {"type": "integer"},
+        "spoiler": {"type": "boolean"},
+        "nsfw": {"type": "boolean"},
+        "caption": {"type": "string"},
+        "reason": {"type": "string"},
+    },
+    "required": ["about_gta6", "interest", "spoiler", "nsfw", "caption", "reason"],
+    "additionalProperties": False,
+}
+
+
 def to_gemini_schema(schema: dict) -> dict:
     """Обычный JSON Schema → формат схемы Gemini (типы заглавными, без additionalProperties)."""
     props = {}
@@ -70,6 +86,7 @@ KEY_ENV = {"gemini": "GEMINI_API_KEY", "groq": "GROQ_API_KEY"}
 EMOJI = re.compile(
     "[\U0001F000-\U0001FAFF☀-➿⬀-⯿⌀-⏿〰〽㊗㊙]️?"
 )
+MAX_EMOJI = 5  # в посте: 1–2 по тексту + голосование реакциями «❤️ — … / 👎 — …»
 LATIN = re.compile(r"[A-Za-z]")
 CYRILLIC = re.compile(r"[А-Яа-яЁё]")
 
@@ -156,7 +173,7 @@ def validate(data: dict) -> Verdict:
         if not CYRILLIC.search(post):
             raise LLMBadAnswer("пост не на русском")
         post = " ".join(w for w in post.split(" ") if not w.startswith("#"))  # без хэштегов
-        post = limit_emoji(post, 2)
+        post = limit_emoji(post, MAX_EMOJI)
         if len(post) > 900:
             raise LLMBadAnswer(f"post слишком длинный ({len(post)} симв.)")
     return Verdict(
@@ -212,7 +229,8 @@ class GeminiProvider:
         self.client = genai.Client(api_key=key, http_options=types.HttpOptions(timeout=int(timeout_s * 1000)))
         self.no_thinking: set[str] = set()
 
-    def call(self, spec: dict, system: str, user: str, temperature: float, schema: dict = JSON_SCHEMA) -> str:
+    def call(self, spec: dict, system: str, user, temperature: float, schema: dict = JSON_SCHEMA) -> str:
+        """user — текст или список частей (например, [видео, текст])."""
         from google.genai import errors
 
         model = spec["model"]
@@ -295,6 +313,8 @@ class LLM:
                 self.providers[name] = cls(key, timeout)
         self.triage_chain = [s for s in c["triage_chain"] if s["provider"] in self.providers]
         self.writer_chain = [s for s in c.get("writer_chain", []) if s["provider"] in self.providers]
+        # видео понимает только Gemini
+        self.video_chain = [s for s in c.get("video_chain", []) if s["provider"] == "gemini" and "gemini" in self.providers]
         missing = sorted({s["provider"] for s in c["triage_chain"] + c.get("writer_chain", [])} - set(self.providers))
         if missing:
             log(f"LLM: нет ключа для {', '.join(missing)} — эти модели пропускаю")
@@ -337,6 +357,24 @@ class LLM:
             return None
         n = data["match"]
         return (n - 1, str(data.get("reason", ""))) if 1 <= n <= len(published) else None
+
+    def caption_clip(self, video: bytes | None, meta: str, system: str, check) -> tuple[dict, str, bool]:
+        """Подпись к видео. Сначала Gemini смотрит само видео (video_chain); если не вышло —
+        текстовая модель пишет по названию и описанию. → (ответ, модель, смотрела_ли_видео)."""
+        if video and self.video_chain:
+            gem = self.providers["gemini"].types
+            parts = [gem.Part.from_bytes(data=video, mime_type="video/mp4"), meta]
+            try:
+                data, mid = self._ask(self.video_chain, parts, system=system, schema=CLIP_SCHEMA,
+                                      validator=check, temperature=0.8)
+                return data, mid, True
+            except (LLMQuotaExhausted, LLMBadAnswer) as e:
+                log(f"   видео посмотреть не вышло ({e}) — пишу подпись по названию")
+        note = ("\n\nВИДЕО ТЫ НЕ ВИДИШЬ — только название и описание. Не придумывай, что происходит "
+                "в кадре: пиши осторожно, по названию. interest ставь не выше 6.")
+        data, mid = self._ask(self.triage_chain, meta + note, system=system, schema=CLIP_SCHEMA,
+                              validator=check, temperature=0.8)
+        return data, mid, False
 
     @staticmethod
     def _id(spec: dict) -> str:

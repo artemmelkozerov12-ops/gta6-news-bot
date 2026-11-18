@@ -55,6 +55,8 @@ def _api(http: Http, method: str, files=None, **params) -> dict | list | bool:
     token = os.environ["TELEGRAM_BOT_TOKEN"].strip()
     url = f"https://api.telegram.org/bot{token}/{method}"
     kw = {"timeout": float(params["timeout"]) + 15} if method == "getUpdates" and params.get("timeout") else {}
+    if files:
+        kw = {"timeout": 180.0}  # видео до 50 МБ грузится дольше обычного запроса
     r = http.post(url, data=params, files=files, **kw) if files else http.post(url, json=params, **kw)
     try:
         data = r.json()
@@ -108,6 +110,7 @@ def poll_updates(http: Http, state: State, wait: int = 0) -> list[dict]:
             _on_button(http, state, u["callback_query"], me)
     rejected = [q for q in state.queue if q.get("moderation") == "rejected"]
     state.queue = [q for q in state.queue if q.get("moderation") != "rejected"]
+    state.clips = [q for q in state.clips if q.get("moderation") != "rejected"]
     return rejected
 
 
@@ -159,13 +162,16 @@ def _on_button(http: Http, state: State, cb: dict, me: str) -> None:
         answer = "Это не твоя кнопка 🙂"
     elif action in BUTTONS:
         q = next((q for q in state.queue if url_key(q["item"]["link"]) == key), None)
+        if q is None:  # видео-черновик
+            q = next((q for q in state.clips if url_key(q["clip"]["url"]) == key), None)
         if q is None:
             answer = "Этого поста уже нет в очереди"
         else:
             status = BUTTONS[action]
             _set_status(http, q, status)
             answer = STATUS_TEXT[status]
-            log(f"🧑‍⚖️ модерация: {STATUS_TEXT[status]} — «{q['item']['title'][:70]}»")
+            title = (q.get("item") or q.get("clip"))["title"]
+            log(f"🧑‍⚖️ модерация: {STATUS_TEXT[status]} — «{title[:70]}»")
     try:
         _api(http, "answerCallbackQuery", callback_query_id=cb["id"], text=answer)
     except Exception:

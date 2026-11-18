@@ -14,8 +14,9 @@ import shutil
 import sys
 import time
 from datetime import datetime, timedelta
+from pathlib import Path
 
-from . import moderation
+from . import clips, moderation
 from .card import card_png
 from .dedupe import State, dedupe_batch, similarity, url_key
 from .fetch import TRUST_ORDER, Item, fetch_all, fetch_article_text, fresh_only, keyword_filter
@@ -99,12 +100,12 @@ def run() -> int:
 
     # 4. Нейросеть
     processed = 0
-    if candidates:
+    gemini = None
+    if candidates or cfg.get("clips", {}).get("enabled"):
         try:
             gemini = LLM(cfg)
         except Exception as e:
             log(f"❌ LLM не настроен: {e}")
-            gemini = None
         for idx, it in enumerate(candidates):
             if gemini is None:
                 break
@@ -178,9 +179,18 @@ def run() -> int:
     expire_queue(state, cfg, http if moderated and not dry else None)
     log(f"Очередь: {len(state.queue)}")
 
+    # 5б. Видео: найти свежие клипы (скачиваем и подписываем, только когда пора слать черновик)
+    pool: list = []
+    if cfg.get("clips", {}).get("enabled"):
+        clips.expire(http if moderated and not dry else None, state, cfg)
+        pool = clips.collect(http, cfg, state)
+        log(f"🎥 новых клипов-кандидатов: {len(pool)}; видео ждут решения: {len(state.clips)}")
+
     if dry:
         can, why = can_post_now(state, cfg)
         write_dry_run(cfg, state, decisions, report, can, why)
+        if pool and gemini is not None:
+            write_clips_preview(cfg, state, gemini, pool)
         log("DRY_RUN: state.json не сохраняю.")
         return 0
 
@@ -202,13 +212,15 @@ def run() -> int:
         for q in moderation.poll_updates(http, state, wait=wait):
             set_recent_status(state, q["item"]["title"], "rejected")
         moderation.send_drafts(http, state, cfg)
+        clips.send_drafts(http, state, cfg, gemini, pool)
         posted += publish_ready(http, state, cfg, moderated=True)
+        posted += clips.publish_ready(http, state, cfg)
         state.save()  # сохраняем после каждого шага: запуск могут оборвать
         left = deadline - time.monotonic()
         if left <= 5:
             break
         wait = int(min(50, left))
-    waiting = sum(1 for q in state.queue if q.get("moderation") == "pending")
+    waiting = sum(1 for q in state.queue + state.clips if q.get("moderation") == "pending")
     log(f"Готово. Разобрано нейросетью: {processed}, опубликовано: {posted}, "
         f"ждут твоего решения: {waiting}, черновиков за сутки: {moderation.drafts_today(state)}")
     return 0
@@ -317,6 +329,33 @@ def write_dry_run(cfg: dict, state: State, decisions: list[dict], report: list[d
             f'<img src="{c["img"]}"><div class="cap">{c["caption"].replace(chr(10), "<br>")}</div></div>')
     (OUT / "preview.html").write_text(PREVIEW_HTML.replace("{{POSTS}}", "\n".join(blocks) or "<p>Пусто</p>"), encoding="utf-8")
     log(f"DRY_RUN: в out/ {len(state.queue)} постов из очереди и {rej} отклонённых; открой out/preview.html")
+
+
+def write_clips_preview(cfg: dict, state: State, llm: LLM, pool: list) -> None:
+    """Dry-run для видео: скачать и подписать несколько лучших клипов → out/clips.html."""
+    folder = OUT / "clips"
+    folder.mkdir(parents=True, exist_ok=True)
+    blocks = []
+    tried = 0
+    for clip in pool:
+        if tried >= int(cfg["clips"].get("dry_run_count", 4)):
+            break
+        tried += 1
+        q = clips.prepare(clip, llm, cfg, state, folder)
+        if not q:
+            blocks.append(f'<div class="post"><div class="tag">⏭ не подошло: {html.escape(clip.author)} — '
+                          f'{html.escape(clip.title)}</div></div>')
+            continue
+        rel = Path(q["path"]).relative_to(OUT).as_posix()
+        tag = (f'{q["interest"]}/10 · {clip.source} · {clip.views} просм.'
+               f'{" · спойлер" if q["spoiler"] else ""}{" · 18+" if q["nsfw"] else ""} · {q["model"]}')
+        blocks.append(f'<div class="post"><div class="tag">{html.escape(tag)}</div>'
+                      f'<video src="{rel}" controls playsinline></video>'
+                      f'<div class="cap">{clips.format_caption(clip, q["caption"]).replace(chr(10), "<br>")}</div></div>')
+    page = PREVIEW_HTML.replace("{{POSTS}}", "\n".join(blocks) or "<p>Пусто</p>").replace(
+        ".post img{", ".post video{width:100%;display:block;max-height:640px;background:#000}.post img{")
+    (OUT / "clips.html").write_text(page, encoding="utf-8")
+    log(f"DRY_RUN: видео — открой out/clips.html")
 
 
 def _dump(cfg: dict, folder, prefix: str, it: Item, v: Verdict, label: str) -> dict:
