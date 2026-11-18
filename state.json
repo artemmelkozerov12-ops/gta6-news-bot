@@ -424,7 +424,23 @@
   "df984de3870ba113": "2026-11-18T20:52:14.370432+00:00",
   "70db13b38f36fb84": "2026-11-18T20:52:44.433367+00:00",
   "2364b1451712c21e": "2026-11-18T20:53:15.895719+00:00",
-  "a9bbabe0a09a4b37": "2026-11-18T20:53:16.506128+00:00"
+  "a9bbabe0a09a4b37": "2026-11-18T20:53:16.506128+00:00",
+  "fb86e1cee4cf9dc0": "2026-11-18T21:47:40.960502+00:00",
+  "9b1a52e52d89f4cd": "2026-11-18T21:47:40.960610+00:00",
+  "bcf9df1bb6afb16a": "2026-11-18T21:47:40.960655+00:00",
+  "379f68a8db5510b6": "2026-11-18T21:47:40.960693+00:00",
+  "5b02b225438593f3": "2026-11-18T21:47:40.960744+00:00",
+  "8e391d01ed130446": "2026-11-18T21:47:40.960787+00:00",
+  "53ed17a9a5ce3dcd": "2026-11-18T21:47:40.960826+00:00",
+  "2540f8f5f4f2fdd3": "2026-11-18T21:47:40.960866+00:00",
+  "a6c92b25d6c3df5b": "2026-11-18T21:47:40.960908+00:00",
+  "c41cef14cf674dce": "2026-11-18T21:47:40.976719+00:00",
+  "c9a7a81aa5ba8218": "2026-11-18T21:47:43.135508+00:00",
+  "7aefc480f72959ee": "2026-11-18T21:47:43.768545+00:00",
+  "f466de7a9de61031": "2026-11-18T21:47:45.125720+00:00",
+  "942f549e87ddac5f": "2026-11-18T21:47:46.450364+00:00",
+  "c6427c0ae98240ef": "2026-11-18T21:48:44.668795+00:00",
+  "f6381cd0ecb2dd23": "2026-11-18T21:48:47.101968+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -804,7 +820,23 @@
   "c915c12d6dfdd76d": "2026-11-18T20:52:14.370432+00:00",
   "31385c22bba06b70": "2026-11-18T20:52:44.433367+00:00",
   "97f28b9fa0076828": "2026-11-18T20:53:15.895719+00:00",
-  "148a1ef977cdbccb": "2026-11-18T20:53:16.506128+00:00"
+  "148a1ef977cdbccb": "2026-11-18T20:53:16.506128+00:00",
+  "66f27c65b12f7eda": "2026-11-18T21:47:40.960502+00:00",
+  "77b19d810f6bccb6": "2026-11-18T21:47:40.960610+00:00",
+  "148f624b2d2f869b": "2026-11-18T21:47:40.960655+00:00",
+  "c490c4851e21f6f4": "2026-11-18T21:47:40.960693+00:00",
+  "577ba29697c51f69": "2026-11-18T21:47:40.960744+00:00",
+  "39677d2fd7304f00": "2026-11-18T21:47:40.960787+00:00",
+  "d9628e93a18d3a43": "2026-11-18T21:47:40.960826+00:00",
+  "ffb76b5bf624bfd9": "2026-11-18T21:47:40.960866+00:00",
+  "40bbe1103a256a66": "2026-11-18T21:47:40.960908+00:00",
+  "3c10b299920a5b94": "2026-11-18T21:47:40.976719+00:00",
+  "c0ab6f0bf3f1b729": "2026-11-18T21:47:43.135508+00:00",
+  "7af790325f761bcc": "2026-11-18T21:47:43.768545+00:00",
+  "500e9a95a918af0d": "2026-11-18T21:47:45.125720+00:00",
+  "9c501614db9e6598": "2026-11-18T21:47:46.450364+00:00",
+  "248719e83c9dfe50": "2026-11-18T21:48:44.668795+00:00",
+  "09b38ca62c359d7c": "2026-11-18T21:48:47.101968+00:00"
  },
  "recent": [
   {
@@ -3910,9 +3942,165 @@
    "status": "skipped",
    "ts": "2026-11-18T20:53:16.506251+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GTA 6 Shatters Streaming Records Before It Even Launches Globally",
+   "source": "IGN",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-18T21:47:40.960564+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to Complete Steal the Scooter in GTA 6",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "dup",
+   "ts": "2026-11-18T21:47:40.960632+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to Complete Get Shirley's Rum in GTA 6",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "dup",
+   "ts": "2026-11-18T21:47:40.960670+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "PlayStation Network outage hits users hours before GTA 6 launch",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-18T21:47:40.960722+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "PlayStation Network outages hit before GTA 6 launch",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-18T21:47:40.960765+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "PlayStation suffers widespread network problems hours before release of GTA VI",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-18T21:47:40.960807+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "PlayStation suffers major outage hours before \"GTA VI\" launch",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-18T21:47:40.960845+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "I've Played the First 30 Minutes of GTA 6 on Every Console, Here's How Performance Compares",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-18T21:47:40.960888+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Все чит-коды для GTA 6",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-18T21:47:40.960926+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Should GTA 6 have been nominated at The Game Awards? Have your say!",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-18T21:47:40.976756+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Rockstar Just Confirmed Where It Stands On The GTA 6 FPS Controversy",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-18T21:47:43.135648+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Fortnite’s Treasure Hunt Burned Me Out Just In Time For GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-18T21:47:43.768684+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to Complete Pipework in GTA 6",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-18T21:47:45.125826+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "43 Soldiers Re-Enlisted In The Army In Exchange For Time Off To Play Grand Theft Auto 6: ‘I’m All About The Heist’",
+   "source": "Kotaku",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-18T21:48:43.443670+00:00",
+   "card_title": "43 СОЛДАТА ЗА GTA 6"
+  },
+  {
+   "title": "GTA 6 at 60fps on PS5 Pro isn't possible because the console \"is not powerful enough,\" Rockstar says",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-18T21:48:45.329903+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "PS5 Pro’s CPU Upgrade Is Not Enough for GTA 6 at 60 FPS",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-18T21:48:58.810811+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
+  {
+   "item": {
+    "title": "43 Soldiers Re-Enlisted In The Army In Exchange For Time Off To Play Grand Theft Auto 6: ‘I’m All About The Heist’",
+    "link": "https://kotaku.com/43-soldiers-re-enlisted-in-the-army-in-exchange-for-time-off-to-play-grand-theft-auto-6-im-all-about-the-heist-2000758133",
+    "summary": "An unusual signing bonus",
+    "published": "2026-11-18T21:30:03+00:00",
+    "source": "Kotaku",
+    "site_name": "Kotaku",
+    "trust": "high",
+    "text": "Back in August, an Army Battalion commander circulated an unusual memo promising members of the 9th Brigade Engineer Battalion some special time off to play Grand Theft Auto 6 if they re-enlisted. In addition to the existing incentives, soldiers who signed up for more years of service would receive a four-day vacation to play Rockstar’s newest open-world game. It turns out that 43 people took the Army up on the offer.\nThey’ll now get Thursday, November 19, through Sunday, November 22, off to play GTA 6, Task and Purpose reports. With a minimum story campaign length of around 50 hours, that’s just enough to finish the game if they race, though the full experience will take players way longer than that. In exchange for the brief reprieve selling drugs, robbing stores, and planning date nights in Vice City, the 43 people agreed to between two and six additional years of military service.\n“I’m all campaign. I’m all about the heist,” Sgt. Jamire Smith, a combat engineer who pledged six more years in exchange for the long weekend, said. “I think I have a good 24 hours to waste on it.” He was planning to re-enlist anyway, and will get a $60,000 signing bonus for doing so, but the game time is a fun extra. “I was towards my final stages of getting out,” he said. Smith added. “The battalion helped me navigate through that and they showed me that there’s still a need for me, and that I am still a clear and valued asset to the team.”\nThe GTA incentive was pitched to the battalion commander, Lieutenant Colonel Ryan Hodgson, by Staff Sgt. Brittany Wolfer, a gamer who almost missed out on GTA 5 back in 2013. “I actually went to basic training the week that GTA 5 came out,” Wolfer said. “This is kind of like a weird arc in my life where it’s full circle to the new one coming out.”\nThe GTA 6 weekend wasn’t “supposed to be the deciding factor,” she said, but it caught people’s attention. “There is always going to be a disconnect between your senior command and your lowest soldier. So how do you bridge that gap to where that lower soldier still knows that their battalion commander or their senior leadership cares about them and sees what they’re interested in?”\nHodgson wasn’t following the pre-release coverage around GTA 6, but he was familiar with the franchise. As Wolfer put it, “I brought it to [Hodgson] and he’s a little bit older, but he did play GTA 2 at some point, so he was like, ‘Yeah I’m down for it.'”\nDon’t miss the latest reviews, news and tips. Sign up for our free newsletter.\nCultureNews Live Updates On GTA 6: The Biggest Launch In Gaming History We're tracking all of the news, discoveries, and conversations as Rockstar's new open-world blockbuster goes live Ethan Gach, Ash Parrish, Carolyn Petit, Zack Zwiezen, Kenneth Shepard, and Rebekah Valentine Published November 18, 2026\nGames Turns Out GTA San Andreas Remastered Was Teasing GTA 6 Back In 2021 White picket fence By Rebekah Valentine Published November 18, 2026\nCultureOdds and Ends I’ve Played Over 150 Hours Of GTA 6, Ask Me Anything Just know I won't spoil the ending or any major events that happen By Zack Zwiezen Published November 18, 2026\nOpinionCommentary How Am I Supposed To Wait Until The PC Version To Play GTA 6? I always play GTA games on PC, but I don't know if I possess the strength of mind to hold out for this one By John Walker Published November 18, 2026\nTips & Guides 32 Spoiler-Free Tips As You Hop Into Grand Theft Auto 6 We've got tips about managing clothes, earning money, boosting your stamina, how to fix up your car, and much more By Zack Zwiezen Published November 18, 2026\nGames How Long Is GTA 6? Depends On How You Play Extended vacation By Rebekah Valentine Published November 18, 2026",
+    "extra": {}
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 9,
+    "post": "🎮 43 СОЛДАТА ЗА GTA 6\n\nАмериканские военные дали бойцам 4 дня отпуска, чтобы те могли закрыть кампанию в GTA 6. Взамен — 2-6 лет службы. Один сержант честно признался: «Я за ограбление». Имба, да?",
+    "card_title": "43 СОЛДАТА ЗА GTA 6",
+    "reason": "Крепкая новость от Kotaku про запуск игры, высокий интерес аудитории",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "model": "groq:qwen/qwen3.8-27b"
+   },
+   "queued_at": "2026-11-18T21:48:43.443653+00:00",
+   "moderation": "pending",
+   "draft_msg_id": 25
+  },
   {
    "item": {
     "title": "GTA 6′s Map Contains Areas That Could Be Used In The ‘Future,’ Says Rockstar",
@@ -4270,7 +4458,8 @@
   "2026-11-18T05:00:10.556531+00:00",
   "2026-11-18T07:13:25.212281+00:00",
   "2026-11-18T11:00:18.299138+00:00",
-  "2026-11-18T16:00:26.651491+00:00"
+  "2026-11-18T16:00:26.651491+00:00",
+  "2026-11-18T21:49:03.263053+00:00"
  ],
  "slots_sent": {
   "2026-11-18:утро": "2026-11-18T07:13:25.212391+00:00",
@@ -4278,7 +4467,8 @@
   "2026-11-18:вечер": "2026-11-18T16:00:26.651580+00:00"
  },
  "urgent": [
-  "2026-11-18T05:00:10.556622+00:00"
+  "2026-11-18T05:00:10.556622+00:00",
+  "2026-11-18T21:49:03.263148+00:00"
  ],
  "clips": [],
  "clip_drafts": [
