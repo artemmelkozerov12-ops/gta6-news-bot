@@ -141,7 +141,18 @@
   "eedcd0c202a39091": "2026-11-18T07:13:02.068586+00:00",
   "b27348339d28aa97": "2026-11-18T07:13:19.066019+00:00",
   "eb0523feee582ce0": "2026-11-18T07:13:21.059702+00:00",
-  "597cdb254b8a3d6c": "2026-11-18T07:13:22.147804+00:00"
+  "597cdb254b8a3d6c": "2026-11-18T07:13:22.147804+00:00",
+  "28f7c800e6571fbd": "2026-11-18T08:31:00.047341+00:00",
+  "58b7eed025a404c8": "2026-11-18T08:31:00.047431+00:00",
+  "bb30f7a9bad54ec9": "2026-11-18T08:31:00.047534+00:00",
+  "ab478b4408cae5a1": "2026-11-18T08:31:00.047615+00:00",
+  "4c4f13bb681e0852": "2026-11-18T08:31:00.062311+00:00",
+  "b4b3c43f51acb9a3": "2026-11-18T08:31:16.723165+00:00",
+  "9ed74456d70da4ff": "2026-11-18T08:31:17.613927+00:00",
+  "b244297c1420dbf4": "2026-11-18T08:31:18.662050+00:00",
+  "d05e58ae8fde90cc": "2026-11-18T08:33:04.781181+00:00",
+  "785f00d86e0e9f80": "2026-11-18T08:33:05.698396+00:00",
+  "ad47ff7af24c2ddb": "2026-11-18T08:33:20.692921+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -278,7 +289,17 @@
   "bdbc157c40faffa8": "2026-11-18T07:13:02.068586+00:00",
   "de5e885dfacf926a": "2026-11-18T07:13:19.066019+00:00",
   "fb4d7683d6707f9c": "2026-11-18T07:13:21.059702+00:00",
-  "9fd1479680ba891e": "2026-11-18T07:13:22.147804+00:00"
+  "9fd1479680ba891e": "2026-11-18T07:13:22.147804+00:00",
+  "c1fc76befe556927": "2026-11-18T08:31:00.047341+00:00",
+  "2b886591e0f1cfc4": "2026-11-18T08:33:20.692921+00:00",
+  "645fb4b9833a5966": "2026-11-18T08:31:00.047534+00:00",
+  "05b9a2485fc78f74": "2026-11-18T08:31:00.047615+00:00",
+  "0baa9d9916b28d08": "2026-11-18T08:31:00.062311+00:00",
+  "e1fdaf830a12270c": "2026-11-18T08:31:16.723165+00:00",
+  "993f9974ceaeb7d6": "2026-11-18T08:31:17.613927+00:00",
+  "922f1b1719c6c76d": "2026-11-18T08:31:18.662050+00:00",
+  "2fefb966f348e0e7": "2026-11-18T08:33:04.781181+00:00",
+  "229a0eb246e4c230": "2026-11-18T08:33:05.698396+00:00"
  },
  "recent": [
   {
@@ -1416,6 +1437,94 @@
    "status": "skipped",
    "ts": "2026-11-18T07:13:22.147920+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GTA 6 еще не вышла, но уже претендует на 8 наград The Game Awards 2026",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-18T08:31:00.047388+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Rockstar promotes GTA VI in China despite lack of sales approval",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-18T08:31:00.047476+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "The Game Awards 2026 Nominees: 'GTA 6' Makes the List With Most Number of Nominations",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-18T08:31:00.047575+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Miami Heat Players Receive Custom 'Grand Theft Auto 6' PlayStation 5 Pros",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-18T08:31:00.047653+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Game Awards 2026 nominees: GTA 6 earns eight nominations",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-18T08:31:00.062364+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 release time: New Zealand launch leads U.S. PS5 unlock",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-18T08:31:16.723276+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Организаторы TGA 2026 раскрыли главную тайну GTA 6 – кто сыграл Люсию",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-18T08:31:17.614042+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "New Zealand Is Bragging That It Gets to Play GTA 6 First",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "queued",
+   "ts": "2026-11-18T08:33:03.978722+00:00",
+   "card_title": "НОВАЯ ЗЕЛАНДИЯ ПЕРВАЯ"
+  },
+  {
+   "title": "GTA 6 Score: Justice, Pusher and the Launch Trailer Song",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-18T08:33:04.781291+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA V и GTA VI: как изменился Якутск за это время?",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-18T08:33:05.698525+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Rockstar promotes GTA VI in China despite lack of sales approval",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-18T08:33:20.693028+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -1556,6 +1665,32 @@
     "model": "groq:qwen/qwen3.8-27b"
    },
    "queued_at": "2026-11-18T02:01:34.699785+00:00"
+  },
+  {
+   "item": {
+    "title": "New Zealand Is Bragging That It Gets to Play GTA 6 First",
+    "link": "https://www.gtaboom.com/new-zealand-is-bragging-that-it-gets-to-play-gta-6-first-6577",
+    "summary": "New Zealand's official tourism agency posted a playful video celebrating the country's time zone advantage for playing GTA 6 first.",
+    "published": "2026-11-18T08:11:08+00:00",
+    "source": "GTA BOOM",
+    "site_name": "GTA BOOM",
+    "trust": "medium",
+    "text": "Countries do not usually compete over who boots up a video game first. Even getting a rating can be contentious for Grand Theft Auto. New Zealand is not most countries. Its official government tourism agency has posted about the one race the islands win by geography alone, being first to midnight, which this week means first in the world to play Grand Theft Auto VI from Rockstar Games.\nThe bragging rights are real and officially sanctioned. Rockstar and Sony adopted a rolling midnight launch by country and the first in line is New Zealand at 12:00 AM NZDT on November 19, hours before anyone in Europe or the Americas can touch it. We broke down exactly when the game unlocks in every region and New Zealand sits at the very front of that line every single time.\nThe government apparently noticed. As reporter Gene Park flagged, New Zealand's tourism account jumped on the \"we get it first\" conversation with a playful video, turning a quirk of the international date line into a tourism beat.\nA national tourism board using a game about crime in a parody of America to flex its time zone is the kind of thing only a launch this size could produce. Every other country spent the week fighting over days off work and clearing 212GB of storage. New Zealand just has to wait for its own clock, which ticks over before everyone else's.\nIt is one more sign of the gravity we have watched this launch build since marketing ramped up, as promised, the kind that has businesses closing for the day, Sensor Tower projecting a hit to Fortnite's player count and a steady countdown the whole world is watching.\nWhen a government tourism agency works your release date into its pitch, the game has become a global event with a start time.\nFor once, sitting at the edge of the map is the ultimate cheat code. While the rest of us refresh our consoles and watch the clock, New Zealand will already be driving through Vice City and its government would very much like you to know it.\nOnce a post receives 3 qualifying Helpful marks\nMiami Heat Players Got Gifted Custom GTA 6 PlayStation 5 Pro Consoles\nPS5 Players Must Install a Mandatory System Update Before Playing GTA 6\nSensor Tower Says Fortnite Stands to Lose the Most Players After GTA VI Launches",
+    "extra": {}
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "🌏 Новая Зеландия первая запустит GTA 6\n\nНовозеландское туристическое агентство похвасталось, что их страна будет первой в мире, кто получит доступ к GTA VI ровно в полночь по местному времени 19 ноября. Это подтверждает глобальный «полуночный» запуск Rockstar и Sony, где каждая страна получает игру по своему часовому поясу. Для фанатов это шанс увидеть, как игра «прокачивает» мир, начиная с самых дальних островов.",
+    "card_title": "НОВАЯ ЗЕЛАНДИЯ ПЕРВАЯ",
+    "reason": "Официальный график запуска от Rockstar, подтвержденный СМИ",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "model": "groq:openai/gpt-oss-120b"
+   },
+   "queued_at": "2026-11-18T08:33:03.978697+00:00"
   }
  ],
  "posts": [
