@@ -152,7 +152,20 @@
   "b244297c1420dbf4": "2026-11-18T08:31:18.662050+00:00",
   "d05e58ae8fde90cc": "2026-11-18T08:33:04.781181+00:00",
   "785f00d86e0e9f80": "2026-11-18T08:33:05.698396+00:00",
-  "ad47ff7af24c2ddb": "2026-11-18T08:33:20.692921+00:00"
+  "ad47ff7af24c2ddb": "2026-11-18T08:33:20.692921+00:00",
+  "5eb859a864a048ea": "2026-11-18T09:40:29.369792+00:00",
+  "5d9a1975ef611e5e": "2026-11-18T09:40:29.369900+00:00",
+  "27525a9e0b867329": "2026-11-18T09:40:29.369994+00:00",
+  "686f89886afbb8ff": "2026-11-18T09:40:29.370082+00:00",
+  "8b0f0e3f16d0d293": "2026-11-18T09:40:29.389803+00:00",
+  "cd0f605bc3a96331": "2026-11-18T09:40:29.406530+00:00",
+  "b917c3666807f450": "2026-11-18T09:40:29.418986+00:00",
+  "147991a19410e8b2": "2026-11-18T09:40:30.832230+00:00",
+  "cbf3458890f040fe": "2026-11-18T09:40:31.713277+00:00",
+  "7682679be735e244": "2026-11-18T09:40:32.761515+00:00",
+  "95009a7fd85b7ad2": "2026-11-18T09:40:43.790510+00:00",
+  "859974b1dc5c00b3": "2026-11-18T09:40:45.410228+00:00",
+  "7671044f716dea31": "2026-11-18T09:40:48.651163+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -299,7 +312,20 @@
   "993f9974ceaeb7d6": "2026-11-18T08:31:17.613927+00:00",
   "922f1b1719c6c76d": "2026-11-18T08:31:18.662050+00:00",
   "2fefb966f348e0e7": "2026-11-18T08:33:04.781181+00:00",
-  "229a0eb246e4c230": "2026-11-18T08:33:05.698396+00:00"
+  "229a0eb246e4c230": "2026-11-18T08:33:05.698396+00:00",
+  "0ebc6065b7119774": "2026-11-18T09:40:29.369792+00:00",
+  "86079efdc4114f02": "2026-11-18T09:40:29.369900+00:00",
+  "04c633ecf40f1644": "2026-11-18T09:40:29.369994+00:00",
+  "622d5c426e9fa020": "2026-11-18T09:40:29.370082+00:00",
+  "030f4f796f781523": "2026-11-18T09:40:29.389803+00:00",
+  "c328c69500540be5": "2026-11-18T09:40:29.406530+00:00",
+  "834036bc3538fbfa": "2026-11-18T09:40:29.418986+00:00",
+  "ebf838d7efc81db9": "2026-11-18T09:40:30.832230+00:00",
+  "ce510a408a377f0c": "2026-11-18T09:40:31.713277+00:00",
+  "6b951d45cd9d3268": "2026-11-18T09:40:32.761515+00:00",
+  "db34e5dc1864c8cf": "2026-11-18T09:40:43.790510+00:00",
+  "bbcea6a094c0bc2b": "2026-11-18T09:40:45.410228+00:00",
+  "bd4cf709c434e31c": "2026-11-18T09:40:48.651163+00:00"
  },
  "recent": [
   {
@@ -1525,65 +1551,113 @@
    "status": "skipped",
    "ts": "2026-11-18T08:33:20.693028+00:00",
    "card_title": ""
+  },
+  {
+   "title": "PlayStation Issues New Mandatory Update Warning Ahead Of GTA 6 Launch",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-18T09:40:29.369858+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 получила 8 номинаций на The Game Awards 2026",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-18T09:40:29.369949+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Sony Issues Official PS5 Firmware Update Warning, Confirms GTA 6 Requirement",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-18T09:40:29.370042+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Official Images of Collaborative Travis Scott and 'GTA 6'Nike Air Force 1 Low Plus Apparel Merch Leaked",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-18T09:40:29.370122+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Game Awards 2026 Nominees: GTA 6 Leads With 8 Nods",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-18T09:40:29.389863+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Sony confirms PS5 update is required to play GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-18T09:40:29.406585+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "The simple ‘New Zealand trick’ that lets gamers play GTA 6 early",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-18T09:40:29.419043+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Analysts claim GTA VI has sold almost 16 million copies through pre-orders",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-18T09:40:30.832342+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6: Visiting Vice City in real life? Here’s what travelers need to know",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-18T09:40:31.713395+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 выйдет 19 ноября: зачем взрослые берут отпуск ради новой игры",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-18T09:40:32.761628+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Жизнь на паузе: как GTA 6 может повлиять на финансовые рынки",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-18T09:40:43.790632+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI has US athletes planning sleepless nights and warning of sporting chaos",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-18T09:40:45.410359+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "PS5 gamers warned to update consoles ahead of GTA 6 launch",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-18T09:40:48.651283+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
-  {
-   "item": {
-    "title": "Grand Theft Auto VI is Now Set to Launch November 19, 2026",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZTBtaHBIYlRBTDY1bnNwT3JxUzBWcWRrRjZEdEhwaWV5Ql9xVFZmYkZwcFhzeHI5QXN1MHZseXhlbWZzSTJfYm1MenNFLU1ZVXRhQ2dySG84MVVlTW9rVml3YzljR0JOaHJjZE9JOXFvYXlPVlFBNmgydFZGNXBWaVhvbmZTbmV0cGlqYTVKeGtpcXhYOWRGd3paQTljSUZBZ09wMHhTWXB4Nk50V2ZNTzdtRkhhdU9DLWxZ?oc=5",
-    "summary": "Grand Theft Auto VI is Now Set to Launch November 19, 2026 Rockstar Games",
-    "published": "2026-11-17T13:25:43+00:00",
-    "source": "Rockstar Newswire",
-    "site_name": "Rockstar Games",
-    "trust": "official",
-    "text": "Grand Theft Auto VI is Now Set to Launch November 19, 2026 Rockstar Games",
-    "extra": {}
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 9,
-    "post": "🚀 GTA 6 официально выйдет 19 ноября 2026\n\nRockstar подтвердил дату релиза — игра появится 19 ноября 2026 года. Это значит, что фанаты наконец узнают, когда ждать открытых улиц Vice City 2. Приготовьтесь к предзаказам и кросс‑платформенным баталиям!",
-    "card_title": "GTA 6 ОФИЦИАЛЬНАЯ ДАТА РЕЛИЗА",
-    "reason": "Официальное объявление даты релиза от Rockstar",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "model": "groq:openai/gpt-oss-120b → groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-17T20:47:30.376468+00:00",
-   "moderation": "pending",
-   "draft_msg_id": 14
-  },
-  {
-   "item": {
-    "title": "Grand Theft Auto VI Collection Now at the Rockstar Store",
-    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPS2JXeC05cEE2VjY1MWs3X05yc2pPSkVsRjdudlZZVm5KclQ0SW94NUpSZ3F5VFF4bDZ6d0k1WFhudTN0SVA4YS1GZEdEd1IzcE9TdTVfbnZSVDg0NWtzSTR0aUtEZVhqRkNUYTdIOTZWbU8tdjZrQjRMZlhCWkJ4bmQzbUxVRzhNbWhxVkJXZnR5ZHJvdjl1eFdCa29LUE9HcUVUcThqWHF5ZWY4REFwazBnSG9VOG5HU0JoZ2x1UE9qOHVtWmJiZTd1Zk82UGpsZE16Z0g0ZlU?oc=5",
-    "summary": "Grand Theft Auto VI Collection Now at the Rockstar Store Rockstar Games",
-    "published": "2026-11-17T03:14:55+00:00",
-    "source": "Rockstar Newswire",
-    "site_name": "Rockstar Games",
-    "trust": "official",
-    "text": "Grand Theft Auto VI Collection Now at the Rockstar Store Rockstar Games",
-    "extra": {}
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "🛒 Коллекция GTA VI уже в магазине Rockstar\n\nRockstar официально запустила продажу GTA VI Collection в своём онлайн‑магазине. В наборе — базовая игра, дополнения и эксклюзивные предметы, удобно для тех, кто хочет сразу всё. Теперь можно оформить комплект без ожидания распродаж.",
-    "card_title": "КОЛЛЕКЦИЯ GTA VI В РОКСТАРЕ",
-    "reason": "Официальное объявление от Rockstar о доступности коллекции",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "model": "groq:openai/gpt-oss-120b → groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-17T20:47:34.440111+00:00",
-   "moderation": "pending",
-   "draft_msg_id": 15
-  },
   {
    "item": {
     "title": "Guide: GTA 6 Release Times: When Can You Start Playing?",
@@ -1611,34 +1685,6 @@
    "queued_at": "2026-11-18T00:36:57.357200+00:00",
    "moderation": "pending",
    "draft_msg_id": 21
-  },
-  {
-   "item": {
-    "title": "How Grand Theft Auto 6 Can Be Nominated At The Game Awards Despite Not Being Out Yet",
-    "link": "https://kotaku.com/game-awards-2026-nominations-gta-grand-theft-auto-6-lucia-2000757763",
-    "summary": "Rockstar’s open-world crime drama scored multiple nominations, including Game of the Year",
-    "published": "2026-11-17T19:30:34+00:00",
-    "source": "Kotaku",
-    "site_name": "Kotaku",
-    "trust": "high",
-    "text": "The Game Awards just announced its 2026 nominees, and while some of the names that got repeat nods are likely not a surprise to anyone, one of them might be. Grand Theft Auto 6, a game that’s not even out yet, is the most-nominated game of the show this year. As of this writing, reviews haven’t even been published. So, in a roundabout way, some have suggested the early nominations have “spoiled” the reviews and the forthcoming reception to the game.\nFor those who don’t know how the Game Awards work, the nominees and winners are submitted and voted upon by a jury of media outlets (Kotaku doesn’t participate). Outlets submit ballots, the games that get the most votes are made into nominees, and the media jury then casts votes for the winners. These votes make up 90 percent of the final result. The other 10 percent is determined by a fan vote on the official Game Awards website that begins after the nominations are announced.\nThis year’s Game Awards cutoff allowed for all games released before November 20 to be nominated, which means that Grand Theft Auto 6, out November 19, barely slid into the eligibility window. But the nomination has still confused a lot of people because host Geoff Keighley didn’t explain the logistics of the nominating process during today’s announcement stream. It’s a rare circumstance for a game to be nominated but not officially out.\nBut the existence of an explanation hasn’t stopped some folks from crying foul, calling the show “rigged,” and claiming that no one has played this game yet. Some also argue that it doesn’t make sense for the player voting to be open when the game hasn’t yet been made available to the public. Maybe the Game Awards should have held off on doing the whole nominations announcement until the weekend?\nFunnily enough, the Game Awards also confirmed something about GTA 6 that Rockstar Games hasn’t publicly confirmed yet. It revealed that Manny L. Perez is playing Lucia, one of the game’s protagonists. She was nominated in the Best Performance category, but hasn’t been able to publicly confirm that she’s in the game.\nDon’t miss the latest reviews, news and tips. Sign up for our free newsletter.\nCultureNews Fox News Weighs In On Grand Theft Auto 6, Asks If Lucia Is A Hooker ‘I'm not thinking this is a good thing for our culture and society’ By Kenneth Shepard Published November 17, 2026\nCultureNews Here Are All The Game Awards 2026 Nominees World Premiere, or whatever he says By Kenneth Shepard Published November 17, 2026\nCultureNews GTA 6 Hacker Pleads Guilty To Cybercrimes After Infamous 2022 Leak The leak in 2022 was the first time the game was seen by the public before it was officially unveiled the following year By Kenneth Shepard Published November 16, 2026\nCulture Some GTA 6 Box Copies Reported To Have Download Code Issues With No Disc To Fall Back On Shipped with no disc inside, fans who purchased a physical copy of Grand Theft Auto in advance are claiming their codes have already been used, or are missing entirely By Zack Kotzer Published November 14, 2026\nCultureNews This Isn’t A Video From Miami, It’s A GTA 6 Gameplay Clip The video fooled many online who thought it was real life By Zack Zwiezen Published November 11, 2026\nCultureNews GTA 6′s File Size Is Smaller In Australia And Japan, Sparking Censorship Concerns Grand Theft Auto VI's preload file size is slightly lighter in Australia and over 1GB smaller in Japan By Lewis Parker Published November 11, 2026",
-    "extra": {}
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "🏆 GTA 6 уже в числе номинантов Game Awards 2026\n\nИгра, которой ещё нет в продаже, получила больше всех номинаций на Game Awards 2026. Это уже ставит её в ряды претендентов на «Игру года», несмотря на отсутствие отзывов. Кроме того, в категории «Лучшая актёрская игра» упомянули Люсию, озвучку которой, по данным церемонии, исполняет Мэнни П. Пэрез.",
-    "card_title": "GTA 6 НОМИНАНТЫ GAME AWARDS",
-    "reason": "Информация о номинациях подтверждена Kotaku (high), официальных заявлений нет, но факт публичен",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "model": "groq:openai/gpt-oss-120b → groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-17T20:48:39.731684+00:00",
-   "moderation": "pending",
-   "draft_msg_id": 16
   },
   {
    "item": {
