@@ -165,7 +165,16 @@
   "7682679be735e244": "2026-11-18T09:40:32.761515+00:00",
   "95009a7fd85b7ad2": "2026-11-18T09:40:43.790510+00:00",
   "859974b1dc5c00b3": "2026-11-18T09:40:45.410228+00:00",
-  "7671044f716dea31": "2026-11-18T09:40:48.651163+00:00"
+  "7671044f716dea31": "2026-11-18T09:40:48.651163+00:00",
+  "88e59dfb42938c46": "2026-11-18T10:43:11.732389+00:00",
+  "1f7a520487e32b9a": "2026-11-18T10:43:11.732473+00:00",
+  "d483dece51a7f430": "2026-11-18T10:43:11.732541+00:00",
+  "6de0230c15cc48cd": "2026-11-18T10:43:13.357807+00:00",
+  "89e1f5597034dd46": "2026-11-18T10:43:15.073136+00:00",
+  "916a4e2abc2985ad": "2026-11-18T10:43:16.528203+00:00",
+  "025b5886a4b2da90": "2026-11-18T10:43:28.609335+00:00",
+  "4cdc8bb49d9e8e5f": "2026-11-18T10:43:29.080613+00:00",
+  "023011a46d4bc1d4": "2026-11-18T10:43:29.529847+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -325,7 +334,16 @@
   "6b951d45cd9d3268": "2026-11-18T09:40:32.761515+00:00",
   "db34e5dc1864c8cf": "2026-11-18T09:40:43.790510+00:00",
   "bbcea6a094c0bc2b": "2026-11-18T09:40:45.410228+00:00",
-  "bd4cf709c434e31c": "2026-11-18T09:40:48.651163+00:00"
+  "bd4cf709c434e31c": "2026-11-18T09:40:48.651163+00:00",
+  "f4a5461cf2a745e9": "2026-11-18T10:43:11.732389+00:00",
+  "34426696cf86ddd6": "2026-11-18T10:43:11.732473+00:00",
+  "bf885c786efe340a": "2026-11-18T10:43:11.732541+00:00",
+  "8486212977c04cd8": "2026-11-18T10:43:13.357807+00:00",
+  "e7e67536447365e6": "2026-11-18T10:43:15.073136+00:00",
+  "67adc196da42b896": "2026-11-18T10:43:16.528203+00:00",
+  "7ac553fd2991e97d": "2026-11-18T10:43:28.609335+00:00",
+  "6da8002f8d486150": "2026-11-18T10:43:29.080613+00:00",
+  "74243808c9674696": "2026-11-18T10:43:29.529847+00:00"
  },
  "recent": [
   {
@@ -1068,7 +1086,7 @@
    "title": "Guide: GTA 6 Release Times: When Can You Start Playing?",
    "source": "Push Square",
    "trust": "high",
-   "status": "queued",
+   "status": "published",
    "ts": "2026-11-18T00:36:57.357216+00:00",
    "card_title": "GTA 6 ЗАПУСК ЧЕРЕЗ ЧАСЫ"
   },
@@ -1524,7 +1542,7 @@
    "title": "New Zealand Is Bragging That It Gets to Play GTA 6 First",
    "source": "GTA BOOM",
    "trust": "medium",
-   "status": "queued",
+   "status": "published",
    "ts": "2026-11-18T08:33:03.978722+00:00",
    "card_title": "НОВАЯ ЗЕЛАНДИЯ ПЕРВАЯ"
   },
@@ -1655,37 +1673,81 @@
    "status": "skipped",
    "ts": "2026-11-18T09:40:48.651283+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GTA VI: How Scotland made one of the world’s biggest game franchises",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-18T10:43:11.732439+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 — как начать играть раньше на PS5 и Xbox Series",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-18T10:43:11.732513+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Игроки команды Miami Heat получили кастомные PS5 Pro по GTA 6 — геймеры в ярости",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-18T10:43:11.732592+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 could trigger “biggest age-check spike in history”",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-18T10:43:13.357935+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "A Memphis Rapper Just Confirmed He Recorded 200 to 300 Lines for Two GTA 6 Characters",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-18T10:43:15.073259+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "\"We'd love to have you\" - New Zealand's tourist board gives a nod to those hopping timezones to play Grand Theft Auto 6 early",
+   "source": "Eurogamer",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-18T10:43:16.528349+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Will Officially Be Unplayable If PS5 Gamers Skip This Step",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-18T10:43:28.609460+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "PlayStation Issues GTA 6 Software Warning Before Launch",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-18T10:43:29.080753+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Эдмунд Макмиллен выпустит The Binding of Isaac: Repentance+ на консолях в один день с GTA 6, потому что это \"тупо, но забавно\"",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-18T10:43:29.529981+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
-  {
-   "item": {
-    "title": "Guide: GTA 6 Release Times: When Can You Start Playing?",
-    "link": "https://www.pushsquare.com/guides/gta-6-release-times-when-can-you-start-playing",
-    "summary": "All the GTA 6 release info you need. Probably the most anticipated game of all time, GTA 6 is now just hours away! We're in the final home stretch now, with availability rolling out on PS5 worldwide within the next 24 hours. As the launch draws even closer, we're covering absolutely everything you need to know about its PS5 launch, including preload options and release times. In this GTA 6 guide , we cover the GTA 6 release times . Read the full article on pushsquare.com",
-    "published": "2026-11-18T00:00:00+00:00",
-    "source": "Push Square",
-    "site_name": "Push Square",
-    "trust": "high",
-    "text": "Probably the most anticipated game of all time, GTA 6 is now just hours away! We're in the final home stretch now, with availability rolling out on PS5 worldwide within the next 24 hours.\nAs the launch draws even closer, we're covering absolutely everything you need to know about its PS5 launch, including preload options and release times. In this GTA 6 guide, we cover the GTA 6 release times.\nRockstar has confirmed GTA 6 will officially be playable from midnight on 19th November in your local time zone. If you have preloaded the game, it'll unlock at midnight, and then you can begin playing immediately.\nAs such, the game will unlock and be available first in New Zealand. Availability will then roll out worldwide as each time zone reaches midnight on 19th November.\nWhen the game launches in the UK, we'll have a hub live on the home page documenting our coverage and providing a place for you to share your first experiences with GTA 6.\nGTA 6 preload is available now! If you've pre-ordered from the PS Store, your download of the game should have started and will then be ready for you to start playing at release.\nRockstar has now officially confirmed the GTA 6 file size on PS5, and what you'll need to download, is 212GB. This is one of the biggest downloads and installs on console in history, and will probably only get bigger through patches and the addition of GTA Online.\nCan You Play GTA 6 Early with a New Zealand Account?\nGTA 6 will unlock and be playable in New Zealand first, as it's located in one of the furthest along timezones. The chances are New Zealand is further along in the day compared to wherever you live in the world, so yes, New Zealand will be the first to gain access to GTA 6.\nBecause of this, there's been a rising trend in people creating New Zealand PSN account to play games as soon as possible. This can be done with GTA 6 too, but you'll need to set up a fresh New Zealand PSN account and buy the game through its PS Store.\nWhen you have done, you'll be able to play GTA 6 a few hours ahead of other countries like the USA. Keep in mind, though, that you can't transfer your save data from the New Zealand account you set up to your normal profile.\nWhat's the GTA 6 New Zealand Release Time?\nIf you were to play GTA 6 early via the New Zealand method detailed above, you get access to the game at these times:North America: 3am PST / 4am MST / 5am CST / 6am ESTUK/Ire: 11am GMTEurope: 12pm CET / 1pm EETAsia/Oceania: 8pm JST / 7pm AWST / 10pm AEDT\nGTA 6 is available digitally on the PS Store, or in a basic physical version that ships without a disc. The latter provides a code in the box that you redeem on the PS Store to get the digital version.\nThe two PS5 digital versions on offer are: Standard Edition and Ultimate Edition.\nUltimate Edition / Ultimate Edition Upgrade Contents:\n’95 GROTTI CHEETAH — Grotti's signature mid '90s sports car and ode to Shore Drive, the ’95 Grotti Cheetah is complete with a minimalist, retro-futuristic livery and available to punctuate later-stage action.\nHAWK & LITTLE MORGAN REVOLVERS — His and hers versions of this powerful revolver with classic Vice City stylings sourced from the Vercetti Estate, including palm-tree-etched grips, engraved detailing, and high-performance scope.\nPERSONALIZED WEAPON VARIANTS — Personalized sidearms with detailed engravings for Jason's Girardi ES9 pistol and Lucia's Klose K17 pistol.\nVICE CITY STYLE — Whether poolside or side by side, Jason and Lucia can look the part with exclusive outfits, hairstyles, tattoos, and more.\nJASON’S SAFEHOUSE VEHICLES — Switch gears and soak up the sun in an Army fatigue-tinged Dinka Enduro motorcycle or Crest Kayak.\nGANADO RETRO BUILD — Inject some muscle and classic stylings into Jason's well-worn Vapid Ganado low-riding pickup with exclusive mods.\nSHITZU SQUALO — Perfect for casting in Gambit Bay and reeling in catches of all sorts, this gradient pink and blue Squalo docked at Washington Beach is made open-ocean-ready with an e",
-    "extra": {}
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 10,
-    "post": "🎮 GTA 6: старт через пару часов\n\nRockstar подтвердила: игра станет доступна с полуночи 19 ноября по местному времени. Первыми загрузят новозеландцы, дальше волна пойдёт по часам. Файл на PS5 весит 212 ГБ, так что если не догрузили — бежите к роутеру.",
-    "card_title": "GTA 6 ЗАПУСК ЧЕРЕЗ ЧАСЫ",
-    "reason": "Официальное подтверждение Rockstar о времени релиза в день выхода, критически важная информация для игроков.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "model": "groq:qwen/qwen3.8-27b"
-   },
-   "queued_at": "2026-11-18T00:36:57.357200+00:00",
-   "moderation": "pending",
-   "draft_msg_id": 21
-  },
   {
    "item": {
     "title": "GTA 6's Release Will Stress The Internet Just As Everything's Falling Apart",
@@ -1711,39 +1773,15 @@
     "model": "groq:qwen/qwen3.8-27b"
    },
    "queued_at": "2026-11-18T02:01:34.699785+00:00"
-  },
-  {
-   "item": {
-    "title": "New Zealand Is Bragging That It Gets to Play GTA 6 First",
-    "link": "https://www.gtaboom.com/new-zealand-is-bragging-that-it-gets-to-play-gta-6-first-6577",
-    "summary": "New Zealand's official tourism agency posted a playful video celebrating the country's time zone advantage for playing GTA 6 first.",
-    "published": "2026-11-18T08:11:08+00:00",
-    "source": "GTA BOOM",
-    "site_name": "GTA BOOM",
-    "trust": "medium",
-    "text": "Countries do not usually compete over who boots up a video game first. Even getting a rating can be contentious for Grand Theft Auto. New Zealand is not most countries. Its official government tourism agency has posted about the one race the islands win by geography alone, being first to midnight, which this week means first in the world to play Grand Theft Auto VI from Rockstar Games.\nThe bragging rights are real and officially sanctioned. Rockstar and Sony adopted a rolling midnight launch by country and the first in line is New Zealand at 12:00 AM NZDT on November 19, hours before anyone in Europe or the Americas can touch it. We broke down exactly when the game unlocks in every region and New Zealand sits at the very front of that line every single time.\nThe government apparently noticed. As reporter Gene Park flagged, New Zealand's tourism account jumped on the \"we get it first\" conversation with a playful video, turning a quirk of the international date line into a tourism beat.\nA national tourism board using a game about crime in a parody of America to flex its time zone is the kind of thing only a launch this size could produce. Every other country spent the week fighting over days off work and clearing 212GB of storage. New Zealand just has to wait for its own clock, which ticks over before everyone else's.\nIt is one more sign of the gravity we have watched this launch build since marketing ramped up, as promised, the kind that has businesses closing for the day, Sensor Tower projecting a hit to Fortnite's player count and a steady countdown the whole world is watching.\nWhen a government tourism agency works your release date into its pitch, the game has become a global event with a start time.\nFor once, sitting at the edge of the map is the ultimate cheat code. While the rest of us refresh our consoles and watch the clock, New Zealand will already be driving through Vice City and its government would very much like you to know it.\nOnce a post receives 3 qualifying Helpful marks\nMiami Heat Players Got Gifted Custom GTA 6 PlayStation 5 Pro Consoles\nPS5 Players Must Install a Mandatory System Update Before Playing GTA 6\nSensor Tower Says Fortnite Stands to Lose the Most Players After GTA VI Launches",
-    "extra": {}
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "🌏 Новая Зеландия первая запустит GTA 6\n\nНовозеландское туристическое агентство похвасталось, что их страна будет первой в мире, кто получит доступ к GTA VI ровно в полночь по местному времени 19 ноября. Это подтверждает глобальный «полуночный» запуск Rockstar и Sony, где каждая страна получает игру по своему часовому поясу. Для фанатов это шанс увидеть, как игра «прокачивает» мир, начиная с самых дальних островов.",
-    "card_title": "НОВАЯ ЗЕЛАНДИЯ ПЕРВАЯ",
-    "reason": "Официальный график запуска от Rockstar, подтвержденный СМИ",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "model": "groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-18T08:33:03.978697+00:00"
   }
  ],
  "posts": [
   "2026-11-17T21:18:29.589248+00:00",
-  "2026-11-18T05:01:27.628712+00:00"
+  "2026-11-18T05:01:27.628712+00:00",
+  "2026-11-18T10:43:33.044944+00:00",
+  "2026-11-18T11:24:23.175249+00:00"
  ],
- "tg_offset": 387128913,
+ "tg_offset": 387128942,
  "channel": {
   "id": -1003986639147,
   "title": "GTA 6 | Горячие новости",
@@ -1751,10 +1789,12 @@
  },
  "drafts": [
   "2026-11-18T05:00:10.556531+00:00",
-  "2026-11-18T07:13:25.212281+00:00"
+  "2026-11-18T07:13:25.212281+00:00",
+  "2026-11-18T11:00:18.299138+00:00"
  ],
  "slots_sent": {
-  "2026-11-18:утро": "2026-11-18T07:13:25.212391+00:00"
+  "2026-11-18:утро": "2026-11-18T07:13:25.212391+00:00",
+  "2026-11-18:обед": "2026-11-18T11:00:18.299237+00:00"
  },
  "urgent": [
   "2026-11-18T05:00:10.556622+00:00"
