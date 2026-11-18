@@ -87,7 +87,14 @@
   "7801237f61d31545": "2026-11-17T23:34:30.007973+00:00",
   "e122f00132201865": "2026-11-17T23:34:46.882278+00:00",
   "d70dbe6a8e4b1e20": "2026-11-17T23:34:47.640155+00:00",
-  "530f58ec29587acb": "2026-11-17T23:34:48.299431+00:00"
+  "530f58ec29587acb": "2026-11-17T23:34:48.299431+00:00",
+  "3c51deff18be99b2": "2026-11-18T00:35:23.376837+00:00",
+  "08b69531d172d299": "2026-11-18T00:35:25.023983+00:00",
+  "8df39833e6a24486": "2026-11-18T00:35:25.687146+00:00",
+  "14a686ffa92aa1d1": "2026-11-18T00:35:26.416101+00:00",
+  "991cc77322b43fec": "2026-11-18T00:35:28.056106+00:00",
+  "ce5336a6524c0b2c": "2026-11-18T00:37:01.175772+00:00",
+  "95dc6c9ecc2046db": "2026-11-18T00:37:01.993393+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -170,7 +177,14 @@
   "a3114d2b72539626": "2026-11-17T23:34:30.007973+00:00",
   "5b2b79241ff80e42": "2026-11-17T23:34:46.882278+00:00",
   "ed14556db3d73e51": "2026-11-17T23:34:47.640155+00:00",
-  "98a4ca1f82f95f0e": "2026-11-17T23:34:48.299431+00:00"
+  "98a4ca1f82f95f0e": "2026-11-17T23:34:48.299431+00:00",
+  "8606da429e5c94e9": "2026-11-18T00:35:23.376837+00:00",
+  "1cd78195ca0f0dac": "2026-11-18T00:35:25.023983+00:00",
+  "e8ddd7655f549c2a": "2026-11-18T00:35:25.687146+00:00",
+  "d651c6d11674f4ab": "2026-11-18T00:35:26.416101+00:00",
+  "d6c894c48f309a8a": "2026-11-18T00:35:28.056106+00:00",
+  "2189764f13382604": "2026-11-18T00:37:01.175772+00:00",
+  "06be0faf42e5ccc5": "2026-11-18T00:37:01.993393+00:00"
  },
  "recent": [
   {
@@ -876,6 +890,62 @@
    "status": "skipped",
    "ts": "2026-11-17T23:34:48.299539+00:00",
    "card_title": ""
+  },
+  {
+   "title": "‘GTA 6’ Download Size Revealed: How Much Storage Do You Need on PS5 & Xbox?",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-18T00:35:23.376875+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "‘GTA 6’ Price & Editions Explained: How Much Does ‘Grand Theft Auto VI’ Cost on PS5 & Xbox?",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-18T00:35:25.024091+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Аферисты заработали 914 тысяч рублей на желании россиян поиграть в GTA 6",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-18T00:35:25.687265+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "World Business Report | Will GTA VI Live Up to the Hype?",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-18T00:35:26.416209+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Guide: GTA 6 Release Times: When Can You Start Playing?",
+   "source": "Push Square",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-18T00:36:57.357216+00:00",
+   "card_title": "GTA 6 ЗАПУСК ЧЕРЕЗ ЧАСЫ"
+  },
+  {
+   "title": "Are you taking off work to play GTA 6? Tell us about it",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-18T00:37:01.175881+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "New GTA 6 Screenshots Surface Online Showing New Weapons, Scenes",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-18T00:37:01.993492+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -934,6 +1004,32 @@
    "queued_at": "2026-11-17T20:47:34.440111+00:00",
    "moderation": "pending",
    "draft_msg_id": 15
+  },
+  {
+   "item": {
+    "title": "Guide: GTA 6 Release Times: When Can You Start Playing?",
+    "link": "https://www.pushsquare.com/guides/gta-6-release-times-when-can-you-start-playing",
+    "summary": "All the GTA 6 release info you need. Probably the most anticipated game of all time, GTA 6 is now just hours away! We're in the final home stretch now, with availability rolling out on PS5 worldwide within the next 24 hours. As the launch draws even closer, we're covering absolutely everything you need to know about its PS5 launch, including preload options and release times. In this GTA 6 guide , we cover the GTA 6 release times . Read the full article on pushsquare.com",
+    "published": "2026-11-18T00:00:00+00:00",
+    "source": "Push Square",
+    "site_name": "Push Square",
+    "trust": "high",
+    "text": "Probably the most anticipated game of all time, GTA 6 is now just hours away! We're in the final home stretch now, with availability rolling out on PS5 worldwide within the next 24 hours.\nAs the launch draws even closer, we're covering absolutely everything you need to know about its PS5 launch, including preload options and release times. In this GTA 6 guide, we cover the GTA 6 release times.\nRockstar has confirmed GTA 6 will officially be playable from midnight on 19th November in your local time zone. If you have preloaded the game, it'll unlock at midnight, and then you can begin playing immediately.\nAs such, the game will unlock and be available first in New Zealand. Availability will then roll out worldwide as each time zone reaches midnight on 19th November.\nWhen the game launches in the UK, we'll have a hub live on the home page documenting our coverage and providing a place for you to share your first experiences with GTA 6.\nGTA 6 preload is available now! If you've pre-ordered from the PS Store, your download of the game should have started and will then be ready for you to start playing at release.\nRockstar has now officially confirmed the GTA 6 file size on PS5, and what you'll need to download, is 212GB. This is one of the biggest downloads and installs on console in history, and will probably only get bigger through patches and the addition of GTA Online.\nCan You Play GTA 6 Early with a New Zealand Account?\nGTA 6 will unlock and be playable in New Zealand first, as it's located in one of the furthest along timezones. The chances are New Zealand is further along in the day compared to wherever you live in the world, so yes, New Zealand will be the first to gain access to GTA 6.\nBecause of this, there's been a rising trend in people creating New Zealand PSN account to play games as soon as possible. This can be done with GTA 6 too, but you'll need to set up a fresh New Zealand PSN account and buy the game through its PS Store.\nWhen you have done, you'll be able to play GTA 6 a few hours ahead of other countries like the USA. Keep in mind, though, that you can't transfer your save data from the New Zealand account you set up to your normal profile.\nWhat's the GTA 6 New Zealand Release Time?\nIf you were to play GTA 6 early via the New Zealand method detailed above, you get access to the game at these times:North America: 3am PST / 4am MST / 5am CST / 6am ESTUK/Ire: 11am GMTEurope: 12pm CET / 1pm EETAsia/Oceania: 8pm JST / 7pm AWST / 10pm AEDT\nGTA 6 is available digitally on the PS Store, or in a basic physical version that ships without a disc. The latter provides a code in the box that you redeem on the PS Store to get the digital version.\nThe two PS5 digital versions on offer are: Standard Edition and Ultimate Edition.\nUltimate Edition / Ultimate Edition Upgrade Contents:\n’95 GROTTI CHEETAH — Grotti's signature mid '90s sports car and ode to Shore Drive, the ’95 Grotti Cheetah is complete with a minimalist, retro-futuristic livery and available to punctuate later-stage action.\nHAWK & LITTLE MORGAN REVOLVERS — His and hers versions of this powerful revolver with classic Vice City stylings sourced from the Vercetti Estate, including palm-tree-etched grips, engraved detailing, and high-performance scope.\nPERSONALIZED WEAPON VARIANTS — Personalized sidearms with detailed engravings for Jason's Girardi ES9 pistol and Lucia's Klose K17 pistol.\nVICE CITY STYLE — Whether poolside or side by side, Jason and Lucia can look the part with exclusive outfits, hairstyles, tattoos, and more.\nJASON’S SAFEHOUSE VEHICLES — Switch gears and soak up the sun in an Army fatigue-tinged Dinka Enduro motorcycle or Crest Kayak.\nGANADO RETRO BUILD — Inject some muscle and classic stylings into Jason's well-worn Vapid Ganado low-riding pickup with exclusive mods.\nSHITZU SQUALO — Perfect for casting in Gambit Bay and reeling in catches of all sorts, this gradient pink and blue Squalo docked at Washington Beach is made open-ocean-ready with an e",
+    "extra": {}
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 10,
+    "post": "🎮 GTA 6: старт через пару часов\n\nRockstar подтвердила: игра станет доступна с полуночи 19 ноября по местному времени. Первыми загрузят новозеландцы, дальше волна пойдёт по часам. Файл на PS5 весит 212 ГБ, так что если не догрузили — бежите к роутеру.",
+    "card_title": "GTA 6 ЗАПУСК ЧЕРЕЗ ЧАСЫ",
+    "reason": "Официальное подтверждение Rockstar о времени релиза в день выхода, критически важная информация для игроков.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "model": "groq:qwen/qwen3.8-27b"
+   },
+   "queued_at": "2026-11-18T00:36:57.357200+00:00"
   },
   {
    "item": {
