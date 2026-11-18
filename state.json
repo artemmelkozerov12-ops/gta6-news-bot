@@ -270,7 +270,28 @@
   "fcff5bb381a1b42f": "2026-11-18T13:59:41.413102+00:00",
   "7ed78b960a308e43": "2026-11-18T13:59:55.768960+00:00",
   "7f83410b13d69d66": "2026-11-18T14:00:07.928142+00:00",
-  "8f5127fb274f941b": "2026-11-18T14:00:10.503259+00:00"
+  "8f5127fb274f941b": "2026-11-18T14:00:10.503259+00:00",
+  "a08dace4cec3e759": "2026-11-18T14:54:45.467156+00:00",
+  "bde028916a3dd7eb": "2026-11-18T14:54:45.467246+00:00",
+  "10cc1539c83ea0f5": "2026-11-18T14:54:45.467322+00:00",
+  "55f30e263f86779b": "2026-11-18T14:54:45.467395+00:00",
+  "cbc6f04c07d776fd": "2026-11-18T14:54:45.467448+00:00",
+  "94e2f93fbf314ced": "2026-11-18T14:54:45.467506+00:00",
+  "b5d8cbb1bacd2a2d": "2026-11-18T14:54:45.467557+00:00",
+  "3f200cb2914d4cc3": "2026-11-18T14:54:45.467601+00:00",
+  "f1eeb28c28628ea6": "2026-11-18T14:54:45.467647+00:00",
+  "4e7a0acc0fa9a048": "2026-11-18T14:54:45.467698+00:00",
+  "145e6564a64ce61b": "2026-11-18T14:54:45.467746+00:00",
+  "96e80b6f3fc8f0a6": "2026-11-18T14:54:45.467793+00:00",
+  "da7f730f29e5f290": "2026-11-18T14:54:45.467838+00:00",
+  "c25b308b7ffdb80c": "2026-11-18T14:54:45.558690+00:00",
+  "69ce4f5f5ca2ff69": "2026-11-18T14:54:45.602374+00:00",
+  "2eeb4d524106f464": "2026-11-18T14:54:47.544803+00:00",
+  "7c1ee6728ff87f17": "2026-11-18T14:55:54.585655+00:00",
+  "eef53198632d76ed": "2026-11-18T14:55:55.230192+00:00",
+  "0e3e1cab6a7eb9fd": "2026-11-18T14:55:56.070546+00:00",
+  "1bde712696f14625": "2026-11-18T14:56:03.259421+00:00",
+  "83c44e29ec02523a": "2026-11-18T14:56:19.637297+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -533,7 +554,28 @@
   "502f4a69920cacaa": "2026-11-18T13:59:41.413102+00:00",
   "ef3c6f58ced7d655": "2026-11-18T13:59:55.768960+00:00",
   "6ceedddea8a98c54": "2026-11-18T14:00:07.928142+00:00",
-  "2bd4ebe8c0d44b77": "2026-11-18T14:00:10.503259+00:00"
+  "2bd4ebe8c0d44b77": "2026-11-18T14:00:10.503259+00:00",
+  "9c146d836e5b33b2": "2026-11-18T14:54:45.467156+00:00",
+  "bda9013c44629bbd": "2026-11-18T14:54:45.467246+00:00",
+  "d26b7edcd6805e6a": "2026-11-18T14:54:45.467322+00:00",
+  "2ee56acaae2df545": "2026-11-18T14:54:45.467395+00:00",
+  "f45910dd4d1857f3": "2026-11-18T14:54:45.467448+00:00",
+  "1f032020698498da": "2026-11-18T14:54:45.467506+00:00",
+  "43a283bea1ac4d31": "2026-11-18T14:54:45.467557+00:00",
+  "9ed59a2009100d37": "2026-11-18T14:54:45.467601+00:00",
+  "c728be7505e560fe": "2026-11-18T14:54:45.467647+00:00",
+  "1e15099b3da68ae3": "2026-11-18T14:54:45.467698+00:00",
+  "0e644e9aa8124d3e": "2026-11-18T14:54:45.467746+00:00",
+  "7d70941c5a570aee": "2026-11-18T14:54:45.467793+00:00",
+  "7646c33e519d7300": "2026-11-18T14:54:45.467838+00:00",
+  "a1b57962d0c0ffd5": "2026-11-18T14:54:45.558690+00:00",
+  "9f5557432664ebf3": "2026-11-18T14:54:45.602374+00:00",
+  "22cf0ea3e5987460": "2026-11-18T14:54:47.544803+00:00",
+  "73db7e9079dc4873": "2026-11-18T14:55:54.585655+00:00",
+  "61d400e355dd5199": "2026-11-18T14:55:55.230192+00:00",
+  "522f4c3ee0e78994": "2026-11-18T14:55:56.070546+00:00",
+  "a065da3223307513": "2026-11-18T14:56:03.259421+00:00",
+  "8345706a3fa00898": "2026-11-18T14:56:19.637297+00:00"
  },
  "recent": [
   {
@@ -2703,6 +2745,174 @@
    "status": "skipped",
    "ts": "2026-11-18T14:00:11.023828+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GTA 6 Hey Arnold Walkthrough",
+   "source": "VGC",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-18T14:54:45.467216+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Pipework Mission Walkthrough",
+   "source": "VGC",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-18T14:54:45.467271+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Isn’t Worth Buying A Fancy Controller For",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-18T14:54:45.467366+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Wow, GTA 6 Has Some Incredible Animations",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-18T14:54:45.467416+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "‘GTA 6’ Earns Rave Reviews and Lands 99 Metacritic Score, Tying for Highest-Rated Game of All Time",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-18T14:54:45.467475+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Will Never Get a 60fps Update on PlayStation Pro as It's 'Not Powerful Enough'",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-18T14:54:45.467531+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "The GTA 6 Map Is Truly, Truly Massive (Of Course)",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-18T14:54:45.467575+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Want A Custom GTA 6 PS5 Pro? Just Play In The NBA",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-18T14:54:45.467621+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Yes, You Can Keep Playing GTA 6 After The Credits Roll And Don't Worry, That's Not A Spoiler",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-18T14:54:45.467669+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Последний день перед полным релизом GTA 6: что известно об игре",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-18T14:54:45.467721+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Rockstar объяснила, почему GTA 6 не получит 60 FPS даже на PS5 Pro",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-18T14:54:45.467768+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Названо имя актрисы GTA 6, которую связывают с ролью Люсии",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-18T14:54:45.467814+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 is Now The Joint-Highest Rated Game of All Time",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-18T14:54:45.467857+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "PlayStation Confirms Latest PS5 System Software Update is Needed to Play GTA 6",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "dup",
+   "ts": "2026-11-18T14:54:45.558748+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 releases Nov. 19, but when can you actually play it?",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-18T14:54:45.602438+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Finally Changed The Default Rockstar-Game Controls",
+   "source": "GameSpot",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-18T14:55:53.840881+00:00",
+   "card_title": "ИЗМЕНЕНИЕ СХЕМЫ БЕГА"
+  },
+  {
+   "title": "Ограничение GTA 6 лишь 30 FPS — это идеальный баланс, говорят в Rockstar",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-18T14:55:54.585763+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "The full 'GTA 6' soundtrack reportedly leaked: See all artists and tracks",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-18T14:55:55.230311+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Впервые показана GTA 6 для Xbox Series S",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-18T14:55:56.070655+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Депутат Госдумы решил хайпануть на релизе GTA 6 и призвал запретить для детей игру, которая и так строго 18+ по всем рейтингам мира",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-18T14:56:03.259536+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6: How To Unlock Vault Radio",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-18T14:56:19.637403+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -2786,29 +2996,29 @@
   },
   {
    "item": {
-    "title": "GTA 6's Release Will Stress The Internet Just As Everything's Falling Apart",
-    "link": "https://www.polygon.com/gta-6-release-apple-down-outages-microsoft-chase-bank-issues/",
-    "summary": "GTA 6 is releasing within days of major outages for Apple, Microsoft, and Chase Bank",
-    "published": "2026-11-18T01:29:36+00:00",
-    "source": "Polygon",
-    "site_name": "Polygon",
+    "title": "GTA 6 Finally Changed The Default Rockstar-Game Controls",
+    "link": "https://www.gamespot.com/articles/gta-6-finally-changed-the-default-rockstar-game-controls/",
+    "summary": "If you've played Rockstar series like Grand Theft Auto or Read Dead Redemption over the past few decades, then you're familiar with their default control scheme, which maps sprinting to a face button instead of the left analog stick. But Grand Theft Auto VI isn't being hailed as a revolutionary game for nothing--at long last, the default scheme has changed. As we learned while playing Grand Theft Auto VI, instead of the default setup mapping sprint to a button (A on Xbox and X on PS5), the game maps it to the left analog stick. However, you're free to switch it back to the style used in games like Red Dead Redemption 2, if you prefer. https://www.youtube.com/watch?v=rAhUXOYNuH4 This is a very handy change, because mapping sprinting to a face button effectively stops you from being able to easily do some of your other actions, unless you have no dignity like me and will use your own face to press a button when your hands are full. The new default control scheme is far from the most impressive thing in Grand Theft Auto 6, of course. The game earned a rare 10/10 in our GTA 6 review , with Tamoor Hussain calling it \"the culmination of everything the developer has previously achieved in the open-world space that pushes the genre to heights that, in all likelihood, no other developer will be able to reach.\" For more on the game, check out our ever-expanding GTA 6 guides hub and learn what you should do first . That shouldn't include buying a whole new pro controller , however.",
+    "published": "2026-11-18T14:49:57+00:00",
+    "source": "GameSpot",
+    "site_name": "GameSpot",
     "trust": "high",
-    "text": "In early November, some internet service providers warned their customers that pre-downloads of Grand Theft Auto 6 were causing network slowdown issues for everyone on the service. That problem became visible before millions of gamers tried to log into the same game simultaneously. A long list of recent outages and issues across industries reliant on tech and network services now makes it seem likely that the biggest game launch of all time won't go down smoothly.\nIf you've ever been around for the release of a big new game, you know that day-one network issues are fairly common. Some hiccups are worse than others, of course, but most people are probably already bracing for some potential hitches when we're talking about the biggest game launch of all time. What makes GTA 6 different from other game releases is its scale and timing.\nThe highly anticipated sequel first began causing issues for some ISPs when Rockstar opened preloads for the 212 GB game on Nov. 10. At the time, some providers claimed that the game was directly responsible for never-before-seen traffic peaks so high that they congested the proverbial internet tubes for everyone else.\nRockstar undoubtedly foresaw that the problem could occur or worsen by launch day. The studio dropped a couple of patches in a staggered rollout prior to launch. The release cadence made it less likely that GTA 6 fans could overload Rockstar's, PlayStation's, and Xbox's servers at the same time. Service providers have also been gearing up for Nov. 19, with at least one ISP advertising that it would offer increased download speeds specifically for GTA 6.\nYet network issues of some sort, both in the game and the internet at large, may be unavoidable on Thursday. Recent trends show that many online services are already hanging on by a thread. Earlier in November, flights across the country were halted due to apparent issues with aging routers that could not handle the amount of data shared by newer pieces of equipment. During that same week, Microsoft products like Outlook and Excel went dark for nearly 24 hours because a faulty gateway was overwhelmed by the amount of data passing through it. On Nov. 16, customers were unable to access accounts at major banks like Chase or through payment services like Zelle.\nOn Nov. 17, Apple users reported widespread issues with iCloud, AppleCare, App Store, and Apple Music. Apple has not revealed the cause of the issues, noting only that outages are slowing down services. On that same Tuesday, news broke that the United States' national security network also went down after weeks of wonkiness.\nThe quick succession of these instances has led to conspiracy theories online that they're the result of cyberattacks. So far, there's no evidence to support such suspicions in relation to recent newsworthy outages. It's probable that the specific causes of all of these events vary widely, but there's an overarching theme among all of them. Online services, by and large, are built on fragile interconnected systems. Some of those systems rely on old hardware and software that are buckling under normal but increasing strain. Even modernizing systems are not immune — those efforts may actually be responsible for the sudden tech difficulties.\nKris Beevers, CEO of a network and infrastructure company, told the BBC on Monday, “I expect we’ll see more meaningful outages in the infrastructure that essential parts of society depend on in coming months as the invisible infrastructure that our world depends on becomes more strained and visible.”\nSince GTA 6 is already responsible for an internet-wide slowdown by some ISPs, it may not be a bad idea to preload the game and its updates ASAP. The same advice applies to those who have purchased physical copies — the game has to be downloaded from Rockstar. Nov. 19 will still probably be rocky for the game if not for the entire internet. But hey: if GTA 6 took over a decade to get here, what's another day?",
+    "text": "If you've played Rockstar series like Grand Theft Auto or Read Dead Redemption over the past few decades, then you're familiar with their default control scheme, which maps sprinting to a face button instead of the left analog stick. But Grand Theft Auto VI isn't being hailed as a revolutionary game for nothing--at long last, the default scheme has changed. As we learned while playing Grand Theft Auto VI, instead of the default setup mapping sprint to a button (A on Xbox and X on PS5), the game maps it to the left analog stick. However, you're free to switch it back to the style used in games like Red Dead Redemption 2, if you prefer. https://www.youtube.com/watch?v=rAhUXOYNuH4 This is a very handy change, because mapping sprinting to a face button effectively stops you from being able to easily do some of your other actions, unless you have no dignity like me and will use your own face to press a button when your hands are full. The new default control scheme is far from the most impressive thing in Grand Theft Auto 6, of course. The game earned a rare 10/10 in our GTA 6 review , with Tamoor Hussain calling it \"the culmination of everything the developer has previously achieved in the open-world space that pushes the genre to heights that, in all likelihood, no other developer will be able to reach.\" For more on the game, check out our ever-expanding GTA 6 guides hub and learn what you should do first . That shouldn't include buying a whole new pro controller , however.",
     "extra": {}
    },
    "verdict": {
     "type": "confirmed",
-    "importance": 7,
-    "post": "📡 GTA 6 уже ломает интернет\n\nПрелоад игры весом 212 ГБ вызвал пиковые нагрузки на сети провайдеров ещё до релиза. Совпадение с недавними сбоями в Apple, Microsoft и банках намекает, что 19 ноября онлайн-сервисы могут зависнуть насовсем. Совет: качайте игру заранее, пока труба не лопнула.",
-    "card_title": "GTA 6 И ИНТЕРНЕТ",
-    "reason": "Актуальная техническая новость о влиянии релиза на инфраструктуру, подтвержденная данными провайдеров и новостным фоном.",
+    "importance": 6,
+    "post": "🎮 GTA 6 меняет схему бега: теперь на левом стике\n\nGameSpot обнаружил, что в GTA 6 бег теперь привязан к левому аналоговому стику, а не к кнопке. Это делает управление более привычным и упрощает выполнение трюков, когда руки заняты. Если вам нравятся старые схемы, их можно вернуть в настройках.",
+    "card_title": "ИЗМЕНЕНИЕ СХЕМЫ БЕГА",
+    "reason": "официальный источник с высоким доверием, важная информация о геймплейных изменениях",
     "duplicate": false,
     "corroborated": false,
     "duplicate_of": "",
-    "corroborated_by": "GTA 6's release will stress test the internet just as everything's falling apart — Google News (EN)",
-    "model": "groq:qwen/qwen3.8-27b"
+    "corroborated_by": "",
+    "model": "groq:openai/gpt-oss-120b → groq:openai/gpt-oss-120b"
    },
-   "queued_at": "2026-11-18T02:01:34.699785+00:00"
+   "queued_at": "2026-11-18T14:55:53.840869+00:00"
   },
   {
    "item": {
