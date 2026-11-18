@@ -440,7 +440,22 @@
   "f466de7a9de61031": "2026-11-18T21:47:45.125720+00:00",
   "942f549e87ddac5f": "2026-11-18T21:47:46.450364+00:00",
   "c6427c0ae98240ef": "2026-11-18T21:48:44.668795+00:00",
-  "f6381cd0ecb2dd23": "2026-11-18T21:48:47.101968+00:00"
+  "f6381cd0ecb2dd23": "2026-11-18T21:48:47.101968+00:00",
+  "3aaee9620154933b": "2026-11-18T22:48:24.006337+00:00",
+  "7373c3a877f13c0b": "2026-11-18T22:48:24.006438+00:00",
+  "b79de4aef4eda3a2": "2026-11-18T22:48:24.006549+00:00",
+  "2a08bddd07db4e09": "2026-11-18T22:48:24.006633+00:00",
+  "9efbcb44b0b8229c": "2026-11-18T22:48:24.006722+00:00",
+  "093422f34046c97e": "2026-11-18T22:48:24.006796+00:00",
+  "9011570291116208": "2026-11-18T22:48:24.006868+00:00",
+  "a9a90d0582f03eab": "2026-11-18T22:48:24.006966+00:00",
+  "cb85ec10ae03646c": "2026-11-18T22:48:24.007035+00:00",
+  "1127614f683d61c5": "2026-11-18T22:48:26.365326+00:00",
+  "b992c15df9c2d618": "2026-11-18T22:48:27.353982+00:00",
+  "14b4487ddb71d8bc": "2026-11-18T22:48:30.170023+00:00",
+  "302a302dee80f89d": "2026-11-18T22:48:45.303185+00:00",
+  "3c0532c0b6481247": "2026-11-18T22:49:18.041747+00:00",
+  "ebd37993f1dd22b4": "2026-11-18T22:50:22.304163+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -836,7 +851,22 @@
   "500e9a95a918af0d": "2026-11-18T21:47:45.125720+00:00",
   "9c501614db9e6598": "2026-11-18T21:47:46.450364+00:00",
   "248719e83c9dfe50": "2026-11-18T21:48:44.668795+00:00",
-  "09b38ca62c359d7c": "2026-11-18T21:48:47.101968+00:00"
+  "09b38ca62c359d7c": "2026-11-18T21:48:47.101968+00:00",
+  "b2166e5121712783": "2026-11-18T22:48:24.006337+00:00",
+  "e6f7f8bff5fd26bf": "2026-11-18T22:48:24.006438+00:00",
+  "1eb66e5a085ff006": "2026-11-18T22:48:24.006549+00:00",
+  "c6aa03fdcaf673e5": "2026-11-18T22:48:24.006633+00:00",
+  "0fbeadde68122a60": "2026-11-18T22:48:24.006722+00:00",
+  "f543fe68a1459c30": "2026-11-18T22:48:24.006796+00:00",
+  "79e9320af9d04dd4": "2026-11-18T22:48:24.006868+00:00",
+  "b7da39d033e21786": "2026-11-18T22:48:24.006966+00:00",
+  "c0954b9f58542da1": "2026-11-18T22:48:24.007035+00:00",
+  "d270ffedac6b3c19": "2026-11-18T22:48:26.365326+00:00",
+  "e0b2810637ccc580": "2026-11-18T22:48:27.353982+00:00",
+  "dabd5805a0643f2e": "2026-11-18T22:48:30.170023+00:00",
+  "081190c36fd3830f": "2026-11-18T22:48:45.303185+00:00",
+  "2bcd78d840e109e6": "2026-11-18T22:49:18.041747+00:00",
+  "1d42fecfab13cb3c": "2026-11-18T22:50:22.304163+00:00"
  },
  "recent": [
   {
@@ -4070,6 +4100,126 @@
    "status": "skipped",
    "ts": "2026-11-18T21:48:58.810811+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GTA 6 Clear Skies Mission Walkthrough",
+   "source": "VGC",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-18T22:48:24.006400+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Yes, That’s Weird Al Hosting A Radio Station In GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-18T22:48:24.006502+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Who Plays Lucia Caminos In GTA 6?",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-18T22:48:24.006588+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Befuddled Japanese player fights GTA 6 controls, loses, becomes 'guy chugging two shakes I accidentally bought while walking around in a squat'",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-18T22:48:24.006679+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "PlayStation Network down for thousands as 'GTA 6' launches",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-18T22:48:24.006759+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "PlayStation Network outage hits on eve of GTA 6 release",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-18T22:48:24.006831+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "PSN Went Down Sorta On GTA 6 Eve",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-18T22:48:24.006921+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Goodbye, Lucia: GTA 6 Fans' Official New Obsession Is Mandy",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-18T22:48:24.007003+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Rockstar Explains Why GTA 6 Doesn’t Have Prostitutes",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-18T22:48:24.007070+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Who is Mandy in GTA 6? Pipework Mission and Serial Killer Theory, Explained",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-18T22:48:26.365450+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Gamers can't play GTA 6 on PS5 without updating system firmware, Sony and Rockstar confirm",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-18T22:48:27.354120+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA fans are ditching work. \"I literally just put GTA 6\" in my PTO request, one worker said.",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-18T22:48:30.170185+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 scams could cost you your account, money, or crypto",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-18T22:48:45.303341+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Rockstar Explains Why GTA 6 Has No Prostitutes In It, A Hallmark Of The Series Since 2001",
+   "source": "Kotaku",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-18T22:50:15.340516+00:00",
+   "card_title": "ПОЧЕМУ В GTA 6 НЕТ ПРОСТИТУТОК"
+  },
+  {
+   "title": "What would you do for GTA VI launch? These soldiers reenlisted for up to 6 more years",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-18T22:50:22.304288+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -4256,6 +4406,32 @@
     "model": "groq:openai/gpt-oss-120b"
    },
    "queued_at": "2026-11-18T20:52:12.671383+00:00"
+  },
+  {
+   "item": {
+    "title": "Rockstar Explains Why GTA 6 Has No Prostitutes In It, A Hallmark Of The Series Since 2001",
+    "link": "https://kotaku.com/rockstar-explains-why-gta-6-has-no-prostitutes-in-it-a-hallmark-of-the-series-since-2001-2000758174",
+    "summary": "Rockstar says it only included features in the game that complimented its story of 'lovers on the run'",
+    "published": "2026-11-18T22:30:39+00:00",
+    "source": "Kotaku",
+    "site_name": "Kotaku",
+    "trust": "high",
+    "text": "Grand Theft Auto 6 is a very big game and includes almost every feature seen in a past GTA game, including the ability to drive tanks, customize cars with turbo, and rob stores. However, one feature that isn’t included in GTA 6 is the ability to hire a sex worker off the street, something players have been doing since 2001.\nIn my over 150 hours playing GTA 6, which is a very good game in case you didn’t hear already, I never encountered a sex worker on the streets of Vice City. To be honest, I never really sought out prostitutes, as I was roleplaying Jason and Lucia as a loving couple who cared about each other deeply. But yeah, when I did look around for sex workers walking the street, I didn’t spot any. And that’s because Rockstar Games didn’t include them in GTA 6.\nIn an interview with Shack News, Rockstar said that it only included features that felt necessary and complementary to Jason and Lucia’s criminal tale.\n“GTA VI is a game about a couple in a bind, lovers on the run,” said Rockstar. “While we have taken a lot forward from previous GTA titles, everything we have implemented in VI has been done to support the spirit of the story we wanted to tell, and the gameplay systems we wanted to expand upon—things like the wanted system, the radio, robberies, and car theft. Many aspects of previous titles are not present in GTA VI, but the elements we have we believe are all necessary and complementary to the feeling and motivations we wanted to emphasize as you play through Jason and Lucia’s story.”\nThe first Grand Theft Auto game to include prostitutes that players could hire was GTA 3, released in 2001. Since then, every mainline GTA game has included sex workers that players can pay for services. However, GTA 6 is breaking that 25-year trend, and honestly, I didn’t even notice until someone else pointed it out online. Turns out, the ability to hire prostitutes isn’t necessary to make a good GTA.\nThere are still strip clubs with plenty of nudity in GTA 6. And you can always come home and make Jason and Lucia have sex if you want some fun.\nDon’t miss the latest reviews, news and tips. Sign up for our free newsletter.\nCultureNews Yes, That’s Weird Al Hosting A Radio Station In GTA 6 GTA 6 contains Al, Weird Al that is! By Zack Zwiezen Published November 18, 2026\nCultureNews Live Updates On GTA 6: The Biggest Launch In Gaming History We're tracking all of the news, discoveries, and conversations as Rockstar's new open-world blockbuster goes live Ethan Gach, Ash Parrish, Carolyn Petit, Zack Zwiezen, Kenneth Shepard, and Rebekah Valentine Published November 18, 2026\nCultureNews 43 Soldiers Re-Enlisted In The Army In Exchange For Time Off To Play Grand Theft Auto 6: ‘I’m All About The Heist’ An unusual signing bonus By Ethan Gach Published November 18, 2026\nGames Turns Out GTA San Andreas Remastered Was Teasing GTA 6 Back In 2021 White picket fence By Rebekah Valentine Published November 18, 2026\nCultureNews Please Enjoy These GTA 6 Clips Of Jason Petting, Fighting, And Being Eaten By Animals The animals in Vice City can be sweet or vicious depending on where you go By Kenneth Shepard Published November 18, 2026\nCultureNews Grand Theft Auto 6 Performance Is Mostly Stable, Except On Xbox Series S Where It Can Hit Sub-20FPS Rockstar’s open world is pushing modern consoles to their limits By Kenneth Shepard Published November 18, 2026",
+    "extra": {}
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "В GTA 6 больше нет уличных проституток\n\nRockstar вырезали эту фичу, которая была с нами с 2001 года. Разработчики объяснили, что оставили только то, что работает на историю Джейсона и Люсии — влюбленных преступников в бегах. Стрип-клубы на месте, так что без контента не останемся.\n\n❤️ — Жаль, минус атмосфера\n👎 — Пофиг, игра и так топ",
+    "card_title": "ПОЧЕМУ В GTA 6 НЕТ ПРОСТИТУТОК",
+    "reason": "Официальное объяснение от разработчиков по поводу изменения механики серии.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "Rockstar Explains Why GTA 6 Doesn’t Have Prostitutes",
+    "model": "gemini:gemini-3.1-flash-lite"
+   },
+   "queued_at": "2026-11-18T22:50:15.340503+00:00"
   },
   {
    "item": {
