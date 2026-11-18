@@ -362,7 +362,54 @@
   "7f76ff5ea51dc9cd": "2026-11-18T18:53:53.066368+00:00",
   "6d35c066f57e9b97": "2026-11-18T18:54:06.328210+00:00",
   "39e804f63fdf081d": "2026-11-18T18:54:22.902038+00:00",
-  "3279671c80a666b3": "2026-11-18T18:54:39.635353+00:00"
+  "3279671c80a666b3": "2026-11-18T18:54:39.635353+00:00",
+  "efad009ff55fc085": "2026-11-18T19:54:18.177721+00:00",
+  "f3c5a7a0eba72a32": "2026-11-18T19:54:18.177793+00:00",
+  "1b1ac62c3326e452": "2026-11-18T19:54:18.177852+00:00",
+  "ec9893a5d62c114b": "2026-11-18T19:54:18.177901+00:00",
+  "391af5a1a79a8365": "2026-11-18T19:54:20.634020+00:00",
+  "ac0e1716a37066e1": "2026-11-18T19:54:21.759148+00:00",
+  "7bced9d856fc97a4": "2026-11-18T19:56:01.929135+00:00",
+  "1c8cf7e5a155b3eb": "2026-11-18T19:56:02.852837+00:00",
+  "c244955eb1ffd503": "2026-11-18T19:56:03.654107+00:00",
+  "0086fbcb684dfcb8": "2026-11-18T19:56:16.948436+00:00",
+  "b7d7b4d244ec92e7": "2026-11-18T19:56:19.231081+00:00",
+  "b633288cb4f3fbcd": "2026-11-18T19:56:20.668574+00:00",
+  "3961b93cad589c49": "2026-11-18T19:56:21.899864+00:00",
+  "6fd13e85285ee540": "2026-11-18T19:57:13.047318+00:00",
+  "69211e177f50f38b": "2026-11-18T19:57:14.175258+00:00",
+  "65b7e2cc9c220747": "2026-11-18T19:57:15.385709+00:00",
+  "f088f73e8de43dad": "2026-11-18T19:58:06.347590+00:00",
+  "891828970f90ee56": "2026-11-18T19:58:07.486578+00:00",
+  "372540dd840d86b0": "2026-11-18T19:58:08.568956+00:00",
+  "59a6a19e7d1e8fc5": "2026-11-18T19:58:59.773065+00:00",
+  "64a93cf1d4f3b1d6": "2026-11-18T19:59:00.880474+00:00",
+  "39156e283bdf6a58": "2026-11-18T19:59:01.944960+00:00",
+  "7815790d161b4195": "2026-11-18T19:59:53.129358+00:00",
+  "94f96ec0f7fa7ab7": "2026-11-18T19:59:54.160165+00:00",
+  "51cd563569bc6086": "2026-11-18T19:59:55.168908+00:00",
+  "235883f2669c611d": "2026-11-18T20:00:46.528603+00:00",
+  "f15be2be861164db": "2026-11-18T20:00:47.729626+00:00",
+  "020c212ffd98277e": "2026-11-18T20:00:49.060586+00:00",
+  "c14414e76cabbafb": "2026-11-18T20:01:40.415091+00:00",
+  "731f83e7bc44d532": "2026-11-18T20:01:41.697859+00:00",
+  "080b78d95f6f0ae2": "2026-11-18T20:01:42.762221+00:00",
+  "83d278d569516146": "2026-11-18T20:02:34.011560+00:00",
+  "88f6cc8b8fe1849f": "2026-11-18T20:02:35.173679+00:00",
+  "a7b32d4c959f1d61": "2026-11-18T20:02:36.393789+00:00",
+  "87779450bec0b6c6": "2026-11-18T20:03:27.587381+00:00",
+  "27bf62eb3cb3983f": "2026-11-18T20:03:28.511131+00:00",
+  "c25821140e371fbf": "2026-11-18T20:03:29.673661+00:00",
+  "2c29e45581782f93": "2026-11-18T20:04:21.092630+00:00",
+  "80cba1b112e8a367": "2026-11-18T20:04:21.998658+00:00",
+  "eca541f0da9222bf": "2026-11-18T20:04:23.269160+00:00",
+  "7a5a9b03ae4ad559": "2026-11-18T20:05:14.810832+00:00",
+  "b87c3bfe9141b933": "2026-11-18T20:05:15.909957+00:00",
+  "e997ebdfc2aacc15": "2026-11-18T20:05:17.557468+00:00",
+  "096c4334c4205710": "2026-11-18T20:06:08.980650+00:00",
+  "c3e3062e7b3d8427": "2026-11-18T20:06:10.246825+00:00",
+  "240016ff85995fe3": "2026-11-18T20:06:11.325289+00:00",
+  "31b92d0a44cc490a": "2026-11-18T20:07:05.457055+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -717,7 +764,17 @@
   "be4ec2c36ecf4028": "2026-11-18T18:53:53.066368+00:00",
   "03041d12b096d882": "2026-11-18T18:54:06.328210+00:00",
   "7f7e7ab1cfcd380c": "2026-11-18T18:54:22.902038+00:00",
-  "3d4de21fc8241430": "2026-11-18T18:54:39.635353+00:00"
+  "3d4de21fc8241430": "2026-11-18T18:54:39.635353+00:00",
+  "47a654b8fe573efd": "2026-11-18T19:54:18.177721+00:00",
+  "17bf7f348913329e": "2026-11-18T19:54:18.177793+00:00",
+  "52b7d8ff3e37bcb8": "2026-11-18T19:54:18.177852+00:00",
+  "6f2acd281dc5b15f": "2026-11-18T19:54:18.177901+00:00",
+  "55ba51943a597d93": "2026-11-18T19:54:20.634020+00:00",
+  "ad13457bf499ddbc": "2026-11-18T19:54:21.759148+00:00",
+  "38d2707ac1f77fdb": "2026-11-18T19:56:01.929135+00:00",
+  "b544e7920212fd49": "2026-11-18T19:56:02.852837+00:00",
+  "c059d2d6862545af": "2026-11-18T19:56:03.654107+00:00",
+  "1ee428f3031fc693": "2026-11-18T19:56:16.948436+00:00"
  },
  "recent": [
   {
@@ -3623,6 +3680,86 @@
    "status": "skipped",
    "ts": "2026-11-18T18:54:39.635492+00:00",
    "card_title": ""
+  },
+  {
+   "title": "Стало известно, сколько времени займёт прохождение GTA VI и на сколько хватает бензина в автомобиле",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-18T19:54:18.177770+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Xbox Unveils New Halo Background & Default 'Event' Background For GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-18T19:54:18.177824+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Прохождение GTA 6 — Глава 1. Миссия «Экипировка»",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-18T19:54:18.177878+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "‘GTA 6’ Reviews Are In: Official Metacritic Score Revealed",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-18T19:54:18.177923+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "NS о GTA VI: «The Sims какой-то на максималках я увидел»",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-18T19:54:20.634160+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Violence Debate Just Reached Congress on Launch Day",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "queued",
+   "ts": "2026-11-18T19:56:00.835718+00:00",
+   "card_title": "КОНГРЕСС И GTA 6"
+  },
+  {
+   "title": "Пока вы работаете, они играют: как начальники и преподаватели сдались перед GTA 6",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-18T19:56:01.929248+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "The New Zealand Trick Works Like a Charm. How to Play GTA 6 Right Now",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-18T19:56:02.852957+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Is GTA 6 out? Here’s where to get same-day delivery before tonight",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-18T19:56:03.654227+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "‘13 Years of Anticipation Deserves a Day Off.’ The ‘GTA VI’ Work Blackout Is Here",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-18T19:56:16.948565+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -3888,6 +4025,32 @@
   },
   {
    "item": {
+    "title": "GTA 6 Violence Debate Just Reached Congress on Launch Day",
+    "link": "https://www.gtaboom.com/gta-6-violence-debate-just-reached-congress-on-launch-day-3a2f",
+    "summary": "Rep. Maxwell Frost says he is buying a PS5 for GTA 6, while Rep. Tim Burchett calls the game a danger to children.",
+    "published": "2026-11-18T19:49:45+00:00",
+    "source": "GTA BOOM",
+    "site_name": "GTA BOOM",
+    "trust": "medium",
+    "text": "Every big Grand Theft Auto release drags the same decades-old argument into the open. Grand Theft Auto VI has now pulled it all the way to Capitol Hill. On the eve of the game's launch, two United States representatives gave dueling takes on Rockstar Games' new game, one treating it as a danger to kids and the other as harmless fun, in a split that reads like the violence panic we have watched follow this series for 25 years.\nOn one side, representative Tim Burchett of Tennessee took the hard line. He argued the game desensitizes children and claimed \"study after study\" shows a connection between titles like GTA VI and real-world violence. He compared it to a how-to guide for stealing cars at gunpoint and shooting police. He also said parents who let their kids play it should raise their children \"better.\" He stopped short of asking Washington to act on it, though, joking that expecting Congress to legislate morality is laughable given its own ethical record.\nThe report came from TMZ, built from street interviews that reporter Jacob Wasserman conducted near Capitol Hill on November 18. Frost was on the other side of the aisle. Representative Maxwell Frost of Florida waved the concern off as overblown, calling it \"just a game\" and saying he is so excited he is buying a PlayStation 5 specifically to play it. He grew up barred from GTA and played The Simpsons: Hit & Run instead, so by his own account he has catching up to do. He put the call on what kids play squarely on parents, while noting that other countries have the same games without America's level of gun violence.\nThe \"study after study\" line is the oldest talking point and the wider body of work has repeatedly failed to establish the link between playing GTA and real-world violence, with study after study pointing the other way. We said as much before when the video game violence panic came back around right on cue for this launch.\nWe have traced this exact cycle from the Hot Coffee scandal through to GTA 6, watched Take-Two Interactive CEO Strauss Zelnick stand his ground and refuse to apologize for the violence and covered how the game carries an adults-only rating in every major market. The part both representatives skate past is that GTA VI was never built for children in the first place, which is the same reason we put together a parents' guide rather than pretend the question is simple.\nIt fits a launch window where lawmakers keep inserting themselves into the age-old conversation, from the US now to across the pond in the United Kingdom, where one party leader shrugged off the violence concerns entirely.\nThe strange twist is that Burchett and Frost quietly agree on the one practical point, that the decision sits with parents, as the two of them disagree on everything around GTA VI.\nWhose take on GTA 6 is closer to yours, Burchett treating it as a danger or Frost calling it just a game you buy a whole console for?\nOnce a post receives 3 qualifying Helpful marks\nThe \"how-to guide for crime\" line is the same thing people said about GTA 3 in 2001. The studies have had 25 years to find the link they still have not found.\nGTA 6 Has a New Save System and Will Not Let You Replay Story Missions\nGTA+ Members Get an Exclusive Car and Garage in GTA 6\nRockstar Drops GTA 6 Festival Set Times With Cactus Jack Finale",
+    "extra": {}
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "🔥 Слух, не подтверждено GTA BOOM\n🚨 Конгресс врывается в дебаты о GTA 6\n\nНа день релиза два конгрессмена высказались о новой GTA VI: один считает её опасной для детей, другой — просто крутой игрой. Главное, как всегда, решают родители.\n\n❤️ — Согласен с Фростом, игра — развлечение\n👎 — Согласен с Бёрчеттом, это вредно",
+    "card_title": "КОНГРЕСС И GTA 6",
+    "reason": "Официальные высказывания депутатов, актуально для фанатов",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "model": "groq:openai/gpt-oss-120b"
+   },
+   "queued_at": "2026-11-18T19:56:00.835701+00:00"
+  },
+  {
+   "item": {
     "title": "How GTA 6 Cheats Work and Why You Have to Finish the Whole Story First",
     "link": "https://www.gtaboom.com/how-gta-6-cheats-work-and-why-you-have-to-finish-the-whole-story-first-f2f7",
     "summary": "All 61 cheats in GTA 6 stay unusable until you finish all 91 main story missions, even if you tackle unlock challenges earlier.",
@@ -3939,5 +4102,38 @@
  },
  "urgent": [
   "2026-11-18T05:00:10.556622+00:00"
+ ],
+ "clips": [
+  {
+   "clip": {
+    "source": "twitch",
+    "url": "https://www.twitch.tv/ohnepixel/clip/PeacefulGlutenFreeVultureShazBotstix-KgHnVnwwgZOeO6Xs",
+    "title": "ohnePixel tries out the strip club's private dance in GTA 6",
+    "author": "ohnePixel",
+    "views": 40373,
+    "duration": 60.0,
+    "created": "2026-11-18T18:14:09+00:00",
+    "lang": "en",
+    "description": ""
+   },
+   "caption": "🔞 В GTA 6 завезли настолько детальные стрип-клубы, что это выглядит как некст-ген уровень. Разработчики явно не теряли времени зря!",
+   "interest": 9,
+   "spoiler": false,
+   "nsfw": true,
+   "watched": true,
+   "model": "gemini:gemini-3.1-flash-lite",
+   "media": {
+    "width": null,
+    "height": 720,
+    "duration": 60
+   },
+   "queued_at": "2026-11-18T20:08:18.154722+00:00",
+   "file_id": "BAACAgIAAxkDAAMYav4Fs3qt9iTTQVveVUaVc6HouckAAm6tAAKKH_BLz2gdsGiz9tQ9BA",
+   "moderation": "pending",
+   "draft_msg_id": 24
+  }
+ ],
+ "clip_drafts": [
+  "2026-11-18T20:08:19.941420+00:00"
  ]
 }
