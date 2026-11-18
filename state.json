@@ -102,7 +102,14 @@
   "64ae22a2f4d060a0": "2026-11-18T02:00:39.247559+00:00",
   "337649b83592e198": "2026-11-18T02:00:55.249279+00:00",
   "102169760444cea3": "2026-11-18T02:00:56.548544+00:00",
-  "96179fc4a1a50add": "2026-11-18T02:01:37.335690+00:00"
+  "96179fc4a1a50add": "2026-11-18T02:01:37.335690+00:00",
+  "55cf71cf189c1272": "2026-11-18T02:53:33.220746+00:00",
+  "393d78495b0751d0": "2026-11-18T02:53:34.636528+00:00",
+  "72fc2379351bf813": "2026-11-18T02:53:35.605427+00:00",
+  "95fb7ba93694920b": "2026-11-18T02:53:36.500920+00:00",
+  "9f13f44b24071330": "2026-11-18T02:53:49.602838+00:00",
+  "84ed10be2b98e9b0": "2026-11-18T02:53:50.146211+00:00",
+  "564a130f1db205e6": "2026-11-18T02:53:50.865181+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -200,7 +207,14 @@
   "32bfd5c143be59dd": "2026-11-18T02:00:39.247559+00:00",
   "756763a48feb220a": "2026-11-18T02:00:55.249279+00:00",
   "ada0820cffed5e55": "2026-11-18T02:00:56.548544+00:00",
-  "9c9241cac44e2b8b": "2026-11-18T02:01:37.335690+00:00"
+  "9c9241cac44e2b8b": "2026-11-18T02:01:37.335690+00:00",
+  "68d47ab558ad1089": "2026-11-18T02:53:33.220746+00:00",
+  "8338ce27bd8b31ea": "2026-11-18T02:53:34.636528+00:00",
+  "d5ab62f469bcdc30": "2026-11-18T02:53:35.605427+00:00",
+  "c803bb792d015cf3": "2026-11-18T02:53:36.500920+00:00",
+  "81bbc057031b1f7b": "2026-11-18T02:53:49.602838+00:00",
+  "c7b4b84955c00e72": "2026-11-18T02:53:50.146211+00:00",
+  "a9738c02461f4ebc": "2026-11-18T02:53:50.865181+00:00"
  },
  "recent": [
   {
@@ -1025,6 +1039,62 @@
    "trust": "rumor",
    "status": "skipped",
    "ts": "2026-11-18T02:01:37.335829+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 releases this week. Here's everything you need to know",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-18T02:53:33.220787+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Фото: баскетболисты «Майами» получили эксклюзивные PlayStation 5 Pro в стиле GTA 6",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-18T02:53:34.636635+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "You Don't Have to Wait: This Trick Gets You Into GTA 6 Tomorrow",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-18T02:53:35.605533+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Обзоры GTA 6 должны опубликовать сегодня, с релизом в Новой Зеландии — плюс наконец раскрыли «Лусию",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-18T02:53:36.501031+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Travis Scott's 'GTA 6' x Nike Air Force 1s Will Release With Two Different Chances to Purchase",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-18T02:53:49.602941+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "The full 'GTA 6' soundtrack reportedly leaked: See every artist and track",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-18T02:53:50.146319+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Asian Gamers Are Finding Ways Around Censorship to Play ‘GTA VI’",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-18T02:53:50.865288+00:00",
    "card_title": ""
   }
  ],
