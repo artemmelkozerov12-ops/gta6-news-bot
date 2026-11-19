@@ -469,7 +469,25 @@
   "1ac0371dae09d26f": "2026-11-18T23:45:40.669328+00:00",
   "5dfade5f98cf9639": "2026-11-18T23:47:22.555727+00:00",
   "3855db5c4cebd3fb": "2026-11-18T23:47:26.617866+00:00",
-  "dadfc2c8c60d7c35": "2026-11-18T23:47:51.571150+00:00"
+  "dadfc2c8c60d7c35": "2026-11-18T23:47:51.571150+00:00",
+  "445509b788758608": "2026-11-19T00:41:06.686554+00:00",
+  "9e7fa197759f99d6": "2026-11-19T00:41:06.686617+00:00",
+  "55d8e1e5817f0751": "2026-11-19T00:41:06.686651+00:00",
+  "36ddfa567c78098d": "2026-11-19T00:41:06.686679+00:00",
+  "7a79d0bd9cf6551c": "2026-11-19T00:41:06.686722+00:00",
+  "497be9320f501cb1": "2026-11-19T00:41:06.686757+00:00",
+  "92b22773aa04bdc6": "2026-11-19T00:41:06.686787+00:00",
+  "3c8041317e4131ff": "2026-11-19T00:41:06.686815+00:00",
+  "1965b5d1d99c085f": "2026-11-19T00:41:06.686842+00:00",
+  "c713f8bf340a3a13": "2026-11-19T00:41:06.686870+00:00",
+  "a1056b8c98095cda": "2026-11-19T00:41:06.686893+00:00",
+  "f74ff8507b3e3ae9": "2026-11-19T00:41:06.686918+00:00",
+  "f3ce5335c381b6bb": "2026-11-19T00:41:08.756950+00:00",
+  "b68c096e1c02c454": "2026-11-19T00:41:09.783828+00:00",
+  "f6710e3009e0f229": "2026-11-19T00:41:10.843446+00:00",
+  "a56ba8a3a1f174d6": "2026-11-19T00:41:12.181865+00:00",
+  "db683278c82b6343": "2026-11-19T00:41:25.479382+00:00",
+  "45470139d9ca8f43": "2026-11-19T00:42:26.207628+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -894,7 +912,24 @@
   "84ac769cdfc7c3be": "2026-11-18T23:45:40.669328+00:00",
   "44013054cf74d789": "2026-11-18T23:47:22.555727+00:00",
   "bdc0459ef24fcbec": "2026-11-18T23:47:26.617866+00:00",
-  "1d3c5cc6d0a37202": "2026-11-18T23:47:51.571150+00:00"
+  "1d3c5cc6d0a37202": "2026-11-18T23:47:51.571150+00:00",
+  "701e58b2b5f1f2d2": "2026-11-19T00:41:06.686554+00:00",
+  "00fa6779ee3b7bc0": "2026-11-19T00:41:06.686617+00:00",
+  "5f247b9edd6bfa7d": "2026-11-19T00:41:06.686651+00:00",
+  "372fed1bdcfd8ba4": "2026-11-19T00:41:06.686679+00:00",
+  "69f99ba722a46aa7": "2026-11-19T00:41:06.686722+00:00",
+  "434f8701e0cbd61d": "2026-11-19T00:41:06.686757+00:00",
+  "177b1951a57d0285": "2026-11-19T00:41:06.686842+00:00",
+  "c881f6708ade7ac9": "2026-11-19T00:41:06.686815+00:00",
+  "4a36ff9f2dbd60fc": "2026-11-19T00:41:06.686870+00:00",
+  "414a07b7b52dd1dd": "2026-11-19T00:41:06.686893+00:00",
+  "713564e10121fd8c": "2026-11-19T00:41:06.686918+00:00",
+  "5d613bb226555457": "2026-11-19T00:41:08.756950+00:00",
+  "d362b9b6a2db3177": "2026-11-19T00:41:09.783828+00:00",
+  "ddb262898bf774c4": "2026-11-19T00:41:10.843446+00:00",
+  "75f53f081c3ad4ee": "2026-11-19T00:41:12.181865+00:00",
+  "cee0b9af7a340cf0": "2026-11-19T00:41:25.479382+00:00",
+  "eb32efdd0f144d16": "2026-11-19T00:42:26.207628+00:00"
  },
  "recent": [
   {
@@ -4360,6 +4395,150 @@
    "status": "skipped",
    "ts": "2026-11-18T23:47:51.571265+00:00",
    "card_title": ""
+  },
+  {
+   "title": "How to use ATMs in GTA 6",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-19T00:41:06.686595+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to fast travel in GTA 6",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-19T00:41:06.686635+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to refuel your car in GTA 6",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-19T00:41:06.686665+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to repair your cars in GTA 6",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-19T00:41:06.686694+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to respray cars in GTA 6",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-19T00:41:06.686737+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to change the time of day in GTA 6",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-19T00:41:06.686771+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Can you replay missions in GTA 6?",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-19T00:41:06.686800+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Here's how to save your game in GTA 6",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-19T00:41:06.686828+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Can you replay missions in GTA 6?",
+   "source": "VGC",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-19T00:41:06.686855+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Story Mode Guide: Missions and Walkthroughs",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "dup",
+   "ts": "2026-11-19T00:41:06.686879+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to Complete Hey Arnold! in GTA 6",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "dup",
+   "ts": "2026-11-19T00:41:06.686902+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to Complete Unwanted Attention in GTA 6",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "dup",
+   "ts": "2026-11-19T00:41:06.686927+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Jason’s House: How to fix all projects around Jason’s House",
+   "source": "VGC",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-19T00:41:08.757046+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "inside GTA VI’s vice city, from florida field trips to the design of its streets",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-19T00:41:09.783943+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "‘GTA 6’ releases tonight after 13-year wait",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-19T00:41:10.843553+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Officially Cuts A Controversial Franchise Feature After 25 Years",
+   "source": "Polygon",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-19T00:41:12.446764+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Deus Ex's Warren Spector hopes GTA 6 is \"the last of its kind\" because of its $1 billion budget",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-19T00:42:25.260488+00:00",
+   "card_title": "СПЕКТОР ПРОТИВ БЮДЖЕТА GTA 6"
+  },
+  {
+   "title": "Are you excited for GTA 6? NCWLIFE talks in the Time Capsule about GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-19T00:42:26.207750+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -4572,6 +4751,32 @@
     "model": "gemini:gemini-3.1-flash-lite"
    },
    "queued_at": "2026-11-18T22:50:15.340503+00:00"
+  },
+  {
+   "item": {
+    "title": "Deus Ex's Warren Spector hopes GTA 6 is \"the last of its kind\" because of its $1 billion budget",
+    "link": "https://www.gamesradar.com/games/grand-theft-auto/i-just-hope-gta-6-is-the-last-of-its-kind-deus-ex-creator-sees-rockstars-usd1-billion-development-cost-and-says-id-rather-have-hundreds-of-games-and-full-employment/",
+    "summary": "Rockstar's budget doesn't \"represent a business model anyone else can or probably should emulate\"",
+    "published": "2026-11-19T00:14:09+00:00",
+    "source": "GamesRadar+",
+    "site_name": "GamesRadar+",
+    "trust": "high",
+    "text": "Rockstar seems to have really, really stuck the landing with GTA 6. After a decade of astronomically high expectations, GTA 6 is launching this week to universal acclaim, tying the original Zelda: Ocarina of Time for highest rated game of all time on Metacritic. As the GTA 6 release time opens up for different players around the world, people are just beginning their rampages around Leonida and sharing new discoveries by the minute. And yet, one very prominent RPG developer hopes we never see the likes of a game the size and scale of GTA 6 ever again.\nIn a new Linkedin post, Warren Spector, best-known for creating the Deus Ex series, sounds plenty happy for Rockstar fans and developers celebrating a monumental critical achievement, but also concerned about the precedent it might be setting for other game developers.\n\"First, congratulations to everyone who worked on GTA 6. It looks like it will be a high point of sorts for our medium and our business,\" Spector says, before pivoting. \"However… It’s billion-dollar development cost and an undoubtedly crazy marketing budget don’t represent a business model anyone else can or probably should emulate. That’s especially true when thousands of developers are out of work.\n\"A billion dollars pays for a lot of games and a lot of salaries. Personally I'd rather have hundreds of games and full employment than one game no matter how amazing it is.\"\nI definitely understand having an instinctual negative reaction to someone saying, quite explicitly, no more GTA ever again, or at least not at the scale of GTA 6, but my read here is that Spector is saying the amount of money that went into the game could support several game studios and hundreds of game developers at a time when game studios and game developers seem to constantly be on the chopping block.\nSpector also says GTA 6's success proves a point he's been making \"for years,\" which is that \"no game that matters ships on time and/or on budget,\" pointing again to GTA 6's staggering $1 billion budget and multiple delays.\n\"Give a game the time and money to prove its potential (key word, potential) and you have a chance of making something great,\" he says. \"Underfund a game or force it out the door before it’s ready guaranteed failure no matter how much potential it has.\nWeekly digests, tales from the communities you love, and more\n\"So, again, congratulations. Ambition and innovation are necessary for the medium to reach its potential. I just hope GTA 6 is the last of its kind even if it’s the best we have to offer.\"\nIt's impossible to predict the full economic impact of a game like GTA 6. Even with its incredible reviews, some Rockstar developers are already worrying about potential layoffs now that the game is shipping. On the other hand, GTA 6's inevitable gargantuan commercial success could generate unprecedented revenue and have a reinvigorating effect on the gaming industry as a whole. One thing's for sure, we probably won't see another $1 billion game for a very, very long time, so I guess Spector is getting his wish.\nGTA 6 at 60fps on PS5 Pro isn't possible because the console \"is not powerful enough,\" Rockstar says\n4. Best pro Xbox: Nacon Revolution X Unlimited\nAfter earning an English degree from ASU, I worked as a corporate copy editor while freelancing for places like SFX Magazine, Screen Rant, Game Revolution, and MMORPG on the side. I got my big break here in 2019 with a freelance news gig, and I was hired on as GamesRadar's west coast Staff Writer in 2021. That means I'm responsible for managing the site's western regional executive branch, AKA my home office, and writing about whatever horror game I'm too afraid to finish.\nYou must confirm your public display name before commenting\nPlease logout and then login again, you will then be prompted to enter your display name.\n1 New Avengers: Doomsday posters give us our first real look at Nightcrawler and appear to tease Namor and Sue Storm's controversial comic book relationship\n2 E",
+    "extra": {}
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "Спектор просит: больше таких GTA 6 не надо\n\nСоздатель Deus Ex считает, что $1 млрд бюджета — это плохой пример для индустрии. Лучше иметь сотни игр и работу для всех, чем одну мега-игру. Ну, посмотрим, как Rockstar отреагирует на этот «позитив». 🤔",
+    "card_title": "СПЕКТОР ПРОТИВ БЮДЖЕТА GTA 6",
+    "reason": "Официальное заявление известного разработчика (Warren Spector) через LinkedIn, опубликованное крупным изданием.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "model": "groq:qwen/qwen3.8-27b"
+   },
+   "queued_at": "2026-11-19T00:42:25.260470+00:00"
   },
   {
    "item": {
