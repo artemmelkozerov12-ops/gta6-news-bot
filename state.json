@@ -733,7 +733,20 @@
   "3ae6910a818bfb5a": "2026-11-19T17:41:52.036271+00:00",
   "05ba0109020207a6": "2026-11-19T17:42:17.534399+00:00",
   "0bf3efc91c8f51bf": "2026-11-19T17:42:37.003659+00:00",
-  "52108a7bb2ff1660": "2026-11-19T17:42:55.797822+00:00"
+  "52108a7bb2ff1660": "2026-11-19T17:42:55.797822+00:00",
+  "7157b2559c615f36": "2026-11-19T18:38:51.457794+00:00",
+  "29e9616a05bdd354": "2026-11-19T18:38:51.457894+00:00",
+  "46f42349a274adbf": "2026-11-19T18:38:51.457979+00:00",
+  "0c9a633155a305c6": "2026-11-19T18:38:51.458054+00:00",
+  "ef9c3b2a7fd66f3a": "2026-11-19T18:38:51.458125+00:00",
+  "47b0b76e6c3dc039": "2026-11-19T18:38:51.458201+00:00",
+  "6155a837a2da5fc7": "2026-11-19T18:38:52.291477+00:00",
+  "b124f0edb40d07e1": "2026-11-19T18:38:55.187003+00:00",
+  "b9103f24219e1c7d": "2026-11-19T18:38:56.017388+00:00",
+  "9ebada8c271fda4a": "2026-11-19T18:38:56.947915+00:00",
+  "3a45a595e4a2da63": "2026-11-19T18:38:58.384977+00:00",
+  "809e62475616cbc6": "2026-11-19T18:39:29.381914+00:00",
+  "d3cbef020274f27a": "2026-11-19T18:39:59.786037+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -1341,7 +1354,19 @@
   "3fbc43993f8e1a28": "2026-11-19T17:41:52.036271+00:00",
   "578ec915613a015b": "2026-11-19T17:42:17.534399+00:00",
   "0639e2bb60ec34d2": "2026-11-19T17:42:37.003659+00:00",
-  "979ab768ee6649b8": "2026-11-19T17:42:55.797822+00:00"
+  "979ab768ee6649b8": "2026-11-19T17:42:55.797822+00:00",
+  "a3921aba0a9bce35": "2026-11-19T18:39:59.786037+00:00",
+  "b5c1a14400ec828c": "2026-11-19T18:38:51.457894+00:00",
+  "7c9d917670822825": "2026-11-19T18:38:51.457979+00:00",
+  "f925c0fdf4bf0ae4": "2026-11-19T18:38:51.458054+00:00",
+  "14b060a560baa950": "2026-11-19T18:38:51.458125+00:00",
+  "4a77904921cd4cfe": "2026-11-19T18:38:51.458201+00:00",
+  "6db0e51d65f6144b": "2026-11-19T18:38:52.291477+00:00",
+  "cbffbd56cb07fcb5": "2026-11-19T18:38:55.187003+00:00",
+  "1b45b3a75cf1dc4d": "2026-11-19T18:38:56.017388+00:00",
+  "5d82330e94d5f5d4": "2026-11-19T18:38:56.947915+00:00",
+  "c5524364bf183442": "2026-11-19T18:38:58.384977+00:00",
+  "f4272b809f0d77b0": "2026-11-19T18:39:29.381914+00:00"
  },
  "recent": [
   {
@@ -6342,6 +6367,110 @@
    "trust": "rumor",
    "status": "skipped",
    "ts": "2026-11-19T17:42:55.797929+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GAMING-GTA VI/MIAMI-LAUNCH",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-19T18:38:51.457842+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Instant review of GTA VI after four hours of gameplay",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-19T18:38:51.457938+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Phone apps list in GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-19T18:38:51.458015+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How To Switch Camera Views In GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-19T18:38:51.458086+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "I just found a verrrry familiar-looking hat in GTA 6, and it was in the last place I would have expected",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-19T18:38:51.458164+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 debut prompts mass job callouts after 13-year wait",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-19T18:38:51.458239+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to steal a fighter jet and battle tank in GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-19T18:38:52.291557+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Cheats in GTA 6 are weirdly restrictive, and I'm counting the minutes until the PC version fixes them",
+   "source": "PC Gamer",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-19T18:38:55.187146+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to play GTA VI on your PC today – with a free app",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-19T18:38:56.017538+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Bigfoot explained: How to find ‘Bigfoot’ in GTA 6",
+   "source": "VGC",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-19T18:38:56.948018+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Censorship in Japan Sees Characters Shower in Underwear, as Sex and Violence Are Toned Down",
+   "source": "Push Square",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-19T18:39:28.204267+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "‘GTA VI’, Online ‘Cheating’ and the Denouncement of the Game as Interactive Porn",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-19T18:39:29.382052+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GAMING-GTA VI/MIAMI-LAUNCH",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-19T18:39:59.786154+00:00",
    "card_title": ""
   }
  ],
