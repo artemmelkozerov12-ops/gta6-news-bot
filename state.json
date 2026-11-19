@@ -487,7 +487,16 @@
   "f6710e3009e0f229": "2026-11-19T00:41:10.843446+00:00",
   "a56ba8a3a1f174d6": "2026-11-19T00:41:12.181865+00:00",
   "db683278c82b6343": "2026-11-19T00:41:25.479382+00:00",
-  "45470139d9ca8f43": "2026-11-19T00:42:26.207628+00:00"
+  "45470139d9ca8f43": "2026-11-19T00:42:26.207628+00:00",
+  "7b047fe05ee60d41": "2026-11-19T01:59:48.284479+00:00",
+  "f8f1d367528d2828": "2026-11-19T01:59:48.284559+00:00",
+  "bbb128d439087e20": "2026-11-19T01:59:48.348679+00:00",
+  "3bd34f2f586189e9": "2026-11-19T01:59:49.931523+00:00",
+  "d78e64370f8157b3": "2026-11-19T01:59:50.867497+00:00",
+  "f05fc75ef64d0d0d": "2026-11-19T01:59:51.848395+00:00",
+  "a007472c27f1630a": "2026-11-19T02:00:06.828944+00:00",
+  "8d4d1ad64b48df49": "2026-11-19T02:00:41.386636+00:00",
+  "e6db10d24f24fbd0": "2026-11-19T02:02:30.424963+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -929,7 +938,16 @@
   "ddb262898bf774c4": "2026-11-19T00:41:10.843446+00:00",
   "75f53f081c3ad4ee": "2026-11-19T00:41:12.181865+00:00",
   "cee0b9af7a340cf0": "2026-11-19T00:41:25.479382+00:00",
-  "eb32efdd0f144d16": "2026-11-19T00:42:26.207628+00:00"
+  "eb32efdd0f144d16": "2026-11-19T00:42:26.207628+00:00",
+  "54b3695afb22c349": "2026-11-19T01:59:48.284479+00:00",
+  "f766d489abdba0d3": "2026-11-19T01:59:48.284559+00:00",
+  "4db7b3837b5d1f2a": "2026-11-19T01:59:48.348679+00:00",
+  "a691fa340759cad8": "2026-11-19T01:59:49.931523+00:00",
+  "d100c591194effef": "2026-11-19T01:59:50.867497+00:00",
+  "157b9ffb25c7b9f0": "2026-11-19T01:59:51.848395+00:00",
+  "ef58dfd2db06efd4": "2026-11-19T02:00:06.828944+00:00",
+  "e52432f1a3097cb1": "2026-11-19T02:00:41.386636+00:00",
+  "4e8f7344a90fa13a": "2026-11-19T02:02:30.424963+00:00"
  },
  "recent": [
   {
@@ -4539,6 +4557,78 @@
    "status": "skipped",
    "ts": "2026-11-19T00:42:26.207750+00:00",
    "card_title": ""
+  },
+  {
+   "title": "‍(LIVE^NOW) ‍‍‍GTA 6 FREE DOWNLOAD for PC (2026) Step-by-Step Guide! Live Free On Tv Channel",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-19T01:59:48.284529+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Launch Causes Massive Spike in Traffic for Internet Provider Xfinity",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-19T01:59:48.284577+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "43 Army Members Reenlisted in Exchange for Paid Time Off to Play GTA 6",
+   "source": "IGN",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-19T01:59:48.348707+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "«Майами» распродал товары в стиле GTA 6 менее чем за 90 минут",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-19T01:59:49.931656+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Miami Hurricanes news: GTA VI takes over South Florida in full circle moment",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-19T01:59:50.867623+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "‘Like a kid at Christmas’: GTA VI dazzles Australian gamers with ‘fully lived-in, breathable world’",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-19T01:59:51.848524+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Kalshi Hired a GTA VI Researcher From 33,000 Applicants. He Plans to Follow Jeff Bezos in 1 Unexpected Way",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-19T02:00:06.829061+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6‘s Big Miami Heat Game Led To Black Friday-Like Crowds Trying To Buy All The Merch",
+   "source": "Kotaku",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-19T02:02:14.269985+00:00",
+   "card_title": "АЖИОТАЖ ВОКРУГ МЕРЧА GTA 6"
+  },
+  {
+   "title": "Miami Heat Vice City jersey celebrates GTA 6 launch",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-19T02:02:30.425081+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -4569,58 +4659,6 @@
    "queued_at": "2026-11-18T21:48:43.443653+00:00",
    "moderation": "pending",
    "draft_msg_id": 25
-  },
-  {
-   "item": {
-    "title": "GTA 6′s Map Contains Areas That Could Be Used In The ‘Future,’ Says Rockstar",
-    "link": "https://kotaku.com/gta-6s-map-contains-areas-that-could-be-used-in-the-future-says-rockstar-2000756338",
-    "summary": "The studio also explained why you can't gamble in GTA 6 despite a casino being included on the map",
-    "published": "2026-11-18T12:30:15+00:00",
-    "source": "Kotaku",
-    "site_name": "Kotaku",
-    "trust": "high",
-    "text": "Grand Theft Auto 6 features the largest open world Rockstar has ever created. It’s a map filled with locations to explore. However, after playing over 130 hours of GTA 6, there were still plenty of locations, including a zoo and a small northern town, that I never visited once during the story. And according to Rockstar, that’s because the map in GTA 6 was built for the “future.”\nAhead of Grand Theft Auto 6‘s launch, I asked Rockstar about the inclusion of at least two large casinos on the map. These locations can’t be entered and are never referenced or visited in the story or in any of the side missions I played. So I asked why Rockstar didn’t let Jason and Lucia bet it all on red.\n“Jason and Lucia’s story didn’t feel like the right place for us to introduce gambling,” explained Rockstar VP of design Stephen Donkin. “Especially with the fine balance we sought throughout the economy.”\nThat’s fair. GTA 6 is the first Grand Theft Auto game to really make money feel important, and at times it can be hard to scrounge together enough cash to buy a new gun or fix up your car. So letting players save-scum their way to victory at the casino and have the characters come away with tens of thousands of dollars or more could have derailed the story Rockstar was trying to tell. But those casinos and other unused locations, like an extremely detailed zoo and a large graveyard, could end up being used for…something in the future.\n“The map has been built for the long term and with many factors in mind,” said Donkin. “So there are a few areas on the map that give us options in the future should we have a gameplay or narrative need for them.”\nRockstar didn’t share any more details with me about what those “needs” could be, but it does seem that the company has built GTA 6 as something it can expand upon over time, possibly with expansions, updates, and/or some kind of online mode. For now, there’s plenty of GTA 6 for players to get lost in, and even those out-of-the-way locations are fun to explore.\nDon’t miss the latest reviews, news and tips. Sign up for our free newsletter.\nCultureNews The Web Is Dead In GTA 6: ‘It Didn’t Feel Necessary For Us’ Grand Theft Auto 6 doesn’t feature satirical websites because the emphasis was on social media and phone apps By Zack Zwiezen Published November 18, 2026\nGames GTA 6 Debuts With An Astonishing 99 Metacritic Score, Currently Tied For Best-Reviewed Game Of All Time GTA 6 is currently neck-and-neck with the original The Legend of Zelda: Ocarina of Time as Metacritic's best reviewed game ever By Lewis Parker Published November 18, 2026\nCultureNews Grand Theft Auto 6 Includes A Joke About GTA 7 The massive open-world game features its own social media network complete with a GTA joke By Zack Zwiezen Published November 18, 2026\nCultureNews After Finishing GTA 6, I Can Confirm Its Trailers And Teasers Mostly Featured Very Early Moments From The Game If you were worried that Rockstar's marketing spoiled any big late game moments, I've got good news By Zack Zwiezen Published November 18, 2026\nCultureNews We Tested How Long It Takes To Run Out Of Gas In GTA 6 And also tested how long electric cars can go between charges By Zack Zwiezen Published November 18, 2026\nCultureNews It Took Me Over Three Hours To Walk Across GTA 6′s Massive Map It was a dangerous and wild journey that was almost cut short by alligators By Zack Zwiezen Published November 18, 2026",
-    "extra": {}
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "🗺️ Карту GTA 6 заготовили для будущих обновлений\n\nНа карте GTA 6 есть закрытые локации вроде казино и зоопарка, которые не используются в сюжете. Представитель Rockstar Стивен Донкин объяснил, что мир создавали с заделом на будущее.\n\nРазработчики оставили такие места, чтобы использовать их для сюжета, обновлений или онлайн-режима, когда появится необходимость.",
-    "card_title": "КАРТУ GTA 6 СДЕЛАЛИ НА БУДУЩЕЕ",
-    "reason": "Официальное подтверждение от Rockstar, интерес к будущим обновлениям",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "model": "groq:openai/gpt-oss-120b → gemini:gemini-3.5-flash"
-   },
-   "queued_at": "2026-11-18T12:43:49.846964+00:00"
-  },
-  {
-   "item": {
-    "title": "Where is GTA 6 Online and GTA 6 multiplayer?",
-    "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-online-multiplayer/",
-    "summary": "GTA 6 is launching as single-player only, but GTA 6 Online might not be far off",
-    "published": "2026-11-18T12:25:05+00:00",
-    "source": "GamesRadar+",
-    "site_name": "GamesRadar+",
-    "trust": "high",
-    "text": "If you're wondering about GTA 6 online or multiplayer functionality at launch, the answer is currently no. Rockstar's latest will be a solo venture for the time being – meaning no GTA 6 Online or GTA 6 multiplayer mode in the immediate future.\nThat might be a bummer for anyone who had hoped to explore Jason and Lucia's slice of crime-ridden GTA 6 paradise with a player two in tow, let alone the GTA Online community. But if you read our Editor-In-Chief's glowing GTA 6 review while bemoaning the lack of online functionality, fear not: you might not be disappointed for long. Here's everything I've managed to dig up so far on the state of GTA 6 Online, from when we can hope to see it to whether it actually exists at all.\nGTA 6 Online will not be part of the game's launch. Given the immense popularity of the online multiplayer entity, though, its existence is all but guaranteed. Rockstar has officially renewed its ownership of the GTA 6 and Vice City Online domains, with PlayStation Game Size on Twitter confirming that an inactive multiplayer component is coded into the game files. Rumors and file-rummaging can't tell us exactly when GTA 6 Online will come, but these findings strongly suggest that online multiplayer fans have something to look forward to.Rockstar has stated that GTA 6 is a single-player game, but with two protagonists and \"join:Session\" being among the inactive multiplayer codes, it begs the question of what GTA 6 Online could actually look like – and whether a GTA 6 multiplayer campaign mode is on the cards after all. For now, though, we'll have to go at the mean streets of Vice City on our own. Race you to the beach!\nHere's everything you need to know about GTA 6 before diving in.\n© GamesRadar+. Not to be reproduced without permission.\nWeekly digests, tales from the communities you love, and more\nJasmine is a Senior Staff Writer at GamesRadar+. Raised in Hong Kong and having graduated with an English Literature degree from Queen Mary, University of London, she started her games journalism career as a freelancer with TheGamer and Tech Radar Gaming before joining GamesRadar+ full-time in 2023. As part of the Features team, her duties include attending game previews and key international conferences such as Gamescom and Digital Dragons in between regular interviews, opinion pieces, and the occasional news or guides stint. In her spare time, you'll likely find Jasmine thinking/talking about Resident Evil, purchasing another book she's unlikely to read, or complaining about the weather.\nYou must confirm your public display name before commenting\nPlease logout and then login again, you will then be prompted to enter your display name.\n1 Sony issues mandatory PS5 update to play GTA 6, potentially slowing down hackers' attempts to dump Rockstar's game\n2 In more proof 2026 has been a solid year for game adaptations, Resident Evil, Fallout season 2, and more are nominated at the Game Awards\n3 Kevin Feige says Marvel storytelling \"is not one-and-done,\" and he's bringing back Robert Downey Jr. and Chris Evans because \"there are more stories to tell\"\n4 Keeping GTA 6 missions \"as open as possible\" was a lot \"harder,\" Rockstar tech lead admits – but \"the freedom and flexibility it allows the player was worth it\"\n5 GTA 6 Metacritic score makes it the highest-rated game of all time, matching the OG Zelda: Ocarina of Time",
-    "extra": {}
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "🌐 GTA 6 останется исключительно одиночной игрой на старте\n\nRockstar подтвердила, что на релизе экшена мультиплеера не будет. Однако фанатам GTA Online не стоит переживать: разработчики уже продлили права на домены GTA 6 и Vice City Online, а в файлах игры нашли неактивные строчки кода для сетевых сессий.",
-    "card_title": "GTA 6 БЕЗ ОНЛАЙНА НА СТАРТЕ",
-    "reason": "Подтвержденная информация от Rockstar о отсутствии мультиплеера на старте и технические доказательства его будущего появления.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "model": "groq:qwen/qwen3.8-27b → gemini:gemini-3.5-flash"
-   },
-   "queued_at": "2026-11-18T12:44:35.932880+00:00"
   },
   {
    "item": {
@@ -4777,6 +4815,32 @@
     "model": "groq:qwen/qwen3.8-27b"
    },
    "queued_at": "2026-11-19T00:42:25.260470+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA 6‘s Big Miami Heat Game Led To Black Friday-Like Crowds Trying To Buy All The Merch",
+    "link": "https://kotaku.com/gta-6s-big-miami-heat-game-led-to-black-friday-like-crowds-trying-to-buy-all-the-merch-2000758204",
+    "summary": "For one night only GTA and the NBA crossed over and a lot of people wanted those $120 jerseys",
+    "published": "2026-11-19T01:39:40+00:00",
+    "source": "Kotaku",
+    "site_name": "Kotaku",
+    "trust": "high",
+    "text": "Tonight, on the eve of Grand Theft Auto 6‘s release in the United States, the Miami Heat became the Vice City Heat as part of a large promotional marketing event between the NBA team and Rockstar Games. And according to reporters at the big game, the crowds were similar to what you might see on Black Friday, as thousands of fans tried to get their hands on exclusive GTA-themed merchandise.\nOn Wednesday night, before the game, Miami Heat reporter Will Manso shared a video of a huge crowd of people inside the arena, commenting that he couldn’t “remember a time I’ve walked through the concourse… and seen so many fans lined up.” He added: “It’s wild the amount of people inside already trying to grab Vice City merch.”\nI can’t remember a time I’ve walked through the concourse over an hour before a Heat game and seen so many fans lined up. It’s wild the amount of people inside already trying grab the Vice City merch. pic.twitter.com/og3QM2q0kZ — Will Manso (@WillManso) November 18, 2026\nEven though it was raining outside, fans were still lining up in numbers not usually seen. And they were showing up early, clearly wanting to get their hands on some merch, including $120 Vice City-themed black and neon pink NBA jerseys. It’s likely these will be rare and sought-after pieces of clothing connected to what is shaping up to be a once-in-a-generation video game, GTA 6. Inside, lines were long as people waited for their chance to get some sweet Vice City swag.\nVice City shopping. pic.twitter.com/eIeh33Sb5k — Tim Reynolds (@ByTimReynolds) November 18, 2026\nAnother video shared by NBA reporter Tim Reynolds showed chaos inside the Miami Heat merch store, with fans running to a wall to grab a jersey before they were all sold out. According to some, it was supposed to be limited to one jersey per ticket, but Reynolds reports some fans tried to buy two or more shirts at a time. However, these fans were mostly stopped and told to only buy one.\n“Can’t say it didn’t happen at all — but I know for certain that not everyone who tried it succeeded,” said\nReynolds further predicted that he was “certain” the big GTA-themed Heat game will set a new record for gear sold at an NBA game. “Probably by quite a margin,” he added.\nI’m told all Heat x GTA Vice City gear has sold out in less than 90 minutes. All stores closed now. Demand was crazy. pic.twitter.com/lXGPqcG1kx — Cameron Wolfe (@CameronWolfe) November 18, 2026\nRockstar and the Miami Heat went all out for the big crossover game, with the broadcast kicking off with a big custom intro and even a Macca the Gator mascot from an in-game GTA 6 cartoon appearing on the court to interact with fans.\nIt was later reported by Cameron Wolfe that all of the Heat X Vice City gear sold out in about 90 minutes and stores in the arena had been closed. Meanwhile, on eBay, people are already trying to flip the rare jerseys for $450 or more. Wonder if any of those fancy PS5 consoles Heat players got will show up on eBay one day?\nDon’t miss the latest reviews, news and tips. Sign up for our free newsletter.\nCultureNews Live Updates On GTA 6: The Biggest Launch In Gaming History We're tracking all of the news, discoveries, and conversations as Rockstar's new open-world blockbuster goes live Ethan Gach, Ash Parrish, Carolyn Petit, Zack Zwiezen, Kenneth Shepard, and Rebekah Valentine Published November 18, 2026\nCultureNews Rockstar Explains Why GTA 6 Has No Prostitutes In It, A Hallmark Of The Series Since 2001 Rockstar says it only included features in the game that complimented its story of 'lovers on the run' By Zack Zwiezen Published November 18, 2026\nCultureNews Yes, That’s Weird Al Hosting A Radio Station In GTA 6 GTA 6 contains Al, Weird Al that is! By Zack Zwiezen Published November 18, 2026\nCultureNews 43 Soldiers Re-Enlisted In The Army In Exchange For Time Off To Play Grand Theft Auto 6: ‘I’m All About The Heist’ An unusual signing bonus By Ethan Gach Published November 18, 2026\nGames Turns Out GTA San Andreas Re",
+    "extra": {}
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "🔥 АЖИОТАЖ ВОКРУГ МЕРЧА GTA 6\n\nНа матче «Майами Хит» творилось безумие: фанаты смели весь лимитированный мерч в стиле Vice City всего за полтора часа. Внутри арены была давка, как в «Черную пятницу», а теперь эти джерси перепродают на eBay в 4 раза дороже. Видимо, хайп по игре просто нереальный! 🏀🎮\n\n❤️ — Успел бы урвать?\n👎 — Оверпрайс, не стоит того",
+    "card_title": "АЖИОТАЖ ВОКРУГ МЕРЧА GTA 6",
+    "reason": "Официальная новость от крупного СМИ про маркетинговую коллаборацию Rockstar и NBA.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "«Майами» распродал товары в стиле GTA 6 менее чем за 90 минут — Google News (RU)",
+    "corroborated_by": "«Майами» распродал товары в стиле GTA 6 менее чем за 90 минут — Google News (RU)",
+    "model": "gemini:gemini-3.1-flash-lite"
+   },
+   "queued_at": "2026-11-19T02:02:14.269966+00:00"
   },
   {
    "item": {
