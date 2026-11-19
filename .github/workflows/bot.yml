@@ -31,6 +31,10 @@ jobs:
     timeout-minutes: 70        # бот слушает кнопки ~50 мин, плюс сбор новостей
     steps:
       - uses: actions/checkout@v4
+        with:
+          # самая свежая версия main на момент старта, а не та, что была при постановке в очередь:
+          # иначе запуск, ждавший предыдущего, берёт старый state.json и не может его сохранить
+          ref: ${{ github.event.repository.default_branch }}
 
       - uses: actions/setup-python@v5
         with:
@@ -68,7 +72,8 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add state.json
           git commit -m "state: обновление [skip ci]"
-          for i in 1 2 3; do git pull --rebase --autostash && git push && exit 0; sleep 5; done
+          # если за время работы state.json успел поменяться — побеждает наш, более свежий (-X theirs при rebase)
+          for i in 1 2 3; do git pull --rebase --autostash -X theirs && git push && exit 0; git rebase --abort 2>/dev/null; sleep 5; done
           exit 1
 
       - name: Карточки dry-run (скачать во вкладке Summary → Artifacts)
