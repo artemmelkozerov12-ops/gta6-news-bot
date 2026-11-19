@@ -25,7 +25,8 @@ Gemini смотрит видео и пишет короткую подпись (
 - `bot/fetch.py` — загрузка RSS/страниц, фильтр по ключевым словам, текст статьи.
 - `bot/dedupe.py` — state.json, дедуп по URL/хэшу заголовка, смысловая похожесть за 48 ч.
 - `bot/llm.py` — Gemini, системный промпт из config.yaml, JSON-схема, валидация.
-- `bot/card.py` — карточка 1280x720: шаблон из Figma (`assets/templates/`) + заголовок Unbounded; запасной вариант — отрисовка кодом.
+- `bot/card.py` — карточка 1280x720: фон-шаблон (`assets/templates/`) + заголовок Unbounded; запасной вариант — отрисовка кодом.
+- `tools/make_templates.py` — собирает шаблоны: фото Майами (`assets/bg/`, Unsplash) + цветокоррекция + 3D-монета/плашка/сетка.
 - `bot/clips.py` — видео: Twitch/YouTube API, yt-dlp, подпись Gemini по самому видео, черновики и публикация.
 - `bot/moderation.py` — черновики в личку, кнопки, расписание, автоопределение канала (my_chat_member).
 - `bot/publish.py` — Telegram sendPhoto, HTML-подпись, правила публикации и лимиты.
