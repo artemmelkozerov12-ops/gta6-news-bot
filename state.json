@@ -496,7 +496,20 @@
   "f05fc75ef64d0d0d": "2026-11-19T01:59:51.848395+00:00",
   "a007472c27f1630a": "2026-11-19T02:00:06.828944+00:00",
   "8d4d1ad64b48df49": "2026-11-19T02:00:41.386636+00:00",
-  "e6db10d24f24fbd0": "2026-11-19T02:02:30.424963+00:00"
+  "e6db10d24f24fbd0": "2026-11-19T02:02:30.424963+00:00",
+  "3b19b3ab7955821b": "2026-11-19T02:53:55.891080+00:00",
+  "66a4a22f3496fbf3": "2026-11-19T02:53:55.891156+00:00",
+  "e76faf79be6132a4": "2026-11-19T02:53:55.891200+00:00",
+  "3561b57893327f0b": "2026-11-19T02:53:55.891244+00:00",
+  "da13f40ee62eabda": "2026-11-19T02:53:55.891279+00:00",
+  "9952bc9312146d64": "2026-11-19T02:53:55.891321+00:00",
+  "945fca2e5ca68914": "2026-11-19T02:53:55.891358+00:00",
+  "7f7d5aec3e034359": "2026-11-19T02:53:57.857075+00:00",
+  "782011beffa761a8": "2026-11-19T02:53:58.779497+00:00",
+  "aeab06ff6584b56d": "2026-11-19T02:53:59.894073+00:00",
+  "42970540ad145b34": "2026-11-19T02:54:02.199422+00:00",
+  "2133efb880c714ae": "2026-11-19T02:54:44.383814+00:00",
+  "8f97d86c578180fa": "2026-11-19T02:54:45.131735+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -947,7 +960,20 @@
   "157b9ffb25c7b9f0": "2026-11-19T01:59:51.848395+00:00",
   "ef58dfd2db06efd4": "2026-11-19T02:00:06.828944+00:00",
   "e52432f1a3097cb1": "2026-11-19T02:00:41.386636+00:00",
-  "4e8f7344a90fa13a": "2026-11-19T02:02:30.424963+00:00"
+  "4e8f7344a90fa13a": "2026-11-19T02:02:30.424963+00:00",
+  "260027c9effdedeb": "2026-11-19T02:53:55.891080+00:00",
+  "ade0219a1df7854b": "2026-11-19T02:53:55.891156+00:00",
+  "6e109895ea0d1938": "2026-11-19T02:53:55.891200+00:00",
+  "599d8038a45c7ca3": "2026-11-19T02:53:55.891244+00:00",
+  "69304e43568a0377": "2026-11-19T02:53:55.891279+00:00",
+  "8667c5eade675065": "2026-11-19T02:53:55.891321+00:00",
+  "2805360802ac710a": "2026-11-19T02:53:55.891358+00:00",
+  "7d3c29c95efdfe48": "2026-11-19T02:53:57.857075+00:00",
+  "46aec6f23218e20c": "2026-11-19T02:53:58.779497+00:00",
+  "324f2a7aca87949d": "2026-11-19T02:53:59.894073+00:00",
+  "c1a57c5621dc0a82": "2026-11-19T02:54:02.199422+00:00",
+  "35d56a90e8ddfe34": "2026-11-19T02:54:44.383814+00:00",
+  "2be9eb10631cd42a": "2026-11-19T02:54:45.131735+00:00"
  },
  "recent": [
   {
@@ -4628,6 +4654,110 @@
    "trust": "rumor",
    "status": "skipped",
    "ts": "2026-11-19T02:02:30.425081+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to manage money in GTA 6 and use the BuckMe bank savings app",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-19T02:53:55.891125+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 weapon ownership explained: How to keep your favorite guns",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-19T02:53:55.891175+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to Buy Lucia a Necklace in GTA 6",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "dup",
+   "ts": "2026-11-19T02:53:55.891218+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to Buy Flowers for Lucia in GTA 6",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "dup",
+   "ts": "2026-11-19T02:53:55.891260+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to Pick Up Groceries for Lucia in GTA 6",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "dup",
+   "ts": "2026-11-19T02:53:55.891297+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to Get Lucia's Clothes Before Her Release in GTA 6",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "dup",
+   "ts": "2026-11-19T02:53:55.891337+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "New GTA 6 Players, Be Careful When Claiming Your GTA+ Pre-Order Bonus",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-19T02:53:55.891384+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to Complete Get the Chop in GTA 6",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-19T02:53:57.857169+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Rockstar объяснила, почему в мире GTA 6 нет интернета с сайтами",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-19T02:53:58.779616+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Feng Shui Guide to Furniture Moves and Cal's Console Games",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-19T02:53:59.894177+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "[Видео] Первые оценки GTA VI — Корея в шоке от *** / RE Requiem игра года / Конец PIONER / Обвал Microsoft",
+   "source": "iXBT.games",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-19T02:54:43.393440+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Seven GTA VI thoughts, after eight hours with the game",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-19T02:54:44.383923+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 взлетела до 99 баллов: критики нашли новую легенду игр",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-19T02:54:45.131879+00:00",
    "card_title": ""
   }
  ],
