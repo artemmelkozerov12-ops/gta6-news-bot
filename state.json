@@ -707,7 +707,18 @@
   "3ed0aca36783e4c9": "2026-11-19T15:29:43.163021+00:00",
   "eaf6aff895b7bcf5": "2026-11-19T15:29:55.179732+00:00",
   "3eb84676defc3fba": "2026-11-19T15:29:56.976938+00:00",
-  "3880dd42f1e3b961": "2026-11-19T15:29:57.640156+00:00"
+  "3880dd42f1e3b961": "2026-11-19T15:29:57.640156+00:00",
+  "3492bab8a85f58a3": "2026-11-19T16:38:00.092563+00:00",
+  "c9dc246daebf01fe": "2026-11-19T16:38:00.092630+00:00",
+  "c5e788db44b0ee42": "2026-11-19T16:38:00.092706+00:00",
+  "18f030879d26a6d0": "2026-11-19T16:38:00.092756+00:00",
+  "1e4b6246dd3db5cd": "2026-11-19T16:38:00.393989+00:00",
+  "477857fccf099b1e": "2026-11-19T16:38:02.257274+00:00",
+  "c22e6d25852948c4": "2026-11-19T16:38:03.707568+00:00",
+  "ca6cf6784f9961ae": "2026-11-19T16:39:40.745991+00:00",
+  "2c41943ef6d8374c": "2026-11-19T16:39:42.152597+00:00",
+  "9024a0646f112052": "2026-11-19T16:40:09.161471+00:00",
+  "c689c91e866ea489": "2026-11-19T16:40:41.268021+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -1291,7 +1302,17 @@
   "2334012c2fab532b": "2026-11-19T15:29:43.163021+00:00",
   "59f9a40383637cfa": "2026-11-19T15:29:55.179732+00:00",
   "4c661c3c2ac91ce3": "2026-11-19T15:29:56.976938+00:00",
-  "5d2134f87dcca4fe": "2026-11-19T15:29:57.640156+00:00"
+  "5d2134f87dcca4fe": "2026-11-19T15:29:57.640156+00:00",
+  "f980c99c43566d78": "2026-11-19T16:38:00.092563+00:00",
+  "253554efbce901ca": "2026-11-19T16:40:09.161471+00:00",
+  "d5e2d58909db914e": "2026-11-19T16:38:00.092706+00:00",
+  "8979e8bd766e4d76": "2026-11-19T16:38:00.092756+00:00",
+  "54ebc3981a93a7d6": "2026-11-19T16:38:00.393989+00:00",
+  "12ff16d0685ec4f9": "2026-11-19T16:38:02.257274+00:00",
+  "b43827655381490f": "2026-11-19T16:38:03.707568+00:00",
+  "aa1a43a9f3de903e": "2026-11-19T16:39:40.745991+00:00",
+  "0038aaa28600f9ce": "2026-11-19T16:39:42.152597+00:00",
+  "18d82908068ff0b2": "2026-11-19T16:40:41.268021+00:00"
  },
  "recent": [
   {
@@ -6085,9 +6106,123 @@
    "status": "skipped",
    "ts": "2026-11-19T15:29:57.640269+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GTA 6 Just Moved In Mission Walkthrough",
+   "source": "VGC",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-19T16:38:00.092608+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "I Am Obsessed With GTA 6 Jason’s Literary Choices",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-19T16:38:00.092660+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 is finally here after 13 years — but there’s a catch for some gamers",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-19T16:38:00.092735+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Two Cool, Hidden Features GTA 6 Doesn’t Explain: Flipping And Sitting",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-19T16:38:00.092778+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Where is GTA 6 Online Multiplayer? GTA Online 2 Release Window",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "dup",
+   "ts": "2026-11-19T16:38:00.394063+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Take-Two set to shatter sales records as 'GTA VI' launches to massive fanfare",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-19T16:38:02.257385+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to sell illegal goods and stolen items in GTA 6",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-19T16:39:39.607776+00:00",
+   "card_title": "ФЕНСЫ И ПРОДАЖА ТОВАРОВ"
+  },
+  {
+   "title": "Japan censors GTA 6’s violence and nudity, including Jason in the shower",
+   "source": "VGC",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-19T16:39:40.983268+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Surprising No One, GTA 6's Comedy Is All Over the Place",
+   "source": "Polygon",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-19T16:39:43.985322+00:00",
+   "card_title": "САТИРА В GTA 6"
+  },
+  {
+   "title": "I Am Obsessed With GTA 6 Jason’s Literary Choices",
+   "source": "Kotaku",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-19T16:40:16.524009+00:00",
+   "card_title": "ДЖЕЙСОН ЧИТАЕТ ФЭНТЕЗИ"
+  },
+  {
+   "title": "GTA 6 Early Money: Motel Tiger Attack",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-19T16:40:41.268122+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
+  {
+   "item": {
+    "title": "How to sell illegal goods and stolen items in GTA 6",
+    "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-stolen-goods-illegal/",
+    "summary": "Any illegal goods you've stolen in GTA 6 need to be fenced through certain characters",
+    "published": "2026-11-19T16:33:26+00:00",
+    "source": "GamesRadar+",
+    "site_name": "GamesRadar+",
+    "trust": "high",
+    "text": "Selling stolen goods in GTA 6 is a core part of the day-to-day experience in Leonida. It's your primary way of making money in GTA 6, and will be an essential way of unlocking all of the great cars, clothes, and weapons that you want to own. Of course, you can't just take any hot items down to your local pawn shop to make some quick cash – you'll need to take narcotics, jewellery, and marked bills to specific fences and vendors.\nBelow I'm going to help you understand how to fence stolen goods in GTA 6, and give you a better sense of what the potential takeaways and pitfalls from key vendors are likely to be.\nThis process is different from how to sell cars in GTA 6, but we've got a guide on that if you want to truly engage in the process of grand theft auto.\nWhere do you sell illegal and stolen goods in GTA 6?\nIf you're setting your sights beyond sticking up convenience stores and innocent civilians on the streets, you'll quickly find that you have scores which need to be laundered through specific fences. The first of these that you'll unlock is Brian's Lockup in South Key Lento, which you can unlock in the mission \"Lab Fees\".\nWhen you drop off stolen goods, it will take a certain amount of time for the money to be sent to your mailbox. Depending on the fence, it may take several days!\nYou will unlock different fences as you progress through the GTA 6 missions list, with each offering a speciality service and more lucrative returns on stolen goods. If you don't have great fences available, your best bet is to continue with the story and make more criminal contacts.Let's understand what kind of stolen goods each class of Robbery in the GTA 6 index will give you:\nIllegal Operations:JewelryMarked BillsNarcoticsPocket Cash\nSmash 'n' Grabs: JewelryMarked BillsPocket Cash\nBank Jobs and Payday Loans:JewelryMarked BillsPocket Cash\nFrom that Index, you can head to the Robberies section and scroll down to the part where it says \"Drop-offs – Goods\". These are the fences that you have available to you at that point in the story. If you hover over each one (if you're still in Chapter 1, you'll have locations for Brian and Donnie as options) the game will explain what items you have stashed on your person which can be sold, and what price a fence will offer for your narcotics, jewellery, and marked bills.\nWeekly digests, tales from the communities you love, and more\nDifferent fences will offer different prices for these goods (ranging from Very Low > Low > Medium > High > Very High) so it's worth your time coordinating if you can, unless your GTA 6 Wanted Level is out of control of course. At the beginning of the game, you'll need to drive to the specific drop-off spot to sell your entire stash, but other drop-off opportunities become available in the later game.\n© GamesRadar+. Not to be reproduced without permission.\nJosh West is Editor-in-Chief of GamesRadar+. He has over 18 years of experience in both online and print journalism, and was awarded a BA (Hons) in Journalism and Feature Writing. Josh has contributed to world-leading gaming, entertainment, tech, music, and comics brands, including games™, Edge, Retro Gamer, SFX, 3D Artist, Metal Hammer, and Newsarama. In addition, Josh has edited and written books for Hachette and Scholastic, and worked across the Future Games Show as an Assistant Producer. He specializes in video games and entertainment coverage, and has provided expert comment for outlets like the BBC and ITV. In his spare time, Josh likes to play FPS games and RPGs, practice the bass guitar, and reminisce about the film and TV sets he worked on as a child actor.\nYou must confirm your public display name before commenting\nPlease logout and then login again, you will then be prompted to enter your display name.\n1 Pokemon Winds and Waves leaker admits their source is 'I made it up,' drops the act\n2 Grand Theft Auto 6 is a \"masterpiece,\" Witcher 4 and Cyberpunk 2 boss says to Rockstar\n3 Where to find all the Strip Clubs in GTA",
+    "extra": {}
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "💸 Как срубить кэш на черном рынке в GTA 6\n\nТебе нужен не просто автосалон – в Леониде есть фэнсы, где можно сдавать ювелирку, маркированные деньги и наркоту. Первый – Brian’s Lockup в South Key Lento, открывается в миссии «Lab Fees». Чем дальше в сюжет, тем круче цены и новых продавцов. Планируй, чтобы не терять деньги на полицейскую погоню.",
+    "card_title": "ФЕНСЫ И ПРОДАЖА ТОВАРОВ",
+    "reason": "Подтверждённый геймплейный элемент, интересен игрокам",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "model": "groq:openai/gpt-oss-120b → groq:openai/gpt-oss-120b"
+   },
+   "queued_at": "2026-11-19T16:39:39.607763+00:00"
+  },
   {
    "item": {
     "title": "GameStop CEO slams 'code-in-a-box' games in the wake of GTA 6's discless release",
@@ -6191,6 +6326,58 @@
     "model": "groq:openai/gpt-oss-120b → groq:openai/gpt-oss-120b"
    },
    "queued_at": "2026-11-19T13:13:39.931078+00:00"
+  },
+  {
+   "item": {
+    "title": "Surprising No One, GTA 6's Comedy Is All Over the Place",
+    "link": "https://www.polygon.com/gta-6-rockstar-grand-theft-auto-humor-satire/",
+    "summary": "GTA 6 is the latest Grand Theft Auto to continue Rockstar's pedigree of satirizing literally everyone across the whole political spectrum. Yay...",
+    "published": "2026-11-19T16:32:20+00:00",
+    "source": "Polygon",
+    "site_name": "Polygon",
+    "trust": "high",
+    "text": "From the moment Grand Theft Auto 6 was first announced, I had little doubt that developer Rockstar Games would be able to deliver a high-quality game. Any minor worries I had that the studio’s approach to open-world design might have become dated in the eight years since Red Dead Redemption 2 went away as soon as I started exploring the impressively constructed world of Leonida. But there’s one thing I was far less certain of: the satire of it all.\nMore than being deviously fun crime sandboxes, every Grand Theft Auto game also acts as a snapshot of American culture at the time of its release. These games have never pulled any punches, taking swings at everything from the paparazzi to politics to the most innocuous corners of pop culture. GTA 6 was sure to take the same shots, but at a time when the targets are moving faster than ever. Could a game that has been in the works for more than a decade possibly have humor that felt up to date? Would it be careful to punch up rather than turn the country’s most vulnerable people into punchlines? And would it have the stones to take on President Donald Trump, a man who has dominated America’s political culture throughout the game’s entire development cycle?\nThe completion percentage is the only tally GTA keeps, and for you it is the whole reason the hours are worth counting.\nYour first hour goes on the collectibles menu, working out the size of the job before you start it.\nA mission that goes wrong gets replayed until it is clean, because there is a rating attached and you are going for it.\nYou were still at 68 percent when the credits rolled, and the credits did not feel like an ending.\nGTA spends more effort on the feel of a car at night than on almost anything else, and you are the player that work was for.\nThere is a waypoint on your map and you may never reach it, because the drive is better than the arrival.\nYou have one car, you drive it everywhere, and you know exactly where you parked it.\nThe credits rolled and nothing changed. You are still out there with the radio on.\nStopping at a red light in an empty city is a choice nobody asks you to make, which is exactly why you make it.\nYour first hour goes on the camera, the controls and the radio, set precisely how you want them before anything begins.\nYou reload after a mission goes wrong, not for the rating, but because that is not how it would have gone.\nAfter the credits you keep playing him, because as far as you are concerned he lives there now.\nYou start the story in hour one and you do not stop until something outside the game makes you, which is how these games are written to be played.\nOffered a full round of golf, you say no, because you are in the middle of something.\nA car you like gets left wherever the next mission starts. It was transport, not a relationship.\nCredits roll, that is it, done, on to the next game, and you have no regrets about any of it.\nThis is the player the series quietly became about, and it is the reason people are still in these cities a decade later.\nYour first hour is spent waiting for everyone to get on, because alone it is a different game entirely.\nYou found a car you liked and somebody else drove it into the sea, and that was the best thing that happened all evening.\nYou could not tell anyone where the hours went, and that is not a complaint.\nIf you’re going into GTA 6 looking for a specific satirical worldview, you’re bound to be disappointed. Rockstar’s continued commitment to making fun of literally everyone ensures that it will throw our current culture war for a loop. Everyone will have a reason to be mad about it — and everyone will have a reason to claim it as a victory, too.\nHistorically, GTA’s humor can be described as “South Park-core.” The series found its voice in an early 2000s era where the dominant philosophy of comedy was that it was okay to make fun of everything, so long as the ridicule was handed out in equal measure. There was little difference between going after Georg",
+    "extra": {}
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "😂 Сатира в GTA 6 бьёт во всех\n\nRockstar не выбрала сторону в культурной войне: насмешки достаются буквально всем. Кто-то будет злиться, кто-то хвалить, но база остаётся прежней — юмор в духе «South Park». Завезли.",
+    "card_title": "САТИРА В GTA 6",
+    "reason": "Обзорный материал от Polygon о ключевом аспекте игры (юморе), важно для понимания атмосферы, но не эксклюзивная новость.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "model": "groq:qwen/qwen3.8-27b"
+   },
+   "queued_at": "2026-11-19T16:39:43.985309+00:00"
+  },
+  {
+   "item": {
+    "title": "I Am Obsessed With GTA 6 Jason’s Literary Choices",
+    "link": "https://kotaku.com/hey-jason-gta-6-whatcha-readin-2000758412",
+    "summary": "He's a nerd! Our boy is a nerd!",
+    "published": "2026-11-19T16:30:59+00:00",
+    "source": "Kotaku",
+    "site_name": "Kotaku",
+    "trust": "high",
+    "text": "As I start GTA 6, I’m finding myself oddly charmed by Jason Duval. I fully expected to be a committed player of only Lucia for most of the game, but you have to spend a few hours as Jason before Lucia gets out of prison. I like him a lot more than I expected to. His stoic responses in past trailers had led me to assume he might be a bit of a criminal meathead without much of a sense of humor, but I’m actually finding him quite intelligent and sensitive. Especially the way I play him (doing all the home repairs, putting dishes in the sink, and trying not to kill anyone).\nBut what really won my heart last night was the discovery that Jason Duval is a man of literature.\nNo, I’m not talking about most of the reading material around his apartment, if you can call it that. Jason has a number of readable books lying around, most of which are weirdly hypermasculine fantasies about military life. There’s a book about GTA 6‘s ORCA military unit, which sounds like a place people go to become supervillains, and a fictional military novel that seems to be about a suicide squad obsessed with teabagging. I also found a fitness magazine with articles only taken seriously by people sick in the head. I have to assume that Jason Duval is intelligent enough to enjoy all these (as I did) as the cheeky satire that they are, because earnest interest in any of this literature should have him locked behind bars instead of Lucia. You’re telling me some people don’t think GTA is political satire?\nAnyway, there’s one book in particular that I must know more about, and it’s on Jason’s nightstand. You know, next to his bed. In a position where you put books you’re actively reading. Here it is:\nThat’s The Battle For Zantoroth by T. D. D. Ewell, and it seems to be the second in a series of books called “King of Gorgolla,” suggesting Jason has probably already read the first book in the series. What kills me is that you don’t seem to be able to read this book! I got up really close to the table to try and pick it up, but couldn’t see any triggers to grab it and read a few pages like you can the other books.\nThis is the most interesting novel in Jason’s apartment. It’s so out of line with the rest of his tastes, yet it’s clearly being actively read, and is part of a longer series he’s interested in. Has Jason been a huge sci-fi/fantasy nerd for a long time? Is this something he’s just been trying out recently and is finding that he enjoys? Is this a satire series like the other stuff in his house or is this a more serious piece of literature? The cover looks a lot like the covers on my copies of the A Song of Ice and Fire books, and even the author name, with its multiple initials, seems to hearken to George R. R. Martin, though also sci-fi covers and author names are sometimes just like that.\nAnyway, I’m now convinced that Jason Duval is secretly a huge fucking nerd and am totally here for it. We’re gonna read every book in the game and get this bro all the culture he clearly craves.\nDon’t miss the latest reviews, news and tips. Sign up for our free newsletter.\nTips & Guides Two Cool, Hidden Features GTA 6 Doesn’t Explain: Flipping And Sitting Rockstar's big game doesn't make it clear that you can shove boats into the water, flip cars over, and rest against walls By Zack Zwiezen Published November 19, 2026\nCultureNews Nvidia’s Latest Driver Update Could Be Destroying Your SSDs, And People Suspect AI Coding Could Be To Blame The latest GeForce drivers are degrading some users' SSDs 250 times faster By Lewis Parker Published November 19, 2026\nCultureKotaku Game Diary Rockstar Kept One Of GTA 6’s Biggest Early Secrets Under Wraps For Years Why the hell would I do a lethal run of the game now? By Kenneth Shepard Published November 19, 2026\nGames Xbox Hardware Sales Finally Saw A Major Surge Ahead Of GTA In The U.S. 'Gears and GTA may have provided at least a temporary reprieve' By Rebekah Valentine Published November 19, 2026\nOpinionCommentary Watching A Zelda: O",
+    "extra": {}
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "📚 ДЖЕЙСОН ТИХИЙ НЕРД\n\nВ квартире главного героя нашлась книга «The Battle For Zantoroth» от автора с инициалами как у Мартина. Выглядит как имба для фанатов фэнтези, но пока её прочитать нельзя. Ждём DLC или патч, чтобы узнать, кто такой Горгосла.\n\n❤️ — Нормально, не ждал такого\n👎 — Лучше бы сразу читался",
+    "card_title": "ДЖЕЙСОН ЧИТАЕТ ФЭНТЕЗИ",
+    "reason": "Интересный лорный факт из свежего обзора, но не критично для геймплея.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "model": "groq:qwen/qwen3.8-27b"
+   },
+   "queued_at": "2026-11-19T16:40:16.523996+00:00"
   }
  ],
  "posts": [
