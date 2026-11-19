@@ -515,7 +515,15 @@
   "0da93f3f6b75ca6d": "2026-11-19T03:52:48.304996+00:00",
   "1380b4b9e3f34572": "2026-11-19T03:52:54.092298+00:00",
   "9d11375fe4515afb": "2026-11-19T03:52:55.303242+00:00",
-  "0e64ba6db3125d0c": "2026-11-19T03:52:56.348527+00:00"
+  "0e64ba6db3125d0c": "2026-11-19T03:52:56.348527+00:00",
+  "8ca6c581accc4a86": "2026-11-19T04:58:44.517631+00:00",
+  "4bbb56fee736c888": "2026-11-19T04:58:44.517695+00:00",
+  "08c170d3c29db7f6": "2026-11-19T04:58:46.445144+00:00",
+  "8fc9076b7ab5a806": "2026-11-19T04:58:47.532270+00:00",
+  "6888d035a8076bab": "2026-11-19T04:58:48.541628+00:00",
+  "fce77c8c647644cf": "2026-11-19T04:58:50.284783+00:00",
+  "680e0741a4652ee2": "2026-11-19T04:58:51.095327+00:00",
+  "843809f6941e1d11": "2026-11-19T04:59:07.374913+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -985,7 +993,15 @@
   "b98f0c5e78d94b97": "2026-11-19T03:52:48.304996+00:00",
   "1b11d08a55b195fe": "2026-11-19T03:52:54.092298+00:00",
   "7ad3a17d3a314dbd": "2026-11-19T03:52:55.303242+00:00",
-  "209a2f1962b00534": "2026-11-19T03:52:56.348527+00:00"
+  "209a2f1962b00534": "2026-11-19T03:52:56.348527+00:00",
+  "2cd5aa307a0565b3": "2026-11-19T04:58:44.517631+00:00",
+  "0bcb8f8e25d53ca5": "2026-11-19T04:58:44.517695+00:00",
+  "b17c884872fb8f4b": "2026-11-19T04:58:46.445144+00:00",
+  "5903fcc1a21c42e2": "2026-11-19T04:58:47.532270+00:00",
+  "c5fbd56a2418bc1d": "2026-11-19T04:58:48.541628+00:00",
+  "b181e9fe951c2460": "2026-11-19T04:58:50.284783+00:00",
+  "58509fa5e5cbcb23": "2026-11-19T04:58:51.095327+00:00",
+  "a2dddddfa640d1f1": "2026-11-19T04:59:07.374913+00:00"
  },
  "recent": [
   {
@@ -4200,7 +4216,7 @@
    "title": "43 Soldiers Re-Enlisted In The Army In Exchange For Time Off To Play Grand Theft Auto 6: ‘I’m All About The Heist’",
    "source": "Kotaku",
    "trust": "high",
-   "status": "queued",
+   "status": "published",
    "ts": "2026-11-18T21:48:43.443670+00:00",
    "card_title": "43 СОЛДАТА ЗА GTA 6"
   },
@@ -4819,37 +4835,73 @@
    "status": "skipped",
    "ts": "2026-11-19T03:52:56.348645+00:00",
    "card_title": ""
+  },
+  {
+   "title": "How to Complete Jason's House Repairs in GTA 6",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "dup",
+   "ts": "2026-11-19T04:58:44.517672+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "West Michigan gamers gear up for GTA VI release",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-19T04:58:44.517727+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Conor McGregor Posts GTA 6 Countdown Video Ahead of Game's Hyped Release",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-19T04:58:46.445279+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Первые впечатления от GTA VI — игра мечты или просто очередная Grand Theft Autо?",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-19T04:58:47.532412+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 is out, and Sam Houser has broken his usual silence with a signed statement",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-19T04:58:48.541771+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Игра GTA 6 получила восторженные отзывы",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-19T04:58:50.284901+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 drops to 720p and below 30 FPS on one console, gamers advised to play elsewhere",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-19T04:58:51.095449+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "‘GTA VI' release celebrated with Miami drone show",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-19T04:59:07.375060+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
-  {
-   "item": {
-    "title": "43 Soldiers Re-Enlisted In The Army In Exchange For Time Off To Play Grand Theft Auto 6: ‘I’m All About The Heist’",
-    "link": "https://kotaku.com/43-soldiers-re-enlisted-in-the-army-in-exchange-for-time-off-to-play-grand-theft-auto-6-im-all-about-the-heist-2000758133",
-    "summary": "An unusual signing bonus",
-    "published": "2026-11-18T21:30:03+00:00",
-    "source": "Kotaku",
-    "site_name": "Kotaku",
-    "trust": "high",
-    "text": "Back in August, an Army Battalion commander circulated an unusual memo promising members of the 9th Brigade Engineer Battalion some special time off to play Grand Theft Auto 6 if they re-enlisted. In addition to the existing incentives, soldiers who signed up for more years of service would receive a four-day vacation to play Rockstar’s newest open-world game. It turns out that 43 people took the Army up on the offer.\nThey’ll now get Thursday, November 19, through Sunday, November 22, off to play GTA 6, Task and Purpose reports. With a minimum story campaign length of around 50 hours, that’s just enough to finish the game if they race, though the full experience will take players way longer than that. In exchange for the brief reprieve selling drugs, robbing stores, and planning date nights in Vice City, the 43 people agreed to between two and six additional years of military service.\n“I’m all campaign. I’m all about the heist,” Sgt. Jamire Smith, a combat engineer who pledged six more years in exchange for the long weekend, said. “I think I have a good 24 hours to waste on it.” He was planning to re-enlist anyway, and will get a $60,000 signing bonus for doing so, but the game time is a fun extra. “I was towards my final stages of getting out,” he said. Smith added. “The battalion helped me navigate through that and they showed me that there’s still a need for me, and that I am still a clear and valued asset to the team.”\nThe GTA incentive was pitched to the battalion commander, Lieutenant Colonel Ryan Hodgson, by Staff Sgt. Brittany Wolfer, a gamer who almost missed out on GTA 5 back in 2013. “I actually went to basic training the week that GTA 5 came out,” Wolfer said. “This is kind of like a weird arc in my life where it’s full circle to the new one coming out.”\nThe GTA 6 weekend wasn’t “supposed to be the deciding factor,” she said, but it caught people’s attention. “There is always going to be a disconnect between your senior command and your lowest soldier. So how do you bridge that gap to where that lower soldier still knows that their battalion commander or their senior leadership cares about them and sees what they’re interested in?”\nHodgson wasn’t following the pre-release coverage around GTA 6, but he was familiar with the franchise. As Wolfer put it, “I brought it to [Hodgson] and he’s a little bit older, but he did play GTA 2 at some point, so he was like, ‘Yeah I’m down for it.'”\nDon’t miss the latest reviews, news and tips. Sign up for our free newsletter.\nCultureNews Live Updates On GTA 6: The Biggest Launch In Gaming History We're tracking all of the news, discoveries, and conversations as Rockstar's new open-world blockbuster goes live Ethan Gach, Ash Parrish, Carolyn Petit, Zack Zwiezen, Kenneth Shepard, and Rebekah Valentine Published November 18, 2026\nGames Turns Out GTA San Andreas Remastered Was Teasing GTA 6 Back In 2021 White picket fence By Rebekah Valentine Published November 18, 2026\nCultureOdds and Ends I’ve Played Over 150 Hours Of GTA 6, Ask Me Anything Just know I won't spoil the ending or any major events that happen By Zack Zwiezen Published November 18, 2026\nOpinionCommentary How Am I Supposed To Wait Until The PC Version To Play GTA 6? I always play GTA games on PC, but I don't know if I possess the strength of mind to hold out for this one By John Walker Published November 18, 2026\nTips & Guides 32 Spoiler-Free Tips As You Hop Into Grand Theft Auto 6 We've got tips about managing clothes, earning money, boosting your stamina, how to fix up your car, and much more By Zack Zwiezen Published November 18, 2026\nGames How Long Is GTA 6? Depends On How You Play Extended vacation By Rebekah Valentine Published November 18, 2026",
-    "extra": {}
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 9,
-    "post": "🎮 43 СОЛДАТА ЗА GTA 6\n\nАмериканские военные дали бойцам 4 дня отпуска, чтобы те могли закрыть кампанию в GTA 6. Взамен — 2-6 лет службы. Один сержант честно признался: «Я за ограбление». Имба, да?",
-    "card_title": "43 СОЛДАТА ЗА GTA 6",
-    "reason": "Крепкая новость от Kotaku про запуск игры, высокий интерес аудитории",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "model": "groq:qwen/qwen3.8-27b"
-   },
-   "queued_at": "2026-11-18T21:48:43.443653+00:00",
-   "moderation": "pending",
-   "draft_msg_id": 25
-  },
   {
    "item": {
     "title": "GTA 6 Won’t Be Getting a Future Performance Mode, Even on PS5 Pro",
@@ -4875,32 +4927,6 @@
     "model": "groq:openai/gpt-oss-120b → gemini:gemini-3.5-flash"
    },
    "queued_at": "2026-11-18T17:57:33.896179+00:00"
-  },
-  {
-   "item": {
-    "title": "'We need to come together': On the eve of GTA 6, 1,600 Rockstar workers are voting on unionization",
-    "link": "https://www.pcgamer.com/gaming-industry/we-need-to-come-together-on-the-eve-of-gta-6-1-600-rockstar-workers-are-voting-on-unionization/",
-    "summary": "\"Our games are industry-leading. Our wages, conditions and bonuses should be too.\"",
-    "published": "2026-11-18T16:56:52+00:00",
-    "source": "PC Gamer",
-    "site_name": "PC Gamer",
-    "trust": "high",
-    "text": "As I write this, reviews for Grand Theft Auto 6 have gone live. Gamers in New Zealand have been able to play it for almost six hours, and millions of people farther west are eagerly waiting for clocks to hit midnight in their own timezones. In preorder sales alone, GTA 6 has already generated over $1.6 billion in revenue, and will undoubtedly earn millions more over its launch weekend.\nAs Rockstar is poised to set historic records with its latest release, the workers who made it could be making history of its own: Over 1,600 Rockstar employees in the UK are currently voting on whether to form a union. If it wins recognition when the ballot closes on November 26, the Rockstar Games Workers Union would be the largest in the UK games sector, organizing workers at what's arguably the games industry's highest-profile studio—a major milestone in the push for unionization in game development.\nIn an op-ed for The Guardian, Rockstar animation programmer and union representative Nestor Uriarte said the studio's possible unionization is the product of a decade-long realization that \"to tackle the industry's mounting challenges we need to come together.\" Union recognition, he said, would help safeguard the working conditions of the developers who built GTA 6 into an already record-breaking success.\n\"Behind these numbers are thousands of people whose talent and hard work make the games possible. With a recognized union, we can ensure everyone, across every department, sees a fair share of the success we contributed to,\" Uriarte said. \"Our games are industry-leading. Our wages, conditions and bonuses should be too.\"\nWorking conditions at Rockstar produced one of the early flashpoints in the advancing push for games industry unionization over recent years, sparked by employees' descriptions of its \"death march\" crunch culture and allegations of sexual assault. While the studio's taken steps towards a healthier workplace in the years since, employees have reported continuing concerns around gender pay gaps, crunch, and nebulous bonuses conditions.\nCoinciding with the union vote, a Glasgow tribunal is weighing testimonies in the ongoing legal battle around Rockstar's alleged union-busting and firing of employees who had been involved in organization. Meanwhile, just days before a launch that's projected to earn landmark revenue, Rockstar parent company 2K reportedly laid off a third of the employees at XCOM and Civilization developer Firaxis.\n\"It says a lot about the industry that even my colleagues and I, working on the biggest game of all time, are worried about getting laid off,\" Uriarte said. \"But the truth is that workers across the sector are helpless to resist the waves of redundancies crashing around us, until we get organised.\"\nFrom the creators of Edge: A free weekly videogame industry newsletter, featuring in-depth news, expert analysis and exclusive interviews\nUnion recognition, he said, would also provide developers with a greater ability to negotiate the rapid proliferation of AI in game development, which represents yet another threat of worker devaluation in an industry where one third of the labor force has been laid off in the last two years. A Rockstar union would help protect its workers' future—and the future of the studio.\n\"We’ve heard from colleagues who are nervous that the union is an outside troublemaking force that will threaten the company,\" Uriarte said. \"But we’re not outsiders. We are hundreds of studio employees who live for Rockstar, its output, and the players. We want to see it succeed.\"\nGTA 6 guide: One-stop info shopGTA 6 cars: The garage lineupGTA 6 characters: Your anti-hero castGTA 6 map: Confirmed Vice City localesGTA 6 PC release: When's it going to happen?\nLincoln has been writing about games for 12 years—unless you include the essays about procedural storytelling in Dwarf Fortress he convinced his college professors to accept. Leveraging the brainworms from a youth spent in World of Warcraft to write",
-    "extra": {}
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "🗳️ Работники Rockstar голосуют за профсоюз\n\nВ преддверии выхода GTA 6 более 1600 сотрудников Rockstar UK участвуют в голосовании за создание профсоюза. Если будет признан, это станет крупнейшим союзом в британской игровой индустрии и может изменить условия труда в студии. Для фанатов важно знать, как создаётся игра, которой они так ждут. 🔧",
-    "card_title": "РОКСТАР ПРОФСОЮЗ В УК",
-    "reason": "Подтверждённая новость от надёжного источника, важна для сообщества",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "model": "groq:openai/gpt-oss-120b → groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-18T16:59:06.669328+00:00"
   },
   {
    "item": {
@@ -5034,32 +5060,6 @@
   },
   {
    "item": {
-    "title": "GTA 6 Just Set a Streaming Record With Over 6 Million Peak Viewers at Launch",
-    "link": "https://www.gtaboom.com/gta-6-just-set-a-streaming-record-with-over-6-million-peak-viewers-at-launch-0dd9",
-    "summary": "StreamsCharts puts GTA VI's preliminary streaming launch peak at 6.38 million concurrent viewers, versus the previous 1.74 million record.",
-    "published": "2026-11-18T15:45:54+00:00",
-    "source": "GTA BOOM",
-    "site_name": "GTA BOOM",
-    "trust": "medium",
-    "text": "Grand Theft Auto VI broke a record before most of the world could even press start. As the first regions came online, particularly the uber proud New Zealand, millions flooded onto Twitch, YouTube and Kick to watch the lucky few playing GTA VI and the live-streaming analytics firm StreamsCharts says Rockstar Games just posted the biggest streaming launch the medium has seen and it's not even close.\nThe numbers moved fast and they're still growing as we speak. StreamsCharts first clocked a peak above 5.3 million concurrent viewers a few minutes into the game's release then updated to a preliminary 6.38 million a few hours later, with the count still rising as GTA VI unlocked for the rest of the world.\nFor scale, that blows past the previous benchmark, Valorant's closed beta, which drew around 1.74 million back in 2020. It also tops GTA VI's own gameplay reveal, the Grand Theft Auto VI: An Extended Look that pulled roughly 3.97 million concurrent viewers in August and became Netflix's most-watched title of its week.\nThe spread across platforms is its own story, laid out in StreamsCharts' launch report. All of this is preliminary analytics data rather than an official Rockstar figure and it counts people watching, not playing or buying.\nStreamsCharts' combined figure sits at a preliminary 6.38 million and counting.\nGTA VI is console-only with no PC version at launch, which may help explain why some viewers are watching rather than playing. Thirteen years of waiting met a release window marked by a viewership peak no game has come close to.\nIt is one more record in a launch snapping them off by the hour. The same game just tied the highest Metacritic score ever recorded and it also broke European internet-traffic records before it even launched after already being on track for the biggest launch in history on the commercial side, with a 24-hour creator livestream feeding the stream counts further.\nOff-screen or on, the game is rewriting the record book.\nThe streaming peak could climb as the United States and the rest of the map hit midnight, so the final figure is not even set. The point is that it was never a contest. Viewers are tuning in to GTA VI at a scale the industry has never recorded for a game launch.\nWere you one of the millions watching GTA 6 streams before you could play, or holding out to go into Leonida completely blind?\nOnce a post receives 3 qualifying Helpful marks\nSix million people watching a game most of them cannot even play yet is the most GTA VI stat of all.\nEvery GTA 6 Trophy and Achievement at Launch and How to Unlock ThemGTA 6 News\nGTA 6 Metacritic Score Reaches 99 and Ties the All Time RecordGTA 6 News\nGTA 6 Discord Spoiler Rules Require Tags and Forbid Deliberate TrollingGTA 6 News\nKia Shine Describes GTA 6 Voice Recording and Locked Studio Sessions\nNew Zealand Tourism Video Brags About Its Earlier GTA 6 Unlock\nMiami Heat Players Receive Custom GTA 6 PS5 Pro Consoles From Rockstar\nGTA 6 Requires a Mandatory PS5 System Update Before Launch",
-    "extra": {}
-   },
-   "verdict": {
-    "type": "rumor",
-    "importance": 8,
-    "post": "🔥 Слух, не подтверждено (источник: GTA BOOM)\n🚀 GTA 6 побил рекорд просмотров: более 6,3 млн зрителей\n\nПо данным аналитической фирмы StreamsCharts, запуск GTA VI собрал более 6,38 млн одновременных зрителей на Twitch, YouTube и Kick. Это почти в три раза больше предыдущего рекорда и показывает, насколько игра привлекает внимание, даже пока большинство игроков ещё не могут поиграть. Такой масштабный интерес поднимает планку для всех будущих игровых релизов .",
-    "card_title": "ГТА 6 РЕКОРД ПОКЛАДОВ",
-    "reason": "слух о рекордных просмотрах, источник со средним уровнем доверия",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "model": "groq:openai/gpt-oss-120b → groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-18T15:55:54.447260+00:00"
-  },
-  {
-   "item": {
     "title": "Rockstar Drops GTA 6 Festival Set Times With Cactus Jack Finale",
     "link": "https://www.gtaboom.com/rockstar-drops-gta-6-festival-set-times-with-cactus-jack-finale-071f",
     "summary": "Rockstar's GTA 6 Miami festival schedule puts Metro Boomin at midnight and the Cactus Jack finale at 12:40 a.m. local time.",
@@ -5169,9 +5169,10 @@
   "2026-11-18T10:43:33.044944+00:00",
   "2026-11-18T11:24:23.175249+00:00",
   "2026-11-18T16:08:18.621470+00:00",
-  "2026-11-18T21:05:33.292788+00:00"
+  "2026-11-18T21:05:33.292788+00:00",
+  "2026-11-19T04:59:12.764243+00:00"
  ],
- "tg_offset": 387128945,
+ "tg_offset": 387128947,
  "channel": {
   "id": -1003986639147,
   "title": "GTA 6 | Горячие новости",
