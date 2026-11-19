@@ -509,7 +509,13 @@
   "aeab06ff6584b56d": "2026-11-19T02:53:59.894073+00:00",
   "42970540ad145b34": "2026-11-19T02:54:02.199422+00:00",
   "2133efb880c714ae": "2026-11-19T02:54:44.383814+00:00",
-  "8f97d86c578180fa": "2026-11-19T02:54:45.131735+00:00"
+  "8f97d86c578180fa": "2026-11-19T02:54:45.131735+00:00",
+  "704ae0223681ce87": "2026-11-19T03:52:46.373285+00:00",
+  "e749c8e273572f9a": "2026-11-19T03:52:47.257701+00:00",
+  "0da93f3f6b75ca6d": "2026-11-19T03:52:48.304996+00:00",
+  "1380b4b9e3f34572": "2026-11-19T03:52:54.092298+00:00",
+  "9d11375fe4515afb": "2026-11-19T03:52:55.303242+00:00",
+  "0e64ba6db3125d0c": "2026-11-19T03:52:56.348527+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -973,7 +979,13 @@
   "324f2a7aca87949d": "2026-11-19T02:53:59.894073+00:00",
   "c1a57c5621dc0a82": "2026-11-19T02:54:02.199422+00:00",
   "35d56a90e8ddfe34": "2026-11-19T02:54:44.383814+00:00",
-  "2be9eb10631cd42a": "2026-11-19T02:54:45.131735+00:00"
+  "2be9eb10631cd42a": "2026-11-19T02:54:45.131735+00:00",
+  "f9adf73e3518e87d": "2026-11-19T03:52:46.373285+00:00",
+  "f6dc56931261d2df": "2026-11-19T03:52:47.257701+00:00",
+  "b98f0c5e78d94b97": "2026-11-19T03:52:48.304996+00:00",
+  "1b11d08a55b195fe": "2026-11-19T03:52:54.092298+00:00",
+  "7ad3a17d3a314dbd": "2026-11-19T03:52:55.303242+00:00",
+  "209a2f1962b00534": "2026-11-19T03:52:56.348527+00:00"
  },
  "recent": [
   {
@@ -4759,6 +4771,54 @@
    "status": "skipped",
    "ts": "2026-11-19T02:54:45.131879+00:00",
    "card_title": ""
+  },
+  {
+   "title": "Читы в GTA VI придётся заслужить. И это ещё не самое неприятное ограничение",
+   "source": "iXBT.games",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-19T03:52:46.373407+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 being released on Thursday as a 'generational touchpoint'",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-19T03:52:47.257814+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Корреспонденты DVHAB одними из первых испытали новую GTA 6 (ФОТО)",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-19T03:52:48.305112+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Is PlayStation down? How to check the system status for 'GTA 6' launch.",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-19T03:52:54.092415+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 cheat codes: There are cheats, but there's a catch",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-19T03:52:55.303367+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI Is Live, Take-Two Stock Is Popping, and Crypto Punters Say Record Sales Are a Lock",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-19T03:52:56.348645+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -4971,32 +5031,6 @@
     "model": "gemini:gemini-3.1-flash-lite"
    },
    "queued_at": "2026-11-19T02:02:14.269966+00:00"
-  },
-  {
-   "item": {
-    "title": "GTA 6 Finally Changed The Default Rockstar-Game Controls",
-    "link": "https://www.gamespot.com/articles/gta-6-finally-changed-the-default-rockstar-game-controls/",
-    "summary": "If you've played Rockstar series like Grand Theft Auto or Read Dead Redemption over the past few decades, then you're familiar with their default control scheme, which maps sprinting to a face button instead of the left analog stick. But Grand Theft Auto VI isn't being hailed as a revolutionary game for nothing--at long last, the default scheme has changed. As we learned while playing Grand Theft Auto VI, instead of the default setup mapping sprint to a button (A on Xbox and X on PS5), the game maps it to the left analog stick. However, you're free to switch it back to the style used in games like Red Dead Redemption 2, if you prefer. https://www.youtube.com/watch?v=rAhUXOYNuH4 This is a very handy change, because mapping sprinting to a face button effectively stops you from being able to easily do some of your other actions, unless you have no dignity like me and will use your own face to press a button when your hands are full. The new default control scheme is far from the most impressive thing in Grand Theft Auto 6, of course. The game earned a rare 10/10 in our GTA 6 review , with Tamoor Hussain calling it \"the culmination of everything the developer has previously achieved in the open-world space that pushes the genre to heights that, in all likelihood, no other developer will be able to reach.\" For more on the game, check out our ever-expanding GTA 6 guides hub and learn what you should do first . That shouldn't include buying a whole new pro controller , however.",
-    "published": "2026-11-18T14:49:57+00:00",
-    "source": "GameSpot",
-    "site_name": "GameSpot",
-    "trust": "high",
-    "text": "If you've played Rockstar series like Grand Theft Auto or Read Dead Redemption over the past few decades, then you're familiar with their default control scheme, which maps sprinting to a face button instead of the left analog stick. But Grand Theft Auto VI isn't being hailed as a revolutionary game for nothing--at long last, the default scheme has changed. As we learned while playing Grand Theft Auto VI, instead of the default setup mapping sprint to a button (A on Xbox and X on PS5), the game maps it to the left analog stick. However, you're free to switch it back to the style used in games like Red Dead Redemption 2, if you prefer. https://www.youtube.com/watch?v=rAhUXOYNuH4 This is a very handy change, because mapping sprinting to a face button effectively stops you from being able to easily do some of your other actions, unless you have no dignity like me and will use your own face to press a button when your hands are full. The new default control scheme is far from the most impressive thing in Grand Theft Auto 6, of course. The game earned a rare 10/10 in our GTA 6 review , with Tamoor Hussain calling it \"the culmination of everything the developer has previously achieved in the open-world space that pushes the genre to heights that, in all likelihood, no other developer will be able to reach.\" For more on the game, check out our ever-expanding GTA 6 guides hub and learn what you should do first . That shouldn't include buying a whole new pro controller , however.",
-    "extra": {}
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 6,
-    "post": "🎮 GTA 6 меняет схему бега: теперь на левом стике\n\nGameSpot обнаружил, что в GTA 6 бег теперь привязан к левому аналоговому стику, а не к кнопке. Это делает управление более привычным и упрощает выполнение трюков, когда руки заняты. Если вам нравятся старые схемы, их можно вернуть в настройках.",
-    "card_title": "ИЗМЕНЕНИЕ СХЕМЫ БЕГА",
-    "reason": "официальный источник с высоким доверием, важная информация о геймплейных изменениях",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "model": "groq:openai/gpt-oss-120b → groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-18T14:55:53.840869+00:00"
   },
   {
    "item": {
