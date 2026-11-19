@@ -718,7 +718,22 @@
   "ca6cf6784f9961ae": "2026-11-19T16:39:40.745991+00:00",
   "2c41943ef6d8374c": "2026-11-19T16:39:42.152597+00:00",
   "9024a0646f112052": "2026-11-19T16:40:09.161471+00:00",
-  "c689c91e866ea489": "2026-11-19T16:40:41.268021+00:00"
+  "c689c91e866ea489": "2026-11-19T16:40:41.268021+00:00",
+  "330122dc0d9f5251": "2026-11-19T17:39:47.048517+00:00",
+  "ada2591c68afa1fc": "2026-11-19T17:39:47.048651+00:00",
+  "c0af19f19a11b465": "2026-11-19T17:39:47.048741+00:00",
+  "6a7fe192519894e6": "2026-11-19T17:39:47.048813+00:00",
+  "0aec092f1465e92d": "2026-11-19T17:39:47.048885+00:00",
+  "1b4a06d3eef036be": "2026-11-19T17:39:47.048953+00:00",
+  "b2fd45a68558c5c9": "2026-11-19T17:39:47.049022+00:00",
+  "54868e4d6add1e5b": "2026-11-19T17:39:47.548236+00:00",
+  "0bfef8328ae0d489": "2026-11-19T17:39:47.916312+00:00",
+  "95170420905edc79": "2026-11-19T17:39:50.137682+00:00",
+  "5e52d39b2c3a5588": "2026-11-19T17:41:50.616603+00:00",
+  "3ae6910a818bfb5a": "2026-11-19T17:41:52.036271+00:00",
+  "05ba0109020207a6": "2026-11-19T17:42:17.534399+00:00",
+  "0bf3efc91c8f51bf": "2026-11-19T17:42:37.003659+00:00",
+  "52108a7bb2ff1660": "2026-11-19T17:42:55.797822+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -1312,7 +1327,21 @@
   "b43827655381490f": "2026-11-19T16:38:03.707568+00:00",
   "aa1a43a9f3de903e": "2026-11-19T16:39:40.745991+00:00",
   "0038aaa28600f9ce": "2026-11-19T16:39:42.152597+00:00",
-  "18d82908068ff0b2": "2026-11-19T16:40:41.268021+00:00"
+  "18d82908068ff0b2": "2026-11-19T16:40:41.268021+00:00",
+  "e1549e9f1015a990": "2026-11-19T17:39:47.048651+00:00",
+  "95a6719931832c6f": "2026-11-19T17:39:47.048741+00:00",
+  "8f34806b088bf701": "2026-11-19T17:39:47.048813+00:00",
+  "abebfcf71aa31cc4": "2026-11-19T17:39:47.048885+00:00",
+  "d4a57a9c6eff5397": "2026-11-19T17:39:47.048953+00:00",
+  "052b060d893759e9": "2026-11-19T17:39:47.049022+00:00",
+  "9293371d096b50b7": "2026-11-19T17:39:47.548236+00:00",
+  "b63c2f149b564ea0": "2026-11-19T17:39:47.916312+00:00",
+  "08be7245ee14d886": "2026-11-19T17:39:50.137682+00:00",
+  "aae83b21f6281d0d": "2026-11-19T17:41:50.616603+00:00",
+  "3fbc43993f8e1a28": "2026-11-19T17:41:52.036271+00:00",
+  "578ec915613a015b": "2026-11-19T17:42:17.534399+00:00",
+  "0639e2bb60ec34d2": "2026-11-19T17:42:37.003659+00:00",
+  "979ab768ee6649b8": "2026-11-19T17:42:55.797822+00:00"
  },
  "recent": [
   {
@@ -6194,9 +6223,155 @@
    "status": "skipped",
    "ts": "2026-11-19T16:40:41.268122+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GAMING-GTA VI/INDIA",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-19T17:39:47.048576+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GAMING-GTA VI/INDIA",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-19T17:39:47.048696+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "'GTA 6': Should you kill or spare Arnold? What to know.",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-19T17:39:47.048778+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Here’s Why You Can Get A Haircut At 3 AM In GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-19T17:39:47.048850+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Cast List Includes Potentially Huge Spoiler, So Be Warned",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-19T17:39:47.048920+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6: The Optional Missions You Won’t Want to Miss",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-19T17:39:47.048989+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "'Gears & GTA 6 May Have Provided A Temporary Reprieve' - Xbox Hardware Sales Get A Major Surge In The US",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-19T17:39:47.049058+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Where is the Casino in GTA 6? Location, Explained",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "dup",
+   "ts": "2026-11-19T17:39:47.548316+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 launches after 13-year wait, gamers weigh-in",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-19T17:39:47.916390+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "It looks like Rockstar co-founder Sam Houser is hiding in GTA 6 as fans find \"Little Sam\" Easter egg",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-19T17:41:49.167143+00:00",
+   "card_title": "МАЛЕНЬКИЙ СЭМ В GTA 6"
+  },
+  {
+   "title": "GTA 6’s Best-Kept Secret Is the Most Important Part of the Game",
+   "source": "Polygon",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-19T17:41:51.006899+00:00",
+   "card_title": "СЫН В ГТА 6"
+  },
+  {
+   "title": "Why Rockstar Games Includes Bigfoot And UFOs To Find In Its Big Open-World Games: ‘We Love That Stuff’",
+   "source": "Kotaku",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-19T17:41:56.397008+00:00",
+   "card_title": "РОКСТАР О КРИПТИДАХ"
+  },
+  {
+   "title": "Guide: GTA 6: Who Is the Real Actor Jason Is Based On?",
+   "source": "Push Square",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-19T17:42:17.534499+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Is GTA 6 About to Break the Internet? Logitech's Gaming Boss Weighs In",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-19T17:42:37.003772+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI собрала $1,45 млрд предзаказов. Сколько еще может принести игра Rockstar",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-19T17:42:55.797929+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
+  {
+   "item": {
+    "title": "GTA 6’s Best-Kept Secret Is the Most Important Part of the Game",
+    "link": "https://www.polygon.com/gta6-prologue-secret/",
+    "summary": "Rockstar Games managed to keep one big secret with Grand Theft Auto 6, and it completely changes the story.",
+    "published": "2026-11-19T17:31:18+00:00",
+    "source": "Polygon",
+    "site_name": "Polygon",
+    "trust": "high",
+    "text": "Considering how much of Grand Theft Auto 6 leaked before its launch, you’d think that Rockstar’s latest wouldn’t have anything left to hide. I mean, we’ve really seen it all. But as players immediately discovered when starting their save file, Rockstar (kind of) managed to keep one secret — and it was a huge one.\n[Ed. note: This article contains spoilers for the prologue of GTA 6.]\nGTA 6 kicks off with a short prologue chapter that sets a few things in motion. First, we get to see the moment Jason and Lucia met, as they both got crossed trying to jack the same car. A rom-com montage ensues, but things take a turn fast. We fast-forward to Lucia sitting in a restaurant as she prepares to pull off a robbery across the street. After nervously stalling​​​​​​​, she works up the courage to stick the place up. Unfortunately, it doesn’t go well. The cops quickly intervene and arrest her.\nThe twist comes as she’s being put into the back of a cop car. A panicked Lucia begs the cops to take her back to the restaurant where she was holed up before the robbery, because she left something there. The cops discover something that the camera was carefully hiding earlier in the sequence: Lucia’s infant son, Tommy, who she left unattended.\nAs we soon learn, Tommy is Jason and Lucia’s son — unbeknownst to Jason, until Lucia tells him upon getting out of prison. Tommy now lives with a separate guardian after getting taken from Lucia’s custody; Jason and Lucia only get to see him through occasional photos that get texted to them. It turns out that Jason and Lucia’s whole motivation for making cash in GTA 6 is to fund a family savings account in hopes that they can reunite with their son and give him a normal life.\nIt’s a shocking revelation that Rockstar desperately wanted to keep hidden as long as possible. No pre-release trailers for the game so much as teased that there was a kid in the picture. When I spoke to Rockstar North co-head Rob Nelson just ahead of the game’s launch, he seemed relieved that the detail had mostly gone unspoiled, despite a cavalcade of leaks. (It actually did leak about a year ago, but it faded into a forgotten rumor in a sea of them by the time GTA 6 actually launched.) For Nelson, that initial shock is an important part of an experience that’s designed to challenge what you think you know about its antiheroes at every turn.\nWith Tommy comes a mess of complicated character dynamics and anxieties that you’ll see throughout GTA 6’s story. While Lucia seems like an impulsive loudmouth who doesn’t have a care in the world, it becomes increasingly clear that she’s harboring serious insecurity after having Tommy taken from her. She quietly worries that she doesn’t deserve to be a parent after leaving her kid to go pull off a stick-up. While Jason wasn’t part of that, he holds the same fear that someone like him isn’t responsible enough to be a father. Those feelings bleed out whenever the two receive a text with a photo of Tommy and are reminded of the kid who is growing up somewhere without them.\nTommy also adds some welcome tension into Jason and Lucia’s love story, considering that the romance can be largely free of friction otherwise (depending on how you engage with the romance system). At one point, the two broke into a spontaneous conversation about their family. Jason noted that Lucia’s mother doesn’t seem to like him very much, which prompted Lucia to reveal that she lied to her mom and told her that Jason didn’t want to be involved in Tommy’s life. Though that isn’t exactly true given that Jason didn’t know his son existed, Lucia then recalled a conversation where Jason told her he didn’t want to have kids. That exchange gives us context that explains why Lucia didn’t tell Jason about Tommy upfront. For Nelson, those little details help build a nuanced story of two reluctant parents trying to figure out how to adapt to an unexpected responsibility.\nA weekly cheat sheet to what you’ll eventually love to play. No buyin",
+    "extra": {}
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 9,
+    "post": "👶 СЫН В ГТА 6\n\nРокстар реально спрятал главного твист: у Лусии и Джейсона есть младенец Томми. Весь сюжет — ради того, чтобы собрать на его возвращение. Даже трейлеры молчали, инсайдерам повезло, что слух забыли. Эмошка-база, вот это драма.",
+    "card_title": "СЫН В ГТА 6",
+    "reason": "Крупный сюжетный спойлер от Polygon, подтвержденный интервью с Rockstar, высокая важность для понимания истории.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "model": "groq:qwen/qwen3.8-27b"
+   },
+   "queued_at": "2026-11-19T17:41:51.006880+00:00"
+  },
   {
    "item": {
     "title": "How to sell illegal goods and stolen items in GTA 6",
@@ -6222,6 +6397,32 @@
     "model": "groq:openai/gpt-oss-120b → groq:openai/gpt-oss-120b"
    },
    "queued_at": "2026-11-19T16:39:39.607763+00:00"
+  },
+  {
+   "item": {
+    "title": "Why Rockstar Games Includes Bigfoot And UFOs To Find In Its Big Open-World Games: ‘We Love That Stuff’",
+    "link": "https://kotaku.com/why-rockstar-games-includes-bigfoot-and-ufos-to-find-in-its-big-open-world-games-we-love-that-stuff-2000758423",
+    "summary": "GTA 6 's head of production told me that they have the team and resources to include oddities, paranormal moments, and weird monsters",
+    "published": "2026-11-19T17:30:27+00:00",
+    "source": "Kotaku",
+    "site_name": "Kotaku",
+    "trust": "high",
+    "text": "BigfootGrand Theft Auto 6GTA 6Rob NelsonRockstar Games\nFor nearly as long as Rockstar has been making big open-world games, like the recently released Grand Theft Auto 6 and 2018’s Red Dead Redemption 2, players have been exploring these worlds for strange secrets, supernatural events, and cryptids like Bigfoot and Mothman. And sometimes they actually find things along these lines, which made me curious as to why Rockstar includes these oddities.\nI spoke to Rob Nelson, Rockstar North’s head of production and the de facto boss on GTA 6, ahead of the massive game’s launch. And during our interview, I asked him why so many of its open-world games contain otherworldly or hard-to-explain mysteries and creatures. According to him, there are a few reasons why Rockstar added things like the Skunk Ape, which players have already found lurking in the swamps of Leonida, to GTA 6. For one thing, they have the “team size” to be able to work on all of this extra content in a way they couldn’t long ago. The other reason: “We love it.”\n“Also, the fact that Florida is so fucking weird and crazy, we love that stuff,” said Nelson. “We love sort of playing with players. You never know whether it’s real paranormal stuff or it’s phony paranormal stuff. Is it really Bigfoot? Is it a guy wearing a Bigfoot mask? We just love it.”\nNelson explained that the team also wanted the map in GTA 6 to feel completely full and packed with things to do and see. They wanted it to be “constantly surprising you.” It also helps that, according to Nelson, the team working on GTA 6 has been together for “such a long time” and that there are entire groups within the studio made up of people who in the past were responsible for a lot more. Now, they can focus on smaller details and specific bits of each game, like adding ghosts in GTA V or a vampire in Red Dead Redemption 2.\n“They’re dedicated to making these games amazing things,” said Nelson in a way that really made it seem like he was proud of his team.\nAnother reason GTA 6 has so much weird and strange stuff in it is because of how much wilderness is in the game. And Nelson and his team wanted to fill these parts of the map with just as much to do and see as the urban areas. ”\n“[We] always want it to feel like there’s something weird out there,” said Nelson. “And hopefully in GTA 6 there will be stuff for people to be finding for a long time to come.”\nDon’t miss the latest reviews, news and tips. Sign up for our free newsletter.\nCultureNews Live Updates On GTA 6: The Biggest Launch In Gaming History We're tracking all of the news, discoveries, and conversations as Rockstar's new open-world blockbuster goes live Ethan Gach, Ash Parrish, Carolyn Petit, Zack Zwiezen, Kenneth Shepard, and Rebekah Valentine Published November 19, 2026\nCultureNews Here’s Why You Can Get A Haircut At 3 AM In GTA 6 Oh, boy! 3 AM! By Rebekah Valentine Published November 19, 2026\nTips & Guides Two Cool, Hidden Features GTA 6 Doesn’t Explain: Flipping And Sitting Rockstar's big game doesn't make it clear that you can shove boats into the water, flip cars over, and rest against walls By Zack Zwiezen Published November 19, 2026\nCultureNews GTA 6 Has Full Playable Console Games Made By A ‘Dev Team Within The Dev Team’ These games aren't tiny mini-games either, but feel like full experiences By Zack Zwiezen Published November 19, 2026\nCultureKotaku Game Diary Rockstar Kept One Of GTA 6’s Biggest Early Secrets Under Wraps For Years Why the hell would I do a lethal run of the game now? By Kenneth Shepard Published November 19, 2026\nCultureNews GameStop CEO Criticizes Digital-Only Games As GTA 6 Releases Without A Disc 'Unquestionably, the decision to move to all digital has hurt consumers, and it’s also hurt GameStop' By Alicia Haddick Published November 19, 2026",
+    "extra": {}
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "🐾 РОКСТАР ПРИЗНАЛСЯ В ЛЮБВИ К КРИПТИДАМ\n\nРоб Нельсон из Rockstar North объяснил, зачем в GTA 6 прячут Бигфута и НЛО. Команда просто обожает троллить игроков и заполнять дикие зоны карты загадками. По его словам, они любят играть с фанатами: «Никогда не знаешь, что там реальное, а что просто чувак в маске». Завезли базу для долгих поисков в болотах Леониды. 🌲",
+    "card_title": "РОКСТАР О КРИПТИДАХ",
+    "reason": "Официальное интервью продюсера Rockstar North о геймдизайне и пасхалках в уже вышедшей игре.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "model": "groq:qwen/qwen3.8-27b"
+   },
+   "queued_at": "2026-11-19T17:41:56.396992+00:00"
   },
   {
    "item": {
@@ -6378,6 +6579,32 @@
     "model": "groq:qwen/qwen3.8-27b"
    },
    "queued_at": "2026-11-19T16:40:16.523996+00:00"
+  },
+  {
+   "item": {
+    "title": "It looks like Rockstar co-founder Sam Houser is hiding in GTA 6 as fans find \"Little Sam\" Easter egg",
+    "link": "https://www.gamesradar.com/games/grand-theft-auto/it-sure-looks-like-rockstar-co-founder-sam-houser-is-hiding-in-gta-6-as-fans-find-little-sam-easter-egg-that-calls-back-to-gta-3/",
+    "summary": "Another Grand Theft Auto, another Easter egg",
+    "published": "2026-11-19T17:31:33+00:00",
+    "source": "GamesRadar+",
+    "site_name": "GamesRadar+",
+    "trust": "high",
+    "text": "Much like its predecessors, GTA 6 plays home to countless Easter eggs – many of which I'm certain fans will uncover in the coming days – including a potential little nod to Rockstar co-founder Sam Houser himself.\nWarning – this article contains spoilers for the third chapter of Grand Theft Auto 6.\nIn case you've not seen it yet (and, just as a precautionary warning, this is a bit of a spoiler if you haven't completed the accompanying mission \"Boobie Time\" in Chapter 3), it's nothing major, really – but it's a nice Easter egg that comes up sort of unexpectedly. You can see it play out over on YouTube, when Jason connects with Boobie Ike and we see… well, Sam Houser. Or, as he's dubbed in-game, \"Little Sam.\"\nI won't say much more about the mission in its entirety myself, but some folks have caught wind of the reference to the Rockstar lead already, taking to forums like Reddit to point out his presence in the new GTA. One person points out how \"they even call him Little Sam and say he doesn't talk much,\" while another posts a screenshot from Grand Theft Auto 3 – one that depicts minor character \"Sam,\" long-rumored to be Sam Houser.\nI'm excited to see what other Easter eggs pop up as more players explore the depths of Vice City in GTA 6, honestly. We're sure to see some throwbacks, references to other big games (perhaps some Red Dead Redemption 2 nods as well), and more, knowing Rockstar. The game has only just landed in players' hands, though – but something tells me it won't be too long before we see Easter egg roundups surface online.\nI'm personally keeping my own fingers crossed for some more niche indie tidbits here and there, just for fun – and humor, of course, but I think Rockstar nails that outside of its Easter eggs well enough already.\nRead our GTA 6 review to learn what we think about one of the biggest new games this year, or browse through our GTA 6 guide for more about Rockstar's behemoth.\nWeekly digests, tales from the communities you love, and more\n4. Best pro Xbox: Nacon Revolution X Unlimited\nAfter spending years with her head in various fantastical realms' clouds, Anna studied English Literature and then Medieval History at the University of Edinburgh, going on to specialize in narrative design and video game journalism as a writer. She has written for various publications since her postgraduate studies, including Dexerto, Fanbyte, GameSpot, IGN, PCGamesN, and more. When she's not frantically trying to form words into coherent sentences, she's probably daydreaming about becoming a fairy druid and befriending every animal or she's spending a thousand (more) hours traversing the Underdark in Baldur's Gate 3. If you spot her away from her PC, you'll always find Anna with a fantasy book, a handheld video game console of some sort, and a Tamagotchi or two on hand.\nYou must confirm your public display name before commenting\nPlease logout and then login again, you will then be prompted to enter your display name.\n1 Pokemon Winds and Waves leaker admits their source is 'I made it up,' drops the act\n2 Grand Theft Auto 6 is a \"masterpiece,\" Witcher 4 and Cyberpunk 2 boss says to Rockstar\n3 Where to find all the Strip Clubs in GTA 6\n4 GTA 6 Jason actor finally speaks out as Rockstar posts the full cast and credits\n5 Dev says their Steam sales were 148 times larger than on the Epic Games Store",
+    "extra": {}
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "🕵️‍♂️ Маленький Сэм в GTA 6\n\nНарезали пасхалку в миссии «Boobie Time»: появляется «Little Sam», явно отсылка к со‑основателю Сэму Хаузеру. Фанаты уже делятся скриншотами, а в GTA 3 тоже был персонаж Сам – теперь он живёт в Вайс‑Сити. Кто ещё нашёл скрытые детали? 🎮",
+    "card_title": "МАЛЕНЬКИЙ СЭМ В GTA 6",
+    "reason": "Подтверждённый факт от GamesRadar+, интересен фанатам",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "model": "groq:openai/gpt-oss-120b → groq:openai/gpt-oss-120b"
+   },
+   "queued_at": "2026-11-19T17:41:49.167130+00:00"
   }
  ],
  "posts": [
