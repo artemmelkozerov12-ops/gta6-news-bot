@@ -693,7 +693,21 @@
   "2afe371fb0eb60c6": "2026-11-19T14:28:28.597355+00:00",
   "e78a5ac651d6883b": "2026-11-19T14:28:47.859842+00:00",
   "c07294cc28e898fa": "2026-11-19T14:28:48.574831+00:00",
-  "dd54043c1a9dd492": "2026-11-19T14:28:50.178659+00:00"
+  "dd54043c1a9dd492": "2026-11-19T14:28:50.178659+00:00",
+  "600fc20bbb399e5e": "2026-11-19T15:29:39.201605+00:00",
+  "a75b9ae4e532ca68": "2026-11-19T15:29:39.201685+00:00",
+  "4a6b6759f31969eb": "2026-11-19T15:29:39.201738+00:00",
+  "622af708bbf6c955": "2026-11-19T15:29:39.201788+00:00",
+  "375cc577b652b423": "2026-11-19T15:29:39.201833+00:00",
+  "c463884a8e03e5e2": "2026-11-19T15:29:39.201879+00:00",
+  "2365138d87177930": "2026-11-19T15:29:39.201920+00:00",
+  "7cf1d2d9b555e5ea": "2026-11-19T15:29:39.201966+00:00",
+  "029a7c32d80db6e1": "2026-11-19T15:29:41.623996+00:00",
+  "c61d21abe1c86c8f": "2026-11-19T15:29:42.360272+00:00",
+  "3ed0aca36783e4c9": "2026-11-19T15:29:43.163021+00:00",
+  "eaf6aff895b7bcf5": "2026-11-19T15:29:55.179732+00:00",
+  "3eb84676defc3fba": "2026-11-19T15:29:56.976938+00:00",
+  "3880dd42f1e3b961": "2026-11-19T15:29:57.640156+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -1263,7 +1277,21 @@
   "727c59a1f96d2ceb": "2026-11-19T14:28:27.358065+00:00",
   "729ff84b30198adc": "2026-11-19T14:28:47.859842+00:00",
   "c766a5d83b03ae81": "2026-11-19T14:28:48.574831+00:00",
-  "139be21666372caf": "2026-11-19T14:28:50.178659+00:00"
+  "139be21666372caf": "2026-11-19T14:28:50.178659+00:00",
+  "a71dca26aa3fca5d": "2026-11-19T15:29:39.201605+00:00",
+  "c32c0d3529d525c0": "2026-11-19T15:29:39.201685+00:00",
+  "3674307348901f05": "2026-11-19T15:29:39.201738+00:00",
+  "09e94f680ab75e6b": "2026-11-19T15:29:39.201788+00:00",
+  "71f0fe45fcffc840": "2026-11-19T15:29:39.201833+00:00",
+  "28d9c859aae2442a": "2026-11-19T15:29:39.201879+00:00",
+  "0f8801529821f941": "2026-11-19T15:29:39.201920+00:00",
+  "e2dc8427c5835dff": "2026-11-19T15:29:39.201966+00:00",
+  "f8f361b2fb2c4650": "2026-11-19T15:29:41.623996+00:00",
+  "32e20ebbf434d94f": "2026-11-19T15:29:42.360272+00:00",
+  "2334012c2fab532b": "2026-11-19T15:29:43.163021+00:00",
+  "59f9a40383637cfa": "2026-11-19T15:29:55.179732+00:00",
+  "4c661c3c2ac91ce3": "2026-11-19T15:29:56.976938+00:00",
+  "5d2134f87dcca4fe": "2026-11-19T15:29:57.640156+00:00"
  },
  "recent": [
   {
@@ -5654,7 +5682,7 @@
    "title": "GTA 6 launch week revenue predicted to top the biggest movies from Star Wars, Harry Potter, and LOTR",
    "source": "GamesRadar+",
    "trust": "high",
-   "status": "queued",
+   "status": "published",
    "ts": "2026-11-19T12:15:58.197091+00:00",
    "card_title": "ГТА 6 ПРЕВОЗХОДИТ БЛОКБАСТЕРЫ"
   },
@@ -5945,35 +5973,121 @@
    "status": "skipped",
    "ts": "2026-11-19T14:28:50.597928+00:00",
    "card_title": ""
+  },
+  {
+   "title": "Should you kill or spare Arnold in GTA 6?",
+   "source": "PC Gamer",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-19T15:29:39.201653+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Fastest Way To Get A Parachute in GTA 6",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "dup",
+   "ts": "2026-11-19T15:29:39.201713+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Just Brought Back the Best E3 Meme of All Time",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-19T15:29:39.201766+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Why GTA 6 Doesn’t Include Disney World",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-19T15:29:39.201810+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Rockstar Kept One Of GTA 6’s Biggest Early Secrets Under Wraps For Years",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-19T15:29:39.201857+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6's Digital Release Has GameStop CEO Defending Physical Games, For Obvious Reasons",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-19T15:29:39.201899+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6’s First Two Hours Teach You Everything You Need to Know About The Next 100",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-19T15:29:39.201945+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6’s Opening Two Hours Teach You Everything You’ll Ever Need To Know About the Next 100",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-19T15:29:39.202004+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to Find Paul Walker’s Mitsubishi Eclipse in GTA 6—Fast and Furious Easter Egg Location",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-19T15:29:41.624100+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Nice try hoaxers, but schools are not closed for the release of GTA VI, as fake announcements flood social media",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-19T15:29:42.360393+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "The Best ‘GTA 6’ Gun Is Very Easy To Get From The Start",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-19T15:29:43.163138+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 reviews are in. Best reactions as the 'Before GTA 6' era ends",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-19T15:29:55.179849+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "2000s Rapper Reveals Secret GTA VI Role and Says His Son Recognized Him",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-19T15:29:56.977061+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Nikola Jokic reveals why he won't be playing GTA VI",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-19T15:29:57.640269+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
-  {
-   "item": {
-    "title": "GTA 6 launch week revenue predicted to top the biggest movies from Star Wars, Harry Potter, and LOTR",
-    "link": "https://www.gamesradar.com/games/grand-theft-auto/as-gta-6-finally-releases-borderlands-4-boss-reminds-everyone-that-rockstars-launch-week-revenue-is-predicted-to-top-the-biggest-star-wars-lord-of-the-rings-and-harry-potter-movies-combined/",
-    "summary": "And it seems like a pretty good bet after becoming the most pre-ordered game on Sony and Microsoft's digital stores",
-    "published": "2026-11-19T12:09:57+00:00",
-    "source": "GamesRadar+",
-    "site_name": "GamesRadar+",
-    "trust": "high",
-    "text": "At long last, GTA 6 is finally here, and wouldn't you believe it – not only is it rather good, but it's also pretty popular. That wasn't unexpected, of course, and if one market intelligence and analyst firm's launch-week prediction proves accurate, Rockstar could be on track to earn more than the biggest Star Wars, Lord of the Rings, and Harry Potter movies combined.\nThis is an observation highlighted by Gearbox boss Randy Pitchford, who writes on Twitter: \"Newzoo's forecast is that GTA VI will generate more in its launch week than the entire original theatrical runs of the most successful Harry Potter, Lord of the Rings, Star Wars movies combined.\"\nHe appears to be citing Newzoo's July estimate, following the game's pre-orders going live. At the time, it was predicted that GTA 6 could earn between $3.3 billion and $5.2 billion in total sales by the end of its launch week.\nRockstar hasn't released any official data yet, but it's clear that GTA 6 is off to an exceptional start. Before launch, Sony and Microsoft confirmed that it was the most pre-ordered game of all time on their respective digital stores, and market intelligence firm Sensor Tower estimates that, as of yesterday, it had sold 17.07 million units and brought in $1.65 billion in revenue.\nSo, how does that compare to the movies Pitchford highlights? Per Box Office Mojo, the single most successful movies (by lifetime box office revenue) from each franchise are Star Wars: The Force Awakens, The Lord of the Rings: The Return of the King, and Harry Potter and the Deathly Hallows Part 2. The worldwide lifetime gross revenue for each of those comes in at around $2.07 billion, $1.12 billion, and $1.34 billion, respectively, for a combined total of about $4.53 billion.\nIf Sensor Tower's most recent estimate is correct, then GTA 6 hasn't reached this high just yet, but we're only just on launch day – Newzoo was allowing for the full week in its previous forecast. And, if the analytics firm ends up being correct, then it could be on track to earn over half a billion dollars more than those movies in its first days, which is wild.\nWith 10/10 GTA 6 reviews almost across the board, though, it's a deserved result for Rockstar. We'll just have to wait and see how high that number can go.\nWeekly digests, tales from the communities you love, and more\nPlaying Rockstar's new game? Be sure to take a look at our GTA 6 guide. You can also look at our recommendations for the best controllers and headsets to play GTA 6 for the ultimate experience.\n4. Best pro Xbox: Nacon Revolution X Unlimited\nI'm GamesRadar+'s Deputy News Editor, working alongside the rest of the news team to deliver cool gaming stories that we love. After spending more hours than I can count filling The University of Sheffield's student newspaper with Pokemon and indie game content, and picking up a degree in Journalism Studies, I started my career at GAMINGbible where I worked as a journalist for over a year and a half. I then became TechRadar Gaming's news writer, where I sourced stories and wrote about all sorts of intriguing topics. In my spare time, you're sure to find me on my Nintendo Switch or PS5 playing through story-driven RPGs like Xenoblade Chronicles and Persona 5 Royal, nuzlocking old Pokemon games, or going for a Victory Royale in Fortnite.\nYou must confirm your public display name before commenting\nPlease logout and then login again, you will then be prompted to enter your display name.\n1 The beacons are lit, Lego Minas Tirith is on sale for Black Friday\n2 Tom Hiddleston explains how the Avengers: Endgame Encore ending may not undo Loki's TV show ending\n3 Furries are outlawed in GTA 6 and form an underground \"Furverts\" group, but you can still help them escape the cops\n4 \"Not every game needs to be GTA\": Baldur's Gate 3 dev says Grand Theft Auto 6 is a \"rare\" cultural moment, but there's still \"space for other types of experiences\"\n5 Sebastian Stan admits the Avengers are \"pretty spread out\" but there w",
-    "extra": {}
-   },
-   "verdict": {
-    "type": "rumor",
-    "importance": 8,
-    "post": "🔥 Слух, не подтверждено GamesRadar+\n\n💰 GTA 6 может собрать за первую неделю больше, чем все блокбастеры Star Wars, LOTR и Harry Potter вместе!\nЗапуск прошёл на ура, предзаказы взорвали цифры, а аналитики считают, что доход может достичь $4‑5 млрд. Если всё так, то это будет эпичный рекорд.\n❤️ — Верю в цифры\n👎 — Слишком оптимистично",
-    "card_title": "ГТА 6 ПРЕВОЗХОДИТ БЛОКБАСТЕРЫ",
-    "reason": "Слух от GamesRadar+ о прогнозе доходов, не подтвержден официально",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "model": "groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-19T12:15:58.197081+00:00"
-  },
   {
    "item": {
     "title": "GameStop CEO slams 'code-in-a-box' games in the wake of GTA 6's discless release",
@@ -6090,9 +6204,10 @@
   "2026-11-19T07:54:18.583122+00:00",
   "2026-11-19T10:42:21.111586+00:00",
   "2026-11-19T11:12:45.746012+00:00",
-  "2026-11-19T12:54:25.683092+00:00"
+  "2026-11-19T12:54:25.683092+00:00",
+  "2026-11-19T16:00:29.981573+00:00"
  ],
- "tg_offset": 387128962,
+ "tg_offset": 387128963,
  "channel": {
   "id": -1003986639147,
   "title": "GTA 6 | Горячие новости",
@@ -6105,14 +6220,16 @@
   "2026-11-18T16:00:26.651491+00:00",
   "2026-11-18T21:49:03.263053+00:00",
   "2026-11-19T07:34:40.425350+00:00",
-  "2026-11-19T11:00:44.157212+00:00"
+  "2026-11-19T11:00:44.157212+00:00",
+  "2026-11-19T16:00:06.530467+00:00"
  ],
  "slots_sent": {
   "2026-11-18:утро": "2026-11-18T07:13:25.212391+00:00",
   "2026-11-18:обед": "2026-11-18T11:00:18.299237+00:00",
   "2026-11-18:вечер": "2026-11-18T16:00:26.651580+00:00",
   "2026-11-19:утро": "2026-11-19T07:34:40.425437+00:00",
-  "2026-11-19:обед": "2026-11-19T11:00:44.157385+00:00"
+  "2026-11-19:обед": "2026-11-19T11:00:44.157385+00:00",
+  "2026-11-19:вечер": "2026-11-19T16:00:06.530557+00:00"
  },
  "urgent": [
   "2026-11-18T05:00:10.556622+00:00",
