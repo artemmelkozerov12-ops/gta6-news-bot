@@ -455,7 +455,21 @@
   "14b4487ddb71d8bc": "2026-11-18T22:48:30.170023+00:00",
   "302a302dee80f89d": "2026-11-18T22:48:45.303185+00:00",
   "3c0532c0b6481247": "2026-11-18T22:49:18.041747+00:00",
-  "ebd37993f1dd22b4": "2026-11-18T22:50:22.304163+00:00"
+  "ebd37993f1dd22b4": "2026-11-18T22:50:22.304163+00:00",
+  "73e35925e742cb17": "2026-11-18T23:45:29.441642+00:00",
+  "7023228b2b331204": "2026-11-18T23:45:29.441746+00:00",
+  "4510bc66a235753a": "2026-11-18T23:45:29.441832+00:00",
+  "da0b7c243b188344": "2026-11-18T23:45:29.441923+00:00",
+  "21c487dc19a17918": "2026-11-18T23:45:29.442009+00:00",
+  "b9d822c575a6a082": "2026-11-18T23:45:29.442107+00:00",
+  "c09055b3d526fcec": "2026-11-18T23:45:29.442190+00:00",
+  "344c791c24e44fcc": "2026-11-18T23:45:29.442257+00:00",
+  "feef6c6244a5b719": "2026-11-18T23:45:31.512513+00:00",
+  "285b3c470494df4b": "2026-11-18T23:45:33.044878+00:00",
+  "1ac0371dae09d26f": "2026-11-18T23:45:40.669328+00:00",
+  "5dfade5f98cf9639": "2026-11-18T23:47:22.555727+00:00",
+  "3855db5c4cebd3fb": "2026-11-18T23:47:26.617866+00:00",
+  "dadfc2c8c60d7c35": "2026-11-18T23:47:51.571150+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -866,7 +880,21 @@
   "dabd5805a0643f2e": "2026-11-18T22:48:30.170023+00:00",
   "081190c36fd3830f": "2026-11-18T22:48:45.303185+00:00",
   "2bcd78d840e109e6": "2026-11-18T22:49:18.041747+00:00",
-  "1d42fecfab13cb3c": "2026-11-18T22:50:22.304163+00:00"
+  "1d42fecfab13cb3c": "2026-11-18T22:50:22.304163+00:00",
+  "812da9c8f15722ad": "2026-11-18T23:45:29.441642+00:00",
+  "eec50814023c53b1": "2026-11-18T23:45:29.441746+00:00",
+  "02026c871340995b": "2026-11-18T23:45:29.441832+00:00",
+  "aa20ca8438f66503": "2026-11-18T23:45:29.441923+00:00",
+  "418d50b5417525ca": "2026-11-18T23:45:29.442009+00:00",
+  "16ca4a7a83434ac8": "2026-11-18T23:45:29.442107+00:00",
+  "968f6ee02d593610": "2026-11-18T23:45:29.442190+00:00",
+  "fff25d7e21bb4cae": "2026-11-18T23:45:29.442257+00:00",
+  "f7210f57d6164cbc": "2026-11-18T23:45:31.512513+00:00",
+  "5d06e8c0f9a84cdf": "2026-11-18T23:45:33.044878+00:00",
+  "84ac769cdfc7c3be": "2026-11-18T23:45:40.669328+00:00",
+  "44013054cf74d789": "2026-11-18T23:47:22.555727+00:00",
+  "bdc0459ef24fcbec": "2026-11-18T23:47:26.617866+00:00",
+  "1d3c5cc6d0a37202": "2026-11-18T23:47:51.571150+00:00"
  },
  "recent": [
   {
@@ -4220,6 +4248,118 @@
    "status": "skipped",
    "ts": "2026-11-18T22:50:22.304288+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GTA 6 Home Sweet Home Mission Walkthrough",
+   "source": "VGC",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-18T23:45:29.441703+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Tourist Trap Mission Walkthrough",
+   "source": "VGC",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-18T23:45:29.441791+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Recalibration Mission Walkthrough",
+   "source": "VGC",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-18T23:45:29.441867+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Don Gone Mission Walkthrough",
+   "source": "VGC",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-18T23:45:29.441962+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "The wait for GTA 6 is almost over",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-18T23:45:29.442052+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Актер озвучки GTA V пытается отстоять честь Люсии в GTA VI, называя ее критиков «идиотами»",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-18T23:45:29.442155+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 launches at midnight after 13-year wait. Here's what to know",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-18T23:45:29.442226+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Turns Out GTA San Andreas Remastered Was Teasing GTA 6 Back In 2021",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-18T23:45:29.442324+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How To Make Money Fast In GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-18T23:45:31.512621+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "PSN Down Sporadically for Some as GTA 6 Launches Around the World",
+   "source": "Push Square",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-18T23:45:33.620154+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 launches after 13-year wait, breaking pre-order records",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "queued",
+   "ts": "2026-11-18T23:47:21.366778+00:00",
+   "card_title": "GTA 6 РЕКОРДНЫЕ ПРЕДЗАКАЗЫ"
+  },
+  {
+   "title": "«Если пришлют приставку, я сыграю». Тренер «Майами» Споэльстра — о GTA 6",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-18T23:47:22.555878+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Doesn't Let Players Pick Up Prostitutes, But Rockstar Has a Logical Reason for It",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-18T23:47:26.618015+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Стала известна стоимость специальной формы «Майами» в стиле GTA 6",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-18T23:47:51.571265+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -4461,58 +4601,6 @@
   },
   {
    "item": {
-    "title": "GTA 6 Launches With a 99 on Metacritic, Tying the Highest-Rated Game Ever",
-    "link": "https://www.gtaboom.com/gta-6-launches-with-a-99-on-metacritic-tying-the-highest-rated-game-ever-0d69",
-    "summary": "GTA 6 has a 99 Metacritic score from 100 critic reviews, tying the highest score ever and beating every previous GTA game.",
-    "published": "2026-11-18T11:33:50+00:00",
-    "source": "GTA BOOM",
-    "site_name": "GTA BOOM",
-    "trust": "medium",
-    "text": "Thirteen years of waiting ended with a number only one other game has ever reached and even that game's previous record comes with a caveat. Grand Theft Auto VI is sitting at a Metacritic score of 99, built from 100 critic reviews with not a single mixed or negative verdict among them. For Rockstar Games, a studio whose titles already live in the mid-to-high 90s, this is new ground.\nA 99 ties the highest Metascore ever recorded, a mark held until now only by The Legend of Zelda: Ocarina of Time from 1998. GTA VI is still not on uncharted territory but it matches the previous record with roughly four times the review count and a clean sweep of positive scores, where Ocarina's 99 rested on a far smaller sample. It also clears the series' own ceiling, topping Grand Theft Auto IV's 98 and the 97s that Grand Theft Auto V and Grand Theft Auto III have carried for years.\nThe all-time Metacritic high, and where GTA 6 sits\nGTA 6 ties the record and tops every Grand Theft Auto before it.\nThe scores behind that average are about as lopsided as review day gets. On Metacritic's listing the perfect marks stack up fast, with IGN handing out a 10 and calling it \"the single most impressive video game I've ever played,\" Game Informer's Matt Miller scoring it a 10, and Windows Central's Jez Corden writing that it is \"quite possibly a contender for best game ever\" after asking his team if he could somehow file an 11 out of 10. Kotaku landed on \"a masterpiece of open-world design,\" in its review. Those are the writers' verdicts rather than ours, but the consistency across a hundred of them is the story.\nNearly every review points at the same thing. Jason Duval and Lucia Caminos' relationship is the piece critics keep calling the heart of the game, the element that lifts it past earlier entries. Game Informer described their dynamic as \"video gaming's most richly drawn and compelling romance,\" Edge cast the duo as a partnership \"driven forward not by fear, but by love,\" and Kotaku said they \"feel like a real couple\" worth rooting for. It is the grounded, character-first direction Rockstar carried over from Red Dead Redemption 2,and the critics treated it as the payoff.\nThe acclaim is not completely edgeless, and we would not pretend otherwise. The recurring caveat across reviews is the locked 30fps on current hardware, including the PlayStation 5 Pro, which Digital Foundry traced to a CPU limit rather than a choice Rockstar can just patch away easily. A handful of writers also noted occasional control friction or a late pacing dip. Finally, the Metacritic user score is still pending, with early fake ratings scrubbed and the critic figure can still change as more reviews come in.\nThis is the validation every thread of our coverage pointed toward. It is the game that already led the Game Awards with eight nominations, the one Rockstar delayed twice for polish after a decade of building the world and the density the Game Informer cover first laid out. Take-Two Interactive had it on track for the biggest launch in history on the commercial side and now the critical side is matching the hype with the highest number a game has ever posted.\nThe sales were never the question. A 99 from 100 reviews with no negatives is the part nobody could guarantee and it puts GTA VI among the best-reviewed games ever made.\nRockstar did not just clear the bar it set with Grand Theft Auto V with the newest Grand Theft Auto. It tied the highest one the medium has even though it didn't even need to be this good.\nDoes GTA 6 deserve to tie the highest-rated game of all time, or is some of that 99 the weight of 13 years of hype talking?\nOnce a post receives 3 qualifying Helpful marks\nA 99 from 100 reviews with not one negative is absurd and it is the first time a modern game has actually earned the Ocarina of Time comparison instead of just chasing it.\nA 99 from 100 reviews with not one negative is absurd and it is the first time a modern game has actually earned the Ocarina of",
-    "extra": {}
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "⭐ GTA 6 набрала 99 баллов на Metacritic!\n\nИгра повторила исторический рекорд Zelda: Ocarina of Time, получив 100 позитивных рецензий от критиков без единой отрицательной оценки. Обзреватели хвалят историю Джейсона и Люсии, а из минусов отмечают лишь 30 FPS на консолях. Она обошла даже GTA 4 и GTA 5.",
-    "card_title": "GTA 6 ПОЛУЧИЛА 99 НА METACRITIC",
-    "reason": "Факт о Metacritic‑оценке подтверждён публичными данными, интерес высокий",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "model": "groq:openai/gpt-oss-120b → gemini:gemini-3.5-flash"
-   },
-   "queued_at": "2026-11-18T11:44:22.032911+00:00"
-  },
-  {
-   "item": {
-    "title": "Complete GTA 6 Trophy List—How To Get All Trophies & Achievements",
-    "link": "https://insider-gaming.com/complete-gta-6-trophy-list-how-to-get-all-trophies-achievements/",
-    "summary": "Check out the complete trophy and achievement list for Grand Theft Auto 6, though beware of potential story spoilers! The post Complete GTA 6 Trophy List—How To Get All Trophies & Achievements appeared first on Insider Gaming .",
-    "published": "2026-11-18T11:27:11+00:00",
-    "source": "Insider Gaming",
-    "site_name": "Insider Gaming",
-    "trust": "medium",
-    "text": "Grand Theft Auto 6 is shaping up to be a monumental release. From its gripping narrative to the sprawling open world of Leonida, there’s seemingly no shortage of content to sink your teeth into. If you’re planning to spend countless hours exploring everything the game has to offer, you’ll likely have a lengthy trophy hunt ahead of you, too.\nWith collectibles to discover, activities to complete, and a story to finish, GTA 6 could be a completionist’s dream—or a nightmare, depending on how you look at it. Earning the coveted Platinum Trophy is likely to require plenty of dedication, especially if you’re aiming to achieve 100% completion.\nBe warned, though: this guide contains major GTA 6 spoilers. The trophy list includes several hidden achievements tied directly to the game’s narrative, meaning you could accidentally stumble upon some significant story details if you’re not careful. If you’d rather experience Leonida without knowing what lies ahead, we’d strongly recommend avoiding the hidden trophy section.\nIf you’re willing to risk a few spoilers, here’s everything you need to know about the GTA 6 trophy list. And if you haven’t purchased GTA 6 yet, you can buy it here.\nHow Many Achievements & Trophies In Grand Theft Auto 6?\nThere are 55 trophies and achievements to earn in Grand Theft Auto 6 across PlayStation and Xbox.\nThat’s slightly more than both Grand Theft Auto 5 and Red Dead Redemption 2, making GTA 6’s trophy list a potentially hefty undertaking for completionists. Of course, GTA 5 eventually received additional trophies through its GTA Online updates, so there’s every chance GTA 6 could follow a similar path after launch.\nRelated: GTA 6 Standard Edition vs. Ultimate Edition: All Differences, Prices & Content\nWhat’s more, both PlayStation and Xbox players will have their own prestigious reward to chase when working towards 100% completion. PlayStation has its long-standing Platinum Trophy, while Xbox’s new Mythic Achievement offers a comparable incentive for those who manage to complete everything.\nThere are 28 hidden trophies and achievements in Grand Theft Auto 6, with many of them tied to the game’s main storyline.\nIf you’re trying to avoid GTA 6 spoilers, proceed with caution. Even seemingly harmless trophy descriptions can reveal important plot developments, character moments, or details about the game’s ending.\nRelated: All GTA 6 Guides, Walkthroughs, Best Tips & Tricks\nTo help you navigate the list without immediately ruining the story, we’ve split the trophies and achievements into two separate sections. The first covers all non-hidden trophies, while the second contains the hidden trophies that could reveal major spoilers.\nIf you’re determined to experience GTA 6 completely blind, we’d recommend steering clear of the entire list. However, if you’re simply looking to get a head start on your completionist journey without spoiling the biggest story moments, the non-hidden trophies are a good place to begin.\nHere’s every non-hidden trophy and achievement in GTA 6:\nDon’t say we didn’t warn you. If you’d rather explore Leonida at your own pace and uncover GTA 6’s biggest secrets for yourself, we strongly recommend skipping this section entirely. Even a quick glance at a trophy name could give away something you weren’t supposed to know yet.\nHowever, if you’re ready to uncover everything Rockstar has included in the trophy list, here’s every hidden trophy and achievement in Grand Theft Auto 6:\nWill you be working towards 100% completion for GTA 6? Let us know your thoughts on the Insider Gaming Discord server.\nFor more Insider Gaming content, check out whether you should buy a PS5 Pro for GTA 6, and don’t forget to sign up for our newsletter.\nNOTE: Insider Gaming may earn affiliate commission if you purchase items through links on Insider Gaming. Read more about affiliate commission here.\nCharlie is one of Insider Gaming's Guides Writers who's been in the gaming industry for a little over a year. Unfortunately for",
-    "extra": {}
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "🏆 Полный список достижений в GTA 6\n\nВ игре нас ждет 55 трофеев для PlayStation и Xbox, что даже больше, чем в пятой части или RDR 2. Среди них 28 скрытых ачивок, напрямую связанных с сюжетом.\n\nБудьте осторожны: если решите изучить список целиком, рискуете нарваться на серьезные спойлеры. Охота за платиной обещает быть долгой и насыщенной — готовы потратить сотни часов на 100% прохождение? 🎮",
-    "card_title": "ПОЛНЫЙ СПИСОК ДОСТИЖЕНИЙ GTA 6",
-    "reason": "Информация об игровых достижениях подтверждена крупным игровым изданием.",
-    "duplicate": false,
-    "corroborated": true,
-    "duplicate_of": "",
-    "corroborated_by": "GTA 6 achievement list: Every unlawful challenge standing between you and 100% completion — PC Gamer",
-    "model": "gemini:gemini-3.1-flash-lite"
-   },
-   "queued_at": "2026-11-18T11:47:34.918281+00:00"
-  },
-  {
-   "item": {
     "title": "GTA 6 Just Set a Streaming Record With Over 6 Million Peak Viewers at Launch",
     "link": "https://www.gtaboom.com/gta-6-just-set-a-streaming-record-with-over-6-million-peak-viewers-at-launch-0dd9",
     "summary": "StreamsCharts puts GTA VI's preliminary streaming launch peak at 6.38 million concurrent viewers, versus the previous 1.74 million record.",
@@ -4614,6 +4702,32 @@
     "model": "groq:qwen/qwen3.8-27b"
    },
    "queued_at": "2026-11-18T16:59:08.263411+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA 6 launches after 13-year wait, breaking pre-order records",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMDl4dC1UcXBldWFnR1hQM09PM3hYUnptcS10S3ozS0doUXVFLXlod0p2dkMwdmppUVRQb2ZfcU5PVGF0cmZmVjIxR25vNHQ1S3FtYnpQelZFYUR0cXBxc3hCQ1VKMWl5ZDVZODRGUEtzZ05XY2NmSWN1SEhGLW0yLWp4LW55MjV0S2dOVjgzTTBPejlESENvS2YwMWZlZGd2ODJ1MHVvOUJMMU9fb0phdlNR0gG3AUFVX3lxTE9rajFBSGJONHRBMkdZR0RvMmVVSnFya0dDWDVhRDdlX1pTVjJsWnhuM2Q5cUgzejdhSFhINFU4TGRrVTVYZzhBS1VkQzl1U3FzQ3FLWnVyNFExMDBZNzFXT3ZwdEVTY3JQclQxcE9jSHY1TGl1SEx3RWdicUpROVlTZi1HcFFqSEQzSXRZZ1dNbU5wajNoQzFaUjRPc3hrLXB4REFrenVaM1JPTVNOTU9YWjBrSDlzYw?oc=5",
+    "summary": "GTA 6 launches after 13-year wait, breaking pre-order records Al Jazeera",
+    "published": "2026-11-18T23:22:44+00:00",
+    "source": "Google News (EN)",
+    "site_name": "Al Jazeera",
+    "trust": "rumor",
+    "text": "GTA 6 launches after 13-year wait, breaking pre-order records Al Jazeera",
+    "extra": {}
+   },
+   "verdict": {
+    "type": "rumor",
+    "importance": 8,
+    "post": "🔥 Слух, не подтверждено Al Jazeera\nGTA 6 наконец вышел после 13‑летнего ожидания и уже рвёт рекорды предзаказов\nНаконец-то можно будет гнать по улицам, а предзаказы уже летят в небо, будто это чит‑коды. Кто успел, тот в плюсе, остальные — готовятся к эпическому старту!\n❤️ — Ставлю на то, что предзаказные бонусы реально крутятся\n👎 — Сомневаюсь, что цифры правдивы",
+    "card_title": "GTA 6 РЕКОРДНЫЕ ПРЕДЗАКАЗЫ",
+    "reason": "Слух из мало надёжного источника, но тема интересна фанатам",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "model": "groq:openai/gpt-oss-120b"
+   },
+   "queued_at": "2026-11-18T23:47:21.366765+00:00"
   }
  ],
  "posts": [
