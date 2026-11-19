@@ -535,7 +535,51 @@
   "238691b18adfd3e4": "2026-11-19T06:02:34.662435+00:00",
   "0e254b2b9373e8b9": "2026-11-19T06:02:35.250063+00:00",
   "3f3dd64b9a4d1157": "2026-11-19T06:02:35.864002+00:00",
-  "395a0b63c99d9c70": "2026-11-19T06:02:48.599084+00:00"
+  "395a0b63c99d9c70": "2026-11-19T06:02:48.599084+00:00",
+  "96207a1c1ca41d7d": "2026-11-19T07:33:58.769260+00:00",
+  "9ec6a7f9c867125a": "2026-11-19T07:33:58.769325+00:00",
+  "9c84818be83390d1": "2026-11-19T07:34:00.467375+00:00",
+  "09dfd9f24e4f5c30": "2026-11-19T07:34:01.335951+00:00",
+  "1aa400c520be6391": "2026-11-19T07:34:02.222109+00:00",
+  "7fc0efe78c097a33": "2026-11-19T07:34:10.361062+00:00",
+  "00720fcafffc6ac7": "2026-11-19T07:34:34.463392+00:00",
+  "7e548a6ff9c73734": "2026-11-19T07:34:35.792093+00:00",
+  "6bbbe83d2913f2f5": "2026-11-19T08:00:09.781310+00:00",
+  "e0bf69fc84857801": "2026-11-19T08:00:10.712985+00:00",
+  "f99c52b25d5183af": "2026-11-19T08:00:11.560354+00:00",
+  "8551d848217c3884": "2026-11-19T08:01:02.406746+00:00",
+  "23711a80c65f11f0": "2026-11-19T08:01:03.423867+00:00",
+  "fede0df84841e612": "2026-11-19T08:01:04.421972+00:00",
+  "d9ff511063edfb8c": "2026-11-19T08:01:55.288693+00:00",
+  "992c8e04acfdfd98": "2026-11-19T08:01:56.130224+00:00",
+  "817ece48bbbb3c2a": "2026-11-19T08:01:57.062068+00:00",
+  "994db01bc79a9924": "2026-11-19T08:02:47.964237+00:00",
+  "99d253a2acbaaacd": "2026-11-19T08:02:48.656953+00:00",
+  "aeda0ea1398af6a6": "2026-11-19T08:02:49.458909+00:00",
+  "6e441d7b8d9cfe1b": "2026-11-19T08:03:40.364973+00:00",
+  "49244ef3a93da7be": "2026-11-19T08:03:41.115162+00:00",
+  "c1ad054635db8255": "2026-11-19T08:03:41.987616+00:00",
+  "87041896a6c2aff5": "2026-11-19T08:04:32.830864+00:00",
+  "59c505d52f88a98b": "2026-11-19T08:04:33.743735+00:00",
+  "cda921dabe3f8d2c": "2026-11-19T08:04:34.508226+00:00",
+  "8f7581b807d78f17": "2026-11-19T08:05:25.412558+00:00",
+  "c4bcf4e66aa1a6f6": "2026-11-19T08:05:26.327294+00:00",
+  "2b6a16edaa181b8a": "2026-11-19T08:05:27.195076+00:00",
+  "945e3dabbc1031d0": "2026-11-19T08:06:18.230825+00:00",
+  "980a51be8186374a": "2026-11-19T08:06:19.076643+00:00",
+  "e776089c59c68f92": "2026-11-19T08:06:19.829082+00:00",
+  "3dc8e7087814e858": "2026-11-19T08:07:10.757778+00:00",
+  "3f49043bef5a43f3": "2026-11-19T08:07:11.712186+00:00",
+  "01251142c2412343": "2026-11-19T08:07:12.476884+00:00",
+  "53ba8da71ac638e7": "2026-11-19T08:08:03.593386+00:00",
+  "d6237130c897a547": "2026-11-19T08:08:04.510254+00:00",
+  "3fa30ebc9700c90f": "2026-11-19T08:08:05.391958+00:00",
+  "23643c78927a8073": "2026-11-19T08:08:56.512062+00:00",
+  "a4fdf16956502de9": "2026-11-19T08:08:57.388940+00:00",
+  "17f506adfdcd80d7": "2026-11-19T08:08:58.138905+00:00",
+  "b64fe0c19b8e0e45": "2026-11-19T08:09:49.152764+00:00",
+  "e30c73524b459b44": "2026-11-19T08:09:50.075433+00:00",
+  "050b017b9a306713": "2026-11-19T08:10:12.706347+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -1024,7 +1068,15 @@
   "2bae7af9a62fd794": "2026-11-19T06:02:34.662435+00:00",
   "9d1989095d26d4e3": "2026-11-19T06:02:35.250063+00:00",
   "ad003a43f531f208": "2026-11-19T06:02:35.864002+00:00",
-  "563d00d97d9f65c8": "2026-11-19T06:02:48.599084+00:00"
+  "563d00d97d9f65c8": "2026-11-19T06:02:48.599084+00:00",
+  "71382fafda0f9a3a": "2026-11-19T07:33:58.769260+00:00",
+  "c3fd5645ae65bb5f": "2026-11-19T07:33:58.769325+00:00",
+  "ba0a80a8edf069c9": "2026-11-19T07:34:00.467375+00:00",
+  "da43dff5f224cfa4": "2026-11-19T07:34:01.335951+00:00",
+  "c5a2f8abe407afd3": "2026-11-19T07:34:02.222109+00:00",
+  "e4460e3ec8dea479": "2026-11-19T07:34:10.361062+00:00",
+  "635f45f847c49025": "2026-11-19T07:34:34.463392+00:00",
+  "39935c192612d2f8": "2026-11-19T07:34:35.792093+00:00"
  },
  "recent": [
   {
@@ -4623,7 +4675,7 @@
    "title": "Deus Ex's Warren Spector hopes GTA 6 is \"the last of its kind\" because of its $1 billion budget",
    "source": "GamesRadar+",
    "trust": "high",
-   "status": "queued",
+   "status": "published",
    "ts": "2026-11-19T00:42:25.260488+00:00",
    "card_title": "СПЕКТОР ПРОТИВ БЮДЖЕТА GTA 6"
   },
@@ -5018,35 +5070,73 @@
    "status": "skipped",
    "ts": "2026-11-19T06:02:48.599227+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GTA VI lifts Sony shares as PlayStation takes three-quarters of 17 million sales",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-19T07:33:58.769302+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI release brings excitement for Michigan gamers",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-19T07:33:58.769344+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Rockstar объяснила, почему в GTA 6 есть казино, зоопарк и кладбище, в которые нельзя зайти",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-19T07:34:00.467489+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Rockstar может готовить ремастер GTA 4 на движке GTA 6",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-19T07:34:01.336072+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "TechRadar составил топ‑6 телевизоров для GTA 6 — от TCL C7L до LG G6",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-19T07:34:02.222229+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "'GTA 6' Removes Major 'GTA V' Feature, Making It Stand Out From Previous Releases",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-19T07:34:10.361170+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Coming Home Walkthrough",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-19T07:34:34.463490+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Через сколько ГТА 6 выйдет на ПК — названы конкретные сроки",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-19T07:34:35.792210+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
-  {
-   "item": {
-    "title": "GTA 6 Withholds Your 100% Stats Until the End — For Good Reason",
-    "link": "https://www.polygon.com/gta-6-completion-menu-ending/",
-    "summary": "Grand Theft Auto 6 hides your 100% completion tasks until the very end, a move designed to keep players from getting overwhelmed.",
-    "published": "2026-11-18T18:46:12+00:00",
-    "source": "Polygon",
-    "site_name": "Polygon",
-    "trust": "high",
-    "text": "Completionists beware: Grand Theft Auto 6 is going to take you a very, very long time to complete. Rockstar Game’s open-world game is filled to the brim with things to do, see, and collect. You can go golfing, collect undersea treasures, find collectible trading cards, rack up medals at shooting ranges, scan landmarks, and so much more. Rockstar knows that it could get overwhelming fast, so GTA 6 was designed to combat that in one key way.\nWhen playing through GTA 6, you’ll see a completion percentage on your save file. That number will only tick up when you complete story missions, a little less than 1% at a time. The rest of your collectible and activity progress is tracked in separate menus. However, you’ll also notice a locked menu option, with a line of text saying that it will open once you complete the story.\nThat’s your completionist menu. It shows you everything you need to achieve to get a true 100% save file, from finding all the special cars to sticking up every location you can. Once I unlocked it, the completion percentage on my save file kicked all the way down to 66%. After 10 hours of additional exploration, it had only ticked up another 2%. Needless to say, GTA 6 is not something you should expect to fully clear in a long weekend.\nIn an interview with Polygon ahead of the game’s release, Rockstar North co-head Rob Nelson explained the decision to hide the completion menu until players got the story out of the way. Nelson said that it came down to not wanting to make players feel a compulsion to stop and do everything while playing. In fact, Nelson was insistent about fighting back against a lot of traditional open-world philosophies, saying that he took a “no checklists” approach to design. (Nelson admitted that he had to cede a little bit of ground and include a few checklists in the final game.) Notably, you won't unlock the ability to use cheats until rolling credits either. That further encourages you to explore in a normal way rather than cheating your way into tough end-game activities early.\nIt’s a small design consideration, but an important one. If you try to play GTA 6 like a normal open-world game, you’re bound to get lost in a sea of distractions. You’re constantly pulled into unexpected side quests, drawn towards roadside activities, or tempted into an easy robbery. But without a completion menu tracking your progression throughout the story, it’s easy to accept the fact that you probably can’t do it all at once. There’s no checklist to make you feel like you need to be robbing more banks or else you’re not doing enough.\nMichael is the only one of the five who is already successful when you meet him, which makes him the only one whose real problem is boredom.\nYou picked the house first, and the rest of your life arranged itself around that one decision.\nA bad family dinner is one you are paying for, while wondering how it ended up like this.\nTen years on you are trying to retire for the fourth time, and you will not manage it.\nFranklin is the one who arrives wanting out, and everything he does is measured against whether it moves him closer to that.\nYou say nothing when somebody takes credit for your work, and you remember exactly who was in the room.\nMoney gets invested carefully in the thing that gets you out, which nobody else here would even consider.\nPeople think this is as far as you are going. That is the single most useful thing they could believe.\nTrevor is the least predictable character in the game and the most quoted, because he says out loud what everybody else is being careful about.\nYou introduce yourself to everyone, loudly, within an hour of arriving anywhere.\nMoney is gone by Thursday and you genuinely could not tell anybody where it went.\nPeople think you do not know exactly what you are doing. You do, and that is the unsettling part.\nLester is the one who sees the whole board, and he is written as the opposite of everybody around him: no volume, no impulse, all preparation.\nYo",
-    "extra": {}
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "🔓 Скрытое меню завершения откроется после сюжетных миссий\n\nRockstar подтвердил, что в GTA 6 процент завершения будет показываться только после прохождения основной истории. Полный список всех коллекций, машин и заданий откроется в отдельном меню, что избавит игроков от навязчивых чек‑листов. Так что планировать марафон «завершить всё за уикенд» придётся после кредитов — и без читов 😅",
-    "card_title": "СКРЫТОЕ МЕНЮ ПРОГРЕССА",
-    "reason": "Официальное подтверждение от Rockstar, интересно для игроков",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "model": "groq:openai/gpt-oss-120b → groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-18T18:53:50.118183+00:00"
-  },
   {
    "item": {
     "title": "GTA 6's Japanese version only partially obscures male nudity by putting Jason in a thong, seemingly due to regional censorship",
@@ -5098,32 +5188,6 @@
     "model": "gemini:gemini-3.1-flash-lite"
    },
    "queued_at": "2026-11-18T22:50:15.340503+00:00"
-  },
-  {
-   "item": {
-    "title": "Deus Ex's Warren Spector hopes GTA 6 is \"the last of its kind\" because of its $1 billion budget",
-    "link": "https://www.gamesradar.com/games/grand-theft-auto/i-just-hope-gta-6-is-the-last-of-its-kind-deus-ex-creator-sees-rockstars-usd1-billion-development-cost-and-says-id-rather-have-hundreds-of-games-and-full-employment/",
-    "summary": "Rockstar's budget doesn't \"represent a business model anyone else can or probably should emulate\"",
-    "published": "2026-11-19T00:14:09+00:00",
-    "source": "GamesRadar+",
-    "site_name": "GamesRadar+",
-    "trust": "high",
-    "text": "Rockstar seems to have really, really stuck the landing with GTA 6. After a decade of astronomically high expectations, GTA 6 is launching this week to universal acclaim, tying the original Zelda: Ocarina of Time for highest rated game of all time on Metacritic. As the GTA 6 release time opens up for different players around the world, people are just beginning their rampages around Leonida and sharing new discoveries by the minute. And yet, one very prominent RPG developer hopes we never see the likes of a game the size and scale of GTA 6 ever again.\nIn a new Linkedin post, Warren Spector, best-known for creating the Deus Ex series, sounds plenty happy for Rockstar fans and developers celebrating a monumental critical achievement, but also concerned about the precedent it might be setting for other game developers.\n\"First, congratulations to everyone who worked on GTA 6. It looks like it will be a high point of sorts for our medium and our business,\" Spector says, before pivoting. \"However… It’s billion-dollar development cost and an undoubtedly crazy marketing budget don’t represent a business model anyone else can or probably should emulate. That’s especially true when thousands of developers are out of work.\n\"A billion dollars pays for a lot of games and a lot of salaries. Personally I'd rather have hundreds of games and full employment than one game no matter how amazing it is.\"\nI definitely understand having an instinctual negative reaction to someone saying, quite explicitly, no more GTA ever again, or at least not at the scale of GTA 6, but my read here is that Spector is saying the amount of money that went into the game could support several game studios and hundreds of game developers at a time when game studios and game developers seem to constantly be on the chopping block.\nSpector also says GTA 6's success proves a point he's been making \"for years,\" which is that \"no game that matters ships on time and/or on budget,\" pointing again to GTA 6's staggering $1 billion budget and multiple delays.\n\"Give a game the time and money to prove its potential (key word, potential) and you have a chance of making something great,\" he says. \"Underfund a game or force it out the door before it’s ready guaranteed failure no matter how much potential it has.\nWeekly digests, tales from the communities you love, and more\n\"So, again, congratulations. Ambition and innovation are necessary for the medium to reach its potential. I just hope GTA 6 is the last of its kind even if it’s the best we have to offer.\"\nIt's impossible to predict the full economic impact of a game like GTA 6. Even with its incredible reviews, some Rockstar developers are already worrying about potential layoffs now that the game is shipping. On the other hand, GTA 6's inevitable gargantuan commercial success could generate unprecedented revenue and have a reinvigorating effect on the gaming industry as a whole. One thing's for sure, we probably won't see another $1 billion game for a very, very long time, so I guess Spector is getting his wish.\nGTA 6 at 60fps on PS5 Pro isn't possible because the console \"is not powerful enough,\" Rockstar says\n4. Best pro Xbox: Nacon Revolution X Unlimited\nAfter earning an English degree from ASU, I worked as a corporate copy editor while freelancing for places like SFX Magazine, Screen Rant, Game Revolution, and MMORPG on the side. I got my big break here in 2019 with a freelance news gig, and I was hired on as GamesRadar's west coast Staff Writer in 2021. That means I'm responsible for managing the site's western regional executive branch, AKA my home office, and writing about whatever horror game I'm too afraid to finish.\nYou must confirm your public display name before commenting\nPlease logout and then login again, you will then be prompted to enter your display name.\n1 New Avengers: Doomsday posters give us our first real look at Nightcrawler and appear to tease Namor and Sue Storm's controversial comic book relationship\n2 E",
-    "extra": {}
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "Спектор просит: больше таких GTA 6 не надо\n\nСоздатель Deus Ex считает, что $1 млрд бюджета — это плохой пример для индустрии. Лучше иметь сотни игр и работу для всех, чем одну мега-игру. Ну, посмотрим, как Rockstar отреагирует на этот «позитив». 🤔",
-    "card_title": "СПЕКТОР ПРОТИВ БЮДЖЕТА GTA 6",
-    "reason": "Официальное заявление известного разработчика (Warren Spector) через LinkedIn, опубликованное крупным изданием.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "model": "groq:qwen/qwen3.8-27b"
-   },
-   "queued_at": "2026-11-19T00:42:25.260470+00:00"
   },
   {
    "item": {
@@ -5211,9 +5275,10 @@
   "2026-11-18T11:24:23.175249+00:00",
   "2026-11-18T16:08:18.621470+00:00",
   "2026-11-18T21:05:33.292788+00:00",
-  "2026-11-19T04:59:12.764243+00:00"
+  "2026-11-19T04:59:12.764243+00:00",
+  "2026-11-19T07:54:18.583122+00:00"
  ],
- "tg_offset": 387128947,
+ "tg_offset": 387128952,
  "channel": {
   "id": -1003986639147,
   "title": "GTA 6 | Горячие новости",
@@ -5224,12 +5289,14 @@
   "2026-11-18T07:13:25.212281+00:00",
   "2026-11-18T11:00:18.299138+00:00",
   "2026-11-18T16:00:26.651491+00:00",
-  "2026-11-18T21:49:03.263053+00:00"
+  "2026-11-18T21:49:03.263053+00:00",
+  "2026-11-19T07:34:40.425350+00:00"
  ],
  "slots_sent": {
   "2026-11-18:утро": "2026-11-18T07:13:25.212391+00:00",
   "2026-11-18:обед": "2026-11-18T11:00:18.299237+00:00",
-  "2026-11-18:вечер": "2026-11-18T16:00:26.651580+00:00"
+  "2026-11-18:вечер": "2026-11-18T16:00:26.651580+00:00",
+  "2026-11-19:утро": "2026-11-19T07:34:40.425437+00:00"
  },
  "urgent": [
   "2026-11-18T05:00:10.556622+00:00",
@@ -5237,6 +5304,7 @@
  ],
  "clips": [],
  "clip_drafts": [
-  "2026-11-18T20:08:19.941420+00:00"
+  "2026-11-18T20:08:19.941420+00:00",
+  "2026-11-19T08:10:16.892026+00:00"
  ]
 }
