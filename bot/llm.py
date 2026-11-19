@@ -66,10 +66,11 @@ CLIP_SCHEMA = {
         "interest": {"type": "integer"},
         "spoiler": {"type": "boolean"},
         "nsfw": {"type": "boolean"},
+        "repeat": {"type": "boolean"},
         "caption": {"type": "string"},
         "reason": {"type": "string"},
     },
-    "required": ["about_gta6", "interest", "spoiler", "nsfw", "caption", "reason"],
+    "required": ["about_gta6", "interest", "spoiler", "nsfw", "repeat", "caption", "reason"],
     "additionalProperties": False,
 }
 

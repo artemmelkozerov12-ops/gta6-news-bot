@@ -103,7 +103,8 @@ class State:
         self.drafts = [p for p in self.drafts if p >= day_ago]
         self.urgent = [p for p in self.urgent if p >= day_ago]
         self.clip_drafts = [p for p in self.clip_drafts if p >= day_ago]
-        self.clip_history = [h for h in self.clip_history if h["ts"] >= day_ago]
+        three_days = (utcnow() - timedelta(days=3)).isoformat()
+        self.clip_history = [h for h in self.clip_history if h["ts"] >= three_days]
         week_ago = (utcnow() - timedelta(days=8)).isoformat()
         self.published = [p for p in self.published if p["ts"] >= week_ago]
         self.extras_sent = {k: v for k, v in self.extras_sent.items() if v >= week_ago}

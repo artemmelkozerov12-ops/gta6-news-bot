@@ -202,6 +202,49 @@ def _ffmpeg() -> str:
         return ""
 
 
+def fingerprints(path: Path, max_frames: int = 40) -> list[str]:
+    """Отпечатки кадров (dHash 64 бита): кадр каждую секунду. Одинаковая сцена даёт почти одинаковые
+    отпечатки, даже если клип длиннее/короче, перекодирован или другого размера."""
+    import subprocess
+    import tempfile as _tf
+
+    ffmpeg = _ffmpeg()
+    if not ffmpeg:
+        return []
+    out: list[str] = []
+    with _tf.TemporaryDirectory() as tmp:
+        try:
+            subprocess.run([ffmpeg, "-v", "error", "-i", str(path), "-vf", "fps=1,scale=96:-2",
+                            "-frames:v", str(max_frames), str(Path(tmp) / "f%03d.png")],
+                           check=True, timeout=120, capture_output=True)
+        except Exception as e:
+            log(f"   отпечатки кадров не снялись ({type(e).__name__})")
+            return []
+        for f in sorted(Path(tmp).glob("f*.png")):
+            from PIL import Image, ImageStat
+
+            im = Image.open(f).convert("L")
+            if ImageStat.Stat(im).stddev[0] < 12:  # почти однотонный кадр (чёрный экран, загрузка) — не показатель
+                continue
+            small = im.resize((9, 8), Image.LANCZOS)
+            px = list(small.getdata())
+            bits = 0
+            for row in range(8):
+                for col in range(8):
+                    bits = (bits << 1) | (px[row * 9 + col] > px[row * 9 + col + 1])
+            out.append(f"{bits:016x}")
+    return out
+
+
+def same_footage(a: list[str], b: list[str], max_dist: int = 10, min_hits: int = 3) -> bool:
+    """Сколько кадров нового клипа нашлись в старом. ≥ min_hits (или половина кадров короткого клипа) — повтор."""
+    if not a or not b:
+        return False
+    bi = [int(x, 16) for x in b]
+    hits = sum(1 for x in a if min(bin(int(x, 16) ^ y).count("1") for y in bi) <= max_dist)
+    return hits >= min(min_hits, max(2, len(a) // 2))
+
+
 def download(clip: Clip, folder: Path, max_mb: float) -> tuple[Path, dict] | None:
     """mp4 до 720p и до max_mb (лимит Telegram для бота — 50 МБ). None — не вышло."""
     import yt_dlp
@@ -298,17 +341,32 @@ def prepare(clip: Clip, llm: LLM, cfg: dict, state: State, folder: Path) -> dict
     if not got:
         return None
     path, meta = got
+    frames = fingerprints(path)
+    for h in state.clip_history:
+        if h.get("frames") and same_footage(frames, h["frames"]):
+            log(f"   ⏭  повтор по кадрам: это уже было — «{h['title'][:60]}» ({h['author']})")
+            return None
+    state.clip_history[-1]["frames"] = frames  # запись этого клипа (добавлена выше) — с отпечатками
     video = path.read_bytes()
     try:
+        shown = [h.get("caption") or h["title"] for h in state.clip_history if h.get("drafted")][-30:]
+        hint = _meta_text(clip)
+        if shown:
+            hint += ("\n\nЭти моменты УЖЕ показывали в канале за 2 дня (если на видео тот же момент/событие, "
+                     "пусть с другого ракурса, длиннее или у другого стримера — repeat = true):\n"
+                     + "\n".join(f"- {t}" for t in shown))
         data, model, watched = llm.caption_clip(
             video if len(video) <= float(c.get("inline_video_mb", 19)) * 1024 * 1024 else None,
-            _meta_text(clip), cfg["clip_prompt"], _check)
+            hint, cfg["clip_prompt"], _check)
     except (LLMQuotaExhausted, LLMBadAnswer) as e:
         log(f"   ⏭  нейросеть не подписала ({e})")
         return None
     log(f"   → интерес {data['interest']}/10, {'про GTA 6' if data['about_gta6'] else 'НЕ про GTA 6'}"
         f"{', спойлер' if data['spoiler'] else ''}{', 18+' if data['nsfw'] else ''} [{model}"
         f"{'' if watched else ', видео не смотрела'}]: {data['reason'][:100]}")
+    if data.get("repeat"):
+        log("   ⏭  нейросеть: этот момент уже показывали")
+        return None
     if not data["about_gta6"] or data["interest"] < int(c["min_interest"]):
         return None
     if c.get("require_watched", True) and not watched:
@@ -316,7 +374,7 @@ def prepare(clip: Clip, llm: LLM, cfg: dict, state: State, folder: Path) -> dict
         return None
     return {"clip": clip.to_dict(), "caption": data["caption"], "interest": data["interest"],
             "spoiler": bool(data["spoiler"]), "nsfw": bool(data["nsfw"]), "watched": watched,
-            "model": model, "path": str(path), "media": meta, "queued_at": utcnow().isoformat()}
+            "model": model, "path": str(path), "media": meta, "frames": frames, "queued_at": utcnow().isoformat()}
 
 
 # ---------- 7. Telegram ----------
@@ -365,7 +423,9 @@ def send_draft(http: Http, state: State, cfg: dict, q: dict) -> bool:
     q["file_id"], q["moderation"], q["draft_msg_id"] = _file_id(msg), "pending", msg["message_id"]
     state.clips.append(q)
     state.clip_drafts.append(utcnow().isoformat())
-    state.clip_history.append(_history_entry(clip, drafted=True))  # автора — на перерыв
+    entry = _history_entry(clip, drafted=True)  # автора — на перерыв
+    entry["frames"], entry["caption"] = q.pop("frames", []), q["caption"][:120]
+    state.clip_history.append(entry)
     log(f"📝 видео тебе в личку: «{clip.title[:70]}» ({q['interest']}/10)")
     return True
 
