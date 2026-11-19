@@ -13,7 +13,8 @@ import yaml
 
 ROOT = Path(__file__).resolve().parent.parent
 SECRET_NAMES = ("TELEGRAM_BOT_TOKEN", "GEMINI_API_KEY", "GROQ_API_KEY",
-                "TWITCH_CLIENT_ID", "TWITCH_CLIENT_SECRET", "YOUTUBE_API_KEY")
+                "TWITCH_CLIENT_ID", "TWITCH_CLIENT_SECRET", "YOUTUBE_API_KEY",
+                "GEMINI_API_KEY_2", "MISTRAL_API_KEY", "OPENROUTER_API_KEY")
 
 
 def load_dotenv(path: Path = ROOT / ".env") -> None:

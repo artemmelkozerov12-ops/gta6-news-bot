@@ -17,33 +17,54 @@ channel:
 #   gemini — ключ GEMINI_API_KEY (aistudio.google.com): Flash — всего 20 запросов в сутки на модель,
 #            Flash-Lite — больше, но часто «перегружен» (503)
 llm:
+  # Сервисы. Ключи — только в переменных окружения (GitHub Secrets / .env). Нет ключа — сервис пропускается.
+  # У каждой модели СВОЯ суточная квота, поэтому чем длиннее цепочка — тем дольше бот работает без пауз.
+  # У Gemini можно несколько ключей из РАЗНЫХ проектов Google — у каждого проекта свои квоты.
+  # В цепочке пишем provider: gemini — бот пробует модель сначала на первом ключе, потом на втором.
+  providers:
+    groq:       {type: openai, url: "https://api.groq.com/openai/v1/chat/completions", key_env: GROQ_API_KEY}
+    gemini:     {type: gemini, key_env: [GEMINI_API_KEY_2, GEMINI_API_KEY]}   # _2 — проект gta6-bot, свой
+    mistral:    {type: openai, url: "https://api.mistral.ai/v1/chat/completions", key_env: MISTRAL_API_KEY}
+    openrouter: {type: openai, url: "https://openrouter.ai/api/v1/chat/completions", key_env: OPENROUTER_API_KEY, json: object}
+
   # Шаг 1 — разбор КАЖДОЙ статьи (тип, важность, дубль, черновик поста). Много запросов.
+  # Проверено 19.11.2026: все модели ниже отвечают JSON по-русски (Gemma — когда не перегружена).
+  # gemini-2.5-* для новых ключей отключены, gemini-4-neon/argon/carbon на бесплатном тарифе закрыты.
   triage_chain:
     - {provider: groq,   model: "openai/gpt-oss-120b", reasoning_effort: low}
+    - {provider: gemini, model: "gemini-3.5-flash-lite", thinking_level: low, retries: 1}
     - {provider: groq,   model: "qwen/qwen3.8-27b"}
-    - {provider: gemini, model: "gemini-flash-lite-latest", thinking_level: low}
-    - {provider: gemini, model: "gemini-3.1-flash-lite"}
+    - {provider: gemini, model: "gemini-flash-lite-latest", thinking_level: low, retries: 1}
+    - {provider: gemini, model: "gemini-3.1-flash-lite", retries: 1}
+    - {provider: mistral, model: "mistral-small-latest"}
+    - {provider: gemini, model: "gemini-4-hydrogen", retries: 1}
     - {provider: groq,   model: "openai/gpt-oss-20b", reasoning_effort: low}
-  # Шаг 2 — финальный текст ТОЛЬКО для одобренных новостей (до 12 в сутки). Мало запросов.
-  # Кончились лимиты — публикуется черновик из шага 1. Пустой список [] — шаг 2 выключен.
+    - {provider: gemini, model: "gemma-4-31b-it", plain: true, retries: 0, timeout: 40}
+    - {provider: gemini, model: "gemma-4-26b-a4b-it", plain: true, retries: 0, timeout: 40}
+    - {provider: openrouter, model: "google/gemma-4-31b-it:free"}
+  # Шаг 2 — финальный текст ТОЛЬКО для прошедших новостей. Кончились все — публикуется черновик шага 1.
   # gemini-3.6-flash не берём: его использует проект ai-news-digest с тем же ключом.
-  # Gemini Flash пишет точнее всех; Qwen живее, но выдумывает детали (проверено 18.11.2026) — в авторы не берём.
-  # retries: 1 — если Gemini «перегружен», не ждём минуту, а сразу берём gpt-oss.
+  # Qwen выдумывает детали (проверено 18.11.2026) — в авторы не берём.
   writer_chain:
     - {provider: gemini, model: "gemini-3.5-flash", thinking_level: low, retries: 1, timeout: 40}
     - {provider: gemini, model: "gemini-3.8-flash", thinking_level: low, retries: 1, timeout: 40}
+    - {provider: gemini, model: "gemini-4-hydrogen", retries: 1, timeout: 40}
+    - {provider: gemini, model: "gemini-3.7-flash", thinking_level: low, retries: 1, timeout: 40}
+    - {provider: mistral, model: "mistral-medium-latest"}
+    - {provider: openrouter, model: "nvidia/nemotron-3-ultra-550b-a55b:free", json: none}
     - {provider: groq,   model: "openai/gpt-oss-120b", reasoning_effort: medium}
-  # Видео: Gemini СМОТРИТ клип и пишет подпись (до ~5 в сутки, по 1–3 попытки).
-  # Все модели кончились — подпись пишет модель из triage_chain по названию клипа (с пометкой в черновике).
-  # Порядок: сначала Flash (умнее), потом Flash-Lite (у них отдельные суточные квоты).
+  # Видео: Gemini СМОТРИТ клип и пишет подпись. Сначала Flash (умнее), потом Lite (отдельные квоты).
   video_chain:
     - {provider: gemini, model: "gemini-3.8-flash", thinking_level: low, retries: 1, timeout: 60}
-    - {provider: gemini, model: "gemini-flash-lite-latest", thinking_level: low, retries: 1, timeout: 90}
-    - {provider: gemini, model: "gemini-3.1-flash-lite", thinking_level: low, retries: 1, timeout: 90}
     - {provider: gemini, model: "gemini-3.5-flash", thinking_level: low, retries: 1, timeout: 90}
+    - {provider: gemini, model: "gemini-4-hydrogen", retries: 1, timeout: 90}
+    - {provider: gemini, model: "gemini-3.7-flash", thinking_level: low, retries: 1, timeout: 90}
+    - {provider: gemini, model: "gemini-flash-lite-latest", thinking_level: low, retries: 1, timeout: 90}
+    - {provider: gemini, model: "gemini-3.5-flash-lite", thinking_level: low, retries: 1, timeout: 90}
+    - {provider: gemini, model: "gemini-3.1-flash-lite", retries: 1, timeout: 90}
   timeout_seconds: 90
   temperature: 0.6
-  max_calls_per_run: 5                   # сколько статей разбирать за один сбор (сбор — каждые 15 мин)
+  max_calls_per_run: 8                   # сколько статей разбирать за один сбор (сбор — каждые 15 мин)
   article_max_chars: 2500                # обрезаем текст статьи (меньше токенов → дольше хватает лимитов)
   recent_titles_in_prompt: 20            # сколько недавних заголовков показывать модели для проверки дублей
 

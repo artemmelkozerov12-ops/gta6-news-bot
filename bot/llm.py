@@ -81,7 +81,6 @@ def to_gemini_schema(schema: dict) -> dict:
     return {"type": "OBJECT", "properties": props, "required": schema["required"],
             "propertyOrdering": list(schema["properties"])}
 
-KEY_ENV = {"gemini": "GEMINI_API_KEY", "groq": "GROQ_API_KEY"}
 
 EMOJI = re.compile(
     "[\U0001F000-\U0001FAFF☀-➿⬀-⯿⌀-⏿〰〽㊗㊙]️?"
@@ -235,6 +234,21 @@ class GeminiProvider:
 
         model = spec["model"]
         kw = {}
+        if spec.get("plain"):  # Gemma: без системной инструкции и JSON-режима — всё в одном тексте
+            note = f"{system}\n\nОтвет — ТОЛЬКО JSON-объект с полями: {', '.join(schema['properties'])}. Без пояснений."
+            contents = [note, *user] if isinstance(user, list) else f"{note}\n\n{user}"
+            if spec.get("timeout"):
+                kw["http_options"] = self.types.HttpOptions(timeout=int(float(spec["timeout"]) * 1000))
+            cfg = self.types.GenerateContentConfig(temperature=temperature, **kw)
+            try:
+                return self.client.models.generate_content(model=model, contents=contents, config=cfg).text or ""
+            except errors.APIError as e:
+                code = getattr(e, "code", 0) or 0
+                if code == 429 and "PerDay" in str(e):
+                    raise _Dead("суточная квота исчерпана")
+                if code == 429 or code >= 500:
+                    raise _Retry(f"HTTP {code}")
+                raise _Dead(f"HTTP {code}: {str(e)[:150]}")
         level = (spec.get("thinking_level") or "").lower()
         if level and model not in self.no_thinking:
             kw["thinking_config"] = self.types.ThinkingConfig(thinking_level=level)
@@ -250,41 +264,58 @@ class GeminiProvider:
             if code == 400 and "thinking" in msg.lower() and model not in self.no_thinking:
                 self.no_thinking.add(model)
                 raise _Retry("модель не принимает thinking_level — повторяю без него", wait=0)
-            if code == 429 and "PerDay" in msg:
-                raise _Dead("суточная квота исчерпана")
+            if code == 429 and ("PerDay" in msg or "limit: 0" in msg):
+                raise _Dead("суточная квота исчерпана (или модель закрыта на бесплатном тарифе)")
+            if code == 404:
+                raise _Dead("модель недоступна")
             if code == 429 or code >= 500:
                 raise _Retry(f"HTTP {code}")
             raise _Dead(f"HTTP {code}: {msg[:150]}")
 
 
-class GroqProvider:
-    URL = "https://api.groq.com/openai/v1/chat/completions"
+class OpenAICompatProvider:
+    """Любой сервис с OpenAI-совместимым API: Groq, Mistral, OpenRouter, Cerebras…
+    json: schema — строгая JSON-схема; object — просто «верни JSON»; none — только просьба в тексте."""
 
-    def __init__(self, key: str, timeout_s: float):
+    def __init__(self, key: str, timeout_s: float, url: str, json_mode: str = "schema"):
+        self.url, self.json_mode = url, json_mode
         self.client = httpx.Client(timeout=timeout_s, headers={"Authorization": f"Bearer {key}"})
 
-    def call(self, spec: dict, system: str, user: str, temperature: float, schema: dict = JSON_SCHEMA) -> str:
+    def call(self, spec: dict, system: str, user, temperature: float, schema: dict = JSON_SCHEMA) -> str:
+        if isinstance(user, list):
+            raise _Dead("этот сервис не умеет смотреть видео")
+        mode = spec.get("json", self.json_mode)
+        if mode != "schema":
+            system = f"{system}\n\nОтвет — ТОЛЬКО JSON-объект с полями: {', '.join(schema['properties'])}."
         body = {
             "model": spec["model"],
             "messages": [{"role": "system", "content": system}, {"role": "user", "content": user}],
             "temperature": temperature,
-            "response_format": {"type": "json_schema",
-                                "json_schema": {"name": "answer", "strict": True, "schema": schema}},
         }
+        if mode == "schema":
+            body["response_format"] = {"type": "json_schema",
+                                       "json_schema": {"name": "answer", "strict": True, "schema": schema}}
+        elif mode == "object":
+            body["response_format"] = {"type": "json_object"}
         if spec.get("reasoning_effort"):
             body["reasoning_effort"] = spec["reasoning_effort"]
+        if spec.get("max_tokens"):
+            body["max_tokens"] = int(spec["max_tokens"])
         try:
-            r = self.client.post(self.URL, json=body)
+            r = self.client.post(self.url, json=body)
         except httpx.HTTPError as e:
             raise _Retry(type(e).__name__)
         if r.status_code == 200:
-            return r.json()["choices"][0]["message"]["content"] or ""
+            try:
+                return r.json()["choices"][0]["message"]["content"] or ""
+            except (KeyError, IndexError, TypeError, ValueError):
+                raise LLMBadAnswer("пустой ответ сервиса")
         try:
             msg = r.json().get("error", {}).get("message", "")
         except ValueError:
             msg = r.text[:200]
         if r.status_code == 429:
-            if re.search(r"per day|\(RPD\)|\(TPD\)", msg, re.I):
+            if re.search(r"per day|per-day|daily|\(RPD\)|\(TPD\)|free-models-per-day", msg, re.I):
                 raise _Dead("суточный лимит исчерпан")
             wait = r.headers.get("retry-after")
             raise _Retry("HTTP 429 (лимит в минуту)", wait=float(wait) if wait and wait.replace(".", "").isdigit() else None)
@@ -295,7 +326,35 @@ class GroqProvider:
         raise _Dead(f"HTTP {r.status_code}: {msg[:150]}")
 
 
-PROVIDERS = {"gemini": GeminiProvider, "groq": GroqProvider}
+DEFAULT_PROVIDERS = {  # если в config.yaml нет раздела llm.providers
+    "groq": {"type": "openai", "url": "https://api.groq.com/openai/v1/chat/completions", "key_env": "GROQ_API_KEY"},
+    "gemini": {"type": "gemini", "key_env": ["GEMINI_API_KEY"]},
+}
+
+
+def build_providers(cfg: dict, timeout: float) -> tuple[dict, dict]:
+    """→ (провайдеры по имени, «семьи»: имя из цепочки → список реальных провайдеров).
+    У Gemini может быть несколько ключей (разные проекты Google = отдельные суточные квоты):
+    в цепочке пишем provider: gemini, а бот пробует модель сначала на первом ключе, потом на втором."""
+    providers, family = {}, {}
+    for name, p in (cfg["llm"].get("providers") or DEFAULT_PROVIDERS).items():
+        envs = p["key_env"] if isinstance(p["key_env"], list) else [p["key_env"]]
+        family[name] = []
+        n = 0
+        for env in envs:
+            key = os.getenv(env, "").strip()
+            if not key or any(getattr(x, "_key", None) == key for x in providers.values()):
+                continue  # нет ключа или тот же ключ уже подключён
+            n += 1
+            real = name if n == 1 else f"{name}#{n}"
+            if p["type"] == "gemini":
+                prov = GeminiProvider(key, timeout)
+            else:
+                prov = OpenAICompatProvider(key, timeout, p["url"], p.get("json", "schema"))
+            prov._key = key
+            providers[real] = prov
+            family[name].append(real)
+    return providers, family
 
 
 class LLM:
@@ -306,16 +365,20 @@ class LLM:
         self.retries = int(cfg.get("http", {}).get("retries", 3))
         self.backoff = float(cfg.get("http", {}).get("backoff_seconds", 2))
         timeout = float(c.get("timeout_seconds", 90))
-        self.providers: dict = {}
-        for name, cls in PROVIDERS.items():
-            key = os.getenv(KEY_ENV[name], "").strip()
-            if key:
-                self.providers[name] = cls(key, timeout)
-        self.triage_chain = [s for s in c["triage_chain"] if s["provider"] in self.providers]
-        self.writer_chain = [s for s in c.get("writer_chain", []) if s["provider"] in self.providers]
+        self.providers, family = build_providers(cfg, timeout)
+
+        def expand(chain: list[dict]) -> list[dict]:
+            return [{**s, "provider": real} for s in chain for real in family.get(s["provider"], [])]
+
+        self.triage_chain = expand(c["triage_chain"])
+        self.writer_chain = expand(c.get("writer_chain", []))
         # видео понимает только Gemini
-        self.video_chain = [s for s in c.get("video_chain", []) if s["provider"] == "gemini" and "gemini" in self.providers]
-        missing = sorted({s["provider"] for s in c["triage_chain"] + c.get("writer_chain", [])} - set(self.providers))
+        self.video_chain = [s for s in expand(c.get("video_chain", []))
+                            if isinstance(self.providers[s["provider"]], GeminiProvider)]
+        log(f"LLM: ключей {len(self.providers)} ({', '.join(self.providers)}); моделей в цепочках: "
+            f"разбор {len(self.triage_chain)}, текст {len(self.writer_chain)}, видео {len(self.video_chain)}")
+        used = {s["provider"] for s in c["triage_chain"] + c.get("writer_chain", [])}
+        missing = sorted(x for x in used if not family.get(x))
         if missing:
             log(f"LLM: нет ключа для {', '.join(missing)} — эти модели пропускаю")
         if not self.triage_chain:
@@ -362,7 +425,7 @@ class LLM:
         """Подпись к видео. Сначала Gemini смотрит само видео (video_chain); если не вышло —
         текстовая модель пишет по названию и описанию. → (ответ, модель, смотрела_ли_видео)."""
         if video and self.video_chain:
-            gem = self.providers["gemini"].types
+            gem = self.providers[self.video_chain[0]["provider"]].types
             parts = [gem.Part.from_bytes(data=video, mime_type="video/mp4"), meta]
             try:
                 data, mid = self._ask(self.video_chain, parts, system=system, schema=CLIP_SCHEMA,

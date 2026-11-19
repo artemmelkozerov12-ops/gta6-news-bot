@@ -140,3 +140,14 @@
   перспективная сетка. confirmed.png и official.png обновлены; старые — в assets/templates/v1/.
 - [ ] rumor.png не выгружен: Figma Starter упёрся в лимит вызовов. Выгрузить слой `art` у «Card3D / rumor»
   (Export PNG 1x) в assets/templates/rumor.png.
+
+### 2026-11-19 (ночь) — больше бесплатных нейросетей
+- Groq: бесплатно доступны только gpt-oss-120b, gpt-oss-20b, qwen3.8-27b — все уже в цепочке.
+- Google (проверено на ключе): работают gemini-3.5-flash-lite, gemini-4-hydrogen, gemma-4-26b/31b (часто 503),
+  gemini-3.7-flash (20/сутки, похоже, делит ключ с ai-news-digest). Закрыты: gemini-2.5-* (для новых ключей),
+  gemini-4-neon/argon/carbon (квота 0 на бесплатном тарифе).
+- Код: `llm.providers` в config.yaml — любой OpenAI-совместимый сервис одной строкой (Groq, Mistral, OpenRouter),
+  у Gemini список ключей (разные проекты Google = отдельные квоты). Gemma — режим `plain` (без system и JSON-режима).
+- Цепочки: разбор 11 моделей, текст 7, видео 7. max_calls_per_run 5 → 8.
+- [ ] Пользователю добавить ключи (необязательно, но сильно больше квот): GEMINI_API_KEY_2 (AI Studio, проект gta6-bot),
+  MISTRAL_API_KEY (console.mistral.ai, план Experiment), OPENROUTER_API_KEY (openrouter.ai/keys).
