@@ -523,7 +523,19 @@
   "6888d035a8076bab": "2026-11-19T04:58:48.541628+00:00",
   "fce77c8c647644cf": "2026-11-19T04:58:50.284783+00:00",
   "680e0741a4652ee2": "2026-11-19T04:58:51.095327+00:00",
-  "843809f6941e1d11": "2026-11-19T04:59:07.374913+00:00"
+  "843809f6941e1d11": "2026-11-19T04:59:07.374913+00:00",
+  "0fe07c9dde51d814": "2026-11-19T06:02:20.142600+00:00",
+  "336cadb4ce8a88ea": "2026-11-19T06:02:20.142676+00:00",
+  "cf247d5e179e26c0": "2026-11-19T06:02:20.142745+00:00",
+  "5ff1540a9a1d8dad": "2026-11-19T06:02:20.142824+00:00",
+  "6d90855e5d871b5a": "2026-11-19T06:02:20.142893+00:00",
+  "550c5edc248acc5c": "2026-11-19T06:02:20.150564+00:00",
+  "0ec138ef0b9a912f": "2026-11-19T06:02:23.366705+00:00",
+  "a7b47ccd42c37e56": "2026-11-19T06:02:24.849025+00:00",
+  "238691b18adfd3e4": "2026-11-19T06:02:34.662435+00:00",
+  "0e254b2b9373e8b9": "2026-11-19T06:02:35.250063+00:00",
+  "3f3dd64b9a4d1157": "2026-11-19T06:02:35.864002+00:00",
+  "395a0b63c99d9c70": "2026-11-19T06:02:48.599084+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -1001,7 +1013,18 @@
   "c5fbd56a2418bc1d": "2026-11-19T04:58:48.541628+00:00",
   "b181e9fe951c2460": "2026-11-19T04:58:50.284783+00:00",
   "58509fa5e5cbcb23": "2026-11-19T04:58:51.095327+00:00",
-  "a2dddddfa640d1f1": "2026-11-19T04:59:07.374913+00:00"
+  "a2dddddfa640d1f1": "2026-11-19T04:59:07.374913+00:00",
+  "052d9104a6d1d54d": "2026-11-19T06:02:20.142600+00:00",
+  "2f1deb06ccd489d3": "2026-11-19T06:02:20.142676+00:00",
+  "0ac98827aa069e3f": "2026-11-19T06:02:20.150564+00:00",
+  "9a973bc2248e626d": "2026-11-19T06:02:20.142824+00:00",
+  "2f1ae0133c2354c9": "2026-11-19T06:02:20.142893+00:00",
+  "ea9ea2bc3aff0804": "2026-11-19T06:02:23.366705+00:00",
+  "73b538fd0f277e9a": "2026-11-19T06:02:24.849025+00:00",
+  "2bae7af9a62fd794": "2026-11-19T06:02:34.662435+00:00",
+  "9d1989095d26d4e3": "2026-11-19T06:02:35.250063+00:00",
+  "ad003a43f531f208": "2026-11-19T06:02:35.864002+00:00",
+  "563d00d97d9f65c8": "2026-11-19T06:02:48.599084+00:00"
  },
  "recent": [
   {
@@ -4899,35 +4922,105 @@
    "status": "skipped",
    "ts": "2026-11-19T04:59:07.375060+00:00",
    "card_title": ""
+  },
+  {
+   "title": "How to sell cars and bikes in GTA 6",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-19T06:02:20.142643+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Morning Bid: Loading ... Claude and GTA VI",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-19T06:02:20.142714+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How Long Does It Take To Beat GTA 6?",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-19T06:02:20.142774+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Cast List: Who plays Jason, Lucia and More",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-19T06:02:20.142857+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "All Cheat Codes in GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-19T06:02:20.142921+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How Long Does It Take To Beat GTA 6?",
+   "source": "Polygon",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-19T06:02:20.150606+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI didn’t break the internet, thanks to ‘stupid DNS tricks’",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-19T06:02:23.366837+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI в будущем не получит 60 FPS даже на PS5 Pro. Rockstar объяснила причину",
+   "source": "iXBT.games",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-19T06:02:33.463150+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "«Романтизация криминала»: в России призвали ограничить GTA 6 среди детей",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-19T06:02:34.662564+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Уоррен Спектор предпочтёт сотни игр GTA 6",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-19T06:02:35.250184+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "All GTA 6 Safe Codes for Chapter 2 in Port Gellhorn",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-19T06:02:35.864131+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Is PlayStation down? Some gamers report problems with PlayStation servers amid 'GTA 6' launch.",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-19T06:02:48.599227+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
-  {
-   "item": {
-    "title": "GTA 6 Won’t Be Getting a Future Performance Mode, Even on PS5 Pro",
-    "link": "https://www.polygon.com/gta-6-30-fps-locked-ps5-pro-performance/",
-    "summary": "GTA 6 will be locked at 30 FPS on current consoles and won't get a future performance mode, even on PS5 Pro.",
-    "published": "2026-11-18T17:47:10+00:00",
-    "source": "Polygon",
-    "site_name": "Polygon",
-    "trust": "high",
-    "text": "In a rough turn of events for frame rate diehards, it seems Grand Theft Auto 6 won’t get a patch that boosts its frame rate at the expense of graphical fidelity. Speaking with Kotaku, Rockstar confirmed the game will not receive a performance mode on modern consoles, even on the beefier PlayStation 5 Pro.\nRockstar revealed earlier this month that GTA 6 targets 30 frames per second on all platforms, news that wasn’t well-received by a growing cohort of frame rate-conscious players. While many modern games offer options for console players to adjust a game’s visual fidelity — often with a quality mode that prioritizes visuals at the cost of frame rate, a performance mode that prioritizes frame rate (usually aiming for around 60 FPS), and a balanced mode that’s somewhere in between — GTA 6’s technical demands apparently make it difficult to run at higher frame rates on modern systems.\n\"Our base presentation makes use of ray-traced reflections and global illumination,\" explained technology production director Marc Chambers. \"On the PS5 Pro, this is enhanced with the addition of ray-traced shadows, as well as overall added clarity through the use of PlayStation Spectral Super Resolution (PSSR). The PS5 Pro features an upgraded graphics processor and upscaling technology that we leverage to increase the game’s visual fidelity. While the PS5 Pro’s central processor is slightly better than the PS5 base console, it is not powerful enough to run the game’s complex simulation at higher frame rates.\"\nWhat does this mean for a potential PC port?\nWhile Rockstar hasn’t officially announced whether GTA 6 will eventually be released on PC, rumors suggest a port could arrive as early as 2027. That said, Chambers’ comments cast some doubt on this quick timeline, making it clear that the game is quite graphically intensive. A PC version would presumably let users toggle ray tracing and other visual features, which, based on Chambers’ comments, sound like something Rockstar is hesitant to allow. It's unclear how much of the studio's disinterest in a performance mode on console is related to the game's core technical infrastructure versus Rockstar's preference for how this experience is presented: it's possible they technically could ​​​​​​release a performance mode on console, but simply don't think the visual trade-off is worth it.\nHow have critics reacted to GTA 6’s frame rate?\nDespite the hard frame rate cap, GTA 6 has received universal praise from critics, with a 99 score on Metacritic that makes it the highest-rated game of all time on that platform. Part of this praise comes from its impressive visual fidelity and detail, which apparently make Vice City feel authentic. Polygon’s review says that the 30 frame per second cap has \"a negligible impact on the overall experience, given how smoothly it runs most of the time,” and that this is “a fair trade for a world that deserves its own line of postcards.\"\nWhile the tech-focused YouTube channel Digital Foundry expressed some disappointment over the game’s 30 FPS cap, its testers added that GTA 6 is an interesting experiment in \"seeing what was possible on this generation of consoles when settling for it.\" The review also described the title is \"without a doubt the most visually striking game of this generation.\" Not a bad trade-off indeed.",
-    "extra": {}
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "📺 В GTA 6 не появится режим производительности\n\nRockstar подтвердила, что игра не получит патч с режимом производительности даже на мощной PS5 Pro. Технический директор Марк Чемберс объяснил это сложной симуляцией мира и активным использованием трассировки лучей. Процессор консоли просто не вытянет больше 30 кадров в секунду при таких технических требованиях.",
-    "card_title": "РЕЖИМА 60 FPS НЕ БУДЕТ",
-    "reason": "Официальное подтверждение Rockstar, важная информация о графике",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "model": "groq:openai/gpt-oss-120b → gemini:gemini-3.5-flash"
-   },
-   "queued_at": "2026-11-18T17:57:33.896179+00:00"
-  },
   {
    "item": {
     "title": "GTA 6 Withholds Your 100% Stats Until the End — For Good Reason",
@@ -5060,32 +5153,6 @@
   },
   {
    "item": {
-    "title": "Rockstar Drops GTA 6 Festival Set Times With Cactus Jack Finale",
-    "link": "https://www.gtaboom.com/rockstar-drops-gta-6-festival-set-times-with-cactus-jack-finale-071f",
-    "summary": "Rockstar's GTA 6 Miami festival schedule puts Metro Boomin at midnight and the Cactus Jack finale at 12:40 a.m. local time.",
-    "published": "2026-11-18T17:44:40+00:00",
-    "source": "GTA BOOM",
-    "site_name": "GTA BOOM",
-    "trust": "medium",
-    "text": "The launch party now has a running order and it's a doozy. Rockstar Games has published the full set times for Grand Theft Auto VI: The Festival, the one-off Miami concert it is throwing to mark the game's arrival.\nThe Grand Theft Auto VI show runs November 21 at Mana Wynwood in Miami, with doors opening at 4:00 p.m. local time and the festival itself pushing into the early hours of the morning. It is a 17-and-over event with no on-site parking and two stages running back to back all night. The event is presented alongside PlayStation and produced by the team behind Miami's III Points. The on-site Store at Mana Wynwood will be stocked with special GTA VI gear for anyone who got in.\nUnfortunately, tickets were never a walk-up affair, handed out through a DICE lottery that closed on November 10 at two per code. Tough luck, if you didn't get one.\nRockstar laid out the schedule on its official account, with the event page and the November 9 Newswire announcement carrying the rest of the detail. Stage One builds toward a Cactus Jack finale from Travis Scott, Don Toliver, Kodak Black and Sofaygo that doesn't start until 12:40 a.m., while Stage Two hands its midnight slot to Metro Boomin. Cardi B, a Justice DJ set and a Rauw & Friends set with Tainy fill out the headline run.\nHow GTA 6: The Festival plays out across both stages\net times per Rockstar's official graphic and subject to change on the night.\nEvery act is pulled from the game's own sound, the in-game radio stations, Grand Theft Auto VI: The Album and the original score Justice composed for the game. It is the same crossover of real-world music and GTA VI that runs through our live soundtrack tracker, down to the \"Flower in a Hurricane\" single that scored the launch trailer.\nAccording to Rockstar, every dollar from ticket sales goes to local Miami charities as a thank-you to the city, with a follow-up post naming nine recipients including The Miami Foundation, Miami Bethany Community Services, Hermanos de la Calle, Live Healthy Little Havana and Coconut Grove Crisis Food Pantry, alongside funds for the city's firefighters and police associations.\nThe Festival is the capstone on a takeover that has swallowed the whole city. Miami-Dade already committed $3.9 million to turn itself into Vice City for the launch, a real club became the in-game NINE1NINE for a launch party, the developers funded over 7,000 free tickets for a Haitian music event in the real Little Haiti, the Miami Heat turned a home game into a Vice City night and the giant sign on the Kaseya Center has been up for weeks. The Festival is where all of that comes together in one room.\nTwo days after the game unlocks for everyone, the city that spent a year becoming Vice City gets to throw the after-party for it. Bringing Travis Scott, Metro Boomin and Justice together for a Miami charity night is a launch-party flex that fits GTA's outsized profile.\nIf you snagged a wristband, are you planting yourself at Stage One for the Cactus Jack closer, or bouncing between stages to catch Metro Boomin and Justice back to back?\nOnce a post receives 3 qualifying Helpful marks\nA launch party where Justice plays a DJ set after scoring the game itself, then Travis Scott and the whole Cactus Jack roster close it out at 2 a.m., is Rockstar flexing a music budget nobody else in gaming could touch.\nHow to Complete Gear Up in GTA 6Grand Theft Auto VI\nHow to Complete Just a Scratch in GTA 6Grand Theft Auto VI\nHow to Complete Lab Fees in GTA 6Grand Theft Auto VI\nRockstar Boss Sam Houser Breaks His Silence With a Rare GTA 6 Launch Statement\nGTA 6 Just Set a Streaming Record With Over 6 Million Peak Viewers at Launch\nEvery GTA 6 Trophy and Achievement at Launch and How to Unlock Them\nGTA 6 Metacritic Score Reaches 99 and Ties the All Time Record",
-    "extra": {}
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "🎤 Rockstar раскрыла сет-лист фестиваля\n\n21 ноября в Майами стартует концерт к выходу GTA 6. Завершит шоу Cactus Jack с Travis Scott, а также выступят Metro Boomin и Justice. Все сборы с билетов пойдут местным благотворительным фондам.",
-    "card_title": "GTA 6 FESTIVAL LINEUP",
-    "reason": "Официальный анонс расписания мероприятия от Rockstar, важный для фанатов.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "model": "groq:qwen/qwen3.8-27b"
-   },
-   "queued_at": "2026-11-18T17:58:26.614632+00:00"
-  },
-  {
-   "item": {
     "title": "GTA 6 Violence Debate Just Reached Congress on Launch Day",
     "link": "https://www.gtaboom.com/gta-6-violence-debate-just-reached-congress-on-launch-day-3a2f",
     "summary": "Rep. Maxwell Frost says he is buying a PS5 for GTA 6, while Rep. Tim Burchett calls the game a danger to children.",
@@ -5109,32 +5176,6 @@
     "model": "groq:openai/gpt-oss-120b"
    },
    "queued_at": "2026-11-18T19:56:00.835701+00:00"
-  },
-  {
-   "item": {
-    "title": "How GTA 6 Cheats Work and Why You Have to Finish the Whole Story First",
-    "link": "https://www.gtaboom.com/how-gta-6-cheats-work-and-why-you-have-to-finish-the-whole-story-first-f2f7",
-    "summary": "All 61 cheats in GTA 6 stay unusable until you finish all 91 main story missions, even if you tackle unlock challenges earlier.",
-    "published": "2026-11-18T16:51:41+00:00",
-    "source": "GTA BOOM",
-    "site_name": "GTA BOOM",
-    "trust": "medium",
-    "text": "Cheats are part of what made Grand Theft Auto a cultural icon, the tank codes and infinite ammo tricks passed around schoolyards for 25 years. Grand Theft Auto VI is no different but Rockstar Games has put them further out of reach than it ever has and we have no choice but to fill up our GTA VI cheats page slowly because of it.\nIf you've heard rumours that you cannot use a cheat in GTA VI until you have beaten the game, it's true. The game has 61 cheats covering player effects, combat, vehicle spawns, environment tweaks and screen filters. None of them are available from the jump. Instead, GTA 6's dedicated Cheats section only appears in the Progress Menu once you have cleared all 91 main story missions across Jason Duval and Lucia Caminos' campaign. You can chip away at the individual unlock challenges mid-playthrough, winning shooting-range medals, clearing activities or shaking wanted levels, but the codes stay dead until the credits roll.\nYou can't brute force your way out of this. The menu itself refuses to show up before the story is done. We know. We've tested. The catch after that is the price of using one. Turning on cheats disables saving and blocks trophies and achievements for the rest of that session, so you can't keep the progress of anything you do with a code active.\nThe change is stark when compared to Grand Theft Auto V, where button and phone codes worked in free roam within your first hour in Los Santos. A handful of vehicle spawns in that game, the Duke O'Death, the Dodo and the Kraken, needed specific unlocks, but the system itself was open from the start and turning a cheat on only switched off achievements while still letting you save. Grand Theft Auto IV, Grand Theft Auto: San Andreas, Grand Theft Auto: Vice City and Grand Theft Auto III all let you cause chaos long before the ending. No earlier entry gated the whole cheat menu and the act of using it, behind full story completion.\nThe design tracks with a studio that built this game to make you play it straight, holding its biggest toys back until the story has settled its weight. Cheats become a reward for finishing rather than a shortcut that can hollow out a first playthrough, a defensible call even though it stings the players who treat a fresh GTA as a sandbox from minute one.\nEither way, the decision, as we've already mentioned, shapes how we are covering this. Our GTA VI cheats page is live and it will grow as we unlock each code ourselves rather than by copying a day-one list scraped from everyone else.\nWe'd rather take the long way, verify every cheat and its unlock challenge in our own game and update the page as we go. The cheats are a post-game prize this time, so earning the right to document them properly is the whole point.\nDo you want cheats as a post-game reward you have to earn, or should a new GTA hand you the tank code the second you hit free roam like it always used to?\nOnce a post receives 3 qualifying Helpful marks\nI cannot decide if it is genius or if it misses the point of cheats entirely. Half the fun of a new Grand Theft Auto used to be breaking it in hour one.\nGTA 6 Just Set a Streaming Record With Over 6 Million Peak Viewers at Launch\nEvery GTA 6 Trophy and Achievement at Launch and How to Unlock Them",
-    "extra": {}
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 6,
-    "post": "🎮 Читы в GTA 6 ждём после сюжета\n\nRockstar упрятала все коды: меню откроется только после прохождения 91 миссии. Включишь чит — потеряешь сохранения и трофеи в этой сессии. Так что сначала катка, потом хаос.",
-    "card_title": "ЧИТЫ ПОСЛЕ СЮЖЕТА",
-    "reason": "Подтверждённые разработчиком механики, важные для геймплея, но не критичные для новичка.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "GTA 6 cheats: All the codes and how to unlock them — Google News (EN)",
-    "model": "groq:qwen/qwen3.8-27b"
-   },
-   "queued_at": "2026-11-18T16:59:08.263411+00:00"
   },
   {
    "item": {
