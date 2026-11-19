@@ -415,6 +415,9 @@ def publish_ready(http: Http, state: State, cfg: dict) -> int:
         return 0
     state.clips.remove(q)
     state.posts.append(utcnow().isoformat())
+    from .publish import headline
+    state.published.append({"ts": utcnow().isoformat(), "msg_id": msg["message_id"], "title": headline(q["caption"]),
+                            "importance": int(q.get("interest", 7)), "kind": "video"})
     mark_published(http, q)
     log(f"📣 видео в канале (message_id={msg['message_id']}): «{clip.title[:70]}»")
     return 1

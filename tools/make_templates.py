@@ -39,6 +39,12 @@ THEMES = {
         glow_a="FFC83D", glow_b="6C4CFF", grid="FFD166",
         face=("FFF6CC", "F5C542", "B07A06"), side="6B4A00", rim="A97A0A", icon="star",
         badge=("FFD95A", "D49B09"), badge_side="6E4E02", label="ОФИЦИАЛЬНО"),
+    "guide": dict(
+        photo="miami_palms.jpg", y_offset=40, zoom=1.0,
+        duo=("0B0620", "6B3FD6", "E6DCFF"), duo_mix=0.5,
+        glow_a="8B5CF6", glow_b="22D3EE", grid="A78BFA",
+        face=("E9DDFF", "9B6BFF", "5B21B6"), side="3B1278", rim="7444DC", icon="pin",
+        badge=("A06BFF", "6D28D9"), badge_side="3B0F80", label="ГАЙД"),
 }
 
 
@@ -148,6 +154,10 @@ def icon_layer(kind: str, size: int) -> Image.Image:
         for x, y in ((24, 52), (77, 32)):
             r = 6.5 * s
             d.ellipse((x * s - r, y * s - r, x * s + r, y * s + r), fill="white")
+    elif kind == "pin":  # метка на карте
+        d.ellipse((26 * s, 12 * s, 74 * s, 60 * s), fill="white")
+        d.polygon([(30 * s, 46 * s), (70 * s, 46 * s), (50 * s, 90 * s)], fill="white")
+        d.ellipse((40 * s, 26 * s, 60 * s, 46 * s), fill=(0, 0, 0, 0))
     elif kind == "star":
         pts = []
         for i in range(10):

@@ -3,6 +3,7 @@ from __future__ import annotations
 
 import html
 import os
+import re
 from datetime import datetime, timedelta
 from zoneinfo import ZoneInfo
 
@@ -70,6 +71,18 @@ def format_post(post: str) -> str:
     out[h] = f"<b>{out[h]}</b>"
     head, rest = out[: h + 1], out[h + 1:]
     return "\n".join(head) + ("\n\n" + "\n".join(rest) if rest else "")
+
+
+def headline(text: str, limit: int = 90) -> str:
+    """Первая содержательная строка поста (без пометки «Слух» и эмодзи в начале) — для «Итогов дня»."""
+    lines = [l.strip() for l in (text or "").splitlines() if l.strip()]
+    if lines and lines[0].startswith("🔥") and "лух" in lines[0] and len(lines) > 1:
+        lines = lines[1:]
+    line = lines[0] if lines else ""
+    line = re.sub(r"^[^\wА-Яа-яЁё«\"(]+", "", line).strip()
+    line = re.sub(r"^Гайд:\s*", "", line)
+    line = line[:1].upper() + line[1:]
+    return line if len(line) <= limit else line[: limit - 1].rstrip() + "…"
 
 
 def build_caption(item: Item, v: Verdict, reserve: int = 0) -> str:

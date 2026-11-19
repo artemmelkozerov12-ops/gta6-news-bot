@@ -181,6 +181,8 @@ def template_name(kind: str, trust: str = "") -> str:
     """Какой шаблон из Figma: официальное от Rockstar/Take-Two, слух или подтверждённое."""
     if kind == "rumor":
         return "rumor"
+    if kind == "guide":
+        return "guide"
     return "official" if trust == "official" else "confirmed"
 
 

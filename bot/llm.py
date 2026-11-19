@@ -21,7 +21,7 @@ from .util import log
 
 TYPES = ("confirmed", "rumor", "leak", "skip")
 FIELDS = ["type", "importance", "reason", "duplicate", "duplicate_of",
-          "corroborated", "corroborated_by", "card_title", "post"]
+          "corroborated", "corroborated_by", "guide", "card_title", "post"]
 
 # JSON-схема ответа (обычный JSON Schema; для Gemini переводится в его формат)
 JSON_SCHEMA = {
@@ -34,6 +34,7 @@ JSON_SCHEMA = {
         "duplicate_of": {"type": "string"},
         "corroborated": {"type": "boolean"},
         "corroborated_by": {"type": "string"},
+        "guide": {"type": "boolean"},
         "card_title": {"type": "string"},
         "post": {"type": "string"},
     },
@@ -121,6 +122,7 @@ class Verdict:
     corroborated: bool
     duplicate_of: str = ""
     corroborated_by: str = ""
+    guide: bool = False   # рубрика «Гайды и секреты»
     model: str = ""
 
     def to_dict(self) -> dict:
@@ -181,6 +183,7 @@ def validate(data: dict) -> Verdict:
         duplicate=bool(data.get("duplicate")), corroborated=bool(data.get("corroborated")),
         duplicate_of=str(data.get("duplicate_of") or "").strip(),
         corroborated_by=str(data.get("corroborated_by") or "").strip(),
+        guide=bool(data.get("guide")) and t == "confirmed",
     )
 
 

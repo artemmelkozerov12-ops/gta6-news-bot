@@ -16,12 +16,12 @@ import time
 from datetime import datetime, timedelta
 from pathlib import Path
 
-from . import clips, moderation
+from . import clips, extras, moderation
 from .card import card_png
 from .dedupe import State, dedupe_batch, similarity, url_key
 from .fetch import TRUST_ORDER, Item, fetch_all, fetch_article_text, fresh_only, keyword_filter
 from .llm import LLM, LLMBadAnswer, LLMQuotaExhausted, Verdict
-from .publish import TelegramError, build_caption, can_post_now, decide, send_photo
+from .publish import TelegramError, build_caption, can_post_now, decide, headline, is_quiet_hours, send_photo
 from .util import ROOT, Http, env_flag, load_config, load_dotenv, log, utcnow
 
 OUT = ROOT / "out"
@@ -189,6 +189,7 @@ def run() -> int:
         state.save()
         return 1
     expire_queue(state, cfg, http if moderated and not dry else None)
+    extras.expire(http if moderated and not dry else None, state, cfg)
     log(f"Очередь: {len(state.queue)}")
 
     # 5б. Видео: найти свежие клипы (скачиваем и подписываем, только когда пора слать черновик)
@@ -234,8 +235,11 @@ def run() -> int:
                 pool = clips.collect(http, cfg, state)
         moderation.send_drafts(http, state, cfg)
         clips.send_drafts(http, state, cfg, gemini, pool)
+        if not is_quiet_hours(cfg):
+            extras.send_drafts(http, state, cfg, gemini)
         posted += publish_ready(http, state, cfg, moderated=True)
         posted += clips.publish_ready(http, state, cfg)
+        posted += extras.publish_ready(http, state, cfg)
         state.save()  # сохраняем после каждого шага: запуск могут оборвать
         left = deadline - time.monotonic()
         if left <= 5:
@@ -281,7 +285,7 @@ def publish_ready(http: Http, state: State, cfg: dict, moderated: bool) -> int:
             return posted
         it, v = Item.from_dict(q["item"]), Verdict.from_dict(q["verdict"])
         try:
-            png = card_png(v.card_title, v.type, cfg, seed=int(url_key(it.link), 16) % 10_000, trust=it.trust)
+            png = card_png(v.card_title, "guide" if v.guide else v.type, cfg, seed=int(url_key(it.link), 16) % 10_000, trust=it.trust)
             msg_id = send_photo(http, png, build_caption(it, v), chat_id=chat)
         except Exception as e:
             err = str(e).lower()
@@ -303,6 +307,8 @@ def publish_ready(http: Http, state: State, cfg: dict, moderated: bool) -> int:
             return posted
         state.queue.remove(q)
         state.posts.append(utcnow().isoformat())
+        state.published.append({"ts": utcnow().isoformat(), "msg_id": msg_id, "title": headline(v.post),
+                                "importance": v.importance, "kind": "guide" if v.guide else v.type})
         set_recent_status(state, it.title, "published")
         if moderated:
             moderation.mark_published(http, q)
@@ -380,7 +386,7 @@ def write_clips_preview(cfg: dict, state: State, llm: LLM, pool: list) -> None:
 
 
 def _dump(cfg: dict, folder, prefix: str, it: Item, v: Verdict, label: str) -> dict:
-    png = card_png(v.card_title, v.type, cfg, seed=int(url_key(it.link), 16) % 10_000, trust=it.trust)
+    png = card_png(v.card_title, "guide" if v.guide else v.type, cfg, seed=int(url_key(it.link), 16) % 10_000, trust=it.trust)
     (folder / f"{prefix}.png").write_bytes(png)
     caption = build_caption(it, v)
     meta = {"type": v.type, "importance": v.importance, "reason": v.reason, "card_title": v.card_title,

@@ -111,6 +111,7 @@ def poll_updates(http: Http, state: State, wait: int = 0) -> list[dict]:
     rejected = [q for q in state.queue if q.get("moderation") == "rejected"]
     state.queue = [q for q in state.queue if q.get("moderation") != "rejected"]
     state.clips = [q for q in state.clips if q.get("moderation") != "rejected"]
+    state.extras = [q for q in state.extras if q.get("moderation") != "rejected"]
     return rejected
 
 
@@ -164,13 +165,15 @@ def _on_button(http: Http, state: State, cb: dict, me: str) -> None:
         q = next((q for q in state.queue if url_key(q["item"]["link"]) == key), None)
         if q is None:  # видео-черновик
             q = next((q for q in state.clips if url_key(q["clip"]["url"]) == key), None)
+        if q is None:  # итоги дня / опрос
+            q = next((q for q in state.extras if q["key"] == key), None)
         if q is None:
             answer = "Этого поста уже нет в очереди"
         else:
             status = BUTTONS[action]
             _set_status(http, q, status)
             answer = STATUS_TEXT[status]
-            title = (q.get("item") or q.get("clip"))["title"]
+            title = (q.get("item") or q.get("clip") or {"title": q.get("kind", "")})["title"]
             log(f"🧑‍⚖️ модерация: {STATUS_TEXT[status]} — «{title[:70]}»")
     try:
         _api(http, "answerCallbackQuery", callback_query_id=cb["id"], text=answer)
@@ -202,7 +205,9 @@ def _fresh(q: dict, hours: float) -> bool:
 
 
 def _rank(q: dict):
-    return (-q["verdict"]["importance"], TRUST_ORDER.get(q["item"]["trust"], 9), q["item"]["published"])
+    """Лучший черновик: важность (гайдам +1 — их сохраняют и пересылают), надёжность источника, свежесть."""
+    imp = q["verdict"]["importance"] + (1 if q["verdict"].get("guide") else 0)
+    return (-imp, TRUST_ORDER.get(q["item"]["trust"], 9), q["item"]["published"])
 
 
 def send_drafts(http: Http, state: State, cfg: dict) -> None:
@@ -236,10 +241,12 @@ def send_drafts(http: Http, state: State, cfg: dict) -> None:
         last = max(state.drafts) if state.drafts else ""
         if last and utcnow() - datetime.fromisoformat(last) < timedelta(minutes=float(sched["every_minutes"])):
             return
-        best = [q for q in waiting if _fresh(q, float(m.get("max_age_hours", 8)))
-                and q["verdict"]["importance"] >= int(m.get("min_importance", 7))]
+        best = [q for q in waiting if _fresh(q, float(m.get("guide_max_age_hours", 24) if q["verdict"].get("guide")
+                                                     else m.get("max_age_hours", 8)))
+                and q["verdict"]["importance"] >= int(m.get("min_importance", 7)) - (1 if q["verdict"].get("guide") else 0)]
         if best:
-            _send(http, state, cfg, min(best, key=_rank), "📰 <b>Новость</b>")
+            q = min(best, key=_rank)
+            _send(http, state, cfg, q, "🗺 <b>Гайд</b>" if q["verdict"].get("guide") else "📰 <b>Новость</b>")
         return
 
     # 2) слот расписания (старый режим, если schedule не задан)
@@ -268,7 +275,7 @@ def _send(http: Http, state: State, cfg: dict, q: dict, label: str) -> bool:
         {"text": "❌ Пропустить", "callback_data": f"no:{key}"},
     ]]}
     try:
-        png = card_png(v.card_title, v.type, cfg, seed=int(key, 16) % 10_000, trust=it.trust)
+        png = card_png(v.card_title, "guide" if v.guide else v.type, cfg, seed=int(key, 16) % 10_000, trust=it.trust)
         msg = _api(http, "sendPhoto", files={"photo": ("card.png", png, "image/png")},
                    chat_id=admin_id(), caption=caption, parse_mode="HTML",
                    reply_markup=json.dumps(markup))

@@ -70,6 +70,10 @@ class State:
         self.clip_drafts: list[str] = data.get("clip_drafts", [])  # когда слали видео-черновики
         # какие клипы уже смотрели/слали (автор, запись стрима, секунда момента) — чтобы не было повторов
         self.clip_history: list[dict] = data.get("clip_history", [])
+        # что вышло в канал: [{ts, msg_id, title, importance, kind}] — для «Итогов дня» и опросов
+        self.published: list[dict] = data.get("published", [])
+        self.extras: list[dict] = data.get("extras", [])          # итоги дня / опросы: ждут ✅
+        self.extras_sent: dict = data.get("extras_sent", {})      # {"digest:2026-11-19": iso}
 
     # ----- файл -----
     @classmethod
@@ -83,7 +87,8 @@ class State:
                 "queue": self.queue, "posts": self.posts, "tg_offset": self.tg_offset,
                 "channel": self.channel, "drafts": self.drafts,
                 "slots_sent": self.slots_sent, "urgent": self.urgent,
-                "clips": self.clips, "clip_drafts": self.clip_drafts, "clip_history": self.clip_history}
+                "clips": self.clips, "clip_drafts": self.clip_drafts, "clip_history": self.clip_history,
+                "published": self.published, "extras": self.extras, "extras_sent": self.extras_sent}
         path.write_text(json.dumps(data, ensure_ascii=False, indent=1), encoding="utf-8")
 
     def prune(self, cfg: dict) -> None:
@@ -99,6 +104,9 @@ class State:
         self.urgent = [p for p in self.urgent if p >= day_ago]
         self.clip_drafts = [p for p in self.clip_drafts if p >= day_ago]
         self.clip_history = [h for h in self.clip_history if h["ts"] >= day_ago]
+        week_ago = (utcnow() - timedelta(days=8)).isoformat()
+        self.published = [p for p in self.published if p["ts"] >= week_ago]
+        self.extras_sent = {k: v for k, v in self.extras_sent.items() if v >= week_ago}
         self.slots_sent = {k: v for k, v in self.slots_sent.items() if v >= day_ago}
 
     # ----- дубли -----
