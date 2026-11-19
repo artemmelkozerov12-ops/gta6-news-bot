@@ -678,7 +678,22 @@
   "360a2c4ecaefee6e": "2026-11-19T14:02:11.949599+00:00",
   "5fffe3b70ab38af7": "2026-11-19T14:02:12.918871+00:00",
   "61b6444735a04c06": "2026-11-19T14:03:04.397565+00:00",
-  "e839e8745921176c": "2026-11-19T14:03:05.247123+00:00"
+  "e839e8745921176c": "2026-11-19T14:03:05.247123+00:00",
+  "c8857530e946712f": "2026-11-19T14:28:23.981027+00:00",
+  "f00046a699921315": "2026-11-19T14:28:23.981141+00:00",
+  "2d97b750093a684e": "2026-11-19T14:28:23.981267+00:00",
+  "600947737f4d22b6": "2026-11-19T14:28:23.981362+00:00",
+  "530ff08c9ed277c8": "2026-11-19T14:28:23.981450+00:00",
+  "97c1feab16d00112": "2026-11-19T14:28:23.981519+00:00",
+  "09e64e3820277e50": "2026-11-19T14:28:23.981584+00:00",
+  "19efbf64daff1e88": "2026-11-19T14:28:23.981649+00:00",
+  "b6736ef7e237c24f": "2026-11-19T14:28:23.981828+00:00",
+  "a018910ddaa746ec": "2026-11-19T14:28:26.443634+00:00",
+  "573aa5ba71808cdf": "2026-11-19T14:28:27.358065+00:00",
+  "2afe371fb0eb60c6": "2026-11-19T14:28:28.597355+00:00",
+  "e78a5ac651d6883b": "2026-11-19T14:28:47.859842+00:00",
+  "c07294cc28e898fa": "2026-11-19T14:28:48.574831+00:00",
+  "dd54043c1a9dd492": "2026-11-19T14:28:50.178659+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -1235,7 +1250,20 @@
   "11cb4a05abbde7d2": "2026-11-19T13:13:41.732707+00:00",
   "fe1356053c594882": "2026-11-19T13:13:48.337407+00:00",
   "9faa215580d64cbd": "2026-11-19T13:14:06.096371+00:00",
-  "f32159c18da0db10": "2026-11-19T13:14:26.583255+00:00"
+  "f32159c18da0db10": "2026-11-19T13:14:26.583255+00:00",
+  "a51f0ecba288ec46": "2026-11-19T14:28:28.597355+00:00",
+  "09da351f457e6e14": "2026-11-19T14:28:23.981141+00:00",
+  "0aef4f66e37a266c": "2026-11-19T14:28:23.981267+00:00",
+  "07b3054b2d0951dc": "2026-11-19T14:28:23.981362+00:00",
+  "d9f55a48a0f16b1b": "2026-11-19T14:28:23.981519+00:00",
+  "610c3198c07620b9": "2026-11-19T14:28:23.981584+00:00",
+  "698dec42bf67963e": "2026-11-19T14:28:23.981649+00:00",
+  "81c55704c155af37": "2026-11-19T14:28:23.981828+00:00",
+  "4c15946361898c6f": "2026-11-19T14:28:26.443634+00:00",
+  "727c59a1f96d2ceb": "2026-11-19T14:28:27.358065+00:00",
+  "729ff84b30198adc": "2026-11-19T14:28:47.859842+00:00",
+  "c766a5d83b03ae81": "2026-11-19T14:28:48.574831+00:00",
+  "139be21666372caf": "2026-11-19T14:28:50.178659+00:00"
  },
  "recent": [
   {
@@ -5797,6 +5825,126 @@
    "status": "skipped",
    "ts": "2026-11-19T13:14:26.583372+00:00",
    "card_title": ""
+  },
+  {
+   "title": "The Official GTA 6 Map Is Now Available To Download For Free",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-19T14:28:23.981099+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "You can't cheat on Lucia in GTA 6 with Mandy or strippers because Rockstar doesn't believe that's 'complementary to the feeling and motivations' of Jason and Lucia's story",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-19T14:28:23.981198+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6’s Mandy Could Be Hiding A Killer Secret",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-19T14:28:23.981316+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Has an Easy Mode Buried in an Impressive Range of Accessibility Options",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-19T14:28:23.981415+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Release of 'GTA VI' has fans buzzing. Here's the breakdown of the new game",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-19T14:28:23.981487+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Release of 'GTA VI' has fans buzzing. Here's the breakdown of the new game",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-19T14:28:23.981552+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "As GTA 6 Skips Discs, GameStop CEO Says Digital-Only 'Has Hurt Consumers' and Retailers",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-19T14:28:23.981618+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "I reviewed every strip club in GTA 6 (because you sickos keep googling it)",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-19T14:28:23.981684+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Grand Theft Auto VI Now Available",
+   "source": "Rockstar Newswire",
+   "trust": "official",
+   "status": "dup",
+   "ts": "2026-11-19T14:28:23.981870+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 впервые показали с рулём на PS5 Pro в открытом мире",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-19T14:28:26.443779+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to quickly increase and reduce your Wanted and Heat levels in GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-19T14:28:27.358221+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "The Official GTA 6 Map Is Now Available To Download For Free",
+   "source": "Pure Xbox",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-19T14:28:47.171559+00:00",
+   "card_title": "КАРТА GTA 6 ОФИЦИАЛЬНАЯ"
+  },
+  {
+   "title": "9 Games Launching on GTA 6 Day, Nov. 19",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-19T14:28:47.859974+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 выходит, а россияне не могут ее купить: 5 рабочих схем",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-19T14:28:48.574974+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Игра GTA 6 вышла: что нужно знать перед первым запуском",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-19T14:28:50.597928+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -5828,32 +5976,6 @@
   },
   {
    "item": {
-    "title": "GTA 6‘s Big Miami Heat Game Led To Black Friday-Like Crowds Trying To Buy All The Merch",
-    "link": "https://kotaku.com/gta-6s-big-miami-heat-game-led-to-black-friday-like-crowds-trying-to-buy-all-the-merch-2000758204",
-    "summary": "For one night only GTA and the NBA crossed over and a lot of people wanted those $120 jerseys",
-    "published": "2026-11-19T01:39:40+00:00",
-    "source": "Kotaku",
-    "site_name": "Kotaku",
-    "trust": "high",
-    "text": "Tonight, on the eve of Grand Theft Auto 6‘s release in the United States, the Miami Heat became the Vice City Heat as part of a large promotional marketing event between the NBA team and Rockstar Games. And according to reporters at the big game, the crowds were similar to what you might see on Black Friday, as thousands of fans tried to get their hands on exclusive GTA-themed merchandise.\nOn Wednesday night, before the game, Miami Heat reporter Will Manso shared a video of a huge crowd of people inside the arena, commenting that he couldn’t “remember a time I’ve walked through the concourse… and seen so many fans lined up.” He added: “It’s wild the amount of people inside already trying to grab Vice City merch.”\nI can’t remember a time I’ve walked through the concourse over an hour before a Heat game and seen so many fans lined up. It’s wild the amount of people inside already trying grab the Vice City merch. pic.twitter.com/og3QM2q0kZ — Will Manso (@WillManso) November 18, 2026\nEven though it was raining outside, fans were still lining up in numbers not usually seen. And they were showing up early, clearly wanting to get their hands on some merch, including $120 Vice City-themed black and neon pink NBA jerseys. It’s likely these will be rare and sought-after pieces of clothing connected to what is shaping up to be a once-in-a-generation video game, GTA 6. Inside, lines were long as people waited for their chance to get some sweet Vice City swag.\nVice City shopping. pic.twitter.com/eIeh33Sb5k — Tim Reynolds (@ByTimReynolds) November 18, 2026\nAnother video shared by NBA reporter Tim Reynolds showed chaos inside the Miami Heat merch store, with fans running to a wall to grab a jersey before they were all sold out. According to some, it was supposed to be limited to one jersey per ticket, but Reynolds reports some fans tried to buy two or more shirts at a time. However, these fans were mostly stopped and told to only buy one.\n“Can’t say it didn’t happen at all — but I know for certain that not everyone who tried it succeeded,” said\nReynolds further predicted that he was “certain” the big GTA-themed Heat game will set a new record for gear sold at an NBA game. “Probably by quite a margin,” he added.\nI’m told all Heat x GTA Vice City gear has sold out in less than 90 minutes. All stores closed now. Demand was crazy. pic.twitter.com/lXGPqcG1kx — Cameron Wolfe (@CameronWolfe) November 18, 2026\nRockstar and the Miami Heat went all out for the big crossover game, with the broadcast kicking off with a big custom intro and even a Macca the Gator mascot from an in-game GTA 6 cartoon appearing on the court to interact with fans.\nIt was later reported by Cameron Wolfe that all of the Heat X Vice City gear sold out in about 90 minutes and stores in the arena had been closed. Meanwhile, on eBay, people are already trying to flip the rare jerseys for $450 or more. Wonder if any of those fancy PS5 consoles Heat players got will show up on eBay one day?\nDon’t miss the latest reviews, news and tips. Sign up for our free newsletter.\nCultureNews Live Updates On GTA 6: The Biggest Launch In Gaming History We're tracking all of the news, discoveries, and conversations as Rockstar's new open-world blockbuster goes live Ethan Gach, Ash Parrish, Carolyn Petit, Zack Zwiezen, Kenneth Shepard, and Rebekah Valentine Published November 18, 2026\nCultureNews Rockstar Explains Why GTA 6 Has No Prostitutes In It, A Hallmark Of The Series Since 2001 Rockstar says it only included features in the game that complimented its story of 'lovers on the run' By Zack Zwiezen Published November 18, 2026\nCultureNews Yes, That’s Weird Al Hosting A Radio Station In GTA 6 GTA 6 contains Al, Weird Al that is! By Zack Zwiezen Published November 18, 2026\nCultureNews 43 Soldiers Re-Enlisted In The Army In Exchange For Time Off To Play Grand Theft Auto 6: ‘I’m All About The Heist’ An unusual signing bonus By Ethan Gach Published November 18, 2026\nGames Turns Out GTA San Andreas Re",
-    "extra": {}
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "🔥 АЖИОТАЖ ВОКРУГ МЕРЧА GTA 6\n\nНа матче «Майами Хит» творилось безумие: фанаты смели весь лимитированный мерч в стиле Vice City всего за полтора часа. Внутри арены была давка, как в «Черную пятницу», а теперь эти джерси перепродают на eBay в 4 раза дороже. Видимо, хайп по игре просто нереальный! 🏀🎮\n\n❤️ — Успел бы урвать?\n👎 — Оверпрайс, не стоит того",
-    "card_title": "АЖИОТАЖ ВОКРУГ МЕРЧА GTA 6",
-    "reason": "Официальная новость от крупного СМИ про маркетинговую коллаборацию Rockstar и NBA.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "«Майами» распродал товары в стиле GTA 6 менее чем за 90 минут — Google News (RU)",
-    "corroborated_by": "«Майами» распродал товары в стиле GTA 6 менее чем за 90 минут — Google News (RU)",
-    "model": "gemini:gemini-3.1-flash-lite"
-   },
-   "queued_at": "2026-11-19T02:02:14.269966+00:00"
-  },
-  {
-   "item": {
     "title": "GameStop CEO slams 'code-in-a-box' games in the wake of GTA 6's discless release",
     "link": "https://www.eurogamer.net/gta-6-discless-release-code-in-a-box-gamestop-ceo",
     "summary": "Ryan Cohen, CEO of GameStop - the self-proclaimed \"world's largest retail gaming and trade-in destination\" - is not happy with the emerging trend of games releasing without discs. Per the CEO, the industry's move away from physical games and towards a digital-only future is harmful to both consumers and businesses. Read more",
@@ -5877,6 +5999,32 @@
     "model": "groq:qwen/qwen3.8-27b"
    },
    "queued_at": "2026-11-19T13:13:41.959309+00:00"
+  },
+  {
+   "item": {
+    "title": "The Official GTA 6 Map Is Now Available To Download For Free",
+    "link": "https://www.purexbox.com/news/2026/11/the-official-gta-6-map-is-now-available-to-download-for-free",
+    "summary": "Physical version coming very soon. Ahead of launch, Rockstar Games mentioned that instead of including a map inside the physical edition of GTA 6 , they'd be making it available to download for free on their website, as well as providing a double-sided physical edition. The downloadable version is now officially available for free on the GTA 6 website , and there's even a special \"printable\" for those who don't just want to look at it in digital form. Read the full article on purexbox.com",
+    "published": "2026-11-19T14:21:00+00:00",
+    "source": "Pure Xbox",
+    "site_name": "Pure Xbox",
+    "trust": "high",
+    "text": "Ahead of launch, Rockstar Games mentioned that instead of including a map inside the physical edition of GTA 6, they'd be making it available to download for free on their website, as well as providing a double-sided physical edition.\nThe downloadable version is now officially available for free on the GTA 6 website, and there's even a special \"printable\" option for those who don't just want to look at it in digital form.\nIt comes with a big version of the GTA 6 cover art as well - you can see both of these down below:\nThe physical edition still isn't available yet, but Rockstar Games says that it will be \"made available at the Rockstar Store shortly after launch\". We'll keep an eye out and update this article when that happens.\nHonestly, I don't think the map is that great, as I hoped it might include some places of interest rather than just each region that's available to visit, but as a poster on a wall, it's still worth displaying somewhere.\nI'd rather wait for the physical version, but it's certainly nice that it exists as a freebie as well.\nWill you be downloading this? Let us know down in the comments section below.",
+    "extra": {}
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "🗺️ Официальная карта GTA 6 уже доступна для скачивания\n\nRockstar выпустил бесплатный диджитал‑вариант карты на сайте, плюс есть печатный вариант для тех, кто хочет повесить её на стену. Отличный способ подготовиться к запуску и уже сейчас полюбоваться миром игры.\n\n❤️ — Скачаю и распечатаю\n👎 — Подожду физический релиз",
+    "card_title": "КАРТА GTA 6 ОФИЦИАЛЬНАЯ",
+    "reason": "Подтверждённая информация от Rockstar, интересна всем фанатам",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "model": "groq:openai/gpt-oss-120b"
+   },
+   "queued_at": "2026-11-19T14:28:47.171544+00:00"
   },
   {
    "item": {
