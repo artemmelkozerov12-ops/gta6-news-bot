@@ -650,7 +650,35 @@
   "25ec520df5d014be": "2026-11-19T12:17:50.463022+00:00",
   "12ce0365869a0d51": "2026-11-19T12:18:41.418039+00:00",
   "57328b120dba8158": "2026-11-19T12:18:42.373685+00:00",
-  "0ad4bb6243a15e98": "2026-11-19T12:18:43.134244+00:00"
+  "0ad4bb6243a15e98": "2026-11-19T12:18:43.134244+00:00",
+  "90d150dbbee74fd3": "2026-11-19T13:13:02.960549+00:00",
+  "5a0a99c3d41a2408": "2026-11-19T13:13:02.960661+00:00",
+  "d6d1fd40c943e8d2": "2026-11-19T13:13:02.960755+00:00",
+  "1390221296836ad5": "2026-11-19T13:13:02.960830+00:00",
+  "5947714c7d81bed4": "2026-11-19T13:13:02.960906+00:00",
+  "abbbd06cb15df7e1": "2026-11-19T13:13:02.960977+00:00",
+  "3db51acb805cc04b": "2026-11-19T13:13:02.961046+00:00",
+  "52a3dfc74e2aaf04": "2026-11-19T13:13:02.961116+00:00",
+  "f7277ce937f56f9a": "2026-11-19T13:13:02.961214+00:00",
+  "e098db974055c354": "2026-11-19T13:13:02.961291+00:00",
+  "22c58f91f7b02925": "2026-11-19T13:13:03.382172+00:00",
+  "4a61f91b1965c422": "2026-11-19T13:13:05.739674+00:00",
+  "eaaffc56a6559538": "2026-11-19T13:13:40.849293+00:00",
+  "6d34c2365d69b563": "2026-11-19T13:13:41.732707+00:00",
+  "3f7b3db20197cec8": "2026-11-19T13:13:48.337407+00:00",
+  "5243958cc8d0efac": "2026-11-19T13:14:06.096371+00:00",
+  "24be99bdcec24c8a": "2026-11-19T13:14:26.583255+00:00",
+  "0a571ce425edb58e": "2026-11-19T14:00:25.123242+00:00",
+  "a4b3222a8e84ac4b": "2026-11-19T14:00:26.407385+00:00",
+  "529262b0646e2ee9": "2026-11-19T14:00:27.407086+00:00",
+  "10b707c094e1e3ff": "2026-11-19T14:01:18.404170+00:00",
+  "f8ed2f0ad0271ffb": "2026-11-19T14:01:19.360783+00:00",
+  "35744bb0d0c58278": "2026-11-19T14:01:20.220695+00:00",
+  "71d0d1b696acc8a0": "2026-11-19T14:02:11.116917+00:00",
+  "360a2c4ecaefee6e": "2026-11-19T14:02:11.949599+00:00",
+  "5fffe3b70ab38af7": "2026-11-19T14:02:12.918871+00:00",
+  "61b6444735a04c06": "2026-11-19T14:03:04.397565+00:00",
+  "e839e8745921176c": "2026-11-19T14:03:05.247123+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -1192,7 +1220,22 @@
   "eee1a955f730bbc4": "2026-11-19T12:15:59.482745+00:00",
   "8deb87ce7401f77a": "2026-11-19T12:16:00.862096+00:00",
   "c51fb1a3ce7b5ebe": "2026-11-19T12:16:01.673640+00:00",
-  "5e4429fb5a395194": "2026-11-19T12:16:03.058349+00:00"
+  "5e4429fb5a395194": "2026-11-19T12:16:03.058349+00:00",
+  "5520f79588d9d2bf": "2026-11-19T13:13:02.960549+00:00",
+  "bd88b0824afaf8a2": "2026-11-19T13:13:02.960661+00:00",
+  "a634ef1d60edcf06": "2026-11-19T13:13:02.960755+00:00",
+  "ddd2b17d4779e4e0": "2026-11-19T13:13:02.960977+00:00",
+  "2aec5ab9ee88f33f": "2026-11-19T13:13:02.961046+00:00",
+  "a305569e24cf2fce": "2026-11-19T13:13:02.961116+00:00",
+  "6980ee6af2b1fb24": "2026-11-19T13:13:02.961214+00:00",
+  "a5a7b00c992ebc2a": "2026-11-19T13:13:02.961291+00:00",
+  "9fccf10b65adf358": "2026-11-19T13:13:03.382172+00:00",
+  "22e1b54c58610f05": "2026-11-19T13:13:05.739674+00:00",
+  "676c92c139c6aa64": "2026-11-19T13:13:40.849293+00:00",
+  "11cb4a05abbde7d2": "2026-11-19T13:13:41.732707+00:00",
+  "fe1356053c594882": "2026-11-19T13:13:48.337407+00:00",
+  "9faa215580d64cbd": "2026-11-19T13:14:06.096371+00:00",
+  "f32159c18da0db10": "2026-11-19T13:14:26.583255+00:00"
  },
  "recent": [
   {
@@ -5618,6 +5661,142 @@
    "status": "skipped",
    "ts": "2026-11-19T12:16:03.058453+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GTA 6 Chapter 1 walkthrough",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-19T13:13:02.960614+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 What’s In The Bag? Mission Walkthrough",
+   "source": "VGC",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-19T13:13:02.960710+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Sex & Romance—How To Have Sex In GTA 6",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "dup",
+   "ts": "2026-11-19T13:13:02.960794+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Money Watch: GTA VI could be largest entertainment launch in history",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-19T13:13:02.960870+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Money Watch: GTA VI could be largest entertainment launch in history",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-19T13:13:02.960942+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Money Watch: GTA VI could be largest entertainment launch in history",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-19T13:13:02.961012+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Estimated to Have Reached 20 Million Preorders Ahead of Launch",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-19T13:13:02.961083+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Becomes Biggest Entertainment Launch in History",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-19T13:13:02.961173+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "You Will Not Believe What I Had To Do To Get a Six-Star Wanted Level in GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-19T13:13:02.961256+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "You Have to Become a Complete Psychopath to Get A 6 Star Wanted Level in GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-19T13:13:02.961327+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Warren Spector: GTA 6 Should Be the Last of Its Kind",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-19T13:13:03.382261+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6's shockingly accurate Instagram memes make fun of Rockstar's delays and more",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-19T13:13:39.931091+00:00",
+   "card_title": "ГТА 6 СМЕШНЫЕ ИНСТАГРАМ МЕМЫ"
+  },
+  {
+   "title": "GTA 6 Is Out. The Future of Content Is World Models.",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-19T13:13:40.849417+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GameStop CEO slams 'code-in-a-box' games in the wake of GTA 6's discless release",
+   "source": "Eurogamer",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-19T13:13:41.959331+00:00",
+   "card_title": "GAMESTOP ПРОТИВ ДИГИТАЛЯ"
+  },
+  {
+   "title": "GTA 6 Is Out Today. Miami Already Sells Real-Life Vice City Tours",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-19T13:13:48.337571+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Из GTA 6 делают настоящий некст-ген с помощью ПК и DLSS",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-19T13:14:06.096487+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "'Xbox Remote Play Has Been Incredible' - GTA 6 Players Are Giving This Xbox Feature Its Flowers",
+   "source": "Pure Xbox",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-19T13:14:26.583372+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -5675,6 +5854,32 @@
   },
   {
    "item": {
+    "title": "GameStop CEO slams 'code-in-a-box' games in the wake of GTA 6's discless release",
+    "link": "https://www.eurogamer.net/gta-6-discless-release-code-in-a-box-gamestop-ceo",
+    "summary": "Ryan Cohen, CEO of GameStop - the self-proclaimed \"world's largest retail gaming and trade-in destination\" - is not happy with the emerging trend of games releasing without discs. Per the CEO, the industry's move away from physical games and towards a digital-only future is harmful to both consumers and businesses. Read more",
+    "published": "2026-11-19T13:03:30+00:00",
+    "source": "Eurogamer",
+    "site_name": "Eurogamer",
+    "trust": "high",
+    "text": "Ryan Cohen, CEO of GameStop - the self-proclaimed \"world's largest retail gaming and trade-in destination\" - is not happy with the emerging trend of games releasing without discs. Per the CEO, the industry's move away from physical games and towards a digital-only future is harmful to both consumers and businesses.\nIn an interview with Bloomberg, Cohen explained: \"When you buy a game, you should be able to sell it, trade it or lend it to a friend. Unquestionably, the decision to move to all digital has hurt consumers, and it’s also hurt GameStop.\"\nThese comments come in the wake of GTA 6's launch. The game, expected to be the biggest video game launch of all time, is not shipping on discs at all. Even if you purchase a physical copy of the game, what you will actually take home is a 'code in a box' - giving you a code you can redeem on your console of choice that entitles you to a digital version of the game. GTA 6 is not the first game to do this, but it is the most high-profile. Similarly to discs, codes are also region-locked (at least on the PS5), meaning that the proliferation of codes as a format isn't even helping make games more readily available in certain markets.\nCohen notes he's been in conversation with \"the obvious [publishers]\" but that he's had little sway on their plans. \"Of course they don’t like [trade-ins] because removing a used copy eliminates an alternative to buying new,\" he told Bloomberg. \"They're taking away competition.\"\nThough Cohen doesn't name GTA 6 specifically in the Bloomberg interview, it's clear that he's talking about Rockstar's megaton launch (he explicitly tweeted \"GTA. On a disc. In a case. On your shelf. Like if you still want a physical copy\" two days ago). The lack of trade-in potential is clearly harming his business; the Bloomberg article reveals pre-owned and refurbished products make up 22% of the GameStop's sales, down 32 percent from the same time a year ago.\nOf course, the proliferation of game-in-a-box products doesn't end with GTA 6. Sony plans to stop producing physical discs for new PlayStation games starting in January 2028, moving to a digital-only model despite pushback from consumers and certain developers and publishers. The outcry is doing little to influence Sony's decision, however.\nDisc or no disc, GTA 6 is expected to cross $2bn in its opening weekend, and at the moment that is looking like a conservative figure, too. It's estimated the game has sold well over 19.05m units at the time of writing. Despite the astronomical sales, though, employees at Rockstar are still worried about layoffs. Additionally, a tribunal between the studio and fired IWBG union members (who were fired for apparent breaches of their NDAs) just concluded, though the verdict may not arrive for many weeks or months.\nIf you need a hand with any of the myriad things GTA 6 asks you to do, you can read Eurogamer's Grand Theft Auto 6 walkthrough as well as a breakdown of Grand Theft Auto 6 cheats.",
+    "extra": {}
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "🎮 Коэн из GameStop не в восторге от GTA 6\n\nБосс GameStop жалуется, что «код в коробке» убивает вторичный рынок. Без диска нечего сдать, бизнес просел. Говорит, что это удар по игрокам и его компании. GTA 6 так же жёстко привязана к региону, как и диски.\n\n❤️ — Нормально, диски устарели\n👎 — Коэн прав, это обман",
+    "card_title": "GAMESTOP ПРОТИВ ДИГИТАЛЯ",
+    "reason": "Официальная реакция крупного ритейлера на формат релиза GTA 6, подтверждено интервью и твитом CEO.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "model": "groq:qwen/qwen3.8-27b"
+   },
+   "queued_at": "2026-11-19T13:13:41.959309+00:00"
+  },
+  {
+   "item": {
     "title": "Looking for free guns and body armor in GTA 6? Try the trunks of cop cars",
     "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-free-guns-cop-cars/",
     "summary": "Loot your local cruiser for longarms and even body armor.",
@@ -5698,6 +5903,32 @@
     "model": "groq:openai/gpt-oss-120b"
    },
    "queued_at": "2026-11-19T10:31:08.368859+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA 6's shockingly accurate Instagram memes make fun of Rockstar's delays and more",
+    "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6s-shockingly-accurate-instagram-memes-make-fun-of-rockstars-delays-and-more-as-doomscrolling-becomes-one-of-the-best-new-activities-in-the-game/",
+    "summary": "It's basically the first \"we got x before GTA 7\" meme",
+    "published": "2026-11-19T13:06:28+00:00",
+    "source": "GamesRadar+",
+    "site_name": "GamesRadar+",
+    "trust": "high",
+    "text": "GTA 6's fake Instagram shitposts, which include Rockstar Games clowning on how long the game took to release, are proving to be a highlight of the whole experience for many.\nGTA games are generally developed as a time capsule of what culture was like at the time, so while GTA 5 definitely had some social media influence in it, things have certainly changed in the time since that game was released 13 years ago.\nGTA 6 on the other hand goes all in, with takes on WhatsApp, Instagram, and a Shazam for cars called WAInk. On top of that, when you go to bed in-game, Jason doesn't go to sleep – he instead starts looking at the phone and scrolling aimlessly.\nBut since 2013, social media shitposting has become the norm, and GTA 6's version of Instagram is shockingly accurate. Real social media has been filled with screenshots of the posts found on Snapmatic, with Rockstar's famous attention to detail shining through.\nHighlights of my own playthrough have been an image of a Batman-esque hero holding down a villain with the caption \"me when I find the guy who shit my pants,\" a woman looking seductive with the caption \"how the emergency door latch looks at me on the plane,\" while real social media highlights abstract memes and a certified @mr.queef classic: a speedometer maxed out with \"me when I get a call that my wife is giving birth (I'm omw to the casino).\"\nHowever, Rockstar has also poked fun at itself through this meme onslaught, with its own take on the \"we got x before GTA 6 meme.\" One post shows a Paw Patrol-like game titled Barnyard Blue Hot Fursuit with the caption, \"Barnyard Blue video game before Race and Chase 7 is crazy.\" Another shows the different types of headaches, with a full head one captioned with \"Race and Chase 7 delayed another year.\"\nFunnily enough, Race'n'Chase was the original name for the game in development that would eventually become Grand Theft Auto. So basically, Rockstar made the first \"we got x before GTA 7\" joke.\nWeekly digests, tales from the communities you love, and more\nPlaying Rockstar's new game? Be sure to take a look at our GTA 6 guide. You can also look at our recommendations for the best controllers and headsets to play GTA 6 for the ultimate experience. Or, if you're not yet decided on it, you can read our GTA 6 review.\n4. Best pro Xbox: Nacon Revolution X Unlimited\nScott has been freelancing for over four years across a number of different gaming publications, first appearing on GamesRadar+ in 2024. He has also written for the likes of PC Gamer, Eurogamer, VG247, Play, TechRadar, and others. He's typically rambling about Metal Gear Solid, God Hand, or any other PS2-era titles that rarely (if ever) get sequels.\nYou must confirm your public display name before commenting\nPlease logout and then login again, you will then be prompted to enter your display name.\n1 Before her shock revival broke the internet, Scarlet Witch got a hidden shoutout in a VisionQuest Easter egg\n2 After Crimson Desert's Game Awards snub, Pearl Abyss wins a record-breaking 8 categories at the Korea Game Awards instead\n3 Hunger Games: Catching Fire deleted scene makes the Quarter Quell twist that much darker: \"The 'tradition' was always a lie designed to last forever\"\n4 GTA 6 fans are down bad for Mandy, who might actually be trying to kill them\n5 As digital-only GTA 6 smashes records, GameStop CEO says move from physical copies \"has hurt consumers\" as they \"should be able to sell\" or trade purchases",
+    "extra": {}
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "📸 GTA 6 шутит над соцсетями: мемы в Instagram реальны\n\nВ игре уже есть свои Instagram‑посты – от «мне когда…» до пародий на задержки Rockstar. Джейсон вместо сна листает телефон, а мемы точны до слёз. Готовы лайкнуть? 😆",
+    "card_title": "ГТА 6 СМЕШНЫЕ ИНСТАГРАМ МЕМЫ",
+    "reason": "Подтверждённый контент из игры, интересен фанатам",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "model": "groq:openai/gpt-oss-120b → groq:openai/gpt-oss-120b"
+   },
+   "queued_at": "2026-11-19T13:13:39.931078+00:00"
   }
  ],
  "posts": [
@@ -5713,7 +5944,7 @@
   "2026-11-19T11:12:45.746012+00:00",
   "2026-11-19T12:54:25.683092+00:00"
  ],
- "tg_offset": 387128961,
+ "tg_offset": 387128962,
  "channel": {
   "id": -1003986639147,
   "title": "GTA 6 | Горячие новости",
@@ -5744,6 +5975,7 @@
   "2026-11-18T20:08:19.941420+00:00",
   "2026-11-19T08:10:16.892026+00:00",
   "2026-11-19T10:36:27.143258+00:00",
-  "2026-11-19T12:20:24.350335+00:00"
+  "2026-11-19T12:20:24.350335+00:00",
+  "2026-11-19T14:03:11.859837+00:00"
  ]
 }
