@@ -588,7 +588,33 @@
   "76e1d577db9777e5": "2026-11-19T08:45:46.011822+00:00",
   "28899692b7a586aa": "2026-11-19T08:46:04.883659+00:00",
   "3ab1a936f2f9c621": "2026-11-19T08:46:18.337998+00:00",
-  "6c084ae313c44a1e": "2026-11-19T08:46:23.622048+00:00"
+  "6c084ae313c44a1e": "2026-11-19T08:46:23.622048+00:00",
+  "87f4dd69d0cca39c": "2026-11-19T10:30:43.856515+00:00",
+  "15e080ac1b80a256": "2026-11-19T10:30:43.856597+00:00",
+  "6cc32ebc05846145": "2026-11-19T10:30:43.856652+00:00",
+  "21af7fc65f187e7c": "2026-11-19T10:30:43.856712+00:00",
+  "31555f192345e73e": "2026-11-19T10:30:46.011015+00:00",
+  "4cc071814d712d41": "2026-11-19T10:30:47.334542+00:00",
+  "a02d04abf4af2a28": "2026-11-19T10:31:09.630058+00:00",
+  "b3d07141ea611c33": "2026-11-19T10:31:10.388461+00:00",
+  "353baf51a93daa88": "2026-11-19T10:31:27.749850+00:00",
+  "9523512e6b508736": "2026-11-19T10:31:45.655086+00:00",
+  "6602a1645b2c5b2a": "2026-11-19T10:31:47.675650+00:00",
+  "985fefebe5df2705": "2026-11-19T10:31:48.817089+00:00",
+  "3a26de6c05cc66fc": "2026-11-19T10:31:49.544614+00:00",
+  "7a7018e2176974d5": "2026-11-19T10:32:40.547971+00:00",
+  "8de4885a95c5cc9a": "2026-11-19T10:32:41.307393+00:00",
+  "5e037f4d7388d429": "2026-11-19T10:32:42.040393+00:00",
+  "bbdc8fa39b0519f1": "2026-11-19T10:33:32.948446+00:00",
+  "754b27486d95cb5f": "2026-11-19T10:33:33.628604+00:00",
+  "49db39171aa4e765": "2026-11-19T10:33:34.305618+00:00",
+  "bc96bccdb5e4432d": "2026-11-19T10:34:25.108774+00:00",
+  "0bc9a50d945583e2": "2026-11-19T10:34:25.797074+00:00",
+  "7c102d38387ec5b5": "2026-11-19T10:34:26.537160+00:00",
+  "9946d4749cf7f570": "2026-11-19T10:35:17.593493+00:00",
+  "376a1a879e8f63cf": "2026-11-19T10:35:18.447631+00:00",
+  "8721e721a2402222": "2026-11-19T10:35:19.407751+00:00",
+  "b827c53f7b557f8f": "2026-11-19T10:36:10.315818+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -1094,7 +1120,17 @@
   "d2df71d95dd46ede": "2026-11-19T08:45:46.011822+00:00",
   "a26dc0af6cd41dc2": "2026-11-19T08:46:04.883659+00:00",
   "311336fc0646b956": "2026-11-19T08:46:18.337998+00:00",
-  "1a0d90cef41bb246": "2026-11-19T08:46:23.622048+00:00"
+  "1a0d90cef41bb246": "2026-11-19T08:46:23.622048+00:00",
+  "c39a0c76cd4fb18b": "2026-11-19T10:30:43.856515+00:00",
+  "bbc12dac9d6fbd85": "2026-11-19T10:30:43.856597+00:00",
+  "f9c70ea7e18420da": "2026-11-19T10:30:43.856652+00:00",
+  "a783242df1937dd8": "2026-11-19T10:30:43.856712+00:00",
+  "96b10d12bbcce4cc": "2026-11-19T10:30:46.011015+00:00",
+  "bb438112f8b7ff1c": "2026-11-19T10:30:47.334542+00:00",
+  "8bfdf1009631eb05": "2026-11-19T10:31:09.630058+00:00",
+  "c6ff05c18f79b79c": "2026-11-19T10:31:10.388461+00:00",
+  "44c3148f64ace78c": "2026-11-19T10:31:27.749850+00:00",
+  "f613a286839ec291": "2026-11-19T10:31:45.655086+00:00"
  },
  "recent": [
   {
@@ -5224,35 +5260,89 @@
    "status": "skipped",
    "ts": "2026-11-19T08:46:23.622207+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GTA 6 Has Made Me a ‘Nice Guy’ For The First Time Since 1999",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-19T10:30:43.856561+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Why XBOX Has a Secret GTA VI Performance Advantage Over PS5",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-19T10:30:43.856628+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Ругать GTA VI – новая мода. Игроки устроили в сети скандал из-за падения FPS",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-19T10:30:43.856685+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Here's Why You Won't Get Any Websites in GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-19T10:30:43.856746+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Grand Theft Auto 6 released after 13-year wait for gamers around the world - follow live",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-19T10:30:46.011158+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Looking for free guns and body armor in GTA 6? Try the trunks of cop cars",
+   "source": "PC Gamer",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-19T10:31:08.368875+00:00",
+   "card_title": "ПОЛИЦЕЙСКИЕ БАГАЖНИКИ С ОРУЖИЕМ"
+  },
+  {
+   "title": "Refueling cars in GTA 6 is barely necessary, but there's much better reason to visit garages",
+   "source": "PC Gamer",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-19T10:31:09.630180+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Bank your cash in GTA 6, but always keep a few hundred on you—you never know when you'll need it",
+   "source": "PC Gamer",
+   "trust": "high",
+   "status": "published",
+   "ts": "2026-11-19T10:31:11.137313+00:00",
+   "card_title": "ГДЕ ХРАНИТЬ ДЕНЬГИ"
+  },
+  {
+   "title": "Как и ожидалось, GTA 6 окупилась до релиза: предзаказы принесли принесли $1,65 млрд",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-19T10:31:27.749993+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 scams are after your Google password, money, and crypto wallet",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-19T10:31:45.655223+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
-  {
-   "item": {
-    "title": "GTA 6's Japanese version only partially obscures male nudity by putting Jason in a thong, seemingly due to regional censorship",
-    "link": "https://www.eurogamer.net/gta-6-japanese-jason-thong-regional-censorship",
-    "summary": "GTA 6 is slowly rolling out across the globe. The crime epic's already available to play in countries such as South Korea and New Zealand , but Japanese players are finding out that male nudity is only partially obscured by a thin black thong that covers Jason and the other men in Leonida. Read more",
-    "published": "2026-11-18T20:40:20+00:00",
-    "source": "Eurogamer",
-    "site_name": "Eurogamer",
-    "trust": "high",
-    "text": "GTA 6 is slowly rolling out across the globe. The crime epic's already available to play in countries such as South Korea and New Zealand, but Japanese players are finding out that male nudity is only partially obscured by a thin black thong that covers Jason and the other men in Leonida.\nLast week, we reported that GTA 6 might have been censored in Japan since the region's age rating board lacked any mention of the \"sexual content\" we knew it would include elsewhere. The Japanese version's install size was also notably smaller than other places in the world.\nNow that GTA 6 is finally in the hands of players, we have a better idea of what was left out and/or covered up in Japan. Multiple social media accounts playing the game in Japan have reported that when you take main man Jason into the shower, his butt is only kinda covered up by a thong. At least in the version I played, Jason is usually fully naked while washing up.\nGTA 6 censorship on the Japanese version is kinda funny lol https://t.co/u8v0f0cqz0— Genki✨ (@Genki_JPN) November 18, 2026\nエロシーンきた！ #GTA6 #GTAVI https://t.co/RKOEtkONlJ— そら@鼻の治療中 (@SuperLegendsola) November 18, 2026\nAnother social media post spots a different male NPC wearing a very similar black thong during a cutscene that normally has him laid bare in international versions of the game. I'm guessing all instances of male nudity might be obscured similarly in GTA 6's Japanese version.\nGTA 6 is far from the only game that's dealt with regional censorship in Japan, however. Baldur's Gate 3 and The Witcher 3 had their most salacious scenes censored in some manner, for example. And even GTA 5 had to remove its infamous torture scene for approval in Japan. It's quite possible GTA 6 has had to cover more than just the backside of nude men to go on sale in the country, although those regional differences won't become entirely clear until players get further through the story.\nAhead of the game's full launch, GTA 6 managed to break Reddit and viewership records on platforms like YouTube and Twitch. Interesting tidbits are also flying out on release day, like the fact you can't replay missions or use cheats until finishing the story. Our Chris Tapsell still had a cracking time with the epic open worlder. \"A game of opposites and awe, minute detail and impossible scale, Rockstar pushes back the horizon of video games once again with GTA 6. An irreducible mix of silliness, intimacy, grand ideas and rock 'n' roll action - and a load more after that,\" he wrote in Eurogamer's GTA 6 review.",
-    "extra": {}
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "🇯🇵 Японская версия GTA 6 «заправила» мужскую наготу черным стринги‑тхоном\n\nВ Японии вместо полного ню в душевых у Джейсона и прочих парней теперь тонкий чёрный стринг. Забавно, но явно цензура от местных регуляторов. 🤷‍♂️\n\n❤️ — Окей, пусть хоть чуть‑чуть\n— Слишком банально",
-    "card_title": "ЯПОНСКАЯ ЦЕНЗУРА В GTA 6",
-    "reason": "Подтверждённый материал от Eurogamer, интересен из‑за региональных отличий",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "model": "groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-18T20:52:12.671383+00:00"
-  },
   {
    "item": {
     "title": "Rockstar Explains Why GTA 6 Has No Prostitutes In It, A Hallmark Of The Series Since 2001",
@@ -5307,6 +5397,32 @@
   },
   {
    "item": {
+    "title": "Looking for free guns and body armor in GTA 6? Try the trunks of cop cars",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-free-guns-cop-cars/",
+    "summary": "Loot your local cruiser for longarms and even body armor.",
+    "published": "2026-11-19T10:11:46+00:00",
+    "source": "PC Gamer",
+    "site_name": "PC Gamer",
+    "trust": "high",
+    "text": "Remember how stealing a cop car in the older GTA games used to get you a free shotgun? Well, turns out Vice City's police force is even better armed. If you need some extra guns quickly, particularly shotguns and assault rifles, filching them from the trunk of a police car is a great method, though obviously it comes with certain risks.\nYou might have realised, but stealing cars in GTA 6 is significantly more complicated than previous games, especially if they're alarmed. Thankfully, this doesn't apply to any police pickup trucks like the Bravado Bison the cops sometimes use, which you'll spot occasionally both in rural areas and in the city\nWith the police pickups, you can simply climb onto the bed at the back and open the storage crate, grabbing any weapons and ammo inside, including other potential items like Stun Guns, without setting off any alarms.\nFor proper police cruisers, though, their trunks are alarmed along with the doors, meaning you'll need a tool to deal with them, the slim jim, which you get during the \"Moses\" mission in Chapter 2. If you slim jim the door of the cop car and get inside, the trunk will unlock, so you can head around the back, interact to open it, and steal whatever's in the boot without tackling the alarm, whether it be an assault rifle, shotgun, or even body armor.\nIf you don't have the slim jim yet, you can still open the trunk (you'll see your character use a screwdriver) but the alarm will go off.\nOnce you've collected the weapons, you can interact with your own car trunk, and you'll see a prompt to stow the weapons inside. You'll be rather conspicuous wandering around with an assault rifle in your hands or strapped to your back, after all.\nObviously, it's best not to try and steal cop cars with cops in them, but you can find them around, or parked at police stations, such as in Port Gellhorn or Vice City.\nKeep up to date with the most important stories and the best deals, as picked by the PC Gamer team.\nMore generally, it's definitely worth looting random car trunks to see what you can find. Sometimes they contain cash, drugs, handguns, or consumables—just make sure to scan them with the Wainkit App first (which you're introduced to in Chapter 1) to tell if they're alarmed or not, and whether you can break in without the slim jim.\nGTA 6 guide: One-stop info shopGTA 6 cars: The garage lineupGTA 6 characters: Your anti-hero castGTA 6 map: Confirmed Vice City localesGTA 6 PC release: When's it going to happen?\nSean's first PC games were Full Throttle and Total Annihilation and his taste has stayed much the same since. When not scouring games for secrets or bashing his head against puzzles, you'll find him revisiting old Total War campaigns, agonizing over his Destiny 2 fit, or still trying to finish the Horus Heresy. Sean has also written for EDGE, Eurogamer, PCGamesN, Wireframe, EGMNOW, and Inverse.\nYou must confirm your public display name before commenting\nPlease logout and then login again, you will then be prompted to enter your display name.\n1 The best VPN for gaming in 2026: These privacy-protecting virtual networks keep your games lag-free\n2 Best gaming laptops 2026: We've reviewed the best gaming laptops of this generation and these are our favorites\n3 Best graphics cards in 2026: These are the GPUs worth spending money in right now\n4 Best gaming laptop 2026: I've tested the best laptops for gaming of this generation and here are the ones I recommend.\n5 Best handheld gaming PC in 2026: my recommendations for the best portable powerhouses.\n1 Ashes of the Singularity 2 review: Some neat ideas undermined by a rubbish campaign and obtrusive generative AI\n2 8BitDo Ultimate 3E wireless controller review",
+    "extra": {}
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "🔫 Похитить арсенал у копов в GTA 6\n\nКарабкаешь полицейский Бисон? В багажнике ты найдёшь дробовики, штурмовые винтовки и даже бронежилеты – без сигнализации. Для кроссоверов нужен slim‑jim (получаешь в миссии «Моисей»), иначе будешь слышать крики сирен. Так что, если нужен быстрый набор оружия, ищи полицейские тачки и лутай их багажники.\n\n❤️ — Буду тестировать в онлайн‑мире\n👎 — Слишком рискованно, лучше купить в магазине",
+    "card_title": "ПОЛИЦЕЙСКИЕ БАГАЖНИКИ С ОРУЖИЕМ",
+    "reason": "Подтвержденный гайд от PC Gamer, интересен игрокам, тип confirmed, важность 6",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "model": "groq:openai/gpt-oss-120b"
+   },
+   "queued_at": "2026-11-19T10:31:08.368859+00:00"
+  },
+  {
+   "item": {
     "title": "GTA 6 launches after 13-year wait, breaking pre-order records",
     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMDl4dC1UcXBldWFnR1hQM09PM3hYUnptcS10S3ozS0doUXVFLXlod0p2dkMwdmppUVRQb2ZfcU5PVGF0cmZmVjIxR25vNHQ1S3FtYnpQelZFYUR0cXBxc3hCQ1VKMWl5ZDVZODRGUEtzZ05XY2NmSWN1SEhGLW0yLWp4LW55MjV0S2dOVjgzTTBPejlESENvS2YwMWZlZGd2ODJ1MHVvOUJMMU9fb0phdlNR0gG3AUFVX3lxTE9rajFBSGJONHRBMkdZR0RvMmVVSnFya0dDWDVhRDdlX1pTVjJsWnhuM2Q5cUgzejdhSFhINFU4TGRrVTVYZzhBS1VkQzl1U3FzQ3FLWnVyNFExMDBZNzFXT3ZwdEVTY3JQclQxcE9jSHY1TGl1SEx3RWdicUpROVlTZi1HcFFqSEQzSXRZZ1dNbU5wajNoQzFaUjRPc3hrLXB4REFrenVaM1JPTVNOTU9YWjBrSDlzYw?oc=5",
     "summary": "GTA 6 launches after 13-year wait, breaking pre-order records Al Jazeera",
@@ -5340,9 +5456,11 @@
   "2026-11-18T16:08:18.621470+00:00",
   "2026-11-18T21:05:33.292788+00:00",
   "2026-11-19T04:59:12.764243+00:00",
-  "2026-11-19T07:54:18.583122+00:00"
+  "2026-11-19T07:54:18.583122+00:00",
+  "2026-11-19T10:42:21.111586+00:00",
+  "2026-11-19T11:12:45.746012+00:00"
  ],
- "tg_offset": 387128952,
+ "tg_offset": 387128958,
  "channel": {
   "id": -1003986639147,
   "title": "GTA 6 | Горячие новости",
@@ -5354,13 +5472,15 @@
   "2026-11-18T11:00:18.299138+00:00",
   "2026-11-18T16:00:26.651491+00:00",
   "2026-11-18T21:49:03.263053+00:00",
-  "2026-11-19T07:34:40.425350+00:00"
+  "2026-11-19T07:34:40.425350+00:00",
+  "2026-11-19T11:00:44.157212+00:00"
  ],
  "slots_sent": {
   "2026-11-18:утро": "2026-11-18T07:13:25.212391+00:00",
   "2026-11-18:обед": "2026-11-18T11:00:18.299237+00:00",
   "2026-11-18:вечер": "2026-11-18T16:00:26.651580+00:00",
-  "2026-11-19:утро": "2026-11-19T07:34:40.425437+00:00"
+  "2026-11-19:утро": "2026-11-19T07:34:40.425437+00:00",
+  "2026-11-19:обед": "2026-11-19T11:00:44.157385+00:00"
  },
  "urgent": [
   "2026-11-18T05:00:10.556622+00:00",
@@ -5369,6 +5489,7 @@
  "clips": [],
  "clip_drafts": [
   "2026-11-18T20:08:19.941420+00:00",
-  "2026-11-19T08:10:16.892026+00:00"
+  "2026-11-19T08:10:16.892026+00:00",
+  "2026-11-19T10:36:27.143258+00:00"
  ]
 }
