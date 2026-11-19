@@ -40,6 +40,8 @@ class Clip:
     created: str       # ISO UTC
     lang: str = ""
     description: str = ""
+    vod_id: str = ""       # Twitch: запись стрима, из которой нарезан клип
+    vod_offset: float = -1 # Twitch: секунда в этой записи (у нарезок одного момента почти одинаковая)
 
     @property
     def key(self) -> str:
@@ -88,7 +90,9 @@ def fetch_twitch(http: Http, cfg: dict) -> list[Clip]:
     data = http.get("https://api.twitch.tv/helix/clips", params=params, headers=h).json().get("data", [])
     langs = set(c.get("languages") or [])
     out = [Clip("twitch", x["url"], x["title"], x["broadcaster_name"], int(x["view_count"]),
-                float(x["duration"]), _parse_time(x["created_at"]), x.get("language", ""))
+                float(x["duration"]), _parse_time(x["created_at"]), x.get("language", ""),
+                vod_id=str(x.get("video_id") or ""),
+                vod_offset=float(x["vod_offset"]) if x.get("vod_offset") is not None else -1)
            for x in data if not langs or x.get("language") in langs]
     return [x for x in out if x.views >= int(c.get("min_views", 0))]
 
@@ -145,14 +149,44 @@ def collect(http: Http, cfg: dict, state: State) -> list[Clip]:
         except Exception as e:
             log(f"⚠️  {name}: {e}")
     c = cfg["clips"]
-    busy = {q["clip"]["author"] for q in state.clips}  # у этого автора клип уже ждёт решения
-    fresh = [x for x in found if x.key not in state.seen and x.duration <= float(c["max_duration"])
-             and x.author not in busy]
+    fresh = [x for x in found if x.key not in state.seen and x.duration <= float(c["max_duration"])]
     fresh.sort(key=lambda x: x.heat(), reverse=True)
-    best: dict[str, Clip] = {}
+    picked: list[Clip] = []
+    skipped = 0
     for x in fresh:
-        best.setdefault(f"{x.source}:{x.author}", x)
-    return sorted(best.values(), key=lambda x: x.heat(), reverse=True)
+        why = repeat_reason(x, state.clip_history + [_history_entry(p) for p in picked], cfg)
+        if why:
+            skipped += 1
+            continue
+        picked.append(x)
+    if skipped:
+        log(f"🎥 отброшено повторов (тот же момент / тот же стример / похожее название): {skipped}")
+    return picked
+
+
+def _history_entry(clip: Clip, drafted: bool = True) -> dict:
+    return {"author": f"{clip.source}:{clip.author.lower()}", "vod": clip.vod_id, "offset": clip.vod_offset,
+            "title": clip.title, "drafted": drafted, "ts": utcnow().isoformat()}
+
+
+def repeat_reason(clip: Clip, history: list[dict], cfg: dict) -> str:
+    """Это повтор? Один момент стрима нарезают десятки зрителей (10 с, 30 с, минута) — берём один раз."""
+    from .dedupe import similarity
+
+    c = cfg["clips"]
+    author = f"{clip.source}:{clip.author.lower()}"
+    cooldown = (utcnow() - timedelta(hours=float(c.get("author_cooldown_hours", 12)))).isoformat()
+    window = float(c.get("moment_window_seconds", 180))
+    for h in history:
+        if h["author"] == author and h.get("drafted") and h["ts"] >= cooldown:
+            return "этот стример уже был недавно"
+        if clip.vod_id and h.get("vod") == clip.vod_id and clip.vod_offset >= 0 and h.get("offset", -1) >= 0                 and abs(clip.vod_offset - h["offset"]) <= window:
+            return "тот же момент стрима"
+        if h["author"] == author and similarity(clip.title, h["title"]) >= 0.6:
+            return "похожее название у того же автора"
+        if similarity(clip.title, h["title"]) >= 0.85 and len(clip.title) > 15:
+            return "почти то же название"
+    return ""
 
 
 # ---------- 3. скачать ----------
@@ -258,6 +292,7 @@ def prepare(clip: Clip, llm: LLM, cfg: dict, state: State, folder: Path) -> dict
     """Скачать и подписать один клип. None — не подошёл (скучно, не про GTA 6, не скачался)."""
     c = cfg["clips"]
     state.seen[clip.key] = utcnow().isoformat()  # второй раз не смотрим, что бы ни решили
+    state.clip_history.append(_history_entry(clip, drafted=False))  # и этот момент тоже больше не берём
     log(f"🎬 [{clip.source}] {clip.author}: «{clip.title[:70]}» ({clip.views} просм., {clip.duration:.0f} с)")
     got = download(clip, folder, float(c["max_file_mb"]))
     if not got:
@@ -275,6 +310,9 @@ def prepare(clip: Clip, llm: LLM, cfg: dict, state: State, folder: Path) -> dict
         f"{', спойлер' if data['spoiler'] else ''}{', 18+' if data['nsfw'] else ''} [{model}"
         f"{'' if watched else ', видео не смотрела'}]: {data['reason'][:100]}")
     if not data["about_gta6"] or data["interest"] < int(c["min_interest"]):
+        return None
+    if c.get("require_watched", True) and not watched:
+        log("   ⏭  нейросеть не смогла посмотреть видео — без этого не шлём (require_watched)")
         return None
     return {"clip": clip.to_dict(), "caption": data["caption"], "interest": data["interest"],
             "spoiler": bool(data["spoiler"]), "nsfw": bool(data["nsfw"]), "watched": watched,
@@ -327,6 +365,7 @@ def send_draft(http: Http, state: State, cfg: dict, q: dict) -> bool:
     q["file_id"], q["moderation"], q["draft_msg_id"] = _file_id(msg), "pending", msg["message_id"]
     state.clips.append(q)
     state.clip_drafts.append(utcnow().isoformat())
+    state.clip_history.append(_history_entry(clip, drafted=True))  # автора — на перерыв
     log(f"📝 видео тебе в личку: «{clip.title[:70]}» ({q['interest']}/10)")
     return True
 
@@ -340,6 +379,9 @@ def send_drafts(http: Http, state: State, cfg: dict, llm: LLM | None, pool: list
         return
     with tempfile.TemporaryDirectory() as tmp:
         for _ in range(int(cfg["clips"].get("tries_per_draft", 3))):
+            # пока клип лежал в списке, мог уйти черновик того же стримера/момента — проверяем заново
+            while pool and repeat_reason(pool[0], state.clip_history, cfg):
+                pool.pop(0)
             if not pool:
                 return
             q = prepare(pool.pop(0), llm, cfg, state, Path(tmp))

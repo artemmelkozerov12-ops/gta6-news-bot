@@ -70,105 +70,117 @@ def run() -> int:
     http = Http(cfg)
     decisions: list[dict] = []  # для отчёта в dry-run
 
-    # 1. Сбор
-    items, report = fetch_all(cfg, http)
-    ok_sources = sum(1 for r in report if r["status"] == "ok")
-    log(f"Источники: {ok_sources} ok из {len(report)}, записей всего: {len(items)}")
-    relevant = keyword_filter(items, cfg["keywords"], cfg.get("keywords_title_only", False))
-    fresh, old = fresh_only(relevant, cfg["limits"]["max_item_age_hours"])
-    new = [i for i in fresh if not i.link or not state.is_seen(i)]
-    log(f"Про GTA 6: {len(relevant)} | свежих (≤{cfg['limits']['max_item_age_hours']:g} ч): {len(fresh)} | новых: {len(new)}")
+    gemini = None
+    try:
+        gemini = LLM(cfg)
+    except Exception as e:
+        log(f"❌ LLM не настроен: {e}")
+    processed = 0
+    report: list = []
 
-    # 2. Дубли внутри пачки (одна и та же новость с разных сайтов)
-    kept, dropped = dedupe_batch(new, thr)
-    for it, twin in dropped:
-        log(f"⏭  дубль в пачке: «{short(it.title)}» ({it.source}) ≈ «{short(twin.title, 50)}» ({twin.source})")
-        state.mark_seen(it)
-        state.remember(it, "dup")
+    def ingest() -> None:
+        """Шаги 1–4: собрать новости, убрать дубли, разобрать нейросетью → очередь.
+        Вызывается в начале запуска и потом каждые moderation.refresh_minutes, пока бот слушает кнопки."""
+        nonlocal processed, report
+        # 1. Сбор
+        items, report = fetch_all(cfg, http)
+        ok_sources = sum(1 for r in report if r["status"] == "ok")
+        log(f"Источники: {ok_sources} ok из {len(report)}, записей всего: {len(items)}")
+        relevant = keyword_filter(items, cfg["keywords"], cfg.get("keywords_title_only", False))
+        fresh, old = fresh_only(relevant, cfg["limits"]["max_item_age_hours"])
+        new = [i for i in fresh if not i.link or not state.is_seen(i)]
+        log(f"Про GTA 6: {len(relevant)} | свежих (≤{cfg['limits']['max_item_age_hours']:g} ч): {len(fresh)} | новых: {len(new)}")
 
-    # 3. Уже было в канале за 48 ч?
-    candidates: list[Item] = []
-    for it in kept:
-        twin = state.similar_published(it, thr)
-        if twin:
-            log(f"⏭  уже было: «{short(it.title)}» ≈ «{short(twin['title'], 50)}»")
+        # 2. Дубли внутри пачки (одна и та же новость с разных сайтов)
+        kept, dropped = dedupe_batch(new, thr)
+        for it, twin in dropped:
+            log(f"⏭  дубль в пачке: «{short(it.title)}» ({it.source}) ≈ «{short(twin.title, 50)}» ({twin.source})")
             state.mark_seen(it)
             state.remember(it, "dup")
-            continue
-        candidates.append(it)
-    candidates.sort(key=lambda i: i.published, reverse=True)  # сначала самые свежие
 
-    # 4. Нейросеть
-    processed = 0
-    gemini = None
-    if candidates or cfg.get("clips", {}).get("enabled"):
-        try:
-            gemini = LLM(cfg)
-        except Exception as e:
-            log(f"❌ LLM не настроен: {e}")
-        for idx, it in enumerate(candidates):
-            if gemini is None:
-                break
-            if processed >= max_calls:
-                log(f"⏸  ещё {len(candidates) - idx} новостей отложено до следующего запуска (лимит {max_calls} на запуск)")
-                break
-            log(f"🔎 [{it.trust}] {it.source}: «{short(it.title, 100)}»")
-            it.text = fetch_article_text(http, it, cfg["llm"]["article_max_chars"])
-            try:
-                v = gemini.analyze(it, state.recent, cfg["llm"]["recent_titles_in_prompt"])
-            except LLMQuotaExhausted as e:
-                log(f"⛔ {e}. Остальное разберём в следующий запуск.")
-                break
-            except LLMBadAnswer as e:
-                processed += 1
-                log(f"   ⏭  кривой ответ нейросети ({e}) — пропуск")
+        # 3. Уже было в канале за 48 ч?
+        candidates: list[Item] = []
+        for it in kept:
+            twin = state.similar_published(it, thr)
+            if twin:
+                log(f"⏭  уже было: «{short(it.title)}» ≈ «{short(twin['title'], 50)}»")
                 state.mark_seen(it)
-                state.remember(it, "error")
+                state.remember(it, "dup")
                 continue
-            except Exception as e:
+            candidates.append(it)
+        # Сначала надёжные источники (official/high/medium), внутри — самые свежие; rumor (Google News) — в конце:
+        # им всё равно нужно второе подтверждение, а лимиты нейросети не бесконечные.
+        candidates.sort(key=lambda i: (i.trust == "rumor", -datetime.fromisoformat(i.published).timestamp()))
+
+        # 4. Нейросеть
+        start = processed
+        if candidates:
+            for idx, it in enumerate(candidates):
+                if gemini is None:
+                    break
+                if processed - start >= max_calls:
+                    log(f"⏸  ещё {len(candidates) - idx} новостей отложено до следующего сбора (лимит {max_calls} за раз)")
+                    break
+                log(f"🔎 [{it.trust}] {it.source}: «{short(it.title, 100)}»")
+                it.text = fetch_article_text(http, it, cfg["llm"]["article_max_chars"])
+                try:
+                    v = gemini.analyze(it, state.recent, cfg["llm"]["recent_titles_in_prompt"])
+                except LLMQuotaExhausted as e:
+                    log(f"⛔ {e}. Остальное разберём в следующий запуск.")
+                    break
+                except LLMBadAnswer as e:
+                    processed += 1
+                    log(f"   ⏭  кривой ответ нейросети ({e}) — пропуск")
+                    state.mark_seen(it)
+                    state.remember(it, "error")
+                    continue
+                except Exception as e:
+                    processed += 1
+                    log(f"   ⚠️  ошибка нейросети: {type(e).__name__}: {e}")
+                    state.mark_seen(it)
+                    state.remember(it, "error")
+                    continue
                 processed += 1
-                log(f"   ⚠️  ошибка нейросети: {type(e).__name__}: {e}")
+                shown = state.recent[-cfg["llm"]["recent_titles_in_prompt"]:]
+                check_llm_flags(v, it, shown)
+                corr = state.corroborating(it, thr) is not None
+                ok, why = decide(it, v, cfg, corr)
                 state.mark_seen(it)
-                state.remember(it, "error")
-                continue
-            processed += 1
-            shown = state.recent[-cfg["llm"]["recent_titles_in_prompt"]:]
-            check_llm_flags(v, it, shown)
-            corr = state.corroborating(it, thr) is not None
-            ok, why = decide(it, v, cfg, corr)
-            state.mark_seen(it)
-            log(f"   → {v.type}, важность {v.importance} [{v.model}]: {short(v.reason, 120)}")
-            if v.duplicate:
-                log(f"   дубль чего: «{short(v.duplicate_of, 90)}»")
-            if ok:
-                # Отдельная проверка «то же событие уже опубликовано/в очереди?» (узкий вопрос — надёжнее)
-                published = [r["title"] for r in state.recent if r["status"] in ("published", "queued")]
-                same = gemini.same_event(it, published[-30:])
-                if same:
-                    ok, why = False, f"дубль: «{short(published[-30:][same[0]], 70)}» ({short(same[1], 60)})"
-            if ok:
-                # Шаг 2: финальный текст умной моделью (если есть квота)
-                final = gemini.rewrite(it, state.recent, cfg["llm"]["recent_titles_in_prompt"])
-                if final is None:
-                    log("   ✍️  финальный текст: квоты нет, оставляю черновик шага 1")
-                elif final.type in ("leak", "skip"):  # умная модель строже — верим ей
-                    ok, why = False, f"writer-модель: type={final.type} ({short(final.reason, 80)})"
-                elif v.type == "rumor" and final.type == "confirmed":
-                    log(f"   ✍️  writer считает это подтверждённым, но оставляю «слух» и черновик (осторожность)")
+                log(f"   → {v.type}, важность {v.importance} [{v.model}]: {short(v.reason, 120)}")
+                if v.duplicate:
+                    log(f"   дубль чего: «{short(v.duplicate_of, 90)}»")
+                if ok:
+                    # Отдельная проверка «то же событие уже опубликовано/в очереди?» (узкий вопрос — надёжнее)
+                    published = [r["title"] for r in state.recent if r["status"] in ("published", "queued")]
+                    same = gemini.same_event(it, published[-30:])
+                    if same:
+                        ok, why = False, f"дубль: «{short(published[-30:][same[0]], 70)}» ({short(same[1], 60)})"
+                if ok:
+                    # Шаг 2: финальный текст умной моделью (если есть квота)
+                    final = gemini.rewrite(it, state.recent, cfg["llm"]["recent_titles_in_prompt"])
+                    if final is None:
+                        log("   ✍️  финальный текст: квоты нет, оставляю черновик шага 1")
+                    elif final.type in ("leak", "skip"):  # умная модель строже — верим ей
+                        ok, why = False, f"writer-модель: type={final.type} ({short(final.reason, 80)})"
+                    elif v.type == "rumor" and final.type == "confirmed":
+                        log(f"   ✍️  writer считает это подтверждённым, но оставляю «слух» и черновик (осторожность)")
+                    else:
+                        if final.type == "rumor" and v.type == "confirmed":  # writer видит слух — помечаем строже
+                            v.type, v.importance = "rumor", final.importance
+                            ok, why = decide(it, v, cfg, corr)
+                        v.post, v.card_title, v.model = final.post, final.card_title, f"{v.model} → {final.model}"
+                        log(f"   ✍️  финальный текст: {final.model}")
+                if ok:
+                    state.queue.append({"item": it.to_dict(), "verdict": v.to_dict(), "queued_at": utcnow().isoformat()})
+                    state.remember(it, "queued", v.card_title)
+                    log(f"   ✅ в очередь ({why})")
                 else:
-                    if final.type == "rumor" and v.type == "confirmed":  # writer видит слух — помечаем строже
-                        v.type, v.importance = "rumor", final.importance
-                        ok, why = decide(it, v, cfg, corr)
-                    v.post, v.card_title, v.model = final.post, final.card_title, f"{v.model} → {final.model}"
-                    log(f"   ✍️  финальный текст: {final.model}")
-            if ok:
-                state.queue.append({"item": it.to_dict(), "verdict": v.to_dict(), "queued_at": utcnow().isoformat()})
-                state.remember(it, "queued", v.card_title)
-                log(f"   ✅ в очередь ({why})")
-            else:
-                state.remember(it, "skipped")
-                log(f"   ⏭  пропуск: {why}")
-            decisions.append({"item": it, "verdict": v, "ok": ok, "why": why})
+                    state.remember(it, "skipped")
+                    log(f"   ⏭  пропуск: {why}")
+                decisions.append({"item": it, "verdict": v, "ok": ok, "why": why})
+
+    ingest()
+    last_ingest = time.monotonic()
 
     # 5. Очередь: выкинуть протухшее, отсортировать
     moderated = moderation.enabled(cfg)
@@ -206,11 +218,20 @@ def run() -> int:
     listen = float(os.getenv("LISTEN_MINUTES") or cfg["moderation"].get("listen_minutes", 0))
     deadline = time.monotonic() + listen * 60
     posted, wait = 0, 0
+    refresh = float(cfg["moderation"].get("refresh_minutes", 15))
     if listen:
         log(f"👂 слушаю кнопки {listen:g} мин")
     while True:
         for q in moderation.poll_updates(http, state, wait=wait):
             set_recent_status(state, q["item"]["title"], "rejected")
+        if time.monotonic() - last_ingest >= refresh * 60 and deadline - time.monotonic() > 120:
+            log("🔄 пересобираю новости и клипы")
+            ingest()
+            expire_queue(state, cfg, http)
+            last_ingest = time.monotonic()
+            if cfg.get("clips", {}).get("enabled"):
+                clips.expire(http, state, cfg)
+                pool = clips.collect(http, cfg, state)
         moderation.send_drafts(http, state, cfg)
         clips.send_drafts(http, state, cfg, gemini, pool)
         posted += publish_ready(http, state, cfg, moderated=True)

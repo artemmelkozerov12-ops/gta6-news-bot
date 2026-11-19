@@ -227,7 +227,22 @@ def send_drafts(http: Http, state: State, cfg: dict) -> None:
                 state.urgent.append(utcnow().isoformat())
                 waiting.remove(q)
 
-    # 2) слот расписания
+    # 2) по ритму: одна лучшая свежая новость раз в every_minutes (в часы hours)
+    sched = m.get("schedule")
+    if sched:
+        start, end = sched["hours"]
+        if not start <= _local_now(cfg).hour < end:
+            return
+        last = max(state.drafts) if state.drafts else ""
+        if last and utcnow() - datetime.fromisoformat(last) < timedelta(minutes=float(sched["every_minutes"])):
+            return
+        best = [q for q in waiting if _fresh(q, float(m.get("max_age_hours", 8)))
+                and q["verdict"]["importance"] >= int(m.get("min_importance", 7))]
+        if best:
+            _send(http, state, cfg, min(best, key=_rank), "📰 <b>Новость</b>")
+        return
+
+    # 2) слот расписания (старый режим, если schedule не задан)
     slot = current_slot(cfg)
     if not slot:
         return
