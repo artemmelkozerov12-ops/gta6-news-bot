@@ -614,7 +614,43 @@
   "9946d4749cf7f570": "2026-11-19T10:35:17.593493+00:00",
   "376a1a879e8f63cf": "2026-11-19T10:35:18.447631+00:00",
   "8721e721a2402222": "2026-11-19T10:35:19.407751+00:00",
-  "b827c53f7b557f8f": "2026-11-19T10:36:10.315818+00:00"
+  "b827c53f7b557f8f": "2026-11-19T10:36:10.315818+00:00",
+  "5fc3aeccb9d4a007": "2026-11-19T12:15:18.615701+00:00",
+  "55ecc70781323c24": "2026-11-19T12:15:18.615759+00:00",
+  "24f1a0e6e7d7fbe4": "2026-11-19T12:15:18.615804+00:00",
+  "5574b6cca36342ee": "2026-11-19T12:15:18.615832+00:00",
+  "5b8a12e70b44a50b": "2026-11-19T12:15:18.615859+00:00",
+  "f59c1b1afb80c4a5": "2026-11-19T12:15:18.615886+00:00",
+  "d443df1aeea32e4e": "2026-11-19T12:15:18.615915+00:00",
+  "c7a180d6c328ebd1": "2026-11-19T12:15:18.615950+00:00",
+  "548cca5099c3007b": "2026-11-19T12:15:18.615982+00:00",
+  "1775ee8808191d4c": "2026-11-19T12:15:18.616009+00:00",
+  "4d32691ec4cd0513": "2026-11-19T12:15:18.616037+00:00",
+  "6e070256f2f19a49": "2026-11-19T12:15:18.616065+00:00",
+  "164fd17de8d8dda9": "2026-11-19T12:15:18.616090+00:00",
+  "fe142dd8b8b08191": "2026-11-19T12:15:18.616120+00:00",
+  "cd9daca146de150b": "2026-11-19T12:15:18.616148+00:00",
+  "9f98cb47ae24bc5c": "2026-11-19T12:15:18.616174+00:00",
+  "afed26baa59e6adf": "2026-11-19T12:15:18.616198+00:00",
+  "04932396f01a7209": "2026-11-19T12:15:18.616223+00:00",
+  "0a7a6c6ad5d3b559": "2026-11-19T12:15:18.616247+00:00",
+  "d926e402d477da13": "2026-11-19T12:15:18.616272+00:00",
+  "2a9812e6b9cc10b0": "2026-11-19T12:15:18.885782+00:00",
+  "94512b2287624b3b": "2026-11-19T12:15:20.129549+00:00",
+  "3afb6fdd75f96b3c": "2026-11-19T12:15:21.213237+00:00",
+  "f3dbfa1d7d77ddd7": "2026-11-19T12:15:59.482745+00:00",
+  "5e43e9f5824155b0": "2026-11-19T12:16:00.862096+00:00",
+  "55aa5b3d43114e19": "2026-11-19T12:16:01.673640+00:00",
+  "d0b21a686ead7801": "2026-11-19T12:16:03.058349+00:00",
+  "f0f113f2455e2da1": "2026-11-19T12:16:55.885878+00:00",
+  "95e231b996b7d7df": "2026-11-19T12:16:56.849956+00:00",
+  "f7cc0e15b0e25906": "2026-11-19T12:16:57.614332+00:00",
+  "db9791ebdb192a46": "2026-11-19T12:17:48.612200+00:00",
+  "9dc5feaa09caf8b9": "2026-11-19T12:17:49.410880+00:00",
+  "25ec520df5d014be": "2026-11-19T12:17:50.463022+00:00",
+  "12ce0365869a0d51": "2026-11-19T12:18:41.418039+00:00",
+  "57328b120dba8158": "2026-11-19T12:18:42.373685+00:00",
+  "0ad4bb6243a15e98": "2026-11-19T12:18:43.134244+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -1130,7 +1166,33 @@
   "8bfdf1009631eb05": "2026-11-19T10:31:09.630058+00:00",
   "c6ff05c18f79b79c": "2026-11-19T10:31:10.388461+00:00",
   "44c3148f64ace78c": "2026-11-19T10:31:27.749850+00:00",
-  "f613a286839ec291": "2026-11-19T10:31:45.655086+00:00"
+  "f613a286839ec291": "2026-11-19T10:31:45.655086+00:00",
+  "f75476bf1f46a3ee": "2026-11-19T12:15:18.615701+00:00",
+  "856569a1e54e47d8": "2026-11-19T12:15:18.615759+00:00",
+  "93c0b6c34ac489b7": "2026-11-19T12:15:18.616247+00:00",
+  "72f3029c6592f4ac": "2026-11-19T12:15:18.615832+00:00",
+  "97f4f3268781cb23": "2026-11-19T12:15:18.615859+00:00",
+  "5e4858fd2f021c8b": "2026-11-19T12:15:18.615886+00:00",
+  "1b4d29ae6e00249d": "2026-11-19T12:15:18.615915+00:00",
+  "32452eacccefd996": "2026-11-19T12:15:18.615950+00:00",
+  "066771933818a196": "2026-11-19T12:15:18.615982+00:00",
+  "44b42fa330f2da46": "2026-11-19T12:15:18.616009+00:00",
+  "d2ff745735ec255a": "2026-11-19T12:15:18.616037+00:00",
+  "f3c542a0cd4c996a": "2026-11-19T12:15:18.616065+00:00",
+  "261706971c3206df": "2026-11-19T12:15:18.616090+00:00",
+  "b098510a2fc21455": "2026-11-19T12:15:18.616120+00:00",
+  "58dad04a125bb572": "2026-11-19T12:15:18.616148+00:00",
+  "d9f05800c999ab73": "2026-11-19T12:15:18.616174+00:00",
+  "33b68c52ec5f943d": "2026-11-19T12:15:18.616198+00:00",
+  "5800a9ec299bd6bc": "2026-11-19T12:15:18.616223+00:00",
+  "143e08052351d144": "2026-11-19T12:15:18.616272+00:00",
+  "5f0386e4bb50649a": "2026-11-19T12:15:18.885782+00:00",
+  "5c00a2fc26e58063": "2026-11-19T12:15:20.129549+00:00",
+  "61d1c5307be794cc": "2026-11-19T12:15:21.213237+00:00",
+  "eee1a955f730bbc4": "2026-11-19T12:15:59.482745+00:00",
+  "8deb87ce7401f77a": "2026-11-19T12:16:00.862096+00:00",
+  "c51fb1a3ce7b5ebe": "2026-11-19T12:16:01.673640+00:00",
+  "5e4429fb5a395194": "2026-11-19T12:16:03.058349+00:00"
  },
  "recent": [
   {
@@ -5340,34 +5402,250 @@
    "status": "skipped",
    "ts": "2026-11-19T10:31:45.655223+00:00",
    "card_title": ""
+  },
+  {
+   "title": "How to change your criminal profile in GTA 6",
+   "source": "Polygon",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-19T12:15:18.615737+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to keep stolen cars and weapons in GTA 6",
+   "source": "Polygon",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-19T12:15:18.615788+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "The best ways to make money fast in GTA 6",
+   "source": "Polygon",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-19T12:15:18.615819+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to fix the railing in GTA 6",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-19T12:15:18.615846+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to Make Money Fast and Early in GTA 6",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "dup",
+   "ts": "2026-11-19T12:15:18.615872+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "What to Do at Jason's Safehouse in GTA 6",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "dup",
+   "ts": "2026-11-19T12:15:18.615899+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GameStop CEO Blasts All-Digital Releases as GTA 6 Arrives Without a Disc",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-19T12:15:18.615935+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Is Finally Here, So Come Watch Us Make Terrible Decisions In Vice City",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-19T12:15:18.615967+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Does GTA 6 Have A First-Person Mode?",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-19T12:15:18.615995+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "'GTA 6': How to save your game",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-19T12:15:18.616023+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GameStop CEO Criticizes Digital-Only Games As GTA 6 Releases Without A Disc",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-19T12:15:18.616051+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to fix cars in GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-19T12:15:18.616077+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GameStop CEO Says Digital-Only Games Have ‘Hurt Consumers’ as GTA 6 Skips Discs",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-19T12:15:18.616106+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "All GTA 6 Smartphone Apps And What They Do",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-19T12:15:18.616133+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "В Поиске Яндекса появилась мини-игра по мотивам GTA 6",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-19T12:15:18.616161+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to save in GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-19T12:15:18.616185+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to change between Jason and Lucia in GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-19T12:15:18.616210+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "What to do first in GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-19T12:15:18.616233+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "The best ways to make money fast in GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-19T12:15:18.616258+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6's Prologue Can Go Way More Differently Than You Might Think",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-19T12:15:18.616285+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "System Shock Producer Warren Spector Hopes \"GTA 6 Is the Last of Its Kind\"",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-19T12:15:18.885852+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Rockstar Just Spent 13 Years on GTA VI. How Founders Can Channel That Patience Into Bigger Payoffs",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-19T12:15:20.129656+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 launch week revenue predicted to top the biggest movies from Star Wars, Harry Potter, and LOTR",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-19T12:15:58.197091+00:00",
+   "card_title": "ГТА 6 ПРЕВОЗХОДИТ БЛОКБАСТЕРЫ"
+  },
+  {
+   "title": "GTA 6 launch updates: Patch sizes, versions and release dates",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-19T12:15:59.482867+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 is finally here and we are playing. Here's our first impressions",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-19T12:16:00.862219+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI release spurs surge in PTO requests",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-19T12:16:01.673762+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to pet animals in GTA 6",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-19T12:16:03.058453+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
   {
    "item": {
-    "title": "Rockstar Explains Why GTA 6 Has No Prostitutes In It, A Hallmark Of The Series Since 2001",
-    "link": "https://kotaku.com/rockstar-explains-why-gta-6-has-no-prostitutes-in-it-a-hallmark-of-the-series-since-2001-2000758174",
-    "summary": "Rockstar says it only included features in the game that complimented its story of 'lovers on the run'",
-    "published": "2026-11-18T22:30:39+00:00",
-    "source": "Kotaku",
-    "site_name": "Kotaku",
+    "title": "GTA 6 launch week revenue predicted to top the biggest movies from Star Wars, Harry Potter, and LOTR",
+    "link": "https://www.gamesradar.com/games/grand-theft-auto/as-gta-6-finally-releases-borderlands-4-boss-reminds-everyone-that-rockstars-launch-week-revenue-is-predicted-to-top-the-biggest-star-wars-lord-of-the-rings-and-harry-potter-movies-combined/",
+    "summary": "And it seems like a pretty good bet after becoming the most pre-ordered game on Sony and Microsoft's digital stores",
+    "published": "2026-11-19T12:09:57+00:00",
+    "source": "GamesRadar+",
+    "site_name": "GamesRadar+",
     "trust": "high",
-    "text": "Grand Theft Auto 6 is a very big game and includes almost every feature seen in a past GTA game, including the ability to drive tanks, customize cars with turbo, and rob stores. However, one feature that isn’t included in GTA 6 is the ability to hire a sex worker off the street, something players have been doing since 2001.\nIn my over 150 hours playing GTA 6, which is a very good game in case you didn’t hear already, I never encountered a sex worker on the streets of Vice City. To be honest, I never really sought out prostitutes, as I was roleplaying Jason and Lucia as a loving couple who cared about each other deeply. But yeah, when I did look around for sex workers walking the street, I didn’t spot any. And that’s because Rockstar Games didn’t include them in GTA 6.\nIn an interview with Shack News, Rockstar said that it only included features that felt necessary and complementary to Jason and Lucia’s criminal tale.\n“GTA VI is a game about a couple in a bind, lovers on the run,” said Rockstar. “While we have taken a lot forward from previous GTA titles, everything we have implemented in VI has been done to support the spirit of the story we wanted to tell, and the gameplay systems we wanted to expand upon—things like the wanted system, the radio, robberies, and car theft. Many aspects of previous titles are not present in GTA VI, but the elements we have we believe are all necessary and complementary to the feeling and motivations we wanted to emphasize as you play through Jason and Lucia’s story.”\nThe first Grand Theft Auto game to include prostitutes that players could hire was GTA 3, released in 2001. Since then, every mainline GTA game has included sex workers that players can pay for services. However, GTA 6 is breaking that 25-year trend, and honestly, I didn’t even notice until someone else pointed it out online. Turns out, the ability to hire prostitutes isn’t necessary to make a good GTA.\nThere are still strip clubs with plenty of nudity in GTA 6. And you can always come home and make Jason and Lucia have sex if you want some fun.\nDon’t miss the latest reviews, news and tips. Sign up for our free newsletter.\nCultureNews Yes, That’s Weird Al Hosting A Radio Station In GTA 6 GTA 6 contains Al, Weird Al that is! By Zack Zwiezen Published November 18, 2026\nCultureNews Live Updates On GTA 6: The Biggest Launch In Gaming History We're tracking all of the news, discoveries, and conversations as Rockstar's new open-world blockbuster goes live Ethan Gach, Ash Parrish, Carolyn Petit, Zack Zwiezen, Kenneth Shepard, and Rebekah Valentine Published November 18, 2026\nCultureNews 43 Soldiers Re-Enlisted In The Army In Exchange For Time Off To Play Grand Theft Auto 6: ‘I’m All About The Heist’ An unusual signing bonus By Ethan Gach Published November 18, 2026\nGames Turns Out GTA San Andreas Remastered Was Teasing GTA 6 Back In 2021 White picket fence By Rebekah Valentine Published November 18, 2026\nCultureNews Please Enjoy These GTA 6 Clips Of Jason Petting, Fighting, And Being Eaten By Animals The animals in Vice City can be sweet or vicious depending on where you go By Kenneth Shepard Published November 18, 2026\nCultureNews Grand Theft Auto 6 Performance Is Mostly Stable, Except On Xbox Series S Where It Can Hit Sub-20FPS Rockstar’s open world is pushing modern consoles to their limits By Kenneth Shepard Published November 18, 2026",
+    "text": "At long last, GTA 6 is finally here, and wouldn't you believe it – not only is it rather good, but it's also pretty popular. That wasn't unexpected, of course, and if one market intelligence and analyst firm's launch-week prediction proves accurate, Rockstar could be on track to earn more than the biggest Star Wars, Lord of the Rings, and Harry Potter movies combined.\nThis is an observation highlighted by Gearbox boss Randy Pitchford, who writes on Twitter: \"Newzoo's forecast is that GTA VI will generate more in its launch week than the entire original theatrical runs of the most successful Harry Potter, Lord of the Rings, Star Wars movies combined.\"\nHe appears to be citing Newzoo's July estimate, following the game's pre-orders going live. At the time, it was predicted that GTA 6 could earn between $3.3 billion and $5.2 billion in total sales by the end of its launch week.\nRockstar hasn't released any official data yet, but it's clear that GTA 6 is off to an exceptional start. Before launch, Sony and Microsoft confirmed that it was the most pre-ordered game of all time on their respective digital stores, and market intelligence firm Sensor Tower estimates that, as of yesterday, it had sold 17.07 million units and brought in $1.65 billion in revenue.\nSo, how does that compare to the movies Pitchford highlights? Per Box Office Mojo, the single most successful movies (by lifetime box office revenue) from each franchise are Star Wars: The Force Awakens, The Lord of the Rings: The Return of the King, and Harry Potter and the Deathly Hallows Part 2. The worldwide lifetime gross revenue for each of those comes in at around $2.07 billion, $1.12 billion, and $1.34 billion, respectively, for a combined total of about $4.53 billion.\nIf Sensor Tower's most recent estimate is correct, then GTA 6 hasn't reached this high just yet, but we're only just on launch day – Newzoo was allowing for the full week in its previous forecast. And, if the analytics firm ends up being correct, then it could be on track to earn over half a billion dollars more than those movies in its first days, which is wild.\nWith 10/10 GTA 6 reviews almost across the board, though, it's a deserved result for Rockstar. We'll just have to wait and see how high that number can go.\nWeekly digests, tales from the communities you love, and more\nPlaying Rockstar's new game? Be sure to take a look at our GTA 6 guide. You can also look at our recommendations for the best controllers and headsets to play GTA 6 for the ultimate experience.\n4. Best pro Xbox: Nacon Revolution X Unlimited\nI'm GamesRadar+'s Deputy News Editor, working alongside the rest of the news team to deliver cool gaming stories that we love. After spending more hours than I can count filling The University of Sheffield's student newspaper with Pokemon and indie game content, and picking up a degree in Journalism Studies, I started my career at GAMINGbible where I worked as a journalist for over a year and a half. I then became TechRadar Gaming's news writer, where I sourced stories and wrote about all sorts of intriguing topics. In my spare time, you're sure to find me on my Nintendo Switch or PS5 playing through story-driven RPGs like Xenoblade Chronicles and Persona 5 Royal, nuzlocking old Pokemon games, or going for a Victory Royale in Fortnite.\nYou must confirm your public display name before commenting\nPlease logout and then login again, you will then be prompted to enter your display name.\n1 The beacons are lit, Lego Minas Tirith is on sale for Black Friday\n2 Tom Hiddleston explains how the Avengers: Endgame Encore ending may not undo Loki's TV show ending\n3 Furries are outlawed in GTA 6 and form an underground \"Furverts\" group, but you can still help them escape the cops\n4 \"Not every game needs to be GTA\": Baldur's Gate 3 dev says Grand Theft Auto 6 is a \"rare\" cultural moment, but there's still \"space for other types of experiences\"\n5 Sebastian Stan admits the Avengers are \"pretty spread out\" but there w",
     "extra": {}
    },
    "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "В GTA 6 больше нет уличных проституток\n\nRockstar вырезали эту фичу, которая была с нами с 2001 года. Разработчики объяснили, что оставили только то, что работает на историю Джейсона и Люсии — влюбленных преступников в бегах. Стрип-клубы на месте, так что без контента не останемся.\n\n❤️ — Жаль, минус атмосфера\n👎 — Пофиг, игра и так топ",
-    "card_title": "ПОЧЕМУ В GTA 6 НЕТ ПРОСТИТУТОК",
-    "reason": "Официальное объяснение от разработчиков по поводу изменения механики серии.",
+    "type": "rumor",
+    "importance": 8,
+    "post": "🔥 Слух, не подтверждено GamesRadar+\n\n💰 GTA 6 может собрать за первую неделю больше, чем все блокбастеры Star Wars, LOTR и Harry Potter вместе!\nЗапуск прошёл на ура, предзаказы взорвали цифры, а аналитики считают, что доход может достичь $4‑5 млрд. Если всё так, то это будет эпичный рекорд.\n❤️ — Верю в цифры\n👎 — Слишком оптимистично",
+    "card_title": "ГТА 6 ПРЕВОЗХОДИТ БЛОКБАСТЕРЫ",
+    "reason": "Слух от GamesRadar+ о прогнозе доходов, не подтвержден официально",
     "duplicate": false,
     "corroborated": false,
     "duplicate_of": "",
-    "corroborated_by": "Rockstar Explains Why GTA 6 Doesn’t Have Prostitutes",
-    "model": "gemini:gemini-3.1-flash-lite"
+    "corroborated_by": "",
+    "model": "groq:openai/gpt-oss-120b"
    },
-   "queued_at": "2026-11-18T22:50:15.340503+00:00"
+   "queued_at": "2026-11-19T12:15:58.197081+00:00"
   },
   {
    "item": {
@@ -5420,32 +5698,6 @@
     "model": "groq:openai/gpt-oss-120b"
    },
    "queued_at": "2026-11-19T10:31:08.368859+00:00"
-  },
-  {
-   "item": {
-    "title": "GTA 6 launches after 13-year wait, breaking pre-order records",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMDl4dC1UcXBldWFnR1hQM09PM3hYUnptcS10S3ozS0doUXVFLXlod0p2dkMwdmppUVRQb2ZfcU5PVGF0cmZmVjIxR25vNHQ1S3FtYnpQelZFYUR0cXBxc3hCQ1VKMWl5ZDVZODRGUEtzZ05XY2NmSWN1SEhGLW0yLWp4LW55MjV0S2dOVjgzTTBPejlESENvS2YwMWZlZGd2ODJ1MHVvOUJMMU9fb0phdlNR0gG3AUFVX3lxTE9rajFBSGJONHRBMkdZR0RvMmVVSnFya0dDWDVhRDdlX1pTVjJsWnhuM2Q5cUgzejdhSFhINFU4TGRrVTVYZzhBS1VkQzl1U3FzQ3FLWnVyNFExMDBZNzFXT3ZwdEVTY3JQclQxcE9jSHY1TGl1SEx3RWdicUpROVlTZi1HcFFqSEQzSXRZZ1dNbU5wajNoQzFaUjRPc3hrLXB4REFrenVaM1JPTVNOTU9YWjBrSDlzYw?oc=5",
-    "summary": "GTA 6 launches after 13-year wait, breaking pre-order records Al Jazeera",
-    "published": "2026-11-18T23:22:44+00:00",
-    "source": "Google News (EN)",
-    "site_name": "Al Jazeera",
-    "trust": "rumor",
-    "text": "GTA 6 launches after 13-year wait, breaking pre-order records Al Jazeera",
-    "extra": {}
-   },
-   "verdict": {
-    "type": "rumor",
-    "importance": 8,
-    "post": "🔥 Слух, не подтверждено Al Jazeera\nGTA 6 наконец вышел после 13‑летнего ожидания и уже рвёт рекорды предзаказов\nНаконец-то можно будет гнать по улицам, а предзаказы уже летят в небо, будто это чит‑коды. Кто успел, тот в плюсе, остальные — готовятся к эпическому старту!\n❤️ — Ставлю на то, что предзаказные бонусы реально крутятся\n👎 — Сомневаюсь, что цифры правдивы",
-    "card_title": "GTA 6 РЕКОРДНЫЕ ПРЕДЗАКАЗЫ",
-    "reason": "Слух из мало надёжного источника, но тема интересна фанатам",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "model": "groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-18T23:47:21.366765+00:00"
   }
  ],
  "posts": [
@@ -5458,9 +5710,10 @@
   "2026-11-19T04:59:12.764243+00:00",
   "2026-11-19T07:54:18.583122+00:00",
   "2026-11-19T10:42:21.111586+00:00",
-  "2026-11-19T11:12:45.746012+00:00"
+  "2026-11-19T11:12:45.746012+00:00",
+  "2026-11-19T12:54:25.683092+00:00"
  ],
- "tg_offset": 387128958,
+ "tg_offset": 387128961,
  "channel": {
   "id": -1003986639147,
   "title": "GTA 6 | Горячие новости",
@@ -5490,6 +5743,7 @@
  "clip_drafts": [
   "2026-11-18T20:08:19.941420+00:00",
   "2026-11-19T08:10:16.892026+00:00",
-  "2026-11-19T10:36:27.143258+00:00"
+  "2026-11-19T10:36:27.143258+00:00",
+  "2026-11-19T12:20:24.350335+00:00"
  ]
 }
