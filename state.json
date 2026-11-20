@@ -800,7 +800,58 @@
   "2e73cd67ffd26982": "2026-11-19T20:30:40.064080+00:00",
   "cfd8d9f56f185247": "2026-11-19T20:31:31.095523+00:00",
   "8c0035515f242a33": "2026-11-19T20:31:32.051988+00:00",
-  "bca671dbd8d08813": "2026-11-19T20:31:32.869320+00:00"
+  "bca671dbd8d08813": "2026-11-19T20:31:32.869320+00:00",
+  "3e5534e29d9d41d3": "2026-11-20T01:43:06.009762+00:00",
+  "942b99b7363dc743": "2026-11-20T01:43:06.009850+00:00",
+  "650030dd94a38b64": "2026-11-20T01:43:06.009891+00:00",
+  "2da3cf462cd557dc": "2026-11-20T01:43:06.009930+00:00",
+  "663f08b7c28538eb": "2026-11-20T01:43:06.009982+00:00",
+  "94ec996869dd4004": "2026-11-20T01:43:06.010030+00:00",
+  "96ad35a0721b2433": "2026-11-20T01:43:06.010069+00:00",
+  "5a6741f2bf244d1b": "2026-11-20T01:43:06.010106+00:00",
+  "4d367c14be6f9620": "2026-11-20T01:43:06.010148+00:00",
+  "015481edd402bcd3": "2026-11-20T01:43:06.010191+00:00",
+  "8c09c082d7e28e72": "2026-11-20T01:43:06.010233+00:00",
+  "8473c57d0bdec914": "2026-11-20T01:43:06.010277+00:00",
+  "5061f25d6dfaac58": "2026-11-20T01:43:06.010322+00:00",
+  "218ed915a65bf371": "2026-11-20T01:43:06.460110+00:00",
+  "397274b490a19390": "2026-11-20T01:43:08.038727+00:00",
+  "f7fb05a6aa6eee39": "2026-11-20T01:43:13.785076+00:00",
+  "41dc248a489b88a3": "2026-11-20T01:43:44.735582+00:00",
+  "16209f87ae34d393": "2026-11-20T01:44:08.014647+00:00",
+  "f99631cfade39313": "2026-11-20T01:44:36.440937+00:00",
+  "971468896c0be22a": "2026-11-20T01:47:31.283162+00:00",
+  "88784388bc3a0b9c": "2026-11-20T01:47:47.593362+00:00",
+  "5fc697ca92f71887": "2026-11-20T01:48:39.123244+00:00",
+  "d38ef90d9464bcc7": "2026-11-20T02:03:57.539719+00:00",
+  "883fc980e6dbcf52": "2026-11-20T02:03:57.539823+00:00",
+  "f0b7e003dafb2a87": "2026-11-20T02:03:57.539870+00:00",
+  "9e2ab9ad50a97d95": "2026-11-20T02:03:57.539923+00:00",
+  "a88fdcf8bb1920df": "2026-11-20T02:03:57.539969+00:00",
+  "f47f4df2cdf62475": "2026-11-20T02:03:59.990284+00:00",
+  "ba99bc89e69ff121": "2026-11-20T02:04:04.941070+00:00",
+  "0f7c38363891f1dc": "2026-11-20T02:04:08.185010+00:00",
+  "5468a23f6a561a87": "2026-11-20T02:04:12.150539+00:00",
+  "04ff16fef5f231c9": "2026-11-20T02:04:15.810214+00:00",
+  "b83a8ac2171b08d3": "2026-11-20T02:04:18.713111+00:00",
+  "bd7e878c87a26240": "2026-11-20T02:04:21.531792+00:00",
+  "af42483f1f1acf3f": "2026-11-20T02:04:23.994459+00:00",
+  "29306379771e6982": "2026-11-20T02:19:54.338860+00:00",
+  "e8d84eae80dfd9dc": "2026-11-20T02:19:57.488002+00:00",
+  "41c6a4af19921796": "2026-11-20T02:20:05.688404+00:00",
+  "953afaa4f03cff2e": "2026-11-20T02:20:08.787160+00:00",
+  "7b963ffc5be78526": "2026-11-20T02:20:14.726937+00:00",
+  "b89502c260167ac0": "2026-11-20T02:20:17.222414+00:00",
+  "b0b55cc3fbd0fab8": "2026-11-20T02:20:20.463581+00:00",
+  "a586f2d5d05af06f": "2026-11-20T02:20:23.077233+00:00",
+  "5b42fd9176dd2b31": "2026-11-20T02:35:49.917454+00:00",
+  "5d2913f581005350": "2026-11-20T02:35:56.716281+00:00",
+  "8fad3975aff8ed40": "2026-11-20T02:35:59.240699+00:00",
+  "be2ec5de4601c535": "2026-11-20T02:36:01.027783+00:00",
+  "8e289be9ac9a77ac": "2026-11-20T02:36:02.728016+00:00",
+  "0f026aab1eb62302": "2026-11-20T02:36:05.122655+00:00",
+  "3bce364ee894f982": "2026-11-20T02:36:12.194426+00:00",
+  "b778fe7cd99a5ae4": "2026-11-20T02:36:18.146692+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -1440,769 +1491,57 @@
   "841779a7a621b090": "2026-11-19T20:22:21.793954+00:00",
   "e2daebd07560ff58": "2026-11-19T20:22:35.559721+00:00",
   "a55112ee3da0ca07": "2026-11-19T20:22:40.281561+00:00",
-  "c8299bf6c839f50e": "2026-11-19T20:22:40.866099+00:00"
+  "c8299bf6c839f50e": "2026-11-19T20:22:40.866099+00:00",
+  "54309be3b65084a8": "2026-11-20T01:43:06.009762+00:00",
+  "a57ffbce56b3474c": "2026-11-20T01:43:06.009850+00:00",
+  "e75d4aa8beb20b31": "2026-11-20T01:43:06.009891+00:00",
+  "6d801a6cbcff4e50": "2026-11-20T01:47:31.283162+00:00",
+  "a2dac0c6e1d2f47e": "2026-11-20T01:48:39.123244+00:00",
+  "b0d7ea62bebf6b05": "2026-11-20T01:43:06.010030+00:00",
+  "eb173072a13557c0": "2026-11-20T01:43:06.010148+00:00",
+  "30c7e7d1b98c63bc": "2026-11-20T01:43:06.010106+00:00",
+  "6100020737d80487": "2026-11-20T01:43:06.010191+00:00",
+  "e71cb5d2dc3dfdb9": "2026-11-20T01:43:06.010233+00:00",
+  "3aaf86b1df9f37fe": "2026-11-20T01:43:06.010277+00:00",
+  "7d3393a31d104e88": "2026-11-20T01:43:06.010322+00:00",
+  "14d547a99f5b4753": "2026-11-20T01:43:06.460110+00:00",
+  "ea94e6c42f09aa82": "2026-11-20T01:43:08.038727+00:00",
+  "d56d8b9fc310dd93": "2026-11-20T01:43:13.785076+00:00",
+  "90bc3882dd9b51fc": "2026-11-20T01:43:44.735582+00:00",
+  "aff81d322c06aa08": "2026-11-20T01:44:08.014647+00:00",
+  "97e187a4646996d5": "2026-11-20T01:44:36.440937+00:00",
+  "41d1de10456e13d8": "2026-11-20T01:47:47.593362+00:00",
+  "1980da9b67203dd1": "2026-11-20T02:03:57.539719+00:00",
+  "b7e49bbc7fe347c5": "2026-11-20T02:03:57.539823+00:00",
+  "8743638b198f1d85": "2026-11-20T02:03:57.539870+00:00",
+  "8b91bad001757241": "2026-11-20T02:03:57.539923+00:00",
+  "90e09fb316c75df4": "2026-11-20T02:03:57.539969+00:00",
+  "a2c5f28e639eb1eb": "2026-11-20T02:03:59.990284+00:00",
+  "0435571733e6f7d5": "2026-11-20T02:04:04.941070+00:00",
+  "f64ef8fdc22c0fb4": "2026-11-20T02:04:08.185010+00:00",
+  "3d75a6d200a7d5a9": "2026-11-20T02:04:12.150539+00:00",
+  "67b1d7ddf6a3e369": "2026-11-20T02:04:15.810214+00:00",
+  "ef54472da8347faf": "2026-11-20T02:04:18.713111+00:00",
+  "70656c713bcb750d": "2026-11-20T02:04:21.531792+00:00",
+  "1250d20ad8dd1810": "2026-11-20T02:04:23.994459+00:00",
+  "f61727df26520779": "2026-11-20T02:19:54.338860+00:00",
+  "16e8a213c54f15c3": "2026-11-20T02:19:57.488002+00:00",
+  "3414846ba66477c0": "2026-11-20T02:20:05.688404+00:00",
+  "e5eee44a99b68aaa": "2026-11-20T02:20:08.787160+00:00",
+  "3afadbd5b36a9dc8": "2026-11-20T02:20:14.726937+00:00",
+  "6d008d17834c1f44": "2026-11-20T02:20:17.222414+00:00",
+  "9034eb9583f57522": "2026-11-20T02:20:20.463581+00:00",
+  "9900a4e8959a8b20": "2026-11-20T02:20:23.077233+00:00",
+  "ba122252aa22089a": "2026-11-20T02:35:49.917454+00:00",
+  "47c329162978190d": "2026-11-20T02:35:56.716281+00:00",
+  "feeeb3fac8e4ef6e": "2026-11-20T02:35:59.240699+00:00",
+  "9ded39cf3a7190db": "2026-11-20T02:36:01.027783+00:00",
+  "3216699b7178cf20": "2026-11-20T02:36:02.728016+00:00",
+  "0fed5def1376d49a": "2026-11-20T02:36:05.122655+00:00",
+  "08f09b71fc51ce5e": "2026-11-20T02:36:12.194426+00:00",
+  "e099f829442f8a21": "2026-11-20T02:36:18.146692+00:00"
  },
  "recent": [
-  {
-   "title": "The Game Awards 2026 Nominations Revealed, GTA 6 Dominates",
-   "source": "IGN",
-   "trust": "high",
-   "status": "dup",
-   "ts": "2026-11-17T20:46:42.129545+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "The Game Awards 2026 Nominees Revealed, GTA 6 Up for 8 Awards",
-   "source": "Push Square",
-   "trust": "high",
-   "status": "dup",
-   "ts": "2026-11-17T20:46:42.129545+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "We got GTA 6 nominated for Game of the Year at The Game Awards before GTA 6",
-   "source": "GamesRadar+",
-   "trust": "high",
-   "status": "dup",
-   "ts": "2026-11-17T20:46:42.129545+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Lucia actor confirmed as GTA 6 sweeps The Game Awards nominations",
-   "source": "VGC",
-   "trust": "high",
-   "status": "dup",
-   "ts": "2026-11-17T20:46:42.129545+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "How to play GTA 6 early with the New Zealand trick",
-   "source": "GamesRadar+",
-   "trust": "high",
-   "status": "dup",
-   "ts": "2026-11-17T20:46:42.129545+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "How To Play GTA 6 A Day Early",
-   "source": "Kotaku",
-   "trust": "high",
-   "status": "dup",
-   "ts": "2026-11-17T20:46:42.130550+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Lucia Actress Officially Revealed During 2026 Game Awards Nominations",
-   "source": "Insider Gaming",
-   "trust": "medium",
-   "status": "dup",
-   "ts": "2026-11-17T20:46:42.130550+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "6 New GTA 6 Screenshots Released Showing Dynamic Weather",
-   "source": "Rockstar Intel",
-   "trust": "medium",
-   "status": "dup",
-   "ts": "2026-11-17T20:46:42.130550+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Has A Lot Of Different Bird Species, Here’s How Many",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-17T20:46:42.130550+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 New Zealand time trick for Xbox, PS5: How to play hours early",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-17T20:46:42.130550+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "This GTA 6-Inspired Keycap Set Will Make The Wait For A PC Version Slightly Easier",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-17T20:46:42.130550+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "How To Play GTA 6 Early On Xbox Using This Trick",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-17T20:46:42.130550+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Leads TGA Nominations, And Reviews Aren’t Even Live Yet",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-17T20:46:42.130550+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "We got 8 Game Awards nominations for GTA 6 before GTA 6",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-17T20:46:42.130550+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Sony Is Updating The PS5 Again, And It Might Have GTA 6 Pirates In Mind",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-17T20:46:42.130550+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6’s Lucia Actor Revealed, And It’s The Person Everyone Already Guessed",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-17T20:46:42.130550+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "The Game Awards 2026 Nominations Revealed, GTA 6 Dominates",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-17T20:46:42.130550+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6's Rumored Lucia Actor Confirmed for Cast by Game Awards Nomination",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-17T20:46:42.130550+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Birdwatchers Are Apparently Buying 'GTA 6' Just to Watch Birds. Here's How Many Are in the Game.",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-17T20:46:42.130550+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "The Game Awards 2026 Nominees Revealed, GTA 6 Up for 8 Awards",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-17T20:46:42.130550+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "The Game Awards Reveals Its Six Nominees For Game Of The Year, Including GTA 6",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-17T20:46:42.130550+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA VI Nominated For Game of the Year, Has Most Nominations",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-17T20:46:42.130550+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "The 6 Game Of The Year Nominees At The Game Awards – Did ‘GTA 6’ Make It?",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-17T20:46:42.130550+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Британская служба здравоохранения призвала игроков беречь руки перед релизом GTA 6",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-17T20:46:42.130550+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6: все, что нужно знать о главном игровом релизе года",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-17T20:46:42.130550+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "How To Play GTA 6 Early On PS5 And Xbox Series X/S",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-17T20:46:42.130550+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Во сколько выйдет GTA 6 на PS5 и Xbox в России, Турции, Индии, Украине и других странах. Точное время запуска по мск",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-17T20:46:42.130550+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Русский язык в GTA 6: будут ли субтитры и озвучка",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-17T20:46:42.130550+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Warnings, Encouragement, and Gift Cards: How Schools Are Preparing for Mass Absences on GTA 6 Launch Day",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-17T20:46:42.130550+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "87% Of GTA VI Pre-Orders Are The $100 Ultimate Edition",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-17T20:46:42.130550+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "My husband and I were serious gamers before having a baby. GTA 6 will be our biggest parenting challenge yet.",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-17T20:46:42.130550+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "The Weather Channel Has Shared New Screenshots of GTA 6's Dynamic Weather",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-17T20:46:42.130550+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Когда выйдет GTA 6 в России — точное время запуска на PS5 и Xbox Series X|S",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-17T20:46:42.130550+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 release times: How far behind the first launch will GTA 6 unlock in your time zone?",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-17T20:46:42.130550+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Россияне пожаловались, что Sony забанила аккаунты с GTA VI из Новой Зеландии",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-17T20:46:42.130550+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Global Release Times Confirmed: Here's How to Play Early Via the New Zealand Trick",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-17T20:46:42.130550+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 еще не вышла, а уже заработала 1,18 млрд долларов",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-17T20:46:42.130550+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Sony блокирует аккаунты с GTA 6 из Новой Зеландии — слух",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-17T20:46:42.130550+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Новые скриншоты GTA 6 демонстрируют погоду в Леониде",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-17T20:46:42.130550+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Sensor Tower: GTA 6 pre-orders exceed $1.4bn, with 87% for the Ultimate Edition",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-17T20:46:42.130550+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Опубликованы новые скриншоты GTA 6 — с реалистичной погодой",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-17T20:46:42.130550+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Grand Theft Auto VI is Now Set to Launch November 19, 2026",
-   "source": "Rockstar Newswire",
-   "trust": "official",
-   "status": "queued",
-   "ts": "2026-11-17T20:47:30.376468+00:00",
-   "card_title": "GTA 6 ОФИЦИАЛЬНАЯ ДАТА РЕЛИЗА"
-  },
-  {
-   "title": "Grand Theft Auto VI Collection Now at the Rockstar Store",
-   "source": "Rockstar Newswire",
-   "trust": "official",
-   "status": "queued",
-   "ts": "2026-11-17T20:47:34.440111+00:00",
-   "card_title": "КОЛЛЕКЦИЯ GTA VI В РОКСТАРЕ"
-  },
-  {
-   "title": "You can vote for GTA 6 to win GOTY before reviews are even out",
-   "source": "VGC",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-17T20:47:45.660040+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "This GTA 6-Inspired Keycap Set Will Make The Wait For A PC Version Slightly Easier",
-   "source": "GameSpot",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-17T20:47:59.932959+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "How Grand Theft Auto 6 Can Be Nominated At The Game Awards Despite Not Being Out Yet",
-   "source": "Kotaku",
-   "trust": "high",
-   "status": "queued",
-   "ts": "2026-11-17T20:48:39.731684+00:00",
-   "card_title": "GTA 6 НОМИНАНТЫ GAME AWARDS"
-  },
-  {
-   "title": "The Game Awards 2026 nominees announced, and GTA 6 leads with eight nods before it's even out",
-   "source": "Eurogamer",
-   "trust": "high",
-   "status": "published",
-   "ts": "2026-11-17T20:49:28.331371+00:00",
-   "card_title": "GTA 6 – 8 НОМИНАЦИЙ"
-  },
-  {
-   "title": "We got 8 Game Awards nominations for GTA 6 before GTA 6",
-   "source": "PC Gamer",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-17T20:49:59.122248+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "UK's Health Service Issues Warning Over GTA 6, Urges Players to Take Care of Their Hands",
-   "source": "Push Square",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-17T20:50:17.647762+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Lucia actor revealed thanks to The Game Awards Best Performance nomination, and it's exactly who everyone expected",
-   "source": "GamesRadar+",
-   "trust": "high",
-   "status": "dup",
-   "ts": "2026-11-17T21:05:24.984461+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Why Should I Care About GTA 6?",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-17T21:05:24.984461+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6's Game Awards Nominations Are Exactly What Everyone Predicted",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-17T21:05:24.984461+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Вы за GTA 6 или The Legend of Zelda: Ocarina of Time? Все номинанты на The Game Awards 2026",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-17T21:05:24.984461+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Погода как вид искусства: телеканал The Weather Channel показал свежие кадры Grand Theft Auto 6 с демонстрацией климатических эффектов",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-17T21:05:28.096320+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Why Should I Care About GTA 6?",
-   "source": "Kotaku",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-17T21:05:29.567231+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Nominated for Game of the Year Before PS5 Reviews Are Released",
-   "source": "Push Square",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-17T21:05:31.340384+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "INTERVIEW: GTA 4 Actor on GTA 6 Reviews: “It Needs To Succeed”",
-   "source": "Insider Gaming",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-17T21:05:51.623624+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Erik Spoelstra Says His Kids Will Not Be Playing GTA VI as the Heat Turn Kaseya Center Into Vice City",
-   "source": "GTA BOOM",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-17T21:06:16.902243+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6's Game Awards Nominations Are Exactly What Everyone Predicted",
-   "source": "Polygon",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-17T21:06:34.770444+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Играть в GTA 6 на Xbox Series X | S можно уже сегодня, но имеется риск блокировки",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-17T21:10:55.361519+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "How’s the weather in Leonida for GTA 6? The Weather Channel has the stormy forecast",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-17T21:10:56.258845+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6: как подготовиться к релизу игры",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-17T21:10:56.991425+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "The ‘GTA VI’ Vice City court for the Heat is amazing",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-17T21:10:57.741904+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Xbox Fans Urge Caution Over New Zealand Trick For GTA 6, While Others Say It's A Non-Issue",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-17T21:18:26.448449+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Dominates The Game Awards 2026 Even Before Release",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-17T21:37:07.967188+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "This Is the Full Cactus Jack x Nike x GTA 6 Apparel Drop",
-   "source": "GTA BOOM",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-17T21:37:09.929835+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Хакер слил видео GTA 6 - что известно, Rockstar Games смотреть реакцию",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-17T21:37:10.698856+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "From Asteroids to GTA 6: Why video games keep pulling us back",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-17T21:37:11.740572+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Travis Scott Has Another Nike x GTA 6 Clothing Capsule to Go Alongside His Air Force 1 Collab",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-17T21:37:12.508366+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "В GTA 6 геймеров хотят побудить к человечности",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-17T21:37:14.843813+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Как получить бесплатную копию GTA VI Ultimate Edition на Twitch",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-17T21:37:15.366975+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "RIP To ‘We Got X Before GTA 6 ’ Memes",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-17T22:37:31.103863+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Nearly 20% of Salaried US Workers are Taking Off Thursday for GTA 6’s Launch",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-17T22:37:31.103901+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Thirsty XBOX Gamers Are Using “New Zealand Trick” To Play ‘GTA 6’ Early",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-17T22:37:31.103928+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Travis Scott’s ‘GTA 6’ x Nike Air Force 1s Will Release With Two Different Chances to Purchase [PHOTOS]",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-17T22:37:32.873562+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "‘GTA 6 Online’ Release Date: Will ‘Grand Theft Auto VI’ Have Multiplayer at Launch?",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-17T22:37:33.800831+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "You can win a free Devolver Digital game – if you delete GTA 6",
-   "source": "VGC",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-17T22:37:35.477729+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "RIP To ‘We Got X Before GTA 6’ Memes",
-   "source": "Kotaku",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-17T22:37:36.334136+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 crossovers already begin as 2026 AAA game reveals free content update",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-17T22:37:36.692699+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "This Cozy New MMO Is A Delight, But Time-Gating During GTA 6 Week Is A Tough Ask",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-17T22:37:37.491138+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA VI fans take time off work ahead of long-awaited launch",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-17T23:34:25.534201+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Video. GTA 6: What to know about the upcoming Grand Theft Auto game",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-17T23:34:25.534243+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Miami Heat shows off its 'Vice City hardwood' ahead of the big Grand Theft Auto 6 basketball game",
-   "source": "PC Gamer",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-17T23:34:28.078128+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Here we go again: ‘GTA VI’ release has workers planning time off",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-17T23:34:29.072804+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Grand Theft Auto VI fans request time off work for long-awaited launch",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-17T23:34:30.008079+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Isn't Just For Gamers—Creators And Brands Want In",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-17T23:34:46.882384+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Amazon and Best Buy's Black Friday Sale Start Dates Will Be Competing With GTA 6 This Year",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-17T23:34:47.640270+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA VI release sparks excitement among gamers in the Cape Fear",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-17T23:34:48.299539+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "‘GTA 6’ Download Size Revealed: How Much Storage Do You Need on PS5 & Xbox?",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-18T00:35:23.376875+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "‘GTA 6’ Price & Editions Explained: How Much Does ‘Grand Theft Auto VI’ Cost on PS5 & Xbox?",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-18T00:35:25.024091+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Аферисты заработали 914 тысяч рублей на желании россиян поиграть в GTA 6",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-18T00:35:25.687265+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "World Business Report | Will GTA VI Live Up to the Hype?",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-18T00:35:26.416209+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Guide: GTA 6 Release Times: When Can You Start Playing?",
-   "source": "Push Square",
-   "trust": "high",
-   "status": "published",
-   "ts": "2026-11-18T00:36:57.357216+00:00",
-   "card_title": "GTA 6 ЗАПУСК ЧЕРЕЗ ЧАСЫ"
-  },
-  {
-   "title": "Are you taking off work to play GTA 6? Tell us about it",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-18T00:37:01.175881+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "New GTA 6 Screenshots Surface Online Showing New Weapons, Scenes",
-   "source": "Insider Gaming",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-18T00:37:01.993492+00:00",
-   "card_title": ""
-  },
   {
    "title": "GTA 6's release will stress test the internet just as everything's falling apart",
    "source": "Google News (EN)",
@@ -6714,6 +6053,414 @@
    "status": "skipped",
    "ts": "2026-11-19T20:22:40.866220+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GTA 6 Moses Mission Walkthrough",
+   "source": "VGC",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-20T01:43:06.009820+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Down to Earth Walkthrough",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "dup",
+   "ts": "2026-11-20T01:43:06.009868+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Building a Life Walkthrough",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "dup",
+   "ts": "2026-11-20T01:43:06.009907+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 First-Person Glitch Discovered, And It Works On Xbox & PS5",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-20T01:43:06.009960+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Here’s What People Are Playing That’s Not GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-20T01:43:06.010007+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Is Even Better When You Play It Side-By-Side With Your Wife",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-20T01:43:06.010050+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 excitement has some Alabama gamers taking time off work",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-20T01:43:06.010086+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Help: I can't stop obeying traffic laws in GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-20T01:43:06.010124+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 excitement has some Alabama gamers taking time off work",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-20T01:43:06.010168+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 has the best use of the PS5 controller I've ever seen",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-20T01:43:06.010210+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "CNN Calls GTA 6 The 'Most Intense Version Of Pac-Man'",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-20T01:43:06.010251+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "I Didn’t Expect GTA 6 To Be The Game That Tries To De-Toxify Toxic Masculinity",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-20T01:43:06.010299+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Shows Why You Should Never, Ever, Ever Text and Drive (Ever)",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-20T01:43:06.010340+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 launches after 13-year wait as fans plan time off",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-20T01:43:06.460175+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA+ for GTA 6 singleplayer is like subscription-based horse armor",
+   "source": "PC Gamer",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-20T01:43:12.147823+00:00",
+   "card_title": "ПОДПИСКА В ОДИНОЧКЕ GTA 6"
+  },
+  {
+   "title": "Controversial GTA 6 Easter Egg Will Annoy Millions of Gamers",
+   "source": "Polygon",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-20T01:43:14.271651+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 is playable in first-person, here's how to activate it",
+   "source": "PC Gamer",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-20T01:43:58.553938+00:00",
+   "card_title": "ВИД ОТ ПЕРВОГО ЛИЦА"
+  },
+  {
+   "title": "Guide: GTA 6: Radio Songs - All Music, Radio Stations, & Artists",
+   "source": "Push Square",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-20T01:44:29.244373+00:00",
+   "card_title": "САУНДТРЕК И РАДИО GTA 6"
+  },
+  {
+   "title": "GTA 6 has \"several variations\" for story moments based on how you treat the heroes' relationship",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-20T01:47:29.712614+00:00",
+   "card_title": "ИЗМЕНЕНИЯ СЮЖЕТА ОТНОШЕНИЯ"
+  },
+  {
+   "title": "GTA 6 First-Person Glitch Discovered, And It Works On Xbox & PS5",
+   "source": "Pure Xbox",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-20T01:47:31.283305+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6's blatant Matty Matheson-like character isn't really Matty Matheson, confirms The Bear star",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-20T01:48:20.154636+00:00",
+   "card_title": "МАТТИ НЕ В GTA6"
+  },
+  {
+   "title": "Here’s What People Are Playing That’s Not GTA 6",
+   "source": "Kotaku",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-20T01:48:39.123351+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Day Release Walkthrough",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "dup",
+   "ts": "2026-11-20T02:03:57.539777+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Swamped Walkthrough",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "dup",
+   "ts": "2026-11-20T02:03:57.539843+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Makes Video Game History",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-20T02:03:57.539900+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "\"GTA VI\" launch day sees wave of PTO requests",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-20T02:03:57.539946+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "'GTA VI' becomes best-reviewed video game of all time",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-20T02:03:57.539990+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6's Mandy 'Is a Lot of Fun' Says Real-Life Actress as PS5 Players Are Smitten",
+   "source": "Push Square",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-20T02:04:02.679278+00:00",
+   "card_title": "МАНДИ И АКТРИСА ЛЕКСИ"
+  },
+  {
+   "title": "GTA 6 Chapters and Mission List: How many chapters in GTA 6? (Spoiler-Free)",
+   "source": "VGC",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-20T02:04:05.833133+00:00",
+   "card_title": "ГЛАВЫ И МИССИИ GTA 6"
+  },
+  {
+   "title": "GTA 6 Has Police Departments Across America Begging People Not to Commit Crimes IRL",
+   "source": "IGN",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-20T02:04:09.891766+00:00",
+   "card_title": "ПОЛИЦИЯ ПРОСИТ ИГРАТЬ ДОМА"
+  },
+  {
+   "title": "GTA 6 Daily Driver Mission Walkthrough",
+   "source": "VGC",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-20T02:04:13.826870+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Руки на стол: Мэнди в GTA VI сыграла актриса Лекси Шоайби",
+   "source": "iXBT.games",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-20T02:04:16.647317+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Where Do Photo Studio Pictures Get Saved in GTA 6?",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "queued",
+   "ts": "2026-11-20T02:04:20.356659+00:00",
+   "card_title": "КУДА СОХРАНЯЮТСЯ ФОТО"
+  },
+  {
+   "title": "Cyberleek drops what they claim is a near-complete GTA 6 Xbox build online",
+   "source": "PC Gamer",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-20T02:04:21.531906+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to make money in GTA 6",
+   "source": "VGC",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-20T02:04:25.849085+00:00",
+   "card_title": "КАК ПОДНЯТЬ БАБЛО НА СТАРТЕ"
+  },
+  {
+   "title": "Best Early Game Locations For Easy Cash in GTA 6—Chapter One Money Making, Explained",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "queued",
+   "ts": "2026-11-20T02:19:55.312389+00:00",
+   "card_title": "КАК ПОДНЯТЬ БАБЛО В ПЕРВОЙ ГЛАВЕ"
+  },
+  {
+   "title": "Хакеры Cyberleek опубликовали билд Grand Theft Auto VI",
+   "source": "iXBT.games",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-20T02:19:57.488113+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6's Viral NPC May Actually Have a Dark Secret",
+   "source": "IGN",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-20T02:20:06.734495+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Where to Find the SM-69 Sniper Early in GTA 6",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "queued",
+   "ts": "2026-11-20T02:20:09.718672+00:00",
+   "card_title": "ГДЕ НАЙТИ СНАЙПЕРКУ SM-69"
+  },
+  {
+   "title": "The Most Helpful GTA 6 Cheat Codes and How to Access Them",
+   "source": "Kotaku",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-20T02:20:15.646330+00:00",
+   "card_title": "ЧИТ-КОДЫ В GTA 6"
+  },
+  {
+   "title": "When Can You Get a New Safehouse in GTA 6? Next Hideout, Explained",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "queued",
+   "ts": "2026-11-20T02:20:18.630697+00:00",
+   "card_title": "КАК СМЕНИТЬ УБЕЖИЩЕ В GTA 6"
+  },
+  {
+   "title": "Video Game Spending Dropped 14% This October, Possibly Because Everyone Was Preparing for GTA 6",
+   "source": "IGN",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-20T02:20:21.211376+00:00",
+   "card_title": "ПАТЕНТ НА ОЖИДАНИЕ GTA 6"
+  },
+  {
+   "title": "GTA 6 Find the Lost Drugs: All Four Search Areas",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-20T02:20:24.008071+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to Lose Heat in GTA 6 by Swapping Outfits From Your Trunk",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "queued",
+   "ts": "2026-11-20T02:35:50.977244+00:00",
+   "card_title": "СБРОС РОЗЫСКА ЧЕРЕЗ БАГАЖНИК"
+  },
+  {
+   "title": "GTA 6′s Pop And Classic Rock Radio Stations Contain 150 Songs, More Than All Of Vice City’s Radio Stations Combined",
+   "source": "Kotaku",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-20T02:35:57.825042+00:00",
+   "card_title": "150 ТРЕКОВ НА ДВУХ РАДИО"
+  },
+  {
+   "title": "GTA 5's Steam concurrents have gone up rather than down now that GTA 6 is out, suggesting a lot of PC players are waiting",
+   "source": "PC Gamer",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-20T02:35:59.240811+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Guide: GTA 6 Guide: All Guides & Collectibles",
+   "source": "Push Square",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-20T02:36:01.027889+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Should you give the statue to Benedict Halifax in GTA 6?",
+   "source": "PC Gamer",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-20T02:36:03.641215+00:00",
+   "card_title": "ОТДАТЬ ЛИ СТАТУЭТКУ БЕНЕДИКТУ"
+  },
+  {
+   "title": "In the GTA 6 Delights robbery mission, help or don't help Frankie and Mario?",
+   "source": "PC Gamer",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-20T02:36:08.342131+00:00",
+   "card_title": "КАК ПРОЙТИ МИССИЮ В ДЕЛАТС"
+  },
+  {
+   "title": "GTA 6 Buck Me Walkthrough and BuckMe Setup Guide",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "queued",
+   "ts": "2026-11-20T02:36:15.008364+00:00",
+   "card_title": "ПРОХОЖДЕНИЕ МИССИИ BUCK ME"
+  },
+  {
+   "title": "GTA 6 Clear Skies Walkthrough to Rescue Donnie and Escape",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "queued",
+   "ts": "2026-11-20T02:36:24.112580+00:00",
+   "card_title": "ПРОХОЖДЕНИЕ МИССИИ CLEAR SKIES"
   }
  ],
  "queue": [
@@ -6742,6 +6489,33 @@
     "model": "groq:qwen/qwen3.8-27b"
    },
    "queued_at": "2026-11-19T17:41:51.006880+00:00"
+  },
+  {
+   "item": {
+    "title": "The Most Helpful GTA 6 Cheat Codes and How to Access Them",
+    "link": "https://kotaku.com/the-most-helpful-gta-6-cheat-codes-and-how-to-access-them-2000758546",
+    "summary": "Get a lot of money, get drunk, leap off tall buildings, you can do it all! You just have to earn it first",
+    "published": "2026-11-19T22:30:21+00:00",
+    "source": "Kotaku",
+    "site_name": "Kotaku",
+    "trust": "high",
+    "text": "Cheat CodesGrand Theft Auto 6GTA 6Rockstar Games\nCheat codes make Grand Theft Auto a chaotic playground in which you can do whatever you want with impunity and without limits, as has been a tradition in the series since the very first game in 1997. Just mucking about with friends and seeing who could survive the longest with a maxed-out wanted level and unlimited ammo has always been guaranteed to be a fun afternoon, and that continues to be true in GTA 6, but you gotta pay Vice City its dues first.\nThe latest GTA game keeps cheats mostly similar to previous titles, with one big caveat: You have to finish the story first. That’s when the ability to unlock individual cheats will show up in the Progress Menu under the option appropriately labeled “Cheats.” From that point on, you have to complete in-game milestones to unlock each cheat. For example, if you want to unburden the guns from reloading, you first need to win 25 gold medals at the shooting range.\nGTA Base has been cataloging the various unlock requirements on their website, but the list is still very much a work in progress as everyone figures it out.\nOnce unlocked, the cheats for the game are done using the controller’s D-Pad in conjunction with the in-game phone. Bring up your character’s phone with Up on the D-Pad and hold L1/LB, then press R1/RB. Then enter the following codes using the D-Pad sequences below, with no difference whether you are on PlayStation 5 or Xbox Series X/S.\nDo note that using cheats disables achievements and trophies for that session, so if you’re trying to pursue the trophy for laundering $250,000, you can’t just do the $250,000 money cheat. You also can’t save the game, so trying to make progress toward reaching 100-percent completion will be a wasted effort. Save before you enter any cheat codes, then load that save when you’re done messing around and want to make recordable progress or earn a trophy.\n$250,000 Money Cheat Unlock condition: Finish the story\nUp, Right, Down, Left, Up, Left, Down, Right\nRaise Wanted Level Unlock condition: Lose a 3-star wanted level 50 times\nBody Armor Cheat Unlock condition: Complete 100 workouts\nDown, Up, Left, Up, Up, Up, Up, Up, Down, Down\nInfinite Ammo Unlock Condition: Win 25 silver medals or better at Shooting Ranges\nDown, Up, Right, Down, Left, Left, Up, Down, Down, Up\nVehicle Force Cheat Unlock Condition: Kill 25 enemies (including civilians) with a vehicle\nDown, Up, Left, Left, Right, Down, Left, Up, Down\nCRT Filter Unlock condi",
+    "extra": {}
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 9,
+    "post": "🗺 Гайд: Как юзать ЧИТ-КОДЫ в GTA 6\n\nСначала пройди сюжетку, бро. После этого читы появятся в меню прогресса, но каждый придется открывать отдельно за челенджи.\n\nТелефон в руки: зажми крестовину вверх + L1/LB + R1/RB и вводи комбинации. Сохраняйся перед этим, иначе трофеев и прогресса не видать!\n\n❤️ — Жду безлимит патронов\n👎 — Сначала сюжет пройду",
+    "card_title": "ЧИТ-КОДЫ В GTA 6",
+    "reason": "Гайд по чит-кодам и условиям их разблокировки для вышедшей GTA 6",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": true,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "queued_at": "2026-11-20T02:20:15.646319+00:00"
   },
   {
    "item": {
@@ -6797,107 +6571,300 @@
   },
   {
    "item": {
-    "title": "GameStop CEO slams 'code-in-a-box' games in the wake of GTA 6's discless release",
-    "link": "https://www.eurogamer.net/gta-6-discless-release-code-in-a-box-gamestop-ceo",
-    "summary": "Ryan Cohen, CEO of GameStop - the self-proclaimed \"world's largest retail gaming and trade-in destination\" - is not happy with the emerging trend of games releasing without discs. Per the CEO, the industry's move away from physical games and towards a digital-only future is harmful to both consumers and businesses. Read more",
-    "published": "2026-11-19T13:03:30+00:00",
-    "source": "Eurogamer",
-    "site_name": "Eurogamer",
-    "trust": "high",
-    "text": "Ryan Cohen, CEO of GameStop - the self-proclaimed \"world's largest retail gaming and trade-in destination\" - is not happy with the emerging trend of games releasing without discs. Per the CEO, the industry's move away from physical games and towards a digital-only future is harmful to both consumers and businesses.\nIn an interview with Bloomberg, Cohen explained: \"When you buy a game, you should be able to sell it, trade it or lend it to a friend. Unquestionably, the decision to move to all digital has hurt consumers, and it’s also hurt GameStop.\"\nThese comments come in the wake of GTA 6's launch. The game, expected to be the biggest video game launch of all time, is not shipping on discs at all. Even if you purchase a physical copy of the game, what you will actually take home is a 'code in a box' - giving you a code you can redeem on your console of choice that entitles you to a digital version of the game. GTA 6 is not the first game to do this, but it is the most high-profile. Similarly to discs, codes are also region-locked (at least on the PS5), meaning that the proliferation of codes as a format isn't even helping make games more readily available in certain markets.\nCohen notes he's been in conversation with \"the obvious [publishers]\" but that he's had little sway on their plans. \"Of course they don’t like [trade-ins] because removing a used copy eliminates an alternative to buying new,\" he told Bloomberg. \"They're taking away competition.\"\nThough Cohen doesn't name GTA 6 specifically in the Bloomberg interview, it's clear that he's talking about Rockstar's megaton launch (he explicitly tweeted \"GTA. On a disc. In a case. On your shelf. Like if you still want a physical copy\" two days ago). The lack of trade-in potential is clearly harming his business; the Bloomberg article reveals pre-owned and refurbished products make up 22% of the GameStop's sales, down 32 percent from the same time a year ago.\nOf course, the proliferation of game-in-a-box products doesn't end with GTA 6. Sony plans to stop producing physical discs for new PlayStation games starting in January 2028, moving to a digital-only model despite pushback from consumers and certain developers and publishers. The outcry is doing little to influence Sony's decision, however.\nDisc or no disc, GTA 6 is expected to cross $2bn in its opening weekend, and at the moment that is looking like a conservative figure, too. It's estimated the game has sold well over 19.05m units at the time of writing. Despite the astronomical sales, though, employees at Rockstar are still worried about layoffs. Additionally, a tribunal between the studio and fired IWBG union members (who were fired for apparent breaches of their NDAs) just concluded, though the verdict may not arrive for many weeks or months.\nIf you need a hand with any of the myriad things GTA 6 asks you to do, you can read Eurogamer's Grand Theft Auto 6 walkthrough as well as a breakdown of Grand Theft Auto 6 cheats.",
-    "extra": {}
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "🎮 Коэн из GameStop не в восторге от GTA 6\n\nБосс GameStop жалуется, что «код в коробке» убивает вторичный рынок. Без диска нечего сдать, бизнес просел. Говорит, что это удар по игрокам и его компании. GTA 6 так же жёстко привязана к региону, как и диски.\n\n❤️ — Нормально, диски устарели\n👎 — Коэн прав, это обман",
-    "card_title": "GAMESTOP ПРОТИВ ДИГИТАЛЯ",
-    "reason": "Официальная реакция крупного ритейлера на формат релиза GTA 6, подтверждено интервью и твитом CEO.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "model": "groq:qwen/qwen3.8-27b"
-   },
-   "queued_at": "2026-11-19T13:13:41.959309+00:00"
-  },
-  {
-   "item": {
-    "title": "The Official GTA 6 Map Is Now Available To Download For Free",
-    "link": "https://www.purexbox.com/news/2026/11/the-official-gta-6-map-is-now-available-to-download-for-free",
-    "summary": "Physical version coming very soon. Ahead of launch, Rockstar Games mentioned that instead of including a map inside the physical edition of GTA 6 , they'd be making it available to download for free on their website, as well as providing a double-sided physical edition. The downloadable version is now officially available for free on the GTA 6 website , and there's even a special \"printable\" for those who don't just want to look at it in digital form. Read the full article on purexbox.com",
-    "published": "2026-11-19T14:21:00+00:00",
-    "source": "Pure Xbox",
-    "site_name": "Pure Xbox",
-    "trust": "high",
-    "text": "Ahead of launch, Rockstar Games mentioned that instead of including a map inside the physical edition of GTA 6, they'd be making it available to download for free on their website, as well as providing a double-sided physical edition.\nThe downloadable version is now officially available for free on the GTA 6 website, and there's even a special \"printable\" option for those who don't just want to look at it in digital form.\nIt comes with a big version of the GTA 6 cover art as well - you can see both of these down below:\nThe physical edition still isn't available yet, but Rockstar Games says that it will be \"made available at the Rockstar Store shortly after launch\". We'll keep an eye out and update this article when that happens.\nHonestly, I don't think the map is that great, as I hoped it might include some places of interest rather than just each region that's available to visit, but as a poster on a wall, it's still worth displaying somewhere.\nI'd rather wait for the physical version, but it's certainly nice that it exists as a freebie as well.\nWill you be downloading this? Let us know down in the comments section below.",
-    "extra": {}
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "🗺️ Официальная карта GTA 6 уже доступна для скачивания\n\nRockstar выпустил бесплатный диджитал‑вариант карты на сайте, плюс есть печатный вариант для тех, кто хочет повесить её на стену. Отличный способ подготовиться к запуску и уже сейчас полюбоваться миром игры.\n\n❤️ — Скачаю и распечатаю\n👎 — Подожду физический релиз",
-    "card_title": "КАРТА GTA 6 ОФИЦИАЛЬНАЯ",
-    "reason": "Подтверждённая информация от Rockstar, интересна всем фанатам",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "model": "groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-19T14:28:47.171544+00:00"
-  },
-  {
-   "item": {
-    "title": "Looking for free guns and body armor in GTA 6? Try the trunks of cop cars",
-    "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-free-guns-cop-cars/",
-    "summary": "Loot your local cruiser for longarms and even body armor.",
-    "published": "2026-11-19T10:11:46+00:00",
+    "title": "GTA 6 is playable in first-person, here's how to activate it",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-is-playable-in-first-person-heres-how-to-activate-it/",
+    "summary": "I guess that's why the cars have speedometers.",
+    "published": "2026-11-20T01:00:12+00:00",
     "source": "PC Gamer",
     "site_name": "PC Gamer",
     "trust": "high",
-    "text": "Remember how stealing a cop car in the older GTA games used to get you a free shotgun? Well, turns out Vice City's police force is even better armed. If you need some extra guns quickly, particularly shotguns and assault rifles, filching them from the trunk of a police car is a great method, though obviously it comes with certain risks.\nYou might have realised, but stealing cars in GTA 6 is significantly more complicated than previous games, especially if they're alarmed. Thankfully, this doesn't apply to any police pickup trucks like the Bravado Bison the cops sometimes use, which you'll spot occasionally both in rural areas and in the city\nWith the police pickups, you can simply climb onto the bed at the back and open the storage crate, grabbing any weapons and ammo inside, including other potential items like Stun Guns, without setting off any alarms.\nFor proper police cruisers, though, their trunks are alarmed along with the doors, meaning you'll need a tool to deal with them, the slim jim, which you get during the \"Moses\" mission in Chapter 2. If you slim jim the door of the cop car and get inside, the trunk will unlock, so you can head around the back, interact to open it, and steal whatever's in the boot without tackling the alarm, whether it be an assault rifle, shotgun, or even body armor.\nIf you don't have the slim jim yet, you can still open the trunk (you'll see your character use a screwdriver) but the alarm will go off.\nOnce you've collected the weapons, you can interact with your own car trunk, and you'll see a prompt to stow the weapons inside. You'll be rather conspicuous wandering around with an assault rifle in your hands or strapped to your back, after all.\nObviously, it's best not to try and steal cop cars with cops in them, but you can find them around, or parked at police stations, such as in Port Gellhorn or Vice City.\nKeep up to date with the most important stories and the best deals, as picked by the PC Gamer team.\nMore generally, it's definitely worth looting random car trunks to see what you can find. Sometimes they contain cash, drugs, handguns, or consumables—just make sure to scan them with the Wainkit App first (which you're introduced to in Chapter 1) to tell if they're alarmed or not, and whether you can break in without the slim jim.\nGTA 6 guide: One-stop info shopGTA 6 cars: The garage lineupGTA 6 characters: Your anti-hero castGTA 6 map: Confirmed Vice City localesGTA 6 PC release: When's it going to happen?\nSean's first PC games were Full Throttle and Total Annihilation and his taste has stayed much the same since. When not scouring games for secrets or bashing his head against puzzles, you'll find him revisiting old Total War campaigns, agonizing over his Destiny 2 fit, or still trying to finish the Horus Heresy. Sean has also written for EDGE, Eurogamer, PCGamesN, Wireframe, EGMNOW, and Inverse.\nYou must confirm your public display name before commenting\nPlease logout and then login again, you will then be prompted to enter your display name.\n1 The best VPN for gaming in 2026: These privacy-protecting virtual networks keep your games lag-free\n2 Best gaming laptops 2026: We've reviewed the best gaming laptops of this generation and these are our favorites\n3 Best graphics cards in 2026: These are the GPUs worth spending money in right now\n4 Best gaming laptop 2026: I've tested the best laptops for gaming of this generation and here are the ones I recommend.\n5 Best handheld gaming PC in 2026: my recommendations for the best portable powerhouses.\n1 Ashes of the Singularity 2 review: Some neat ideas undermined by a rubbish campaign and obtrusive generative AI\n2 8BitDo Ultimate 3E wireless controller review",
+    "text": "While you can switch to first-person temporarily in Grand Theft Auto 6 when you want to get a real good close-up of a texture, you're locked in place and can't run around doing crimes and having fun like you could when GTA 5 got its first-person mode. Except actually you can, as discovered by players on Reddit and tested by our own Morgan Park.\nIt's easy enough to activate in-game. Go to the controller settings, then under the Controller Features section change your view button to Camera 2 / 2. Get into a car, bring up your phone with the D-pad, press Circle or B then quickly hit Select. There you go, first-person GTA 6.\nAs Morgan's footage shows, it's completely playable. It doesn't look 100% done, however, with your shoulders clipping through the camera when you've got a longarm gun up. Seeing someone break into a car in first-person also looks a bit rough around the edges. While conspiracy theorists have convinced themselves that Rockstar is holding back this feature to sell it as DLC, I figure they're probably still polishing it to add in a future update.\nIf you want to leave first-person, you'll have to reload a save. It doesn't have to be an old save, though. If you save in first-person then immediately load the same save you'll be back in third-person and have to return to God's own preferred viewpoint.\nGTA 6 guide: One-stop info shopGTA 6 map: The full Vice City tourGTA 6 cheats: A complete listGTA 6 radio: All the songs and stationsGTA 6 romance: How to keep a strong bond\nKeep up to date with the most important stories and the best deals, as picked by the PC Gamer team.\nJody's first computer was a Commodore 64, so he remembers having to use a code wheel to play Pool of Radiance. A former music journalist who interviewed everyone from Giorgio Moroder to Trent Reznor, Jody also co-hosted Australia's first radio show about videogames, Zed Games. He's written for Rock Paper Shotgun, The Big Issue, GamesRadar, Zam, Glixel, Five Out of Ten Magazine, and Playboy.com, whose cheques with the bunny logo made for fun conversations at the bank. Jody's first article for PC Gamer was about the audio of Alien Isolation, published in 2015. Jody edited PC Gamer Indie from 2017 to 2018, and he eventually lived up to his promise to play every Warhammer videogame.\nYou must confirm your public display name before commenting\nPlease logout and then login again, you will then be prompted to enter your display name.\n1 The best VPN for gaming in 2026: These privacy-protect",
     "extra": {}
    },
    "verdict": {
     "type": "confirmed",
-    "importance": 6,
-    "post": "🔫 Похитить арсенал у копов в GTA 6\n\nКарабкаешь полицейский Бисон? В багажнике ты найдёшь дробовики, штурмовые винтовки и даже бронежилеты – без сигнализации. Для кроссоверов нужен slim‑jim (получаешь в миссии «Моисей»), иначе будешь слышать крики сирен. Так что, если нужен быстрый набор оружия, ищи полицейские тачки и лутай их багажники.\n\n❤️ — Буду тестировать в онлайн‑мире\n👎 — Слишком рискованно, лучше купить в магазине",
-    "card_title": "ПОЛИЦЕЙСКИЕ БАГАЖНИКИ С ОРУЖИЕМ",
-    "reason": "Подтвержденный гайд от PC Gamer, интересен игрокам, тип confirmed, важность 6",
+    "importance": 8,
+    "post": "🗺 Гайд: КАК ВКЛЮЧИТЬ ВИД ОТ ПЕРВОГО ЛИЦА\n\nИгроки нашли способ побегать от первого лица прямо сейчас. Выглядит сочно, хоть и есть косяки с текстурами оружия.\n\n1. В настройках геймпада (Controller Features) ставь кнопку вида на Camera 2 / 2.\n2. Седай в тачку, вызывай телефон крестовиной.\n3. Жми Круг (B) и сразу зажимай Select — готово, флексим с видом из глаз!\n\nВыйти из режима можно только перезагрузкой сейва.",
+    "card_title": "ВИД ОТ ПЕРВОГО ЛИЦА",
+    "reason": "Подтверждённый гайд от PC Gamer, важный и полезный для игроков",
     "duplicate": false,
     "corroborated": false,
     "duplicate_of": "",
     "corroborated_by": "",
-    "model": "groq:openai/gpt-oss-120b"
+    "guide": true,
+    "model": "groq:openai/gpt-oss-120b → gemini:gemini-3.5-flash"
    },
-   "queued_at": "2026-11-19T10:31:08.368859+00:00"
+   "queued_at": "2026-11-20T01:43:58.553928+00:00"
   },
   {
    "item": {
-    "title": "GTA 6's shockingly accurate Instagram memes make fun of Rockstar's delays and more",
-    "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6s-shockingly-accurate-instagram-memes-make-fun-of-rockstars-delays-and-more-as-doomscrolling-becomes-one-of-the-best-new-activities-in-the-game/",
-    "summary": "It's basically the first \"we got x before GTA 7\" meme",
-    "published": "2026-11-19T13:06:28+00:00",
+    "title": "GTA 6 has \"several variations\" for story moments based on how you treat the heroes' relationship",
+    "link": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-prepared-several-variations-for-gta-6-story-moments-based-on-how-you-treat-lucia-and-jasons-relationship/",
+    "summary": "The changes \"range from subtle to more significant\"",
+    "published": "2026-11-20T00:45:25+00:00",
     "source": "GamesRadar+",
     "site_name": "GamesRadar+",
     "trust": "high",
-    "text": "GTA 6's fake Instagram shitposts, which include Rockstar Games clowning on how long the game took to release, are proving to be a highlight of the whole experience for many.\nGTA games are generally developed as a time capsule of what culture was like at the time, so while GTA 5 definitely had some social media influence in it, things have certainly changed in the time since that game was released 13 years ago.\nGTA 6 on the other hand goes all in, with takes on WhatsApp, Instagram, and a Shazam for cars called WAInk. On top of that, when you go to bed in-game, Jason doesn't go to sleep – he instead starts looking at the phone and scrolling aimlessly.\nBut since 2013, social media shitposting has become the norm, and GTA 6's version of Instagram is shockingly accurate. Real social media has been filled with screenshots of the posts found on Snapmatic, with Rockstar's famous attention to detail shining through.\nHighlights of my own playthrough have been an image of a Batman-esque hero holding down a villain with the caption \"me when I find the guy who shit my pants,\" a woman looking seductive with the caption \"how the emergency door latch looks at me on the plane,\" while real social media highlights abstract memes and a certified @mr.queef classic: a speedometer maxed out with \"me when I get a call that my wife is giving birth (I'm omw to the casino).\"\nHowever, Rockstar has also poked fun at itself through this meme onslaught, with its own take on the \"we got x before GTA 6 meme.\" One post shows a Paw Patrol-like game titled Barnyard Blue Hot Fursuit with the caption, \"Barnyard Blue video game before Race and Chase 7 is crazy.\" Another shows the different types of headaches, with a full head one captioned with \"Race and Chase 7 delayed another year.\"\nFunnily enough, Race'n'Chase was the original name for the game in development that would eventually become Grand Theft Auto. So basically, Rockstar made the first \"we got x before GTA 7\" joke.\nWeekly digests, tales from the communities you love, and more\nPlaying Rockstar's new game? Be sure to take a look at our GTA 6 guide. You can also look at our recommendations for the best controllers and headsets to play GTA 6 for the ultimate experience. Or, if you're not yet decided on it, you can read our GTA 6 review.\n4. Best pro Xbox: Nacon Revolution X Unlimited\nScott has been freelancing for over four years across a number of different gaming publications, first appearing on GamesRadar+ in 2024. He has also written for the likes of PC Gamer, Eurogamer, VG247, Play, TechRadar, and others. He's typically rambling about Metal Gear Solid, God Hand, or any other PS2-era titles that rarely (if ever) get sequels.\nYou must confirm your public display name before commenting\nPlease logout and then login again, you will then be prompted to enter your display name.\n1 Before her shock revival broke the internet, Scarlet Witch got a hidden shoutout in a VisionQuest Easter egg\n2 After Crimson Desert's Game Awards snub, Pearl Abyss wins a record-breaking 8 categories at the Korea Game Awards instead\n3 Hunger Games: Catching Fire deleted scene makes the Quarter Quell twist that much darker: \"The 'tradition' was always a lie designed to last forever\"\n4 GTA 6 fans are down bad for Mandy, who might actually be trying to kill them\n5 As digital-only GTA 6 smashes records, GameStop CEO says move from physical copies \"has hurt consumers\" as they \"should be able to sell\" or trade purchases",
+    "text": "Lucia and Jason's dynamic relationship is very much the heart and soul of GTA 6's story, offering a nuanced look at a complicated romance that changes based on your decisions in the game. Neglect your relationship and the lovers will drift apart, but nurture it and you'll see it blossom. It's no secret that GTA 6's take on Bonnie and Clyde can separate romantically based on player choice, and that they'll remain partners in crime no matter what, but it turns out pivotal story moments can change significantly based on your relationship status.\nTalking to Game Informer, senior design director Luke Howard emphasizes the importance of Lucia and Jason having some sort of relationship with one another even if the romantic spark fizzles out. \"This gave us a good platform on the main flow to expand particularly intense or emotional moments they experience with variation that can expand on their romantic relationship, while not losing anything if that doesn’t exist.\n\"In short, we did develop variation in scenes and interactions that range from subtle to more significant, but done in a way that should feel authentic to the player’s choices, relationship-wise and also criminal profile.\"\nHoward uses an example of Lucia pulling off an intense armored truck robbery and Jason pulling her aside to check on her, which is a scene with \"several variations where the performance direction was captured multiple ways to cover a range emotional energy between them.\n\"The actors deliveries are brilliant and nuanced – these small tender moments are where we tried to craft pieces that when added up together over the course of the story, author an authentic version of the player’s Jason and Lucia,\" says Howard.\nI've only played a few hours of GTA 6 at this point and haven't had the chance to really change the course of Lucia and Jason's relationship, but I can already tell I'm going to become deeply invested in this part of the game thanks to strong writing and performances all around. Am I going to cry playing a GTA game? It sure seems so.\nGTA 6 players confirm \"True Fat Jason\" and \"max weight Lucia\" aren't very fat at all, setting the stage for the first PC mod to super-size them\nWeekly digests, tales from the communities you love, and more\n1. Best overall: SteelSeries Arctis Nova Pro Wireless\n2. Best budget PS5: Turtle Beach Atlas 200\n3. Best budget Xbox: Turtle Beach Stealth 500\nAfter earning an English degree from ASU, I worked as a corporate copy editor while freelancing for pla",
     "extra": {}
    },
    "verdict": {
     "type": "confirmed",
-    "importance": 6,
-    "post": "📸 GTA 6 шутит над соцсетями: мемы в Instagram реальны\n\nВ игре уже есть свои Instagram‑посты – от «мне когда…» до пародий на задержки Rockstar. Джейсон вместо сна листает телефон, а мемы точны до слёз. Готовы лайкнуть? 😆",
-    "card_title": "ГТА 6 СМЕШНЫЕ ИНСТАГРАМ МЕМЫ",
-    "reason": "Подтверждённый контент из игры, интересен фанатам",
+    "importance": 8,
+    "post": "❤️‍🔥 Отношения в GTA 6 меняют сюжет\n\nИгноришь Люси с Джейсоном — они отдалятся, а если подкармливаешь, готовься к лутовым сценкам. Каждый ваш выбор реально меняет историю, так что затестим разные варианты и получим реальный вайб 🎮",
+    "card_title": "ИЗМЕНЕНИЯ СЮЖЕТА ОТНОШЕНИЯ",
+    "reason": "Подтверждённый материал от GamesRadar+, важность для игроков – влияние на сюжет",
     "duplicate": false,
     "corroborated": false,
     "duplicate_of": "",
     "corroborated_by": "",
+    "guide": false,
     "model": "groq:openai/gpt-oss-120b → groq:openai/gpt-oss-120b"
    },
-   "queued_at": "2026-11-19T13:13:39.931078+00:00"
+   "queued_at": "2026-11-20T01:47:29.712601+00:00"
+  },
+  {
+   "item": {
+    "title": "How to make money in GTA 6",
+    "link": "https://www.videogameschronicle.com/guide/how-to-make-money-in-gta-6/",
+    "summary": "Make money in GTA 6 with these tips",
+    "published": "2026-11-19T23:02:01+00:00",
+    "source": "VGC",
+    "site_name": "VGC",
+    "trust": "high",
+    "text": "What is the best way to make money in GTA 6?\nGTA 6 is finally here and players around the world are getting a chance to jump in to the world of Grand Theft Auto 6 after 13 years. However in GTA 6, money isn’t easy to get early in the game, and as such players have been looking for a way to make money fast in GTA 6.\nIn this guide we’ll list the best ways to make money and GTA 6 from early game stick-ups which you can do almost from the start of the game, to later-game bank robberies which will yield the highest rewards but are also the most difficult.\nIf you are enjoying GTA 6 you should check out our GTA 6 Guides Hub and make sure you bookmark it. We will be updating that hub every day for the forseble future with new guides new walkthroughs and everything you need to know about Grand Theft Auto 6.\nGuides: If you're playing Grand Theft Auto 6, make sure to check out our complete walkthrough hub, featuring beginner tips, navigation experience explained, GTA 6 cheats, and more.\nRobbing groceries stores in Grand Theft Auto 6 is one of the fastest ways to make money though you might not make a lot of it. Every groceries store in the game can be robbed. You can do this by going up to the cashier and sticking them up with a weapon. To do this approach, the cashier and hold the L2 button.\nThis will aim your gun at the cashier without firing however at this point you can now interact with the cashier and threaten them which will cause them to open the cash register. You won’t get a lot of cash doing it this way, however there is little police response when you rob groceries stores. Some grocery stores also have a safe in the back room or you can access by kicking down the door or forcing the employee to open it for you.\nIf that safe has a code you can often find the code on a post-it note located near the safe, or you can threaten the employee and you will get an option to ask them about the safe code. Eventually the police will be contacted and they will turn up at the store but by that point you should be long gone.\nIt’s also worth noting that a lot of grocery stores have secret rooms of that sometimes include gang activity. you can tell if one of the grocery stores has a secret room by checking the minimap if there is a room that you haven’t accessed yet try picking the lock off the door or going back outside and checking another entrance.\nWhen you first get the ability to sell drugs, you can start robbing gang hideouts which often contain large amounts of vari",
+    "extra": {}
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "🗺 Гайд: Как быстро поднять кэш в начале\n\nБабок на старте вечно нет, так что грабим магазы — это имба для первых часов.\n\n1. Направь стволик на кассира (зажми L2), чтобы он отдал кассу.\n2. Ищи стикер с кодом от сейфа в подсобке или заставь сотрудника его открыть.\n\n❤️ — уже богаче\n👎 — коплю честно",
+    "card_title": "КАК ПОДНЯТЬ БАБЛО НА СТАРТЕ",
+    "reason": "Полезный гайд по быстрому заработку в начале игры для вышедшей GTA 6",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": true,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "queued_at": "2026-11-20T02:04:25.849073+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA 6′s Pop And Classic Rock Radio Stations Contain 150 Songs, More Than All Of Vice City’s Radio Stations Combined",
+    "link": "https://kotaku.com/gta-6s-pop-and-classic-rock-radio-stations-contain-150-songs-more-than-all-of-vice-citys-radio-stations-combined-2000758551",
+    "summary": "If you were wondering just how much music is in GTA 6 the answer is: A heck of a lot!",
+    "published": "2026-11-19T22:02:25+00:00",
+    "source": "Kotaku",
+    "site_name": "Kotaku",
+    "trust": "high",
+    "text": "Grand Theft Auto 6GTA 6MusicRockstar Games\nIf you haven’t heard already: Grand Theft Auto 6, finally out now on PS5 and Xbox, is a very big video game. It’s also one of the best games I’ve played in years. And one reason I love it so much is because of all the great music on the in-game radio stations. There are so many songs. In fact, just two of the game’s biggest radio stations contain more songs than all of GTA: Vice City’s radio stations combined did back on the PS2.\nTwo of the biggest radio stations in GTA 6 are FLASH FM, a pop station, and V-ROCK, a classic rock station. Funnily enough, both of these stations appeared in Vice City, too. But this time around, the stations have a lot more music. Let’s do some number crunching!\nIn GTA: Vice City‘s version of V-Rock, there were (before some songs were cut in later ports for licensing reasons) 17 songs. Meanwhile, Vice City‘s Flash FM featured 15 songs. And in total, there were 106 songs in GTA 6 across its various stations. In GTA 6, Flash FM alone now boasts 80 songs, according to Rockstar’s recently released credits. And V-Rock now has 70 songs. Combined, there are more songs on just these two stations than in all of Vice City.\nAfter playing 150 hours of GTA 6, I’m still hearing new songs. Last night, I booted up the game and heard “Hot To Go!” for the first time, which blew me away. And I listened to these two stations a lot!\nAnyway, if you’re curious about what’s playing on these two stations, here are the full lists of songs on Flash FM and V-Rock:\nFeels – Calvin Harris, Pharrell Williams, Katy Perry, Big Sean\nLove Sex Magic – Ciara, Justin Timberlake\nHold On, We’re Going Home – Drake, Majid Jordan\nDARE – Gorillaz, Shaun Ryder, Roses Gabor\nGive Me All Your Luvin’ – Madonna, Nicki Minaj, M.I.A.\nGot Your Money – Ol’ Dirty Bastard, Kelis\nBlow My Mind (CA7RIEL & Paco Amoroso Version) – Robyn, CA7RIEL & Paco Amoroso\nDJ Got Us Fallin’ In Love – Usher, Pitbull\nMidnight Sun (Girls Trip) – Zara Larsson, PinkPantheress\nSexy Magic – CA7RIEL & Paco Amoroso, PinkPantheress, Fred again.., Etienne de Crécy\nI Want a New Drug – Huey Lewis & The News\nLet My Love Open The Door – Pete Townshend\nLove the One You’re With – Stephen Stills\nTakin’ It to the Streets – The Doobie Brothers\nTake The Money And Run – The Steve Miller Band\nDon’t miss the latest reviews, news and tips. Sign up for our free newsletter.\nCultureNews Live Updates On GTA 6: The Biggest Launch In Gaming History We're tracking all of the news, discoverie",
+    "extra": {}
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "150 ТРЕКОВ на двух радиостанциях\n\nFlash FM и V-Rock в GTA 6 завезли целых 150 песен — это больше, чем во всей Vice City. Полная пушка для любителей покататься под музло!\n\n❤️ — Заценим этот плейлист\n👎 — Своя музыка лучше",
+    "card_title": "150 ТРЕКОВ НА ДВУХ РАДИО",
+    "reason": "Официальная информация о саундтреке GTA 6 от крупного СМИ, радиостанции содержат 150 треков.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "queued_at": "2026-11-20T02:35:57.825032+00:00"
+  },
+  {
+   "item": {
+    "title": "In the GTA 6 Delights robbery mission, help or don't help Frankie and Mario?",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-delights-mission-help-or-dont-help/",
+    "summary": "Frankie wants to know if you can dance, yes or no. What should you say?",
+    "published": "2026-11-19T21:46:10+00:00",
+    "source": "PC Gamer",
+    "site_name": "PC Gamer",
+    "trust": "high",
+    "text": "You'll face a choice in Chapter 2 of GTA 6, when you're ready to help Vicky rob her boss, Frankie, at the Delights strip club in Port Gellhorn. Frankie asks you an important question and you've only got a couple seconds to respond:\n\"Can you dance? Yes or no, dude?\" Frankie has caught you (as Jason) coming in the back door of the club as you and Lucia prepare to rob it. It's ladies night and one of the male strippers is out of commission, but Mario, the lead stripper, gets an idea when he meets Jason. Frankie has the same idea, and asks if Jason knows how to dance.\nYes, they are asking Jason if he can fill in as a male stripper for the show.\nHelp: If you help, Jason becomes a male stripper for the night, and yeah, it's hilarious. You dance, you strip, you grind on ladies in the crowd (including Lucia) while wearing a teeny tiny white thong, and it's just a whole lot of silly fun. And you still get to rob the place!\nDon't help: If you don't help, Mario walks away and the strip show is cancelled. But Frankie tries, by himself, to get the ladies worked up, performing a cringe-worthy (but funny) show on stage. Jason quickly interrupts it by putting a bullet into the ceiling and announcing that it's a robbery. You still get to rob the place.\nPersonally, both versions are worth seeing, but Jason playing a stripper, and Lucia's utter delight at seeing him play a stripper, is way more fun.\nGTA 6 guide: One-stop info shopGTA 6 cars: The garage lineupGTA 6 characters: Your anti-hero castGTA 6 map: Confirmed Vice City localesGTA 6 PC release: When's it going to happen?\nKeep up to date with the most important stories and the best deals, as picked by the PC Gamer team.\nChris started playing PC games in the 1980s, started writing about them in the early 2000s, and (finally) started getting paid to write about them in the late 2000s. Following a few years as a regular freelancer, PC Gamer hired him in 2014, probably so he'd stop emailing them asking for more work. Chris has a love-hate relationship with survival games and an unhealthy fascination with the inner lives of NPCs. He's also a fan of offbeat simulation games, mods, and ignoring storylines in RPGs so he can make up his own.\nYou must confirm your public display name before commenting\nPlease logout and then login again, you will then be prompted to enter your display name.\n1 The best VPN for gaming in 2026: These privacy-protecting virtual networks keep your games lag-free\n2 Best gaming laptops 2026: We've reviewe",
+    "extra": {}
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "🗺 Гайд: Стриптизер Джейсон в миссии Delights\n\nВ 2 главе во время ограбления клуба можно согласиться станцевать вместо заболевшего стриптизера. Соглашайся — увидишь угарные танцы в микро-стрингах и реакцию Люсии, ограблению это не мешает.",
+    "card_title": "КАК ПРОЙТИ МИССИЮ В ДЕЛАТС",
+    "reason": "Гайд по прохождению миссии с забавным выбором для Джейсона, высокий интерес игроков.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": true,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "queued_at": "2026-11-20T02:36:08.342121+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA+ for GTA 6 singleplayer is like subscription-based horse armor",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-for-gta-6-singleplayer-is-like-subscription-based-horse-armor/",
+    "summary": "Would you pay $7.99 a month for one car and some in-game discounts?",
+    "published": "2026-11-20T01:01:43+00:00",
+    "source": "PC Gamer",
+    "site_name": "PC Gamer",
+    "trust": "high",
+    "text": "If you preordered GTA 6 and head to the \"store\" page in the main menu, you'll see that you have a free month of GTA+, Rockstar's subscription service. If you didn't, you can subscribe for $7.99 a month.\nYep, weird as it sounds, there's a subscription option for a singleplayer game.\nSubscribers to GTA+ for GTA Online get some decently sweet perks (and if you subscribe via GTA 6, you'll get them for GTAO too) like $500,000 of in-game cash every month, access to exclusive cars, multipliers on missions, discounts on in-game items, and more. But what does the GTA+ subscription get you in GTA 6?\nWell, how does free rides on public transportation sound? Great, right? Can I sweeten the pot with 10% off haircuts? Huh? Huh? How about if your $10 scooter rental was comped. Are you in?\nOK, you do also get a nice exclusive car and an extra garage to store it in. But there are already more than 500 vehicles in the game, so unless you're a diehard completionist, I don't think one more coupe is going to be missed, especially if you have to pay $7.99 to claim it.\nAnd it's not like you're gonna show it off to anyone. This is a singleplayer game. Remember Bethesda's infamous horse armor DLC? Imagine that, but you keep paying for it month after month.\nHere's a full breakdown of what GTA+ will get you for GTA 6:\nA 1990 Annis Venturas Blvd Elegy (a coupe)\nA single-car garage to store it in (or store other cars in)\nFree rides on public transportation (woo!)\nFree scooter, bike, and Seashark (jetski) rentals (gosh!)\n10% more on owned cars you sell at Pay 'n' Spray\n10% discount on clothing, tattoos, weapons, hairstyles, etc\nTwo more vehicle delivery credits per day from Scooter Bros (car delivery app)\nDiscounted fares on RydeMe (taxi/rideshare app)\nI have no doubt that when (if) GTA 6 gets an online component, GTA+ will be more substantial, but right now it's not the meatiest offering I've ever seen for a monthly bill on a singleplayer game, unless you want those GTA Online perks, too.\nIt's a cool looking car, and I can't dispute that those are definitely bonuses. But midway through the game you're not exactly going to be sweating rideshare costs or how much you're charged for new hairstyles. For now, at least, you might want to save your real money for something better.\nChris started playing PC games in the 1980s, started writing about them in the early 2000s, and (finally) started getting paid to write about them in the late 2000s. Following a few years as a regular freelancer, P",
+    "extra": {}
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "ПЛАТНАЯ ПОДПИСКА В ОДИНОЧКЕ 🤡\n\nРокстар завезли GTA+ за $7.99 в месяц прямо в синглплеер GTA 6. За эти деньги дарят тачку 1990 Annis Venturas Blvd Elegy с гаражом, а еще... скидку 10% на стрижки и бесплатный проезд на автобусе. Кринж полный, жиза для байеров.\n\n❤️ — Рокстар совсем зажрались\n👎 — Норм бонусы, беру",
+    "card_title": "ПОДПИСКА В ОДИНОЧКЕ GTA 6",
+    "reason": "Подтверждённый факт от PC Gamer, важная информация о подписке в уже вышедшей игре",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "groq:openai/gpt-oss-120b → gemini:gemini-3.5-flash"
+   },
+   "queued_at": "2026-11-20T01:43:12.147810+00:00"
+  },
+  {
+   "item": {
+    "title": "Guide: GTA 6: Radio Songs - All Music, Radio Stations, & Artists",
+    "link": "https://www.pushsquare.com/guides/gta-6-radio-songs-all-music-radio-stations-and-artists",
+    "summary": "Every track in GTA 6. As with the previous games in the series, GTA 6 has a staggering amount of both licensed and original music. There's so much to listen to, whether it's selected tracks during key story moments or you're just driving around with the radio on. In this GTA 6 guide , we're going to tell you everything you need to know about GTA 6's music. Read the full article on pushsquare.com",
+    "published": "2026-11-20T01:00:00+00:00",
+    "source": "Push Square",
+    "site_name": "Push Square",
+    "trust": "high",
+    "text": "As with the previous games in the series, GTA 6 has a staggering amount of both licensed and original music. There's so much to listen to, whether it's selected tracks during key story moments or you're just driving around with the radio on. In this GTA 6 guide, we're going to tell you everything you need to know about GTA 6's music.\nBelow is a list of every radio song in the game, divided by where and how they appear throughout GTA 6.\nFrench electronic duo Justice has composed and produced the original score for GTA 6, providing music that soundtracks the entire experience. Here's the track list:\nJustice ft. Michael McDonald - Starting From Zero\nJustice ft. Tame Impala, SZA, King Gizzard & The Lizard Wizard - Flower in a Hurricane\nGTA 6: The Album is a selection of 34 original tracks produced just for GTA 6. Many of these also play on certain radio stations, listed below. Here's the album's track list:\nJustice ft. Michael McDonald - Starting From Zero\nYung Lean ft. Future, Metro Boomin - That's It\nCA7RIEL & Paco Amoroso, PinkPantheress, Fred Again..., Etienne de Crécy - Sexy Magic\nJustice ft. Tame Impala, SZA, King Gizzard & The Lizard Wizard - Flower in a Hurricane\nA Boogie Wit Da Hoodie ft. elkan - Dance With Me\nJesse Johnson, DāM FunK - Stone Kold Krazy Luuv\nStanley Clarke, Yussef Dayes, Robert Glasper - Overtown Lights\nAs is tradition in the GTA series, GTA 6 features many radio stations you can listen to while going about your business in Leonida. Here, we list each station, along with all the songs they play. Songs that are totally new for the game are highlighted in bold:\nBalcony Mix Africa, Lady Du, Focalistic, Major League DJz, LuuDadeejay, Aunty Gelato – Government\nDe Mogul Sa ft. Ms Mo & Makhensa – Oe Batla Kae\nDJ Lag, Robot Boii, Kamo Mphela – Shay'sana\nPenny Penny – Milandu Bhe (Dr Moruti Remix)\nEparapo, Dele Sosimi, Bayaka (IT) – From London to Lagos (Bayaka Remix)\nNO11 & Ayjay bobo ft. Monochrome – HOW FAR\nTony Allen & The Afro Messengers – No Discrimination\nUncle Waffles ft. Royal MusiQ, OHP Sage, Pcee – Wadibusa\nDavid Allan Coe – Need a Little Time Off for Bad Behavior\nHank Williams Jr. ft. Waylon Jennings – The Conversation\nThe Kentucky Headhunters – Walk Softly On This Heart of Mine\nLoretta Lynn – Don’t Come Home A-Drinkin’ (With Lovin’ On Your Mind)\nSkream & Jackmaster – The Attention Deficit Track\nRomeo Santos ft. El Chaval de la Bachata – Canalla\nAxel Rulay ft. Farruko and El Alfa – Si Es Trucho Es Trucho (Remix)\nRaiNao & El Laberint",
+    "extra": {}
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "🗺 Гайд: Музыка и радиостанции в игре\n\nЗа саундтрек ответил электронный дуэт Justice, замутив оригинальный альбом с фитами Tame Impala, SZA и Yung Lean. На радио завезли сочный микс от афробита и хип-хопа до классического рока. Врубай любую волну в тачке и кайфуй под топовый музон!",
+    "card_title": "САУНДТРЕК И РАДИО GTA 6",
+    "reason": "Подтверждённый гайд от надёжного источника, полезен игрокам",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": true,
+    "model": "groq:openai/gpt-oss-120b → gemini:gemini-3.5-flash"
+   },
+   "queued_at": "2026-11-20T01:44:29.244363+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA 6's blatant Matty Matheson-like character isn't really Matty Matheson, confirms The Bear star",
+    "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6s-blatant-matty-matheson-like-character-isnt-really-matty-matheson-confirms-the-bear-star-thats-not-me-its-not-my-voice/",
+    "summary": "SNL fans will know the real actor",
+    "published": "2026-11-20T00:25:25+00:00",
+    "source": "GamesRadar+",
+    "site_name": "GamesRadar+",
+    "trust": "high",
+    "text": "Anyone who's watched an episode of The Bear or a YouTube cooking show immediately recognized a central supporting character in GTA 6, Jason's lovable, rambling redneck friend, Cal. He's obviously Matty Matheson, the chef and actor best-known as Neil Fak on the FX TV show The Bear. And yet, he definitely isn't, because Matheson himself has confirmed he isn't in GTA 6 at all.\nMatheson clearly caught wind of the comparisons he's been getting since Cal was revealed in trailers and promotional images a couple of years back, and took to Instagram to dispel the suspicions. \"I just wanted to say that I'm not in Grand Theft Auto 6,\" he says as an image of Cal appears on-screen. \"I'm not. That's not me, it's not my voice. But uh, yeah, I don't know... So, it's not me. Have a beautiful day.\"\nCal is quickly becoming one of my favorite characters in GTA 6. He's the lovable oaf that every protagonist needs by their side in a rollicking, dangerous adventure like the one Jason and Lucia get into in GTA 6. I say that as a protective preface before the following sentence: I refuse to believe that isn't Matty Matheson. I mean, it definitely isn't his voice or performance, but Cal, in spirit, will always be a digitized Matty Matheson to me, or at least the exaggerated, high-energy persona he assumes in a lot of his videos. Or maybe he's Danny McBride.\nJoking aside, it's actually former Saturday Night Live mainstay Bobby Moynihan that plays Cal in GTA 6, according to Vulture, and you know what, that's damn good fit I hadn't even considered before researching for this story.\nGTA 6 Bigfoot sightings are already ramping up as Rockstar honors a 22-year-old Grand Theft Auto legend\n1. Best overall: SteelSeries Arctis Nova Pro Wireless\n2. Best budget PS5: Turtle Beach Atlas 200\n3. Best budget Xbox: Turtle Beach Stealth 500\nBringing all the latest movie news, features, and reviews to your inbox\nAfter earning an English degree from ASU, I worked as a corporate copy editor while freelancing for places like SFX Magazine, Screen Rant, Game Revolution, and MMORPG on the side. I got my big break here in 2019 with a freelance news gig, and I was hired on as GamesRadar's west coast Staff Writer in 2021. That means I'm responsible for managing the site's western regional executive branch, AKA my home office, and writing about whatever horror game I'm too afraid to finish.\nYou must confirm your public display name before commenting\nPlease logout and then login again, you will then be prompted t",
+    "extra": {}
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "❌ МАТТИ МЭТЭСОН НЕ В GTA 6\n\nМатти в Инсте отмазался – его голос и лицо в игре нет. Так что наш любимый красный парень Кэл – это не он, а Bobby Moynihan. Флекс, но теперь точно знаем, кто за озвучкой 🎤",
+    "card_title": "МАТТИ НЕ В GTA6",
+    "reason": "Официальное подтверждение от Матти Мэтисона, что он не участвует в игре",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "groq:openai/gpt-oss-120b → groq:openai/gpt-oss-120b"
+   },
+   "queued_at": "2026-11-20T01:48:20.154623+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA 6 Chapters and Mission List: How many chapters in GTA 6? (Spoiler-Free)",
+    "link": "https://www.videogameschronicle.com/guide/gta-6-chapters-and-mission-list-how-many-chapters-in-gta-6-spoiler-free/",
+    "summary": "Here's a spoiler-free list of all of the missions and chapters in GTA 6",
+    "published": "2026-11-19T23:58:21+00:00",
+    "source": "VGC",
+    "site_name": "VGC",
+    "trust": "high",
+    "text": "How many chapters are in GTA 6? How many mission are in the game?\nThose are two of the major questions that GTA 6 players have started to ask now that they have access to the full game. In this spoiler-free list of all GTA 6 chapters and GTA 6 missions, we have listed every mission in the same order they appear in the in-game story recape.\nIf you’re enjoying GTA 6, check out our GTA 6 Guides Hub, which includes walkthroughs, top tips for playing the game, and much more.\nGuides: If you're playing Grand Theft Auto 6, make sure to check out our complete walkthrough hub, featuring beginner tips, navigation experience explained, GTA 6 cheats, and more.\nNote: If a mission title contains a spoiler, we have redacted it. We’ve also used generic GTA 6 screens for the images in this story (beyond the header image of Chapter 1) so those aren’t spoiled either.\nChapter 1 of GTA 6 follows Jason and he prepares for Lucia to get out of jail.\nChapter 2 of GTA 6 takes Jason and Lucia to Kelly County.\nGTA 6 Chapter 3 takes Jason and Lucia back to Vice City.\nGTA 6 Chapter 4 raises the stakes as Jason and Lucia go undercover",
+    "extra": {}
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "🗺 Гайд: СКОЛЬКО глав в сюжете GTA 6\n\nРаскладываем по полочкам сюжетку: в игре четыре основные главы, кидающие Джейсона и Люсию от подготовки к выходу из тюрьмы до жаркого Вайс-Сити.\n\n❤️ — Прохожу уже\n👎 — Жду на ПК",
+    "card_title": "ГЛАВЫ И МИССИИ GTA 6",
+    "reason": "Гайд по структуре глав и миссий в вышедшей GTA 6",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": true,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "queued_at": "2026-11-20T02:04:05.833121+00:00"
+  },
+  {
+   "item": {
+    "title": "Video Game Spending Dropped 14% This October, Possibly Because Everyone Was Preparing for GTA 6",
+    "link": "https://www.ign.com/articles/video-game-spending-dropped-14-percent-this-october-possibly-because-everyone-was-preparing-for-gta-6",
+    "summary": "The amount of money that players spent on video games this October fell 14%, and it’s little surprise that this coincided with the release of GTA 6 in November.",
+    "published": "2026-11-19T22:20:09+00:00",
+    "source": "IGN",
+    "site_name": "IGN",
+    "trust": "high",
+    "text": "Tough act to follow. Er, lead up to, rather.\nThe amount of money that players spent on video games this October fell 14%, and it’s little surprise that this coincided with the release of GTA 6 in November.\nA new report from market research firm Circana shows that gamers were a bit more frugal this October than they were last year, despite two major games releasing that month. Call of Duty: Modern Warfare 4 launched on October 23, and Gears of War: E-Day released on October 1. Both games enjoyed reasonable critical reception, though reviews for Modern Warfare 4 were rather mixed.\nIt’s worth noting that sales for E-Day paled in comparison to the rave reviews it received, with analysts estimating that the game only sold 400,000 copies across both console and PC as of October 30. And last October, Battlefield 6 rocked players’ wallets as one of the best-selling games in the entire series — and, indeed, the best-selling game of the entire year — so it’s not a head-scratcher that this was a tough act for MW4 and E-Day to follow.\nCircana’s report found that consumer spending on console, specifically, fell 18% from last year, and compared this trend to sales from Battlefield 6 and Pokémon Legends: Z-A. The report pointed to a 16% decline in mobile spending as the primary driver of this drop in addition to Battlefield's booming sales from last October.\nHowever, it’s hard to ignore the impact that GTA 6 has had on the industry at large. Earlier this month, Take-Two CEO Strauss Zelnick revealed that the release of the world’s most highly anticipated game likely had an impact on the lower-than-expected sales for NBA 2K27, as well as other titles.\n“I do think that this timing may have affected performance so far,” he told IGN in an exclusive interview. “It has been a crowded period, and we do think that GTA 6 coming has had an influence on the consumer. That said, we're thrilled with how NBA 2K27 is performing.”\nThe launch of GTA 6 has proven to be a massive and unprecedented moment in pop culture history, to the point where analysts saw a 17% increase in time off requests for its release date on November 19. Even world governments were hopping on the bandwagon, with Australia’s workplace regulator reminding employees of their rights to PTO in a viral post last month. Germany also boasts a program that allows workers to take time off for professional development to play the game.\nIf that wasn’t wild enough, a U.S. Army Battalion even advertised a special reenlistment i",
+    "extra": {}
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "Все экономят ради GTA 6\n\nРасходы игроков в октябре просели на 14% из-за подготовки к релизу века. Чел, ну база же, все берегли бабки на игру.\n\n❤️ — Ждали только её\n👎 — Опять слили бюджет",
+    "card_title": "ПАТЕНТ НА ОЖИДАНИЕ GTA 6",
+    "reason": "Официальный отчет Circana и слова главы Take-Two о влиянии релиза GTA 6 на игровую индустрию.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "queued_at": "2026-11-20T02:20:21.211363+00:00"
+  },
+  {
+   "item": {
+    "title": "Should you give the statue to Benedict Halifax in GTA 6?",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-give-statue-to-benedict-halifax-or-not/",
+    "summary": "Or should you not trust the eccentric antiques dealer?",
+    "published": "2026-11-19T21:56:00+00:00",
+    "source": "PC Gamer",
+    "site_name": "PC Gamer",
+    "trust": "high",
+    "text": "Deciding whether to give the statue to Benedict Halifax is a decision you'll need to make during the fourth story mission of Chapter 3 in GTA 6, called Dubious Provenance. This mission will kick off after Cal visits the Bayside apartment you're borrowing from Boobie to inspect the hard drive.\nOnce Cal leaves, you'll see an icon of a statuette at the closet door. Remember, you didn't just acquire a hard drive but a bronze statuette in Chapter 1, and if you interact with it now the mission will begin. First, you need to drive to Capri, a ritzy town on the other side of the map.\nAt the antiques store, Evelyn Andrews tells you she isn't interested in the obviously stolen item, but art dealer Benedict Halifax approaches you on the sly and says he can have it appraised for you. Should you give the statue to him?\nGive the statue to Halifax: He'll give you a watch to hold onto as collateral while he appraises the statue. Then he'll vanish for a while, trying to duck you, and you'll have to call him repeatedly to track him down again.\nDon't give the statue to Halifax: This is really just delaying the rest of the mission. You can keep the statue for now, but if you want to progress the mission you'll have to go all the way back to Capri at some point and give it to him anyway.\nSo, you might as well just give it to him. Things shake out the same way no matter what you choose, but not giving it to him just means the mission will ultimately take longer to complete.\nGTA 6 guide: One-stop info shopGTA 6 cars: The garage lineupGTA 6 characters: Your anti-hero castGTA 6 map: Confirmed Vice City localesGTA 6 PC release: When's it going to happen?\nKeep up to date with the most important stories and the best deals, as picked by the PC Gamer team.\nChris started playing PC games in the 1980s, started writing about them in the early 2000s, and (finally) started getting paid to write about them in the late 2000s. Following a few years as a regular freelancer, PC Gamer hired him in 2014, probably so he'd stop emailing them asking for more work. Chris has a love-hate relationship with survival games and an unhealthy fascination with the inner lives of NPCs. He's also a fan of offbeat simulation games, mods, and ignoring storylines in RPGs so he can make up his own.\nYou must confirm your public display name before commenting\nPlease logout and then login again, you will then be prompted to enter your display name.\n1 The best VPN for gaming in 2026: These privacy-protecting virtual ne",
+    "extra": {}
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "🗺 Гайд: Сдавать ли статуэтку Бенедикту?\n\nОтдавать статуэтку Бенедикту Галифаксу в миссии Dubious Provenance можно смело сразу — это база. Если зажать её, просто зря потратишь время на лишние поездки в Капри, всё равно придётся отдать.\n\n❤️ — Сдал сразу\n👎 — Сначала побегал",
+    "card_title": "ОТДАТЬ ЛИ СТАТУЭТКУ БЕНЕДИКТУ",
+    "reason": "Полезный гайд по сюжетной миссии в GTA 6, помогающий сэкономить время игрокам.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": true,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "queued_at": "2026-11-20T02:36:03.641204+00:00"
   },
   {
    "item": {
@@ -6976,10 +6943,252 @@
     "model": "groq:openai/gpt-oss-120b → groq:openai/gpt-oss-120b"
    },
    "queued_at": "2026-11-19T17:41:49.167130+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA 6's Mandy 'Is a Lot of Fun' Says Real-Life Actress as PS5 Players Are Smitten",
+    "link": "https://www.pushsquare.com/news/2026/11/gta-6s-mandy-is-a-lot-of-fun-says-real-life-actress-as-ps5-players-are-smitten",
+    "summary": "Voice and motion capture confirmed. I knew when I was reviewing GTA 6 that bunny boiler Mandy was going to take social media by storm, and it was quite fun watching the web react to Chapter 1’s ‘ Pipeworks ’ mission as the game launched overnight. Now it’s being played by millions, actress Lexie Shoaibi has revealed she stars as the character, who not-so subtly throws herself at Jason during a very early story mission. Read the full article on pushsquare.com",
+    "published": "2026-11-20T00:00:00+00:00",
+    "source": "Push Square",
+    "site_name": "Push Square",
+    "trust": "high",
+    "text": "I knew when I was reviewing GTA 6 that bunny boiler Mandy was going to take social media by storm, and it was quite fun watching the web react to Chapter 1’s ‘Pipeworks’ mission as the game launched overnight.\nNow it’s being played by millions, actress Lexie Shoaibi has revealed she stars as the character, who not-so subtly throws herself at Jason during a very early story mission.\nI actually think this is one example of the game’s slightly more mature writing. Wait, don’t roll your eyes – just hear me out, okay?\nWhile this whole quest is played more for laughs, it’s there to establish the strength of Jason and Lucia’s relationship, as Jason shows no signs of being tempted by Mandy’s advances.\n“She’s a lot of fun,” Shoaibi said, after confirming she did voice acting and motion capture for the character. At the time of writing, her post on Instagram has received over 90k likes.\nBut the response on social media would suggest gamers think she’s more than a “lot of fun”.\nOne post by Complex, featuring a few images and the caption ‘Mandy from GTA 6’, attracted 37 million views in just a few hours. Pertinently, it’s been bookmarked 54k times.\nI don’t want to analyse this character too deeply, but I think it’s the moment I realised Rockstar has really pushed the boat out here.\nThe sheer variety of body types, and the detail invested into them, is unprecedented really. Mandy is just one of many similarly realistic NPCs in the game.\nAnd while the character is almost certainly a psychopath, it’s been amusing to see her go viral overnight.\nSo you really are making an article for every character, huh.\nProbably why the game is a unanimous 10/10 from the critics.\nI sure hope we get an article on who plays as the iconic Alley the Alligator in the game. They're a really loved character that shined out of their role.\nI thought western devs don't like beautiful women in their games anymore 🤷🏻‍♂️\nWe all know why shes popular and it’s because of the cake\nWill Lucia believe us when we tell her Reveal Spoilersit was just fingers, so it wasn't cheating.\nI need to buy that bikini for my partner 😂😂😂\nYeah R* knew what they were doing with that mission.\nI felt it highlighted a problem with the game, whereby the player is given a fair amount of freedom, but ultimately you don’t control your destiny and are a slave to the overarching plot.\nIt can be jarring when what other games might allow you to do, is off the menu. It snaps you out of the feeling that you are in an RPG, which one c",
+    "extra": {}
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "🎮 Mandy в GTA 6: актриса Lexie Shoaibi раскрыла детали\n\nLexie Shoaibi подтвердила, что она озвучивает и делает моушн‑капрч для Мэнди — этой имбы‑зайки‑бойлер, от которой все PS5‑геймеры в шоке. Теперь точно знаем, кто стоит за её «lot of fun» и почему персонаж стал таким виральным мемом. 🚀",
+    "card_title": "МАНДИ И АКТРИСА ЛЕКСИ",
+    "reason": "Подтверждена актриса персонажа, важная инфа для фанатов",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "groq:openai/gpt-oss-120b → groq:openai/gpt-oss-120b"
+   },
+   "queued_at": "2026-11-20T02:04:02.679262+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA 6 Has Police Departments Across America Begging People Not to Commit Crimes IRL",
+    "link": "https://www.ign.com/articles/gta-6-has-police-departments-across-america-begging-people-not-to-commit-crimes-irl",
+    "summary": "GTA 6's popularity has led to police departments around the United States pleading with citizens to not commit real crimes.",
+    "published": "2026-11-19T23:55:01+00:00",
+    "source": "IGN",
+    "site_name": "IGN",
+    "trust": "high",
+    "text": "GTA 6's popularity has led to police departments around the United States pleading with citizens to not commit real crimes.\nGTA 6 is finally here, and you can carry out many of your wildest criminal fantasies. It's a very freeing experience, and Rockstar has added more depth than ever before to make crimes like simple robberies more intricate and nuanced. However, the usual suspects when it comes to a new GTA game (mainstream news outlets, like Fox News) have expressed concern over what kind of impact this might have on society. Will it create real rampant crime or spikes in violence? Probably not, but police departments across the country have created PSAs to ask people not to commit crime.\nThe Atlanta Police Department put out a post asking people to express their more radical desires in-game and not in real life.\nGTA is not a real place, but Atlanta is!🎮Don't confuse virtual entertainment with real-life decisions.Drunk driving, reckless driving, auto theft and violence have real consequences.Keep it in the game. Don't bring it to our streets. https://t.co/Y7PdJFHLsZ— Atlanta Police Department (@Atlanta_Police) November 17, 2026\nThe police department in San Juan, Texas have asked players to keep their behavior in-game, noting that a six star wanted level in real life is not a challenge, but a criminal jail sentence.\nIt's a bit of fun to likely ride the GTA 6 hype wave. You'd be hard pressed to find a major company that isn't trying to capture GTA 6's excitement in some way right now, and it seems like even local governments are doing the same thing. As is always the case with GTA, there are some folks expressing concern over the game's contents. One concerned group in particular is the furry community, which is mocked in-game. Furries are illegal in GTA 6 and as a result, the police hunt them down and point weapons at them. It's pretty absurd, but some real furries don't find it very amusing.\nThis is all par for the course for this franchise, but it does seem like more non-gamers are trying to have fun with it since it's such a massive cultural event. As of right now, we don't know how well GTA 6 has sold, but it looks like it's going to have the biggest launch in entertainment history.\nJust getting started in GTA 6 or wondering what to do next? Check out the Official Grand Theft Auto 6 guide right here on IGN. If you're still getting your bearings, discover GTA's new systems with the Beginner's Guide - 67 Tips and Tricks, or get all the details on the f",
+    "extra": {}
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "КОПЫ В ШОКЕ ОТ GTA 6\n\nАмериканские полицеские просят геймеров оставить безумие в виртуальном Вайс-Сити и не устраивать криминал на реальных улицах. База же, чел, шестизвездочный розыск в реале — это тюрьма, а не катка.\n\n❤️ — Ждем патч на копов\n👎 — Скуфы в тильте",
+    "card_title": "ПОЛИЦИЯ ПРОСИТ ИГРАТЬ ДОМА",
+    "reason": "Полицейские участки США просят игроков не повторять безумия из GTA 6 в реале.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "queued_at": "2026-11-20T02:04:09.891754+00:00"
+  },
+  {
+   "item": {
+    "title": "Where to Find the SM-69 Sniper Early in GTA 6",
+    "link": "https://www.gtaboom.com/gta-6-sm-69-sniper-location-504f",
+    "summary": "Pick up GTA 6's SM-69 Sniper for free in Chapter 1 and check the same tower for a Delights Dancers collectible.",
+    "published": "2026-11-19T22:36:11+00:00",
+    "source": "GTA BOOM",
+    "site_name": "GTA BOOM",
+    "trust": "medium",
+    "text": "The SM-69 Sniper is waiting on a tower balcony overlooking Key Lento. It's a short detour for Jason if you want a scoped rifle before your next story job. The easiest landmark is Nifty Threads Islandwear: the tower is beside the shop, not inside it.\nFind the tower by Nifty Threads Islandwear\nZoom in on the shirt icon for Nifty Threads Islandwear. In the 3D map view, the tall gray tower sticks up just above the icon, between the highway and the waterfront. Set your waypoint at the foot of the tower.\nClimb over the wide chain-link gate in front of the concrete building marked Badger. Go past the small entrance on your right to the gray door with electrical warning signs at the tower's base. Once inside, take the wall ladder up to the control room.\nGo through the door beside the control panels and step out onto the balcony. The rifle is propped against the railing. When you see the SM-69 Sniper prompt, press L1 on PlayStation or LB on Xbox.\nBefore you leave, look beside the pink magazine on the desk between the control cabinet and the small TV. The Collectible Card prompt picks up Thelma from the Delights Dancers set.\nOnce a post receives 3 qualifying Helpful marks\nGTA 6 Find the Lost Drugs: All Four Search Areas",
+    "extra": {}
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "🗺 Гайд: СНАЙПЕРКА SM-69 НА СТАРТЕ\n\nХочешь имбу без прокачки? Беги к магазу Nifty Threads Islandwear на Key Lento.\n\nЗадерись к серой башне рядом, перелезь ворота с табличкой Badger и лезь по лестнице наверх к балконному пушке-стволу. Бонусом там лежит коллекционная карточка, залутай сразу.",
+    "card_title": "ГДЕ НАЙТИ СНАЙПЕРКУ SM-69",
+    "reason": "Гайд по поиску крутой снайперки в самом начале игры",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": true,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "queued_at": "2026-11-20T02:20:09.718659+00:00"
+  },
+  {
+   "item": {
+    "title": "How to Lose Heat in GTA 6 by Swapping Outfits From Your Trunk",
+    "link": "https://www.gtaboom.com/how-to-lose-heat-in-gta-6-by-swapping-outfits-from-your-trunk-bfb7",
+    "summary": "Your personal car in GTA 6 holds five outfits. Only swap after breaking police line of sight to clear your clothing description and lose heat.",
+    "published": "2026-11-19T22:13:05+00:00",
+    "source": "GTA BOOM",
+    "site_name": "GTA BOOM",
+    "trust": "medium",
+    "text": "The heat and wanted system in Grand Theft Auto VI remembers what you were wearing when you pulled a job, so a quick way to shake a pursuit is, naturally, to change clothes. You don't need a wardrobe for it either. You can simply stash a few outfits in your car trunk and you can swap on the fly, wiping the description the police are working from without a detour to a store but, of course, there's a certain degree of realism to this.\nBefore that, let's start with how outfit changes while on the run work. In GTA VI, a personal vehicle holds up to five outfits in its trunk. It will show as a counter in the menu. You load the outfits in from a wardrobe at a safehouse or any clothing store, then remove or replace them the same way. The cap is fixed at five, with no way to raise it and you have to have the car with you. If the car is impounded or wrecked, you won't have access to the outfits.\nSwapping clothes is quick. Sitting in the car, all you need to do is to open the weapon and item wheel, pick the clothes-hanger option, cycle to the outfit you want and confirm. There is no long, vulnerable animation, so you can do it mid-escape. Just time it right. Changing clothes while the police still have eyes on you means that they know what you still look like.\nYou'll want to break line of sight first, get the stars flashing, then swap while only residual heat is left. This way, the clothing description drops for good.\nEvery GTA 6 heat indicator and how to clear it\nClearing each icon makes you harder to recognize, even inside a red heat zone that has not cooled yet.\nThe swap only covers one of those indicators. The heat system tracks your clothing and your appearance, meaning your face, hair and build, as two separate things, so a full outfit change clears the clothing icon but your appearance icon remains. Clearing that instead will mean wearing a hat, glasses or a mask, or a trip to the barber. Rob Nelson of Rockstar North pointed to exactly this in a pre-launch demo, noting that the police remember what you are wearing and that keeping spare outfits in your trunk is a practical way to drop heat on the move.\nIt helps to remember that heat here is not a meter you fill. Police only act if a crime is witnessed, caught on camera or flagged by a tracker. What they know shows up as those icons rather than a points total. Stars still climb with severity, from a single star for a basic car theft up to the map-wide six-star rampage.\nClothes are only one piece, so pair the sw",
+    "extra": {}
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "🗺 Гайд: Как скинуть хвост через багажник\n\nЗакинь до пяти луков в тачку заранее, чтобы менять шмот на ходу. Скрылся из вида копов, открыл колесо выбора, свапнул шмотку — и ты уже другой чел.\n\n❤️ — Полезная имба\n👎 — Проще в кустах пересидеть",
+    "card_title": "СБРОС РОЗЫСКА ЧЕРЕЗ БАГАЖНИК",
+    "reason": "Гайд по полезной игровой механике сброса розыска через багажник в вышедшей GTA 6.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": true,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "queued_at": "2026-11-20T02:35:50.977234+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA 6 Buck Me Walkthrough and BuckMe Setup Guide",
+    "link": "https://www.gtaboom.com/gta-6-buck-me-walkthrough-29b0",
+    "summary": "Buck Me unlocks BuckMe, the phone app Jason uses to move money into Family Savings and find ATMs.",
+    "published": "2026-11-19T21:40:20+00:00",
+    "source": "GTA BOOM",
+    "site_name": "GTA BOOM",
+    "trust": "medium",
+    "text": "After Coming Home, look for Set Up Bank Account on the Story map. That's the marker for Buck Me. Put a waypoint on the pink bank icon and drive to the Fleeca branch in Key Lento with the green awning. Once the visit ends, check your new account for the GTA$100 welcome credit.\nGo inside as Jason and approach the teller in yellow. To talk to her, hold L2 on PlayStation or LT on Xbox, then choose Bank Account? with X on PlayStation or A on Xbox. She points you to the manager, who's wearing a blue patterned shirt at the desk by the windows.\nAt the manager's desk, hold L2 on PlayStation or LT on Xbox when the Manager prompt appears. Jason asks about opening an account, then follows him into the back office, where Lucia joins you.\nWhen the manager asks if you have money to put down, pick Saved Cash with X on PlayStation or A on Xbox. Jason offers to bring in his savings and a pink heart appears. If you want Jason to stay quiet, choose Say Nothing with Square on PlayStation or X on Xbox.\nThe manager offers BuckMe instead of a regular account. Let the remaining scenes play until Jason is back at home and the welcome message from BuckMe arrives.\nPress up on the D-pad to open the phone. Choose the purple BuckMe icon from your phone apps and let the intro finish. Open Checking Account, then select Buck Yourself. Confirm the transfer to move the GTA$100 welcome credit into Family Savings. The balance should show GTA$100 in savings and GTA$4,900 to the next goal. You can't withdraw money once you've moved it into Family Savings.\nScroll down in BuckMe to ATM Finder and choose Set Destination. This puts a waypoint to the ATM on the map without opening the full Story map.\nLook for Save for the Future on the Story map. The first goal is GTA$5,000 in Family Savings, including the GTA$100 you moved over. The account earns interest and you can go straight to BuckMe from the map card with Triangle on PlayStation or Y on Xbox.\nYou don't need to reach GTA$5,000 to meet Brian. Once Meet Brian appears, you can head to the marina and build up your savings later.",
+    "extra": {}
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "🗺 Гайд: Как пройти миссию Buck Me и залутать бонус\n\nИзи сотка баксов на старте: после миссии Home иди в банк Fleeca в Key Lento, оформляй аккаунт через менеджера и переводи бонус в Family Savings через приложение BuckMe.",
+    "card_title": "ПРОХОЖДЕНИЕ МИССИИ BUCK ME",
+    "reason": "Гайд по прохождению миссии Buck Me и настройке приложения BuckMe для получения бонуса.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": true,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "queued_at": "2026-11-20T02:36:15.008353+00:00"
+  },
+  {
+   "item": {
+    "title": "Where Do Photo Studio Pictures Get Saved in GTA 6?",
+    "link": "https://insider-gaming.com/photo-studio-pictures-gta-6/",
+    "summary": "GTA 6 has a nice photo mode, but where do your expertly crafted pictures actually end up? Here's how to find them on your console. The post Where Do Photo Studio Pictures Get Saved in GTA 6? appeared first on Insider Gaming .",
+    "published": "2026-11-19T23:22:00+00:00",
+    "source": "Insider Gaming",
+    "site_name": "Insider Gaming",
+    "trust": "medium",
+    "text": "GTA 6 has a ton of things to do within the game itself to keep you occupied for many hundreds of hours. For the extra artsy out there, and like many other games, GTA 6 offers a photo mode.\nHere, it’s actually called Photo Studio, though it’s about the same as any other video game photo mode you’ve ever used.\nHowever, despite how familiar you already may be with in-game photo modes, you may still be confused about where your saved images are actually ending up. Here’s how to locate your Photo Studio saved images in GTA 6.\nYou can purchase Grand Theft Auto 6 here if you still need a copy yourself.\nFrom the main pause menu in GTA 6, you can either toggle down to the Photo Studio prompt to open the game’s photo mode, or simply press Square on PS5/X on XBOX to access it.\nFrom here, you can fully customize your own pictures, including using many different filters and settings to get everything looking exactly how you want it. You can then hold the confirm button on your controller to save the image.\nRelated: All GTA 6 Guides, Walkthroughs, Best Tips & Tricks\nThe question then becomes, “Where does my saved image actually end up?” You might think it’ll populate on your in-game smartphone in the photo gallery, but that’s actually not the case.\nFinding Your Saved Pictures from Photo Studio\nInstead, pictures saved via GTA 6’s Photo Studio actually end up in your console’s Media Gallery itself, not anywhere within the game. On PS5, select the Media Gallery icon from your home screen if you’ve used it recently enough.\nIf not, you can tab all the way over to the right of your icons and enter your Game Library. Here, scroll down to the “M” section if your downloads are sorted alphabetically, and you’ll find your GTA 6 Photo Studio images there.\nThis process is slightly different on XBOX, but the same principle is followed. From the XBOX menu, go to My Games & Apps, then Apps, and finally Captures to see all your works of art from Photo Studio.\nRelated: 10 Things To Do Before Leaving Your Safehouse in GTA 6\nHave any particularly good GTA 6 screenshots? Show them off in the Insider Gaming Discord server!\nNeed help with anything else GTA 6-related? Check out our list of guides, tips, and walkthroughs. For more, make sure to sign up for the Insider Gaming weekly newsletter.\nNOTE: Insider Gaming may earn affiliate commission if you purchase items through links on Insider Gaming. Read more about affiliate commission here.\nEthan Krieger got started as a sports journalist coveri",
+    "extra": {}
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "🗺 Гайд: Где искать фотки из Photo Studio\n\nСнимки не падают в телефон в игре. На PS5 чекай Media Gallery или Game Library, а на Xbox ищи в разделе Captures.\n\n❤️ — Нашел с первой попытки\n👎 — Опять заблудился в меню",
+    "card_title": "КУДА СОХРАНЯЮТСЯ ФОТО",
+    "reason": "Гайд по поиску сохраненных фото из Photo Studio в консольной галерее",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": true,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "queued_at": "2026-11-20T02:04:20.356647+00:00"
+  },
+  {
+   "item": {
+    "title": "Best Early Game Locations For Easy Cash in GTA 6—Chapter One Money Making, Explained",
+    "link": "https://insider-gaming.com/gta-6-early-game-locations-make-money/",
+    "summary": "In GTA 6, there are a few easy-to-access locations you'll want to take advantage of early to make a good stack of cash. The post Best Early Game Locations For Easy Cash in GTA 6—Chapter One Money Making, Explained appeared first on Insider Gaming .",
+    "published": "2026-11-19T22:51:08+00:00",
+    "source": "Insider Gaming",
+    "site_name": "Insider Gaming",
+    "trust": "medium",
+    "text": "Grand Theft Auto 6’s first chapter represents a smooth introduction to the world of Leonida. It’s a nice walkthrough of the game’s core mechanics and a foundational layer from which to grow as a player, and a couple of awesome protagonists. As soon as you boot up the game, you’ll notice that you don’t exactly have a lot of money to your name, though.\nThat’s fine, because there are a few locations you can access to get some very easy cash right out of the gate. They’re locations that take very little effort to find, and once you get to them, you might only have to fight a couple of people before you can waltz away with stacks of cash, drugs, or something else that’s quite valuable.\nEarly on, Jason will be accosted by his neighbor, Shirley, who wants him to head to a local liquor store called Three Sheets Liquor, to obtain a bottle of rum. When you arrive, you’ll see that something weird is happening in the back room, and with a little exploration, you’ll find your way around the rear of the building, staring down four or five guards.\nIf you can take them out quietly, great. If you can’t, pop them quickly and dash in to grab the cash before making a clean getaway.\nWe’ve got a full guide on how to take advantage of this location.\nTo the southwest of Hamlet, just above the Shoeless Keys, you’ll find a hidden gang location called the Manatee Motel. You will be prompted to explore this location when you hear gunshots and roaring when passing by. Upon investigating, you’ll notice a bunch of gang members who have been savaged by a tiger.\nNote: If you scout the area outside the motel, around the ‘back’ of the building, you’ll find a shotgun that you can use to dispatch the tiger without too much effort. All the other gang members have been killed at this point.\nInside, you’ll find stacks of cash and other goodies to secure without too much trouble. Once you’ve grabbed the loot, a car will arrive containing three to four gang members. Simply blow them away (or kneecap them for non-lethal takedowns) and then drive off into the sunset with your cash.\nTo the very northeast of the Corsair Key location, bordering the Atlantic Ocean, you’ll see a bunch of stilt houses in the water. They’re mostly uninteresting, except for the northernmost house. If you head here by boat, you’ll see a scene has unfolded quite mysteriously.\nThe building is full of dead gang members, and scattered around them is cash and cocaine. You’re free to grab the stash without any trouble, and if you ",
+    "extra": {}
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "🗺 Гайд: РАЗБОЙ И ЛУТ НА СТАРТЕ\n\nБабки в начале GTA 6 улетают моментально, но в первой главе есть пара имбовых точек. Магаз Three Sheets Liquor и заброшенный Manatee Motel с тигром насыплют кэша без лишней духоты, затестим.\n\n❤️ — уже лутаю\n👎 — коплю честным трудом",
+    "card_title": "КАК ПОДНЯТЬ БАБЛО В ПЕРВОЙ ГЛАВЕ",
+    "reason": "Полезный гайд по быстрому заработку в первой главе GTA 6.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": true,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "queued_at": "2026-11-20T02:19:55.312380+00:00"
+  },
+  {
+   "item": {
+    "title": "When Can You Get a New Safehouse in GTA 6? Next Hideout, Explained",
+    "link": "https://insider-gaming.com/when-do-you-get-new-safehouse-gta-6-explained/",
+    "summary": "Grand Theft Auto is a game best known for an extensive safehouse network, but when do you get a new safehouse in GTA 6? Find out here. The post When Can You Get a New Safehouse in GTA 6? Next Hideout, Explained appeared first on Insider Gaming .",
+    "published": "2026-11-19T22:29:07+00:00",
+    "source": "Insider Gaming",
+    "site_name": "Insider Gaming",
+    "trust": "medium",
+    "text": "Grand Theft Auto has been a game known for the ‘safehouse’ mechanic for many years. Throughout the franchise, we’ve seen the concept toyed with in several ways, with Rockstar Games going so far as to allow players to purchase strings of properties in some titles. But how does the safehouse concept work in GTA 6, and when can you leave Jason’s house in Key Lento?\nIn this guide, we’ll break down when you get a new safehouse in Grand Theft Auto 6, relocating for the first time and stepping into pastures new. Bear in mind that it’s tough to explain when you land a new safehouse without parting ways with some spoilers, but I’ll keep that content to a minimum.\nWhen Can You Move On From Jason’s Safehouse in GTA 6?\nAt the end of the game’s first chapter, which you’ll reach when you hit roughly 27% of the main story (indicated by your save file), you’ll be forced to leave Jason’s house. I won’t explain at all what happens, but it’s a heartbreaker of a sequence that I have named the most impressive batch of missions in video game history.\nWhen you head to the hospital to find Jason, you’ll be thrown into a mission called Discharge Time, and once you’ve completed this, you’ll effectively know that you can’t go back to Jason’s safehouse. From here on out, you’ll be relying on your second safehouse, a temporary location called the Starlet Motel, located in Kelly County, right on the far side of Vice City.\nIt’s a run-down, miserable location that’s a very far cry from Jason’s charming beachside house, but it’s technically your second safehouse, and that’s what we’re talking about here.\nRELATED: 10 Things To Do First in Jason’s Safehouse\nI’ll be frank: we’re all learning how Grand Theft Auto 6 works right now. At present, I’ve reached the game’s second chapter, and I’ve discovered the Starlet Motel, but there’s no indication of when we’ll leave this location. For reference, I arrived at this safehouse roughly 12 hours into my playthrough, but that was a pretty slow run.\nWhat it does seem like is that new safehouses will follow a similar operating model to Red Dead Redemption 2, in that they arrive out of necessity rather than choice. That means that I don’t expect you’ll be able to buy new properties. Instead, you’ll be moved into a new property after the last one ceases to exist or runs its course.\nIn 2008, Grand Theft Auto 4 effectively pioneered this concept, with Roman and Niko Bellic’s safehouse changing depending on their position in the story and what consequences",
+    "extra": {}
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "🗺 Гайд: Как сменить убежище в GTA 6\n\nПервый дом Джейсона придется покинуть в конце первой главы (примерно 27% сюжета).\n\n1. Пройди миссию Discharge Time в больнице после сюжетных разборок.\n2. После этого переедешь во временную халупу — мотель Starlet в Келли-Каунти.\n\n❤️ — Полезно знать\n👎 — Жалко старый дом",
+    "card_title": "КАК СМЕНИТЬ УБЕЖИЩЕ В GTA 6",
+    "reason": "Гайд по сюжетной механике смены убежищ в GTA 6.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": true,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "queued_at": "2026-11-20T02:20:18.630685+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA 6 Clear Skies Walkthrough to Rescue Donnie and Escape",
+    "link": "https://www.gtaboom.com/gta-6-clear-skies-walkthrough-f821",
+    "summary": "In GTA 6's Clear Skies, cover Pete from above and rescue Donnie quickly; if you miss the plane jump, follow him to the riverbank for pickup.",
+    "published": "2026-11-19T21:39:46+00:00",
+    "source": "GTA BOOM",
+    "site_name": "GTA BOOM",
+    "trust": "medium",
+    "text": "After Down to Earth, start GTA 6's Clear Skies mission by selecting Join Donnie on a Job under Story and heading to the pink D marker in Southwind. The Kingfishers can block the road on the way. Take a robust vehicle, keep moving if you can get around them, and drive on to the marker.\nSpeak to Donnie when you arrive. He sends you to meet Brian Heder at the bar down the street. After the conversation, return to Donnie and take off.\nFly toward the intercept marker over the water. When you catch Pete, move directly above his plane and match his course. Stay over him rather than chasing from behind. This hides him from radar while he lines up to land. Let Pete descend, then follow the new waypoint for Donnie's deal.\nLine up with the runway before descending, click the left stick to lower the landing gear, and taxi to the marker in front of the building. Get out and follow Donnie inside.\nWhen the Final Chapter attacks, stay behind the toolbox and clear the bikers outside the hangar before chasing Donnie. Pick up the dropped shotgun if you need a close-range weapon. Go through the wide double doors the bikers used and check the hallway before pushing through it.\nIn the green room, use the stairs on the left for a view over the lot, or take the ground-floor exit. Check the first-aid cabinet by the exit if you're hurt. Head across the parking lot to the gray warehouse and use the door on the left by the trees. Follow Donnie's voice and don't linger: the bikers can kill him if you take too long.\nGo through the white door on the far side of the warehouse. A biker patrols near the doorway, several are gathered around Donnie, and another is farther back. Clear the room, then walk up to Donnie and choose Untie with Triangle on PlayStation or Y on Xbox. When the objective changes to Escape with Donnie, lead him through the far exit.\nOnce you're outside, turn right into cover behind the containers. Clear the bikers coming across the strip, then move toward the plane with Donnie and take out the guard by it. Stay in cover while Donnie gets aboard. More bikers arrive on motorcycles, followed by a van.\nWhen Donnie tells you to get a bike, stop fighting and take one of the motorcycles by your cover. Ride straight down the runway after the plane. If you catch it and see the jump prompt, hold Square on PlayStation or X on Xbox. If you miss it, follow the Follow Donnie objective off the runway to the riverbank. Donnie lands on the water and picks you up.\nDonnie drops Jason off ",
+    "extra": {}
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "🗺 Гайд: Миссия Clear Skies в GTA 6\n\nКак пройти душный момент с похищением Донни и не отлететь от байкеров?\n\n1. Бери тачку потолще, чтобы прорваться через засаду Kingfishers на дороге к маркеру.\n2. В полете держись строго над самолетом Пита, чтобы копы не спалили на радаре.\n3. Спасая Донни в ангаре, юзай укрытия за тумбой и не тормози — байкеры могут его прикончить.\n\n❤️ — Изи катка\n👎 — Застрял в ангаре",
+    "card_title": "ПРОХОЖДЕНИЕ МИССИИ CLEAR SKIES",
+    "reason": "Гайд по прохождению сюжетной миссии Clear Skies в GTA 6",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": true,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "queued_at": "2026-11-20T02:36:24.112570+00:00"
   }
  ],
  "posts": [
-  "2026-11-17T21:18:29.589248+00:00",
   "2026-11-18T05:01:27.628712+00:00",
   "2026-11-18T10:43:33.044944+00:00",
   "2026-11-18T11:24:23.175249+00:00",
@@ -7057,5 +7266,9 @@
   "2026-11-19T12:20:24.350335+00:00",
   "2026-11-19T14:03:11.859837+00:00",
   "2026-11-19T20:32:43.491620+00:00"
- ]
+ ],
+ "clip_history": [],
+ "published": [],
+ "extras": [],
+ "extras_sent": {}
 }
