@@ -1124,7 +1124,9 @@
   "d7872d833353919b": "2026-11-20T18:29:54.771400+00:00",
   "36ab7093cb532728": "2026-11-20T18:29:57.544352+00:00",
   "15f5e752ed1939d1": "2026-11-20T18:30:06.349394+00:00",
-  "73bddbb820578c9b": "2026-11-20T18:30:10.182773+00:00"
+  "73bddbb820578c9b": "2026-11-20T18:30:10.182773+00:00",
+  "43cf45a452252fcc": "2026-11-20T19:41:47.025435+00:00",
+  "4c95847444ddd0e8": "2026-11-20T19:41:56.168946+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -7370,6 +7372,66 @@
    "file_id": "BAACAgIAAxkDAAMsawABXgT3FJoYCx6a2B6sv4be0Q5XAALwsQACdjYAAUi2WHEudrfHnT0E",
    "moderation": "pending",
    "draft_msg_id": 44
+  },
+  {
+   "clip": {
+    "source": "youtube",
+    "url": "https://www.youtube.com/shorts/OvJSxt9ruys",
+    "title": "(GTA 6) NPC tanks point blank shotgun to the face",
+    "author": "KinguKirimuzon",
+    "views": 25,
+    "duration": 13.5,
+    "created": "2026-11-19T23:30:00+00:00",
+    "lang": "",
+    "description": "",
+    "vod_id": "",
+    "vod_offset": -1
+   },
+   "caption": "❗ Продавец пережил дробовик В УПОР\n\nВыстрел в лицо — он присел, подумал пару секунд и вернулся за кассу 💀\nNPC в GTA 6 явно качали бессмертие",
+   "interest": 9,
+   "spoiler": false,
+   "nsfw": false,
+   "watched": true,
+   "model": "вручную",
+   "media": {
+    "width": 1280,
+    "height": 720,
+    "duration": 14
+   },
+   "queued_at": "2026-11-20T19:41:47.025435+00:00",
+   "file_id": "BAACAgIAAxkDAAMvawABoof-EihHqkVuXy5ovLa5beQjAAI9rwACdjYISLQMb4N56jupPQQ",
+   "moderation": "pending",
+   "draft_msg_id": 47
+  },
+  {
+   "clip": {
+    "source": "youtube",
+    "url": "https://www.youtube.com/shorts/kRG1gBb5Uxc",
+    "title": "GTA 6 PLANE PHYSICS (gone wrong)",
+    "author": "GTA6DAILY-b6h",
+    "views": 57848,
+    "duration": 15.0,
+    "created": "2026-11-18T16:15:00+00:00",
+    "lang": "",
+    "description": "",
+    "vod_id": "",
+    "vod_offset": -1
+   },
+   "caption": "❗ Выпал из САМОЛЁТА над Вайс-Сити\n\nБыл пассажиром — стал парашютистом за пару секунд 🪂\nЗато вид на даунтаун топчик",
+   "interest": 9,
+   "spoiler": false,
+   "nsfw": false,
+   "watched": true,
+   "model": "вручную",
+   "media": {
+    "width": 1080,
+    "height": 912,
+    "duration": 15
+   },
+   "queued_at": "2026-11-20T19:41:56.168946+00:00",
+   "file_id": "BAACAgIAAxkDAAMwawABopBBJXlXQZ-Nuua_FOssNlrVAAI-rwACdjYISKCbC-5iep6xPQQ",
+   "moderation": "pending",
+   "draft_msg_id": 48
   }
  ],
  "clip_drafts": [
@@ -7382,7 +7444,9 @@
   "2026-11-20T09:18:13.478034+00:00",
   "2026-11-20T10:28:47.352690+00:00",
   "2026-11-20T14:49:41.470920+00:00",
-  "2026-11-20T18:12:30.979974+00:00"
+  "2026-11-20T18:12:30.979974+00:00",
+  "2026-11-20T19:41:54.206032+00:00",
+  "2026-11-20T19:42:03.366178+00:00"
  ],
  "clip_history": [
   {
@@ -8346,6 +8410,57 @@
    "ts": "2026-11-20T18:12:30.979992+00:00",
    "frames": [],
    "caption": "СПОЙЛЕР. Стример словил знатный тильт от скримера в сюжетке, просто ору с его реакции 💀"
+  },
+  {
+   "author": "youtube:kingukirimuzon",
+   "vod": "",
+   "offset": -1,
+   "title": "(GTA 6) NPC tanks point blank shotgun to the face",
+   "drafted": true,
+   "ts": "2026-11-20T19:41:54.206032+00:00",
+   "frames": [
+    "e871626dc9cb93a3",
+    "cccc65736bcbc8c4",
+    "ccec656beb6ae1c3",
+    "e0727470b4d4cccc",
+    "e22230969cd1d352",
+    "d7a425f16361e272",
+    "1b3b2b6b2b232326",
+    "dbd7674fb326e7b3",
+    "cbd3674eaa6ec666",
+    "6cc99931706060f1",
+    "6cc99931686060e1",
+    "6ccd983870b06065",
+    "6ccd983c60a06065",
+    "6ccd9c3c70a06075"
+   ],
+   "caption": "❗ Продавец пережил дробовик В УПОР\n\nВыстрел в лицо — он присел, подумал пару секунд и вернулся за кассу 💀\nNPC в GTA 6 яв"
+  },
+  {
+   "author": "youtube:gta6daily-b6h",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 PLANE PHYSICS (gone wrong)",
+   "drafted": true,
+   "ts": "2026-11-20T19:42:03.366178+00:00",
+   "frames": [
+    "bcff7f7fbf96b7bf",
+    "bcff7fff7f9b9b16",
+    "78ec7fdfdf363634",
+    "7ebfdfcff7373737",
+    "7edfdfd777377766",
+    "fedfdf533f367626",
+    "fe1b393333323636",
+    "dc3fbf898b1b3b3b",
+    "dc1b9b9b9b3b3b33",
+    "9ccf6d5e36363636",
+    "b87f8c2e37763637",
+    "fc7f463637333373",
+    "73735b737371b339",
+    "e6a7c7c3a2227031",
+    "c267cfc86121b0d0"
+   ],
+   "caption": "❗ Выпал из САМОЛЁТА над Вайс-Сити\n\nБыл пассажиром — стал парашютистом за пару секунд 🪂\nЗато вид на даунтаун топчик"
   }
  ],
  "published": [
