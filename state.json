@@ -1719,7 +1719,23 @@
   "7ed43747e73c55c2": "2026-11-21T20:46:23.648605+00:00",
   "f7fea456ab6684db": "2026-11-21T20:46:25.516434+00:00",
   "944ac17e03aa9366": "2026-11-21T20:46:27.495623+00:00",
-  "3c5b5a30d6d4a38c": "2026-11-21T20:46:29.397156+00:00"
+  "3c5b5a30d6d4a38c": "2026-11-21T20:46:29.397156+00:00",
+  "4aa8520b0ff57c78": "2026-11-21T21:01:52.537821+00:00",
+  "7da0ae1d111888d3": "2026-11-21T21:01:55.433365+00:00",
+  "fa90127ba2c0950b": "2026-11-21T21:01:57.740329+00:00",
+  "b793ef0fb17173ed": "2026-11-21T21:01:59.232647+00:00",
+  "0fd41825a7e86ebb": "2026-11-21T21:02:00.795267+00:00",
+  "3ef89b4ee5e7f0c9": "2026-11-21T21:02:02.325088+00:00",
+  "ab23edb908dbdfd8": "2026-11-21T21:02:03.842505+00:00",
+  "da2f22fc8fabd401": "2026-11-21T21:02:05.705684+00:00",
+  "aa08da2aaac12a3c": "2026-11-21T21:17:31.750159+00:00",
+  "8d722f15235bc728": "2026-11-21T21:17:34.858474+00:00",
+  "4116c8a92f0ae178": "2026-11-21T21:17:37.303687+00:00",
+  "e4ffb2930996060b": "2026-11-21T21:17:38.954271+00:00",
+  "b603482fa50d5299": "2026-11-21T21:17:40.628481+00:00",
+  "a5db0601b48deade": "2026-11-21T21:17:42.500143+00:00",
+  "da4b1dd5e67bfb0d": "2026-11-21T21:17:43.949257+00:00",
+  "07cbd57b485ab39a": "2026-11-21T21:17:45.622304+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -2853,7 +2869,23 @@
   "6063282776ea7029": "2026-11-21T20:46:23.648605+00:00",
   "490092ee513f3f73": "2026-11-21T20:46:25.516434+00:00",
   "6fe3d1f2e98f1b7b": "2026-11-21T20:46:27.495623+00:00",
-  "56d87834f065bb93": "2026-11-21T20:46:29.397156+00:00"
+  "56d87834f065bb93": "2026-11-21T20:46:29.397156+00:00",
+  "cf4a7b1b480eb78e": "2026-11-21T21:01:52.537821+00:00",
+  "c746424a6f021744": "2026-11-21T21:01:55.433365+00:00",
+  "50d53ee5a79ee3ce": "2026-11-21T21:01:57.740329+00:00",
+  "af69b2ee97d73cce": "2026-11-21T21:01:59.232647+00:00",
+  "8314976996af030a": "2026-11-21T21:02:00.795267+00:00",
+  "0f41f8c32747f285": "2026-11-21T21:02:02.325088+00:00",
+  "a0bdd95b18828554": "2026-11-21T21:02:03.842505+00:00",
+  "8bf1d0140b5355ce": "2026-11-21T21:02:05.705684+00:00",
+  "211508f78b23958f": "2026-11-21T21:17:31.750159+00:00",
+  "da688a4061ebcd0f": "2026-11-21T21:17:34.858474+00:00",
+  "d728005751b3e495": "2026-11-21T21:17:37.303687+00:00",
+  "2d6dc5bf211bfc9d": "2026-11-21T21:17:38.954271+00:00",
+  "ef471673c198b69b": "2026-11-21T21:17:40.628481+00:00",
+  "01978ae317622eb2": "2026-11-21T21:17:42.500143+00:00",
+  "c8c47c570499b417": "2026-11-21T21:17:43.949257+00:00",
+  "2862cb4a62fdb461": "2026-11-21T21:17:45.622304+00:00"
  },
  "recent": [
   {
@@ -6092,7 +6124,7 @@
    "title": "GTA 6 features the series' first non-binary character, says actor Jesse James Rose, and players can't hurt them",
    "source": "Eurogamer",
    "trust": "high",
-   "status": "queued",
+   "status": "published",
    "ts": "2026-11-21T12:59:22.432352+00:00",
    "card_title": "ПЕРВЫЙ НЕБИНАРНЫЙ ПЕРСОНАЖ В GTA 6"
   },
@@ -6676,7 +6708,7 @@
    "title": "GTA 6 is crashing on some PS5s with error CE-108255-1 - here's what you can try",
    "source": "Eurogamer",
    "trust": "high",
-   "status": "queued",
+   "status": "published",
    "ts": "2026-11-21T18:35:55.632435+00:00",
    "card_title": "ВЫЛЕТЫ И ОШИБКИ В GTA 6"
   },
@@ -6708,7 +6740,7 @@
    "title": "GTA 6 has a 99 Metascore from critics, but players are review bombing it",
    "source": "Eurogamer",
    "trust": "high",
-   "status": "queued",
+   "status": "rejected",
    "ts": "2026-11-21T18:51:33.558591+00:00",
    "card_title": "METACRITIC UPAV"
   },
@@ -7231,6 +7263,134 @@
    "status": "queued",
    "ts": "2026-11-21T20:46:30.346017+00:00",
    "card_title": "КОД ОТ СЕЙФА В МОТЕЛЕ"
+  },
+  {
+   "title": "Declasse Vamos code location in GTA 6",
+   "source": "Polygon",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-21T21:01:53.566515+00:00",
+   "card_title": "КАК ОТКРЫТЬ ГАРАЖ С DECLASSE VAMOS"
+  },
+  {
+   "title": "GTA 6 Slim Jim Location: How to Get It and Unlock Cars Quietly",
+   "source": "VGC",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-21T21:01:56.252999+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to Switch Characters in GTA 6 – When Jason and Lucia Switching Unlocks",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T21:01:57.740458+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "‘GTA 6’ Cited by Trump’s Education Department in Transgender Sports Debate",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T21:01:59.232767+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Вышла GTA 6: Стивен Рут озвучил Брайана Хедера",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T21:02:00.795390+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Can My PC Run GTA 6? Minimum And Recommended Specs To Expect",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T21:02:02.325208+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How long it takes to play 'GTA 6': Story playthrough and achievements",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T21:02:03.842624+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How many endings does GTA 6 have? All 7 finales explained, requirements, and how the post-game works",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T21:02:05.705810+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Circana Says GTA 6 Attracted Casual Gamers and Had Them Play It for 8 Hours a Day",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-21T21:17:33.065546+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Best Secret Gear Spot in GTA 6 Early Game—Insane Rifle, Grenade Launcher, and More",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "queued",
+   "ts": "2026-11-21T21:17:35.752278+00:00",
+   "card_title": "ТОП ЛУТ В НАЧАЛЕ ИГРЫ"
+  },
+  {
+   "title": "Avengers: Endgame Officially Reclaims #1 Global Streaming Spot After GTA 6 Massacre",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T21:17:37.303805+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 launch costs the US around a billion dollars in productivity",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T21:17:38.954390+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "10 Things I Wish I Knew Before Starting 'Grand Theft Auto 6' (#2 Is the Best Secret to Find Early)",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T21:17:40.628607+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Новости к завтраку: губернатор предлагает заменить GTA 6 игрой о выживании в тундре",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T21:17:42.500266+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Take-Two Stock Under Renewed Pressure as Investors Sell the News on GTA VI Success",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T21:17:43.949375+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Hacker Pleads Guilty To $5M Rockstar Games Breach",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T21:17:45.622428+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -7262,66 +7422,6 @@
    "queued_at": "2026-11-21T12:59:25.149171+00:00",
    "moderation": "pending",
    "draft_msg_id": 59
-  },
-  {
-   "item": {
-    "title": "GTA 6 is crashing on some PS5s with error CE-108255-1 - here's what you can try",
-    "link": "https://www.eurogamer.net/gta-6-ps5-crashing-ce-108255-1-error-fix",
-    "summary": "Some Grand Theft Auto 6 players on PS5 say the game keeps crashing with error code CE-108255-1, and in some cases, it's stopping them from progressing through the story. Read more",
-    "published": "2026-11-21T15:03:50+00:00",
-    "source": "Eurogamer",
-    "site_name": "Eurogamer",
-    "trust": "high",
-    "text": "Some Grand Theft Auto 6 players on PS5 say the game keeps crashing with error code CE-108255-1, and in some cases, it's stopping them from progressing through the story.\n\"The game runs perfectly fine for a while. I can complete missions and chapters without any issues, but then it suddenly crashes after around 40 minutes and sends me back to the PS5 home screen\", wrote one Reddit user. They added that other games, including GTA 5 and For Honor, run without crashing.\nAnother player told Dexerto that GTA 6 worked fine until Pipework, an early mission that introduces Mandy, but now crashes \"every time I use the plunger or stand around the sink with it\", which means they can’t progress.\nSome PS5 Pro owners say the game crashes during the opening prologue, either at the same point every time or a few seconds in, and they haven't been able to play since launch.\nOthers say they've tried the usual fixes, such as clearing their console's cache, rebuilding the database, factory resetting their PS5, and even downloading the game three times, but nothing has worked thus far.\nIt's not just PS5 players that are struggling, either; some Xbox Series X players have reported crashes too, with one saying the game sometimes crashes after just 15 minutes.\nRockstar hasn't yet acknowledged the crashes or said whether a patch is on the way, and its own support is sending players with console errors to PlayStation or Xbox directly for help.\nUnfortunately, there's no firm fix just yet. PlayStation's support page describes CE-108255-1 simply as \"an error occurred with the game/application”, and its only advice is to \"try updating your game\". Highlight GTA 6 on your home screen, press Options, and choose Check for Update.\nBeyond that, you can try the following, which come from Sony's general crash advice:\nUpdate your PS5's system software. Go to Settings > System > System Software.\nMake sure the game has fully installed. Press Options on GTA 6 and check Download Status.\nRestore your licences. Go to Settings > Users and Accounts > Other > Restore Licenses.\nClear the cache and rebuild the database. Do this from Safe Mode.\nDelete and reinstall GTA 6. If it’s on an external drive, try moving it to internal storage.\nWe'll keep you posted if anything changes or a fix is deployed.\nGTA 6 launched on Thursday for PS5 and Xbox Series X/S, and while it's one of the best-reviewed games of all time, you wouldn't know it from its Metacritic user score, as players review bomb it over its limited FP",
-    "extra": {
-     "image": "https://assetsio.gnwcdn.com/Screenshot-2026-11-21-at-14.55.00.png?width=690&quality=85&format=jpg&auto=webp"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "🗺 Гайд: ОШИБКИ и вылеты в игре\n\nЧасть игроков столкнулась с крашами на PS5 и Xbox Series X.\n\nЕсли игра вылетает в сюжетке или прологе, чекни обновление, восстанови лицензии в аккаунте или перенеси файлы на внутренний SSD. Ждем патч от Rockstar.\n\n❤️ — У меня всё ровно\n👎 — Ловлю тильт от вылетов",
-    "card_title": "ВЫЛЕТЫ И ОШИБКИ В GTA 6",
-    "reason": "Массовые вылеты GTA 6 на PS5 и Xbox — важная техническая проблема, волнующая игроков",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": true,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "queued_at": "2026-11-21T18:35:55.632412+00:00"
-  },
-  {
-   "item": {
-    "title": "GTA 6 has a 99 Metascore from critics, but players are review bombing it",
-    "link": "https://www.eurogamer.net/gta-6-review-bombed-metacritic-user-score",
-    "summary": "Grand Theft Auto 6 might be one of the best-reviewed games of all time, but you wouldn't know it from its Metacritic user score. Read more",
-    "published": "2026-11-21T14:19:40+00:00",
-    "source": "Eurogamer",
-    "site_name": "Eurogamer",
-    "trust": "high",
-    "text": "Grand Theft Auto 6 might be one of the best-reviewed games of all time, but you wouldn't know it from its Metacritic user score.\nWhile critics have given Rockstar's latest a Metascore of 99, its user score has dropped to 5.6 out of 10 at the time of writing, which Metacritic classifies as \"mixed or average\". Of the 54,000+ ratings left, 44 percent are \"negative\".\nThe score had previously dropped into the red, but has since recovered a little.\nSome negative reviews raise genuine complaints, such as the game's 30FPS cap on console, while others take issue with how much of the story focuses on Jason and Lucia's relationship instead of the crime-spree antics of past games.\n\"Expectations might've killed this game,\" states one 0/10 review. \"The hype that something otherworldly would come to be flopped. The hyperrealism makes it feel slow, mundane and boring. Its a tecnichal [sic] advancement for sure but for the wrong reasons. Goodlooks zero personality type stuff. Its not as edgy as the rest of the gta games. And thats exactly my problem like is not funny. The game gets carried by its visuals and radio stations. Certain limitations make it feel like not gta and new features make it feel like not gta. In the end it feels like a life simulator and the point of gaming is to escape from reality.\"\n\"Genuinely hated almost every minute of this experience,\" wrote another. \"After years of waiting and an absurd amount of hype, GTA VI somehow managed to leave me more frustrated than entertained. The excessive sexual content gets exhausting, and instead of adding anything meaningful to the experience, it often feels like Rockstar is desperately trying to shock its audience.\n\"The story is painfully disappointing, the writing fails to keep me invested, and I honestly couldn't care less about what happens to most of these **** gameplay isn't doing the game any favours either. Glitches, bugs, annoying inconsistencies, and frustrating moments constantly get in the way of actually enjoying the experience. It's ridiculous that a game of this scale, backed by a studio with Rockstar's resources, can feel this rough. I expected a polished experience, not a glorified debugging ****.\"\nOthers point to \"woke\" and \"DEI\" agendas.\n\"A major step down in the writing department compared to previous instalments coupled with the obvious DEI-fication, unfun realism and the resulting player freedom restrictions leave a sour taste in the otherwise detailed gorgeous open world,\" said one reviewer. ",
-    "extra": {
-     "image": "https://assetsio.gnwcdn.com/GTA-6-Radio-Station-Hosts-Tracks-Header.jpg?width=690&quality=85&format=jpg&auto=webp"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "РЕВЬЮ-БОМБИНГ\n\nKritiki otdayut 99 ballov, no igroki oborushili ocenku GTA 6 na Metacritic do 5.6. Chellam ne zashli 30FPS, aktsent na otnosheniya Dzheisona i Lyusii vmesto bespredela i slishkom dushnyy realizm.\n\n❤️ — Ozhidaniya prosto ubili\n👎 — Dajte igrat' normalno",
-    "card_title": "METACRITIC UPAV",
-    "reason": "Kriptiki stavyat 99, a igroki zanyatye review bombingom oborushili ocenku do 5.6 iz-za 30FPS i inykh nyuansov",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "queued_at": "2026-11-21T18:51:33.558580+00:00",
-   "moderation": "pending",
-   "draft_msg_id": 64
   },
   {
    "item": {
@@ -7380,35 +7480,6 @@
     "model": "gemini:gemini-3.1-flash-lite"
    },
    "queued_at": "2026-11-21T20:46:17.042981+00:00"
-  },
-  {
-   "item": {
-    "title": "GTA 6 features the series' first non-binary character, says actor Jesse James Rose, and players can't hurt them",
-    "link": "https://www.eurogamer.net/gta-6-first-non-binary-character-jesse-james-rose",
-    "summary": "Grand Theft Auto 6 features the first non-binary character in the series' history, according to actor Jesse James Rose, who plays the role of a museum curator in the game. Read more",
-    "published": "2026-11-21T12:50:00+00:00",
-    "source": "Eurogamer",
-    "site_name": "Eurogamer",
-    "trust": "high",
-    "text": "Grand Theft Auto 6 features the first non-binary character in the series' history, according to actor Jesse James Rose, who plays the role of a museum curator in the game.\n\"I can FINALLY share that I play the first-ever nonbinary character in the Grand Theft Auto franchise!\" Rose wrote on Instagram.\n\"Absolutely wild to find out THIS was the super-secret game I spent weeks and 17 NDAs filming 3 years ago.\"\n\"I shot this back in my they/them days, and everyone on production ensured I was comfortable and gendered correctly,\" Rose wrote. The project was kept so secret that Rose wasn't told what it was during filming and only recently learned it was GTA 6.\n\"GTA was one of the most inclusive & caring sets I've ever been on,\" they added.\nView this post on Instagram A post shared by Jesse James Rose ✨ (@jamesissmiling)\nThe role was shot entirely through motion capture, which meant wearing \"a unitard made of dots every day\". Rose also says steps were taken to protect the character in-game: \"To mitigate anti-trans violence, I was assured that players would not be able to inflict violence against my character.\"\nA whole day of the shoot was spent scanning Rose's face, including hours of pulling different expressions. At one point Rose couldn't move a particular muscle, and worried the scan had been ruined, but the director was thrilled.\n\"That right there is exactly why we'll never use AI,\" he said, according to Rose. \"A computer could never come up with the face you just made.\"\n\"Remember, in a world consumed with Generative AI, the largest video game in history chose human labour to preserve the integrity of the game,\" Rose added.\nRose did raise some concerns about pay, though.\n\"Despite being paid well for my time on set, I'll never see a residual check for my work,\" Rose wrote, explaining that this is part of SAG’s contract with game developers. As a union leader at one of SAG's sister unions, Rose said there's still \"a long way to go to ensure arts workers are fairly compensated for our labour\".\nRose also says many other trans people worked on GTA 6, both in front of the camera and behind it. \"SO many trans people besides me are featured in GTA VI as other roles, designers, writers, etc... take a note, theatre and TV! We are employable & profitable!!!\"\nFinally, Rose voiced support for Rockstar's UK staff. \"UK-based workers at Rockstar Games are currently voting on whether to unionise, and I sincerely hope their efforts are successful,\" Rose wrote. \"Every arts worker ",
-    "extra": {}
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "🎭 ПЕРВЫЙ НЕБИНАРНЫЙ персонаж в GTA 6\n\nАктер Джесси Джеймс Роуз рассказал, что сыграл музейного куратора, и разработка учла безопасность — этому NPC нельзя нанести урон. Вот это забота, имба полная.",
-    "card_title": "ПЕРВЫЙ НЕБИНАРНЫЙ ПЕРСОНАЖ В GTA 6",
-    "reason": "Актер Джесси Джеймс Роуз подтвердил появление первого небинарного персонажа в серии, защищенного от урона.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "queued_at": "2026-11-21T12:59:22.432342+00:00",
-   "moderation": "pending",
-   "draft_msg_id": 61
   },
   {
    "item": {
@@ -7727,6 +7798,35 @@
   },
   {
    "item": {
+    "title": "Declasse Vamos code location in GTA 6",
+    "link": "https://www.polygon.com/gta-6-declasse-vamos-code-car-location/",
+    "summary": "The Declasse Vamos is inside a locked garage in GTA 6. Here's where to find the keypad code and what it is.",
+    "published": "2026-11-21T20:54:45+00:00",
+    "source": "Polygon",
+    "site_name": "Polygon",
+    "trust": "high",
+    "text": "The Declasse Vamos is a car that you can steal for Moses in Grand Theft Auto 6. However, when you find the Declasse Vamos, you realize that it's locked away inside a garage, and you need to find the door code to get to it.\nLuckily, the code can be found nearby, but it's not as clear as some of the other safe codes in GTA 6. You won't find any notes that explicitly tell you what the code is, but if you pay close attention to your surroundings, you'll find a common number that just so happens to be the code.\nHere's what the Declasse Vamos code is in GTA 6, and how to find it.\nBefore you can steal the Declasse Vamos for Moses, you need to first steal the initial three cars that he asks you to look out for. Then, Moses will eventually hit you up with more vehicles to steal, which will include the souped-up Declasse Vamos. The Declasse Vamos is the car that's located at the eastern edge of Grayson, in Lummox County.\nThe Declasse Vamos you need to steal for Moses is locked in the standalone garage beside the house. On the west side of the garage, you'll find a door and a keypad that you need a four-digit code for.\nTo find the code, you need to go inside the house to the west of the garage, but it's important to note that there are a few people inside. In our experience, there was a person sleeping in the living room and a few people talking on the back porch. You can either go guns a-blazing or sneak in.\nThere isn't a note that will explicitly tell you \"this is the code for the garage.\" Instead, you need to look for a four-digit number that could be the code. Luckily, there's one plastered across the walls of the house: 2727.\nWhat is the Declasse Vamos code in GTA 6?\nThe keypad code for the garage is 2-7-2-7. Input the code and the door to the garage will unlock. Head inside, and make sure to open the garage door by pressing the button to its right.\nFrom here, you're free to get into the car and drive off. The people inside the house will notice that you're stealing their car and try to shoot you, but if you drive off fast enough, they won't be following you for long. Take the car back to Moses, and he'll pay you $4,135 dollars.\nIf you're just getting started in GTA 6, we have plenty of guides to help you live the high life in Leonida. Check out our GTA 6 beginner guide to get a grasp of the basics and our tips for what to do first, recommendations for the best ways to make money fast, and an explainer for how to keep stolen weapons and cars to make the most of ",
+    "extra": {
+     "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/declasse-vamos_gta6.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "🗺 Гайд: Как угнать Declasse Vamos\n\nЗастрял на миссии Мозеса? Тачка заперта в гараже на востоке Грейсона, но код спрятан совсем рядом. \n\n1. Заходи в дом слева от гаража (можно по стелсу, чтоб не словить пулю).\n2. Ищи цифры 2727, они начертаны прямо на стенах.\n3. Вбивай код на панели, забирай тачку и делай ноги, пока не приехали копы. \n\nИзи 4к баксов в карман, не благодари. 😉\n\n❤️ — Полезно, забрал в закладки\n👎 — Слишком легко, я бы сам нашел",
+    "card_title": "КАК ОТКРЫТЬ ГАРАЖ С DECLASSE VAMOS",
+    "reason": "Гайд по поиску кода от гаража для миссии Мозеса в GTA 6.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": true,
+    "model": "gemini:gemini-3.1-flash-lite"
+   },
+   "queued_at": "2026-11-21T21:01:53.566504+00:00"
+  },
+  {
+   "item": {
     "title": "Grand Theft Auto VI: 61 чит-код на машины, деньги, бессмертие для PS5 и Xbox Series",
     "link": "https://stopgame.ru/show/168150/grand_theft_auto_vi_61_chit_kod_na_mashiny_dengi_bessmertie_dlya_ps5_i_xbox_series",
     "summary": "В Grand Theft Auto 6 предусмотрен 61 чит-код. С их помощью вы можете получить деньги, оружие, бесконечные патроны, бронежилеты, автомобили, мотоциклы, самолёты, вертолёты, танки и прочую военную технику.Также можно изменять погоду, управлять уровнем розыска, останавливать время суток и применять необычные визуальные фильтры. Рассказываем, как вводить чит-коды в GTA 6 на PS5 и Xbox Series X|S, какие испытания необходимо выполнить для их разблокировки и почему некоторые комбинации могут не работать.… […]",
@@ -7865,6 +7965,35 @@
     "model": "gemini:gemini-3.5-flash-lite"
    },
    "queued_at": "2026-11-21T18:51:42.171839+00:00"
+  },
+  {
+   "item": {
+    "title": "Best Secret Gear Spot in GTA 6 Early Game—Insane Rifle, Grenade Launcher, and More",
+    "link": "https://insider-gaming.com/best-secret-loot-location-early-game-gta-6/",
+    "summary": "There's a secret spot in GTA 6 that you can access early to get insane weapons, armor, and valuable items. The post Best Secret Gear Spot in GTA 6 Early Game—Insane Rifle, Grenade Launcher, and More appeared first on Insider Gaming .",
+    "published": "2026-11-21T21:02:21+00:00",
+    "source": "Insider Gaming",
+    "site_name": "Insider Gaming",
+    "trust": "medium",
+    "text": "Grand Theft Auto 6 has a huge repository of weapons, items, and other equipment for players to take advantage of. There are more than 100 variant weapons to find, scattered all over Leonida. It stands to reason that you’ll spend a lot of time searching for the map’s most intricate secrets and, naturally, the means to find the hidden weapons.\nIn this guide, I’m going to help you figure out where arguably the best early-game location is for free, unchallenged loot in the form of an incredible assault rifle, an armored vest, stacks of goodies, and a freaking grenade launcher. What’s more important here is that you don’t need to fight anyone to find it all.\nRELATED: Best Early Game Locations for Easy Cash in GTA 6\nThere are a few decent spots you can hit up very early in your GTA 6 journey to score some drugs and cash, but this hidden spot is all about the equipment. You’ll be heading to Vice-Dale County for this hidden location, and into an apartment complex in Tequesta, right opposite the Vice Seven Condominiums Gym.\nAnd here’s the exact storage unit you need:\nOnce you’ve opened it (it’s not even locked!), simply walk through, picking up all the loot within. You’ll find food, beverages, Zombix, adrenaline shots, a medical kit, and much more. Behind a wall of toilet paper sits the real prize, though:\nCockroach XTREME 556 Rifle (w/ optic, suppressor, and extended magazine)\nAnd in a safe with the Kolinga, you’ll find a baseball card worth $3,000 and some cash to boot. It really is one of the best early-game locations you can find in Grand Theft Auto 6.\nIf you need to know anything else about Grand Theft Auto 6, make sure you stop by our full guides hub. It contains everything you could need to learn about the most important game release of all time!\nAlso, you can buy Grand Theft Auto 6 here if you haven’t already!\nLet us know if you’re enjoying GTA 6 on the Insider Gaming Discord server.\nFor more Insider Gaming coverage, check out all the cheat codes for GTA 6, and don’t forget to sign up for our free weekly newsletter\nGrant has been gaming for 30+ years and in the industry for 10+. You'll probably find him playing a post-apocalyptic game or an extraction shooter somewhere.\nWhere to Find The Pegassi Toros in GTA 6—Randy’s Wishlist Car Locations\nWhen Do You Leave The Motel in GTA 6? Chapter Three Apartment, Explained\nCan You Repeat Robberies in GTA 6? Make More Money, Fast\nWhere to Find The Grotti Itali RSX Supercar in GTA 6—Randy’s Wishlist Car Locations",
+    "extra": {
+     "image": "https://insider-gaming.com/wp-content/uploads/2026/11/7d5b3f9a-99fa-4016-9c58-8201ec0dab4e-1024x576.png"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "🗺 Гайд: ИМБА-лут на старте\n\nХочешь нагибать с первых часов? Го в Вайс-Дейл, район Текеста. Напротив спортзала Vice Seven Condominiums найдешь открытый склад.\n\nЗаходи внутрь и лутай всё подряд. За стеной из туалетной бумаги спрятана винтовка Cockroach XTREME 556 с обвесами и сейф с кэшем. Забирай, пока не пофиксили, это лютая пушка для старта катки!\n\n❤️ — Уже бегу лутать\n👎 — Мне и с пистолетом норм",
+    "card_title": "ТОП ЛУТ В НАЧАЛЕ ИГРЫ",
+    "reason": "Гайд по поиску топового снаряжения на старте игры, очень полезно для игроков.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": true,
+    "model": "gemini:gemini-3.1-flash-lite"
+   },
+   "queued_at": "2026-11-21T21:17:35.752268+00:00"
   },
   {
    "item": {
@@ -8033,8 +8162,9 @@
     "model": "gemini:gemini-3.1-flash-lite"
    },
    "queued_at": "2026-11-21T20:14:11.902575+00:00",
-   "moderation": "pending",
-   "draft_msg_id": 65
+   "moderation": "approved",
+   "draft_msg_id": 65,
+   "waiting_logged": true
   },
   {
    "item": {
@@ -8131,9 +8261,11 @@
   "2026-11-21T12:43:49.466903+00:00",
   "2026-11-21T14:46:58.633284+00:00",
   "2026-11-21T18:00:47.582860+00:00",
-  "2026-11-21T18:21:49.151012+00:00"
+  "2026-11-21T18:21:49.151012+00:00",
+  "2026-11-21T21:05:00.020383+00:00",
+  "2026-11-21T21:20:04.257236+00:00"
  ],
- "tg_offset": 387129022,
+ "tg_offset": 387129029,
  "channel": {
   "id": -1003986639147,
   "title": "GTA 6 | Горячие новости",
@@ -8155,9 +8287,12 @@
   "2026-11-21T17:46:11.279369+00:00",
   "2026-11-21T18:46:53.621898+00:00",
   "2026-11-21T19:47:16.582738+00:00",
-  "2026-11-21T20:14:20.243151+00:00"
+  "2026-11-21T20:14:20.243151+00:00",
+  "2026-11-21T21:14:52.573643+00:00"
  ],
- "slots_sent": {},
+ "slots_sent": {
+  "2026-11-21:guide:1": "2026-11-21T21:14:52.573728+00:00"
+ },
  "urgent": [
   "2026-11-20T09:58:05.803598+00:00",
   "2026-11-20T10:35:40.883618+00:00",
@@ -8191,8 +8326,9 @@
    },
    "queued_at": "2026-11-21T19:28:28.376786+00:00",
    "file_id": "BAACAgIAAxkDAAM-awHw3j1XsBTKKUAvCpbs3ez1-bQAAh-0AAKnJwlIUNyWAVdqnnI9BA",
-   "moderation": "pending",
-   "draft_msg_id": 62
+   "moderation": "approved",
+   "draft_msg_id": 62,
+   "waiting_logged": true
   },
   {
    "clip": {
@@ -8221,7 +8357,7 @@
    },
    "queued_at": "2026-11-21T20:33:25.872550+00:00",
    "file_id": "BAACAgIAAxkDAANCawIAARchLZZtWrMHkytuicN0fvuUAAKupgACpycRSCbucak7N-rSPQQ",
-   "moderation": "pending",
+   "moderation": "approved",
    "draft_msg_id": 66
   }
  ],
@@ -11847,6 +11983,20 @@
    "title": "Имба: пёс в очках рулит гидроциклом с неоном и увозит Джейсона в открытый океан под музон…",
    "importance": 9,
    "kind": "video"
+  },
+  {
+   "ts": "2026-11-21T21:05:00.020401+00:00",
+   "msg_id": 38,
+   "title": "ПЕРВЫЙ НЕБИНАРНЫЙ персонаж в GTA 6",
+   "importance": 7,
+   "kind": "confirmed"
+  },
+  {
+   "ts": "2026-11-21T21:20:04.257249+00:00",
+   "msg_id": 39,
+   "title": "ОШИБКИ и вылеты в игре",
+   "importance": 8,
+   "kind": "guide"
   }
  ],
  "extras": [
@@ -11857,7 +12007,7 @@
     "text": "🌙 <b>Итоги дня</b> · 21 ноября\n\n🎥 <a href=\"https://t.me/gta6_hotnews/29\">Продавец пережил дробовик В УПОР</a>\n🗺 <a href=\"https://t.me/gta6_hotnews/33\">Прохождение Tenebrae Lux в GTA 6</a>\n🗺 <a href=\"https://t.me/gta6_hotnews/34\">СЕКРЕТНЫЕ радиостанции</a>\n🗺 <a href=\"https://t.me/gta6_hotnews/35\">Как грабить броневик в Twist Wrist, Smash, Grab</a>\n🎥 <a href=\"https://t.me/gta6_hotnews/37\">Имба: пёс в очках рулит гидроциклом с неоном и увозит Джейсона в открытый океан под музон…</a>\n\nЧто из этого зашло больше всего? Пиши в комменты 👇",
     "publish_at": "2026-11-21T20:00:00+00:00"
    },
-   "moderation": "pending",
+   "moderation": "approved",
    "draft_msg_id": 63,
    "queued_at": "2026-11-21T19:30:10.993112+00:00"
   }
