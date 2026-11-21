@@ -1538,7 +1538,17 @@
   "c8ff737d12b6c181": "2026-11-21T16:12:24.766808+00:00",
   "138d34afaf7491a8": "2026-11-21T16:12:25.381370+00:00",
   "8fcba9d04ed74392": "2026-11-21T16:12:25.893561+00:00",
-  "29d1ecbc9c55cc77": "2026-11-21T16:12:26.373356+00:00"
+  "29d1ecbc9c55cc77": "2026-11-21T16:12:26.373356+00:00",
+  "6c7cab9d99b9353a": "2026-11-21T16:27:47.609181+00:00",
+  "e857f78364a982de": "2026-11-21T16:27:47.614335+00:00",
+  "38de1da9745ce3dd": "2026-11-21T16:27:50.244995+00:00",
+  "6289a55ee1496667": "2026-11-21T16:27:50.754820+00:00",
+  "5ecbe02bc8ac51a7": "2026-11-21T16:43:10.511173+00:00",
+  "37d564cfab6fa3d1": "2026-11-21T16:43:10.512432+00:00",
+  "7ec000436620563e": "2026-11-21T16:43:10.516627+00:00",
+  "c66606e6e6645c3a": "2026-11-21T16:43:10.522890+00:00",
+  "e761fb190c15d436": "2026-11-21T16:43:10.676001+00:00",
+  "dd32f998b4801760": "2026-11-21T16:43:12.813293+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -2573,7 +2583,14 @@
   "96bf99719422d9da": "2026-11-21T16:12:22.481314+00:00",
   "18bbd669615e2b62": "2026-11-21T16:12:22.481347+00:00",
   "bc2ea3dd766c1939": "2026-11-21T16:12:22.482811+00:00",
-  "4d2c581a80d0a1a2": "2026-11-21T16:12:22.503717+00:00"
+  "4d2c581a80d0a1a2": "2026-11-21T16:12:22.503717+00:00",
+  "c2c417303283f114": "2026-11-21T16:27:47.609181+00:00",
+  "c72a16075aa0078d": "2026-11-21T16:27:47.614335+00:00",
+  "e4cc6740d91ba55b": "2026-11-21T16:43:10.511173+00:00",
+  "17a4356731eefcc5": "2026-11-21T16:43:10.512432+00:00",
+  "011febeeb9f2e0d2": "2026-11-21T16:43:10.516627+00:00",
+  "f020ca5d13a28ceb": "2026-11-21T16:43:10.522890+00:00",
+  "e5f1889c0a1a92c3": "2026-11-21T16:43:10.676001+00:00"
  },
  "recent": [
   {
@@ -6404,7 +6421,7 @@
    "title": "GTA 6: Door code for Moses’ Declasse Vamos vehicle mission",
    "source": "VGC",
    "trust": "high",
-   "status": "queued",
+   "status": "rejected",
    "ts": "2026-11-21T12:59:27.815725+00:00",
    "card_title": "КОД ОТ ДВЕРИ ДЛЯ МАШИНЫ МОЗЕСА"
   },
@@ -6727,6 +6744,62 @@
    "status": "dup",
    "ts": "2026-11-21T16:12:22.503734+00:00",
    "card_title": ""
+  },
+  {
+   "title": "The most unforgivable crime in GTA 6 is that TV placement",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-21T16:27:47.609221+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to get a Snap Gun in GTA 6 to quietly lockpick doors",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-21T16:27:47.614356+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to unlock Dime on the Dollar in GTA 6: Dye Pack Jammer and Marked Bills guide",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-21T16:43:10.511213+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Should you shake Mattia's hand in GTA 6?",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-21T16:43:10.512449+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 La Cascara Motel safe code",
+   "source": "PC Gamer",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-21T16:43:10.516644+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Brooks Boatworks safe code and location: How to find and open the safe",
+   "source": "VGC",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-21T16:43:10.522908+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6: How To Make An Easy $25,000 In Act 4",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-21T16:43:10.676072+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -6783,33 +6856,6 @@
     "model": "gemini:gemini-3.5-flash-lite"
    },
    "queued_at": "2026-11-21T12:59:25.149171+00:00"
-  },
-  {
-   "item": {
-    "title": "GTA 6: Door code for Moses’ Declasse Vamos vehicle mission",
-    "link": "https://www.videogameschronicle.com/guide/gta-6-moses-declasse-vamos-door-code/",
-    "summary": "How to steal the Declasse Vamos for Moses in Grand Theft Auto 6",
-    "published": "2026-11-21T12:43:35+00:00",
-    "source": "VGC",
-    "site_name": "VGC",
-    "trust": "high",
-    "text": "In Grand Theft Auto 6, Moses is a mechanic who will happily “fix” and even purchase vehicles you bring to him, in exchange for some help.\nThere are some cars around Leonida that Moses wants, and he wants you to get them for him. These vehicles are often locked up safely, or in some kind of unusual circumstance, like guarded by a dog, or being towed as you arrive.\nOne of the most confusing can be the Declasse Vamos that appears in the Steal Vehicles For Moses questline — mainly because it’s locked up and the code isn’t immediately obvious. In this guide, we’re explaining how to get the code and what it is in GTA 6.\nMoses’ Declasse Vamos code location – GTA 6\nThere’s a small chance that the door code in this mission will change. It’s unlikely, but just in case, we’re explaining how to obtain the door code first.\nWhen you approach the area with the Declasse Vamos in, you’ll overhear a group of locals having a loud celebration. The Declasse Vamos isn’t in plain sight — it’s located inside a barn or garage that is located next to the building with the celebration.\nIf you search the building – or even search the locals after a fight – you won’t find any obvious document that will reveal the code to you. But it is in plain sight. If you look around the decor of the trailer, you’ll see the numbers “2727” plastered absolutely everywhere. Once you see it, it’s hard to stop seeing it.\nThe code to open the barn or garage with Moses’ Declasse Vamos inside is:\nAgain, this is plastered across the inside of the trailer and is very obvious in hindsight. Don’t worry about it.",
-    "extra": {}
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "🗺 Гайд: КОД ОТ ВАМОСА\n\nКак забрать Declasse Vamos у Мозеса в Леониде без лишних нервов?\n\nЗалетаем к гаражу с тачкой, ищем тусовку местных и внимательно чекаем интерьер трейлера. Цифры 2727 буквально везде на видном месте, это и есть нужный код от двери. Затестим в катке!",
-    "card_title": "КОД ОТ ДВЕРИ ДЛЯ МАШИНЫ МОЗЕСА",
-    "reason": "Гайд по поиску кода от машины для Мозеса в GTA 6",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": true,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "queued_at": "2026-11-21T12:59:27.815715+00:00"
   },
   {
    "item": {
@@ -7178,7 +7224,7 @@
   "2026-11-21T12:43:49.466903+00:00",
   "2026-11-21T14:46:58.633284+00:00"
  ],
- "tg_offset": 387129019,
+ "tg_offset": 387129020,
  "channel": {
   "id": -1003986639147,
   "title": "GTA 6 | Горячие новости",
@@ -7196,7 +7242,8 @@
   "2026-11-21T12:43:24.029271+00:00",
   "2026-11-21T13:44:00.770871+00:00",
   "2026-11-21T14:44:42.291779+00:00",
-  "2026-11-21T15:45:15.173540+00:00"
+  "2026-11-21T15:45:15.173540+00:00",
+  "2026-11-21T16:45:46.072159+00:00"
  ],
  "slots_sent": {
   "2026-11-19:вечер": "2026-11-19T16:00:06.530557+00:00"
@@ -10065,6 +10112,33 @@
    "title": "non era necessario....",
    "drafted": false,
    "ts": "2026-11-21T16:12:26.373377+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:gotaga",
+   "vod": "2935427311",
+   "offset": 6743.0,
+   "title": "20",
+   "drafted": false,
+   "ts": "2026-11-21T16:27:50.245025+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:rejiboi",
+   "vod": "2935101863",
+   "offset": 240.0,
+   "title": "Дивчинка Емма",
+   "drafted": false,
+   "ts": "2026-11-21T16:27:50.754848+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:theburntpeanut",
+   "vod": "2935449800",
+   "offset": 3490.0,
+   "title": "Now we need to find a new Wife",
+   "drafted": false,
+   "ts": "2026-11-21T16:43:12.813336+00:00",
    "frames": []
   }
  ],
