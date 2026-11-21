@@ -1668,7 +1668,23 @@
   "96dcc8ed3abd9fe2": "2026-11-21T19:42:10.965313+00:00",
   "1c58ed97fcab7c69": "2026-11-21T19:42:55.627664+00:00",
   "df564483fe8d877b": "2026-11-21T19:42:58.786592+00:00",
-  "a347a142c49d511d": "2026-11-21T19:43:01.224913+00:00"
+  "a347a142c49d511d": "2026-11-21T19:43:01.224913+00:00",
+  "7b6d11405938f3b8": "2026-11-21T19:58:26.775346+00:00",
+  "37f8bcb2e84672fa": "2026-11-21T19:58:28.670679+00:00",
+  "5b4caee9fac6224a": "2026-11-21T19:58:32.324484+00:00",
+  "536306b2bfa19777": "2026-11-21T19:58:33.729649+00:00",
+  "966e6c0abb01b420": "2026-11-21T19:58:35.675095+00:00",
+  "7ca0896ae3f1c450": "2026-11-21T19:58:37.543612+00:00",
+  "d63677c619344ae5": "2026-11-21T19:58:39.303129+00:00",
+  "0d792802456023b0": "2026-11-21T19:58:40.633774+00:00",
+  "8087f81269e31691": "2026-11-21T20:13:58.791684+00:00",
+  "b1c070e7e325a8e6": "2026-11-21T20:14:02.610068+00:00",
+  "6e38975b4581727e": "2026-11-21T20:14:04.222254+00:00",
+  "cc3b921f9adb75c8": "2026-11-21T20:14:06.262714+00:00",
+  "31557cedbb3f5e05": "2026-11-21T20:14:08.231764+00:00",
+  "799835aa154d7808": "2026-11-21T20:14:10.280988+00:00",
+  "ed2e73cdfc94ba83": "2026-11-21T20:14:14.778653+00:00",
+  "c9221b3ca4465e8f": "2026-11-21T20:14:16.550485+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -2769,7 +2785,23 @@
   "93d150f15c7f3a4b": "2026-11-21T19:42:10.965313+00:00",
   "7bad38369c4957b2": "2026-11-21T19:42:55.627664+00:00",
   "a4d64f07d004b81d": "2026-11-21T19:42:58.786592+00:00",
-  "0dfe22c06fe4df0c": "2026-11-21T19:43:01.224913+00:00"
+  "0dfe22c06fe4df0c": "2026-11-21T19:43:01.224913+00:00",
+  "17fcf6b4b901b20d": "2026-11-21T19:58:26.775346+00:00",
+  "b0605d6ff6cbb4f7": "2026-11-21T19:58:28.670679+00:00",
+  "89b67661c62f4e83": "2026-11-21T19:58:32.324484+00:00",
+  "58b0303334212f27": "2026-11-21T19:58:33.729649+00:00",
+  "030ff4e13cedf777": "2026-11-21T19:58:35.675095+00:00",
+  "bc158263e4fa944f": "2026-11-21T19:58:37.543612+00:00",
+  "9834e27e3b8a19b6": "2026-11-21T19:58:39.303129+00:00",
+  "408a26401284f3bb": "2026-11-21T19:58:40.633774+00:00",
+  "9d0ac693b7aabe5d": "2026-11-21T20:13:58.791684+00:00",
+  "2998b30e7a6ca9fd": "2026-11-21T20:14:02.610068+00:00",
+  "6e9eb0a7090abdd6": "2026-11-21T20:14:04.222254+00:00",
+  "2ed1c79758f353e5": "2026-11-21T20:14:06.262714+00:00",
+  "092c69d9a155d231": "2026-11-21T20:14:08.231764+00:00",
+  "c6063f9407e2f4bf": "2026-11-21T20:14:10.280988+00:00",
+  "52673019e6373cf4": "2026-11-21T20:14:14.778653+00:00",
+  "935c1a253d53d370": "2026-11-21T20:14:16.550485+00:00"
  },
  "recent": [
   {
@@ -6883,6 +6915,134 @@
    "status": "skipped",
    "ts": "2026-11-21T19:43:01.225035+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GTA 6 Officially Becomes One of the Lowest-Rated Games of the Year",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T19:58:26.775486+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "School Offers Students $92 Reward to Keep Them From Skipping for GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T19:58:28.670799+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Lindsey Buckingham & Michael McDonald Unite for Surprise ‘GTA 6’ Cameo",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T19:58:32.324603+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Геймеры нашли «реднек-гёрл» из трейлера GTA VI в Thrillbilly Mud Club",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T19:58:33.729768+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Бесплатный MaaS Marsalek атакует геймеров GTA VI и самих мошенников",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T19:58:35.675214+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Is Being Review-Bombed, Receiving Terrible User Reviews Criticizing Its “Woke Propaganda” and Bugs",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T19:58:37.543736+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6: How to Keep the Highwayman Sanchez Dirt Bike Billy Gives You",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T19:58:39.303245+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "В первый день продаж GTA VI заработала почти 4 млрд долларов, обогнав самый кассовый фильм в истории",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T19:58:40.633894+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Dealer’s Choice walkthrough: Should you choose Cut or Pure?",
+   "source": "VGC",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-21T20:13:58.791792+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Klay Thompson plays GTA 6 in surprising way",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T20:14:02.610186+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How Janelle James got her own radio show in 'GTA 6'",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T20:14:04.222374+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 has a hidden warehouse packed with loot worth $14,000",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T20:14:06.262844+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Интерактивная карта GTA 6: как найти абсолютно все в Вайс-Сити и штате Леонида",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T20:14:08.231885+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 first-day sales of $3.8B is largest entertainment launch ever",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "queued",
+   "ts": "2026-11-21T20:14:11.902585+00:00",
+   "card_title": "GTA 6 УСТАНОВИЛА АБСОЛЮТНЫЙ РЕКОРД"
+  },
+  {
+   "title": "Запуск GTA 6 вызвал \"цифровое цунами\", которое превосходит чемпионат мира 2026 года, - СМИ",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T20:14:14.778798+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Features A Parody Of Call Of Duty That Contains A Joke About Unionizing",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T20:14:16.550611+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -7632,6 +7792,35 @@
   },
   {
    "item": {
+    "title": "GTA 6 first-day sales of $3.8B is largest entertainment launch ever",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNR0Y4MHlLTUhVOWhhanlna2d6cGFJaTY3YlVmQ0FRSWVTTVE0UXNNdXN6R2gybWJIVk5nQ3VGOXB5UkQxUzhXQjZraDk3SHJkWktBNzNFOFo4WmpOaG1PQnpRS1M0c1E5NjRDYmNrdFNLSW5qWlNfRnFPV1FqdlVZcTV3b0NPRDFIWWFjUUgtX1ZxTU5kUXdzSkU5bw?oc=5",
+    "summary": "GTA 6 first-day sales of $3.8B is largest entertainment launch ever USA Today",
+    "published": "2026-11-21T19:59:00+00:00",
+    "source": "Google News (EN)",
+    "site_name": "USA Today",
+    "trust": "rumor",
+    "text": "GTA 6 first-day sales of $3.8B is largest entertainment launch ever USA Today",
+    "extra": {}
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 9,
+    "post": "GTA 6: РАЗНОС ПРОДАЖ\n\nИгра собрала 3,8 миллиарда долларов за первые сутки. Это просто лютый успех и самый мощный запуск в истории индустрии развлечений. База! 🚀💰\n\n❤️ — Ждем теперь триллионы\n👎 — А онлайн когда завезут?",
+    "card_title": "GTA 6 УСТАНОВИЛА АБСОЛЮТНЫЙ РЕКОРД",
+    "reason": "Официальные данные о рекордных продажах игры в день релиза",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "В первый день продаж GTA VI заработала почти 4 млрд долларов, обогнав самый кассовый фильм в истории",
+    "corroborated_by": "В первый день продаж GTA VI заработала почти 4 млрд долларов, обогнав самый кассовый фильм в истории",
+    "guide": false,
+    "model": "gemini:gemini-3.1-flash-lite"
+   },
+   "queued_at": "2026-11-21T20:14:11.902575+00:00",
+   "moderation": "pending",
+   "draft_msg_id": 65
+  },
+  {
+   "item": {
     "title": "GTA 6: How To Get A Rhino Tank (Challenging Tank)",
     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZVA5T0lKZkdsM1JEdzV6MUl3eDUxZHJVSVpUb2FxZVhJazg3WjVZb29PaWlidHJzcWRmU1ZSX2FlTm9NSm5ORDV6WEhCdmt0VExfQThzOGp4bnpMak9nVUVfb0VRMDFPQl9rMEZ5bHVpcktYeDBTaUNheDZqNWduenlR?oc=5",
     "summary": "GTA 6: How To Get A Rhino Tank (Challenging Tank) Cultured Vultures",
@@ -7721,12 +7910,14 @@
   "2026-11-21T16:45:46.072159+00:00",
   "2026-11-21T17:46:11.279369+00:00",
   "2026-11-21T18:46:53.621898+00:00",
-  "2026-11-21T19:47:16.582738+00:00"
+  "2026-11-21T19:47:16.582738+00:00",
+  "2026-11-21T20:14:20.243151+00:00"
  ],
  "slots_sent": {},
  "urgent": [
   "2026-11-20T09:58:05.803598+00:00",
-  "2026-11-20T10:35:40.883618+00:00"
+  "2026-11-20T10:35:40.883618+00:00",
+  "2026-11-21T20:14:20.243248+00:00"
  ],
  "clips": [
   {
