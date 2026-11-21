@@ -1238,7 +1238,89 @@
   "65407ea94dc6ee8b": "2026-11-21T06:53:40.174298+00:00",
   "a7655504dd9a3c6d": "2026-11-21T06:53:42.004312+00:00",
   "70710c643e430321": "2026-11-21T06:53:43.451328+00:00",
-  "59eb687b10f95f68": "2026-11-21T06:53:45.162897+00:00"
+  "59eb687b10f95f68": "2026-11-21T06:53:45.162897+00:00",
+  "fa756f9c445b0c17": "2026-11-21T06:56:54.823143+00:00",
+  "082b4f66c5422c80": "2026-11-21T06:56:56.315339+00:00",
+  "c2eddb26c31ee195": "2026-11-21T06:56:57.668032+00:00",
+  "edbe69c6bc055812": "2026-11-21T06:56:58.987085+00:00",
+  "b7a127a7ad7ec7bb": "2026-11-21T06:57:00.518358+00:00",
+  "bf94fd8d30c3145b": "2026-11-21T06:57:01.872732+00:00",
+  "9b326de278e2014e": "2026-11-21T06:57:03.221227+00:00",
+  "c554480f9b956bd7": "2026-11-21T06:57:04.270177+00:00",
+  "c2df5fd2cf814c5d": "2026-11-21T07:00:27.921249+00:00",
+  "664b8277aea20151": "2026-11-21T07:00:28.940679+00:00",
+  "92ccd51fc60537ba": "2026-11-21T07:00:29.664518+00:00",
+  "e89dfd98dcff57e1": "2026-11-21T07:00:30.368388+00:00",
+  "a62b83b0cdaf9b33": "2026-11-21T07:01:21.508953+00:00",
+  "b89784593f35823c": "2026-11-21T07:01:22.323501+00:00",
+  "5474d8dac70ad17e": "2026-11-21T07:01:23.155512+00:00",
+  "8fb089c736745d46": "2026-11-21T07:01:23.922307+00:00",
+  "d06a8c6c6f0f05de": "2026-11-21T07:02:14.818622+00:00",
+  "3fc6522b70f9867d": "2026-11-21T07:02:15.665182+00:00",
+  "e07f211b1c0f9996": "2026-11-21T07:02:16.715239+00:00",
+  "3ea0f19a51a52ceb": "2026-11-21T07:02:17.657321+00:00",
+  "ea3218fcb1c00cb2": "2026-11-21T07:03:08.536723+00:00",
+  "291e383873969574": "2026-11-21T07:03:09.264413+00:00",
+  "2479b19cf52ba01b": "2026-11-21T07:03:09.946793+00:00",
+  "eadadd33ffcbcab9": "2026-11-21T07:03:10.757910+00:00",
+  "5ac3366e81264c4b": "2026-11-21T07:04:01.626081+00:00",
+  "3a1d6328b7ba7b1b": "2026-11-21T07:04:02.444712+00:00",
+  "7fe22c65a64f66fd": "2026-11-21T07:04:03.205948+00:00",
+  "c9089a0a32dc8a41": "2026-11-21T07:04:04.007969+00:00",
+  "6dd441393b4d04ac": "2026-11-21T07:04:54.951192+00:00",
+  "3294b7bc62d3706b": "2026-11-21T07:04:55.693929+00:00",
+  "a1d01da359647937": "2026-11-21T07:04:56.471914+00:00",
+  "4b6b7dc08196e0e6": "2026-11-21T07:04:57.266339+00:00",
+  "9c8c31ff7ebeddcc": "2026-11-21T07:05:48.183112+00:00",
+  "1ceadc15d3ef07da": "2026-11-21T07:05:49.029520+00:00",
+  "3cac7678315721fb": "2026-11-21T07:05:49.789370+00:00",
+  "429f91652f6b29b2": "2026-11-21T07:05:50.563228+00:00",
+  "bf492a81781ebe54": "2026-11-21T07:06:43.831763+00:00",
+  "5c6874c0444f9cb6": "2026-11-21T07:06:44.569092+00:00",
+  "064fe7c0bacb7118": "2026-11-21T07:06:45.364383+00:00",
+  "8d0cd4e97f00bef4": "2026-11-21T07:06:46.215296+00:00",
+  "9da0dd7501588fc3": "2026-11-21T07:06:57.596202+00:00",
+  "d3469ffc5337da09": "2026-11-21T07:06:58.344722+00:00",
+  "b673956edb73f581": "2026-11-21T07:06:59.212374+00:00",
+  "9433a26655f64179": "2026-11-21T07:09:56.493995+00:00",
+  "e017312907abf870": "2026-11-21T07:12:48.032162+00:00",
+  "79a638bbe4c10e13": "2026-11-21T07:12:49.830843+00:00",
+  "26f931208babd2f3": "2026-11-21T07:12:50.774858+00:00",
+  "307519178fa2ee28": "2026-11-21T07:12:52.131788+00:00",
+  "6957c32f7a1e0e8d": "2026-11-21T07:12:53.209482+00:00",
+  "3947fec3a92483eb": "2026-11-21T07:12:55.795172+00:00",
+  "2df243b55fb72b67": "2026-11-21T07:12:56.860825+00:00",
+  "c9f86d0c707a1093": "2026-11-21T07:12:58.235780+00:00",
+  "0a361783f90a1a23": "2026-11-21T07:13:00.699789+00:00",
+  "6f8901d2cb749080": "2026-11-21T07:13:01.477631+00:00",
+  "5520f37514028b4b": "2026-11-21T07:13:02.217296+00:00",
+  "a95c206b7b17b422": "2026-11-21T07:13:02.924017+00:00",
+  "3d2e5f9884366067": "2026-11-21T07:13:54.082115+00:00",
+  "75c9c534784b1561": "2026-11-21T07:13:54.822709+00:00",
+  "e56fe3a7d7b7d12d": "2026-11-21T07:13:55.643160+00:00",
+  "0e01b5440102a1d1": "2026-11-21T07:13:56.336703+00:00",
+  "859dd354ac4ae693": "2026-11-21T07:15:36.654374+00:00",
+  "67bdfd02afdbaee5": "2026-11-21T07:28:37.977301+00:00",
+  "98dcabe3718d15aa": "2026-11-21T07:28:39.234765+00:00",
+  "8dea71e7f9bf3228": "2026-11-21T07:28:40.770182+00:00",
+  "3a952fde9e9294b9": "2026-11-21T07:28:42.142039+00:00",
+  "d474f04126c25a12": "2026-11-21T07:28:43.471416+00:00",
+  "ceae80a463f92097": "2026-11-21T07:28:44.990195+00:00",
+  "c1098ea1e5371210": "2026-11-21T07:28:46.413059+00:00",
+  "56fc0d4a46e31765": "2026-11-21T07:28:47.886412+00:00",
+  "0da1a626d067e0c8": "2026-11-21T07:44:21.275117+00:00",
+  "dfafd6e792d6cbf4": "2026-11-21T07:44:21.275180+00:00",
+  "c0ee54a11e1024d9": "2026-11-21T07:44:21.280044+00:00",
+  "1dbf838baa6ab277": "2026-11-21T07:44:21.285565+00:00",
+  "33a9ed8cadfb2ba2": "2026-11-21T07:44:21.287587+00:00",
+  "c1b2e20078d1e236": "2026-11-21T07:44:22.442222+00:00",
+  "d44e06811a9676e5": "2026-11-21T07:44:23.648184+00:00",
+  "635c69996a4e4fdc": "2026-11-21T07:44:24.856545+00:00",
+  "456f51c4498f30a4": "2026-11-21T07:44:26.464740+00:00",
+  "90d92527bbca0967": "2026-11-21T07:44:27.779073+00:00",
+  "156c4240e7dfbda1": "2026-11-21T07:44:28.905731+00:00",
+  "c5974683da85318d": "2026-11-21T07:44:30.145842+00:00",
+  "a5baa7fb61f4bd8a": "2026-11-21T07:44:31.376086+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -2184,105 +2266,46 @@
   "f76ae9fdfe50feab": "2026-11-21T06:53:40.174298+00:00",
   "b61a55a56aa601e0": "2026-11-21T06:53:42.004312+00:00",
   "ac6a39818f20ea11": "2026-11-21T06:53:43.451328+00:00",
-  "989936da10e1ec76": "2026-11-21T06:53:45.162897+00:00"
+  "989936da10e1ec76": "2026-11-21T06:53:45.162897+00:00",
+  "081357761b807e01": "2026-11-21T06:56:54.823143+00:00",
+  "cd7aaae87bd25f1f": "2026-11-21T06:56:56.315339+00:00",
+  "e907e1aecbce2311": "2026-11-21T06:56:57.668032+00:00",
+  "c3e1c5ad530938a2": "2026-11-21T06:56:58.987085+00:00",
+  "aa98915379d8f41f": "2026-11-21T06:57:00.518358+00:00",
+  "ae8cc7857b1dd5df": "2026-11-21T06:57:01.872732+00:00",
+  "c423ccd71bdae6c3": "2026-11-21T06:57:03.221227+00:00",
+  "bf82d0e5516f27a3": "2026-11-21T06:57:04.270177+00:00",
+  "665b8263f5aa66b2": "2026-11-21T07:12:48.032162+00:00",
+  "673e43f714f5d436": "2026-11-21T07:12:49.830843+00:00",
+  "e173e7d3d0f9dbe8": "2026-11-21T07:12:50.774858+00:00",
+  "dbc6065860aa5a79": "2026-11-21T07:12:52.131788+00:00",
+  "118a9af002f30604": "2026-11-21T07:12:53.209482+00:00",
+  "4228ac8dbae3fe0e": "2026-11-21T07:12:55.795172+00:00",
+  "eac1042bf1041f9b": "2026-11-21T07:12:56.860825+00:00",
+  "7bd3de74575cd86e": "2026-11-21T07:12:58.235780+00:00",
+  "4a1c0aaf6bd3f572": "2026-11-21T07:28:37.977301+00:00",
+  "84c924c126525fb9": "2026-11-21T07:28:39.234765+00:00",
+  "24cc9e1845d4c550": "2026-11-21T07:28:40.770182+00:00",
+  "8c80d1c8a12961e8": "2026-11-21T07:28:42.142039+00:00",
+  "26b7ea7bce392aa1": "2026-11-21T07:28:43.471416+00:00",
+  "0be30064cf828cb8": "2026-11-21T07:28:44.990195+00:00",
+  "085e5d33b4dd284d": "2026-11-21T07:28:46.413059+00:00",
+  "1ce28cdfcf6398ff": "2026-11-21T07:28:47.886412+00:00",
+  "b102b01a39399aaf": "2026-11-21T07:44:21.275117+00:00",
+  "556422090c48a605": "2026-11-21T07:44:21.275180+00:00",
+  "b4b27659ebd0d7b2": "2026-11-21T07:44:21.280044+00:00",
+  "58e72dd5738ecb19": "2026-11-21T07:44:21.285565+00:00",
+  "0e3f16936623d1f2": "2026-11-21T07:44:21.287587+00:00",
+  "21b71b7b2bde8c09": "2026-11-21T07:44:22.442222+00:00",
+  "f78a989a0fac6b23": "2026-11-21T07:44:23.648184+00:00",
+  "d3db3c34c728a38b": "2026-11-21T07:44:24.856545+00:00",
+  "b3b9292587781c22": "2026-11-21T07:44:26.464740+00:00",
+  "e35a253316a8bb03": "2026-11-21T07:44:27.779073+00:00",
+  "32d866f7f9a4298e": "2026-11-21T07:44:28.905731+00:00",
+  "028edb6745e0903f": "2026-11-21T07:44:30.145842+00:00",
+  "693d888eca9599a2": "2026-11-21T07:44:31.376086+00:00"
  },
  "recent": [
-  {
-   "title": "How to sell cars and bikes in GTA 6",
-   "source": "GamesRadar+",
-   "trust": "high",
-   "status": "dup",
-   "ts": "2026-11-19T06:02:20.142643+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Morning Bid: Loading ... Claude and GTA VI",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-19T06:02:20.142714+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "How Long Does It Take To Beat GTA 6?",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-19T06:02:20.142774+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Cast List: Who plays Jason, Lucia and More",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-19T06:02:20.142857+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "All Cheat Codes in GTA 6",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-19T06:02:20.142921+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "How Long Does It Take To Beat GTA 6?",
-   "source": "Polygon",
-   "trust": "high",
-   "status": "dup",
-   "ts": "2026-11-19T06:02:20.150606+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA VI didn’t break the internet, thanks to ‘stupid DNS tricks’",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-19T06:02:23.366837+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA VI в будущем не получит 60 FPS даже на PS5 Pro. Rockstar объяснила причину",
-   "source": "iXBT.games",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-19T06:02:33.463150+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "«Романтизация криминала»: в России призвали ограничить GTA 6 среди детей",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-19T06:02:34.662564+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Уоррен Спектор предпочтёт сотни игр GTA 6",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-19T06:02:35.250184+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "All GTA 6 Safe Codes for Chapter 2 in Port Gellhorn",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-19T06:02:35.864131+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Is PlayStation down? Some gamers report problems with PlayStation servers amid 'GTA 6' launch.",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-19T06:02:48.599227+00:00",
-   "card_title": ""
-  },
   {
    "title": "GTA VI lifts Sony shares as PlayStation takes three-quarters of 17 million sales",
    "source": "Google News (EN)",
@@ -5559,7 +5582,7 @@
    "title": "How To Solve All Main Puzzles In GTA 6′s Tenebrae Lux",
    "source": "Kotaku",
    "trust": "high",
-   "status": "queued",
+   "status": "published",
    "ts": "2026-11-20T23:48:48.854216+00:00",
    "card_title": "КАК ПРОЙТИ TENEBRAE LUX"
   },
@@ -6146,6 +6169,302 @@
    "status": "skipped",
    "ts": "2026-11-21T06:53:45.163044+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GTA VI за сутки после релиза заработала почти 4 млрд долларов",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T06:56:54.823268+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 на PS5, PS5 Pro и Xbox Series X/S. Где графика лучше и почему даже мощные консоли не обеспечивают 60 FPS",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T06:56:56.315476+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Apple Music's Club Live Transforms Into GTA VI Radio Livestream",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T06:56:57.668155+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI Nears $4B Launch, Boosts Take-Two",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T06:56:58.987202+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 может повлиять на экономику России",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T06:57:00.518479+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Is Reportedly Tackling the Male Loneliness Epidemic — and What New Research Says About It",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T06:57:01.872856+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 побила рекорды индустрии развлечений в день своего дебюта.",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T06:57:03.221354+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "'Real Time': Bill Maher On 'GTA VI', Robert Pattinson As James Bond",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T06:57:04.270297+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Starfish Island Garage: Where to Find the Vitello, Itali RSX and Dubsta",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "queued",
+   "ts": "2026-11-21T07:12:48.747107+00:00",
+   "card_title": "ТАЧКИ НА СТАРФИШ-АЙЛЕНД"
+  },
+  {
+   "title": "Героиня Atelier Karia «уделала» Джейсона и Люсию из GTA 6 по части набора веса",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T07:12:49.830962+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "\"Is 30 FPS Okay?\" Answering Readers' Questions About GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T07:12:50.774999+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Первый в мире спидран GTA 6 занял 40 часов – стример не спал больше двух суток",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T07:12:52.131915+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Токен по мотивам GTA 6 взлетел в день запуска — кто стоял за покупками",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T07:12:53.209623+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 взорвала индустрию, собрав рекордные миллиарды за сутки",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T07:12:55.795293+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 release sparks excitement at Bradley, spotlights growing world of esports",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T07:12:56.860944+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "I Tried Being a Law-Abiding Boyfriend in GTA 6, Until a $6 Beer Forced Me Into a Life of Crime",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T07:12:58.235906+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI войдёт в историю как последний шедевр до ИИ-революции, считает экс-глава Take-Two",
+   "source": "iXBT.games",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-21T07:28:37.977411+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI Soundtrack Leads New Music Friday Alongside Gracie Abrams, LISA and More",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T07:28:39.234887+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 заработала почти 4 млрд долларов за сутки после релиза",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T07:28:40.770308+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 lets you make Jason and Lucia walk faster: here’s where to find the setting",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T07:28:42.142167+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "'GTA VI' reviewed: After a 13-year-wait, it lives up to the hype",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T07:28:43.471552+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Retailers report gloomy GTA 6 physical sales, with disc-less code-in-box unpopular",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T07:28:44.990320+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Дини заявил, что Почеттино должен исключить Мбемо из состава из-за игры GTA 6",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T07:28:46.413185+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Chris ‘Mad Dog’ Russo goes on epic ‘GTA 6’ rant — and implores gamers to instead ‘read a book’",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T07:28:47.886542+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Got Pills? Walkthrough",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "dup",
+   "ts": "2026-11-21T07:44:21.275146+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Overnight Charges Walkthrough",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "dup",
+   "ts": "2026-11-21T07:44:21.275196+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Moses Walkthrough and How to Register a Car for Free",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "dup",
+   "ts": "2026-11-21T07:44:21.280070+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Girls' Trip Walkthrough",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "dup",
+   "ts": "2026-11-21T07:44:21.285594+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to Complete Just Moved In in GTA 6",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "dup",
+   "ts": "2026-11-21T07:44:21.287611+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Logitech allows employees to play GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T07:44:22.442339+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Vehicles - GTA 6 Guide",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T07:44:23.648305+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 performance analysis reveals 2270% more FPS drops on PS5 than Xbox Series X",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T07:44:24.856666+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Анализ производительности GTA 6 выявил на 2270% больше просадок FPS на PS5 по сравнению с Xbox Series X",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T07:44:26.464864+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "‘GTA 6’ cast celebrity cameos: Bobby Moynihan, Bad Bunny and more",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T07:44:27.779192+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 встретила игроков сбоем PSN: даже покупка не спасла",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T07:44:28.905849+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Chris Russo admonishes people playing GTA VI all weekend: ‘Read a book’",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T07:44:30.145965+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 утомила даже критиков: красивый мир не спасает сюжет",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T07:44:31.376214+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -6229,33 +6548,6 @@
     "model": "groq:openai/gpt-oss-120b → gemini:gemini-3.5-flash"
    },
    "queued_at": "2026-11-20T23:48:39.158930+00:00"
-  },
-  {
-   "item": {
-    "title": "How To Solve All Main Puzzles In GTA 6′s Tenebrae Lux",
-    "link": "https://kotaku.com/how-to-solve-all-main-puzzles-in-gta-6s-tenebrae-lux-2000758940",
-    "summary": "Hope you like sea shanties!",
-    "published": "2026-11-20T23:30:19+00:00",
-    "source": "Kotaku",
-    "site_name": "Kotaku",
-    "trust": "high",
-    "text": "If you decide you’d rather sit at home all day and play a pretentious, cerebral puzzle game instead of go on heists, Tenebrae Lux is waiting for Jason and Lucia on their JoyStation in GTA VI. While on the surface it looks like just a funny gag poking at auteur culture (and one developer in particular), Tenebrae Lux is a surprisingly solid, short puzzle game that (if you’re not using this guide) may take you a few hours to get through.\nBut I’m assuming you’re here because you either want to beat it quickly, or you’ve gotten so stuck (as I did) on a few of the puzzles that you’re desperate for help. I get you. Here’s as simple a walkthrough as I could manage for Tenebrae Lux:\nYou’ll start out on the shoreline. You can’t do much: just walk around and examine objects. To start with, you’re going to want to head to the left side of the shore (assuming you’re facing the shore from the beach you start on) where there are multiple run-down shacks lit by big bright lights.\nInside these shacks are three puzzles on gridded boards. On those grids, multiple pieces are placed with different 3D shapes atop: three-tiered tall ones, middling spiky ones, and flat ones with a tiny dot in the middle. The flat ones don’t move at all, the middle-sized spiky ones can slide across the board and clear the flat ones if they land next to them, and the three-tiered tall ones and middle-sized ones clear one another in the same fashion. Your goal is to clear all the pieces off the board.\nYou can do these puzzles in any order. One of them is easy and straightforward, but the other two require a little bit more thinking. You’ll have to use the fact that the flat pieces don’t move and cannot be cleared by the three-tiered pieces to set up the three-tiers so they and the mountain pieces can clear one another once all the flat ones are off the board.\nThe three main puzzles in this area should be fairly simple to do, though there are a couple of hidden ones you can optionally do that are more difficult. On at least one, you might need to set up your board so you have two three-tier pieces set up with a gap between them that a middle-sized piece can easily get into after clearing a flat one. See below:\nWhen I move that mountain-shaped piece to the left, it will take out itself and all three of those other tiles with it.\nThis puzzle will easily make you feel like you’re losing your mind, but I highly recommend trying to work it out for yourself first, if you can.\nWhen you enter the room upstai",
-    "extra": {}
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "🗺 Гайд: Прохождение Tenebrae Lux в GTA 6\n\nЗахотелось отдохнуть от ограблений? Зарубись в мини-игру Tenebrae Lux на консоли JoyStation у Джейсона и Люсии!\n\n1. Иди на левый берег пляжа к хижинам со светом.\n2. Внутри три доски с фигурами: плоские, шипастые и башни.\n3. Плоские неподвижны — двигай шипастые впритык к ним для уничтожения.\n4. Очисти всю доску от фишек, чтобы пройти дальше.\n\nЗалипалово топчик, размять мозги самое то!",
-    "card_title": "КАК ПРОЙТИ TENEBRAE LUX",
-    "reason": "Подтверждённый гайд от Kotaku, полезен для прохождения пазлов",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": true,
-    "model": "groq:openai/gpt-oss-120b → gemini:gemini-3.5-flash"
-   },
-   "queued_at": "2026-11-20T23:48:48.854202+00:00"
   },
   {
    "item": {
@@ -6907,6 +7199,33 @@
   },
   {
    "item": {
+    "title": "GTA 6 Starfish Island Garage: Where to Find the Vitello, Itali RSX and Dubsta",
+    "link": "https://www.gtaboom.com/gta-6-starfish-island-mansion-garage-4cf3",
+    "summary": "Look for the driveway loop at the northeast tip of Starfish Island. The mansion's garage has three cars; scan them before choosing which one to take.",
+    "published": "2026-11-21T06:57:06+00:00",
+    "source": "GTA BOOM",
+    "site_name": "GTA BOOM",
+    "trust": "medium",
+    "text": "The Starfish Island mansion garage in GTA 6 has two supercars and a G-Wagon-style SUV, but the Dubsta is the easier one to keep. The spotted Piccia Big Cat Furia is a fourth option, parked out front. All four need the Key Cloner. Only the Dubsta has a standard tracker and its registration quote was less than half the Vitello's. You'll need the advanced-tracker unlock to register any of the three sports cars.\nFind the mansion at the end of Starfish Island\nTake the road onto Starfish Island from Waxman Island and follow it to the turnaround at the northeast end. Use the driveway with the small oval loop beside the large waterfront house. The garage is beside the driveway. Look for the green walls and pale floor, with the cars parked side by side.\nScan the cars with WAiNK before you try a door. All four showed Key Cloner for access and Alarmed under security. The tracker and the cost to register are what set them apart.\nThe WAiNK scans show what each car would cost to register.\nThese were the prices shown when we scanned the cars. Check your own quote before you drive off. If you want a supercar and don't mind dealing with an advanced tracker, the Itali RSX was GTA$3,100 cheaper to register than the Vitello. We didn't drive away with or register these cars.\nIn Chapter 3, unlock the Key Cloner. Randy gives you access during Clonin' Keys, Makin' Gs, the job where you steal a Zorrusso for him. Once you've unlocked it, look for Clone Key at the driver's door. Tilt the right stick until the meter turns pink. Keep the stick at that angle to finish the clone.\nOnce shops accept standard trackers in Chapter 3, take the Dubsta to a Pay 'n' Spray. Get clear of any police search before heading to the shop. Choose Register, not Sell, to keep the SUV.\nFor the Vitello, Itali RSX or Big Cat Furia, wait for Randy's later unlock. Deliver the '64 Declasse Mamba GT for Randy and wait for his call before trying to register a car with an advanced tracker. Pick a Pay 'n' Spray and plan the drive before taking an advanced-tracker car. The tracker can give away your location when you slow down, even after you've cloned the key.\nStill early in the story? Go for the Paul Walker Eclipse instead. It's the option to look at if you want a car you can take to Moses without waiting for Randy.\nLook by the mansion's front steps for the Piccia Big Cat Furia. Its yellow spotted livery and POUNCE plate set it apart from the cars inside the garage.\nThe WAiNK scan showed Key Cloner access, an alarm",
+    "extra": {}
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "🗺 Гайд: Тачки на Старфиш-Айленд\n\nЗабираем лютые суперкары и Dubsta на вилле в северо-восточной части острова.\n\n1. Чекайте гараж у большого дома с овальной петлей.\n2. Сканируйте тачки через WAiNK и юзайте Key Cloner от Рэнди из 3 главы.\n3. Dubsta проще зарегать сразу, а для спорткаров вроде Itali RSX нужен продвинутый трекер.\n\n❤️ — Изи гелик\n👎 — Душно с трекерами",
+    "card_title": "ТАЧКИ НА СТАРФИШ-АЙЛЕНД",
+    "reason": "Гайд по поиску крутых тачек и угону на Старфиш-Айленд в GTA 6",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": true,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "queued_at": "2026-11-21T07:12:48.747096+00:00"
+  },
+  {
+   "item": {
     "title": "GTA 6 Did Not Kill Physical Games, It Just Proved They Were Already Dead",
     "link": "https://www.gtaboom.com/gta-6-did-not-kill-physical-games-it-just-proved-they-were-already-dead",
     "summary": "GTA 6's reported record launch with boxed download codes comes without discs for buyers to collect or lend to friends.",
@@ -7054,9 +7373,10 @@
   "2026-11-20T15:00:24.640243+00:00",
   "2026-11-20T15:19:28.976478+00:00",
   "2026-11-20T18:33:04.361290+00:00",
-  "2026-11-21T06:14:39.704485+00:00"
+  "2026-11-21T06:14:39.704485+00:00",
+  "2026-11-21T07:11:39.823252+00:00"
  ],
- "tg_offset": 387129010,
+ "tg_offset": 387129013,
  "channel": {
   "id": -1003986639147,
   "title": "GTA 6 | Горячие новости",
@@ -7071,7 +7391,8 @@
   "2026-11-20T10:35:40.883525+00:00",
   "2026-11-20T14:41:38.112854+00:00",
   "2026-11-20T17:56:28.663214+00:00",
-  "2026-11-21T06:06:24.327667+00:00"
+  "2026-11-21T06:06:24.327667+00:00",
+  "2026-11-21T07:06:43.822657+00:00"
  ],
  "slots_sent": {
   "2026-11-19:утро": "2026-11-19T07:34:40.425437+00:00",
@@ -7155,7 +7476,8 @@
   "2026-11-20T14:49:41.470920+00:00",
   "2026-11-20T18:12:30.979974+00:00",
   "2026-11-20T19:41:54.206032+00:00",
-  "2026-11-20T19:42:03.366178+00:00"
+  "2026-11-20T19:42:03.366178+00:00",
+  "2026-11-21T07:15:43.486003+00:00"
  ],
  "clip_history": [
   {
@@ -8170,6 +8492,380 @@
     "c267cfc86121b0d0"
    ],
    "caption": "❗ Выпал из САМОЛЁТА над Вайс-Сити\n\nБыл пассажиром — стал парашютистом за пару секунд 🪂\nЗато вид на даунтаун топчик"
+  },
+  {
+   "author": "youtube:猎魔的契约",
+   "vod": "",
+   "offset": -1,
+   "title": "选择心仪的物品#gta  #gta6  #shorts",
+   "drafted": false,
+   "ts": "2026-11-21T07:00:27.921281+00:00"
+  },
+  {
+   "author": "youtube:i11ushenka",
+   "vod": "",
+   "offset": -1,
+   "title": "ГТА 6: Неуязвимые зоозащитники?",
+   "drafted": false,
+   "ts": "2026-11-21T07:00:28.940711+00:00"
+  },
+  {
+   "author": "youtube:maavrickk",
+   "vod": "",
+   "offset": -1,
+   "title": "🚨GTA VI IS CRAZY! LIVE NOW!🚨",
+   "drafted": false,
+   "ts": "2026-11-21T07:00:29.664548+00:00"
+  },
+  {
+   "author": "youtube:wisebenda",
+   "vod": "",
+   "offset": -1,
+   "title": "Oblivion Level AI in GTA 6 💀",
+   "drafted": false,
+   "ts": "2026-11-21T07:00:30.368420+00:00"
+  },
+  {
+   "author": "youtube:kai cenat live",
+   "vod": "",
+   "offset": -1,
+   "title": "BEATING GTA 6 *FINALE*",
+   "drafted": false,
+   "ts": "2026-11-21T07:01:21.508981+00:00"
+  },
+  {
+   "author": "youtube:последняя извилина",
+   "vod": "",
+   "offset": -1,
+   "title": "Баги в ГТА 6",
+   "drafted": false,
+   "ts": "2026-11-21T07:01:22.323530+00:00"
+  },
+  {
+   "author": "youtube:tanner roff",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 FULL WALKTHROUGH | 4K | FULL STORY MODE | LIVE",
+   "drafted": false,
+   "ts": "2026-11-21T07:01:23.155542+00:00"
+  },
+  {
+   "author": "youtube:dew asia",
+   "vod": "",
+   "offset": -1,
+   "title": "We have GTA 6 at home.\" GTA 6 at home: 👀💀 (RIP my GPU) #gaming #gta #gta6 #edit #kpop #kpopedit",
+   "drafted": false,
+   "ts": "2026-11-21T07:01:23.922337+00:00"
+  },
+  {
+   "author": "youtube:yaduvanshi harshita",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 memes #memes #popular #viral #funnymemes #gta #gta6 #gaming",
+   "drafted": false,
+   "ts": "2026-11-21T07:02:14.818653+00:00"
+  },
+  {
+   "author": "youtube:unchained gaming",
+   "vod": "",
+   "offset": -1,
+   "title": "J’ai eu le Jeton Pirate sur GTA 6 !",
+   "drafted": false,
+   "ts": "2026-11-21T07:02:15.665213+00:00"
+  },
+  {
+   "author": "youtube:ryckreys",
+   "vod": "",
+   "offset": -1,
+   "title": "existe um MONSTRO VIVO no GTA 6",
+   "drafted": false,
+   "ts": "2026-11-21T07:02:16.715271+00:00"
+  },
+  {
+   "author": "youtube:the daily bungulator",
+   "vod": "",
+   "offset": -1,
+   "title": "Peanut's HONEST opinion of GTA6... 😯 #theburntpeanut #gta6",
+   "drafted": false,
+   "ts": "2026-11-21T07:02:17.657356+00:00"
+  },
+  {
+   "author": "youtube:fact2fact",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 Smashed All Records",
+   "drafted": false,
+   "ts": "2026-11-21T07:03:08.536754+00:00"
+  },
+  {
+   "author": "youtube:vandal",
+   "vod": "",
+   "offset": -1,
+   "title": "TRUCO para JUGAR a GTA 6 en PRIMERA PERSONA 🔥 #gta6 #grandtheftauto #trucosgta",
+   "drafted": false,
+   "ts": "2026-11-21T07:03:09.264445+00:00"
+  },
+  {
+   "author": "youtube:gelnox",
+   "vod": "",
+   "offset": -1,
+   "title": "Map of all GTA 6 Players",
+   "drafted": false,
+   "ts": "2026-11-21T07:03:09.946820+00:00"
+  },
+  {
+   "author": "youtube:earlygame",
+   "vod": "",
+   "offset": -1,
+   "title": "Wie weit sind unsere Streamer schon in GTA 6?🤔",
+   "drafted": false,
+   "ts": "2026-11-21T07:03:10.757942+00:00"
+  },
+  {
+   "author": "youtube:cohh",
+   "vod": "",
+   "offset": -1,
+   "title": "Important GTA 6 Tip: SAVE YOUR GAME!",
+   "drafted": false,
+   "ts": "2026-11-21T07:04:01.626114+00:00"
+  },
+  {
+   "author": "youtube:jaywayygaming",
+   "vod": "",
+   "offset": -1,
+   "title": "5 Things I Learned TODAY In GTA 6",
+   "drafted": false,
+   "ts": "2026-11-21T07:04:02.444742+00:00"
+  },
+  {
+   "author": "youtube:danirep | +6 vídeos diarios de gta 5 online!",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 es exagerado",
+   "drafted": false,
+   "ts": "2026-11-21T07:04:03.205979+00:00"
+  },
+  {
+   "author": "youtube:typical gamer",
+   "vod": "",
+   "offset": -1,
+   "title": "🔴 LIVE! - PLAYING GTA 6 RIGHT NOW! (PS5 PRO)",
+   "drafted": false,
+   "ts": "2026-11-21T07:04:04.008002+00:00"
+  },
+  {
+   "author": "youtube:aben",
+   "vod": "",
+   "offset": -1,
+   "title": "TIẾP TỤC GTA6...",
+   "drafted": false,
+   "ts": "2026-11-21T07:04:54.951223+00:00"
+  },
+  {
+   "author": "youtube:pixelated yui",
+   "vod": "",
+   "offset": -1,
+   "title": "World’s First Stolen Plane in GTA 6",
+   "drafted": false,
+   "ts": "2026-11-21T07:04:55.693972+00:00"
+  },
+  {
+   "author": "youtube:darsa gaming",
+   "vod": "",
+   "offset": -1,
+   "title": "Eksperimen Menabrak Gedung Pakai Pesawat di GTA 6 #shorts",
+   "drafted": false,
+   "ts": "2026-11-21T07:04:56.471956+00:00"
+  },
+  {
+   "author": "youtube:vicevi",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 5 vs GTA 6 TIRE SHOOT! #gta #gta5 #gta6 #gtav #shorts",
+   "drafted": false,
+   "ts": "2026-11-21T07:04:57.266383+00:00"
+  },
+  {
+   "author": "youtube:brunelviss games",
+   "vod": "",
+   "offset": -1,
+   "title": "Ele tentou jogar GTA 6 sem quebrar NENHUMA lei… mas os NPCs não deixaram 😳",
+   "drafted": false,
+   "ts": "2026-11-21T07:05:48.183162+00:00"
+  },
+  {
+   "author": "youtube:bytetalkyt",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6’s Jason Has Michael’s Boat From GTA 5",
+   "drafted": false,
+   "ts": "2026-11-21T07:05:49.029567+00:00"
+  },
+  {
+   "author": "youtube:valkyrae",
+   "vod": "",
+   "offset": -1,
+   "title": "🔴LIVE! GTA VI DAY 2 THEN DEADLOCK (also live on twitch)",
+   "drafted": false,
+   "ts": "2026-11-21T07:05:49.789418+00:00"
+  },
+  {
+   "author": "youtube:drag99_",
+   "vod": "",
+   "offset": -1,
+   "title": "13 ANNI PER QUESTI BUG DI GTA 6! #gta5 #gta6 #gta #rockstargames #gameplay",
+   "drafted": false,
+   "ts": "2026-11-21T07:05:50.563273+00:00"
+  },
+  {
+   "author": "youtube:addi live",
+   "vod": "",
+   "offset": -1,
+   "title": "Spiele NIEMALS diese GTA 6 Mission!😱",
+   "drafted": false,
+   "ts": "2026-11-21T07:06:43.831807+00:00"
+  },
+  {
+   "author": "youtube:agent 00",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 MARATHON DAY 3 + MAKING EVERY WRONG DECISION",
+   "drafted": false,
+   "ts": "2026-11-21T07:06:44.569138+00:00"
+  },
+  {
+   "author": "youtube:meesuwat ",
+   "vod": "",
+   "offset": -1,
+   "title": "ไข่ที่ถูกซ่อนไว้บนยอดเสาไฟในเกม GTA6 😱🔥 #หมีsuwat #gta6 #gta",
+   "drafted": false,
+   "ts": "2026-11-21T07:06:45.364425+00:00"
+  },
+  {
+   "author": "youtube:notrexx editz",
+   "vod": "",
+   "offset": -1,
+   "title": "Techno Gamerz Daily GTA 6 Video 💀🙏 | Edit | #shorts #technogamerz #ujjwalgamer",
+   "drafted": false,
+   "ts": "2026-11-21T07:06:46.215338+00:00"
+  },
+  {
+   "author": "youtube:hamedloco",
+   "vod": "",
+   "offset": -1,
+   "title": "🔴 Ich spiele das erste Mal GTA 6! (live)",
+   "drafted": false,
+   "ts": "2026-11-21T07:06:57.596244+00:00"
+  },
+  {
+   "author": "youtube:deadwave",
+   "vod": "",
+   "offset": -1,
+   "title": "😱 СЛИВЩИК GTA 6 ВЫЛОЖИЛ ИГРУ В ОТКРЫТЫЙ ДОСТУП!",
+   "drafted": false,
+   "ts": "2026-11-21T07:06:58.344767+00:00"
+  },
+  {
+   "author": "twitch:leva2k",
+   "vod": "2935172718",
+   "offset": 14721.0,
+   "title": "Баг в ГТА 6",
+   "drafted": false,
+   "ts": "2026-11-21T07:06:59.212412+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:ludwig",
+   "vod": "2934132437",
+   "offset": 96395.0,
+   "title": "one of the better drivers",
+   "drafted": false,
+   "ts": "2026-11-21T07:09:56.494039+00:00",
+   "frames": []
+  },
+  {
+   "author": "youtube:yahya alhihi",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 vs GTA: San Andreas 😭",
+   "drafted": false,
+   "ts": "2026-11-21T07:13:00.699822+00:00"
+  },
+  {
+   "author": "youtube:issei nugroho",
+   "vod": "",
+   "offset": -1,
+   "title": "Windah Stream GTA 6 No 1 Di Dunia Tapi ada Manusia Kebodohan",
+   "drafted": false,
+   "ts": "2026-11-21T07:13:01.477660+00:00"
+  },
+  {
+   "author": "youtube:manu e daniel oficial",
+   "vod": "",
+   "offset": -1,
+   "title": "O BEBÊ COMPROU GTA 6 👶🏻😂 #gtavi #playcomyoutube #comedia",
+   "drafted": false,
+   "ts": "2026-11-21T07:13:02.217328+00:00"
+  },
+  {
+   "author": "youtube:kapten keju",
+   "vod": "",
+   "offset": -1,
+   "title": "Hari Paling Apes Sejagat Gamer: Rilis GTA 6 💀🔥",
+   "drafted": false,
+   "ts": "2026-11-21T07:13:02.924049+00:00"
+  },
+  {
+   "author": "youtube:cellbit lives",
+   "vod": "",
+   "offset": -1,
+   "title": "CELLBIT JOGANDO AINDA MAIS GTA 6",
+   "drafted": false,
+   "ts": "2026-11-21T07:13:54.082146+00:00"
+  },
+  {
+   "author": "youtube:caderaa",
+   "vod": "",
+   "offset": -1,
+   "title": "SABTU BARENG GTA VI Part 3",
+   "drafted": false,
+   "ts": "2026-11-21T07:13:54.822740+00:00"
+  },
+  {
+   "author": "youtube:gol",
+   "vod": "",
+   "offset": -1,
+   "title": "No way Niko Bellic is the Boss in GTA 6 😭",
+   "drafted": false,
+   "ts": "2026-11-21T07:13:55.643190+00:00"
+  },
+  {
+   "author": "twitch:caseoh_",
+   "vod": "",
+   "offset": -1,
+   "title": "omg haha",
+   "drafted": false,
+   "ts": "2026-11-21T07:13:56.336742+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:maya",
+   "vod": "2935062259",
+   "offset": 3087.0,
+   "title": "extremely violent chiblee",
+   "drafted": false,
+   "ts": "2026-11-21T07:15:36.654420+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:maya",
+   "vod": "2935062259",
+   "offset": 3087.0,
+   "title": "extremely violent chiblee",
+   "drafted": true,
+   "ts": "2026-11-21T07:15:43.486021+00:00",
+   "frames": [],
+   "caption": "Имба: персонаж таскает сбитую игуану за хвост, и копы сразу вяжут за такое 💀"
   }
  ],
  "published": [
@@ -8228,6 +8924,13 @@
    "title": "Продавец пережил дробовик В УПОР",
    "importance": 9,
    "kind": "video"
+  },
+  {
+   "ts": "2026-11-21T07:11:39.823269+00:00",
+   "msg_id": 33,
+   "title": "Прохождение Tenebrae Lux в GTA 6",
+   "importance": 8,
+   "kind": "guide"
   }
  ],
  "extras": [],
