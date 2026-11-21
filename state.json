@@ -1769,7 +1769,26 @@
   "ae91ac6a8f43ea47": "2026-11-21T21:49:42.413954+00:00",
   "a276e0f5ab5ba555": "2026-11-21T21:49:44.029780+00:00",
   "a37972e8492b4e5a": "2026-11-21T21:49:45.590171+00:00",
-  "a19295d71ca80d79": "2026-11-21T21:49:47.608453+00:00"
+  "a19295d71ca80d79": "2026-11-21T21:49:47.608453+00:00",
+  "2431e2b49679bad9": "2026-11-21T22:05:08.438234+00:00",
+  "5ce8fe98416c47ff": "2026-11-21T22:05:08.602660+00:00",
+  "d0fee0ae778f39df": "2026-11-21T22:05:10.742965+00:00",
+  "da113c3a046a1d91": "2026-11-21T22:05:14.714929+00:00",
+  "ec08bab4cd73880e": "2026-11-21T22:05:17.525057+00:00",
+  "4d464f55682c7ff2": "2026-11-21T22:05:19.831101+00:00",
+  "3e8dbc9c1d7048b2": "2026-11-21T22:05:21.304771+00:00",
+  "bbce030821c8af29": "2026-11-21T22:05:23.006175+00:00",
+  "1a3cd53f8e10dd40": "2026-11-21T22:05:24.451296+00:00",
+  "cb8287ed4c52f6d0": "2026-11-21T22:05:26.074283+00:00",
+  "59421f1c63a4b0eb": "2026-11-21T22:20:43.307717+00:00",
+  "563df8bf640cb94d": "2026-11-21T22:20:45.501667+00:00",
+  "6f1a533ebfcfd4d1": "2026-11-21T22:20:47.966608+00:00",
+  "02af179c37bf3686": "2026-11-21T22:20:50.736855+00:00",
+  "f40516b203cf8770": "2026-11-21T22:20:52.125886+00:00",
+  "ca663768ad794e4c": "2026-11-21T22:20:54.882645+00:00",
+  "2053b55269c50c6d": "2026-11-21T22:21:02.724293+00:00",
+  "25f5d415858ec873": "2026-11-21T22:21:04.311631+00:00",
+  "d85c04eccd28cadc": "2026-11-21T22:21:06.143330+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -2936,7 +2955,26 @@
   "25b813271db7abb2": "2026-11-21T21:49:42.413954+00:00",
   "965d10fe429adb45": "2026-11-21T21:49:44.029780+00:00",
   "8213fb1ee5d0cd57": "2026-11-21T21:49:45.590171+00:00",
-  "e11c0a84db6f90f1": "2026-11-21T21:49:47.608453+00:00"
+  "e11c0a84db6f90f1": "2026-11-21T21:49:47.608453+00:00",
+  "7e145f7fd4794602": "2026-11-21T22:05:08.438234+00:00",
+  "898783275ee34dbe": "2026-11-21T22:05:08.602660+00:00",
+  "501e8a86da81f9cb": "2026-11-21T22:05:10.742965+00:00",
+  "2af6f659ff63b610": "2026-11-21T22:05:14.714929+00:00",
+  "61b2c995f1aa2ce3": "2026-11-21T22:05:17.525057+00:00",
+  "d6458cb944092909": "2026-11-21T22:05:19.831101+00:00",
+  "22514be9da12aadc": "2026-11-21T22:05:21.304771+00:00",
+  "d7a0e021a2f95317": "2026-11-21T22:05:23.006175+00:00",
+  "b8bd1e9ef3788b6a": "2026-11-21T22:05:24.451296+00:00",
+  "f113254e9d04ef02": "2026-11-21T22:05:26.074283+00:00",
+  "a4dacbc1ba3bc8af": "2026-11-21T22:20:43.307717+00:00",
+  "e6ec6c1a7a83712a": "2026-11-21T22:20:45.501667+00:00",
+  "f6433b70d4902edf": "2026-11-21T22:20:47.966608+00:00",
+  "43b8320564b00381": "2026-11-21T22:20:50.736855+00:00",
+  "c146314246273159": "2026-11-21T22:20:52.125886+00:00",
+  "e4eb1574dafe39f0": "2026-11-21T22:20:54.882645+00:00",
+  "9d8cef0ab6036101": "2026-11-21T22:21:02.724293+00:00",
+  "80f89f28a3077827": "2026-11-21T22:21:04.311631+00:00",
+  "3c7f425b09c7d383": "2026-11-21T22:21:06.143330+00:00"
  },
  "recent": [
   {
@@ -7578,6 +7616,158 @@
    "status": "skipped",
    "ts": "2026-11-21T21:49:47.608576+00:00",
    "card_title": ""
+  },
+  {
+   "title": "Giant crab safe code and Crabshack VF5 SMG location in GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-21T22:05:08.438284+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Where To Find Arthur Morgan’s Red Dead Cowboy Hat In ‘GTA 6’",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-21T22:05:08.602709+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Radio Tower Expert Can’t Believe How Realistic GTA 6′s Towers Are: ‘Oh My God Boys… Earthed Tower Legs With Saddles”",
+   "source": "Kotaku",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-21T22:05:11.716825+00:00",
+   "card_title": "РЕАЛЬНЫЕ ВЫШКИ В GTA 6"
+  },
+  {
+   "title": "GTA 6 Players Are Obsessed With Finding IRL Florida in Vice City",
+   "source": "Polygon",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-21T22:05:15.684695+00:00",
+   "card_title": "ВАЙС-СИТИ В РЕАЛЬНОЙ ЖИЗНИ"
+  },
+  {
+   "title": "The Dexter Apartment Is the Best Proof Yet of How GTA 6 Builds Its World",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "queued",
+   "ts": "2026-11-21T22:05:18.251245+00:00",
+   "card_title": "СЕКРЕТНАЯ КВАРТИРА ДЕКСТЕРА В GTA 6"
+  },
+  {
+   "title": "Review by Gene Park: In “GTA VI,” all your decisions have consequences. That’s why the game keeps surprising you. After playing a lot of video games, you start to know what to expect and stop wondering what’s possible. “GTA VI” brings wonder back. https://",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T22:05:19.831226+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 gets its first 'Mount Chilliad'-esque mystery and I'm already losing sleep over it",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T22:05:21.304889+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Rockstar Games' next game revealed as GTA 6 ending confirms long-standing theory",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T22:05:23.006288+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "'GTA VI' gives Silver Springs stunning virtual makeover as Emerald Springs",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T22:05:24.451430+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Chess Fans Have Spotted a Glaring Mistake in GTA 6, and It’s Been Hiding in Plain Sight",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T22:05:26.074402+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Where to Find The Pfister Growler in GTA 6—Randy’s Wishlist Car Locations",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "dup",
+   "ts": "2026-11-21T22:20:43.307745+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 radio DJs and podcast hosts: Every famous voice on GTA 6’s radio",
+   "source": "VGC",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-21T22:20:46.299796+00:00",
+   "card_title": "ЗВЕЗДНЫЕ ГОЛОСА НА РАДИО GTA 6"
+  },
+  {
+   "title": "GTA 6 Laptop Password Puzzle—Muffins Solution and La Perle Garage Code, Explained",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-21T22:20:48.821271+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "🇺🇸 GTA 6 is finally out and this guy is playing it on toast. Rockstar built the most hyped game ever and he chose a slice of bread over a TV. The graphics are crispy in more ways than one. Writer: Daniyal",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T22:20:50.736984+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI: Surprisingly Odd Reactions to the Relationship with Lucia",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T22:20:52.125998+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 - How to Find the Dexter Easter Egg (Apartment, Boat, and Kill Room) | IGN",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T22:20:54.882781+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Even The PS5 Pro Can't Push GTA 6 To 60 FPS, But Is That Really A Problem?",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T22:21:02.724415+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Пользователи на Metacritic оценили GTA 6 гораздо ниже, чем игровые журналисты",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T22:21:04.311752+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How Janelle James talked her way into 'GTA 6'",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T22:21:06.143454+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -7728,6 +7918,35 @@
   },
   {
    "item": {
+    "title": "GTA 6 Players Are Obsessed With Finding IRL Florida in Vice City",
+    "link": "https://www.polygon.com/gta-6-players-irl-vice-city-locations/",
+    "summary": "GTA 6 fans have spent time tracking down remarkably faithful recreations of Miami locations beyond just the popular landmarks.",
+    "published": "2026-11-21T22:00:17+00:00",
+    "source": "Polygon",
+    "site_name": "Polygon",
+    "trust": "high",
+    "text": "Now that Grand Theft Auto 6 is in the wild, one thing has become clear: The open-world crime stuff is secondary. This thing's a life sim. GTA 6's life sim bona fides are so undeniable that, within the first two days of its release, a not-insignificant swath of players have eschewed the elaborate robberies and high-tension shootouts to instead embrace the ancient gaming tradition of \"finding IRL locations and Leo memeing at them.\"\nPlayers of reality-inspired open-world games have always done this, whether it's finding the Bean in Watch Dogs' version of Chicago or visiting the John Wick hotel in DLC for The Division 2. But with GTA 6, which takes place in a satirized version of Florida called Leonida, players were always going to take it to another level. This game is from Rockstar Games, a studio so well-known for its attention to detail it once infamously implemented horse testicles that shrink in reaction to cold weather. GTA 6 has been in development for a decade. Its leads have conducted \"research\" trips to Miami-Dade County for just as long. A perfect storm for some ridiculously faithful world design that's resulted in brain-melting levels of realism.\nWhat's most remarkable is that Rockstar's attention to detail isn't just limited to reimagining iconic Miami landmarks like the Adrienne Arsht Center or the E11EVEN nightclub, though the game does have those. It's also found in recreations of nondescript buildings you'd otherwise never think twice about. This design ethos is best illustrated in one viral clip in which an unidentified creator films Jason walking through an apartment complex before coming to a stop on a patio overlooking a South Beach meridian. The creator, continuing to film, stands up in real life, then walks out of their own front door and onto a patio of the same exact building. (\"This is crazy [exploding head emoji],\" they wrote. \"My apartment is in a video game.\")\nEven in the realm of sports, Rockstar wasn't just drawn to the major leagues. Yes, GTA 6 includes a riff on Miami's Kaseya Cener (homebase of the Miami Heat), but it also includes a pixel-perfect facsimile of the Miami Marine Stadium. Built in the early '60s as a regatta venue, the stadium went on to host film shoots, presidential rallies, and concerts from the likes of Queen, The Who, Jimmy Buffet, and other megawatt stars, according to the nonprofit Restore Miami Marine Stadium. Then, in 1992, Hurricane Andrew took the venue out of commission. It's spent the past three dec",
+    "extra": {
+     "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/vice_city_08.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "ВАЙС-СИТИ В РЕАЛЬНОЙ ЖИЗНИ\n\nИгроки в шоке: Rockstar перенесли Майами в игру с такой точностью, что челы находят в GTA 6 свои собственные квартиры и дома. Это просто лютый разнос детализации — даже типичные невзрачные здания выглядят один в один как в жизни. Флекс от разрабов засчитан, уровень погружения зашкаливает. \n\n❤️ — Жду, когда найду свой подъезд\n👎 — Слишком душно, я в игру играть пришел",
+    "card_title": "ВАЙС-СИТИ В РЕАЛЬНОЙ ЖИЗНИ",
+    "reason": "Игроки массово находят свои реальные дома в игре, что создает вирусный контент.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.1-flash-lite"
+   },
+   "queued_at": "2026-11-21T22:05:15.684685+00:00"
+  },
+  {
+   "item": {
     "title": "GTA 6 Chapter 3 laptop password: How to unlock the laptop in Boobie’s apartment",
     "link": "https://www.videogameschronicle.com/guide/gta-6-chapter-3-laptop-password-how-to-unlock-the-laptop-in-boobies-apartment/",
     "summary": "Unlock the laptop in Chapter 3 with this guide",
@@ -7783,6 +8002,64 @@
     "model": "gemini:gemini-3.5-flash-lite"
    },
    "queued_at": "2026-11-21T18:51:31.016716+00:00"
+  },
+  {
+   "item": {
+    "title": "Radio Tower Expert Can’t Believe How Realistic GTA 6′s Towers Are: ‘Oh My God Boys… Earthed Tower Legs With Saddles”",
+    "link": "https://kotaku.com/radio-tower-expert-cant-believe-how-realistic-gta-6s-towers-are-oh-my-god-boys-earthed-tower-legs-with-saddles-2000759186",
+    "summary": "If you were curious how accurate the utility towers in Grand Theft Auto 6 the answer appears to be: Very",
+    "published": "2026-11-21T22:00:32+00:00",
+    "source": "Kotaku",
+    "site_name": "Kotaku",
+    "trust": "high",
+    "text": "Grand Theft Auto 6 is a massive game, yes, but if you dig into everything inside of it, you’ll quickly discover that nearly every inch of this big world is filled with incredibly realistic details. Case in point: a content creator who has also worked on large communication towers was recently stunned by GTA 6′s attention to detail. Folks, we got Erathed tower legs.\nContent creator MrMcg92, who primarily plays first-person shooters and military sims, is also someone who has, in real life, worked on and climbed large communication and radio towers. So whenever he comes across a radio tower in a video game, he takes some time to do a “Tower Inspection.” He’s looked at towers in Battlefield, Days Gone, and Far Cry. And while all of these towers had some nice details, they often made mistakes or were missing important bits MrMcg92 would expect to find on a real comms tower. That wasn’t the case when he did a tower inspection in GTA 6. Instead, he was flabbergasted and impressed by the tower’s hyper-realistic details.\n“Oh my fucking god, boys,” exclaimed MrMcg92 when walking up to a radio tower in GTA 6. “For the first time ever, we got the tower legs earthed. Earthed tower legs with saddles. And double locknuts on the HDs, lads. Double lock nuts everywhere!”\nHe then spotted a red power cable running up the middle of the tower and claimed that if there was an aircraft warning light at the top, he would get a “stiffy.” As he climbed the tower, he continued to be impressed by how Rockstar’s artists included every tiny detail that should be found on a real-life tower like this.\n“Oh, boys, we got proper AA clamps on the mount points. Tails running out the bottom of the panels to the RRU,” pointed out the creator on his climb up the tower. I don’t really know what half of this means, but based on his past videos, expert knowledge, and excitement, I get the feeling this is all just very, very impressive.\nAnd yes, at the top was indeed a red warning light.\nI hope somewhere an artist at Rockstar who helped with this tower sees this video and gets to feel really proud of what they made. I can’t wait for more experts in code and utility regulations to start posting videos about how accurate GTA 6′s electrical cables and highways are, and I’m not even joking.\nDon’t miss the latest reviews, news and tips. Sign up for our free newsletter.\nTips & Guides Rockstar Dev Tells GTA 6 Players To ‘Stop Thinking In Tasks, Completion Percentages, Online Guides’ The best way to play is ",
+    "extra": {
+     "image": "https://kotaku.com/app/uploads/2026/11/Gta-6-tower-1280x720.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "РЕАЛЬНЫЕ вышки в GTA 6\n\nЧел, который в жизни строит радиовышки, затестил их в игре и просто в шоке. Говорит, Rockstar проработали даже такие мелочи, как заземление опор и двойные контргайки, которые в других играх вечно забывают. Лютая база по детализации, Рокстар — просто монстры графики и реализма. 🏗️\n\n❤️ — Тоже залипаю на детали\n👎 — Мне бы в сюжет, а не на вышки",
+    "card_title": "РЕАЛЬНЫЕ ВЫШКИ В GTA 6",
+    "reason": "Эксперт в реальных вышках подтвердил невероятную детализацию объектов в игре.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.1-flash-lite"
+   },
+   "queued_at": "2026-11-21T22:05:11.716813+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA 6 radio DJs and podcast hosts: Every famous voice on GTA 6’s radio",
+    "link": "https://www.videogameschronicle.com/guide/gta-6-radio-djs-and-podcast-hosts-every-famous-voice-on-gta-6s-radio/",
+    "summary": "Every confirmed DJ and podcast host in GTA 6",
+    "published": "2026-11-21T22:17:19+00:00",
+    "source": "VGC",
+    "site_name": "VGC",
+    "trust": "high",
+    "text": "Here’s a complete list of every GTA 6 DJ and Podcast Host\nGTA 6 features voice acting from Bad Bunny, Lana Del Rey, Weird Al Yankovic, PinkPantheress, Stavros Halkias and more lending their voices to the radio. Now that Rockstar has confirmed the complete credits in the game, the hosts for the radio in GTA 6 are also confirmed.\nHere’s a complete list of every radio DJ, talk radio host and podcast presenter in Grand Theft Auto 6.\nYou can also listen to radio and podcasts outside vehicles using Jason and Lucia’s smartphones and connected headphones.\nGTA 6 features a wide selection of radio stations, each with its own DJs, celebrity presenters and musical styles. From hip-hop and Afrobeats to country, rock and classical music, there’s something for everyone on the Leonida airwaves.\nHere’s a complete breakdown of the GTA 6 radio stations, including their DJs, real-world hosts and music genres.\nReal-world hosts: Burna Boy and Palms Trax\nReal-world hosts: Morgan Wallen and Lana Del Rey\nAdditional presenter: Mud Dog Mike (Jeremy Dufrene) – Also, Lana Del Rey’s husband.\nReal-world hosts: Seth Troxler and Antonio Carbonaro\nAdditional appearance: Gucci Mane on The Tap In.\nReal-world hosts: Buddy Guy and Keith Richards\nReal-world hosts: Rozonda “Chilli” Thomas and Tionne “T-Boz” Watkins (TLC).\nMusic: International music and covers of pop songs\nReal-world hosts: Randy Brecker and Stanley Clarke\nAdditional appearance: Yussef Dayes on The Nook.\nReal-world hosts: Gloria Estefan and Emilio Estefan\nReal-world hosts: PinkPantheress and The Dare\nReal-world hosts: Kerry King, Tom Araya and Brian Posehn\nReal-world hosts: “Weird Al” Yankovic and Brigitte Nielsen\nAdditional presenters: Charlamagne tha God and Ivy Rivera on Early AF.\nReal-world hosts: Lindsey Buckingham and Michael McDonald\nGTA 6 also features two radio stations that feature talk radio shows. They are:\nJohn Leguizamo (Enrique “El Enigma” Romero)\nStavros Halkias (Dominic “The Brick” Brizzolato)\nGTA 6 also features several podcasts. The hosts for these podcasts are:",
+    "extra": {
+     "image": "https://www.videogameschronicle.com/files/2026/11/GTA-6-All-Radio-DJs-and-podcast-hosts.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "Звездный состав на радио в GTA 6\n\nRockstar наконец выкатили полный список диджеев и ведущих. В игре засветились Lana Del Rey, Bad Bunny, Weird Al Yankovic и еще куча легенд. Теперь можно гонять по Леониде под топовый музон с голосами мировых звезд. Кстати, радио и подкасты теперь доступны прямо в смартфоне Джейсона и Люсии — чисто имба для долгих заездов.\n\n❤️ — Lana Del Rey на радио — просто пушка\n👎 — Мне бы больше тяжелого метала",
+    "card_title": "ЗВЕЗДНЫЕ ГОЛОСА НА РАДИО GTA 6",
+    "reason": "Официальный полный список звездных ведущих радиостанций в GTA 6 от Rockstar.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.1-flash-lite"
+   },
+   "queued_at": "2026-11-21T22:20:46.299786+00:00"
   },
   {
    "item": {
@@ -8242,6 +8519,35 @@
   },
   {
    "item": {
+    "title": "The Dexter Apartment Is the Best Proof Yet of How GTA 6 Builds Its World",
+    "link": "https://www.gtaboom.com/the-dexter-apartment-is-the-best-proof-yet-of-how-gta-6-builds-its-world-3cdd",
+    "summary": "GTA 6 brings Miami TV history to Vice City with Dexter’s waterfront apartment exterior, a rooftop kit and a renamed boat docked nearby.",
+    "published": "2026-11-21T21:56:50+00:00",
+    "source": "GTA BOOM",
+    "site_name": "GTA BOOM",
+    "trust": "medium",
+    "text": "One of the best Easter eggs in Grand Theft Auto VI is a locked apartment door nobody can open and it will probably remain closed forever. Dexter Morgan's waterfront place is in Vice City within hours of launch, down to the spiral staircase and the rooftop kill kit. Michael C. Hall later learned his own character's apartment was in the fastest-selling video game ever from the reporter interviewing him.\nThe references are everywhere once you know where to look. Trinity Apartments on Washington Island copies the exact exterior of Dexter Morgan's home from the original Dexter series. Even the name itself is a nod to the Trinity Killer. The rooftop holds the kit, a syringe for the M99 tranquilizer, a knife, rope, tape and gloves. A boat renamed the Lure Predator L35P sits docked nearby where the Slice of Life should be and there's even plastic-sheeted kill room near Key Lento.\nHall's reaction to the discovery is the tell. Promoting Dexter: Resurrection, he told Barstool Movies he had \"been informed\" about the GTA 6 apartment, that he \"wasn't consulted\" and that it felt good to be \"folded into the zeitgeist.\" Asked about Dexter memes, he went to the Doakes \"Surprise, motherfucker\" line.\nThis is what we mean when we talk about how Rockstar Games builds a world. Leonida works because it is built from real Miami. The real Miami locations in the game include the kind of waterfront block where Dexter filmed for eight seasons. Rockstar did not drop a reference in. It rebuilt a piece of the city's pop-culture DNA and let players find it. We have watched the studio do this at every scale, from the way a stray NPC sells the illusion to the random events the developers themselves got surprised by.\nThe overall pattern is familiar. The Florida Joker ended up in the game as a background face, a real-world Miami face folded in whether the subject signed off or not.\nFor anyone hunting the spots themselves, our Vice City map marks the neighborhoods.\nThe Dexter find sits in a long line of GTA 6 moments where the real world bleeds in, from spotting what could've been the apartment back when Grand Theft Auto VI: An Extended Look premiered in August, months before launch. The apartment is one detail in the game's believable version of the city. The celebrity enthusiasm goes beyond Hall, from the voice of DJ Cara taking two weeks off to Lewis Hamilton clearing his schedule.\nGetting referenced in a video game used to be a cute footnote. Now it is a marker of having mattered, pulled i",
+    "extra": {
+     "image": "https://media.gtaboom.com/variants/1920/media/images/ce/92/the-dexter-apartment-is-the-best-proof-yet-of-how-gta-6-builds-its-world-1.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "🗺 Гайд: пасхалка на сериал «Декстер»\n\nНашел крутую отсылку в Вайс-Сити — квартиру Декстера! Ищи в районе Washington Island, здание Trinity Apartments. Рокстары воссоздали всё до мелочей: винтовую лестницу, лодку рядом и даже набор для «уборки» на крыше. Полная база, разрабы реально заморочились с деталями! Сам Майкл Холл заценил такой флекс.\n\n❤️ — Топ пасхалка!\n👎 — Опять закрытая дверь, ну ё-моё",
+    "card_title": "СЕКРЕТНАЯ КВАРТИРА ДЕКСТЕРА В GTA 6",
+    "reason": "Это крутая пасхалка из вышедшей игры, которая очень нравится фанатам.",
+    "duplicate": false,
+    "corroborated": true,
+    "duplicate_of": "",
+    "corroborated_by": "GTA 6 Players Are Obsessed With Finding IRL Florida in Vice City",
+    "guide": true,
+    "model": "gemini:gemini-3.1-flash-lite"
+   },
+   "queued_at": "2026-11-21T22:05:18.251236+00:00"
+  },
+  {
+   "item": {
     "title": "Does GTA 6 Have Prostitutes or Sex Workers?",
     "link": "https://insider-gaming.com/gta-6-prostitutes/",
     "summary": "The Grand Theft Auto franchise has a history of prostitutes and sex workers, but has Rockstar gone in a different direction with GTA 6? The post Does GTA 6 Have Prostitutes or Sex Workers? appeared first on Insider Gaming .",
@@ -8509,7 +8815,9 @@
   "2026-11-21T21:05:00.020383+00:00",
   "2026-11-21T21:20:04.257236+00:00",
   "2026-11-21T21:35:11.161546+00:00",
-  "2026-11-21T21:50:39.481765+00:00"
+  "2026-11-21T21:50:39.481765+00:00",
+  "2026-11-21T22:06:17.958842+00:00",
+  "2026-11-21T22:21:58.084943+00:00"
  ],
  "tg_offset": 387129032,
  "channel": {
@@ -8544,69 +8852,7 @@
   "2026-11-20T10:35:40.883618+00:00",
   "2026-11-21T20:14:20.243248+00:00"
  ],
- "clips": [
-  {
-   "clip": {
-    "source": "twitch",
-    "url": "https://www.twitch.tv/jerma985/clip/HumbleSwissConsoleOhMyDog-PS5z9xywJKZlt86Z",
-    "title": "HAHAHA... wut?",
-    "author": "Jerma985",
-    "views": 645,
-    "duration": 12.2,
-    "created": "2026-11-21T08:54:34+00:00",
-    "lang": "en",
-    "description": "",
-    "vod_id": "2935760785",
-    "vod_offset": 18286.0
-   },
-   "caption": "Лусия косплеит фермера и ведет наряженную корову — это просто какой-то лютый рофл от Rockstar. Кто вообще придумал этот квест? 🐮",
-   "interest": 9,
-   "spoiler": false,
-   "nsfw": false,
-   "watched": true,
-   "model": "gemini:gemini-3.1-flash-lite",
-   "media": {
-    "width": null,
-    "height": 720,
-    "duration": 12
-   },
-   "queued_at": "2026-11-21T20:33:25.872550+00:00",
-   "file_id": "BAACAgIAAxkDAANCawIAARchLZZtWrMHkytuicN0fvuUAAKupgACpycRSCbucak7N-rSPQQ",
-   "moderation": "approved",
-   "draft_msg_id": 66,
-   "waiting_logged": true
-  },
-  {
-   "clip": {
-    "source": "twitch",
-    "url": "https://www.twitch.tv/jasontheween/clip/PreciousAuspiciousBadgerDatSheffy-fh37oxpTOtMsmkk3",
-    "title": "trolling marlon",
-    "author": "jasontheween",
-    "views": 562,
-    "duration": 60.0,
-    "created": "2026-11-21T17:07:09+00:00",
-    "lang": "en",
-    "description": "",
-    "vod_id": "2936160211",
-    "vod_offset": 8815.0
-   },
-   "caption": "СПОЙЛЕР. Чел решил выйти из тачки с пушкой прямо перед копами — ласт его ошибка 💀 Вот это разнос, кринжанул знатно!",
-   "interest": 9,
-   "spoiler": true,
-   "nsfw": false,
-   "watched": true,
-   "model": "gemini:gemini-3.1-flash-lite",
-   "media": {
-    "width": null,
-    "height": 720,
-    "duration": 60
-   },
-   "queued_at": "2026-11-21T21:38:23.361581+00:00",
-   "file_id": "BAACAgIAAxkDAANEawIPUfdXeXv6-p3VhKvYOq_yAmsAAh-nAAKnJxFIfk9R0reB_2M9BA",
-   "moderation": "approved",
-   "draft_msg_id": 68
-  }
- ],
+ "clips": [],
  "clip_drafts": [
   "2026-11-19T20:32:43.491620+00:00",
   "2026-11-20T09:18:13.478034+00:00",
@@ -12405,6 +12651,20 @@
    "ts": "2026-11-21T21:50:39.481783+00:00",
    "msg_id": 42,
    "title": "Жестко улетела с байка прямо под фуру, но выжила — это какой-то имба-скилл или просто вез…",
+   "importance": 9,
+   "kind": "video"
+  },
+  {
+   "ts": "2026-11-21T22:06:17.958859+00:00",
+   "msg_id": 43,
+   "title": "Лусия косплеит фермера и ведет наряженную корову — это просто какой-то лютый рофл от Rock…",
+   "importance": 9,
+   "kind": "video"
+  },
+  {
+   "ts": "2026-11-21T22:21:58.084958+00:00",
+   "msg_id": 44,
+   "title": "СПОЙЛЕР. Чел решил выйти из тачки с пушкой прямо перед копами — ласт его ошибка 💀 Вот это…",
    "importance": 9,
    "kind": "video"
   }
