@@ -1619,7 +1619,24 @@
   "54497aee33d9b0f3": "2026-11-21T18:35:49.464123+00:00",
   "0d1a837666dafd31": "2026-11-21T18:35:52.152470+00:00",
   "016d0fe9e03f53b9": "2026-11-21T18:35:54.810403+00:00",
-  "3a661617459b49f8": "2026-11-21T18:35:57.362565+00:00"
+  "3a661617459b49f8": "2026-11-21T18:35:57.362565+00:00",
+  "1b24ce6fdedf6aa4": "2026-11-21T18:51:21.566573+00:00",
+  "9f52eb735802bce8": "2026-11-21T18:51:24.778377+00:00",
+  "afd13590e7e1d174": "2026-11-21T18:51:32.718893+00:00",
+  "d8d0922d777967b4": "2026-11-21T18:51:41.307991+00:00",
+  "dcd4f9300068a1c7": "2026-11-21T18:51:43.781820+00:00",
+  "45b077c48b973f21": "2026-11-21T18:51:45.830432+00:00",
+  "6a9e227035fac7cd": "2026-11-21T18:51:47.492507+00:00",
+  "b1033d8a43ded7b2": "2026-11-21T18:51:48.595498+00:00",
+  "48472a9ddc39e4fe": "2026-11-21T18:51:49.702984+00:00",
+  "394990d899c24807": "2026-11-21T19:07:09.438055+00:00",
+  "ce5bb6c137450f1e": "2026-11-21T19:07:12.200104+00:00",
+  "ada87ee1e80e8712": "2026-11-21T19:07:13.224087+00:00",
+  "e305845439d4e84f": "2026-11-21T19:07:19.825091+00:00",
+  "feab519f456d1ac8": "2026-11-21T19:07:21.429480+00:00",
+  "e64e23cdf5db69ad": "2026-11-21T19:07:23.412078+00:00",
+  "fb7666693f9a1f4f": "2026-11-21T19:07:30.688056+00:00",
+  "ce15ae37abef490e": "2026-11-21T19:07:31.409100+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -2686,7 +2703,23 @@
   "aade197a750dd2c1": "2026-11-21T18:35:49.464123+00:00",
   "e72054860c9a8259": "2026-11-21T18:35:52.152470+00:00",
   "644b6f549296ddbf": "2026-11-21T18:35:54.810403+00:00",
-  "1ac73ae611b009dc": "2026-11-21T18:35:57.362565+00:00"
+  "1ac73ae611b009dc": "2026-11-21T18:35:57.362565+00:00",
+  "31a2b705c3f7f10e": "2026-11-21T18:51:24.778377+00:00",
+  "4b481f771704739d": "2026-11-21T18:51:32.718893+00:00",
+  "b002d979eb0b89ff": "2026-11-21T18:51:41.307991+00:00",
+  "d530525c54fbcd91": "2026-11-21T18:51:43.781820+00:00",
+  "7c2a095d8d1463ed": "2026-11-21T18:51:45.830432+00:00",
+  "8e302f4b6d0754cb": "2026-11-21T18:51:47.492507+00:00",
+  "f25d6a47a01b75dc": "2026-11-21T18:51:48.595498+00:00",
+  "adf2964cfa8e759b": "2026-11-21T18:51:49.702984+00:00",
+  "03048a4be26e0991": "2026-11-21T19:07:09.438055+00:00",
+  "9e729bae313fce55": "2026-11-21T19:07:12.200104+00:00",
+  "3232dc29be11a502": "2026-11-21T19:07:13.224087+00:00",
+  "d84c598b09235680": "2026-11-21T19:07:19.825091+00:00",
+  "9187a0c8e433ffda": "2026-11-21T19:07:21.429480+00:00",
+  "7f2a894ac97cb693": "2026-11-21T19:07:23.412078+00:00",
+  "a7182ebd2ce969a5": "2026-11-21T19:07:30.688056+00:00",
+  "d0e19b4325b0305a": "2026-11-21T19:07:31.409100+00:00"
  },
  "recent": [
   {
@@ -6520,6 +6553,142 @@
    "status": "queued",
    "ts": "2026-11-21T18:35:58.279599+00:00",
    "card_title": "КАК НАЙТИ МАШИНЫ УАЙМАНА"
+  },
+  {
+   "title": "GTA 6 Players Hate Using ATMs: ‘Just Let Me Type In A Number!”",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-21T18:51:21.566618+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Players Hate Using ATMs: ‘Just Let Me Type In A Number!”",
+   "source": "Kotaku",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-21T18:51:31.016726+00:00",
+   "card_title": "БЕМОТ С БАНКОМАТАМИ В GTA 6"
+  },
+  {
+   "title": "GTA 6 has a 99 Metascore from critics, but players are review bombing it",
+   "source": "Eurogamer",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-21T18:51:33.558591+00:00",
+   "card_title": "METACRITIC UPAV"
+  },
+  {
+   "title": "Could This Major GTA VI Leak Make It Playable On PC?",
+   "source": "Rockstar Intel",
+   "trust": "medium",
+   "status": "queued",
+   "ts": "2026-11-21T18:51:42.171849+00:00",
+   "card_title": "ХАКЕРЫ СЛИЛИ ФАЙЛЫ GTA 6"
+  },
+  {
+   "title": "GTA 6 Players Are Running Into NPCs Who Fight Back So Hard You Probably Should Just Leave Them Alone",
+   "source": "IGN",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-21T18:51:44.582321+00:00",
+   "card_title": "БЕЗУМНЫЕ И ОПАСНЫЕ NPC"
+  },
+  {
+   "title": "GTA 6: новая часть культовой игры установила абсолютный финансовый рекорд",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T18:51:45.830568+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Neuralink Participant Showcases What It's Like to Play GTA 6 With His Mind",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T18:51:47.492624+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "«В мире есть занятия поинтереснее». Боттас объяснил, почему не собирается играть в GTA 6",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T18:51:48.595619+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "The Last Midnight Line: How ‘GTA VI’ Killed the Launch-Night Party",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T18:51:49.703111+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "It’s Official, GTA 6’s Graphics Have Broken My Brain",
+   "source": "Polygon",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-21T19:07:10.554624+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Игроки встретили GTA 6 гораздо прохладнее критиков после ее выхода",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T19:07:12.200238+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Russian propaganda spreading fake claims about anti-Ukrainian content in GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T19:07:13.224207+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Где найти Declasse Vamos в GTA 6. Как угнать Declasse Vamos для Мозеса в ГТА 6",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T19:07:19.825211+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6: How To Get A Rhino Tank (Challenging Tank)",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "queued",
+   "ts": "2026-11-21T19:07:22.155374+00:00",
+   "card_title": "КАК ПОЛУЧИТЬ ТАНК RHINO"
+  },
+  {
+   "title": "GTA 6 Won't Beat The GOTY Record Set By Baldur's Gate 3 And Clair Obscur: Expedition 33",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T19:07:23.412206+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Leak Tied to $15 Million Crypto Goal as Pirated Build Spreads",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T19:07:30.688174+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "«Действительно переживаю». Тренер по баскетболу — о своих игроках из-за выхода GTA 6",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T19:07:31.409232+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -6583,6 +6752,64 @@
   },
   {
    "item": {
+    "title": "GTA 6 has a 99 Metascore from critics, but players are review bombing it",
+    "link": "https://www.eurogamer.net/gta-6-review-bombed-metacritic-user-score",
+    "summary": "Grand Theft Auto 6 might be one of the best-reviewed games of all time, but you wouldn't know it from its Metacritic user score. Read more",
+    "published": "2026-11-21T14:19:40+00:00",
+    "source": "Eurogamer",
+    "site_name": "Eurogamer",
+    "trust": "high",
+    "text": "Grand Theft Auto 6 might be one of the best-reviewed games of all time, but you wouldn't know it from its Metacritic user score.\nWhile critics have given Rockstar's latest a Metascore of 99, its user score has dropped to 5.6 out of 10 at the time of writing, which Metacritic classifies as \"mixed or average\". Of the 54,000+ ratings left, 44 percent are \"negative\".\nThe score had previously dropped into the red, but has since recovered a little.\nSome negative reviews raise genuine complaints, such as the game's 30FPS cap on console, while others take issue with how much of the story focuses on Jason and Lucia's relationship instead of the crime-spree antics of past games.\n\"Expectations might've killed this game,\" states one 0/10 review. \"The hype that something otherworldly would come to be flopped. The hyperrealism makes it feel slow, mundane and boring. Its a tecnichal [sic] advancement for sure but for the wrong reasons. Goodlooks zero personality type stuff. Its not as edgy as the rest of the gta games. And thats exactly my problem like is not funny. The game gets carried by its visuals and radio stations. Certain limitations make it feel like not gta and new features make it feel like not gta. In the end it feels like a life simulator and the point of gaming is to escape from reality.\"\n\"Genuinely hated almost every minute of this experience,\" wrote another. \"After years of waiting and an absurd amount of hype, GTA VI somehow managed to leave me more frustrated than entertained. The excessive sexual content gets exhausting, and instead of adding anything meaningful to the experience, it often feels like Rockstar is desperately trying to shock its audience.\n\"The story is painfully disappointing, the writing fails to keep me invested, and I honestly couldn't care less about what happens to most of these **** gameplay isn't doing the game any favours either. Glitches, bugs, annoying inconsistencies, and frustrating moments constantly get in the way of actually enjoying the experience. It's ridiculous that a game of this scale, backed by a studio with Rockstar's resources, can feel this rough. I expected a polished experience, not a glorified debugging ****.\"\nOthers point to \"woke\" and \"DEI\" agendas.\n\"A major step down in the writing department compared to previous instalments coupled with the obvious DEI-fication, unfun realism and the resulting player freedom restrictions leave a sour taste in the otherwise detailed gorgeous open world,\" said one reviewer. ",
+    "extra": {
+     "image": "https://assetsio.gnwcdn.com/GTA-6-Radio-Station-Hosts-Tracks-Header.jpg?width=690&quality=85&format=jpg&auto=webp"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "РЕВЬЮ-БОМБИНГ\n\nKritiki otdayut 99 ballov, no igroki oborushili ocenku GTA 6 na Metacritic do 5.6. Chellam ne zashli 30FPS, aktsent na otnosheniya Dzheisona i Lyusii vmesto bespredela i slishkom dushnyy realizm.\n\n❤️ — Ozhidaniya prosto ubili\n👎 — Dajte igrat' normalno",
+    "card_title": "METACRITIC UPAV",
+    "reason": "Kriptiki stavyat 99, a igroki zanyatye review bombingom oborushili ocenku do 5.6 iz-za 30FPS i inykh nyuansov",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "queued_at": "2026-11-21T18:51:33.558580+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA 6 Players Are Running Into NPCs Who Fight Back So Hard You Probably Should Just Leave Them Alone",
+    "link": "https://www.ign.com/articles/gta-6-players-are-running-into-npcs-who-fight-back-so-hard-you-probably-should-just-leave-them-alone",
+    "summary": "Just like in real life, there are some people you really shouldn’t mess with in GTA 6. It’s not always easy to tell at a glance either. Books, covers, and all that.",
+    "published": "2026-11-21T12:17:40+00:00",
+    "source": "IGN",
+    "site_name": "IGN",
+    "trust": "high",
+    "text": "Just like in real life, there are some people you really shouldn’t mess with in GTA 6. It’s not always easy to tell at a glance either. Books, covers, and all that.\nGTA 6 has a wild range of NPCs with unpredictable and unique behavior — you never know what you’re gonna get. Players have been documenting their adventures across Leonida and their interactions with the locals, and have come across the weird, the funny, and the downright scary.\nNot only do some NPCs fight back, but they fight hard and can take more punches to the head than Rocky. Some of them even bring little friends along to the throwdown.\nThe viral clip below, from @WIZZYGM, shows Lucia attempting to take someone’s car. Instead of allowing themselves to be dragged out, however, they got psyched up about having a tussle. They were into it.\nNot only did they take a ridiculous number of punches directly to the nose, but at one point they even gave Lucia some free shots. Then they banged some powder up their snout and Hulked out. He even took a gunshot straight to the head!\nNah this Npc’s got it 🔥🔥🔥 #GTAVI #GTA6 #ViceCity. https://t.co/KzQt4zJOsf— WIZZY🔫⚽️ (@WIZZYGM) November 20, 2026\n“I appreciate that the NPCs in this game act like true Floridians,” read one reply. “Bro said ‘I can run faster than you can drive’ nah son im turning the game off lmfaooooo,” said another.\nIn another clip, from @chrisdadeviant, Jason attempts to hijack a car but the person inside had a massive meltdown and started headbutting the steering wheel, honking the horn with each forehead slam. Eventually, she got out and threatened to stomp Jason’s teeth out of his head.\nJason ignored the temper tantrum and got in the car anyway, and she tried to pull him out before he drove away. Here’s the clip for that one:\n😭😭😭😭😭😭😭 https://t.co/LbY0AwEJbZ— chris (@chrisdadeviant) November 20, 2026\n“This is such a valid crashout lmaooooooooo,” said one fan. “Yea just let her keep the car, she clearly going through something,” another joked.\nOne clip going around is downright terrifying. The player, having found a sniper rifle at the top of a tower, wanted to test their aim. They looked through the scope at an NPC, took aim, and fired a shot directly at their chest.\nInstead of falling over, the NPC started walking towards the tower. Blood pooled on their clothing where the bullet landed, more shots rang out and landed right on target, and they kept coming, tucking their drinks under the arm and breaking into a full sprint.\nOn the way, ",
+    "extra": {
+     "image": "https://assets-prd.ignimgs.com/2026/11/21/gtavi-56-1795263173286.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "ОПАСНЫЕ NPC В GTA 6\n\nМестные жители в Леониде выдают такой лютый перформанс, что угонять тачки теперь реально страшно. Чел может схавать пачку ударов в лицо, внюхать порошок и пойти в атаку после пушки в голову. Рил флоридский вайб!\n\n❤️ — Лучше не трогать их\n👎 — Вынесу любого с вертухи",
+    "card_title": "БЕЗУМНЫЕ И ОПАСНЫЕ NPC",
+    "reason": "Игроки массово делятся безумными роликами с агрессивными NPC в GTA 6, которые дают мощный отпор.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "queued_at": "2026-11-21T18:51:44.582308+00:00"
+  },
+  {
+   "item": {
     "title": "GTA 6 features the series' first non-binary character, says actor Jesse James Rose, and players can't hurt them",
     "link": "https://www.eurogamer.net/gta-6-first-non-binary-character-jesse-james-rose",
     "summary": "Grand Theft Auto 6 features the first non-binary character in the series' history, according to actor Jesse James Rose, who plays the role of a museum curator in the game. Read more",
@@ -6638,6 +6865,35 @@
     "model": "groq:openai/gpt-oss-120b → gemini:gemini-3.5-flash"
    },
    "queued_at": "2026-11-21T18:14:41.215078+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA 6 Players Hate Using ATMs: ‘Just Let Me Type In A Number!”",
+    "link": "https://kotaku.com/gta-6-players-hate-using-atms-just-let-me-type-in-a-number-2000759155",
+    "summary": "People don't like having to scroll a big number back and forth to deposit a specific amount",
+    "published": "2026-11-21T18:38:58+00:00",
+    "source": "Kotaku",
+    "site_name": "Kotaku",
+    "trust": "high",
+    "text": "Grand Theft Auto 6 is finally out on PlayStation and Xbox. So, I’ve been watching my friends play it, which has been a blast. And all of them are loving the game, but one annoying bit of the massive game that they all seem to hate is using ATMs. And it’s not just them. A lot of people online desperately want the ATMs improved in GTA 6.\nMoney plays a big part in Grand Theft Auto 6. And for much of the game’s runtime, you’ll be counting dollars carefully as you save what you can and spend cautiously. Part of this loop also involves putting loose cash into your bank account via ATMs. If you don’t do that, you can lose much of it when you die or get arrested. So it is important to put it into your bank and savings account. Yet, for some odd, confounding reason, Rockstar has made the act of depositing and withdrawing money from an ATM very annoying.\nIf you haven’t played GTA 6, you might just assume you go to an ATM and type in how much you want to take out or put in. Nope! Instead, you have to hold different shoulder buttons on the controller to scroll through how much you want to deposit or withdraw. And this scrolling function starts to speed up very quickly, often leading to me blowing past the amount I wanted and having to slowly scroll back, sometimes missing it again. It sucks!\n“I’m loving this game, but why can’t I just type in fucking number on the ATM, dude,” asked one of my friends in a PlayStation party chat last night. I had no good answer.\nOthers online are also confused and annoyed by the ATM controls.\n“This right here is my biggest gripe so far. Let me type in a number, JUST LIKE PUTTING JN THE STUPID CODES,” posted one user on Reddit. “I’m amazed more people aren’t pissed at using L1/R1 to withdraw/deposit. Like, just let me type it in,” said someone else. “1, 2, 3, 4, …10, 20, 30, … 300, 400, … 10 000, 20 000, 30 000! … Fuck… I just wanted to withdraw 500,” complained a GTA 6 player. “Dude, I spent straight up 2 minutes trying to withdraw [exactly] $900… It was so fucking annoying,” shared a user on the GTA 6 subreddit. “It blows my mind that something this small wasn’t implemented over the course of development. Them keeping the exact same system as Red Dead Redemption 2 is extremely flawed in a game like this; I would honestly prefer the ATM mechanics of GTA V over what we got in this game,” explained someone in a Reddit post titled: My biggest complaint with this game.\nThat last comment brings up a good point and one which makes this all th",
+    "extra": {
+     "image": "https://kotaku.com/app/uploads/2026/11/GTa-6-atm-1280x720.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "БАНКОМАТЫ В GTA 6 — БОЛЬ\n\nИгроки бесятся из-за убогой системы ввода суммы через бамперы на геймпаде. Вечный тильт, когда пролетаешь нужную цифру.\n\n❤️ — Жизза, задолбало\n👎 — Норм же всё",
+    "card_title": "БЕМОТ С БАНКОМАТАМИ В GTA 6",
+    "reason": "Игроки массово жалуются на неудобную механик банкоматов в GTA 6, это забавный и животрепещущий баг/фича.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "GTA 6 Players Hate Using ATMs: ‘Just Let Me Type In A Number!” — Google News (EN)",
+    "corroborated_by": "GTA 6 Players Hate Using ATMs: ‘Just Let Me Type In A Number!” — Google News (EN)",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "queued_at": "2026-11-21T18:51:31.016716+00:00"
   },
   {
    "item": {
@@ -7037,6 +7293,35 @@
   },
   {
    "item": {
+    "title": "Could This Major GTA VI Leak Make It Playable On PC?",
+    "link": "https://rockstarintel.com/could-this-major-gta-vi-leak-make-it-playable-on-pc/",
+    "summary": "CyberLeek has reportedly uploaded more than 200 GB of GTA VI XBOX game files online, but there is still one important file missing from the release: the main executable. The files first appeared online on November 19, shortly after GTA VI’s launch. The package reportedly contains a large portion of the game’s Xbox development files, [...] The post Could This Major GTA VI Leak Make It Playable On PC? appeared first on RockstarINTEL .",
+    "published": "2026-11-21T13:35:08+00:00",
+    "source": "Rockstar Intel",
+    "site_name": "Rockstar Intel",
+    "trust": "medium",
+    "text": "CyberLeek has reportedly uploaded more than 200 GB of GTA VI XBOX game files online, but there is still one important file missing from the release: the main executable.\nThe files first appeared online on November 19, shortly after GTA VI’s launch. The package reportedly contains a large portion of the game’s Xbox development files, but without the executable, users cannot properly access or run the game.\nAccording to Rockstar Games community researcher Lucas7yoshi, the uploaded files are indeed from an XBOX build of GTA VI. However, he pointed out that this is an older version of the game, as it does not even include the separate censorship version for Australia and New Zealand.\nMore importantly, the game’s assets are encrypted with a key obtained from the main executable. This means that simply downloading the files is not enough to access their contents.\nCyberLeek Promises to Release the Missing EXE\nCyberLeek initially announced that the missing executable would be released on November 23, regardless of whether its cryptocurrency reached a certain market value.\nHowever, the group also introduced a condition that could make the release happen earlier. The original target was a $15 million market cap for its CYBERLEEK token. This requirement has since reportedly been lowered to $6 million.\nAccording to GTA community member PLTytus, the token currently has a market cap of around $1.44 million. He also reminded followers that CyberLeek had promised to release the executable once its poll ends on Monday at 6 PM CET, even if the market cap target is not reached.\nThis means November 23 could be an important date for anyone following the situation, although there is still no independent confirmation that the missing file will actually be released as promised.\nOne of CyberLeek’s biggest claims is that the community could get the XBOX build running on PC within a week, potentially achieving performance above 30 FPS. However, this is far from guaranteed.\nThe uploaded files are from an XBOX version of GTA VI, not a native PC build. Even if the missing executable becomes available, getting the game running on PC would require additional work from developers and the emulation community.\nFor now, there is no confirmed playable PC version coming from this leak, and Rockstar Games has not announced a PC release date. It is also worth remembering that the authenticity and completeness of the entire package have not been independently established.\nWe will have to wait and",
+    "extra": {
+     "image": "https://rockstarintel.com/wp-content/uploads/2026/11/image-9.png"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "ХАКЕРЫ СЛИЛИ БИЛД\n\nГруппа CyberLeek выложила 200 ГБ файлов Xbox-версии GTA 6, но без главного .exe файла запустить это всё равно анрил. Пытаются продвинуть свой токен ради хайпа, но рил ли они дропнут экзешник — вопрос открытый.",
+    "card_title": "ХАКЕРЫ СЛИЛИ ФАЙЛЫ GTA 6",
+    "reason": "Новость о хакерах CyberLeek и слитых файлах Xbox-версии GTA 6",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "queued_at": "2026-11-21T18:51:42.171839+00:00"
+  },
+  {
+   "item": {
     "title": "Does GTA 6 Have Prostitutes or Sex Workers?",
     "link": "https://insider-gaming.com/gta-6-prostitutes/",
     "summary": "The Grand Theft Auto franchise has a history of prostitutes and sex workers, but has Rockstar gone in a different direction with GTA 6? The post Does GTA 6 Have Prostitutes or Sex Workers? appeared first on Insider Gaming .",
@@ -7175,6 +7460,33 @@
     "model": "groq:openai/gpt-oss-120b → gemini:gemini-4-hydrogen"
    },
    "queued_at": "2026-11-21T18:18:08.522578+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA 6: How To Get A Rhino Tank (Challenging Tank)",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZVA5T0lKZkdsM1JEdzV6MUl3eDUxZHJVSVpUb2FxZVhJazg3WjVZb29PaWlidHJzcWRmU1ZSX2FlTm9NSm5ORDV6WEhCdmt0VExfQThzOGp4bnpMak9nVUVfb0VRMDFPQl9rMEZ5bHVpcktYeDBTaUNheDZqNWduenlR?oc=5",
+    "summary": "GTA 6: How To Get A Rhino Tank (Challenging Tank) Cultured Vultures",
+    "published": "2026-11-21T18:26:39+00:00",
+    "source": "Google News (EN)",
+    "site_name": "Cultured Vultures",
+    "trust": "rumor",
+    "text": "GTA 6: How To Get A Rhino Tank (Challenging Tank) Cultured Vultures",
+    "extra": {}
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "🗺 Гайд: Как раздобыть танк RHINO\n\nЗахотели устроить лютый хаос на улицах Вайс-Сити? Ловите инструкцию, как угнать военную технику без лишних нервов и смски в службу спасения.",
+    "card_title": "КАК ПОЛУЧИТЬ ТАНК RHINO",
+    "reason": "Гайд по получению танка Rhino в вышедшей GTA 6",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": true,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "queued_at": "2026-11-21T19:07:22.155363+00:00"
   }
  ],
  "posts": [
