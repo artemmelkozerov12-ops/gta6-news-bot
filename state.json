@@ -1509,7 +1509,13 @@
   "77aad4bed6ad8cc6": "2026-11-21T15:10:17.789342+00:00",
   "a546162ac786c123": "2026-11-21T15:10:18.319507+00:00",
   "1930191be32b4c2a": "2026-11-21T15:10:18.866204+00:00",
-  "64ef0933fc7d8299": "2026-11-21T15:11:09.834216+00:00"
+  "64ef0933fc7d8299": "2026-11-21T15:11:09.834216+00:00",
+  "413183e91a6b02fc": "2026-11-21T15:25:38.145356+00:00",
+  "7d67a62f982992ba": "2026-11-21T15:25:40.346804+00:00",
+  "64e25900a89b437d": "2026-11-21T15:25:40.886762+00:00",
+  "97e2b045e7a482df": "2026-11-21T15:40:58.362491+00:00",
+  "aafad93331e552d8": "2026-11-21T15:41:00.751423+00:00",
+  "2ae6fe3fa7634537": "2026-11-21T15:41:01.323170+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -2532,7 +2538,9 @@
   "4b28dbbaa4d3d16c": "2026-11-21T15:10:15.320795+00:00",
   "b55bdcbaef7403bb": "2026-11-21T15:10:15.373760+00:00",
   "077a9f20bdc07949": "2026-11-21T15:10:15.390241+00:00",
-  "c7afd2c1f6919a0e": "2026-11-21T15:10:15.440371+00:00"
+  "c7afd2c1f6919a0e": "2026-11-21T15:10:15.440371+00:00",
+  "46d8d531b03f89af": "2026-11-21T15:25:38.145356+00:00",
+  "83ccbad9817ff796": "2026-11-21T15:40:58.362491+00:00"
  },
  "recent": [
   {
@@ -6307,7 +6315,7 @@
    "title": "How to get a Slim Jim in GTA 6 to steal cars without setting off an alarm",
    "source": "GamesRadar+",
    "trust": "high",
-   "status": "queued",
+   "status": "rejected",
    "ts": "2026-11-21T12:40:12.308449+00:00",
    "card_title": "КАК ПОЛУЧИТЬ СЛИМ ДЖИМ"
   },
@@ -6590,6 +6598,22 @@
    "status": "dup",
    "ts": "2026-11-21T15:10:15.440421+00:00",
    "card_title": ""
+  },
+  {
+   "title": "How to Make Lucia Nude in GTA 6",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "dup",
+   "ts": "2026-11-21T15:25:38.145402+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "PS5 Survives GTA 6's Unfathomably Humongous Launch without a Hitch",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-21T15:40:58.362537+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -6619,33 +6643,6 @@
     "model": "groq:openai/gpt-oss-120b"
    },
    "queued_at": "2026-11-21T06:03:44.257731+00:00"
-  },
-  {
-   "item": {
-    "title": "How to get a Slim Jim in GTA 6 to steal cars without setting off an alarm",
-    "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-slim-jim-how-to-get/",
-    "summary": "Finding the Slim Jim in Chapter 2 is essential if you want to get better at stealing vehicles",
-    "published": "2026-11-21T11:45:55+00:00",
-    "source": "GamesRadar+",
-    "site_name": "GamesRadar+",
-    "trust": "high",
-    "text": "Stealing cars in GTA 6 is one of the easiest ways to attract attention from the police, thanks to the new Wanted system. You've probably noticed by now that breaking into vehicles is noisy and messy, with Jason and Lucia needing to smash the window to get inside. It also takes time – precious time in which some nosey onlooker can report your description and activity to the cops. There has to be an easier way, right? There is. Which is why you need to learn how to get a Slim Jim in GTA 6.\nThe Slim Jim in GTA 6 is only available from Chapter 2 onwards. This essential carjacking tool will unlock as part of the main GTA 6 mission list, coming into your possession after you begin a quest called 'Moses'. It's in this mission where you'll meet your first vehicle fence, learn how to sell cars and bikes in GTA 6, and be given the information you need to better survey vehicles for security features with the WAiNK app – which can be activated at any time by holding Up on the D-pad.\nMoses will give you the Slim Jim as a part of this mission. It'll let you get into any vehicle without needing to smash the window. You will, however, still need to contend with security features – you'll have to wait until Chapter 3 to learn how to get the Key Cloner in GTA 6 and understand how to deactivate trackers in GTA 6 to steal more modern vehicles.\nOnce you've got it, using the Slim Jim is GTA 6 is easy enough. Walk up to any vehicle you want to try and steal. Walk up to the driver-side or passenger door, and press Triangle/Y to bring out your Slim Jim. From there, it's a case of rotating the right thumbstick in a curve until you find the sweet spot – which you'll spot by rumble in the controller and by a slightly pink hue to the semi-circle indicator. Eventually you'll hear a little pop, meaning you can now climb inside.\nFind all of our GTA 6 Guides or scroll through below to find everything you need to know about vehicles in the game.\nAll of the GTA 6 cars we know about so far\nHow to respray cars in GTA 6 and shift your vehicle heat level\nHow to get Paul Walker's 1995 Fast and Furious Mitsubishi in GTA 6\nWeekly digests, tales from the communities you love, and more\nJosh West is Editor-in-Chief of GamesRadar+. He has over 18 years of experience in both online and print journalism, and was awarded a BA (Hons) in Journalism and Feature Writing. Josh has contributed to world-leading gaming, entertainment, tech, music, and comics brands, including games™, Edge, Retro Gamer, SFX, 3D A",
-    "extra": {}
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "🔧 Слим Джим — имба для кражи машин\n\nСлэщили, что Слим Джим появляется с 2‑й главы после квеста «Moses», и теперь можно открывать машины без разбития стекол. Залетайте в миссию, получайте инструмент и вуаля — без шума, без тильта, только чистый разнос! 🚀",
-    "card_title": "КАК ПОЛУЧИТЬ СЛИМ ДЖИМ",
-    "reason": "Подтверждено официальным источником GamesRadar+, полезный гайд по получению и использованию Slim Jim",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": true,
-    "model": "groq:openai/gpt-oss-120b → groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-21T12:40:12.308433+00:00"
   },
   {
    "item": {
@@ -7068,7 +7065,7 @@
   "2026-11-21T12:43:49.466903+00:00",
   "2026-11-21T14:46:58.633284+00:00"
  ],
- "tg_offset": 387129018,
+ "tg_offset": 387129019,
  "channel": {
   "id": -1003986639147,
   "title": "GTA 6 | Горячие новости",
@@ -7085,7 +7082,8 @@
   "2026-11-21T07:06:43.822657+00:00",
   "2026-11-21T12:43:24.029271+00:00",
   "2026-11-21T13:44:00.770871+00:00",
-  "2026-11-21T14:44:42.291779+00:00"
+  "2026-11-21T14:44:42.291779+00:00",
+  "2026-11-21T15:45:15.173540+00:00"
  ],
  "slots_sent": {
   "2026-11-19:вечер": "2026-11-19T16:00:06.530557+00:00"
@@ -9806,6 +9804,42 @@
    "title": "nie wyszło XD",
    "drafted": false,
    "ts": "2026-11-21T15:11:09.834246+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:kamet0",
+   "vod": "2934986129",
+   "offset": 7062.0,
+   "title": "cara",
+   "drafted": false,
+   "ts": "2026-11-21T15:25:40.346834+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:trymacs",
+   "vod": "2934796026",
+   "offset": 21050.0,
+   "title": "k",
+   "drafted": false,
+   "ts": "2026-11-21T15:25:40.886791+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:caseoh_",
+   "vod": "2935283335",
+   "offset": 11583.0,
+   "title": "kyle 1",
+   "drafted": false,
+   "ts": "2026-11-21T15:41:00.751451+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:k4rankul",
+   "vod": "",
+   "offset": -1,
+   "title": "Обнесли квикхантика",
+   "drafted": false,
+   "ts": "2026-11-21T15:41:01.323204+00:00",
    "frames": []
   }
  ],
