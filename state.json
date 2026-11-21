@@ -1483,7 +1483,33 @@
   "b8867513f6428539": "2026-11-21T14:38:45.753420+00:00",
   "2b16069608449ccf": "2026-11-21T14:38:47.541154+00:00",
   "85d2c2c563f64cec": "2026-11-21T14:38:48.176851+00:00",
-  "f11dd54a48887a4e": "2026-11-21T14:38:48.527617+00:00"
+  "f11dd54a48887a4e": "2026-11-21T14:38:48.527617+00:00",
+  "1c29eefbb7706b13": "2026-11-21T14:54:47.176787+00:00",
+  "d4df0510aaa72164": "2026-11-21T14:54:48.031954+00:00",
+  "16f02711a22be374": "2026-11-21T14:54:48.784061+00:00",
+  "c6f809562a9ac62c": "2026-11-21T14:54:49.603617+00:00",
+  "5e140d0d92a62fcb": "2026-11-21T14:55:40.469729+00:00",
+  "c21551d2a7975f5e": "2026-11-21T14:55:41.332209+00:00",
+  "18e8bc81e5bd791f": "2026-11-21T14:55:42.255168+00:00",
+  "29d3c891be718db0": "2026-11-21T14:55:43.047978+00:00",
+  "1e92ebf0294379c1": "2026-11-21T14:56:33.838342+00:00",
+  "a121d4c53d1b45d6": "2026-11-21T14:56:34.644287+00:00",
+  "45ac2e2284b91bae": "2026-11-21T14:56:35.347826+00:00",
+  "88408ccd54d425e6": "2026-11-21T14:56:35.855777+00:00",
+  "1c1d9dffb1bdb302": "2026-11-21T14:57:26.713241+00:00",
+  "48f029eb30d85663": "2026-11-21T14:57:27.118056+00:00",
+  "3973e5f23a68d3cd": "2026-11-21T14:57:27.568039+00:00",
+  "3148035b5c4b7710": "2026-11-21T14:57:28.016580+00:00",
+  "63ea1af22d9efa62": "2026-11-21T15:10:15.274024+00:00",
+  "ef9050d5406217a2": "2026-11-21T15:10:15.320795+00:00",
+  "267490282959682b": "2026-11-21T15:10:15.373760+00:00",
+  "de9b4d0417a18f49": "2026-11-21T15:10:15.390241+00:00",
+  "d6103a5361cdb88a": "2026-11-21T15:10:15.440371+00:00",
+  "a927991c69fa8e41": "2026-11-21T15:10:17.133018+00:00",
+  "77aad4bed6ad8cc6": "2026-11-21T15:10:17.789342+00:00",
+  "a546162ac786c123": "2026-11-21T15:10:18.319507+00:00",
+  "1930191be32b4c2a": "2026-11-21T15:10:18.866204+00:00",
+  "64ef0933fc7d8299": "2026-11-21T15:11:09.834216+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -2501,7 +2527,12 @@
   "8497a0154d41e053": "2026-11-21T14:23:18.745517+00:00",
   "e1c1073ff3578844": "2026-11-21T14:23:18.800768+00:00",
   "aeaa572e86837c14": "2026-11-21T14:38:45.710999+00:00",
-  "8f29ab54eaf2c06a": "2026-11-21T14:38:45.753420+00:00"
+  "8f29ab54eaf2c06a": "2026-11-21T14:38:45.753420+00:00",
+  "0a02292411d411a5": "2026-11-21T15:10:15.274024+00:00",
+  "4b28dbbaa4d3d16c": "2026-11-21T15:10:15.320795+00:00",
+  "b55bdcbaef7403bb": "2026-11-21T15:10:15.373760+00:00",
+  "077a9f20bdc07949": "2026-11-21T15:10:15.390241+00:00",
+  "c7afd2c1f6919a0e": "2026-11-21T15:10:15.440371+00:00"
  },
  "recent": [
   {
@@ -5716,7 +5747,7 @@
    "title": "GTA 6 Twist Wrist, Smash, Grab walkthrough: How to rob the armoured van",
    "source": "VGC",
    "trust": "high",
-   "status": "queued",
+   "status": "published",
    "ts": "2026-11-21T06:04:45.202383+00:00",
    "card_title": "ГРАБЬ БРОНЕВИК В TWIST WRIST"
   },
@@ -6519,6 +6550,46 @@
    "status": "dup",
    "ts": "2026-11-21T14:38:45.753441+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GTA 6 Forgot to Include the #1 Reason to Go to Actual Florida",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-21T15:10:15.274058+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 La Cascara Motel safe code: How to find and open the safe",
+   "source": "VGC",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-21T15:10:15.320834+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Where to Find The Bravado Banshee Supercar in GTA 6—Randy’s Wishlist Car Locations",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "dup",
+   "ts": "2026-11-21T15:10:15.373795+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 release: Price, where to buy Grand Theft Auto VI",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-21T15:10:15.390294+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Here's where to find the Transgressors for Wyman in GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-21T15:10:15.440421+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -6548,35 +6619,6 @@
     "model": "groq:openai/gpt-oss-120b"
    },
    "queued_at": "2026-11-21T06:03:44.257731+00:00"
-  },
-  {
-   "item": {
-    "title": "GTA 6 Twist Wrist, Smash, Grab walkthrough: How to rob the armoured van",
-    "link": "https://www.videogameschronicle.com/guide/gta-6-twist-wrist-smash-grab-walkthrough/",
-    "summary": "How to complete Twist Wrist, Smash, Grab with Billy in GTA 6",
-    "published": "2026-11-21T01:49:27+00:00",
-    "source": "VGC",
-    "site_name": "VGC",
-    "trust": "high",
-    "text": "Twist Wrist, Smash, Grab is the thirty-fourth mission of GTA 6.\nGTA 6’s Twist Wrist, Smash, Grab mission sees Jason and Billy team up with the Thrillbilly crew to rob a Gruppe 6 armoured van. So here’s how to complete Twist Wrist, Smash, Grab in GTA 6, including how to stop the van, open its doors and earn your share of the robbery.\nNeed more GTA 6 guides? Then check out our GTA 6 Guide Hub.\nGuides: If you're playing Grand Theft Auto 6, make sure to check out our complete walkthrough hub, featuring beginner tips, navigation experience explained, GTA 6 cheats, and more.\nGTA 6 Twist Wrist, Smash, Grab walkthrough\n1. Meet Billy as Jason and follow the dirt bike crew\nOnce you arrive at the meeting point, Billy will explain the plan. The crew intends to intercept a Gruppe 6 armoured van and steal the cash inside.\nGet onto the dirt bike provided by Billy and follow him along the road. You’ll eventually leave the asphalt and head off-road towards the ambush location.\nStay close to Billy and avoid falling behind the other riders. Once you reach the designated position, wait with the crew for the armoured van to approach.\nWhen the armoured van appears, Billy and his crew will move out to intercept it.\nThe original plan is to get the driver to stop, but the situation quickly escalates. You’ll need to use your weapon to help disable the vehicle.\nStay alongside the van on your dirt bike and shoot at it until the crew manages to bring it to a halt. The van will eventually lose control and crash, allowing you to approach it.\nOnce the vehicle has stopped, get off your bike and head towards the rear doors.\nWith the armoured van in bits on the side of the road, Billy will ask you to help get the money bags out the back. Walk to the back of the van and interact with the back doors to plant an explosive charge. Move away from the van before detonating it. If you detonate it too close, you can kill members of the crew, and fail the mission.\nOnce the doors have been fully removed, a security guard will emerge. Keep your weapon aimed on to him to prevent him from interfering with the mission. Billy will then begin collecting the cash. Take the money bag when he offers it and prepare to run. Or bike, rather.\n4. How to escape the police in Twist Wrist, Smash, Grab\nGet back onto your bike and follow Billy as he leads you away from the crash site and up into the hills. Follow the route that Billy takes. Your bike is perfect for off roading, so don’t worry about handling on these di",
-    "extra": {}
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "🗺 Гайд: Как грабить броневик в Twist Wrist, Smash, Grab\n\n1️⃣ Садись на мотоцикл у Билли, следуй за ним к точке засадки.\n2️⃣ Выстрели в броневик, пока он не врежется — имба‑запуск!\n3️⃣ Поставь заряд на задние двери, отойди и 💥 взорви, мешки с деньгами уже ждут.\n4️⃣ Прицели охрану, схвати мешок и удирай в горы, пока полиция не успела позавидовать.",
-    "card_title": "ГРАБЬ БРОНЕВИК В TWIST WRIST",
-    "reason": "Подтверждённый гайд от VGC, полезен для прохождения миссии.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": true,
-    "model": "groq:openai/gpt-oss-120b → groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-21T06:04:45.202368+00:00",
-   "moderation": "pending",
-   "draft_msg_id": 55
   },
   {
    "item": {
@@ -7023,9 +7065,10 @@
   "2026-11-20T18:33:04.361290+00:00",
   "2026-11-21T06:14:39.704485+00:00",
   "2026-11-21T07:11:39.823252+00:00",
-  "2026-11-21T12:43:49.466903+00:00"
+  "2026-11-21T12:43:49.466903+00:00",
+  "2026-11-21T14:46:58.633284+00:00"
  ],
- "tg_offset": 387129017,
+ "tg_offset": 387129018,
  "channel": {
   "id": -1003986639147,
   "title": "GTA 6 | Горячие новости",
@@ -7052,36 +7095,6 @@
   "2026-11-20T10:35:40.883618+00:00"
  ],
  "clips": [
-  {
-   "clip": {
-    "source": "twitch",
-    "url": "https://www.twitch.tv/zloyn/clip/OriginalTemperedPresidentVoHiYo-w2RZWYkrXyBd7KyE",
-    "title": "Йосып",
-    "author": "ZLOYn",
-    "views": 1384,
-    "duration": 30.0,
-    "created": "2026-11-20T11:33:44+00:00",
-    "lang": "ru",
-    "description": "",
-    "vod_id": "2934219566",
-    "vod_offset": 48638.0
-   },
-   "caption": "СПОЙЛЕР. Сюжетка в GTA 6 радует кринжом: голый NPC в очках с бокалом — просто разнос 💀",
-   "interest": 9,
-   "spoiler": true,
-   "nsfw": false,
-   "watched": true,
-   "model": "gemini:gemini-3.5-flash-lite",
-   "media": {
-    "width": null,
-    "height": 720,
-    "duration": 30
-   },
-   "queued_at": "2026-11-20T14:49:39.356644+00:00",
-   "file_id": "BAACAgIAAxkDAAMsawABXgT3FJoYCx6a2B6sv4be0Q5XAALwsQACdjYAAUi2WHEudrfHnT0E",
-   "moderation": "pending",
-   "draft_msg_id": 44
-  },
   {
    "clip": {
     "source": "youtube",
@@ -9615,6 +9628,185 @@
    "drafted": false,
    "ts": "2026-11-21T14:38:48.527640+00:00",
    "frames": []
+  },
+  {
+   "author": "youtube:akku patil2",
+   "vod": "",
+   "offset": -1,
+   "title": "PLAYING GTA 6😭😱❤️#relatable #gaming #gta6 #ps5 #kids #fun #childhood #relatable #viral #trending",
+   "drafted": false,
+   "ts": "2026-11-21T14:54:47.176834+00:00"
+  },
+  {
+   "author": "youtube:fact2fact plus",
+   "vod": "",
+   "offset": -1,
+   "title": "Why GTA 6 Is Ban",
+   "drafted": false,
+   "ts": "2026-11-21T14:54:48.031991+00:00"
+  },
+  {
+   "author": "youtube:abdullah reviews",
+   "vod": "",
+   "offset": -1,
+   "title": "لعبت بلايستيشن داخل قراند 6!!",
+   "drafted": false,
+   "ts": "2026-11-21T14:54:48.784105+00:00"
+  },
+  {
+   "author": "youtube:lukas 712",
+   "vod": "",
+   "offset": -1,
+   "title": "Wer braucht schon Schlaf bei GTA 6? 😴 #gta6 #gamingmemes",
+   "drafted": false,
+   "ts": "2026-11-21T14:54:49.603651+00:00"
+  },
+  {
+   "author": "youtube:tierison",
+   "vod": "",
+   "offset": -1,
+   "title": "MAIN Grand Theft Auto VI Indonesia #4",
+   "drafted": false,
+   "ts": "2026-11-21T14:55:40.469760+00:00"
+  },
+  {
+   "author": "youtube:tui tên bô",
+   "vod": "",
+   "offset": -1,
+   "title": "🔴[GTA6]  CHAPTER II 32%",
+   "drafted": false,
+   "ts": "2026-11-21T14:55:41.332237+00:00"
+  },
+  {
+   "author": "youtube:phân tích game",
+   "vod": "",
+   "offset": -1,
+   "title": "🔴Chơi tiếp Grand Theft Auto 6 - NGÀY 4",
+   "drafted": false,
+   "ts": "2026-11-21T14:55:42.255212+00:00"
+  },
+  {
+   "author": "youtube:đến mỹ cùng hòa ",
+   "vod": "",
+   "offset": -1,
+   "title": "#gta6 #gameplay",
+   "drafted": false,
+   "ts": "2026-11-21T14:55:43.048011+00:00"
+  },
+  {
+   "author": "youtube:tara arts game indonesia",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 (Part 5) 60 FPS Subathon With GGWP - JADI WARGA SOPAN DI VICE CITY‼️",
+   "drafted": false,
+   "ts": "2026-11-21T14:56:33.838372+00:00"
+  },
+  {
+   "author": "youtube:karmatem",
+   "vod": "",
+   "offset": -1,
+   "title": "LIVE GTA 6 on XBOX Series S @4Lukrative 😩🔥 #shorts #gta6",
+   "drafted": false,
+   "ts": "2026-11-21T14:56:34.644330+00:00"
+  },
+  {
+   "author": "twitch:xqc",
+   "vod": "2935383720",
+   "offset": 31406.0,
+   "title": "13 years moment LOL",
+   "drafted": false,
+   "ts": "2026-11-21T14:56:35.347864+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:drdonutttttt",
+   "vod": "",
+   "offset": -1,
+   "title": "I don't think she's watching. We're good boys.",
+   "drafted": false,
+   "ts": "2026-11-21T14:56:35.855814+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:lacy",
+   "vod": "2935059680",
+   "offset": 15171.0,
+   "title": "wwww",
+   "drafted": false,
+   "ts": "2026-11-21T14:57:26.713283+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:illojuan",
+   "vod": "2935071086",
+   "offset": 25906.0,
+   "title": "HAHAHAHAHAHHAHA",
+   "drafted": false,
+   "ts": "2026-11-21T14:57:27.118097+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:mrsavage",
+   "vod": "2934970600",
+   "offset": 22982.0,
+   "title": "erm",
+   "drafted": false,
+   "ts": "2026-11-21T14:57:27.568079+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:ohnepixel",
+   "vod": "2934862154",
+   "offset": 26164.0,
+   "title": "SPAM MANDY if u see ths",
+   "drafted": false,
+   "ts": "2026-11-21T14:57:28.016644+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:montanablack88",
+   "vod": "2935917558",
+   "offset": 528.0,
+   "title": "Leute fallen auf Wutköder Video rein",
+   "drafted": false,
+   "ts": "2026-11-21T15:10:17.133053+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:chiblee",
+   "vod": "2935316352",
+   "offset": 39040.0,
+   "title": "I think the game is working",
+   "drafted": false,
+   "ts": "2026-11-21T15:10:17.789378+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:drdonutttttt",
+   "vod": "",
+   "offset": -1,
+   "title": "Why is everyone saying end stream on YouTube?",
+   "drafted": false,
+   "ts": "2026-11-21T15:10:18.319547+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:caseoh_",
+   "vod": "2935283335",
+   "offset": 16286.0,
+   "title": "thats a pp",
+   "drafted": false,
+   "ts": "2026-11-21T15:10:18.866234+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:mrdzinold",
+   "vod": "2934796972",
+   "offset": 48402.0,
+   "title": "nie wyszło XD",
+   "drafted": false,
+   "ts": "2026-11-21T15:11:09.834246+00:00",
+   "frames": []
   }
  ],
  "published": [
@@ -9685,6 +9877,13 @@
    "ts": "2026-11-21T12:43:49.466920+00:00",
    "msg_id": 34,
    "title": "СЕКРЕТНЫЕ радиостанции",
+   "importance": 8,
+   "kind": "guide"
+  },
+  {
+   "ts": "2026-11-21T14:46:58.633303+00:00",
+   "msg_id": 35,
+   "title": "Как грабить броневик в Twist Wrist, Smash, Grab",
    "importance": 8,
    "kind": "guide"
   }
