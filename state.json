@@ -1684,7 +1684,42 @@
   "31557cedbb3f5e05": "2026-11-21T20:14:08.231764+00:00",
   "799835aa154d7808": "2026-11-21T20:14:10.280988+00:00",
   "ed2e73cdfc94ba83": "2026-11-21T20:14:14.778653+00:00",
-  "c9221b3ca4465e8f": "2026-11-21T20:14:16.550485+00:00"
+  "c9221b3ca4465e8f": "2026-11-21T20:14:16.550485+00:00",
+  "d66b14b55ca34427": "2026-11-21T20:28:34.355172+00:00",
+  "636f985c9f44be53": "2026-11-21T20:28:47.331304+00:00",
+  "d81859f6b8dd0462": "2026-11-21T20:28:57.046358+00:00",
+  "525456ca83fc6b02": "2026-11-21T20:29:07.037960+00:00",
+  "c431081c4c47b3e7": "2026-11-21T20:30:24.272088+00:00",
+  "bb2b391da7360c65": "2026-11-21T20:30:26.165095+00:00",
+  "c3db544eec83a1fb": "2026-11-21T20:30:27.922680+00:00",
+  "cfbcde137336a733": "2026-11-21T20:30:29.810664+00:00",
+  "92067cae7de85261": "2026-11-21T20:30:31.687647+00:00",
+  "c20c82db6e87362b": "2026-11-21T20:30:33.363081+00:00",
+  "d44f0fa8809a5faa": "2026-11-21T20:30:34.818238+00:00",
+  "6bb17ee06c3aa1b1": "2026-11-21T20:30:36.448711+00:00",
+  "e73c243255055707": "2026-11-21T20:30:39.046567+00:00",
+  "f464f72847bdea25": "2026-11-21T20:30:39.887740+00:00",
+  "cc0dc83f4e8c653f": "2026-11-21T20:30:40.624202+00:00",
+  "754d25be268e86fd": "2026-11-21T20:30:41.474513+00:00",
+  "0bd72067bc71577b": "2026-11-21T20:31:32.866087+00:00",
+  "2b17d4da08d956ee": "2026-11-21T20:31:33.664189+00:00",
+  "85ea5473dc03b096": "2026-11-21T20:31:34.457890+00:00",
+  "d99653091be671b5": "2026-11-21T20:31:35.364581+00:00",
+  "0d14ddc321a540fb": "2026-11-21T20:32:26.348636+00:00",
+  "b9aaf863bf2887e3": "2026-11-21T20:32:27.141646+00:00",
+  "7d8343f43917f0b6": "2026-11-21T20:32:28.053609+00:00",
+  "ff56efba0f57f524": "2026-11-21T20:32:29.076749+00:00",
+  "adaa56bc82196961": "2026-11-21T20:33:19.995687+00:00",
+  "abd53997b1e6d19c": "2026-11-21T20:33:20.848824+00:00",
+  "f30512d3a78a781c": "2026-11-21T20:46:12.828140+00:00",
+  "d657ffc56dfe534b": "2026-11-21T20:46:15.215249+00:00",
+  "1a8f9804453c1685": "2026-11-21T20:46:18.848045+00:00",
+  "e58764ef88c19e21": "2026-11-21T20:46:20.425148+00:00",
+  "43c011fc4db4570b": "2026-11-21T20:46:22.000315+00:00",
+  "7ed43747e73c55c2": "2026-11-21T20:46:23.648605+00:00",
+  "f7fea456ab6684db": "2026-11-21T20:46:25.516434+00:00",
+  "944ac17e03aa9366": "2026-11-21T20:46:27.495623+00:00",
+  "3c5b5a30d6d4a38c": "2026-11-21T20:46:29.397156+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -2801,7 +2836,24 @@
   "092c69d9a155d231": "2026-11-21T20:14:08.231764+00:00",
   "c6063f9407e2f4bf": "2026-11-21T20:14:10.280988+00:00",
   "52673019e6373cf4": "2026-11-21T20:14:14.778653+00:00",
-  "935c1a253d53d370": "2026-11-21T20:14:16.550485+00:00"
+  "935c1a253d53d370": "2026-11-21T20:14:16.550485+00:00",
+  "94683ddb864ed612": "2026-11-21T20:30:24.272088+00:00",
+  "6bf99d5abccd2451": "2026-11-21T20:30:26.165095+00:00",
+  "b82850b00dc7fe2f": "2026-11-21T20:30:27.922680+00:00",
+  "721efb6779a3a696": "2026-11-21T20:30:29.810664+00:00",
+  "3879f2e07fbf82e0": "2026-11-21T20:30:31.687647+00:00",
+  "abebf1a280fb8581": "2026-11-21T20:30:33.363081+00:00",
+  "b7b20e3d0f73d330": "2026-11-21T20:30:34.818238+00:00",
+  "b5af7652534eaf0e": "2026-11-21T20:30:36.448711+00:00",
+  "1b01d86688d8ee76": "2026-11-21T20:46:12.828140+00:00",
+  "b98b7bea048ce005": "2026-11-21T20:46:15.215249+00:00",
+  "5b8d988aa9d2b5e5": "2026-11-21T20:46:18.848045+00:00",
+  "3232b67d1307fdef": "2026-11-21T20:46:20.425148+00:00",
+  "c94eb2ec271fcbb4": "2026-11-21T20:46:22.000315+00:00",
+  "6063282776ea7029": "2026-11-21T20:46:23.648605+00:00",
+  "490092ee513f3f73": "2026-11-21T20:46:25.516434+00:00",
+  "6fe3d1f2e98f1b7b": "2026-11-21T20:46:27.495623+00:00",
+  "56d87834f065bb93": "2026-11-21T20:46:29.397156+00:00"
  },
  "recent": [
   {
@@ -7043,6 +7095,142 @@
    "status": "skipped",
    "ts": "2026-11-21T20:14:16.550611+00:00",
    "card_title": ""
+  },
+  {
+   "title": "«Сделайте перерыв от GTA VI»: игроков призвали вернуться в Overwatch, чтобы получить бесплатные лутбоксы",
+   "source": "iXBT.games",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-21T20:30:24.272197+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI Is doing fine on Xbox – that’s the problem",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T20:30:26.165215+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 reportedly played using Neuralink brain chip in new video",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T20:30:27.922797+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Miami Fan's GTA 6 Sign About Lucia Goes Viral in Trending Photo from ESPN College GameDay",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T20:30:29.810795+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "These fans waited over a decade for ‘GTA VI.’ Here’s how they celebrated.",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T20:30:31.687764+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "These Movies Inspired GTA 6: Lucia and Jason’s Story Is Based on Pulp Fiction, Bonnie and Clyde, and Other Cinema Classics",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T20:30:33.363209+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Who Is Brian Heder In GTA 6? Jason's Connection Explained",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T20:30:34.818355+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI EV Chargers: 120 Reported vs 57 Gas Stations",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T20:30:36.448829+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Avery Pawn Shop Safe Code: How to Find and Open the Safe",
+   "source": "VGC",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-21T20:46:12.828165+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Should you proceed or postpone when you meet Abe in the Protective Custody mission in GTA 6?",
+   "source": "PC Gamer",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-21T20:46:17.042992+00:00",
+   "card_title": "КАК ПОЛУЧИТЬ СЕКРЕТНУЮ КОНЦОВКУ GTA 6"
+  },
+  {
+   "title": "GTA 6 Fans Are Loving New Rockstar Games Freebies",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T20:46:18.848164+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "‘GTA 6’: Where You Know Brian Heder Actor Stephen Root From",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T20:46:20.425269+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Геймеры слили локации семи бесплатных суперкаров в GTA 6",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T20:46:22.000434+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Релиз GTA VI: 7,9 млн зрителей на стримах и массовые прогулы",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T20:46:23.648719+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "‘GTA 6’ Features Never-Before-Heard Song From Late R&B Legend D’Angelo",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T20:46:25.516552+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Пасхалки GTA 6: фурри, снайперская винтовка и секреты",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T20:46:27.495734+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Here's the La Cascara Motel safe code in GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "queued",
+   "ts": "2026-11-21T20:46:30.346017+00:00",
+   "card_title": "КОД ОТ СЕЙФА В МОТЕЛЕ"
   }
  ],
  "queue": [
@@ -7163,6 +7351,35 @@
     "model": "gemini:gemini-3.5-flash-lite"
    },
    "queued_at": "2026-11-21T18:51:44.582308+00:00"
+  },
+  {
+   "item": {
+    "title": "Should you proceed or postpone when you meet Abe in the Protective Custody mission in GTA 6?",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-protective-custody-choice-proceed-or-postpone-meet-abe/",
+    "summary": "In the Chapter 5 mission, should you meet with your lawyer now or wait and do it later?",
+    "published": "2026-11-21T20:32:43+00:00",
+    "source": "PC Gamer",
+    "site_name": "PC Gamer",
+    "trust": "high",
+    "text": "Deciding whether to proceed or postpone the Protective Custody story mission is a big choice you'll need to make in GTA 6. The mission appears on your map as \"Meet Abe\" in Chapter 5, once you've completed the mission Operation Savage Glory.\nOnce you get to Abe's office, Jason will warn Lucia that everything will change after this mission. Lucia will hesitate at the door as you make your choice to \"Proceed\" or \"Postpone.\"\nThis is a pretty big decision, because Protective Custody kicks off the final mission of the game which takes about an hour to play. And even though it's a binary choice between \"Proceed\" (which starts the mission) and \"Postpone\" (which delays the mission)\" there's actually a third possible outcome based on when you make the choice.\nProceed: Jason and Lucia will enter Abe's office and the final mission of the game will begin.\nIt's a long mission that will take about an hour to play, so be prepared. You can't save during this mission so make sure you've got the time! Once you've completed the final mission, you can watch the credits and return to the open world so you can continue playing.\nYou will go back to the open world to continue playing. The \"Meet Abe\" icon will remain on your map so you can begin the final mission at any point from then on.\nProceed with $2 million in your Buck Me savings account\nThere are multiple endings to GTA 6, and I won't spoil them here. But one of the endings is only possible if you postpone the Protective Custody mission until you've deposited $2 million into your Buck Me savings account. That's why when you choose to proceed with the final mission makes a difference.\nIt's also worth noting (again, without spoilers) that just because you do have $2 million in your Buck Me savings account does not guarantee you will see this particular ending. There are still choices you'll need to make in the final mission that determine which ending you see.\nChris started playing PC games in the 1980s, started writing about them in the early 2000s, and (finally) started getting paid to write about them in the late 2000s. Following a few years as a regular freelancer, PC Gamer hired him in 2014, probably so he'd stop emailing them asking for more work. Chris has a love-hate relationship with survival games and an unhealthy fascination with the inner lives of NPCs. He's also a fan of offbeat simulation games, mods, and ignoring storylines in RPGs so he can make up his own.\nYou must confirm your public display name before comm",
+    "extra": {
+     "image": "https://cdn.mos.cms.futurecdn.net/7KiM9WgPTcRophKnNZkU8k-1920-80.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "🗺 Гайд: Выбор перед миссией «Встреча с Эйбом»\n\nВ 5 главе перед финалом тебя ждет развилка: «Продолжить» или «Отложить». Если хочешь увидеть секретную концовку, не спеши!\n\n1. Сначала накопи 2 миллиона баксов на счету в Buck Me.\n2. Только после этого жми «Продолжить».\n\nВажно: наличие кэша не дает 100% гарантию, в финале все равно придется принимать решения. Но без денег этот финал точно не светит. Удачи в катке!",
+    "card_title": "КАК ПОЛУЧИТЬ СЕКРЕТНУЮ КОНЦОВКУ GTA 6",
+    "reason": "Гайд по важному сюжетному выбору в финале игры, который влияет на концовку.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": true,
+    "model": "gemini:gemini-3.1-flash-lite"
+   },
+   "queued_at": "2026-11-21T20:46:17.042981+00:00"
   },
   {
    "item": {
@@ -7848,6 +8065,33 @@
   },
   {
    "item": {
+    "title": "Here's the La Cascara Motel safe code in GTA 6",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSmozTXRKVFkySUlXbno0bGx4UjRCbkc4OEl0R0kzbzV0UUpRUkdBT3RZbEJlbU1MeEhXMl9aRG1yQjNISFJ5SkFVLVVnMjNya1I2S2hjdVV6WFB2b0tOcEt4RzBPeW9sd2lCc04ycHBvOFJJbTdFSHhwLXo3Vm8yb3BHTWI4dlE?oc=5",
+    "summary": "Here's the La Cascara Motel safe code in GTA 6 PC Gamer",
+    "published": "2026-11-21T16:36:30+00:00",
+    "source": "Google News (EN)",
+    "site_name": "PC Gamer",
+    "trust": "rumor",
+    "text": "Here's the La Cascara Motel safe code in GTA 6 PC Gamer",
+    "extra": {}
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "🗺 Гайд: Сейф в мотеле La Cascara\n\nЗастрял в мотеле и не можешь вскрыть сейф? Лови код, чтобы забрать лут:\n\n1. Заходишь в номер 302.\n2. Ищешь листок на тумбочке — там заветная комбинация 04-11-26.\n3. Вводишь на панели и забираешь содержимое.\n\nИзи катка, пользуйся, пока не пофиксили! 💰\n\n❤️ — Полезно, пошел лутать\n👎 — Уже знал, я спидраннер",
+    "card_title": "КОД ОТ СЕЙФА В МОТЕЛЕ",
+    "reason": "Гайд по поиску кода от сейфа в игре, это полезная инфа для игроков.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": true,
+    "model": "gemini:gemini-3.1-flash-lite"
+   },
+   "queued_at": "2026-11-21T20:46:30.346007+00:00"
+  },
+  {
+   "item": {
     "title": "Here's how to steal the BF Bandito for Moses in GTA 6",
     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5jUUYwSzlLYzd4WnowSVZnSEd0cGdQNWFoX0M4ZVVXWHNjNWNtN2JPcnl3TVJJQnBaanV2aWVlREYxdmIwWU9rSUgzS1UtamJZLURxUklqWUVaQUtCT3Yybm5wa3Fvbl9KUXJreGFZS1pha3ZBdTJrLUtxNDFIZw?oc=5",
     "summary": "Here's how to steal the BF Bandito for Moses in GTA 6 PC Gamer",
@@ -7949,6 +8193,36 @@
    "file_id": "BAACAgIAAxkDAAM-awHw3j1XsBTKKUAvCpbs3ez1-bQAAh-0AAKnJwlIUNyWAVdqnnI9BA",
    "moderation": "pending",
    "draft_msg_id": 62
+  },
+  {
+   "clip": {
+    "source": "twitch",
+    "url": "https://www.twitch.tv/jerma985/clip/HumbleSwissConsoleOhMyDog-PS5z9xywJKZlt86Z",
+    "title": "HAHAHA... wut?",
+    "author": "Jerma985",
+    "views": 645,
+    "duration": 12.2,
+    "created": "2026-11-21T08:54:34+00:00",
+    "lang": "en",
+    "description": "",
+    "vod_id": "2935760785",
+    "vod_offset": 18286.0
+   },
+   "caption": "Лусия косплеит фермера и ведет наряженную корову — это просто какой-то лютый рофл от Rockstar. Кто вообще придумал этот квест? 🐮",
+   "interest": 9,
+   "spoiler": false,
+   "nsfw": false,
+   "watched": true,
+   "model": "gemini:gemini-3.1-flash-lite",
+   "media": {
+    "width": null,
+    "height": 720,
+    "duration": 12
+   },
+   "queued_at": "2026-11-21T20:33:25.872550+00:00",
+   "file_id": "BAACAgIAAxkDAANCawIAARchLZZtWrMHkytuicN0fvuUAAKupgACpycRSCbucak7N-rSPQQ",
+   "moderation": "pending",
+   "draft_msg_id": 66
   }
  ],
  "clip_drafts": [
@@ -7962,7 +8236,8 @@
   "2026-11-21T07:15:43.486003+00:00",
   "2026-11-21T12:48:29.513513+00:00",
   "2026-11-21T18:21:29.947000+00:00",
-  "2026-11-21T19:28:30.522835+00:00"
+  "2026-11-21T19:28:30.522835+00:00",
+  "2026-11-21T20:33:27.995353+00:00"
  ],
  "clip_history": [
   {
@@ -11327,6 +11602,165 @@
    "ts": "2026-11-21T19:28:30.522852+00:00",
    "frames": [],
    "caption": "Жестко улетела с байка прямо под фуру, но выжила — это какой-то имба-скилл или просто везучая? Рил, физика столкновений "
+  },
+  {
+   "author": "twitch:ohnepixel",
+   "vod": "2936064102",
+   "offset": 13620.0,
+   "title": "Ohne Caught in 2k!!",
+   "drafted": false,
+   "ts": "2026-11-21T20:28:34.355204+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:montanablack88",
+   "vod": "2935917558",
+   "offset": 12350.0,
+   "title": "Wilde Synchro & Gönrgy W3rbung",
+   "drafted": false,
+   "ts": "2026-11-21T20:28:47.331341+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:uhn",
+   "vod": "2935568225",
+   "offset": 15432.0,
+   "title": "can i clip this...?",
+   "drafted": false,
+   "ts": "2026-11-21T20:28:57.046395+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:lvndmark",
+   "vod": "2935148162",
+   "offset": 30290.0,
+   "title": "Lvndmark gets the Declasse Randy mission",
+   "drafted": false,
+   "ts": "2026-11-21T20:29:07.037996+00:00",
+   "frames": []
+  },
+  {
+   "author": "youtube:zylok",
+   "vod": "",
+   "offset": -1,
+   "title": "Kai Cenat & IShowSpeed Got The Same GTA 6 Ending! 💔",
+   "drafted": false,
+   "ts": "2026-11-21T20:30:39.046599+00:00"
+  },
+  {
+   "author": "youtube:verrtv",
+   "vod": "",
+   "offset": -1,
+   "title": "♾️ Infinity GTA 6 Method 🎮✌️ #GTAIV #Prank #YouTubeShorts #Viral #Target",
+   "drafted": false,
+   "ts": "2026-11-21T20:30:39.887769+00:00"
+  },
+  {
+   "author": "youtube:ramo akh",
+   "vod": "",
+   "offset": -1,
+   "title": "How Kids Play GTA 6 Now Vs GTA 5 Back Then",
+   "drafted": false,
+   "ts": "2026-11-21T20:30:40.624232+00:00"
+  },
+  {
+   "author": "youtube:tony statovci",
+   "vod": "",
+   "offset": -1,
+   "title": "Why Lucia unloaded her gun before robbing in GTA 6",
+   "drafted": false,
+   "ts": "2026-11-21T20:30:41.474542+00:00"
+  },
+  {
+   "author": "youtube:unknown smug",
+   "vod": "",
+   "offset": -1,
+   "title": "POV: Reacting To GTA 6 Dropping Based On Age...",
+   "drafted": false,
+   "ts": "2026-11-21T20:31:32.866120+00:00"
+  },
+  {
+   "author": "youtube:typical gamer",
+   "vod": "",
+   "offset": -1,
+   "title": "Is Lucia Even Real? (GTA 6)",
+   "drafted": false,
+   "ts": "2026-11-21T20:31:33.664221+00:00"
+  },
+  {
+   "author": "youtube:standart skill",
+   "vod": "",
+   "offset": -1,
+   "title": "wir werden MILLIONÄR in GTA 6!",
+   "drafted": false,
+   "ts": "2026-11-21T20:31:34.457923+00:00"
+  },
+  {
+   "author": "youtube:luthfi halimawan",
+   "vod": "",
+   "offset": -1,
+   "title": "PAGI KERJA BAKTI, MALEM KERJA KRIMINAL! - GTA VI #4",
+   "drafted": false,
+   "ts": "2026-11-21T20:31:35.364611+00:00"
+  },
+  {
+   "author": "youtube:gaules",
+   "vod": "",
+   "offset": -1,
+   "title": "GAMEPLAY GTA VI by @flexformBR – Cupom exclusivo para tribo - Siga @Gaules nas redes sociais!",
+   "drafted": false,
+   "ts": "2026-11-21T20:32:26.348670+00:00"
+  },
+  {
+   "author": "youtube:danish gamer",
+   "vod": "",
+   "offset": -1,
+   "title": "I discovered a secret glitch in Gta 6 😱 #gta",
+   "drafted": false,
+   "ts": "2026-11-21T20:32:27.141675+00:00"
+  },
+  {
+   "author": "youtube:kreek",
+   "vod": "",
+   "offset": -1,
+   "title": "🔴LIVE! BEATING GTA 6 *RIGHT NOW* (FINAL MISSION)",
+   "drafted": false,
+   "ts": "2026-11-21T20:32:28.053638+00:00"
+  },
+  {
+   "author": "youtube:blackpanthaa",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 Gameplay Walkthrough - DAY 4!! 🔴",
+   "drafted": false,
+   "ts": "2026-11-21T20:32:29.076779+00:00"
+  },
+  {
+   "author": "youtube:gurtez toronto wala",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 Game Vlog ❤️ #minivlog",
+   "drafted": false,
+   "ts": "2026-11-21T20:33:19.995719+00:00"
+  },
+  {
+   "author": "twitch:jerma985",
+   "vod": "2935760785",
+   "offset": 18286.0,
+   "title": "HAHAHA... wut?",
+   "drafted": false,
+   "ts": "2026-11-21T20:33:20.848855+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:jerma985",
+   "vod": "2935760785",
+   "offset": 18286.0,
+   "title": "HAHAHA... wut?",
+   "drafted": true,
+   "ts": "2026-11-21T20:33:27.995368+00:00",
+   "frames": [],
+   "caption": "Лусия косплеит фермера и ведет наряженную корову — это просто какой-то лютый рофл от Rockstar. Кто вообще придумал этот "
   }
  ],
  "published": [
