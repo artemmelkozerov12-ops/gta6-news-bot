@@ -1370,7 +1370,19 @@
   "d22f3ca0ce3b6861": "2026-11-21T13:01:07.562386+00:00",
   "7acaf2a8c41d631b": "2026-11-21T13:01:40.715902+00:00",
   "66495dca578c9b05": "2026-11-21T13:01:41.378474+00:00",
-  "929f8d47ba91f8c0": "2026-11-21T13:01:48.160924+00:00"
+  "929f8d47ba91f8c0": "2026-11-21T13:01:48.160924+00:00",
+  "d4344cc34925b599": "2026-11-21T13:17:08.610459+00:00",
+  "01e9c5a869d98be2": "2026-11-21T13:17:10.391729+00:00",
+  "caaa453a14e88f6a": "2026-11-21T13:17:13.467045+00:00",
+  "19150e855bbc085c": "2026-11-21T13:17:35.711520+00:00",
+  "528ca132faef6768": "2026-11-21T13:18:04.704328+00:00",
+  "5abc5630ed44ed67": "2026-11-21T13:18:31.355331+00:00",
+  "33dcd1e7c4149aba": "2026-11-21T13:18:51.278018+00:00",
+  "ddb023c870d9e022": "2026-11-21T13:19:30.882118+00:00",
+  "d1697d6934cd4b80": "2026-11-21T13:19:43.650754+00:00",
+  "22bb78564fbf5a21": "2026-11-21T13:35:01.991272+00:00",
+  "0bcd2cd068482b8e": "2026-11-21T13:35:02.597668+00:00",
+  "d4a1af655b51ae3d": "2026-11-21T13:35:12.904956+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -2371,7 +2383,18 @@
   "ab2e6a207ee8d503": "2026-11-21T13:01:07.562386+00:00",
   "ae18ec22886cfc01": "2026-11-21T13:01:40.715902+00:00",
   "470bed7dfdd011e7": "2026-11-21T13:01:41.378474+00:00",
-  "bad1b44881a7af94": "2026-11-21T13:01:48.160924+00:00"
+  "bad1b44881a7af94": "2026-11-21T13:01:48.160924+00:00",
+  "79fec9275cab82cb": "2026-11-21T13:17:35.711520+00:00",
+  "20c20340e53d58b0": "2026-11-21T13:17:10.391729+00:00",
+  "6f8638b8d01a38cf": "2026-11-21T13:17:13.467045+00:00",
+  "7d95ecc4e72054bd": "2026-11-21T13:18:04.704328+00:00",
+  "43e4b1f0f7a369c7": "2026-11-21T13:18:31.355331+00:00",
+  "7a4e115ed6c09747": "2026-11-21T13:18:51.278018+00:00",
+  "26a973ec8a74ecc3": "2026-11-21T13:19:30.882118+00:00",
+  "af3f6c423dd13a29": "2026-11-21T13:19:43.650754+00:00",
+  "063db1d4db430ee4": "2026-11-21T13:35:01.991272+00:00",
+  "eef5378332180bcb": "2026-11-21T13:35:02.597668+00:00",
+  "a2091aad0255c888": "2026-11-21T13:35:12.904956+00:00"
  },
  "recent": [
   {
@@ -6245,6 +6268,102 @@
    "status": "skipped",
    "ts": "2026-11-21T13:01:48.161041+00:00",
    "card_title": ""
+  },
+  {
+   "title": "How Rockstar Made Every NPC Feel Alive in GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-21T13:17:08.610481+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How Many Copies Has GTA 6 Sold? Money Made So Far (November 2026)",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-21T13:17:10.753314+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Where to Find The Pegassi Tempesta Supercar in GTA 6—Randy’s Wishlist Car Locations",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "queued",
+   "ts": "2026-11-21T13:17:21.905493+00:00",
+   "card_title": "ГДЕ НАЙТИ PEGASSI TEMPESTA"
+  },
+  {
+   "title": "How Rockstar Made Every NPC Feel Alive in GTA 6",
+   "source": "IGN",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-21T13:17:54.155868+00:00",
+   "card_title": "НПЦ В СТИЛЕ ЖИЗНИ"
+  },
+  {
+   "title": "World of Dypians Opens a GTA VI Inspired Zone With a 150,000 Point Logo Hunt on BNB Chain",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T13:18:04.704425+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI on Xbox Series X can run faster than 30 FPS using Quick Resume",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T13:18:31.355433+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6: Every Free Story Safehouse & Apartment",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T13:18:51.278115+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 is here. What parents need to know before handing over the controller",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T13:19:30.882219+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "‘GTA 6’ is out and ready to play: Early reviews, pricing, story mode and everything else you need to know about the biggest game launch of the year",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T13:19:43.650851+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Sensor Tower puts GTA 6 at 17 million pre-orders and $1.65 billion ahead of launch",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T13:35:01.991346+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "В титрах GTA 6 нашли упоминание \"Флоридского Джокера\", который грозился отсудить у Rockstar $10 миллионов",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T13:35:02.597733+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 vs RDR 2: на YouTube устроили лобовое сравнение двух игр RockStar",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T13:35:12.905067+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -6327,7 +6446,9 @@
     "guide": true,
     "model": "groq:openai/gpt-oss-120b"
    },
-   "queued_at": "2026-11-21T06:06:17.013806+00:00"
+   "queued_at": "2026-11-21T06:06:17.013806+00:00",
+   "moderation": "pending",
+   "draft_msg_id": 54
   },
   {
    "item": {
@@ -6490,6 +6611,33 @@
     "model": "groq:openai/gpt-oss-120b → groq:openai/gpt-oss-120b"
    },
    "queued_at": "2026-11-21T12:39:00.376455+00:00"
+  },
+  {
+   "item": {
+    "title": "How Rockstar Made Every NPC Feel Alive in GTA 6",
+    "link": "https://www.ign.com/articles/how-rockstar-made-every-npc-feel-alive-in-gta-6",
+    "summary": "Rockstar made NPCs feel alive in GTA 6 by \"establishing deep backstories for almost everything\" throughout Leonida.",
+    "published": "2026-11-21T11:54:24+00:00",
+    "source": "IGN",
+    "site_name": "IGN",
+    "trust": "high",
+    "text": "\"... this big machine is always running even when players aren’t there.\"\nGame developers often refer to their open world cities as characters due to the sheer craftsmanship involved in building out a believable, diverse playspace for the player with its own districts, history, and architecture. This is truer for GTA 6 than most games, but what makes Leonida really feel alive — outside of the puddles of bin juice, the regional-specific cop cars, and mapped out power grid — are the people who live there.\nGTA 6 feels like a massive evolution in what it means to be a non-player character (NPC) because there’s an emphasis on the “C” — they’re actually characters in their own right. NPCs don’t just all look unique — with body types, skin, dress style, and hair making them stand apart — they have their own personalities and temperaments. Start a fight with one NPC and they might fight back, while another runs away. One could start a fight by slapping you, another might flick their cigarette at you or tip their drink over your head. Passersby can cheer the fight on, flee, or get involved. Some stop after a single punch knocks sense into them, while others swing until they’re out cold.\nNo matter where you go in GTA 6, it feels like a lived-in world, on the macro and micro scale. There are over 100 interiors to explore, and each house tells you a story about its occupants. Listen to conversations out on the streets and you’ll get a window into their minds, built out by an entire Rockstar studio dedicated to making them authentic and believable, while still being larger-than-life, funny, and often unhinged.\n“A big part of it was establishing deep backstories for almost everything, even if they were never meant to be fully explained to the player, and then really sticking to those backstories,” said Steven Messinger, Rockstar's senior design director for the open world. “For example, our gang compounds have a complex drug network we’ve fully mapped out: where the drugs come from, who brings them in and how, how they’re distributed to each compound, what happens at each stop, and how they eventually reach the street-level buyer.\n“Players will only pick up on bits and pieces of this, but having that structure in the background as something we consistently refer to helps everything feel more real, like this big machine is always running even when players aren’t there.”\nTo build this tangible sense of place, Rockstar takes in-depth research trips for GTA games, embedding ",
+    "extra": {}
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "🗺️ Как Rockstar сделал NPC живыми в GTA 6\n\nВ GTA 6 каждый прохожий будто живёт своей жизнью: они не просто разные внешности, но и реально реагируют – могут бить, убегать, кричать. Rockstar вложил кучу времени в их истории, чтобы город дышал и не казался статичным. Это не просто гайд, а факт, который стоит знать, пока ты катаешься по Лейониде.",
+    "card_title": "НПЦ В СТИЛЕ ЖИЗНИ",
+    "reason": "официальная статья IGN подтверждена, но не содержит конкретного гида",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "groq:openai/gpt-oss-20b"
+   },
+   "queued_at": "2026-11-21T13:17:54.155858+00:00"
   },
   {
    "item": {
@@ -6706,6 +6854,33 @@
     "model": "gemini:gemini-3.5-flash-lite"
    },
    "queued_at": "2026-11-21T12:59:30.365694+00:00"
+  },
+  {
+   "item": {
+    "title": "Where to Find The Pegassi Tempesta Supercar in GTA 6—Randy’s Wishlist Car Locations",
+    "link": "https://insider-gaming.com/gta-6-where-to-find-the-pegassi-tempesta-supercar/",
+    "summary": "If you’ve stumbled across this GTA 6 guide, it’s likely because you’re currently completing Randy’s wishlists to unlock the Advanced Tracker Unlock. In this simple guide, we’ll be showing you how and where to find the Pegassi Tempesta in GTA 6. Fear not, the Pegassi Tempesta location is one of the easiest to find in […] The post Where to Find The Pegassi Tempesta Supercar in GTA 6—Randy’s Wishlist Car Locations appeared first on Insider Gaming .",
+    "published": "2026-11-21T13:03:02+00:00",
+    "source": "Insider Gaming",
+    "site_name": "Insider Gaming",
+    "trust": "medium",
+    "text": "If you’ve stumbled across this GTA 6 guide, it’s likely because you’re currently completing Randy’s wishlists to unlock the Advanced Tracker Unlock. In this simple guide, we’ll be showing you how and where to find the Pegassi Tempesta in GTA 6.\nFear not, the Pegassi Tempesta location is one of the easiest to find in GTA 6.\nTo find the Pegassi Tempesta in GTA 6, go to the Vice City area.\nThe easiest way to find the Pegassi Tempesta is to mark its location on the map: NE 3rd St. You’ll need to do this during the day.\nThe supercar will be in the middle of being towed by a large blue tow van, but you can get there in time, hop in, and drive away. To mark its location on the map, we’ve included several screenshots below. Sometimes, you may even see the owner of the car and tow man fighting, which makes for a bit of hilarality before you decide you steal his pride and joy for Randy.\nTip – The location can be found easily by looking at the weird-shaped building with a helicopter landing spot on it (see more zoomed in picture below).\nMore Insider Gaming: All GTA 6 Guides, Walkthroughs, Best Tips & TricksFrom here, you’ll easily find the Pegassi Tempesta on the road. From here, simply drive it fast to Randy’s workshop to ensure that the police don’t find it because of the tracker.\nHow many cars have you acquired so far for Randy’s wishlist? Let us know your thoughts about the game via the free Insider Gaming Discord server.\nFor more Insider Gaming content, read ‘Every Easter Egg In GTA 6—Locations & How To Find Them.’ Don’t forget to sign up for our free weekly newsletter.\nTom Henderson is Insider Gaming's Co-Founder and Editor-In-Chief. When he's not running one of the industry's leading independent video game websites, he's probably playing an FPS like Call of Duty,…\nDoes GTA 6 Have Prostitutes or Sex Workers?\nContexto Hints & Answer For November 21, 2026\nGTA 6 Auto Upload Bans—Can Sex and Nudity Get You Banned From XBOX?\nNYT Connections Hints Today (#1259)—Answers for Saturday, November 21",
+    "extra": {}
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "🗺 Гайд:\n\nНайди Pegassi Tempesta в Vice City – NE 3rd St. В дневное время он стоит в середине буксируемого синий трак‑ваном. Смотри на странный дом с вертолетной площадкой, чтобы не потеряться. Сразу влезай и мчись к работнику Randy, иначе полиция кидёт в отслеживание. Круто, да? 🚗💨",
+    "card_title": "ГДЕ НАЙТИ PEGASSI TEMPESTA",
+    "reason": "Подтверждённый гайд от Insider Gaming о нахождении Pegassi Tempesta в GTA 6",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": true,
+    "model": "groq:openai/gpt-oss-20b"
+   },
+   "queued_at": "2026-11-21T13:17:21.905483+00:00"
   }
  ],
  "posts": [
@@ -6737,7 +6912,8 @@
   "2026-11-20T17:56:28.663214+00:00",
   "2026-11-21T06:06:24.327667+00:00",
   "2026-11-21T07:06:43.822657+00:00",
-  "2026-11-21T12:43:24.029271+00:00"
+  "2026-11-21T12:43:24.029271+00:00",
+  "2026-11-21T13:44:00.770871+00:00"
  ],
  "slots_sent": {
   "2026-11-19:вечер": "2026-11-19T16:00:06.530557+00:00"
