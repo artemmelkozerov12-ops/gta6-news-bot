@@ -1471,7 +1471,19 @@
   "f8ccf8c024a3c5c0": "2026-11-21T14:09:37.210977+00:00",
   "4c1984cf331e07a6": "2026-11-21T14:09:37.746586+00:00",
   "79fad2e0d4930233": "2026-11-21T14:10:28.456394+00:00",
-  "21381309a4817127": "2026-11-21T14:10:28.951070+00:00"
+  "21381309a4817127": "2026-11-21T14:10:28.951070+00:00",
+  "0631c84155719323": "2026-11-21T14:23:18.745517+00:00",
+  "2061010e86a737aa": "2026-11-21T14:23:18.800768+00:00",
+  "051b176ecc2be864": "2026-11-21T14:23:20.501031+00:00",
+  "b2738f37605456b9": "2026-11-21T14:23:20.938908+00:00",
+  "8ff0718a27ea6275": "2026-11-21T14:23:21.453149+00:00",
+  "f91a5c713a5620bd": "2026-11-21T14:23:21.832026+00:00",
+  "37e805fc3543f3dd": "2026-11-21T14:24:12.718965+00:00",
+  "72617e38fe389787": "2026-11-21T14:38:45.710999+00:00",
+  "b8867513f6428539": "2026-11-21T14:38:45.753420+00:00",
+  "2b16069608449ccf": "2026-11-21T14:38:47.541154+00:00",
+  "85d2c2c563f64cec": "2026-11-21T14:38:48.176851+00:00",
+  "f11dd54a48887a4e": "2026-11-21T14:38:48.527617+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -2485,7 +2497,11 @@
   "eef5378332180bcb": "2026-11-21T13:35:02.597668+00:00",
   "a2091aad0255c888": "2026-11-21T13:35:12.904956+00:00",
   "6a793b609e51babd": "2026-11-21T13:51:55.815973+00:00",
-  "9bc648fd00079010": "2026-11-21T14:07:48.976935+00:00"
+  "9bc648fd00079010": "2026-11-21T14:07:48.976935+00:00",
+  "8497a0154d41e053": "2026-11-21T14:23:18.745517+00:00",
+  "e1c1073ff3578844": "2026-11-21T14:23:18.800768+00:00",
+  "aeaa572e86837c14": "2026-11-21T14:38:45.710999+00:00",
+  "8f29ab54eaf2c06a": "2026-11-21T14:38:45.753420+00:00"
  },
  "recent": [
   {
@@ -5716,7 +5732,7 @@
    "title": "GTA 6 Checking Out walkthrough: Chapter 2 point of no return explained",
    "source": "VGC",
    "trust": "high",
-   "status": "queued",
+   "status": "rejected",
    "ts": "2026-11-21T06:06:17.013818+00:00",
    "card_title": "ПРОХОД МИССИИ CHECKING OUT"
   },
@@ -6471,6 +6487,38 @@
    "status": "dup",
    "ts": "2026-11-21T14:07:48.976991+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GTA 6’s Weirdest Cow Shows Why You Should Pause the Story Early To Explore Its Vast Map",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-21T14:23:18.745571+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Where to Find The Pegassi Vitello Supercar in GTA 6—Randy’s Wishlist Car Locations",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "dup",
+   "ts": "2026-11-21T14:23:18.800793+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 safe codes and how to get them",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-21T14:38:45.711019+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Where to Find The Pegassi Infernus Supercar in GTA 6—Randy’s Wishlist Car Locations",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "dup",
+   "ts": "2026-11-21T14:38:45.753441+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -6526,36 +6574,9 @@
     "guide": true,
     "model": "groq:openai/gpt-oss-120b → groq:openai/gpt-oss-120b"
    },
-   "queued_at": "2026-11-21T06:04:45.202368+00:00"
-  },
-  {
-   "item": {
-    "title": "GTA 6 Checking Out walkthrough: Chapter 2 point of no return explained",
-    "link": "https://www.videogameschronicle.com/guide/gta-6-checking-out-walkthrough/",
-    "summary": "It's time for the final mission of Chapter 2",
-    "published": "2026-11-21T01:22:44+00:00",
-    "source": "VGC",
-    "site_name": "VGC",
-    "trust": "high",
-    "text": "Checking Out is the thirty-fifth mission in GTA 6 and the final chapter of GTA 6 Chapter 2.\nJason and Lucia finally leave Port Gellhorn behind and head for Vice City. In this Checking Out mission walkthrough, we’ll explain how to complete this mission and warn you about the point of no return in Chapter 2.\nAs part of our GTA 6 Guide Hub, we’re creating mission walkthroughs for every mission in GTA 6, top tips for playing the game, secrets and much more.\nGuides: If you're playing Grand Theft Auto 6, make sure to check out our complete walkthrough hub, featuring beginner tips, navigation experience explained, GTA 6 cheats, and more.\nAfter you start this mission, you can’t back out, and the events of the mission permanently removes the Starlet Motel as your home. You should make a manual save here. It’s also worth coming back to the motel a little later in the story. No spoilers.\n1. Pick up the gun and leave the motel room\nAfter the opening cutscene, you’ll discover that armed men have arrived at the Starlet Motel, the same men that have been chasing Jason and Lucia since Tourist Trap.\nWhen the gameplay portion of the mission starts, you’ll control Jason, who needs to fight his way out of the motel room. Before leaving, pick up the shotgun lying on the bed.\nHead outside and use the available cover to protect yourself from incoming gunfire. Several enemies are positioned around the motel’s parking area, so take them out before advancing to the next part of the mission. Pick up ammo off the bodies of the enemies that you manage to take down.\nWork your way across the motel grounds towards the cafe , which is located on the side of the building. Your objective is to regroup with Lucia, who is waiting inside.\nOnce Jason reaches Lucia, control switches to her. More attackers arrive, and you’ll need to defend the couple from inside the motel cafeteria. Take cover behind the breakfast bar, but pay attention to the fact that enemies can shoot you from multiple windows, which makes it a pretty difficult section.\nUse any painkillers or adrenaline you have. Keep shooting until the main bad guys have been killed which will give Jason and Lucia have an opportunity to escape for good.\n3. Shoot the biker and regroup with Jason\nOnce Jason and Lucia reaches the road, Jason steals a nearby car while Lucia is confronted by an approaching biker. The game will automatically start Focus Mode. Shoot the biker before he reaches you, then take his sanchez. While Jason drives the escap",
-    "extra": {}
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "🗺 Гайд: Как пройти миссию «Checking Out»\n\nПодготовьтесь к финальному эпизоду Chapter 2 — берите shotgun в Starlet Motel и делайте мануальный сейв, иначе потом будет тильт. Выстрелите всех охранников, зайдите в кафешку, держитесь за бар, потом врежьте в biker и ускользните на машине. Лутайте патроны с трупов, не забудьте адреналин, иначе будет кринж.\n\n❤️ — Пошарю совет, если застрял\n👎 — Не нужен гайд, уже всё знал",
-    "card_title": "ПРОХОД МИССИИ CHECKING OUT",
-    "reason": "Подтверждённый гайд от VGC, важный для прохождения финального чаптера",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": true,
-    "model": "groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-21T06:06:17.013806+00:00",
+   "queued_at": "2026-11-21T06:04:45.202368+00:00",
    "moderation": "pending",
-   "draft_msg_id": 54
+   "draft_msg_id": 55
   },
   {
    "item": {
@@ -7004,7 +7025,7 @@
   "2026-11-21T07:11:39.823252+00:00",
   "2026-11-21T12:43:49.466903+00:00"
  ],
- "tg_offset": 387129016,
+ "tg_offset": 387129017,
  "channel": {
   "id": -1003986639147,
   "title": "GTA 6 | Горячие новости",
@@ -7020,7 +7041,8 @@
   "2026-11-21T06:06:24.327667+00:00",
   "2026-11-21T07:06:43.822657+00:00",
   "2026-11-21T12:43:24.029271+00:00",
-  "2026-11-21T13:44:00.770871+00:00"
+  "2026-11-21T13:44:00.770871+00:00",
+  "2026-11-21T14:44:42.291779+00:00"
  ],
  "slots_sent": {
   "2026-11-19:вечер": "2026-11-19T16:00:06.530557+00:00"
@@ -9520,6 +9542,78 @@
    "title": "КИК ФЛИП",
    "drafted": false,
    "ts": "2026-11-21T14:10:28.951122+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:lacy",
+   "vod": "2935059680",
+   "offset": 553.0,
+   "title": "Lacy got impressed",
+   "drafted": false,
+   "ts": "2026-11-21T14:23:20.501062+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:buster",
+   "vod": "2934878423",
+   "offset": 7706.0,
+   "title": "д",
+   "drafted": false,
+   "ts": "2026-11-21T14:23:20.938937+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:ohnepixel",
+   "vod": "2934862154",
+   "offset": 11680.0,
+   "title": "?????",
+   "drafted": false,
+   "ts": "2026-11-21T14:23:21.453186+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:joe_bartolozzi",
+   "vod": "2935101396",
+   "offset": 9059.0,
+   "title": "Joe gets Gator Jumpscared",
+   "drafted": false,
+   "ts": "2026-11-21T14:23:21.832055+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:skywhywalker",
+   "vod": "2934808223",
+   "offset": 14856.0,
+   "title": "завоз",
+   "drafted": false,
+   "ts": "2026-11-21T14:24:12.719017+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:atrioc",
+   "vod": "2935648632",
+   "offset": 16528.0,
+   "title": "cat lul",
+   "drafted": false,
+   "ts": "2026-11-21T14:38:47.541168+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:lacy",
+   "vod": "2935059680",
+   "offset": 12328.0,
+   "title": ".....",
+   "drafted": false,
+   "ts": "2026-11-21T14:38:48.176882+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:ohnepixel",
+   "vod": "2934862154",
+   "offset": 9362.0,
+   "title": "new chapter begins",
+   "drafted": false,
+   "ts": "2026-11-21T14:38:48.527640+00:00",
    "frames": []
   }
  ],
