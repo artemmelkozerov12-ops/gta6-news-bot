@@ -209,7 +209,7 @@ def _fresh(q: dict, hours: float) -> bool:
 
 def _rank(q: dict):
     """Лучший черновик: важность (гайдам +1 — их сохраняют и пересылают), надёжность источника, свежесть."""
-    imp = q["verdict"]["importance"] + (1 if q["verdict"].get("guide") else 0)
+    imp = q["verdict"]["importance"] - (1 if q["verdict"].get("guide") else 0)  # при равенстве — новость важнее гайда
     return (-imp, TRUST_ORDER.get(q["item"]["trust"], 9), q["item"]["published"])
 
 
@@ -244,12 +244,18 @@ def send_drafts(http: Http, state: State, cfg: dict) -> None:
         last = max(state.drafts) if state.drafts else ""
         if last and utcnow() - datetime.fromisoformat(last) < timedelta(minutes=float(sched["every_minutes"])):
             return
-        best = [q for q in waiting if _fresh(q, float(m.get("guide_max_age_hours", 24) if q["verdict"].get("guide")
-                                                     else m.get("max_age_hours", 8)))
-                and q["verdict"]["importance"] >= int(m.get("min_importance", 7)) - (1 if q["verdict"].get("guide") else 0)]
+        day = f"{_local_now(cfg):%Y-%m-%d}:guide"
+        guides_today = sum(1 for k in state.slots_sent if k.startswith(day))
+        guides_ok = guides_today < int(m.get("guides_per_day", 2))  # гайдов 1–2 в день, остальное — новости
+        best = [q for q in waiting if (guides_ok or not q["verdict"].get("guide"))
+                and _fresh(q, float(m.get("guide_max_age_hours", 24) if q["verdict"].get("guide")
+                                    else m.get("max_age_hours", 8)))
+                and q["verdict"]["importance"] >= int(m.get("min_importance", 7))]
         if best:
             q = min(best, key=_rank)
-            _send(http, state, cfg, q, "🗺 <b>Гайд</b>" if q["verdict"].get("guide") else "📰 <b>Новость</b>")
+            guide = bool(q["verdict"].get("guide"))
+            if _send(http, state, cfg, q, "🗺 <b>Гайд</b>" if guide else "📰 <b>Новость</b>") and guide:
+                state.slots_sent[f"{day}:{guides_today + 1}"] = utcnow().isoformat()
         return
 
     # 2) слот расписания (старый режим, если schedule не задан)
@@ -278,7 +284,7 @@ def _send(http: Http, state: State, cfg: dict, q: dict, label: str) -> bool:
         {"text": "❌ Пропустить", "callback_data": f"no:{key}"},
     ]]}
     try:
-        png = card_png(v.card_title, "guide" if v.guide else v.type, cfg, seed=int(key, 16) % 10_000, trust=it.trust)
+        png = card_png(v.card_title, "guide" if v.guide else v.type, cfg, seed=int(key, 16) % 10_000, trust=it.trust, image_url=it.extra.get("image", ""))
         msg = _api(http, "sendPhoto", files={"photo": ("card.png", png, "image/png")},
                    chat_id=admin_id(), caption=caption, parse_mode="HTML",
                    reply_markup=json.dumps(markup))

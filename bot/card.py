@@ -215,10 +215,98 @@ def render_from_template(card_title: str, path: Path, cfg: dict) -> Image.Image:
     return img.convert("RGB")
 
 
-def card_png(card_title: str, kind: str, cfg: dict, seed: int = 0, trust: str = "") -> bytes:
+PHOTO_BADGES = {  # плашка на карточке из фото: текст, цвет сверху, цвет снизу
+    "confirmed": ("ПОДТВЕРЖДЕНО", (43, 224, 127), (17, 154, 82)),
+    "rumor": ("СЛУХ", (255, 154, 60), (232, 89, 12)),
+    "official": ("ОФИЦИАЛЬНО", (255, 217, 90), (212, 155, 9)),
+    "guide": ("ГАЙД", (160, 107, 255), (109, 40, 217)),
+}
+
+
+def fetch_photo(url: str) -> Image.Image | None:
+    """Скачать обложку статьи. None — нет, маленькая или не картинка (тогда фирменная заставка)."""
+    if not url:
+        return None
+    try:
+        import httpx
+
+        r = httpx.get(url, timeout=20, follow_redirects=True, headers={"User-Agent": "Mozilla/5.0 gta6-news-bot"})
+        if r.status_code != 200 or len(r.content) > 12_000_000:
+            return None
+        img = Image.open(io.BytesIO(r.content)).convert("RGB")
+        return img if img.width >= 600 and img.height >= 320 else None
+    except Exception:
+        return None
+
+
+def _trim_borders(img: Image.Image) -> Image.Image:
+    """Срезать однотонные поля (чёрные/белые полосы), если они есть."""
+    from PIL import ImageChops
+
+    bg = Image.new("RGB", img.size, img.getpixel((0, 0)))
+    diff = ImageChops.add(ImageChops.difference(img, bg), ImageChops.difference(img, bg), 2.0, -24)
+    box = diff.getbbox()
+    if box and (box[2] - box[0]) * (box[3] - box[1]) >= 0.5 * img.width * img.height:
+        return img.crop(box)
+    return img
+
+
+def render_from_photo(card_title: str, photo: Image.Image, kind: str, trust: str, cfg: dict) -> Image.Image:
+    """Обложка статьи: обрезка под 16:9 (без полей, чуть выше центра — не режем лица) + плашка + заголовок."""
+    w, h = cfg["card"]["width"], cfg["card"]["height"]
+    img = ImageOps.fit(_trim_borders(photo), (w, h), Image.LANCZOS, centering=(0.5, 0.38))
+    img = _bottom_shade(img).convert("RGBA")
+    low = Image.new("L", (1, h))  # у фото свой текст и детали внизу — под заголовком темнее, чем на заставках
+    for y in range(h):
+        low.putpixel((0, y), int(175 * min(1.0, max(0.0, (y - h * 0.5) / (h * 0.32)))))
+    img = Image.composite(Image.new("RGBA", (w, h), (0, 0, 0, 255)), img, low.resize((w, h)))
+    top = Image.new("L", (1, h))  # лёгкое затемнение сверху — плашку видно на любом фото
+    for y in range(h):
+        top.putpixel((0, y), int(150 * max(0.0, 1 - y / (h * 0.3))))
+    img = Image.composite(Image.new("RGBA", (w, h), (0, 0, 0, 255)), img, top.resize((w, h)))
+    label, c1, c2 = PHOTO_BADGES[template_name(kind, trust)]
+    font = _font(cfg["card"]["ui_font"], 32, "Black")
+    d = ImageDraw.Draw(img)
+    tw = int(d.textlength(label, font=font)) + 3 * len(label)
+    bw, bh, x, y = tw + 56, 68, 48, 40
+    sh = Image.new("RGBA", img.size, (0, 0, 0, 0))
+    ImageDraw.Draw(sh).rounded_rectangle((x, y + 8, x + bw, y + bh + 8), 20, fill=(0, 0, 0, 150))
+    img.alpha_composite(sh.filter(ImageFilter.GaussianBlur(8)))
+    grad = Image.new("RGBA", (bw, bh))
+    for yy in range(bh):
+        t = yy / (bh - 1)
+        ImageDraw.Draw(grad).line((0, yy, bw, yy), fill=tuple(int(c1[k] + (c2[k] - c1[k]) * t) for k in range(3)) + (255,))
+    mask = Image.new("L", (bw, bh), 0)
+    ImageDraw.Draw(mask).rounded_rectangle((0, 0, bw - 1, bh - 1), 20, fill=255)
+    img.paste(grad, (x, y), mask)
+    d = ImageDraw.Draw(img)
+    d.rounded_rectangle((x, y, x + bw, y + bh), 20, outline=(255, 255, 255, 140), width=2)
+    cx = x + 28
+    for ch in label:
+        d.text((cx, y + bh / 2), ch, font=font, fill="white", anchor="lm")
+        cx += d.textlength(ch, font=font) + 3
+    d.rounded_rectangle((64, 664, 174, 670), radius=3, fill=c1 + (255,))
+    d.text((1216, 668), cfg["channel"]["handle"], font=_font(cfg["card"]["ui_font"], 26, "Bold"),
+           fill=(255, 255, 255, 210), anchor="rm")
+    buf = io.BytesIO()
+    img.convert("RGB").save(buf, "PNG")
+    buf.seek(0)
+    return render_from_template(card_title, buf, cfg)  # заголовок — тем же шрифтом и в той же зоне, что и на заставках
+
+
+def card_png(card_title: str, kind: str, cfg: dict, seed: int = 0, trust: str = "", image_url: str = "") -> bytes:
     tpl = cfg["card"].get("template")
     path = ROOT / tpl["dir"] / f"{template_name(kind, trust)}.png" if tpl else None
-    img = render_from_template(card_title, path, cfg) if path and path.exists() else render_card(card_title, kind, cfg, seed)
+    img = None
+    if image_url and cfg["card"].get("use_article_photo", True):
+        photo = fetch_photo(image_url)
+        if photo is not None:
+            try:
+                img = render_from_photo(card_title, photo, kind, trust, cfg)
+            except Exception:
+                img = None
+    if img is None:
+        img = render_from_template(card_title, path, cfg) if path and path.exists() else render_card(card_title, kind, cfg, seed)
     buf = io.BytesIO()
     img.save(buf, "PNG", optimize=True)
     return buf.getvalue()

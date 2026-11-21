@@ -79,7 +79,7 @@ class _ParagraphParser(HTMLParser):
         a = dict(attrs)
         if tag == "meta":
             key = (a.get("property") or a.get("name") or "").lower()
-            if key in ("og:description", "description", "og:site_name") and a.get("content"):
+            if key in ("og:description", "description", "og:site_name", "og:image", "twitter:image") and a.get("content"):
                 self.meta.setdefault(key, a["content"])
         if tag in self.SKIP:
             self._skip_depth += 1
@@ -127,6 +127,9 @@ def fetch_article_text(http: Http, item: Item, max_chars: int) -> str:
         text = "\n".join(blocks).strip()
         if len(text) < len(fallback):
             text = p.meta.get("og:description") or p.meta.get("description") or fallback
+        img = p.meta.get("og:image") or p.meta.get("twitter:image")
+        if img and not item.extra.get("image") and img.startswith("http"):
+            item.extra["image"] = img  # обложка статьи — для карточки
         return text[:max_chars]
     except Exception as e:
         log(f"   текст статьи не скачался ({type(e).__name__}), беру описание из RSS")
@@ -140,6 +143,24 @@ def _entry_time(e) -> datetime | None:
         if t:
             return datetime.fromtimestamp(calendar.timegm(t), tz=timezone.utc)
     return None
+
+
+def _entry_image(e) -> str:
+    """Картинка записи RSS: media:content / media:thumbnail / enclosure / первая <img> в описании."""
+    for m in (e.get("media_content") or []):
+        if m.get("url") and (m.get("medium") == "image" or "image" in (m.get("type") or "") or not m.get("type")):
+            return m["url"]
+    for m in (e.get("media_thumbnail") or []):
+        if m.get("url"):
+            return m["url"]
+    for enc in (e.get("enclosures") or []):
+        if "image" in (enc.get("type") or "") and enc.get("href"):
+            return enc["href"]
+    raw = e.get("summary", "") or ""
+    if e.get("content"):
+        raw += e["content"][0].get("value", "")
+    m = re.search(r'<img[^>]+src="(https?://[^"]+)"', raw)
+    return m.group(1) if m else ""
 
 
 def parse_feed(content: bytes, src: dict) -> list[Item]:
@@ -165,9 +186,11 @@ def parse_feed(content: bytes, src: dict) -> list[Item]:
         if not summary and e.get("content"):
             summary = strip_html(e["content"][0].get("value", ""))
         when = _entry_time(e) or utcnow()
+        image = _entry_image(e)
         items.append(Item(
             title=title, link=link, summary=summary[:3000], published=when.isoformat(),
             source=src["name"], site_name=site_name, trust=src["trust"],
+            extra={"image": image} if image else {},
         ))
     return items
 

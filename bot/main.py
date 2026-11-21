@@ -291,7 +291,7 @@ def publish_ready(http: Http, state: State, cfg: dict, moderated: bool) -> int:
             return posted
         it, v = Item.from_dict(q["item"]), Verdict.from_dict(q["verdict"])
         try:
-            png = card_png(v.card_title, "guide" if v.guide else v.type, cfg, seed=int(url_key(it.link), 16) % 10_000, trust=it.trust)
+            png = card_png(v.card_title, "guide" if v.guide else v.type, cfg, seed=int(url_key(it.link), 16) % 10_000, trust=it.trust, image_url=it.extra.get("image", ""))
             msg_id = send_photo(http, png, build_caption(it, v), chat_id=chat)
         except Exception as e:
             err = str(e).lower()
@@ -392,7 +392,7 @@ def write_clips_preview(cfg: dict, state: State, llm: LLM, pool: list) -> None:
 
 
 def _dump(cfg: dict, folder, prefix: str, it: Item, v: Verdict, label: str) -> dict:
-    png = card_png(v.card_title, "guide" if v.guide else v.type, cfg, seed=int(url_key(it.link), 16) % 10_000, trust=it.trust)
+    png = card_png(v.card_title, "guide" if v.guide else v.type, cfg, seed=int(url_key(it.link), 16) % 10_000, trust=it.trust, image_url=it.extra.get("image", ""))
     (folder / f"{prefix}.png").write_bytes(png)
     caption = build_caption(it, v)
     meta = {"type": v.type, "importance": v.importance, "reason": v.reason, "card_title": v.card_title,
