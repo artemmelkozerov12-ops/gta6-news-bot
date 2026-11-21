@@ -1735,7 +1735,41 @@
   "b603482fa50d5299": "2026-11-21T21:17:40.628481+00:00",
   "a5db0601b48deade": "2026-11-21T21:17:42.500143+00:00",
   "da4b1dd5e67bfb0d": "2026-11-21T21:17:43.949257+00:00",
-  "07cbd57b485ab39a": "2026-11-21T21:17:45.622304+00:00"
+  "07cbd57b485ab39a": "2026-11-21T21:17:45.622304+00:00",
+  "3dd24ee4f994188b": "2026-11-21T21:33:50.728803+00:00",
+  "b0e39d455fc76473": "2026-11-21T21:33:54.540550+00:00",
+  "245d9e82dad3a38b": "2026-11-21T21:33:59.218942+00:00",
+  "2b7fda839b25ee87": "2026-11-21T21:34:01.648479+00:00",
+  "e8bf8b9185bcf950": "2026-11-21T21:34:03.566339+00:00",
+  "679407060702ed80": "2026-11-21T21:34:06.301690+00:00",
+  "3a97722d797d0413": "2026-11-21T21:34:07.995663+00:00",
+  "0693c93d02cfc369": "2026-11-21T21:34:09.367981+00:00",
+  "c43e4e1a4cc80087": "2026-11-21T21:34:12.029497+00:00",
+  "c669bd2675d44d2e": "2026-11-21T21:34:12.889833+00:00",
+  "17c666884b5b3373": "2026-11-21T21:34:13.665786+00:00",
+  "076f3b67722acb20": "2026-11-21T21:34:14.623703+00:00",
+  "c85ca2ecf290f064": "2026-11-21T21:35:05.914268+00:00",
+  "b2ab3db3a5d86f82": "2026-11-21T21:35:06.705700+00:00",
+  "a79c62d8300722b1": "2026-11-21T21:35:07.529756+00:00",
+  "75738e07ab749c32": "2026-11-21T21:35:08.235500+00:00",
+  "62e2c85442a0c079": "2026-11-21T21:36:01.507310+00:00",
+  "a833dbe982c10d93": "2026-11-21T21:36:02.420801+00:00",
+  "0fdf7726e413a559": "2026-11-21T21:36:03.327619+00:00",
+  "4a6a6a6936d4b234": "2026-11-21T21:36:04.267052+00:00",
+  "73ea05ddf8b9cc49": "2026-11-21T21:36:55.149765+00:00",
+  "6d3ae59bfbe78eb0": "2026-11-21T21:36:56.077478+00:00",
+  "16772cba78a4a019": "2026-11-21T21:36:56.931706+00:00",
+  "563c4ac67ff6b4c0": "2026-11-21T21:37:07.089107+00:00",
+  "512a3578d2b62e2e": "2026-11-21T21:38:13.836202+00:00",
+  "2dbc4a743c2d9e66": "2026-11-21T21:49:28.697810+00:00",
+  "9606fecf6737e345": "2026-11-21T21:49:31.915706+00:00",
+  "2624fcc213ac54b5": "2026-11-21T21:49:35.669237+00:00",
+  "cb630830e1d23540": "2026-11-21T21:49:38.626353+00:00",
+  "2dc1f9dbbae608eb": "2026-11-21T21:49:40.560499+00:00",
+  "ae91ac6a8f43ea47": "2026-11-21T21:49:42.413954+00:00",
+  "a276e0f5ab5ba555": "2026-11-21T21:49:44.029780+00:00",
+  "a37972e8492b4e5a": "2026-11-21T21:49:45.590171+00:00",
+  "a19295d71ca80d79": "2026-11-21T21:49:47.608453+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -2885,7 +2919,24 @@
   "ef471673c198b69b": "2026-11-21T21:17:40.628481+00:00",
   "01978ae317622eb2": "2026-11-21T21:17:42.500143+00:00",
   "c8c47c570499b417": "2026-11-21T21:17:43.949257+00:00",
-  "2862cb4a62fdb461": "2026-11-21T21:17:45.622304+00:00"
+  "2862cb4a62fdb461": "2026-11-21T21:17:45.622304+00:00",
+  "b8c5ad557fc2f53e": "2026-11-21T21:33:50.728803+00:00",
+  "34b217d2716344a5": "2026-11-21T21:33:54.540550+00:00",
+  "cbfc224c128b58b0": "2026-11-21T21:33:59.218942+00:00",
+  "b15e5dc6db646417": "2026-11-21T21:34:01.648479+00:00",
+  "b97a1e7a2855406f": "2026-11-21T21:34:03.566339+00:00",
+  "682e226dbbe17e66": "2026-11-21T21:34:06.301690+00:00",
+  "5e90c2b1474d4cee": "2026-11-21T21:34:07.995663+00:00",
+  "11ac35307b49eead": "2026-11-21T21:34:09.367981+00:00",
+  "c57edb01e31f4087": "2026-11-21T21:49:28.697810+00:00",
+  "2da182f94aafd22b": "2026-11-21T21:49:31.915706+00:00",
+  "0f0c2e0322dfc9d8": "2026-11-21T21:49:35.669237+00:00",
+  "d82511060ea1981f": "2026-11-21T21:49:38.626353+00:00",
+  "05ef625d699b918e": "2026-11-21T21:49:40.560499+00:00",
+  "25b813271db7abb2": "2026-11-21T21:49:42.413954+00:00",
+  "965d10fe429adb45": "2026-11-21T21:49:44.029780+00:00",
+  "8213fb1ee5d0cd57": "2026-11-21T21:49:45.590171+00:00",
+  "e11c0a84db6f90f1": "2026-11-21T21:49:47.608453+00:00"
  },
  "recent": [
   {
@@ -7108,7 +7159,7 @@
    "title": "GTA 6 first-day sales of $3.8B is largest entertainment launch ever",
    "source": "Google News (EN)",
    "trust": "rumor",
-   "status": "queued",
+   "status": "published",
    "ts": "2026-11-21T20:14:11.902585+00:00",
    "card_title": "GTA 6 УСТАНОВИЛА АБСОЛЮТНЫЙ РЕКОРД"
   },
@@ -7391,6 +7442,142 @@
    "status": "skipped",
    "ts": "2026-11-21T21:17:45.622428+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GTA 6 Moses Vehicle Theft Guide: All Five Cars and Where to Find Them",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-21T21:33:52.134167+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Dunk Robbery Guide: Lost Vista Pills and Scattered Pines Crystal",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "queued",
+   "ts": "2026-11-21T21:33:56.304398+00:00",
+   "card_title": "ГАЙД: ОГРАБЛЕНИЯ У ДАНКА"
+  },
+  {
+   "title": "'GTA VI' finally reveals the actors, voices and familiar names behind Vice City",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T21:33:59.219060+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Grand Theft Auto VI mania could endanger marriages as relationship coach exposes red flag",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T21:34:01.648600+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6: 600 000 анимаций и уникальный дизайн для каждого NPC",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T21:34:03.566465+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI Sales Just Blew GTA V Sales Out of the Water",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T21:34:06.301806+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Electric cars are finally mainstream in GTA 6, and Vice City is full of them",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T21:34:07.995781+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Your teen wants to play 'GTA 6'. Here's what to know.",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T21:34:09.368098+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Players Report Crashes on PS5 With Error CE-108255-1",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-21T21:49:28.697849+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Where to find the giant crab safe code and Crabshack VF5 SMG in GTA 6",
+   "source": "Polygon",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-21T21:49:33.390588+00:00",
+   "card_title": "КАК ПОЛУЧИТЬ КРАБОВЫЙ ПУЛЕМЕТ"
+  },
+  {
+   "title": "Comcast: \"At peak, GTA6 accounted for nearly a quarter of all internet traffic\"",
+   "source": "PC Gamer",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-21T21:49:36.497314+00:00",
+   "card_title": "GTA 6 ПОЛОЖИЛА ИНТЕРНЕТ"
+  },
+  {
+   "title": "5 PS5 settings tweaks every GTA 6 player needs to make",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T21:49:38.626484+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Hunger Games Secret Event",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T21:49:40.560615+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Officially Confirms Satoru Gojo Actor in the Game After Wild Reveal",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T21:49:42.414079+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Пользователи далеко не в восторге от GTA VI — на Metacritic они оценили игру в 5,6 балла из 10",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T21:49:44.029901+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Как купить GTA 6 в России в 2026 году на PS5 и Xbox",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T21:49:45.590292+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Rockstar ввела подписку в GTA 6 – можно получить машину и бесплатный проезд на общественном транспорте в игре",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T21:49:47.608576+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -7480,6 +7667,64 @@
     "model": "gemini:gemini-3.1-flash-lite"
    },
    "queued_at": "2026-11-21T20:46:17.042981+00:00"
+  },
+  {
+   "item": {
+    "title": "Where to find the giant crab safe code and Crabshack VF5 SMG in GTA 6",
+    "link": "https://www.polygon.com/gta-6-giant-crab-safe-code-crabshack-vf5-smg-how-to-get-pelican-valley-outpost/",
+    "summary": "GTA 6's giant crab event takes you through Pelican Valley Outpost and rewards you with the Crabshack VF5 SMG standout weapon.",
+    "published": "2026-11-21T21:48:35+00:00",
+    "source": "Polygon",
+    "site_name": "Polygon",
+    "trust": "high",
+    "text": "Grand Theft Auto 6 has a giant crab haunting the swamps and, more importantly, the Crabshack VF5 SMG, a crab-themed gun, to help your future career prospects. It's all part of an optional event called Pelican Valley Outpost that sees you pick up the pieces of some questionable experiments carried out on behalf of a store chain. It's worth the trouble, even aside from the standout weapon. There's some cash to help reach your next family fund milestone and a free jet ski, too. Best of all, this little excursion is completely safe, assuming you don't run afoul of the local gator population.\nBelow, we show you where to find the giant crab in GTA 6 so you can clear the Pelican Valley Outpost and get the Crabshack VF5 SMG.\nWhere to find the giant crab safe code in GTA 6\nPelican Valley Outpost, where the giant crab research facility is, has several codes you need to find on your way to getting the standout weapon. You'll find it on a medium-sized island southwest of the \"Pelican Valley\" name label on the map. Once you remove the fog from the region map, you can see it's one of the only islands in the area with buildings on it.\nTake Jason's boat from his house, and set out. Definitely don't swim here, even if you're already nearby. There are too many gators for this to be a safe option. You can dock your boat at the boathouse and follow the jetty to the research facility proper. The boathouse is locked, but you'll get inside before leaving.\nYou'll see several buildings in the compound, but if you venture inside the first shack, you'll notice the power is off. You can still explore it, though you can't access the researcher's computer, which is essential for clearing the outpost. Head outside and around the back of the building near the blue crab cages. Interact with the breaker box to turn the power on, and head back inside. Ignore the computer for now, and take a right. There's a bag of chips in the kitchen if you want Jason to pack on some calories, and the login password for the computer is in the small bedroom opposite the kitchen. Investigate the small piece of wood on the floor to see all the choices, with \"CLEAVES\" being the most recent.\nInteract with the computer, and press left on the direction pad to enter CLEAVES. You can skim through a few tabs of information on-screen, but the important one is the note in the green cell that says \"Safe code = Double Success.\" Leave when you're finished.\nKarkinos, the giant crab from the report, will jump you in a shor",
+    "extra": {
+     "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/gta-6-giant-crab-crabshack-smg.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "🗺 Гайд: забираем имбовый пулемет Crabshack VF5\n\nХочешь сочную пушку? Го на остров юго-западнее Pelican Valley. Там база с гигантским крабом, где можно лутануть этот ствол. \n\n1. Плыви на лодке (не вздумай вплавь — сожрут крокодилы).\n2. Включай питание на щитке за домиком с синими клетками.\n3. Внутри в спальне найди код «CLEAVES» и вбей его в комп.\n4. Забирай код от сейфа из записки «Double Success» и выживай в катке с крабом.\n\nБонусом отсыпят кэша и бесплатный гидроцикл. Топчик для старта!\n\n❤️ — Уже лечу за пушкой\n👎 — Слишком много возни",
+    "card_title": "КАК ПОЛУЧИТЬ КРАБОВЫЙ ПУЛЕМЕТ",
+    "reason": "Гайд по получению уникального оружия и секретного контента в игре.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": true,
+    "model": "gemini:gemini-3.1-flash-lite"
+   },
+   "queued_at": "2026-11-21T21:49:33.390579+00:00"
+  },
+  {
+   "item": {
+    "title": "Comcast: \"At peak, GTA6 accounted for nearly a quarter of all internet traffic\"",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/comcast-at-peak-gta6-accounted-for-nearly-a-quarter-of-all-internet-traffic/",
+    "summary": "November 19 marked the highest-traffic day in the ISP's history.",
+    "published": "2026-11-21T21:42:29+00:00",
+    "source": "PC Gamer",
+    "site_name": "PC Gamer",
+    "trust": "high",
+    "text": "In a post to X, \"The Everything App,\" US entertainment and communications conglomerate Comcast revealed that Grand Theft Auto 6's historic launch drove record-breaking internet traffic. According to Comcast, only a quarter of \"the entire internet\" was downloading Rockstar's latest cozy game phenomenon.\n\"GTA 6 didn't just break records in gaming,\" Comcast wrote. \"Its launch drove the biggest internet traffic day in our network history, with traffic climbing 31% above an average day. At peak, GTA 6 accounted for nearly a quarter of all network traffic.\"\nComcast shared a video of a line graph showing the massive relative spike in activity on November 19. The chart is unlabeled except for the date, but it presumably corresponds to the volume of data being downloaded across Comcast's entire network.\nAnd that last but does add a caveat to the numbers Comcast cited: Its network and \"the entire internet\" are two different things, unless I'm missing something here or Comcast's data accounts for other ISPs and other countries, not just its own services.\nRegardless, it's still a significant bit of fun with statistics, another example of the totalizing footprint of what may be the largest commercial launch in entertainment history. Imagine how much bigger it would have been launching on PC as well.\nDespite our remit, we've been going hard to the paint in our coverage of GTA 6⁠—I mean, it'll come our way eventually, right? Check out our hub for guides, news, and opinions, as well as senior editor Chris Livingston's not-review after 100 hours.\nGTA 6 guide: One-stop info shopGTA 6 guns: The best weapons and loadoutsGTA 6 cars: The fastest and flashestCriminal profiles: GTA 6's honor systemHow to steal cars: All the ways to boost a ride\nKeep up to date with the most important stories and the best deals, as picked by the PC Gamer team.\nTed has been thinking about PC games and bothering anyone who would listen with his thoughts on them ever since he booted up his sister's copy of Neverwinter Nights on the family computer. He is obsessed with all things CRPG and CRPG-adjacent, but has also covered esports, modding, and rare game collecting. When he's not playing or writing about games, you can find Ted lifting weights on his back porch. You can follow Ted on Bluesky.\nYou must confirm your public display name before commenting\nPlease logout and then login again, you will then be prompted to enter your display name.\n1 The best VPN for gaming in 2026: These privacy-protecting v",
+    "extra": {
+     "image": "https://cdn.mos.cms.futurecdn.net/e3fPzBmapimeiWj59SBAiQ-1920-80.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "GTA 6 ПОЛОЖИЛА ИНТЕРНЕТ\n\nЧел, это просто разнос! В день релиза трафик сети Comcast взлетел на 31%, а в пике игра забирала почти четверть всего сетевого трафика. Rockstar реально создали лютую базу, которая заставила интернет потеть по полной. А ведь это только консоли, прикинь, что будет на релизе для ПК?\n\n❤️ — Ору с этих цифр\n👎 — Мой провайдер тоже в шоке",
+    "card_title": "GTA 6 ПОЛОЖИЛА ИНТЕРНЕТ",
+    "reason": "Официальная статистика от крупного провайдера о влиянии релиза игры на мировой интернет-трафик.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.1-flash-lite"
+   },
+   "queued_at": "2026-11-21T21:49:36.497304+00:00"
   },
   {
    "item": {
@@ -8138,33 +8383,32 @@
   },
   {
    "item": {
-    "title": "GTA 6 first-day sales of $3.8B is largest entertainment launch ever",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNR0Y4MHlLTUhVOWhhanlna2d6cGFJaTY3YlVmQ0FRSWVTTVE0UXNNdXN6R2gybWJIVk5nQ3VGOXB5UkQxUzhXQjZraDk3SHJkWktBNzNFOFo4WmpOaG1PQnpRS1M0c1E5NjRDYmNrdFNLSW5qWlNfRnFPV1FqdlVZcTV3b0NPRDFIWWFjUUgtX1ZxTU5kUXdzSkU5bw?oc=5",
-    "summary": "GTA 6 first-day sales of $3.8B is largest entertainment launch ever USA Today",
-    "published": "2026-11-21T19:59:00+00:00",
-    "source": "Google News (EN)",
-    "site_name": "USA Today",
-    "trust": "rumor",
-    "text": "GTA 6 first-day sales of $3.8B is largest entertainment launch ever USA Today",
-    "extra": {}
+    "title": "GTA 6 Dunk Robbery Guide: Lost Vista Pills and Scattered Pines Crystal",
+    "link": "https://www.gtaboom.com/gta-6-dunk-robbery-guide-ce47",
+    "summary": "Finish Slam Dunk to get Dunk's two robbery tips, then find the pills at Lost Vista and the crystal at Scattered Pines.",
+    "published": "2026-11-21T21:26:48+00:00",
+    "source": "GTA BOOM",
+    "site_name": "GTA BOOM",
+    "trust": "medium",
+    "text": "Dunk's robbery tips in GTA 6 mark two trailer parks, but they don't tell you which trailer to search. Both stashes are inside, and you can avoid most of the guards by coming around the back. We cleared Lost Vista without taking down a guard. At Scattered Pines, the back route put us behind the guard at the white trailer.\nFinish Slam Dunk, then check Dunk's messages or look under Dunk's Robbery Tips on the map. Lost Vista is the pill job; Scattered Pines is the crystal job. Dunk's Trailer is the buyer marker, not a third stash. The two jobs below are separate from the car wash confrontation in Girls' Trip.\nLost Vista: Find the pills in the green-and-white trailer\nSet a waypoint on Lost Vista. Go around the main entrance and approach from the muddy ground behind the trailers. Use the green trailer as your landmark, then crouch around it toward the green-and-white trailer beside it. Stay close to the trailers so you don't have to cross the main lane in front of the group.\nGo inside the green-and-white trailer. Pick up two bags of pills from the table in the front room, then go through to the bedroom for the other two. When the objective changes to Leave the area, double back out the way you came in. We got the Non-Lethal result by leaving without engaging the guards.\nScattered Pines: Check the broken fridge and the back room\nSelect Scattered Pines on the map, south of Lost Vista. The target is the white trailer in the corner of the court. Instead of walking through the middle past the guards, go around the outside and climb the stacked wooden pallets next to the blue fence. Drop down behind the trailer by the lit steps.\nWatch the guard at the back before you climb the steps. In our run, we approached him from behind while crouched and used the takedown prompt. Bring a suppressed weapon if you have one. If the second guard comes out of the trailer, deal with him at the back steps rather than trading shots across the court.\nCheck the broken fridge in the front part of the trailer for crystal. Then go through to the last room, where more bags sit by the old TV and on the side table by the sofa. You can ignore the wallet. Once the objective says Leave the area, return over the fence and keep going until you're outside the search area.\nLeaving the search area finishes the job. You don't have to go straight to Dunk after each robbery. If you want to cash out, head to Dunk's Trailer and check his offer before selling.\nGTA 6 Moses Vehicle Theft Guide: All Five Cars a",
+    "extra": {
+     "image": "https://media.gtaboom.com/variants/1920/media/images/88/0d/dunk-lost-vista-approach-df2c06d461309741.jpg"
+    }
    },
    "verdict": {
     "type": "confirmed",
-    "importance": 9,
-    "post": "GTA 6: РАЗНОС ПРОДАЖ\n\nИгра собрала 3,8 миллиарда долларов за первые сутки. Это просто лютый успех и самый мощный запуск в истории индустрии развлечений. База! 🚀💰\n\n❤️ — Ждем теперь триллионы\n👎 — А онлайн когда завезут?",
-    "card_title": "GTA 6 УСТАНОВИЛА АБСОЛЮТНЫЙ РЕКОРД",
-    "reason": "Официальные данные о рекордных продажах игры в день релиза",
+    "importance": 6,
+    "post": "🗺 Гайд: Ограбления у Данка\n\nЗастрял на миссиях с таблетками и кристаллами? Лови лайфхак: в Lost Vista и Scattered Pines можно залутать всё по стелсу.\n\n1. Lost Vista: обходи трейлеры с тыла по грязи. В зелено-белом трейлере ищи таблетки на столе и в спальне. Уйти можно тихо, не агря охрану.\n2. Scattered Pines: лезь через забор по паллетам. Кристаллы лежат в сломанном холодильнике и дальней комнате. \n\nВсё, ты имба. Го лутать кэш! ❤️ — Полезно, затестим! 👎 — Слишком душно.",
+    "card_title": "ГАЙД: ОГРАБЛЕНИЯ У ДАНКА",
+    "reason": "Гайд по прохождению миссий с ограблениями в GTA 6.",
     "duplicate": false,
     "corroborated": false,
-    "duplicate_of": "В первый день продаж GTA VI заработала почти 4 млрд долларов, обогнав самый кассовый фильм в истории",
-    "corroborated_by": "В первый день продаж GTA VI заработала почти 4 млрд долларов, обогнав самый кассовый фильм в истории",
-    "guide": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": true,
     "model": "gemini:gemini-3.1-flash-lite"
    },
-   "queued_at": "2026-11-21T20:14:11.902575+00:00",
-   "moderation": "approved",
-   "draft_msg_id": 65,
-   "waiting_logged": true
+   "queued_at": "2026-11-21T21:33:56.304388+00:00"
   },
   {
    "item": {
@@ -8263,9 +8507,11 @@
   "2026-11-21T18:00:47.582860+00:00",
   "2026-11-21T18:21:49.151012+00:00",
   "2026-11-21T21:05:00.020383+00:00",
-  "2026-11-21T21:20:04.257236+00:00"
+  "2026-11-21T21:20:04.257236+00:00",
+  "2026-11-21T21:35:11.161546+00:00",
+  "2026-11-21T21:50:39.481765+00:00"
  ],
- "tg_offset": 387129029,
+ "tg_offset": 387129032,
  "channel": {
   "id": -1003986639147,
   "title": "GTA 6 | Горячие новости",
@@ -8302,37 +8548,6 @@
   {
    "clip": {
     "source": "twitch",
-    "url": "https://www.twitch.tv/dahlia/clip/ZanyBelovedCardKAPOW-R2sCEp3ZO3_GI8Ub",
-    "title": "Crawled away from death",
-    "author": "Dahlia",
-    "views": 719,
-    "duration": 26.2,
-    "created": "2026-11-20T20:29:47+00:00",
-    "lang": "en",
-    "description": "",
-    "vod_id": "2934982883",
-    "vod_offset": 18860.0
-   },
-   "caption": "Жестко улетела с байка прямо под фуру, но выжила — это какой-то имба-скилл или просто везучая? Рил, физика столкновений тут пушка 💀",
-   "interest": 9,
-   "spoiler": false,
-   "nsfw": false,
-   "watched": true,
-   "model": "gemini:gemini-3.1-flash-lite",
-   "media": {
-    "width": null,
-    "height": 720,
-    "duration": 26
-   },
-   "queued_at": "2026-11-21T19:28:28.376786+00:00",
-   "file_id": "BAACAgIAAxkDAAM-awHw3j1XsBTKKUAvCpbs3ez1-bQAAh-0AAKnJwlIUNyWAVdqnnI9BA",
-   "moderation": "approved",
-   "draft_msg_id": 62,
-   "waiting_logged": true
-  },
-  {
-   "clip": {
-    "source": "twitch",
     "url": "https://www.twitch.tv/jerma985/clip/HumbleSwissConsoleOhMyDog-PS5z9xywJKZlt86Z",
     "title": "HAHAHA... wut?",
     "author": "Jerma985",
@@ -8358,7 +8573,38 @@
    "queued_at": "2026-11-21T20:33:25.872550+00:00",
    "file_id": "BAACAgIAAxkDAANCawIAARchLZZtWrMHkytuicN0fvuUAAKupgACpycRSCbucak7N-rSPQQ",
    "moderation": "approved",
-   "draft_msg_id": 66
+   "draft_msg_id": 66,
+   "waiting_logged": true
+  },
+  {
+   "clip": {
+    "source": "twitch",
+    "url": "https://www.twitch.tv/jasontheween/clip/PreciousAuspiciousBadgerDatSheffy-fh37oxpTOtMsmkk3",
+    "title": "trolling marlon",
+    "author": "jasontheween",
+    "views": 562,
+    "duration": 60.0,
+    "created": "2026-11-21T17:07:09+00:00",
+    "lang": "en",
+    "description": "",
+    "vod_id": "2936160211",
+    "vod_offset": 8815.0
+   },
+   "caption": "СПОЙЛЕР. Чел решил выйти из тачки с пушкой прямо перед копами — ласт его ошибка 💀 Вот это разнос, кринжанул знатно!",
+   "interest": 9,
+   "spoiler": true,
+   "nsfw": false,
+   "watched": true,
+   "model": "gemini:gemini-3.1-flash-lite",
+   "media": {
+    "width": null,
+    "height": 720,
+    "duration": 60
+   },
+   "queued_at": "2026-11-21T21:38:23.361581+00:00",
+   "file_id": "BAACAgIAAxkDAANEawIPUfdXeXv6-p3VhKvYOq_yAmsAAh-nAAKnJxFIfk9R0reB_2M9BA",
+   "moderation": "approved",
+   "draft_msg_id": 68
   }
  ],
  "clip_drafts": [
@@ -8373,7 +8619,8 @@
   "2026-11-21T12:48:29.513513+00:00",
   "2026-11-21T18:21:29.947000+00:00",
   "2026-11-21T19:28:30.522835+00:00",
-  "2026-11-21T20:33:27.995353+00:00"
+  "2026-11-21T20:33:27.995353+00:00",
+  "2026-11-21T21:38:25.673953+00:00"
  ],
  "clip_history": [
   {
@@ -11897,6 +12144,155 @@
    "ts": "2026-11-21T20:33:27.995368+00:00",
    "frames": [],
    "caption": "Лусия косплеит фермера и ведет наряженную корову — это просто какой-то лютый рофл от Rockstar. Кто вообще придумал этот "
+  },
+  {
+   "author": "youtube:iboclips",
+   "vod": "",
+   "offset": -1,
+   "title": "Jynxzi Finds Out IShowSpeed Already Beat GTA 6 Without Sleeping! 💀😭",
+   "drafted": false,
+   "ts": "2026-11-21T21:34:12.029526+00:00"
+  },
+  {
+   "author": "youtube:lucas ivkovic",
+   "vod": "",
+   "offset": -1,
+   "title": "Youngest Sibling Wants GTA 6 Part 5 Final #shorts",
+   "drafted": false,
+   "ts": "2026-11-21T21:34:12.889862+00:00"
+  },
+  {
+   "author": "youtube:balance",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 VS другие игры",
+   "drafted": false,
+   "ts": "2026-11-21T21:34:13.665814+00:00"
+  },
+  {
+   "author": "youtube:vandal",
+   "vod": "",
+   "offset": -1,
+   "title": "Otros 5 DETALLES ALUCINANTES de GTA 6 🔥 #gta6 #detallesalucinantes",
+   "drafted": false,
+   "ts": "2026-11-21T21:34:14.623733+00:00"
+  },
+  {
+   "author": "youtube:michougaming",
+   "vod": "",
+   "offset": -1,
+   "title": "J'ARRETE PLUS LE TEMPS QUE J'AI PAS FINI !! (GTA 6)",
+   "drafted": false,
+   "ts": "2026-11-21T21:35:05.914302+00:00"
+  },
+  {
+   "author": "youtube:jynxzi",
+   "vod": "",
+   "offset": -1,
+   "title": "REACTS + GAMES + GTA 6",
+   "drafted": false,
+   "ts": "2026-11-21T21:35:06.705729+00:00"
+  },
+  {
+   "author": "youtube:dangerloww",
+   "vod": "",
+   "offset": -1,
+   "title": "🔥quando toca aquela música no GTA 6! 😱",
+   "drafted": false,
+   "ts": "2026-11-21T21:35:07.529784+00:00"
+  },
+  {
+   "author": "youtube:xshowtime",
+   "vod": "",
+   "offset": -1,
+   "title": "JEDER GTA 6 SPIELER DIESE WOCHE #shorts",
+   "drafted": false,
+   "ts": "2026-11-21T21:35:08.235527+00:00"
+  },
+  {
+   "author": "youtube:easter gamerstv",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 ÖZEL YAYINI BÖLÜM 4! - GTA 6 TÜRKÇE ALTYAZILI (PS5PRO)",
+   "drafted": false,
+   "ts": "2026-11-21T21:36:01.507343+00:00"
+  },
+  {
+   "author": "youtube:loud coringa",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA VI: DIA 4 ZERANDO HOJE ????? 🔴 CORINGA AO VIVO",
+   "drafted": false,
+   "ts": "2026-11-21T21:36:02.420832+00:00"
+  },
+  {
+   "author": "youtube:mati clips",
+   "vod": "",
+   "offset": -1,
+   "title": "RUBIUS LLEGA AL LÍMITE DEL MAPA EN GTA 6",
+   "drafted": false,
+   "ts": "2026-11-21T21:36:03.327648+00:00"
+  },
+  {
+   "author": "youtube:gta6 clipping ",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 physics test #gta6",
+   "drafted": false,
+   "ts": "2026-11-21T21:36:04.267082+00:00"
+  },
+  {
+   "author": "youtube:asmongold shorts",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 Is Boring?",
+   "drafted": false,
+   "ts": "2026-11-21T21:36:55.149799+00:00"
+  },
+  {
+   "author": "youtube:linus tech tips",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 on PS5 vs Xbox Series X",
+   "drafted": false,
+   "ts": "2026-11-21T21:36:56.077508+00:00"
+  },
+  {
+   "author": "twitch:adm1tr1pow",
+   "vod": "2936168728",
+   "offset": 14213.0,
+   "title": "бедный домик родной(((",
+   "drafted": false,
+   "ts": "2026-11-21T21:36:56.931736+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:auronplay",
+   "vod": "2936129297",
+   "offset": 4325.0,
+   "title": "Defensor de las Girls",
+   "drafted": false,
+   "ts": "2026-11-21T21:37:07.089156+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:jasontheween",
+   "vod": "2936160211",
+   "offset": 8815.0,
+   "title": "trolling marlon",
+   "drafted": false,
+   "ts": "2026-11-21T21:38:13.836251+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:jasontheween",
+   "vod": "2936160211",
+   "offset": 8815.0,
+   "title": "trolling marlon",
+   "drafted": true,
+   "ts": "2026-11-21T21:38:25.673968+00:00",
+   "frames": [],
+   "caption": "СПОЙЛЕР. Чел решил выйти из тачки с пушкой прямо перед копами — ласт его ошибка 💀 Вот это разнос, кринжанул знатно!"
   }
  ],
  "published": [
@@ -11997,6 +12393,20 @@
    "title": "ОШИБКИ и вылеты в игре",
    "importance": 8,
    "kind": "guide"
+  },
+  {
+   "ts": "2026-11-21T21:35:11.161559+00:00",
+   "msg_id": 40,
+   "title": "GTA 6: РАЗНОС ПРОДАЖ",
+   "importance": 9,
+   "kind": "confirmed"
+  },
+  {
+   "ts": "2026-11-21T21:50:39.481783+00:00",
+   "msg_id": 42,
+   "title": "Жестко улетела с байка прямо под фуру, но выжила — это какой-то имба-скилл или просто вез…",
+   "importance": 9,
+   "kind": "video"
   }
  ],
  "extras": [
