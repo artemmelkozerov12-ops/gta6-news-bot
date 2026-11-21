@@ -1806,7 +1806,14 @@
   "2d60b0b547ae06c1": "2026-11-21T22:52:10.795949+00:00",
   "440f45a751eb981d": "2026-11-21T22:52:13.064868+00:00",
   "f06e96fe96a3d85e": "2026-11-21T22:52:17.998721+00:00",
-  "09d20c6b55dd8f58": "2026-11-21T22:52:19.704867+00:00"
+  "09d20c6b55dd8f58": "2026-11-21T22:52:19.704867+00:00",
+  "83b5011f3ad90601": "2026-11-21T23:07:40.346796+00:00",
+  "0d111133aabf35a1": "2026-11-21T23:07:43.214039+00:00",
+  "c2851a5ea1eb143f": "2026-11-21T23:07:54.785578+00:00",
+  "4b9b05cf8605b080": "2026-11-21T23:07:56.704808+00:00",
+  "187ac61e71321fd1": "2026-11-21T23:23:16.246754+00:00",
+  "fb6adbea528d5e3e": "2026-11-21T23:23:22.417097+00:00",
+  "55d7bbbe6f3828b4": "2026-11-21T23:23:26.452771+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -3010,7 +3017,14 @@
   "65a0a0739e1b9a20": "2026-11-21T22:52:10.795949+00:00",
   "d9bd7009c591be7b": "2026-11-21T22:52:13.064868+00:00",
   "5c97850933bd75dc": "2026-11-21T22:52:17.998721+00:00",
-  "4fe9bb0a24e96ebb": "2026-11-21T22:52:19.704867+00:00"
+  "4fe9bb0a24e96ebb": "2026-11-21T22:52:19.704867+00:00",
+  "bfb62cac6b005a41": "2026-11-21T23:07:40.346796+00:00",
+  "f06a31f42668fffa": "2026-11-21T23:07:43.214039+00:00",
+  "25a50c01906d2967": "2026-11-21T23:07:54.785578+00:00",
+  "7be2ab18f9ffb830": "2026-11-21T23:07:56.704808+00:00",
+  "72d8e8c46acf5062": "2026-11-21T23:23:16.246754+00:00",
+  "95985c796a864df7": "2026-11-21T23:23:22.417097+00:00",
+  "fe393f9d0badce13": "2026-11-21T23:23:26.452771+00:00"
  },
  "recent": [
   {
@@ -7948,6 +7962,62 @@
    "status": "skipped",
    "ts": "2026-11-21T22:52:19.704992+00:00",
    "card_title": ""
+  },
+  {
+   "title": "Comcast: 'At peak, GTA 6 accounted for nearly a quarter of all internet traffic'",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-21T23:07:40.346836+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Your Xbox Can Ban You for Auto-Uploading GTA 6 Nude Clips",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "queued",
+   "ts": "2026-11-21T23:07:52.507168+00:00",
+   "card_title": "БАН ЗА СКРИНЫ В GTA 6"
+  },
+  {
+   "title": "GTA 6 Meet the Heders walkthrough: Find and open the SCOOP container",
+   "source": "VGC",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-21T23:07:54.785691+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Users have shared instructions for running GTA VI at 60 frames per second on Xbox Series X.",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T23:07:56.704928+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Grand Theft AFC: Buffalo Bills vs.Miami Dolphins | Official GTA 6 Trailer",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T23:23:16.246881+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "As a Floridian, does GTA 6 feel like home?",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T23:23:22.417222+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Review Score Discrepancy Has Fans Debating Its Metacritic",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T23:23:26.452893+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -8725,6 +8795,35 @@
     "model": "gemini:gemini-3.1-flash-lite"
    },
    "queued_at": "2026-11-21T22:05:18.251236+00:00"
+  },
+  {
+   "item": {
+    "title": "Your Xbox Can Ban You for Auto-Uploading GTA 6 Nude Clips",
+    "link": "https://www.gtaboom.com/your-xbox-can-ban-you-for-auto-uploading-gta-6-nude-clips-8930",
+    "summary": "A player reports a two day Xbox suspension after a GTA 6 beach clip uploaded automatically; Series X|S players can turn off automatic uploads.",
+    "published": "2026-11-21T23:05:09+00:00",
+    "source": "GTA BOOM",
+    "site_name": "GTA BOOM",
+    "trust": "medium",
+    "text": "An Xbox player says their console automatically uploaded a 28-second beach clip from Grand Theft Auto VI and they immediately got a two-day suspension. The game is not the problem here. The default setting is.\nOn Reddit, the player described the single-player clip as showing NPCs in swimwear with no explicit nudity and said the suspension was labeled an automatic enforcement action. The player never chose to post any of it. The console did.\nEach piece of this is working as designed, which is the real problem. GTA 6 carries ESRB Mature ratings with Nudity and Strong Sexual Content descriptors, the most adult rating a Grand Theft Auto game has ever received. There is no in-game toggle to switch that material off, only limited gore options unless you to happen to live in certain countrie and Xbox turns on automatic clip uploads by default. In its Community Standards, Xbox is saying sexual content does not belong in the shared community, rated game or not.\nPut those three together and a clip you meant to keep private can end up subject to Xbox's rules for shared content. Sharing explicit content publicly does break the rules. The problem is that the platform is the one doing the sharing for you.\nThe fix, for now, is with the players. On Xbox Series X|S, go to Settings, then Preferences, then Capture and share, then set Automatically upload to Don't upload. Clips stay local until you choose to share one. None of that should be the player's job on a console that sold them the game, but it is the only switch that reliably works. The deeper issue is one we have tracked since the ratings came in. GTA 6 is built to be uncensorable, with adult content woven through the world and no master filter, the exact reason why a capture tool keeps tripping over it.\nGTA 6 was always going to be defined by its adult content. Japan censored the showers and the gore, South Korea nearly refused to rate it at all over nudity and the full picture of where it is restricted keeps changing. Parents looking for control should know the console age settings gate the game itself but do not filter what happens once it is running.\nMicrosoft could turn off automatic uploads by default so clips stay local unless players choose to share them. Until it does, the safest move with the biggest game of the year is to stop your own Xbox from posting it for you.\nDid your Xbox auto-upload bite you yet, or did you turn the setting off the second you heard about these GTA 6 suspensions?\nOnce a post receiv",
+    "extra": {
+     "image": "https://media.gtaboom.com/variants/1920/media/images/de/1b/your-xbox-can-ban-you-for-auto-uploading-gta-6-nude-clips.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "🗺 Гайд: как не отлететь в бан на Xbox\n\nТвой Xbox может сам слить в сеть клип из игры, а система посчитает контент «неподобающим» — и прилетит бан. Чтобы не словить тильт, срочно меняй настройки:\n\n1. Заходи в «Настройки» -> «Настройки» -> «Захват и общий доступ».\n2. Ставь «Автоматическая загрузка» на «Не загружать».\n\nТеперь клипы будут жить только на твоей консоли. База, чтобы не потерять аккаунт из-за тупого алгоритма.\n\n❤️ — Уже отключил, спасибо!\n👎 — Поздно, меня уже забанили",
+    "card_title": "БАН ЗА СКРИНЫ В GTA 6",
+    "reason": "Важное предупреждение для игроков Xbox, которое поможет избежать бана из-за настроек консоли.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": true,
+    "model": "gemini:gemini-3.1-flash-lite"
+   },
+   "queued_at": "2026-11-21T23:07:52.507155+00:00"
   },
   {
    "item": {
