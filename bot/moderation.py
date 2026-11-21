@@ -226,7 +226,8 @@ def send_drafts(http: Http, state: State, cfg: dict) -> None:
     # 1) срочное
     u = m.get("urgent", {})
     if len(state.urgent) < int(u.get("per_day", 2)):
-        hot = [q for q in waiting if _fresh(q, float(u.get("max_age_hours", 3))) and (
+        hot = [q for q in waiting if not q["verdict"].get("guide")  # гайды — не срочное
+               and _fresh(q, float(u.get("max_age_hours", 3))) and (
             q["verdict"]["importance"] >= int(u.get("min_importance", 9))
             or (q["item"]["trust"] == "official" and q["verdict"]["importance"] >= int(u.get("official_min_importance", 8))))]
         if hot:
@@ -246,11 +247,17 @@ def send_drafts(http: Http, state: State, cfg: dict) -> None:
             return
         day = f"{_local_now(cfg):%Y-%m-%d}:guide"
         guides_today = sum(1 for k in state.slots_sent if k.startswith(day))
-        guides_ok = guides_today < int(m.get("guides_per_day", 2))  # гайдов 1–2 в день, остальное — новости
-        best = [q for q in waiting if (guides_ok or not q["verdict"].get("guide"))
-                and _fresh(q, float(m.get("guide_max_age_hours", 24) if q["verdict"].get("guide")
-                                    else m.get("max_age_hours", 8)))
+        # Гайды: не больше guides_per_day в сутки (0 — совсем без гайдов) и не раньше guide_after_hour.
+        # Когда гайд положен — берём лучший гайд (порог guide_min_importance); иначе — только новости.
+        guides_ok = (guides_today < int(m.get("guides_per_day", 1))
+                     and _local_now(cfg).hour >= int(m.get("guide_after_hour", 14)))
+        guides = [q for q in waiting if guides_ok and q["verdict"].get("guide")
+                  and _fresh(q, float(m.get("guide_max_age_hours", 24)))
+                  and q["verdict"]["importance"] >= int(m.get("guide_min_importance", 5))]
+        news = [q for q in waiting if not q["verdict"].get("guide")
+                and _fresh(q, float(m.get("max_age_hours", 8)))
                 and q["verdict"]["importance"] >= int(m.get("min_importance", 7))]
+        best = guides or news
         if best:
             q = min(best, key=_rank)
             guide = bool(q["verdict"].get("guide"))
@@ -265,7 +272,7 @@ def send_drafts(http: Http, state: State, cfg: dict) -> None:
     key = f"{_local_now(cfg):%Y-%m-%d}:{slot['name']}"
     if key in state.slots_sent:
         return
-    best = [q for q in waiting if _fresh(q, float(m.get("max_age_hours", 8)))
+    best = [q for q in waiting if not q["verdict"].get("guide") and _fresh(q, float(m.get("max_age_hours", 8)))
             and q["verdict"]["importance"] >= int(m.get("min_importance", 7))]
     if best and _send(http, state, cfg, min(best, key=_rank), f"{slot.get('emoji', '📰')} <b>{slot['name'].capitalize()}</b>"):
         state.slots_sent[key] = utcnow().isoformat()
