@@ -1577,7 +1577,23 @@
   "fcc3260c6b9e6dae": "2026-11-21T17:45:13.856076+00:00",
   "32c53540b2e62306": "2026-11-21T17:45:14.566222+00:00",
   "e96278dba9609e32": "2026-11-21T17:45:17.450371+00:00",
-  "24eee5501d0ca67e": "2026-11-21T17:45:18.267272+00:00"
+  "24eee5501d0ca67e": "2026-11-21T17:45:18.267272+00:00",
+  "24117250835e7f18": "2026-11-21T18:00:40.815468+00:00",
+  "3beca9e0db4cd80a": "2026-11-21T18:00:40.815516+00:00",
+  "ed8f3355db39e35d": "2026-11-21T18:00:43.978337+00:00",
+  "2af20de97920e58e": "2026-11-21T18:00:44.721491+00:00",
+  "fb59e74c79ef88f8": "2026-11-21T18:00:45.464817+00:00",
+  "4f041bef66b32417": "2026-11-21T18:00:46.360858+00:00",
+  "c202c758d814d1cd": "2026-11-21T18:01:37.935761+00:00",
+  "66e23101de04ce3f": "2026-11-21T18:01:38.724700+00:00",
+  "7157ccc911827163": "2026-11-21T18:01:39.493848+00:00",
+  "dc2a94c527f32459": "2026-11-21T18:01:40.550527+00:00",
+  "7acbd2e60ad401c5": "2026-11-21T18:02:31.604416+00:00",
+  "5492289bae49ba6a": "2026-11-21T18:02:32.347998+00:00",
+  "d06f451643d19282": "2026-11-21T18:02:33.106600+00:00",
+  "35f342a89982f4c7": "2026-11-21T18:02:33.809047+00:00",
+  "d95cd3f5fec9979a": "2026-11-21T18:03:24.831381+00:00",
+  "6933b5025e7c6fc4": "2026-11-21T18:03:25.447049+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -2625,7 +2641,9 @@
   "f86f703b7a39b1f0": "2026-11-21T17:45:13.850540+00:00",
   "5c9f858c057ebfd6": "2026-11-21T17:45:13.855782+00:00",
   "3dfdfe832a52b30d": "2026-11-21T17:45:13.856076+00:00",
-  "809f7aff33738d33": "2026-11-21T17:45:14.566222+00:00"
+  "809f7aff33738d33": "2026-11-21T17:45:14.566222+00:00",
+  "aa9aa15e7bf5c6f4": "2026-11-21T18:00:40.815468+00:00",
+  "cc3bc677fb896e4f": "2026-11-21T18:00:40.815516+00:00"
  },
  "recent": [
   {
@@ -6883,6 +6901,22 @@
    "status": "dup",
    "ts": "2026-11-21T17:45:14.566293+00:00",
    "card_title": ""
+  },
+  {
+   "title": "Bill Maher Says GTA 6 Release Has ‘Caused More Workplace Absences Than ICE’",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-21T18:00:40.815492+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Найден способ запуска GTA 6 на Xbox Series X с частотой выше 60 fps — но ускоряется и сама игра",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-21T18:00:40.815546+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -7307,7 +7341,8 @@
   "2026-11-21T06:14:39.704485+00:00",
   "2026-11-21T07:11:39.823252+00:00",
   "2026-11-21T12:43:49.466903+00:00",
-  "2026-11-21T14:46:58.633284+00:00"
+  "2026-11-21T14:46:58.633284+00:00",
+  "2026-11-21T18:00:47.582860+00:00"
  ],
  "tg_offset": 387129021,
  "channel": {
@@ -10417,6 +10452,120 @@
    "drafted": false,
    "ts": "2026-11-21T17:45:18.267301+00:00",
    "frames": []
+  },
+  {
+   "author": "youtube:grimaceclips",
+   "vod": "",
+   "offset": -1,
+   "title": "Dad GETS RID of His Family to Play GTA 6 😭",
+   "drafted": false,
+   "ts": "2026-11-21T18:00:43.978354+00:00"
+  },
+  {
+   "author": "youtube:theanimemen",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 expectations vs reality😭",
+   "drafted": false,
+   "ts": "2026-11-21T18:00:44.721516+00:00"
+  },
+  {
+   "author": "youtube:nick eh 30 shorts",
+   "vod": "",
+   "offset": -1,
+   "title": "FAMILY FRIENDLY GTA 6!",
+   "drafted": false,
+   "ts": "2026-11-21T18:00:45.464846+00:00"
+  },
+  {
+   "author": "youtube:alex vice rush",
+   "vod": "",
+   "offset": -1,
+   "title": "❤️🥏SAVE GTA 6 CHARACTERS BY STOPPING THE FALL OF DISKS | HOW TO STOP GAS? #shorts #gta6",
+   "drafted": false,
+   "ts": "2026-11-21T18:00:46.360884+00:00"
+  },
+  {
+   "author": "youtube:viceprint",
+   "vod": "",
+   "offset": -1,
+   "title": "Get STRONGER FAST in GTA 6! (Secret Workout)",
+   "drafted": false,
+   "ts": "2026-11-21T18:01:37.935792+00:00"
+  },
+  {
+   "author": "youtube:soy relevante",
+   "vod": "",
+   "offset": -1,
+   "title": "NO DATENGAS el TREN de GTA 6 ☠️🚂 #mrrelevante #videojuegos",
+   "drafted": false,
+   "ts": "2026-11-21T18:01:38.724727+00:00"
+  },
+  {
+   "author": "youtube:djmariio",
+   "vod": "",
+   "offset": -1,
+   "title": "🔴GTA 6 | DIA 4 MODO HISTORIA (EN DIRECTO) DjMaRiiO",
+   "drafted": false,
+   "ts": "2026-11-21T18:01:39.493873+00:00"
+  },
+  {
+   "author": "youtube:tamil gaming தமிழ் கேமிங்",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 Part 4 Free  Roam + Story Live Tamil Gaming",
+   "drafted": false,
+   "ts": "2026-11-21T18:01:40.550552+00:00"
+  },
+  {
+   "author": "youtube:editorplayz",
+   "vod": "",
+   "offset": -1,
+   "title": "Does Jason Really Have a Pet Snake in GTA 6? 🐍😱",
+   "drafted": false,
+   "ts": "2026-11-21T18:02:31.604448+00:00"
+  },
+  {
+   "author": "youtube:kingshahx",
+   "vod": "",
+   "offset": -1,
+   "title": "LUCIA MENJAGA JASON YG SEDANG NAZAK DI BANDAR BARU !! GAMEPLAY 4",
+   "drafted": false,
+   "ts": "2026-11-21T18:02:32.348026+00:00"
+  },
+  {
+   "author": "youtube:schlayer",
+   "vod": "",
+   "offset": -1,
+   "title": "Get Every Super Car for FREE in GTA 6!",
+   "drafted": false,
+   "ts": "2026-11-21T18:02:33.106625+00:00"
+  },
+  {
+   "author": "youtube:joe clipper",
+   "vod": "",
+   "offset": -1,
+   "title": "Joe Bart Tells People To Stop Crying About GTA 6 Being 30 FPS 💀",
+   "drafted": false,
+   "ts": "2026-11-21T18:02:33.809073+00:00"
+  },
+  {
+   "author": "twitch:jinnytty",
+   "vod": "2935025047",
+   "offset": 28773.0,
+   "title": "tourists",
+   "drafted": false,
+   "ts": "2026-11-21T18:03:24.831413+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:jill",
+   "vod": "2935546540",
+   "offset": 14915.0,
+   "title": "jill - Highlight f33d74 Part 02",
+   "drafted": false,
+   "ts": "2026-11-21T18:03:25.447096+00:00",
+   "frames": []
   }
  ],
  "published": [
@@ -10498,19 +10647,7 @@
    "kind": "guide"
   }
  ],
- "extras": [
-  {
-   "key": "weekly-20261121",
-   "kind": "Выжимка недели",
-   "payload": {
-    "text": "📅 <b>Выжимка недели</b> · 15–21 ноября\n\nПропустил неделю? Всё главное в одном посте 👇\n\n🗺 <a href=\"https://t.me/gta6_hotnews/21\">Как юзать ЧИТ-КОДЫ в GTA 6</a>\n🎥 <a href=\"https://t.me/gta6_hotnews/22\">СПОЙЛЕР. Лютый кринж в сюжетке: голый NPC с бокалом просто разнос 💀</a>\n🔥 <a href=\"https://t.me/gta6_hotnews/23\">ПОЛМИЛЛИАРДА в день: имба-старт GTA 6</a>\n🗺 <a href=\"https://t.me/gta6_hotnews/24\">Как избавиться от полицейской охоты в GTA 6</a>\n🗺 <a href=\"https://t.me/gta6_hotnews/26\">Как включить автопилот в GTA 6</a>\n🎥 <a href=\"https://t.me/gta6_hotnews/27\">Имба: можно поднять NPC и скинуть с моста на дорогу 💀</a>\n🎥 <a href=\"https://t.me/gta6_hotnews/28\">СПОЙЛЕР. Стример словил знатный тильт от скримера в сюжетке, просто ору с его реакции 💀</a>\n🎥 <a href=\"https://t.me/gta6_hotnews/29\">Продавец пережил дробовик В УПОР</a>\n🗺 <a href=\"https://t.me/gta6_hotnews/33\">Прохождение Tenebrae Lux в GTA 6</a>\n🗺 <a href=\"https://t.me/gta6_hotnews/34\">СЕКРЕТНЫЕ радиостанции</a>\n\nЧто было топом недели? Голосуй реакцией 👇",
-    "publish_at": "2026-11-21T18:00:00+00:00"
-   },
-   "moderation": "approved",
-   "draft_msg_id": 58,
-   "queued_at": "2026-11-21T17:30:42.606059+00:00"
-  }
- ],
+ "extras": [],
  "extras_sent": {
   "poll-2026-W47": "2026-11-21T16:00:25.901739+00:00",
   "weekly-20261121": "2026-11-21T17:30:42.606074+00:00"
