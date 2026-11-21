@@ -1593,7 +1593,33 @@
   "d06f451643d19282": "2026-11-21T18:02:33.106600+00:00",
   "35f342a89982f4c7": "2026-11-21T18:02:33.809047+00:00",
   "d95cd3f5fec9979a": "2026-11-21T18:03:24.831381+00:00",
-  "6933b5025e7c6fc4": "2026-11-21T18:03:25.447049+00:00"
+  "6933b5025e7c6fc4": "2026-11-21T18:03:25.447049+00:00",
+  "476149bad176de25": "2026-11-21T18:13:56.875311+00:00",
+  "1570abc3adb936ce": "2026-11-21T18:14:00.263849+00:00",
+  "c9243845b3a95627": "2026-11-21T18:14:14.819876+00:00",
+  "e68f13f7c35d309c": "2026-11-21T18:14:42.565969+00:00",
+  "331bcb2938230b0d": "2026-11-21T18:17:16.889776+00:00",
+  "9195dde1dbc5694f": "2026-11-21T18:17:36.283244+00:00",
+  "937d26243134126f": "2026-11-21T18:18:09.627432+00:00",
+  "ca403eaf040cab88": "2026-11-21T18:18:30.378816+00:00",
+  "e90bde27ba3cd421": "2026-11-21T18:18:51.285237+00:00",
+  "73927e648a4b3871": "2026-11-21T18:18:59.396835+00:00",
+  "eb7dcf382b948b55": "2026-11-21T18:19:00.386728+00:00",
+  "088cf6186b8d9a50": "2026-11-21T18:19:01.171710+00:00",
+  "8367cfcbcc89036f": "2026-11-21T18:19:02.053606+00:00",
+  "d832602263cf2018": "2026-11-21T18:19:53.053489+00:00",
+  "e948a43d471753d7": "2026-11-21T18:19:53.933003+00:00",
+  "61a8b629d072ef08": "2026-11-21T18:19:54.744669+00:00",
+  "e8ccabbcc1421772": "2026-11-21T18:19:55.582094+00:00",
+  "5f969d9b1f92a2aa": "2026-11-21T18:20:47.330573+00:00",
+  "8a161844d0c5fb92": "2026-11-21T18:34:37.169606+00:00",
+  "876280e9181638b2": "2026-11-21T18:35:40.959862+00:00",
+  "a5bbecb4d39348d6": "2026-11-21T18:35:44.342021+00:00",
+  "351502b2ab4ac6b3": "2026-11-21T18:35:47.046574+00:00",
+  "54497aee33d9b0f3": "2026-11-21T18:35:49.464123+00:00",
+  "0d1a837666dafd31": "2026-11-21T18:35:52.152470+00:00",
+  "016d0fe9e03f53b9": "2026-11-21T18:35:54.810403+00:00",
+  "3a661617459b49f8": "2026-11-21T18:35:57.362565+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -2643,585 +2669,26 @@
   "3dfdfe832a52b30d": "2026-11-21T17:45:13.856076+00:00",
   "809f7aff33738d33": "2026-11-21T17:45:14.566222+00:00",
   "aa9aa15e7bf5c6f4": "2026-11-21T18:00:40.815468+00:00",
-  "cc3bc677fb896e4f": "2026-11-21T18:00:40.815516+00:00"
+  "cc3bc677fb896e4f": "2026-11-21T18:00:40.815516+00:00",
+  "d279c8f21bd58b2e": "2026-11-21T18:13:56.875311+00:00",
+  "ed5be29b7b79f31b": "2026-11-21T18:14:00.263849+00:00",
+  "f4477a69564753ba": "2026-11-21T18:14:14.819876+00:00",
+  "08955c46a2ca40fa": "2026-11-21T18:14:42.565969+00:00",
+  "c782550fbf2d249f": "2026-11-21T18:17:16.889776+00:00",
+  "acffbc7392c9a602": "2026-11-21T18:17:36.283244+00:00",
+  "92ed2195ce532ea7": "2026-11-21T18:18:09.627432+00:00",
+  "4f564d5b1ba9063b": "2026-11-21T18:18:30.378816+00:00",
+  "74346d491a1e5b82": "2026-11-21T18:18:51.285237+00:00",
+  "03549eb137c2f8eb": "2026-11-21T18:34:37.169606+00:00",
+  "52b0b27f872c844d": "2026-11-21T18:35:40.959862+00:00",
+  "014250f03e7189b2": "2026-11-21T18:35:44.342021+00:00",
+  "f46a9c0f43808f13": "2026-11-21T18:35:47.046574+00:00",
+  "aade197a750dd2c1": "2026-11-21T18:35:49.464123+00:00",
+  "e72054860c9a8259": "2026-11-21T18:35:52.152470+00:00",
+  "644b6f549296ddbf": "2026-11-21T18:35:54.810403+00:00",
+  "1ac73ae611b009dc": "2026-11-21T18:35:57.362565+00:00"
  },
  "recent": [
-  {
-   "title": "GTA 6 Chapter 1 walkthrough",
-   "source": "GamesRadar+",
-   "trust": "high",
-   "status": "dup",
-   "ts": "2026-11-19T13:13:02.960614+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 What’s In The Bag? Mission Walkthrough",
-   "source": "VGC",
-   "trust": "high",
-   "status": "dup",
-   "ts": "2026-11-19T13:13:02.960710+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Sex & Romance—How To Have Sex In GTA 6",
-   "source": "Insider Gaming",
-   "trust": "medium",
-   "status": "dup",
-   "ts": "2026-11-19T13:13:02.960794+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Money Watch: GTA VI could be largest entertainment launch in history",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-19T13:13:02.960870+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Money Watch: GTA VI could be largest entertainment launch in history",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-19T13:13:02.960942+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Money Watch: GTA VI could be largest entertainment launch in history",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-19T13:13:02.961012+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Estimated to Have Reached 20 Million Preorders Ahead of Launch",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-19T13:13:02.961083+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Becomes Biggest Entertainment Launch in History",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-19T13:13:02.961173+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "You Will Not Believe What I Had To Do To Get a Six-Star Wanted Level in GTA 6",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-19T13:13:02.961256+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "You Have to Become a Complete Psychopath to Get A 6 Star Wanted Level in GTA 6",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-19T13:13:02.961327+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Warren Spector: GTA 6 Should Be the Last of Its Kind",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-19T13:13:03.382261+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6's shockingly accurate Instagram memes make fun of Rockstar's delays and more",
-   "source": "GamesRadar+",
-   "trust": "high",
-   "status": "queued",
-   "ts": "2026-11-19T13:13:39.931091+00:00",
-   "card_title": "ГТА 6 СМЕШНЫЕ ИНСТАГРАМ МЕМЫ"
-  },
-  {
-   "title": "GTA 6 Is Out. The Future of Content Is World Models.",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-19T13:13:40.849417+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GameStop CEO slams 'code-in-a-box' games in the wake of GTA 6's discless release",
-   "source": "Eurogamer",
-   "trust": "high",
-   "status": "queued",
-   "ts": "2026-11-19T13:13:41.959331+00:00",
-   "card_title": "GAMESTOP ПРОТИВ ДИГИТАЛЯ"
-  },
-  {
-   "title": "GTA 6 Is Out Today. Miami Already Sells Real-Life Vice City Tours",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-19T13:13:48.337571+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Из GTA 6 делают настоящий некст-ген с помощью ПК и DLSS",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-19T13:14:06.096487+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "'Xbox Remote Play Has Been Incredible' - GTA 6 Players Are Giving This Xbox Feature Its Flowers",
-   "source": "Pure Xbox",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-19T13:14:26.583372+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "The Official GTA 6 Map Is Now Available To Download For Free",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-19T14:28:23.981099+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "You can't cheat on Lucia in GTA 6 with Mandy or strippers because Rockstar doesn't believe that's 'complementary to the feeling and motivations' of Jason and Lucia's story",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-19T14:28:23.981198+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6’s Mandy Could Be Hiding A Killer Secret",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-19T14:28:23.981316+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Has an Easy Mode Buried in an Impressive Range of Accessibility Options",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-19T14:28:23.981415+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Release of 'GTA VI' has fans buzzing. Here's the breakdown of the new game",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-19T14:28:23.981487+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Release of 'GTA VI' has fans buzzing. Here's the breakdown of the new game",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-19T14:28:23.981552+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "As GTA 6 Skips Discs, GameStop CEO Says Digital-Only 'Has Hurt Consumers' and Retailers",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-19T14:28:23.981618+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "I reviewed every strip club in GTA 6 (because you sickos keep googling it)",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-19T14:28:23.981684+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Grand Theft Auto VI Now Available",
-   "source": "Rockstar Newswire",
-   "trust": "official",
-   "status": "dup",
-   "ts": "2026-11-19T14:28:23.981870+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 впервые показали с рулём на PS5 Pro в открытом мире",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-19T14:28:26.443779+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "How to quickly increase and reduce your Wanted and Heat levels in GTA 6",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-19T14:28:27.358221+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "The Official GTA 6 Map Is Now Available To Download For Free",
-   "source": "Pure Xbox",
-   "trust": "high",
-   "status": "queued",
-   "ts": "2026-11-19T14:28:47.171559+00:00",
-   "card_title": "КАРТА GTA 6 ОФИЦИАЛЬНАЯ"
-  },
-  {
-   "title": "9 Games Launching on GTA 6 Day, Nov. 19",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-19T14:28:47.859974+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 выходит, а россияне не могут ее купить: 5 рабочих схем",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-19T14:28:48.574974+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Игра GTA 6 вышла: что нужно знать перед первым запуском",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-19T14:28:50.597928+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Should you kill or spare Arnold in GTA 6?",
-   "source": "PC Gamer",
-   "trust": "high",
-   "status": "dup",
-   "ts": "2026-11-19T15:29:39.201653+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Fastest Way To Get A Parachute in GTA 6",
-   "source": "Insider Gaming",
-   "trust": "medium",
-   "status": "dup",
-   "ts": "2026-11-19T15:29:39.201713+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Just Brought Back the Best E3 Meme of All Time",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-19T15:29:39.201766+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Why GTA 6 Doesn’t Include Disney World",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-19T15:29:39.201810+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Rockstar Kept One Of GTA 6’s Biggest Early Secrets Under Wraps For Years",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-19T15:29:39.201857+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6's Digital Release Has GameStop CEO Defending Physical Games, For Obvious Reasons",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-19T15:29:39.201899+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6’s First Two Hours Teach You Everything You Need to Know About The Next 100",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-19T15:29:39.201945+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6’s Opening Two Hours Teach You Everything You’ll Ever Need To Know About the Next 100",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-19T15:29:39.202004+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "How to Find Paul Walker’s Mitsubishi Eclipse in GTA 6—Fast and Furious Easter Egg Location",
-   "source": "Insider Gaming",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-19T15:29:41.624100+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Nice try hoaxers, but schools are not closed for the release of GTA VI, as fake announcements flood social media",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-19T15:29:42.360393+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "The Best ‘GTA 6’ Gun Is Very Easy To Get From The Start",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-19T15:29:43.163138+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 reviews are in. Best reactions as the 'Before GTA 6' era ends",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-19T15:29:55.179849+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "2000s Rapper Reveals Secret GTA VI Role and Says His Son Recognized Him",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-19T15:29:56.977061+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Nikola Jokic reveals why he won't be playing GTA VI",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-19T15:29:57.640269+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Just Moved In Mission Walkthrough",
-   "source": "VGC",
-   "trust": "high",
-   "status": "dup",
-   "ts": "2026-11-19T16:38:00.092608+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "I Am Obsessed With GTA 6 Jason’s Literary Choices",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-19T16:38:00.092660+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 is finally here after 13 years — but there’s a catch for some gamers",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-19T16:38:00.092735+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Two Cool, Hidden Features GTA 6 Doesn’t Explain: Flipping And Sitting",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-19T16:38:00.092778+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Where is GTA 6 Online Multiplayer? GTA Online 2 Release Window",
-   "source": "Insider Gaming",
-   "trust": "medium",
-   "status": "dup",
-   "ts": "2026-11-19T16:38:00.394063+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Take-Two set to shatter sales records as 'GTA VI' launches to massive fanfare",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-19T16:38:02.257385+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "How to sell illegal goods and stolen items in GTA 6",
-   "source": "GamesRadar+",
-   "trust": "high",
-   "status": "queued",
-   "ts": "2026-11-19T16:39:39.607776+00:00",
-   "card_title": "ФЕНСЫ И ПРОДАЖА ТОВАРОВ"
-  },
-  {
-   "title": "Japan censors GTA 6’s violence and nudity, including Jason in the shower",
-   "source": "VGC",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-19T16:39:40.983268+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Surprising No One, GTA 6's Comedy Is All Over the Place",
-   "source": "Polygon",
-   "trust": "high",
-   "status": "queued",
-   "ts": "2026-11-19T16:39:43.985322+00:00",
-   "card_title": "САТИРА В GTA 6"
-  },
-  {
-   "title": "I Am Obsessed With GTA 6 Jason’s Literary Choices",
-   "source": "Kotaku",
-   "trust": "high",
-   "status": "queued",
-   "ts": "2026-11-19T16:40:16.524009+00:00",
-   "card_title": "ДЖЕЙСОН ЧИТАЕТ ФЭНТЕЗИ"
-  },
-  {
-   "title": "GTA 6 Early Money: Motel Tiger Attack",
-   "source": "GTA BOOM",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-19T16:40:41.268122+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GAMING-GTA VI/INDIA",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-19T17:39:47.048576+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GAMING-GTA VI/INDIA",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-19T17:39:47.048696+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "'GTA 6': Should you kill or spare Arnold? What to know.",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-19T17:39:47.048778+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Here’s Why You Can Get A Haircut At 3 AM In GTA 6",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-19T17:39:47.048850+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Cast List Includes Potentially Huge Spoiler, So Be Warned",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-19T17:39:47.048920+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6: The Optional Missions You Won’t Want to Miss",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-19T17:39:47.048989+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "'Gears & GTA 6 May Have Provided A Temporary Reprieve' - Xbox Hardware Sales Get A Major Surge In The US",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-19T17:39:47.049058+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Where is the Casino in GTA 6? Location, Explained",
-   "source": "Insider Gaming",
-   "trust": "medium",
-   "status": "dup",
-   "ts": "2026-11-19T17:39:47.548316+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 launches after 13-year wait, gamers weigh-in",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-19T17:39:47.916390+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "It looks like Rockstar co-founder Sam Houser is hiding in GTA 6 as fans find \"Little Sam\" Easter egg",
-   "source": "GamesRadar+",
-   "trust": "high",
-   "status": "queued",
-   "ts": "2026-11-19T17:41:49.167143+00:00",
-   "card_title": "МАЛЕНЬКИЙ СЭМ В GTA 6"
-  },
-  {
-   "title": "GTA 6’s Best-Kept Secret Is the Most Important Part of the Game",
-   "source": "Polygon",
-   "trust": "high",
-   "status": "queued",
-   "ts": "2026-11-19T17:41:51.006899+00:00",
-   "card_title": "СЫН В ГТА 6"
-  },
-  {
-   "title": "Why Rockstar Games Includes Bigfoot And UFOs To Find In Its Big Open-World Games: ‘We Love That Stuff’",
-   "source": "Kotaku",
-   "trust": "high",
-   "status": "queued",
-   "ts": "2026-11-19T17:41:56.397008+00:00",
-   "card_title": "РОКСТАР О КРИПТИДАХ"
-  },
-  {
-   "title": "Guide: GTA 6: Who Is the Real Actor Jason Is Based On?",
-   "source": "Push Square",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-19T17:42:17.534499+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Is GTA 6 About to Break the Internet? Logitech's Gaming Boss Weighs In",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-19T17:42:37.003772+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA VI собрала $1,45 млрд предзаказов. Сколько еще может принести игра Rockstar",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-19T17:42:55.797929+00:00",
-   "card_title": ""
-  },
   {
    "title": "GAMING-GTA VI/MIAMI-LAUNCH",
    "source": "Google News (EN)",
@@ -6917,36 +6384,145 @@
    "status": "dup",
    "ts": "2026-11-21T18:00:40.815546+00:00",
    "card_title": ""
+  },
+  {
+   "title": "Doja Cat обматерила Rockstar из-за отсутствия своих песен в GTA 6",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-21T18:13:56.875357+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "В GTA VI разблокировали частоту кадров и получили более 60 FPS — игроки раскритиковали Rockstar за отсутствие официального режима",
+   "source": "iXBT.games",
+   "trust": "medium",
+   "status": "queued",
+   "ts": "2026-11-21T18:14:13.391024+00:00",
+   "card_title": "60 FPS С БАГОМ В GTA 6"
+  },
+  {
+   "title": "GTA 6 Chapter 3 laptop password: How to unlock the laptop in Boobie’s apartment",
+   "source": "VGC",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-21T18:14:41.215092+00:00",
+   "card_title": "ПАРОЛЬ ОТ НОУТБУКА БУБИ"
+  },
+  {
+   "title": "GTA 6 Makes Fun Of Call Of Duty With A Joke About Unions While Rockstar Devs Are Voting To Unionize",
+   "source": "Kotaku",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-21T18:17:14.657082+00:00",
+   "card_title": "ШУТКА ПРО ПРОФСОЮЗ В GTA 6"
+  },
+  {
+   "title": "Grand Theft Auto VI: Прохождение всех миссий — Глава 1 «Как в раю»",
+   "source": "StopGame",
+   "trust": "medium",
+   "status": "queued",
+   "ts": "2026-11-21T18:17:34.353643+00:00",
+   "card_title": "СОХРАНЯЕМ ДЕНЬГИ ПЕРЕД ВТОРОЙ ГЛАВОЙ"
+  },
+  {
+   "title": "GTA VI — первые впечатления",
+   "source": "StopGame",
+   "trust": "medium",
+   "status": "queued",
+   "ts": "2026-11-21T18:18:08.522588+00:00",
+   "card_title": "ПЕРВЫЕ ВПЕЧАТЛЕНИЯ ОТ GTA 6"
+  },
+  {
+   "title": "GTA 6 Equipment: All 12 pieces of equipment explained and how to unlock them",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-21T18:18:28.587272+00:00",
+   "card_title": "ГАЙД ПО СНАРЯЖЕНИЮ GTA 6"
+  },
+  {
+   "title": "Learn how to get a mask in GTA 6 to stay anonymous when committing a crime",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-21T18:18:49.820300+00:00",
+   "card_title": "КАК НАДЕТЬ МАСКУ В GTA 6"
+  },
+  {
+   "title": "How to unlock the Cut-Off Tool in GTA 6 so you can open up those yellow Scoop containers",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-21T18:18:56.860252+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Can You Repeat Robberies in GTA 6? Make More Money, Fast",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "queued",
+   "ts": "2026-11-21T18:35:30.973905+00:00",
+   "card_title": "ПОВТОРНЫЕ ОГРАБЛЕНИЯ В GTA6"
+  },
+  {
+   "title": "GTA 6 The Final Flush mission walkthrough",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-21T18:35:41.802437+00:00",
+   "card_title": "ФИНАЛЬНЫЙ FLUSH ГАЙД"
+  },
+  {
+   "title": "Grand Theft Auto VI: Collectors Box. Whats inside?",
+   "source": "Rockstar Intel",
+   "trust": "medium",
+   "status": "queued",
+   "ts": "2026-11-21T18:35:45.318394+00:00",
+   "card_title": "РАСПАКОВКА КОЛЛЕКЦИОНКИ GTA 6"
+  },
+  {
+   "title": "How to unlock the Dye-Pack Jammer in GTA 6 to finally steal Marked Bills",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-21T18:35:47.876085+00:00",
+   "card_title": "КАК РАЗБЛОКИРОВАТЬ ГЛУШИТЕЛЬ"
+  },
+  {
+   "title": "Where to get a Key Cloner in GTA 6 to steal premium cars",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-21T18:35:50.422382+00:00",
+   "card_title": "КАК УГОНЯТЬ КРУТЫЕ ТАЧКИ"
+  },
+  {
+   "title": "GTA 6 Xbox PSA: How to Stop Automatic Clip Uploads and Avoid Bans",
+   "source": "VGC",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-21T18:35:53.153879+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 is crashing on some PS5s with error CE-108255-1 - here's what you can try",
+   "source": "Eurogamer",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-21T18:35:55.632435+00:00",
+   "card_title": "ВЫЛЕТЫ И ОШИБКИ В GTA 6"
+  },
+  {
+   "title": "GTA 6 Transgressor locations: How to restore the first car for Wyman",
+   "source": "PC Gamer",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-21T18:35:58.279599+00:00",
+   "card_title": "КАК НАЙТИ МАШИНЫ УАЙМАНА"
   }
  ],
  "queue": [
-  {
-   "item": {
-    "title": "61% of All US PS5 Owners Played GTA 6 on Launch Day, Averaging 8 Hours",
-    "link": "https://www.pushsquare.com/news/2026/11/61percent-of-all-us-ps5-owners-played-gta-6-on-launch-day-averaging-8-hours",
-    "summary": "That's a lotta sickies. You’ve seen the staggering 32.5 million pre-launch sales , but now enjoy some console specific data on GTA 6’s release. Analyst Mat Piscatella of Circana reports that in the US, 61% of PS5 owners played Rockstar’s latest release on launch day. That’s an utterly astounding statistic. Read the full article on pushsquare.com",
-    "published": "2026-11-21T02:00:00+00:00",
-    "source": "Push Square",
-    "site_name": "Push Square",
-    "trust": "high",
-    "text": "You’ve seen the staggering 32.5 million pre-launch sales, but now enjoy some console specific data on GTA 6’s release.\nAnalyst Mat Piscatella of Circana reports that in the US, 61% of PS5 owners played Rockstar’s latest release on launch day. That’s an utterly astounding statistic.\nBut here’s the really staggering part – said players averaged about 8.5 hours of gameplay on 19th November. Averaged!\nThat’s an utterly flabbergasting figure – I almost can’t believe it. I’d love to know the impact on global productivity, as I’m sure anecdotally we all know someone who took a sick day.\nAnyway, this is jaw-dropping data and I’m sure there’s a lot more to come.\nCredit to Sony, by the way, who’s kept the PS5 online and running flawlessly throughout this enormous influx of traffic. Preload went smoothly, and I haven’t really seen anyone complaining they had issues this week.\nJust completed chapter 1. Amazing amazing amazing\nA few months ago, i asked my work for a week off sometime in october/november. I told them it didn’t really matter when, as i just wanted to use up my remaining vacation days. I never intended for it to be the week of GTA6 release. I didn’t even realize until recently, but coincidence would have it that it was! So yeah i have the whole week off 😁\nI’ve done my part, 17.5 hours in already. Somewhere in chapter 3, and the game is really starting to open up now\nIt’s definitely on my wish list. Just gonna let it get a few updates first like I did with Cyberpunk.. I’m working through Dragon Quest 3 since it was added to Plus.\n@get2sammyb “ I haven’t really seen anyone complaining “\nYou haven’t seen anyone complaining? It’s practically an entire industry. 🤣\nWay down at the end of the cuck simp stuff someone mentions “glitches”. 😉\nhttps://kotaku.com/grand-theft-auto-6-gta6-review-bomb-woke-misinformation-campaign-2000759045\nEdit: This was the article I was originally looking for. You can disregard the Fox people getting upset that people used their vacation time, they all want to be slave owners, but the manosphere, well they probably should be disregarded but to my point. 🤪\nhttps://variety.com/2026/gaming/news/gta-6-fox-news-clavicular-manosphere-lucia-1236953444/\nNot part of the 61%. Do they measure that by physical consoles or accounts b/c 4 people play and have accounts on our PS5 so I figured I’d ask for clarification on accounts on hardware. Surely Sony can tell the difference. And maybe you spelled it out but it got lost in translation.😁\n@rjejr Ap",
-    "extra": {}
-   },
-   "verdict": {
-    "type": "rumor",
-    "importance": 8,
-    "post": "🚀 61% PS5‑геймеров уже врубились в GTA 6\n\nСтатистика от аналитиков: почти две трети владельцев PS5 в США запустили игру в день релиза и проштрафили в среднем 8,5 часов. Это значит, что GTA 6 уже стал лютой базой для всех, кто хочет оторваться.\n\n❤️ — круто, будем тестить вместе\n👎 — слишком много времени в игре",
-    "card_title": "61% PS5 ГЕЙМЕРОВ В GTA 6",
-    "reason": "Слухи о статистике от надёжного источника, интересны фанатам",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "61% of All US PS5 Owners Played GTA 6 on Launch Day, Averaging 8 Hours — Google News (EN)",
-    "guide": false,
-    "model": "groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-21T06:03:44.257731+00:00"
-  },
   {
    "item": {
     "title": "Everything to do before the GTA 6 Tourist Trap mission",
@@ -6978,30 +6554,32 @@
   },
   {
    "item": {
-    "title": "GTA 6 Thrillbillies walkthrough: How to beat Billy’s dirt bike race",
-    "link": "https://www.videogameschronicle.com/guide/gta-6-thrillbillies-walkthrough/",
-    "summary": "How to beat Billy in the Dirtbike Race",
-    "published": "2026-11-21T01:47:58+00:00",
-    "source": "VGC",
-    "site_name": "VGC",
+    "title": "GTA 6 is crashing on some PS5s with error CE-108255-1 - here's what you can try",
+    "link": "https://www.eurogamer.net/gta-6-ps5-crashing-ce-108255-1-error-fix",
+    "summary": "Some Grand Theft Auto 6 players on PS5 say the game keeps crashing with error code CE-108255-1, and in some cases, it's stopping them from progressing through the story. Read more",
+    "published": "2026-11-21T15:03:50+00:00",
+    "source": "Eurogamer",
+    "site_name": "Eurogamer",
     "trust": "high",
-    "text": "Thrillbillies is the thirty-third mission in GTA 6.GTA 6’s Thrillbillies mission sees Jason and Lucia visit the Thrillbilly Mud Club, where they meet Billy and his crew of off-road racers. Here’s how to complete Thrillbillies in GTA 6, including which bike to choose, how to win the race and how much money you can earn.Check out our GTA 6 Guide Hub for comprehensive mission walkthroughs, top tips, and much more.Guides: If you're playing Grand Theft Auto 6, make sure to check out our complete walkthrough hub, featuring beginner tips, navigation experience explained, GTA 6 cheats, and more.GTA 6 Thrillbillies walkthrough1. Buy new outfits at the merch stallOnce you arrive at the Thrillbilly Mud Club, head towards the souvenir shop near the entrance.At this point you have to buy outfits for Jason and Lucia. It doesn’t matter which of the two you’re playing as, because you can also buy clothes for your partner, instead of having to swap between the two of them.Once you’ve bought the clothes, leave the shop. This will start a cutscene introducing you to Billy and his dirt bike crew.2. Rent a dirt bikeBilly wants to see what you can do on a dirt bike race, so… now you need to get a dirt bike walk over and rent a vehicle from Roostere’s Rentals.Which bike should you choose in GTA 6 Thrillbillies?:I recommend choosing the Sanchez. Although it’s more expensive to rent than the other bike, it’s faster and gives you a better chance of finishing near the front of the pack. The Sanchez is also a GTA classic, so if you’re as nostalgic as me, the Sanchez is the only choice.Once you’ve picked your bike, follow the marker to the starting line.3. How to win the Thrillbillies dirt bike raceThe Thrillbillies race features over a dozen competitors, including Jason or Lucia and 13 other riders. Your objective is to beat at least one member of Billy’s crew. Whoever you don’t do the mission as won’t appear in the race, so Jason won’t race against Lucia, for example.You won’t fail the mission if you don’t win the race. The only thing that changes is how much cash you get at the end of the mission.Our number one tip to win the race is avoid the other racers. The AI racers are absolutely off their head, and won’t get out your way. One collison can totally end your race, but that’s also the case for the AI crashing into the AI. The run where we actually won the race caused such a pileup that it was a breeze. We hope that happens to you.After crossing the finish line in any position, B",
-    "extra": {}
+    "text": "Some Grand Theft Auto 6 players on PS5 say the game keeps crashing with error code CE-108255-1, and in some cases, it's stopping them from progressing through the story.\n\"The game runs perfectly fine for a while. I can complete missions and chapters without any issues, but then it suddenly crashes after around 40 minutes and sends me back to the PS5 home screen\", wrote one Reddit user. They added that other games, including GTA 5 and For Honor, run without crashing.\nAnother player told Dexerto that GTA 6 worked fine until Pipework, an early mission that introduces Mandy, but now crashes \"every time I use the plunger or stand around the sink with it\", which means they can’t progress.\nSome PS5 Pro owners say the game crashes during the opening prologue, either at the same point every time or a few seconds in, and they haven't been able to play since launch.\nOthers say they've tried the usual fixes, such as clearing their console's cache, rebuilding the database, factory resetting their PS5, and even downloading the game three times, but nothing has worked thus far.\nIt's not just PS5 players that are struggling, either; some Xbox Series X players have reported crashes too, with one saying the game sometimes crashes after just 15 minutes.\nRockstar hasn't yet acknowledged the crashes or said whether a patch is on the way, and its own support is sending players with console errors to PlayStation or Xbox directly for help.\nUnfortunately, there's no firm fix just yet. PlayStation's support page describes CE-108255-1 simply as \"an error occurred with the game/application”, and its only advice is to \"try updating your game\". Highlight GTA 6 on your home screen, press Options, and choose Check for Update.\nBeyond that, you can try the following, which come from Sony's general crash advice:\nUpdate your PS5's system software. Go to Settings > System > System Software.\nMake sure the game has fully installed. Press Options on GTA 6 and check Download Status.\nRestore your licences. Go to Settings > Users and Accounts > Other > Restore Licenses.\nClear the cache and rebuild the database. Do this from Safe Mode.\nDelete and reinstall GTA 6. If it’s on an external drive, try moving it to internal storage.\nWe'll keep you posted if anything changes or a fix is deployed.\nGTA 6 launched on Thursday for PS5 and Xbox Series X/S, and while it's one of the best-reviewed games of all time, you wouldn't know it from its Metacritic user score, as players review bomb it over its limited FP",
+    "extra": {
+     "image": "https://assetsio.gnwcdn.com/Screenshot-2026-11-21-at-14.55.00.png?width=690&quality=85&format=jpg&auto=webp"
+    }
    },
    "verdict": {
     "type": "confirmed",
-    "importance": 7,
-    "post": "🗺 Гайд: Как пройти Thrillbillies и выиграть грязную гонку\n\n1️⃣ Купи аутфиты в магазине у входа.\n2️⃣ Арендуй Sanchez в Rooster’s Rentals – быстрее всех.\n3️⃣ На старте обгоняй, но избегай столкновений, пока остальные не врежутся сами.\nФинишируй в любой позиции – получишь кэш, а в топ‑3 бонус.",
-    "card_title": "THRILLBILLIES МИССИЯ ГАЙД",
-    "reason": "Подтверждённый гайд от VGC, полезен для прохождения миссии",
+    "importance": 8,
+    "post": "🗺 Гайд: ОШИБКИ и вылеты в игре\n\nЧасть игроков столкнулась с крашами на PS5 и Xbox Series X.\n\nЕсли игра вылетает в сюжетке или прологе, чекни обновление, восстанови лицензии в аккаунте или перенеси файлы на внутренний SSD. Ждем патч от Rockstar.\n\n❤️ — У меня всё ровно\n👎 — Ловлю тильт от вылетов",
+    "card_title": "ВЫЛЕТЫ И ОШИБКИ В GTA 6",
+    "reason": "Массовые вылеты GTA 6 на PS5 и Xbox — важная техническая проблема, волнующая игроков",
     "duplicate": false,
     "corroborated": false,
     "duplicate_of": "",
     "corroborated_by": "",
     "guide": true,
-    "model": "groq:openai/gpt-oss-120b → groq:openai/gpt-oss-120b"
+    "model": "gemini:gemini-3.5-flash-lite"
    },
-   "queued_at": "2026-11-21T06:05:47.887326+00:00"
+   "queued_at": "2026-11-21T18:35:55.632412+00:00"
   },
   {
    "item": {
@@ -7028,7 +6606,38 @@
     "guide": false,
     "model": "gemini:gemini-3.5-flash-lite"
    },
-   "queued_at": "2026-11-21T12:59:22.432342+00:00"
+   "queued_at": "2026-11-21T12:59:22.432342+00:00",
+   "moderation": "pending",
+   "draft_msg_id": 61
+  },
+  {
+   "item": {
+    "title": "GTA 6 Chapter 3 laptop password: How to unlock the laptop in Boobie’s apartment",
+    "link": "https://www.videogameschronicle.com/guide/gta-6-chapter-3-laptop-password-how-to-unlock-the-laptop-in-boobies-apartment/",
+    "summary": "Unlock the laptop in Chapter 3 with this guide",
+    "published": "2026-11-21T17:50:46+00:00",
+    "source": "VGC",
+    "site_name": "VGC",
+    "trust": "high",
+    "text": "Wondering how to unlock the laptop in Boobie’s apartment in GTA 6?\nDuring Chapter 3, Jason and Lucia gain access to a new apartment in Vice City, where you’ll find a password-protected laptop containing several private messages and much more. Unlock the GTA 6 safe codes, where you can enter the code without finding it in the world, you have to do a few things for this password.\nNote: Do this in Chapter 3. Don’t leave it too late.\nHere’s the GTA 6 laptop password and how to find all the clues needed to unlock Boobie’s laptop.\nCheck out our GTA 6 walkthrough hub for everything you need to know about Rockstar‘s latest epic.\nGuides: If you're playing Grand Theft Auto 6, make sure to check out our complete walkthrough hub, featuring beginner tips, navigation experience explained, GTA 6 cheats, and more.\nThe password for Boobie’s laptop in GTA 6 is MuffinsQueen15.\nYou’ll need to enter the password without spaces to gain access to the computer. The combination is made up of three clues: the name of Boobie’s dog, Muffins, a queen’s crown and the number 15.\nIn order to get these different options to enter, you have to explore Boobie’s apartment. Inspect everything that you can pick up, most vitally, the tribute to Boobie’s late dog, Muffins.\nThere are two main clues you’ll need to examine before you can work out the password.\nFirst, head out the bedroom towards the kitchen and look for a framed tribute dedicated to Boobie’s dog, Muffins. God rest her. This reveals the first part of the password.\nNext, go back to the bedroom and look near the bedside table. You’ll find a drawing featuring a dog wearing a crown.\nTurn this over to discover the number 15 written on the back. Combine the three clues to reveal the password: MuffinsQueen15.\nOnce you’ve entered the correct password, you’ll get access to the laptop and its chat messages.\nMost of the conversations provide additional background information about Boobie and his associates. However, one message from an unknown sender is particularly important. If you tab to the other page on the laptop, you’ll also get a look at Peekhole, the GTA 6 universe’s adult content website.\nCheck the messages for a clue directing you to a secret garage in La Perle. The message also provides the five-digit code 92665, which you’ll need to access the garage. In this garage, you’ll find a unique weapon tied to Boobie’s ex.",
+    "extra": {
+     "image": "https://www.videogameschronicle.com/files/2026/11/GTA-6-Chapter-3-Laptop-Password-2.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "🗺 Гайд: как взломать ноутбук Буби в Главе 3\n\nПароль от ноута в квартире: MuffinsQueen15 (вводить без пробелов). Найти подсказки можно в спальне и на кухне, изучив рамку собаки Маффинс и рисунок короны с цифрой 15 на обороте.\n\nВнутри ноутбука ищите переписку с кодом 92665 — он откроет секретный гараж в Ла Перль с уникальной пушкой.",
+    "card_title": "ПАРОЛЬ ОТ НОУТБУКА БУБИ",
+    "reason": "Подтверждённый гайд от VGC, интересный секрет в игре",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": true,
+    "model": "groq:openai/gpt-oss-120b → gemini:gemini-3.5-flash"
+   },
+   "queued_at": "2026-11-21T18:14:41.215078+00:00"
   },
   {
    "item": {
@@ -7086,49 +6695,140 @@
   },
   {
    "item": {
-    "title": "GTA VI выглядит хуже, чем задумано. Эксперт раскрыл секрет правильной настройки HDR",
-    "link": "https://ixbt.games/news/2026/11/21/gta-vi-vygliadit-xuze-cem-zadumano-ekspert-raskryl-sekret-pravilnoi-nastroiki-hdr.html",
-    "summary": "GTA VI демонстрирует не лучшую графику из-за ошибки HDR на PS5 и Xbox Series X|S. Эксперт по калибровке телевизоров обнаружил способ исправить ситуацию.",
-    "published": "2026-11-21T05:25:00+00:00",
-    "source": "iXBT.games",
-    "site_name": "iXBT.games",
-    "trust": "medium",
-    "text": "GTA VI демонстрирует не лучшую графику из-за ошибки HDR на PS5 и Xbox Series X|S. Эксперт по калибровке телевизоров обнаружил способ исправить ситуацию.\nНесмотря на впечатляющую детализацию мира, освещение и пейзажи, GTA VI может выглядеть хуже, чем позволяет устройство игроков. На проблему обратил внимание Винсент Тео, специалист по профессиональной калибровке дисплеев и автор канала HDTVTest. Он проверил работу HDR и обнаружил, что настройки в игровом меню не соответствуют реальной яркости изображения.\nНапример, если телевизор поддерживает 1000 нит и игрок выставляет это значение в настройках максимальной яркости, наиболее светлые участки картинки достигают лишь примерно 600 нит. При этом GTA VI игнорирует настройки HDR, заданные на уровне PS5 и Xbox Series X|S.\nДополнительные проблемы связаны с тремя ползунками калибровки. Снижение Paper White ниже 50 уменьшает фактическую максимальную яркость, хотя тестовый экран продолжает отображать прежнее значение. Если же оставить стандартные 50, средние тона становятся чрезмерно светлыми, из-за чего некоторые сцены выглядят блеклыми.\nТео предложил собственные настройки для телевизоров с яркостью от 1000 нит: Maximum Brightness (максимальная яркость) – 2000 нит, Black Levels (уровень чёрного) – 20, белый цвет – 35. Эксперт объясняет необычно высокое значение максимальной яркости особенностями работы калибровки в GTA VI. Также он рекомендует проводить настройку в затемнённой комнате. Уровень чёрного лучше начинать с нуля, постепенно повышая его до момента, когда тестовый узор станет едва заметным.\nНе пропускайте наши новостиДобавьте сайт в предпочитаемые источники, чтобы видеть нас чащеДобавить в Google",
-    "extra": {}
+    "title": "GTA 6 Makes Fun Of Call Of Duty With A Joke About Unions While Rockstar Devs Are Voting To Unionize",
+    "link": "https://kotaku.com/gta-6features-a-parody-of-call-of-dutythat-contains-a-joke-about-unionizing-2000759139",
+    "summary": "It's a funny ad poking fun at another big franchise, but is a bit awkward as Rockstar deals with its own employees trying to form a union",
+    "published": "2026-11-21T17:22:00+00:00",
+    "source": "Kotaku",
+    "site_name": "Kotaku",
+    "trust": "high",
+    "text": "Grand Theft Auto 6GTA 6Rockstar GamesUnion\nGrand Theft Auto 6 is launching at the same time Rockstar developers are voting on the future of their union. Meanwhile, 31 former employees have been fighting Rockstar in court over claims they were fired as part of union-busting tactics, which the company denies. All of this makes a silly Call of Duty parody commercial in GTA 6 far more interesting, as the ad directly references unionizing and its benefits.\nIn GTA 6, you can find many radio stations playing hundreds of songs. But these stations also have DJs and commercials, including ads for in-universe movies, books, shows, and even video games. One of these ads is for the new AAA military shooter Righteous Slaughter: Domestic Infection, the latest entry in the GTA universe’s satirical spin on Call of Duty. The ad claims the biggest threat to the country is a disease that makes people think “anti-American thoughts.” One sign someone has been infected with the “Liberal Cuck Contagion”? They start thinking about fair wages and unions.\nTowards the end of the ad, two soldiers fighting to stop the disease have this exchange:\nSoldier 1: “You know, we’ve been working on this mission with no benefits, no security…”\nSoldier 2: “What are you saying??” Soldier 1: “Maybe we should look into… unionizing?”\nSoldier 2: “They got Jimmy! I repeat, Jimmy’s infected!!!”\nIn a vacuum, it’s a funny skewering of how military shooters tend to be more conservative in their politics, often presenting soldiers as heroes of American values and the way these same right-wing folks often hate concepts, like unions, that improve people’s lives.\nBut in the context of the ongoing union recognition vote and court battle in the UK over Rockstar’s firing of 31 employees who were involved in union activities at the studio, this joke hits differently. It almost feels subversive, like the people who helped write and produce this ad in GTA 6 are punching back at their own bosses and the folks at the very top of Rockstar Games and parent company Take-Two Interactive. Currently, both sides are awaiting the judge’s ruling.\n“With a recognised union, we can ensure everyone, across every department, sees a fair share of the success we contributed to,” wrote Rockstar developer and union member Nestor Uriarte in The Guardian recently. “Our games are industry-leading. Our wages, conditions and bonuses should be too.”\n“Whatever happens in this ballot, our union will continue fighting for a studio that works for",
+    "extra": {
+     "image": "https://kotaku.com/app/uploads/2026/11/codgta-1280x720.jpg"
+    }
    },
    "verdict": {
     "type": "confirmed",
-    "importance": 8,
-    "post": "🗺 Гайд: Как поправить HDR в GTA VI на PS5/XS 🎮\n\n1️⃣ В тёмной комнате зайди в настройки ТВ: Maximum Brightness = 2000 нит, Black Levels = 20, White = 35.\n2️⃣ В игре включи HDR, оставь Paper White = 50.\n3️⃣ Если яркость падает – снизь Paper White чуть ниже 50, но не ниже 30.\n4️⃣ Проверь тестовый узор – если едва виден, всё имба. 🎯",
-    "card_title": "HDR НАСТРОЙКИ GTA VI",
-    "reason": "Подтверждённый совет от эксперта, полезный гайд по настройке графики",
+    "importance": 6,
+    "post": "😂 В GTA 6 нашли жёсткий ПОДКОЛ боссов Rockstar\n\nНа радио в игре крутят пародию на Call of Duty, где солдат «заражают» мыслями о честной зарплате и профсоюзах. Выглядит как жирный троллинг начальства, ведь у самой Rockstar сейчас идёт голосование за профсоюз и суд из-за увольнения 31 работника — чистый рофл.\n\n❤️ — авторам респект, база\n👎 — лишнее, игра не про это",
+    "card_title": "ШУТКА ПРО ПРОФСОЮЗ В GTA 6",
+    "reason": "Подтверждённый факт из Kotaku, интересный контент, но не гайд",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "groq:openai/gpt-oss-120b → gemini:gemini-4-hydrogen"
+   },
+   "queued_at": "2026-11-21T18:17:14.657070+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA 6 Equipment: All 12 pieces of equipment explained and how to unlock them",
+    "link": "https://www.gamesradar.com/games/grand-theft-auto/all-gta-6-equipment-explained/",
+    "summary": "Get the essential key items in GTA 6 that will make you a more effective criminal",
+    "published": "2026-11-21T16:40:00+00:00",
+    "source": "GamesRadar+",
+    "site_name": "GamesRadar+",
+    "trust": "high",
+    "text": "If you've been having a look around in the Progress section of the GTA 6 Index, you've most likely spotted the Equipment tab. There are 12 unique pieces of Equipment in GTA 6, all of it essential for finding new ways to explore the map and generally being a better criminal.\nWhile all of the GTA 6 Equipment unlocks progressively throughout the main GTA 6 missions list, if you're feeling a little impatient I'm here to help you understand what's coming later down the line. I'm going to detail what each piece of equipment does in GTA 6, how it can be used, and where it can be unlocked.\nThe Binoculars in GTA 6 can be used to scope out enemy targets, mark enemies on the map, identify animals from afar, and even let you participate in a little bird watching (there are 60 of them in total across Leonida). The Binoculars can be equipped at all times from your loadout by holding L1/LB and selecting them from there.\nThe Flashlight in GTA 6 can be used to help bring a little light to dark buildings and the world itself at night. Admittedly, it's a little cumbersome, so consider going to an Ammu-Nation and fitting a torch to one of your weapons. If you don't want to go that route, then open your loadout with L1/LB, scrolls to where the binoculars are; use left and right on the D-pad on the equipment slot to select the flashlight.\nStash bags are essential in GTA 6, letting Jason and Lucia get out from banks and other robbery targets with more than $20,000 in Pocket Cash. Each character can hold up-to two duffel bags at any one time, and any narcotics, jewellery, or marked bills you pick up will automatically be thrown inside. Stash bags have different capacities, which are determined depending on the size of the building you're robbing.\nAs soon as you're able to free-roam the world in the Gear Up mission, you're free to purchase a pair of headphones. This is entirely optional, but buying headphones in GTA 6 will let you listen to music and podcasts outside of a vehicle. Purchase headphones and earbuds at any electronics store in the world for both Jason and Lucia – just beware: these can be knocked off your head and become lost.\nUnlocks in GTA 6 Chapter 3: Meet the Heders\nHave you noticed any sealed wooden crates in your travels across Leonida? Well, more often than not they can actually be broken into – often containing ammunition, weapons, collectibles, and more. You'll get the Pry Bar added to your loadout during Chapter 3, where it will equip automatically as soon a",
+    "extra": {
+     "image": "https://cdn.mos.cms.futurecdn.net/pTdNkh2uBj8pTUrQkDk67Y-1920-80.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "🗺 Гайд: как работает СНАРЯЖЕНИЕ в GTA 6\n\nОсновное снаряжение открывается по сюжету, вот база:\n• Бинокль и фонарик (L1/LB): палят врагов и 60 птиц. С фонариком душно — проще прикрутить свет к стволу в Ammu-Nation.\n• Сумки: до двух на перса, уносят больше $20 тыс. и ювелирку.\n• Наушники: бери после Gear Up для музла пешком (могут выбить с башки — и прощай вайб!).\n• Лом: дадут в 3-й главе для взлома ящиков.",
+    "card_title": "ГАЙД ПО СНАРЯЖЕНИЮ GTA 6",
+    "reason": "Подтвержденный гайд от GamesRadar+, полезный для игроков",
     "duplicate": false,
     "corroborated": false,
     "duplicate_of": "",
     "corroborated_by": "",
     "guide": true,
-    "model": "groq:openai/gpt-oss-120b → groq:openai/gpt-oss-120b"
+    "model": "groq:openai/gpt-oss-120b → gemini:gemini-4-hydrogen"
    },
-   "queued_at": "2026-11-21T06:02:15.272363+00:00"
+   "queued_at": "2026-11-21T18:18:28.587263+00:00"
   },
   {
    "item": {
-    "title": "How to Get Paul Walker’s Mitsubishi Eclipse in GTA 6",
-    "link": "https://www.gtaboom.com/how-to-get-paul-walkers-mitsubishi-eclipse-in-gta-6-36b8",
-    "summary": "Get GTA 6's Paul Walker inspired Penumbra FF before finishing Moses' mission, then use his one time offer to save $6,750 on registration.",
-    "published": "2026-11-21T00:46:11+00:00",
-    "source": "GTA BOOM",
-    "site_name": "GTA BOOM",
-    "trust": "medium",
-    "text": "One of the coolest Easter egg vehicles in GTA 6 is a clear nod to the late Paul Walker and his iconic 1995 Mitsubishi Eclipse from The Fast and the Furious. In the game, the car takes the form of the ‘97 Penumbra FF, which is modelled after the second-generation Eclipse. This guide walks you through exactly where to find it, how to grab it, and how to register it as your own so you never lose it, including a neat trick to do it for free.\nYou’ll find the Paul Walker Eclipse over in Vespucci Beach, tucked away in the garage of one of the houses.\nOnce you’re at the location, there are two ways to get inside. You can break through the door on the right, but keep in mind this triggers a security alarm. The cleaner option is to walk up to the main garage door and interact with it by pressing Triangle to Slim Jim it open, which won’t set anything off.\nEither way, we’d recommend doing this at night. There are far fewer witnesses around, so there’s less chance of someone spotting you and calling the cops.\nFrom there, smash the car window, hop in, and drive away.\nHow to Register It as Your Personal Vehicle\nTo make sure you never lose the car, you'll want to register it. You only unlock the ability to register vehicles after completing the main mission called Moses. Finishing that mission gets you an upgraded scanner, plus the option to sell and register vehicles at Moses' garage for a fee.\nRegistering the Penumbra FF will cost you $6,750.\nThere's also a way to register it completely free, but there's a catch, it's only possible if you haven't finished the Moses mission yet.\nWhen you first meet Moses and complete his mission, he gives you a one-time offer to register any vehicle for free. So the trick is to go and grab the Paul Walker Eclipse before cashing in that offer, then bring it to Moses and register it as your own at no cost. If you've already used up that free registration, you'll have to pay the $6,750 instead.\nWhen you register the car at Moses' garage, a respray is mandatory, which means you'll lose the car's original color and livery in the process.\nThe good news is you can easily get the original color back. Head to the Vice Vinyl mod shop in Vice City, and make sure you've got at least $540 on you. If your car needs fixing, it'll cost $355 to repair it first, and then immediately after you'll get the option to restore the paint job for $185, which brings back the car’s original color. Add those together and you're looking at $540 to cover both.\nIf you'",
-    "extra": {}
+    "title": "Learn how to get a mask in GTA 6 to stay anonymous when committing a crime",
+    "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-masks-how-to-get-equip/",
+    "summary": "Learning how to buy, manage, and equip a mask in GTA 6 is vital for losing some of your Appearance Heat",
+    "published": "2026-11-21T16:35:00+00:00",
+    "source": "GamesRadar+",
+    "site_name": "GamesRadar+",
+    "trust": "high",
+    "text": "If you want to be a better criminal in Leonida, you're going to need to learn how to get a mask in GTA 6. Despite Rockstar making appearance a key factor in the new Wanted system, the game isn't super clear on the steps you can take to hide your identity – particularly as you're progressing through Chapter 1 of the GTA 6 missions list. Thankfully, I'm here to help you understand how to get neckwear in GTA 6, how to equip masks, and how to change them for new ones.\nYou can buy a mask in GTA 6 from any of the gun stores. Chuck's Tackle & Shot in Key Lento sells them (look at the central stand with the alligator head atop of it) from the beginning of the game, but you can head to any Ammu-Nation retailer to find more. Open up the GTA 6 Index, head into the weapons tab, and you'll be able to find all the relevant shops on your map. When you begin exploring Vice City and Vice Beach, you'll also find thrift stores that sell novelty masks, and high-end retailers which sell very fancy (and expensive) coverings that can be worn as well.\nTo wear a mask in GTA 6, you need to make sure that it's with you. You can add neckwear items to your loadout by visiting the wardrobe in your residences. Scroll to the accessories tab and that's where you'll find the Masks option, which separates them by brand. If you want options while you're on the road, you can also store some in the trunk of your personal vehicle in GTA 6 by highlighting it and pressing Square/X.\nWith a mask in your loadout, wearing it is as simple as holding L1/LB to open your loadout. Press R1/RB to scroll to the items menu, and then select Mask from the neckwear slot located at twelve-o'clock in the wheel. Press A to put it on, press A to remove it. Easy enough, and vital if you want to lose some of your Appearance Heat after robbing a store with CCTV equipment.\nWhile hovering over the neckwear slot of your loadout, you can also press up and down to change the wear style of your mask in GTA 6. The first will see the mask conceal your face, which will draw panicked reactions from shop clerks, while the second will let you fashion the mask more appropriately.\nHave more questions that you want answered? Then you should visit our GTA 6 Guide and Walkthrough hub for more essentials.\nHow to use the GTA 6 Index to find your next objective\nHow to unlock GTA 6 Ultimate Edition Content and when you can use each item\nHow to get classic GTA 5 controls in GTA 6\nWhere is GTA 6 Online and GTA 6 multiplayer?\nThe complete GT",
+    "extra": {
+     "image": "https://cdn.mos.cms.futurecdn.net/pedj59HZkpoTirtzBk7V6g-1920-80.jpg"
+    }
    },
    "verdict": {
     "type": "confirmed",
-    "importance": 8,
-    "post": "Гайд: Тачка Пола Уокера в GTA 6\n\nИмба-тачка в стиле «ФорсаЖА» ждет в гараже на Веспуччи-Бич. Забирай ночью тихо через гаражную дверь, чтобы не палить тревогу.\n\n\n❤️ — Уже угнал\n👎 — Гоняю на стоке",
-    "card_title": "МИСТЕРСИБУШАИЛЧИК",
-    "reason": "Гайд и пасхалка по вышедшей игре",
+    "importance": 6,
+    "post": "🗺 Гайд: как надеть МАСКУ и спрятаться от камер\n\nВ первой главе игра про это молчит, а палить лицо в магазине — так себе вайб. База для налётов:\n1. Купи маску в оружейке (в Кей-Ленто — стойка с аллигатором в Chuck's Tackle & Shot) или в магазинах Вайс-Сити.\n2. Добавь её в снаряжение через шкаф дома или положи в багажник тачки.\n3. Зажми L1/LB → R1/RB → верхний слот. Вверх/вниз — и маска натянута на лицо, продавцы сразу оценят.",
+    "card_title": "КАК НАДЕТЬ МАСКУ В GTA 6",
+    "reason": "Подтверждённый гайд от GamesRadar+, полезен игрокам, тип confirmed, важность 6",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": true,
+    "model": "groq:openai/gpt-oss-120b → gemini:gemini-4-hydrogen"
+   },
+   "queued_at": "2026-11-21T18:18:49.820291+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA 6 The Final Flush mission walkthrough",
+    "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-final-flush-increase-maximum-stamina/",
+    "summary": "How to start and complete The Final Flush optional mission in GTA 6.",
+    "published": "2026-11-21T18:14:45+00:00",
+    "source": "GamesRadar+",
+    "site_name": "GamesRadar+",
+    "trust": "high",
+    "text": "Should you enter the sewage treatment plant chamber\nThe Big Flush in GTA 6 is an optional mission, but it's well worth your time for a permanent stamina upgrade. You can start this GTA 6 mission from Chapter 1 onwards, and once it's done it's incredibly useful reward will allow you to do energy-draining activities, like running and swimming, for longer. It's also just a fun side mission to do. After finding an odd poster in a men's bathroom stall, you are enlisted to help oddball Dr. Merle to prove his bizarre conspiracy theory that the government is stealing DNA from poop (which is seemingly based on a real report about Putin) and things only get stranger from there.\nHow to start The Final Flush mission in GTA 6\nTo start The Final Flush mission in GTA 6, go to the bathroom block toward the north tip of Corsair Key in Mariana County (just north-east of Key Lento). It should be easy to find as it's the only building in Corsair Key. Enter the men's toilet and you'll see a handmade poster on the wall that says \"Stop! Don't Flush.\nScan to learn the truth #NOFLUSHERS\" with a QR code attached. Use your WaiNK IT app to scan the code and you'll receive a message from an Automated Machine that tells you to reply \"TRUTH\" to join the No Flushers movement. Select the \"Truth\" reply and you'll receive another message telling you that whoever is messaging will be at Frank's Waffles in Vice City. If asked, you need to repeat the code: 00-00-02.\nYou need to meet the mystery No Flusher at Frank's Waffles in the Tequesta neighborhood of Vice City, in Vice-Dale County. When you enter the waffle house, you'll find a man muttering to himself in one of the booths nearest the toilets. However, he seemingly won't appear if it's not night time, as, when I went during the day, the mission icon had a padlock on it and the man wasn't there.\nWhen you get near the man, he covers up whatever he's working on and tells you that he's holding a royal flush. When he asks do you have a \"coda for that?,\" hold LT/LR while looking at the man to bring up the dialogue menu and select the code option with X/A.\nThe oddball man is Dr. Merle, who quickly ingests a tracking device and begins waffling (no pun intended) about his conspiracy theory that the poop of Leonida citizens isn't actually going to the sewers but is instead going to a secret government DNA siphoning center. He then goes to the corporate-controlled bathroom to deposit the tracking device into the federally-controlled sewers, so you c",
+    "extra": {
+     "image": "https://cdn.mos.cms.futurecdn.net/EZNjtCKEFBt687outDzKCH-1920-80.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "🚽 Финальный Flush: получи постоянный stamina\n\n🗺 Гайд:\n1️⃣ На севере Corsair Key (Mariana County) зайди в единственный туалет, найди постер с QR‑кодом.\n2️⃣ Сканируй его в приложении WaiNK IT, выбери «TRUTH», получишь координаты Frank’s Waffles в Vice City.\n3️⃣ Приходи ночью, подойди к Dr. Merle, введи код 00‑00‑02 и пройди диалог.\n4️⃣ Выполни квест – навсегда повышенная выносливость, плюс крутая история про правительство и… 💩.\n\n✅ Лутим stamina, лутим репутацию!",
+    "card_title": "ФИНАЛЬНЫЙ FLUSH ГАЙД",
+    "reason": "Подтверждённый гайд от GamesRadar+, интересен игрокам для получения постоянного бонуса.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": true,
+    "model": "groq:openai/gpt-oss-120b"
+   },
+   "queued_at": "2026-11-21T18:35:41.802415+00:00"
+  },
+  {
+   "item": {
+    "title": "How to unlock the Dye-Pack Jammer in GTA 6 to finally steal Marked Bills",
+    "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-dye-pack-jammer-how-to-unlock/",
+    "summary": "Sick of Jason and Lucia getting covered in pink dye every time they touch a Marked Bill? Then you need the GTA 6 Dye-Pack Jammer",
+    "published": "2026-11-21T16:25:00+00:00",
+    "source": "GamesRadar+",
+    "site_name": "GamesRadar+",
+    "trust": "high",
+    "text": "Have you tried robbing a bank or loan store in Vice City, and made off with a duffel bag of marked bills, only to find that Jason and Lucia get covered in pink paint once they've made a successful getaway? If you're sick of this happening to you, then you need to get yourself a Dye-Pack Jammer in GTA 6.\nThis essential piece of equipment is used to disable the signal transmitted by dye-packs, which are attached to all marked bills from high-end robbery locations across Leonida. You'll know if you're at risk of getting marked – making yourself exceedingly obvious to patrolling cops, at least until you can change your appearance – because you'll hear a sharp beeping noise just before the explosion. It's classic GTA 6.\nYou will unlock the GTA 6 Dye-Pack Jammer as part of the main story progression. You'll need to complete Credit Check, which is Chapter 3's 16th mission in GTA 6. You'll collect the equipment from a character named Karim, and it is not missable. This is the only way you can unlock the Dye-Pack Jammer in GTA 6.\nWhat does the Dye-Pack Jammer do in GTA 6?\nOnce you've unlocked the Dye-Pack Jammer in the Credit Check mission, you'll now be able to steal Marked Bills from Banks and Payday Loan locations. While it's possible to acquire Marked Bills before this, none of the GTA 6 fence locations will accept them and they will more often than not result in you getting pink dye all over your clothes.\nOnce you have the Dye-Pack Jammer, you're free to rob who and what you like. And you never need to fear the risk of getting covered in dye ever again. So it's well worth progressing early into Chapter 3 to get this item as soon as you're able to.\nHave more questions you want answered? Then visit our GTA 6 Guide and Walkthrough hub for more essentials.\nHow to use the GTA 6 Index to find your next objective\nHow to unlock GTA 6 Ultimate Edition Content and when you can use each item\nHow to get classic GTA 5 controls in GTA 6\nWhere is GTA 6 Online and GTA 6 multiplayer?\nThe complete GTA 6 Trophy and Achievement list\nHow to find Bigfoot in GTA 6 and complete all Skunk Ape side quests\nGTA 6 Wanted Levels and Heat system explained\nHow to get a Six-Star Wanted Level in GTA 6\nGTA 6 romances and relationship status explained\nHow to switch between Jason and Lucia in GTA 6\nHow to farm money in GTA 6 and make cash fast\nHow to manage money in GTA 6 and use BuckMe bank\nShould you pay into the family savings account in GTA 6?\nHow to sell illegal goods and stolen items in GTA",
+    "extra": {
+     "image": "https://cdn.mos.cms.futurecdn.net/mQXGcfLNQdeWPJzDx5BVzD-1920-80.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "🗺 Гайд: Как снять защиту с купюр\n\nНадоело отмывать розовую краску после ограблений в Вайс-Сити? Проходи миссию Credit Check в третьей главе, забирай у Карима нужный девайс — и лутай банки без палева. База для богатой жизни!\n\n❤️ — Ограблю всё!\n👎 — Проще сбежать от копов",
+    "card_title": "КАК РАЗБЛОКИРОВАТЬ ГЛУШИТЕЛЬ",
+    "reason": "Гайд по разблокировке глушилки для кражи денег без розовой краски",
     "duplicate": false,
     "corroborated": false,
     "duplicate_of": "",
@@ -7136,7 +6836,65 @@
     "guide": true,
     "model": "gemini:gemini-3.5-flash-lite"
    },
-   "queued_at": "2026-11-21T06:21:37.664056+00:00"
+   "queued_at": "2026-11-21T18:35:47.876076+00:00"
+  },
+  {
+   "item": {
+    "title": "Where to get a Key Cloner in GTA 6 to steal premium cars",
+    "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-key-cloner-how-to-get/",
+    "summary": "Here's how you can clone keys in GTA 6 and finally make some real money",
+    "published": "2026-11-21T16:25:00+00:00",
+    "source": "GamesRadar+",
+    "site_name": "GamesRadar+",
+    "trust": "high",
+    "text": "If you're looking to upgrade the quality of the car you're driving around Leonida in, there's a good chance you're wondering how to clone keys in GTA 6. While you can steal basic vehicles right from the beginning of the game, either by smashing the window or using a slim jim, keyless cars require specialist equipment before you're able to make off with the ride.\nWith that in mind, I'm going to explain how to get the GTA 6 Key Cloner and how you can use it to steal more expensive vehicles.\nThe GTA 6 Key Cloner isn't available until you progress into Chapter 3 of the GTA 6 Mission list. It's the 17th main story mission where you'll be asked to Steal the Zorrusso For Randy, a new vehicle fence who will pay top-dollar for luxury cars and will even ask you to collect rare vehicles on his behalf.\nTo do that, you'll need to be able to clone keys in GTA 6. Randy will install the Key Cloner application on your phone as part of this mission. It isn't possible to clone keys until you have reached this point.\nWith the Key Cloner application installed on your phone, you're now able to get inside nicer cars and drive them away. Use the WAiNK app on your phone by holding Up on the D-pad to identify whether a car requires a key cloner to get inside, and whether the vehicle has any security trackers.\nSo long as you have the Key Cloner, just walk up to the driver's side door and press Triangle/Y to begin cloning the key. You'll need to rotate the right-thumbstick until you find the sweet spot, which will be indicated by a lour whirring sound and rumble in your controller. You're now able to get inside without setting off the car alarm.\nJust because you can get inside a keyless vehicle easily enough, it doesn't mean that there aren't consequences. This class of vehicle will typically have trackers installed, which can be identified by pressing up on the D-pad once you're behind the wheel (look underneath the vehicle name).\nWeekly digests, tales from the communities you love, and more\nStandard Trackers are easy enough to deal with, so long as you don't attract the attention of the police. It's worth noting that you are restricted from making modifications to cars with standard trackers, at least until you drive them to Randy's garage and register it as a personal vehicle in GTA 6.\nAdvanced Trackers are more of a problem. These will ping your exact location to cops as soon as you begin to drive too slowly. You also won't be able to fence (or own) this class of vehicle until yo",
+    "extra": {
+     "image": "https://cdn.mos.cms.futurecdn.net/DAQCUviKWBZyfkaQ7rtC2Z-1920-80.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "🗺 Гайд: Как раздобыть клонгер ключей в GTA 6\n\nНужно спереть премиум-тачку без шума? Ищи клон-ключ!\n\nПроходи сюжетку до 3 главы и миссии с Рэнди. Он закинет проггу на твой мобильник. Подойдешь к тачке, покрутишь стик до щелчка — и аппарат твой, база.",
+    "card_title": "КАК УГОНЯТЬ КРУТЫЕ ТАЧКИ",
+    "reason": "Гайд по получению клонгера ключей для угона дорогих тачек в GTA 6.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": true,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "queued_at": "2026-11-21T18:35:50.422372+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA 6 Transgressor locations: How to restore the first car for Wyman",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-transgressor-locations/",
+    "summary": "Find cars for Wyman to fix the 67' Sirius Transgressor.",
+    "published": "2026-11-21T14:43:05+00:00",
+    "source": "PC Gamer",
+    "site_name": "PC Gamer",
+    "trust": "high",
+    "text": "You'll be able to start looking for GTA 6 Transgressor locations after you complete the Thrillbillies mission in Chapter 2 and collect the Vapid Dominator from Wyman (if you have the Ultimate Edition, that is).\nHe'll text to ask for help finding old wrecked Transgressors he can use to restore the classic car, which you'll then get to drive. There are three of these junks located around Port Gellhorn which you'll have to scan with the Waink It app.\nThe first wrecked Transgressor you can find is in a trailer park north of Sarena's Bargain Store in the middle of Port Gellhorn (you might have to zoom in to see the store). Head north, cross the road, and jump over the wall to find it there.\nThe second wrecked Transgressor is further north in the garage of the house opposite the Kolt & Associate's Stash House robbery (there's a metal sunflower standing in the garden, which makes it easier to recognise.) It's also to the east of Brook's Boatworks and the west of Wasteland Offroad. Head around the side of the house via the driveway to find the car in an open garage at the back.\nThis last one is nice and easy, behind the Dirt Merchants mod shop in the south of Port Gellhorn. Simply head right via the track that leads behind the shop, following the fence on your right and then turn left to find the wreck at the back behind the kind of trailer park area.\nOnce you have all three cars scanned, Wyman will take a little time to assemble it, and then call you asking to Buck him some money. Open the app, select the payment requests option, and then pay him the $1,500 for the car. This will give you a quest marker to collect it from his scrapyard.\nGTA 6 guide: One-stop info shopGTA 6 cars: The garage lineupGTA 6 characters: Your anti-hero castGTA 6 map: Confirmed Vice City localesGTA 6 PC release: When's it going to happen?\nKeep up to date with the most important stories and the best deals, as picked by the PC Gamer team.\nSean's first PC games were Full Throttle and Total Annihilation and his taste has stayed much the same since. When not scouring games for secrets or bashing his head against puzzles, you'll find him revisiting old Total War campaigns, agonizing over his Destiny 2 fit, or still trying to finish the Horus Heresy. Sean has also written for EDGE, Eurogamer, PCGamesN, Wireframe, EGMNOW, and Inverse.\nYou must confirm your public display name before commenting\nPlease logout and then login again, you will then be prompted to enter your display name.\n1 The best VPN",
+    "extra": {
+     "image": "https://cdn.mos.cms.futurecdn.net/Zsq8XcWVvA37H4bJYN6Lbi-1920-80.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "🗺 Гайд: Где искать обломки Transgressor\n\nЗахотел прокатиться на классике? Вот где спрятаны все три тачки для Уаймана в Порт-Гелхорне.\n\n1. В трейлерном парке к северу от магазина Sarena’s Bargain Store за забором.\n2. В открытом гараже дома с металлическим подсолнухом на участке, напротив тайника.\n3. Сзади модшопа Dirt Merchants в южной части района.\n\nСканируй через Waink It, плати 1,5 косаря и тачка твоя! Сборка тачки — та еще база.",
+    "card_title": "КАК НАЙТИ МАШИНЫ УАЙМАНА",
+    "reason": "Гайд по поиску машин для Уаймана в GTA 6",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": true,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "queued_at": "2026-11-21T18:35:58.279589+00:00"
   },
   {
    "item": {
@@ -7221,22 +6979,53 @@
   },
   {
    "item": {
-    "title": "Осторожнее с записями GTA VI. Microsoft начала блокировать аккаунты игроков",
-    "link": "https://ixbt.games/news/2026/11/21/ostoroznee-s-zapisiami-gta-vi-microsoft-nacala-blokirovat-akkaunty-igrokov.html",
-    "summary": "Владельцы Xbox Series X|S получают двухдневные блокировки за записи геймплея GTA VI. Автоматическая модерация Microsoft принимает обычные сцены на пляже за нарушение правил из-за обнажёнки.",
-    "published": "2026-11-21T05:48:00+00:00",
+    "title": "В GTA VI разблокировали частоту кадров и получили более 60 FPS — игроки раскритиковали Rockstar за отсутствие официального режима",
+    "link": "https://ixbt.games/news/2026/11/21/v-gta-vi-razblokirovali-castotu-kadrov-i-polucili-bolee-60-fps-igroki-raskritikovali-rockstar-za-otsutstvie-oficialnogo-rezima.html",
+    "summary": "Ждать релиз на ПК не пришлось.",
+    "published": "2026-11-21T17:52:00+00:00",
     "source": "iXBT.games",
     "site_name": "iXBT.games",
     "trust": "medium",
-    "text": "Владельцы Xbox Series X|S получают двухдневные блокировки за записи геймплея GTA VI. Автоматическая модерация Microsoft принимает обычные сцены на пляже за нарушение правил из-за обнажёнки.\nПосле выхода GTA VI некоторые пользователи Xbox столкнулись с проблемами. Игроки сообщают о двухдневных блокировках аккаунтов после загрузки записей игрового процесса на серверы Xbox Live. Дело в том, что консоли Microsoft по умолчанию могут автоматически отправлять сохранённые видеоролики на проверку. Система анализирует их на наличие обнажёнки, сексуального контента, чрезмерного насилия, запрещённых веществ и разжигания ненависти.\nОдин из пользователей Reddit утверждает, что получил бан за обычную прогулку по пляжу в Леониде. По его словам, запись содержала лишь стандартные виды побережья Вайс-Сити и неигровых персонажей в купальниках и бикини. Никакой наготы в ролике не было, однако автоматическая модерация всё равно сочла его нарушением правил. Другие сообщения также указывают на возможные ошибки системы.\nПроблема заключается в том, что GTA VI действительно содержит немало сцен с обнажёнкой, поэтому вероятность случайно записать спорный эпизод выше, чем во многих других играх. Microsoft, похоже, применяет одинаковые правила модерации независимо от возрастного рейтинга проекта. В результате под блокировку может попасть даже запись официально выпущенной игры.\nSome Xbox players are reporting receiving a suspension after GTA 6 clips auto-uploaded showed nudity If you're playing on Xbox Series X|S, be sure to turn off auto-upload to be safe: Settings > Preferences > Capture & share > Automatically upload > Don't upload.\nЧтобы избежать подобных неприятностей, игрокам советуют отключить автоматическую отправку видеороликов. Для этого нужно открыть настройки Xbox, перейти в раздел «Параметры», затем «Запись и общий доступ» и выбрать вариант «Не отправлять» в настройках автоматической загрузки.\nНе пропускайте наши новостиДобавьте сайт в предпочитаемые источники, чтобы видеть нас чащеДобавить в Google",
-    "extra": {}
+    "text": "Недавно состоялся релиз Grand Theft Auto VI на консолях PlayStation 5 и Xbox Series X|S. Игра работает в целевых 30 FPS даже на PlayStation 5 Pro, что очень огорчило некоторых игроков. Однако всё же существует способ получить 60 FPS и даже больше — без использования трансляции игры на ПК с последующей обработкой изображения с помощью DLSS, Frame Generation и и других технологий.\nПользователь под ником Meowwie64 обнаружил баг, который позволил разблокировать частоту кадров в Grand Theft Auto VI. На данный момент подтверждено, что этот способ доступен игрокам на консолях Xbox Series X.\nGTA VI FPS Unlock Glitch by u/Meowwie64 in r/GTA6unmoderated\nMeowwie64 указал «требования», необходимые для воспроизведения бага:\nXbox Series X (он не проверял на Xbox Series S, но допускает, что и на этой консоли баг может сработать)\nGrand Theft Auto VI (он использовал версию 01.002.001, но допускает, что и на более поздних версиях баг может сработать)\nУстановить частоту обновления экрана на 60 Гц\nЗапустить GTA VI и подождать, пока не отобразятся 6 звёзд во вступительном ролике.\nЗапустить другую игру на консоли через меню Xbox Guide (кнопка Xbox), не выходя из GTA VI.\nПереключиться обратно на GTA VI — после этого частота кадров должна разблокироваться, игра может работать в 60 FPS и выше.\nНо есть технический нюанс: Meowwie64 отметил, что игровые анимации и мир в целом, по всей видимости, ускоряются по меньшей мере в 2 раза при повышении частоты кадров. Игрок предполагает, что скорость работы игры привязана к FPS.\nТеперь недовольные игроки критикуют Rockstar Games, которая не добавила официальный режим с 60 FPS. Есть мнение, что «60 кадров» сделают эксклюзивом потенциального издания GTA VI Enhanced Edition для PlayStation 6.\nНе пропускайте наши новостиДобавьте сайт в предпочитаемые источники, чтобы видеть нас чащеДобавить в Google",
+    "extra": {
+     "image": "https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1744726/media-6523bd6927a8acf5860e33f7a7ba372f8b9cb40ca38fd21c3504186eaa2c5175.png"
+    }
    },
    "verdict": {
     "type": "confirmed",
-    "importance": 7,
-    "post": "🗺 Гайд: Как отключить авто‑загрузку клипов GTA VI\n\n1️⃣ Settings → Preferences → Capture & share.\n2️⃣ Выключи «Automatically upload» → «Don’t upload».\n3️⃣ Готово, теперь твой Xbox не получит двухдневный бан за пляжный вайб.",
-    "card_title": "БЛОКИРОВКИ ЗА КЛИПЫ GTA",
-    "reason": "официально подтверждено Microsoft, полезный совет игрокам",
+    "importance": 8,
+    "post": "🎮 В GTA 6 СМОГЛИ РАЗГОНАТЬ 60+ FPS\n\nИгрок нашел лютый баг на Xbox Series X: если во время заставки со звездами свернуть игру через гайд и запустить другой тайтл, фреймрейт слетает с цепи. Правда, есть нюанс — вся игра ускоряется в два раза, превращаясь в рофл-ралли. Народ уже вовсю тильтует на Rockstar за отсутствие официального 60 FPS режима.\n\nЖдете патч с нормальным режимом производительности?\n❤️ — Срочно завозите 60 кадриков!\n👎 — Да нормально и в 30 каток гонять",
+    "card_title": "60 FPS С БАГОМ В GTA 6",
+    "reason": "Подтверждённый баг, полезный гайд, высокий интерес игроков",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": true,
+    "model": "groq:openai/gpt-oss-120b → gemini:gemini-3.5-flash"
+   },
+   "queued_at": "2026-11-21T18:14:13.391006+00:00"
+  },
+  {
+   "item": {
+    "title": "Can You Repeat Robberies in GTA 6? Make More Money, Fast",
+    "link": "https://insider-gaming.com/can-you-repeat-robberies-in-gta-6-make-more-money-fast/",
+    "summary": "Is it possible to repeat robberies in GTA 6? Can you take on a gang hideout again after you've eliminated them all? Find out here. The post Can You Repeat Robberies in GTA 6? Make More Money, Fast appeared first on Insider Gaming .",
+    "published": "2026-11-21T18:26:47+00:00",
+    "source": "Insider Gaming",
+    "site_name": "Insider Gaming",
+    "trust": "medium",
+    "text": "In Grand Theft Auto 6, you’ll quickly learn that the fastest way to make money early is to rob things. The biggest stacks of cash and the most loot come from gang locations scattered around Leonida. It’s here that you’ll make the majority of your cash in the early- to mid-game run.\nBut what happens when you’ve robbed an area clean? Have those locations been cleared out for the rest of time? Or do they open back up so you can repeatedly rob them? In this guide, I’ll explain how the robbery loop works in Grand Theft Auto 6.\nIn GTA 6, you’ll find many gang hideouts and other locations on the map, all indicated by a yellow icon that represents the gang’s insignia. These are some of the highest-value areas in the game, and they’re bursting with loot – and enemies.\nWhen you hover over one of these locations on the map, you’ll see what’s there, what gang you’re facing, what the loot potential looks like, and how tough the resistance around that location will be. At the start of the game, you’ll see places offering just a few hundred dollars and defended by some low-level thugs.\nBut, before long, you’ll be staring down paydays of $20,000 – $30,000 or more, but you’ll also need to contend with potentially a couple dozen enemies, all heavily armed and ready to fight.\nFortunately, you’re very welcome to rinse and repeat in this game.\nWhen you rob a location and successfully clear it out and push away all the enemies there, you’ll see it becomes greyed out on the map. It will be explained that the gang has temporarily disbanded and left that location, and if you were particularly aggressive in taking it over, you might see a heightened police presence around it for a while.\nBefore long, the location will be taken back over by the gang that inhabited it, and there might even be some changes. For instance, the Brooks Boatworks location has a smaller, secondary location a couple of streets away. When you’ve emptied it and return later, you’ll see that the enemies have taken it back over and brought with them a new variant weapon that you can loot.\nBut this is where I have to explain a major caveat.\nWhile the enemies and their run-of-the-mill loot (such as cash and some drugs) will return after a while, the key valuables and any special loot will not.\nThese will not respawn unless you failed to secure them the first time. If that’s the case, the items will be waiting for you when you return.\nIt’s also worth pointing out that if you rob a store or something similar, that s",
+    "extra": {
+     "image": "https://insider-gaming.com/wp-content/uploads/2026/11/106fbf06-9e9f-46d5-a218-d424eb4d7263-1024x576.png"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "🔁 Повторные ограбления в GTA 6 – как качать бабки\n\nВ GTA 6 можно бесконечно грабить желтые метки: после очистки они сереют, потом банда возвращается и ждёт новых кентов. Кеш до 30 к – имба, а уникальные вещи только если ты их не схватил в первый раз. Заливай, рофл и качай банк!",
+    "card_title": "ПОВТОРНЫЕ ОГРАБЛЕНИЯ В GTA6",
+    "reason": "Подтверждённый гайд из статьи, полезный совет для игроков",
     "duplicate": false,
     "corroborated": false,
     "duplicate_of": "",
@@ -7244,34 +7033,7 @@
     "guide": true,
     "model": "groq:openai/gpt-oss-120b → groq:openai/gpt-oss-120b"
    },
-   "queued_at": "2026-11-21T06:01:42.283692+00:00"
-  },
-  {
-   "item": {
-    "title": "GTA VI вдохновлена культовыми криминальными фильмами. Rockstar раскрыла список картин",
-    "link": "https://ixbt.games/news/2026/11/21/gta-vi-vdoxnovlena-kultovymi-kriminalnymi-filmami-rockstar-raskryla-spisok-kartin.html",
-    "summary": "Rockstar Games раскрыла список фильмов, которые вдохновляли авторов GTA VI при создании Джейсона и Люсии, их характеров и отношений.",
-    "published": "2026-11-21T06:07:00+00:00",
-    "source": "iXBT.games",
-    "site_name": "iXBT.games",
-    "trust": "medium",
-    "text": "Rockstar Games раскрыла список фильмов, которые вдохновляли авторов GTA VI при создании Джейсона и Люсии, их характеров и отношений.\nО кинематографических источниках вдохновения рассказал Руперт Хамфрис, старший вице-президент Rockstar Games по повествованию. В интервью он признался, что команда изучала прежде всего фильмы о преступных парах, вынужденных скрываться от закона. В список вошли «Бонни и Клайд», «Побег» (The Getaway), «Настоящая любовь», «Тельма и Луиза» и «Отсчёт убийств» (Out of Sight). Именно истории о совместных преступлениях и побегах помогли сформировать отношения Джейсона и Люсии.\nРазработчики также обращались к знаменитым экранным дуэтам, изучая их диалоги и взаимодействие. Среди примеров – Риггс и Мерта из «Смертельного оружия», Бутч Кэссиди и Сандэнс Кид, а также Майк Лоури и Маркус Бёрнетт из серии «Плохие парни». Важную роль сыграли «Криминальное чтиво» и «Прирождённые убийцы». Эти фильмы помогли авторам продумать, как совместное участие в криминальных событиях может менять характеры героев и их отношения.\nХамфрис подчеркнул, что поведение Джейсона и Люсии будет зависеть и от действий игрока:\nДжейсон и Люсия гораздо жёстче персонажей, которых сыграли Тим Рот и Аманда Пламмер, но нам понравилась идея рассказать историю, в которой Джейсон и Люсия могли бы приблизиться к одному или другому краю этого спектра, в зависимости от того, что делал бы игрок.\nРечь идёт о паре грабителей Тыкве и Зайчике из «Криминального чтива», которых сыграли Рот и Пламмер. Так Rockstar намерена сделать характеры главных героев и развитие их отношений зависимыми не только от сценария, но и от решений игрока.\nНе пропускайте наши новостиДобавьте сайт в предпочитаемые источники, чтобы видеть нас чащеДобавить в Google",
-    "extra": {}
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "Киношная БАЗА\n\nRockstar раскрыли список фильмов, вдохновивших историю Джейсона и Люсии. Там и классика про Бонни и Клайда, и Криминальное чтиво!\n\n❤️ — Ждем отсылки в игре\n👎 — Сюжет и так пушка",
-    "card_title": "КИНО И ВДОХНОВЕНИЕ GTA 6",
-    "reason": "Rockstar official interview about criminal movie inspirations for Jason and Lucia.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "queued_at": "2026-11-21T06:21:35.056773+00:00"
+   "queued_at": "2026-11-21T18:35:30.973890+00:00"
   },
   {
    "item": {
@@ -7326,11 +7088,96 @@
     "model": "groq:openai/gpt-oss-20b"
    },
    "queued_at": "2026-11-21T13:17:21.905483+00:00"
+  },
+  {
+   "item": {
+    "title": "Grand Theft Auto VI: Collectors Box. Whats inside?",
+    "link": "https://rockstarintel.com/grand-theft-auto-vi-collectors-box-whats-inside/",
+    "summary": "Its been a few days since Grand Theft Auto VI released worldwide, and one thing we can say is, that its been a huge success. breaking records left right and centre. As we all know, a few months ago, Rockstar Games announced a Collectors Box, costing a controversial £350 plus shipping. Our collectors box arrived [...] The post Grand Theft Auto VI: Collectors Box. Whats inside? appeared first on RockstarINTEL .",
+    "published": "2026-11-21T16:26:11+00:00",
+    "source": "Rockstar Intel",
+    "site_name": "Rockstar Intel",
+    "trust": "medium",
+    "text": "Its been a few days since Grand Theft Auto VI released worldwide, and one thing we can say is, that its been a huge success. breaking records left right and centre. As we all know, a few months ago, Rockstar Games announced a Collectors Box, costing a controversial £350 plus shipping.\nOur collectors box arrived a couple of days ago, but we’ve been so indulged in playing GTA6 we didn’t have time to unbox it, until today, one thing we can say is this box is a beast. Its gigantic. In this article, we unbox the Collectors edition, and show you close up what you get for £350.\nBelow you can find pictures of the box, and pictures of each item that you get included. The box has 11 items included in it:\nDouble-Sided Souvenir Poster with Map of Leonida\nThe box itself is gigantic, a plain black glossy box that has two logos on it, the VI logo and Vice City Leonida Logo. The box has a sleeve which has the Vice City Leonida Artwork on the front, then 3 of the artworks on each other side.\nWhen you open the box, its has 3 layers to it. The top which has the Macca the Gator Statue, Enamel Pin set, Oakley Sunglasses and the Vice City Shot glass.\nThe second tray down has the Vice City Leonida New Era snapback the and Fanny pack. Then the very bottom tray has the Mirror, collectors spoon, razer keychain, map and stickers.\nThe Shot Glass is just a simple Glass Shot Glass, nothing that great about it. The Enamel Pin Badges, come in a metal tray which is quite neat and there is 9 different pin badges to use.\nThe Oakley Sunglasses are probably the best thing in this box. These alone are worth around £150+ without any of the GTA 6 / Rockstar Branding. The left arm features the Rockstar Games Logo, whilst the right arm features the VI logo. The arms also feature pal tree leaves type of detail.\nThe middle tray on the collectors box features two items, the Vice City Leonida New Era Snapback and the Leonida Keys Crossbody Bag.\nIn the bottom tray of the Collectors Box we have some cool items, the Magnetic Mirror, Collectibles Spoons, Razor Blade Keychain (Definitely a drugs kit) The double sided posted with a map of Leonida and a pack of stickers.\nVice City Collectible Swizzle Spoon (Coke Spoon)\nVice City Magnetic Mirror + Razor Keychain\nLooking for some Grand Theft Auto VI guides? We show you how you can unlock the exclusive Venturas Blvd Elegy here. Plus, check out the best settings to use when playing the game. In other Grand Theft Auto VI news, the game sold over 30 million copies",
+    "extra": {
+     "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/2122.png"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "Что лежит в КОЛЛЕКЦИОНКЕ за 350 фунтов\n\nRockstar Intel показали всю эту гигантскую коробку с мерчем: внутри 11 предметов, включая топовые очки Oakley и статуэтку аллигатора. База для тру-коллекционеров, но цена — кринж полный.\n\n❤️ — отдал бы ползарплаты\n👎 — оверпрайс лютый",
+    "card_title": "РАСПАКОВКА КОЛЛЕКЦИОНКИ GTA 6",
+    "reason": "Распаковка коллекционного издания GTA 6 с разбором всех 11 предметов за 350 фунтов.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "queued_at": "2026-11-21T18:35:45.318384+00:00"
+  },
+  {
+   "item": {
+    "title": "Grand Theft Auto VI: Прохождение всех миссий — Глава 1 «Как в раю»",
+    "link": "https://stopgame.ru/show/168184/grand_theft_auto_vi_prohozhdenie_vseh_missiy_glava_1_kak_v_rayu",
+    "summary": "В этом руководстве собраны все сюжетные задания пролога и первой главы GTA 6, важные решения, секреты и полезные советы. Также расскажем, как подготовиться к переходу во вторую главу и избежать потери денег и ценных предметов.… […]",
+    "published": "2026-11-21T16:54:30+00:00",
+    "source": "StopGame",
+    "site_name": "StopGame",
+    "trust": "medium",
+    "text": "В этом руководстве собраны все сюжетные задания пролога и первой главы GTA 6, важные решения, секреты и полезные советы. Также расскажем, как подготовиться к переходу во вторую главу и избежать потери денег и ценных предметов.\nЧто нужно сделать до завершения первой главы GTA 6\nВнимание! После завершения первой главы Джейсон и Лусия потеряют дом, личный автомобиль и большую часть накоплений. Точка невозврата — миссия «Экстремальный туризм», после которой последовательно начнутся задания «Дом, милый дом» и «Время выписываться». До начала второй главы свободное исследование мира будет недоступно.\nЧто исчезнет, а что сохранится во второй главе\nНаличные деньги, средства на обычном счёте BUCKME и накопления в домашнем тайнике.\nДом Джейсона и его личный автомобиль со всеми модификациями.\nДоступ к некоторым необязательным заданиям первой главы.\nСемейный сберегательный счёт BUCKME — переведённые на него $5000 не исчезнут.\nКупленное и зарегистрированное оружие, которое позднее можно будет забрать из оружейного шкафа. Подобранное незарегистрированное оружие можно потерять.\nПриобретённая одежда, причёски, татуировки и уникальное оружие.\nДостигнутый уровень отношений Джейсона и Лусии.\nКак подготовиться к переходу во вторую главу\nПеред началом миссии «Экстремальный туризм» переведите $5000 на семейный счёт BUCKME. Учтите, что снять эти деньги обратно нельзя. Остальные накопления, включая содержимое тайника Джейсона, лучше потратить на оружие, улучшения и одежду, которые сохранятся после перехода. Вкладываться в тюнинг личного автомобиля не рекомендуется.\nТакже завершите интересующие вас побочные задания, особенно поручения Ширли, связанные с ромом и угоном электрического скутера. Некоторые занятия, например рыбалка и поиски сокровищ Кентона, будут доступны позднее.\nРекомендуется создать отдельное ручное сохранение ещё до завершения миссии «Плавник помощи». Следующее задание, «Экстремальный туризм», запускает финальную последовательность первой главы, после чего вернуться к свободному исследованию мира сразу не получится.\nИстория GTA 6 начинается в исправительном учреждении Леониды, где отбывает наказание Лусия. Пролог знакомит с управлением, диалогами, ограблениями и системой полицейского розыска, а также раскрывает обстоятельства ареста главной героини.\nУправляя Лусией, поговорите с другими заключёнными. Для взаимодействия посмотрите на персонажа, удерживайте L2 и выберите реплику. Одна из заключённых разгадывает кроссворд — можете подсказать ей ответ «Венера». Это нео",
+    "extra": {
+     "image": "https://images.stopgame.ru/articles/2026/11/21/9IcOeT2.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "🗺 Гайд: как НЕ ПОТЕРЯТЬ деньги в первой главе\n\nПосле первой главы у героев отберут дом, личную тачку и большую часть накоплений. Чтобы не словить лютый тильт, сделай так:\n1. Сейв вручную до миссии «Плавник помощи» (точка невозврата — «Экстремальный туризм»).\n2. Переведи $5000 на семейный счёт BUCKME — они уцелеют.\n3. Остальное слей на одежду и покупное оружие, а на тюнинг тачки забей, всё равно отнимут.",
+    "card_title": "СОХРАНЯЕМ ДЕНЬГИ ПЕРЕД ВТОРОЙ ГЛАВОЙ",
+    "reason": "Подтверждённый гайд от StopGame, полезен игрокам",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": true,
+    "model": "groq:openai/gpt-oss-120b → gemini:gemini-4-hydrogen"
+   },
+   "queued_at": "2026-11-21T18:17:34.353632+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA VI — первые впечатления",
+    "link": "https://stopgame.ru/show/166252/gta_vi_pervye_vpechatleniya",
+    "summary": "Мы настолько впечатлились GTA VI, что больше не можем ждать — надо рассказать о ней прямо сейчас! Поэтому вот наши первые впечатления. Достойна ли игра оценки и долгих лет ожидания? Чего от неё хочется ждать в будущем? И конечно же, какие ощущения она уже успела подарить?",
+    "published": "2026-11-21T16:52:08+00:00",
+    "source": "StopGame",
+    "site_name": "StopGame",
+    "trust": "medium",
+    "text": "Мы настолько впечатлились GTA VI, что больше не можем ждать — надо рассказать о ней прямо сейчас! Поэтому вот наши первые впечатления. Достойна ли игра оценки и долгих лет ожидания? Чего от неё хочется ждать в будущем? И конечно же, какие ощущения она уже успела подарить?\nПокупай GTA VI без наценки с кешбэком баллами Плюса через Игромир.\nПонятно. StopGame говорит, замолчал и закрыт.",
+    "extra": {
+     "image": "https://images.stopgame.ru/articles/2026/11/21/T_54b_O.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "🎮 StopGame выкатили первые ВПЕЧАТЛЕНИЯ от GTA 6\n\nРебята так впечатлились игрой, что решили не тянуть и сразу разобрать, стоила ли она всех годов ожидания и чего ждать дальше. Правда, в самом анонсе вместо конкретики пока одни вопросы и реклама — классический вайб тизера.",
+    "card_title": "ПЕРВЫЕ ВПЕЧАТЛЕНИЯ ОТ GTA 6",
+    "reason": "Статья‑импрессия от средне‑доверенного источника, подтверждена публикацией",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "groq:openai/gpt-oss-120b → gemini:gemini-4-hydrogen"
+   },
+   "queued_at": "2026-11-21T18:18:08.522578+00:00"
   }
  ],
  "posts": [
-  "2026-11-19T12:54:25.683092+00:00",
-  "2026-11-19T16:00:29.981573+00:00",
   "2026-11-20T09:10:42.851046+00:00",
   "2026-11-20T09:26:40.595071+00:00",
   "2026-11-20T09:59:52.970320+00:00",
@@ -7342,16 +7189,16 @@
   "2026-11-21T07:11:39.823252+00:00",
   "2026-11-21T12:43:49.466903+00:00",
   "2026-11-21T14:46:58.633284+00:00",
-  "2026-11-21T18:00:47.582860+00:00"
+  "2026-11-21T18:00:47.582860+00:00",
+  "2026-11-21T18:21:49.151012+00:00"
  ],
- "tg_offset": 387129021,
+ "tg_offset": 387129022,
  "channel": {
   "id": -1003986639147,
   "title": "GTA 6 | Горячие новости",
   "username": "gta6_hotnews"
  },
  "drafts": [
-  "2026-11-19T16:00:06.530467+00:00",
   "2026-11-20T09:09:57.736471+00:00",
   "2026-11-20T09:58:05.803502+00:00",
   "2026-11-20T10:35:40.883525+00:00",
@@ -7364,11 +7211,10 @@
   "2026-11-21T14:44:42.291779+00:00",
   "2026-11-21T15:45:15.173540+00:00",
   "2026-11-21T16:45:46.072159+00:00",
-  "2026-11-21T17:46:11.279369+00:00"
+  "2026-11-21T17:46:11.279369+00:00",
+  "2026-11-21T18:46:53.621898+00:00"
  ],
- "slots_sent": {
-  "2026-11-19:вечер": "2026-11-19T16:00:06.530557+00:00"
- },
+ "slots_sent": {},
  "urgent": [
   "2026-11-20T09:58:05.803598+00:00",
   "2026-11-20T10:35:40.883618+00:00"
@@ -7406,7 +7252,6 @@
   }
  ],
  "clip_drafts": [
-  "2026-11-19T14:03:11.859837+00:00",
   "2026-11-19T20:32:43.491620+00:00",
   "2026-11-20T09:18:13.478034+00:00",
   "2026-11-20T10:28:47.352690+00:00",
@@ -7415,7 +7260,8 @@
   "2026-11-20T19:41:54.206032+00:00",
   "2026-11-20T19:42:03.366178+00:00",
   "2026-11-21T07:15:43.486003+00:00",
-  "2026-11-21T12:48:29.513513+00:00"
+  "2026-11-21T12:48:29.513513+00:00",
+  "2026-11-21T18:21:29.947000+00:00"
  ],
  "clip_history": [
   {
@@ -10566,6 +10412,90 @@
    "drafted": false,
    "ts": "2026-11-21T18:03:25.447096+00:00",
    "frames": []
+  },
+  {
+   "author": "youtube:мемоутка",
+   "vod": "",
+   "offset": -1,
+   "title": "ГТА 6 в роблоксе😁 Автор: mmyraz3 #комментарии #юмор #мемы",
+   "drafted": false,
+   "ts": "2026-11-21T18:18:59.396868+00:00"
+  },
+  {
+   "author": "youtube:senpapi gabe",
+   "vod": "",
+   "offset": -1,
+   "title": "Guys 20 minutes into GTA 6",
+   "drafted": false,
+   "ts": "2026-11-21T18:19:00.386761+00:00"
+  },
+  {
+   "author": "youtube:deankt",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA VI ENDING DARI BIGFOOT DI VICE CITY - EP. 4",
+   "drafted": false,
+   "ts": "2026-11-21T18:19:01.171739+00:00"
+  },
+  {
+   "author": "youtube:lasalle",
+   "vod": "",
+   "offset": -1,
+   "title": "JE DÉCOUVRE GTA 6 EN LIVE 4",
+   "drafted": false,
+   "ts": "2026-11-21T18:19:02.053637+00:00"
+  },
+  {
+   "author": "youtube:bg gethu returns",
+   "vod": "",
+   "offset": -1,
+   "title": "iShowSpeed Plays GTA 6 for 52 Hours Without Sleep! 😱",
+   "drafted": false,
+   "ts": "2026-11-21T18:19:53.053522+00:00"
+  },
+  {
+   "author": "youtube:witchella",
+   "vod": "",
+   "offset": -1,
+   "title": "We got the Tesla Roadster in GTA 6 🤯",
+   "drafted": false,
+   "ts": "2026-11-21T18:19:53.933033+00:00"
+  },
+  {
+   "author": "youtube:zuidertech",
+   "vod": "",
+   "offset": -1,
+   "title": "This Furry Pays You $15,000 for a Ride in GTA 6",
+   "drafted": false,
+   "ts": "2026-11-21T18:19:54.744701+00:00"
+  },
+  {
+   "author": "twitch:jill",
+   "vod": "2935546540",
+   "offset": 13040.0,
+   "title": "SCOOTER TIME",
+   "drafted": false,
+   "ts": "2026-11-21T18:19:55.582126+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:bratishkinoff",
+   "vod": "2934815498",
+   "offset": 30180.0,
+   "title": "СОБАКА ЗА РУЛЕМ",
+   "drafted": false,
+   "ts": "2026-11-21T18:20:47.330609+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:bratishkinoff",
+   "vod": "2934815498",
+   "offset": 30180.0,
+   "title": "СОБАКА ЗА РУЛЕМ",
+   "drafted": true,
+   "ts": "2026-11-21T18:21:29.947016+00:00",
+   "frames": [],
+   "caption": "Имба: пёс в очках рулит гидроциклом с неоном и увозит Джейсона в открытый океан под музон 💀"
   }
  ],
  "published": [
@@ -10645,6 +10575,13 @@
    "title": "Как грабить броневик в Twist Wrist, Smash, Grab",
    "importance": 8,
    "kind": "guide"
+  },
+  {
+   "ts": "2026-11-21T18:21:49.151031+00:00",
+   "msg_id": 37,
+   "title": "Имба: пёс в очках рулит гидроциклом с неоном и увозит Джейсона в открытый океан под музон…",
+   "importance": 9,
+   "kind": "video"
   }
  ],
  "extras": [],
