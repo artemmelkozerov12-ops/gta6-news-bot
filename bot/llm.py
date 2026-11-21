@@ -90,6 +90,7 @@ EMOJI = re.compile(
 MAX_EMOJI = 5  # в посте: 1–2 по тексту + голосование реакциями «❤️ — … / 👎 — …»
 LATIN = re.compile(r"[A-Za-z]")
 CYRILLIC = re.compile(r"[А-Яа-яЁё]")
+GUIDE_MAX_IMPORTANCE = 6
 
 
 class LLMQuotaExhausted(Exception):
@@ -160,6 +161,9 @@ def validate(data: dict) -> Verdict:
         raise LLMBadAnswer("importance не число")
     if not 0 <= imp <= 10:
         raise LLMBadAnswer(f"importance вне 0..10: {imp}")
+    guide = bool(data.get("guide")) and t == "confirmed"
+    if guide:
+        imp = min(imp, GUIDE_MAX_IMPORTANCE)  # нейросеть завышает гайдам важность — гайды не важнее 6
     post = str(data.get("post") or "").strip()
     card = " ".join(str(data.get("card_title") or "").split()).upper()
     if t in ("confirmed", "rumor"):
@@ -172,8 +176,10 @@ def validate(data: dict) -> Verdict:
         mixed = [w for w in card.split() if LATIN.search(w) and CYRILLIC.search(w)]
         if mixed:  # «LEONIADА» — латиница вперемешку с кириллицей в одном слове
             raise LLMBadAnswer(f"card_title со смесью алфавитов: {mixed}")
-        if not CYRILLIC.search(post):
-            raise LLMBadAnswer("пост не на русском")
+        if not CYRILLIC.search(card):
+            raise LLMBadAnswer(f"card_title не на русском: {card!r}")
+        if len(LATIN.findall(post)) > len(CYRILLIC.findall(post)):  # «Kritiki otdayut 99 ballov…»
+            raise LLMBadAnswer("пост транслитом/по-английски, а нужен русский")
         post = " ".join(w for w in post.split(" ") if not w.startswith("#"))  # без хэштегов
         post = limit_emoji(post, MAX_EMOJI)
         if len(post) > 900:
@@ -184,7 +190,7 @@ def validate(data: dict) -> Verdict:
         duplicate=bool(data.get("duplicate")), corroborated=bool(data.get("corroborated")),
         duplicate_of=str(data.get("duplicate_of") or "").strip(),
         corroborated_by=str(data.get("corroborated_by") or "").strip(),
-        guide=bool(data.get("guide")) and t == "confirmed",
+        guide=guide,
     )
 
 
@@ -387,7 +393,23 @@ class LLM:
             log(f"LLM: нет ключа для {', '.join(missing)} — эти модели пропускаю")
         if not self.triage_chain:
             raise RuntimeError("нет ни одной доступной модели для разбора (проверь GROQ_API_KEY / GEMINI_API_KEY)")
-        self.dead: set[str] = set()
+        # модель «отдыхает» до момента time.monotonic(): лимит в минуту — пару минут, перегрузка — 15 мин,
+        # суточная квота — 3 ч. Раньше выключали до конца запуска, а запуск идёт 5,5 ч — новости стояли часами.
+        self.dead: dict[str, float] = {}
+        cd = c.get("cooldown_minutes", {})
+        self.cooldown = {"minute": float(cd.get("minute_limit", 2)), "overload": float(cd.get("overload", 15)),
+                         "daily": float(cd.get("daily", 180)), "broken": float(cd.get("broken", 360))}
+
+    def _alive(self, mid: str) -> bool:
+        return time.monotonic() >= self.dead.get(mid, 0)
+
+    def _bench(self, mid: str, kind: str) -> None:
+        mins = self.cooldown[kind]
+        self.dead[mid] = time.monotonic() + mins * 60
+        log(f"   {mid}: отдыхает {mins:g} мин")
+
+    def writer_alive(self) -> bool:
+        return any(self._alive(self._id(s)) for s in self.writer_chain)
 
     def analyze(self, item: Item, recent: list[dict], recent_limit: int) -> Verdict:
         """Шаг 1: разбор статьи."""
@@ -395,12 +417,12 @@ class LLM:
 
     def rewrite(self, item: Item, recent: list[dict], recent_limit: int) -> Verdict | None:
         """Шаг 2: финальный пост. None — если нет живых моделей/квоты."""
-        if not [s for s in self.writer_chain if self._id(s) not in self.dead]:
+        if not self.writer_alive():
             return None
         try:
             return self._ask(self.writer_chain, build_user_message(item, recent, recent_limit))
-        except (LLMQuotaExhausted, LLMBadAnswer) as e:
-            log(f"   writer: {e} — оставляю черновик шага 1")
+        except LLMQuotaExhausted as e:  # кривой ответ (LLMBadAnswer) пробрасываем — такую новость пропускаем
+            log(f"   writer: {e} — новость подождёт")
             return None
 
     def same_event(self, item: Item, published: list[str]) -> tuple[int, str] | None:
@@ -454,7 +476,7 @@ class LLM:
         bad_answer: str | None = None
         for spec in chain:
             mid = self._id(spec)
-            if mid in self.dead:
+            if not self._alive(mid):
                 continue
             provider = self.providers[spec["provider"]]
             retries = int(spec.get("retries", self.retries))
@@ -470,8 +492,8 @@ class LLM:
                     return verdict
                 except _Retry as e:
                     if attempt >= retries:
-                        log(f"   {mid}: {e} после {retries} повторов — до следующего запуска не трогаю")
-                        self.dead.add(mid)
+                        log(f"   {mid}: {e} после {retries} повторов")
+                        self._bench(mid, "minute" if "429" in str(e) else "overload")
                         break
                     wait = e.wait if e.wait is not None else self.backoff * 2 ** (attempt + 1) + random.uniform(0, 1)
                     if wait:
@@ -480,7 +502,7 @@ class LLM:
                     attempt += 1
                 except _Dead as e:
                     log(f"   {mid}: {e} — беру следующую модель")
-                    self.dead.add(mid)
+                    self._bench(mid, "daily" if "суточн" in str(e) else "broken")
                     break
                 except (json.JSONDecodeError, LLMBadAnswer) as e:
                     bad += 1
@@ -491,8 +513,8 @@ class LLM:
                     log(f"   {mid}: снова плохой ответ — беру следующую модель")
                     break
                 except Exception as e:  # таймаут, обрыв соединения и т.п.
-                    log(f"   {mid}: {type(e).__name__} — до следующего запуска не трогаю, беру следующую")
-                    self.dead.add(mid)
+                    log(f"   {mid}: {type(e).__name__} — беру следующую")
+                    self._bench(mid, "overload")
                     break
         if bad_answer:
             raise LLMBadAnswer(bad_answer)

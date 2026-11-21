@@ -112,7 +112,8 @@ def run() -> int:
         # им всё равно нужно второе подтверждение, а лимиты нейросети не бесконечные.
         candidates.sort(key=lambda i: (i.trust == "rumor", -datetime.fromisoformat(i.published).timestamp()))
 
-        # 4. Нейросеть
+        # 4. Нейросеть: сначала отложенные (ждали умную модель), потом новые
+        finish_waiting()
         start = processed
         if candidates:
             for idx, it in enumerate(candidates):
@@ -155,29 +156,74 @@ def run() -> int:
                     same = gemini.same_event(it, published[-30:])
                     if same:
                         ok, why = False, f"дубль: «{short(published[-30:][same[0]], 70)}» ({short(same[1], 60)})"
+                if ok and v.guide and guides_waiting() >= int(cfg["moderation"].get("guides_per_day", 2)):
+                    ok, why = False, "гайдов в очереди и так хватает — не тратим лимиты нейросети"
+                if ok and not gemini.writer_alive():
+                    # умные модели отдыхают — сырой текст разбора НЕ шлём, новость ждёт (см. finish_waiting)
+                    state.rewrite_wait.append({"item": it.to_dict(), "verdict": v.to_dict(),
+                                               "corr": corr, "since": utcnow().isoformat()})
+                    log("   ⏳ умные модели отдыхают — новость ждёт финального текста")
+                    continue
                 if ok:
-                    # Шаг 2: финальный текст умной моделью (если есть квота)
-                    final = gemini.rewrite(it, state.recent, cfg["llm"]["recent_titles_in_prompt"])
-                    if final is None:
-                        log("   ✍️  финальный текст: квоты нет, оставляю черновик шага 1")
-                    elif final.type in ("leak", "skip"):  # умная модель строже — верим ей
-                        ok, why = False, f"writer-модель: type={final.type} ({short(final.reason, 80)})"
-                    elif v.type == "rumor" and final.type == "confirmed":
-                        log(f"   ✍️  writer считает это подтверждённым, но оставляю «слух» и черновик (осторожность)")
-                    else:
-                        if final.type == "rumor" and v.type == "confirmed":  # writer видит слух — помечаем строже
-                            v.type, v.importance = "rumor", final.importance
-                            ok, why = decide(it, v, cfg, corr)
-                        v.post, v.card_title, v.model = final.post, final.card_title, f"{v.model} → {final.model}"
-                        log(f"   ✍️  финальный текст: {final.model}")
-                if ok:
-                    state.queue.append({"item": it.to_dict(), "verdict": v.to_dict(), "queued_at": utcnow().isoformat()})
-                    state.remember(it, "queued", v.card_title)
-                    log(f"   ✅ в очередь ({why})")
-                else:
-                    state.remember(it, "skipped")
-                    log(f"   ⏭  пропуск: {why}")
+                    ok, why = finalize(it, v, corr, why)
+                enqueue(it, v, ok, why)
                 decisions.append({"item": it, "verdict": v, "ok": ok, "why": why})
+
+    def enqueue(it: Item, v: Verdict, ok: bool, why: str) -> None:
+        if ok:
+            state.queue.append({"item": it.to_dict(), "verdict": v.to_dict(), "queued_at": utcnow().isoformat()})
+            state.remember(it, "queued", v.card_title)
+            log(f"   ✅ в очередь ({why})")
+        else:
+            state.remember(it, "skipped")
+            log(f"   ⏭  пропуск: {why}")
+
+    def guides_waiting() -> int:
+        return sum(1 for q in state.queue if q["verdict"].get("guide") and q.get("moderation") in (None, "pending"))
+
+    def finalize(it: Item, v: Verdict, corr: bool, why: str) -> tuple[bool, str]:
+        """Шаг 2: финальный текст умной моделью. Без него новость в черновики не идёт."""
+        try:
+            final = gemini.rewrite(it, state.recent, cfg["llm"]["recent_titles_in_prompt"])
+        except LLMBadAnswer as e:
+            return False, f"финальный текст не прошёл проверку ({e})"
+        if final is None:
+            return False, "умные модели недоступны"
+        if final.type in ("leak", "skip"):  # умная модель строже — верим ей
+            return False, f"writer-модель: type={final.type} ({short(final.reason, 80)})"
+        if v.type == "rumor" and final.type == "confirmed":
+            log("   ✍️  writer считает это подтверждённым, но оставляю «слух» (осторожность)")
+        elif final.type == "rumor" and v.type == "confirmed":  # writer видит слух — помечаем строже
+            v.type, v.importance = "rumor", final.importance
+            ok, why = decide(it, v, cfg, corr)
+            if not ok:
+                return False, why
+        v.post, v.card_title, v.model = final.post, final.card_title, f"{v.model} → {final.model}"
+        log(f"   ✍️  финальный текст: {final.model}")
+        return True, why
+
+    def finish_waiting() -> None:
+        """Новости, ждущие умную модель: дописать, когда она снова доступна; устаревшие — выкинуть."""
+        if gemini is None or not state.rewrite_wait:
+            return
+        limit = timedelta(hours=float(cfg["moderation"].get("max_age_hours", 4)))
+        rest = []
+        for w in state.rewrite_wait:
+            it, v = Item.from_dict(w["item"]), Verdict.from_dict(w["verdict"])
+            if utcnow() - datetime.fromisoformat(it.published) > limit:
+                state.remember(it, "skipped")
+                log(f"⌛ не дождалась умной модели и устарела: «{short(it.title, 80)}»")
+                continue
+            if not gemini.writer_alive():
+                rest.append(w)
+                continue
+            log(f"✍️  дописываю отложенную: «{short(it.title, 80)}»")
+            ok, why = finalize(it, v, bool(w.get("corr")), "ждала умную модель")
+            if not ok and why == "умные модели недоступны":
+                rest.append(w)
+                continue
+            enqueue(it, v, ok, why)
+        state.rewrite_wait = rest
 
     ingest()
     last_ingest = time.monotonic()

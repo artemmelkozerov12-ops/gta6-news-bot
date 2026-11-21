@@ -74,6 +74,8 @@ class State:
         self.published: list[dict] = data.get("published", [])
         self.extras: list[dict] = data.get("extras", [])          # итоги дня / опросы: ждут ✅
         self.extras_sent: dict = data.get("extras_sent", {})      # {"digest:2026-11-19": iso}
+        # прошли разбор, но умные модели отдыхали — ждут финального текста (сырой текст Lite не шлём)
+        self.rewrite_wait: list[dict] = data.get("rewrite_wait", [])
 
     # ----- файл -----
     @classmethod
@@ -88,7 +90,8 @@ class State:
                 "channel": self.channel, "drafts": self.drafts,
                 "slots_sent": self.slots_sent, "urgent": self.urgent,
                 "clips": self.clips, "clip_drafts": self.clip_drafts, "clip_history": self.clip_history,
-                "published": self.published, "extras": self.extras, "extras_sent": self.extras_sent}
+                "published": self.published, "extras": self.extras, "extras_sent": self.extras_sent,
+                "rewrite_wait": self.rewrite_wait}
         path.write_text(json.dumps(data, ensure_ascii=False, indent=1), encoding="utf-8")
 
     def prune(self, cfg: dict) -> None:
