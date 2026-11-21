@@ -1515,7 +1515,30 @@
   "64e25900a89b437d": "2026-11-21T15:25:40.886762+00:00",
   "97e2b045e7a482df": "2026-11-21T15:40:58.362491+00:00",
   "aafad93331e552d8": "2026-11-21T15:41:00.751423+00:00",
-  "2ae6fe3fa7634537": "2026-11-21T15:41:01.323170+00:00"
+  "2ae6fe3fa7634537": "2026-11-21T15:41:01.323170+00:00",
+  "5e39936ea56cfc42": "2026-11-21T15:56:54.866832+00:00",
+  "72460c0a05fbf832": "2026-11-21T15:56:54.866875+00:00",
+  "05e6c4bae264a686": "2026-11-21T15:56:54.881730+00:00",
+  "26b1a1203bc0ac6f": "2026-11-21T15:56:54.889400+00:00",
+  "c25a6ce10e2f5a72": "2026-11-21T15:56:54.982445+00:00",
+  "4475b81eee514c7d": "2026-11-21T15:56:58.775593+00:00",
+  "a61de82f4f35b916": "2026-11-21T15:56:59.582120+00:00",
+  "f9e015950caa7356": "2026-11-21T15:57:00.362516+00:00",
+  "2f618ba0087d7454": "2026-11-21T15:57:01.250839+00:00",
+  "dbc69eaa0fe0f6bb": "2026-11-21T15:57:52.497843+00:00",
+  "f2ffc9ca083e6ec2": "2026-11-21T15:57:53.221726+00:00",
+  "20279e3df7a8d5cc": "2026-11-21T15:57:53.849212+00:00",
+  "b7d7482b7982a8df": "2026-11-21T15:57:54.302532+00:00",
+  "96239ba071901b4b": "2026-11-21T15:58:44.922598+00:00",
+  "822b9eeb5388cd22": "2026-11-21T16:12:22.481265+00:00",
+  "ab87d57f320fe63d": "2026-11-21T16:12:22.481314+00:00",
+  "9130c12081c0a607": "2026-11-21T16:12:22.481347+00:00",
+  "7103629c3ca6aa0a": "2026-11-21T16:12:22.482811+00:00",
+  "bf97e411a6e0e69d": "2026-11-21T16:12:22.503717+00:00",
+  "c8ff737d12b6c181": "2026-11-21T16:12:24.766808+00:00",
+  "138d34afaf7491a8": "2026-11-21T16:12:25.381370+00:00",
+  "8fcba9d04ed74392": "2026-11-21T16:12:25.893561+00:00",
+  "29d1ecbc9c55cc77": "2026-11-21T16:12:26.373356+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -2540,7 +2563,17 @@
   "077a9f20bdc07949": "2026-11-21T15:10:15.390241+00:00",
   "c7afd2c1f6919a0e": "2026-11-21T15:10:15.440371+00:00",
   "46d8d531b03f89af": "2026-11-21T15:25:38.145356+00:00",
-  "83ccbad9817ff796": "2026-11-21T15:40:58.362491+00:00"
+  "83ccbad9817ff796": "2026-11-21T15:40:58.362491+00:00",
+  "faf53a55136b7ae6": "2026-11-21T15:56:54.866832+00:00",
+  "9445f15e1d912e04": "2026-11-21T15:56:54.866875+00:00",
+  "8af4828e24c8bbfc": "2026-11-21T15:56:54.881730+00:00",
+  "5f89a5cd1d6b12cf": "2026-11-21T15:56:54.889400+00:00",
+  "72aea42e5cbc1047": "2026-11-21T15:56:54.982445+00:00",
+  "eb285013c75db3ec": "2026-11-21T16:12:22.481265+00:00",
+  "96bf99719422d9da": "2026-11-21T16:12:22.481314+00:00",
+  "18bbd669615e2b62": "2026-11-21T16:12:22.481347+00:00",
+  "bc2ea3dd766c1939": "2026-11-21T16:12:22.482811+00:00",
+  "4d2c581a80d0a1a2": "2026-11-21T16:12:22.503717+00:00"
  },
  "recent": [
   {
@@ -6614,6 +6647,86 @@
    "status": "dup",
    "ts": "2026-11-21T15:40:58.362537+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GTA 6 Officially Includes Unreleased Song From Music Legend D'Angelo",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-21T15:56:54.866853+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 PS5 Review Bombing Out of Control as Zelda Receives Revenge Ratings",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-21T15:56:54.866892+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to unlock the Brooks Boatworks safe in GTA 6",
+   "source": "PC Gamer",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-21T15:56:54.881745+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to complete the GTA 6 Tourist Trap mission",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-21T15:56:54.889412+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Where to Find The Grotti Itali RSX Supercar in GTA 6—Randy’s Wishlist Car Locations",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "dup",
+   "ts": "2026-11-21T15:56:54.982471+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6's Impact on Steam and Roblox After Record-Breaking Launch Revealed",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-21T16:12:22.481293+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Poll: So, What Do You Think Of GTA 6?",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-21T16:12:22.481330+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6: How To Find the Manhunt Mission",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-21T16:12:22.481360+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Where to find the bowling alley safe code in GTA 6",
+   "source": "Polygon",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-21T16:12:22.482827+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Pawn Shop safe code",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-21T16:12:22.503734+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -9841,6 +9954,118 @@
    "drafted": false,
    "ts": "2026-11-21T15:41:01.323204+00:00",
    "frames": []
+  },
+  {
+   "author": "youtube:stormfall33",
+   "vod": "",
+   "offset": -1,
+   "title": "The GTA 6 Controversy 💀",
+   "drafted": false,
+   "ts": "2026-11-21T15:56:58.775608+00:00"
+  },
+  {
+   "author": "youtube:eliyas fun",
+   "vod": "",
+   "offset": -1,
+   "title": "Identify GTA 6 FO Avengers? #funny #funnyvideo #comedy #comedyvideo #shorts #shortvideo #gta6",
+   "drafted": false,
+   "ts": "2026-11-21T15:56:59.582149+00:00"
+  },
+  {
+   "author": "youtube:ducky reloaded",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 Ending Today | GTA 6 Marathon Stream",
+   "drafted": false,
+   "ts": "2026-11-21T15:57:00.362549+00:00"
+  },
+  {
+   "author": "youtube:mr warta gaming",
+   "vod": "",
+   "offset": -1,
+   "title": "ظهور البلايستيشن 6 بلعبة GTA6 !",
+   "drafted": false,
+   "ts": "2026-11-21T15:57:01.250864+00:00"
+  },
+  {
+   "author": "youtube:hapstick.edit666",
+   "vod": "",
+   "offset": -1,
+   "title": "Wrong call ! 💀☠️ #gta6",
+   "drafted": false,
+   "ts": "2026-11-21T15:57:52.497872+00:00"
+  },
+  {
+   "author": "twitch:yugi2x",
+   "vod": "2935509036",
+   "offset": 46920.0,
+   "title": "w",
+   "drafted": false,
+   "ts": "2026-11-21T15:57:53.221753+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:pokelawls",
+   "vod": "2935029880",
+   "offset": 17011.0,
+   "title": "Poke Gets Jumped",
+   "drafted": false,
+   "ts": "2026-11-21T15:57:53.849243+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:eliasn97",
+   "vod": "",
+   "offset": -1,
+   "title": "4 Sterne? Für ein bisschen Feuer ?",
+   "drafted": false,
+   "ts": "2026-11-21T15:57:54.302556+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:adm1tr1pow",
+   "vod": "2934914138",
+   "offset": 16357.0,
+   "title": "изи стелс",
+   "drafted": false,
+   "ts": "2026-11-21T15:58:44.922640+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:evelone2004",
+   "vod": "",
+   "offset": -1,
+   "title": "Худшая из возможных концовок",
+   "drafted": false,
+   "ts": "2026-11-21T16:12:24.766823+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:noraexplorer",
+   "vod": "2933682729",
+   "offset": 119725.0,
+   "title": "in the club",
+   "drafted": false,
+   "ts": "2026-11-21T16:12:25.381393+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:kaicenat",
+   "vod": "2934866208",
+   "offset": 35778.0,
+   "title": "Kai was NOT ready for this GTA 6 scene",
+   "drafted": false,
+   "ts": "2026-11-21T16:12:25.893588+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:tumblurr",
+   "vod": "2935219481",
+   "offset": 3443.0,
+   "title": "non era necessario....",
+   "drafted": false,
+   "ts": "2026-11-21T16:12:26.373377+00:00",
+   "frames": []
   }
  ],
  "published": [
@@ -9923,5 +10148,7 @@
   }
  ],
  "extras": [],
- "extras_sent": {}
+ "extras_sent": {
+  "poll-2026-W47": "2026-11-21T16:00:25.901739+00:00"
+ }
 }
