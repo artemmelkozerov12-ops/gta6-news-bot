@@ -173,6 +173,9 @@ def _on_button(http: Http, state: State, cb: dict, me: str) -> None:
             status = BUTTONS[action]
             _set_status(http, q, status)
             answer = STATUS_TEXT[status]
+            at = (q.get("payload") or {}).get("publish_at") if isinstance(q.get("payload"), dict) else None
+            if status == "approved" and at and datetime.fromisoformat(at) > utcnow():
+                answer = f"✅ Принято — опубликую в {datetime.fromisoformat(at).astimezone(ZoneInfo('Europe/Kyiv')):%H:%M}"
             title = (q.get("item") or q.get("clip") or {"title": q.get("kind", "")})["title"]
             log(f"🧑‍⚖️ модерация: {STATUS_TEXT[status]} — «{title[:70]}»")
     try:

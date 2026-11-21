@@ -17,6 +17,7 @@ import os
 import re
 import shutil
 import tempfile
+import time
 from dataclasses import asdict, dataclass
 from datetime import datetime, timedelta
 from pathlib import Path
@@ -27,6 +28,7 @@ from .llm import CYRILLIC, LLM, LLMBadAnswer, LLMQuotaExhausted, limit_emoji
 from .util import Http, log, utcnow
 
 CAPTION_LIMIT = 1024
+_yt_cache: tuple | None = None  # (время, клипы) — последний поиск YouTube
 
 
 @dataclass
@@ -108,10 +110,15 @@ def _iso_duration(s: str) -> float:
 
 def fetch_youtube(http: Http, cfg: dict) -> list[Clip]:
     """Поиск стоит 100 «единиц» из 10 000 бесплатных в сутки → запросов в config мало и хватает с запасом."""
+    global _yt_cache
     c = cfg["clips"]["youtube"]
     key = os.getenv("YOUTUBE_API_KEY", "").strip()
     if not c.get("enabled", True) or not key:
         return []
+    # квота YouTube — 10 000 единиц в сутки: ищем не чаще раза в every_minutes, между — отдаём прошлый результат
+    every = float(c.get("every_minutes", 60)) * 60
+    if _yt_cache and time.monotonic() - _yt_cache[0] < every:
+        return list(_yt_cache[1])
     since = _iso(utcnow() - timedelta(hours=cfg["clips"]["hours_back"]))
     ids: list[str] = []
     for q in c["queries"]:
@@ -135,7 +142,9 @@ def fetch_youtube(http: Http, cfg: dict) -> list[Clip]:
                             _iso_duration(x["contentDetails"].get("duration", "")), _parse_time(sn["publishedAt"]),
                             sn.get("defaultAudioLanguage") or sn.get("defaultLanguage") or "",
                             (sn.get("description") or "")[:500]))
-    return [x for x in out if x.views >= int(c.get("min_views", 0))]
+    res = [x for x in out if x.views >= int(c.get("min_views", 0))]
+    _yt_cache = (time.monotonic(), res)
+    return list(res)
 
 
 def collect(http: Http, cfg: dict, state: State) -> list[Clip]:

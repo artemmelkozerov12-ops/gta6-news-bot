@@ -22,7 +22,7 @@ from .dedupe import State, dedupe_batch, similarity, url_key
 from .fetch import TRUST_ORDER, Item, fetch_all, fetch_article_text, fresh_only, keyword_filter
 from .llm import LLM, LLMBadAnswer, LLMQuotaExhausted, Verdict
 from .publish import TelegramError, build_caption, can_post_now, decide, headline, is_quiet_hours, send_photo
-from .util import ROOT, Http, env_flag, load_config, load_dotenv, log, utcnow
+from .util import ROOT, Http, env_flag, load_config, load_dotenv, log, push_state, utcnow
 
 OUT = ROOT / "out"
 
@@ -220,6 +220,8 @@ def run() -> int:
     deadline = time.monotonic() + listen * 60
     posted, wait = 0, 0
     refresh = float(cfg["moderation"].get("refresh_minutes", 15))
+    push_every = float(cfg["moderation"].get("state_push_minutes", 30))
+    last_push = time.monotonic()
     if listen:
         log(f"👂 слушаю кнопки {listen:g} мин")
     while True:
@@ -241,6 +243,10 @@ def run() -> int:
         posted += clips.publish_ready(http, state, cfg)
         posted += extras.publish_ready(http, state, cfg)
         state.save()  # сохраняем после каждого шага: запуск могут оборвать
+        if time.monotonic() - last_push >= push_every * 60:
+            if push_state():
+                log("💾 память сохранена в репозиторий")
+            last_push = time.monotonic()
         left = deadline - time.monotonic()
         if left <= 5:
             break

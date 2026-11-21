@@ -48,6 +48,30 @@ def redact(text: str) -> str:
     return text
 
 
+def push_state(message: str = "state: обновление [skip ci]") -> bool:
+    """Только в GitHub Actions: закоммитить и отправить state.json (долгий запуск ничего не потеряет).
+    Если файл в репозитории успел поменяться — побеждает наш, более свежий."""
+    import subprocess
+
+    if os.getenv("GITHUB_ACTIONS") != "true":
+        return False
+    git = ["git", "-c", "user.name=gta6-news-bot", "-c", "user.email=41898282+github-actions[bot]@users.noreply.github.com"]
+    try:
+        if subprocess.run(git + ["diff", "--quiet", "--", "state.json"]).returncode == 0:
+            return True
+        subprocess.run(git + ["add", "state.json"], check=True, capture_output=True)
+        subprocess.run(git + ["commit", "-m", message], check=True, capture_output=True)
+        for _ in range(3):
+            if subprocess.run(git + ["pull", "--rebase", "--autostash", "-X", "theirs"], capture_output=True).returncode == 0 \
+                    and subprocess.run(git + ["push"], capture_output=True).returncode == 0:
+                return True
+            subprocess.run(git + ["rebase", "--abort"], capture_output=True)
+            time.sleep(5)
+    except Exception as e:
+        print(f"[state] не смог сохранить в репозиторий: {type(e).__name__}", flush=True)
+    return False
+
+
 def log(*parts) -> None:
     stamp = datetime.now().strftime("%H:%M:%S")
     msg = redact(" ".join(str(p) for p in parts))

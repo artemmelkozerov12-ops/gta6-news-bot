@@ -45,17 +45,36 @@ def _post_link(state: State, msg_id: int) -> str:
     return f"https://t.me/c/{cid.removeprefix('-100')}/{msg_id}" if cid else ""
 
 
-# ---------- итоги дня ----------
-def build_digest(state: State, cfg: dict) -> str | None:
-    c = cfg["extras"]["digest"]
+# ---------- время «чч:мм» по Киеву ----------
+def _at(cfg: dict, hm: str) -> datetime:
+    """Сегодняшнее время чч:мм (часовой пояс канала)."""
+    h, m = (int(x) for x in str(hm).split(":"))
+    return _local(cfg).replace(hour=h, minute=m, second=0, microsecond=0)
+
+
+def _hm(c: dict, key: str, default: str) -> str:
+    if key in c:
+        return str(c[key])
+    return f"{int(c['hour']):02d}:00" if "hour" in c else default  # старый формат: hour: 22
+
+
+# ---------- итоги дня / выжимка недели ----------
+def build_digest(state: State, cfg: dict, weekly: bool = False) -> str | None:
+    c = cfg["extras"]["weekly" if weekly else "digest"]
     now = _local(cfg)
-    start = now.replace(hour=0, minute=0, second=0, microsecond=0).astimezone(ZoneInfo("UTC")).isoformat()
-    today = [p for p in state.published if p["ts"] >= start and p.get("title")]
-    if len(today) < int(c.get("min_posts", 3)):
+    day0 = now.replace(hour=0, minute=0, second=0, microsecond=0) - timedelta(days=6 if weekly else 0)
+    start = day0.astimezone(ZoneInfo("UTC")).isoformat()
+    period = [p for p in state.published if p["ts"] >= start and p.get("title")]
+    if len(period) < int(c.get("min_posts", 3)):
         return None
-    best = sorted(today, key=lambda p: -p.get("importance", 0))[: int(c.get("max_items", 6))]
+    best = sorted(period, key=lambda p: -p.get("importance", 0))[: int(c.get("max_items", 6))]
     best.sort(key=lambda p: p["ts"])  # в порядке выхода
-    lines = [f"🌙 <b>Итоги дня</b> · {now.day} {MONTHS[now.month - 1]}", ""]
+    if weekly:
+        span = (f"{day0.day}–{now.day} {MONTHS[now.month - 1]}" if day0.month == now.month
+                else f"{day0.day} {MONTHS[day0.month - 1]} – {now.day} {MONTHS[now.month - 1]}")
+        lines = [f"📅 <b>Выжимка недели</b> · {span}", "", c.get("intro", "Всё главное за 7 дней в одном посте 👇"), ""]
+    else:
+        lines = [f"🌙 <b>Итоги дня</b> · {now.day} {MONTHS[now.month - 1]}", ""]
     for p in best:
         title = html.escape(p["title"], quote=False)
         link = _post_link(state, p["msg_id"])
@@ -134,15 +153,25 @@ def _draft(http: Http, state: State, key: str, kind: str, preview: str, payload)
 def send_drafts(http: Http, state: State, cfg: dict, llm: LLM | None) -> None:
     ex = cfg.get("extras", {})
     now = _local(cfg)
-    d = ex.get("digest", {})
-    key = f"digest-{now:%Y%m%d}"
-    if d.get("enabled") and now.hour >= int(d.get("hour", 22)) and key not in state.extras_sent:
-        text = build_digest(state, cfg)
+    for kind, title, weekly in (("digest", "Итоги дня", False), ("weekly", "Выжимка недели", True)):
+        d = ex.get(kind, {})
+        key = f"{kind}-{now:%Y%m%d}"
+        if not d.get("enabled") or key in state.extras_sent:
+            continue
+        if weekly and now.isoweekday() != int(d.get("weekday", 6)):
+            continue
+        draft_at = _at(cfg, _hm(d, "draft_at", "21:30"))
+        publish_at = _at(cfg, _hm(d, "publish_at", "22:00"))
+        if now < draft_at or now > publish_at + timedelta(hours=2):
+            continue
+        text = build_digest(state, cfg, weekly)
         if text:
-            _draft(http, state, key, "Итоги дня", text, {"text": text})
+            note = f"\n\n⏰ <i>Нажми ✅ — опубликую ровно в {publish_at:%H:%M} (список обновлю на момент публикации)</i>"
+            _draft(http, state, key, title, text + note,
+                   {"text": text, "publish_at": publish_at.astimezone(ZoneInfo("UTC")).isoformat()})
         else:
             state.extras_sent[key] = utcnow().isoformat()  # постов мало — сегодня без итогов
-            log("🌙 итоги дня: за день вышло мало постов — пропускаю")
+            log(f"{title}: вышло мало постов — пропускаю")
     p = ex.get("poll", {})
     key = f"poll-{now:%G-W%V}"
     if (p.get("enabled") and llm is not None and now.isoweekday() == int(p.get("weekday", 6))
@@ -157,7 +186,9 @@ def publish_ready(http: Http, state: State, cfg: dict) -> int:
     from .moderation import _api, channel_id, mark_published
     from .publish import can_post_now
 
-    q = next((q for q in state.extras if q.get("moderation") == "approved"), None)
+    now = utcnow()
+    q = next((q for q in state.extras if q.get("moderation") == "approved"
+              and (not q["payload"].get("publish_at") or datetime.fromisoformat(q["payload"]["publish_at"]) <= now)), None)
     if q is None:
         return 0
     can, why = can_post_now(state, cfg, ignore_quiet_hours=True)
@@ -165,8 +196,9 @@ def publish_ready(http: Http, state: State, cfg: dict) -> int:
     if not can or not chat:
         return 0
     try:
-        if q["key"].startswith("digest"):
-            msg = _api(http, "sendMessage", chat_id=chat, text=q["payload"]["text"], parse_mode="HTML",
+        if q["key"].startswith(("digest", "weekly")):
+            text = build_digest(state, cfg, q["key"].startswith("weekly")) or q["payload"]["text"]
+            msg = _api(http, "sendMessage", chat_id=chat, text=text, parse_mode="HTML",
                        disable_web_page_preview=True)
         else:
             p = q["payload"]
@@ -194,7 +226,8 @@ def expire(http: Http | None, state: State, cfg: dict) -> None:
     from .moderation import mark_expired
 
     border = (utcnow() - timedelta(hours=float(cfg.get("extras", {}).get("max_age_hours", 6)))).isoformat()
-    for q in [q for q in state.extras if q["queued_at"] < border]:
+    for q in [q for q in state.extras if q["queued_at"] < border and q.get("moderation") != "approved"]:
         if http is not None:
             mark_expired(http, q)
-    state.extras = [q for q in state.extras if q["queued_at"] >= border and q.get("moderation") != "rejected"]
+    state.extras = [q for q in state.extras if (q["queued_at"] >= border or q.get("moderation") == "approved")
+                    and q.get("moderation") != "rejected"]

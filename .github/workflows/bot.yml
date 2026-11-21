@@ -2,7 +2,7 @@ name: GTA6 News Bot
 
 on:
   schedule:
-    - cron: "*/15 * * * *"   # просим каждые 15 мин; на деле GitHub запускает примерно раз в час — пока бот слушает, следующий ждёт в очереди
+    - cron: "*/15 * * * *"   # запасной будильник: GitHub выполняет его редко (раз в 1–8 ч); главное — самоперезапуск в конце
   workflow_dispatch:          # кнопка «Run workflow» (в том числе из приложения GitHub на телефоне)
     inputs:
       mode:
@@ -17,6 +17,7 @@ on:
 
 permissions:
   contents: write             # чтобы закоммитить обновлённый state.json
+  actions: write              # чтобы в конце запустить следующий запуск (бот работает без пауз)
 
 concurrency:
   group: gta6-news-bot        # два запуска одновременно не идут
@@ -28,7 +29,7 @@ jobs:
     # Выключить: Settings → Secrets and variables → Actions → Variables → BOT_OFF = true
     if: vars.BOT_OFF != 'true'
     runs-on: ubuntu-latest
-    timeout-minutes: 70        # бот слушает кнопки ~50 мин, плюс сбор новостей
+    timeout-minutes: 355       # бот работает ~5,5 ч (лимит GitHub — 6 ч), потом сам перезапускается
     steps:
       - uses: actions/checkout@v4
         with:
@@ -83,3 +84,11 @@ jobs:
           name: dry-run-out
           path: out/
           retention-days: 7
+
+      - name: Перезапуск (бот работает без пауз)
+        # GitHub выполняет cron редко, поэтому каждый запуск в конце сам ставит следующий.
+        # Два сразу не пойдут: concurrency держит один, следующий ждёт в очереди.
+        if: ${{ !cancelled() && inputs.mode != 'check_feeds' && !inputs.dry_run && vars.BOT_OFF != 'true' }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run bot.yml --repo "${{ github.repository }}" --ref "${{ github.event.repository.default_branch }}" -f mode=run -f dry_run=false
