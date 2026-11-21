@@ -1382,7 +1382,96 @@
   "d1697d6934cd4b80": "2026-11-21T13:19:43.650754+00:00",
   "22bb78564fbf5a21": "2026-11-21T13:35:01.991272+00:00",
   "0bcd2cd068482b8e": "2026-11-21T13:35:02.597668+00:00",
-  "d4a1af655b51ae3d": "2026-11-21T13:35:12.904956+00:00"
+  "d4a1af655b51ae3d": "2026-11-21T13:35:12.904956+00:00",
+  "0b30b50f8c3bf3c3": "2026-11-21T13:49:03.440873+00:00",
+  "cfee2a44bf736172": "2026-11-21T13:49:04.025944+00:00",
+  "d976e734f59ce507": "2026-11-21T13:49:04.392023+00:00",
+  "c223b7b1796df11f": "2026-11-21T13:49:04.852436+00:00",
+  "ea6fcfaf7fc05742": "2026-11-21T13:49:55.439207+00:00",
+  "7bf07db124b219a4": "2026-11-21T13:49:55.973549+00:00",
+  "39977dff0a3e7d8a": "2026-11-21T13:49:56.557595+00:00",
+  "202adc9da4ba9c00": "2026-11-21T13:49:56.909170+00:00",
+  "cb7c4a2026a25e5a": "2026-11-21T13:50:47.554950+00:00",
+  "cfb0dda58febbae4": "2026-11-21T13:50:48.176193+00:00",
+  "f858e3f46ee43751": "2026-11-21T13:50:48.622643+00:00",
+  "3c91d0b474bd762f": "2026-11-21T13:50:49.152160+00:00",
+  "82d0873d6b9e3eea": "2026-11-21T13:51:55.815973+00:00",
+  "bfc53eaf6f1a2678": "2026-11-21T13:51:58.986852+00:00",
+  "0baecfe4478f2130": "2026-11-21T13:51:59.804285+00:00",
+  "addde99ae4f4f279": "2026-11-21T13:52:00.524461+00:00",
+  "513fa9d99aba6d80": "2026-11-21T13:52:01.150106+00:00",
+  "1c348ceedd3b5b21": "2026-11-21T13:52:52.370707+00:00",
+  "cc82381d2a476528": "2026-11-21T13:52:53.220998+00:00",
+  "28a341532e97055b": "2026-11-21T13:52:53.937242+00:00",
+  "b48702561d74401f": "2026-11-21T13:52:54.747168+00:00",
+  "df79e3f9a8b8e042": "2026-11-21T13:53:45.641061+00:00",
+  "77ebc299b3dcf9ec": "2026-11-21T13:53:46.394106+00:00",
+  "bd07a7a477a019ea": "2026-11-21T13:53:47.228371+00:00",
+  "7897d2ec79ca68bd": "2026-11-21T13:53:48.063581+00:00",
+  "808a8769dd842e5a": "2026-11-21T13:54:38.895749+00:00",
+  "98de34c97bf81ade": "2026-11-21T13:54:39.656519+00:00",
+  "cdad71dfa6cee0ef": "2026-11-21T13:54:40.406688+00:00",
+  "dfaa84651c78a5be": "2026-11-21T13:54:41.162580+00:00",
+  "6e21ceea4a066c31": "2026-11-21T13:55:32.108527+00:00",
+  "a475d6310be35645": "2026-11-21T13:55:32.853016+00:00",
+  "04640af1568ff2dc": "2026-11-21T13:55:33.675360+00:00",
+  "35d700a89c2991ae": "2026-11-21T13:55:34.391338+00:00",
+  "64d1ce2889f8f328": "2026-11-21T13:56:25.181252+00:00",
+  "4a517e7b27f147e8": "2026-11-21T13:56:25.570411+00:00",
+  "c6c731c31ff7f3e4": "2026-11-21T13:56:25.945312+00:00",
+  "e6b6a4ca41b911bc": "2026-11-21T13:56:26.323269+00:00",
+  "f6540751f7b1bc7e": "2026-11-21T13:57:16.951942+00:00",
+  "5f176e99a03e0772": "2026-11-21T13:57:17.427336+00:00",
+  "5f0b7c552584b717": "2026-11-21T13:57:17.854383+00:00",
+  "60238c15d0891daa": "2026-11-21T13:57:18.312852+00:00",
+  "77a0827788afd136": "2026-11-21T13:58:08.865129+00:00",
+  "66a1a854063f5cd2": "2026-11-21T13:58:09.327799+00:00",
+  "f2194469ab28da62": "2026-11-21T13:58:09.750191+00:00",
+  "42e1f0e1ba7c7b64": "2026-11-21T13:58:10.250203+00:00",
+  "1600a3c8f0e4cd15": "2026-11-21T13:59:00.780950+00:00",
+  "8c7746574ce7a752": "2026-11-21T13:59:01.313108+00:00",
+  "2479a1297dca0bf1": "2026-11-21T13:59:01.707065+00:00",
+  "3851b667ed455059": "2026-11-21T13:59:02.249719+00:00",
+  "a07af0a73e66cbf3": "2026-11-21T13:59:52.742608+00:00",
+  "41116d8cd550d5da": "2026-11-21T13:59:53.262797+00:00",
+  "c50acd204d414aca": "2026-11-21T13:59:53.777200+00:00",
+  "5461c18535e404f6": "2026-11-21T13:59:54.146846+00:00",
+  "362fff4e1dc2f79c": "2026-11-21T14:00:44.722798+00:00",
+  "6cc1f2f6d64f16c4": "2026-11-21T14:00:45.247516+00:00",
+  "2ddedafa88f498d6": "2026-11-21T14:00:45.621510+00:00",
+  "9c34165745ea792d": "2026-11-21T14:00:46.027797+00:00",
+  "22899ffc0d9ef05d": "2026-11-21T14:01:36.549021+00:00",
+  "d484583178ff026f": "2026-11-21T14:01:37.015054+00:00",
+  "057ae28a25d6c786": "2026-11-21T14:01:37.416311+00:00",
+  "6a57a119cd5a7517": "2026-11-21T14:01:37.782575+00:00",
+  "3dfa1cb543907ba1": "2026-11-21T14:02:28.530858+00:00",
+  "2522720c48501508": "2026-11-21T14:02:29.071342+00:00",
+  "ac9e777879387f71": "2026-11-21T14:02:29.669359+00:00",
+  "34eec96f448880d3": "2026-11-21T14:02:30.102669+00:00",
+  "61829d13a578abbd": "2026-11-21T14:03:20.621619+00:00",
+  "226def415afac901": "2026-11-21T14:03:21.111473+00:00",
+  "b4666f27c85b48b0": "2026-11-21T14:03:21.752179+00:00",
+  "86f8255e695e3076": "2026-11-21T14:03:22.315497+00:00",
+  "2bc45f400fe03506": "2026-11-21T14:04:13.102591+00:00",
+  "a79aca586a5f7bec": "2026-11-21T14:04:13.749929+00:00",
+  "64da65d2de6e4890": "2026-11-21T14:04:14.374605+00:00",
+  "8bba09cb5dcc6986": "2026-11-21T14:04:14.986228+00:00",
+  "d4a71d822181b284": "2026-11-21T14:05:05.575334+00:00",
+  "a5ef62ec2840b36e": "2026-11-21T14:07:48.976935+00:00",
+  "8edae0a474341ad9": "2026-11-21T14:07:51.025450+00:00",
+  "f21ac8e1904cc3f4": "2026-11-21T14:07:51.580468+00:00",
+  "de62cf727bb685ad": "2026-11-21T14:07:52.062221+00:00",
+  "f6e514545824cf6e": "2026-11-21T14:07:52.716471+00:00",
+  "7bccbd67226ab8a9": "2026-11-21T14:08:43.628280+00:00",
+  "a39d9630473cf7ce": "2026-11-21T14:08:44.308287+00:00",
+  "174d2d37559f6887": "2026-11-21T14:08:45.028443+00:00",
+  "17d5aa855c6f5315": "2026-11-21T14:08:45.523750+00:00",
+  "9d32669b3d18f678": "2026-11-21T14:09:36.065167+00:00",
+  "4df8a2256d263b57": "2026-11-21T14:09:36.609726+00:00",
+  "f8ccf8c024a3c5c0": "2026-11-21T14:09:37.210977+00:00",
+  "4c1984cf331e07a6": "2026-11-21T14:09:37.746586+00:00",
+  "79fad2e0d4930233": "2026-11-21T14:10:28.456394+00:00",
+  "21381309a4817127": "2026-11-21T14:10:28.951070+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -2394,7 +2483,9 @@
   "af3f6c423dd13a29": "2026-11-21T13:19:43.650754+00:00",
   "063db1d4db430ee4": "2026-11-21T13:35:01.991272+00:00",
   "eef5378332180bcb": "2026-11-21T13:35:02.597668+00:00",
-  "a2091aad0255c888": "2026-11-21T13:35:12.904956+00:00"
+  "a2091aad0255c888": "2026-11-21T13:35:12.904956+00:00",
+  "6a793b609e51babd": "2026-11-21T13:51:55.815973+00:00",
+  "9bc648fd00079010": "2026-11-21T14:07:48.976935+00:00"
  },
  "recent": [
   {
@@ -6364,6 +6455,22 @@
    "status": "skipped",
    "ts": "2026-11-21T13:35:12.905067+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GTA 6 is a cozy game",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-21T13:51:55.815997+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Here's the Kingpin Bowling Alley safe code in GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-21T14:07:48.976991+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -8650,6 +8757,770 @@
    "ts": "2026-11-21T12:48:29.513556+00:00",
    "frames": [],
    "caption": "Имба: вырубил чела прямо посреди дороги — полный разнос 💀"
+  },
+  {
+   "author": "twitch:rubius",
+   "vod": "2935100343",
+   "offset": 5450.0,
+   "title": "fisicas de vapor pog",
+   "drafted": false,
+   "ts": "2026-11-21T13:49:03.440913+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:djmariio",
+   "vod": "2934952136",
+   "offset": 22599.0,
+   "title": "MADRE MIA",
+   "drafted": false,
+   "ts": "2026-11-21T13:49:04.025976+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:ohnepixel",
+   "vod": "2934862154",
+   "offset": 32896.0,
+   "title": "Ohne Bricked Up!!",
+   "drafted": false,
+   "ts": "2026-11-21T13:49:04.392050+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:zoreee",
+   "vod": "2934327274",
+   "offset": 14001.0,
+   "title": "Craziest Gas Station Glitch",
+   "drafted": false,
+   "ts": "2026-11-21T13:49:04.852464+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:caseoh_",
+   "vod": "2934099165",
+   "offset": 17225.0,
+   "title": "beef slap",
+   "drafted": false,
+   "ts": "2026-11-21T13:49:55.439248+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:illojuan",
+   "vod": "2935071086",
+   "offset": 6729.0,
+   "title": "toma gato",
+   "drafted": false,
+   "ts": "2026-11-21T13:49:55.973587+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:ishowspeed",
+   "vod": "2934967396",
+   "offset": 11370.0,
+   "title": "NOOOOOO",
+   "drafted": false,
+   "ts": "2026-11-21T13:49:56.557624+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:theregulationpod",
+   "vod": "",
+   "offset": -1,
+   "title": "Gavin hates polar bears",
+   "drafted": false,
+   "ts": "2026-11-21T13:49:56.909200+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:tvgnobrega",
+   "vod": "2933649521",
+   "offset": 5276.0,
+   "title": "Brindamos ao GTA 6",
+   "drafted": false,
+   "ts": "2026-11-21T13:50:47.554991+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:bilzo",
+   "vod": "2934628152",
+   "offset": 563.0,
+   "title": "nah jason lmfao",
+   "drafted": false,
+   "ts": "2026-11-21T13:50:48.176232+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:stableronaldo",
+   "vod": "2935093413",
+   "offset": 2923.0,
+   "title": "CAUGHT",
+   "drafted": false,
+   "ts": "2026-11-21T13:50:48.622671+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:auronplay",
+   "vod": "2934943615",
+   "offset": 5660.0,
+   "title": "la silla dañada",
+   "drafted": false,
+   "ts": "2026-11-21T13:50:49.152192+00:00",
+   "frames": []
+  },
+  {
+   "author": "youtube:austin sweatt",
+   "vod": "",
+   "offset": -1,
+   "title": "Another GTA 6 Update",
+   "drafted": false,
+   "ts": "2026-11-21T13:51:58.986870+00:00"
+  },
+  {
+   "author": "youtube:wisebenda",
+   "vod": "",
+   "offset": -1,
+   "title": "OceanGate Reference in GTA 6 💀",
+   "drafted": false,
+   "ts": "2026-11-21T13:51:59.804307+00:00"
+  },
+  {
+   "author": "youtube:fort2relatable",
+   "vod": "",
+   "offset": -1,
+   "title": "I can't believe they put Fortnite in GTA 6 🤡 #gta6 #fortnite #shorts",
+   "drafted": false,
+   "ts": "2026-11-21T13:52:00.524483+00:00"
+  },
+  {
+   "author": "youtube:igr",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 VS GTA 5 - Dump Truck VS Train Comparison",
+   "drafted": false,
+   "ts": "2026-11-21T13:52:01.150132+00:00"
+  },
+  {
+   "author": "youtube:hew moran",
+   "vod": "",
+   "offset": -1,
+   "title": "Calling in Sick to Play GTA6 😭 #gta6 #funny #relatable",
+   "drafted": false,
+   "ts": "2026-11-21T13:52:52.370737+00:00"
+  },
+  {
+   "author": "youtube:playmakerz",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 Will Save Man United 🙌🍿",
+   "drafted": false,
+   "ts": "2026-11-21T13:52:53.221021+00:00"
+  },
+  {
+   "author": "youtube:next quest",
+   "vod": "",
+   "offset": -1,
+   "title": "How Kyle Became the Red Hulk in GTA 6 Explained #gta6",
+   "drafted": false,
+   "ts": "2026-11-21T13:52:53.937264+00:00"
+  },
+  {
+   "author": "youtube:windah basudara",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA VI MENUJU 100% KATANYA ADA UFO.... Grand Theft Auto VI GAMEPLAY #5",
+   "drafted": false,
+   "ts": "2026-11-21T13:52:54.747190+00:00"
+  },
+  {
+   "author": "youtube:marcus kell",
+   "vod": "",
+   "offset": -1,
+   "title": "She Pranked Him With GTA 6 🤣🤣",
+   "drafted": false,
+   "ts": "2026-11-21T13:53:45.641092+00:00"
+  },
+  {
+   "author": "youtube:abhimanthan",
+   "vod": "",
+   "offset": -1,
+   "title": "IShowSpeed ne 24 ghante GTA 6 khel ke kitna kamaya? 🤯",
+   "drafted": false,
+   "ts": "2026-11-21T13:53:46.394129+00:00"
+  },
+  {
+   "author": "youtube:sacer cervantes",
+   "vod": "",
+   "offset": -1,
+   "title": "Cómo tener GTA 6 gratis 🫪 #gta #terror #hack",
+   "drafted": false,
+   "ts": "2026-11-21T13:53:47.228398+00:00"
+  },
+  {
+   "author": "youtube:reels receipt",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6's Plane Crashes Looked BROKEN... Here's Why",
+   "drafted": false,
+   "ts": "2026-11-21T13:53:48.063607+00:00"
+  },
+  {
+   "author": "youtube:lukogta",
+   "vod": "",
+   "offset": -1,
+   "title": "Here Are The Five Most Important Things in GTA 6 That The Game Doesn't Tell You!",
+   "drafted": false,
+   "ts": "2026-11-21T13:54:38.895782+00:00"
+  },
+  {
+   "author": "youtube:tamir's verse",
+   "vod": "",
+   "offset": -1,
+   "title": "Ignoring Lucia Goes HORRIBLY Wrong in GTA 6 💀 #shorts",
+   "drafted": false,
+   "ts": "2026-11-21T13:54:39.656560+00:00"
+  },
+  {
+   "author": "youtube:mrjemison",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 is Still Unplayable",
+   "drafted": false,
+   "ts": "2026-11-21T13:54:40.406715+00:00"
+  },
+  {
+   "author": "youtube:cr1tikally online",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 HAS A CRAZY AMOUNT OF CONTENT   #moistcritikal #penguinz0 #gta6",
+   "drafted": false,
+   "ts": "2026-11-21T13:54:41.162615+00:00"
+  },
+  {
+   "author": "youtube:bytetalkyt",
+   "vod": "",
+   "offset": -1,
+   "title": "You Have To Beat GTA 6 To Unlock Cheat Codes",
+   "drafted": false,
+   "ts": "2026-11-21T13:55:32.108558+00:00"
+  },
+  {
+   "author": "youtube:navid & hamid",
+   "vod": "",
+   "offset": -1,
+   "title": "از دیوار(eBay) جی‌تی‌ای ۶ نخرید 🤯😂#gta6",
+   "drafted": false,
+   "ts": "2026-11-21T13:55:32.853039+00:00"
+  },
+  {
+   "author": "youtube:miko",
+   "vod": "",
+   "offset": -1,
+   "title": "Stop Farming Money in GTA 6 Chapter 1",
+   "drafted": false,
+   "ts": "2026-11-21T13:55:33.675382+00:00"
+  },
+  {
+   "author": "twitch:ohnepixel",
+   "vod": "2934862154",
+   "offset": 26830.0,
+   "title": "RICH STREAMER ENJOYING!!",
+   "drafted": false,
+   "ts": "2026-11-21T13:55:34.391373+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:illojuan",
+   "vod": "2935071086",
+   "offset": 11825.0,
+   "title": "La serpiente",
+   "drafted": false,
+   "ts": "2026-11-21T13:56:25.181294+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:mokrivskyi",
+   "vod": "2934760345",
+   "offset": 20223.0,
+   "title": "РОМА РОМА",
+   "drafted": false,
+   "ts": "2026-11-21T13:56:25.570441+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:joe_bartolozzi",
+   "vod": "2935101396",
+   "offset": 3724.0,
+   "title": "W GOON GAME!",
+   "drafted": false,
+   "ts": "2026-11-21T13:56:25.945340+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:squeex",
+   "vod": "2935312943",
+   "offset": 2715.0,
+   "title": "squeex does a cool trick in gta",
+   "drafted": false,
+   "ts": "2026-11-21T13:56:26.323299+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:bratishkinoff",
+   "vod": "2934815498",
+   "offset": 18985.0,
+   "title": "ПТИЦА 200",
+   "drafted": false,
+   "ts": "2026-11-21T13:57:16.951985+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:yololaryy",
+   "vod": "2935217692",
+   "offset": 4932.0,
+   "title": "GTA 6 (95%) BIKINI STREAM👙🌶️ !cam2 !s !gooner",
+   "drafted": false,
+   "ts": "2026-11-21T13:57:17.427365+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:caseoh_",
+   "vod": "2934099165",
+   "offset": 30582.0,
+   "title": "fail",
+   "drafted": false,
+   "ts": "2026-11-21T13:57:17.854412+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:gotaga",
+   "vod": "2934916050",
+   "offset": 612.0,
+   "title": "x",
+   "drafted": false,
+   "ts": "2026-11-21T13:57:18.312893+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:drdonutttttt",
+   "vod": "",
+   "offset": -1,
+   "title": "W DONUT SMP TAXES - Clip 3",
+   "drafted": false,
+   "ts": "2026-11-21T13:58:08.865170+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:lacy",
+   "vod": "2935059680",
+   "offset": 2395.0,
+   "title": "a",
+   "drafted": false,
+   "ts": "2026-11-21T13:58:09.327827+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:k4rankul",
+   "vod": "",
+   "offset": -1,
+   "title": "Макс едет на тусу с квадроберами",
+   "drafted": false,
+   "ts": "2026-11-21T13:58:09.750217+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:melharucos",
+   "vod": "2934736689",
+   "offset": 28066.0,
+   "title": "F",
+   "drafted": false,
+   "ts": "2026-11-21T13:58:10.250228+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:skywhywalker",
+   "vod": "2934808223",
+   "offset": 34975.0,
+   "title": "УГНАЛИ МАШИНУ УГОЯ",
+   "drafted": false,
+   "ts": "2026-11-21T13:59:00.780992+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:djmariio",
+   "vod": "2934952136",
+   "offset": 22877.0,
+   "title": "Grand Theft Auto VI clip at 6h21m17s",
+   "drafted": false,
+   "ts": "2026-11-21T13:59:01.313140+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:sasavot",
+   "vod": "2934911045",
+   "offset": 1431.0,
+   "title": "залип",
+   "drafted": false,
+   "ts": "2026-11-21T13:59:01.707096+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:hutchmf",
+   "vod": "2934897780",
+   "offset": 25020.0,
+   "title": "Nick loves feet confirmed",
+   "drafted": false,
+   "ts": "2026-11-21T13:59:02.249748+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:emiru",
+   "vod": "2935325464",
+   "offset": 1539.0,
+   "title": "Cop cosplay",
+   "drafted": false,
+   "ts": "2026-11-21T13:59:52.742651+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:missmikkaa",
+   "vod": "2934939585",
+   "offset": 21487.0,
+   "title": "really good lighting",
+   "drafted": false,
+   "ts": "2026-11-21T13:59:53.262835+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:buster",
+   "vod": "2934878423",
+   "offset": 17475.0,
+   "title": "реакция бустера",
+   "drafted": false,
+   "ts": "2026-11-21T13:59:53.777230+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:rivers_gg",
+   "vod": "2935554996",
+   "offset": 2086.0,
+   "title": "GTA VI DIA 3",
+   "drafted": false,
+   "ts": "2026-11-21T13:59:54.146873+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:stableronaldo",
+   "vod": "2935093413",
+   "offset": 9626.0,
+   "title": "AHH ALMOST ALMOST",
+   "drafted": false,
+   "ts": "2026-11-21T14:00:44.722840+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:hasanabi",
+   "vod": "2935213810",
+   "offset": 16911.0,
+   "title": "10k dono?",
+   "drafted": false,
+   "ts": "2026-11-21T14:00:45.247559+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:ishowspeed",
+   "vod": "2934870795",
+   "offset": 6229.0,
+   "title": "niko belic",
+   "drafted": false,
+   "ts": "2026-11-21T14:00:45.621545+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:omarjoshgaming96",
+   "vod": "2935359910",
+   "offset": 3230.0,
+   "title": "GOT THE BAG!",
+   "drafted": false,
+   "ts": "2026-11-21T14:00:46.027826+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:anyme023",
+   "vod": "2934999001",
+   "offset": 33443.0,
+   "title": "MORT",
+   "drafted": false,
+   "ts": "2026-11-21T14:01:36.549062+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:nickmercs",
+   "vod": "2934876295",
+   "offset": 5980.0,
+   "title": "MMMM",
+   "drafted": false,
+   "ts": "2026-11-21T14:01:37.015091+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:teosgame",
+   "vod": "2934927543",
+   "offset": 1080.0,
+   "title": "60fps explanation",
+   "drafted": false,
+   "ts": "2026-11-21T14:01:37.416346+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:domingo",
+   "vod": "2934861314",
+   "offset": 1090.0,
+   "title": "worldwide",
+   "drafted": false,
+   "ts": "2026-11-21T14:01:37.782609+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:rubius",
+   "vod": "2935100343",
+   "offset": 5851.0,
+   "title": "rubius as3sin0",
+   "drafted": false,
+   "ts": "2026-11-21T14:02:28.530905+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:zackrawrr",
+   "vod": "2935185818",
+   "offset": 14760.0,
+   "title": "Asmongold Reacts to Male Stripping in GTA VI!",
+   "drafted": false,
+   "ts": "2026-11-21T14:02:29.071381+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:recrent",
+   "vod": "2934831951",
+   "offset": 14181.0,
+   "title": "Тайминг",
+   "drafted": false,
+   "ts": "2026-11-21T14:02:29.669404+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:bilzo",
+   "vod": "2934628152",
+   "offset": 2003.0,
+   "title": "manz went into the bathoom with a guy instead of lucia",
+   "drafted": false,
+   "ts": "2026-11-21T14:02:30.102709+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:michou",
+   "vod": "2935131576",
+   "offset": 546.0,
+   "title": "Lucia obèse",
+   "drafted": false,
+   "ts": "2026-11-21T14:03:20.621662+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:jeens",
+   "vod": "2934859803",
+   "offset": 24783.0,
+   "title": "БЕЗ УБИЙСТВ",
+   "drafted": false,
+   "ts": "2026-11-21T14:03:21.111505+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:alanzoka",
+   "vod": "2934932597",
+   "offset": 20192.0,
+   "title": "CARRO VOADOR",
+   "drafted": false,
+   "ts": "2026-11-21T14:03:21.752220+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:adm1tr1pow",
+   "vod": "2934914138",
+   "offset": 7361.0,
+   "title": "ничему жизнь не учит Донни",
+   "drafted": false,
+   "ts": "2026-11-21T14:03:22.315555+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:symfuhny",
+   "vod": "2934812331",
+   "offset": 21472.0,
+   "title": "o7 lucia",
+   "drafted": false,
+   "ts": "2026-11-21T14:04:13.102652+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:sterzik",
+   "vod": "2934805087",
+   "offset": 10905.0,
+   "title": "generational fumble",
+   "drafted": false,
+   "ts": "2026-11-21T14:04:13.749994+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:lirik",
+   "vod": "2935090050",
+   "offset": 1234.0,
+   "title": "he found first person mode",
+   "drafted": false,
+   "ts": "2026-11-21T14:04:14.374649+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:tenderlybae",
+   "vod": "2934871745",
+   "offset": 11567.0,
+   "title": "ДИЛАРА БУДЬ МОИМ ПИЛОТОМ",
+   "drafted": false,
+   "ts": "2026-11-21T14:04:14.986287+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:ぐちつぼ",
+   "vod": "2933667320",
+   "offset": 5403.0,
+   "title": "早すぎる天罰",
+   "drafted": false,
+   "ts": "2026-11-21T14:05:05.575377+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:ohnepixel",
+   "vod": "2934862154",
+   "offset": 31869.0,
+   "title": "XD",
+   "drafted": false,
+   "ts": "2026-11-21T14:07:51.025487+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:lacy",
+   "vod": "2935059680",
+   "offset": 11396.0,
+   "title": "wwwwwwwwwwwwwww",
+   "drafted": false,
+   "ts": "2026-11-21T14:07:51.580512+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:caseoh_",
+   "vod": "2932628190",
+   "offset": 28787.0,
+   "title": "broken",
+   "drafted": false,
+   "ts": "2026-11-21T14:07:52.062263+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:rostislav_999",
+   "vod": "2934921343",
+   "offset": 4373.0,
+   "title": "FL",
+   "drafted": false,
+   "ts": "2026-11-21T14:07:52.716501+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:buster",
+   "vod": "2934878423",
+   "offset": 14941.0,
+   "title": "верталетик",
+   "drafted": false,
+   "ts": "2026-11-21T14:08:43.628324+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:ぐちつぼ",
+   "vod": "2934918880",
+   "offset": 760.0,
+   "title": "揚げ豆腐と叫んで落ろしてもらえたぐちつぼ",
+   "drafted": false,
+   "ts": "2026-11-21T14:08:44.308329+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:ishowspeed",
+   "vod": "2934967396",
+   "offset": 12498.0,
+   "title": "He lost all of it",
+   "drafted": false,
+   "ts": "2026-11-21T14:08:45.028493+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:nickmercs",
+   "vod": "2934876295",
+   "offset": 26820.0,
+   "title": "this aint helping much either",
+   "drafted": false,
+   "ts": "2026-11-21T14:08:45.523804+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:djmariio",
+   "vod": "2934952136",
+   "offset": 12469.0,
+   "title": "DUCHA",
+   "drafted": false,
+   "ts": "2026-11-21T14:09:36.065209+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:melharucos",
+   "vod": "2934736689",
+   "offset": 28268.0,
+   "title": "В 2026 году у игры \"есть\" автосохранение",
+   "drafted": false,
+   "ts": "2026-11-21T14:09:36.609781+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:bratishkinoff",
+   "vod": "2934815498",
+   "offset": 27040.0,
+   "title": "я",
+   "drafted": false,
+   "ts": "2026-11-21T14:09:37.211035+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:hutchmf",
+   "vod": "2934897780",
+   "offset": 5526.0,
+   "title": "PEEN",
+   "drafted": false,
+   "ts": "2026-11-21T14:09:37.746638+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:illojuan",
+   "vod": "2935071086",
+   "offset": 1624.0,
+   "title": "W escribido! de los creadores de Haiga",
+   "drafted": false,
+   "ts": "2026-11-21T14:10:28.456452+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:adm1tr1pow",
+   "vod": "2934914138",
+   "offset": 5314.0,
+   "title": "КИК ФЛИП",
+   "drafted": false,
+   "ts": "2026-11-21T14:10:28.951122+00:00",
+   "frames": []
   }
  ],
  "published": [
