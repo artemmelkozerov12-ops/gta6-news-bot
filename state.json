@@ -1548,7 +1548,28 @@
   "7ec000436620563e": "2026-11-21T16:43:10.516627+00:00",
   "c66606e6e6645c3a": "2026-11-21T16:43:10.522890+00:00",
   "e761fb190c15d436": "2026-11-21T16:43:10.676001+00:00",
-  "dd32f998b4801760": "2026-11-21T16:43:12.813293+00:00"
+  "dd32f998b4801760": "2026-11-21T16:43:12.813293+00:00",
+  "fd0c6436727f21a0": "2026-11-21T16:58:54.886741+00:00",
+  "2d9fab3e68743b1c": "2026-11-21T16:58:54.887170+00:00",
+  "2f70afeda7b9d48c": "2026-11-21T16:58:58.140663+00:00",
+  "a2bfd6ccb7543885": "2026-11-21T16:58:58.952185+00:00",
+  "e2e90c229b4d95d9": "2026-11-21T16:58:59.785479+00:00",
+  "ea7bec985631f53f": "2026-11-21T16:59:00.497995+00:00",
+  "f5035798c5ef4ff3": "2026-11-21T16:59:51.828083+00:00",
+  "beb067c7e9ce9d94": "2026-11-21T16:59:52.703316+00:00",
+  "7b64fca376f533b8": "2026-11-21T16:59:53.524981+00:00",
+  "f665d373f68f0b0a": "2026-11-21T16:59:54.309307+00:00",
+  "62a34614f5e9fe40": "2026-11-21T17:00:45.236537+00:00",
+  "e53f682278020206": "2026-11-21T17:00:46.053505+00:00",
+  "0629782a3837bceb": "2026-11-21T17:00:46.943312+00:00",
+  "add3388effc45bd4": "2026-11-21T17:00:47.762704+00:00",
+  "adf87cdc1e88b636": "2026-11-21T17:01:38.784222+00:00",
+  "7f582790b7f715ae": "2026-11-21T17:01:39.689023+00:00",
+  "6b61f6492a1f28a5": "2026-11-21T17:01:40.646537+00:00",
+  "036e3625c615726e": "2026-11-21T17:01:41.370178+00:00",
+  "a4f4cffb9973517b": "2026-11-21T17:02:32.247040+00:00",
+  "40536db64cfd69f0": "2026-11-21T17:14:29.728061+00:00",
+  "5e389aa82773a902": "2026-11-21T17:14:30.215326+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -2590,7 +2611,9 @@
   "17a4356731eefcc5": "2026-11-21T16:43:10.512432+00:00",
   "011febeeb9f2e0d2": "2026-11-21T16:43:10.516627+00:00",
   "f020ca5d13a28ceb": "2026-11-21T16:43:10.522890+00:00",
-  "e5f1889c0a1a92c3": "2026-11-21T16:43:10.676001+00:00"
+  "e5f1889c0a1a92c3": "2026-11-21T16:43:10.676001+00:00",
+  "112e254343640a93": "2026-11-21T16:58:54.886741+00:00",
+  "59e3b724a819212b": "2026-11-21T16:58:54.887170+00:00"
  },
  "recent": [
   {
@@ -6800,6 +6823,22 @@
    "status": "dup",
    "ts": "2026-11-21T16:43:10.676072+00:00",
    "card_title": ""
+  },
+  {
+   "title": "How to find the Avery Pawn Shop safe code in GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-21T16:58:54.886779+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to use auto drive in GTA 6",
+   "source": "Polygon",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-21T16:58:54.887188+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -10139,6 +10178,161 @@
    "title": "Now we need to find a new Wife",
    "drafted": false,
    "ts": "2026-11-21T16:43:12.813336+00:00",
+   "frames": []
+  },
+  {
+   "author": "youtube:последняя извилина",
+   "vod": "",
+   "offset": -1,
+   "title": "Ох уж эти пасхалки в ГТА 6",
+   "drafted": false,
+   "ts": "2026-11-21T16:58:58.140695+00:00"
+  },
+  {
+   "author": "youtube:sansar comedy bar",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 😱 #shorts #funny #comedy #vlog #explore #gta #friends #entertainment",
+   "drafted": false,
+   "ts": "2026-11-21T16:58:58.952219+00:00"
+  },
+  {
+   "author": "youtube:gündem oldu",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 oynarken oyunda kendi evinin olduğunu fark eden adam 🤑",
+   "drafted": false,
+   "ts": "2026-11-21T16:58:59.785520+00:00"
+  },
+  {
+   "author": "youtube:ピンシー　",
+   "vod": "",
+   "offset": -1,
+   "title": "宇宙人の救い方　#gta #gta6 #グラセフ",
+   "drafted": false,
+   "ts": "2026-11-21T16:59:00.498038+00:00"
+  },
+  {
+   "author": "youtube:adrian_cqrt",
+   "vod": "",
+   "offset": -1,
+   "title": "POV: Toute la famille sèche pour jouer à GTA 6 (Partie 2)",
+   "drafted": false,
+   "ts": "2026-11-21T16:59:51.828133+00:00"
+  },
+  {
+   "author": "youtube:maya",
+   "vod": "",
+   "offset": -1,
+   "title": "I can’t believe they did this in GTA 6",
+   "drafted": false,
+   "ts": "2026-11-21T16:59:52.703356+00:00"
+  },
+  {
+   "author": "youtube:reidboehm",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 broke a ton of records",
+   "drafted": false,
+   "ts": "2026-11-21T16:59:53.525017+00:00"
+  },
+  {
+   "author": "youtube:nirami",
+   "vod": "",
+   "offset": -1,
+   "title": "driving in GTA 6 #gta",
+   "drafted": false,
+   "ts": "2026-11-21T16:59:54.309350+00:00"
+  },
+  {
+   "author": "youtube:e-mastersensei",
+   "vod": "",
+   "offset": -1,
+   "title": "Jugué GTA 6 en la Vida Real 🚨🚔 #InvitedByYouTube",
+   "drafted": false,
+   "ts": "2026-11-21T17:00:45.236589+00:00"
+  },
+  {
+   "author": "youtube:icrimax",
+   "vod": "",
+   "offset": -1,
+   "title": "WAS PASSIERT AM ENDE DER GTA 6 MAP!?",
+   "drafted": false,
+   "ts": "2026-11-21T17:00:46.053552+00:00"
+  },
+  {
+   "author": "youtube:icycol",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 Players Are Being Warned",
+   "drafted": false,
+   "ts": "2026-11-21T17:00:46.943343+00:00"
+  },
+  {
+   "author": "youtube:darkviperau",
+   "vod": "",
+   "offset": -1,
+   "title": "[PS5 Pro] [HOURLY GIVEAWAYS] Day 4 of GTA VI - 70% Complete!",
+   "drafted": false,
+   "ts": "2026-11-21T17:00:47.762735+00:00"
+  },
+  {
+   "author": "youtube:goated",
+   "vod": "",
+   "offset": -1,
+   "title": "Ranking the funniest GTA 6 clips I've seen #gta6 #funny #shorts",
+   "drafted": false,
+   "ts": "2026-11-21T17:01:38.784262+00:00"
+  },
+  {
+   "author": "youtube:schlayer",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 Made Furries Illegal?! 💀 #gta6 #gtavi #gaming",
+   "drafted": false,
+   "ts": "2026-11-21T17:01:39.689068+00:00"
+  },
+  {
+   "author": "youtube:mryazzie",
+   "vod": "",
+   "offset": -1,
+   "title": "Dont make this MISTAKE in GTA6!, going Irredeemable  #gta6 #grandtheftauto6 #tipsandtricks",
+   "drafted": false,
+   "ts": "2026-11-21T17:01:40.646581+00:00"
+  },
+  {
+   "author": "youtube:vida do lucrazy",
+   "vod": "",
+   "offset": -1,
+   "title": "JOGO DO GTA 6 IMPOSSÍVEL 😱 #shorts",
+   "drafted": false,
+   "ts": "2026-11-21T17:01:41.370225+00:00"
+  },
+  {
+   "author": "twitch:kaicenat",
+   "vod": "2934866208",
+   "offset": 41100.0,
+   "title": "WWWW eiii",
+   "drafted": false,
+   "ts": "2026-11-21T17:02:32.247072+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:notliberast",
+   "vod": "",
+   "offset": -1,
+   "title": "Улетела шваль",
+   "drafted": false,
+   "ts": "2026-11-21T17:14:29.728093+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:swagg",
+   "vod": "2935199086",
+   "offset": 5136.0,
+   "title": "RIP PAUL WALKER",
+   "drafted": false,
+   "ts": "2026-11-21T17:14:30.215370+00:00",
    "frames": []
   }
  ],
