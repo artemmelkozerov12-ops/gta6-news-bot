@@ -2020,7 +2020,30 @@
   "ac1c9da2f98adf93": "2026-11-22T11:19:51.845110+00:00",
   "d538f59ecff67806": "2026-11-22T11:20:48.359587+00:00",
   "2f08275eee2d737f": "2026-11-22T11:20:57.825014+00:00",
-  "0260da6536bbf41a": "2026-11-22T11:21:19.239663+00:00"
+  "0260da6536bbf41a": "2026-11-22T11:21:19.239663+00:00",
+  "347294e65ca69f49": "2026-11-22T11:22:47.509106+00:00",
+  "1c0690eed9410f77": "2026-11-22T11:22:49.488304+00:00",
+  "aef43d5f5758eb9b": "2026-11-22T11:23:01.917580+00:00",
+  "f348dcf158aa2da8": "2026-11-22T11:23:03.078932+00:00",
+  "807c7eb532bac628": "2026-11-22T11:23:06.696254+00:00",
+  "93ee4e182f87ec7a": "2026-11-22T11:23:28.865142+00:00",
+  "9e11ed43d6566220": "2026-11-22T11:23:50.953120+00:00",
+  "dbc0c7880bb60bb2": "2026-11-22T11:24:13.264901+00:00",
+  "1f49368c1b5317ee": "2026-11-22T11:24:15.455146+00:00",
+  "cecfd72b2f8d8a14": "2026-11-22T11:27:31.942835+00:00",
+  "14729f40a094af26": "2026-11-22T11:28:02.447548+00:00",
+  "6ec2a7222707c8e3": "2026-11-22T11:28:08.894298+00:00",
+  "e0bf6cca4a349b85": "2026-11-22T11:29:10.942305+00:00",
+  "9c3103059d9a1481": "2026-11-22T11:29:19.032527+00:00",
+  "1e5dde58063ec6c7": "2026-11-22T11:29:30.568098+00:00",
+  "45e9996d5fbfda47": "2026-11-22T11:29:38.840591+00:00",
+  "d0bcacea7efff242": "2026-11-22T11:30:37.199631+00:00",
+  "83ae9b7924862a17": "2026-11-22T11:30:46.776283+00:00",
+  "52c8723b0b580fb4": "2026-11-22T11:39:40.679128+00:00",
+  "2a57711cf845b8ae": "2026-11-22T11:40:38.384661+00:00",
+  "c5dcc63d433112a0": "2026-11-22T11:40:43.652675+00:00",
+  "20f54e991ac98935": "2026-11-22T11:40:44.708662+00:00",
+  "00492d51ef9cc573": "2026-11-22T11:41:06.729317+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -3373,7 +3396,20 @@
   "8a3f609ccb5f494e": "2026-11-22T11:06:56.046756+00:00",
   "48acf99666019b4f": "2026-11-22T11:06:57.037265+00:00",
   "99a63472cf35697c": "2026-11-22T11:07:03.285124+00:00",
-  "4dc29c6f76960e9d": "2026-11-22T11:07:07.028541+00:00"
+  "4dc29c6f76960e9d": "2026-11-22T11:07:07.028541+00:00",
+  "a597be4ecb9e3d98": "2026-11-22T11:22:47.509106+00:00",
+  "c8ed201a3af4c37a": "2026-11-22T11:22:49.488304+00:00",
+  "fb4d248f630b40ed": "2026-11-22T11:23:01.917580+00:00",
+  "df548af4b425fe64": "2026-11-22T11:23:03.078932+00:00",
+  "69a9826cb3101995": "2026-11-22T11:23:06.696254+00:00",
+  "b02c64a0c12ab1a3": "2026-11-22T11:23:28.865142+00:00",
+  "116f6ecefcc5ce1c": "2026-11-22T11:23:50.953120+00:00",
+  "090189ac8ae4c440": "2026-11-22T11:24:13.264901+00:00",
+  "fd8e119ba7db614b": "2026-11-22T11:39:40.679128+00:00",
+  "4e1ef70dc963c91a": "2026-11-22T11:40:38.384661+00:00",
+  "6bbbc5ed0ad3a7bb": "2026-11-22T11:40:43.652675+00:00",
+  "c7fead3955b70b1b": "2026-11-22T11:40:44.708662+00:00",
+  "9f4e809cf8eef1bf": "2026-11-22T11:41:06.729317+00:00"
  },
  "recent": [
   {
@@ -8319,6 +8355,102 @@
    "status": "skipped",
    "ts": "2026-11-22T11:07:07.028661+00:00",
    "card_title": ""
+  },
+  {
+   "title": "How to flip an overturned car in GTA 6",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-22T11:22:47.509139+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 player gets 30-day PSN ban for sharing in-game nudist photo with a friend",
+   "source": "Eurogamer",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-22T11:22:54.662491+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6: за 4 минуты на самолёте через весь архипелаг",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T11:23:01.917723+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "15 brands trendjacking GTA 6 without official partnerships",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T11:23:03.079070+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Grand Theft Auto VI is a hit. What does that say about us? | Opinion",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T11:23:06.696388+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 HDR: как исправить бледную калибровку за две минуты",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T11:23:28.865273+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 is breaking sales records! Should I buy this S&P 500 stock for my ISA?",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T11:23:50.953265+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 is facing its first plagiarism claim just two days after its release",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T11:24:13.265022+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI 60FPS Glitch Discovered And Here’s How To Do It",
+   "source": "Rockstar Intel",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-22T11:40:29.628078+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Матерые сигмабои до лютой истерики критикуют «навязывание» отношений между Джейсоном и Люссией в GTA 6",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T11:40:38.384778+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 PC Version Gets Official Release Date Update",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T11:40:43.652796+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Около тысячи сотрудников Rockstar работают в студии уже больше 10 лет – это больше 20% штата",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T11:40:44.708799+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -8408,35 +8540,6 @@
     "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-3.5-flash"
    },
    "queued_at": "2026-11-22T11:06:47.497165+00:00"
-  },
-  {
-   "item": {
-    "title": "Your Xbox Can Ban You for Auto-Uploading GTA 6 Nude Clips",
-    "link": "https://www.gtaboom.com/your-xbox-can-ban-you-for-auto-uploading-gta-6-nude-clips-8930",
-    "summary": "A player reports a two day Xbox suspension after a GTA 6 beach clip uploaded automatically; Series X|S players can turn off automatic uploads.",
-    "published": "2026-11-21T23:05:09+00:00",
-    "source": "GTA BOOM",
-    "site_name": "GTA BOOM",
-    "trust": "medium",
-    "text": "An Xbox player says their console automatically uploaded a 28-second beach clip from Grand Theft Auto VI and they immediately got a two-day suspension. The game is not the problem here. The default setting is.\nOn Reddit, the player described the single-player clip as showing NPCs in swimwear with no explicit nudity and said the suspension was labeled an automatic enforcement action. The player never chose to post any of it. The console did.\nEach piece of this is working as designed, which is the real problem. GTA 6 carries ESRB Mature ratings with Nudity and Strong Sexual Content descriptors, the most adult rating a Grand Theft Auto game has ever received. There is no in-game toggle to switch that material off, only limited gore options unless you to happen to live in certain countrie and Xbox turns on automatic clip uploads by default. In its Community Standards, Xbox is saying sexual content does not belong in the shared community, rated game or not.\nPut those three together and a clip you meant to keep private can end up subject to Xbox's rules for shared content. Sharing explicit content publicly does break the rules. The problem is that the platform is the one doing the sharing for you.\nThe fix, for now, is with the players. On Xbox Series X|S, go to Settings, then Preferences, then Capture and share, then set Automatically upload to Don't upload. Clips stay local until you choose to share one. None of that should be the player's job on a console that sold them the game, but it is the only switch that reliably works. The deeper issue is one we have tracked since the ratings came in. GTA 6 is built to be uncensorable, with adult content woven through the world and no master filter, the exact reason why a capture tool keeps tripping over it.\nGTA 6 was always going to be defined by its adult content. Japan censored the showers and the gore, South Korea nearly refused to rate it at all over nudity and the full picture of where it is restricted keeps changing. Parents looking for control should know the console age settings gate the game itself but do not filter what happens once it is running.\nMicrosoft could turn off automatic uploads by default so clips stay local unless players choose to share them. Until it does, the safest move with the biggest game of the year is to stop your own Xbox from posting it for you.\nDid your Xbox auto-upload bite you yet, or did you turn the setting off the second you heard about these GTA 6 suspensions?\nOnce a post receiv",
-    "extra": {
-     "image": "https://media.gtaboom.com/variants/1920/media/images/de/1b/your-xbox-can-ban-you-for-auto-uploading-gta-6-nude-clips.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "🗺 Гайд: как не отлететь в бан на Xbox\n\nТвой Xbox может сам слить в сеть клип из игры, а система посчитает контент «неподобающим» — и прилетит бан. Чтобы не словить тильт, срочно меняй настройки:\n\n1. Заходи в «Настройки» -> «Настройки» -> «Захват и общий доступ».\n2. Ставь «Автоматическая загрузка» на «Не загружать».\n\nТеперь клипы будут жить только на твоей консоли. База, чтобы не потерять аккаунт из-за тупого алгоритма.\n\n❤️ — Уже отключил, спасибо!\n👎 — Поздно, меня уже забанили",
-    "card_title": "БАН ЗА СКРИНЫ В GTA 6",
-    "reason": "Важное предупреждение для игроков Xbox, которое поможет избежать бана из-за настроек консоли.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": true,
-    "model": "gemini:gemini-3.1-flash-lite"
-   },
-   "queued_at": "2026-11-21T23:07:52.507155+00:00"
   },
   {
    "item": {
@@ -8784,9 +8887,10 @@
   "2026-11-22T08:16:15.135437+00:00",
   "2026-11-22T09:13:29.759405+00:00",
   "2026-11-22T10:19:40.823469+00:00",
-  "2026-11-22T10:36:38.402500+00:00"
+  "2026-11-22T10:36:38.402500+00:00",
+  "2026-11-22T11:31:52.041959+00:00"
  ],
- "tg_offset": 387129040,
+ "tg_offset": 387129041,
  "channel": {
   "id": -1003986639147,
   "title": "GTA 6 | Горячие новости",
@@ -8837,7 +8941,8 @@
   "2026-11-22T07:07:06.857669+00:00",
   "2026-11-22T08:09:45.463203+00:00",
   "2026-11-22T09:12:46.509272+00:00",
-  "2026-11-22T10:17:37.834870+00:00"
+  "2026-11-22T10:17:37.834870+00:00",
+  "2026-11-22T11:30:53.650853+00:00"
  ],
  "clip_history": [
   {
@@ -13073,6 +13178,106 @@
    "drafted": false,
    "ts": "2026-11-22T11:21:19.239725+00:00",
    "frames": []
+  },
+  {
+   "author": "twitch:dunc",
+   "vod": "2935766853",
+   "offset": 8596.0,
+   "title": "\"Oops! I did it again.\"",
+   "drafted": false,
+   "ts": "2026-11-22T11:24:15.455199+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:quin69",
+   "vod": "2936181330",
+   "offset": 18329.0,
+   "title": "Need for Quin69",
+   "drafted": false,
+   "ts": "2026-11-22T11:27:31.942882+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:vanosscrew",
+   "vod": "",
+   "offset": -1,
+   "title": "THE VANOSS CREW PLAYS GTA 6 BUT THERES NO VANOSS CREW (ignore Nogla, we appreciate every sub/dono)",
+   "drafted": false,
+   "ts": "2026-11-22T11:28:02.447615+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:jshrobz",
+   "vod": "2936031209",
+   "offset": 13241.0,
+   "title": "I can't even explain what's happening...",
+   "drafted": false,
+   "ts": "2026-11-22T11:28:08.894356+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:anyme023",
+   "vod": "2933870102",
+   "offset": 18458.0,
+   "title": "REV 1",
+   "drafted": false,
+   "ts": "2026-11-22T11:29:10.942363+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:frametamer666",
+   "vod": "2934472461",
+   "offset": 155013.0,
+   "title": "60",
+   "drafted": false,
+   "ts": "2026-11-22T11:29:19.032573+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:alanzoka",
+   "vod": "2936272189",
+   "offset": 3389.0,
+   "title": "MEU DEUS O BAGOS",
+   "drafted": false,
+   "ts": "2026-11-22T11:29:30.568153+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:rostislav_999",
+   "vod": "2936140043",
+   "offset": 13797.0,
+   "title": "поня ультует",
+   "drafted": false,
+   "ts": "2026-11-22T11:29:38.840646+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:clix",
+   "vod": "2936385310",
+   "offset": 25038.0,
+   "title": "sssssssssssss",
+   "drafted": false,
+   "ts": "2026-11-22T11:30:37.199678+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:t2x2",
+   "vod": "2936052672",
+   "offset": 13325.0,
+   "title": "не увидел 🤭",
+   "drafted": false,
+   "ts": "2026-11-22T11:30:46.776329+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:t2x2",
+   "vod": "2936052672",
+   "offset": 13325.0,
+   "title": "не увидел 🤭",
+   "drafted": true,
+   "ts": "2026-11-22T11:30:53.650869+00:00",
+   "frames": [],
+   "caption": "Лусия — просто имба: вынесла всех обидчиков у заправки, пока Джейсон извинялся. Вот это я понимаю, женская поддержка! 💀"
   }
  ],
  "published": [
@@ -13250,6 +13455,13 @@
    "title": "Актриса выбила роль в GTA 6 и получила кастомную PS5 Pro",
    "importance": 7,
    "kind": "confirmed"
+  },
+  {
+   "ts": "2026-11-22T11:31:52.041982+00:00",
+   "msg_id": 53,
+   "title": "Лусия — просто имба: вынесла всех обидчиков у заправки, пока Джейсон извинялся. Вот это я…",
+   "importance": 9,
+   "kind": "video"
   }
  ],
  "extras": [],
@@ -13258,5 +13470,34 @@
   "weekly-20261121": "2026-11-21T17:30:42.606074+00:00",
   "digest-20261121": "2026-11-21T19:30:10.993120+00:00"
  },
- "rewrite_wait": []
+ "rewrite_wait": [
+  {
+   "item": {
+    "title": "Фанаты разблокировали FPS в GTA 6",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWE5CY1R6X2hfbVpFNTVTVlFXb2wzTzhQWTNzN0pBd3pXV2Z5MnlVT19mYlFhdE0xV01YejdpWDRBcGFDa0NFZVNYOFFCdFFTU0g2eXFlVl9yT0VQOEZXU0s2U2RqbkhLRjB1bi1LSjVpNzBybkk3QVBNbmlkTDVkZXRiWlB6QUJiMGpLalhYTF90LW85cDlXcXRkMWpfaWFwZnhkWWFBeWNLZw?oc=5",
+    "summary": "Фанаты разблокировали FPS в GTA 6 Igromania.ru",
+    "published": "2026-11-22T11:28:05+00:00",
+    "source": "Google News (RU)",
+    "site_name": "Igromania.ru",
+    "trust": "rumor",
+    "text": "Фанаты разблокировали FPS в GTA 6 Igromania.ru",
+    "extra": {}
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "🗺 Гайд: FPS в GTA 6\n\nДемоны из кода разблокировали высокий FPS. Завезли производительность, где её не ждали. Затестим этот баг, чтобы катка шла как масло, а не как слайдшоу. Рил, что и в 2026-м хакят всё подряд.",
+    "card_title": "ФПС В GTA 6",
+    "reason": "Полезный секрет/баг для вышедшей игры, повышает удовольствие от геймплея.",
+    "duplicate": false,
+    "corroborated": true,
+    "duplicate_of": "",
+    "corroborated_by": "GTA VI 60FPS Glitch Discovered And Here’s How To Do It",
+    "guide": true,
+    "model": "groq:qwen/qwen3.8-27b"
+   },
+   "corr": false,
+   "since": "2026-11-22T11:41:14.065447+00:00"
+  }
+ ]
 }
