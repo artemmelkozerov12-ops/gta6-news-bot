@@ -1831,7 +1831,13 @@
   "ac4e2a6ff7808a70": "2026-11-22T01:23:48.334477+00:00",
   "fa45fe05242e4918": "2026-11-22T01:24:10.343416+00:00",
   "db6ecc3ecb50afb9": "2026-11-22T01:39:29.493184+00:00",
-  "61eadb983a9ec274": "2026-11-22T01:39:30.513974+00:00"
+  "61eadb983a9ec274": "2026-11-22T01:39:30.513974+00:00",
+  "6be22c424375d184": "2026-11-22T01:54:50.276102+00:00",
+  "604a62ba14a2e3ed": "2026-11-22T01:54:52.101889+00:00",
+  "88c716a4a4d589b0": "2026-11-22T01:54:53.073401+00:00",
+  "53d005d5d4263be8": "2026-11-22T01:54:54.170071+00:00",
+  "84f27383ece12c57": "2026-11-22T02:10:14.849427+00:00",
+  "f02444b565ab0d50": "2026-11-22T02:10:16.102005+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -3060,7 +3066,12 @@
   "5db7772bbcdc45d6": "2026-11-22T01:23:48.334477+00:00",
   "a3a51929bdaf5521": "2026-11-22T01:24:10.343416+00:00",
   "068d088ead3251c2": "2026-11-22T01:39:29.493184+00:00",
-  "a9d754180b1faca0": "2026-11-22T01:39:30.513974+00:00"
+  "a9d754180b1faca0": "2026-11-22T01:39:30.513974+00:00",
+  "522940dec8ccaeac": "2026-11-22T01:54:52.101889+00:00",
+  "202c0db33007dd4b": "2026-11-22T01:54:53.073401+00:00",
+  "aed63d627409238d": "2026-11-22T01:54:54.170071+00:00",
+  "7337878e95aa9ab2": "2026-11-22T02:10:14.849427+00:00",
+  "6be26b93b4ffc17d": "2026-11-22T02:10:16.102005+00:00"
  },
  "recent": [
   {
@@ -7925,6 +7936,54 @@
    "trust": "rumor",
    "status": "skipped",
    "ts": "2026-11-22T01:39:30.514095+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Naughty Dog Dev Says GTA 6 Is Like a 'Bugatti Veyron to a Nervous Victorian Child'",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-22T01:54:50.276140+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Naughty Dog Dev Says GTA 6 Is Like a 'Bugatti Veyron to a Nervous Victorian Child'",
+   "source": "Push Square",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-22T01:54:52.102025+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 could arrive on PC sooner than expected, thanks to a developer behind an unofficial Switch 2 Zelda: Ocarina of Time remake port",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T01:54:53.073560+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6: Wyman's Classic Car Locations (WIP)",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T01:54:54.170203+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Trust trophy guide: finish Breakfast Run to earn it, plus what comes next",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T02:10:14.849569+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 - How to Find the Fast and the Furious Car Easter Egg",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T02:10:16.102165+00:00",
    "card_title": ""
   }
  ],
