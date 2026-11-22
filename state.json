@@ -1850,7 +1850,17 @@
   "fff519d400ee928f": "2026-11-22T03:11:59.792964+00:00",
   "ffab2a1d3af75235": "2026-11-22T03:12:01.927697+00:00",
   "70eec6cd57a23d72": "2026-11-22T03:12:07.826205+00:00",
-  "cf4d2cbde46cbb25": "2026-11-22T03:12:09.782289+00:00"
+  "cf4d2cbde46cbb25": "2026-11-22T03:12:09.782289+00:00",
+  "45957163429e5a7a": "2026-11-22T03:27:34.097078+00:00",
+  "113e93a95c9273e0": "2026-11-22T03:27:48.192510+00:00",
+  "42bb9f1b0d74c4cb": "2026-11-22T03:27:53.072522+00:00",
+  "4732988fa0cfb172": "2026-11-22T03:27:59.747463+00:00",
+  "e237eeef9cc3b6b8": "2026-11-22T03:28:00.868356+00:00",
+  "fb3db2416ad02cc6": "2026-11-22T03:28:02.138344+00:00",
+  "18400760acc04a96": "2026-11-22T03:28:03.300623+00:00",
+  "a5248970444ff975": "2026-11-22T03:43:22.941122+00:00",
+  "e68484172a81b788": "2026-11-22T03:43:24.069377+00:00",
+  "32d617d2dae22653": "2026-11-22T03:43:25.560034+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -3097,7 +3107,17 @@
   "fd64b814af4892fc": "2026-11-22T03:11:59.792964+00:00",
   "87eb48d63dd36a46": "2026-11-22T03:12:01.927697+00:00",
   "ddf906f68077b316": "2026-11-22T03:12:07.826205+00:00",
-  "4af08036f9a04b19": "2026-11-22T03:12:09.782289+00:00"
+  "4af08036f9a04b19": "2026-11-22T03:12:09.782289+00:00",
+  "0a8923024103bca0": "2026-11-22T03:27:34.097078+00:00",
+  "014aec22bd78ad98": "2026-11-22T03:27:48.192510+00:00",
+  "716d0f4d32660c63": "2026-11-22T03:27:53.072522+00:00",
+  "ae4c700dd6221aff": "2026-11-22T03:27:59.747463+00:00",
+  "91365b41013842b2": "2026-11-22T03:28:00.868356+00:00",
+  "49a7ec53b530197d": "2026-11-22T03:28:02.138344+00:00",
+  "530ce2b3539641b6": "2026-11-22T03:28:03.300623+00:00",
+  "b48d475b9525d8d2": "2026-11-22T03:43:22.941122+00:00",
+  "d8021a17ddb54c29": "2026-11-22T03:43:24.069377+00:00",
+  "343000c6de1ad1ad": "2026-11-22T03:43:25.560034+00:00"
  },
  "recent": [
   {
@@ -8115,6 +8135,86 @@
    "status": "skipped",
    "ts": "2026-11-22T03:12:09.782475+00:00",
    "card_title": ""
+  },
+  {
+   "title": "Джокер из Флориды, требовавший 10 миллионов от создателей GTA VI, появился в титрах и рассказал о работе над игрой",
+   "source": "iXBT.games",
+   "trust": "medium",
+   "status": "queued",
+   "ts": "2026-11-22T03:27:40.254226+00:00",
+   "card_title": "ДЖОКЕР ПОПАЛ В GTA 6"
+  },
+  {
+   "title": "Найдена настоящая девушка с обложки GTA VI — модель подтвердила участие в проекте",
+   "source": "iXBT.games",
+   "trust": "medium",
+   "status": "queued",
+   "ts": "2026-11-22T03:27:51.881898+00:00",
+   "card_title": "ТА САМАЯ ДЕВУШКА С ОБЛОЖКИ"
+  },
+  {
+   "title": "💥Walking into GTA 6 airport security armed and sparking a full terminal shootout was always going to end with that red screen She got further than I thought she would…💀 Writer: Bri",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T03:27:53.072726+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Екатеринбуржец работает над GTA 6 в Rockstar Games с 2022 года",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T03:27:59.747623+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6: Should You Help Mario & Frankie In \"Afternoon Delight\"",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T03:28:00.868535+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Rockstar стремится вызвать симпатию к героям GTA 6 их сходством с обычными людьми",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T03:28:02.138520+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Владельцы Xbox Series X и PS5 жалуются на вылеты и сбои GTA VI",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T03:28:03.300783+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Моддеры представили проект Leonida — консольную версию GTA VI переносят на ПК",
+   "source": "iXBT.games",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-22T03:43:22.941274+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "I Expected GTA 6 to Struggle on the Xbox Series S. Instead, I Couldn’t Stop Playing",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T03:43:24.069601+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 South Leonida Real Estate explained: who Terro and Viper are, and when Mia’s $2,000 arrives",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T03:43:25.560203+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -8961,6 +9061,35 @@
   },
   {
    "item": {
+    "title": "Джокер из Флориды, требовавший 10 миллионов от создателей GTA VI, появился в титрах и рассказал о работе над игрой",
+    "link": "https://ixbt.games/news/2026/11/22/dzoker-iz-floridy-trebovavsii-10-millionov-ot-sozdatelei-gta-vi-poiavilsia-v-titrax-i-rasskazal-o-rabote-nad-igroi.html",
+    "summary": "Похоже, что кампания блогера прошла успешно и Rockstar Games заключила сделку.",
+    "published": "2026-11-22T02:49:00+00:00",
+    "source": "iXBT.games",
+    "site_name": "iXBT.games",
+    "trust": "medium",
+    "text": "Похоже, что кампания блогера прошла успешно и Rockstar Games заключила сделку.\nНедавно вышла Grand Theft Auto VI и Rockstar Games опубликовала титры с разработчиками и актёрами, которые работали над проектом. Игроки с удивлением обнаружили там одного специфического блогера.\nВ разделе The Local Population («местное население») упоминается Лоуренс Салливан (Lawrence Sullivan), более известный как Джокер из Флориды. Ранее он уже оказывался в центре внимания из-за его требования к Rockstae Games\nОн увидел в трейлере GTA VI человека, очень похожего на него, и решил потребовать выплату за использование его внешности. Сначала он хотел получить несколько миллионов долларов, а затем его требование увеличилось до 10 миллионов, он грозил разработчика судебным разбирательством. Затем он пересмотрел свою позицию и предложил дать ему возможность озвучить персонажа, тогда он говорил: «Позвольте мне озвучить персонажа, участвовать в фан-встречах, продвигать игру».\nПохоже, что Джокер из Флориды добился своего и стал частью Grand Theft Auto VI. В титрках имя его персонажа не указано, но в своём недавнем ролике он рассказал, что принял участие в озвучке игры.\nНе пропускайте наши новостиДобавьте сайт в предпочитаемые источники, чтобы видеть нас чащеДобавить в Google",
+    "extra": {
+     "image": "https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1744803/media-7216fbe6b6f1016ff0e01a70d86fb573a83b568a119936a3848dba0a926151f2.png"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "🤡 ДЖОКЕР ИЗ ФЛОРИДЫ ВСЁ-ТАКИ ДОЖАЛ ROCKSTAR!\n\nПомните чела с татухами, который требовал 10 млн долларов за свою внешку в трейлере? Разработчики завезли его прямо в титры GTA 6, а сам он подтвердил, что реально подарил голос персонажу. Рофл года!\n\n❤️ — Заслужил, легенда!\n👎 — Слишком много чести",
+    "card_title": "ДЖОКЕР ПОПАЛ В GTA 6",
+    "reason": "Джокер из Флориды реально попал в титры GTA 6 после всех скандалов и угроз судом.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-3.5-flash"
+   },
+   "queued_at": "2026-11-22T03:27:40.254214+00:00"
+  },
+  {
+   "item": {
     "title": "Grand Theft Auto VI: Collectors Box. Whats inside?",
     "link": "https://rockstarintel.com/grand-theft-auto-vi-collectors-box-whats-inside/",
     "summary": "Its been a few days since Grand Theft Auto VI released worldwide, and one thing we can say is, that its been a huge success. breaking records left right and centre. As we all know, a few months ago, Rockstar Games announced a Collectors Box, costing a controversial £350 plus shipping. Our collectors box arrived [...] The post Grand Theft Auto VI: Collectors Box. Whats inside? appeared first on RockstarINTEL .",
@@ -9045,6 +9174,35 @@
     "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-3.5-flash"
    },
    "queued_at": "2026-11-22T03:12:06.723012+00:00"
+  },
+  {
+   "item": {
+    "title": "Найдена настоящая девушка с обложки GTA VI — модель подтвердила участие в проекте",
+    "link": "https://ixbt.games/news/2026/11/22/naidena-nastoiashhaia-devuska-s-oblozki-gta-vi-model-podtverdila-ucastie-v-proekte.html",
+    "summary": "Предыдущая теория не подтвердилась.",
+    "published": "2026-11-22T02:42:00+00:00",
+    "source": "iXBT.games",
+    "site_name": "iXBT.games",
+    "trust": "medium",
+    "text": "Недавно состоялся релиз Grand Theft Auto VI и спало действие NDA (соглашения о неразглашении). Игроки наконец смогли узнать, кто на самом деле стал прототипом девушки в обложки.\nЛетом, когда Rockstar Games опубликовала обложки GTA VI, многие предположили, что её роль исполнила модель и диджей Габриэла Чикин (Gabriela Chiquin) — внешне они действительно были очень похожи:\nОднако на самом деле девушкой с обложки является нью-йоркская модель. Саби Гарсия (Sabii Garcia) официально подтвердила своё участие в проекте, тем самым опровергнув популярную теорию.\nДевушка поблагодарила директора по кастингу Rockstar Games Кали Элизабет Мур (Cali Elizabeth Moore):\nСпасибо за то, что нашла меня и дала мне эту возможность!! Я всё ещё не могу поверить, что это по-настоящему — я буду благодарна тебе вечно!\nЗато недавно подтвердилась фанатская теория по поводу актрисы Лусии — её действительно сыграла Манни Л. Перес (Manni L. Perez).\nСейчас Grand Theft Auto VI доступна только на консолях PlayStation 5 и Xbox Series X|S. ПК-версию игры пока не анонсировали.\nНе пропускайте наши новостиДобавьте сайт в предпочитаемые источники, чтобы видеть нас чащеДобавить в Google",
+    "extra": {
+     "image": "https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1744801/media-664894e4a33ce1b310b031428cc3ce01c885b7859965fddd809110534d5fefe4.png"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "😍 Найдена НАСТОЯЩАЯ девушка с арт-обложки GTA 6\n\nФанатские теории в тильте: обложку рисовали не с диджея Габриэлы Чикин. Модель Саби Гарсия официально подтвердила, что снялась для арта, как только спал NDA. Красота!",
+    "card_title": "ТА САМАЯ ДЕВУШКА С ОБЛОЖКИ",
+    "reason": "Model Sabii Garcia confirmed she is the face on the GTA 6 cover, debunking previous theories.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-3.5-flash"
+   },
+   "queued_at": "2026-11-22T03:27:51.881887+00:00"
   },
   {
    "item": {
