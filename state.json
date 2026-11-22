@@ -1875,7 +1875,13 @@
   "11403a6f513e7cda": "2026-11-22T05:15:42.912803+00:00",
   "3f8cc90640570d44": "2026-11-22T05:15:43.907636+00:00",
   "e467068d592c9c7f": "2026-11-22T05:15:56.755666+00:00",
-  "e240457cce2ce093": "2026-11-22T05:16:17.818199+00:00"
+  "e240457cce2ce093": "2026-11-22T05:16:17.818199+00:00",
+  "c3ce3c0eecdcd210": "2026-11-22T05:35:29.079448+00:00",
+  "8215f1a37a835b2f": "2026-11-22T05:35:30.075433+00:00",
+  "f02bf05011c664d7": "2026-11-22T05:35:31.183433+00:00",
+  "ae38c726577e2a6e": "2026-11-22T05:35:49.221173+00:00",
+  "ede0fc4fd6d81a97": "2026-11-22T05:36:11.327711+00:00",
+  "eeaa40e1c52a6295": "2026-11-22T05:36:22.401524+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -3147,417 +3153,15 @@
   "4ac39943b0248b66": "2026-11-22T05:15:42.912803+00:00",
   "7c65e46d8ac6d3de": "2026-11-22T05:15:43.907636+00:00",
   "a067ff3b41be49a2": "2026-11-22T05:15:56.755666+00:00",
-  "2598397f0669bf3b": "2026-11-22T05:16:17.818199+00:00"
+  "2598397f0669bf3b": "2026-11-22T05:16:17.818199+00:00",
+  "b76ac1ce66657d0b": "2026-11-22T05:35:29.079448+00:00",
+  "947bb94bdc0a4a31": "2026-11-22T05:35:30.075433+00:00",
+  "629c92b84942e23a": "2026-11-22T05:35:31.183433+00:00",
+  "286fc05289581197": "2026-11-22T05:35:49.221173+00:00",
+  "bf0c17520e216ffa": "2026-11-22T05:36:11.327711+00:00",
+  "319c85dc742d5a3d": "2026-11-22T05:36:22.401524+00:00"
  },
  "recent": [
-  {
-   "title": "GTA 6 Moses Mission Walkthrough",
-   "source": "VGC",
-   "trust": "high",
-   "status": "dup",
-   "ts": "2026-11-20T01:43:06.009820+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Down to Earth Walkthrough",
-   "source": "GTA BOOM",
-   "trust": "medium",
-   "status": "dup",
-   "ts": "2026-11-20T01:43:06.009868+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Building a Life Walkthrough",
-   "source": "GTA BOOM",
-   "trust": "medium",
-   "status": "dup",
-   "ts": "2026-11-20T01:43:06.009907+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 First-Person Glitch Discovered, And It Works On Xbox & PS5",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-20T01:43:06.009960+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Here’s What People Are Playing That’s Not GTA 6",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-20T01:43:06.010007+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Is Even Better When You Play It Side-By-Side With Your Wife",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-20T01:43:06.010050+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 excitement has some Alabama gamers taking time off work",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-20T01:43:06.010086+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Help: I can't stop obeying traffic laws in GTA 6",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-20T01:43:06.010124+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 excitement has some Alabama gamers taking time off work",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-20T01:43:06.010168+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 has the best use of the PS5 controller I've ever seen",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-20T01:43:06.010210+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "CNN Calls GTA 6 The 'Most Intense Version Of Pac-Man'",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-20T01:43:06.010251+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "I Didn’t Expect GTA 6 To Be The Game That Tries To De-Toxify Toxic Masculinity",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-20T01:43:06.010299+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Shows Why You Should Never, Ever, Ever Text and Drive (Ever)",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-20T01:43:06.010340+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 launches after 13-year wait as fans plan time off",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-20T01:43:06.460175+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA+ for GTA 6 singleplayer is like subscription-based horse armor",
-   "source": "PC Gamer",
-   "trust": "high",
-   "status": "queued",
-   "ts": "2026-11-20T01:43:12.147823+00:00",
-   "card_title": "ПОДПИСКА В ОДИНОЧКЕ GTA 6"
-  },
-  {
-   "title": "Controversial GTA 6 Easter Egg Will Annoy Millions of Gamers",
-   "source": "Polygon",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-20T01:43:14.271651+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 is playable in first-person, here's how to activate it",
-   "source": "PC Gamer",
-   "trust": "high",
-   "status": "queued",
-   "ts": "2026-11-20T01:43:58.553938+00:00",
-   "card_title": "ВИД ОТ ПЕРВОГО ЛИЦА"
-  },
-  {
-   "title": "Guide: GTA 6: Radio Songs - All Music, Radio Stations, & Artists",
-   "source": "Push Square",
-   "trust": "high",
-   "status": "queued",
-   "ts": "2026-11-20T01:44:29.244373+00:00",
-   "card_title": "САУНДТРЕК И РАДИО GTA 6"
-  },
-  {
-   "title": "GTA 6 has \"several variations\" for story moments based on how you treat the heroes' relationship",
-   "source": "GamesRadar+",
-   "trust": "high",
-   "status": "queued",
-   "ts": "2026-11-20T01:47:29.712614+00:00",
-   "card_title": "ИЗМЕНЕНИЯ СЮЖЕТА ОТНОШЕНИЯ"
-  },
-  {
-   "title": "GTA 6 First-Person Glitch Discovered, And It Works On Xbox & PS5",
-   "source": "Pure Xbox",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-20T01:47:31.283305+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6's blatant Matty Matheson-like character isn't really Matty Matheson, confirms The Bear star",
-   "source": "GamesRadar+",
-   "trust": "high",
-   "status": "queued",
-   "ts": "2026-11-20T01:48:20.154636+00:00",
-   "card_title": "МАТТИ НЕ В GTA6"
-  },
-  {
-   "title": "Here’s What People Are Playing That’s Not GTA 6",
-   "source": "Kotaku",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-20T01:48:39.123351+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Day Release Walkthrough",
-   "source": "GTA BOOM",
-   "trust": "medium",
-   "status": "dup",
-   "ts": "2026-11-20T02:03:57.539777+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Swamped Walkthrough",
-   "source": "GTA BOOM",
-   "trust": "medium",
-   "status": "dup",
-   "ts": "2026-11-20T02:03:57.539843+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Makes Video Game History",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-20T02:03:57.539900+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "\"GTA VI\" launch day sees wave of PTO requests",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-20T02:03:57.539946+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "'GTA VI' becomes best-reviewed video game of all time",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-20T02:03:57.539990+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6's Mandy 'Is a Lot of Fun' Says Real-Life Actress as PS5 Players Are Smitten",
-   "source": "Push Square",
-   "trust": "high",
-   "status": "queued",
-   "ts": "2026-11-20T02:04:02.679278+00:00",
-   "card_title": "МАНДИ И АКТРИСА ЛЕКСИ"
-  },
-  {
-   "title": "GTA 6 Chapters and Mission List: How many chapters in GTA 6? (Spoiler-Free)",
-   "source": "VGC",
-   "trust": "high",
-   "status": "queued",
-   "ts": "2026-11-20T02:04:05.833133+00:00",
-   "card_title": "ГЛАВЫ И МИССИИ GTA 6"
-  },
-  {
-   "title": "GTA 6 Has Police Departments Across America Begging People Not to Commit Crimes IRL",
-   "source": "IGN",
-   "trust": "high",
-   "status": "queued",
-   "ts": "2026-11-20T02:04:09.891766+00:00",
-   "card_title": "ПОЛИЦИЯ ПРОСИТ ИГРАТЬ ДОМА"
-  },
-  {
-   "title": "GTA 6 Daily Driver Mission Walkthrough",
-   "source": "VGC",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-20T02:04:13.826870+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Руки на стол: Мэнди в GTA VI сыграла актриса Лекси Шоайби",
-   "source": "iXBT.games",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-20T02:04:16.647317+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Where Do Photo Studio Pictures Get Saved in GTA 6?",
-   "source": "Insider Gaming",
-   "trust": "medium",
-   "status": "queued",
-   "ts": "2026-11-20T02:04:20.356659+00:00",
-   "card_title": "КУДА СОХРАНЯЮТСЯ ФОТО"
-  },
-  {
-   "title": "Cyberleek drops what they claim is a near-complete GTA 6 Xbox build online",
-   "source": "PC Gamer",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-20T02:04:21.531906+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "How to make money in GTA 6",
-   "source": "VGC",
-   "trust": "high",
-   "status": "queued",
-   "ts": "2026-11-20T02:04:25.849085+00:00",
-   "card_title": "КАК ПОДНЯТЬ БАБЛО НА СТАРТЕ"
-  },
-  {
-   "title": "Best Early Game Locations For Easy Cash in GTA 6—Chapter One Money Making, Explained",
-   "source": "Insider Gaming",
-   "trust": "medium",
-   "status": "queued",
-   "ts": "2026-11-20T02:19:55.312389+00:00",
-   "card_title": "КАК ПОДНЯТЬ БАБЛО В ПЕРВОЙ ГЛАВЕ"
-  },
-  {
-   "title": "Хакеры Cyberleek опубликовали билд Grand Theft Auto VI",
-   "source": "iXBT.games",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-20T02:19:57.488113+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6's Viral NPC May Actually Have a Dark Secret",
-   "source": "IGN",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-20T02:20:06.734495+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Where to Find the SM-69 Sniper Early in GTA 6",
-   "source": "GTA BOOM",
-   "trust": "medium",
-   "status": "queued",
-   "ts": "2026-11-20T02:20:09.718672+00:00",
-   "card_title": "ГДЕ НАЙТИ СНАЙПЕРКУ SM-69"
-  },
-  {
-   "title": "The Most Helpful GTA 6 Cheat Codes and How to Access Them",
-   "source": "Kotaku",
-   "trust": "high",
-   "status": "published",
-   "ts": "2026-11-20T02:20:15.646330+00:00",
-   "card_title": "ЧИТ-КОДЫ В GTA 6"
-  },
-  {
-   "title": "When Can You Get a New Safehouse in GTA 6? Next Hideout, Explained",
-   "source": "Insider Gaming",
-   "trust": "medium",
-   "status": "queued",
-   "ts": "2026-11-20T02:20:18.630697+00:00",
-   "card_title": "КАК СМЕНИТЬ УБЕЖИЩЕ В GTA 6"
-  },
-  {
-   "title": "Video Game Spending Dropped 14% This October, Possibly Because Everyone Was Preparing for GTA 6",
-   "source": "IGN",
-   "trust": "high",
-   "status": "queued",
-   "ts": "2026-11-20T02:20:21.211376+00:00",
-   "card_title": "ПАТЕНТ НА ОЖИДАНИЕ GTA 6"
-  },
-  {
-   "title": "GTA 6 Find the Lost Drugs: All Four Search Areas",
-   "source": "GTA BOOM",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-20T02:20:24.008071+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "How to Lose Heat in GTA 6 by Swapping Outfits From Your Trunk",
-   "source": "GTA BOOM",
-   "trust": "medium",
-   "status": "queued",
-   "ts": "2026-11-20T02:35:50.977244+00:00",
-   "card_title": "СБРОС РОЗЫСКА ЧЕРЕЗ БАГАЖНИК"
-  },
-  {
-   "title": "GTA 6′s Pop And Classic Rock Radio Stations Contain 150 Songs, More Than All Of Vice City’s Radio Stations Combined",
-   "source": "Kotaku",
-   "trust": "high",
-   "status": "queued",
-   "ts": "2026-11-20T02:35:57.825042+00:00",
-   "card_title": "150 ТРЕКОВ НА ДВУХ РАДИО"
-  },
-  {
-   "title": "GTA 5's Steam concurrents have gone up rather than down now that GTA 6 is out, suggesting a lot of PC players are waiting",
-   "source": "PC Gamer",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-20T02:35:59.240811+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Guide: GTA 6 Guide: All Guides & Collectibles",
-   "source": "Push Square",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-20T02:36:01.027889+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Should you give the statue to Benedict Halifax in GTA 6?",
-   "source": "PC Gamer",
-   "trust": "high",
-   "status": "queued",
-   "ts": "2026-11-20T02:36:03.641215+00:00",
-   "card_title": "ОТДАТЬ ЛИ СТАТУЭТКУ БЕНЕДИКТУ"
-  },
-  {
-   "title": "In the GTA 6 Delights robbery mission, help or don't help Frankie and Mario?",
-   "source": "PC Gamer",
-   "trust": "high",
-   "status": "queued",
-   "ts": "2026-11-20T02:36:08.342131+00:00",
-   "card_title": "КАК ПРОЙТИ МИССИЮ В ДЕЛАТС"
-  },
-  {
-   "title": "GTA 6 Buck Me Walkthrough and BuckMe Setup Guide",
-   "source": "GTA BOOM",
-   "trust": "medium",
-   "status": "queued",
-   "ts": "2026-11-20T02:36:15.008364+00:00",
-   "card_title": "ПРОХОЖДЕНИЕ МИССИИ BUCK ME"
-  },
-  {
-   "title": "GTA 6 Clear Skies Walkthrough to Rescue Donnie and Escape",
-   "source": "GTA BOOM",
-   "trust": "medium",
-   "status": "queued",
-   "ts": "2026-11-20T02:36:24.112580+00:00",
-   "card_title": "ПРОХОЖДЕНИЕ МИССИИ CLEAR SKIES"
-  },
   {
    "title": "Игроки GTA 6 нашли квартиру Декстера с набором серийного убийцы и его лодкой",
    "source": "Google News (RU)",
@@ -8364,6 +7968,54 @@
    "trust": "rumor",
    "status": "skipped",
    "ts": "2026-11-22T05:16:17.818332+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Игроки обнаружили в GTA VI комикс RX-Men и отсылки к Бэтмену",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T05:35:29.079564+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6: рейтинг 99 от критиков против 5.6 от игроков – в чем причина провала?",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T05:35:30.075559+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 breaks Comcast internet record with 24% of peak traffic",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T05:35:31.183556+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Love GTA 6? These Real-Life Florida Locations Should Be On Your Bucket List",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T05:35:49.221297+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 voice actor: Game’s realism resonates with players",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T05:36:11.327850+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI generates $3.79 billion in first 24 hours, setting entertainment record",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T05:36:22.401626+00:00",
    "card_title": ""
   }
  ],
