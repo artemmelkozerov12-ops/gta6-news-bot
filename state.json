@@ -2353,7 +2353,29 @@
   "5eabf797dee63e02": "2026-11-22T20:17:22.740859+00:00",
   "d39bc486c540f4fb": "2026-11-22T20:17:23.860080+00:00",
   "f2f34a8e80a8b7b0": "2026-11-22T20:17:25.602235+00:00",
-  "5738401963705a9a": "2026-11-22T20:17:32.632327+00:00"
+  "5738401963705a9a": "2026-11-22T20:17:32.632327+00:00",
+  "75bbd4eedb8e494d": "2026-11-22T20:32:49.454217+00:00",
+  "0558c09d886a3371": "2026-11-22T20:32:52.026552+00:00",
+  "b96d9688c6f489fa": "2026-11-22T20:32:54.116107+00:00",
+  "b72f1fdc67f863d6": "2026-11-22T20:33:03.446537+00:00",
+  "081c71ae88a3251a": "2026-11-22T20:33:05.203170+00:00",
+  "a9a6d69701e99243": "2026-11-22T20:33:06.429841+00:00",
+  "17d7849694cd63e4": "2026-11-22T20:34:00.443225+00:00",
+  "8451ee5eb1ae66c3": "2026-11-22T20:34:01.444679+00:00",
+  "aec36a24a9ddf431": "2026-11-22T20:34:02.368642+00:00",
+  "042d7710005639d9": "2026-11-22T20:34:03.340614+00:00",
+  "b41a550f343740f8": "2026-11-22T20:34:54.429125+00:00",
+  "ffb21127c78dd099": "2026-11-22T20:34:55.291309+00:00",
+  "b35028f732666eb5": "2026-11-22T20:34:56.292490+00:00",
+  "1ff159aa53110d94": "2026-11-22T20:34:57.091179+00:00",
+  "a593cadb5d9f5a54": "2026-11-22T20:35:48.574558+00:00",
+  "c1e352998851ed30": "2026-11-22T20:35:49.506116+00:00",
+  "185e88999aa5c4ac": "2026-11-22T20:35:50.307008+00:00",
+  "72f6c9ced1ee38a6": "2026-11-22T20:48:51.901803+00:00",
+  "70627e01ba09634f": "2026-11-22T20:48:52.747384+00:00",
+  "736cae5018aaadc6": "2026-11-22T20:49:03.909616+00:00",
+  "ad02761e8ac9bc3c": "2026-11-22T20:49:33.652114+00:00",
+  "6e8a9173836bda00": "2026-11-22T20:49:56.515445+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -3954,7 +3976,17 @@
   "c6c1ab5b1c2094da": "2026-11-22T20:17:22.740859+00:00",
   "90a2c909cba33e85": "2026-11-22T20:17:23.860080+00:00",
   "a5555b104f7e8b73": "2026-11-22T20:17:25.602235+00:00",
-  "b412a7214871a340": "2026-11-22T20:17:32.632327+00:00"
+  "b412a7214871a340": "2026-11-22T20:17:32.632327+00:00",
+  "92e47f852fadc755": "2026-11-22T20:33:03.446537+00:00",
+  "fe22fecb9ddf0d9f": "2026-11-22T20:32:52.026552+00:00",
+  "be9116320ecd3f97": "2026-11-22T20:32:54.116107+00:00",
+  "97403c0d29c906af": "2026-11-22T20:33:05.203170+00:00",
+  "cf96b103d34d3bd3": "2026-11-22T20:33:06.429841+00:00",
+  "c3e6dcd06242e994": "2026-11-22T20:48:51.901803+00:00",
+  "21182f4adfea2342": "2026-11-22T20:48:52.747384+00:00",
+  "0ec03855345165bb": "2026-11-22T20:49:03.909616+00:00",
+  "401330633d6c999d": "2026-11-22T20:49:33.652114+00:00",
+  "741b826736586168": "2026-11-22T20:49:56.515445+00:00"
  },
  "recent": [
   {
@@ -10612,6 +10644,78 @@
    "status": "skipped",
    "ts": "2026-11-22T20:17:32.632485+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GTA 6 needed a dedicated team to make sure all its different body types could share animations: 'It was a huge team effort'",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-22T20:32:49.454279+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to Unlock Vanessa's Free Garage and Get Her Pink Growler in GTA 6",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-22T20:32:54.861116+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "All Illegal Goods Store Robbery Key Valuables Locations - GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T20:33:05.203314+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "The most exciting part of GTA VI, as far as I’m concerned, is the unreleased D’Angelo song.",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T20:33:06.429990+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Skunk Ape questline walkthrough: All effigy locations and choices",
+   "source": "VGC",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-22T20:48:51.901917+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "'It's Better Not to Do It Than to Do It and Have It Not Be Good Enough' — GTA 6 Cut Darts Because Rockstar Says It Didn't Have 'Unlimited Money or Time' to Make It Perfect",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T20:48:52.747522+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How To Get A Six-Star Wanted Level In GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T20:49:10.381977+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 reviews are a near-perfect 99 out of 100 on Metacritic",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T20:49:33.652251+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Neuralink GTA VI Demo Has a Trial Participant Flying Planes by Imagining Finger Taps",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T20:49:56.515597+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -11170,9 +11274,10 @@
   "2026-11-22T18:19:06.164584+00:00",
   "2026-11-22T18:35:58.788319+00:00",
   "2026-11-22T18:53:08.255210+00:00",
-  "2026-11-22T19:08:58.405726+00:00"
+  "2026-11-22T19:08:58.405726+00:00",
+  "2026-11-22T20:58:34.120756+00:00"
  ],
- "tg_offset": 387129050,
+ "tg_offset": 387129053,
  "channel": {
   "id": -1003986639147,
   "title": "GTA 6 | Горячие новости",
@@ -11243,8 +11348,39 @@
    },
    "queued_at": "2026-11-22T19:32:30.445567+00:00",
    "file_id": "BAACAgIAAxkDAANaawNDTwFQZALCLJXpWu0AAWv9ER50AAKgtAACpycZSPSkpLFTnnxYPQQ",
+   "moderation": "approved",
+   "draft_msg_id": 90,
+   "waiting_logged": true
+  },
+  {
+   "clip": {
+    "source": "twitch",
+    "url": "https://www.twitch.tv/jerma985/clip/InventiveRelievedHerringHassanChop-Z4105qYJddi_wfru",
+    "title": "friendship denied :(",
+    "author": "Jerma985",
+    "views": 492,
+    "duration": 59.4,
+    "created": "2026-11-22T20:07:11+00:00",
+    "lang": "en",
+    "description": "",
+    "vod_id": "2937408089",
+    "vod_offset": 14762.0
+   },
+   "caption": "Чел просто выкинул друга из тачки посреди поездки, а тот побежал за ним с криками 💀 Ору с этой физики",
+   "interest": 8,
+   "spoiler": false,
+   "nsfw": false,
+   "watched": true,
+   "model": "gemini:gemini-3.5-flash-lite",
+   "media": {
+    "width": null,
+    "height": 720,
+    "duration": 59
+   },
+   "queued_at": "2026-11-22T20:35:58.815927+00:00",
+   "file_id": "BAACAgIAAxkDAANcawNSMMEHqPDwWq5cKeI34cF-oG4AAjS1AAKnJxlIRFW2KvyqK2w9BA",
    "moderation": "pending",
-   "draft_msg_id": 90
+   "draft_msg_id": 92
   }
  ],
  "clip_drafts": [
@@ -11264,7 +11400,8 @@
   "2026-11-22T11:30:53.650853+00:00",
   "2026-11-22T12:57:11.614114+00:00",
   "2026-11-22T18:27:42.489518+00:00",
-  "2026-11-22T19:32:31.903053+00:00"
+  "2026-11-22T19:32:31.903053+00:00",
+  "2026-11-22T20:36:00.471956+00:00"
  ],
  "clip_history": [
   {
@@ -16184,6 +16321,105 @@
    "ts": "2026-11-22T19:32:31.903069+00:00",
    "frames": [],
    "caption": "🔞 Полный разнос на нудистском пляже: Лусия устроила замес с голыми NPC, и они все полезли драться 💀 Ору с этой физики"
+  },
+  {
+   "author": "youtube:rinzer",
+   "vod": "",
+   "offset": -1,
+   "title": "Apakah Bisa Parkour di Game GTA 6",
+   "drafted": false,
+   "ts": "2026-11-22T20:34:00.443257+00:00"
+  },
+  {
+   "author": "youtube:facts' mine",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 Hidden Facts",
+   "drafted": false,
+   "ts": "2026-11-22T20:34:01.444717+00:00"
+  },
+  {
+   "author": "youtube:ishowspeed",
+   "vod": "",
+   "offset": -1,
+   "title": "🔴EXPLORING VICE CITY - GTA 6 STREAM (EASTER EGGS)",
+   "drafted": false,
+   "ts": "2026-11-22T20:34:02.368682+00:00"
+  },
+  {
+   "author": "youtube:kapten keju",
+   "vod": "",
+   "offset": -1,
+   "title": "Kekacauan Hari Pertama GTA 6 Rilis 💀🎮",
+   "drafted": false,
+   "ts": "2026-11-22T20:34:03.340651+00:00"
+  },
+  {
+   "author": "youtube:games cortes tv",
+   "vod": "",
+   "offset": -1,
+   "title": "O MELHOR EASTER EGG DO GTA 6! 😱 #games #gta6 #ps5 #playstation",
+   "drafted": false,
+   "ts": "2026-11-22T20:34:54.429163+00:00"
+  },
+  {
+   "author": "youtube:caramel hydra",
+   "vod": "",
+   "offset": -1,
+   "title": "How-to Date Mandy in GTA VI... #gta6 #gtavi  #gta",
+   "drafted": false,
+   "ts": "2026-11-22T20:34:55.291340+00:00"
+  },
+  {
+   "author": "youtube:darsa gaming",
+   "vod": "",
+   "offset": -1,
+   "title": "Ternyata Banyak Detail Keren Yang Ada di GTA 6 #3",
+   "drafted": false,
+   "ts": "2026-11-22T20:34:56.292539+00:00"
+  },
+  {
+   "author": "youtube:yoclutch",
+   "vod": "",
+   "offset": -1,
+   "title": "Get The FASTEST GTA 6 Car For FREE!🤯",
+   "drafted": false,
+   "ts": "2026-11-22T20:34:57.091217+00:00"
+  },
+  {
+   "author": "youtube:team with pn facts",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA VI Full Gameplay Movie 🍿Surah Al-Fatiha✨💞 Prayer for Guidance🔥#quranshorts #surahalfatiha #quran",
+   "drafted": false,
+   "ts": "2026-11-22T20:35:48.574606+00:00"
+  },
+  {
+   "author": "youtube:gamepop shorts",
+   "vod": "",
+   "offset": -1,
+   "title": "Can I Draw the Perfect Bridge? 😱 | GTA 6 Draw Bridge Challenge #crazygameplay #youtubeshorts",
+   "drafted": false,
+   "ts": "2026-11-22T20:35:49.506148+00:00"
+  },
+  {
+   "author": "twitch:jerma985",
+   "vod": "2937408089",
+   "offset": 14762.0,
+   "title": "friendship denied :(",
+   "drafted": false,
+   "ts": "2026-11-22T20:35:50.307039+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:jerma985",
+   "vod": "2937408089",
+   "offset": 14762.0,
+   "title": "friendship denied :(",
+   "drafted": true,
+   "ts": "2026-11-22T20:36:00.471975+00:00",
+   "frames": [],
+   "caption": "Чел просто выкинул друга из тачки посреди поездки, а тот побежал за ним с криками 💀 Ору с этой физики"
   }
  ],
  "published": [
@@ -16412,24 +16648,73 @@
    "kind": "confirmed"
   }
  ],
- "extras": [
-  {
-   "key": "digest-20261122",
-   "kind": "Итоги дня",
-   "payload": {
-    "text": "🌙 <b>Итоги дня</b> · 22 ноября\n\n🎥 <a href=\"https://t.me/gta6_hotnews/43\">Лусия косплеит фермера и ведет наряженную корову — это просто какой-то лютый рофл от Rock…</a>\n🎥 <a href=\"https://t.me/gta6_hotnews/44\">СПОЙЛЕР. Чел решил выйти из тачки с пушкой прямо перед копами — ласт его ошибка 💀 Вот это…</a>\n📰 <a href=\"https://t.me/gta6_hotnews/46\">ДЖОКЕР ИЗ ФЛОРИДЫ ВСЁ-ТАКИ ДОЖАЛ ROCKSTAR!</a>\n📰 <a href=\"https://t.me/gta6_hotnews/47\">СИМУЛЯТОР ПОДКАБЛУЧНИКА В GTA 6 🤡</a>\n🗺 <a href=\"https://t.me/gta6_hotnews/49\">Выбор перед миссией «Встреча с Эйбом»</a>\n🎥 <a href=\"https://t.me/gta6_hotnews/53\">Лусия — просто имба: вынесла всех обидчиков у заправки, пока Джейсон извинялся. Вот это я…</a>\n\nЧто из этого зашло больше всего? Пиши в комменты 👇",
-    "publish_at": "2026-11-22T20:00:00+00:00"
-   },
-   "moderation": "pending",
-   "draft_msg_id": 89,
-   "queued_at": "2026-11-22T19:31:01.015179+00:00"
-  }
- ],
+ "extras": [],
  "extras_sent": {
   "poll-2026-W47": "2026-11-21T16:00:25.901739+00:00",
   "weekly-20261121": "2026-11-21T17:30:42.606074+00:00",
   "digest-20261121": "2026-11-21T19:30:10.993120+00:00",
   "digest-20261122": "2026-11-22T19:31:01.015194+00:00"
  },
- "rewrite_wait": []
+ "rewrite_wait": [
+  {
+   "item": {
+    "title": "GTA 6's T-shirts Are True Works of Art",
+    "link": "https://www.polygon.com/gta-6-t-shirts/",
+    "summary": "Fashion can help you evade police in GTA 6, and Rockstar's design team has crafted some seriously covetable threads for the game.",
+    "published": "2026-11-22T20:30:17+00:00",
+    "source": "Polygon",
+    "site_name": "Polygon",
+    "trust": "high",
+    "text": "We've known for some time that fashion would be a big deal in Grand Theft Auto 6. In Rockstar's official promotional materials for the game, both Jason and Lucia were prominently featured wearing stylish clothing, from Lucia's body-hugging gold dress to Jason's slick Miami Vice-inspired aqua sport coat. Even supporting characters like Brian wear Tommy Bahama-inspired aloha shirts yanked straight from the closet of a dapper middle-aged stoner. GTA 6 has drawn praise from all quarters for its scrupulous attention to detail in every aspect of the game, and there's one area the developer went far, far harder than it needed to: the vast and immaculate selection of T-shirts.\nHaving a diverse wardrobe isn't just a fun little customization touch in GTA 6. If you're reported for committing a crime in Leonida — and this will happen very often — police will be able to recognize you based on your car, your physical appearance, and what you're wearing. Keeping a couple spare outfits in your trunk or hastily buying a new ensemble on the run can be the difference between a successful job and ending up busted (or wasted).\nI'm taking my time with GTA 6 and still kicking around the introductory area of Key Lento. I know I should be putting money in my family savings account. It would probably be in my best interest to learn how to drive without sideswiping semi-trucks or taking out stop signs. Perhaps I ought to be buying more guns. Instead, I'm trawling South Leonida for all the vintage and souvenir shops I can find. You can keep your fancy cars. I've got a T-shirt collection to maintain.\nMuch like in real life, you never know when you're going to find a gem in a vintage boutique or souvenir shop in GTA 6. My prized Rusty Anchor shirt came from an optional mission where you take Cal for drinks, he has a few too many, and you have to take him home. Apparently Cal won a wet T-shirt contest at the Anchor and this was his reward, but he's too hungover to claim the prize.\nDuring my wanderings, I also discovered a riff on that three-wolves-howling-at-the-moon shirt that everyone had about a decade ago, including me. But this one has gators on it. I bought it from Sharleen's yard sale in Jason's very own neighborhood of Key Lento. She had a couple of inexpensive clothing items on offer, including some pretty slick teal sneakers that were clearly inspired by Air Force One low-tops. I was delighted to learn that there are multiple yard sales in the game, including one in Port Gellh",
+    "extra": {
+     "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/jason-gator.png"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "Шмотки влияют на розыск 👕\n\nВ GTA 6 копы реально палят челов по шмоткам и тачке. Так что коллекционирование гавайских рубашек, винтажа и футболок с аллигаторами — не просто вайб, а выживание в катке!",
+    "card_title": "КРУТЫЕ ФУТБОЛКИ В GTA 6",
+    "reason": "Детальный разбор крутой механики кастомизации и одежды в GTA 6 от Polygon",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-22T20:32:52.943096+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA 6 needed a dedicated team to make sure all its different body types could share animations: 'It was a huge team effort'",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-needed-a-dedicated-team-to-make-sure-all-its-different-body-types-could-share-animations-it-was-a-huge-team-effort/",
+    "summary": "Making sure your animations don't break while you're cultivating mass.",
+    "published": "2026-11-22T20:16:21+00:00",
+    "source": "PC Gamer",
+    "site_name": "PC Gamer",
+    "trust": "high",
+    "text": "We don't know precisely how big GTA 6's \"big boy\" budget was, but let's put aside the alarming excess of contemporary mass-consumption entertainment for a moment and talk about the real big boy: bulked up Jason.\nWhile GTA 6's body morphing might not go quite as far (in terms of waistband measurements) as its predecessor San Andreas—or even a game like Fable 2—it does boast extensive variety of different body shapes among its cast, and making that work at such a high level of visual fidelity took an entire dedicated team.\nIn an interview with IGN, Rockstar vice president of animation Mark Tennant said it was an early decision in development to \"push the variation in character sizes and body types … This required us to establish a very robust way to share animations between characters while still resolving multiple points of contact, such as most vehicle interactions and grappling in hand-to-hand combat.\"\nIt also took eschewing a \"traditional approach\" in favor of \"new techniques,\" the sort I imagine you can only implement at Rockstar levels of budget and manpower. \"We also had to grow a team dedicated to overseeing the implementation, which required close collaboration with the art and rigging teams,\" said Tennant. \"All these aspects needed to come together to make it work, so it was a huge team effort.\"\nIn the same IGN piece, senior technical art director Valmor Garcia said the ultimate goal was to ensure each character had \"singular awareness and visual identities,\" which included giving them unique faces and anatomy (the six-figure animation count is part of that too, I imagine). All the blood, sweat, and so on seem to be paying off given the game's absolutely massive launch, but Saints Row 3 is still the only crime sandbox that lets me replace all my character's dialog with meaningless zombie grunts, so it's impossible to say which is better.\nGTA 6 guide: One-stop info shopGTA 6 map: The full Vice City tourGTA 6 cheats: A complete listGTA 6 radio: All the songs and stationsGTA 6 romance: How to keep a strong bond\nKeep up to date with the most important stories and the best deals, as picked by the PC Gamer team.\nJustin first became enamored with PC gaming when World of Warcraft and Neverwinter Nights 2 rewired his brain as a wide-eyed kid. As time has passed, he's amassed a hefty backlog of retro shooters, CRPGs, and janky '90s esoterica. Whether he's extolling the virtues of Shenmue or troubleshooting some fiddly old MMO, it's hard to get his mind off g",
+    "extra": {
+     "image": "https://cdn.mos.cms.futurecdn.net/GiHMgpjWfcavDaW57cSuHF-1920-80.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "💪 РАЗНЫЕ ТЕЛОСЛОЖЕНИЯ\n\nВ Rockstar собрали целую команду ради анимаций качка-Джейсона и других персонажей. Имба-подход к деталям, чтобы всё выглядело сочно и без багов в катсценах.\n\n❤️ — Ждем мод на ультра-качка\n👎 — Обычные тела тоже норм",
+    "card_title": "АНИМАЦИИ ТЕЛОСЛОЖЕНИЙ В GTA 6",
+    "reason": "Official details from Rockstar developers about the complex animation system and body types in GTA 6.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "GTA 6 needed a dedicated team to make sure all its different body types could share animations: 'It was a huge team effort'",
+    "corroborated_by": "GTA 6 needed a dedicated team to make sure all its different body types could share animations: 'It was a huge team effort'",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-22T20:33:04.099573+00:00"
+  }
+ ]
 }
