@@ -1819,7 +1819,9 @@
   "7afd9ee7988411af": "2026-11-21T23:49:34.515101+00:00",
   "aa332cec7e75f561": "2026-11-21T23:49:35.643823+00:00",
   "a5d5e6fa089801d9": "2026-11-22T00:04:54.810163+00:00",
-  "d56acf2e069ffecf": "2026-11-22T00:20:17.759318+00:00"
+  "d56acf2e069ffecf": "2026-11-22T00:20:17.759318+00:00",
+  "386f9e2fd60494e0": "2026-11-22T00:35:45.849558+00:00",
+  "8f2806de17eb832c": "2026-11-22T00:51:27.519849+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -3036,7 +3038,9 @@
   "1c9af1d0b874a5ff": "2026-11-21T23:49:34.515101+00:00",
   "e720bf4a3dc1b7c3": "2026-11-21T23:49:35.643823+00:00",
   "60ca0bf3d9e20785": "2026-11-22T00:04:54.810163+00:00",
-  "412d6b262e26f07c": "2026-11-22T00:20:17.759318+00:00"
+  "412d6b262e26f07c": "2026-11-22T00:20:17.759318+00:00",
+  "8f0ff2a9849b0a1e": "2026-11-22T00:35:45.849558+00:00",
+  "6c6c6cd7d12654e2": "2026-11-22T00:51:27.519849+00:00"
  },
  "recent": [
   {
@@ -7806,6 +7810,22 @@
    "status": "queued",
    "ts": "2026-11-22T00:20:24.321373+00:00",
    "card_title": "ИИ-СКАНДАЛ ИЗ-ЗА GTA 6"
+  },
+  {
+   "title": "Xbox Series console sales jumped 42% ahead of GTA VI's release.",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T00:35:45.849723+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Helped Turn Game Ownership Into a Political Fight",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "queued",
+   "ts": "2026-11-22T00:51:34.786073+00:00",
+   "card_title": "ПРАВА НА ЦИФРОВЫЕ ИГРЫ"
   }
  ],
  "queue": [
@@ -8130,33 +8150,6 @@
   },
   {
    "item": {
-    "title": "Rockstar wants you to see yourself in GTA 6's Jason and Lucia",
-    "link": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-wants-you-to-see-yourself-in-gta-6s-jason-and-lucia-because-we-are-all-about-two-bits-of-bad-luck-away-from-completely-losing-it/",
-    "summary": "\"We might all be better off when we're together and not going it alone.\"",
-    "published": "2026-11-21T12:30:14+00:00",
-    "source": "GamesRadar+",
-    "site_name": "GamesRadar+",
-    "trust": "high",
-    "text": "GTA 6's Jason and Lucia might be hardened criminals, but Rockstar Games designed the couple to be relatable in other ways. As the studio's narrative lead explained, \"we are all about two bits of bad luck away from completely losing it\" in the real world.\n\"Playing GTA 6, the main thing we want players to feel is connection. To Jason and Lucia, who they need to believe in and inhabit for this journey through the game, but then also that connection in the game between the two characters,\" senior vice president of narrative, Rupert Humphries, explained in quotes given to GamesRadar+.\n\"Living in the actual world in this present moment, it feels like there is so much noise and so much pressure on everyone - politics, the environment, media, social media. It's coming at you from everywhere. It seems like we are all about two bits of bad luck away from completely losing it. That is the world we are showing you on the streets of Vice City and in the rest of Leonida - everyone's been driven to a kind of madness that comes out in lots of different ways, from conspiracy theories to self-help cults to get-rich-quick schemes and drug habits.\"\nGTA 6's main couple doesn't exactly have many options outside of the criminal ones, and I think the game does a good job at giving them some real, personal, human stakes to ground it all - making their occasional robberies and murders a tad more understandable. As the couple says in the game, the world is stacked against them. They can't get ahead by playing by the rules.\nEven so, GTA 6 still has an optimistic view on life in the modern era, which itself is a big departure from GTA 5's generally cynical world view: \"With all that going on, we wanted to have two humans at the center of the story that the player can care about and see themselves in, and then this idea that maybe (however bad you are) we might all be better off when we're together and not going it alone.\"\nYou can check our GTA 6 guide to see how to make the most of Jason and Lucia's relationship, or read our GTA 6 review if you're still on the fence.\nTaking a trip to Leonida? Do it in style with our guides to the best controllers for GTA 6 and the best GTA 6 headsets.\nWeekly digests, tales from the communities you love, and more\n4. Best pro Xbox: Nacon Revolution X Unlimited\nKaan freelances for various websites including Rock Paper Shotgun, Eurogamer, and this one, Gamesradar. He particularly enjoys writing about spooky indies, throwback RPGs, and anything that's vagu",
-    "extra": {}
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 6,
-    "post": "🧠 Джейсон и Люсия: они тоже твои двойники\n\nRockstar сказали, что они сделали пару, чтобы ты мог в неё врубиться и почувствовать реальный вайб. Чувствуй их безумие, как своё — имба сюжетный драйв!",
-    "card_title": "ДЖЕЙСОН И ЛЮСИЯ – ТВОИ ДВОЙНИКИ",
-    "reason": "официальные слова Rockstar о персонажах, важный для восприятия сюжета",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "groq:openai/gpt-oss-120b → groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-21T12:39:00.376455+00:00"
-  },
-  {
-   "item": {
     "title": "How Rockstar Made Every NPC Feel Alive in GTA 6",
     "link": "https://www.ign.com/articles/how-rockstar-made-every-npc-feel-alive-in-gta-6",
     "summary": "Rockstar made NPCs feel alive in GTA 6 by \"establishing deep backstories for almost everything\" throughout Leonida.",
@@ -8413,60 +8406,6 @@
     "model": "gemini:gemini-3.1-flash-lite"
    },
    "queued_at": "2026-11-21T21:01:53.566504+00:00"
-  },
-  {
-   "item": {
-    "title": "Grand Theft Auto VI: 61 чит-код на машины, деньги, бессмертие для PS5 и Xbox Series",
-    "link": "https://stopgame.ru/show/168150/grand_theft_auto_vi_61_chit_kod_na_mashiny_dengi_bessmertie_dlya_ps5_i_xbox_series",
-    "summary": "В Grand Theft Auto 6 предусмотрен 61 чит-код. С их помощью вы можете получить деньги, оружие, бесконечные патроны, бронежилеты, автомобили, мотоциклы, самолёты, вертолёты, танки и прочую военную технику.Также можно изменять погоду, управлять уровнем розыска, останавливать время суток и применять необычные визуальные фильтры. Рассказываем, как вводить чит-коды в GTA 6 на PS5 и Xbox Series X|S, какие испытания необходимо выполнить для их разблокировки и почему некоторые комбинации могут не работать.… […]",
-    "published": "2026-11-21T10:09:25+00:00",
-    "source": "StopGame",
-    "site_name": "StopGame",
-    "trust": "medium",
-    "text": "В Grand Theft Auto 6 предусмотрен 61 чит-код. С их помощью вы можете получить деньги, оружие, бесконечные патроны, бронежилеты, автомобили, мотоциклы, самолёты, вертолёты, танки и прочую военную технику.Также можно изменять погоду, управлять уровнем розыска, останавливать время суток и применять необычные визуальные фильтры. Рассказываем, как вводить чит-коды в GTA 6 на PS5 и Xbox Series X|S, какие испытания необходимо выполнить для их разблокировки и почему некоторые комбинации могут не работать.\nВ отличие от GTA 5 и предыдущих игр серии, в GTA 6 система чит-кодов связана с прохождением сюжетной кампании и дополнительными испытаниями. Игрокам недостаточно просто знать правильную последовательность кнопок: сначала необходимо открыть соответствующую возможность.\nВсего в игре предусмотрен 61 чит, разделённый на пять категорий: персонажи, оружие и сражения, транспорт, окружающий мир и визуальные эффекты. Для каждого чита предусмотрено собственное условие разблокировки.\nОбновлю гайд по мере появления точных кодовых комбинаций.\nКак вводить чит-коды в GTA 6 на PS5 и Xbox Series X|S\nПрежде чем воспользоваться читами, необходимо завершить основную сюжетную кампанию GTA 6, включающую 91 задание. После этого можно разблокировать отдельные команды, выполняя связанные с ними испытания.\nДля ввода комбинации выполните следующие действия:\nНажмите стрелку вверх на крестовине геймпада, чтобы открыть телефон персонажа.\nНа PS5 удерживайте L1 и нажмите R1. На Xbox Series X|S используйте LB и RB.\nБыстро нажмите нужные направления на крестовине в указанном порядке.\nЕсли чит разблокирован и комбинация введена правильно, соответствующий эффект активируется.\nВсе комбинации состоят исключительно из направлений крестовины: вверх, вниз, влево и вправо. Аналоговые стики использовать не нужно.\nКомбинации одинаковы на PS5 и Xbox Series X|S. Различаются только кнопки, необходимые для перехода в режим ввода.\nОткройте главное меню игры, перейдите в раздел «Прогресс» и выберите пункт «Чит-коды».\nЗдесь можно посмотреть доступные команды и отслеживать их разблокировку. Если определённый чит ещё закрыт, необходимо выполнить соответствующее испытание.\nВажно различать два условия: завершение сюжетной кампании открывает возможность использования читов, а дополнительные задания позволяют получить доступ к конкретным эффектам.\nНапример, после завершения сюжета можно разблокировать команду на получение $250 000, но для бесконечных патронов дополнительно потребуются серебряные медали в стрелковых тир",
-    "extra": {}
-   },
-   "verdict": {
-    "type": "rumor",
-    "importance": 8,
-    "post": "🔥 Слух, не подтверждено StopGame\n\n61 ЧИТ‑КОД ДЛЯ GTA 6 — БЕЗГРАНИЧНЫЙ РАЗГОН 🚀\n\nГоворят, после прохождения всех 91 задания можно открыть меню читов и вводить комбинации из направлений. Деньги, бесконечные патроны, танки — всё по кнопкам, но коды пока в сети не выложили. Стоит проверить, когда раскроют точные комбинации.\n❤️ — Попробуем, когда будет подтверждение\n👎 — Слишком много обещаний",
-    "card_title": "ЧИТ-КОДЫ В GTA 6",
-    "reason": "Слух о чит‑кодах без официального подтверждения, интересен игрокам",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-21T12:42:19.241142+00:00"
-  },
-  {
-   "item": {
-    "title": "GTA 6 Watson Bay Safehouse Guide: Where to Find the VF-G1 and Open the Safe",
-    "link": "https://www.gtaboom.com/gta-6-watson-bay-safehouse-guide-b746",
-    "summary": "Climb the blue tarp at Watson Bay to reach the suppressed rifle upstairs, then read the kitchen computer’s email for the safe code.",
-    "published": "2026-11-21T09:09:28+00:00",
-    "source": "GTA BOOM",
-    "site_name": "GTA BOOM",
-    "trust": "medium",
-    "text": "The Watson Bay Safehouse is worth the detour if you want a suppressed longarm without buying one. The La Polilla Negra VF-G1 is in an upstairs weapon case and we took $2,981 in cash from the nearby safe as Lucia. Take the rifle first if the police show up. The cash, goods and garage pickup are separate, so you don't need to stay for all of them.\nLook for the gold moth marker labeled Watson Bay Safehouse. The marker sits at the end of a short spur off the coast road, across the water from the built-up shore. The map card marks the compound as High security.\nGet over the fence and reach the upper floor\nFollow the water along the outside of the fence rather than walking straight up to the main gate. Look for a blue tarp hanging over the metal bars. Climb there, then use the buildings as cover. If you haven't got a suppressed weapon yet, the Assassin Nipper .38 is a pickup you can bring rather than buying one.\nWatch the guard under the stairs and check both sides of the driveway gate. Use the white shed beside the pool as cover while you check the two guards at the rear. From the pool, face the house and head up the outdoor stairs on the right. Enter through the white door with glass panes. We were spotted inside, so check the rooms before stopping to loot.\nIn the room off the kitchen, look for the black hard case on the wooden table below the window. Pick up the VF-G1 with L1 on PlayStation or LB on Xbox. Ours had a suppressor and sight. Check the box near the shelving if you also want grenades and sticky bombs.\nBack in the kitchen, inspect the desktop computer by the window. Read the last line of the email for the code. Walk to the black safe under the microwave, choose Enter Code rather than Plant Explosive, and use the keypad. The code was 1819 in our run. You can check it under Notes on the keypad screen.\nUse the Cash prompt on each stack once the door opens. Before leaving, check the counter for cocaine packages and the desk by the monitors for the B&G Ark Royal Quantum watch.\nThe safe gave us two cash pickups, $877 and $2,104. The map's $2,700-$4,700 Take Value isn't that cash amount. The bag showed another $720 in goods in our run; that wasn't money in our wallet. The Apollo Aggregates warehouse guide explains how to compare buyer offers and sell what you're carrying.\nGo downstairs to the side of the mansion facing the main gate. Look for the stack of wooden crates next to the garage door. There's a modified pickup inside. The game marked it as a stand",
-    "extra": {}
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "🗺 Гайд: VF‑G1 в Watson Bay – как схватить супрессор\n\n🔎 Прокачайся к маркеру «золотая моль» у берега, обойди забор по воде и зайди через синюю тент‑площадку.\n💥 На верхнем этаже ищи чёрный кейс под окном кухни – там лежит VF‑G1 (L1/LB).\n💰 Взломай сейф внизу: код 1819, получи $2 981 и кучу шмоток.\n🔫 Схвати Assassin Nipper .38, если нужен супрессор до начала ограбления.",
-    "card_title": "VF‑G1 ВАТСОН БЕЙ",
-    "reason": "Подтверждённый гайд по получению редкого оружия и кэша",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": true,
-    "model": "groq:openai/gpt-oss-120b → groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-21T12:43:18.967996+00:00"
   },
   {
    "item": {
@@ -8869,6 +8808,35 @@
     "model": "groq:openai/gpt-oss-120b → gemini:gemini-3.5-flash"
    },
    "queued_at": "2026-11-22T00:04:58.409489+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA 6 Helped Turn Game Ownership Into a Political Fight",
+    "link": "https://www.gtaboom.com/gta-6-helped-turn-game-ownership-into-a-political-fight-9a31",
+    "summary": "Ahead of GTA 6’s launch without discs, Rep. Maxwell Frost proposed letting players run servers for games they bought after official servers shut down.",
+    "published": "2026-11-22T00:30:30+00:00",
+    "source": "GTA BOOM",
+    "site_name": "GTA BOOM",
+    "trust": "medium",
+    "text": "The day before Grand Theft Auto VI went on sale with no disc in the box, a congressman stood at a town hall and announced a proposal aimed at keeping the games you pay for playable. The biggest launch in history was about to prove the point he was making, that buying a modern game often means renting a license the seller can revoke. The fight over game ownership we have covered all year just reached Congress.\nRepresentative Maxwell Frost of Florida announced the Protect Our Games Act on November 18, the eve of launch, at a town hall with Stop Killing Games advocates. The idea is that a digital purchase should mean ownership, not a revocable license. It would require companies to let players run their own servers once official ones go dark, keep bought games playable as technology moves on and give advance notice before changes break access.\nIt's still an announcement though. It isn't a bill. Not yet, anyway. There is no text, no number and no introduction. However, Frost says it is coming early in 2027.\nTo make this happen, Frost is not working alone. The issue is bigger than one party. Representative Ritchie Torres of New York announced a similar Power to the Players Act in October, calling a game that vanishes when a company pulls the plug a rental disguised as a sale. California went further, its own Protect Our Games Act passed the state Assembly and carries real text, with notice rules and standalone-version requirements for games sold from 2027. Both federal efforts are Democratic so far, but owning what you buy is not a left or right idea.\nThe timing gave the ownership debate a high-profile example. Rockstar Games shipped GTA 6 with no disc, just a download code, turning the biggest release ever into a license rather than a thing you own. Advocates and reporters tied the announcement to that launch directly. We argued before it arrived that the game was the test case for killing physical media. The result has already pushed Sony to end PlayStation discs and lawmakers in France and Brazil to act. Washington is the latest to notice.\nWe are on the players' side of this. Paying full price for something a company can switch off is a bad deal. The preservation problem behind it is real. The fair counterpoint deserves airing too. Not every always-online game can hand players a working server, some rely on backend services that do not ship in a box and mandating playable-forever versions raises real questions about cost, security and who maintains a game no",
+    "extra": {
+     "image": "https://media.gtaboom.com/variants/1920/media/images/ee/31/gta-6-helped-turn-game-ownership-into-a-political-fight-1.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "⚖️ Игры без дисков довели до Конгресса\n\nРелиз GTA 6 без физических дисков в коробках взбесил не только фанатов, но и политиков в США. В конгрессе анонсировали закон Protect Our Games Act, который запретит студиям превращать купленные тайтлы в «аренду» и отключать серверы без возможности играть дальше.\n\nПохоже, попытка заставить нас брать цифровую лицензию вместо реальной покупки вызвала лютый бунт. Затестим, додавят ли габенов и рокстаров.\n\n❤️ — Права игрокам, цифру на свалку!\n👎 — Да пофиг, давно на цифре сижу",
+    "card_title": "ПРАВА НА ЦИФРОВЫЕ ИГРЫ",
+    "reason": "Подтверждённый факт о законодательной инициативе, важен для игроков",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "groq:openai/gpt-oss-120b → gemini:gemini-3.5-flash"
+   },
+   "queued_at": "2026-11-22T00:51:34.786059+00:00"
   },
   {
    "item": {
