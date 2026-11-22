@@ -2153,7 +2153,20 @@
   "0e977d3e7c1c12d0": "2026-11-22T14:52:29.534216+00:00",
   "443a4259ae3577a3": "2026-11-22T14:52:43.769083+00:00",
   "73cb8997e7a474e6": "2026-11-22T14:53:06.715607+00:00",
-  "3a5e51f0bede0d28": "2026-11-22T14:53:34.498387+00:00"
+  "3a5e51f0bede0d28": "2026-11-22T14:53:34.498387+00:00",
+  "f7a8d3906809613c": "2026-11-22T15:08:57.806637+00:00",
+  "96b07a1d17d56087": "2026-11-22T15:08:57.849419+00:00",
+  "1381c55fea69e6e4": "2026-11-22T15:08:59.571286+00:00",
+  "46bbaf6c2df6bf42": "2026-11-22T15:09:04.324640+00:00",
+  "8f27cc9f02eb1b41": "2026-11-22T15:09:05.553880+00:00",
+  "8085740f2410bf25": "2026-11-22T15:09:06.978605+00:00",
+  "fdbad6d8d2c9a64f": "2026-11-22T15:09:08.045951+00:00",
+  "8ad5afa9da37c43f": "2026-11-22T15:09:28.400855+00:00",
+  "05a6ebe99210fce1": "2026-11-22T15:09:31.960920+00:00",
+  "521c8078365ba11b": "2026-11-22T15:09:39.565442+00:00",
+  "161a593c0b317e81": "2026-11-22T15:25:08.701406+00:00",
+  "4733eb2f45215671": "2026-11-22T15:25:17.237241+00:00",
+  "fffba3e443b6a1bd": "2026-11-22T15:25:27.137873+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -3597,7 +3610,20 @@
   "8ef38881ae736207": "2026-11-22T14:52:29.534216+00:00",
   "0bac9f1d53441c4f": "2026-11-22T14:52:43.769083+00:00",
   "38d09794c3d4624c": "2026-11-22T14:53:06.715607+00:00",
-  "afa44b66676a812b": "2026-11-22T14:53:34.498387+00:00"
+  "afa44b66676a812b": "2026-11-22T14:53:34.498387+00:00",
+  "001dd825d1129709": "2026-11-22T15:08:57.806637+00:00",
+  "a259a7d2524f03d1": "2026-11-22T15:08:57.849419+00:00",
+  "d943a0557a26abbc": "2026-11-22T15:08:59.571286+00:00",
+  "20a2c7852ba25235": "2026-11-22T15:09:04.324640+00:00",
+  "3afea849faa2fea6": "2026-11-22T15:09:05.553880+00:00",
+  "219a4b2f24fcbf7b": "2026-11-22T15:09:06.978605+00:00",
+  "ca54733f8d1ead4a": "2026-11-22T15:09:08.045951+00:00",
+  "61ce6d14b0f5eba6": "2026-11-22T15:09:28.400855+00:00",
+  "7fcd2d8308f6e7d7": "2026-11-22T15:09:31.960920+00:00",
+  "e37e9220b4a9a526": "2026-11-22T15:09:39.565442+00:00",
+  "843a732314cda575": "2026-11-22T15:25:08.701406+00:00",
+  "56ff7a02bd2749d6": "2026-11-22T15:25:17.237241+00:00",
+  "b340f93a31e64f37": "2026-11-22T15:25:27.137873+00:00"
  },
  "recent": [
   {
@@ -9263,6 +9289,110 @@
    "status": "skipped",
    "ts": "2026-11-22T14:53:34.498523+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GTA 6 Mamba GT locations: How to restore the third car for Wyman",
+   "source": "PC Gamer",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-22T15:08:57.806671+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Here's where to find the Mamba GTs for Wyman in GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-22T15:08:57.849461+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Could Actually Lose at Least 3 Game Awards Categories",
+   "source": "Polygon",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-22T15:08:59.571401+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "The GTAs that are still worth playing while you wait for GTA 6 on PC",
+   "source": "PC Gamer",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-22T15:09:04.324761+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How Long Is Chapter 2 in GTA 6? All Missables and Mission List",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T15:09:05.554009+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Mom Sends Daughter to Grandma’s House So She Can Play GTA 6 for 24 Hours Straight",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T15:09:06.978741+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 glitch on XBOX Series X gets game running at 60fps - here's how to do it",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T15:09:12.376773+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Sensitivity Settings: Default Values, Ranges and Response Curves",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T15:09:28.400984+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Neuralink trial participant ditches mouth stick to play GTA 6 with his mind — brain-computer interface maps imagined ring-finger taps and hand slides to a PlayStation 5 controller",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T15:09:31.961061+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "8 Red Flags That Lucia Has in GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T15:09:39.565574+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Обзор Grand Theft Auto 6: это даже не близко к новому поколению игр, но это великолепный финальный аккорд поколения нынешнего",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T15:25:08.701557+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Mamba - Near The Ambrosia Gas Station",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T15:25:17.982104+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 prompts UAE warning over portrayal of drug use",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T15:25:27.137989+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -9324,7 +9454,9 @@
     "guide": false,
     "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-3.5-flash"
    },
-   "queued_at": "2026-11-22T14:34:55.937895+00:00"
+   "queued_at": "2026-11-22T14:34:55.937895+00:00",
+   "moderation": "pending",
+   "draft_msg_id": 83
   },
   {
    "item": {
@@ -9443,35 +9575,6 @@
    "queued_at": "2026-11-22T10:35:54.659126+00:00",
    "moderation": "pending",
    "draft_msg_id": 78
-  },
-  {
-   "item": {
-    "title": "Мошенничество вокруг GTA VI для ПК поставили на поток — начали продавать готовый набор инструментов для обмана игроков",
-    "link": "https://ixbt.games/news/2026/11/22/mosennicestvo-vokrug-gta-vi-dlia-pk-postavili-na-potok-nacali-prodavat-gotovyi-nabor-instrumentov-dlia-obmana-igrokov.html",
-    "summary": "Некоторые злоумышленники вышли на новый уровень.",
-    "published": "2026-11-22T02:31:00+00:00",
-    "source": "iXBT.games",
-    "site_name": "iXBT.games",
-    "trust": "medium",
-    "text": "Некоторые злоумышленники вышли на новый уровень.\nСейчас Grand Theft Auto VI доступна только на консолях PlayStation 5 и Xbox Series X|S. Однако существует большой интерес к ПК-версии, что пытаются использовать различные мошенники.\nСпециалисты по кибербезопасности обратили внимание на то, что мошенничество вокруг GTA VI вышло на новый уровень. Технический директор Мариюс Бриедис (Marijus Briedis) рассказал, что в сети начали продавать наборы для тех, кто хочет попробовать стать мошенником. Для обмана игроков больше не нужны специальные технические знания — любой желающий может отдать примерно 200 долларов и получить готовый комплект необходимых инструментов:\nМы уже несколько месяцев наблюдаем, как мошенники используют GTA VI, но это совсем другой уровень. Кто-то создал готовый набор для мошенничества и продаёт его всем за 200 долларов. Технических навыков больше не требуется. Преступникам достаточно просто купить этот набор.\nПод видом «ПК-версии» GTA VI жертвы получат на свои устройства программу, которая опустошит криптовалютные кошельки. В набор для мошенников также входит бот для YouTube Shorts, предназначенный для распространения контента, и поддельный файл «GTA6 Keygen.exe».\nПро ПК-версию Rockstar Games и Take-Two пока ничего не рассказывали, в ближайшее время её релиз не ожидается.\nНе пропускайте наши новостиДобавьте сайт в предпочитаемые источники, чтобы видеть нас чащеДобавить в Google",
-    "extra": {
-     "image": "https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1744798/media-09c87050b9f352841849a7d162d7763481d37a8ae8f0f575ea31ad5758305022.png"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "⚠️ СКЕМЕРЫ ПРОДАЮТ ФЕЙК GTA 6 НА ПК\n\nКиберэксперты предупреждают: в сети начали продавать готовый софт за 200 баксов для развода игроков. Скамерам даже кодить не надо — набор сам рассылает фальшивый «GTA6 Keygen.exe» через ботов в YouTube Shorts и чистит криптокошельки.\n\nНа ПК игры всё ещё нет, так что не ведитесь на этот скам!\n\n❤️ — Жду официальный анонс\n👎 — Уже чуть не скачал",
-    "card_title": "ФЕЙКОВАЯ GTA 6 НА ПК",
-    "reason": "Мошенники продают готовые наборы для скама ПК-игроков по 200 баксов, важная новость о безопасности",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-3.5-flash"
-   },
-   "queued_at": "2026-11-22T03:12:06.723012+00:00"
   },
   {
    "item": {
@@ -9644,7 +9747,8 @@
   "2026-11-22T10:19:40.160726+00:00",
   "2026-11-22T11:19:51.806243+00:00",
   "2026-11-22T12:43:34.843087+00:00",
-  "2026-11-22T14:01:42.978013+00:00"
+  "2026-11-22T14:01:42.978013+00:00",
+  "2026-11-22T15:02:03.268686+00:00"
  ],
  "slots_sent": {
   "2026-11-21:guide:1": "2026-11-21T21:14:52.573728+00:00",
