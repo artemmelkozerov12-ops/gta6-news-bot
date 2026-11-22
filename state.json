@@ -2303,7 +2303,23 @@
   "be41f7cf524b16a7": "2026-11-22T18:52:04.475507+00:00",
   "e26ef533d2eeeba1": "2026-11-22T18:52:21.802883+00:00",
   "f546e876246e452c": "2026-11-22T18:52:40.772417+00:00",
-  "69a5463366071dad": "2026-11-22T18:53:01.975502+00:00"
+  "69a5463366071dad": "2026-11-22T18:53:01.975502+00:00",
+  "24d8ffa99839a1aa": "2026-11-22T19:08:26.384829+00:00",
+  "b70636295ac95b2a": "2026-11-22T19:08:39.200087+00:00",
+  "40353075c2c19ffe": "2026-11-22T19:08:40.222728+00:00",
+  "698d03f95661612c": "2026-11-22T19:08:41.282340+00:00",
+  "06604c6d4ef6afa2": "2026-11-22T19:08:50.324861+00:00",
+  "1272e62f825d9156": "2026-11-22T19:08:51.550300+00:00",
+  "7757723816417e14": "2026-11-22T19:08:52.665291+00:00",
+  "d96885d0b219b922": "2026-11-22T19:26:59.205972+00:00",
+  "e29755f1e51e3bd6": "2026-11-22T19:27:26.480468+00:00",
+  "2cb299dec24b245d": "2026-11-22T19:28:07.647568+00:00",
+  "afeb6150522d7ffe": "2026-11-22T19:28:34.837916+00:00",
+  "b1d73dc973c7710c": "2026-11-22T19:28:57.158611+00:00",
+  "a4f0c09b859d2177": "2026-11-22T19:29:00.726041+00:00",
+  "ef8e5499079519e3": "2026-11-22T19:29:01.494907+00:00",
+  "0b51d2704d7e0ef8": "2026-11-22T19:29:02.355613+00:00",
+  "bb60d4361857f134": "2026-11-22T19:29:03.275178+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -3869,7 +3885,19 @@
   "604fcdb3f54b75b0": "2026-11-22T18:52:04.475507+00:00",
   "32167773d1f24694": "2026-11-22T18:52:21.802883+00:00",
   "4e74eff2150ecfbe": "2026-11-22T18:52:40.772417+00:00",
-  "b47403cfdbb619a7": "2026-11-22T18:53:01.975502+00:00"
+  "b47403cfdbb619a7": "2026-11-22T18:53:01.975502+00:00",
+  "0310eb0ec11f0890": "2026-11-22T19:08:26.384829+00:00",
+  "b9c65b4649d6af32": "2026-11-22T19:08:39.200087+00:00",
+  "50d404846d7e406e": "2026-11-22T19:08:40.222728+00:00",
+  "5b33045b758ef50a": "2026-11-22T19:08:41.282340+00:00",
+  "95236cfa754faa69": "2026-11-22T19:08:50.324861+00:00",
+  "40c12ad2b05e0984": "2026-11-22T19:08:51.550300+00:00",
+  "f87f232fdb5bf102": "2026-11-22T19:08:52.665291+00:00",
+  "e5711b644a6c508d": "2026-11-22T19:26:59.205972+00:00",
+  "b41838c314e0bbdf": "2026-11-22T19:27:26.480468+00:00",
+  "4161bde13edcce51": "2026-11-22T19:28:07.647568+00:00",
+  "200245bd8a709e74": "2026-11-22T19:28:34.837916+00:00",
+  "c5dbe992c9270384": "2026-11-22T19:28:57.158611+00:00"
  },
  "recent": [
   {
@@ -9884,7 +9912,7 @@
    "title": "Players have discovered a way to get infinite money at the start of GTA VI.",
    "source": "Google News (EN)",
    "trust": "rumor",
-   "status": "queued",
+   "status": "published",
    "ts": "2026-11-22T17:45:36.124839+00:00",
    "card_title": "БЕСКОНЕЧНЫЕ ДЕНЬГИ НА СТАРТЕ"
   },
@@ -10207,9 +10235,174 @@
    "status": "skipped",
    "ts": "2026-11-22T18:53:01.975624+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GTA 6 Vehicle Menu and Controller Shortcuts",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-22T19:08:37.165053+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI не вышла на ПК, зато в Steam появилась другая Grand Theft — без Auto, но с онлайном и путешествиями во времени",
+   "source": "iXBT.games",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-22T19:08:39.200206+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Sarah Sherman and Chloe Fineman’s GTA 6 Reunion Is a True-Crime Podcast From Hell",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T19:08:40.222886+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Сценаристы GTA 6 объяснили человечность Джейсона и Люсии: «Каждый из нас в паре неудач от того, чтобы сорваться»",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T19:08:41.282491+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to Listen to GTA 6 Radio While Walking: Headphones Explained",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T19:08:50.325000+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "All Chatfield Storage & Logistics Robbery Key Valuables Locations - GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T19:08:51.550438+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Намёк без доказательств: автор эмулятора Lichii высказался о GTA 6 на ПК",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T19:08:52.665432+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6's massive casino and sick go-kart track are currently closed, but I'm hoping we can trust those 'coming soon' signs 🙏",
+   "source": "PC Gamer",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-22T19:24:52.314215+00:00",
+   "card_title": "ЗАКРЫТЫЕ КАЗИНО И КАРТИНГ"
+  },
+  {
+   "title": "The making of GTA 5: How the GTA 6 predecessor helped Rockstar pave the way for its return to Vice City with Jason and Lucia",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-22T19:25:20.090992+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Godfather Of Cyberpunk Says He’s Never Played A Video Game, But Finds GTA 6 ‘Intriguing’",
+   "source": "Kotaku",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-22T19:25:45.047057+00:00",
+   "card_title": "ОТЕЦ КИБЕРПАНКА В ШОКЕ"
+  },
+  {
+   "title": "GTA 6 discourse is already suffering from the flat earther effect",
+   "source": "PC Gamer",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-22T19:26:37.003065+00:00",
+   "card_title": "ГТА 6: ДИСКУРС И ХЕЙТЕРЫ"
+  },
+  {
+   "title": "The Best GTA 6 Easter Eggs We’ve Seen So Far",
+   "source": "Polygon",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-22T19:26:39.003630+00:00",
+   "card_title": "ГТА 6 ПАСХАЛКИ И СЕКРЕТЫ"
+  },
+  {
+   "title": "Where To Find Bank Security Armored Trucks In GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T19:26:59.206104+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Rockstar has put the GTA 6 map online, so you can see Leonida before clearing the fog",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T19:27:26.480615+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Ultimate Edition: что входит и чем отличается от Standard",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T19:28:07.647708+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "'GTA VI' Leads Game Awards 2026 With 8 Nods: See the Full List of Nominees",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T19:28:34.838050+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "В GTA VI нашли стену с именем матери разработчика, подарившей ему Vice City",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T19:28:57.158758+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
+  {
+   "item": {
+    "title": "The Best GTA 6 Easter Eggs We’ve Seen So Far",
+    "link": "https://www.polygon.com/gta-6-easter-eggs/",
+    "summary": "Grand Theft Auto 6 features tons of celebrity cameos, pop-culture references, and nods to past Rockstar games. Here are a few of our faves.",
+    "published": "2026-11-22T18:42:14+00:00",
+    "source": "Polygon",
+    "site_name": "Polygon",
+    "trust": "high",
+    "text": "Grand Theft Auto 6 is finally in the wild, and there are a mind-boggling number of things to do in Leonida. Many of them are terribly dangerous, like stealing cars from the police impound lot, getting into high-speed chases, and laundering stolen goods. But GTA 6 has plenty of wild and wacky optional activities too, many of which include references to pop-culture icons, past Rockstar games, or well-known memes. Here are a few of the coolest Easter eggs we've discovered in our own playthroughs and from other players on social media.\nGTA's radio stations have become famous for their celebrity hosts over the years, and GTA 6 doubles down on that tradition. Weird Al is a host on Vice City FM, which plays 1980s hits from artists like Hall and Oates, Phil Collins, and Flock of Seagulls. He confirmed his role in the game in a recent Bluesky post, where he wrote, \"I’m the host of GTA 6’s “non-stop ‘80s” radio channel Vice City FM. I also wrote some in-game commercials, and I’m the voice of the Burger Shot ads as well! As a long-time fan of the Grand Theft Auto franchise, I couldn’t be more excited about this. Okay, gotta get back to playing the game!\"\nDuring Jason's final days as a bachelor early in the game, one of the most relaxing activities you can get up to is swimming near his house. If you manage to venture out far enough, you'll come across an unusual watersports enthusiast: a German Shepherd riding a jet ski all by himself. This is likely a reference to a real dog in Fort Lauderdale, a Golden Retriever who's become a local attraction due to his love of riding the waves. The breeds may not be the same, but the shout-out is clear.\nIn Brian's office at the Marina, you can find a copy of a book called The Cowboy's Prayer Is to Die Young. It contains several references to the events of 2018's Red Dead Redemption 2, the previous game from GTA 6 developer Rockstar Games. The book follows protagonist Rust McCreary, a clear stand-in for Arthur Morgan, as he \"rides across the final days of the West in a bloody quest for inner peace.\" If you flip through the pages, you'll find references to New Austin, Blackwater, and Ambarino. There's even a pretty detailed rundown of a main-story mission from RDR2, where Arthur tracks down gunslinger Flaco Hernandez to a cabin on Cairn Lake.\nOnce you make it to Port Gellhorn, you can find a convincing replica of Arthur's hat at a yard sale. The house is located about two blocks south of Moses' garage, so keep an eye out for signs.",
+    "extra": {
+     "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/10/gta6jason.JPG"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "🕵️‍♂️ Пойманные пасхалки GTA 6: от Вайс Сити FM до собаки‑джетски\n\nНайди в Леониде кучу скрытых фишек – от Weird Al на радио до немецкой овчарки на гидроскутере. Это реальный топчик, который заставит всех в чатах рилить.",
+    "card_title": "ГТА 6 ПАСХАЛКИ И СЕКРЕТЫ",
+    "reason": "Крутая подборка пасхалок и отсылок в игре",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
+   },
+   "queued_at": "2026-11-22T19:26:39.003613+00:00"
+  },
   {
    "item": {
     "title": "GTA 6 Makes It Nearly Impossible to Play Without Killing Anyone",
@@ -10238,6 +10431,93 @@
     "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
    },
    "queued_at": "2026-11-22T14:00:56.931524+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA 6's massive casino and sick go-kart track are currently closed, but I'm hoping we can trust those 'coming soon' signs 🙏",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6s-massive-casino-and-sick-go-kart-track-are-currently-closed-but-im-hoping-we-can-trust-those-coming-soon-signs/",
+    "summary": "And not just for GTA 6 Online, right? Right?",
+    "published": "2026-11-22T17:51:53+00:00",
+    "source": "PC Gamer",
+    "site_name": "PC Gamer",
+    "trust": "high",
+    "text": "I'd just stolen my very first airplane in GTA 6 and was happily cruising over the city when I looked out my window and saw an enormous purple building. I banked, slowed down, and flew a bit closer to read the huge sign on the roof.\nOh, hell yes. I was so excited to throw my carefully accumulated three hundred dollars away on poker and slots that I immediately attempted my very first landing. After the explosion and my miraculous resurrection, I rushed back to the casino and crashed again, this time with my body into the locked front doors.\nThe casino in GTA 6 is closed. Trust me, I tried every door, and the only one that opened was a utility closet.\nI was early into my playthrough, still in Chapter 1 of the GTA 6 story missions, so I thought maybe there'll be some mission that unlocks the casino so I can play some poker, try my luck at the slots, and maybe bet on the also-closed dog track—I assume it's a dog track because I've seen dogs in GTA 6, but no horses—that's right next door to the casino.\nNope! I'm now 100% done with the main story and that casino is still closed. And that's not the only business in GTA 6 that isn't open for business. Not even a half-mile away from the casino there's a go-cart track called Hot Skidz sporting a huge \"Coming Soon\" sign. I saw that early in my game as well, and checked back later. Still closed. I also found a second, smaller casino. Also closed.\nWhat a letdown. I managed to get my motorcycle onto the go-cart track, and as I drove glumly around it, alone, having no fun, I perked up a bit. Maybe this just gives me something to look forward to. A hint of more singleplayer content that'll be coming to GTA 6 next year. Hopefully next year.\nThere's already a lot of seemingly unfinished stuff in GTA 6, partial systems that could be added to and completed, like:\nI can throw a frisbee but no one will catch it—not even dogs—or throw it back\nI can go to a tennis court, pick up a tennis racket and tennis ball, and hit the ball with the racket, but I can't actually play tennis\nSpeaking of dogs, who would put so many dogs in a game and not let me have my own dog?\nThere's a baseball bat and baseballs, but I can't play baseball\nThe dog thing is madness. Gotta let us have dogs at some point\nThere are so many cool houses but I can only live in the one currently assigned to me by the story\nThere are hotels everywhere but I can't rent a room\nYou can play eight-ball pool but not nine-ball? Pure insanity, even moreso than the dog decision",
+    "extra": {
+     "image": "https://cdn.mos.cms.futurecdn.net/8q3aB7eUKTKyvGtqBRoLPE-1920-80.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "В GTA 6 нашли ЗАКРЫТЫЕ казино и картинг\n\nГеймеры наткнулись на запертые локации вроде казино и карт-трека с надписями «Coming Soon». Двери закрыты даже после полного прохождения сюжета, так что ждём жирные обновы.\n\n❤️ — Ждём DLC с казино!\n👎 — Опять прогрев на контент...",
+    "card_title": "ЗАКРЫТЫЕ КАЗИНО И КАРТИНГ",
+    "reason": "Игрок нашел закрытые казино и трассы с табличками скоро открытие, а также фичи вроде фрисби и тенниса без мини-игр",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-3.5-flash"
+   },
+   "queued_at": "2026-11-22T19:24:52.314201+00:00"
+  },
+  {
+   "item": {
+    "title": "Godfather Of Cyberpunk Says He’s Never Played A Video Game, But Finds GTA 6 ‘Intriguing’",
+    "link": "https://kotaku.com/godfather-of-cyberpunk-says-hes-never-played-a-video-game-but-finds-gta-6-intriguing-2000759281",
+    "summary": "Arcade addicts of the 1980s inspired the cyberspace of William Gibson’s influential Neuromancer, now the author is transfixed on viral footage of Rockstar’s ultra-hit",
+    "published": "2026-11-22T18:44:40+00:00",
+    "source": "Kotaku",
+    "site_name": "Kotaku",
+    "trust": "high",
+    "text": "CyberpunkGrand Theft Auto 6NeuromancerWilliam Gibson\nWilliam Gibson, the science fiction author often credited for establishing the cyberpunk genre, took plenty of inspiration from video game culture in the ’70s and ’80s. Despite this, and the influence of works like Neuromancer has had on the medium, Gibson says he doesn’t partake in the hobby, claiming this weekend that he’s never even played a video game. One game seems to be recapturing his interest, though, the forefather of virtual reality allured by viral Grand Theft Auto clips online.\n“I’ve never played a video game in my life, but this thing [Grand Theft Auto] actually does [seem] interesting,” posted Gibson. “When I said that I found that clip of the new GTA interesting, I didn’t mean that it made me interested in learning to play it, but interested in what it was that I found intriguing, in some mysterious way, in its…texture?…depth? I don’t know.”\nWhen I said that I found that clip of the new GTA interesting, I didn’t mean that it made me interested in learning to play it, but interested in what it was that I found intriguing, in some mysterious way, in its…texture?…depth? I don’t know. — William Gibson (@greatdismal.bsky.social) 2026-11-22T03:23:17.866Z",
+    "extra": {
+     "image": "https://kotaku.com/app/uploads/2023/08/6e09a0056e1d3bd2d72c274f795f16fc-1280x720.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "🕶️ Отец киберпанка В ШОКЕ от GTA 6\n\nЛегендарный писатель Уильям Гибсон признался, что за всю жизнь не геймил ни в одну игру, но вирусные ролики шестёрки его конкретно зацепили. Дед проникся текстурами и глубиной Вайс-Сити. Чисто вайбовый респект!",
+    "card_title": "ОТЕЦ КИБЕРПАНКА В ШОКЕ",
+    "reason": "Отец киберпанка Уильям Гибсон впервые в жизни заинтересовался видеоиграми из-за GTA 6",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-3.5-flash"
+   },
+   "queued_at": "2026-11-22T19:25:45.047042+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA 6 discourse is already suffering from the flat earther effect",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-discourse-is-already-suffering-from-the-flat-earther-effect/",
+    "summary": "Didn't you hear? You can't even steal cars anymore.",
+    "published": "2026-11-22T18:43:01+00:00",
+    "source": "PC Gamer",
+    "site_name": "PC Gamer",
+    "trust": "high",
+    "text": "If you ever watch science videos on social media, you've probably been served a video of someone debunking the claims of a flat earther.\nIt starts with a clip of some belligerent dope demanding to know why, if the earth is so round, ships don't disappear over the horizon. A greenscreened science communicator then appears, rubs their forehead, and shows us a video of a ship disappearing over the horizon. Checkmate.\nIt's good content, but if you linger too long on one of those videos, you'll get another, and then another, and pretty soon your whole feed will be debunking videos. Now you're enrolled in a never ending lesson plan which features such insights as 'an all-meat diet is not good for you,' 'the moon landing was real,' and 'hating women is not in fact based.'\nThe total effect of this is that the most ignorant and dishonest quacks and provocateurs get to set the level of discourse, and instead of investigating new metaphorical horizons in topics that interest you, you wind up watching people debate the existence of the actual horizon.\nWhich brings me to Grand Theft Auto 6. Despite making $3.79 billion on its launch day, it's easy to stumble across confident social media claims that it's a total flop and everyone's going to refund it. According to popular X posts, GTA 6 doesn't even let you steal cars anymore, and there are hundreds of Metacritic user reviewers insisting that it's far-left propaganda rather than the mass-market entertainment product it obviously is.\nIt's the videogame discourse version of flat eartherism. The millions of people playing GTA 6 do not think it is a \"cuck simulator\" because you can buy a woman flowers, but it's hard not to react to the few dorks making that claim, even though focusing on debunking them severely limits the depth of the conversations we can then have about the game. Good luck discussing your feelings if you dislike GTA 6 for normal reasons!\nOver the past few days, I've entertained sparks of hope that GTA 6 could be the flashpoint that brings us out of this era of videogame discourse. The millions of people playing it and not reacting like buffoons are surely irrefutable evidence that culture war dunces don't represent the masses.\nKeep up to date with the most important stories and the best deals, as picked by the PC Gamer team.\nBut then again, we're still pointing at videos of ships going over the horizon to prove that the earth isn't flat.\nGTA 6 guide: One-stop info shopGTA 6 map: The full Vice City tourGTA",
+    "extra": {
+     "image": "https://cdn.mos.cms.futurecdn.net/88bmYYeTdzTBy8hNsLoXrc-1920-80.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "🚀 GTA 6 в эпицентре флэт‑эртер дискурса\n\nВ соцсетях уже разгоняют GTA 6 как провал, но реально игра собрала $3.79 млрд за день и всё ещё топчик. Не дайте крикам про «не крадут машины» испортить вайб — игра имба, а хейтеры просто флеймят.\n\n❤️ — согласен\n👎 — нет",
+    "card_title": "ГТА 6: ДИСКУРС И ХЕЙТЕРЫ",
+    "reason": "Статья из авторитетного СМИ об абсурдных фейках и хейте вокруг релиза GTA 6.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
+   },
+   "queued_at": "2026-11-22T19:26:37.003053+00:00"
   },
   {
    "item": {
@@ -10353,7 +10633,9 @@
     "guide": false,
     "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-4-hydrogen"
    },
-   "queued_at": "2026-11-22T16:41:24.184196+00:00"
+   "queued_at": "2026-11-22T16:41:24.184196+00:00",
+   "moderation": "pending",
+   "draft_msg_id": 88
   },
   {
    "item": {
@@ -10557,36 +10839,6 @@
     "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
    },
    "queued_at": "2026-11-22T13:58:58.971321+00:00"
-  },
-  {
-   "item": {
-    "title": "Players have discovered a way to get infinite money at the start of GTA VI.",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZ3p1YkRXek1mMmthTVE3NmxveWpmNkVqMGFtb05hdTRFdmZqbzlQU245ckpiSjhPYi1QRzh1WmlyM0o5ZnNqcHpaZ0E0LVN1TmdUQzdtazE3VkFUcnNVNWNPZlBLdXRPajM0VmltaUVXX25WZGJMbXRvQjhEbTZrX1hyakhVVkhjMDV2d05Mblc3c1ZXdlNYR2lnWVJaRjF3djdoQmh5TEtLN1lMVTZENzNB?oc=5",
-    "summary": "Players have discovered a way to get infinite money at the start of GTA VI. GameGPU",
-    "published": "2026-11-22T16:37:30+00:00",
-    "source": "Google News (EN)",
-    "site_name": "GameGPU",
-    "trust": "rumor",
-    "text": "Players have discovered a way to get infinite money at the start of GTA VI. GameGPU",
-    "extra": {}
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "💸 В GTA 6 нашли БЕСКОНЕЧНЫЕ деньги на старте\n\nИгроки уже откопали способ получать сколько угодно денег с самого начала игры. Лютая имба для старта, хоть после такого на жизнь точно жаловаться не придётся.\n\n❤️ — пользуемся\n👎 — играем честно",
-    "card_title": "БЕСКОНЕЧНЫЕ ДЕНЬГИ НА СТАРТЕ",
-    "reason": "Глитч на бесконечные деньги на старте игры — это лютая имба для игроков, баг в вышедшей игре.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "GTA 6 already has an infinite money glitch, but many players are skipping it",
-    "corroborated_by": "GTA 6 already has an infinite money glitch, but many players are skipping it",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-4-hydrogen"
-   },
-   "queued_at": "2026-11-22T17:45:36.124827+00:00",
-   "moderation": "approved",
-   "draft_msg_id": 86,
-   "waiting_logged": true
   }
  ],
  "posts": [
@@ -10616,7 +10868,8 @@
   "2026-11-22T16:35:44.287977+00:00",
   "2026-11-22T18:19:06.164584+00:00",
   "2026-11-22T18:35:58.788319+00:00",
-  "2026-11-22T18:53:08.255210+00:00"
+  "2026-11-22T18:53:08.255210+00:00",
+  "2026-11-22T19:08:58.405726+00:00"
  ],
  "tg_offset": 387129050,
  "channel": {
@@ -10649,7 +10902,8 @@
   "2026-11-22T15:02:03.268686+00:00",
   "2026-11-22T16:02:50.859091+00:00",
   "2026-11-22T17:03:01.090216+00:00",
-  "2026-11-22T18:03:09.854828+00:00"
+  "2026-11-22T18:03:09.854828+00:00",
+  "2026-11-22T19:03:13.539370+00:00"
  ],
  "slots_sent": {
   "2026-11-21:guide:1": "2026-11-21T21:14:52.573728+00:00",
@@ -15461,6 +15715,38 @@
    "ts": "2026-11-22T18:27:42.489537+00:00",
    "frames": [],
    "caption": "Чел решил срезать через болото, но аллигаторы в GTA 6 — это лютая имба. Ласт его ошибка, просто ору 💀"
+  },
+  {
+   "author": "youtube:santy con y",
+   "vod": "",
+   "offset": -1,
+   "title": "LE QUITARON SU GTA 6 A MI VECINO",
+   "drafted": false,
+   "ts": "2026-11-22T19:29:00.726091+00:00"
+  },
+  {
+   "author": "youtube:info infinity",
+   "vod": "",
+   "offset": -1,
+   "title": "IShowSpeed ने GTA 6 खत्म कर दिया! 😱",
+   "drafted": false,
+   "ts": "2026-11-22T19:29:01.494949+00:00"
+  },
+  {
+   "author": "youtube:darkviperau",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 Hate Is Unjustified #gta6 #gtavi #gtaonline",
+   "drafted": false,
+   "ts": "2026-11-22T19:29:02.355676+00:00"
+  },
+  {
+   "author": "youtube:abhimanthan",
+   "vod": "",
+   "offset": -1,
+   "title": "IShowSpeed GTA 6 khatam karne wala pehla insaan NAHI tha 😳",
+   "drafted": false,
+   "ts": "2026-11-22T19:29:03.275234+00:00"
   }
  ],
  "published": [
@@ -15680,6 +15966,13 @@
    "title": "Сексуальные сцены в GTA 6 — как их заставили работать",
    "importance": 7,
    "kind": "confirmed"
+  },
+  {
+   "ts": "2026-11-22T19:08:58.405742+00:00",
+   "msg_id": 59,
+   "title": "В GTA 6 нашли БЕСКОНЕЧНЫЕ деньги на старте",
+   "importance": 8,
+   "kind": "confirmed"
   }
  ],
  "extras": [],
@@ -15688,156 +15981,5 @@
   "weekly-20261121": "2026-11-21T17:30:42.606074+00:00",
   "digest-20261121": "2026-11-21T19:30:10.993120+00:00"
  },
- "rewrite_wait": [
-  {
-   "item": {
-    "title": "GTA 6's massive casino and sick go-kart track are currently closed, but I'm hoping we can trust those 'coming soon' signs 🙏",
-    "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6s-massive-casino-and-sick-go-kart-track-are-currently-closed-but-im-hoping-we-can-trust-those-coming-soon-signs/",
-    "summary": "And not just for GTA 6 Online, right? Right?",
-    "published": "2026-11-22T17:51:53+00:00",
-    "source": "PC Gamer",
-    "site_name": "PC Gamer",
-    "trust": "high",
-    "text": "I'd just stolen my very first airplane in GTA 6 and was happily cruising over the city when I looked out my window and saw an enormous purple building. I banked, slowed down, and flew a bit closer to read the huge sign on the roof.\nOh, hell yes. I was so excited to throw my carefully accumulated three hundred dollars away on poker and slots that I immediately attempted my very first landing. After the explosion and my miraculous resurrection, I rushed back to the casino and crashed again, this time with my body into the locked front doors.\nThe casino in GTA 6 is closed. Trust me, I tried every door, and the only one that opened was a utility closet.\nI was early into my playthrough, still in Chapter 1 of the GTA 6 story missions, so I thought maybe there'll be some mission that unlocks the casino so I can play some poker, try my luck at the slots, and maybe bet on the also-closed dog track—I assume it's a dog track because I've seen dogs in GTA 6, but no horses—that's right next door to the casino.\nNope! I'm now 100% done with the main story and that casino is still closed. And that's not the only business in GTA 6 that isn't open for business. Not even a half-mile away from the casino there's a go-cart track called Hot Skidz sporting a huge \"Coming Soon\" sign. I saw that early in my game as well, and checked back later. Still closed. I also found a second, smaller casino. Also closed.\nWhat a letdown. I managed to get my motorcycle onto the go-cart track, and as I drove glumly around it, alone, having no fun, I perked up a bit. Maybe this just gives me something to look forward to. A hint of more singleplayer content that'll be coming to GTA 6 next year. Hopefully next year.\nThere's already a lot of seemingly unfinished stuff in GTA 6, partial systems that could be added to and completed, like:\nI can throw a frisbee but no one will catch it—not even dogs—or throw it back\nI can go to a tennis court, pick up a tennis racket and tennis ball, and hit the ball with the racket, but I can't actually play tennis\nSpeaking of dogs, who would put so many dogs in a game and not let me have my own dog?\nThere's a baseball bat and baseballs, but I can't play baseball\nThe dog thing is madness. Gotta let us have dogs at some point\nThere are so many cool houses but I can only live in the one currently assigned to me by the story\nThere are hotels everywhere but I can't rent a room\nYou can play eight-ball pool but not nine-ball? Pure insanity, even moreso than the dog decision",
-    "extra": {
-     "image": "https://cdn.mos.cms.futurecdn.net/8q3aB7eUKTKyvGtqBRoLPE-1920-80.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "Закрытые казино и картинги\n\nВ игре полно крутых мест вроде огромных казино и трека Hot Skidz, но они пока закрыты табличками «скоро откроют». Ждем патчи?\n\n❤️ — Верим в обновы\n👎 — Опять DLC продадут",
-    "card_title": "ЗАКРЫТЫЕ КАЗИНО И КАРТИНГИ В GTA 6",
-    "reason": "Игрок нашел закрытые казино и трассы с табличками скоро открытие, а также фичи вроде фрисби и тенниса без мини-игр",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-22T18:01:18.770524+00:00"
-  },
-  {
-   "item": {
-    "title": "The making of GTA 5: How the GTA 6 predecessor helped Rockstar pave the way for its return to Vice City with Jason and Lucia",
-    "link": "https://www.gamesradar.com/games/grand-theft-auto/the-making-of-gta-5-how-the-gta-6-predecessor-helped-rockstar-pave-the-way-for-its-return-to-vice-city-with-jason-and-lucia/",
-    "summary": "Co-studio head Aaron Garbut explains world design, three main characters, and bringing Los Santos to life",
-    "published": "2026-11-22T18:00:00+00:00",
-    "source": "GamesRadar+",
-    "site_name": "GamesRadar+",
-    "trust": "high",
-    "text": "Back in 2013, Grand Theft Auto 5 won the prestigious title of Edge Magazine's Game of the Year. A lot has changed since then, but at least one figure is the same. Aaron Garbut, co-studio head at Rockstar North on GTA 6, was art director on GTA 5, and he spoke to Edge about the process of making that game. With GTA 6 likely to be a mainstay in Game of the Year conversations through 2027, and our own GTA 6 review out in the wild, we're revisiting that interview to see which design philosophies have stayed the same over the past 13 years, and where Rockstar's ideas have differed.\nGarbut's firmly looking in the rear-view mirror - back in 2013, GTA 6 would be more than a decade away, and Red Dead Redemption 2 would likely have been a much bigger concern for Rockstar. But a lot of what he talks about is relevant today; the design impact of having multiple lead characters; the need to kill your darlings throughout development; the struggles of creating a realistic, life-like urban game environment. We've been sharing some of those stories this week, but you can read the full interview with Garbut right here.\nHow did having three playable characters inform your design choices when it came to building the world?\nThe world is always designed before the game. That’s just the way we do things. We have a chunk of preproduction where a subset of the art team lay out and build a white box city. We get the roads feeling good, the vistas working well and look at the skyline and landmarks. We spend a long time driving and building and tweaking and getting everything in place and feeling balanced, making sure the districts we have chosen will blend together naturally and as a whole create the feeling of the city. As missions and story come together, I work with the level designers to place missions and key locations and to utilise as much of the world as we can.\nWe did know the [biographies] for the three characters right at the start, so we knew we wanted to create an area for Trevor out in the sticks. Towards the beginning of preproduction, I met up with [Rockstar president] Sam [Houser] in LA, and we spent a week together driving about, just exploring and talking. During that trip, we drove out into the desert and eventually ended up visiting Salton Sea [in California]. We went to an amazing spot called Bombay Beach and expected a real-life Trevor to burst out on us at any second. When the full reference trip was organised, we sent a team out to Salton Sea for a few days.",
-    "extra": {
-     "image": "https://cdn.mos.cms.futurecdn.net/3P475S4gAKZxA3JxXgpXPC-1920-80.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 6,
-    "post": "Вспомнили, как делали GTA 5\n\nАарон Гарбут, арт-директор старой части, рассказал Edge, как они 13 лет назад строили Лос-Сантос. Спойлер: сначала делали белый каркас города, а потом уже вписывали миссии. База для понимания, почему Вайс-Сити в шестерке такая сочная. 🏙️",
-    "card_title": "ГЕЙМДЕН ГТА 5",
-    "reason": "Ретроспективное интервью о разработке GTA 5, актуальность средняя, интерес для фанатов истории серии.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "groq:qwen/qwen3.8-27b"
-   },
-   "corr": false,
-   "since": "2026-11-22T18:17:29.410188+00:00"
-  },
-  {
-   "item": {
-    "title": "Godfather Of Cyberpunk Says He’s Never Played A Video Game, But Finds GTA 6 ‘Intriguing’",
-    "link": "https://kotaku.com/godfather-of-cyberpunk-says-hes-never-played-a-video-game-but-finds-gta-6-intriguing-2000759281",
-    "summary": "Arcade addicts of the 1980s inspired the cyberspace of William Gibson’s influential Neuromancer, now the author is transfixed on viral footage of Rockstar’s ultra-hit",
-    "published": "2026-11-22T18:44:40+00:00",
-    "source": "Kotaku",
-    "site_name": "Kotaku",
-    "trust": "high",
-    "text": "CyberpunkGrand Theft Auto 6NeuromancerWilliam Gibson\nWilliam Gibson, the science fiction author often credited for establishing the cyberpunk genre, took plenty of inspiration from video game culture in the ’70s and ’80s. Despite this, and the influence of works like Neuromancer has had on the medium, Gibson says he doesn’t partake in the hobby, claiming this weekend that he’s never even played a video game. One game seems to be recapturing his interest, though, the forefather of virtual reality allured by viral Grand Theft Auto clips online.\n“I’ve never played a video game in my life, but this thing [Grand Theft Auto] actually does [seem] interesting,” posted Gibson. “When I said that I found that clip of the new GTA interesting, I didn’t mean that it made me interested in learning to play it, but interested in what it was that I found intriguing, in some mysterious way, in its…texture?…depth? I don’t know.”\nWhen I said that I found that clip of the new GTA interesting, I didn’t mean that it made me interested in learning to play it, but interested in what it was that I found intriguing, in some mysterious way, in its…texture?…depth? I don’t know. — William Gibson (@greatdismal.bsky.social) 2026-11-22T03:23:17.866Z",
-    "extra": {
-     "image": "https://kotaku.com/app/uploads/2023/08/6e09a0056e1d3bd2d72c274f795f16fc-1280x720.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "Отец киберпанка ЗАУВАЖАЛ GTA 6\n\nУильям Гибсон, придумавший сам киберпанк, признался, что за всю жизнь не сыграл ни в одну игру. Но видосики с шестёркой его всё-таки зацепили своей текстурой и глубиной. База, что тут скажешь.\n\n❤️ — Ждем в катке\n👎 — Бумерский рофл",
-    "card_title": "ОТЕЦ КИБЕРПАНКА ПРО GTA 6",
-    "reason": "Отец киберпанка Уильям Гибсон впервые в жизни заинтересовался видеоиграми из-за GTA 6",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-22T18:51:38.217691+00:00"
-  },
-  {
-   "item": {
-    "title": "GTA 6 discourse is already suffering from the flat earther effect",
-    "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-discourse-is-already-suffering-from-the-flat-earther-effect/",
-    "summary": "Didn't you hear? You can't even steal cars anymore.",
-    "published": "2026-11-22T18:43:01+00:00",
-    "source": "PC Gamer",
-    "site_name": "PC Gamer",
-    "trust": "high",
-    "text": "If you ever watch science videos on social media, you've probably been served a video of someone debunking the claims of a flat earther.\nIt starts with a clip of some belligerent dope demanding to know why, if the earth is so round, ships don't disappear over the horizon. A greenscreened science communicator then appears, rubs their forehead, and shows us a video of a ship disappearing over the horizon. Checkmate.\nIt's good content, but if you linger too long on one of those videos, you'll get another, and then another, and pretty soon your whole feed will be debunking videos. Now you're enrolled in a never ending lesson plan which features such insights as 'an all-meat diet is not good for you,' 'the moon landing was real,' and 'hating women is not in fact based.'\nThe total effect of this is that the most ignorant and dishonest quacks and provocateurs get to set the level of discourse, and instead of investigating new metaphorical horizons in topics that interest you, you wind up watching people debate the existence of the actual horizon.\nWhich brings me to Grand Theft Auto 6. Despite making $3.79 billion on its launch day, it's easy to stumble across confident social media claims that it's a total flop and everyone's going to refund it. According to popular X posts, GTA 6 doesn't even let you steal cars anymore, and there are hundreds of Metacritic user reviewers insisting that it's far-left propaganda rather than the mass-market entertainment product it obviously is.\nIt's the videogame discourse version of flat eartherism. The millions of people playing GTA 6 do not think it is a \"cuck simulator\" because you can buy a woman flowers, but it's hard not to react to the few dorks making that claim, even though focusing on debunking them severely limits the depth of the conversations we can then have about the game. Good luck discussing your feelings if you dislike GTA 6 for normal reasons!\nOver the past few days, I've entertained sparks of hope that GTA 6 could be the flashpoint that brings us out of this era of videogame discourse. The millions of people playing it and not reacting like buffoons are surely irrefutable evidence that culture war dunces don't represent the masses.\nKeep up to date with the most important stories and the best deals, as picked by the PC Gamer team.\nBut then again, we're still pointing at videos of ships going over the horizon to prove that the earth isn't flat.\nGTA 6 guide: One-stop info shopGTA 6 map: The full Vice City tourGTA",
-    "extra": {
-     "image": "https://cdn.mos.cms.futurecdn.net/88bmYYeTdzTBy8hNsLoXrc-1920-80.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "Кринж в соцсетях: GTA 6 называют провалом\n\nПока миллионы игроков залипают в новинку, в соцсетях разгоняют дичь про то, что в игре якобы нельзя угонять тачки, а сама она — «левая пропаганда». База хейтеров пробивает дно, а мы просто калимся с этого цирка.\n\n❤️ — Типичный интернет\n👎 — Срочно патч для хейтеров",
-    "card_title": "КРИНЖ В СОЦСЕТЯХ ПРО GTA 6",
-    "reason": "Статья из авторитетного СМИ об абсурдных фейках и хейте вокруг релиза GTA 6.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-22T18:51:45.515217+00:00"
-  },
-  {
-   "item": {
-    "title": "The Best GTA 6 Easter Eggs We’ve Seen So Far",
-    "link": "https://www.polygon.com/gta-6-easter-eggs/",
-    "summary": "Grand Theft Auto 6 features tons of celebrity cameos, pop-culture references, and nods to past Rockstar games. Here are a few of our faves.",
-    "published": "2026-11-22T18:42:14+00:00",
-    "source": "Polygon",
-    "site_name": "Polygon",
-    "trust": "high",
-    "text": "Grand Theft Auto 6 is finally in the wild, and there are a mind-boggling number of things to do in Leonida. Many of them are terribly dangerous, like stealing cars from the police impound lot, getting into high-speed chases, and laundering stolen goods. But GTA 6 has plenty of wild and wacky optional activities too, many of which include references to pop-culture icons, past Rockstar games, or well-known memes. Here are a few of the coolest Easter eggs we've discovered in our own playthroughs and from other players on social media.\nGTA's radio stations have become famous for their celebrity hosts over the years, and GTA 6 doubles down on that tradition. Weird Al is a host on Vice City FM, which plays 1980s hits from artists like Hall and Oates, Phil Collins, and Flock of Seagulls. He confirmed his role in the game in a recent Bluesky post, where he wrote, \"I’m the host of GTA 6’s “non-stop ‘80s” radio channel Vice City FM. I also wrote some in-game commercials, and I’m the voice of the Burger Shot ads as well! As a long-time fan of the Grand Theft Auto franchise, I couldn’t be more excited about this. Okay, gotta get back to playing the game!\"\nDuring Jason's final days as a bachelor early in the game, one of the most relaxing activities you can get up to is swimming near his house. If you manage to venture out far enough, you'll come across an unusual watersports enthusiast: a German Shepherd riding a jet ski all by himself. This is likely a reference to a real dog in Fort Lauderdale, a Golden Retriever who's become a local attraction due to his love of riding the waves. The breeds may not be the same, but the shout-out is clear.\nIn Brian's office at the Marina, you can find a copy of a book called The Cowboy's Prayer Is to Die Young. It contains several references to the events of 2018's Red Dead Redemption 2, the previous game from GTA 6 developer Rockstar Games. The book follows protagonist Rust McCreary, a clear stand-in for Arthur Morgan, as he \"rides across the final days of the West in a bloody quest for inner peace.\" If you flip through the pages, you'll find references to New Austin, Blackwater, and Ambarino. There's even a pretty detailed rundown of a main-story mission from RDR2, where Arthur tracks down gunslinger Flaco Hernandez to a cabin on Cairn Lake.\nOnce you make it to Port Gellhorn, you can find a convincing replica of Arthur's hat at a yard sale. The house is located about two blocks south of Moses' garage, so keep an eye out for signs.",
-    "extra": {
-     "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/10/gta6jason.JPG"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "ЛУЧШИЕ пасхалки\n\nВ Леониде отыскали кучу жирных отсылок: от пса на гидроцикле до книги про Артура Моргана из RDR2. А Weird Al озвучил целое радио Vice City FM.\n\n❤️ — имба\n👎 — такое себе",
-    "card_title": "ПАСХАЛКИ И ОТСЫЛКИ В GTA 6",
-    "reason": "Крутая подборка пасхалок и отсылок в игре",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-22T18:52:01.628634+00:00"
-  }
- ]
+ "rewrite_wait": []
 }
