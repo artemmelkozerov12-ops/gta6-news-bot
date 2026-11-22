@@ -1889,7 +1889,38 @@
   "a98f193069888fa4": "2026-11-22T06:07:12.690987+00:00",
   "de163394383f92fb": "2026-11-22T06:07:18.411429+00:00",
   "f1b4d67d1e1d46b2": "2026-11-22T06:07:19.706985+00:00",
-  "f6849ac9e4410825": "2026-11-22T06:38:01.736089+00:00"
+  "f6849ac9e4410825": "2026-11-22T06:38:01.736089+00:00",
+  "d311f5d1947523c1": "2026-11-22T06:53:25.049772+00:00",
+  "bb12ad1f49e208ce": "2026-11-22T06:53:26.391442+00:00",
+  "0ec4b753fcd2cd85": "2026-11-22T07:00:10.912602+00:00",
+  "d9729b3bc7091a0a": "2026-11-22T07:00:11.804873+00:00",
+  "16287b5b9ba2f74f": "2026-11-22T07:00:12.575318+00:00",
+  "25add093bd90c345": "2026-11-22T07:00:13.380198+00:00",
+  "fbfb70bce3c59ea1": "2026-11-22T07:01:08.000485+00:00",
+  "c9bad936c47b9399": "2026-11-22T07:01:08.843782+00:00",
+  "e873ab5f5d903959": "2026-11-22T07:01:09.615462+00:00",
+  "535925c0b7162eda": "2026-11-22T07:01:10.480755+00:00",
+  "1b902ab7aafb871c": "2026-11-22T07:02:01.413726+00:00",
+  "d737aeeef67b7b18": "2026-11-22T07:02:02.152648+00:00",
+  "0fb2cbd0c8039013": "2026-11-22T07:02:03.009337+00:00",
+  "50c856ca2fb0fb08": "2026-11-22T07:02:03.873187+00:00",
+  "4222bfec3d2d5f83": "2026-11-22T07:02:54.832854+00:00",
+  "ae6f9c6d6bb3941e": "2026-11-22T07:02:55.540829+00:00",
+  "bd635c7da368126b": "2026-11-22T07:02:56.227675+00:00",
+  "f898baf3d6076cab": "2026-11-22T07:02:56.961571+00:00",
+  "2c9b56eb3e723d30": "2026-11-22T07:03:47.862121+00:00",
+  "e930b8b1e1b02e3f": "2026-11-22T07:03:48.606425+00:00",
+  "31594343fe8a8084": "2026-11-22T07:03:49.360057+00:00",
+  "a588d57fb86218c9": "2026-11-22T07:03:50.120622+00:00",
+  "e5371bb75d6e6f34": "2026-11-22T07:04:41.225337+00:00",
+  "f45a4ea7a833f1a6": "2026-11-22T07:04:41.967971+00:00",
+  "8c6337c28a867f02": "2026-11-22T07:04:42.856599+00:00",
+  "c78275fd5cacbdbc": "2026-11-22T07:04:43.707391+00:00",
+  "3bc9916ec7e134cb": "2026-11-22T07:05:34.827412+00:00",
+  "3adff11d6e4a2c5a": "2026-11-22T07:05:35.551549+00:00",
+  "cf31321dd7f4d2e9": "2026-11-22T07:06:42.989651+00:00",
+  "19d4d27921b5a342": "2026-11-22T07:06:56.282309+00:00",
+  "a39226dcae98e18e": "2026-11-22T07:09:02.119104+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -3175,7 +3206,10 @@
   "666ae82de1c86e4b": "2026-11-22T06:07:12.690987+00:00",
   "17bda43eec27728e": "2026-11-22T06:07:18.411429+00:00",
   "83cdc37978935a0d": "2026-11-22T06:07:19.706985+00:00",
-  "ad81142fbedab82e": "2026-11-22T06:38:01.736089+00:00"
+  "ad81142fbedab82e": "2026-11-22T06:38:01.736089+00:00",
+  "81aac8ea8029f555": "2026-11-22T06:53:25.049772+00:00",
+  "4ef4a2df8bf08d16": "2026-11-22T06:53:26.391442+00:00",
+  "51be5c27d02c620c": "2026-11-22T07:09:02.119104+00:00"
  },
  "recent": [
   {
@@ -8097,38 +8131,33 @@
    "status": "skipped",
    "ts": "2026-11-22T06:38:01.736191+00:00",
    "card_title": ""
+  },
+  {
+   "title": "Take-Two Estimates GTA VI Hit $3.79 Billion in Day-One Retail Sales",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T06:53:25.049892+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "“Feel the seriousness of your actions”: Rockstar explains GTA 6’s tougher police response",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T06:53:26.391565+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Разработчики GTA 6 рассказали о характере главного героя",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T07:09:02.119260+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
-  {
-   "item": {
-    "title": "GTA 6 Players Are Running Into NPCs Who Fight Back So Hard You Probably Should Just Leave Them Alone",
-    "link": "https://www.ign.com/articles/gta-6-players-are-running-into-npcs-who-fight-back-so-hard-you-probably-should-just-leave-them-alone",
-    "summary": "Just like in real life, there are some people you really shouldn’t mess with in GTA 6. It’s not always easy to tell at a glance either. Books, covers, and all that.",
-    "published": "2026-11-21T12:17:40+00:00",
-    "source": "IGN",
-    "site_name": "IGN",
-    "trust": "high",
-    "text": "Just like in real life, there are some people you really shouldn’t mess with in GTA 6. It’s not always easy to tell at a glance either. Books, covers, and all that.\nGTA 6 has a wild range of NPCs with unpredictable and unique behavior — you never know what you’re gonna get. Players have been documenting their adventures across Leonida and their interactions with the locals, and have come across the weird, the funny, and the downright scary.\nNot only do some NPCs fight back, but they fight hard and can take more punches to the head than Rocky. Some of them even bring little friends along to the throwdown.\nThe viral clip below, from @WIZZYGM, shows Lucia attempting to take someone’s car. Instead of allowing themselves to be dragged out, however, they got psyched up about having a tussle. They were into it.\nNot only did they take a ridiculous number of punches directly to the nose, but at one point they even gave Lucia some free shots. Then they banged some powder up their snout and Hulked out. He even took a gunshot straight to the head!\nNah this Npc’s got it 🔥🔥🔥 #GTAVI #GTA6 #ViceCity. https://t.co/KzQt4zJOsf— WIZZY🔫⚽️ (@WIZZYGM) November 20, 2026\n“I appreciate that the NPCs in this game act like true Floridians,” read one reply. “Bro said ‘I can run faster than you can drive’ nah son im turning the game off lmfaooooo,” said another.\nIn another clip, from @chrisdadeviant, Jason attempts to hijack a car but the person inside had a massive meltdown and started headbutting the steering wheel, honking the horn with each forehead slam. Eventually, she got out and threatened to stomp Jason’s teeth out of his head.\nJason ignored the temper tantrum and got in the car anyway, and she tried to pull him out before he drove away. Here’s the clip for that one:\n😭😭😭😭😭😭😭 https://t.co/LbY0AwEJbZ— chris (@chrisdadeviant) November 20, 2026\n“This is such a valid crashout lmaooooooooo,” said one fan. “Yea just let her keep the car, she clearly going through something,” another joked.\nOne clip going around is downright terrifying. The player, having found a sniper rifle at the top of a tower, wanted to test their aim. They looked through the scope at an NPC, took aim, and fired a shot directly at their chest.\nInstead of falling over, the NPC started walking towards the tower. Blood pooled on their clothing where the bullet landed, more shots rang out and landed right on target, and they kept coming, tucking their drinks under the arm and breaking into a full sprint.\nOn the way, ",
-    "extra": {
-     "image": "https://assets-prd.ignimgs.com/2026/11/21/gtavi-56-1795263173286.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "ОПАСНЫЕ NPC В GTA 6\n\nМестные жители в Леониде выдают такой лютый перформанс, что угонять тачки теперь реально страшно. Чел может схавать пачку ударов в лицо, внюхать порошок и пойти в атаку после пушки в голову. Рил флоридский вайб!\n\n❤️ — Лучше не трогать их\n👎 — Вынесу любого с вертухи",
-    "card_title": "БЕЗУМНЫЕ И ОПАСНЫЕ NPC",
-    "reason": "Игроки массово делятся безумными роликами с агрессивными NPC в GTA 6, которые дают мощный отпор.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "queued_at": "2026-11-21T18:51:44.582308+00:00"
-  },
   {
    "item": {
     "title": "Should you proceed or postpone when you meet Abe in the Protective Custody mission in GTA 6?",
@@ -8244,35 +8273,6 @@
     "model": "gemini:gemini-3.1-flash-lite"
    },
    "queued_at": "2026-11-21T22:05:15.684685+00:00"
-  },
-  {
-   "item": {
-    "title": "GTA 6 Players Hate Using ATMs: ‘Just Let Me Type In A Number!”",
-    "link": "https://kotaku.com/gta-6-players-hate-using-atms-just-let-me-type-in-a-number-2000759155",
-    "summary": "People don't like having to scroll a big number back and forth to deposit a specific amount",
-    "published": "2026-11-21T18:38:58+00:00",
-    "source": "Kotaku",
-    "site_name": "Kotaku",
-    "trust": "high",
-    "text": "Grand Theft Auto 6 is finally out on PlayStation and Xbox. So, I’ve been watching my friends play it, which has been a blast. And all of them are loving the game, but one annoying bit of the massive game that they all seem to hate is using ATMs. And it’s not just them. A lot of people online desperately want the ATMs improved in GTA 6.\nMoney plays a big part in Grand Theft Auto 6. And for much of the game’s runtime, you’ll be counting dollars carefully as you save what you can and spend cautiously. Part of this loop also involves putting loose cash into your bank account via ATMs. If you don’t do that, you can lose much of it when you die or get arrested. So it is important to put it into your bank and savings account. Yet, for some odd, confounding reason, Rockstar has made the act of depositing and withdrawing money from an ATM very annoying.\nIf you haven’t played GTA 6, you might just assume you go to an ATM and type in how much you want to take out or put in. Nope! Instead, you have to hold different shoulder buttons on the controller to scroll through how much you want to deposit or withdraw. And this scrolling function starts to speed up very quickly, often leading to me blowing past the amount I wanted and having to slowly scroll back, sometimes missing it again. It sucks!\n“I’m loving this game, but why can’t I just type in fucking number on the ATM, dude,” asked one of my friends in a PlayStation party chat last night. I had no good answer.\nOthers online are also confused and annoyed by the ATM controls.\n“This right here is my biggest gripe so far. Let me type in a number, JUST LIKE PUTTING JN THE STUPID CODES,” posted one user on Reddit. “I’m amazed more people aren’t pissed at using L1/R1 to withdraw/deposit. Like, just let me type it in,” said someone else. “1, 2, 3, 4, …10, 20, 30, … 300, 400, … 10 000, 20 000, 30 000! … Fuck… I just wanted to withdraw 500,” complained a GTA 6 player. “Dude, I spent straight up 2 minutes trying to withdraw [exactly] $900… It was so fucking annoying,” shared a user on the GTA 6 subreddit. “It blows my mind that something this small wasn’t implemented over the course of development. Them keeping the exact same system as Red Dead Redemption 2 is extremely flawed in a game like this; I would honestly prefer the ATM mechanics of GTA V over what we got in this game,” explained someone in a Reddit post titled: My biggest complaint with this game.\nThat last comment brings up a good point and one which makes this all th",
-    "extra": {
-     "image": "https://kotaku.com/app/uploads/2026/11/GTa-6-atm-1280x720.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "БАНКОМАТЫ В GTA 6 — БОЛЬ\n\nИгроки бесятся из-за убогой системы ввода суммы через бамперы на геймпаде. Вечный тильт, когда пролетаешь нужную цифру.\n\n❤️ — Жизза, задолбало\n👎 — Норм же всё",
-    "card_title": "БЕМОТ С БАНКОМАТАМИ В GTA 6",
-    "reason": "Игроки массово жалуются на неудобную механик банкоматов в GTA 6, это забавный и животрепещущий баг/фича.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "GTA 6 Players Hate Using ATMs: ‘Just Let Me Type In A Number!” — Google News (EN)",
-    "corroborated_by": "GTA 6 Players Hate Using ATMs: ‘Just Let Me Type In A Number!” — Google News (EN)",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "queued_at": "2026-11-21T18:51:31.016716+00:00"
   },
   {
    "item": {
@@ -8418,35 +8418,6 @@
     "model": "gemini:gemini-3.1-flash-lite"
    },
    "queued_at": "2026-11-21T21:01:53.566504+00:00"
-  },
-  {
-   "item": {
-    "title": "Could This Major GTA VI Leak Make It Playable On PC?",
-    "link": "https://rockstarintel.com/could-this-major-gta-vi-leak-make-it-playable-on-pc/",
-    "summary": "CyberLeek has reportedly uploaded more than 200 GB of GTA VI XBOX game files online, but there is still one important file missing from the release: the main executable. The files first appeared online on November 19, shortly after GTA VI’s launch. The package reportedly contains a large portion of the game’s Xbox development files, [...] The post Could This Major GTA VI Leak Make It Playable On PC? appeared first on RockstarINTEL .",
-    "published": "2026-11-21T13:35:08+00:00",
-    "source": "Rockstar Intel",
-    "site_name": "Rockstar Intel",
-    "trust": "medium",
-    "text": "CyberLeek has reportedly uploaded more than 200 GB of GTA VI XBOX game files online, but there is still one important file missing from the release: the main executable.\nThe files first appeared online on November 19, shortly after GTA VI’s launch. The package reportedly contains a large portion of the game’s Xbox development files, but without the executable, users cannot properly access or run the game.\nAccording to Rockstar Games community researcher Lucas7yoshi, the uploaded files are indeed from an XBOX build of GTA VI. However, he pointed out that this is an older version of the game, as it does not even include the separate censorship version for Australia and New Zealand.\nMore importantly, the game’s assets are encrypted with a key obtained from the main executable. This means that simply downloading the files is not enough to access their contents.\nCyberLeek Promises to Release the Missing EXE\nCyberLeek initially announced that the missing executable would be released on November 23, regardless of whether its cryptocurrency reached a certain market value.\nHowever, the group also introduced a condition that could make the release happen earlier. The original target was a $15 million market cap for its CYBERLEEK token. This requirement has since reportedly been lowered to $6 million.\nAccording to GTA community member PLTytus, the token currently has a market cap of around $1.44 million. He also reminded followers that CyberLeek had promised to release the executable once its poll ends on Monday at 6 PM CET, even if the market cap target is not reached.\nThis means November 23 could be an important date for anyone following the situation, although there is still no independent confirmation that the missing file will actually be released as promised.\nOne of CyberLeek’s biggest claims is that the community could get the XBOX build running on PC within a week, potentially achieving performance above 30 FPS. However, this is far from guaranteed.\nThe uploaded files are from an XBOX version of GTA VI, not a native PC build. Even if the missing executable becomes available, getting the game running on PC would require additional work from developers and the emulation community.\nFor now, there is no confirmed playable PC version coming from this leak, and Rockstar Games has not announced a PC release date. It is also worth remembering that the authenticity and completeness of the entire package have not been independently established.\nWe will have to wait and",
-    "extra": {
-     "image": "https://rockstarintel.com/wp-content/uploads/2026/11/image-9.png"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "ХАКЕРЫ СЛИЛИ БИЛД\n\nГруппа CyberLeek выложила 200 ГБ файлов Xbox-версии GTA 6, но без главного .exe файла запустить это всё равно анрил. Пытаются продвинуть свой токен ради хайпа, но рил ли они дропнут экзешник — вопрос открытый.",
-    "card_title": "ХАКЕРЫ СЛИЛИ ФАЙЛЫ GTA 6",
-    "reason": "Новость о хакерах CyberLeek и слитых файлах Xbox-версии GTA 6",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "queued_at": "2026-11-21T18:51:42.171839+00:00"
   },
   {
    "item": {
@@ -8709,7 +8680,9 @@
     "guide": false,
     "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-3.5-flash"
    },
-   "queued_at": "2026-11-22T06:07:17.005338+00:00"
+   "queued_at": "2026-11-22T06:07:17.005338+00:00",
+   "moderation": "pending",
+   "draft_msg_id": 70
   },
   {
    "item": {
@@ -8916,33 +8889,6 @@
   },
   {
    "item": {
-    "title": "GTA 6: How To Get A Rhino Tank (Challenging Tank)",
-    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZVA5T0lKZkdsM1JEdzV6MUl3eDUxZHJVSVpUb2FxZVhJazg3WjVZb29PaWlidHJzcWRmU1ZSX2FlTm9NSm5ORDV6WEhCdmt0VExfQThzOGp4bnpMak9nVUVfb0VRMDFPQl9rMEZ5bHVpcktYeDBTaUNheDZqNWduenlR?oc=5",
-    "summary": "GTA 6: How To Get A Rhino Tank (Challenging Tank) Cultured Vultures",
-    "published": "2026-11-21T18:26:39+00:00",
-    "source": "Google News (EN)",
-    "site_name": "Cultured Vultures",
-    "trust": "rumor",
-    "text": "GTA 6: How To Get A Rhino Tank (Challenging Tank) Cultured Vultures",
-    "extra": {}
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "🗺 Гайд: Как раздобыть танк RHINO\n\nЗахотели устроить лютый хаос на улицах Вайс-Сити? Ловите инструкцию, как угнать военную технику без лишних нервов и смски в службу спасения.",
-    "card_title": "КАК ПОЛУЧИТЬ ТАНК RHINO",
-    "reason": "Гайд по получению танка Rhino в вышедшей GTA 6",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": true,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "queued_at": "2026-11-21T19:07:22.155363+00:00"
-  },
-  {
-   "item": {
     "title": "Here's the La Cascara Motel safe code in GTA 6",
     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSmozTXRKVFkySUlXbno0bGx4UjRCbkc4OEl0R0kzbzV0UUpRUkdBT3RZbEJlbU1MeEhXMl9aRG1yQjNISFJ5SkFVLVVnMjNya1I2S2hjdVV6WFB2b0tOcEt4RzBPeW9sd2lCc04ycHBvOFJJbTdFSHhwLXo3Vm8yb3BHTWI4dlE?oc=5",
     "summary": "Here's the La Cascara Motel safe code in GTA 6 PC Gamer",
@@ -9042,7 +8988,8 @@
   "2026-11-21T19:47:16.582738+00:00",
   "2026-11-21T20:14:20.243151+00:00",
   "2026-11-21T21:14:52.573643+00:00",
-  "2026-11-22T06:00:17.061585+00:00"
+  "2026-11-22T06:00:17.061585+00:00",
+  "2026-11-22T07:01:07.973868+00:00"
  ],
  "slots_sent": {
   "2026-11-21:guide:1": "2026-11-21T21:14:52.573728+00:00"
@@ -9052,7 +8999,38 @@
   "2026-11-20T10:35:40.883618+00:00",
   "2026-11-21T20:14:20.243248+00:00"
  ],
- "clips": [],
+ "clips": [
+  {
+   "clip": {
+    "source": "twitch",
+    "url": "https://www.twitch.tv/joe_bartolozzi/clip/MagnificentCoweringYogurtRickroll-DOtt8E5gX7IYT3Cf",
+    "title": "joe bart becomes a true florida man",
+    "author": "Joe_Bartolozzi",
+    "views": 2478,
+    "duration": 28.0,
+    "created": "2026-11-21T22:25:30+00:00",
+    "lang": "en",
+    "description": "",
+    "vod_id": "2936368149",
+    "vod_offset": 15258.0
+   },
+   "caption": "Завезли интерактив: в GTA 6 можно подобрать мёртвого голубя и подсовывать его прохожим 💀 Мелочи мира — просто база",
+   "interest": 7,
+   "spoiler": false,
+   "nsfw": false,
+   "watched": true,
+   "model": "gemini:gemini-3.5-flash",
+   "media": {
+    "width": null,
+    "height": 720,
+    "duration": 28
+   },
+   "queued_at": "2026-11-22T07:07:04.829581+00:00",
+   "file_id": "BAACAgIAAxkDAANHawKUmiGwv84SY_T_IjR6n_TteoQAAnKoAAKnJxFIH_AMRSIQ9j49BA",
+   "moderation": "pending",
+   "draft_msg_id": 71
+  }
+ ],
  "clip_drafts": [
   "2026-11-20T09:18:13.478034+00:00",
   "2026-11-20T10:28:47.352690+00:00",
@@ -9065,7 +9043,8 @@
   "2026-11-21T18:21:29.947000+00:00",
   "2026-11-21T19:28:30.522835+00:00",
   "2026-11-21T20:33:27.995353+00:00",
-  "2026-11-21T21:38:25.673953+00:00"
+  "2026-11-21T21:38:25.673953+00:00",
+  "2026-11-22T07:07:06.857669+00:00"
  ],
  "clip_history": [
   {
@@ -12738,6 +12717,243 @@
    "ts": "2026-11-21T21:38:25.673968+00:00",
    "frames": [],
    "caption": "СПОЙЛЕР. Чел решил выйти из тачки с пушкой прямо перед копами — ласт его ошибка 💀 Вот это разнос, кринжанул знатно!"
+  },
+  {
+   "author": "youtube:cheri's world",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA6 jruri hai😂| Wait for the Epic end#comedy #chetanmonga #shorts #gta6",
+   "drafted": false,
+   "ts": "2026-11-22T07:00:10.912635+00:00"
+  },
+  {
+   "author": "youtube:gta6‑狂野世界",
+   "vod": "",
+   "offset": -1,
+   "title": "他们为什么要阻止他#gta  #gta6  #shorts",
+   "drafted": false,
+   "ts": "2026-11-22T07:00:11.804901+00:00"
+  },
+  {
+   "author": "youtube:جيمنج على السريع",
+   "vod": "",
+   "offset": -1,
+   "title": "لو شوفت الراجل ده ابعد عنه ولا هتندم في GTA 6 ! 😮",
+   "drafted": false,
+   "ts": "2026-11-22T07:00:12.575345+00:00"
+  },
+  {
+   "author": "youtube:theburntpeanut",
+   "vod": "",
+   "offset": -1,
+   "title": "🔴LIVE | GTA 6 | DAY 4 | BIGFOOT, ALIENS & BUGATTIS | WE RIDE FOR RANDY | #BUNGULATE",
+   "drafted": false,
+   "ts": "2026-11-22T07:00:13.380226+00:00"
+  },
+  {
+   "author": "youtube: grizzly",
+   "vod": "",
+   "offset": -1,
+   "title": "'Gta 6 good ending' Don't cry watching this... 🥹💔 #gta5 #gtav #edit",
+   "drafted": false,
+   "ts": "2026-11-22T07:01:08.000524+00:00"
+  },
+  {
+   "author": "youtube:gothamchess",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 LORE",
+   "drafted": false,
+   "ts": "2026-11-22T07:01:08.843817+00:00"
+  },
+  {
+   "author": "youtube:𝑨𝑺𝑹 𝑨𝒓𝒕𝑿",
+   "vod": "",
+   "offset": -1,
+   "title": "I turned GTA 6 Characters into LEGO and Minecraft in Procreate #shorts #gta6",
+   "drafted": false,
+   "ts": "2026-11-22T07:01:09.615496+00:00"
+  },
+  {
+   "author": "youtube:dimucc",
+   "vod": "",
+   "offset": -1,
+   "title": "POV: Getting Interrupted Playing GTA 6...",
+   "drafted": false,
+   "ts": "2026-11-22T07:01:10.480789+00:00"
+  },
+  {
+   "author": "youtube:zehn em",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 vs. GTA 5 CAR MIRROR DAMAGE LOGIC!💥🚘#shorts #gta #gta6",
+   "drafted": false,
+   "ts": "2026-11-22T07:02:01.413758+00:00"
+  },
+  {
+   "author": "youtube:ravi shorts ",
+   "vod": "",
+   "offset": -1,
+   "title": "Gangnam styleTrend | VICE CITY | GTA 6 GAMEPLAY #shorts #viral",
+   "drafted": false,
+   "ts": "2026-11-22T07:02:02.152675+00:00"
+  },
+  {
+   "author": "youtube:facttechz",
+   "vod": "",
+   "offset": -1,
+   "title": "Indians Again At TOP!! ₹18,000 Crore GTA 6 Game Has HUGE Secret #shorts",
+   "drafted": false,
+   "ts": "2026-11-22T07:02:03.009365+00:00"
+  },
+  {
+   "author": "youtube:studio ci",
+   "vod": "",
+   "offset": -1,
+   "title": "Coisas Do GTA 6 Que Você NÃO Percebeu",
+   "drafted": false,
+   "ts": "2026-11-22T07:02:03.873217+00:00"
+  },
+  {
+   "author": "youtube:badai",
+   "vod": "",
+   "offset": -1,
+   "title": "พัง Ps5 ตอนนับถอยหลังเล่น GTA 6 #BadAi #gta6 Original clip : zolard.ofc",
+   "drafted": false,
+   "ts": "2026-11-22T07:02:54.832896+00:00"
+  },
+  {
+   "author": "youtube:nertical",
+   "vod": "",
+   "offset": -1,
+   "title": "nyamar jason GTA 6 🗿",
+   "drafted": false,
+   "ts": "2026-11-22T07:02:55.540858+00:00"
+  },
+  {
+   "author": "youtube:abdullah reviews",
+   "vod": "",
+   "offset": -1,
+   "title": "التفاصيل في قراند 6 وصلت مستوى ثاني!",
+   "drafted": false,
+   "ts": "2026-11-22T07:02:56.227706+00:00"
+  },
+  {
+   "author": "youtube:cellbit lives",
+   "vod": "",
+   "offset": -1,
+   "title": "CELLBIT JOGANDO GTA 6 COMO NUNCA VISTO ANTES",
+   "drafted": false,
+   "ts": "2026-11-22T07:02:56.961601+00:00"
+  },
+  {
+   "author": "youtube:phzin7 lives",
+   "vod": "",
+   "offset": -1,
+   "title": "🔴 LIVE! - HOJE TEM GUERRA DE GUILDAS E GTA 6 DIA 04 - PHZIN7 LIVE ON FREE FIRE 🔴",
+   "drafted": false,
+   "ts": "2026-11-22T07:03:47.862154+00:00"
+  },
+  {
+   "author": "youtube:aben",
+   "vod": "",
+   "offset": -1,
+   "title": "TÔI LÀ JASON BEN GTA6...",
+   "drafted": false,
+   "ts": "2026-11-22T07:03:48.606457+00:00"
+  },
+  {
+   "author": "youtube:typical gamer",
+   "vod": "",
+   "offset": -1,
+   "title": "[WARNING] Don’t Be a Furry in GTA 6",
+   "drafted": false,
+   "ts": "2026-11-22T07:03:49.360096+00:00"
+  },
+  {
+   "author": "youtube:the useless cousin",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA VI 😀😀#shorts #ytshorts #GTA6 #GTAVI #game",
+   "drafted": false,
+   "ts": "2026-11-22T07:03:50.120787+00:00"
+  },
+  {
+   "author": "youtube:piyush rajasthani vlogs ",
+   "vod": "",
+   "offset": -1,
+   "title": "Originally priced as a gaming masterpiece, GTA 6 is one of the most anticipated games ever!",
+   "drafted": false,
+   "ts": "2026-11-22T07:04:41.225371+00:00"
+  },
+  {
+   "author": "youtube:wynnsanity",
+   "vod": "",
+   "offset": -1,
+   "title": "🔴 GTA 6 LIVE GAMEPLAY 60 FPS - WORLD PREMIERE PART 4 - PS5 PRO",
+   "drafted": false,
+   "ts": "2026-11-22T07:04:41.967999+00:00"
+  },
+  {
+   "author": "youtube:the gamer's canvas",
+   "vod": "",
+   "offset": -1,
+   "title": "\"Freeing the Orca\" goes horribly wrong 🤣💔 #gta6 #gta6release #gaming #gameplay #shorts",
+   "drafted": false,
+   "ts": "2026-11-22T07:04:42.856633+00:00"
+  },
+  {
+   "author": "youtube:mvcxgta",
+   "vod": "",
+   "offset": -1,
+   "title": "10 Spider-Men vs Team Goblin part1 #shorts #gta5 #spiderman #superhero #gta6 #game",
+   "drafted": false,
+   "ts": "2026-11-22T07:04:43.707432+00:00"
+  },
+  {
+   "author": "youtube:fako",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 GYM !  #gta6 #gta #gtavi #gta5 #gameplay #games",
+   "drafted": false,
+   "ts": "2026-11-22T07:05:34.827472+00:00"
+  },
+  {
+   "author": "twitch:ludwig",
+   "vod": "2936392772",
+   "offset": 11673.0,
+   "title": "Lud after he got his higlights D:",
+   "drafted": false,
+   "ts": "2026-11-22T07:05:35.551609+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:woolieversus",
+   "vod": "2936501633",
+   "offset": 4392.0,
+   "title": "QA POWERRR",
+   "drafted": false,
+   "ts": "2026-11-22T07:06:42.989705+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:joe_bartolozzi",
+   "vod": "2936368149",
+   "offset": 15258.0,
+   "title": "joe bart becomes a true florida man",
+   "drafted": false,
+   "ts": "2026-11-22T07:06:56.282378+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:joe_bartolozzi",
+   "vod": "2936368149",
+   "offset": 15258.0,
+   "title": "joe bart becomes a true florida man",
+   "drafted": true,
+   "ts": "2026-11-22T07:07:06.857690+00:00",
+   "frames": [],
+   "caption": "Завезли интерактив: в GTA 6 можно подобрать мёртвого голубя и подсовывать его прохожим 💀 Мелочи мира — просто база"
   }
  ],
  "published": [
