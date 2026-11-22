@@ -2166,7 +2166,17 @@
   "521c8078365ba11b": "2026-11-22T15:09:39.565442+00:00",
   "161a593c0b317e81": "2026-11-22T15:25:08.701406+00:00",
   "4733eb2f45215671": "2026-11-22T15:25:17.237241+00:00",
-  "fffba3e443b6a1bd": "2026-11-22T15:25:27.137873+00:00"
+  "fffba3e443b6a1bd": "2026-11-22T15:25:27.137873+00:00",
+  "009943a11580f3c8": "2026-11-22T15:40:48.305990+00:00",
+  "d94e4c66c053139c": "2026-11-22T15:40:48.312062+00:00",
+  "fd3c7ff33cf6ce8f": "2026-11-22T15:40:48.363813+00:00",
+  "d57b300ea1df3382": "2026-11-22T15:40:59.716825+00:00",
+  "c31afaca530c2ab4": "2026-11-22T15:41:01.709388+00:00",
+  "dbe25a9a63b71afc": "2026-11-22T15:41:02.954404+00:00",
+  "a1c2427b403fb9fe": "2026-11-22T15:41:18.152120+00:00",
+  "3dc65fd4ca3434df": "2026-11-22T15:56:47.110637+00:00",
+  "1f24da4b81d6d277": "2026-11-22T15:56:51.289442+00:00",
+  "4e545a893ffd194e": "2026-11-22T15:56:52.829601+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -3623,7 +3633,16 @@
   "e37e9220b4a9a526": "2026-11-22T15:09:39.565442+00:00",
   "843a732314cda575": "2026-11-22T15:25:08.701406+00:00",
   "56ff7a02bd2749d6": "2026-11-22T15:25:17.237241+00:00",
-  "b340f93a31e64f37": "2026-11-22T15:25:27.137873+00:00"
+  "b340f93a31e64f37": "2026-11-22T15:25:27.137873+00:00",
+  "cce0446230fc508b": "2026-11-22T15:40:59.716825+00:00",
+  "a7cf8861292532de": "2026-11-22T15:40:48.312062+00:00",
+  "bc680cd6b1cec3ae": "2026-11-22T15:40:48.363813+00:00",
+  "049cd9d642fe0a87": "2026-11-22T15:41:01.709388+00:00",
+  "3c239a1bdf84d72f": "2026-11-22T15:41:02.954404+00:00",
+  "cc51dabb17781a25": "2026-11-22T15:41:18.152120+00:00",
+  "0087ba002da69952": "2026-11-22T15:56:47.110637+00:00",
+  "54823d3518518690": "2026-11-22T15:56:51.289442+00:00",
+  "c5ed1ef743fe8a37": "2026-11-22T15:56:52.829601+00:00"
  },
  "recent": [
   {
@@ -9393,6 +9412,86 @@
    "status": "skipped",
    "ts": "2026-11-22T15:25:27.137989+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GTA 6 Parody In Binding of Isaac Used AI Without Creator's Knowledge",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-22T15:40:48.306024+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Where to find the Fast & Furious Mitsubishi Eclipse in GTA 6",
+   "source": "Polygon",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-22T15:40:48.312097+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6: How To Do the First-Person Glitch (PS5 & Xbox)",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-22T15:40:48.363868+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Parody In Binding of Isaac Used AI Without Creator's Knowledge",
+   "source": "Polygon",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-22T15:41:00.484954+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6's Record Opening Sales Rewrite Entertainment History",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T15:41:01.709540+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Перелёт через всю карту GTA 6 на гидросамолёте занял 4 минуты 18 секунд",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T15:41:02.954555+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6’s Red Dead Redemption Easter Egg Is a Subtle Nod to Arthur Morgan",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T15:41:18.152266+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Моддер показал GTA 6 с DLSS 5 в 60 FPS от первого лица",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T15:56:47.110754+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "\"GTA VI\" Festival: best performances and highlights",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T15:56:51.289577+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI wants you to get WASTED... by sliding under a semi and dying. BRUTAL 💀 Writer: Marie",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T15:56:52.829747+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -9575,35 +9674,6 @@
    "queued_at": "2026-11-22T10:35:54.659126+00:00",
    "moderation": "pending",
    "draft_msg_id": 78
-  },
-  {
-   "item": {
-    "title": "Найдена настоящая девушка с обложки GTA VI — модель подтвердила участие в проекте",
-    "link": "https://ixbt.games/news/2026/11/22/naidena-nastoiashhaia-devuska-s-oblozki-gta-vi-model-podtverdila-ucastie-v-proekte.html",
-    "summary": "Предыдущая теория не подтвердилась.",
-    "published": "2026-11-22T02:42:00+00:00",
-    "source": "iXBT.games",
-    "site_name": "iXBT.games",
-    "trust": "medium",
-    "text": "Недавно состоялся релиз Grand Theft Auto VI и спало действие NDA (соглашения о неразглашении). Игроки наконец смогли узнать, кто на самом деле стал прототипом девушки в обложки.\nЛетом, когда Rockstar Games опубликовала обложки GTA VI, многие предположили, что её роль исполнила модель и диджей Габриэла Чикин (Gabriela Chiquin) — внешне они действительно были очень похожи:\nОднако на самом деле девушкой с обложки является нью-йоркская модель. Саби Гарсия (Sabii Garcia) официально подтвердила своё участие в проекте, тем самым опровергнув популярную теорию.\nДевушка поблагодарила директора по кастингу Rockstar Games Кали Элизабет Мур (Cali Elizabeth Moore):\nСпасибо за то, что нашла меня и дала мне эту возможность!! Я всё ещё не могу поверить, что это по-настоящему — я буду благодарна тебе вечно!\nЗато недавно подтвердилась фанатская теория по поводу актрисы Лусии — её действительно сыграла Манни Л. Перес (Manni L. Perez).\nСейчас Grand Theft Auto VI доступна только на консолях PlayStation 5 и Xbox Series X|S. ПК-версию игры пока не анонсировали.\nНе пропускайте наши новостиДобавьте сайт в предпочитаемые источники, чтобы видеть нас чащеДобавить в Google",
-    "extra": {
-     "image": "https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1744801/media-664894e4a33ce1b310b031428cc3ce01c885b7859965fddd809110534d5fefe4.png"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "😍 Найдена НАСТОЯЩАЯ девушка с арт-обложки GTA 6\n\nФанатские теории в тильте: обложку рисовали не с диджея Габриэлы Чикин. Модель Саби Гарсия официально подтвердила, что снялась для арта, как только спал NDA. Красота!",
-    "card_title": "ТА САМАЯ ДЕВУШКА С ОБЛОЖКИ",
-    "reason": "Model Sabii Garcia confirmed she is the face on the GTA 6 cover, debunking previous theories.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-3.5-flash"
-   },
-   "queued_at": "2026-11-22T03:27:51.881887+00:00"
   },
   {
    "item": {
