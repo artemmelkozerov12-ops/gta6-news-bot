@@ -2319,7 +2319,25 @@
   "a4f0c09b859d2177": "2026-11-22T19:29:00.726041+00:00",
   "ef8e5499079519e3": "2026-11-22T19:29:01.494907+00:00",
   "0b51d2704d7e0ef8": "2026-11-22T19:29:02.355613+00:00",
-  "bb60d4361857f134": "2026-11-22T19:29:03.275178+00:00"
+  "bb60d4361857f134": "2026-11-22T19:29:03.275178+00:00",
+  "c956f6ba7977d4b5": "2026-11-22T19:29:56.065605+00:00",
+  "2fa7a47dbc40cc7b": "2026-11-22T19:29:56.891983+00:00",
+  "3a0b81aa7b33fc5b": "2026-11-22T19:29:57.873766+00:00",
+  "8e708215d15109cd": "2026-11-22T19:29:58.883736+00:00",
+  "ab532ca47df1b487": "2026-11-22T19:30:49.837624+00:00",
+  "3ef99353f388c59c": "2026-11-22T19:30:50.589197+00:00",
+  "73c9f8afcb79f969": "2026-11-22T19:30:51.465364+00:00",
+  "6b8d5bf304974b8d": "2026-11-22T19:30:57.698843+00:00",
+  "162c38ea26e0e3cd": "2026-11-22T19:31:51.184439+00:00",
+  "ab9080464f7a3de6": "2026-11-22T19:32:14.890158+00:00",
+  "3f9e751629f64c8a": "2026-11-22T19:32:22.830286+00:00",
+  "8c5128c185f5f85d": "2026-11-22T19:44:29.083318+00:00",
+  "bec1d2508f35f7a0": "2026-11-22T19:44:31.367286+00:00",
+  "43603b542bd3943a": "2026-11-22T19:44:47.047149+00:00",
+  "72756e6ad0c077fb": "2026-11-22T19:46:07.253462+00:00",
+  "fe361d1661c370de": "2026-11-22T19:46:08.011544+00:00",
+  "0b2b472d14696d18": "2026-11-22T19:46:08.884680+00:00",
+  "334a7c491034125b": "2026-11-22T19:46:10.157758+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -3897,7 +3915,14 @@
   "b41838c314e0bbdf": "2026-11-22T19:27:26.480468+00:00",
   "4161bde13edcce51": "2026-11-22T19:28:07.647568+00:00",
   "200245bd8a709e74": "2026-11-22T19:28:34.837916+00:00",
-  "c5dbe992c9270384": "2026-11-22T19:28:57.158611+00:00"
+  "c5dbe992c9270384": "2026-11-22T19:28:57.158611+00:00",
+  "15b1c945ce0199bc": "2026-11-22T19:44:29.083318+00:00",
+  "6b6fdfa5f6ed3bb9": "2026-11-22T19:44:31.367286+00:00",
+  "f7eb4e677b07d727": "2026-11-22T19:44:47.047149+00:00",
+  "63a0b3af97eadb7d": "2026-11-22T19:46:07.253462+00:00",
+  "e2540f02bd65fd49": "2026-11-22T19:46:08.011544+00:00",
+  "4953a9a5d00026cf": "2026-11-22T19:46:08.884680+00:00",
+  "5dfa6588152bf2a8": "2026-11-22T19:46:10.157758+00:00"
  },
  "recent": [
   {
@@ -10371,6 +10396,62 @@
    "status": "skipped",
    "ts": "2026-11-22T19:28:57.158758+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GTA 6: Arthur Morgan’s hat location from Red Dead Redemption 2",
+   "source": "VGC",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-22T19:44:29.834647+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "'GTA 6' Bombshell: Husband Melts Down After Wife Hid Her Role In Game For Years",
+   "source": "Polygon",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-22T19:44:44.256077+00:00",
+   "card_title": "ТАЙНА ОТ МУЖА РАДИ GTA 6"
+  },
+  {
+   "title": "Создатели Escape from Tarkov отпраздновали релиз GTA VI кроссовером — показали сцену с тонущим Томми Версетти и бензопилой",
+   "source": "iXBT.games",
+   "trust": "medium",
+   "status": "queued",
+   "ts": "2026-11-22T19:46:05.161349+00:00",
+   "card_title": "ТАРКОВ ПОЗДРАВИЛ GTA 6"
+  },
+  {
+   "title": "5 GTA 6 Driving Tips And Tricks To Make Getting Around Easier",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T19:46:07.253609+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "CD Projekt RED не будет копировать GTA 6 в Cyberpunk 2",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T19:46:08.011693+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Gym, Sim Racing, and GTA VI: Esteban Ocon Shares Life Update After Haas Exit",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T19:46:08.884847+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Нелинейная динамика отношений усложнила интимные сцены в GTA VI",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T19:46:10.157916+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -10521,6 +10602,35 @@
   },
   {
    "item": {
+    "title": "'GTA 6' Bombshell: Husband Melts Down After Wife Hid Her Role In Game For Years",
+    "link": "https://www.polygon.com/gta-6-amber-wallin-comedian-instagram-npc-voice-actor-husband-secret/",
+    "summary": "A long-kept GTA 6 secret low-key almost destroyed comedian Amber Wallin's marriage.",
+    "published": "2026-11-22T19:32:30+00:00",
+    "source": "Polygon",
+    "site_name": "Polygon",
+    "trust": "high",
+    "text": "The gaming industry is notoriously secretive, and that's doubly true for anything related to Grand Theft Auto 6. Rockstar Games kept much of the game tightly under wraps, including one of the title's biggest secrets — a remarkable feat when you consider how much of the game leaked prior to launch. All of this might be true, but it didn't take the sting out of one husband's recent discovery about his wife's work on the record-breaking open-world title.\nAmber Wallin is a comedian who voices several non-playable characters in GTA 6. Wallin's voice can be heard during an early segment of the game where Lucia is notified she will be allowed to carry out her sentence via a quasi-home arrest program. Wallin appears in a few other roles throughout the game, such as a character who roasts Jason after he harasses her.\nGiven her profession, it's no surprise that Wallin's characters are a hoot. \"Motherfucker wanna clock out soon when shit gets real,\" she says via the aggravated NPC. \"Clock in, ho. Time is money!\"\nWhile Wallin's various roles are minor, the game is already the biggest entertainment launch of all time, meaning anyone who can say they were involved in its creation has much to brag about. So, imagine the surprise of Wallin's husband when he learned she was in the game like any other player. According to a video the couple recently posted on social media, Wallin apparently kept her involvement in the game a total secret from even her husband for two years.\n\"NDAs do not apply to husbands,\" Wallin's partner screams. The video is not entirely serious — at one point, Wallin suggests Rockstar Games could assassinate her for talking about it even now. The clip was obviously planned beforehand and is staged to look like a dramatic segment in a reality TV show as well. Yet the feelings expressed in it, and Wallin's tight-lipped approach to her work, appear to be 100% genuine.\nPerhaps the most ironic part is that Wallin has a video where she playfully describes her relationship with her husband. In it, she describes a time during pregnancy where she took care of a handful of tedious house chores. When she was finished, she wanted to treat herself with a pint of ice cream — but when she opened the fridge, all she found was an empty carton. On top of not throwing it out, the husband evidently did not even bother to put the ice cream back in the freezer.\nGiven GTA 6's focus on relationships and how much it encourages men to be thoughtful partners, perhaps playing thro",
+    "extra": {
+     "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/grand-theft-auto-6-jason-and-lucia-motorcycles.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "Актриса 2 года СКРЫВАЛА роль в GTA 6 от собственного мужа 🤫\n\nКомедиантка Эмбер Уоллин озвучила нескольких NPC в игре, включая сцену с Люсией в начале сюжета, но из-за жесткого NDA от Rockstar не сказала благоверному ни слова. Чел узнал обо всем только на релизе, включив игру, и словил лютый тильт от такой секретности.\n\n❤️ — Уровень дисциплины просто база!\n👎 — Кринж, от мужа скрывать перебор",
+    "card_title": "ТАЙНА ОТ МУЖА РАДИ GTA 6",
+    "reason": "Забавная история о том, как актриса озвучки два года скрывала от мужа участие в GTA 6.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-3.8-flash"
+   },
+   "queued_at": "2026-11-22T19:44:44.256067+00:00"
+  },
+  {
+   "item": {
     "title": "How to get a GTA 6 Rhino tank and become virtually indestructible",
     "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-tank-rhino/",
     "summary": "There are rows of GTA 6 tanks waiting to be liberated right from the start of the game, to earn the Challenging Tank award",
@@ -10667,6 +10777,35 @@
    "queued_at": "2026-11-22T10:35:54.659126+00:00",
    "moderation": "pending",
    "draft_msg_id": 78
+  },
+  {
+   "item": {
+    "title": "Создатели Escape from Tarkov отпраздновали релиз GTA VI кроссовером — показали сцену с тонущим Томми Версетти и бензопилой",
+    "link": "https://ixbt.games/news/2026/11/22/sozdateli-escape-from-tarkov-otprazdnovali-reliz-gta-vi-krossoverom-pokazali-scenu-s-tonushhim-tommi-versetti-i-benzopiloi.html",
+    "summary": "В Таркове некоторые тоже не умеют плавать.",
+    "published": "2026-11-22T19:26:00+00:00",
+    "source": "iXBT.games",
+    "site_name": "iXBT.games",
+    "trust": "medium",
+    "text": "В Таркове некоторые тоже не умеют плавать.\nВ ноябре на консолях состоялся релиз Grand Theft Auto VI. Мимо такого события не прошла и команда разработчиков одного известного extraction-шутера.\nАвторы Escape from Tarkov иногда отмечают запуск некоторых проектов специфическими роликами-кроссоверами. В честь выхода GTA VI студия Battlestate Games опубликовала видео, в котором по сюжету тарковский аналог Томми Версетти из GTA: Vice City берёт в руки бензопилу и отправляется разбираться с местным «Сонни».\nОднако на пути героя возникает препятствие в виде бассейна — после неудачного прыжка «Томми» тонет с характерной анимацией.\nЭта сценка отсылает к одной миссий из GTA: Vice City — Treacherous Swine (или «Подлая свинья»), тогда по сюжету главный герой тоже получает бензопилу, но ему надо разобраться с другим персонажем. В GTA у Томми Версетти всё получилось иначе.\nРанее в этом месяце авторы Escape from Tarkov запустили в честь релиза Grand Theft Auto VI специальную Twitch Drops-кампанию, в ходе которой игроки за просмотр стримов могли получить комплекты со снаряжением, а также одежду для ЧВК, выполненную в стиле Vice City. Эта кампания продлится до 23 ноября, 18:00 МСК.\nНе пропускайте наши новостиДобавьте сайт в предпочитаемые источники, чтобы видеть нас чащеДобавить в Google",
+    "extra": {
+     "image": "https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1745096/media-001898e6c436c44239302606ad620d6edaed4a017f627062969a6e6ffed7c984.png"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "БЕНЗОПИЛА и бассейн: кроссовер от авторов Таркова 🪚\n\nСоздатели Escape from Tarkov эпично поздравили Rockstar с релизом. В ролике местный клон Томми Версетти пошёл на дело с бензопилой, но прыгнул в бассейн и по старой памяти сразу пошёл ко дну. Чистый рофл и база!",
+    "card_title": "ТАРКОВ ПОЗДРАВИЛ GTA 6",
+    "reason": "Разработчики Escape from Tarkov сделали крутой кроссовер в честь релиза GTA 6",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-3.7-flash"
+   },
+   "queued_at": "2026-11-22T19:46:05.161338+00:00"
   },
   {
    "item": {
@@ -10913,7 +11052,38 @@
  "urgent": [
   "2026-11-21T20:14:20.243248+00:00"
  ],
- "clips": [],
+ "clips": [
+  {
+   "clip": {
+    "source": "twitch",
+    "url": "https://www.twitch.tv/rijom/clip/BloodyUglyPeppermintRuleFive-D7RDS78zUnaJhwCR",
+    "title": "работа по яйцам",
+    "author": "rijom",
+    "views": 1251,
+    "duration": 29.5,
+    "created": "2026-11-21T19:55:02+00:00",
+    "lang": "ru",
+    "description": "",
+    "vod_id": "2936114316",
+    "vod_offset": 22177.0
+   },
+   "caption": "🔞 Полный разнос на нудистском пляже: Лусия устроила замес с голыми NPC, и они все полезли драться 💀 Ору с этой физики",
+   "interest": 9,
+   "spoiler": false,
+   "nsfw": true,
+   "watched": true,
+   "model": "gemini:gemini-3.5-flash-lite",
+   "media": {
+    "width": null,
+    "height": 720,
+    "duration": 29
+   },
+   "queued_at": "2026-11-22T19:32:30.445567+00:00",
+   "file_id": "BAACAgIAAxkDAANaawNDTwFQZALCLJXpWu0AAWv9ER50AAKgtAACpycZSPSkpLFTnnxYPQQ",
+   "moderation": "pending",
+   "draft_msg_id": 90
+  }
+ ],
  "clip_drafts": [
   "2026-11-20T18:12:30.979974+00:00",
   "2026-11-20T19:41:54.206032+00:00",
@@ -10930,7 +11100,8 @@
   "2026-11-22T10:17:37.834870+00:00",
   "2026-11-22T11:30:53.650853+00:00",
   "2026-11-22T12:57:11.614114+00:00",
-  "2026-11-22T18:27:42.489518+00:00"
+  "2026-11-22T18:27:42.489518+00:00",
+  "2026-11-22T19:32:31.903053+00:00"
  ],
  "clip_history": [
   {
@@ -15747,6 +15918,109 @@
    "title": "IShowSpeed GTA 6 khatam karne wala pehla insaan NAHI tha 😳",
    "drafted": false,
    "ts": "2026-11-22T19:29:03.275234+00:00"
+  },
+  {
+   "author": "youtube:dph",
+   "vod": "",
+   "offset": -1,
+   "title": "Windah nomor satu, Speed gak tidur, Meme GTA 6 di dalam game GTA 6",
+   "drafted": false,
+   "ts": "2026-11-22T19:29:56.065655+00:00"
+  },
+  {
+   "author": "youtube:tech satire",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 Cars la ivlo Problem iruka🤩 Top 5 GTA Cars Facts🔥 Grand Theft Auto VI in PS5",
+   "drafted": false,
+   "ts": "2026-11-22T19:29:56.892025+00:00"
+  },
+  {
+   "author": "youtube:crave",
+   "vod": "",
+   "offset": -1,
+   "title": "Turning Minecraft Into GTA 6",
+   "drafted": false,
+   "ts": "2026-11-22T19:29:57.873799+00:00"
+  },
+  {
+   "author": "youtube:typical gamer",
+   "vod": "",
+   "offset": -1,
+   "title": "I’m Taking Out Every Influencer in GTA 6",
+   "drafted": false,
+   "ts": "2026-11-22T19:29:58.883770+00:00"
+  },
+  {
+   "author": "youtube:miniaki3 yt",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 SENDO GTA 6 #gta #gta6 #gta5 #xbox #gameplay",
+   "drafted": false,
+   "ts": "2026-11-22T19:30:49.837668+00:00"
+  },
+  {
+   "author": "youtube:irfan official 7",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 vs GTA 5 vs RDR 2 – Train Test!",
+   "drafted": false,
+   "ts": "2026-11-22T19:30:50.589239+00:00"
+  },
+  {
+   "author": "twitch:baupenner",
+   "vod": "2936265524",
+   "offset": 8981.0,
+   "title": "Mit ganzem Körper",
+   "drafted": false,
+   "ts": "2026-11-22T19:30:51.465427+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:adm1tr1pow",
+   "vod": "2937397951",
+   "offset": 5233.0,
+   "title": "просто убраться надо",
+   "drafted": false,
+   "ts": "2026-11-22T19:30:57.698891+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:sondergaardlol",
+   "vod": "2936722475",
+   "offset": 49588.0,
+   "title": "SØNDER SMIDER TASKEN",
+   "drafted": false,
+   "ts": "2026-11-22T19:31:51.184504+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:montanablack88",
+   "vod": "2937100204",
+   "offset": 2212.0,
+   "title": "Drachenlord in GTA 6",
+   "drafted": false,
+   "ts": "2026-11-22T19:32:14.890214+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:rijom",
+   "vod": "2936114316",
+   "offset": 22177.0,
+   "title": "работа по яйцам",
+   "drafted": false,
+   "ts": "2026-11-22T19:32:22.830352+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:rijom",
+   "vod": "2936114316",
+   "offset": 22177.0,
+   "title": "работа по яйцам",
+   "drafted": true,
+   "ts": "2026-11-22T19:32:31.903069+00:00",
+   "frames": [],
+   "caption": "🔞 Полный разнос на нудистском пляже: Лусия устроила замес с голыми NPC, и они все полезли драться 💀 Ору с этой физики"
   }
  ],
  "published": [
@@ -15975,11 +16249,24 @@
    "kind": "confirmed"
   }
  ],
- "extras": [],
+ "extras": [
+  {
+   "key": "digest-20261122",
+   "kind": "Итоги дня",
+   "payload": {
+    "text": "🌙 <b>Итоги дня</b> · 22 ноября\n\n🎥 <a href=\"https://t.me/gta6_hotnews/43\">Лусия косплеит фермера и ведет наряженную корову — это просто какой-то лютый рофл от Rock…</a>\n🎥 <a href=\"https://t.me/gta6_hotnews/44\">СПОЙЛЕР. Чел решил выйти из тачки с пушкой прямо перед копами — ласт его ошибка 💀 Вот это…</a>\n📰 <a href=\"https://t.me/gta6_hotnews/46\">ДЖОКЕР ИЗ ФЛОРИДЫ ВСЁ-ТАКИ ДОЖАЛ ROCKSTAR!</a>\n📰 <a href=\"https://t.me/gta6_hotnews/47\">СИМУЛЯТОР ПОДКАБЛУЧНИКА В GTA 6 🤡</a>\n🗺 <a href=\"https://t.me/gta6_hotnews/49\">Выбор перед миссией «Встреча с Эйбом»</a>\n🎥 <a href=\"https://t.me/gta6_hotnews/53\">Лусия — просто имба: вынесла всех обидчиков у заправки, пока Джейсон извинялся. Вот это я…</a>\n\nЧто из этого зашло больше всего? Пиши в комменты 👇",
+    "publish_at": "2026-11-22T20:00:00+00:00"
+   },
+   "moderation": "pending",
+   "draft_msg_id": 89,
+   "queued_at": "2026-11-22T19:31:01.015179+00:00"
+  }
+ ],
  "extras_sent": {
   "poll-2026-W47": "2026-11-21T16:00:25.901739+00:00",
   "weekly-20261121": "2026-11-21T17:30:42.606074+00:00",
-  "digest-20261121": "2026-11-21T19:30:10.993120+00:00"
+  "digest-20261121": "2026-11-21T19:30:10.993120+00:00",
+  "digest-20261122": "2026-11-22T19:31:01.015194+00:00"
  },
  "rewrite_wait": []
 }
