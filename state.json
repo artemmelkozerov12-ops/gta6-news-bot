@@ -2423,7 +2423,12 @@
   "6ce8b9997096a501": "2026-11-22T23:02:26.461673+00:00",
   "2efe9efe98670601": "2026-11-22T23:02:38.349013+00:00",
   "0ba1d84f382420b8": "2026-11-22T23:02:39.782263+00:00",
-  "03e4d26dc8b5c8a3": "2026-11-22T23:02:41.039303+00:00"
+  "03e4d26dc8b5c8a3": "2026-11-22T23:02:41.039303+00:00",
+  "9feb9eda215ef402": "2026-11-22T23:18:09.567694+00:00",
+  "75b3aa583838d31a": "2026-11-22T23:33:26.948608+00:00",
+  "d8adfc13012437cd": "2026-11-22T23:33:29.965318+00:00",
+  "398cdec78735ff21": "2026-11-22T23:33:31.492719+00:00",
+  "eebc04c6540d1e18": "2026-11-22T23:33:37.972394+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -4067,7 +4072,12 @@
   "506e2a35a029da19": "2026-11-22T23:02:26.461673+00:00",
   "946cdb82233103c1": "2026-11-22T23:02:38.349013+00:00",
   "e534840744ff6e7e": "2026-11-22T23:02:39.782263+00:00",
-  "1a524d4f85cc8125": "2026-11-22T23:02:41.039303+00:00"
+  "1a524d4f85cc8125": "2026-11-22T23:02:41.039303+00:00",
+  "2c2dd987e9cf7694": "2026-11-22T23:18:09.567694+00:00",
+  "81bad4c536e89ec1": "2026-11-22T23:33:26.948608+00:00",
+  "1d98d3ccc52e1e72": "2026-11-22T23:33:29.965318+00:00",
+  "ba727e178aee14b3": "2026-11-22T23:33:31.492719+00:00",
+  "2983e830a130c077": "2026-11-22T23:33:37.972394+00:00"
  },
  "recent": [
   {
@@ -10660,6 +10670,46 @@
    "trust": "rumor",
    "status": "skipped",
    "ts": "2026-11-22T23:02:41.039436+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "'GTA VI' Cactus Jack x Rockstar Games x Nike Air Force 1",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T23:18:09.567819+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "'Miss You, Mum' — GTA 6 Honors Rockstar Team's Late Friends and Family With Leonida Memorial That Players Can Visit Themselves",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T23:33:26.948738+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Why GTA 6’s Overhauled Wanted System is the Game’s Best Feature",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T23:33:29.965453+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Cyberleak's GTA 6 Xbox Build Could Reach PC Before an Official Port",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T23:33:31.492839+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 animals list: confirmed species, study tiers and what you can do with them",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T23:33:37.972519+00:00",
    "card_title": ""
   }
  ],
