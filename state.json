@@ -1988,7 +1988,14 @@
   "87185ceafd814928": "2026-11-22T10:18:40.340900+00:00",
   "27b36a8d65a8ac36": "2026-11-22T10:19:30.938416+00:00",
   "d95c4bc4ec18c283": "2026-11-22T10:19:32.308597+00:00",
-  "4cb8fbe4f01acad6": "2026-11-22T10:19:36.018292+00:00"
+  "4cb8fbe4f01acad6": "2026-11-22T10:19:36.018292+00:00",
+  "6049b2f184fd75e7": "2026-11-22T10:35:35.663103+00:00",
+  "c8d8d1a2009ebe6c": "2026-11-22T10:35:55.636060+00:00",
+  "df74346460dcdf8c": "2026-11-22T10:35:56.861627+00:00",
+  "72d9ffc44b2d3941": "2026-11-22T10:36:03.769972+00:00",
+  "23cf446c32e32d28": "2026-11-22T10:36:05.090326+00:00",
+  "5977198d5e3e7cca": "2026-11-22T10:36:10.845975+00:00",
+  "486c5f839c13f8a9": "2026-11-22T10:36:32.694971+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -3321,7 +3328,14 @@
   "b823c733b6fcd989": "2026-11-22T10:18:40.340900+00:00",
   "3b00b5af8c7e8785": "2026-11-22T10:19:30.938416+00:00",
   "1ac47aa887a9ddb8": "2026-11-22T10:19:32.308597+00:00",
-  "815edbc37a8fb88d": "2026-11-22T10:19:36.018292+00:00"
+  "815edbc37a8fb88d": "2026-11-22T10:19:36.018292+00:00",
+  "c91e6b151d643995": "2026-11-22T10:35:35.663103+00:00",
+  "32eaaba77a625c7e": "2026-11-22T10:35:55.636060+00:00",
+  "60a002c134e36115": "2026-11-22T10:35:56.861627+00:00",
+  "1663c4b017f39d2a": "2026-11-22T10:36:03.769972+00:00",
+  "981796f50f5296ce": "2026-11-22T10:36:05.090326+00:00",
+  "6f606c8f8212075d": "2026-11-22T10:36:10.845975+00:00",
+  "563e6f8d6bb03d6c": "2026-11-22T10:36:32.694971+00:00"
  },
  "recent": [
   {
@@ -8592,7 +8606,7 @@
    "title": "Janelle James Bullied Her Way Into GTA 6, Then Rockstar Sent Her a Custom PS5 Pro",
    "source": "GTA BOOM",
    "trust": "medium",
-   "status": "queued",
+   "status": "published",
    "ts": "2026-11-22T10:19:29.255266+00:00",
    "card_title": "АКТРИСА ВЫБИЛА РОЛЬ В GTA 6"
   },
@@ -8619,38 +8633,65 @@
    "status": "skipped",
    "ts": "2026-11-22T10:19:36.018406+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GTA VI’s Jet Ski Dog: EXCLUSIVE Interview With Real-Life Inspiration Owner",
+   "source": "Rockstar Intel",
+   "trust": "medium",
+   "status": "queued",
+   "ts": "2026-11-22T10:35:54.659139+00:00",
+   "card_title": "ПЕС НА ГИДРОЦИКЛЕ В GTA 6"
+  },
+  {
+   "title": "Не только GTA 6: в Москве запустили «игру» про реновацию — пройди стройку от сноса до сдачи дома",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T10:35:55.636181+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Британский разработчик назвал GTA 6 уроком для всех студий",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T10:35:56.861750+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Taken out by a cow in GTA VI Bet she never saw that one coming Writer: Ian",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T10:36:03.770089+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 faces plagiarism claim two days after release",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T10:36:05.090457+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "'GTA 6' players can't stop doomscrolling in the game: 'Art really does imitate life'",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T10:36:10.846093+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Как в России отреагировали на релиз GTA 6: от покаяния до тундры",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T10:36:32.695090+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
-  {
-   "item": {
-    "title": "GTA 6 radio DJs and podcast hosts: Every famous voice on GTA 6’s radio",
-    "link": "https://www.videogameschronicle.com/guide/gta-6-radio-djs-and-podcast-hosts-every-famous-voice-on-gta-6s-radio/",
-    "summary": "Every confirmed DJ and podcast host in GTA 6",
-    "published": "2026-11-21T22:17:19+00:00",
-    "source": "VGC",
-    "site_name": "VGC",
-    "trust": "high",
-    "text": "Here’s a complete list of every GTA 6 DJ and Podcast Host\nGTA 6 features voice acting from Bad Bunny, Lana Del Rey, Weird Al Yankovic, PinkPantheress, Stavros Halkias and more lending their voices to the radio. Now that Rockstar has confirmed the complete credits in the game, the hosts for the radio in GTA 6 are also confirmed.\nHere’s a complete list of every radio DJ, talk radio host and podcast presenter in Grand Theft Auto 6.\nYou can also listen to radio and podcasts outside vehicles using Jason and Lucia’s smartphones and connected headphones.\nGTA 6 features a wide selection of radio stations, each with its own DJs, celebrity presenters and musical styles. From hip-hop and Afrobeats to country, rock and classical music, there’s something for everyone on the Leonida airwaves.\nHere’s a complete breakdown of the GTA 6 radio stations, including their DJs, real-world hosts and music genres.\nReal-world hosts: Burna Boy and Palms Trax\nReal-world hosts: Morgan Wallen and Lana Del Rey\nAdditional presenter: Mud Dog Mike (Jeremy Dufrene) – Also, Lana Del Rey’s husband.\nReal-world hosts: Seth Troxler and Antonio Carbonaro\nAdditional appearance: Gucci Mane on The Tap In.\nReal-world hosts: Buddy Guy and Keith Richards\nReal-world hosts: Rozonda “Chilli” Thomas and Tionne “T-Boz” Watkins (TLC).\nMusic: International music and covers of pop songs\nReal-world hosts: Randy Brecker and Stanley Clarke\nAdditional appearance: Yussef Dayes on The Nook.\nReal-world hosts: Gloria Estefan and Emilio Estefan\nReal-world hosts: PinkPantheress and The Dare\nReal-world hosts: Kerry King, Tom Araya and Brian Posehn\nReal-world hosts: “Weird Al” Yankovic and Brigitte Nielsen\nAdditional presenters: Charlamagne tha God and Ivy Rivera on Early AF.\nReal-world hosts: Lindsey Buckingham and Michael McDonald\nGTA 6 also features two radio stations that feature talk radio shows. They are:\nJohn Leguizamo (Enrique “El Enigma” Romero)\nStavros Halkias (Dominic “The Brick” Brizzolato)\nGTA 6 also features several podcasts. The hosts for these podcasts are:",
-    "extra": {
-     "image": "https://www.videogameschronicle.com/files/2026/11/GTA-6-All-Radio-DJs-and-podcast-hosts.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "Звездный состав на радио в GTA 6\n\nRockstar наконец выкатили полный список диджеев и ведущих. В игре засветились Lana Del Rey, Bad Bunny, Weird Al Yankovic и еще куча легенд. Теперь можно гонять по Леониде под топовый музон с голосами мировых звезд. Кстати, радио и подкасты теперь доступны прямо в смартфоне Джейсона и Люсии — чисто имба для долгих заездов.\n\n❤️ — Lana Del Rey на радио — просто пушка\n👎 — Мне бы больше тяжелого метала",
-    "card_title": "ЗВЕЗДНЫЕ ГОЛОСА НА РАДИО GTA 6",
-    "reason": "Официальный полный список звездных ведущих радиостанций в GTA 6 от Rockstar.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.1-flash-lite"
-   },
-   "queued_at": "2026-11-21T22:20:46.299786+00:00"
-  },
   {
    "item": {
     "title": "Binding Of Isaac Update Review-Bombed Over AI-Generated Music In GTA 6 Mode: ‘Woke Up To A Sh*t Show, Obviously I Had No Idea’",
@@ -8856,6 +8897,35 @@
   },
   {
    "item": {
+    "title": "GTA VI’s Jet Ski Dog: EXCLUSIVE Interview With Real-Life Inspiration Owner",
+    "link": "https://rockstarintel.com/gta-vis-jet-ski-dog-exclusive-interview-with-real-life-inspiration-owner/",
+    "summary": "As expected, GTA VI features lots of events and NPCs inspired by ones in real life based out of Florida. Perhaps the most viral NPC interaction from the game so far involves a dog that rides a jet ski and saves you out in the ocean. “Cool Dog” is actually based on a real life [...] The post GTA VI’s Jet Ski Dog: EXCLUSIVE Interview With Real-Life Inspiration Owner appeared first on RockstarINTEL .",
+    "published": "2026-11-22T10:29:42+00:00",
+    "source": "Rockstar Intel",
+    "site_name": "Rockstar Intel",
+    "trust": "medium",
+    "text": "As expected, GTA VI features lots of events and NPCs inspired by ones in real life based out of Florida. Perhaps the most viral NPC interaction from the game so far involves a dog that rides a jet ski and saves you out in the ocean.\n“Cool Dog” is actually based on a real life dog named Loosy who has ridden a jet ski in the Florida Keys. Her antics went viral in the past year meaning Rockstar added her fairly late into development. How does Loosy’s owner feel about it? RockstarINTEL got to exclusively interview her owner Eddie Inch and this is what he had to say on behalf of 7-year-old golden retriever Loosy.\nEI: At first I didn’t think too much of it. There’s a dog on a jet ski in the game, cool. But then when I realized how it was presented, and when people started making the connection to Loosy, it hit me. Loosy is the inspiration in GTA 6. That’s when it became something else entirely. Awesome doesn’t even cover it.\nEI: My phone hasn’t stopped since the game dropped. I’d get a clip, then another, then 10 more: people finding the Easter egg and immediately going, ‘Wait, is this dog real?’ And then they find Loosy and lose their minds. The comment sections are wild. She already had over 41 million views on ‘the dog is driving,’ Jimmy Kimmel mentioned it, and the Florida governor reposted it. But this is a whole new audience: millions of GTA players who had no idea she existed. It’s like she’s going viral all over again, but bigger.\nEI: I don’t have it yet, but yes. At some point I definitely want to play it and check out the dog in the game. How could I not? That’s Loosy in there as the inspiration.\nEI: Honestly, it’s surreal. GTA 6 is the biggest entertainment launch in history, bigger than any movie, any album, anything. And somewhere in there, Rockstar put my dog. In goggles. On a jet ski. Saving people. We just started out wanting to hang and do everything together. I couldn’t leave her behind, so I brought her everywhere with me. I never imagined that would end up in the biggest game ever made. That’s Loosy though. She makes everything better just by showing up.\nEI: It started way before the jet ski. I never wanted to leave her behind, so I just brought her everywhere. She rode in a motorcycle sidecar, she was in my backpack when I used to skateboard, then on my hoverboard. She’s always just been my co-pilot.\nIt actually goes all the way back to 2019. We were at Mallory Square in Key West and she was already riding with me. But eventually she got too",
+    "extra": {
+     "image": "https://rockstarintel.com/wp-content/uploads/2026/11/side_by_side_02-1024x1024.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "🐕 Пес на гидроцикле из GTA 6 существует в реале!\n\nГлавная вирусная имба игры — спасатель-золотистый ретривер на гидроцикле — срисован с реально существующей собаки по кличке Луси из Флориды. Её хозяин Эдди в шоке: телефон разрывается от тиктоков, а гигачад-пёс в очках теперь спасает геймеров по всему миру.\n\nЗатолкать реального пса-экстремала в игру — это максимальный респект разработчикам.",
+    "card_title": "ПЕС НА ГИДРОЦИКЛЕ В GTA 6",
+    "reason": "Интервью с реальным хозяином знаменитой собаки на гидроцикле из GTA 6",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-3.5-flash"
+   },
+   "queued_at": "2026-11-22T10:35:54.659126+00:00"
+  },
+  {
+   "item": {
     "title": "Player Got Banned for 30 Days for Texting a GTA 6 Nude Screenshot",
     "link": "https://www.gtaboom.com/player-got-banned-for-30-days-for-texting-a-gta-6-nude-screenshot-430f",
     "summary": "PlayStation’s code bars obscene or pornographic material in private messages, even when it’s a screenshot from a game Sony sells.",
@@ -8943,67 +9013,6 @@
   },
   {
    "item": {
-    "title": "Janelle James Bullied Her Way Into GTA 6, Then Rockstar Sent Her a Custom PS5 Pro",
-    "link": "https://www.gtaboom.com/janelle-james-bullied-her-way-into-gta-6-then-rockstar-sent-her-a-custom-ps5-pro-ad55",
-    "summary": "Janelle James unboxed Rockstar’s custom PS5 Pro and says she pitched and scripted She Got Assets, the GTA 6 radio show she hosts as Tish.",
-    "published": "2026-11-22T10:09:03+00:00",
-    "source": "GTA BOOM",
-    "site_name": "GTA BOOM",
-    "trust": "medium",
-    "text": "The custom Grand Theft Auto VI consoles Rockstar Games has been handing out did not stop at the Miami Heat. Abbott Elementary star Janelle James unboxed one of the same packages this week and her reaction might be the best part of the whole campaign. By her own account, James wasn’t recruited for the game. She bullied her way in.\nIn case you missed it, Rockstar put together a custom PlayStation 5 Pro in a Vice City finish, dark silver with etched palm trees, the GTA VI logo and neon teal-to-magenta stripes down the center. It comes with two matching DualSense controllers, a physical game case and the whole thing packed into a hard-shell briefcase. There is no store page and no press release. Every confirmation has come from recipients proudly posting their own unboxings on social media.\nWhat is in Rockstar's custom GTA 6 console package\nEvery piece of the gift Rockstar sent players and contributors that's currently not available to the public.\nJames shared her unboxing on Instagram around November 22, with a caption that was pure her.\nGOD IM TURNED ON KNOWING HOW MANY PEOPLE ARE JEALOUS RIGHT NOW, she wrote, THANK YOU ROCKSTAR.\nHer package arrived days after the Heat received theirs.\nJames did more for the game than lend her voice. James voices Tish, the host of a talk-radio show called \"She Got Assets\" on The Wipe, the kind of foul-mouthed segment players catch while driving. She did not just show up to record lines. She told fans on Instagram she pursued, conceptualized, pitched, scripted and voiced the whole show herself, then said Rockstar did not choose her, she bullied her way to them. She says she has played since Grand Theft Auto: Vice City, called it a literal dream come true and cast her comedian friends as guests.\nThe Heat players were the first to show the gift off. GTA 6's Vice City takeover of the arena on November 18 put the consoles in players' hands. We covered the first unboxings from Davion Mitchell, Nikola Jović, Tim Hardaway Jr. and others. Unfortunately, as far as we know, head coach Erik Spoelstra did not get one, though he has since said he would play if someone handed him a console.\nThe consoles are the glossiest piece of a Vice City marketing push we have tracked for weeks, from the black-and-pink Heat jerseys to the Cactus Jack apparel drop and the Rockstar-funded music event in Little Haiti. Unlike the Goodtime State collection you can buy, none of these consoles are for sale.\nWhose GTA 6 package would you want more, the Miami H",
-    "extra": {
-     "image": "https://media.gtaboom.com/variants/1920/media/images/e7/4a/janelle-james-bullied-her-way-into-gta-6-then-rockstar-sent-her-a-custom-ps5-pro.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "🎁 Актриса выбила роль в GTA 6 и получила кастомную PS5 Pro\n\nДжанелл Джеймс буквально «забуллила» Rockstar, чтобы замутить собственное радиошоу She Got Assets в игре. За такой жесткий флекс разрабы подогнали ей эксклюзивный чемодан с консолью в стиле Вайс-Сити. Вот это я понимаю, выбила себе топовый мерч! 🌴",
-    "card_title": "АКТРИСА ВЫБИЛА РОЛЬ В GTA 6",
-    "reason": "Актриса сама выбила себе роль в GTA 6 и получила кастомную PS5 Pro от Rockstar",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-3.5-flash"
-   },
-   "queued_at": "2026-11-22T10:19:29.255237+00:00",
-   "moderation": "approved",
-   "draft_msg_id": 77,
-   "waiting_logged": true
-  },
-  {
-   "item": {
-    "title": "GTA 6 Is Too Big for Borders but Not for a Black Friday Discount",
-    "link": "https://www.gtaboom.com/gta-6-is-too-big-for-borders-but-not-for-a-black-friday-discount-f9fa",
-    "summary": "UK retailer ShopTo cut Grand Theft Auto VI Ultimate Edition on Xbox Series X|S to £68.85, about 25% off, in an early Black Friday deal.",
-    "published": "2026-11-21T22:31:21+00:00",
-    "source": "GTA BOOM",
-    "site_name": "GTA BOOM",
-    "trust": "medium",
-    "text": "The record numbers are not the only notable Grand Theft Auto story this week. In the 48 hours after Grand Theft Auto VI launched, three notable pieces of news stood out that say more about the game's reach than the $3.79 billion day did. For starters, China is buying a game it never approved. Meanwhile, Saudi Arabia is playing a series it banned until last year while its wealth fund holds a stake in the publisher and, in the UK, ShopTo is already discounting the Xbox Series X|S editions.\nStart with China, where GTA 6 officially does not exist. The series has never cleared the National Press and Publication Administration. It sits on no approved-import list and none of that is slowing anyone down at all. Before launch, Rockstar Games was already promoting the game on its verified Douyin account, a strange move for a game the country will not license. However, getting your hand on the game isn't exactly as dramatic as it sounds if you're China.\nAs Business Insider laid out, people import consoles and buy through Hong Kong or Taiwan store accounts. Shenzhen-based consultant Daniel Camilo pushed back on the workaround narrative. The platforms need no VPN, the hardware ships same-day from the mainstream retailers and he has bought games this way for most of 14 years.\nSaudi Arabia is another example. The kingdom banned the series until 2025, so this is the first time players there can buy a Grand Theft Auto game legally at launch. The same country even now has money in the outcome. Reuters reports that the country's Public Investment Fund, chaired by Crown Prince Mohammed bin Salman, holds a stake in Take-Two Interactive worth more than $2 billion, moved to its Savvy Games Group subsidiary in a February filing with the economic ownership unchanged. A government that outlawed the series a year ago now has a financial stake in its publisher through its wealth fund.\nFinally, Windows Central spotted retailer ShopTo cutting the Xbox Series X|S Standard Edition to £53.85 from £69.99, about 23% off, with the Ultimate Edition down to £68.85 from £89.99, around 25%, within days of launch. These are early Black Friday deals from a third-party shop, standing in contrast with what Take-Two CEO Strauss Zelnick previously said about a discounted GTA 6 price.\nAlthough to be fair, retail does not care how historic a game is for the sake of competing and undermining the competition.\nRegulation and borders are no match for a game people want this badly, a market with no license s",
-    "extra": {
-     "image": "https://media.gtaboom.com/variants/1920/media/images/1b/41/gta-6-is-too-big-for-borders-but-not-for-a-black-friday-discount-1.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 6,
-    "post": "GTA 6 УЖЕ СО СКИДКОЙ\n\nНе прошло и недели, а ритейлеры начали демпинговать. В Британии ShopTo уже отдают диски на 23-25% дешевле прайса. Пока Штраус Зельник рассуждал об отсутствии скидок, рынок решил иначе. Чисто бизнес, ничего личного.\n\n❤️ — Забираю по скидону!\n👎 — Взял на старте за фулл, боль.",
-    "card_title": "GTA 6 УЖЕ СО СКИДКОЙ",
-    "reason": "Информация о скидках и глобальном влиянии игры от крупного профильного ресурса.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.1-flash-lite"
-   },
-   "queued_at": "2026-11-21T22:36:29.402699+00:00"
-  },
-  {
-   "item": {
     "title": "French Retirement Home Residents Are Trading Scrabble for GTA 6",
     "link": "https://www.gtaboom.com/french-retirement-home-residents-are-trading-scrabble-for-gta-6-dcec",
     "summary": "Jacqueline, 82, told ICI Paris Île de France her first time at the controls of a boat in GTA 6 gave her a welcome break after losing her husband.",
@@ -9087,7 +9096,8 @@
   "2026-11-22T08:00:39.655785+00:00",
   "2026-11-22T08:16:15.135437+00:00",
   "2026-11-22T09:13:29.759405+00:00",
-  "2026-11-22T10:19:40.823469+00:00"
+  "2026-11-22T10:19:40.823469+00:00",
+  "2026-11-22T10:36:38.402500+00:00"
  ],
  "tg_offset": 387129040,
  "channel": {
@@ -13452,6 +13462,13 @@
    "title": "СПОЙЛЕР. Чел поймал жесткий тильт, когда Rockstar зацензурили горячую сцену в сюжетке 💀",
    "importance": 7,
    "kind": "video"
+  },
+  {
+   "ts": "2026-11-22T10:36:38.402516+00:00",
+   "msg_id": 52,
+   "title": "Актриса выбила роль в GTA 6 и получила кастомную PS5 Pro",
+   "importance": 7,
+   "kind": "confirmed"
   }
  ],
  "extras": [],
