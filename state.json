@@ -2137,7 +2137,23 @@
   "5646cf5cf25c5fd3": "2026-11-22T14:17:26.574546+00:00",
   "c218323f09069741": "2026-11-22T14:17:48.710204+00:00",
   "3e0330b63973e643": "2026-11-22T14:18:10.008693+00:00",
-  "80747b3018b76198": "2026-11-22T14:18:32.832176+00:00"
+  "80747b3018b76198": "2026-11-22T14:18:32.832176+00:00",
+  "4f40bd089887f0f1": "2026-11-22T14:34:57.556079+00:00",
+  "ec58b2d183a0972a": "2026-11-22T14:35:04.692773+00:00",
+  "202ff76a3d568cb3": "2026-11-22T14:35:05.500325+00:00",
+  "9dccff74cae414ad": "2026-11-22T14:35:29.503968+00:00",
+  "15a5a0af84a82db5": "2026-11-22T14:35:34.876772+00:00",
+  "f4447c116571ccc7": "2026-11-22T14:35:56.859244+00:00",
+  "9105544d1bdc50e1": "2026-11-22T14:36:46.275178+00:00",
+  "0e83fb399cd896f6": "2026-11-22T14:36:46.980642+00:00",
+  "baf1097ef81da68d": "2026-11-22T14:52:02.647333+00:00",
+  "44b0a4db7d7ceab2": "2026-11-22T14:52:04.064031+00:00",
+  "19787a0646cee156": "2026-11-22T14:52:14.312487+00:00",
+  "11b0cc69df3eec67": "2026-11-22T14:52:29.051227+00:00",
+  "0e977d3e7c1c12d0": "2026-11-22T14:52:29.534216+00:00",
+  "443a4259ae3577a3": "2026-11-22T14:52:43.769083+00:00",
+  "73cb8997e7a474e6": "2026-11-22T14:53:06.715607+00:00",
+  "3a5e51f0bede0d28": "2026-11-22T14:53:34.498387+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -3566,7 +3582,22 @@
   "e4eb9116a0b9cf31": "2026-11-22T14:17:26.574546+00:00",
   "371cb3ce34d43793": "2026-11-22T14:17:48.710204+00:00",
   "eaf3e127ad26e384": "2026-11-22T14:18:10.008693+00:00",
-  "f13f8a7f5ea0a367": "2026-11-22T14:18:32.832176+00:00"
+  "f13f8a7f5ea0a367": "2026-11-22T14:18:32.832176+00:00",
+  "4d9bb3c16c0d91ce": "2026-11-22T14:34:57.556079+00:00",
+  "6de2b6a61f146492": "2026-11-22T14:35:04.692773+00:00",
+  "493dc22c1229b02a": "2026-11-22T14:35:05.500325+00:00",
+  "343137fa3ca9aff3": "2026-11-22T14:35:29.503968+00:00",
+  "1fd428c8f13f0e19": "2026-11-22T14:35:34.876772+00:00",
+  "3f18bf0cb8484ba0": "2026-11-22T14:35:56.859244+00:00",
+  "d0a9d1f1834fe6e4": "2026-11-22T14:36:46.275178+00:00",
+  "267ae7d910173ff6": "2026-11-22T14:36:46.980642+00:00",
+  "51c685b63e8fa35e": "2026-11-22T14:52:14.312487+00:00",
+  "871b229ec134a11e": "2026-11-22T14:52:04.064031+00:00",
+  "5009db6ceef6b24a": "2026-11-22T14:52:29.051227+00:00",
+  "8ef38881ae736207": "2026-11-22T14:52:29.534216+00:00",
+  "0bac9f1d53441c4f": "2026-11-22T14:52:43.769083+00:00",
+  "38d09794c3d4624c": "2026-11-22T14:53:06.715607+00:00",
+  "afa44b66676a812b": "2026-11-22T14:53:34.498387+00:00"
  },
  "recent": [
   {
@@ -9096,6 +9127,142 @@
    "status": "skipped",
    "ts": "2026-11-22T14:18:32.832315+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GTA 6 Just Can't Stop Breaking Records It Seems",
+   "source": "Push Square",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-22T14:34:55.937908+00:00",
+   "card_title": "РЕКОРД САУНДТРЕКА В SPOTIFY"
+  },
+  {
+   "title": "Should you shoot Halifax in GTA 6? Kill or spare him in Dubious Provenance",
+   "source": "VGC",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-22T14:34:57.556200+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Dubious Provenance walkthrough: Should you trust Halifax?",
+   "source": "VGC",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-22T14:35:04.692886+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 ещё до релиза продала 32.5 миллиона копий – у Cyberpunk 2077, The Witcher 3, Elden Ring и Skyrim на это ушли годы",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T14:35:05.500461+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "🎮 Steal a \"Tesla\" in GTA VI... And then sit back and \"enjoy the A.S.S. experience.\" You'll have to climb out the window when police arrive, tho. Writer: Marie",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T14:35:29.504107+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "It Only Took 24 Hours For ‘GTA 6’ To Beat ‘Avengers: Endgame’s Lifetime Box Office",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T14:35:34.876916+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI: детализация мира вынудила Rockstar ограничить 30 FPS",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T14:35:56.859372+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "KFC offers disc-shaped fried chicken to sad disc-less GTA VI fans — KFC Spain’s ‘The Replacement Disc’ campaign delivers where Rockstar disappoints after selling $3.79 billion of GTA VI without a physical disc",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T14:36:46.275320+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to Customize and Upgrade Weapons in GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T14:36:46.980759+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Players Keep Discovering Ridiculous New Ways To Steal Money",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-22T14:52:02.647367+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to get Arthur Morgan's Hat in GTA 6",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-22T14:52:12.615090+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Players Keep Discovering Ridiculous New Ways To Steal Money",
+   "source": "Polygon",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-22T14:52:28.265967+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "A GTA 6 Self-Aware NPC Knows He’s Living Inside a Video Game",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T14:52:29.051367+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Mamba - Collapsed Bridge",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T14:52:29.534344+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Fox News Host Joins Chorus Of Right-Wing Voices Raging Against 'GTA VI'",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T14:52:43.769227+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "US Startup Hires Streamer To Study GTA 6's Virtual Economy",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T14:53:06.715755+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Весь мир охвачен ажиотажем вокруг GTA 6.",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T14:53:34.498523+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -9129,6 +9296,35 @@
    "queued_at": "2026-11-22T13:58:39.604753+00:00",
    "moderation": "pending",
    "draft_msg_id": 82
+  },
+  {
+   "item": {
+    "title": "GTA 6 Just Can't Stop Breaking Records It Seems",
+    "link": "https://www.pushsquare.com/news/2026/11/gta-6-just-cant-stop-breaking-records-it-seems",
+    "summary": "Sets new soundtrack streaming record on Spotify. Not content with being the biggest entertainment launch in history and the highest rated game of all time , GTA 6 has already broken another record. The game’s official album, which features all-new tracks from the likes of Dua Lipa , set a new opening day record for a soundtrack on Spotify with a dizzying 29.85 million streams. Read the full article on pushsquare.com",
+    "published": "2026-11-22T13:00:00+00:00",
+    "source": "Push Square",
+    "site_name": "Push Square",
+    "trust": "high",
+    "text": "Not content with being the biggest entertainment launch in history and the highest rated game of all time, GTA 6 has already broken another record.\nThe game’s official album, which features all-new tracks from the likes of Dua Lipa, set a new opening day record for a soundtrack on Spotify with a dizzying 29.85 million streams.\nThe compilation has 34 songs, including music from artists like Travis Scott, Morgan Wallen, and Jennie.\nI was listening to the album yesterday and, while I was already familiar with a lot of the songs from my time in Leonida writing the review, I do think it’s a good and eclectic mix. I’m not surprised to see it break records.\nBy the way, if you’re loving GTA 6’s soundtrack – specifically its Radio Songs – then we have a massive and complete guide to all the music, radio stations, artists, celebrity cameos, and much more through the link.\nHave you been listening to the record-breaking GTA 6: The Album? Nod your head in the comments section below.\nPlaced an order on CD and vinyl for us at home, then my sister wanted the vinyl too, as like me she's a lover of the format and of the entire GTA series for that matter. So, whilst we don't use streaming platforms, the orders we have made for the physical will no doubt count towards breaking some record I'd imagine down the line.",
+    "extra": {
+     "image": "https://images.pushsquare.com/83a7f3925b8dc/large.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "🎧 Саундтрек GTA 6 порвал Spotify на 30 МЛН стримов\n\nОфициальный альбом GTA 6: The Album с треками Дуа Липы, Трэвиса Скотта и Jennie поставил абсолютный рекорд первого дня среди саундтреков — 29,85 млн прослушиваний. Музыка в Леониде зашла настолько, что народ слушает её даже без катки.",
+    "card_title": "РЕКОРД САУНДТРЕКА В SPOTIFY",
+    "reason": "Официальный рекорд саундтрека GTA 6 на Spotify, подтвержденный СМИ.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "GTA 6 Just Can't Stop Breaking Records It Seems — Google News (EN)",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-3.5-flash"
+   },
+   "queued_at": "2026-11-22T14:34:55.937895+00:00"
   },
   {
    "item": {
@@ -9216,64 +9412,6 @@
     "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
    },
    "queued_at": "2026-11-22T13:59:59.325031+00:00"
-  },
-  {
-   "item": {
-    "title": "Илон Маск показал, как играют в GTA VI силой мысли — с помощью Neuralink",
-    "link": "https://ixbt.games/news/2026/11/22/ilon-mask-pokazal-kak-igraiut-v-gta-vi-siloi-mysli-s-pomoshhiu-neuralink.html",
-    "summary": "Справиться с разными геймплейными активностями можно и без геймпада.",
-    "published": "2026-11-22T01:48:00+00:00",
-    "source": "iXBT.games",
-    "site_name": "iXBT.games",
-    "trust": "medium",
-    "text": "Справиться с разными геймплейными активностями можно и без геймпада.\nНедавно состоялся релиз Grand Theft Auto VI. Новинку Rockstar Games использовали для демонстрации возможностей продукции компании Neuralink. С помощью интерфейса мозг-компьютер «Telepathy» становится возможным использование сигналов мозга для управления.\nNeuralink опубликовала в социальной сети пример геймплея GTA VI — игрок использует силы мысли для отправки сигналов; также он использует небольшие движения: «Играть в GTA VI силой мысли и роботизированной рукой…это что, будущее?». Таким способом он успешно управляет транспортом, участвует в перестрелках и вступает в ближний бой.\nДополнительное внимание к данной записи привлёк Илон Маск (Elon Musk), который уточнил, что этот человек «играет в GTA VI с помощью Telepathy»:\nДо установки чипа от Neuralink, объясняет игрок, ему приходилось использовать для управления зубочистку и iPad: «По сути, я был как птица — просто клевал iPad. Было несколько игр, в которые я мог так играть, однако очевидно, что от такого болела челюсть и всё остальное».\nGrand Theft Auto VI пока доступна только на консолях PlayStation 5 и Xbox Series X|S.\nНе пропускайте наши новостиДобавьте сайт в предпочитаемые источники, чтобы видеть нас чащеДобавить в Google",
-    "extra": {
-     "image": "https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1744792/media-3b7c1355bf53465457e07dbfa0b61afaf00aa5cc173f929d976b657e120bc9c9.png"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "🤯 В GTA 6 СЫГРАЛИ СИЛОЙ МЫСЛИ\n\nNeuralink показала, как парализованный игрок гоняет и перестреливается в Вайс-Сити чисто с помощью мозгового чипа Telepathy и мыслительных команд. Илон Маск в восторге, а чел респектнул, что больше не надо тыкать в экран подбородком. Настоящий футуризм!\n\n❤️ — Илон выдал базу, киберпанк настал\n👎 — Слишком крипово, я за стандартный геймпад",
-    "card_title": "ИГРА В GTA 6 СИЛОЙ МЫСЛИ",
-    "reason": "Официальная демонстрация игры силой мысли через Neuralink от Илона Маска, очень хайповая тема.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-3.5-flash"
-   },
-   "queued_at": "2026-11-22T02:25:46.289496+00:00"
-  },
-  {
-   "item": {
-    "title": "Российская бодибилдерша стала прототипом персонажа GTA VI и записала русскую озвучку",
-    "link": "https://ixbt.games/news/2026/11/22/rossiiskaia-bodibildersa-stala-prototipom-personaza-gta-vi-i-zapisala-russkuiu-ozvucku.html",
-    "summary": "Разработчики привлекли к работе не только профессиональных актёров.",
-    "published": "2026-11-22T01:55:00+00:00",
-    "source": "iXBT.games",
-    "site_name": "iXBT.games",
-    "trust": "medium",
-    "text": "Разработчики привлекли к работе не только профессиональных актёров.\nНедавно состоялся релиз Grand Theft Auto VI и Rockstar Games опубликовала титры. В них включили как разработчиков, так и актёров, которые участвовали в работе над проектом.\nКак оказалось, одну из ролей исполнила бодибилдерша из России, которая является четырёхкратной победительницей четырехкратная победительница Fitness Olympia. Оксана Гришина (в титрах записана как «Oksana Grishina) рассказала, что работала несколько лет:\nТеперь, когда GTA VI вышла, мне разрешено объявить, что я участвую в новой GTA VI — проекте Rockstar, над которым я работала почти 5 лет. Спасибо всей замечательной команде Rockstar Games за то, что взяли меня в проект и сделали эту работу с вами такой потрясающей и весёлой!\nОксана Гришина исполнила роль Раины Колевой (Raina Koleva) — героиня разговаривает не только на английском языке, есть реплики и на русском.\nGrand Theft Auto VI доступна только на консолях PlayStation 5 и Xbox Series X|S. Про ПК-версию Rockstar Games и Take-Two пока ничего не рассказывали, как и про онлайн-режим.\nНе пропускайте наши новостиДобавьте сайт в предпочитаемые источники, чтобы видеть нас чащеДобавить в Google",
-    "extra": {
-     "image": "https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1744794/media-288c054b30e11dd55f20c10f2491b24e03a584ae022196672fdc82f2269f118c.png"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "💪 В GTA VI нашли персонажа с ОЗВУЧКОЙ на русском\n\nЧетырёхкратная чемпионка Fitness Olympia Оксана Гришина рассказала, что 5 лет работала с Rockstar. Она подарила внешность и голос героине Раине Колевой. Реплики на русском завезли прямо в игру, затестим!",
-    "card_title": "РОССИЯНКА В СВЕЖЕЙ GTA VI",
-    "reason": "Российская спортсменка попала в титры GTA 6 и озвучила персонажа, это официальный факт из игры",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-3.5-flash"
-   },
-   "queued_at": "2026-11-22T02:41:15.045389+00:00"
   },
   {
    "item": {
@@ -14310,36 +14448,6 @@
   "digest-20261121": "2026-11-21T19:30:10.993120+00:00"
  },
  "rewrite_wait": [
-  {
-   "item": {
-    "title": "GTA 6 Just Can't Stop Breaking Records It Seems",
-    "link": "https://www.pushsquare.com/news/2026/11/gta-6-just-cant-stop-breaking-records-it-seems",
-    "summary": "Sets new soundtrack streaming record on Spotify. Not content with being the biggest entertainment launch in history and the highest rated game of all time , GTA 6 has already broken another record. The game’s official album, which features all-new tracks from the likes of Dua Lipa , set a new opening day record for a soundtrack on Spotify with a dizzying 29.85 million streams. Read the full article on pushsquare.com",
-    "published": "2026-11-22T13:00:00+00:00",
-    "source": "Push Square",
-    "site_name": "Push Square",
-    "trust": "high",
-    "text": "Not content with being the biggest entertainment launch in history and the highest rated game of all time, GTA 6 has already broken another record.\nThe game’s official album, which features all-new tracks from the likes of Dua Lipa, set a new opening day record for a soundtrack on Spotify with a dizzying 29.85 million streams.\nThe compilation has 34 songs, including music from artists like Travis Scott, Morgan Wallen, and Jennie.\nI was listening to the album yesterday and, while I was already familiar with a lot of the songs from my time in Leonida writing the review, I do think it’s a good and eclectic mix. I’m not surprised to see it break records.\nBy the way, if you’re loving GTA 6’s soundtrack – specifically its Radio Songs – then we have a massive and complete guide to all the music, radio stations, artists, celebrity cameos, and much more through the link.\nHave you been listening to the record-breaking GTA 6: The Album? Nod your head in the comments section below.\nPlaced an order on CD and vinyl for us at home, then my sister wanted the vinyl too, as like me she's a lover of the format and of the entire GTA series for that matter. So, whilst we don't use streaming platforms, the orders we have made for the physical will no doubt count towards breaking some record I'd imagine down the line.",
-    "extra": {
-     "image": "https://images.pushsquare.com/83a7f3925b8dc/large.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "АЛЬБОМ GTA 6 БЬЕТ РЕКОРДЫ\n\nСаундтрек игры собрал аж 29.85 миллионов прослушиваний за первый день на Spotify, забрав звание самого успешного релиза. Дуа Липа и Трэвис Скотт явно в ударе, имба полная!\n\n❤️ — Уже добавили в плейлист\n👎 — Слушаю только радио в тачке",
-    "card_title": "САУНДТРЕК GTA 6 ПОРВАЛ SPOTIFY",
-    "reason": "Официальный рекорд саундтрека GTA 6 на Spotify, подтвержденный СМИ.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "GTA 6 Just Can't Stop Breaking Records It Seems — Google News (EN)",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-22T13:09:20.168808+00:00"
-  },
   {
    "item": {
     "title": "How to Find Backyard Wrestling in GTA 6—Location, Luchador Mask and More",
