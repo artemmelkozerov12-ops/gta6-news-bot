@@ -2176,7 +2176,15 @@
   "a1c2427b403fb9fe": "2026-11-22T15:41:18.152120+00:00",
   "3dc65fd4ca3434df": "2026-11-22T15:56:47.110637+00:00",
   "1f24da4b81d6d277": "2026-11-22T15:56:51.289442+00:00",
-  "4e545a893ffd194e": "2026-11-22T15:56:52.829601+00:00"
+  "4e545a893ffd194e": "2026-11-22T15:56:52.829601+00:00",
+  "9c7afb4a679ebebc": "2026-11-22T16:12:22.326493+00:00",
+  "858055e0dce318bc": "2026-11-22T16:12:32.226953+00:00",
+  "9de737886b961162": "2026-11-22T16:12:33.287085+00:00",
+  "ae3a604ceb1f2092": "2026-11-22T16:12:34.175465+00:00",
+  "82e662306da2afa3": "2026-11-22T16:12:40.471629+00:00",
+  "ca1a72d51037cd21": "2026-11-22T16:12:44.525887+00:00",
+  "c41725fe17da3545": "2026-11-22T16:12:45.493553+00:00",
+  "a29149c2e0bb38b6": "2026-11-22T16:12:46.713595+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -3642,7 +3650,15 @@
   "cc51dabb17781a25": "2026-11-22T15:41:18.152120+00:00",
   "0087ba002da69952": "2026-11-22T15:56:47.110637+00:00",
   "54823d3518518690": "2026-11-22T15:56:51.289442+00:00",
-  "c5ed1ef743fe8a37": "2026-11-22T15:56:52.829601+00:00"
+  "c5ed1ef743fe8a37": "2026-11-22T15:56:52.829601+00:00",
+  "80edb081749a6120": "2026-11-22T16:12:22.326493+00:00",
+  "709afb08f81a42eb": "2026-11-22T16:12:32.226953+00:00",
+  "9cc28db2663a4339": "2026-11-22T16:12:33.287085+00:00",
+  "95ade5ee6a610d7f": "2026-11-22T16:12:34.175465+00:00",
+  "073987c2f119e7c0": "2026-11-22T16:12:40.471629+00:00",
+  "919ee0e7a5669353": "2026-11-22T16:12:44.525887+00:00",
+  "8b9ac876f06d2887": "2026-11-22T16:12:45.493553+00:00",
+  "8014e9727501733b": "2026-11-22T16:12:46.713595+00:00"
  },
  "recent": [
   {
@@ -9492,6 +9508,70 @@
    "status": "skipped",
    "ts": "2026-11-22T15:56:52.829747+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GTA 6's strong and silent Jason was inspired by Steve McQueen and former Army Rangers, says Rockstar",
+   "source": "Eurogamer",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-22T16:12:26.653353+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "‘GTA VI’ is here. What parents need to know before handing over the controller",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T16:12:32.227107+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "All the GTA 6 aircraft we've spotted so far",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T16:12:33.287226+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Already Got One Thing Very Wrong",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T16:12:34.175617+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Bye Mandy, GTA 6 players have moved onto being infatuated with goth girl Vicki",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T16:12:40.471772+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "‘Having the ability to be able to play in the open world with your partner was a huge challenge’ — GTA 6 dev explains how Rockstar worked to ‘blur the lines between on-Mission and off-Mission and even between types of Mission’",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T16:12:44.526040+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Move Over 'James Bondisson' and GTA VI Because Lamborghini Rocked LA With the Temerario Spyder",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T16:12:45.493705+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "5 Easter eggs in GTA 6 you don’t want to miss",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T16:12:46.713738+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -9584,7 +9664,9 @@
     "guide": false,
     "model": "groq:qwen/qwen3.8-27b → groq:openai/gpt-oss-120b"
    },
-   "queued_at": "2026-11-22T13:59:26.142039+00:00"
+   "queued_at": "2026-11-22T13:59:26.142039+00:00",
+   "moderation": "pending",
+   "draft_msg_id": 84
   },
   {
    "item": {
@@ -9818,7 +9900,8 @@
   "2026-11-22T11:19:51.806243+00:00",
   "2026-11-22T12:43:34.843087+00:00",
   "2026-11-22T14:01:42.978013+00:00",
-  "2026-11-22T15:02:03.268686+00:00"
+  "2026-11-22T15:02:03.268686+00:00",
+  "2026-11-22T16:02:50.859091+00:00"
  ],
  "slots_sent": {
   "2026-11-21:guide:1": "2026-11-21T21:14:52.573728+00:00",
