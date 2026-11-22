@@ -2337,7 +2337,23 @@
   "72756e6ad0c077fb": "2026-11-22T19:46:07.253462+00:00",
   "fe361d1661c370de": "2026-11-22T19:46:08.011544+00:00",
   "0b2b472d14696d18": "2026-11-22T19:46:08.884680+00:00",
-  "334a7c491034125b": "2026-11-22T19:46:10.157758+00:00"
+  "334a7c491034125b": "2026-11-22T19:46:10.157758+00:00",
+  "948923c1ac76b6c9": "2026-11-22T20:01:32.880804+00:00",
+  "ccd11fa74c4fccb8": "2026-11-22T20:01:34.209779+00:00",
+  "bb79bd6dd42060bb": "2026-11-22T20:01:38.233402+00:00",
+  "b5ddfba736723989": "2026-11-22T20:01:40.101991+00:00",
+  "83688c4b392316a7": "2026-11-22T20:01:41.021116+00:00",
+  "0473f202f5742810": "2026-11-22T20:01:48.417611+00:00",
+  "64da6a0750ab2dbe": "2026-11-22T20:01:49.503334+00:00",
+  "1509836409df3238": "2026-11-22T20:01:50.677451+00:00",
+  "263bdfc4edb663ea": "2026-11-22T20:01:51.586753+00:00",
+  "89e4de78de466e19": "2026-11-22T20:17:12.892364+00:00",
+  "a71c49d37df73fd1": "2026-11-22T20:17:14.593343+00:00",
+  "4b427cbc583a6794": "2026-11-22T20:17:21.527727+00:00",
+  "5eabf797dee63e02": "2026-11-22T20:17:22.740859+00:00",
+  "d39bc486c540f4fb": "2026-11-22T20:17:23.860080+00:00",
+  "f2f34a8e80a8b7b0": "2026-11-22T20:17:25.602235+00:00",
+  "5738401963705a9a": "2026-11-22T20:17:32.632327+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -3922,7 +3938,23 @@
   "63a0b3af97eadb7d": "2026-11-22T19:46:07.253462+00:00",
   "e2540f02bd65fd49": "2026-11-22T19:46:08.011544+00:00",
   "4953a9a5d00026cf": "2026-11-22T19:46:08.884680+00:00",
-  "5dfa6588152bf2a8": "2026-11-22T19:46:10.157758+00:00"
+  "5dfa6588152bf2a8": "2026-11-22T19:46:10.157758+00:00",
+  "0f57c54a70e0d37e": "2026-11-22T20:01:32.880804+00:00",
+  "83016ac11851e351": "2026-11-22T20:01:34.209779+00:00",
+  "f9e00d1656f12f1b": "2026-11-22T20:01:38.233402+00:00",
+  "e70988f37ce88c77": "2026-11-22T20:01:40.101991+00:00",
+  "7f6ab4294f0aa247": "2026-11-22T20:01:41.021116+00:00",
+  "8c4af39e55e8a353": "2026-11-22T20:01:48.417611+00:00",
+  "ac28a6020caf1aa6": "2026-11-22T20:01:49.503334+00:00",
+  "4e806f000eafb724": "2026-11-22T20:01:50.677451+00:00",
+  "cdfd1a9caf43cfee": "2026-11-22T20:01:51.586753+00:00",
+  "4cf2298cc33283b9": "2026-11-22T20:17:12.892364+00:00",
+  "dc371a2bbf4390f6": "2026-11-22T20:17:14.593343+00:00",
+  "e0479fd7be30945a": "2026-11-22T20:17:21.527727+00:00",
+  "c6c1ab5b1c2094da": "2026-11-22T20:17:22.740859+00:00",
+  "90a2c909cba33e85": "2026-11-22T20:17:23.860080+00:00",
+  "a5555b104f7e8b73": "2026-11-22T20:17:25.602235+00:00",
+  "b412a7214871a340": "2026-11-22T20:17:32.632327+00:00"
  },
  "recent": [
   {
@@ -10452,6 +10484,134 @@
    "status": "skipped",
    "ts": "2026-11-22T19:46:10.157916+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GTA 6 discourse is suffering from the flat earther effect",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-22T20:01:32.880884+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "The \"Mute Licensed Music\" Setting in GTA 6 Does Not Prevent Copyright Claims",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-22T20:01:35.189777+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Bad Luck, I Guess trophy guide: How to rob the Payday Loans store",
+   "source": "VGC",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-22T20:01:38.869169+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to Claim the Vintage Vice City Pack Rewards in GTA 6",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-22T20:01:40.102104+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "I'm playing GTA 6 like it's The Sims and I couldn't be happier with that",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T20:01:41.021243+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Mission Music: Songs, Cutscenes and How to Identify Them",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T20:01:48.417735+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How Metacritic Tried — and Failed — to Stop ‘GTA 6’ Review Bombing",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T20:01:49.503504+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Why GTA 6's Breakfast Run Is Being Called a Perfect Mission",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T20:01:50.677575+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Психолог Уманова раскрыла, чем грозят многочасовые марафоны в GTA 6",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T20:01:51.586884+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Создатель игры «Гардарики» кинул чайку в GTA 6 и разозлил полицию",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-22T20:17:12.892427+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Buck’s Pawn Shop Walkthrough With Gold Card Location and Escape Route",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-22T20:17:15.359259+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Trust Halifax or Not? All Outcomes and Missable Rewards",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T20:17:21.527862+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Мэддисон не стал завершать прохождение GTA VI: «5/10, дропнул на 93% сюжета. Самая скучная GTA»",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T20:17:22.740989+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Создатель игры «Гардарики» пытался украсть танк в GTA 6 и нелепо погиб",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T20:17:23.860204+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI: сатира на Call of Duty и профсоюзы на фоне иска 31 экс-сотрудника",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T20:17:25.602373+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "100 часов GTA 6 от VK Play: новый гость — стример и певица Tenderlybae",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T20:17:32.632485+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -10482,7 +10642,9 @@
     "guide": false,
     "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
    },
-   "queued_at": "2026-11-22T19:26:39.003613+00:00"
+   "queued_at": "2026-11-22T19:26:39.003613+00:00",
+   "moderation": "pending",
+   "draft_msg_id": 91
   },
   {
    "item": {
@@ -11042,7 +11204,8 @@
   "2026-11-22T16:02:50.859091+00:00",
   "2026-11-22T17:03:01.090216+00:00",
   "2026-11-22T18:03:09.854828+00:00",
-  "2026-11-22T19:03:13.539370+00:00"
+  "2026-11-22T19:03:13.539370+00:00",
+  "2026-11-22T20:03:38.323230+00:00"
  ],
  "slots_sent": {
   "2026-11-21:guide:1": "2026-11-21T21:14:52.573728+00:00",
