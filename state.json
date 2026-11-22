@@ -1815,7 +1815,11 @@
   "fb6adbea528d5e3e": "2026-11-21T23:23:22.417097+00:00",
   "55d7bbbe6f3828b4": "2026-11-21T23:23:26.452771+00:00",
   "b3fab24678aeae6c": "2026-11-21T23:38:49.010893+00:00",
-  "f7bdec8f6b59c124": "2026-11-21T23:38:50.977639+00:00"
+  "f7bdec8f6b59c124": "2026-11-21T23:38:50.977639+00:00",
+  "7afd9ee7988411af": "2026-11-21T23:49:34.515101+00:00",
+  "aa332cec7e75f561": "2026-11-21T23:49:35.643823+00:00",
+  "a5d5e6fa089801d9": "2026-11-22T00:04:54.810163+00:00",
+  "d56acf2e069ffecf": "2026-11-22T00:20:17.759318+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -3028,281 +3032,13 @@
   "95985c796a864df7": "2026-11-21T23:23:22.417097+00:00",
   "fe393f9d0badce13": "2026-11-21T23:23:26.452771+00:00",
   "031838cb1c7d3eb0": "2026-11-21T23:38:49.010893+00:00",
-  "a63491678bfedf80": "2026-11-21T23:38:50.977639+00:00"
+  "a63491678bfedf80": "2026-11-21T23:38:50.977639+00:00",
+  "1c9af1d0b874a5ff": "2026-11-21T23:49:34.515101+00:00",
+  "e720bf4a3dc1b7c3": "2026-11-21T23:49:35.643823+00:00",
+  "60ca0bf3d9e20785": "2026-11-22T00:04:54.810163+00:00",
+  "412d6b262e26f07c": "2026-11-22T00:20:17.759318+00:00"
  },
  "recent": [
-  {
-   "title": "GAMING-GTA VI/MIAMI-LAUNCH",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-19T18:38:51.457842+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Instant review of GTA VI after four hours of gameplay",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-19T18:38:51.457938+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Phone apps list in GTA 6",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-19T18:38:51.458015+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "How To Switch Camera Views In GTA 6",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-19T18:38:51.458086+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "I just found a verrrry familiar-looking hat in GTA 6, and it was in the last place I would have expected",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-19T18:38:51.458164+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 debut prompts mass job callouts after 13-year wait",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-19T18:38:51.458239+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "How to steal a fighter jet and battle tank in GTA 6",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-19T18:38:52.291557+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Cheats in GTA 6 are weirdly restrictive, and I'm counting the minutes until the PC version fixes them",
-   "source": "PC Gamer",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-19T18:38:55.187146+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "How to play GTA VI on your PC today – with a free app",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-19T18:38:56.017538+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Bigfoot explained: How to find ‘Bigfoot’ in GTA 6",
-   "source": "VGC",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-19T18:38:56.948018+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Censorship in Japan Sees Characters Shower in Underwear, as Sex and Violence Are Toned Down",
-   "source": "Push Square",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-19T18:39:28.204267+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "‘GTA VI’, Online ‘Cheating’ and the Denouncement of the Game as Interactive Porn",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-19T18:39:29.382052+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GAMING-GTA VI/MIAMI-LAUNCH",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-19T18:39:59.786154+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6's devotion to life simulation is taking retro gaming sickos back to the Dreamcast era",
-   "source": "GamesRadar+",
-   "trust": "high",
-   "status": "dup",
-   "ts": "2026-11-19T20:22:04.995178+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Should you spare Arnold in GTA 6?",
-   "source": "GamesRadar+",
-   "trust": "high",
-   "status": "dup",
-   "ts": "2026-11-19T20:22:04.995236+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Girl’s Trip Mission Walkthrough",
-   "source": "VGC",
-   "trust": "high",
-   "status": "dup",
-   "ts": "2026-11-19T20:22:04.995298+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 guides and walkthroughs",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-19T20:22:04.995363+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Your GTA 6 car is your Red Dead 2 horse, and it's perfect",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-19T20:22:04.995420+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Players Should Change This One Setting Before Anything Else",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-19T20:22:04.995473+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6's Jason And Lucia Actors Post First Official Statement And Photos",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-19T20:22:04.995523+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Where to Find Paul Walker’s 1995 Mitsubishi Eclipse in GTA 6",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-19T20:22:04.995576+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Doja Cat Is Crashing Out About Her Music Not Being In GTA 6 : ‘I’m So F*ckin Bitter’",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-19T20:22:04.995626+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Actually us PC gamers aren't that bothered by GTA 6's 30 fps cap on console",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-19T20:22:04.995674+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "The lead actress in 'Grand Theft Auto VI' has finally been revealed. What to know about the woman behind Lucia.",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-19T20:22:04.995724+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 (Grand Theft Auto 6) - Official Global Launch Trailer",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-19T20:22:04.995771+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "100 часов GTA 6 от VK Play: гость — автор игровых медиа Константин Иванов",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-19T20:22:04.995845+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Прохождение GTA 6 — Глава 1. Миссия «Время выписываться»",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-19T20:22:04.995897+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "«$100 за боевой пропуск»: геймеры критикуют расширенное издание GTA 6",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-19T20:22:04.995949+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Where to have a bona fide bigfoot (skunk ape) sighting in GTA 6",
-   "source": "PC Gamer",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-19T20:22:07.933495+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 guides and walkthroughs",
-   "source": "Polygon",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-19T20:22:08.992414+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Northern California gamers lock in for GTA VI",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-19T20:22:21.794070+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA VI pulls in estimated $1.84 billion by release day, more than double GTA V’s launch record",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-19T20:22:35.559849+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Fox News Panelist Sparks Debate by Comparing GTA 6 to Giving a Child a Gun",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-19T20:22:40.281689+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Emory professor breaks down GTA 6's billion-dollar impact",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-19T20:22:40.866220+00:00",
-   "card_title": ""
-  },
   {
    "title": "GTA 6 Moses Mission Walkthrough",
    "source": "VGC",
@@ -8038,6 +7774,38 @@
    "status": "skipped",
    "ts": "2026-11-21T23:38:50.977771+00:00",
    "card_title": ""
+  },
+  {
+   "title": "Take-Two Falls 3.7% as GTA VI's Record $3.7 Billion Debut Fails to Lift Shares",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T23:49:34.515215+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Miami Heat Vice City Jerseys Spark Massive Resale Frenzy After GTA 6 Launch",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-21T23:49:35.643956+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "French Retirement Home Residents Are Trading Scrabble for GTA 6",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "queued",
+   "ts": "2026-11-22T00:04:58.409503+00:00",
+   "card_title": "БАБУШКИ РУБЯТСЯ В GTA 6"
+  },
+  {
+   "title": "Binding Of Isaac Update Review-Bombed Over AI-Generated Music In GTA 6 Mode: ‘Woke Up To A Sh*t Show, Obviously I Had No Idea’",
+   "source": "Kotaku",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-22T00:20:24.321373+00:00",
+   "card_title": "ИИ-СКАНДАЛ ИЗ-ЗА GTA 6"
   }
  ],
  "queue": [
@@ -8330,6 +8098,35 @@
     "model": "gemini:gemini-3.1-flash-lite"
    },
    "queued_at": "2026-11-21T22:20:46.299786+00:00"
+  },
+  {
+   "item": {
+    "title": "Binding Of Isaac Update Review-Bombed Over AI-Generated Music In GTA 6 Mode: ‘Woke Up To A Sh*t Show, Obviously I Had No Idea’",
+    "link": "https://kotaku.com/binding-of-isaac-update-review-bombed-over-ai-generated-music-in-gta-6-mode-woke-up-to-a-sht-show-obviously-i-had-no-idea-2000759213",
+    "summary": "A Vice City mode was using music made by AI",
+    "published": "2026-11-22T00:18:14+00:00",
+    "source": "Kotaku",
+    "site_name": "Kotaku",
+    "trust": "high",
+    "text": "AIGTA 6NicalisSoundtrackSteamThe Binding of Isaac: Repentance+\nThe Binding of Isaac: Repentance+ was a free update to the beloved roguelike that arrived on PC in 2024, but launched on console earlier this week in a head-to-head matchup against Grand Theft Auto 6. The marketing stunt may have been a success, but AI-generated music tracks discovered in a special new Vice City mode have turned the launch into a nightmare.\nWhile Repentance+ came to PS5, Xbox Series X/S, and Switch 2 this week, the Steam version of the game also got a free update. “Be sure to get in and play today’s Daily Run for a very special crime-packed surprise. Enter the Basement, and go out in a glorious blaze of bullets and vehicular homicide!” read the patch notes on on Valve’s storefront. Players could enter the seed “V1CE BSMT” into the roguelike before starting their run to launch a GTA-inspired version with special weapons and music.\nEarlier today, however, Reddit user ShweetsStuff posted a comprehensive breakdown of the new music tracks alleging they were made with Suno, an AI-based music generation tool. “The new update includes 14 music files for the run; seven full songs, plus some derivatives (intros/outros),” the wrote. The post continued:\nSome include Suno metadata with them. You can find this information yourself by just checking the file comment metadata (something common like VLC has tools for this, but here’s ffprobe output of drivingsong1.ogg, for example): comment : made with suno; created=2026-10-30T17:53:41Z; id=cd5a5b55-bead-4cb9-949d-09ed1f917dce Other files have this comment scrubbed; they were edited/exported later, but nonetheless there’s the proof.\nPlease report issues and bugs to the email attached. https://t.co/KHKSqKGsUe — 🜏 Edmund McMillen 🜏 (@edmundmcmillen) November 21, 2026\n“They’ve had how long now to prepare the GTA 6 release Easter egg daily run literally nobody asked for and still ai slopped it? Are you fucking kidding me,” one fan wrote on the Binding of Isaac subreddit. “No shit, it’s 2026. The entire industry is like this. Cutting corners constantly because they know they can get away with it,” wrote another.\nMany have blamed Nicalis, the publisher and co-developer of the Repentance+ expansion, in particular. Complaints about ongoing bugs, latency, and quality control issues have seemingly been building for some time. The latest mishap results in a review-bomb of the expansion’s Steam page, which currently sits at an abysmal user rating of just 9 ",
+    "extra": {
+     "image": "https://kotaku.com/app/uploads/2026/11/binding-of-isaac.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "КРИНЖ: В Binding of Isaac завезли ИИ-музыку ради кроссовера с GTA 6\n\nРазрабы Айзека решили хайпануть на релизе GTA 6 и бахнули тематический забег «V1CE BSMT» с пушками и музыкой. Только вот игроки нашли в файлах треков метаданные нейросети Suno. Разрабам уже устроили жесткий ревью-бомбинг в Steam. Зато сэкономили, ага.\n\n❤️ — ИИ в играх это полный зашквар\n👎 — Да пофиг, главное забег веселый",
+    "card_title": "ИИ-СКАНДАЛ ИЗ-ЗА GTA 6",
+    "reason": "Подтверждённый скандал, интересен фанатам",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "groq:openai/gpt-oss-120b → gemini:gemini-3.5-flash"
+   },
+   "queued_at": "2026-11-22T00:20:24.321358+00:00"
   },
   {
    "item": {
@@ -9046,6 +8843,35 @@
   },
   {
    "item": {
+    "title": "French Retirement Home Residents Are Trading Scrabble for GTA 6",
+    "link": "https://www.gtaboom.com/french-retirement-home-residents-are-trading-scrabble-for-gta-6-dcec",
+    "summary": "Jacqueline, 82, told ICI Paris Île de France her first time at the controls of a boat in GTA 6 gave her a welcome break after losing her husband.",
+    "published": "2026-11-21T23:55:23+00:00",
+    "source": "GTA BOOM",
+    "site_name": "GTA BOOM",
+    "trust": "medium",
+    "text": "Residents at a French retirement home put down the Scrabble board and picked up controllers. For a game that had racked up anticipation awards and prompted questions from parents, it was a different sort of audience: about ten residents taking turns playing Grand Theft Auto VI. By the afternoon an 82-year-old who had never touched a console in her life was steering a boat through Leonida and fishing packets of cocaine out of the water.\nThe session ran at the Domitys residence in Serris, east of Paris, where animator Karine Gomes and her team set up a console in the main lounge as a one-off activity. About ten residents took turns playing the latest Grand Theft Auto. They stuck to the gentler corners of the game, boat trips across the Miami-inspired bay and a mission or two, while driving and shooting proved harder on arthritic hands. Nobody was speedrunning heists. They were messing about on the water in a world that happens to be GTA 6.\nJacqueline, 82, told ICI Paris Île-de-France she had never held a controller before 9 that morning and by half past two she had fished out two packets of drugs. She plans to tell her grandchildren that Mamine plays GTA VI and she is no older than they are. Then she said the part that stays with you. The game cut her off from her present life and did her a world of good, seven months after losing her husband and a finger ache was a small price.\nLucienne, 86, thought she was watching a film until someone handed her the controller. She wants one for Christmas if it is not too dear, about €80 before you count the console. She is already planning to ask her children. Gomes said a few residents found the game too violent, then defended Lucia, a woman fresh out of prison who needs money to raise her baby. A room of octogenarians arguing over a protagonist's morality is a sharper review than most of the moral-panic coverage the launch produced.\nThis is what the Circana numbers were trying to tell us. When the data said GTA 6 pulled in the everyperson, it meant this in a literal sense, a grieving widow in Seine-et-Marne who had never gamed, laughing at a boat and this grandmother who bought an Xbox to play the same game. France already treated the launch like a national event, from the leave requests to the way the country celebrates its games. For first-timers like these residents, we recommend going through our story mode guide.\nNone of this is the game we were told to expect. The biggest launch in entertainment history told a st",
+    "extra": {
+     "image": "https://media.gtaboom.com/variants/1920/media/images/5f/87/french-retirement-home-residents-are-trading-scrabble-for-gta-6-1.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "👴 Внимание, бабули ворвались в Vice City!\n\nВо Франции резиденты дома престарелых забили на скраббл и сели за GTA 6. 82-летняя Жаклин впервые в жизни взяла геймпад и с ходу выловила из воды пару пакетов с кокаином на катере. Рил база!\n\nДругая 86-летняя бабуля думала, что смотрит кино, а теперь выпрашивает у детей консоль на Новый год. Настоящий разнос стигмы о гейминге.\n\n❤️ — Топчик, хочу такую бабулю!\n👎 — Кринж, лучше пусть вяжут",
+    "card_title": "БАБУШКИ РУБЯТСЯ В GTA 6",
+    "reason": "Подтверждённый реальный случай, интересный факт, но без геймплейных секретов",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "groq:openai/gpt-oss-120b → gemini:gemini-3.5-flash"
+   },
+   "queued_at": "2026-11-22T00:04:58.409489+00:00"
+  },
+  {
+   "item": {
     "title": "GTA 6: How To Get A Rhino Tank (Challenging Tank)",
     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZVA5T0lKZkdsM1JEdzV6MUl3eDUxZHJVSVpUb2FxZVhJazg3WjVZb29PaWlidHJzcWRmU1ZSX2FlTm9NSm5ORDV6WEhCdmt0VExfQThzOGp4bnpMak9nVUVfb0VRMDFPQl9rMEZ5bHVpcktYeDBTaUNheDZqNWduenlR?oc=5",
     "summary": "GTA 6: How To Get A Rhino Tank (Challenging Tank) Cultured Vultures",
@@ -9183,7 +9009,6 @@
  ],
  "clips": [],
  "clip_drafts": [
-  "2026-11-19T20:32:43.491620+00:00",
   "2026-11-20T09:18:13.478034+00:00",
   "2026-11-20T10:28:47.352690+00:00",
   "2026-11-20T14:49:41.470920+00:00",
@@ -13003,5 +12828,6 @@
   "poll-2026-W47": "2026-11-21T16:00:25.901739+00:00",
   "weekly-20261121": "2026-11-21T17:30:42.606074+00:00",
   "digest-20261121": "2026-11-21T19:30:10.993120+00:00"
- }
+ },
+ "rewrite_wait": []
 }
