@@ -2234,7 +2234,54 @@
   "92661d50a71c97ce": "2026-11-22T17:45:01.945954+00:00",
   "bf2dc1d29912e77c": "2026-11-22T17:45:02.786493+00:00",
   "0298a91449040a11": "2026-11-22T17:45:03.810283+00:00",
-  "a4b50e428fe96c54": "2026-11-22T17:45:05.085532+00:00"
+  "a4b50e428fe96c54": "2026-11-22T17:45:05.085532+00:00",
+  "3e8e5c2ff2dca966": "2026-11-22T18:00:55.254668+00:00",
+  "f59a44917d1a2956": "2026-11-22T18:00:56.860295+00:00",
+  "8bba4b7baa94b839": "2026-11-22T18:01:16.020840+00:00",
+  "6fab44a5e103649f": "2026-11-22T18:01:18.181574+00:00",
+  "f9b6584a3ab17460": "2026-11-22T18:01:19.872385+00:00",
+  "339f0fca2f193bcb": "2026-11-22T18:01:21.251407+00:00",
+  "5db91eebdde40285": "2026-11-22T18:01:22.365053+00:00",
+  "d4282d85c36cd069": "2026-11-22T18:16:42.327590+00:00",
+  "dbf85bd70274d64c": "2026-11-22T18:16:42.327682+00:00",
+  "607be46a67c563f0": "2026-11-22T18:16:42.327743+00:00",
+  "f7c6e8fa2e3a4718": "2026-11-22T18:16:42.327805+00:00",
+  "2f34ce02454fcbfd": "2026-11-22T18:16:42.327862+00:00",
+  "7aeb6d625f7b1720": "2026-11-22T18:16:42.327929+00:00",
+  "6e67954d61769d64": "2026-11-22T18:16:42.327988+00:00",
+  "61d9d52d2d29adc7": "2026-11-22T18:16:42.328045+00:00",
+  "c4aec2a5919923cc": "2026-11-22T18:16:42.328123+00:00",
+  "4d6309acfb6c2d55": "2026-11-22T18:16:42.422439+00:00",
+  "7fb7f9da9340df9c": "2026-11-22T18:16:51.269184+00:00",
+  "29ebe92a0a054e60": "2026-11-22T18:16:57.498099+00:00",
+  "360954c061f5b152": "2026-11-22T18:16:59.517810+00:00",
+  "a8def3b3a487eeb6": "2026-11-22T18:17:20.892679+00:00",
+  "c9c212cf6aa1e435": "2026-11-22T18:17:51.137570+00:00",
+  "2721e0535604fdb9": "2026-11-22T18:18:10.754956+00:00",
+  "cb48be93007440cf": "2026-11-22T18:22:15.147466+00:00",
+  "6f502653816b6552": "2026-11-22T18:22:16.384345+00:00",
+  "982b504425e4c677": "2026-11-22T18:22:17.278576+00:00",
+  "a7bf4808a2db422c": "2026-11-22T18:22:18.183817+00:00",
+  "a27fd67cb82cd78c": "2026-11-22T18:23:08.997177+00:00",
+  "35a87767536a7597": "2026-11-22T18:23:09.723904+00:00",
+  "97ffc5949a0ff1d9": "2026-11-22T18:23:10.567976+00:00",
+  "5c0a71298a9a3411": "2026-11-22T18:23:11.428618+00:00",
+  "9ff3d79a3872cb5d": "2026-11-22T18:24:02.491451+00:00",
+  "a5c563ddc8971b99": "2026-11-22T18:24:03.296504+00:00",
+  "91c0a1cf41b6a733": "2026-11-22T18:24:04.112418+00:00",
+  "ea4598400295eda1": "2026-11-22T18:24:04.944469+00:00",
+  "125489517061bfc4": "2026-11-22T18:24:55.759544+00:00",
+  "3d5517500a9aafbf": "2026-11-22T18:24:56.744328+00:00",
+  "bb768d606485eaad": "2026-11-22T18:24:57.760953+00:00",
+  "cf95a8ef602bddca": "2026-11-22T18:24:58.649043+00:00",
+  "895463f15215eb68": "2026-11-22T18:25:49.677524+00:00",
+  "389474f5145a70e7": "2026-11-22T18:25:50.488927+00:00",
+  "4ac626fc1c8cc2d4": "2026-11-22T18:25:51.452027+00:00",
+  "f33736ed11f533aa": "2026-11-22T18:26:07.981830+00:00",
+  "20456fe1d5ff015d": "2026-11-22T18:27:07.938062+00:00",
+  "cc4a6aa2cf6d9065": "2026-11-22T18:27:13.159708+00:00",
+  "77907f9bb2bac99c": "2026-11-22T18:27:28.535338+00:00",
+  "f190397dfbf018cb": "2026-11-22T18:27:32.669104+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -3757,7 +3804,28 @@
   "de04cd83b9ff215c": "2026-11-22T17:45:01.945954+00:00",
   "d1ea97995722f876": "2026-11-22T17:45:02.786493+00:00",
   "7030b9f7b5c7ccc5": "2026-11-22T17:45:03.810283+00:00",
-  "4868406161884f87": "2026-11-22T17:45:05.085532+00:00"
+  "4868406161884f87": "2026-11-22T17:45:05.085532+00:00",
+  "2254038c8250423b": "2026-11-22T18:00:55.254668+00:00",
+  "9366254cec9b40d7": "2026-11-22T18:00:56.860295+00:00",
+  "8062621f20a394ac": "2026-11-22T18:01:16.020840+00:00",
+  "0d5f42c7aa8e43ee": "2026-11-22T18:01:18.181574+00:00",
+  "9cb9d373f0b73417": "2026-11-22T18:01:19.872385+00:00",
+  "18f55df1e09ac4d9": "2026-11-22T18:01:21.251407+00:00",
+  "e635f69f272d7dd0": "2026-11-22T18:01:22.365053+00:00",
+  "b843c9896332e603": "2026-11-22T18:16:42.327590+00:00",
+  "28b388b6de2346be": "2026-11-22T18:16:42.327682+00:00",
+  "71102fd884c8b450": "2026-11-22T18:16:42.327743+00:00",
+  "b47efb408e9ac0ae": "2026-11-22T18:16:42.327805+00:00",
+  "2257ca46365427af": "2026-11-22T18:16:42.327862+00:00",
+  "fb9b03b9320e968c": "2026-11-22T18:16:42.327929+00:00",
+  "1e6dede0fc06c170": "2026-11-22T18:16:42.327988+00:00",
+  "65aa45b3fe5b654c": "2026-11-22T18:16:57.498099+00:00",
+  "2258e85fe3151dbc": "2026-11-22T18:16:59.517810+00:00",
+  "412ccb6107f73d76": "2026-11-22T18:16:42.422439+00:00",
+  "93b8837023f38974": "2026-11-22T18:16:51.269184+00:00",
+  "d592f2e4923f34b3": "2026-11-22T18:17:20.892679+00:00",
+  "bec5d76bf7b6ebd7": "2026-11-22T18:17:51.137570+00:00",
+  "cb9c09e9cfef5b83": "2026-11-22T18:18:10.754956+00:00"
  },
  "recent": [
   {
@@ -8948,7 +9016,7 @@
    "title": "GTA 6 Just Can't Stop Breaking Records It Seems",
    "source": "Push Square",
    "trust": "high",
-   "status": "queued",
+   "status": "published",
    "ts": "2026-11-22T14:34:55.937908+00:00",
    "card_title": "РЕКОРД САУНДТРЕКА В SPOTIFY"
   },
@@ -9775,40 +9843,177 @@
    "status": "queued",
    "ts": "2026-11-22T17:45:36.124839+00:00",
    "card_title": "БЕСКОНЕЧНЫЕ ДЕНЬГИ НА СТАРТЕ"
+  },
+  {
+   "title": "Reynolds Kit Car locations in GTA 6: How to restore the fourth car in Wyman's Car Collection",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-22T18:00:55.254711+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Six Years Too Late, Next-Gen Finally Arrives with GTA 6",
+   "source": "Polygon",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-22T18:01:14.865831+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Just Turned a Preorder Bonus Into a $4.99 Add-On",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-22T18:01:16.831586+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6's casino and go-karts aren't open, but are they really coming soon?🙏",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T18:01:19.872514+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to Turn Off Copyrighted Music in GTA 6 for YouTube and Twitch",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T18:01:21.251526+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI Officially Brings Back A Batman Tragedy As A Viral Meme",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T18:01:22.365184+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to Complete Prepare for Vice City in GTA 6",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "dup",
+   "ts": "2026-11-22T18:16:42.327631+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to Complete Coffee Break in GTA 6",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "dup",
+   "ts": "2026-11-22T18:16:42.327708+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to Complete Breakfast Run in GTA 6",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "dup",
+   "ts": "2026-11-22T18:16:42.327765+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to Complete How Do I Look? in GTA 6",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "dup",
+   "ts": "2026-11-22T18:16:42.327828+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to Complete New Look in GTA 6",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "dup",
+   "ts": "2026-11-22T18:16:42.327886+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to Complete Behind on Payments in GTA 6",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "dup",
+   "ts": "2026-11-22T18:16:42.327952+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to Complete Play Nurse in GTA 6",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "dup",
+   "ts": "2026-11-22T18:16:42.328009+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Go on a trip with Dave and Beezlebub for a sick boss fight in GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-22T18:16:42.328084+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Which GTA 6 radio station is your favourite so far?",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-22T18:16:42.328156+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Where to Find the Ascot Paragon Car in GTA 6—Randy’s Wishlist Car Locations",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "dup",
+   "ts": "2026-11-22T18:16:42.422493+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to Complete Ambulance Chaser in GTA 6",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-22T18:16:51.269290+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Go on a trip with Dave and Beezlebub for a sick boss fight in GTA 6",
+   "source": "Polygon",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-22T18:16:57.893715+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Which GTA 6 radio station is your favourite so far?",
+   "source": "PC Gamer",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-22T18:16:59.517957+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to zoom out map in GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T18:17:51.137690+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "The Best GTA VI Accessory Isn't a Controller, It's Breville's Barista Express at an All-Time Low",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T18:18:10.755097+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
-  {
-   "item": {
-    "title": "GTA 6 Just Can't Stop Breaking Records It Seems",
-    "link": "https://www.pushsquare.com/news/2026/11/gta-6-just-cant-stop-breaking-records-it-seems",
-    "summary": "Sets new soundtrack streaming record on Spotify. Not content with being the biggest entertainment launch in history and the highest rated game of all time , GTA 6 has already broken another record. The game’s official album, which features all-new tracks from the likes of Dua Lipa , set a new opening day record for a soundtrack on Spotify with a dizzying 29.85 million streams. Read the full article on pushsquare.com",
-    "published": "2026-11-22T13:00:00+00:00",
-    "source": "Push Square",
-    "site_name": "Push Square",
-    "trust": "high",
-    "text": "Not content with being the biggest entertainment launch in history and the highest rated game of all time, GTA 6 has already broken another record.\nThe game’s official album, which features all-new tracks from the likes of Dua Lipa, set a new opening day record for a soundtrack on Spotify with a dizzying 29.85 million streams.\nThe compilation has 34 songs, including music from artists like Travis Scott, Morgan Wallen, and Jennie.\nI was listening to the album yesterday and, while I was already familiar with a lot of the songs from my time in Leonida writing the review, I do think it’s a good and eclectic mix. I’m not surprised to see it break records.\nBy the way, if you’re loving GTA 6’s soundtrack – specifically its Radio Songs – then we have a massive and complete guide to all the music, radio stations, artists, celebrity cameos, and much more through the link.\nHave you been listening to the record-breaking GTA 6: The Album? Nod your head in the comments section below.\nPlaced an order on CD and vinyl for us at home, then my sister wanted the vinyl too, as like me she's a lover of the format and of the entire GTA series for that matter. So, whilst we don't use streaming platforms, the orders we have made for the physical will no doubt count towards breaking some record I'd imagine down the line.",
-    "extra": {
-     "image": "https://images.pushsquare.com/83a7f3925b8dc/large.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "🎧 Саундтрек GTA 6 порвал Spotify на 30 МЛН стримов\n\nОфициальный альбом GTA 6: The Album с треками Дуа Липы, Трэвиса Скотта и Jennie поставил абсолютный рекорд первого дня среди саундтреков — 29,85 млн прослушиваний. Музыка в Леониде зашла настолько, что народ слушает её даже без катки.",
-    "card_title": "РЕКОРД САУНДТРЕКА В SPOTIFY",
-    "reason": "Официальный рекорд саундтрека GTA 6 на Spotify, подтвержденный СМИ.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "GTA 6 Just Can't Stop Breaking Records It Seems — Google News (EN)",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-3.5-flash"
-   },
-   "queued_at": "2026-11-22T14:34:55.937895+00:00",
-   "moderation": "pending",
-   "draft_msg_id": 83
-  },
   {
    "item": {
     "title": "Grand Theft Auto 6 has a 'complex drug network' that tracks everything from where drugs come from to 'how they eventually reach the street-level buyer'",
@@ -9837,8 +10042,9 @@
     "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
    },
    "queued_at": "2026-11-22T16:24:14.691068+00:00",
-   "moderation": "pending",
-   "draft_msg_id": 85
+   "moderation": "approved",
+   "draft_msg_id": 85,
+   "waiting_logged": true
   },
   {
    "item": {
@@ -9868,8 +10074,9 @@
     "model": "groq:qwen/qwen3.8-27b → groq:openai/gpt-oss-120b"
    },
    "queued_at": "2026-11-22T13:59:26.142039+00:00",
-   "moderation": "pending",
-   "draft_msg_id": 84
+   "moderation": "approved",
+   "draft_msg_id": 84,
+   "waiting_logged": true
   },
   {
    "item": {
@@ -10244,7 +10451,9 @@
     "guide": false,
     "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-4-hydrogen"
    },
-   "queued_at": "2026-11-22T17:45:36.124827+00:00"
+   "queued_at": "2026-11-22T17:45:36.124827+00:00",
+   "moderation": "pending",
+   "draft_msg_id": 86
   }
  ],
  "posts": [
@@ -10271,9 +10480,10 @@
   "2026-11-22T10:36:38.402500+00:00",
   "2026-11-22T11:31:52.041959+00:00",
   "2026-11-22T12:52:42.587608+00:00",
-  "2026-11-22T16:35:44.287977+00:00"
+  "2026-11-22T16:35:44.287977+00:00",
+  "2026-11-22T18:19:06.164584+00:00"
  ],
- "tg_offset": 387129045,
+ "tg_offset": 387129048,
  "channel": {
   "id": -1003986639147,
   "title": "GTA 6 | Горячие новости",
@@ -10303,7 +10513,8 @@
   "2026-11-22T14:01:42.978013+00:00",
   "2026-11-22T15:02:03.268686+00:00",
   "2026-11-22T16:02:50.859091+00:00",
-  "2026-11-22T17:03:01.090216+00:00"
+  "2026-11-22T17:03:01.090216+00:00",
+  "2026-11-22T18:03:09.854828+00:00"
  ],
  "slots_sent": {
   "2026-11-21:guide:1": "2026-11-21T21:14:52.573728+00:00",
@@ -10313,7 +10524,38 @@
  "urgent": [
   "2026-11-21T20:14:20.243248+00:00"
  ],
- "clips": [],
+ "clips": [
+  {
+   "clip": {
+    "source": "twitch",
+    "url": "https://www.twitch.tv/rostislav_999/clip/NaivePopularToothBrokeBack-ZV9Zhlb2o28fGjYn",
+    "title": "nepes",
+    "author": "rostislav_999",
+    "views": 1302,
+    "duration": 36.7,
+    "created": "2026-11-21T20:52:17+00:00",
+    "lang": "ru",
+    "description": "",
+    "vod_id": "2936140043",
+    "vod_offset": 5970.0
+   },
+   "caption": "Чел решил срезать через болото, но аллигаторы в GTA 6 — это лютая имба. Ласт его ошибка, просто ору 💀",
+   "interest": 9,
+   "spoiler": false,
+   "nsfw": false,
+   "watched": true,
+   "model": "gemini:gemini-3.1-flash-lite",
+   "media": {
+    "width": null,
+    "height": 720,
+    "duration": 36
+   },
+   "queued_at": "2026-11-22T18:27:40.756527+00:00",
+   "file_id": "BAACAgIAAxkDAANXawM0HofYATExleSmPCL-WX7gC0cAAhe0AAKnJxlIj-ZfiWdtRU89BA",
+   "moderation": "pending",
+   "draft_msg_id": 87
+  }
+ ],
  "clip_drafts": [
   "2026-11-20T18:12:30.979974+00:00",
   "2026-11-20T19:41:54.206032+00:00",
@@ -10329,7 +10571,8 @@
   "2026-11-22T09:12:46.509272+00:00",
   "2026-11-22T10:17:37.834870+00:00",
   "2026-11-22T11:30:53.650853+00:00",
-  "2026-11-22T12:57:11.614114+00:00"
+  "2026-11-22T12:57:11.614114+00:00",
+  "2026-11-22T18:27:42.489518+00:00"
  ],
  "clip_history": [
   {
@@ -14906,6 +15149,214 @@
    "ts": "2026-11-22T12:57:11.614130+00:00",
    "frames": [],
    "caption": "Приземление машины прямо на байк в гонке — это какой-то лютый рандом и разнос 💀 Физика в GTA 6 просто пушка!"
+  },
+  {
+   "author": "youtube:gleb pov",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 5 vs GTA 6 Box Contents 🎮",
+   "drafted": false,
+   "ts": "2026-11-22T18:22:15.147520+00:00"
+  },
+  {
+   "author": "youtube:gameplayrj",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 A 60 FPS É LINDO DEMAIS , VAMOS JOGAR O DIA TODO",
+   "drafted": false,
+   "ts": "2026-11-22T18:22:16.384413+00:00"
+  },
+  {
+   "author": "youtube:aaron rheins",
+   "vod": "",
+   "offset": -1,
+   "title": "Are GTA6 Crash Physics Broken?",
+   "drafted": false,
+   "ts": "2026-11-22T18:22:17.278615+00:00"
+  },
+  {
+   "author": "youtube:gta2025",
+   "vod": "",
+   "offset": -1,
+   "title": "se puede quebrar el retrovisor con otro en #gta6",
+   "drafted": false,
+   "ts": "2026-11-22T18:22:18.183852+00:00"
+  },
+  {
+   "author": "youtube:issei nugroho",
+   "vod": "",
+   "offset": -1,
+   "title": "3 Bug GTA 6 Paling diLuar Ekspektasi",
+   "drafted": false,
+   "ts": "2026-11-22T18:23:08.997215+00:00"
+  },
+  {
+   "author": "youtube:his story",
+   "vod": "",
+   "offset": -1,
+   "title": "He Chose Homework 📚 Over GTA 6 🎮",
+   "drafted": false,
+   "ts": "2026-11-22T18:23:09.723938+00:00"
+  },
+  {
+   "author": "youtube:bux vlogs",
+   "vod": "",
+   "offset": -1,
+   "title": "Los Streamers y el GTA 6 🚨",
+   "drafted": false,
+   "ts": "2026-11-22T18:23:10.568011+00:00"
+  },
+  {
+   "author": "youtube:o porão",
+   "vod": "",
+   "offset": -1,
+   "title": "A VIDA dos NPCS no GTA 6! #gta #gta6 #gtav #grandtheftauto #jogos",
+   "drafted": false,
+   "ts": "2026-11-22T18:23:11.428649+00:00"
+  },
+  {
+   "author": "youtube:mati clips",
+   "vod": "",
+   "offset": -1,
+   "title": "DANIREP PRUEBA EL COCHE MAS RAPIDO DE GTA 6",
+   "drafted": false,
+   "ts": "2026-11-22T18:24:02.491489+00:00"
+  },
+  {
+   "author": "youtube:typical gamer",
+   "vod": "",
+   "offset": -1,
+   "title": "What Happens When You Swim Too Far in GTA 6?",
+   "drafted": false,
+   "ts": "2026-11-22T18:24:03.296536+00:00"
+  },
+  {
+   "author": "youtube:ryezy",
+   "vod": "",
+   "offset": -1,
+   "title": "Returning Characters In GTA 6 Then Vs Now || #shorts #gta6 #gta",
+   "drafted": false,
+   "ts": "2026-11-22T18:24:04.112453+00:00"
+  },
+  {
+   "author": "youtube:michougaming",
+   "vod": "",
+   "offset": -1,
+   "title": "JE FINI GTA 6 AUJOURD'HUI ! (on est bientôt à la fin)",
+   "drafted": false,
+   "ts": "2026-11-22T18:24:04.944499+00:00"
+  },
+  {
+   "author": "youtube:jef dicas tech 📱tecnologia ",
+   "vod": "",
+   "offset": -1,
+   "title": "VOCÊ ESTÁ COM GTA 6 CONFIGURADO ERRADO!",
+   "drafted": false,
+   "ts": "2026-11-22T18:24:55.759580+00:00"
+  },
+  {
+   "author": "youtube:kektar",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 - ЭТО ХОРРОР 😮",
+   "drafted": false,
+   "ts": "2026-11-22T18:24:56.744358+00:00"
+  },
+  {
+   "author": "youtube:vegetta777",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 - NUEVAS AMISTADES! #5",
+   "drafted": false,
+   "ts": "2026-11-22T18:24:57.760982+00:00"
+  },
+  {
+   "author": "youtube:jiggl3 gaming",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 TRUE ENDING 💔 #GTA6 #GTAVI #GTA6Gameplay #GTA6Shorts #GrandTheftAuto6 #RockstarGames #ViceCity",
+   "drafted": false,
+   "ts": "2026-11-22T18:24:58.649074+00:00"
+  },
+  {
+   "author": "youtube:brandin legacy",
+   "vod": "",
+   "offset": -1,
+   "title": "Lucia went to the beach & this happened 👀 #gta6 #lucia #gta6clips #gta6shorts #gameplay",
+   "drafted": false,
+   "ts": "2026-11-22T18:25:49.677566+00:00"
+  },
+  {
+   "author": "youtube:skyftbl",
+   "vod": "",
+   "offset": -1,
+   "title": "Speed Finds The Weirdest GTA 6 NPC PEEING 😭💀",
+   "drafted": false,
+   "ts": "2026-11-22T18:25:50.488960+00:00"
+  },
+  {
+   "author": "twitch:baupenner",
+   "vod": "2936265524",
+   "offset": 13018.0,
+   "title": "Crash Power 🤣",
+   "drafted": false,
+   "ts": "2026-11-22T18:25:51.452069+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:tusoved",
+   "vod": "2937117399",
+   "offset": 20991.0,
+   "title": "я тебя сьем",
+   "drafted": false,
+   "ts": "2026-11-22T18:26:07.981893+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:dmitry_bale",
+   "vod": "2937162062",
+   "offset": 2235.0,
+   "title": "Не игра то классная !",
+   "drafted": false,
+   "ts": "2026-11-22T18:27:07.938108+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:montanablack88",
+   "vod": "2937100204",
+   "offset": 1810.0,
+   "title": "Monte tötet Katze wirft Leute damit ab",
+   "drafted": false,
+   "ts": "2026-11-22T18:27:13.159759+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:jill",
+   "vod": "2936766948",
+   "offset": 20632.0,
+   "title": "getting my hair done",
+   "drafted": false,
+   "ts": "2026-11-22T18:27:28.535384+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:rostislav_999",
+   "vod": "2936140043",
+   "offset": 5970.0,
+   "title": "nepes",
+   "drafted": false,
+   "ts": "2026-11-22T18:27:32.669151+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:rostislav_999",
+   "vod": "2936140043",
+   "offset": 5970.0,
+   "title": "nepes",
+   "drafted": true,
+   "ts": "2026-11-22T18:27:42.489537+00:00",
+   "frames": [],
+   "caption": "Чел решил срезать через болото, но аллигаторы в GTA 6 — это лютая имба. Ласт его ошибка, просто ору 💀"
   }
  ],
  "published": [
@@ -15104,6 +15555,13 @@
    "title": "Более половины игроков на консолях в GTA 6 в день релиза",
    "importance": 8,
    "kind": "confirmed"
+  },
+  {
+   "ts": "2026-11-22T18:19:06.164599+00:00",
+   "msg_id": 56,
+   "title": "Саундтрек GTA 6 порвал Spotify на 30 МЛН стримов",
+   "importance": 8,
+   "kind": "confirmed"
   }
  ],
  "extras": [],
@@ -15112,5 +15570,66 @@
   "weekly-20261121": "2026-11-21T17:30:42.606074+00:00",
   "digest-20261121": "2026-11-21T19:30:10.993120+00:00"
  },
- "rewrite_wait": []
+ "rewrite_wait": [
+  {
+   "item": {
+    "title": "GTA 6's massive casino and sick go-kart track are currently closed, but I'm hoping we can trust those 'coming soon' signs 🙏",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6s-massive-casino-and-sick-go-kart-track-are-currently-closed-but-im-hoping-we-can-trust-those-coming-soon-signs/",
+    "summary": "And not just for GTA 6 Online, right? Right?",
+    "published": "2026-11-22T17:51:53+00:00",
+    "source": "PC Gamer",
+    "site_name": "PC Gamer",
+    "trust": "high",
+    "text": "I'd just stolen my very first airplane in GTA 6 and was happily cruising over the city when I looked out my window and saw an enormous purple building. I banked, slowed down, and flew a bit closer to read the huge sign on the roof.\nOh, hell yes. I was so excited to throw my carefully accumulated three hundred dollars away on poker and slots that I immediately attempted my very first landing. After the explosion and my miraculous resurrection, I rushed back to the casino and crashed again, this time with my body into the locked front doors.\nThe casino in GTA 6 is closed. Trust me, I tried every door, and the only one that opened was a utility closet.\nI was early into my playthrough, still in Chapter 1 of the GTA 6 story missions, so I thought maybe there'll be some mission that unlocks the casino so I can play some poker, try my luck at the slots, and maybe bet on the also-closed dog track—I assume it's a dog track because I've seen dogs in GTA 6, but no horses—that's right next door to the casino.\nNope! I'm now 100% done with the main story and that casino is still closed. And that's not the only business in GTA 6 that isn't open for business. Not even a half-mile away from the casino there's a go-cart track called Hot Skidz sporting a huge \"Coming Soon\" sign. I saw that early in my game as well, and checked back later. Still closed. I also found a second, smaller casino. Also closed.\nWhat a letdown. I managed to get my motorcycle onto the go-cart track, and as I drove glumly around it, alone, having no fun, I perked up a bit. Maybe this just gives me something to look forward to. A hint of more singleplayer content that'll be coming to GTA 6 next year. Hopefully next year.\nThere's already a lot of seemingly unfinished stuff in GTA 6, partial systems that could be added to and completed, like:\nI can throw a frisbee but no one will catch it—not even dogs—or throw it back\nI can go to a tennis court, pick up a tennis racket and tennis ball, and hit the ball with the racket, but I can't actually play tennis\nSpeaking of dogs, who would put so many dogs in a game and not let me have my own dog?\nThere's a baseball bat and baseballs, but I can't play baseball\nThe dog thing is madness. Gotta let us have dogs at some point\nThere are so many cool houses but I can only live in the one currently assigned to me by the story\nThere are hotels everywhere but I can't rent a room\nYou can play eight-ball pool but not nine-ball? Pure insanity, even moreso than the dog decision",
+    "extra": {
+     "image": "https://cdn.mos.cms.futurecdn.net/8q3aB7eUKTKyvGtqBRoLPE-1920-80.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "Закрытые казино и картинги\n\nВ игре полно крутых мест вроде огромных казино и трека Hot Skidz, но они пока закрыты табличками «скоро откроют». Ждем патчи?\n\n❤️ — Верим в обновы\n👎 — Опять DLC продадут",
+    "card_title": "ЗАКРЫТЫЕ КАЗИНО И КАРТИНГИ В GTA 6",
+    "reason": "Игрок нашел закрытые казино и трассы с табличками скоро открытие, а также фичи вроде фрисби и тенниса без мини-игр",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-22T18:01:18.770524+00:00"
+  },
+  {
+   "item": {
+    "title": "The making of GTA 5: How the GTA 6 predecessor helped Rockstar pave the way for its return to Vice City with Jason and Lucia",
+    "link": "https://www.gamesradar.com/games/grand-theft-auto/the-making-of-gta-5-how-the-gta-6-predecessor-helped-rockstar-pave-the-way-for-its-return-to-vice-city-with-jason-and-lucia/",
+    "summary": "Co-studio head Aaron Garbut explains world design, three main characters, and bringing Los Santos to life",
+    "published": "2026-11-22T18:00:00+00:00",
+    "source": "GamesRadar+",
+    "site_name": "GamesRadar+",
+    "trust": "high",
+    "text": "Back in 2013, Grand Theft Auto 5 won the prestigious title of Edge Magazine's Game of the Year. A lot has changed since then, but at least one figure is the same. Aaron Garbut, co-studio head at Rockstar North on GTA 6, was art director on GTA 5, and he spoke to Edge about the process of making that game. With GTA 6 likely to be a mainstay in Game of the Year conversations through 2027, and our own GTA 6 review out in the wild, we're revisiting that interview to see which design philosophies have stayed the same over the past 13 years, and where Rockstar's ideas have differed.\nGarbut's firmly looking in the rear-view mirror - back in 2013, GTA 6 would be more than a decade away, and Red Dead Redemption 2 would likely have been a much bigger concern for Rockstar. But a lot of what he talks about is relevant today; the design impact of having multiple lead characters; the need to kill your darlings throughout development; the struggles of creating a realistic, life-like urban game environment. We've been sharing some of those stories this week, but you can read the full interview with Garbut right here.\nHow did having three playable characters inform your design choices when it came to building the world?\nThe world is always designed before the game. That’s just the way we do things. We have a chunk of preproduction where a subset of the art team lay out and build a white box city. We get the roads feeling good, the vistas working well and look at the skyline and landmarks. We spend a long time driving and building and tweaking and getting everything in place and feeling balanced, making sure the districts we have chosen will blend together naturally and as a whole create the feeling of the city. As missions and story come together, I work with the level designers to place missions and key locations and to utilise as much of the world as we can.\nWe did know the [biographies] for the three characters right at the start, so we knew we wanted to create an area for Trevor out in the sticks. Towards the beginning of preproduction, I met up with [Rockstar president] Sam [Houser] in LA, and we spent a week together driving about, just exploring and talking. During that trip, we drove out into the desert and eventually ended up visiting Salton Sea [in California]. We went to an amazing spot called Bombay Beach and expected a real-life Trevor to burst out on us at any second. When the full reference trip was organised, we sent a team out to Salton Sea for a few days.",
+    "extra": {
+     "image": "https://cdn.mos.cms.futurecdn.net/3P475S4gAKZxA3JxXgpXPC-1920-80.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "Вспомнили, как делали GTA 5\n\nАарон Гарбут, арт-директор старой части, рассказал Edge, как они 13 лет назад строили Лос-Сантос. Спойлер: сначала делали белый каркас города, а потом уже вписывали миссии. База для понимания, почему Вайс-Сити в шестерке такая сочная. 🏙️",
+    "card_title": "ГЕЙМДЕН ГТА 5",
+    "reason": "Ретроспективное интервью о разработке GTA 5, актуальность средняя, интерес для фанатов истории серии.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "groq:qwen/qwen3.8-27b"
+   },
+   "corr": false,
+   "since": "2026-11-22T18:17:29.410188+00:00"
+  }
+ ]
 }
