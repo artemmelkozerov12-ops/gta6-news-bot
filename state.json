@@ -2110,7 +2110,15 @@
   "700643c0610cbd37": "2026-11-22T13:26:04.836843+00:00",
   "4621c5b28d4286c3": "2026-11-22T13:26:06.306550+00:00",
   "32998240e4f90369": "2026-11-22T13:26:11.144082+00:00",
-  "b11db3bf51825254": "2026-11-22T13:26:12.575512+00:00"
+  "b11db3bf51825254": "2026-11-22T13:26:12.575512+00:00",
+  "e2a15fe4135d5f5a": "2026-11-22T13:42:09.701393+00:00",
+  "78d02f313c8168fe": "2026-11-22T13:42:15.371475+00:00",
+  "0df07a49229862b7": "2026-11-22T13:42:26.760826+00:00",
+  "8760fd1315afcc29": "2026-11-22T13:42:28.767334+00:00",
+  "9f779a4553a21402": "2026-11-22T13:42:29.804462+00:00",
+  "ee361884ef869e1e": "2026-11-22T13:42:52.761655+00:00",
+  "d07e83673aaceb00": "2026-11-22T13:43:08.930055+00:00",
+  "189a8ff5ad7ac046": "2026-11-22T13:43:16.286485+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -3513,7 +3521,15 @@
   "16555fea631583e0": "2026-11-22T13:26:04.836843+00:00",
   "ea8aa95ea858f9dc": "2026-11-22T13:26:06.306550+00:00",
   "70f334af7fac6dbc": "2026-11-22T13:26:11.144082+00:00",
-  "79749a57496a1bf9": "2026-11-22T13:26:12.575512+00:00"
+  "79749a57496a1bf9": "2026-11-22T13:26:12.575512+00:00",
+  "d92ff3b8f07c1429": "2026-11-22T13:42:09.701393+00:00",
+  "21aafbc45ea5463f": "2026-11-22T13:42:15.371475+00:00",
+  "6ef37486453e4023": "2026-11-22T13:42:26.760826+00:00",
+  "ae0a0c0c95d3ca89": "2026-11-22T13:42:28.767334+00:00",
+  "648d3a1e562abfbe": "2026-11-22T13:42:29.804462+00:00",
+  "77c3f293ede88356": "2026-11-22T13:42:52.761655+00:00",
+  "b354e26d18475cb0": "2026-11-22T13:43:08.930055+00:00",
+  "d56a36fab39b7c37": "2026-11-22T13:43:16.286485+00:00"
  },
  "recent": [
   {
@@ -8802,6 +8818,46 @@
    "trust": "rumor",
    "status": "skipped",
    "ts": "2026-11-22T13:26:12.575650+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 likeness lawsuit: can a real person sue over a video game character who looks like them",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T13:42:28.767462+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "I Think GTA 6's Cars Are Way, Way More Than Just Getaway Wheels",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T13:42:29.804594+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "В GTA 6 есть два секретных радио – вот как их разблокировать",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T13:42:52.761794+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Неужели хакеры собираются выпустить GTA 6 на ПК раньше Rockstar?",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T13:43:08.930179+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6: How to Fix HDR Settings",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T13:43:16.286602+00:00",
    "card_title": ""
   }
  ],
@@ -14137,6 +14193,96 @@
    },
    "corr": false,
    "since": "2026-11-22T13:25:51.518526+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA 6 at 60fps is actually possible thanks to an Xbox Series X glitch",
+    "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-at-60fps-is-actually-possible-thanks-to-an-xbox-series-x-glitch-but-you-might-need-to-stomach-double-speed-animations-too/",
+    "summary": "Give and take",
+    "published": "2026-11-22T13:32:23+00:00",
+    "source": "GamesRadar+",
+    "site_name": "GamesRadar+",
+    "trust": "high",
+    "text": "Some GTA 6 hopefuls weren't chuffed when hearing the open-world crime fest is targeting 30fps on all consoles, but there's actually a way to circumvent that framerate cap thanks to a newly-discovered glitch on Xbox.\nBefore the game's meteoric launch, Rockstar Games confirmed that its crime fest was locked at 30fps on PS5 and Xbox Series X|S - the studio acknowledged that even the PS5 Pro wasn't capable enough to simulate the game's massive, complicated world at higher framerates, either.\nBut Redditor Mewwie64's has found a way to run the game with an unlocked framerate by using a Quick Resume glitch on Xbox Series X - that's the handy feature that lets you switch between games from where you last left off, without needing to boot up each one from scratch.\nTo run GTA 6 at 60fps or higher, you'll apparently need a 120hz display, an Xbox Series X, and the game itself on version 01.002.001. \"This glitch may still work on later versions,\" the Redditor says, \"not sure.\"\nThe dedicated player also gave interested folks a tutorial on how to up those framerate caps: \"Put your Xbox display settings to 60hz. Start GTA 6. Wait until you see the six stars in the intro. Change your display settings back to 120hz. Cold boot another game on your console via the Xbox Guide (The Xbox button) and without quitting GTA 6. Switch back to GTA 6.\" And, voila.\nThe Redditor does have one pretty big disclaimer, before you get too excited. \"The game speed seems to be tied to your framerate,\" they write, so increasing the framerate might lead to certain animations looking faster than normal.\n\"It seems like the animations are at 2x speed or more in Jason's house in Chapter 1. I have a stable 90fps and everything works fine but Jason's animations run at 2x speed or more. But when you exit the house everything runs at an increased speed (The game world is likely tied to your framerate) but cutscenes work 100% fine without issues on higher framerates. Only the gameplay is sped up.\" Be warned, then.\nWeekly digests, tales from the communities you love, and more\nCheck out our GTA 6 review to find out why it's a must-play masterpiece, or dig into our full GTA 6 guide if you're already making your way in Leonida.\n4. Best pro Xbox: Nacon Revolution X Unlimited\nKaan freelances for various websites including Rock Paper Shotgun, Eurogamer, and this one, Gamesradar. He particularly enjoys writing about spooky indies, throwback RPGs, and anything that's vaguely silly. Also has an English Literature a",
+    "extra": {
+     "image": "https://cdn.mos.cms.futurecdn.net/igwCMw9CEsQDbWE7Waxm6G-1920-80.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "🗺 Гайд: 60 FPS на Xbox Series X\n\nИгрок нашёл способ снять лок в 30 кадров через баг с Quick Resume, но игра начинает работать на ускоренной перемотке.\n\n❤️ — Затестим х2 скорость\n👎 — Лучше в 30 FPS, но нормально",
+    "card_title": "60 FPS НА XBOX",
+    "reason": "Confirmed player discovery of a glitch to unlock framerate on Xbox Series X, highly interesting for players despite bugs.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "В GTA 6 ад Xbox Series X | S авдазбездатсу FPS — ааа адатсу, аесту",
+    "corroborated_by": "В GTA 6 ад Xbox Series X | S авдазбездатсу FPS — ааа адатсу, аесту",
+    "guide": true,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-22T13:42:10.422075+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA 6: Where to Find Four Hidden Weapons in Pelican Valley and the Griffin Bunker in Chapter 1",
+    "link": "https://www.gtaboom.com/gta-6-where-to-find-four-hidden-weapons-in-pelican-valley-and-the-griffin-bunker-in-chapter-1-13f1",
+    "summary": "Get four free legendary weapons early in GTA, two of which are at Pelican Valley nd another pair southwest of Griffin Firing Range.",
+    "published": "2026-11-22T13:30:00+00:00",
+    "source": "GTA BOOM",
+    "site_name": "GTA BOOM",
+    "trust": "medium",
+    "text": "We went out and grabbed four free weapons in Grand Theft Auto VI, two tucked inside a wrecked swamp cabin and another pair hidden in an underground armory you drop into through a floor hatch. Both locations are easy to miss if you don't know where to look.\nLucky for you, now you will, because we'll teach you where to find each weapon and how to get your hands on them.\nPelican Valley swamp cabin: Cruel Huntsman's SM-69 and Swamp Bait Akulus\nFind the wrecked, bloodied cabin deep in the Pelican Valley swamp in Mariana County.\nMake for the Pelican Valley swamp in Mariana County and look for a half-collapsed cabin, bloodied inside and easy to miss among the trees. Pull up the map if you are circling the area. Inside on the floor you will find the Swamp Bait Akulus, a revolver that suits the grisly setting. The Cruel Huntsman's SM-69 sits nearby with a stash of ammo, out by the carcasses on the side deck.\nGrab both weapons in one stop. There are enemies to clear. You just need to go to the place, walk in and get out.\nGriffin Firing Range bunker: Conspiracist Type 9 and Hauners H-AT\nFind the antenna-covered trailer southwest of the Griffin Firing Range and drop through the floor hatch.\nHead to the Balsero area and look southwest of the Griffin Firing Range for a mobile home covered in antennas and satellite dishes, sitting in a fenced trailer lot. It looks like junk from the outside. Step in and open the hatch in the floor to drop into an underground armory. The Conspiracist Type 9 is waiting on the workbench. Meanwhile, the Hauners H-AT launcher sits beside the safes. Drop through the hatch and both are yours to take.\nThe four hidden GTA 6 weapons and where to find them\nEvery weapon we pulled from the two hideouts and exactly where you'll find them.\nThere you have it. Four free weapons for the cost of two detours.\nIf you are stocking up on weapons as early as in Chapter 1, our full rundown of free early-game weapons covers similarly easy pickups, including these and this trio of legendary weapons on the Permit Keys shoreline as well as the SM-69 at the Key Lento radio tower, so the swamp cabin may not be your only shot at that one.\nWhich of these four did you grab first, or is there a hidden early GTA 6 weapon stash we have not mapped yet?\nOnce a post receives 3 qualifying Helpful marks\nThe antenna trailer is my favorite of these. It looks like total junk from the road, then you drop through a hatch into a full armory.\nHow to Find the Vercetti Estate in GTA 6Sid",
+    "extra": {
+     "image": "https://media.gtaboom.com/variants/1920/media/images/32/d0/screenshot-2026-11-22-211316.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "🗺 Гайд: Скрытые пушки в 1 главе\n\nЗалетаем за халявным арсеналом на старте: ищем две точки.\n\n1. Хижина в болотах Pelican Valley — внутри валяется револьвер Swamp Bait Akulus, а снаружи на досках SM-69 с патронами.\n2. Трейлер с антеннами около Griffin Firing Range — сносим люк в полу, в бункере забираем пушку Conspiracist Type 9 и гранатомет Hauners H-AT.\n\n❤️ — Ууу, лут со старта!\n👎 — Предпочитаю кулаки",
+    "card_title": "СКРЫТОЕ ОРУЖИЕ В ГЛАВЕ 1",
+    "reason": "Гайд по поиску крутого скрытого оружия в первой главе.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": true,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-22T13:42:16.254562+00:00"
+  },
+  {
+   "item": {
+    "title": "Grand Theft Auto 6 has a 'complex drug network' that tracks everything from where drugs come from to 'how they eventually reach the street-level buyer'",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-has-a-complex-drug-network-that-tracks-everything-from-where-drugs-come-from-to-how-they-eventually-reach-the-street-level-buyer/",
+    "summary": "\"Having that structure in the background as something we consistently refer to helps everything feel more real.\"",
+    "published": "2026-11-22T13:25:42+00:00",
+    "source": "PC Gamer",
+    "site_name": "PC Gamer",
+    "trust": "high",
+    "text": "I've only dipped my toe into Grand Theft Auto 6 thus far, but I'm already impressed by the detail Rockstar has baked into its world. One thing I'm always curious about with games like this, however, is how much of that detail is on the surface versus what's actually happening under the hood.\nI'm still too early in the game to judge this for myself, but according to Rockstar, there is way more going on in terms of how NPCs behave than players will ever likely see. One striking example of this is how GTA 6's gang compounds conduct their drug operations. In an interview with IGN, Rockstar's senior design director for its open world Steven Messinger explained that GTA 6 fully simulates drug distribution from top to bottom.\n\"A big part of [the open world's design] was establishing deep backstories for almost everything, even if they were never meant to be fully explained to the player, and then really sticking to those backstories,\" Messinger pointed out. \"For example, our gang compounds have a complex drug network we've fully mapped out: where the drugs come from, who brings them in and how, how they're distributed to each compound, what happens at each stop, and how they eventually reach the street-level buyer.\"\nMessinger notes that \"players will only pick up bits and pieces of this\". But representing this process wholesale means that, when players do notice it, it always feels authentic and believable. \"Having that structure in the background as something we consistently refer to helps everything feel more real, like this big machine is always running even when players aren't there.\"\nWhile this may only be designed for players to notice passively, I'm now keen to follow this system and see just how consistently it holds up. But it's such commitment to representing its world that has led GTA 6 to receive near-universal praise from critics, and it probably didn't hurt when it earned $3.79 billion on launch day, either.\n2026 games: All the upcoming gamesBest PC games: Our all-time favoritesFree PC games: Freebie festBest FPS games: Finest gunplayBest RPGs: Grand adventuresBest co-op games: Better together\nKeep up to date with the most important stories and the best deals, as picked by the PC Gamer team.\nRick has been fascinated by PC gaming since he was seven years old, when he used to sneak into his dad's home office for covert sessions of Doom. He grew up on a diet of similarly unsuitable games, with favourites including Quake, Thief, Half-Life and Deus Ex. B",
+    "extra": {
+     "image": "https://cdn.mos.cms.futurecdn.net/s8f7vCvwQwKdVpYM98hjNQ-1920-80.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "Наркотрафик в GTA 6: имба-детали\n\nRockstar прописали лютую базу: в игре полностью симулируется весь путь наркотиков от поставок до уличных барыг. Живой мир работает даже тогда, когда ты просто мимо проезжаешь.\n\n❤️ — Заценим этот реализм\n👎 — Да кому это вообще нужно",
+    "card_title": "СЛОЖНАЯ СИСТЕМА НАРКОТРАФИКА В GTA 6",
+    "reason": "Разработчики из Rockstar подробно рассказали про детальную симуляцию наркотрафика в GTA 6.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-22T13:42:27.661774+00:00"
   }
  ]
 }
