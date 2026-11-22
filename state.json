@@ -2196,7 +2196,29 @@
   "5c456430fef131f9": "2026-11-22T16:41:34.196271+00:00",
   "b325641dec588455": "2026-11-22T16:41:44.652445+00:00",
   "fd35d937cb2595da": "2026-11-22T16:41:45.778712+00:00",
-  "bb4e1eb092e2de5d": "2026-11-22T16:42:12.988651+00:00"
+  "bb4e1eb092e2de5d": "2026-11-22T16:42:12.988651+00:00",
+  "ebb0267f1fc3c1e4": "2026-11-22T16:57:29.909315+00:00",
+  "101408ee5573d0b1": "2026-11-22T16:57:31.444662+00:00",
+  "cddc3d4396743b71": "2026-11-22T16:57:38.008710+00:00",
+  "bb70b1b22d78f6aa": "2026-11-22T16:57:39.150152+00:00",
+  "d4be4ea4dcb72144": "2026-11-22T16:57:44.672713+00:00",
+  "f2f8211487b76568": "2026-11-22T16:57:45.537723+00:00",
+  "d2fc789997862424": "2026-11-22T16:57:46.392075+00:00",
+  "dc9d8c1d717e6851": "2026-11-22T16:57:53.050532+00:00",
+  "a1d3f1d7e6c85147": "2026-11-22T16:57:53.952234+00:00",
+  "c1089ea4c659676b": "2026-11-22T17:13:14.273304+00:00",
+  "53c2b4f8eef018f2": "2026-11-22T17:13:14.273373+00:00",
+  "9cd661f056d99a6f": "2026-11-22T17:13:14.273482+00:00",
+  "af6e2e9f1352caa0": "2026-11-22T17:13:14.278054+00:00",
+  "f0d1e9343828d537": "2026-11-22T17:13:14.293230+00:00",
+  "6bf3adec95745925": "2026-11-22T17:13:15.924682+00:00",
+  "e03b3660bb418a66": "2026-11-22T17:13:43.903215+00:00",
+  "b45c8f9b26c8be6d": "2026-11-22T17:13:49.597170+00:00",
+  "a7d4e05fb975ffa3": "2026-11-22T17:13:56.247596+00:00",
+  "2990a76a69e0ae4e": "2026-11-22T17:14:00.996731+00:00",
+  "efb9c92e0a1b0d52": "2026-11-22T17:14:02.116150+00:00",
+  "fe19af1454735b3c": "2026-11-22T17:14:03.318341+00:00",
+  "038bde33905003dc": "2026-11-22T17:14:04.485585+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -3682,7 +3704,28 @@
   "af1d58d1b2b7bb12": "2026-11-22T16:41:34.196271+00:00",
   "34626ddbb7fed0e2": "2026-11-22T16:41:44.652445+00:00",
   "88b8d72fda69e4a6": "2026-11-22T16:41:45.778712+00:00",
-  "50f7d25f2e9814bb": "2026-11-22T16:42:12.988651+00:00"
+  "50f7d25f2e9814bb": "2026-11-22T16:42:12.988651+00:00",
+  "43b2254106b08f06": "2026-11-22T16:57:29.909315+00:00",
+  "3c223d4349b3f6f5": "2026-11-22T16:57:31.444662+00:00",
+  "0716004b51f05cd7": "2026-11-22T16:57:38.008710+00:00",
+  "3945709540c60019": "2026-11-22T16:57:39.150152+00:00",
+  "44b9feab80114273": "2026-11-22T16:57:44.672713+00:00",
+  "5545c77ec17b176e": "2026-11-22T16:57:45.537723+00:00",
+  "b00accc8bf5417df": "2026-11-22T16:57:46.392075+00:00",
+  "1d6f58d2e832727c": "2026-11-22T16:57:53.050532+00:00",
+  "edeb8d51d47757e3": "2026-11-22T16:57:53.952234+00:00",
+  "970029a12928f96a": "2026-11-22T17:13:14.273304+00:00",
+  "6c85986d2129f149": "2026-11-22T17:13:14.273373+00:00",
+  "ca54ba9aeecb0765": "2026-11-22T17:13:15.924682+00:00",
+  "3e92ab25a96ce292": "2026-11-22T17:13:14.278054+00:00",
+  "b65bc9eb727b728c": "2026-11-22T17:13:14.293230+00:00",
+  "455051415ae65cd8": "2026-11-22T17:13:43.903215+00:00",
+  "8fad3f66bf202815": "2026-11-22T17:13:49.597170+00:00",
+  "d8122c7bbafae7af": "2026-11-22T17:13:56.247596+00:00",
+  "f13c18e5eae2cc44": "2026-11-22T17:14:00.996731+00:00",
+  "df7d196d5e529827": "2026-11-22T17:14:02.116150+00:00",
+  "bb478c95b88a73d4": "2026-11-22T17:14:03.318341+00:00",
+  "35ca8394a1bf572e": "2026-11-22T17:14:04.485585+00:00"
  },
  "recent": [
   {
@@ -9396,6 +9439,182 @@
    "status": "skipped",
    "ts": "2026-11-22T16:42:12.988806+00:00",
    "card_title": ""
+  },
+  {
+   "title": "Where to Find the Buckingham Windsor Drop Car in GTA 6—Randy’s Wishlist Car Locations",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "dup",
+   "ts": "2026-11-22T16:57:29.909355+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Has “Deep Backstories for Almost Everything,” Says Rockstar",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T16:57:31.444833+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Neuralink Lets Man Play GTA 6 With His Mind",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T16:57:38.008862+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6: How to Unlock Kodak Black’s Secret Radio Station and All 22 Songs",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T16:57:39.150313+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Trump Administration Tries To Use 'GTA VI' To Boost Its Agenda — And It's A Total Self-Own",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T16:57:44.672875+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "“I sincerely hope” Rockstar workers succeed: Expedition 33 writer on GTA 6 job fears",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T16:57:45.537878+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Mamba - Near The Prison",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T16:57:46.392224+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Как сделать Лусию голой с помощью бага в GTA 6",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T16:57:53.050696+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Grand Theft Auto VI — самая громкая и обсуждаемая игра современности. Главное в ней — не криминал, а добрые поступки и забота о любимом человеке. «Новая-Европа» разбирает феномен GTA",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T16:57:53.952444+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Transgressor Locations: How to restore the first car in Wyman's Classic Car Collection",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-22T17:13:14.273340+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Here's the garage code to steal the Declasse Vamos in GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-22T17:13:14.273429+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Former Rockstar environment artist breaks silence: GTA 6 is 'generally stunning,' but Red Dead 2 might have had better rivers",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-22T17:13:14.273526+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to steal the Declasse Vamos in GTA 6",
+   "source": "PC Gamer",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-22T17:13:14.278095+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Riata locations: How to restore the second car in Wyman's Classic Car Collection",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-22T17:13:14.293271+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Former Rockstar environment artist breaks silence: GTA 6 is 'generally stunning,' but Red Dead 2 might have had better rivers",
+   "source": "PC Gamer",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-22T17:13:42.708653+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI vs. GTA V: The debate continues. Does it really look that different? Writer: Marie",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T17:13:43.903371+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Художник Rockstar похвалил GTA 6 и защитил реки Red Dead 2",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T17:13:49.597319+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "The 'GTA VI' Easter eggs that broke the internet",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T17:13:56.247753+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to create a GTA 6-style photo using ChatGPT and Gemini. 10 ready-made prompts",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T17:14:00.996893+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Nightclub Music: The Vault, Jack of Hearts and Songs to Know",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T17:14:02.116307+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Bow Wow Dismisses 'GTA VI' Relationship Storyline With Lucia: 'This Is Not \"Love Island\"'",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T17:14:03.318517+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "10 Glitches and Bugs Plaguing GTA 6 at Launch",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T17:14:04.485747+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -9457,7 +9676,9 @@
     "guide": false,
     "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
    },
-   "queued_at": "2026-11-22T16:24:14.691068+00:00"
+   "queued_at": "2026-11-22T16:24:14.691068+00:00",
+   "moderation": "pending",
+   "draft_msg_id": 85
   },
   {
    "item": {
@@ -9894,7 +10115,8 @@
   "2026-11-22T12:43:34.843087+00:00",
   "2026-11-22T14:01:42.978013+00:00",
   "2026-11-22T15:02:03.268686+00:00",
-  "2026-11-22T16:02:50.859091+00:00"
+  "2026-11-22T16:02:50.859091+00:00",
+  "2026-11-22T17:03:01.090216+00:00"
  ],
  "slots_sent": {
   "2026-11-21:guide:1": "2026-11-21T21:14:52.573728+00:00",
