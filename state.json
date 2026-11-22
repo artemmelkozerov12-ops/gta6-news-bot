@@ -2184,7 +2184,19 @@
   "82e662306da2afa3": "2026-11-22T16:12:40.471629+00:00",
   "ca1a72d51037cd21": "2026-11-22T16:12:44.525887+00:00",
   "c41725fe17da3545": "2026-11-22T16:12:45.493553+00:00",
-  "a29149c2e0bb38b6": "2026-11-22T16:12:46.713595+00:00"
+  "a29149c2e0bb38b6": "2026-11-22T16:12:46.713595+00:00",
+  "2c49cb37d94f4042": "2026-11-22T16:25:04.282542+00:00",
+  "52c4029e990cb428": "2026-11-22T16:25:12.072662+00:00",
+  "547f43aa054e4bcb": "2026-11-22T16:25:13.730330+00:00",
+  "113bab5e265b6193": "2026-11-22T16:25:19.593346+00:00",
+  "8bae9ef63de0b324": "2026-11-22T16:40:57.819636+00:00",
+  "6fe24d665e5f953a": "2026-11-22T16:41:30.786259+00:00",
+  "95c84e7636672cbb": "2026-11-22T16:41:32.276991+00:00",
+  "2e42f729dfd6c541": "2026-11-22T16:41:33.394963+00:00",
+  "5c456430fef131f9": "2026-11-22T16:41:34.196271+00:00",
+  "b325641dec588455": "2026-11-22T16:41:44.652445+00:00",
+  "fd35d937cb2595da": "2026-11-22T16:41:45.778712+00:00",
+  "bb4e1eb092e2de5d": "2026-11-22T16:42:12.988651+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -3658,353 +3670,21 @@
   "073987c2f119e7c0": "2026-11-22T16:12:40.471629+00:00",
   "919ee0e7a5669353": "2026-11-22T16:12:44.525887+00:00",
   "8b9ac876f06d2887": "2026-11-22T16:12:45.493553+00:00",
-  "8014e9727501733b": "2026-11-22T16:12:46.713595+00:00"
+  "8014e9727501733b": "2026-11-22T16:12:46.713595+00:00",
+  "f2121ffe1b923828": "2026-11-22T16:25:04.282542+00:00",
+  "243b9a7358dabcb1": "2026-11-22T16:25:12.072662+00:00",
+  "58be37bd02eec129": "2026-11-22T16:25:13.730330+00:00",
+  "6f3d8cefffc56073": "2026-11-22T16:25:19.593346+00:00",
+  "b3a50fc65b00c35d": "2026-11-22T16:40:57.819636+00:00",
+  "64f33ace64b9d1cc": "2026-11-22T16:41:30.786259+00:00",
+  "b615a5b2a3059909": "2026-11-22T16:41:32.276991+00:00",
+  "7db4a93466b6626c": "2026-11-22T16:41:33.394963+00:00",
+  "af1d58d1b2b7bb12": "2026-11-22T16:41:34.196271+00:00",
+  "34626ddbb7fed0e2": "2026-11-22T16:41:44.652445+00:00",
+  "88b8d72fda69e4a6": "2026-11-22T16:41:45.778712+00:00",
+  "50f7d25f2e9814bb": "2026-11-22T16:42:12.988651+00:00"
  },
  "recent": [
-  {
-   "title": "How to Easily Get A Tank in GTA 6—Best Tank Method & Location",
-   "source": "Insider Gaming",
-   "trust": "medium",
-   "status": "dup",
-   "ts": "2026-11-20T14:37:46.542334+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "How To Unlock The Venturas Blvd Elegy In GTA VI",
-   "source": "Rockstar Intel",
-   "trust": "medium",
-   "status": "dup",
-   "ts": "2026-11-20T14:37:46.542364+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Learned All the Right Lessons From Zelda: Breath of the Wild",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-20T14:37:46.542397+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "How to Lose the Cops Fast in GTA 6",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-20T14:37:46.542423+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Smashes Multiple Records And Earns Xbox Series S Praise In First 24 Hours",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-20T14:37:46.542449+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Caused a Mass 'Migration' of Over 2 Million People",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-20T14:37:46.542475+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Is Niko Bellic in GTA 6?",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-20T14:37:46.542500+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 crashing, not launching, and error codes explained for PlayStation 5 and Xbox Series X|S",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-20T14:37:46.542548+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Actor Says Rockstar Made Their Non-Binary Character Unkillable",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-20T14:37:46.542577+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6's Full Credits Spark Returning Character Rumor — Are They Really in the Game?",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-20T14:37:46.542609+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Popular video game 'GTA VI' drives fears of dangerous copycat stunts for young players, former cop warns",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-20T14:37:46.542637+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Как включить вид от первого лица в GTA VI",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-20T14:37:46.542669+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Как включить вид от первого лица в GTA 6 на Xbox или Playstation",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-20T14:37:46.542700+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 sales are almost at 25 million as Rockstar earns $2.36 billion in revenue, analysts estimate",
-   "source": "GamesRadar+",
-   "trust": "high",
-   "status": "dup",
-   "ts": "2026-11-20T14:37:46.727437+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Where to Find a Rocket Launcher in GTA 6",
-   "source": "Insider Gaming",
-   "trust": "medium",
-   "status": "dup",
-   "ts": "2026-11-20T14:37:46.900928+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "How to Find The Nudist Resort in GTA 6",
-   "source": "Insider Gaming",
-   "trust": "medium",
-   "status": "dup",
-   "ts": "2026-11-20T14:37:46.903926+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "The Florida Joker Really Made It Into GTA 6 as a Background Face",
-   "source": "GTA BOOM",
-   "trust": "medium",
-   "status": "queued",
-   "ts": "2026-11-20T14:38:27.415505+00:00",
-   "card_title": "ФЛОРИДСКИЙ ДЖОКЕР В ИГРЕ"
-  },
-  {
-   "title": "A 'GTA 6 PC scam kit' using a fake PC port as bait is available for $200 on the dark web, says NordVPN, so watch what you click",
-   "source": "PC Gamer",
-   "trust": "high",
-   "status": "queued",
-   "ts": "2026-11-20T14:39:04.713842+00:00",
-   "card_title": "ОСТОРОЖНО: СКАМ НА ПК"
-  },
-  {
-   "title": "How To Complete Brooks Boatworks in GTA 6—Safe Code Location, Explained",
-   "source": "Insider Gaming",
-   "trust": "medium",
-   "status": "queued",
-   "ts": "2026-11-20T14:40:10.563334+00:00",
-   "card_title": "ГОРЯЧИЙ ЛУТ И КОД СЕЙФА"
-  },
-  {
-   "title": "How To Break Into Military Base In GTA 6—Mile Zero Air Station Location",
-   "source": "Insider Gaming",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-20T14:40:11.864726+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "A Playable GTA 6 Build Could Leak, But There’s A $15 Million Catch",
-   "source": "GameSpot",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-20T14:40:12.905498+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Learned All the Right Lessons From Zelda: Breath of the Wild",
-   "source": "Polygon",
-   "trust": "high",
-   "status": "queued",
-   "ts": "2026-11-20T14:40:33.998407+00:00",
-   "card_title": "20 ЧАСОВ В СТАРТОВОЙ ЛОКАЦИИ"
-  },
-  {
-   "title": "'It's Unbelievably Hard to Achieve': Cyberpunk 2077 Boss Pours Praise on 'Masterpiece' GTA 6",
-   "source": "Push Square",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-20T14:40:44.502130+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA VI’s Famous Bikini Girl From Trailer 1 Has Been Found",
-   "source": "Rockstar Intel",
-   "trust": "medium",
-   "status": "queued",
-   "ts": "2026-11-20T14:41:33.156244+00:00",
-   "card_title": "НАШЛИ ДЕВУШКУ ИЗ ТРЕЙЛЕРА"
-  },
-  {
-   "title": "The first GTA 6 speedrun is less than 40 hours, from a streamer who \"stayed up for 50-plus hours\"",
-   "source": "GamesRadar+",
-   "trust": "high",
-   "status": "queued",
-   "ts": "2026-11-20T14:57:31.072447+00:00",
-   "card_title": "ПЕРВЫЙ СПИДРАН GTA 6"
-  },
-  {
-   "title": "Can You Make Jason & Lucia Fully Naked in GTA 6? Frontal Nudity, Explained",
-   "source": "Insider Gaming",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-20T14:57:32.229401+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Devs Reveal Movie Inspirations for Jason and Lucia",
-   "source": "Insider Gaming",
-   "trust": "medium",
-   "status": "queued",
-   "ts": "2026-11-20T14:57:48.338494+00:00",
-   "card_title": "ИСТОЧНИКИ ВДОХНОВЕНИЯ GTA 6"
-  },
-  {
-   "title": "How to Get A Jet in GTA 6—Best Jet Method & Location",
-   "source": "Insider Gaming",
-   "trust": "medium",
-   "status": "queued",
-   "ts": "2026-11-20T14:58:29.040689+00:00",
-   "card_title": "КАК УГНАТЬ ИСТРЕБИТЕЛЬ В GTA 6"
-  },
-  {
-   "title": "GTA 6: How to use the first-person mode glitch in Grand Theft Auto 6",
-   "source": "VGC",
-   "trust": "high",
-   "status": "queued",
-   "ts": "2026-11-20T14:58:54.558176+00:00",
-   "card_title": "ВИД ОТ ПЕРВОГО ЛИЦА"
-  },
-  {
-   "title": "UK Prime Minister won't be playing GTA 6, government says, while hailing Rockstar Games a \"British success story\"",
-   "source": "Eurogamer",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-20T14:59:03.925014+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Can Jason and Lucia Get Naked in GTA 6?",
-   "source": "IGN",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-20T14:59:05.254361+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Mandy thirst levels reach heights that even former Nintendo boss Reggie Fils-Aimé can't help but notice",
-   "source": "GamesRadar+",
-   "trust": "high",
-   "status": "queued",
-   "ts": "2026-11-20T15:00:20.247141+00:00",
-   "card_title": "МЭНДИ ПОКОРИЛА ИНТЕРНЕТ"
-  },
-  {
-   "title": "I Disgraced Myself at the Vice City Zoo, and It’s the One Thing I’ll Never Do Again in GTA 6",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-20T15:15:56.702105+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Моддеры планируют запустить GTA 6 на ПК через неделю после утечки",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-20T15:15:56.702152+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Players Warned To Turn Off Auto-Uploads Or Risk Getting Banned On Xbox",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-20T15:15:56.702183+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "The 5 year-long mystery of the UFO house has finally been solved in GTA 6, but one NPC knows too much",
-   "source": "PC Gamer",
-   "trust": "high",
-   "status": "queued",
-   "ts": "2026-11-20T15:16:52.296551+00:00",
-   "card_title": "ТАЙНА ДОМА С НЛО"
-  },
-  {
-   "title": "How to workout in GTA 6 to build Strength and Cardio quickly",
-   "source": "GamesRadar+",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-20T15:17:12.648460+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "When Can You Freely Play As Lucia In GTA 6?",
-   "source": "Kotaku",
-   "trust": "high",
-   "status": "queued",
-   "ts": "2026-11-20T15:17:14.214164+00:00",
-   "card_title": "БЛОКИРОВКА ЛУСИИ"
-  },
-  {
-   "title": "These 7 PS5 Games Launched on the Same Day as GTA 6 Like Mad Men",
-   "source": "Push Square",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-20T15:17:31.292506+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Is A British Success Story, Prime Minister Says, But He Won’t Play It",
-   "source": "GameSpot",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-20T15:17:52.106593+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "This Is the One Thing I’ll Never Do Again in GTA 6",
-   "source": "IGN",
-   "trust": "high",
-   "status": "queued",
-   "ts": "2026-11-20T15:18:23.363129+00:00",
-   "card_title": "ЗООВОЛЬНЫЙ РАЗНОС В GTA 6"
-  },
-  {
-   "title": "GTA 6 Players Are Refusing to Make Use of an Infinite Money Glitch They Say Ruins the Experience",
-   "source": "IGN",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-20T15:18:46.512708+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Some GTA 6 Players Think Max Weight Jason and Lucia Aren't Big Enough",
-   "source": "IGN",
-   "trust": "high",
-   "status": "queued",
-   "ts": "2026-11-20T15:19:26.890433+00:00",
-   "card_title": "МАКС ВЕС ДЖЕЙСОНА И ЛУСИИ"
-  },
   {
    "title": "The actress who plays Mandy in GTA 6 has revealed herself: 'If you play the game, let me know if you find me'",
    "source": "PC Gamer",
@@ -9025,7 +8705,7 @@
    "title": "Over half of all console players active on GTA 6's launch day played it, says Circana",
    "source": "Eurogamer",
    "trust": "high",
-   "status": "queued",
+   "status": "published",
    "ts": "2026-11-22T13:58:39.604767+00:00",
    "card_title": "ПОЛОВИНА КОНСОЛЕЙ ИГРАЛА"
   },
@@ -9572,40 +9252,153 @@
    "status": "skipped",
    "ts": "2026-11-22T16:12:46.713738+00:00",
    "card_title": ""
+  },
+  {
+   "title": "How to Find Backyard Wrestling in GTA 6—Location, Luchador Mask and More",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "queued",
+   "ts": "2026-11-22T16:22:08.599246+00:00",
+   "card_title": "МАСКА ЛУЧАДОРА В GTA 6"
+  },
+  {
+   "title": "GTA 6 Challenges – all 80 challenges to complete",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-22T16:22:26.001011+00:00",
+   "card_title": "ВСЕ 80 ИСПЫТАНИЙ В GTA 6"
+  },
+  {
+   "title": "GTA 6 at 60fps is actually possible thanks to an Xbox Series X glitch",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-22T16:23:45.259791+00:00",
+   "card_title": "FPS ГЛИЧ НА XBOX"
+  },
+  {
+   "title": "GTA 6: Where to Find Four Hidden Weapons in Pelican Valley and the Griffin Bunker in Chapter 1",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "queued",
+   "ts": "2026-11-22T16:23:48.267775+00:00",
+   "card_title": "СКРЫТЫЕ ОРУЖИЯ В GTA 6"
+  },
+  {
+   "title": "Grand Theft Auto 6 has a 'complex drug network' that tracks everything from where drugs come from to 'how they eventually reach the street-level buyer'",
+   "source": "PC Gamer",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-22T16:24:14.691084+00:00",
+   "card_title": "СЕТЬ НАРКОТРАДОВ В GTA6"
+  },
+  {
+   "title": "GTA VI Pre-Order Bonus Now Available To Buy Separately",
+   "source": "Rockstar Intel",
+   "trust": "medium",
+   "status": "queued",
+   "ts": "2026-11-22T16:24:41.012342+00:00",
+   "card_title": "ВИНТАДЖ ПАКЕТ ДЛЯ ВСЕХ"
+  },
+  {
+   "title": "GTA 6 Will Certainly Want To Check Out This 1970 Ford, Only One Ever Made",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T16:25:04.282691+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Pokes Fun at ‘Call of Duty’ Series With Satirical In-Game Radio Ad",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T16:25:12.072813+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6: Rockstar стирает границы между миссиями и миром",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T16:25:13.730465+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Cyberleek claims modders could get GTA 6 running on PC within a week after reported Xbox build leak",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T16:25:19.593522+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6’s Worst Feature Needs to Be Patched ASAP",
+   "source": "Polygon",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-22T16:41:24.184216+00:00",
+   "card_title": "САМАЯ ДУШНАЯ МЕХАНИКА GTA 6"
+  },
+  {
+   "title": "GTA 6's $3.79B first-day haul tops Avengers Endgame's entire box office run by $850 million",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T16:41:30.786430+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 shatters entertainment industry records: The Washington Post",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T16:41:32.277163+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "The GTA 6 AI Photo Trend is taking social media by storm",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T16:41:33.395153+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Is The Bonnie And Clyde Remake Hollywood Never Knew It Needed",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T16:41:34.196441+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "'GTA VI' Has an NPC Who Thinks He's Trapped in a Video Game: 'Why Can't I Leave???'",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T16:41:44.652593+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6: How many cars can you own and can you buy a house?",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T16:41:45.778865+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "В трейлере GTA VI обнаружена отсылка к Souls: коробка «Glory Souls II»",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T16:42:12.988806+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
-  {
-   "item": {
-    "title": "Over half of all console players active on GTA 6's launch day played it, says Circana",
-    "link": "https://www.eurogamer.net/gta-6-launch-day-engagement-circana",
-    "summary": "On Grand Theft Auto 6 's launch day, more than half of everyone playing on PS5 and Xbox was playing GTA 6. Read more",
-    "published": "2026-11-22T12:02:30+00:00",
-    "source": "Eurogamer",
-    "site_name": "Eurogamer",
-    "trust": "high",
-    "text": "On Grand Theft Auto 6's launch day, more than half of everyone playing on PS5 and Xbox was playing GTA 6.\nCiting new data from Circana's Player Engagement Tracker, analyst Mat Piscatella said on Bluesky that 61 percent of US PlayStation 5 players and 56 percent of global Xbox players who were active on 19th November \"engaged with Grand Theft Auto 6\".\nPS5 players averaged 513 minutes in GTA 6 that day, which is over eight and a half hours, while Xbox players averaged 494 minutes, or around eight and a quarter hours.\n\"Both the DAU [daily active users] and minutes played engagement rates are absolutely bonkers,\" Piscatella wrote.\nFor comparison, Fortnite had the second-highest engagement rate that day, with 10 percent of active players across both platforms playing it.\nPiscatella also shared the top five games that GTA 6 players had been playing in the two weeks before launch, between 6th and 19th November: Fortnite, Call of Duty, Grand Theft Auto 5 (Remastered), Roblox, and NBA 2K27.\nAccording to Circana's Player Engagement Tracker, Grand Theft Auto VI had a massive launch (surprise!).For players active on November 19th, 61% of US PlayStation 5 and 56% of global Xbox players engaged with Grand Theft Auto VI.PS5 GTA VI players averaged 513 minutes that day, Xbox players 494.— Mat Piscatella (@matpiscatella.bsky.social) November 20, 2026 at 5:40 PM\nThe figures come after Rockstar confirmed that GTA 6 had become the biggest entertainment launch of all time, selling 32.5 million pre-release copies and making $3.79 billion by the end of its first day.\nGTA 6 launched on Thursday, 19th November, for PS5 and Xbox Series X/S, and while it's one of the best-reviewed games of all time, you wouldn't know it from its Metacritic user score, as players review bomb it over its limited FPS and purported \"woke\" agenda.\nEurogamer called GTA 6 an open world of \"awe, minute detail and impossible scale\" in our five-star GTA 6 review. If you need help getting through the game now that it's here, you can check out Eurogamer's Grand Theft Auto 6 walkthrough and a breakdown of our Grand Theft Auto 6 cheats.\nJust don't share any, uh, spicy in-game screenshots via PSN - we recently learned that a GTA 6 player was hit with a 30-day PlayStation Network ban after sending a friend a photo they took in the game's nudist resort.",
-    "extra": {
-     "image": "https://assetsio.gnwcdn.com/GTA6_5nov-(12).jpg?width=690&quality=85&format=jpg&auto=webp"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "🚀 Более половины игроков на консолях в GTA 6 в день релиза\n\n61 % PS5‑тусовщиков и 56 % Xbox‑геймеров провели в игре по 8+ часов. Это реальный бэнгер‑стат, который доказывает, что GTA 6 — топчик с первого дня. 🎮 Сравнительно, Fortnite лишь 10 % — наш релиз просто разорвал рынок.",
-    "card_title": "ПОЛОВИНА КОНСОЛЕЙ ИГРАЛА",
-    "reason": "Официальная статистика от Circana про сумасшедший онлайн GTA 6 в первый день.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-22T13:58:39.604753+00:00",
-   "moderation": "pending",
-   "draft_msg_id": 82
-  },
   {
    "item": {
     "title": "GTA 6 Just Can't Stop Breaking Records It Seems",
@@ -9636,6 +9429,35 @@
    "queued_at": "2026-11-22T14:34:55.937895+00:00",
    "moderation": "pending",
    "draft_msg_id": 83
+  },
+  {
+   "item": {
+    "title": "Grand Theft Auto 6 has a 'complex drug network' that tracks everything from where drugs come from to 'how they eventually reach the street-level buyer'",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-has-a-complex-drug-network-that-tracks-everything-from-where-drugs-come-from-to-how-they-eventually-reach-the-street-level-buyer/",
+    "summary": "\"Having that structure in the background as something we consistently refer to helps everything feel more real.\"",
+    "published": "2026-11-22T13:25:42+00:00",
+    "source": "PC Gamer",
+    "site_name": "PC Gamer",
+    "trust": "high",
+    "text": "I've only dipped my toe into Grand Theft Auto 6 thus far, but I'm already impressed by the detail Rockstar has baked into its world. One thing I'm always curious about with games like this, however, is how much of that detail is on the surface versus what's actually happening under the hood.\nI'm still too early in the game to judge this for myself, but according to Rockstar, there is way more going on in terms of how NPCs behave than players will ever likely see. One striking example of this is how GTA 6's gang compounds conduct their drug operations. In an interview with IGN, Rockstar's senior design director for its open world Steven Messinger explained that GTA 6 fully simulates drug distribution from top to bottom.\n\"A big part of [the open world's design] was establishing deep backstories for almost everything, even if they were never meant to be fully explained to the player, and then really sticking to those backstories,\" Messinger pointed out. \"For example, our gang compounds have a complex drug network we've fully mapped out: where the drugs come from, who brings them in and how, how they're distributed to each compound, what happens at each stop, and how they eventually reach the street-level buyer.\"\nMessinger notes that \"players will only pick up bits and pieces of this\". But representing this process wholesale means that, when players do notice it, it always feels authentic and believable. \"Having that structure in the background as something we consistently refer to helps everything feel more real, like this big machine is always running even when players aren't there.\"\nWhile this may only be designed for players to notice passively, I'm now keen to follow this system and see just how consistently it holds up. But it's such commitment to representing its world that has led GTA 6 to receive near-universal praise from critics, and it probably didn't hurt when it earned $3.79 billion on launch day, either.\n2026 games: All the upcoming gamesBest PC games: Our all-time favoritesFree PC games: Freebie festBest FPS games: Finest gunplayBest RPGs: Grand adventuresBest co-op games: Better together\nKeep up to date with the most important stories and the best deals, as picked by the PC Gamer team.\nRick has been fascinated by PC gaming since he was seven years old, when he used to sneak into his dad's home office for covert sessions of Doom. He grew up on a diet of similarly unsuitable games, with favourites including Quake, Thief, Half-Life and Deus Ex. B",
+    "extra": {
+     "image": "https://cdn.mos.cms.futurecdn.net/s8f7vCvwQwKdVpYM98hjNQ-1920-80.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "🚬 Сложная сеть наркоторговли в GTA 6 раскрыта\n\nRockstar замутили имба‑симуляцию: от завоза до уличного покупателя. Поймешь лишь кусочки, но когда лупишь — реальный вайб.",
+    "card_title": "СЕТЬ НАРКОТРАДОВ В GTA6",
+    "reason": "Разработчики из Rockstar подробно рассказали про детальную симуляцию наркотрафика в GTA 6.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
+   },
+   "queued_at": "2026-11-22T16:24:14.691068+00:00"
   },
   {
    "item": {
@@ -9728,6 +9550,93 @@
   },
   {
    "item": {
+    "title": "GTA 6 Challenges – all 80 challenges to complete",
+    "link": "https://www.gamesradar.com/games/grand-theft-auto/all-gta-6-challenges/",
+    "summary": "There are 80 challenges in GTA 6 split across eight different categories to complete",
+    "published": "2026-11-22T13:08:12+00:00",
+    "source": "GamesRadar+",
+    "site_name": "GamesRadar+",
+    "trust": "high",
+    "text": "GTA 6 Challenges are a vital way to reach 100% completion. The challenge system is a key way for you to unlock all of the GTA 6 cheats, and you'll need to have at least 70 of these wrapped up if you want to unlock the GTA 6 Platinum Trophy or 1000 GS too.\nThe Challenges in GTA 6 are split into eight separate categories, designed to test your abilities and skills in a variety of different ways as you progress through GTA 6. You can complete challenges in any order, and you can wait until you finish all of the GTA 6 missions to pursue these as well. Use these jump links to leap between all of the different categories:\nYou can check your progress through all GTA 6 Challenges by pressing the touchpad / menu button to open the GTA 6 Index and then using R1/RB to scroll to the Progress tab. In there, you'll find the option for Challenges. When you've completed one, you'll get a tick in the relevant checkbox.\nKill or knock out 5 enemies in a row using melee weapons without dying.\nKill or injure 3 enemies with a single explosive.\nKill 4 enemies with headshots in a single use of combat focus.\nDrive-by kill 5 enemies in under 1 minute without exiting your vehicle.\nKill 7 unalerted enemies using a scoped sniper rifle without dying or being arrested.\nKill or injure 5 enemies with fire damage in under 15 seconds.\nKill 6 enemies with headshots using a revolver without reloading or switching weapons.\nKill 3 enemies under 10 seconds with a scoped sniper rifle from 300 feet.\nKill or injure 8 enemies with explosives in under 20 seconds without taking damage.\nRob 3 stores in a day without dying or being arrested.\nCarjack 3 vehicles and take them to a Pay 'n' Spray in a day without dying or being arrested.\nSteal $500 in cash from pedestrians in a day without dying or being arrested.\nMaintain a wanted level for 5 minutes in a stolen law enforcement motor vehicle.\nSteal a weapon from the trunk of 5 different law enforcement vehicles without dying or being arrested.\nRob 2 stores in all 5 counties in under 20 minutes without dying or being arrested.\nTow an occupied law enforcement vehicle for 1 mile without stopping.\nRegister or respray a stolen vehicle from 10 different manufacturers at a Pay 'n' Spray in under 30 minutes without dying or being arrested.\nEarn $100,000 from selling stolen vehicles to any fence or Pay 'n' Spray in a day without dying or being arrested.\nScan any 4 landmarks, curiosities, or sculptures with WAiNK.\nVisit the top of the 5 tallest skyscrapers in Vice-D",
+    "extra": {
+     "image": "https://cdn.mos.cms.futurecdn.net/XdhQ3SUwoqU6sS6JkN7j5M-1920-80.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "🗺 Гайд: Как закрыть 100% прохождения и открыть читы в GTA 6\n\nВ игре спрятано 80 испытаний в 8 категориях. Выполнение минимум 70 из них требуется для Платины, а также открывает чит-коды.\n\nКак проверить свой прогресс:\n1. Открой GTA 6 Index (кнопка меню / тачпад).\n2. Перейди во вкладку Progress через R1/RB.\n3. Заходи в раздел Challenges и закрывай таски в любом порядке.",
+    "card_title": "ВСЕ 80 ИСПЫТАНИЙ В GTA 6",
+    "reason": "Гайд по выполнению всех 80 челленджей для 100% прохождения и чит-кодов в GTA 6.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": true,
+    "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-3.5-flash"
+   },
+   "queued_at": "2026-11-22T16:22:26.000996+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA 6 at 60fps is actually possible thanks to an Xbox Series X glitch",
+    "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-at-60fps-is-actually-possible-thanks-to-an-xbox-series-x-glitch-but-you-might-need-to-stomach-double-speed-animations-too/",
+    "summary": "Give and take",
+    "published": "2026-11-22T13:32:23+00:00",
+    "source": "GamesRadar+",
+    "site_name": "GamesRadar+",
+    "trust": "high",
+    "text": "Some GTA 6 hopefuls weren't chuffed when hearing the open-world crime fest is targeting 30fps on all consoles, but there's actually a way to circumvent that framerate cap thanks to a newly-discovered glitch on Xbox.\nBefore the game's meteoric launch, Rockstar Games confirmed that its crime fest was locked at 30fps on PS5 and Xbox Series X|S - the studio acknowledged that even the PS5 Pro wasn't capable enough to simulate the game's massive, complicated world at higher framerates, either.\nBut Redditor Mewwie64's has found a way to run the game with an unlocked framerate by using a Quick Resume glitch on Xbox Series X - that's the handy feature that lets you switch between games from where you last left off, without needing to boot up each one from scratch.\nTo run GTA 6 at 60fps or higher, you'll apparently need a 120hz display, an Xbox Series X, and the game itself on version 01.002.001. \"This glitch may still work on later versions,\" the Redditor says, \"not sure.\"\nThe dedicated player also gave interested folks a tutorial on how to up those framerate caps: \"Put your Xbox display settings to 60hz. Start GTA 6. Wait until you see the six stars in the intro. Change your display settings back to 120hz. Cold boot another game on your console via the Xbox Guide (The Xbox button) and without quitting GTA 6. Switch back to GTA 6.\" And, voila.\nThe Redditor does have one pretty big disclaimer, before you get too excited. \"The game speed seems to be tied to your framerate,\" they write, so increasing the framerate might lead to certain animations looking faster than normal.\n\"It seems like the animations are at 2x speed or more in Jason's house in Chapter 1. I have a stable 90fps and everything works fine but Jason's animations run at 2x speed or more. But when you exit the house everything runs at an increased speed (The game world is likely tied to your framerate) but cutscenes work 100% fine without issues on higher framerates. Only the gameplay is sped up.\" Be warned, then.\nWeekly digests, tales from the communities you love, and more\nCheck out our GTA 6 review to find out why it's a must-play masterpiece, or dig into our full GTA 6 guide if you're already making your way in Leonida.\n4. Best pro Xbox: Nacon Revolution X Unlimited\nKaan freelances for various websites including Rock Paper Shotgun, Eurogamer, and this one, Gamesradar. He particularly enjoys writing about spooky indies, throwback RPGs, and anything that's vaguely silly. Also has an English Literature a",
+    "extra": {
+     "image": "https://cdn.mos.cms.futurecdn.net/igwCMw9CEsQDbWE7Waxm6G-1920-80.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "🗺 Гайд: 60fps на Xbox Series X 🚀\n\n1️⃣ Поставь дисплей на 60 Hz, запусти GTA 6, дождись шести звёзд в интро.\n2️⃣ Переключи обратно на 120 Hz.\n3️⃣ Холодный запуск любой другой игры через Xbox Guide, не выходя из GTA.\n4️⃣ Вернись в GTA 6 – фпс разблокирован, но анимации могут ускориться. 🎮⚡",
+    "card_title": "FPS ГЛИЧ НА XBOX",
+    "reason": "Confirmed player discovery of a glitch to unlock framerate on Xbox Series X, highly interesting for players despite bugs.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "В GTA 6 ад Xbox Series X | S авдазбездатсу FPS — ааа адатсу, аесту",
+    "corroborated_by": "В GTA 6 ад Xbox Series X | S авдазбездатсу FPS — ааа адатсу, аесту",
+    "guide": true,
+    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
+   },
+   "queued_at": "2026-11-22T16:23:45.259779+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA 6’s Worst Feature Needs to Be Patched ASAP",
+    "link": "https://www.polygon.com/gta-6-stash-box-atm-money/",
+    "summary": "Depositing and withdrawing money from your stash box and ATMs is shockingly fiddly and counterintuitive in GTA 6.",
+    "published": "2026-11-22T16:30:17+00:00",
+    "source": "Polygon",
+    "site_name": "Polygon",
+    "trust": "high",
+    "text": "After years of waiting, Grand Theft Auto 6 is finally here. And somehow, miraculously, it's living up to the impossible level of hype surrounding it. Rockstar's game is a staggering technological and artistic achievement in countless ways. The world of Leonida is vast and intricate, and the emergent gameplay enabled by hundreds of unique NPCs is truly astonishing. But there's one thing about GTA 6 I find absolutely infuriating so far, and it's extremely minor: depositing and withdrawing money from Jason's stash box and ATMs is a total pain in the ass.\nIn the early hours of the game, Jason doesn't have a bank account. (He later tells Lucia he doesn't want to be \"in the system.\") So while he's making a living doing odd jobs and waiting for Lucia to be released from prison, he's keeping money under the floorboards in his bedroom. In order to select the amount you want to deposit or withdraw from the stash box, you press left or right on the d-pad. It takes forever for the numbers to tick up or down — until suddenly it doesn't, and you've whizzed far past the figure you wanted to input. The sensitivity of the counter is totally out of whack, going from a trickle to a fire hose instantaneously. I figured I was missing something — surely it should not be this difficult to wrangle the stash box?\nAt first, I generously assumed this was some kind of artistic flourish. Jason isn't counting the cash he places in the stash by hand every time; he's just eyeballing it. Then, about halfway through Chapter 1, you get access to the BuckMe app, essentially a bank account for people with terrible credit like Jason and Lucia. In addition to keeping cash at home, you can now deposit your ill-gotten gains at ATMs throughout Leonida. (Having a BuckMe account also allows you to make more expensive purchases at the gun store.) I assumed my days of wrangling that horrible slider were over. Surely the ATM would feature a numerical keypad, and I could just enter the amount I wanted to deposit or withdraw. After all, a similar interface appears elsewhere in the game, for door codes and lockboxes. Nope! For no discernible reason, ATMs also use the same clunky, left-to-right scrolling interface as the stash box.\nPerhaps the intent here is to encourage you to put all your money in your BuckMe and Family Savings account as soon as the option becomes available. But I enjoy having a few hundred dollars of \"fuck around money​​​​​​​\" for buying snacks or car repairs. Yes, you can use the app ",
+    "extra": {
+     "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/gta6-3.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "💸 В GTA 6 нашли самую ДУШНУЮ фичу с наличкой\n\nВ Polygon словили тильт от того, как неудобно класть и снимать деньги в тайнике Джейсона и банкоматах. Ползунок на крестовине сначала еле ползёт, а потом улетает в космос — хотя на кодовых замках нормальная цифровая клавиатура в игре есть. Вот такая жиза в Леониде, срочно нужен патч.",
+    "card_title": "САМАЯ ДУШНАЯ МЕХАНИКА GTA 6",
+    "reason": "Журналисты Polygon жалуются на неудобный интерфейс банкоматов и тайников в GTA 6.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-4-hydrogen"
+   },
+   "queued_at": "2026-11-22T16:41:24.184196+00:00"
+  },
+  {
+   "item": {
     "title": "GTA VI’s Jet Ski Dog: EXCLUSIVE Interview With Real-Life Inspiration Owner",
     "link": "https://rockstarintel.com/gta-vis-jet-ski-dog-exclusive-interview-with-real-life-inspiration-owner/",
     "summary": "As expected, GTA VI features lots of events and NPCs inspired by ones in real life based out of Florida. Perhaps the most viral NPC interaction from the game so far involves a dog that rides a jet ski and saves you out in the ocean. “Cool Dog” is actually based on a real life [...] The post GTA VI’s Jet Ski Dog: EXCLUSIVE Interview With Real-Life Inspiration Owner appeared first on RockstarINTEL .",
@@ -9817,6 +9726,93 @@
   },
   {
    "item": {
+    "title": "How to Find Backyard Wrestling in GTA 6—Location, Luchador Mask and More",
+    "link": "https://insider-gaming.com/backyard-wrestling-gta-6/",
+    "summary": "Here's a guide on how to find Backyard Wrestling in GTA 6 and how to defeat The Gentrifier to get the Luchador Mask. The post How to Find Backyard Wrestling in GTA 6—Location, Luchador Mask and More appeared first on Insider Gaming .",
+    "published": "2026-11-22T12:55:43+00:00",
+    "source": "Insider Gaming",
+    "site_name": "Insider Gaming",
+    "trust": "medium",
+    "text": "One of the many activities you can do in GTA 6 is Backyard Wrestling, and this guide will help you find the location of this spot, how to claim the rewards, and some tips to make the experience easier.\nRockstar has made GTA 6 one of the most immersive titles out there in the industry, with a world so dense that players could potentially live a second life in Leonida. Apart from the main and side quests, there are a whole bunch of things to do, like fitness, building your relationship with Lucia, and taking part in several activities, which include Backyard Wrestling as one of them.\nYou can buy Grand Theft Auto 6 here if you haven’t already!\nGTA 6’s Backyard Wrestling can be found in Hamlet.\nBackyard Wrestling is an activity that GTA 6 players can take on very early in the game, and it’s fairly close to the starting area. Players will need to head to Hamlet to start this mission, but before heading there, it’s advisable to eat or drink something to build stamina; this could be a quick coffee at home or something from a nearby convenience store.\nMore Insider Gaming: All GTA 6 Guides, Walkthroughs, Best Tips & Tricks\nOnce you have that stamina buff, head to the location shown in the screenshot above (marked with a blue star).\nHow to Find and Defeat the Gentrifier in Backyard Wrestling GTA 6—Location, Tips, Rewards\n‘The Gentrifier’ is an opponent in GTA 6’s Backyard Wrestling mini-game, and beating him, although tough, rewards you with the ‘Luchador Mask’.\nOnce you reach the location, you will find a large ground with a makeshift wrestling ring and a trailer beside it. Go up to the trailer and knock; here’s where the Gentrifier resides. However, he will not come out on your first knock, and you will have to cause a bit of chaos to grab his attention. To do that, grab some empty bottles and cans around the area and start tossing them at the Gentrifier’s trailer to get him riled up.\nMore Insider Gaming: GTA 6 Laptop Password Puzzle—Muffins Solution and La Perle Garage Code, Explained\nAfter that, you can knock on the door again, but be ready; the fight begins as soon as you have knocked for the second time. GTA 6’s Backyard Wrestling mission is fairly simple, as it has only QTE events, but there is a chance to fail if you are not on your toes. The QTE events need players to spam a button, which drains their stamina, but the buff from earlier should help. You have to perform the button spam thrice until he jumps from the turnbuckle; dodge that move, and you have w",
+    "extra": {
+     "image": "https://insider-gaming.com/wp-content/uploads/2026/11/GTA-6-Backyard-Wrestling.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "🗺 Гайд: Как выбить маску лучадора в дворовом рестлинге\n\n1. Го в город Hamlet, предварительно закинувшись кофе или газировкой для баффа выносливости.\n2. На площадке с рингом побросай мусор в трейлер бойца Gentrifier, чтобы агронуть чела.\n3. Постучись в дверь второй раз и вовремя прожми QTE, чтобы увернуться от прыжка и забрать маску. Зачетный лут!",
+    "card_title": "МАСКА ЛУЧАДОРА В GTA 6",
+    "reason": "Гайд по поиску локации и получению маски лучадора в мини-игре Backyard Wrestling.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "How to Find Backyard Wrestling in GTA 6—Location, Luchador Mask and More — Google News (EN)",
+    "guide": true,
+    "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-3.5-flash"
+   },
+   "queued_at": "2026-11-22T16:22:08.599227+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA 6: Where to Find Four Hidden Weapons in Pelican Valley and the Griffin Bunker in Chapter 1",
+    "link": "https://www.gtaboom.com/gta-6-where-to-find-four-hidden-weapons-in-pelican-valley-and-the-griffin-bunker-in-chapter-1-13f1",
+    "summary": "Get four free legendary weapons early in GTA, two of which are at Pelican Valley nd another pair southwest of Griffin Firing Range.",
+    "published": "2026-11-22T13:30:00+00:00",
+    "source": "GTA BOOM",
+    "site_name": "GTA BOOM",
+    "trust": "medium",
+    "text": "We went out and grabbed four free weapons in Grand Theft Auto VI, two tucked inside a wrecked swamp cabin and another pair hidden in an underground armory you drop into through a floor hatch. Both locations are easy to miss if you don't know where to look.\nLucky for you, now you will, because we'll teach you where to find each weapon and how to get your hands on them.\nPelican Valley swamp cabin: Cruel Huntsman's SM-69 and Swamp Bait Akulus\nFind the wrecked, bloodied cabin deep in the Pelican Valley swamp in Mariana County.\nMake for the Pelican Valley swamp in Mariana County and look for a half-collapsed cabin, bloodied inside and easy to miss among the trees. Pull up the map if you are circling the area. Inside on the floor you will find the Swamp Bait Akulus, a revolver that suits the grisly setting. The Cruel Huntsman's SM-69 sits nearby with a stash of ammo, out by the carcasses on the side deck.\nGrab both weapons in one stop. There are enemies to clear. You just need to go to the place, walk in and get out.\nGriffin Firing Range bunker: Conspiracist Type 9 and Hauners H-AT\nFind the antenna-covered trailer southwest of the Griffin Firing Range and drop through the floor hatch.\nHead to the Balsero area and look southwest of the Griffin Firing Range for a mobile home covered in antennas and satellite dishes, sitting in a fenced trailer lot. It looks like junk from the outside. Step in and open the hatch in the floor to drop into an underground armory. The Conspiracist Type 9 is waiting on the workbench. Meanwhile, the Hauners H-AT launcher sits beside the safes. Drop through the hatch and both are yours to take.\nThe four hidden GTA 6 weapons and where to find them\nEvery weapon we pulled from the two hideouts and exactly where you'll find them.\nThere you have it. Four free weapons for the cost of two detours.\nIf you are stocking up on weapons as early as in Chapter 1, our full rundown of free early-game weapons covers similarly easy pickups, including these and this trio of legendary weapons on the Permit Keys shoreline as well as the SM-69 at the Key Lento radio tower, so the swamp cabin may not be your only shot at that one.\nWhich of these four did you grab first, or is there a hidden early GTA 6 weapon stash we have not mapped yet?\nOnce a post receives 3 qualifying Helpful marks\nThe antenna trailer is my favorite of these. It looks like total junk from the road, then you drop through a hatch into a full armory.\nHow to Find the Vercetti Estate in GTA 6Sid",
+    "extra": {
+     "image": "https://media.gtaboom.com/variants/1920/media/images/32/d0/screenshot-2026-11-22-211316.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "🔫 Секретные пушкИ в Пеликан Вэлли и бункере Грифина\n\n🗺 Гайд:\n1️⃣ Прокати в Пеликан Вэлли, ищи полузруйну кабину в болоте — внутри найдёшь Swamp Bait Akulus и SM‑69.\n2️⃣ В зоне Griffin Firing Range ищи трейлер с антеннами, зайди в люк на полу и спустись в подземный арсенал — на верстаке Conspiracist Type 9, рядом Hauners H‑AT.\nОба тайника легко пройти, враги – мелочь. Забери пушки и стартуй в Chapter 1 с имбой.",
+    "card_title": "СКРЫТЫЕ ОРУЖИЯ В GTA 6",
+    "reason": "Гайд по поиску крутого скрытого оружия в первой главе.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": true,
+    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
+   },
+   "queued_at": "2026-11-22T16:23:48.267761+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA VI Pre-Order Bonus Now Available To Buy Separately",
+    "link": "https://rockstarintel.com/gta-vi-pre-order-bonus-now-available-to-buy-separately/",
+    "summary": "The GTA VI pre-order bonus can now be purchased separately following the game’s launch. The Vintage Vice City Pack was the bonus that every single person that pre-ordered the game either physically or digitally received upon getting into the game. Whilst Rockstar have not made any comment on the pack being made available separately, store listings [...] The post GTA VI Pre-Order Bonus Now Available To Buy Separately appeared first on RockstarINTEL .",
+    "published": "2026-11-22T14:05:33+00:00",
+    "source": "Rockstar Intel",
+    "site_name": "Rockstar Intel",
+    "trust": "medium",
+    "text": "The GTA VI pre-order bonus can now be purchased separately following the game’s launch. The Vintage Vice City Pack was the bonus that every single person that pre-ordered the game either physically or digitally received upon getting into the game.\nWhilst Rockstar have not made any comment on the pack being made available separately, store listings spotted by Tex2 have appeared on both the PlayStation and XBOX Store. It retails for $4.99 / £4.49.\nIt’s pretty surprising that Rockstar have made this pre-order bonus available just a few days after launch and on a weekend too. I thought we would see this as a separate micro transaction but maybe in the new year. This is now the third microtransaction you can get for the game with the others being the Ultimate Edition Pack and GTA+ bonuses.\nThe Vintage Vice City Pack contains a number of clothing items for Jason and Lucia, weapon patterns and a ’55 Vapid Stainer that you can’t get in the game without this pack. For those that somehow didn’t pre-order the game and wants this content then now they can.\nLooking for some Grand Theft Auto VI guides? We show you how you can unlock the exclusive Venturas Blvd Elegy here. Plus, check out the best settings to use when playing the game. In other Grand Theft Auto VI news, the game sold over 30 million copies on day one. Learn more here.\nWill you be purchasing the pack if you did not pre-order it? Let us know down in the comment section below.\nYou can order your PS5 or XBOX copy of Grand Theft Auto VI with this link. Using the link to order the game will help support this website as we’ll earn a small commission. Thank you!\nFor more news on GTA VI, stay tuned to RockstarINTEL and sign up to our newsletter for a weekly round-up of all things Rockstar Games delivered straight to your inbox.",
+    "extra": {
+     "image": "https://rockstarintel.com/wp-content/uploads/2026/06/VINTAGE_VICE_CITY_PACK_VAPID_STANIER_01-004m_8d1-qngy.avif"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "🛒 Винтажный пакет теперь в магазине\n\nRockstar наконец‑запустили Vintage Vice City Pack как отдельный микротранзакшн — за $4.99 ты получишь редкую форму Джейсона, луку Люсии, паттерн оружия и ’55 Vapid Stainer. Если пропустил предзаказ, теперь можно докупить и не отставать от клана 💥",
+    "card_title": "ВИНТАДЖ ПАКЕТ ДЛЯ ВСЕХ",
+    "reason": "Pre-order bonus pack is now available for purchase in store listings, confirmed by media.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
+   },
+   "queued_at": "2026-11-22T16:24:41.012324+00:00"
+  },
+  {
+   "item": {
     "title": "GTA 6: Where To Find The Patriot Cat",
     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE83ZXJaTlk5RkVtX3BQdEFZdXdQbjVxamhBX0Q3MHhsQ3J4cFI0SlQwdUxWVUV4RHBiWVR3SkZfTmlwUFJpbjhnOHEwS1pFYnVwU3BQUFpfQ2VqQjNUbzJ3X05wb3VTcXdKcDIzT3dya0V2SzQ?oc=5",
     "summary": "GTA 6: Where To Find The Patriot Cat Cultured Vultures",
@@ -9844,9 +9840,6 @@
   }
  ],
  "posts": [
-  "2026-11-20T14:43:05.261942+00:00",
-  "2026-11-20T15:00:24.640243+00:00",
-  "2026-11-20T15:19:28.976478+00:00",
   "2026-11-20T18:33:04.361290+00:00",
   "2026-11-21T06:14:39.704485+00:00",
   "2026-11-21T07:11:39.823252+00:00",
@@ -9869,16 +9862,16 @@
   "2026-11-22T10:19:40.823469+00:00",
   "2026-11-22T10:36:38.402500+00:00",
   "2026-11-22T11:31:52.041959+00:00",
-  "2026-11-22T12:52:42.587608+00:00"
+  "2026-11-22T12:52:42.587608+00:00",
+  "2026-11-22T16:35:44.287977+00:00"
  ],
- "tg_offset": 387129043,
+ "tg_offset": 387129045,
  "channel": {
   "id": -1003986639147,
   "title": "GTA 6 | Горячие новости",
   "username": "gta6_hotnews"
  },
  "drafts": [
-  "2026-11-20T14:41:38.112854+00:00",
   "2026-11-20T17:56:28.663214+00:00",
   "2026-11-21T06:06:24.327667+00:00",
   "2026-11-21T07:06:43.822657+00:00",
@@ -9913,7 +9906,6 @@
  ],
  "clips": [],
  "clip_drafts": [
-  "2026-11-20T14:49:41.470920+00:00",
   "2026-11-20T18:12:30.979974+00:00",
   "2026-11-20T19:41:54.206032+00:00",
   "2026-11-20T19:42:03.366178+00:00",
@@ -14696,6 +14688,13 @@
    "title": "Джейсона списали со Стива Маккуина!",
    "importance": 7,
    "kind": "confirmed"
+  },
+  {
+   "ts": "2026-11-22T16:35:44.287992+00:00",
+   "msg_id": 55,
+   "title": "Более половины игроков на консолях в GTA 6 в день релиза",
+   "importance": 8,
+   "kind": "confirmed"
   }
  ],
  "extras": [],
@@ -14704,186 +14703,5 @@
   "weekly-20261121": "2026-11-21T17:30:42.606074+00:00",
   "digest-20261121": "2026-11-21T19:30:10.993120+00:00"
  },
- "rewrite_wait": [
-  {
-   "item": {
-    "title": "How to Find Backyard Wrestling in GTA 6—Location, Luchador Mask and More",
-    "link": "https://insider-gaming.com/backyard-wrestling-gta-6/",
-    "summary": "Here's a guide on how to find Backyard Wrestling in GTA 6 and how to defeat The Gentrifier to get the Luchador Mask. The post How to Find Backyard Wrestling in GTA 6—Location, Luchador Mask and More appeared first on Insider Gaming .",
-    "published": "2026-11-22T12:55:43+00:00",
-    "source": "Insider Gaming",
-    "site_name": "Insider Gaming",
-    "trust": "medium",
-    "text": "One of the many activities you can do in GTA 6 is Backyard Wrestling, and this guide will help you find the location of this spot, how to claim the rewards, and some tips to make the experience easier.\nRockstar has made GTA 6 one of the most immersive titles out there in the industry, with a world so dense that players could potentially live a second life in Leonida. Apart from the main and side quests, there are a whole bunch of things to do, like fitness, building your relationship with Lucia, and taking part in several activities, which include Backyard Wrestling as one of them.\nYou can buy Grand Theft Auto 6 here if you haven’t already!\nGTA 6’s Backyard Wrestling can be found in Hamlet.\nBackyard Wrestling is an activity that GTA 6 players can take on very early in the game, and it’s fairly close to the starting area. Players will need to head to Hamlet to start this mission, but before heading there, it’s advisable to eat or drink something to build stamina; this could be a quick coffee at home or something from a nearby convenience store.\nMore Insider Gaming: All GTA 6 Guides, Walkthroughs, Best Tips & Tricks\nOnce you have that stamina buff, head to the location shown in the screenshot above (marked with a blue star).\nHow to Find and Defeat the Gentrifier in Backyard Wrestling GTA 6—Location, Tips, Rewards\n‘The Gentrifier’ is an opponent in GTA 6’s Backyard Wrestling mini-game, and beating him, although tough, rewards you with the ‘Luchador Mask’.\nOnce you reach the location, you will find a large ground with a makeshift wrestling ring and a trailer beside it. Go up to the trailer and knock; here’s where the Gentrifier resides. However, he will not come out on your first knock, and you will have to cause a bit of chaos to grab his attention. To do that, grab some empty bottles and cans around the area and start tossing them at the Gentrifier’s trailer to get him riled up.\nMore Insider Gaming: GTA 6 Laptop Password Puzzle—Muffins Solution and La Perle Garage Code, Explained\nAfter that, you can knock on the door again, but be ready; the fight begins as soon as you have knocked for the second time. GTA 6’s Backyard Wrestling mission is fairly simple, as it has only QTE events, but there is a chance to fail if you are not on your toes. The QTE events need players to spam a button, which drains their stamina, but the buff from earlier should help. You have to perform the button spam thrice until he jumps from the turnbuckle; dodge that move, and you have w",
-    "extra": {
-     "image": "https://insider-gaming.com/wp-content/uploads/2026/11/GTA-6-Backyard-Wrestling.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 6,
-    "post": "🗺 Гайд: Как найти подпольные бои и залутать маску лучадора\n\nШемим катку в Гамлете: топаем к трейлеру, кидаем банки в дверь, чтобы разбудить Гентрификанта, и выбиваем из него имбовый шлем через QTE.",
-    "card_title": "КАК НАЙТИ БОИ БЕЗ ПРАВИЛ",
-    "reason": "Гайд по поиску локации и получению маски лучадора в мини-игре Backyard Wrestling.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "How to Find Backyard Wrestling in GTA 6—Location, Luchador Mask and More — Google News (EN)",
-    "guide": true,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-22T13:09:38.409250+00:00"
-  },
-  {
-   "item": {
-    "title": "GTA 6 Challenges – all 80 challenges to complete",
-    "link": "https://www.gamesradar.com/games/grand-theft-auto/all-gta-6-challenges/",
-    "summary": "There are 80 challenges in GTA 6 split across eight different categories to complete",
-    "published": "2026-11-22T13:08:12+00:00",
-    "source": "GamesRadar+",
-    "site_name": "GamesRadar+",
-    "trust": "high",
-    "text": "GTA 6 Challenges are a vital way to reach 100% completion. The challenge system is a key way for you to unlock all of the GTA 6 cheats, and you'll need to have at least 70 of these wrapped up if you want to unlock the GTA 6 Platinum Trophy or 1000 GS too.\nThe Challenges in GTA 6 are split into eight separate categories, designed to test your abilities and skills in a variety of different ways as you progress through GTA 6. You can complete challenges in any order, and you can wait until you finish all of the GTA 6 missions to pursue these as well. Use these jump links to leap between all of the different categories:\nYou can check your progress through all GTA 6 Challenges by pressing the touchpad / menu button to open the GTA 6 Index and then using R1/RB to scroll to the Progress tab. In there, you'll find the option for Challenges. When you've completed one, you'll get a tick in the relevant checkbox.\nKill or knock out 5 enemies in a row using melee weapons without dying.\nKill or injure 3 enemies with a single explosive.\nKill 4 enemies with headshots in a single use of combat focus.\nDrive-by kill 5 enemies in under 1 minute without exiting your vehicle.\nKill 7 unalerted enemies using a scoped sniper rifle without dying or being arrested.\nKill or injure 5 enemies with fire damage in under 15 seconds.\nKill 6 enemies with headshots using a revolver without reloading or switching weapons.\nKill 3 enemies under 10 seconds with a scoped sniper rifle from 300 feet.\nKill or injure 8 enemies with explosives in under 20 seconds without taking damage.\nRob 3 stores in a day without dying or being arrested.\nCarjack 3 vehicles and take them to a Pay 'n' Spray in a day without dying or being arrested.\nSteal $500 in cash from pedestrians in a day without dying or being arrested.\nMaintain a wanted level for 5 minutes in a stolen law enforcement motor vehicle.\nSteal a weapon from the trunk of 5 different law enforcement vehicles without dying or being arrested.\nRob 2 stores in all 5 counties in under 20 minutes without dying or being arrested.\nTow an occupied law enforcement vehicle for 1 mile without stopping.\nRegister or respray a stolen vehicle from 10 different manufacturers at a Pay 'n' Spray in under 30 minutes without dying or being arrested.\nEarn $100,000 from selling stolen vehicles to any fence or Pay 'n' Spray in a day without dying or being arrested.\nScan any 4 landmarks, curiosities, or sculptures with WAiNK.\nVisit the top of the 5 tallest skyscrapers in Vice-D",
-    "extra": {
-     "image": "https://cdn.mos.cms.futurecdn.net/XdhQ3SUwoqU6sS6JkN7j5M-1920-80.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 6,
-    "post": "🗺 Гайд: Все 80 челленджей для 100% прохождения\n\nНужно закрыть хотя бы 70 штук ради платины и чит-кодов. Чекни прогресс через индекс в меню на вкладке Progress, чтобы забрать все награды.\n\n❤️ — Закрою на изи\n👎 — Душно, скип",
-    "card_title": "ВСЕ 80 ЧЕЛЛЕНДЖЕЙ В GTA 6",
-    "reason": "Гайд по выполнению всех 80 челленджей для 100% прохождения и чит-кодов в GTA 6.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": true,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-22T13:25:51.518526+00:00"
-  },
-  {
-   "item": {
-    "title": "GTA 6 at 60fps is actually possible thanks to an Xbox Series X glitch",
-    "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-at-60fps-is-actually-possible-thanks-to-an-xbox-series-x-glitch-but-you-might-need-to-stomach-double-speed-animations-too/",
-    "summary": "Give and take",
-    "published": "2026-11-22T13:32:23+00:00",
-    "source": "GamesRadar+",
-    "site_name": "GamesRadar+",
-    "trust": "high",
-    "text": "Some GTA 6 hopefuls weren't chuffed when hearing the open-world crime fest is targeting 30fps on all consoles, but there's actually a way to circumvent that framerate cap thanks to a newly-discovered glitch on Xbox.\nBefore the game's meteoric launch, Rockstar Games confirmed that its crime fest was locked at 30fps on PS5 and Xbox Series X|S - the studio acknowledged that even the PS5 Pro wasn't capable enough to simulate the game's massive, complicated world at higher framerates, either.\nBut Redditor Mewwie64's has found a way to run the game with an unlocked framerate by using a Quick Resume glitch on Xbox Series X - that's the handy feature that lets you switch between games from where you last left off, without needing to boot up each one from scratch.\nTo run GTA 6 at 60fps or higher, you'll apparently need a 120hz display, an Xbox Series X, and the game itself on version 01.002.001. \"This glitch may still work on later versions,\" the Redditor says, \"not sure.\"\nThe dedicated player also gave interested folks a tutorial on how to up those framerate caps: \"Put your Xbox display settings to 60hz. Start GTA 6. Wait until you see the six stars in the intro. Change your display settings back to 120hz. Cold boot another game on your console via the Xbox Guide (The Xbox button) and without quitting GTA 6. Switch back to GTA 6.\" And, voila.\nThe Redditor does have one pretty big disclaimer, before you get too excited. \"The game speed seems to be tied to your framerate,\" they write, so increasing the framerate might lead to certain animations looking faster than normal.\n\"It seems like the animations are at 2x speed or more in Jason's house in Chapter 1. I have a stable 90fps and everything works fine but Jason's animations run at 2x speed or more. But when you exit the house everything runs at an increased speed (The game world is likely tied to your framerate) but cutscenes work 100% fine without issues on higher framerates. Only the gameplay is sped up.\" Be warned, then.\nWeekly digests, tales from the communities you love, and more\nCheck out our GTA 6 review to find out why it's a must-play masterpiece, or dig into our full GTA 6 guide if you're already making your way in Leonida.\n4. Best pro Xbox: Nacon Revolution X Unlimited\nKaan freelances for various websites including Rock Paper Shotgun, Eurogamer, and this one, Gamesradar. He particularly enjoys writing about spooky indies, throwback RPGs, and anything that's vaguely silly. Also has an English Literature a",
-    "extra": {
-     "image": "https://cdn.mos.cms.futurecdn.net/igwCMw9CEsQDbWE7Waxm6G-1920-80.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 6,
-    "post": "🗺 Гайд: 60 FPS на Xbox Series X\n\nИгрок нашёл способ снять лок в 30 кадров через баг с Quick Resume, но игра начинает работать на ускоренной перемотке.\n\n❤️ — Затестим х2 скорость\n👎 — Лучше в 30 FPS, но нормально",
-    "card_title": "60 FPS НА XBOX",
-    "reason": "Confirmed player discovery of a glitch to unlock framerate on Xbox Series X, highly interesting for players despite bugs.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "В GTA 6 ад Xbox Series X | S авдазбездатсу FPS — ааа адатсу, аесту",
-    "corroborated_by": "В GTA 6 ад Xbox Series X | S авдазбездатсу FPS — ааа адатсу, аесту",
-    "guide": true,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-22T13:42:10.422075+00:00"
-  },
-  {
-   "item": {
-    "title": "GTA 6: Where to Find Four Hidden Weapons in Pelican Valley and the Griffin Bunker in Chapter 1",
-    "link": "https://www.gtaboom.com/gta-6-where-to-find-four-hidden-weapons-in-pelican-valley-and-the-griffin-bunker-in-chapter-1-13f1",
-    "summary": "Get four free legendary weapons early in GTA, two of which are at Pelican Valley nd another pair southwest of Griffin Firing Range.",
-    "published": "2026-11-22T13:30:00+00:00",
-    "source": "GTA BOOM",
-    "site_name": "GTA BOOM",
-    "trust": "medium",
-    "text": "We went out and grabbed four free weapons in Grand Theft Auto VI, two tucked inside a wrecked swamp cabin and another pair hidden in an underground armory you drop into through a floor hatch. Both locations are easy to miss if you don't know where to look.\nLucky for you, now you will, because we'll teach you where to find each weapon and how to get your hands on them.\nPelican Valley swamp cabin: Cruel Huntsman's SM-69 and Swamp Bait Akulus\nFind the wrecked, bloodied cabin deep in the Pelican Valley swamp in Mariana County.\nMake for the Pelican Valley swamp in Mariana County and look for a half-collapsed cabin, bloodied inside and easy to miss among the trees. Pull up the map if you are circling the area. Inside on the floor you will find the Swamp Bait Akulus, a revolver that suits the grisly setting. The Cruel Huntsman's SM-69 sits nearby with a stash of ammo, out by the carcasses on the side deck.\nGrab both weapons in one stop. There are enemies to clear. You just need to go to the place, walk in and get out.\nGriffin Firing Range bunker: Conspiracist Type 9 and Hauners H-AT\nFind the antenna-covered trailer southwest of the Griffin Firing Range and drop through the floor hatch.\nHead to the Balsero area and look southwest of the Griffin Firing Range for a mobile home covered in antennas and satellite dishes, sitting in a fenced trailer lot. It looks like junk from the outside. Step in and open the hatch in the floor to drop into an underground armory. The Conspiracist Type 9 is waiting on the workbench. Meanwhile, the Hauners H-AT launcher sits beside the safes. Drop through the hatch and both are yours to take.\nThe four hidden GTA 6 weapons and where to find them\nEvery weapon we pulled from the two hideouts and exactly where you'll find them.\nThere you have it. Four free weapons for the cost of two detours.\nIf you are stocking up on weapons as early as in Chapter 1, our full rundown of free early-game weapons covers similarly easy pickups, including these and this trio of legendary weapons on the Permit Keys shoreline as well as the SM-69 at the Key Lento radio tower, so the swamp cabin may not be your only shot at that one.\nWhich of these four did you grab first, or is there a hidden early GTA 6 weapon stash we have not mapped yet?\nOnce a post receives 3 qualifying Helpful marks\nThe antenna trailer is my favorite of these. It looks like total junk from the road, then you drop through a hatch into a full armory.\nHow to Find the Vercetti Estate in GTA 6Sid",
-    "extra": {
-     "image": "https://media.gtaboom.com/variants/1920/media/images/32/d0/screenshot-2026-11-22-211316.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 6,
-    "post": "🗺 Гайд: Скрытые пушки в 1 главе\n\nЗалетаем за халявным арсеналом на старте: ищем две точки.\n\n1. Хижина в болотах Pelican Valley — внутри валяется револьвер Swamp Bait Akulus, а снаружи на досках SM-69 с патронами.\n2. Трейлер с антеннами около Griffin Firing Range — сносим люк в полу, в бункере забираем пушку Conspiracist Type 9 и гранатомет Hauners H-AT.\n\n❤️ — Ууу, лут со старта!\n👎 — Предпочитаю кулаки",
-    "card_title": "СКРЫТОЕ ОРУЖИЕ В ГЛАВЕ 1",
-    "reason": "Гайд по поиску крутого скрытого оружия в первой главе.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": true,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-22T13:42:16.254562+00:00"
-  },
-  {
-   "item": {
-    "title": "Grand Theft Auto 6 has a 'complex drug network' that tracks everything from where drugs come from to 'how they eventually reach the street-level buyer'",
-    "link": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-has-a-complex-drug-network-that-tracks-everything-from-where-drugs-come-from-to-how-they-eventually-reach-the-street-level-buyer/",
-    "summary": "\"Having that structure in the background as something we consistently refer to helps everything feel more real.\"",
-    "published": "2026-11-22T13:25:42+00:00",
-    "source": "PC Gamer",
-    "site_name": "PC Gamer",
-    "trust": "high",
-    "text": "I've only dipped my toe into Grand Theft Auto 6 thus far, but I'm already impressed by the detail Rockstar has baked into its world. One thing I'm always curious about with games like this, however, is how much of that detail is on the surface versus what's actually happening under the hood.\nI'm still too early in the game to judge this for myself, but according to Rockstar, there is way more going on in terms of how NPCs behave than players will ever likely see. One striking example of this is how GTA 6's gang compounds conduct their drug operations. In an interview with IGN, Rockstar's senior design director for its open world Steven Messinger explained that GTA 6 fully simulates drug distribution from top to bottom.\n\"A big part of [the open world's design] was establishing deep backstories for almost everything, even if they were never meant to be fully explained to the player, and then really sticking to those backstories,\" Messinger pointed out. \"For example, our gang compounds have a complex drug network we've fully mapped out: where the drugs come from, who brings them in and how, how they're distributed to each compound, what happens at each stop, and how they eventually reach the street-level buyer.\"\nMessinger notes that \"players will only pick up bits and pieces of this\". But representing this process wholesale means that, when players do notice it, it always feels authentic and believable. \"Having that structure in the background as something we consistently refer to helps everything feel more real, like this big machine is always running even when players aren't there.\"\nWhile this may only be designed for players to notice passively, I'm now keen to follow this system and see just how consistently it holds up. But it's such commitment to representing its world that has led GTA 6 to receive near-universal praise from critics, and it probably didn't hurt when it earned $3.79 billion on launch day, either.\n2026 games: All the upcoming gamesBest PC games: Our all-time favoritesFree PC games: Freebie festBest FPS games: Finest gunplayBest RPGs: Grand adventuresBest co-op games: Better together\nKeep up to date with the most important stories and the best deals, as picked by the PC Gamer team.\nRick has been fascinated by PC gaming since he was seven years old, when he used to sneak into his dad's home office for covert sessions of Doom. He grew up on a diet of similarly unsuitable games, with favourites including Quake, Thief, Half-Life and Deus Ex. B",
-    "extra": {
-     "image": "https://cdn.mos.cms.futurecdn.net/s8f7vCvwQwKdVpYM98hjNQ-1920-80.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "Наркотрафик в GTA 6: имба-детали\n\nRockstar прописали лютую базу: в игре полностью симулируется весь путь наркотиков от поставок до уличных барыг. Живой мир работает даже тогда, когда ты просто мимо проезжаешь.\n\n❤️ — Заценим этот реализм\n👎 — Да кому это вообще нужно",
-    "card_title": "СЛОЖНАЯ СИСТЕМА НАРКОТРАФИКА В GTA 6",
-    "reason": "Разработчики из Rockstar подробно рассказали про детальную симуляцию наркотрафика в GTA 6.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-22T13:42:27.661774+00:00"
-  },
-  {
-   "item": {
-    "title": "GTA VI Pre-Order Bonus Now Available To Buy Separately",
-    "link": "https://rockstarintel.com/gta-vi-pre-order-bonus-now-available-to-buy-separately/",
-    "summary": "The GTA VI pre-order bonus can now be purchased separately following the game’s launch. The Vintage Vice City Pack was the bonus that every single person that pre-ordered the game either physically or digitally received upon getting into the game. Whilst Rockstar have not made any comment on the pack being made available separately, store listings [...] The post GTA VI Pre-Order Bonus Now Available To Buy Separately appeared first on RockstarINTEL .",
-    "published": "2026-11-22T14:05:33+00:00",
-    "source": "Rockstar Intel",
-    "site_name": "Rockstar Intel",
-    "trust": "medium",
-    "text": "The GTA VI pre-order bonus can now be purchased separately following the game’s launch. The Vintage Vice City Pack was the bonus that every single person that pre-ordered the game either physically or digitally received upon getting into the game.\nWhilst Rockstar have not made any comment on the pack being made available separately, store listings spotted by Tex2 have appeared on both the PlayStation and XBOX Store. It retails for $4.99 / £4.49.\nIt’s pretty surprising that Rockstar have made this pre-order bonus available just a few days after launch and on a weekend too. I thought we would see this as a separate micro transaction but maybe in the new year. This is now the third microtransaction you can get for the game with the others being the Ultimate Edition Pack and GTA+ bonuses.\nThe Vintage Vice City Pack contains a number of clothing items for Jason and Lucia, weapon patterns and a ’55 Vapid Stainer that you can’t get in the game without this pack. For those that somehow didn’t pre-order the game and wants this content then now they can.\nLooking for some Grand Theft Auto VI guides? We show you how you can unlock the exclusive Venturas Blvd Elegy here. Plus, check out the best settings to use when playing the game. In other Grand Theft Auto VI news, the game sold over 30 million copies on day one. Learn more here.\nWill you be purchasing the pack if you did not pre-order it? Let us know down in the comment section below.\nYou can order your PS5 or XBOX copy of Grand Theft Auto VI with this link. Using the link to order the game will help support this website as we’ll earn a small commission. Thank you!\nFor more news on GTA VI, stay tuned to RockstarINTEL and sign up to our newsletter for a weekly round-up of all things Rockstar Games delivered straight to your inbox.",
-    "extra": {
-     "image": "https://rockstarintel.com/wp-content/uploads/2026/06/VINTAGE_VICE_CITY_PACK_VAPID_STANIER_01-004m_8d1-qngy.avif"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 6,
-    "post": "БОНУС предзаказа теперь можно докупить отдельно\n\nВ сторах PS и Xbox появился набор Vintage Vice City за пять баксов для тех, кто пропустил старт. Шмотки, пушки и тачка теперь доступны всем опоздавшим, база.",
-    "card_title": "БОНУС ЗА ПРЕДЗАКАЗ В ПРОДАЖЕ",
-    "reason": "Pre-order bonus pack is now available for purchase in store listings, confirmed by media.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-22T14:17:06.708410+00:00"
-  }
- ]
+ "rewrite_wait": []
 }
