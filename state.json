@@ -1925,7 +1925,24 @@
   "e3e136fa7fbf325f": "2026-11-22T07:24:36.780525+00:00",
   "859ac391ee447bc6": "2026-11-22T07:24:41.295233+00:00",
   "403afb99f8dfce14": "2026-11-22T07:40:06.419420+00:00",
-  "4b7f1118491d0eb2": "2026-11-22T07:40:10.429994+00:00"
+  "4b7f1118491d0eb2": "2026-11-22T07:40:10.429994+00:00",
+  "4cee1b1cb5dd909d": "2026-11-22T07:55:31.815654+00:00",
+  "6fa3b1f2b23ad49e": "2026-11-22T07:55:36.180540+00:00",
+  "53c7688ff7fbd204": "2026-11-22T08:07:23.332381+00:00",
+  "36e9be23b38ce9d1": "2026-11-22T08:07:24.211208+00:00",
+  "222fbf13985f5b65": "2026-11-22T08:07:24.947846+00:00",
+  "df74864d81495099": "2026-11-22T08:07:25.762676+00:00",
+  "03e71258da3c574f": "2026-11-22T08:08:16.563379+00:00",
+  "8624cb96a23b14d9": "2026-11-22T08:08:17.306720+00:00",
+  "d8f60b4ae8ccdaaa": "2026-11-22T08:08:17.974498+00:00",
+  "5ab2289fc912bb2b": "2026-11-22T08:08:18.835001+00:00",
+  "282398aa7e99b0e3": "2026-11-22T08:09:09.800661+00:00",
+  "ab5174b3e477f150": "2026-11-22T08:09:10.654035+00:00",
+  "c6dfdc4c90c81fff": "2026-11-22T08:09:11.405255+00:00",
+  "91e79ab0cfd48173": "2026-11-22T08:11:44.765735+00:00",
+  "dbf1f6efe9fab2a7": "2026-11-22T08:11:49.439269+00:00",
+  "3c23ff8d6fd41065": "2026-11-22T08:11:55.329927+00:00",
+  "2a7642ddc49e6290": "2026-11-22T08:12:00.177228+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -3219,7 +3236,13 @@
   "f9997e36c6b2ea09": "2026-11-22T07:24:36.780525+00:00",
   "e34478e18fb3b19f": "2026-11-22T07:24:41.295233+00:00",
   "4ac2c84410557134": "2026-11-22T07:40:06.419420+00:00",
-  "fe0601a3494d21f3": "2026-11-22T07:40:10.429994+00:00"
+  "fe0601a3494d21f3": "2026-11-22T07:40:10.429994+00:00",
+  "4808d122de25b2a0": "2026-11-22T07:55:31.815654+00:00",
+  "39d60623dae5e9f0": "2026-11-22T07:55:36.180540+00:00",
+  "fe010e9fbb1a8320": "2026-11-22T08:11:44.765735+00:00",
+  "7f0a5d3cd7e954a7": "2026-11-22T08:11:49.439269+00:00",
+  "7bbdc73f19cc9c72": "2026-11-22T08:11:55.329927+00:00",
+  "0ea8e62371ca379b": "2026-11-22T08:12:00.177228+00:00"
  },
  "recent": [
   {
@@ -6858,7 +6881,7 @@
    "title": "Should you proceed or postpone when you meet Abe in the Protective Custody mission in GTA 6?",
    "source": "PC Gamer",
    "trust": "high",
-   "status": "queued",
+   "status": "published",
    "ts": "2026-11-21T20:46:17.042992+00:00",
    "card_title": "КАК ПОЛУЧИТЬ СЕКРЕТНУЮ КОНЦОВКУ GTA 6"
   },
@@ -8205,38 +8228,57 @@
    "status": "skipped",
    "ts": "2026-11-22T07:40:10.430140+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GTA 6 has two hidden playlists: here’s where to find the posters that unlock them",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-22T07:55:31.815702+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 установила рекорд трафика Comcast, почти четверть сети на пике",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T07:55:36.180681+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Парализованный геймер сыграл в GTA 6 силой мысли благодаря Neuralink — видео",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T08:11:44.765847+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Пользователи устроили ревью-бомбинг GTA 6 на Metacritic сразу после открытия оценок",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T08:11:49.439380+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 after the credits: can you keep exploring Vice City?",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T08:11:55.330038+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Хакеры делают порт GTA VI для ПК, Cyberleek обещает EXE 23 ноября",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T08:12:00.177341+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
-  {
-   "item": {
-    "title": "Should you proceed or postpone when you meet Abe in the Protective Custody mission in GTA 6?",
-    "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-protective-custody-choice-proceed-or-postpone-meet-abe/",
-    "summary": "In the Chapter 5 mission, should you meet with your lawyer now or wait and do it later?",
-    "published": "2026-11-21T20:32:43+00:00",
-    "source": "PC Gamer",
-    "site_name": "PC Gamer",
-    "trust": "high",
-    "text": "Deciding whether to proceed or postpone the Protective Custody story mission is a big choice you'll need to make in GTA 6. The mission appears on your map as \"Meet Abe\" in Chapter 5, once you've completed the mission Operation Savage Glory.\nOnce you get to Abe's office, Jason will warn Lucia that everything will change after this mission. Lucia will hesitate at the door as you make your choice to \"Proceed\" or \"Postpone.\"\nThis is a pretty big decision, because Protective Custody kicks off the final mission of the game which takes about an hour to play. And even though it's a binary choice between \"Proceed\" (which starts the mission) and \"Postpone\" (which delays the mission)\" there's actually a third possible outcome based on when you make the choice.\nProceed: Jason and Lucia will enter Abe's office and the final mission of the game will begin.\nIt's a long mission that will take about an hour to play, so be prepared. You can't save during this mission so make sure you've got the time! Once you've completed the final mission, you can watch the credits and return to the open world so you can continue playing.\nYou will go back to the open world to continue playing. The \"Meet Abe\" icon will remain on your map so you can begin the final mission at any point from then on.\nProceed with $2 million in your Buck Me savings account\nThere are multiple endings to GTA 6, and I won't spoil them here. But one of the endings is only possible if you postpone the Protective Custody mission until you've deposited $2 million into your Buck Me savings account. That's why when you choose to proceed with the final mission makes a difference.\nIt's also worth noting (again, without spoilers) that just because you do have $2 million in your Buck Me savings account does not guarantee you will see this particular ending. There are still choices you'll need to make in the final mission that determine which ending you see.\nChris started playing PC games in the 1980s, started writing about them in the early 2000s, and (finally) started getting paid to write about them in the late 2000s. Following a few years as a regular freelancer, PC Gamer hired him in 2014, probably so he'd stop emailing them asking for more work. Chris has a love-hate relationship with survival games and an unhealthy fascination with the inner lives of NPCs. He's also a fan of offbeat simulation games, mods, and ignoring storylines in RPGs so he can make up his own.\nYou must confirm your public display name before comm",
-    "extra": {
-     "image": "https://cdn.mos.cms.futurecdn.net/7KiM9WgPTcRophKnNZkU8k-1920-80.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "🗺 Гайд: Выбор перед миссией «Встреча с Эйбом»\n\nВ 5 главе перед финалом тебя ждет развилка: «Продолжить» или «Отложить». Если хочешь увидеть секретную концовку, не спеши!\n\n1. Сначала накопи 2 миллиона баксов на счету в Buck Me.\n2. Только после этого жми «Продолжить».\n\nВажно: наличие кэша не дает 100% гарантию, в финале все равно придется принимать решения. Но без денег этот финал точно не светит. Удачи в катке!",
-    "card_title": "КАК ПОЛУЧИТЬ СЕКРЕТНУЮ КОНЦОВКУ GTA 6",
-    "reason": "Гайд по важному сюжетному выбору в финале игры, который влияет на концовку.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": true,
-    "model": "gemini:gemini-3.1-flash-lite"
-   },
-   "queued_at": "2026-11-21T20:46:17.042981+00:00"
-  },
   {
    "item": {
     "title": "Where to find the giant crab safe code and Crabshack VF5 SMG in GTA 6",
@@ -8901,33 +8943,6 @@
     "model": "gemini:gemini-3.1-flash-lite"
    },
    "queued_at": "2026-11-21T20:46:30.346007+00:00"
-  },
-  {
-   "item": {
-    "title": "Here's how to steal the BF Bandito for Moses in GTA 6",
-    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5jUUYwSzlLYzd4WnowSVZnSEd0cGdQNWFoX0M4ZVVXWHNjNWNtN2JPcnl3TVJJQnBaanV2aWVlREYxdmIwWU9rSUgzS1UtamJZLURxUklqWUVaQUtCT3Yybm5wa3Fvbl9KUXJreGFZS1pha3ZBdTJrLUtxNDFIZw?oc=5",
-    "summary": "Here's how to steal the BF Bandito for Moses in GTA 6 PC Gamer",
-    "published": "2026-11-21T17:34:25+00:00",
-    "source": "Google News (EN)",
-    "site_name": "PC Gamer",
-    "trust": "rumor",
-    "text": "Here's how to steal the BF Bandito for Moses in GTA 6 PC Gamer",
-    "extra": {}
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 6,
-    "post": "🗺 Гайд: Как угнать BF Bandito для Мозеса\n\nЗастрял на задании для Мозеса? Лови алгоритм, как забрать тачку без лишнего шума:\n\n1. Двигай к точке на карте в промзоне.\n2. Выруби охранника у ворот, чтобы не поднял кипиш.\n3. Взламывай замок на гараже и просто уезжай в закат.\n\nВсё максимально просто, чел, даже напрягаться не придется. Забирай аппарат и закрывай квест на изи. 🏎️💨",
-    "card_title": "КАК УКРАСТЬ BF BANDITO",
-    "reason": "Гайд по конкретной миссии в вышедшей игре.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": true,
-    "model": "gemini:gemini-3.1-flash-lite"
-   },
-   "queued_at": "2026-11-21T19:42:59.717156+00:00"
   }
  ],
  "posts": [
@@ -8952,9 +8967,11 @@
   "2026-11-21T22:21:58.084943+00:00",
   "2026-11-21T22:37:34.929771+00:00",
   "2026-11-22T07:29:41.371484+00:00",
-  "2026-11-22T07:45:16.792567+00:00"
+  "2026-11-22T07:45:16.792567+00:00",
+  "2026-11-22T08:00:39.655785+00:00",
+  "2026-11-22T08:16:15.135437+00:00"
  ],
- "tg_offset": 387129035,
+ "tg_offset": 387129037,
  "channel": {
   "id": -1003986639147,
   "title": "GTA 6 | Горячие новости",
@@ -8979,49 +8996,19 @@
   "2026-11-21T20:14:20.243151+00:00",
   "2026-11-21T21:14:52.573643+00:00",
   "2026-11-22T06:00:17.061585+00:00",
-  "2026-11-22T07:01:07.973868+00:00"
+  "2026-11-22T07:01:07.973868+00:00",
+  "2026-11-22T08:01:32.386619+00:00"
  ],
  "slots_sent": {
-  "2026-11-21:guide:1": "2026-11-21T21:14:52.573728+00:00"
+  "2026-11-21:guide:1": "2026-11-21T21:14:52.573728+00:00",
+  "2026-11-22:guide:1": "2026-11-22T08:01:32.386719+00:00"
  },
  "urgent": [
   "2026-11-20T09:58:05.803598+00:00",
   "2026-11-20T10:35:40.883618+00:00",
   "2026-11-21T20:14:20.243248+00:00"
  ],
- "clips": [
-  {
-   "clip": {
-    "source": "twitch",
-    "url": "https://www.twitch.tv/joe_bartolozzi/clip/MagnificentCoweringYogurtRickroll-DOtt8E5gX7IYT3Cf",
-    "title": "joe bart becomes a true florida man",
-    "author": "Joe_Bartolozzi",
-    "views": 2478,
-    "duration": 28.0,
-    "created": "2026-11-21T22:25:30+00:00",
-    "lang": "en",
-    "description": "",
-    "vod_id": "2936368149",
-    "vod_offset": 15258.0
-   },
-   "caption": "Завезли интерактив: в GTA 6 можно подобрать мёртвого голубя и подсовывать его прохожим 💀 Мелочи мира — просто база",
-   "interest": 7,
-   "spoiler": false,
-   "nsfw": false,
-   "watched": true,
-   "model": "gemini:gemini-3.5-flash",
-   "media": {
-    "width": null,
-    "height": 720,
-    "duration": 28
-   },
-   "queued_at": "2026-11-22T07:07:04.829581+00:00",
-   "file_id": "BAACAgIAAxkDAANHawKUmiGwv84SY_T_IjR6n_TteoQAAnKoAAKnJxFIH_AMRSIQ9j49BA",
-   "moderation": "approved",
-   "draft_msg_id": 71,
-   "waiting_logged": true
-  }
- ],
+ "clips": [],
  "clip_drafts": [
   "2026-11-20T09:18:13.478034+00:00",
   "2026-11-20T10:28:47.352690+00:00",
@@ -9035,7 +9022,8 @@
   "2026-11-21T19:28:30.522835+00:00",
   "2026-11-21T20:33:27.995353+00:00",
   "2026-11-21T21:38:25.673953+00:00",
-  "2026-11-22T07:07:06.857669+00:00"
+  "2026-11-22T07:07:06.857669+00:00",
+  "2026-11-22T08:09:45.463203+00:00"
  ],
  "clip_history": [
   {
@@ -12945,6 +12933,105 @@
    "ts": "2026-11-22T07:07:06.857690+00:00",
    "frames": [],
    "caption": "Завезли интерактив: в GTA 6 можно подобрать мёртвого голубя и подсовывать его прохожим 💀 Мелочи мира — просто база"
+  },
+  {
+   "author": "youtube:последняя извилина",
+   "vod": "",
+   "offset": -1,
+   "title": "Прошли ГТА 6",
+   "drafted": false,
+   "ts": "2026-11-22T08:07:23.332413+00:00"
+  },
+  {
+   "author": "youtube:windah basudara",
+   "vod": "",
+   "offset": -1,
+   "title": "JASON DAN LUCIA MAU CARI UANG TAPI KOK.... Grand Theft Auto VI GAMEPLAY #6",
+   "drafted": false,
+   "ts": "2026-11-22T08:07:24.211240+00:00"
+  },
+  {
+   "author": "youtube:zach king",
+   "vod": "",
+   "offset": -1,
+   "title": "Trying to sneak GTA 6 at work",
+   "drafted": false,
+   "ts": "2026-11-22T08:07:24.947872+00:00"
+  },
+  {
+   "author": "youtube:hrishabh agarwal ",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 le lo guys 🎮😈👑 #gta6 #papabeta #hindicomedy #baniyafamily #adayinbaniya",
+   "drafted": false,
+   "ts": "2026-11-22T08:07:25.762706+00:00"
+  },
+  {
+   "author": "youtube:rdrs gaming channel",
+   "vod": "",
+   "offset": -1,
+   "title": "Most Unserious Robbery",
+   "drafted": false,
+   "ts": "2026-11-22T08:08:16.563409+00:00"
+  },
+  {
+   "author": "youtube:danirep | +6 vídeos diarios de gta 5 online!",
+   "vod": "",
+   "offset": -1,
+   "title": "Conducir es dificil en GTA 6",
+   "drafted": false,
+   "ts": "2026-11-22T08:08:17.306746+00:00"
+  },
+  {
+   "author": "youtube:alvi",
+   "vod": "",
+   "offset": -1,
+   "title": "UNBEMERKT IN DIE MILITÄRBASIS VON GTA 6.. #gta6",
+   "drafted": false,
+   "ts": "2026-11-22T08:08:17.974526+00:00"
+  },
+  {
+   "author": "youtube:flow games",
+   "vod": "",
+   "offset": -1,
+   "title": "O FIM DO MUNDO DECEPCIONANTE DE GTA 6! #gta6 #flowgames",
+   "drafted": false,
+   "ts": "2026-11-22T08:08:18.835031+00:00"
+  },
+  {
+   "author": "youtube:creatorsworth",
+   "vod": "",
+   "offset": -1,
+   "title": "Mythpat ne GTA 6 ke hype se kitna kamaya? #gta6 @Mythpat",
+   "drafted": false,
+   "ts": "2026-11-22T08:09:09.800691+00:00"
+  },
+  {
+   "author": "youtube:cellbit lives",
+   "vod": "",
+   "offset": -1,
+   "title": "gameplay média do cellbit em gta 6",
+   "drafted": false,
+   "ts": "2026-11-22T08:09:10.654062+00:00"
+  },
+  {
+   "author": "twitch:ludwig",
+   "vod": "2936392772",
+   "offset": 12806.0,
+   "title": "accumulating insurance fraud",
+   "drafted": false,
+   "ts": "2026-11-22T08:09:11.405292+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:ludwig",
+   "vod": "2936392772",
+   "offset": 12806.0,
+   "title": "accumulating insurance fraud",
+   "drafted": true,
+   "ts": "2026-11-22T08:09:45.463223+00:00",
+   "frames": [],
+   "caption": "Физика и AI водителей в GTA 6 — это просто разнос 💀 Стоило на секунду встать на перекрёстке, как начался полный хаос"
   }
  ],
  "published": [
@@ -13087,6 +13174,20 @@
    "title": "СИМУЛЯТОР ПОДКАБЛУЧНИКА В GTA 6 🤡",
    "importance": 8,
    "kind": "confirmed"
+  },
+  {
+   "ts": "2026-11-22T08:00:39.655812+00:00",
+   "msg_id": 48,
+   "title": "Завезли интерактив: в GTA 6 можно подобрать мёртвого голубя и подсовывать его прохожим 💀…",
+   "importance": 7,
+   "kind": "video"
+  },
+  {
+   "ts": "2026-11-22T08:16:15.135455+00:00",
+   "msg_id": 49,
+   "title": "Выбор перед миссией «Встреча с Эйбом»",
+   "importance": 8,
+   "kind": "guide"
   }
  ],
  "extras": [],
