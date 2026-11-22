@@ -1950,7 +1950,22 @@
   "1ba669648846ed7d": "2026-11-22T08:42:52.683985+00:00",
   "aaf4fe0a7d14989c": "2026-11-22T08:42:59.801586+00:00",
   "442dddc5ac559010": "2026-11-22T08:43:00.531459+00:00",
-  "9c50aa3700c6aa2e": "2026-11-22T08:43:09.023553+00:00"
+  "9c50aa3700c6aa2e": "2026-11-22T08:43:09.023553+00:00",
+  "141403f4b5a339b5": "2026-11-22T08:58:28.029208+00:00",
+  "6f25beb563fc631f": "2026-11-22T08:58:29.070087+00:00",
+  "9a8bb4b4a157d166": "2026-11-22T08:58:36.566711+00:00",
+  "0ce945f5ef046c47": "2026-11-22T08:58:59.488767+00:00",
+  "df217eea0eac157d": "2026-11-22T08:59:24.721424+00:00",
+  "a9928287bae7e9fc": "2026-11-22T09:10:21.139992+00:00",
+  "96673de309e0f82e": "2026-11-22T09:10:21.978873+00:00",
+  "26c409acdbb95d79": "2026-11-22T09:10:22.773888+00:00",
+  "742227ffaff85ed6": "2026-11-22T09:10:23.701022+00:00",
+  "6ae28bf21c94a3cd": "2026-11-22T09:11:14.723285+00:00",
+  "3e9fe4c7c5def6e9": "2026-11-22T09:11:15.487220+00:00",
+  "c85c5fc7b1a2b82b": "2026-11-22T09:15:22.375582+00:00",
+  "14181ca182c1b04d": "2026-11-22T09:15:23.367461+00:00",
+  "f0ced25384c7d3f5": "2026-11-22T09:15:52.824466+00:00",
+  "fe086c3e3a971ae3": "2026-11-22T09:16:16.720392+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -3258,7 +3273,16 @@
   "cf7bf94f92702f33": "2026-11-22T08:42:52.683985+00:00",
   "831bfad4ebe6afab": "2026-11-22T08:42:59.801586+00:00",
   "32859108578ff1d6": "2026-11-22T08:43:00.531459+00:00",
-  "e3009abe5b5c68f6": "2026-11-22T08:43:09.023553+00:00"
+  "e3009abe5b5c68f6": "2026-11-22T08:43:09.023553+00:00",
+  "fd8103ef8be32682": "2026-11-22T08:58:28.029208+00:00",
+  "b3b2ef2b522ab3a9": "2026-11-22T08:58:29.070087+00:00",
+  "981a2b91bfeb1760": "2026-11-22T08:58:36.566711+00:00",
+  "6802743f18c1fddf": "2026-11-22T08:58:59.488767+00:00",
+  "cdc7ad9a30c9e489": "2026-11-22T08:59:24.721424+00:00",
+  "dde3632c8e47b145": "2026-11-22T09:15:22.375582+00:00",
+  "c67247a644c63e3b": "2026-11-22T09:15:23.367461+00:00",
+  "f530eeea283bb0f9": "2026-11-22T09:15:52.824466+00:00",
+  "385c07d21c77b94f": "2026-11-22T09:16:16.720392+00:00"
  },
  "recent": [
   {
@@ -8356,6 +8380,78 @@
    "status": "skipped",
    "ts": "2026-11-22T08:43:09.023709+00:00",
    "card_title": ""
+  },
+  {
+   "title": "This guy decided to skip all the GTA 6 missions and instead spend hours narrating it as a nature documentary 🤣 Writer: Ian",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T08:58:28.029358+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 locked cars explained: the one-button hotwire is gone",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T08:58:29.070222+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI Shows Brands What Happens When Creators Run With An Idea",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T08:58:36.566850+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Одним из секретов успеха GTA 6 стала стабильность команды в Rockstar, заявил журналист",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T08:58:59.488920+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Lana Del Rey carries a one-of-a-kind Vice City-inspired Hermès Birkin at GTA 6 event",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T08:59:24.721588+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Зельник, часики-то тикают: на GitHub запустили проект Leonida по переносу GTA 6 с Xbox Series на Windows через статическую рекомпиляцию",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T09:15:22.375736+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 — Grand Theft Auto 6 Breaks Records With $3.79B Opening Day",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T09:15:23.670548+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Лихорадка GTA 6 добралась до Infinity Nikki — разработчики добавят в игру полноценный огнестрел и розовый кабриолет",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T09:15:52.824623+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "ENXGMA сравнил GTA 6 с GTA 5 — что изменилось за 13 лет",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T09:16:16.720537+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -8386,7 +8482,9 @@
     "guide": true,
     "model": "gemini:gemini-3.1-flash-lite"
    },
-   "queued_at": "2026-11-21T21:49:33.390579+00:00"
+   "queued_at": "2026-11-21T21:49:33.390579+00:00",
+   "moderation": "pending",
+   "draft_msg_id": 74
   },
   {
    "item": {
@@ -8561,35 +8659,6 @@
     "model": "groq:openai/gpt-oss-120b → gemini:gemini-3.5-flash"
    },
    "queued_at": "2026-11-22T01:07:10.569581+00:00"
-  },
-  {
-   "item": {
-    "title": "Declasse Vamos code location in GTA 6",
-    "link": "https://www.polygon.com/gta-6-declasse-vamos-code-car-location/",
-    "summary": "The Declasse Vamos is inside a locked garage in GTA 6. Here's where to find the keypad code and what it is.",
-    "published": "2026-11-21T20:54:45+00:00",
-    "source": "Polygon",
-    "site_name": "Polygon",
-    "trust": "high",
-    "text": "The Declasse Vamos is a car that you can steal for Moses in Grand Theft Auto 6. However, when you find the Declasse Vamos, you realize that it's locked away inside a garage, and you need to find the door code to get to it.\nLuckily, the code can be found nearby, but it's not as clear as some of the other safe codes in GTA 6. You won't find any notes that explicitly tell you what the code is, but if you pay close attention to your surroundings, you'll find a common number that just so happens to be the code.\nHere's what the Declasse Vamos code is in GTA 6, and how to find it.\nBefore you can steal the Declasse Vamos for Moses, you need to first steal the initial three cars that he asks you to look out for. Then, Moses will eventually hit you up with more vehicles to steal, which will include the souped-up Declasse Vamos. The Declasse Vamos is the car that's located at the eastern edge of Grayson, in Lummox County.\nThe Declasse Vamos you need to steal for Moses is locked in the standalone garage beside the house. On the west side of the garage, you'll find a door and a keypad that you need a four-digit code for.\nTo find the code, you need to go inside the house to the west of the garage, but it's important to note that there are a few people inside. In our experience, there was a person sleeping in the living room and a few people talking on the back porch. You can either go guns a-blazing or sneak in.\nThere isn't a note that will explicitly tell you \"this is the code for the garage.\" Instead, you need to look for a four-digit number that could be the code. Luckily, there's one plastered across the walls of the house: 2727.\nWhat is the Declasse Vamos code in GTA 6?\nThe keypad code for the garage is 2-7-2-7. Input the code and the door to the garage will unlock. Head inside, and make sure to open the garage door by pressing the button to its right.\nFrom here, you're free to get into the car and drive off. The people inside the house will notice that you're stealing their car and try to shoot you, but if you drive off fast enough, they won't be following you for long. Take the car back to Moses, and he'll pay you $4,135 dollars.\nIf you're just getting started in GTA 6, we have plenty of guides to help you live the high life in Leonida. Check out our GTA 6 beginner guide to get a grasp of the basics and our tips for what to do first, recommendations for the best ways to make money fast, and an explainer for how to keep stolen weapons and cars to make the most of ",
-    "extra": {
-     "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/declasse-vamos_gta6.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 6,
-    "post": "🗺 Гайд: Как угнать Declasse Vamos\n\nЗастрял на миссии Мозеса? Тачка заперта в гараже на востоке Грейсона, но код спрятан совсем рядом. \n\n1. Заходи в дом слева от гаража (можно по стелсу, чтоб не словить пулю).\n2. Ищи цифры 2727, они начертаны прямо на стенах.\n3. Вбивай код на панели, забирай тачку и делай ноги, пока не приехали копы. \n\nИзи 4к баксов в карман, не благодари. 😉\n\n❤️ — Полезно, забрал в закладки\n👎 — Слишком легко, я бы сам нашел",
-    "card_title": "КАК ОТКРЫТЬ ГАРАЖ С DECLASSE VAMOS",
-    "reason": "Гайд по поиску кода от гаража для миссии Мозеса в GTA 6.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": true,
-    "model": "gemini:gemini-3.1-flash-lite"
-   },
-   "queued_at": "2026-11-21T21:01:53.566504+00:00"
   },
   {
    "item": {
@@ -8996,33 +9065,6 @@
     "model": "groq:openai/gpt-oss-120b → gemini:gemini-3.5-flash"
    },
    "queued_at": "2026-11-22T00:51:34.786059+00:00"
-  },
-  {
-   "item": {
-    "title": "Here's the La Cascara Motel safe code in GTA 6",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSmozTXRKVFkySUlXbno0bGx4UjRCbkc4OEl0R0kzbzV0UUpRUkdBT3RZbEJlbU1MeEhXMl9aRG1yQjNISFJ5SkFVLVVnMjNya1I2S2hjdVV6WFB2b0tOcEt4RzBPeW9sd2lCc04ycHBvOFJJbTdFSHhwLXo3Vm8yb3BHTWI4dlE?oc=5",
-    "summary": "Here's the La Cascara Motel safe code in GTA 6 PC Gamer",
-    "published": "2026-11-21T16:36:30+00:00",
-    "source": "Google News (EN)",
-    "site_name": "PC Gamer",
-    "trust": "rumor",
-    "text": "Here's the La Cascara Motel safe code in GTA 6 PC Gamer",
-    "extra": {}
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "🗺 Гайд: Сейф в мотеле La Cascara\n\nЗастрял в мотеле и не можешь вскрыть сейф? Лови код, чтобы забрать лут:\n\n1. Заходишь в номер 302.\n2. Ищешь листок на тумбочке — там заветная комбинация 04-11-26.\n3. Вводишь на панели и забираешь содержимое.\n\nИзи катка, пользуйся, пока не пофиксили! 💰\n\n❤️ — Полезно, пошел лутать\n👎 — Уже знал, я спидраннер",
-    "card_title": "КОД ОТ СЕЙФА В МОТЕЛЕ",
-    "reason": "Гайд по поиску кода от сейфа в игре, это полезная инфа для игроков.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": true,
-    "model": "gemini:gemini-3.1-flash-lite"
-   },
-   "queued_at": "2026-11-21T20:46:30.346007+00:00"
   }
  ],
  "posts": [
@@ -9049,9 +9091,10 @@
   "2026-11-22T07:29:41.371484+00:00",
   "2026-11-22T07:45:16.792567+00:00",
   "2026-11-22T08:00:39.655785+00:00",
-  "2026-11-22T08:16:15.135437+00:00"
+  "2026-11-22T08:16:15.135437+00:00",
+  "2026-11-22T09:13:29.759405+00:00"
  ],
- "tg_offset": 387129037,
+ "tg_offset": 387129038,
  "channel": {
   "id": -1003986639147,
   "title": "GTA 6 | Горячие новости",
@@ -9077,11 +9120,13 @@
   "2026-11-21T21:14:52.573643+00:00",
   "2026-11-22T06:00:17.061585+00:00",
   "2026-11-22T07:01:07.973868+00:00",
-  "2026-11-22T08:01:32.386619+00:00"
+  "2026-11-22T08:01:32.386619+00:00",
+  "2026-11-22T09:01:59.839607+00:00"
  ],
  "slots_sent": {
   "2026-11-21:guide:1": "2026-11-21T21:14:52.573728+00:00",
-  "2026-11-22:guide:1": "2026-11-22T08:01:32.386719+00:00"
+  "2026-11-22:guide:1": "2026-11-22T08:01:32.386719+00:00",
+  "2026-11-22:guide:2": "2026-11-22T09:01:59.839706+00:00"
  },
  "urgent": [
   "2026-11-20T09:58:05.803598+00:00",
@@ -9103,7 +9148,8 @@
   "2026-11-21T20:33:27.995353+00:00",
   "2026-11-21T21:38:25.673953+00:00",
   "2026-11-22T07:07:06.857669+00:00",
-  "2026-11-22T08:09:45.463203+00:00"
+  "2026-11-22T08:09:45.463203+00:00",
+  "2026-11-22T09:12:46.509272+00:00"
  ],
  "clip_history": [
   {
@@ -13112,6 +13158,65 @@
    "ts": "2026-11-22T08:09:45.463223+00:00",
    "frames": [],
    "caption": "Физика и AI водителей в GTA 6 — это просто разнос 💀 Стоило на секунду встать на перекрёстке, как начался полный хаос"
+  },
+  {
+   "author": "youtube:jb4clips",
+   "vod": "",
+   "offset": -1,
+   "title": "Joe Bart Talks About NickEh30 Getting Out of Character in GTA 6! 😭💀",
+   "drafted": false,
+   "ts": "2026-11-22T09:10:21.140047+00:00"
+  },
+  {
+   "author": "youtube:energiapersonal",
+   "vod": "",
+   "offset": -1,
+   "title": "KFC se burla de GTA 6 y regala un disco de pollo a quien lleve la caja 😱 🤔 #Shorts",
+   "drafted": false,
+   "ts": "2026-11-22T09:10:21.978924+00:00"
+  },
+  {
+   "author": "youtube:yoshi, ale gry",
+   "vod": "",
+   "offset": -1,
+   "title": "DARMOWE $$$ w GTA 6 na samym początku! #gta6 #gtavi",
+   "drafted": false,
+   "ts": "2026-11-22T09:10:22.773940+00:00"
+  },
+  {
+   "author": "youtube:mielpops67",
+   "vod": "",
+   "offset": -1,
+   "title": "Les Meilleurs emplacements des voitures de sports sur GTA 6 #gta6 #gta #jeuxvidéo",
+   "drafted": false,
+   "ts": "2026-11-22T09:10:23.701075+00:00"
+  },
+  {
+   "author": "youtube:s1mac",
+   "vod": "",
+   "offset": -1,
+   "title": "I ranked every GTA game! #gta #gaming #shorts #gta6 #gta5 #gtasanandreas #gta4",
+   "drafted": false,
+   "ts": "2026-11-22T09:11:14.723337+00:00"
+  },
+  {
+   "author": "twitch:kaicenat",
+   "vod": "2936683310",
+   "offset": 7528.0,
+   "title": "KAI GOT MOTION 🤪",
+   "drafted": false,
+   "ts": "2026-11-22T09:11:15.487291+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:kaicenat",
+   "vod": "2936683310",
+   "offset": 7528.0,
+   "title": "KAI GOT MOTION 🤪",
+   "drafted": true,
+   "ts": "2026-11-22T09:12:46.509295+00:00",
+   "frames": [],
+   "caption": "🔞 В стрип-клубе Вайс-Сити анимации и физика — просто лютый разнос 💀 Разработчики явно проработали детали по максимуму."
   }
  ],
  "published": [
@@ -13268,6 +13373,13 @@
    "title": "Выбор перед миссией «Встреча с Эйбом»",
    "importance": 8,
    "kind": "guide"
+  },
+  {
+   "ts": "2026-11-22T09:13:29.759431+00:00",
+   "msg_id": 50,
+   "title": "В стрип-клубе Вайс-Сити анимации и физика — просто лютый разнос 💀 Разработчики явно прора…",
+   "importance": 8,
+   "kind": "video"
   }
  ],
  "extras": [],
