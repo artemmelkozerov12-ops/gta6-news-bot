@@ -2083,7 +2083,34 @@
   "30a2657135888801": "2026-11-22T12:53:32.896617+00:00",
   "d9fd888038dc01f5": "2026-11-22T12:53:53.635119+00:00",
   "26a833f87217a01c": "2026-11-22T12:53:56.492909+00:00",
-  "bf2859654561dd09": "2026-11-22T12:54:04.960658+00:00"
+  "bf2859654561dd09": "2026-11-22T12:54:04.960658+00:00",
+  "8fd1cd89c848dda2": "2026-11-22T12:55:33.073876+00:00",
+  "2211074333375a4e": "2026-11-22T12:55:37.804228+00:00",
+  "bc30cadf06a5ae02": "2026-11-22T12:55:50.796863+00:00",
+  "6e903353ee186dbb": "2026-11-22T12:55:55.816296+00:00",
+  "4f9194e6c0a8a55e": "2026-11-22T12:56:56.091862+00:00",
+  "70156ab84aaad112": "2026-11-22T12:57:02.189805+00:00",
+  "15f409cba72cd556": "2026-11-22T12:57:06.048597+00:00",
+  "3b0cc58c10085c44": "2026-11-22T13:07:46.136892+00:00",
+  "588f356503ab4973": "2026-11-22T13:07:46.136951+00:00",
+  "fae7378e23084844": "2026-11-22T13:07:46.137004+00:00",
+  "610cf6a96074b68e": "2026-11-22T13:07:46.210190+00:00",
+  "23037570a18e6c60": "2026-11-22T13:08:34.772362+00:00",
+  "c435ead875220993": "2026-11-22T13:08:42.540905+00:00",
+  "77bc88767f9c7488": "2026-11-22T13:08:45.029158+00:00",
+  "cde0f1316e5e119d": "2026-11-22T13:09:14.154167+00:00",
+  "e44666d4fbbd9cb7": "2026-11-22T13:09:31.118356+00:00",
+  "0f641d263166c047": "2026-11-22T13:09:44.750454+00:00",
+  "332c9f406a1518b5": "2026-11-22T13:09:45.744054+00:00",
+  "dabcb9860026d130": "2026-11-22T13:09:47.005821+00:00",
+  "250df2fa975d32cf": "2026-11-22T13:25:03.994525+00:00",
+  "1bdd245d9e1d0bf4": "2026-11-22T13:25:50.757643+00:00",
+  "5abdd93e8ad254b6": "2026-11-22T13:25:52.900425+00:00",
+  "5571a3d895f16e68": "2026-11-22T13:25:58.289038+00:00",
+  "700643c0610cbd37": "2026-11-22T13:26:04.836843+00:00",
+  "4621c5b28d4286c3": "2026-11-22T13:26:06.306550+00:00",
+  "32998240e4f90369": "2026-11-22T13:26:11.144082+00:00",
+  "b11db3bf51825254": "2026-11-22T13:26:12.575512+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -3469,7 +3496,24 @@
   "d859b546daf3f5dc": "2026-11-22T12:35:08.280649+00:00",
   "505169744588acd0": "2026-11-22T12:51:46.095328+00:00",
   "76e3950a57c5d690": "2026-11-22T12:51:47.713416+00:00",
-  "fefcdcf2236c2a60": "2026-11-22T12:52:03.666849+00:00"
+  "fefcdcf2236c2a60": "2026-11-22T12:52:03.666849+00:00",
+  "bc91654ed9dcdabb": "2026-11-22T13:08:45.029158+00:00",
+  "cb72e212dfe1c629": "2026-11-22T13:09:14.154167+00:00",
+  "b76f754305e4602c": "2026-11-22T13:09:31.118356+00:00",
+  "82c9d90aae66095a": "2026-11-22T13:07:46.210190+00:00",
+  "5a110be73620a1e5": "2026-11-22T13:08:34.772362+00:00",
+  "91d0bdf7cc9a5482": "2026-11-22T13:08:42.540905+00:00",
+  "1574d1237f86a752": "2026-11-22T13:09:44.750454+00:00",
+  "eb29504c3a3bd536": "2026-11-22T13:09:45.744054+00:00",
+  "0235cc546c9e976f": "2026-11-22T13:09:47.005821+00:00",
+  "b045771337effb29": "2026-11-22T13:25:03.994525+00:00",
+  "e5003d96b3deb149": "2026-11-22T13:25:50.757643+00:00",
+  "b28b8b20adb19127": "2026-11-22T13:25:52.900425+00:00",
+  "ffff415b4d5b60b1": "2026-11-22T13:25:58.289038+00:00",
+  "16555fea631583e0": "2026-11-22T13:26:04.836843+00:00",
+  "ea8aa95ea858f9dc": "2026-11-22T13:26:06.306550+00:00",
+  "70f334af7fac6dbc": "2026-11-22T13:26:11.144082+00:00",
+  "79749a57496a1bf9": "2026-11-22T13:26:12.575512+00:00"
  },
  "recent": [
   {
@@ -8647,96 +8691,121 @@
    "status": "skipped",
    "ts": "2026-11-22T12:52:03.666981+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GTA 6 Makes It Nearly Impossible to Play Without Killing Anyone",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-22T13:07:46.136920+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Just Can't Stop Breaking Records It Seems",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-22T13:07:46.136976+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to Find Backyard Wrestling in GTA 6—Location, Luchador Mask and More",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-22T13:07:46.137028+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Where to Find the Gauntlet Hellfire Car in GTA 6—Randy’s Wishlist Car Locations",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "dup",
+   "ts": "2026-11-22T13:07:46.210230+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6: как Rockstar сделала интимные сцены частью истории отношений",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T13:09:44.750602+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 — главный релиз поколения: как одна игра изменила весь мир",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T13:09:45.744192+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 players spent over eight hours in Leonida on launch day, and over half of active console players joined them",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T13:09:47.005959+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to Find All Skunk Ape Effigy Tree Locations in GTA 6",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "dup",
+   "ts": "2026-11-22T13:25:03.994558+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "В GTA 6 на Xbox Series X | S можно разблокировать FPS — как это сделать, тесты",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T13:25:52.900556+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Lana Del Rey’s Custom GTA VI Birkin: Old-Money Luxury Meets Florida Kitsch",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T13:25:58.289164+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Игроки обрушили рейтинг GTA 6 на Metacritic. Что не понравилось геймерам?",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T13:26:04.836967+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Miami Heat NBA Game Draws 95% New Shoppers For GTA VI Launch",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T13:26:06.306670+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "'Grand theft without auto': Shashi Tharoor tries hand at GTA 6, takes swipe at Modi govt",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T13:26:11.144210+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Энтузиасты уже работают над переносом GTA VI на ПК — в их число входит автор ПК-порта Ocarina of Time Remake",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T13:26:12.575650+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
-  {
-   "item": {
-    "title": "'Move Aside, Mandy': GTA 6's Goth Girl Vicki Is PS5 Players' New Fave",
-    "link": "https://www.pushsquare.com/news/2026/11/move-aside-mandy-gta-6s-goth-girl-vicki-is-ps5-players-new-fave",
-    "summary": "Here's why her real-life actress may sound familiar. As GTA 6 players progress through the plot and explore beyond the sunny shores of Key Lento , bunny boiler Mandy has been left behind . It’s all about Delights’ resident goth girl Vicki now! Read the full article on pushsquare.com",
-    "published": "2026-11-22T01:00:00+00:00",
-    "source": "Push Square",
-    "site_name": "Push Square",
-    "trust": "high",
-    "text": "As GTA 6 players progress through the plot and explore beyond the sunny shores of Key Lento, bunny boiler Mandy has been left behind.\nIt’s all about Delights’ resident goth girl Vicki now!\nThe character plays a bit-part during Chapter 2, and she’s quickly become a fave among PS5 players for her husky voice and no-nonsense attitude.\nWriting on X, one fan put it simply: “Oh yeah we on Vicki now, I don’t even know who Mandy is!”\nSome have even taken to social media stalking the dancer on Snapmatic:\nSimping aside, Vicki may actually sound familiar because her voice actor is Taryn Manning, who had a pretty major role as Tiffany ‘Pennsatucky’ Doggett in Orange Is the New Black.\nThe 48-year-old actress has also starred in a variety of other shows like Sons of Anarchy, and has even had roles in movies like Hustle & Flow and the 8-Mile.\nThere are a lot of characters to keep track of in GTA 6, but Vicki is definitely one that stuck me, largely because she’s pivotal to one of my favourite missions in the game.\n(I won’t spoil that here, but if you’re grinning you’ll probably know which one I’m referring to.)\nI’m not going to get into the Vicki vs Mandy debate, but I’m sure social media will have its final say eventually.",
-    "extra": {
-     "image": "https://images.pushsquare.com/d903ca1d198ec/large.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "Фанаты GTA 6 нашли новую любимицу — готессу Вики 🖤\n\nИгроки массово забывают про Мэнди и флексят от Вики из клуба Delights во 2-й главе. Озвучивает её Тарин Мэннинг из «Оранжевый — хит сезона». Весь Snapmatic уже в её фотках, чисто новый вайб!\n\n❤️ — Вики имба!\n👎 — Мэнди ван лав!",
-    "card_title": "ГОТЕССА ВИКИ ПОКОРИЛА ИГРОКОВ",
-    "reason": "Подтверждённый материал о популярном персонаже, интересен фанатам",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "groq:openai/gpt-oss-120b → gemini:gemini-3.5-flash"
-   },
-   "queued_at": "2026-11-22T01:07:10.569581+00:00"
-  },
-  {
-   "item": {
-    "title": "Геймплей стандартной GTA VI за $80 сравнили с премиум-версией за $100 и раскритиковали Rockstar за эксклюзивные магазины",
-    "link": "https://ixbt.games/news/2026/11/22/geimplei-standartnoi-gta-vi-za-80-sravnili-s-premium-versiei-za-100-i-raskritikovali-rockstar-za-ekskliuzivnye-magaziny.html",
-    "summary": "Не все готовы принять, что за часть контента придётся доплатить.",
-    "published": "2026-11-22T00:52:00+00:00",
-    "source": "iXBT.games",
-    "site_name": "iXBT.games",
-    "trust": "medium",
-    "text": "Не все готовы принять, что за часть контента придётся доплатить.\nRockstar Games предлагает игрокам обычное издание Grand Theft Auto VI за 80 долларов и премиальное Ultimate Edition за 100 долларов. Более дорогое издание включает ряд бонусов, например:\nПерсонализированные варианты пистолетов Girardi ES9 для Джейсона и Klose K17 для Лусии.\nМужской и женский варианты мощного револьвера Hawk & Little Morgan\nДоступ к магазину одежды Stock 305, тату-салону «Электроклык», гаражу Одноглазого Вилли.\nПосле релиза GTA VI журналисты IGN решили исследовать эти «премиальные» локации и сравнили, как они выглядят для игроков с изданием за 80 и 100 долларов:\nОказалось, что купившие стандартное издание GTA VI даже не смогут войти в локации из Ultimate Edition — герои столкнутся с закрытыми дверями. Выбить их не получится.\nПользователи, вроде @AfterlifeRevenge, не в восторге от такого подхода к монетизации контента: «Получается, что вам придется потратить ВСЁ, ЧТО ОСТАЛОСЬ В КОШЕЛЬКЕ, только чтобы попасть внутрь этих зданий? Это же настоящая жадность», а T_poKKer206 пошутил, что разработчикам следовало пойти ещё дальше: «Ребята, вы даже не должны были бы видеть это здание. Так считаю — была бы ультраэксклюзивность, ха-ха».\nМногие участники обсуждения высказали мнение, что с релизом GTA VI на ПК проблема с доступностью исчезнет — моддеры откроют контент для всех.\nНе пропускайте наши новостиДобавьте сайт в предпочитаемые источники, чтобы видеть нас чащеДобавить в Google",
-    "extra": {
-     "image": "https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1744789/media-440264d5cadf03f6bc6160ad22a98df44cdd7a540782a3c97b5cd28d7ec1bba0.png"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "🔒 ЗАКРЫТО за $80 в GTA 6!\n\nИгроки с базовой версией не могут зайти в премиум-магазины и гараж из издания за $100 — двери просто заперты, и выбить их нельзя. Геймеры в тильте от такой лютой жадности и прогрева на бабки.\n\n❤️ — Рокстар совсем озверели!\n👎 — Обычная база, покупаем Ultimate.",
-    "card_title": "ЗАКРЫТЫЕ ДВЕРИ ЗА $80",
-    "reason": "Подтверждённый материал о монетизации контента, интересен фанатам",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "groq:openai/gpt-oss-120b → gemini:gemini-3.5-flash"
-   },
-   "queued_at": "2026-11-22T01:07:42.278091+00:00"
-  },
-  {
-   "item": {
-    "title": "13 лет игроки пытались остановить поезд в GTA V, но такая возможность появилась только в GTA VI",
-    "link": "https://ixbt.games/news/2026/11/22/13-let-igroki-pytalis-ostanovit-poezd-v-gta-v-no-takaia-vozmoznost-poiavilas-tolko-v-gta-vi.html",
-    "summary": "Некоторые давно мечтали о такой возможности.",
-    "published": "2026-11-22T00:41:00+00:00",
-    "source": "iXBT.games",
-    "site_name": "iXBT.games",
-    "trust": "medium",
-    "text": "Некоторые давно мечтали о такой возможности.\nВ мире GTA V можно встретить поезда. На протяжении порядка 13 лет некоторые энтузиасты проводили различные эксперимент с целью остановить движение поезда. На пути составов устанавливали разные препятствия, в том числе «блоки» из толп NPC, десятков автомобилей и танков.\nОднако ничего не помогало — поезда в GTA V продолжали движение, преграды на их пути разлетались в разные стороны:\nПосле релиза Grand Theft Auto VI игроки решили проверить, как работают поезда в новой части франшизы. В этот раз Rockstar Games порадовала поклонников поездов, поскольку теперь столкновения с ними обсчитываются корректно.\nИгрок под ником @UkBoy.Gaming показал, что в GTA VI поезд можно будет остановить «на своих двоих» — достаточно встать перед ним и машинист начнёт останавливаться:\njax_caine показал, что можно разогнаться на грузовике и ударить поезд достаточно сильно, чтобы он сошёл с рельсов. Встречный поезд может в него врезаться — столкновения обсчитываются.\nTrains can also collide with other trains too!\nGrand Theft Auto VI пока доступна только на консолях PlayStation 5 и Xbox Series X|S.\nНе пропускайте наши новостиДобавьте сайт в предпочитаемые источники, чтобы видеть нас чащеДобавить в Google",
-    "extra": {
-     "image": "https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1744788/media-cc62154bd4e4fabeda3a181f9d900512e496233adbc2102ba54c0a99f604c778.png"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "🚂 ПОЕЗД В GTA 6 БОЛЬШЕ НЕ НЕДОСЯГАЕМ!\n\n13 лет мы таранили поезд в пятерке танками и тушами NPC — ему было пох*р. В GTA 6 рокстары завезли нормальную физику: машинист тормозит, если встать перед ним, а на грузовике состав вообще можно спустить с рельсов! Разнос полной программы.\n\n❤️ — Наконец-то фичу допилили!\n👎 — Раньше состав-убийца был веселее",
-    "card_title": "ПОЕЗД В GTA 6 МОЖНО ОСТАНОВИТЬ",
-    "reason": "Подтверждённый факт из статьи, интересный геймплейный нововвод, важен для игроков.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "groq:openai/gpt-oss-120b → gemini:gemini-3.5-flash"
-   },
-   "queued_at": "2026-11-22T01:08:13.432407+00:00"
-  },
   {
    "item": {
     "title": "Илон Маск показал, как играют в GTA VI силой мысли — с помощью Neuralink",
@@ -8825,35 +8894,6 @@
    "queued_at": "2026-11-22T10:35:54.659126+00:00",
    "moderation": "pending",
    "draft_msg_id": 78
-  },
-  {
-   "item": {
-    "title": "Player Got Banned for 30 Days for Texting a GTA 6 Nude Screenshot",
-    "link": "https://www.gtaboom.com/player-got-banned-for-30-days-for-texting-a-gta-6-nude-screenshot-430f",
-    "summary": "PlayStation’s code bars obscene or pornographic material in private messages, even when it’s a screenshot from a game Sony sells.",
-    "published": "2026-11-22T01:01:28+00:00",
-    "source": "GTA BOOM",
-    "site_name": "GTA BOOM",
-    "trust": "medium",
-    "text": "A Grand Theft Auto VI player says PlayStation restricted his access to social features for 30 days after he privately sent a friend a screenshot through PlayStation messages. The screenshot showed the in-game nudist colony.\nAn X user posted that he took a photo with the game's in-game camera at the nudist colony he found, sent it privately to an adult friend over PlayStation's messaging and got a 30-day restriction on social features. It wasn't, or isn't a full account ban yet, it was a block on the messaging and social side, flagged by an automated system that Sony upheld upon the user's request for a review.\nThe original post is one report. There is no wave of lost accounts, no bans for gore and no statement from Sony or Rockstar Games that says a great Grand Theft Auto purge is happening. The scale is, for all intents and purposes, small. The mechanism behind it is real though.\nThe mechanism is the same one that bit Xbox players. PlayStation's Community Code of Conduct bars obscene or pornographic material on its network, a rule that covers screenshots in a private message, even when the image comes straight out of a game that Sony sells. We watched the identical thing play out when Xbox suspended players for auto-uploaded GTA 6 clips. The difference is the twist. On Xbox the console uploaded the clip for you. Here the player says he sent the screenshot privately to one adult friend and still lost access to social features.\nA platform has every right to moderate what crosses its network. A nudity screenshot in a message is not the same as that content sitting in your single-player game. The reason it keeps happening is the game itself. GTA 6 is built with adult content you cannot switch off and it includes nudist colony players, among other things.\nAn uncensorable game and a moderated network were always going to collide. After all, GTA 6 carries adult ratings in every market with no master filter, Japan censored the showers and gore, South Korea nearly refused to rate it and the map of where it is restricted keeps changing.\nSeeing nudity in the game is one thing. Sending a screenshot of it through PlayStation messages can bring it under the network’s conduct rules, even if you send it privately to one friend.\nShould a platform be able to action you for privately sharing a screenshot from a rated game, or is your own messaging your business?\nOnce a post receives 3 qualifying Helpful marks\nThe panic is overblown, one guy got 30 days of no messaging, that",
-    "extra": {
-     "image": "https://media.gtaboom.com/variants/1920/media/images/86/c6/player-got-banned-for-30-days-for-texting-a-gta-6-nude-screenshot.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "ЗА СКРИНШОТ ИЗ GTA 6 ДАЮТ БАН В PSN 🤡\n\nЧел отправил другу в личку скрин с нудистами из игры и схватил бан соцфункций на 30 дней. Автомодерация Sony оценила контент, а поддержка отклонила апелляцию. Осторожнее с фотками в лс, бота-модератора не волнует, что это из игры.\n\nСправедливо забанили?\n❤️ — Не, полный кринж и душно\n👎 — Правила есть правила",
-    "card_title": "БАН В PSN ЗА СКРИН",
-    "reason": "Подтверждённый случай бана, важен для игроков",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "groq:openai/gpt-oss-120b → gemini:gemini-3.5-flash"
-   },
-   "queued_at": "2026-11-22T01:07:00.937416+00:00"
   },
   {
    "item": {
@@ -8971,7 +9011,7 @@
   "2026-11-22T11:31:52.041959+00:00",
   "2026-11-22T12:52:42.587608+00:00"
  ],
- "tg_offset": 387129042,
+ "tg_offset": 387129043,
  "channel": {
   "id": -1003986639147,
   "title": "GTA 6 | Горячие новости",
@@ -9024,7 +9064,8 @@
   "2026-11-22T08:09:45.463203+00:00",
   "2026-11-22T09:12:46.509272+00:00",
   "2026-11-22T10:17:37.834870+00:00",
-  "2026-11-22T11:30:53.650853+00:00"
+  "2026-11-22T11:30:53.650853+00:00",
+  "2026-11-22T12:57:11.614114+00:00"
  ],
  "clip_history": [
   {
@@ -13528,6 +13569,79 @@
    "drafted": false,
    "ts": "2026-11-22T12:54:04.960722+00:00",
    "frames": []
+  },
+  {
+   "author": "twitch:jeanobean0",
+   "vod": "2934997674",
+   "offset": 6375.0,
+   "title": "lucia..",
+   "drafted": false,
+   "ts": "2026-11-22T12:55:33.073920+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:derzko69",
+   "vod": "2936003788",
+   "offset": 14800.0,
+   "title": "ИНТЕГРАШКА АВИТО АВТО",
+   "drafted": false,
+   "ts": "2026-11-22T12:55:37.804281+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:hiltonerika",
+   "vod": "2936487576",
+   "offset": 5299.0,
+   "title": "Voltei.vamos  ver se vai",
+   "drafted": false,
+   "ts": "2026-11-22T12:55:50.796912+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:mirwana",
+   "vod": "2936298738",
+   "offset": 14231.0,
+   "title": "МОТО ВИТЯ haha",
+   "drafted": false,
+   "ts": "2026-11-22T12:55:55.816345+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:steel",
+   "vod": "2934772009",
+   "offset": 127890.0,
+   "title": "МАРАФОН ГТА 6 😱120FPS😱 24/7 СТРИМЫ !розыгрыш пс5 и гта 6  !bb и !ggsell",
+   "drafted": false,
+   "ts": "2026-11-22T12:56:56.091916+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:stableronaldo",
+   "vod": "2936324446",
+   "offset": 19560.0,
+   "title": "ron chill",
+   "drafted": false,
+   "ts": "2026-11-22T12:57:02.189848+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:blexinfinity",
+   "vod": "2936086580",
+   "offset": 14036.0,
+   "title": "ВАНГА",
+   "drafted": false,
+   "ts": "2026-11-22T12:57:06.048642+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:blexinfinity",
+   "vod": "2936086580",
+   "offset": 14036.0,
+   "title": "ВАНГА",
+   "drafted": true,
+   "ts": "2026-11-22T12:57:11.614130+00:00",
+   "frames": [],
+   "caption": "Приземление машины прямо на байк в гонке — это какой-то лютый рандом и разнос 💀 Физика в GTA 6 просто пушка!"
   }
  ],
  "published": [
@@ -13843,6 +13957,186 @@
    },
    "corr": false,
    "since": "2026-11-22T12:51:46.550680+00:00"
+  },
+  {
+   "item": {
+    "title": "How to get a GTA 6 Rhino tank and become virtually indestructible",
+    "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-tank-rhino/",
+    "summary": "There are rows of GTA 6 tanks waiting to be liberated right from the start of the game, to earn the Challenging Tank award",
+    "published": "2026-11-22T13:04:45+00:00",
+    "source": "GamesRadar+",
+    "site_name": "GamesRadar+",
+    "trust": "high",
+    "text": "Getting a tank in GTA 6 represents the pinnacle of criminal behavior, and there's a long history of stealing Rhinos going all the way back through the series to GTA 3! These military vehicles are virtually indestructible so you're safely protected inside, and they pack a powerful enough punch with their cannon to destroy anything GTA 6 puts in front of you. You also need to get inside one to unlock the Challenging Tank Trophy or Achievement, so to help you out with that, here's how to steal a tank in GTA 6.\nThe location for an entire row of GTA 6 tanks is in the Mile Zero Air Station, situated west of the area you begin the story in, which you can reach by driving through Abismo Key and on to Southwind. You'll need a vehicle to break into the military base which will get left behind, so it's best not to use your GTA 6 personal vehicle for this job, and equipping body armor from Ammu-nation is highly recommended for added protection.\nBy following the route marked on my map above you'll weave through several road barriers, as which point the soldiers will open fire on you, then turn right at the first opportunity to pass more barriers and soldiers until you spot a handy pile of dirt. You must use this Stunt Jump to clear the perimeter fence, though if you don't get enough height to also clear the inner fence you can smash through it to reach the runway.\nLook to your left when on the miliary runway and you'll see a large building, and to the left of that are the Rhino tanks we're looking for – you can also head to the right of that building if you'd prefer to grab a GTA 6 jet instead. Once you reach the tanks, crash through the fence and then approach one before using the usual enter vehicle button to climb in through the front hatch. Note that there is various military hardware in this area, but the Rhino tanks are the ones closest to the fence you broke through.\nYou can then drive away in your new GTA 6 tank, which will shortly unlock the Challenging Tank award from the GTA 6 Trophy and Achievement list to add to your collection. Strangely, commandeering this military vehicle doesn't initially increase your GTA 6 Wanted Level beyond the existing two-stars for breaking into the base, though this soon goes to five and then six-stars when you start blasting things with your cannon.\nDon't expect to get too far in your Rhino tank, as it drives pretty slowly and you're being constantly peppered with incoming gunfire plus rockets from helicopters – which you can s",
+    "extra": {
+     "image": "https://cdn.mos.cms.futurecdn.net/6TkMTypEzXTZbpYs2m4BsX-1920-80.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "🗺 Гайд: Как угнать танк в GTA 6\n\nТАНК на базе Mile Zero Air Station ждет тебя, чел. Бери тачку для тарана, юзай кучу земли для прыжка через забор и забирай имбу.\n\n❤️ — Уже угнал\n👎 — Сразу дали 6 звезд",
+    "card_title": "КАК УКРАСТЬ ТАНК RHINO В GTA 6",
+    "reason": "Гайд по угону танка Rhino в GTA 6 и получению достижения.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": true,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-22T13:08:38.354691+00:00"
+  },
+  {
+   "item": {
+    "title": "How to Perform Robberies through Snapmatic in GTA 6—Scrolling, Location Pin, and More",
+    "link": "https://insider-gaming.com/robberies-snapmatic-gta-6/",
+    "summary": "GTA 6 allows players to scope targets and rob them through Snapmatic. Here's a guide on how this system works. The post How to Perform Robberies through Snapmatic in GTA 6—Scrolling, Location Pin, and More appeared first on Insider Gaming .",
+    "published": "2026-11-22T13:03:25+00:00",
+    "source": "Insider Gaming",
+    "site_name": "Insider Gaming",
+    "trust": "medium",
+    "text": "GTA 6 has various ways players can rob to earn money, and its social media platform, Snapmatic, is also one that players can use as a medium to find targets to rob; here’s a guide on how it works.\nRockstar has created GTA 6 to be one of the most realistic video games ever, blurring the lines between real life and in-game life. Players can engage in activities like doomscrolling, just as they do in real life, even right before going to bed. However, the Snapmatic feature is not only for doomscrolling in GTA 6; it also serves as a tool to identify potential targets for robbery, allowing players to earn some money along the way.\nYou can buy Grand Theft Auto 6 here if you haven’t already!\nHow to Find Targets in Snapmatic in GTA 6\nPlayers need to scope targets through the Snapmatic app first to perform robberies in GTA 6.\nCheck out the steps below to learn how to find targets to rob through Snapmatic in GTA 6:\nFirst, players should open their smartphone using the D-pad Up button.\nOnce the app is open, press R1 or L1 / LB or RB to switch tabs.\nGo to the Explore tab in the center, marked by the ‘eye’ icon.\nHere, players will need to scroll until they see some odd stuff people are posting, like contraband and such—I found a post that had an image of some drugs with the caption “Look whose buddies got their hands on a shitload of mind-altering shizzz.”\nOnce you find such a post, press Square / X for Options for that post.\nSelect Set Destination to get a waypoint to the place.\nTo perform robberies, players first need to identify targets on GTA 6’s Snapmatic app, and luckily the NPCs are foolish enough to reveal not only what you will be robbing, but also where it’s kept. All you need to do is mark their location through Snapmatic and drive to where these people are, and then their stuff is yours for the taking.\nCheck out the video below for a walkthrough on how to find the robbery targets through GTA 6’s Snapmatic app below:\nNow, all you need to do is drive to the location, scope out the place, and choose your approach. In my situation, there were only a handful of enemies, so I quickly took them down with some non-lethal focus shots, headed inside the shed, and stole all of their acid.\nInterestingly, they also had a helicopter just lying around that you can steal, which definitely helps you get from point A to point B much faster and helps in some missions.\nMore Insider Gaming: All GTA 6 Guides, Walkthroughs, Best Tips & Tricks\nInterested readers can see the video ",
+    "extra": {
+     "image": "https://insider-gaming.com/wp-content/uploads/2025/05/Vice_City_06-scaled.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "🗺 Гайд: Грабежи по фоткам\n\nВ Snapmatic можно не просто залипать, а искать тайники с лутом. Открывай телефон, чекай вкладку Explore с иконкой глаза и ищи странные посты с контрабандой.\n\nЖми опции поста и ставь метку на карте — профит, точка грабежа у тебя в кармане. Го го лутать кислоту и вертолеты 🚁\n\n❤️ — уже граблю\n👎 — долго искать",
+    "card_title": "ГРАБЕЖИ ЧЕРЕЗ SNAPMATIC",
+    "reason": "Полезный гайд по поиску целей для грабежей через Snapmatic в вышедшей GTA 6",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": true,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-22T13:08:43.304898+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA 6 Makes It Nearly Impossible to Play Without Killing Anyone",
+    "link": "https://www.polygon.com/gta-6-no-kill-playthrough-fail/",
+    "summary": "I tried not to kill anyone in Grand Theft Auto 6 and failed. However, it changed the way I thought about and approached the game's violence.",
+    "published": "2026-11-22T13:00:17+00:00",
+    "source": "Polygon",
+    "site_name": "Polygon",
+    "trust": "high",
+    "text": "Grand Theft Auto 6 is out now, and for my initial playthrough of Rockstar’s latest giant open-world game, I wanted to try something a bit out of left field: How long could I play without killing anyone? I’d do my best Batman impression: brutally beating my foes, crippling them with excessive medical debt, but keeping them alive.\nYeah, that didn’t last long. Turns out trying to not commit crime in the game that’s all about committing crime is a difficult task.\nThe first mission was easy enough. Jason has to rescue drug runner Donnie from a gang of rednecks who keep tigers in cages. (Surely that will end well for them.) After I rescued him, I got into a fist fight with a beefy boy and knocked him out. So far so good. Jason had a pistol on him and could pick up weapons around the swamp base, but, trying to avoid a shootout at all costs, I stealthily booked it away from the rednecks and toward the water, avoiding any detection (and potential for violence).\nThat was the opening mostly-on-the-rails mission, but things quickly went south when I was left to my own devices. During the next in-game day, players are given a few mission options. I met up with Cal, Jason’s buddy who’s not cut out for a life of crime, and we drove to a police impound lot. I needed to steal a car with a trunk full of weed, and this is where shit hit the fan.\nLook, I never learned how to drive in real life, and am not the biggest fan of it in video games. Driving for more than a few feet without hitting anything or anyone is an impossible challenge in games, and driving in GTA 6 feels especially difficult; I can never figure out the right speed to go, and sharp turns are the bane of my existence.\nSo maybe I was always doomed to run over a cop on my way out of the impound lot.\nPolice officers swarmed Jason after he unhooked the red Phoenix and hotwired it. Too much was happening at once: an on-screen message about how I could open the gate, cops flinging open the driver’s side door and trying to rip Jason from the vehicle, and police radio chatter pouring out of my controller speaker. I’m not ashamed to say I restarted this mission several times just trying to figure out how to get out of the lot by carefully not running over any cops.\nAnd then, who pulls up in front of the gate I’m about to crash through but a do-gooder cop hopping out of his vehicle? I assumed the giant pool of blood leaking out of him after our collision meant he wasn’t long for the world.\nI did get caught on that attem",
+    "extra": {
+     "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/jasonrob.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "ПАСИФИСТ В GTA 6\n\nЖурналист попытался пройти игру без единого убийства, но чуда не случилось. Ранние миссии еще позволяют петлять от драк, но первый же угон тачки превращается в полный разнос и случайные жертвы.",
+    "card_title": "НЕЛЬЗЯ ПРОЙТИ ИГРУ БЕЗ УБИЙСТВ",
+    "reason": "Zhurnalistskii opyt o slozhnosti pacifizma v GTA 6, unikalnyy kontent po vyshedshey igre.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "GTA 6 Makes It Nearly Impossible to Play Without Killing Anyone",
+    "corroborated_by": "GTA 6 Makes It Nearly Impossible to Play Without Killing Anyone",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-22T13:08:45.652271+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA 6 Just Can't Stop Breaking Records It Seems",
+    "link": "https://www.pushsquare.com/news/2026/11/gta-6-just-cant-stop-breaking-records-it-seems",
+    "summary": "Sets new soundtrack streaming record on Spotify. Not content with being the biggest entertainment launch in history and the highest rated game of all time , GTA 6 has already broken another record. The game’s official album, which features all-new tracks from the likes of Dua Lipa , set a new opening day record for a soundtrack on Spotify with a dizzying 29.85 million streams. Read the full article on pushsquare.com",
+    "published": "2026-11-22T13:00:00+00:00",
+    "source": "Push Square",
+    "site_name": "Push Square",
+    "trust": "high",
+    "text": "Not content with being the biggest entertainment launch in history and the highest rated game of all time, GTA 6 has already broken another record.\nThe game’s official album, which features all-new tracks from the likes of Dua Lipa, set a new opening day record for a soundtrack on Spotify with a dizzying 29.85 million streams.\nThe compilation has 34 songs, including music from artists like Travis Scott, Morgan Wallen, and Jennie.\nI was listening to the album yesterday and, while I was already familiar with a lot of the songs from my time in Leonida writing the review, I do think it’s a good and eclectic mix. I’m not surprised to see it break records.\nBy the way, if you’re loving GTA 6’s soundtrack – specifically its Radio Songs – then we have a massive and complete guide to all the music, radio stations, artists, celebrity cameos, and much more through the link.\nHave you been listening to the record-breaking GTA 6: The Album? Nod your head in the comments section below.\nPlaced an order on CD and vinyl for us at home, then my sister wanted the vinyl too, as like me she's a lover of the format and of the entire GTA series for that matter. So, whilst we don't use streaming platforms, the orders we have made for the physical will no doubt count towards breaking some record I'd imagine down the line.",
+    "extra": {
+     "image": "https://images.pushsquare.com/83a7f3925b8dc/large.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "АЛЬБОМ GTA 6 БЬЕТ РЕКОРДЫ\n\nСаундтрек игры собрал аж 29.85 миллионов прослушиваний за первый день на Spotify, забрав звание самого успешного релиза. Дуа Липа и Трэвис Скотт явно в ударе, имба полная!\n\n❤️ — Уже добавили в плейлист\n👎 — Слушаю только радио в тачке",
+    "card_title": "САУНДТРЕК GTA 6 ПОРВАЛ SPOTIFY",
+    "reason": "Официальный рекорд саундтрека GTA 6 на Spotify, подтвержденный СМИ.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "GTA 6 Just Can't Stop Breaking Records It Seems — Google News (EN)",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-22T13:09:20.168808+00:00"
+  },
+  {
+   "item": {
+    "title": "How to Find Backyard Wrestling in GTA 6—Location, Luchador Mask and More",
+    "link": "https://insider-gaming.com/backyard-wrestling-gta-6/",
+    "summary": "Here's a guide on how to find Backyard Wrestling in GTA 6 and how to defeat The Gentrifier to get the Luchador Mask. The post How to Find Backyard Wrestling in GTA 6—Location, Luchador Mask and More appeared first on Insider Gaming .",
+    "published": "2026-11-22T12:55:43+00:00",
+    "source": "Insider Gaming",
+    "site_name": "Insider Gaming",
+    "trust": "medium",
+    "text": "One of the many activities you can do in GTA 6 is Backyard Wrestling, and this guide will help you find the location of this spot, how to claim the rewards, and some tips to make the experience easier.\nRockstar has made GTA 6 one of the most immersive titles out there in the industry, with a world so dense that players could potentially live a second life in Leonida. Apart from the main and side quests, there are a whole bunch of things to do, like fitness, building your relationship with Lucia, and taking part in several activities, which include Backyard Wrestling as one of them.\nYou can buy Grand Theft Auto 6 here if you haven’t already!\nGTA 6’s Backyard Wrestling can be found in Hamlet.\nBackyard Wrestling is an activity that GTA 6 players can take on very early in the game, and it’s fairly close to the starting area. Players will need to head to Hamlet to start this mission, but before heading there, it’s advisable to eat or drink something to build stamina; this could be a quick coffee at home or something from a nearby convenience store.\nMore Insider Gaming: All GTA 6 Guides, Walkthroughs, Best Tips & Tricks\nOnce you have that stamina buff, head to the location shown in the screenshot above (marked with a blue star).\nHow to Find and Defeat the Gentrifier in Backyard Wrestling GTA 6—Location, Tips, Rewards\n‘The Gentrifier’ is an opponent in GTA 6’s Backyard Wrestling mini-game, and beating him, although tough, rewards you with the ‘Luchador Mask’.\nOnce you reach the location, you will find a large ground with a makeshift wrestling ring and a trailer beside it. Go up to the trailer and knock; here’s where the Gentrifier resides. However, he will not come out on your first knock, and you will have to cause a bit of chaos to grab his attention. To do that, grab some empty bottles and cans around the area and start tossing them at the Gentrifier’s trailer to get him riled up.\nMore Insider Gaming: GTA 6 Laptop Password Puzzle—Muffins Solution and La Perle Garage Code, Explained\nAfter that, you can knock on the door again, but be ready; the fight begins as soon as you have knocked for the second time. GTA 6’s Backyard Wrestling mission is fairly simple, as it has only QTE events, but there is a chance to fail if you are not on your toes. The QTE events need players to spam a button, which drains their stamina, but the buff from earlier should help. You have to perform the button spam thrice until he jumps from the turnbuckle; dodge that move, and you have w",
+    "extra": {
+     "image": "https://insider-gaming.com/wp-content/uploads/2026/11/GTA-6-Backyard-Wrestling.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "🗺 Гайд: Как найти подпольные бои и залутать маску лучадора\n\nШемим катку в Гамлете: топаем к трейлеру, кидаем банки в дверь, чтобы разбудить Гентрификанта, и выбиваем из него имбовый шлем через QTE.",
+    "card_title": "КАК НАЙТИ БОИ БЕЗ ПРАВИЛ",
+    "reason": "Гайд по поиску локации и получению маски лучадора в мини-игре Backyard Wrestling.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "How to Find Backyard Wrestling in GTA 6—Location, Luchador Mask and More — Google News (EN)",
+    "guide": true,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-22T13:09:38.409250+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA 6 Challenges – all 80 challenges to complete",
+    "link": "https://www.gamesradar.com/games/grand-theft-auto/all-gta-6-challenges/",
+    "summary": "There are 80 challenges in GTA 6 split across eight different categories to complete",
+    "published": "2026-11-22T13:08:12+00:00",
+    "source": "GamesRadar+",
+    "site_name": "GamesRadar+",
+    "trust": "high",
+    "text": "GTA 6 Challenges are a vital way to reach 100% completion. The challenge system is a key way for you to unlock all of the GTA 6 cheats, and you'll need to have at least 70 of these wrapped up if you want to unlock the GTA 6 Platinum Trophy or 1000 GS too.\nThe Challenges in GTA 6 are split into eight separate categories, designed to test your abilities and skills in a variety of different ways as you progress through GTA 6. You can complete challenges in any order, and you can wait until you finish all of the GTA 6 missions to pursue these as well. Use these jump links to leap between all of the different categories:\nYou can check your progress through all GTA 6 Challenges by pressing the touchpad / menu button to open the GTA 6 Index and then using R1/RB to scroll to the Progress tab. In there, you'll find the option for Challenges. When you've completed one, you'll get a tick in the relevant checkbox.\nKill or knock out 5 enemies in a row using melee weapons without dying.\nKill or injure 3 enemies with a single explosive.\nKill 4 enemies with headshots in a single use of combat focus.\nDrive-by kill 5 enemies in under 1 minute without exiting your vehicle.\nKill 7 unalerted enemies using a scoped sniper rifle without dying or being arrested.\nKill or injure 5 enemies with fire damage in under 15 seconds.\nKill 6 enemies with headshots using a revolver without reloading or switching weapons.\nKill 3 enemies under 10 seconds with a scoped sniper rifle from 300 feet.\nKill or injure 8 enemies with explosives in under 20 seconds without taking damage.\nRob 3 stores in a day without dying or being arrested.\nCarjack 3 vehicles and take them to a Pay 'n' Spray in a day without dying or being arrested.\nSteal $500 in cash from pedestrians in a day without dying or being arrested.\nMaintain a wanted level for 5 minutes in a stolen law enforcement motor vehicle.\nSteal a weapon from the trunk of 5 different law enforcement vehicles without dying or being arrested.\nRob 2 stores in all 5 counties in under 20 minutes without dying or being arrested.\nTow an occupied law enforcement vehicle for 1 mile without stopping.\nRegister or respray a stolen vehicle from 10 different manufacturers at a Pay 'n' Spray in under 30 minutes without dying or being arrested.\nEarn $100,000 from selling stolen vehicles to any fence or Pay 'n' Spray in a day without dying or being arrested.\nScan any 4 landmarks, curiosities, or sculptures with WAiNK.\nVisit the top of the 5 tallest skyscrapers in Vice-D",
+    "extra": {
+     "image": "https://cdn.mos.cms.futurecdn.net/XdhQ3SUwoqU6sS6JkN7j5M-1920-80.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "🗺 Гайд: Все 80 челленджей для 100% прохождения\n\nНужно закрыть хотя бы 70 штук ради платины и чит-кодов. Чекни прогресс через индекс в меню на вкладке Progress, чтобы забрать все награды.\n\n❤️ — Закрою на изи\n👎 — Душно, скип",
+    "card_title": "ВСЕ 80 ЧЕЛЛЕНДЖЕЙ В GTA 6",
+    "reason": "Гайд по выполнению всех 80 челленджей для 100% прохождения и чит-кодов в GTA 6.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": true,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-22T13:25:51.518526+00:00"
   }
  ]
 }
