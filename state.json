@@ -2118,7 +2118,26 @@
   "9f779a4553a21402": "2026-11-22T13:42:29.804462+00:00",
   "ee361884ef869e1e": "2026-11-22T13:42:52.761655+00:00",
   "d07e83673aaceb00": "2026-11-22T13:43:08.930055+00:00",
-  "189a8ff5ad7ac046": "2026-11-22T13:43:16.286485+00:00"
+  "189a8ff5ad7ac046": "2026-11-22T13:43:16.286485+00:00",
+  "1b69d0f62f06ee52": "2026-11-22T13:58:34.426849+00:00",
+  "99432eb90e915c21": "2026-11-22T13:58:34.437579+00:00",
+  "4f278827d710b558": "2026-11-22T13:58:34.460842+00:00",
+  "b60bf31735184451": "2026-11-22T14:00:58.399293+00:00",
+  "a87788e223ddd4f7": "2026-11-22T14:00:59.327553+00:00",
+  "500bc0c77dc26310": "2026-11-22T14:01:00.705467+00:00",
+  "0372efb818d9be38": "2026-11-22T14:01:07.643394+00:00",
+  "78f55925777343ca": "2026-11-22T14:01:35.653008+00:00",
+  "a0eab57e6689f38a": "2026-11-22T14:01:37.390078+00:00",
+  "31d3b2649b0102bb": "2026-11-22T14:16:57.410479+00:00",
+  "3164be2bc54ae489": "2026-11-22T14:16:57.431560+00:00",
+  "bc285235518ac886": "2026-11-22T14:17:05.849423+00:00",
+  "b6299f4ed45007cd": "2026-11-22T14:17:08.326410+00:00",
+  "07a81087f9e60c6a": "2026-11-22T14:17:14.903000+00:00",
+  "13a089426172a677": "2026-11-22T14:17:15.602000+00:00",
+  "5646cf5cf25c5fd3": "2026-11-22T14:17:26.574546+00:00",
+  "c218323f09069741": "2026-11-22T14:17:48.710204+00:00",
+  "3e0330b63973e643": "2026-11-22T14:18:10.008693+00:00",
+  "80747b3018b76198": "2026-11-22T14:18:32.832176+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -3529,7 +3548,25 @@
   "648d3a1e562abfbe": "2026-11-22T13:42:29.804462+00:00",
   "77c3f293ede88356": "2026-11-22T13:42:52.761655+00:00",
   "b354e26d18475cb0": "2026-11-22T13:43:08.930055+00:00",
-  "d56a36fab39b7c37": "2026-11-22T13:43:16.286485+00:00"
+  "d56a36fab39b7c37": "2026-11-22T13:43:16.286485+00:00",
+  "3b5e88084399951d": "2026-11-22T13:58:34.426849+00:00",
+  "e56977ea71757962": "2026-11-22T13:58:34.437579+00:00",
+  "31bf69aaa9430065": "2026-11-22T13:58:34.460842+00:00",
+  "b363e97f980740e7": "2026-11-22T14:00:58.399293+00:00",
+  "27218071f6028164": "2026-11-22T14:00:59.327553+00:00",
+  "d9309eb3e975cb8c": "2026-11-22T14:01:00.705467+00:00",
+  "0a80933a14437074": "2026-11-22T14:01:07.643394+00:00",
+  "8b210e30ad92c082": "2026-11-22T14:01:35.653008+00:00",
+  "e9db379af0aba619": "2026-11-22T14:01:37.390078+00:00",
+  "65256cc61926ec74": "2026-11-22T14:17:08.326410+00:00",
+  "204bd1762cbca733": "2026-11-22T14:16:57.431560+00:00",
+  "3369a9264cd70f5a": "2026-11-22T14:17:05.849423+00:00",
+  "901d9179d8e4de7b": "2026-11-22T14:17:14.903000+00:00",
+  "ef1aafa010128d91": "2026-11-22T14:17:15.602000+00:00",
+  "e4eb9116a0b9cf31": "2026-11-22T14:17:26.574546+00:00",
+  "371cb3ce34d43793": "2026-11-22T14:17:48.710204+00:00",
+  "eaf3e127ad26e384": "2026-11-22T14:18:10.008693+00:00",
+  "f13f8a7f5ea0a367": "2026-11-22T14:18:32.832176+00:00"
  },
  "recent": [
   {
@@ -8859,9 +8896,327 @@
    "status": "skipped",
    "ts": "2026-11-22T13:43:16.286602+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GTA 6 Riata - Southwind",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-22T13:58:34.426885+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Riata locations: How to restore the second car for Wyman",
+   "source": "PC Gamer",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-22T13:58:34.437606+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Here's where to find the Riatas for Wyman in GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-22T13:58:34.460890+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Фанаты разблокировали FPS в GTA 6",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T13:58:37.248441+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Over half of all console players active on GTA 6's launch day played it, says Circana",
+   "source": "Eurogamer",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-22T13:58:39.604767+00:00",
+   "card_title": "ПОЛОВИНА КОНСОЛЕЙ ИГРАЛА"
+  },
+  {
+   "title": "GTA 6: Where To Find The Patriot Cat",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "queued",
+   "ts": "2026-11-22T13:58:58.971335+00:00",
+   "card_title": "ПАТРИОТСКИЙ КОТ В GTA 6"
+  },
+  {
+   "title": "Sex in GTA 6 was extremely difficult to pull off, Rockstar says",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-22T13:59:26.142051+00:00",
+   "card_title": "СЕКС СЦЕНЫ В GTA6"
+  },
+  {
+   "title": "How to get a GTA 6 Rhino tank and become virtually indestructible",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-22T13:59:59.325043+00:00",
+   "card_title": "ТАНК RHINO ГАЙД"
+  },
+  {
+   "title": "How to Perform Robberies through Snapmatic in GTA 6—Scrolling, Location Pin, and More",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "queued",
+   "ts": "2026-11-22T14:00:24.444968+00:00",
+   "card_title": "ГРАБИТЬ ЧЕРЕЗ SNAPMATIC"
+  },
+  {
+   "title": "GTA 6 Makes It Nearly Impossible to Play Without Killing Anyone",
+   "source": "Polygon",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-22T14:00:56.931537+00:00",
+   "card_title": "БЕЗ УБИЙСТВ В GTA 6 НЕВОЗМОЖНО"
+  },
+  {
+   "title": "GTA 6: Should You Choose Cut Or Pure In \"Dealer's Choice\"",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T14:00:58.399407+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "In GTA 6, Cars Are Way, Way More Than Just Getaway Wheels",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T14:00:59.327676+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Has Been Crashing on PlayStation 5 Consoles With Major Error",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T14:01:00.705600+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Neuralink Participant Who Once Played With a Mouth Stick Now Takes On ‘GTA 6’",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T14:01:07.643561+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Riata - Grassrivers",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T14:01:35.653121+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Порт GTA 6 на ПК выпустят скоро — на это намекнул автор эмулятора Switch 2",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T14:01:37.390199+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Glitch Unlocks The FPS On Xbox Series X|S, But With Multiple Drawbacks",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-22T14:16:57.410534+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Can you free-roam after beating GTA 6?",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-22T14:16:57.431616+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Glitch Unlocks The FPS On Xbox Series X|S, But With Multiple Drawbacks",
+   "source": "Pure Xbox",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-22T14:17:14.321075+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "The Podcast Reports on GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T14:17:14.903117+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6: скрытая система наркораспределения Rockstar",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T14:17:15.602142+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6's Day 1 copies sold have already beaten the Nintendo 64's lifetime sales",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T14:17:26.574694+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Three weeks in GTA 6 reminded me why human artists are so impressive",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T14:17:48.710349+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "5 hilarious encounters we found in GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T14:18:10.008814+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Grand Theft Auto 6: лучшая машина для Мозеса, правила и варианты",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T14:18:32.832315+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
+  {
+   "item": {
+    "title": "Over half of all console players active on GTA 6's launch day played it, says Circana",
+    "link": "https://www.eurogamer.net/gta-6-launch-day-engagement-circana",
+    "summary": "On Grand Theft Auto 6 's launch day, more than half of everyone playing on PS5 and Xbox was playing GTA 6. Read more",
+    "published": "2026-11-22T12:02:30+00:00",
+    "source": "Eurogamer",
+    "site_name": "Eurogamer",
+    "trust": "high",
+    "text": "On Grand Theft Auto 6's launch day, more than half of everyone playing on PS5 and Xbox was playing GTA 6.\nCiting new data from Circana's Player Engagement Tracker, analyst Mat Piscatella said on Bluesky that 61 percent of US PlayStation 5 players and 56 percent of global Xbox players who were active on 19th November \"engaged with Grand Theft Auto 6\".\nPS5 players averaged 513 minutes in GTA 6 that day, which is over eight and a half hours, while Xbox players averaged 494 minutes, or around eight and a quarter hours.\n\"Both the DAU [daily active users] and minutes played engagement rates are absolutely bonkers,\" Piscatella wrote.\nFor comparison, Fortnite had the second-highest engagement rate that day, with 10 percent of active players across both platforms playing it.\nPiscatella also shared the top five games that GTA 6 players had been playing in the two weeks before launch, between 6th and 19th November: Fortnite, Call of Duty, Grand Theft Auto 5 (Remastered), Roblox, and NBA 2K27.\nAccording to Circana's Player Engagement Tracker, Grand Theft Auto VI had a massive launch (surprise!).For players active on November 19th, 61% of US PlayStation 5 and 56% of global Xbox players engaged with Grand Theft Auto VI.PS5 GTA VI players averaged 513 minutes that day, Xbox players 494.— Mat Piscatella (@matpiscatella.bsky.social) November 20, 2026 at 5:40 PM\nThe figures come after Rockstar confirmed that GTA 6 had become the biggest entertainment launch of all time, selling 32.5 million pre-release copies and making $3.79 billion by the end of its first day.\nGTA 6 launched on Thursday, 19th November, for PS5 and Xbox Series X/S, and while it's one of the best-reviewed games of all time, you wouldn't know it from its Metacritic user score, as players review bomb it over its limited FPS and purported \"woke\" agenda.\nEurogamer called GTA 6 an open world of \"awe, minute detail and impossible scale\" in our five-star GTA 6 review. If you need help getting through the game now that it's here, you can check out Eurogamer's Grand Theft Auto 6 walkthrough and a breakdown of our Grand Theft Auto 6 cheats.\nJust don't share any, uh, spicy in-game screenshots via PSN - we recently learned that a GTA 6 player was hit with a 30-day PlayStation Network ban after sending a friend a photo they took in the game's nudist resort.",
+    "extra": {
+     "image": "https://assetsio.gnwcdn.com/GTA6_5nov-(12).jpg?width=690&quality=85&format=jpg&auto=webp"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "🚀 Более половины игроков на консолях в GTA 6 в день релиза\n\n61 % PS5‑тусовщиков и 56 % Xbox‑геймеров провели в игре по 8+ часов. Это реальный бэнгер‑стат, который доказывает, что GTA 6 — топчик с первого дня. 🎮 Сравнительно, Fortnite лишь 10 % — наш релиз просто разорвал рынок.",
+    "card_title": "ПОЛОВИНА КОНСОЛЕЙ ИГРАЛА",
+    "reason": "Официальная статистика от Circana про сумасшедший онлайн GTA 6 в первый день.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
+   },
+   "queued_at": "2026-11-22T13:58:39.604753+00:00",
+   "moderation": "pending",
+   "draft_msg_id": 82
+  },
+  {
+   "item": {
+    "title": "Sex in GTA 6 was extremely difficult to pull off, Rockstar says",
+    "link": "https://www.gamesradar.com/games/grand-theft-auto/sex-in-gta-6-was-extremely-difficult-to-pull-off-rockstar-says-we-needed-to-allow-players-to-interact-with-the-partner-in-a-natural-loving-way/",
+    "summary": "Far from Hot Coffee",
+    "published": "2026-11-22T12:32:07+00:00",
+    "source": "GamesRadar+",
+    "site_name": "GamesRadar+",
+    "trust": "high",
+    "text": "Implementing sex into GTA 6 in a believable way was quite tricky to pull off, according to developer Rockstar Games.\nThis being both a Grand Theft Auto game and a love story, it's not a shocker that sex and intimacy (and the most nudity I've ever seen in a video game) are so prominent in GTA 6. Getting the balance just right was pretty tough, however.\n\"Exploring the physical relationship between Jason and Lucia required a lot of thought and iteration,\" Rockstar's vice president of animation, Mark Tennant, explains in quotes given to GamesRadar ahead of our GTA 6 review.\n\"We needed to allow players to interact with the partner in a natural, loving way, with a believable progression based on their overall investment in the relationship,\" he adds. GTA 6's romance isn't a totally linear line. Jason and Lucia can be hotly passionate about each other or just be cordial partners in crime, depending on your choices, so how they interact physically needed to match their relationship status.\n\"This required us to create animation performances that found a realistic balance between player agency and partner response while keeping things fun, passionate, and rewarding,\" Tennant says.\nIt's a far cry from how many of the other games in the series dealt with sex, where your main interactions with romantic partners were impersonal and often transactional. On the flip side, GTA 6 is almost always making you consider someone outside of yourself and sex isn't just an awkward animation that plays if you drop some in-game cash. Jason and Lucia's central romance is the reason why Rockstar isn't letting you hire prostitutes this time around, too.\nRockstar's latest open world has been a long time coming. Make the most of your time in Leonida with the best controllers for GTA 6 and our guide to the best GTA 6 headsets.\nWeekly digests, tales from the communities you love, and more\n4. Best pro Xbox: Nacon Revolution X Unlimited\nKaan freelances for various websites including Rock Paper Shotgun, Eurogamer, and this one, Gamesradar. He particularly enjoys writing about spooky indies, throwback RPGs, and anything that's vaguely silly. Also has an English Literature and Film Studies degree that he'll soon forget.\nYou must confirm your public display name before commenting\nPlease logout and then login again, you will then be prompted to enter your display name.\n1 Should you trust Benedict Halifax in GTA 6?\n3 How to complete The Final Flush in GTA 6 and increase your maximum stamina\n4 \"Let'",
+    "extra": {
+     "image": "https://cdn.mos.cms.futurecdn.net/LknmDHFCtA4v9eTgEcjHcG-1920-80.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "💥 Сексуальные сцены в GTA 6 — как их заставили работать\n\nRockstar признались, что заставить Джейсона и Люси трахаться естественно было реально лютой задачей. Пришлось крутить анимацию, чтобы интеракция была не кринж, а реально крутая, в зависимости от ваших отношений. 🤯",
+    "card_title": "СЕКС СЦЕНЫ В GTA6",
+    "reason": "Подтверждённые комментарии разработчика (confirmed) о сложной механике, которая отличается от прошлых частей и вызывает интерес.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "groq:qwen/qwen3.8-27b → groq:openai/gpt-oss-120b"
+   },
+   "queued_at": "2026-11-22T13:59:26.142039+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA 6 Makes It Nearly Impossible to Play Without Killing Anyone",
+    "link": "https://www.polygon.com/gta-6-no-kill-playthrough-fail/",
+    "summary": "I tried not to kill anyone in Grand Theft Auto 6 and failed. However, it changed the way I thought about and approached the game's violence.",
+    "published": "2026-11-22T13:00:17+00:00",
+    "source": "Polygon",
+    "site_name": "Polygon",
+    "trust": "high",
+    "text": "Grand Theft Auto 6 is out now, and for my initial playthrough of Rockstar’s latest giant open-world game, I wanted to try something a bit out of left field: How long could I play without killing anyone? I’d do my best Batman impression: brutally beating my foes, crippling them with excessive medical debt, but keeping them alive.\nYeah, that didn’t last long. Turns out trying to not commit crime in the game that’s all about committing crime is a difficult task.\nThe first mission was easy enough. Jason has to rescue drug runner Donnie from a gang of rednecks who keep tigers in cages. (Surely that will end well for them.) After I rescued him, I got into a fist fight with a beefy boy and knocked him out. So far so good. Jason had a pistol on him and could pick up weapons around the swamp base, but, trying to avoid a shootout at all costs, I stealthily booked it away from the rednecks and toward the water, avoiding any detection (and potential for violence).\nThat was the opening mostly-on-the-rails mission, but things quickly went south when I was left to my own devices. During the next in-game day, players are given a few mission options. I met up with Cal, Jason’s buddy who’s not cut out for a life of crime, and we drove to a police impound lot. I needed to steal a car with a trunk full of weed, and this is where shit hit the fan.\nLook, I never learned how to drive in real life, and am not the biggest fan of it in video games. Driving for more than a few feet without hitting anything or anyone is an impossible challenge in games, and driving in GTA 6 feels especially difficult; I can never figure out the right speed to go, and sharp turns are the bane of my existence.\nSo maybe I was always doomed to run over a cop on my way out of the impound lot.\nPolice officers swarmed Jason after he unhooked the red Phoenix and hotwired it. Too much was happening at once: an on-screen message about how I could open the gate, cops flinging open the driver’s side door and trying to rip Jason from the vehicle, and police radio chatter pouring out of my controller speaker. I’m not ashamed to say I restarted this mission several times just trying to figure out how to get out of the lot by carefully not running over any cops.\nAnd then, who pulls up in front of the gate I’m about to crash through but a do-gooder cop hopping out of his vehicle? I assumed the giant pool of blood leaking out of him after our collision meant he wasn’t long for the world.\nI did get caught on that attem",
+    "extra": {
+     "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/jasonrob.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "🚫 Нельзя пройти GTA 6 без убийств\n\nПытался пройти первую миссию без кила — в итоге полетели копы, тачки и мозги. Играть чисто в GTA 6 почти нереально, так что готовьте крутую импровизацию, иначе будет респаун криков 💥",
+    "card_title": "БЕЗ УБИЙСТВ В GTA 6 НЕВОЗМОЖНО",
+    "reason": "Zhurnalistskii opyt o slozhnosti pacifizma v GTA 6, unikalnyy kontent po vyshedshey igre.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "GTA 6 Makes It Nearly Impossible to Play Without Killing Anyone",
+    "corroborated_by": "GTA 6 Makes It Nearly Impossible to Play Without Killing Anyone",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
+   },
+   "queued_at": "2026-11-22T14:00:56.931524+00:00"
+  },
+  {
+   "item": {
+    "title": "How to get a GTA 6 Rhino tank and become virtually indestructible",
+    "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-tank-rhino/",
+    "summary": "There are rows of GTA 6 tanks waiting to be liberated right from the start of the game, to earn the Challenging Tank award",
+    "published": "2026-11-22T13:04:45+00:00",
+    "source": "GamesRadar+",
+    "site_name": "GamesRadar+",
+    "trust": "high",
+    "text": "Getting a tank in GTA 6 represents the pinnacle of criminal behavior, and there's a long history of stealing Rhinos going all the way back through the series to GTA 3! These military vehicles are virtually indestructible so you're safely protected inside, and they pack a powerful enough punch with their cannon to destroy anything GTA 6 puts in front of you. You also need to get inside one to unlock the Challenging Tank Trophy or Achievement, so to help you out with that, here's how to steal a tank in GTA 6.\nThe location for an entire row of GTA 6 tanks is in the Mile Zero Air Station, situated west of the area you begin the story in, which you can reach by driving through Abismo Key and on to Southwind. You'll need a vehicle to break into the military base which will get left behind, so it's best not to use your GTA 6 personal vehicle for this job, and equipping body armor from Ammu-nation is highly recommended for added protection.\nBy following the route marked on my map above you'll weave through several road barriers, as which point the soldiers will open fire on you, then turn right at the first opportunity to pass more barriers and soldiers until you spot a handy pile of dirt. You must use this Stunt Jump to clear the perimeter fence, though if you don't get enough height to also clear the inner fence you can smash through it to reach the runway.\nLook to your left when on the miliary runway and you'll see a large building, and to the left of that are the Rhino tanks we're looking for – you can also head to the right of that building if you'd prefer to grab a GTA 6 jet instead. Once you reach the tanks, crash through the fence and then approach one before using the usual enter vehicle button to climb in through the front hatch. Note that there is various military hardware in this area, but the Rhino tanks are the ones closest to the fence you broke through.\nYou can then drive away in your new GTA 6 tank, which will shortly unlock the Challenging Tank award from the GTA 6 Trophy and Achievement list to add to your collection. Strangely, commandeering this military vehicle doesn't initially increase your GTA 6 Wanted Level beyond the existing two-stars for breaking into the base, though this soon goes to five and then six-stars when you start blasting things with your cannon.\nDon't expect to get too far in your Rhino tank, as it drives pretty slowly and you're being constantly peppered with incoming gunfire plus rockets from helicopters – which you can s",
+    "extra": {
+     "image": "https://cdn.mos.cms.futurecdn.net/6TkMTypEzXTZbpYs2m4BsX-1920-80.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "🗺 Гайд: Как украсть танк Rhino в GTA 6\n\n1️⃣ Прокачай в Mile Zero Air Station (через Abismo Key → Southwind) и подойди к военной базе.\n2️⃣ Проложи путь через барьеры, прыгни со Stunt Jump через периметр‑забор.\n3️⃣ На взлетной полосе слева от большого здания вломись в ближайший Rhino, займи его и отъедь.\nТанк — почти неубиваем, но медленный, так что готовь бронежилет и готовься к шуткам от вертолетов. 🚁",
+    "card_title": "ТАНК RHINO ГАЙД",
+    "reason": "Гайд по угону танка Rhino в GTA 6 и получению достижения.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": true,
+    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
+   },
+   "queued_at": "2026-11-22T13:59:59.325031+00:00"
+  },
   {
    "item": {
     "title": "Илон Маск показал, как играют в GTA VI силой мысли — с помощью Neuralink",
@@ -9037,6 +9392,62 @@
     "model": "groq:openai/gpt-oss-120b → gemini:gemini-3.5-flash"
    },
    "queued_at": "2026-11-22T10:50:57.817637+00:00"
+  },
+  {
+   "item": {
+    "title": "How to Perform Robberies through Snapmatic in GTA 6—Scrolling, Location Pin, and More",
+    "link": "https://insider-gaming.com/robberies-snapmatic-gta-6/",
+    "summary": "GTA 6 allows players to scope targets and rob them through Snapmatic. Here's a guide on how this system works. The post How to Perform Robberies through Snapmatic in GTA 6—Scrolling, Location Pin, and More appeared first on Insider Gaming .",
+    "published": "2026-11-22T13:03:25+00:00",
+    "source": "Insider Gaming",
+    "site_name": "Insider Gaming",
+    "trust": "medium",
+    "text": "GTA 6 has various ways players can rob to earn money, and its social media platform, Snapmatic, is also one that players can use as a medium to find targets to rob; here’s a guide on how it works.\nRockstar has created GTA 6 to be one of the most realistic video games ever, blurring the lines between real life and in-game life. Players can engage in activities like doomscrolling, just as they do in real life, even right before going to bed. However, the Snapmatic feature is not only for doomscrolling in GTA 6; it also serves as a tool to identify potential targets for robbery, allowing players to earn some money along the way.\nYou can buy Grand Theft Auto 6 here if you haven’t already!\nHow to Find Targets in Snapmatic in GTA 6\nPlayers need to scope targets through the Snapmatic app first to perform robberies in GTA 6.\nCheck out the steps below to learn how to find targets to rob through Snapmatic in GTA 6:\nFirst, players should open their smartphone using the D-pad Up button.\nOnce the app is open, press R1 or L1 / LB or RB to switch tabs.\nGo to the Explore tab in the center, marked by the ‘eye’ icon.\nHere, players will need to scroll until they see some odd stuff people are posting, like contraband and such—I found a post that had an image of some drugs with the caption “Look whose buddies got their hands on a shitload of mind-altering shizzz.”\nOnce you find such a post, press Square / X for Options for that post.\nSelect Set Destination to get a waypoint to the place.\nTo perform robberies, players first need to identify targets on GTA 6’s Snapmatic app, and luckily the NPCs are foolish enough to reveal not only what you will be robbing, but also where it’s kept. All you need to do is mark their location through Snapmatic and drive to where these people are, and then their stuff is yours for the taking.\nCheck out the video below for a walkthrough on how to find the robbery targets through GTA 6’s Snapmatic app below:\nNow, all you need to do is drive to the location, scope out the place, and choose your approach. In my situation, there were only a handful of enemies, so I quickly took them down with some non-lethal focus shots, headed inside the shed, and stole all of their acid.\nInterestingly, they also had a helicopter just lying around that you can steal, which definitely helps you get from point A to point B much faster and helps in some missions.\nMore Insider Gaming: All GTA 6 Guides, Walkthroughs, Best Tips & Tricks\nInterested readers can see the video ",
+    "extra": {
+     "image": "https://insider-gaming.com/wp-content/uploads/2025/05/Vice_City_06-scaled.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "🤑 Как грабить через Snapmatic в GTA 6\n\nОткрой смартфон (D‑pad Up), зайди в таб «Explore», листай посты с контрабандой, ставь точку назначения и врывайся – лут сразу в карман. Имба для быстрых бабок, базуешься на реальных постах, так что в деле всё по‑реальному. 🚀",
+    "card_title": "ГРАБИТЬ ЧЕРЕЗ SNAPMATIC",
+    "reason": "Полезный гайд по поиску целей для грабежей через Snapmatic в вышедшей GTA 6",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": true,
+    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
+   },
+   "queued_at": "2026-11-22T14:00:24.444956+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA 6: Where To Find The Patriot Cat",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE83ZXJaTlk5RkVtX3BQdEFZdXdQbjVxamhBX0Q3MHhsQ3J4cFI0SlQwdUxWVUV4RHBiWVR3SkZfTmlwUFJpbjhnOHEwS1pFYnVwU3BQUFpfQ2VqQjNUbzJ3X05wb3VTcXdKcDIzT3dya0V2SzQ?oc=5",
+    "summary": "GTA 6: Where To Find The Patriot Cat Cultured Vultures",
+    "published": "2026-11-22T12:23:27+00:00",
+    "source": "Google News (EN)",
+    "site_name": "Cultured Vultures",
+    "trust": "rumor",
+    "text": "GTA 6: Where To Find The Patriot Cat Cultured Vultures",
+    "extra": {}
+   },
+   "verdict": {
+    "type": "rumor",
+    "importance": 8,
+    "post": "🔥 Слух, не подтверждено, Cultured Vultures\n🐱 Патриотский кот в GTA 6\n\nГоворят, в Патриот Парк прячется кот‑мем, который лайкает твою тачку. Если найдёшь — получишь уникальный скин и ржач в онлайн. 🐾",
+    "card_title": "ПАТРИОТСКИЙ КОТ В GTA 6",
+    "reason": "Гайд по поиску секретного кота в вышедшей игре, полезно и интересно для игроков.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": true,
+    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
+   },
+   "queued_at": "2026-11-22T13:58:58.971321+00:00"
   }
  ],
  "posts": [
@@ -9094,7 +9505,8 @@
   "2026-11-22T09:01:59.839607+00:00",
   "2026-11-22T10:19:40.160726+00:00",
   "2026-11-22T11:19:51.806243+00:00",
-  "2026-11-22T12:43:34.843087+00:00"
+  "2026-11-22T12:43:34.843087+00:00",
+  "2026-11-22T14:01:42.978013+00:00"
  ],
  "slots_sent": {
   "2026-11-21:guide:1": "2026-11-21T21:14:52.573728+00:00",
@@ -13900,212 +14312,6 @@
  "rewrite_wait": [
   {
    "item": {
-    "title": "Фанаты разблокировали FPS в GTA 6",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWE5CY1R6X2hfbVpFNTVTVlFXb2wzTzhQWTNzN0pBd3pXV2Z5MnlVT19mYlFhdE0xV01YejdpWDRBcGFDa0NFZVNYOFFCdFFTU0g2eXFlVl9yT0VQOEZXU0s2U2RqbkhLRjB1bi1LSjVpNzBybkk3QVBNbmlkTDVkZXRiWlB6QUJiMGpLalhYTF90LW85cDlXcXRkMWpfaWFwZnhkWWFBeWNLZw?oc=5",
-    "summary": "Фанаты разблокировали FPS в GTA 6 Igromania.ru",
-    "published": "2026-11-22T11:28:05+00:00",
-    "source": "Google News (RU)",
-    "site_name": "Igromania.ru",
-    "trust": "rumor",
-    "text": "Фанаты разблокировали FPS в GTA 6 Igromania.ru",
-    "extra": {}
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 6,
-    "post": "🗺 Гайд: FPS в GTA 6\n\nДемоны из кода разблокировали высокий FPS. Завезли производительность, где её не ждали. Затестим этот баг, чтобы катка шла как масло, а не как слайдшоу. Рил, что и в 2026-м хакят всё подряд.",
-    "card_title": "ФПС В GTA 6",
-    "reason": "Полезный секрет/баг для вышедшей игры, повышает удовольствие от геймплея.",
-    "duplicate": false,
-    "corroborated": true,
-    "duplicate_of": "",
-    "corroborated_by": "GTA VI 60FPS Glitch Discovered And Here’s How To Do It",
-    "guide": true,
-    "model": "groq:qwen/qwen3.8-27b"
-   },
-   "corr": false,
-   "since": "2026-11-22T11:41:14.065447+00:00"
-  },
-  {
-   "item": {
-    "title": "Over half of all console players active on GTA 6's launch day played it, says Circana",
-    "link": "https://www.eurogamer.net/gta-6-launch-day-engagement-circana",
-    "summary": "On Grand Theft Auto 6 's launch day, more than half of everyone playing on PS5 and Xbox was playing GTA 6. Read more",
-    "published": "2026-11-22T12:02:30+00:00",
-    "source": "Eurogamer",
-    "site_name": "Eurogamer",
-    "trust": "high",
-    "text": "On Grand Theft Auto 6's launch day, more than half of everyone playing on PS5 and Xbox was playing GTA 6.\nCiting new data from Circana's Player Engagement Tracker, analyst Mat Piscatella said on Bluesky that 61 percent of US PlayStation 5 players and 56 percent of global Xbox players who were active on 19th November \"engaged with Grand Theft Auto 6\".\nPS5 players averaged 513 minutes in GTA 6 that day, which is over eight and a half hours, while Xbox players averaged 494 minutes, or around eight and a quarter hours.\n\"Both the DAU [daily active users] and minutes played engagement rates are absolutely bonkers,\" Piscatella wrote.\nFor comparison, Fortnite had the second-highest engagement rate that day, with 10 percent of active players across both platforms playing it.\nPiscatella also shared the top five games that GTA 6 players had been playing in the two weeks before launch, between 6th and 19th November: Fortnite, Call of Duty, Grand Theft Auto 5 (Remastered), Roblox, and NBA 2K27.\nAccording to Circana's Player Engagement Tracker, Grand Theft Auto VI had a massive launch (surprise!).For players active on November 19th, 61% of US PlayStation 5 and 56% of global Xbox players engaged with Grand Theft Auto VI.PS5 GTA VI players averaged 513 minutes that day, Xbox players 494.— Mat Piscatella (@matpiscatella.bsky.social) November 20, 2026 at 5:40 PM\nThe figures come after Rockstar confirmed that GTA 6 had become the biggest entertainment launch of all time, selling 32.5 million pre-release copies and making $3.79 billion by the end of its first day.\nGTA 6 launched on Thursday, 19th November, for PS5 and Xbox Series X/S, and while it's one of the best-reviewed games of all time, you wouldn't know it from its Metacritic user score, as players review bomb it over its limited FPS and purported \"woke\" agenda.\nEurogamer called GTA 6 an open world of \"awe, minute detail and impossible scale\" in our five-star GTA 6 review. If you need help getting through the game now that it's here, you can check out Eurogamer's Grand Theft Auto 6 walkthrough and a breakdown of our Grand Theft Auto 6 cheats.\nJust don't share any, uh, spicy in-game screenshots via PSN - we recently learned that a GTA 6 player was hit with a 30-day PlayStation Network ban after sending a friend a photo they took in the game's nudist resort.",
-    "extra": {
-     "image": "https://assetsio.gnwcdn.com/GTA6_5nov-(12).jpg?width=690&quality=85&format=jpg&auto=webp"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "ПОЛОВИНА КОНСОЛЬЩИКОВ\n\nВ день релиза GTA 6 заняла больше половины всего онлайна на PS5 и Xbox — имба! Игроки рубились в среднем по 8,5 часов, пока Fortnite нервно курит в сторонке с жалкими 10%.",
-    "card_title": "БОЛЬШЕ ПОЛОВИНЫ ИГРОКОВ В GTA 6",
-    "reason": "Официальная статистика от Circana про сумасшедший онлайн GTA 6 в первый день.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-22T12:15:54.759676+00:00"
-  },
-  {
-   "item": {
-    "title": "GTA 6: Where To Find The Patriot Cat",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE83ZXJaTlk5RkVtX3BQdEFZdXdQbjVxamhBX0Q3MHhsQ3J4cFI0SlQwdUxWVUV4RHBiWVR3SkZfTmlwUFJpbjhnOHEwS1pFYnVwU3BQUFpfQ2VqQjNUbzJ3X05wb3VTcXdKcDIzT3dya0V2SzQ?oc=5",
-    "summary": "GTA 6: Where To Find The Patriot Cat Cultured Vultures",
-    "published": "2026-11-22T12:23:27+00:00",
-    "source": "Google News (EN)",
-    "site_name": "Cultured Vultures",
-    "trust": "rumor",
-    "text": "GTA 6: Where To Find The Patriot Cat Cultured Vultures",
-    "extra": {}
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 6,
-    "post": "🗺 Гайд: ПАТРИОТ КОТ\n\nЗавезли имбовый секрет для любителей живности. Ищем котейку на крыше здания в районе Порт-Геллахорн, ориентируйтесь по американскому флагу рядом.\n\n❤️ — Уже нашёл\n👎 — Обычный питомец",
-    "card_title": "ГДЕ НАЙТИ ПАТРИОТ КОТА",
-    "reason": "Гайд по поиску секретного кота в вышедшей игре, полезно и интересно для игроков.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": true,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": true,
-   "since": "2026-11-22T12:35:02.165790+00:00"
-  },
-  {
-   "item": {
-    "title": "Sex in GTA 6 was extremely difficult to pull off, Rockstar says",
-    "link": "https://www.gamesradar.com/games/grand-theft-auto/sex-in-gta-6-was-extremely-difficult-to-pull-off-rockstar-says-we-needed-to-allow-players-to-interact-with-the-partner-in-a-natural-loving-way/",
-    "summary": "Far from Hot Coffee",
-    "published": "2026-11-22T12:32:07+00:00",
-    "source": "GamesRadar+",
-    "site_name": "GamesRadar+",
-    "trust": "high",
-    "text": "Implementing sex into GTA 6 in a believable way was quite tricky to pull off, according to developer Rockstar Games.\nThis being both a Grand Theft Auto game and a love story, it's not a shocker that sex and intimacy (and the most nudity I've ever seen in a video game) are so prominent in GTA 6. Getting the balance just right was pretty tough, however.\n\"Exploring the physical relationship between Jason and Lucia required a lot of thought and iteration,\" Rockstar's vice president of animation, Mark Tennant, explains in quotes given to GamesRadar ahead of our GTA 6 review.\n\"We needed to allow players to interact with the partner in a natural, loving way, with a believable progression based on their overall investment in the relationship,\" he adds. GTA 6's romance isn't a totally linear line. Jason and Lucia can be hotly passionate about each other or just be cordial partners in crime, depending on your choices, so how they interact physically needed to match their relationship status.\n\"This required us to create animation performances that found a realistic balance between player agency and partner response while keeping things fun, passionate, and rewarding,\" Tennant says.\nIt's a far cry from how many of the other games in the series dealt with sex, where your main interactions with romantic partners were impersonal and often transactional. On the flip side, GTA 6 is almost always making you consider someone outside of yourself and sex isn't just an awkward animation that plays if you drop some in-game cash. Jason and Lucia's central romance is the reason why Rockstar isn't letting you hire prostitutes this time around, too.\nRockstar's latest open world has been a long time coming. Make the most of your time in Leonida with the best controllers for GTA 6 and our guide to the best GTA 6 headsets.\nWeekly digests, tales from the communities you love, and more\n4. Best pro Xbox: Nacon Revolution X Unlimited\nKaan freelances for various websites including Rock Paper Shotgun, Eurogamer, and this one, Gamesradar. He particularly enjoys writing about spooky indies, throwback RPGs, and anything that's vaguely silly. Also has an English Literature and Film Studies degree that he'll soon forget.\nYou must confirm your public display name before commenting\nPlease logout and then login again, you will then be prompted to enter your display name.\n1 Should you trust Benedict Halifax in GTA 6?\n3 How to complete The Final Flush in GTA 6 and increase your maximum stamina\n4 \"Let'",
-    "extra": {
-     "image": "https://cdn.mos.cms.futurecdn.net/LknmDHFCtA4v9eTgEcjHcG-1920-80.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "🔥 Рокстар призналась: секс в GTA 6 — боль\n\nМарк Теннант из Rockstar рассказал, что сделать интим сценарий Джейсона и Люсии «живым» было лютым челленджем. Никаких кринжовых автоматов: всё зависит от ваших выборов, а не от кэша. Сочный вайб без транзакций — это база.",
-    "card_title": "РОКСТАР О СЕКСЕ В ГТА 6",
-    "reason": "Подтверждённые комментарии разработчика (confirmed) о сложной механике, которая отличается от прошлых частей и вызывает интерес.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "groq:qwen/qwen3.8-27b"
-   },
-   "corr": false,
-   "since": "2026-11-22T12:51:46.550680+00:00"
-  },
-  {
-   "item": {
-    "title": "How to get a GTA 6 Rhino tank and become virtually indestructible",
-    "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-tank-rhino/",
-    "summary": "There are rows of GTA 6 tanks waiting to be liberated right from the start of the game, to earn the Challenging Tank award",
-    "published": "2026-11-22T13:04:45+00:00",
-    "source": "GamesRadar+",
-    "site_name": "GamesRadar+",
-    "trust": "high",
-    "text": "Getting a tank in GTA 6 represents the pinnacle of criminal behavior, and there's a long history of stealing Rhinos going all the way back through the series to GTA 3! These military vehicles are virtually indestructible so you're safely protected inside, and they pack a powerful enough punch with their cannon to destroy anything GTA 6 puts in front of you. You also need to get inside one to unlock the Challenging Tank Trophy or Achievement, so to help you out with that, here's how to steal a tank in GTA 6.\nThe location for an entire row of GTA 6 tanks is in the Mile Zero Air Station, situated west of the area you begin the story in, which you can reach by driving through Abismo Key and on to Southwind. You'll need a vehicle to break into the military base which will get left behind, so it's best not to use your GTA 6 personal vehicle for this job, and equipping body armor from Ammu-nation is highly recommended for added protection.\nBy following the route marked on my map above you'll weave through several road barriers, as which point the soldiers will open fire on you, then turn right at the first opportunity to pass more barriers and soldiers until you spot a handy pile of dirt. You must use this Stunt Jump to clear the perimeter fence, though if you don't get enough height to also clear the inner fence you can smash through it to reach the runway.\nLook to your left when on the miliary runway and you'll see a large building, and to the left of that are the Rhino tanks we're looking for – you can also head to the right of that building if you'd prefer to grab a GTA 6 jet instead. Once you reach the tanks, crash through the fence and then approach one before using the usual enter vehicle button to climb in through the front hatch. Note that there is various military hardware in this area, but the Rhino tanks are the ones closest to the fence you broke through.\nYou can then drive away in your new GTA 6 tank, which will shortly unlock the Challenging Tank award from the GTA 6 Trophy and Achievement list to add to your collection. Strangely, commandeering this military vehicle doesn't initially increase your GTA 6 Wanted Level beyond the existing two-stars for breaking into the base, though this soon goes to five and then six-stars when you start blasting things with your cannon.\nDon't expect to get too far in your Rhino tank, as it drives pretty slowly and you're being constantly peppered with incoming gunfire plus rockets from helicopters – which you can s",
-    "extra": {
-     "image": "https://cdn.mos.cms.futurecdn.net/6TkMTypEzXTZbpYs2m4BsX-1920-80.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 6,
-    "post": "🗺 Гайд: Как угнать танк в GTA 6\n\nТАНК на базе Mile Zero Air Station ждет тебя, чел. Бери тачку для тарана, юзай кучу земли для прыжка через забор и забирай имбу.\n\n❤️ — Уже угнал\n👎 — Сразу дали 6 звезд",
-    "card_title": "КАК УКРАСТЬ ТАНК RHINO В GTA 6",
-    "reason": "Гайд по угону танка Rhino в GTA 6 и получению достижения.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": true,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-22T13:08:38.354691+00:00"
-  },
-  {
-   "item": {
-    "title": "How to Perform Robberies through Snapmatic in GTA 6—Scrolling, Location Pin, and More",
-    "link": "https://insider-gaming.com/robberies-snapmatic-gta-6/",
-    "summary": "GTA 6 allows players to scope targets and rob them through Snapmatic. Here's a guide on how this system works. The post How to Perform Robberies through Snapmatic in GTA 6—Scrolling, Location Pin, and More appeared first on Insider Gaming .",
-    "published": "2026-11-22T13:03:25+00:00",
-    "source": "Insider Gaming",
-    "site_name": "Insider Gaming",
-    "trust": "medium",
-    "text": "GTA 6 has various ways players can rob to earn money, and its social media platform, Snapmatic, is also one that players can use as a medium to find targets to rob; here’s a guide on how it works.\nRockstar has created GTA 6 to be one of the most realistic video games ever, blurring the lines between real life and in-game life. Players can engage in activities like doomscrolling, just as they do in real life, even right before going to bed. However, the Snapmatic feature is not only for doomscrolling in GTA 6; it also serves as a tool to identify potential targets for robbery, allowing players to earn some money along the way.\nYou can buy Grand Theft Auto 6 here if you haven’t already!\nHow to Find Targets in Snapmatic in GTA 6\nPlayers need to scope targets through the Snapmatic app first to perform robberies in GTA 6.\nCheck out the steps below to learn how to find targets to rob through Snapmatic in GTA 6:\nFirst, players should open their smartphone using the D-pad Up button.\nOnce the app is open, press R1 or L1 / LB or RB to switch tabs.\nGo to the Explore tab in the center, marked by the ‘eye’ icon.\nHere, players will need to scroll until they see some odd stuff people are posting, like contraband and such—I found a post that had an image of some drugs with the caption “Look whose buddies got their hands on a shitload of mind-altering shizzz.”\nOnce you find such a post, press Square / X for Options for that post.\nSelect Set Destination to get a waypoint to the place.\nTo perform robberies, players first need to identify targets on GTA 6’s Snapmatic app, and luckily the NPCs are foolish enough to reveal not only what you will be robbing, but also where it’s kept. All you need to do is mark their location through Snapmatic and drive to where these people are, and then their stuff is yours for the taking.\nCheck out the video below for a walkthrough on how to find the robbery targets through GTA 6’s Snapmatic app below:\nNow, all you need to do is drive to the location, scope out the place, and choose your approach. In my situation, there were only a handful of enemies, so I quickly took them down with some non-lethal focus shots, headed inside the shed, and stole all of their acid.\nInterestingly, they also had a helicopter just lying around that you can steal, which definitely helps you get from point A to point B much faster and helps in some missions.\nMore Insider Gaming: All GTA 6 Guides, Walkthroughs, Best Tips & Tricks\nInterested readers can see the video ",
-    "extra": {
-     "image": "https://insider-gaming.com/wp-content/uploads/2025/05/Vice_City_06-scaled.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 6,
-    "post": "🗺 Гайд: Грабежи по фоткам\n\nВ Snapmatic можно не просто залипать, а искать тайники с лутом. Открывай телефон, чекай вкладку Explore с иконкой глаза и ищи странные посты с контрабандой.\n\nЖми опции поста и ставь метку на карте — профит, точка грабежа у тебя в кармане. Го го лутать кислоту и вертолеты 🚁\n\n❤️ — уже граблю\n👎 — долго искать",
-    "card_title": "ГРАБЕЖИ ЧЕРЕЗ SNAPMATIC",
-    "reason": "Полезный гайд по поиску целей для грабежей через Snapmatic в вышедшей GTA 6",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": true,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-22T13:08:43.304898+00:00"
-  },
-  {
-   "item": {
-    "title": "GTA 6 Makes It Nearly Impossible to Play Without Killing Anyone",
-    "link": "https://www.polygon.com/gta-6-no-kill-playthrough-fail/",
-    "summary": "I tried not to kill anyone in Grand Theft Auto 6 and failed. However, it changed the way I thought about and approached the game's violence.",
-    "published": "2026-11-22T13:00:17+00:00",
-    "source": "Polygon",
-    "site_name": "Polygon",
-    "trust": "high",
-    "text": "Grand Theft Auto 6 is out now, and for my initial playthrough of Rockstar’s latest giant open-world game, I wanted to try something a bit out of left field: How long could I play without killing anyone? I’d do my best Batman impression: brutally beating my foes, crippling them with excessive medical debt, but keeping them alive.\nYeah, that didn’t last long. Turns out trying to not commit crime in the game that’s all about committing crime is a difficult task.\nThe first mission was easy enough. Jason has to rescue drug runner Donnie from a gang of rednecks who keep tigers in cages. (Surely that will end well for them.) After I rescued him, I got into a fist fight with a beefy boy and knocked him out. So far so good. Jason had a pistol on him and could pick up weapons around the swamp base, but, trying to avoid a shootout at all costs, I stealthily booked it away from the rednecks and toward the water, avoiding any detection (and potential for violence).\nThat was the opening mostly-on-the-rails mission, but things quickly went south when I was left to my own devices. During the next in-game day, players are given a few mission options. I met up with Cal, Jason’s buddy who’s not cut out for a life of crime, and we drove to a police impound lot. I needed to steal a car with a trunk full of weed, and this is where shit hit the fan.\nLook, I never learned how to drive in real life, and am not the biggest fan of it in video games. Driving for more than a few feet without hitting anything or anyone is an impossible challenge in games, and driving in GTA 6 feels especially difficult; I can never figure out the right speed to go, and sharp turns are the bane of my existence.\nSo maybe I was always doomed to run over a cop on my way out of the impound lot.\nPolice officers swarmed Jason after he unhooked the red Phoenix and hotwired it. Too much was happening at once: an on-screen message about how I could open the gate, cops flinging open the driver’s side door and trying to rip Jason from the vehicle, and police radio chatter pouring out of my controller speaker. I’m not ashamed to say I restarted this mission several times just trying to figure out how to get out of the lot by carefully not running over any cops.\nAnd then, who pulls up in front of the gate I’m about to crash through but a do-gooder cop hopping out of his vehicle? I assumed the giant pool of blood leaking out of him after our collision meant he wasn’t long for the world.\nI did get caught on that attem",
-    "extra": {
-     "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/jasonrob.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "ПАСИФИСТ В GTA 6\n\nЖурналист попытался пройти игру без единого убийства, но чуда не случилось. Ранние миссии еще позволяют петлять от драк, но первый же угон тачки превращается в полный разнос и случайные жертвы.",
-    "card_title": "НЕЛЬЗЯ ПРОЙТИ ИГРУ БЕЗ УБИЙСТВ",
-    "reason": "Zhurnalistskii opyt o slozhnosti pacifizma v GTA 6, unikalnyy kontent po vyshedshey igre.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "GTA 6 Makes It Nearly Impossible to Play Without Killing Anyone",
-    "corroborated_by": "GTA 6 Makes It Nearly Impossible to Play Without Killing Anyone",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-22T13:08:45.652271+00:00"
-  },
-  {
-   "item": {
     "title": "GTA 6 Just Can't Stop Breaking Records It Seems",
     "link": "https://www.pushsquare.com/news/2026/11/gta-6-just-cant-stop-breaking-records-it-seems",
     "summary": "Sets new soundtrack streaming record on Spotify. Not content with being the biggest entertainment launch in history and the highest rated game of all time , GTA 6 has already broken another record. The game’s official album, which features all-new tracks from the likes of Dua Lipa , set a new opening day record for a soundtrack on Spotify with a dizzying 29.85 million streams. Read the full article on pushsquare.com",
@@ -14283,6 +14489,36 @@
    },
    "corr": false,
    "since": "2026-11-22T13:42:27.661774+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA VI Pre-Order Bonus Now Available To Buy Separately",
+    "link": "https://rockstarintel.com/gta-vi-pre-order-bonus-now-available-to-buy-separately/",
+    "summary": "The GTA VI pre-order bonus can now be purchased separately following the game’s launch. The Vintage Vice City Pack was the bonus that every single person that pre-ordered the game either physically or digitally received upon getting into the game. Whilst Rockstar have not made any comment on the pack being made available separately, store listings [...] The post GTA VI Pre-Order Bonus Now Available To Buy Separately appeared first on RockstarINTEL .",
+    "published": "2026-11-22T14:05:33+00:00",
+    "source": "Rockstar Intel",
+    "site_name": "Rockstar Intel",
+    "trust": "medium",
+    "text": "The GTA VI pre-order bonus can now be purchased separately following the game’s launch. The Vintage Vice City Pack was the bonus that every single person that pre-ordered the game either physically or digitally received upon getting into the game.\nWhilst Rockstar have not made any comment on the pack being made available separately, store listings spotted by Tex2 have appeared on both the PlayStation and XBOX Store. It retails for $4.99 / £4.49.\nIt’s pretty surprising that Rockstar have made this pre-order bonus available just a few days after launch and on a weekend too. I thought we would see this as a separate micro transaction but maybe in the new year. This is now the third microtransaction you can get for the game with the others being the Ultimate Edition Pack and GTA+ bonuses.\nThe Vintage Vice City Pack contains a number of clothing items for Jason and Lucia, weapon patterns and a ’55 Vapid Stainer that you can’t get in the game without this pack. For those that somehow didn’t pre-order the game and wants this content then now they can.\nLooking for some Grand Theft Auto VI guides? We show you how you can unlock the exclusive Venturas Blvd Elegy here. Plus, check out the best settings to use when playing the game. In other Grand Theft Auto VI news, the game sold over 30 million copies on day one. Learn more here.\nWill you be purchasing the pack if you did not pre-order it? Let us know down in the comment section below.\nYou can order your PS5 or XBOX copy of Grand Theft Auto VI with this link. Using the link to order the game will help support this website as we’ll earn a small commission. Thank you!\nFor more news on GTA VI, stay tuned to RockstarINTEL and sign up to our newsletter for a weekly round-up of all things Rockstar Games delivered straight to your inbox.",
+    "extra": {
+     "image": "https://rockstarintel.com/wp-content/uploads/2026/06/VINTAGE_VICE_CITY_PACK_VAPID_STANIER_01-004m_8d1-qngy.avif"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "БОНУС предзаказа теперь можно докупить отдельно\n\nВ сторах PS и Xbox появился набор Vintage Vice City за пять баксов для тех, кто пропустил старт. Шмотки, пушки и тачка теперь доступны всем опоздавшим, база.",
+    "card_title": "БОНУС ЗА ПРЕДЗАКАЗ В ПРОДАЖЕ",
+    "reason": "Pre-order bonus pack is now available for purchase in store listings, confirmed by media.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-22T14:17:06.708410+00:00"
   }
  ]
 }
