@@ -1965,7 +1965,13 @@
   "c85c5fc7b1a2b82b": "2026-11-22T09:15:22.375582+00:00",
   "14181ca182c1b04d": "2026-11-22T09:15:23.367461+00:00",
   "f0ced25384c7d3f5": "2026-11-22T09:15:52.824466+00:00",
-  "fe086c3e3a971ae3": "2026-11-22T09:16:16.720392+00:00"
+  "fe086c3e3a971ae3": "2026-11-22T09:16:16.720392+00:00",
+  "fe47c78d0f79dc2a": "2026-11-22T09:31:34.560677+00:00",
+  "e5a608f1354fa047": "2026-11-22T09:31:35.610508+00:00",
+  "455fbeff0ada1fd3": "2026-11-22T09:31:38.672075+00:00",
+  "143549ae195f2627": "2026-11-22T09:47:08.635066+00:00",
+  "15aa543b228231c3": "2026-11-22T09:47:09.625226+00:00",
+  "6e07bd754cfbd692": "2026-11-22T09:47:12.234806+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -3282,7 +3288,13 @@
   "dde3632c8e47b145": "2026-11-22T09:15:22.375582+00:00",
   "c67247a644c63e3b": "2026-11-22T09:15:23.367461+00:00",
   "f530eeea283bb0f9": "2026-11-22T09:15:52.824466+00:00",
-  "385c07d21c77b94f": "2026-11-22T09:16:16.720392+00:00"
+  "385c07d21c77b94f": "2026-11-22T09:16:16.720392+00:00",
+  "29a21f981c916555": "2026-11-22T09:31:34.560677+00:00",
+  "68660da08bc5c75f": "2026-11-22T09:31:35.610508+00:00",
+  "ee23e5944d480eba": "2026-11-22T09:31:38.672075+00:00",
+  "4d982d7d243501c2": "2026-11-22T09:47:08.635066+00:00",
+  "1b8020936c7604f1": "2026-11-22T09:47:09.625226+00:00",
+  "d5578558ecf43c61": "2026-11-22T09:47:12.234806+00:00"
  },
  "recent": [
   {
@@ -8452,6 +8464,54 @@
    "status": "skipped",
    "ts": "2026-11-22T09:16:16.720537+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GTA 6 заработала $3,79 млрд за сутки и установила рекорд",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-22T09:31:34.560740+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "You can play GTA 6 on a PlayStation Portal, but there is one important catch",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T09:31:35.610659+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Создатели GTA 6 хотят максимально погрузить игроков в персонажей",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T09:31:38.672234+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "CyberLeek снизила порог капитализации токена для публикации EXE-файла GTA 6 с $15 млн до $6 млн, но он все равно остается на $1,44 млн",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T09:47:08.635224+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Gamesblender № 803: релиз GTA 6, (не)возможное возвращение Хуанга и победа Sony над игроками в суде",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T09:47:09.625626+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "'GTA 6' crimes? How about chores: Gamers are getting wrapped up in all the mundane tasks you can do in 'Grand Theft Auto VI'",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T09:47:12.234960+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -8659,35 +8719,6 @@
     "model": "groq:openai/gpt-oss-120b → gemini:gemini-3.5-flash"
    },
    "queued_at": "2026-11-22T01:07:10.569581+00:00"
-  },
-  {
-   "item": {
-    "title": "Best Secret Gear Spot in GTA 6 Early Game—Insane Rifle, Grenade Launcher, and More",
-    "link": "https://insider-gaming.com/best-secret-loot-location-early-game-gta-6/",
-    "summary": "There's a secret spot in GTA 6 that you can access early to get insane weapons, armor, and valuable items. The post Best Secret Gear Spot in GTA 6 Early Game—Insane Rifle, Grenade Launcher, and More appeared first on Insider Gaming .",
-    "published": "2026-11-21T21:02:21+00:00",
-    "source": "Insider Gaming",
-    "site_name": "Insider Gaming",
-    "trust": "medium",
-    "text": "Grand Theft Auto 6 has a huge repository of weapons, items, and other equipment for players to take advantage of. There are more than 100 variant weapons to find, scattered all over Leonida. It stands to reason that you’ll spend a lot of time searching for the map’s most intricate secrets and, naturally, the means to find the hidden weapons.\nIn this guide, I’m going to help you figure out where arguably the best early-game location is for free, unchallenged loot in the form of an incredible assault rifle, an armored vest, stacks of goodies, and a freaking grenade launcher. What’s more important here is that you don’t need to fight anyone to find it all.\nRELATED: Best Early Game Locations for Easy Cash in GTA 6\nThere are a few decent spots you can hit up very early in your GTA 6 journey to score some drugs and cash, but this hidden spot is all about the equipment. You’ll be heading to Vice-Dale County for this hidden location, and into an apartment complex in Tequesta, right opposite the Vice Seven Condominiums Gym.\nAnd here’s the exact storage unit you need:\nOnce you’ve opened it (it’s not even locked!), simply walk through, picking up all the loot within. You’ll find food, beverages, Zombix, adrenaline shots, a medical kit, and much more. Behind a wall of toilet paper sits the real prize, though:\nCockroach XTREME 556 Rifle (w/ optic, suppressor, and extended magazine)\nAnd in a safe with the Kolinga, you’ll find a baseball card worth $3,000 and some cash to boot. It really is one of the best early-game locations you can find in Grand Theft Auto 6.\nIf you need to know anything else about Grand Theft Auto 6, make sure you stop by our full guides hub. It contains everything you could need to learn about the most important game release of all time!\nAlso, you can buy Grand Theft Auto 6 here if you haven’t already!\nLet us know if you’re enjoying GTA 6 on the Insider Gaming Discord server.\nFor more Insider Gaming coverage, check out all the cheat codes for GTA 6, and don’t forget to sign up for our free weekly newsletter\nGrant has been gaming for 30+ years and in the industry for 10+. You'll probably find him playing a post-apocalyptic game or an extraction shooter somewhere.\nWhere to Find The Pegassi Toros in GTA 6—Randy’s Wishlist Car Locations\nWhen Do You Leave The Motel in GTA 6? Chapter Three Apartment, Explained\nCan You Repeat Robberies in GTA 6? Make More Money, Fast\nWhere to Find The Grotti Itali RSX Supercar in GTA 6—Randy’s Wishlist Car Locations",
-    "extra": {
-     "image": "https://insider-gaming.com/wp-content/uploads/2026/11/7d5b3f9a-99fa-4016-9c58-8201ec0dab4e-1024x576.png"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "🗺 Гайд: ИМБА-лут на старте\n\nХочешь нагибать с первых часов? Го в Вайс-Дейл, район Текеста. Напротив спортзала Vice Seven Condominiums найдешь открытый склад.\n\nЗаходи внутрь и лутай всё подряд. За стеной из туалетной бумаги спрятана винтовка Cockroach XTREME 556 с обвесами и сейф с кэшем. Забирай, пока не пофиксили, это лютая пушка для старта катки!\n\n❤️ — Уже бегу лутать\n👎 — Мне и с пистолетом норм",
-    "card_title": "ТОП ЛУТ В НАЧАЛЕ ИГРЫ",
-    "reason": "Гайд по поиску топового снаряжения на старте игры, очень полезно для игроков.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": true,
-    "model": "gemini:gemini-3.1-flash-lite"
-   },
-   "queued_at": "2026-11-21T21:17:35.752268+00:00"
   },
   {
    "item": {
@@ -8949,35 +8980,6 @@
     "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-3.5-flash"
    },
    "queued_at": "2026-11-22T03:27:51.881887+00:00"
-  },
-  {
-   "item": {
-    "title": "GTA 6 Dunk Robbery Guide: Lost Vista Pills and Scattered Pines Crystal",
-    "link": "https://www.gtaboom.com/gta-6-dunk-robbery-guide-ce47",
-    "summary": "Finish Slam Dunk to get Dunk's two robbery tips, then find the pills at Lost Vista and the crystal at Scattered Pines.",
-    "published": "2026-11-21T21:26:48+00:00",
-    "source": "GTA BOOM",
-    "site_name": "GTA BOOM",
-    "trust": "medium",
-    "text": "Dunk's robbery tips in GTA 6 mark two trailer parks, but they don't tell you which trailer to search. Both stashes are inside, and you can avoid most of the guards by coming around the back. We cleared Lost Vista without taking down a guard. At Scattered Pines, the back route put us behind the guard at the white trailer.\nFinish Slam Dunk, then check Dunk's messages or look under Dunk's Robbery Tips on the map. Lost Vista is the pill job; Scattered Pines is the crystal job. Dunk's Trailer is the buyer marker, not a third stash. The two jobs below are separate from the car wash confrontation in Girls' Trip.\nLost Vista: Find the pills in the green-and-white trailer\nSet a waypoint on Lost Vista. Go around the main entrance and approach from the muddy ground behind the trailers. Use the green trailer as your landmark, then crouch around it toward the green-and-white trailer beside it. Stay close to the trailers so you don't have to cross the main lane in front of the group.\nGo inside the green-and-white trailer. Pick up two bags of pills from the table in the front room, then go through to the bedroom for the other two. When the objective changes to Leave the area, double back out the way you came in. We got the Non-Lethal result by leaving without engaging the guards.\nScattered Pines: Check the broken fridge and the back room\nSelect Scattered Pines on the map, south of Lost Vista. The target is the white trailer in the corner of the court. Instead of walking through the middle past the guards, go around the outside and climb the stacked wooden pallets next to the blue fence. Drop down behind the trailer by the lit steps.\nWatch the guard at the back before you climb the steps. In our run, we approached him from behind while crouched and used the takedown prompt. Bring a suppressed weapon if you have one. If the second guard comes out of the trailer, deal with him at the back steps rather than trading shots across the court.\nCheck the broken fridge in the front part of the trailer for crystal. Then go through to the last room, where more bags sit by the old TV and on the side table by the sofa. You can ignore the wallet. Once the objective says Leave the area, return over the fence and keep going until you're outside the search area.\nLeaving the search area finishes the job. You don't have to go straight to Dunk after each robbery. If you want to cash out, head to Dunk's Trailer and check his offer before selling.\nGTA 6 Moses Vehicle Theft Guide: All Five Cars a",
-    "extra": {
-     "image": "https://media.gtaboom.com/variants/1920/media/images/88/0d/dunk-lost-vista-approach-df2c06d461309741.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 6,
-    "post": "🗺 Гайд: Ограбления у Данка\n\nЗастрял на миссиях с таблетками и кристаллами? Лови лайфхак: в Lost Vista и Scattered Pines можно залутать всё по стелсу.\n\n1. Lost Vista: обходи трейлеры с тыла по грязи. В зелено-белом трейлере ищи таблетки на столе и в спальне. Уйти можно тихо, не агря охрану.\n2. Scattered Pines: лезь через забор по паллетам. Кристаллы лежат в сломанном холодильнике и дальней комнате. \n\nВсё, ты имба. Го лутать кэш! ❤️ — Полезно, затестим! 👎 — Слишком душно.",
-    "card_title": "ГАЙД: ОГРАБЛЕНИЯ У ДАНКА",
-    "reason": "Гайд по прохождению миссий с ограблениями в GTA 6.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": true,
-    "model": "gemini:gemini-3.1-flash-lite"
-   },
-   "queued_at": "2026-11-21T21:33:56.304388+00:00"
   },
   {
    "item": {
