@@ -1864,7 +1864,13 @@
   "4d14f38648d62a8b": "2026-11-22T03:58:48.714150+00:00",
   "2da770184ac130fc": "2026-11-22T04:14:09.204223+00:00",
   "4f0fdaf195e782fa": "2026-11-22T04:14:10.712240+00:00",
-  "73c10a74dd511e8f": "2026-11-22T04:14:11.762217+00:00"
+  "73c10a74dd511e8f": "2026-11-22T04:14:11.762217+00:00",
+  "32392521c27d703a": "2026-11-22T04:29:31.668434+00:00",
+  "b7993ac8513c6c07": "2026-11-22T04:29:33.243226+00:00",
+  "e6a943a5b328bf94": "2026-11-22T04:29:34.577333+00:00",
+  "76272a73bb8386cf": "2026-11-22T04:44:54.553803+00:00",
+  "680404aad5ffbe9f": "2026-11-22T04:44:55.833267+00:00",
+  "40ccb0d64f5afdd1": "2026-11-22T04:44:58.066766+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -3125,7 +3131,13 @@
   "2632cb7848723fe4": "2026-11-22T03:58:48.714150+00:00",
   "d85880b3d107ae89": "2026-11-22T04:14:09.204223+00:00",
   "964004c388c1140b": "2026-11-22T04:14:10.712240+00:00",
-  "58c0c90eb9b16b1d": "2026-11-22T04:14:11.762217+00:00"
+  "58c0c90eb9b16b1d": "2026-11-22T04:14:11.762217+00:00",
+  "eb1a3e018dc8aad8": "2026-11-22T04:29:31.668434+00:00",
+  "a2e89a01be285e95": "2026-11-22T04:29:33.243226+00:00",
+  "98f045a24e6de70c": "2026-11-22T04:29:34.577333+00:00",
+  "8b7625daa253d124": "2026-11-22T04:44:54.553803+00:00",
+  "9fc5638c369e7ec9": "2026-11-22T04:44:55.833267+00:00",
+  "3778000d75e54400": "2026-11-22T04:44:58.066766+00:00"
  },
  "recent": [
   {
@@ -8254,6 +8266,54 @@
    "trust": "rumor",
    "status": "skipped",
    "ts": "2026-11-22T04:14:11.762407+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Miami celebrates the GTA 6 soundtrack with a star-studded party",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-22T04:29:31.668509+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Miami turns up for GTA 6 soundtrack party",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T04:29:33.243376+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI Cutscene with Sexyy Red and Denzel Curry Steals th...",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T04:29:34.577503+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Digital Foundry: GTA 6 демонстрирует наилучшую производительность на PS5 Pro",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T04:44:54.553945+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "IShowSpeed Will Be Live-Playing 'GTA VI' Before Its U.S. Release",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T04:44:55.833393+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 voice actor: Game’s realism resonates with players | NewsNation Prime",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T04:44:58.066889+00:00",
    "card_title": ""
   }
  ],
