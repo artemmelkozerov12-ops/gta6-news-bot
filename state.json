@@ -2387,7 +2387,22 @@
   "8b4a6f5519feaf7e": "2026-11-22T21:23:49.778043+00:00",
   "1a9d49a3ea165345": "2026-11-22T21:24:05.541120+00:00",
   "2b754ea920313091": "2026-11-22T21:24:28.018344+00:00",
-  "3bed7d803ed85aab": "2026-11-22T21:24:49.649495+00:00"
+  "3bed7d803ed85aab": "2026-11-22T21:24:49.649495+00:00",
+  "26726721c17b8e10": "2026-11-22T21:39:06.665809+00:00",
+  "18618f82385a92a8": "2026-11-22T21:39:07.432105+00:00",
+  "2e47e3ded98621e5": "2026-11-22T21:39:08.216530+00:00",
+  "127de1fd29f034c5": "2026-11-22T21:39:09.123404+00:00",
+  "45345a93b295e9ea": "2026-11-22T21:40:18.640269+00:00",
+  "e911eb9b3ea1f9f1": "2026-11-22T21:40:22.078714+00:00",
+  "7eb05987b78a5809": "2026-11-22T21:40:22.993147+00:00",
+  "1e7528902f3d6fa1": "2026-11-22T21:40:23.843582+00:00",
+  "e5f6fe8cc8bb9c33": "2026-11-22T21:40:24.617198+00:00",
+  "c0ae90d6898c5d64": "2026-11-22T21:41:36.908816+00:00",
+  "9d15a110f70a05a6": "2026-11-22T21:41:40.945337+00:00",
+  "311349bf17b12fe3": "2026-11-22T21:41:44.322261+00:00",
+  "f70808fa35bf1256": "2026-11-22T21:41:49.634964+00:00",
+  "d3a29df5242555ec": "2026-11-22T21:42:43.624533+00:00",
+  "8b836732426d8f61": "2026-11-22T21:42:48.370800+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -4010,7 +4025,8 @@
   "01a8c4e6a7e3dad9": "2026-11-22T21:23:49.778043+00:00",
   "d0ee8075b1484bb2": "2026-11-22T21:24:05.541120+00:00",
   "1da147aaf07e49ee": "2026-11-22T21:24:28.018344+00:00",
-  "fd026e7fd4808868": "2026-11-22T21:24:49.649495+00:00"
+  "fd026e7fd4808868": "2026-11-22T21:24:49.649495+00:00",
+  "1ba8a7a41c1657b5": "2026-11-22T21:40:18.640269+00:00"
  },
  "recent": [
   {
@@ -10820,6 +10836,14 @@
    "status": "skipped",
    "ts": "2026-11-22T21:24:49.649639+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GTA 6: Randy's Wish List Vehicle Locations (WIP)",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T21:40:18.640439+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -11487,6 +11511,36 @@
    "file_id": "BAACAgIAAxkDAANcawNSMMEHqPDwWq5cKeI34cF-oG4AAjS1AAKnJxlIRFW2KvyqK2w9BA",
    "moderation": "pending",
    "draft_msg_id": 92
+  },
+  {
+   "clip": {
+    "source": "twitch",
+    "url": "https://www.twitch.tv/donacs/clip/FilthySarcasticTigerBlargNaut-Iy7uwIYAFy9N0uyO",
+    "title": "o7 lucia",
+    "author": "donaCS",
+    "views": 420,
+    "duration": 36.1,
+    "created": "2026-11-22T15:33:15+00:00",
+    "lang": "en",
+    "description": "",
+    "vod_id": "2937221358",
+    "vod_offset": 12329.0
+   },
+   "caption": "Стримерша случайно застрелила Лусию прямо после миссии — ласт её ошибка, просто ору с этой реакции 💀",
+   "interest": 8,
+   "spoiler": false,
+   "nsfw": false,
+   "watched": true,
+   "model": "gemini:gemini-3.5-flash-lite",
+   "media": {
+    "width": null,
+    "height": 720,
+    "duration": 36
+   },
+   "queued_at": "2026-11-22T21:42:52.550697+00:00",
+   "file_id": "BAACAgIAAxkDAANeawNh3QMNRKqG4ekzMCVn4Y-S0LUAAsi1AAKnJxlIBrNb2SX0wGE9BA",
+   "moderation": "pending",
+   "draft_msg_id": 94
   }
  ],
  "clip_drafts": [
@@ -11507,7 +11561,8 @@
   "2026-11-22T12:57:11.614114+00:00",
   "2026-11-22T18:27:42.489518+00:00",
   "2026-11-22T19:32:31.903053+00:00",
-  "2026-11-22T20:36:00.471956+00:00"
+  "2026-11-22T20:36:00.471956+00:00",
+  "2026-11-22T21:42:54.050709+00:00"
  ],
  "clip_history": [
   {
@@ -16526,6 +16581,135 @@
    "ts": "2026-11-22T20:36:00.471975+00:00",
    "frames": [],
    "caption": "Чел просто выкинул друга из тачки посреди поездки, а тот побежал за ним с криками 💀 Ору с этой физики"
+  },
+  {
+   "author": "youtube:carterpcs",
+   "vod": "",
+   "offset": -1,
+   "title": "Does GTA 6 REALLY “play best on PS5..”",
+   "drafted": false,
+   "ts": "2026-11-22T21:39:06.665860+00:00"
+  },
+  {
+   "author": "youtube:marcade",
+   "vod": "",
+   "offset": -1,
+   "title": "NPC PALING BERBAHAYA DI GTA 6 #shorts",
+   "drafted": false,
+   "ts": "2026-11-22T21:39:07.432159+00:00"
+  },
+  {
+   "author": "youtube:luthfi halimawan",
+   "vod": "",
+   "offset": -1,
+   "title": "PINDAHAN MENUJU KOTA! - GTA VI #5",
+   "drafted": false,
+   "ts": "2026-11-22T21:39:08.216565+00:00"
+  },
+  {
+   "author": "youtube:standart skill",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 wir bereiten das FINALE vor!",
+   "drafted": false,
+   "ts": "2026-11-22T21:39:09.123442+00:00"
+  },
+  {
+   "author": "youtube:leonides - مروان ريحان",
+   "vod": "",
+   "offset": -1,
+   "title": "بث مباشر🔴 اخيرا هنسرق اكبر بنك في GTA 6 مترجم عربي!!🔥(الجزء الخامس)",
+   "drafted": false,
+   "ts": "2026-11-22T21:40:22.078760+00:00"
+  },
+  {
+   "author": "youtube:caspahz",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6: Make $500,000 Per Hour (Fastest Money Method at Any Chapter)",
+   "drafted": false,
+   "ts": "2026-11-22T21:40:22.993197+00:00"
+  },
+  {
+   "author": "youtube:music media",
+   "vod": "",
+   "offset": -1,
+   "title": "😮🎮 this is why GTA 6 took 13 years",
+   "drafted": false,
+   "ts": "2026-11-22T21:40:23.843617+00:00"
+  },
+  {
+   "author": "twitch:baupenner",
+   "vod": "2936265524",
+   "offset": 7350.0,
+   "title": "Halber Tank ???",
+   "drafted": false,
+   "ts": "2026-11-22T21:40:24.617247+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:adm1tr1pow",
+   "vod": "2937397951",
+   "offset": 13359.0,
+   "title": "ПОЛНЫЙ ГАЗ В СТОЛБ",
+   "drafted": false,
+   "ts": "2026-11-22T21:41:36.908857+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:ohnepixel",
+   "vod": "2937242599",
+   "offset": 18047.0,
+   "title": "Ohne planet naming",
+   "drafted": false,
+   "ts": "2026-11-22T21:41:40.945383+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:auronplay",
+   "vod": "2937333836",
+   "offset": 5364.0,
+   "title": "yeu",
+   "drafted": false,
+   "ts": "2026-11-22T21:41:44.322308+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:kaicenat",
+   "vod": "2936683310",
+   "offset": 6588.0,
+   "title": "Chat explodes | Grand Theft Auto VI | clipped with twitch-tools.panda-core.net",
+   "drafted": false,
+   "ts": "2026-11-22T21:41:49.635019+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:lru_rose",
+   "vod": "2937368267",
+   "offset": 2399.0,
+   "title": "это его первое ограбление",
+   "drafted": false,
+   "ts": "2026-11-22T21:42:43.624581+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:donacs",
+   "vod": "2937221358",
+   "offset": 12329.0,
+   "title": "o7 lucia",
+   "drafted": false,
+   "ts": "2026-11-22T21:42:48.370850+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:donacs",
+   "vod": "2937221358",
+   "offset": 12329.0,
+   "title": "o7 lucia",
+   "drafted": true,
+   "ts": "2026-11-22T21:42:54.050728+00:00",
+   "frames": [],
+   "caption": "Стримерша случайно застрелила Лусию прямо после миссии — ласт её ошибка, просто ору с этой реакции 💀"
   }
  ],
  "published": [
