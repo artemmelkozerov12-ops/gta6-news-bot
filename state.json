@@ -2413,7 +2413,17 @@
   "200bdba9c2bc4839": "2026-11-22T22:16:23.756506+00:00",
   "c70ba43f20cb7632": "2026-11-22T22:16:24.946352+00:00",
   "34a8ea80062d3cf0": "2026-11-22T22:31:39.135926+00:00",
-  "c2da76fdbbc2efc6": "2026-11-22T22:31:39.137404+00:00"
+  "c2da76fdbbc2efc6": "2026-11-22T22:31:39.137404+00:00",
+  "d10d402aa0e8a36f": "2026-11-22T22:47:02.323768+00:00",
+  "5b2fcd15395eb4be": "2026-11-22T22:47:03.342323+00:00",
+  "b169610227331687": "2026-11-22T22:47:06.280069+00:00",
+  "956c8ff8101fccd3": "2026-11-22T22:47:07.567323+00:00",
+  "dab2a863c1f1c654": "2026-11-22T23:02:23.038691+00:00",
+  "d64cf911ea9c4de1": "2026-11-22T23:02:23.116034+00:00",
+  "6ce8b9997096a501": "2026-11-22T23:02:26.461673+00:00",
+  "2efe9efe98670601": "2026-11-22T23:02:38.349013+00:00",
+  "0ba1d84f382420b8": "2026-11-22T23:02:39.782263+00:00",
+  "03e4d26dc8b5c8a3": "2026-11-22T23:02:41.039303+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -4047,7 +4057,17 @@
   "3119a198ce8e2c63": "2026-11-22T22:16:23.756506+00:00",
   "feba1fde75fa1361": "2026-11-22T22:16:24.946352+00:00",
   "937e6828c7571672": "2026-11-22T22:31:39.135926+00:00",
-  "1b634ae9c39c738a": "2026-11-22T22:31:39.137404+00:00"
+  "1b634ae9c39c738a": "2026-11-22T22:31:39.137404+00:00",
+  "35f3526599a4a860": "2026-11-22T22:47:02.323768+00:00",
+  "1c4aa7de132c3485": "2026-11-22T22:47:03.342323+00:00",
+  "7e226087c72636d9": "2026-11-22T22:47:06.280069+00:00",
+  "951eabd9cdf40ead": "2026-11-22T22:47:07.567323+00:00",
+  "f6a311ed1f8e535b": "2026-11-22T23:02:23.038691+00:00",
+  "3a052c4a6ff75d24": "2026-11-22T23:02:23.116034+00:00",
+  "506e2a35a029da19": "2026-11-22T23:02:26.461673+00:00",
+  "946cdb82233103c1": "2026-11-22T23:02:38.349013+00:00",
+  "e534840744ff6e7e": "2026-11-22T23:02:39.782263+00:00",
+  "1a524d4f85cc8125": "2026-11-22T23:02:41.039303+00:00"
  },
  "recent": [
   {
@@ -10561,6 +10581,86 @@
    "status": "dup",
    "ts": "2026-11-22T22:31:39.137422+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GTA VI players when something needs fixing at Mandy’s house Writer: Samuel",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T22:47:02.323903+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6: 5 Most Questionable Decisions Lucia Made That Fans Cannot Ignore, Ranked",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T22:47:03.342462+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 drew a mammoth 61% of active U.S. PS5 players on launch day, averaging more than eight hours per player",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T22:47:06.280213+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 shatters records with $3.79 billion in day-one sales, dwarfing early forecasts",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T22:47:07.567459+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Mami Knows Best mission walkthrough",
+   "source": "VGC",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-22T23:02:23.038718+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Godfather Of Cyberpunk Also Hooked On Watching GTA 6 Clips",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-22T23:02:23.116099+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Current-gen console users have delivered a record-breaking launch for GTA VI.",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T23:02:26.461801+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Is Daft Punk in GTA 6? The Producer Behind Travis Scott’s RHYNO",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T23:02:38.349139+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Who Plays Brian Heder In GTA 6?",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T23:02:39.782380+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 has appeared on Steam, but it's not the PC port fans are waiting for",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T23:02:41.039436+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -10978,37 +11078,6 @@
   },
   {
    "item": {
-    "title": "GTA VI’s Jet Ski Dog: EXCLUSIVE Interview With Real-Life Inspiration Owner",
-    "link": "https://rockstarintel.com/gta-vis-jet-ski-dog-exclusive-interview-with-real-life-inspiration-owner/",
-    "summary": "As expected, GTA VI features lots of events and NPCs inspired by ones in real life based out of Florida. Perhaps the most viral NPC interaction from the game so far involves a dog that rides a jet ski and saves you out in the ocean. “Cool Dog” is actually based on a real life [...] The post GTA VI’s Jet Ski Dog: EXCLUSIVE Interview With Real-Life Inspiration Owner appeared first on RockstarINTEL .",
-    "published": "2026-11-22T10:29:42+00:00",
-    "source": "Rockstar Intel",
-    "site_name": "Rockstar Intel",
-    "trust": "medium",
-    "text": "As expected, GTA VI features lots of events and NPCs inspired by ones in real life based out of Florida. Perhaps the most viral NPC interaction from the game so far involves a dog that rides a jet ski and saves you out in the ocean.\n“Cool Dog” is actually based on a real life dog named Loosy who has ridden a jet ski in the Florida Keys. Her antics went viral in the past year meaning Rockstar added her fairly late into development. How does Loosy’s owner feel about it? RockstarINTEL got to exclusively interview her owner Eddie Inch and this is what he had to say on behalf of 7-year-old golden retriever Loosy.\nEI: At first I didn’t think too much of it. There’s a dog on a jet ski in the game, cool. But then when I realized how it was presented, and when people started making the connection to Loosy, it hit me. Loosy is the inspiration in GTA 6. That’s when it became something else entirely. Awesome doesn’t even cover it.\nEI: My phone hasn’t stopped since the game dropped. I’d get a clip, then another, then 10 more: people finding the Easter egg and immediately going, ‘Wait, is this dog real?’ And then they find Loosy and lose their minds. The comment sections are wild. She already had over 41 million views on ‘the dog is driving,’ Jimmy Kimmel mentioned it, and the Florida governor reposted it. But this is a whole new audience: millions of GTA players who had no idea she existed. It’s like she’s going viral all over again, but bigger.\nEI: I don’t have it yet, but yes. At some point I definitely want to play it and check out the dog in the game. How could I not? That’s Loosy in there as the inspiration.\nEI: Honestly, it’s surreal. GTA 6 is the biggest entertainment launch in history, bigger than any movie, any album, anything. And somewhere in there, Rockstar put my dog. In goggles. On a jet ski. Saving people. We just started out wanting to hang and do everything together. I couldn’t leave her behind, so I brought her everywhere with me. I never imagined that would end up in the biggest game ever made. That’s Loosy though. She makes everything better just by showing up.\nEI: It started way before the jet ski. I never wanted to leave her behind, so I just brought her everywhere. She rode in a motorcycle sidecar, she was in my backpack when I used to skateboard, then on my hoverboard. She’s always just been my co-pilot.\nIt actually goes all the way back to 2019. We were at Mallory Square in Key West and she was already riding with me. But eventually she got too",
-    "extra": {
-     "image": "https://rockstarintel.com/wp-content/uploads/2026/11/side_by_side_02-1024x1024.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "🐕 Пес на гидроцикле из GTA 6 существует в реале!\n\nГлавная вирусная имба игры — спасатель-золотистый ретривер на гидроцикле — срисован с реально существующей собаки по кличке Луси из Флориды. Её хозяин Эдди в шоке: телефон разрывается от тиктоков, а гигачад-пёс в очках теперь спасает геймеров по всему миру.\n\nЗатолкать реального пса-экстремала в игру — это максимальный респект разработчикам.",
-    "card_title": "ПЕС НА ГИДРОЦИКЛЕ В GTA 6",
-    "reason": "Интервью с реальным хозяином знаменитой собаки на гидроцикле из GTA 6",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-3.5-flash"
-   },
-   "queued_at": "2026-11-22T10:35:54.659126+00:00",
-   "moderation": "pending",
-   "draft_msg_id": 78
-  },
-  {
-   "item": {
     "title": "iShowSpeed Rushed GTA 6 and Got a Bad Ending",
     "link": "https://www.gtaboom.com/ishowspeed-rushed-gta-6-and-got-a-bad-ending-cb52",
     "summary": "Changing your ending in Grand Theft Auto VI means loading an earlier save, and iShowSpeed accidentally overwrote his 98% save trying to do just that.",
@@ -11064,35 +11133,6 @@
     "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-3.7-flash"
    },
    "queued_at": "2026-11-22T19:46:05.161338+00:00"
-  },
-  {
-   "item": {
-    "title": "How to Find the Vercetti Estate in GTA 6",
-    "link": "https://www.gtaboom.com/how-to-find-the-vercetti-estate-in-gta-6-a2d6",
-    "summary": "In Grand Theft Auto VI, cross the bridge to Starfish Island to walk Tommy Vercetti’s old mansion grounds and see its familiar courtyard fountain.",
-    "published": "2026-11-22T10:42:09+00:00",
-    "source": "GTA BOOM",
-    "site_name": "GTA BOOM",
-    "trust": "medium",
-    "text": "If you played Grand Theft Auto: Vice City, the first place you will want to visit in Grand Theft Auto VI is Tommy Vercetti's old mansion. We headed straight for it at launch.\nThe Vercetti Estate is back on Starfish Island, complete with the unmistakable white columns and fountain. Rockstar Games has quietly confirmed the name itself in the GTA VI Ultimate Edition, where the Hawk and Little Morgan revolvers are described as sourced from the Vercetti Estate.\nTo go there, open your map and make for Starfish Island, the gated cluster of mansions in the bay between mainland Vice City and Ocean Beach. Cross the bridge, roll past the guard house and go through the big iron gate. The Vercetti Estate is the large cream-colored place on the water, the one with the aforementioned columns out front and a fountain in the courtyard. You cannot miss it.\nWalk the grounds and you get the full Vice City fantasy, the front steps and courtyard fountain, a backyard pool that looks out over the skyline and a jet ski parked down by the garage.\nThe detail we loved most sits in the driveway though, a leopard-print supercar called the Big Cat Furia, a wink at the gaudy excess the original mansion was built on. Take it for a spin while you are there.\nWhat to find at the Vercetti Estate in GTA 6\nEverything we found walking the Vercetti Estate grounds, with the interior sealed off.\nA word on what you can and cannot do. You can explore the grounds freely early on, no wanted level just for being there, but the front of the place is locked and there's no way to open them at the moment. The interior is modeled, though so you can at least peer in through the windows, you just can't walk inside. It is not a safehouse you can claim and not a property you can buy. Push too far too early or show up during a restricted story moment and you may hit barricades or a wanted response, so go when the map is open to you.\nDo not expect to bump into Tommy himself either. GTA 6 sits in a separate timeline from the 2002 game, so the estate is a nod rather than a continuation. Rockstar has named no current owner. Who lives there now is a blank the game leaves open on purpose. Treat it as the love letter to older Grand Theft Auto fans that it is.\nThe Vercetti Estate is one of several Vice City deep cuts we have mapped since launch. If you are hunting references, our guide to finding Dexter's apartment is the other must-see. The Starfish Island mansion garage is worth a look while you are in the neighborhood",
-    "extra": {
-     "image": "https://media.gtaboom.com/variants/1920/media/images/ff/41/how-to-find-the-vercetti-estate-in-gta-6-1.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 6,
-    "post": "🗺 Гайд: Как найти особняк Версетти в GTA 6\n\nЕдем на Starfish Island — остров с виллами между материком и Ocean Beach. Заезжаем через главные ворота и ищем кремовый дом с колоннами и фонтаном.\n\nДвери заперты, но во дворе завезли легендарный вайб и суперкар Big Cat Furia в леопардовом принте. Берите тачку на тест-драйв, чисто вспомнить былые времена!",
-    "card_title": "ОСОБНЯК ВЕРСЕТТИ В GTA 6",
-    "reason": "Подтверждено Rockstar, полезный гайд по локации, высокий интерес",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": true,
-    "model": "groq:openai/gpt-oss-120b → gemini:gemini-3.5-flash"
-   },
-   "queued_at": "2026-11-22T10:50:57.817637+00:00"
   },
   {
    "item": {
