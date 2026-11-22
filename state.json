@@ -2218,7 +2218,23 @@
   "2990a76a69e0ae4e": "2026-11-22T17:14:00.996731+00:00",
   "efb9c92e0a1b0d52": "2026-11-22T17:14:02.116150+00:00",
   "fe19af1454735b3c": "2026-11-22T17:14:03.318341+00:00",
-  "038bde33905003dc": "2026-11-22T17:14:04.485585+00:00"
+  "038bde33905003dc": "2026-11-22T17:14:04.485585+00:00",
+  "8249e5ffcfb07737": "2026-11-22T17:29:21.842072+00:00",
+  "00346a0e9522bb15": "2026-11-22T17:29:21.852007+00:00",
+  "abce6a39e07d1c5f": "2026-11-22T17:29:21.852516+00:00",
+  "ddd0d4b3b2e8fc1d": "2026-11-22T17:29:28.527590+00:00",
+  "8c7352e8f833ce2a": "2026-11-22T17:29:29.940863+00:00",
+  "c4f412da1ecefa70": "2026-11-22T17:29:35.693075+00:00",
+  "7842e0e03ada163c": "2026-11-22T17:29:36.692671+00:00",
+  "7a672cf30e3465ac": "2026-11-22T17:29:37.775310+00:00",
+  "42d59b5237918de6": "2026-11-22T17:44:57.144896+00:00",
+  "9f8b82d7478b8261": "2026-11-22T17:44:58.446268+00:00",
+  "62d49f42719093e5": "2026-11-22T17:44:59.880342+00:00",
+  "b9aa0b1bc2319ae1": "2026-11-22T17:45:01.158106+00:00",
+  "92661d50a71c97ce": "2026-11-22T17:45:01.945954+00:00",
+  "bf2dc1d29912e77c": "2026-11-22T17:45:02.786493+00:00",
+  "0298a91449040a11": "2026-11-22T17:45:03.810283+00:00",
+  "a4b50e428fe96c54": "2026-11-22T17:45:05.085532+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -3725,7 +3741,23 @@
   "f13c18e5eae2cc44": "2026-11-22T17:14:00.996731+00:00",
   "df7d196d5e529827": "2026-11-22T17:14:02.116150+00:00",
   "bb478c95b88a73d4": "2026-11-22T17:14:03.318341+00:00",
-  "35ca8394a1bf572e": "2026-11-22T17:14:04.485585+00:00"
+  "35ca8394a1bf572e": "2026-11-22T17:14:04.485585+00:00",
+  "6478245158df9a0a": "2026-11-22T17:29:21.842072+00:00",
+  "0181e9b635191af0": "2026-11-22T17:29:21.852007+00:00",
+  "5ef47359067d76c7": "2026-11-22T17:29:21.852516+00:00",
+  "eb372cb409a50011": "2026-11-22T17:29:28.527590+00:00",
+  "e94c40befd54eb1f": "2026-11-22T17:29:29.940863+00:00",
+  "7e5c174cf3622547": "2026-11-22T17:29:35.693075+00:00",
+  "2c3b2944d71e2a7b": "2026-11-22T17:29:36.692671+00:00",
+  "3a0e79e574929105": "2026-11-22T17:29:37.775310+00:00",
+  "fee79acc8b5ff1fa": "2026-11-22T17:44:57.144896+00:00",
+  "cbda53e6414c43bd": "2026-11-22T17:44:58.446268+00:00",
+  "ffeb4aaebce8361d": "2026-11-22T17:44:59.880342+00:00",
+  "a52bbb7ebf51383f": "2026-11-22T17:45:01.158106+00:00",
+  "de04cd83b9ff215c": "2026-11-22T17:45:01.945954+00:00",
+  "d1ea97995722f876": "2026-11-22T17:45:02.786493+00:00",
+  "7030b9f7b5c7ccc5": "2026-11-22T17:45:03.810283+00:00",
+  "4868406161884f87": "2026-11-22T17:45:05.085532+00:00"
  },
  "recent": [
   {
@@ -9615,6 +9647,134 @@
    "status": "skipped",
    "ts": "2026-11-22T17:14:04.485747+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GTA 6 Mamba GT Locations: How to restore the third car in Wyman's Car Collection",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-22T17:29:21.842109+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Where to Find the Gallivanter Baller ST-D Car in GTA 6—Randy’s Wishlist Car Locations",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "dup",
+   "ts": "2026-11-22T17:29:21.852049+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 already has an infinite money glitch, but many players are skipping it",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-22T17:29:21.852565+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6: Here’s Everything You Can Miss",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T17:29:28.527752+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 vs GTA Vice City: Which Classic Radio Stations Returned?",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T17:29:29.941011+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Rockstar Next Game After GTA 6: L.A. Noire 2 Leak",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T17:29:35.693244+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Your Child Wants to Play GTA 6? Here’s What Psychologists Say Parents Should Do",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T17:29:36.692793+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Игроки GTA 6 предпочитают Джейсона первой героине-женщине Лусии",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T17:29:37.775441+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Как запустить GTA 6 в 60 FPS на Xbox Series X",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-22T17:44:57.144932+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Avery Pawn Robbery Walkthrough: Safe Code and Escape Route",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-22T17:44:58.446409+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Forget the Lighthouse, GTA 6’s Best Minigame Is a Full-Blown Zombie Shooter That Will Take You Hours To Beat",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T17:44:59.880500+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "The Biggest Entertainment Launch Ever, 'GTA 6' Hides a Secret Tom Cruise Thriller Mission",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T17:45:01.158251+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to run GTA 6 at 60 FPS on Xbox Series X",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T17:45:01.946085+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Oh No, I Can’t Stop Watching People Play ‘GTA VI’",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T17:45:02.786635+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Владелец проката призвал вернуть приставки с GTA 6 из-за «разврата»",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T17:45:03.810451+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Players have discovered a way to get infinite money at the start of GTA VI.",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "queued",
+   "ts": "2026-11-22T17:45:36.124839+00:00",
+   "card_title": "БЕСКОНЕЧНЫЕ ДЕНЬГИ НА СТАРТЕ"
   }
  ],
  "queue": [
@@ -10058,6 +10218,33 @@
     "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
    },
    "queued_at": "2026-11-22T13:58:58.971321+00:00"
+  },
+  {
+   "item": {
+    "title": "Players have discovered a way to get infinite money at the start of GTA VI.",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZ3p1YkRXek1mMmthTVE3NmxveWpmNkVqMGFtb05hdTRFdmZqbzlQU245ckpiSjhPYi1QRzh1WmlyM0o5ZnNqcHpaZ0E0LVN1TmdUQzdtazE3VkFUcnNVNWNPZlBLdXRPajM0VmltaUVXX25WZGJMbXRvQjhEbTZrX1hyakhVVkhjMDV2d05Mblc3c1ZXdlNYR2lnWVJaRjF3djdoQmh5TEtLN1lMVTZENzNB?oc=5",
+    "summary": "Players have discovered a way to get infinite money at the start of GTA VI. GameGPU",
+    "published": "2026-11-22T16:37:30+00:00",
+    "source": "Google News (EN)",
+    "site_name": "GameGPU",
+    "trust": "rumor",
+    "text": "Players have discovered a way to get infinite money at the start of GTA VI. GameGPU",
+    "extra": {}
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "💸 В GTA 6 нашли БЕСКОНЕЧНЫЕ деньги на старте\n\nИгроки уже откопали способ получать сколько угодно денег с самого начала игры. Лютая имба для старта, хоть после такого на жизнь точно жаловаться не придётся.\n\n❤️ — пользуемся\n👎 — играем честно",
+    "card_title": "БЕСКОНЕЧНЫЕ ДЕНЬГИ НА СТАРТЕ",
+    "reason": "Глитч на бесконечные деньги на старте игры — это лютая имба для игроков, баг в вышедшей игре.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "GTA 6 already has an infinite money glitch, but many players are skipping it",
+    "corroborated_by": "GTA 6 already has an infinite money glitch, but many players are skipping it",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-4-hydrogen"
+   },
+   "queued_at": "2026-11-22T17:45:36.124827+00:00"
   }
  ],
  "posts": [
