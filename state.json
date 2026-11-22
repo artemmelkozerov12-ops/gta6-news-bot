@@ -2054,7 +2054,36 @@
   "d07a9e0a3d993c3f": "2026-11-22T12:16:39.025174+00:00",
   "1a7a7b6cf6f8557d": "2026-11-22T12:17:00.518976+00:00",
   "61585c1e0d0ee85e": "2026-11-22T12:17:21.967968+00:00",
-  "61c00807ea34d7b9": "2026-11-22T12:17:45.145363+00:00"
+  "61c00807ea34d7b9": "2026-11-22T12:17:45.145363+00:00",
+  "67eacbbddc29b179": "2026-11-22T12:33:04.686320+00:00",
+  "7ccb2373e4344fa4": "2026-11-22T12:34:52.232267+00:00",
+  "90260ad0cb38b504": "2026-11-22T12:34:54.257590+00:00",
+  "1a7cdbda411c4edd": "2026-11-22T12:35:01.383434+00:00",
+  "fe02a25e95c8d2bc": "2026-11-22T12:35:07.096088+00:00",
+  "1e91b51ae7c539c8": "2026-11-22T12:35:08.280649+00:00",
+  "ec1ca5f28e307321": "2026-11-22T12:48:35.605359+00:00",
+  "2b1c02e582a8f044": "2026-11-22T12:48:36.511383+00:00",
+  "fcc8fa6e6084c329": "2026-11-22T12:48:37.538097+00:00",
+  "332c2620fb2715e8": "2026-11-22T12:48:38.358632+00:00",
+  "56724be4c1ca0ebd": "2026-11-22T12:49:29.242039+00:00",
+  "f2c4b781c16fe165": "2026-11-22T12:49:30.181384+00:00",
+  "d7b2b4568216f85e": "2026-11-22T12:49:31.028835+00:00",
+  "dd4b220987280ddc": "2026-11-22T12:49:31.859503+00:00",
+  "ef6b1a53501af609": "2026-11-22T12:51:46.095328+00:00",
+  "55a65472b3cab303": "2026-11-22T12:51:47.713416+00:00",
+  "89fa8b2179223eac": "2026-11-22T12:52:03.666849+00:00",
+  "ad1ca835d824d0cd": "2026-11-22T12:52:05.798522+00:00",
+  "fd7d04228addaf8a": "2026-11-22T12:52:06.751561+00:00",
+  "ba564532ba5b477c": "2026-11-22T12:52:07.456251+00:00",
+  "7a39ac68ce2841bc": "2026-11-22T12:52:08.186684+00:00",
+  "f848dcf9f04da764": "2026-11-22T12:52:09.876339+00:00",
+  "e9b1c40da9263605": "2026-11-22T12:52:17.398851+00:00",
+  "1430714b41352389": "2026-11-22T12:52:23.860511+00:00",
+  "1c04d5b1069b4dde": "2026-11-22T12:52:27.071341+00:00",
+  "30a2657135888801": "2026-11-22T12:53:32.896617+00:00",
+  "d9fd888038dc01f5": "2026-11-22T12:53:53.635119+00:00",
+  "26a833f87217a01c": "2026-11-22T12:53:56.492909+00:00",
+  "bf2859654561dd09": "2026-11-22T12:54:04.960658+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -3431,7 +3460,16 @@
   "a3deade15e076f7f": "2026-11-22T12:16:39.025174+00:00",
   "46af30a7a58f8c90": "2026-11-22T12:17:00.518976+00:00",
   "75eb8a6fee06c0c2": "2026-11-22T12:17:21.967968+00:00",
-  "440d4024362c2721": "2026-11-22T12:17:45.145363+00:00"
+  "440d4024362c2721": "2026-11-22T12:17:45.145363+00:00",
+  "0bb2cbb3c0aa5950": "2026-11-22T12:33:04.686320+00:00",
+  "91238396bf4a2226": "2026-11-22T12:34:52.232267+00:00",
+  "64f451a24ffead6f": "2026-11-22T12:34:54.257590+00:00",
+  "bde2a0a955d45f30": "2026-11-22T12:35:01.383434+00:00",
+  "8503d59a7ede28a7": "2026-11-22T12:35:07.096088+00:00",
+  "d859b546daf3f5dc": "2026-11-22T12:35:08.280649+00:00",
+  "505169744588acd0": "2026-11-22T12:51:46.095328+00:00",
+  "76e3950a57c5d690": "2026-11-22T12:51:47.713416+00:00",
+  "fefcdcf2236c2a60": "2026-11-22T12:52:03.666849+00:00"
  },
  "recent": [
   {
@@ -8318,7 +8356,7 @@
    "title": "Jason's stoic character in Grand Theft Auto 6 was inspired by Steve McQueen and research into Army veterans: 'These guys typically aren't running their mouths'",
    "source": "PC Gamer",
    "trust": "high",
-   "status": "queued",
+   "status": "published",
    "ts": "2026-11-22T11:06:47.497176+00:00",
    "card_title": "ОТКУДА ВЗЯЛСЯ ОБРАЗ ДЖЕЙСОНА"
   },
@@ -8553,38 +8591,65 @@
    "status": "skipped",
    "ts": "2026-11-22T12:17:45.145498+00:00",
    "card_title": ""
+  },
+  {
+   "title": "Where to Find The Piccia Furia Supercar in GTA 6—Randy’s Wishlist Car Locations",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "dup",
+   "ts": "2026-11-22T12:33:04.686349+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 не будет стабильно работать на 60 FPS на ПК даже с топовыми процессорами",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T12:34:52.232399+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "When did Disneyland get a GTA VI ride 😂 Writer: Ian",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T12:34:54.257721+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Heads Up, There’s An Easy Way To Know Which GTA 6 Buildings Can Be Entered",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T12:35:07.096221+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Who skipped work for GTA VI? Dutch staff, young men, and US soldiers",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T12:35:08.280795+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 is a critical masterpiece. So why all the hate?",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T12:51:47.713563+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 review bombed on MetaCritic - and it's sadly exactly why you think",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T12:52:03.666981+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
-  {
-   "item": {
-    "title": "Binding Of Isaac Update Review-Bombed Over AI-Generated Music In GTA 6 Mode: ‘Woke Up To A Sh*t Show, Obviously I Had No Idea’",
-    "link": "https://kotaku.com/binding-of-isaac-update-review-bombed-over-ai-generated-music-in-gta-6-mode-woke-up-to-a-sht-show-obviously-i-had-no-idea-2000759213",
-    "summary": "A Vice City mode was using music made by AI",
-    "published": "2026-11-22T00:18:14+00:00",
-    "source": "Kotaku",
-    "site_name": "Kotaku",
-    "trust": "high",
-    "text": "AIGTA 6NicalisSoundtrackSteamThe Binding of Isaac: Repentance+\nThe Binding of Isaac: Repentance+ was a free update to the beloved roguelike that arrived on PC in 2024, but launched on console earlier this week in a head-to-head matchup against Grand Theft Auto 6. The marketing stunt may have been a success, but AI-generated music tracks discovered in a special new Vice City mode have turned the launch into a nightmare.\nWhile Repentance+ came to PS5, Xbox Series X/S, and Switch 2 this week, the Steam version of the game also got a free update. “Be sure to get in and play today’s Daily Run for a very special crime-packed surprise. Enter the Basement, and go out in a glorious blaze of bullets and vehicular homicide!” read the patch notes on on Valve’s storefront. Players could enter the seed “V1CE BSMT” into the roguelike before starting their run to launch a GTA-inspired version with special weapons and music.\nEarlier today, however, Reddit user ShweetsStuff posted a comprehensive breakdown of the new music tracks alleging they were made with Suno, an AI-based music generation tool. “The new update includes 14 music files for the run; seven full songs, plus some derivatives (intros/outros),” the wrote. The post continued:\nSome include Suno metadata with them. You can find this information yourself by just checking the file comment metadata (something common like VLC has tools for this, but here’s ffprobe output of drivingsong1.ogg, for example): comment : made with suno; created=2026-10-30T17:53:41Z; id=cd5a5b55-bead-4cb9-949d-09ed1f917dce Other files have this comment scrubbed; they were edited/exported later, but nonetheless there’s the proof.\nPlease report issues and bugs to the email attached. https://t.co/KHKSqKGsUe — 🜏 Edmund McMillen 🜏 (@edmundmcmillen) November 21, 2026\n“They’ve had how long now to prepare the GTA 6 release Easter egg daily run literally nobody asked for and still ai slopped it? Are you fucking kidding me,” one fan wrote on the Binding of Isaac subreddit. “No shit, it’s 2026. The entire industry is like this. Cutting corners constantly because they know they can get away with it,” wrote another.\nMany have blamed Nicalis, the publisher and co-developer of the Repentance+ expansion, in particular. Complaints about ongoing bugs, latency, and quality control issues have seemingly been building for some time. The latest mishap results in a review-bomb of the expansion’s Steam page, which currently sits at an abysmal user rating of just 9 ",
-    "extra": {
-     "image": "https://kotaku.com/app/uploads/2026/11/binding-of-isaac.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "КРИНЖ: В Binding of Isaac завезли ИИ-музыку ради кроссовера с GTA 6\n\nРазрабы Айзека решили хайпануть на релизе GTA 6 и бахнули тематический забег «V1CE BSMT» с пушками и музыкой. Только вот игроки нашли в файлах треков метаданные нейросети Suno. Разрабам уже устроили жесткий ревью-бомбинг в Steam. Зато сэкономили, ага.\n\n❤️ — ИИ в играх это полный зашквар\n👎 — Да пофиг, главное забег веселый",
-    "card_title": "ИИ-СКАНДАЛ ИЗ-ЗА GTA 6",
-    "reason": "Подтверждённый скандал, интересен фанатам",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "groq:openai/gpt-oss-120b → gemini:gemini-3.5-flash"
-   },
-   "queued_at": "2026-11-22T00:20:24.321358+00:00"
-  },
   {
    "item": {
     "title": "'Move Aside, Mandy': GTA 6's Goth Girl Vicki Is PS5 Players' New Fave",
@@ -8613,35 +8678,6 @@
     "model": "groq:openai/gpt-oss-120b → gemini:gemini-3.5-flash"
    },
    "queued_at": "2026-11-22T01:07:10.569581+00:00"
-  },
-  {
-   "item": {
-    "title": "Jason's stoic character in Grand Theft Auto 6 was inspired by Steve McQueen and research into Army veterans: 'These guys typically aren't running their mouths'",
-    "link": "https://www.pcgamer.com/games/grand-theft-auto/jasons-stoic-character-in-grand-theft-auto-6-was-inspired-by-steve-mcqueen-and-research-into-army-veterans-these-guys-typically-arent-running-their-mouths/",
-    "summary": "Rockstar made a point of creating \"authentic characters that didn't stray too far from reality.\"",
-    "published": "2026-11-22T10:54:09+00:00",
-    "source": "PC Gamer",
-    "site_name": "PC Gamer",
-    "trust": "high",
-    "text": "It's already clear that Grand Theft Auto 6 has a very different timbre than most other GTA games. While criminal hijinks and acerbic satire remain part of the experience, it's also much more interested in portraying characters and relationships in a more convincing, human fashion.\nOne of the most striking examples of this is its depiction of co-protagonist Jason Duval, who, unlike the vast majority of GTA's main characters, is often notable for what he doesn't say rather than what he does. According to Rockstar's senior vice president of narrative Rupert Humphries, Jason's laconic nature was inspired by a personality type in observed in both cinema and real-life.\n\"When we decided we wanted to tell a story about a couple on the run, we looked at all the similar kinds of movies, and one of the ones that really stood out was [Sam] Peckinpah's The Getaway\" Humphries explained in a statement given to Destructoid (via GamesRadar). Steve McQueen was famous for pulling lines out of scripts and saying things with his presence alone. We wanted to see how close we could get to that with a game character, where so many of our protagonists have been the opposite.\"\nHumphries says this also \"resonated\" with research the studio was doing around Army veterans, particularly Army Rangers. In Grand Theft Auto 6, Duval is a veteran of the game's equivalent military organisation called the Marauders. \"These guys typically aren't running their mouths or reacting to something unless it's strictly necessary, while still being strong and still asserting themselves,\" Humphries explained.\nEstablishing a more grounded character was not solely a directive for Jason. It was a goal of the writing more broadly. This is interesting considering Florida was picked as the setting for GTA 6 in-part due to the wild 'Florida Man' stories that circulate on the Internet from the state. \"Researching the prolific and headline-grabbing criminal activity that had been taking place over decades in Florida was an obvious starting point,\" game writer Michael Wiafe pointed out.\n\"From then on, it was about coming up with authentic characters that didn't stray too far from reality but also were not totally bound by it either,\" Wiafe continues. \"The majority of our main characters are undeniably reprehensible on paper, full-blown criminals, but also decent human beings. Their moral makeup isn’t necessarily cut-and-dry, and we don’t attempt to make excuses for them. What's important is how they resonate, no m",
-    "extra": {
-     "image": "https://cdn.mos.cms.futurecdn.net/e3fPzBmapimeiWj59SBAiQ-1920-80.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "🤫 Джейсона списали со Стива Маккуина!\n\nСценаристы Rockstar признались, почему Джейсон в GTA 6 такой молчаливый. Его образ собирали с легендарного Стива Маккуина и реальных ветеранов армейского спецназа. По лору ГГ отслужил в местном отряде «Мародёры», поэтому лишний раз языком не чешет. Настоящий молчаливый сигма-вайб в кастомной обёртке.\n\n❤️ — Мужик, база\n👎 — Душно, верните трепачей",
-    "card_title": "ОТКУДА ВЗЯЛСЯ ОБРАЗ ДЖЕЙСОНА",
-    "reason": "Official details from Rockstar developers about Jason's character inspiration add depth to the released game.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-3.5-flash"
-   },
-   "queued_at": "2026-11-22T11:06:47.497165+00:00"
   },
   {
    "item": {
@@ -8879,35 +8915,6 @@
   },
   {
    "item": {
-    "title": "GTA 6 Helped Turn Game Ownership Into a Political Fight",
-    "link": "https://www.gtaboom.com/gta-6-helped-turn-game-ownership-into-a-political-fight-9a31",
-    "summary": "Ahead of GTA 6’s launch without discs, Rep. Maxwell Frost proposed letting players run servers for games they bought after official servers shut down.",
-    "published": "2026-11-22T00:30:30+00:00",
-    "source": "GTA BOOM",
-    "site_name": "GTA BOOM",
-    "trust": "medium",
-    "text": "The day before Grand Theft Auto VI went on sale with no disc in the box, a congressman stood at a town hall and announced a proposal aimed at keeping the games you pay for playable. The biggest launch in history was about to prove the point he was making, that buying a modern game often means renting a license the seller can revoke. The fight over game ownership we have covered all year just reached Congress.\nRepresentative Maxwell Frost of Florida announced the Protect Our Games Act on November 18, the eve of launch, at a town hall with Stop Killing Games advocates. The idea is that a digital purchase should mean ownership, not a revocable license. It would require companies to let players run their own servers once official ones go dark, keep bought games playable as technology moves on and give advance notice before changes break access.\nIt's still an announcement though. It isn't a bill. Not yet, anyway. There is no text, no number and no introduction. However, Frost says it is coming early in 2027.\nTo make this happen, Frost is not working alone. The issue is bigger than one party. Representative Ritchie Torres of New York announced a similar Power to the Players Act in October, calling a game that vanishes when a company pulls the plug a rental disguised as a sale. California went further, its own Protect Our Games Act passed the state Assembly and carries real text, with notice rules and standalone-version requirements for games sold from 2027. Both federal efforts are Democratic so far, but owning what you buy is not a left or right idea.\nThe timing gave the ownership debate a high-profile example. Rockstar Games shipped GTA 6 with no disc, just a download code, turning the biggest release ever into a license rather than a thing you own. Advocates and reporters tied the announcement to that launch directly. We argued before it arrived that the game was the test case for killing physical media. The result has already pushed Sony to end PlayStation discs and lawmakers in France and Brazil to act. Washington is the latest to notice.\nWe are on the players' side of this. Paying full price for something a company can switch off is a bad deal. The preservation problem behind it is real. The fair counterpoint deserves airing too. Not every always-online game can hand players a working server, some rely on backend services that do not ship in a box and mandating playable-forever versions raises real questions about cost, security and who maintains a game no",
-    "extra": {
-     "image": "https://media.gtaboom.com/variants/1920/media/images/ee/31/gta-6-helped-turn-game-ownership-into-a-political-fight-1.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 6,
-    "post": "⚖️ Игры без дисков довели до Конгресса\n\nРелиз GTA 6 без физических дисков в коробках взбесил не только фанатов, но и политиков в США. В конгрессе анонсировали закон Protect Our Games Act, который запретит студиям превращать купленные тайтлы в «аренду» и отключать серверы без возможности играть дальше.\n\nПохоже, попытка заставить нас брать цифровую лицензию вместо реальной покупки вызвала лютый бунт. Затестим, додавят ли габенов и рокстаров.\n\n❤️ — Права игрокам, цифру на свалку!\n👎 — Да пофиг, давно на цифре сижу",
-    "card_title": "ПРАВА НА ЦИФРОВЫЕ ИГРЫ",
-    "reason": "Подтверждённый факт о законодательной инициативе, важен для игроков",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "groq:openai/gpt-oss-120b → gemini:gemini-3.5-flash"
-   },
-   "queued_at": "2026-11-22T00:51:34.786059+00:00"
-  },
-  {
-   "item": {
     "title": "How to Find the Vercetti Estate in GTA 6",
     "link": "https://www.gtaboom.com/how-to-find-the-vercetti-estate-in-gta-6-a2d6",
     "summary": "In Grand Theft Auto VI, cross the bridge to Starfish Island to walk Tommy Vercetti’s old mansion grounds and see its familiar courtyard fountain.",
@@ -8961,9 +8968,10 @@
   "2026-11-22T09:13:29.759405+00:00",
   "2026-11-22T10:19:40.823469+00:00",
   "2026-11-22T10:36:38.402500+00:00",
-  "2026-11-22T11:31:52.041959+00:00"
+  "2026-11-22T11:31:52.041959+00:00",
+  "2026-11-22T12:52:42.587608+00:00"
  ],
- "tg_offset": 387129041,
+ "tg_offset": 387129042,
  "channel": {
   "id": -1003986639147,
   "title": "GTA 6 | Горячие новости",
@@ -8989,7 +8997,8 @@
   "2026-11-22T08:01:32.386619+00:00",
   "2026-11-22T09:01:59.839607+00:00",
   "2026-11-22T10:19:40.160726+00:00",
-  "2026-11-22T11:19:51.806243+00:00"
+  "2026-11-22T11:19:51.806243+00:00",
+  "2026-11-22T12:43:34.843087+00:00"
  ],
  "slots_sent": {
   "2026-11-21:guide:1": "2026-11-21T21:14:52.573728+00:00",
@@ -13351,6 +13360,174 @@
    "ts": "2026-11-22T11:30:53.650869+00:00",
    "frames": [],
    "caption": "Лусия — просто имба: вынесла всех обидчиков у заправки, пока Джейсон извинялся. Вот это я понимаю, женская поддержка! 💀"
+  },
+  {
+   "author": "youtube:mrbeast gaming",
+   "vod": "",
+   "offset": -1,
+   "title": "Walking Across The Entire Map In GTA 6!",
+   "drafted": false,
+   "ts": "2026-11-22T12:48:35.605393+00:00"
+  },
+  {
+   "author": "youtube:gta2025",
+   "vod": "",
+   "offset": -1,
+   "title": "todos los cortes de pelo de cada personaje de #gta6",
+   "drafted": false,
+   "ts": "2026-11-22T12:48:36.511421+00:00"
+  },
+  {
+   "author": "youtube:void darc",
+   "vod": "",
+   "offset": -1,
+   "title": "Can’t catch a break… 😂🔥 #gta6 #videogames #comedy #skit",
+   "drafted": false,
+   "ts": "2026-11-22T12:48:37.538132+00:00"
+  },
+  {
+   "author": "youtube:kriss k3b",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 Restaurants vs Real Life!",
+   "drafted": false,
+   "ts": "2026-11-22T12:48:38.358666+00:00"
+  },
+  {
+   "author": "youtube:el vikingo news",
+   "vod": "",
+   "offset": -1,
+   "title": "El GTA 6 ya fue EMULADO💀 #gta6   #gaming   #ps5",
+   "drafted": false,
+   "ts": "2026-11-22T12:49:29.242075+00:00"
+  },
+  {
+   "author": "youtube:xr gaming",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA launch वाले din सत्यानाश 🧐🤦‍♂️ #viral #trending #gta #gta6 #gtalive #gaming #new #ps5crash #ps",
+   "drafted": false,
+   "ts": "2026-11-22T12:49:30.181424+00:00"
+  },
+  {
+   "author": "youtube:will kleman",
+   "vod": "",
+   "offset": -1,
+   "title": "A jolly good game that GTA 6🎮🏴‍☠️",
+   "drafted": false,
+   "ts": "2026-11-22T12:49:31.028867+00:00"
+  },
+  {
+   "author": "youtube:brunelviss games",
+   "vod": "",
+   "offset": -1,
+   "title": "Ele perseguiu uma NPC no GTA 6 pra ver se ela percebia… e ela fez algo BIZARRO",
+   "drafted": false,
+   "ts": "2026-11-22T12:49:31.859547+00:00"
+  },
+  {
+   "author": "youtube:schlayer",
+   "vod": "",
+   "offset": -1,
+   "title": "Don't Miss This FREE Garage in Chapter 3 in GTA 6!",
+   "drafted": false,
+   "ts": "2026-11-22T12:52:05.798561+00:00"
+  },
+  {
+   "author": "youtube:cruffin india",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 mein Cruffin ? 😱 #cake #food #foodie #gta #gta6 #minivlog",
+   "drafted": false,
+   "ts": "2026-11-22T12:52:06.751606+00:00"
+  },
+  {
+   "author": "youtube:местар",
+   "vod": "",
+   "offset": -1,
+   "title": "😳 Это Лучшая Пасхалка в GTA 6!",
+   "drafted": false,
+   "ts": "2026-11-22T12:52:07.456293+00:00"
+  },
+  {
+   "author": "youtube:team rowdy ",
+   "vod": "",
+   "offset": -1,
+   "title": "Presented by \"GTA 6 Launch Core\"-Next-generation Vice City Era",
+   "drafted": false,
+   "ts": "2026-11-22T12:52:08.186732+00:00"
+  },
+  {
+   "author": "twitch:tusoved",
+   "vod": "2937117399",
+   "offset": 8424.0,
+   "title": "копы не стреляют а звезды растут",
+   "drafted": false,
+   "ts": "2026-11-22T12:52:09.876388+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:theburntpeanut",
+   "vod": "2936706130",
+   "offset": 41602.0,
+   "title": "ANOTHA ONE",
+   "drafted": false,
+   "ts": "2026-11-22T12:52:17.398886+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:carola",
+   "vod": "2936112169",
+   "offset": 11588.0,
+   "title": "timing",
+   "drafted": false,
+   "ts": "2026-11-22T12:52:23.860568+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:dmitry_lixxx",
+   "vod": "2935815647",
+   "offset": 55599.0,
+   "title": "Бедный Лёва",
+   "drafted": false,
+   "ts": "2026-11-22T12:52:27.071388+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:baupenner",
+   "vod": "2935109383",
+   "offset": 19450.0,
+   "title": "DEMO in GTA ?? Boom 😂",
+   "drafted": false,
+   "ts": "2026-11-22T12:53:32.896667+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:frametamer666",
+   "vod": "2934472461",
+   "offset": 162824.0,
+   "title": "1",
+   "drafted": false,
+   "ts": "2026-11-22T12:53:53.635161+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:thegrefg",
+   "vod": "2936395995",
+   "offset": 22315.0,
+   "title": "a qué huele greg?",
+   "drafted": false,
+   "ts": "2026-11-22T12:53:56.492960+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:djmariio",
+   "vod": "2936216605",
+   "offset": 689.0,
+   "title": "DUCHITA DIA 4",
+   "drafted": false,
+   "ts": "2026-11-22T12:54:04.960722+00:00",
+   "frames": []
   }
  ],
  "published": [
@@ -13535,6 +13712,13 @@
    "title": "Лусия — просто имба: вынесла всех обидчиков у заправки, пока Джейсон извинялся. Вот это я…",
    "importance": 9,
    "kind": "video"
+  },
+  {
+   "ts": "2026-11-22T12:52:42.587623+00:00",
+   "msg_id": 54,
+   "title": "Джейсона списали со Стива Маккуина!",
+   "importance": 7,
+   "kind": "confirmed"
   }
  ],
  "extras": [],
@@ -13601,6 +13785,64 @@
    },
    "corr": false,
    "since": "2026-11-22T12:15:54.759676+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA 6: Where To Find The Patriot Cat",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE83ZXJaTlk5RkVtX3BQdEFZdXdQbjVxamhBX0Q3MHhsQ3J4cFI0SlQwdUxWVUV4RHBiWVR3SkZfTmlwUFJpbjhnOHEwS1pFYnVwU3BQUFpfQ2VqQjNUbzJ3X05wb3VTcXdKcDIzT3dya0V2SzQ?oc=5",
+    "summary": "GTA 6: Where To Find The Patriot Cat Cultured Vultures",
+    "published": "2026-11-22T12:23:27+00:00",
+    "source": "Google News (EN)",
+    "site_name": "Cultured Vultures",
+    "trust": "rumor",
+    "text": "GTA 6: Where To Find The Patriot Cat Cultured Vultures",
+    "extra": {}
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "🗺 Гайд: ПАТРИОТ КОТ\n\nЗавезли имбовый секрет для любителей живности. Ищем котейку на крыше здания в районе Порт-Геллахорн, ориентируйтесь по американскому флагу рядом.\n\n❤️ — Уже нашёл\n👎 — Обычный питомец",
+    "card_title": "ГДЕ НАЙТИ ПАТРИОТ КОТА",
+    "reason": "Гайд по поиску секретного кота в вышедшей игре, полезно и интересно для игроков.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": true,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": true,
+   "since": "2026-11-22T12:35:02.165790+00:00"
+  },
+  {
+   "item": {
+    "title": "Sex in GTA 6 was extremely difficult to pull off, Rockstar says",
+    "link": "https://www.gamesradar.com/games/grand-theft-auto/sex-in-gta-6-was-extremely-difficult-to-pull-off-rockstar-says-we-needed-to-allow-players-to-interact-with-the-partner-in-a-natural-loving-way/",
+    "summary": "Far from Hot Coffee",
+    "published": "2026-11-22T12:32:07+00:00",
+    "source": "GamesRadar+",
+    "site_name": "GamesRadar+",
+    "trust": "high",
+    "text": "Implementing sex into GTA 6 in a believable way was quite tricky to pull off, according to developer Rockstar Games.\nThis being both a Grand Theft Auto game and a love story, it's not a shocker that sex and intimacy (and the most nudity I've ever seen in a video game) are so prominent in GTA 6. Getting the balance just right was pretty tough, however.\n\"Exploring the physical relationship between Jason and Lucia required a lot of thought and iteration,\" Rockstar's vice president of animation, Mark Tennant, explains in quotes given to GamesRadar ahead of our GTA 6 review.\n\"We needed to allow players to interact with the partner in a natural, loving way, with a believable progression based on their overall investment in the relationship,\" he adds. GTA 6's romance isn't a totally linear line. Jason and Lucia can be hotly passionate about each other or just be cordial partners in crime, depending on your choices, so how they interact physically needed to match their relationship status.\n\"This required us to create animation performances that found a realistic balance between player agency and partner response while keeping things fun, passionate, and rewarding,\" Tennant says.\nIt's a far cry from how many of the other games in the series dealt with sex, where your main interactions with romantic partners were impersonal and often transactional. On the flip side, GTA 6 is almost always making you consider someone outside of yourself and sex isn't just an awkward animation that plays if you drop some in-game cash. Jason and Lucia's central romance is the reason why Rockstar isn't letting you hire prostitutes this time around, too.\nRockstar's latest open world has been a long time coming. Make the most of your time in Leonida with the best controllers for GTA 6 and our guide to the best GTA 6 headsets.\nWeekly digests, tales from the communities you love, and more\n4. Best pro Xbox: Nacon Revolution X Unlimited\nKaan freelances for various websites including Rock Paper Shotgun, Eurogamer, and this one, Gamesradar. He particularly enjoys writing about spooky indies, throwback RPGs, and anything that's vaguely silly. Also has an English Literature and Film Studies degree that he'll soon forget.\nYou must confirm your public display name before commenting\nPlease logout and then login again, you will then be prompted to enter your display name.\n1 Should you trust Benedict Halifax in GTA 6?\n3 How to complete The Final Flush in GTA 6 and increase your maximum stamina\n4 \"Let'",
+    "extra": {
+     "image": "https://cdn.mos.cms.futurecdn.net/LknmDHFCtA4v9eTgEcjHcG-1920-80.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "🔥 Рокстар призналась: секс в GTA 6 — боль\n\nМарк Теннант из Rockstar рассказал, что сделать интим сценарий Джейсона и Люсии «живым» было лютым челленджем. Никаких кринжовых автоматов: всё зависит от ваших выборов, а не от кэша. Сочный вайб без транзакций — это база.",
+    "card_title": "РОКСТАР О СЕКСЕ В ГТА 6",
+    "reason": "Подтверждённые комментарии разработчика (confirmed) о сложной механике, которая отличается от прошлых частей и вызывает интерес.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "groq:qwen/qwen3.8-27b"
+   },
+   "corr": false,
+   "since": "2026-11-22T12:51:46.550680+00:00"
   }
  ]
 }
