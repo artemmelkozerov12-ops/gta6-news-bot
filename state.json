@@ -1971,7 +1971,24 @@
   "455fbeff0ada1fd3": "2026-11-22T09:31:38.672075+00:00",
   "143549ae195f2627": "2026-11-22T09:47:08.635066+00:00",
   "15aa543b228231c3": "2026-11-22T09:47:09.625226+00:00",
-  "6e07bd754cfbd692": "2026-11-22T09:47:12.234806+00:00"
+  "6e07bd754cfbd692": "2026-11-22T09:47:12.234806+00:00",
+  "4c4a3dd7dd434387": "2026-11-22T10:02:32.698467+00:00",
+  "df17c9483c7ef7b6": "2026-11-22T10:02:39.197661+00:00",
+  "03fbc54bfb5e8a13": "2026-11-22T10:02:40.348069+00:00",
+  "500a46faecc66129": "2026-11-22T10:02:47.129396+00:00",
+  "e691eec9ce620175": "2026-11-22T10:02:51.514161+00:00",
+  "33b2edf84ed83c1c": "2026-11-22T10:03:01.812302+00:00",
+  "f4e115df206f1afd": "2026-11-22T10:13:05.855268+00:00",
+  "fb314abe59db608e": "2026-11-22T10:13:06.735701+00:00",
+  "6381c1802cb5dd20": "2026-11-22T10:13:07.427852+00:00",
+  "ee997236e86b6611": "2026-11-22T10:13:08.138736+00:00",
+  "b142b66ead11c956": "2026-11-22T10:13:59.024514+00:00",
+  "b76f02832baeea7d": "2026-11-22T10:13:59.906058+00:00",
+  "893ae823b04078a1": "2026-11-22T10:17:03.257722+00:00",
+  "87185ceafd814928": "2026-11-22T10:18:40.340900+00:00",
+  "27b36a8d65a8ac36": "2026-11-22T10:19:30.938416+00:00",
+  "d95c4bc4ec18c283": "2026-11-22T10:19:32.308597+00:00",
+  "4cb8fbe4f01acad6": "2026-11-22T10:19:36.018292+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -3294,7 +3311,17 @@
   "ee23e5944d480eba": "2026-11-22T09:31:38.672075+00:00",
   "4d982d7d243501c2": "2026-11-22T09:47:08.635066+00:00",
   "1b8020936c7604f1": "2026-11-22T09:47:09.625226+00:00",
-  "d5578558ecf43c61": "2026-11-22T09:47:12.234806+00:00"
+  "d5578558ecf43c61": "2026-11-22T09:47:12.234806+00:00",
+  "d08e3f97eb29dfcb": "2026-11-22T10:02:32.698467+00:00",
+  "05f6b1cd55381758": "2026-11-22T10:02:39.197661+00:00",
+  "ec09ebdcb799faaf": "2026-11-22T10:02:40.348069+00:00",
+  "ff946996fd46fb0d": "2026-11-22T10:02:47.129396+00:00",
+  "7b750666db9a9b7d": "2026-11-22T10:02:51.514161+00:00",
+  "ec01c742caf68159": "2026-11-22T10:03:01.812302+00:00",
+  "b823c733b6fcd989": "2026-11-22T10:18:40.340900+00:00",
+  "3b00b5af8c7e8785": "2026-11-22T10:19:30.938416+00:00",
+  "1ac47aa887a9ddb8": "2026-11-22T10:19:32.308597+00:00",
+  "815edbc37a8fb88d": "2026-11-22T10:19:36.018292+00:00"
  },
  "recent": [
   {
@@ -8512,127 +8539,89 @@
    "status": "skipped",
    "ts": "2026-11-22T09:47:12.234960+00:00",
    "card_title": ""
+  },
+  {
+   "title": "How to Find Dexter's Apartment in GTA 6",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-22T10:02:33.517571+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "This is how to get an INSANE Rolls-Royce in GTA 6 Good luck not getting jacked in that, though Writer: Ian",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T10:02:39.197811+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Will GTA 6 pedestrians run or fight? How Leonida’s NPCs react to you",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T10:02:40.348198+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Журналист расхвалил работу GTA 6 на Xbox One через Xbox Cloud Gaming",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T10:02:47.129517+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "For all those who say GTA 6 isn't much of an improvement over GTA 5... Writer: Ian",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T10:02:51.514311+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Manager Asked Who Was Taking Time Off for GTA 6, and the Confessions Didn’t Disappoint",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T10:03:01.812435+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Janelle James Bullied Her Way Into GTA 6, Then Rockstar Sent Her a Custom PS5 Pro",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "queued",
+   "ts": "2026-11-22T10:19:29.255266+00:00",
+   "card_title": "АКТРИСА ВЫБИЛА РОЛЬ В GTA 6"
+  },
+  {
+   "title": "SS United States diving, GTA 6 Pensacola nod in top news",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T10:19:30.938531+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Brings AMD FSR 4.1 to Consoles First on Xbox Series S",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T10:19:32.308705+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How a piece of Detroit ended up inside GTA VI",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T10:19:36.018406+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
-  {
-   "item": {
-    "title": "Where to find the giant crab safe code and Crabshack VF5 SMG in GTA 6",
-    "link": "https://www.polygon.com/gta-6-giant-crab-safe-code-crabshack-vf5-smg-how-to-get-pelican-valley-outpost/",
-    "summary": "GTA 6's giant crab event takes you through Pelican Valley Outpost and rewards you with the Crabshack VF5 SMG standout weapon.",
-    "published": "2026-11-21T21:48:35+00:00",
-    "source": "Polygon",
-    "site_name": "Polygon",
-    "trust": "high",
-    "text": "Grand Theft Auto 6 has a giant crab haunting the swamps and, more importantly, the Crabshack VF5 SMG, a crab-themed gun, to help your future career prospects. It's all part of an optional event called Pelican Valley Outpost that sees you pick up the pieces of some questionable experiments carried out on behalf of a store chain. It's worth the trouble, even aside from the standout weapon. There's some cash to help reach your next family fund milestone and a free jet ski, too. Best of all, this little excursion is completely safe, assuming you don't run afoul of the local gator population.\nBelow, we show you where to find the giant crab in GTA 6 so you can clear the Pelican Valley Outpost and get the Crabshack VF5 SMG.\nWhere to find the giant crab safe code in GTA 6\nPelican Valley Outpost, where the giant crab research facility is, has several codes you need to find on your way to getting the standout weapon. You'll find it on a medium-sized island southwest of the \"Pelican Valley\" name label on the map. Once you remove the fog from the region map, you can see it's one of the only islands in the area with buildings on it.\nTake Jason's boat from his house, and set out. Definitely don't swim here, even if you're already nearby. There are too many gators for this to be a safe option. You can dock your boat at the boathouse and follow the jetty to the research facility proper. The boathouse is locked, but you'll get inside before leaving.\nYou'll see several buildings in the compound, but if you venture inside the first shack, you'll notice the power is off. You can still explore it, though you can't access the researcher's computer, which is essential for clearing the outpost. Head outside and around the back of the building near the blue crab cages. Interact with the breaker box to turn the power on, and head back inside. Ignore the computer for now, and take a right. There's a bag of chips in the kitchen if you want Jason to pack on some calories, and the login password for the computer is in the small bedroom opposite the kitchen. Investigate the small piece of wood on the floor to see all the choices, with \"CLEAVES\" being the most recent.\nInteract with the computer, and press left on the direction pad to enter CLEAVES. You can skim through a few tabs of information on-screen, but the important one is the note in the green cell that says \"Safe code = Double Success.\" Leave when you're finished.\nKarkinos, the giant crab from the report, will jump you in a shor",
-    "extra": {
-     "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/gta-6-giant-crab-crabshack-smg.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "🗺 Гайд: забираем имбовый пулемет Crabshack VF5\n\nХочешь сочную пушку? Го на остров юго-западнее Pelican Valley. Там база с гигантским крабом, где можно лутануть этот ствол. \n\n1. Плыви на лодке (не вздумай вплавь — сожрут крокодилы).\n2. Включай питание на щитке за домиком с синими клетками.\n3. Внутри в спальне найди код «CLEAVES» и вбей его в комп.\n4. Забирай код от сейфа из записки «Double Success» и выживай в катке с крабом.\n\nБонусом отсыпят кэша и бесплатный гидроцикл. Топчик для старта!\n\n❤️ — Уже лечу за пушкой\n👎 — Слишком много возни",
-    "card_title": "КАК ПОЛУЧИТЬ КРАБОВЫЙ ПУЛЕМЕТ",
-    "reason": "Гайд по получению уникального оружия и секретного контента в игре.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": true,
-    "model": "gemini:gemini-3.1-flash-lite"
-   },
-   "queued_at": "2026-11-21T21:49:33.390579+00:00",
-   "moderation": "pending",
-   "draft_msg_id": 74
-  },
-  {
-   "item": {
-    "title": "Comcast: \"At peak, GTA6 accounted for nearly a quarter of all internet traffic\"",
-    "link": "https://www.pcgamer.com/games/grand-theft-auto/comcast-at-peak-gta6-accounted-for-nearly-a-quarter-of-all-internet-traffic/",
-    "summary": "November 19 marked the highest-traffic day in the ISP's history.",
-    "published": "2026-11-21T21:42:29+00:00",
-    "source": "PC Gamer",
-    "site_name": "PC Gamer",
-    "trust": "high",
-    "text": "In a post to X, \"The Everything App,\" US entertainment and communications conglomerate Comcast revealed that Grand Theft Auto 6's historic launch drove record-breaking internet traffic. According to Comcast, only a quarter of \"the entire internet\" was downloading Rockstar's latest cozy game phenomenon.\n\"GTA 6 didn't just break records in gaming,\" Comcast wrote. \"Its launch drove the biggest internet traffic day in our network history, with traffic climbing 31% above an average day. At peak, GTA 6 accounted for nearly a quarter of all network traffic.\"\nComcast shared a video of a line graph showing the massive relative spike in activity on November 19. The chart is unlabeled except for the date, but it presumably corresponds to the volume of data being downloaded across Comcast's entire network.\nAnd that last but does add a caveat to the numbers Comcast cited: Its network and \"the entire internet\" are two different things, unless I'm missing something here or Comcast's data accounts for other ISPs and other countries, not just its own services.\nRegardless, it's still a significant bit of fun with statistics, another example of the totalizing footprint of what may be the largest commercial launch in entertainment history. Imagine how much bigger it would have been launching on PC as well.\nDespite our remit, we've been going hard to the paint in our coverage of GTA 6⁠—I mean, it'll come our way eventually, right? Check out our hub for guides, news, and opinions, as well as senior editor Chris Livingston's not-review after 100 hours.\nGTA 6 guide: One-stop info shopGTA 6 guns: The best weapons and loadoutsGTA 6 cars: The fastest and flashestCriminal profiles: GTA 6's honor systemHow to steal cars: All the ways to boost a ride\nKeep up to date with the most important stories and the best deals, as picked by the PC Gamer team.\nTed has been thinking about PC games and bothering anyone who would listen with his thoughts on them ever since he booted up his sister's copy of Neverwinter Nights on the family computer. He is obsessed with all things CRPG and CRPG-adjacent, but has also covered esports, modding, and rare game collecting. When he's not playing or writing about games, you can find Ted lifting weights on his back porch. You can follow Ted on Bluesky.\nYou must confirm your public display name before commenting\nPlease logout and then login again, you will then be prompted to enter your display name.\n1 The best VPN for gaming in 2026: These privacy-protecting v",
-    "extra": {
-     "image": "https://cdn.mos.cms.futurecdn.net/e3fPzBmapimeiWj59SBAiQ-1920-80.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "GTA 6 ПОЛОЖИЛА ИНТЕРНЕТ\n\nЧел, это просто разнос! В день релиза трафик сети Comcast взлетел на 31%, а в пике игра забирала почти четверть всего сетевого трафика. Rockstar реально создали лютую базу, которая заставила интернет потеть по полной. А ведь это только консоли, прикинь, что будет на релизе для ПК?\n\n❤️ — Ору с этих цифр\n👎 — Мой провайдер тоже в шоке",
-    "card_title": "GTA 6 ПОЛОЖИЛА ИНТЕРНЕТ",
-    "reason": "Официальная статистика от крупного провайдера о влиянии релиза игры на мировой интернет-трафик.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.1-flash-lite"
-   },
-   "queued_at": "2026-11-21T21:49:36.497304+00:00"
-  },
-  {
-   "item": {
-    "title": "GTA 6 Players Are Obsessed With Finding IRL Florida in Vice City",
-    "link": "https://www.polygon.com/gta-6-players-irl-vice-city-locations/",
-    "summary": "GTA 6 fans have spent time tracking down remarkably faithful recreations of Miami locations beyond just the popular landmarks.",
-    "published": "2026-11-21T22:00:17+00:00",
-    "source": "Polygon",
-    "site_name": "Polygon",
-    "trust": "high",
-    "text": "Now that Grand Theft Auto 6 is in the wild, one thing has become clear: The open-world crime stuff is secondary. This thing's a life sim. GTA 6's life sim bona fides are so undeniable that, within the first two days of its release, a not-insignificant swath of players have eschewed the elaborate robberies and high-tension shootouts to instead embrace the ancient gaming tradition of \"finding IRL locations and Leo memeing at them.\"\nPlayers of reality-inspired open-world games have always done this, whether it's finding the Bean in Watch Dogs' version of Chicago or visiting the John Wick hotel in DLC for The Division 2. But with GTA 6, which takes place in a satirized version of Florida called Leonida, players were always going to take it to another level. This game is from Rockstar Games, a studio so well-known for its attention to detail it once infamously implemented horse testicles that shrink in reaction to cold weather. GTA 6 has been in development for a decade. Its leads have conducted \"research\" trips to Miami-Dade County for just as long. A perfect storm for some ridiculously faithful world design that's resulted in brain-melting levels of realism.\nWhat's most remarkable is that Rockstar's attention to detail isn't just limited to reimagining iconic Miami landmarks like the Adrienne Arsht Center or the E11EVEN nightclub, though the game does have those. It's also found in recreations of nondescript buildings you'd otherwise never think twice about. This design ethos is best illustrated in one viral clip in which an unidentified creator films Jason walking through an apartment complex before coming to a stop on a patio overlooking a South Beach meridian. The creator, continuing to film, stands up in real life, then walks out of their own front door and onto a patio of the same exact building. (\"This is crazy [exploding head emoji],\" they wrote. \"My apartment is in a video game.\")\nEven in the realm of sports, Rockstar wasn't just drawn to the major leagues. Yes, GTA 6 includes a riff on Miami's Kaseya Cener (homebase of the Miami Heat), but it also includes a pixel-perfect facsimile of the Miami Marine Stadium. Built in the early '60s as a regatta venue, the stadium went on to host film shoots, presidential rallies, and concerts from the likes of Queen, The Who, Jimmy Buffet, and other megawatt stars, according to the nonprofit Restore Miami Marine Stadium. Then, in 1992, Hurricane Andrew took the venue out of commission. It's spent the past three dec",
-    "extra": {
-     "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/vice_city_08.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "ВАЙС-СИТИ В РЕАЛЬНОЙ ЖИЗНИ\n\nИгроки в шоке: Rockstar перенесли Майами в игру с такой точностью, что челы находят в GTA 6 свои собственные квартиры и дома. Это просто лютый разнос детализации — даже типичные невзрачные здания выглядят один в один как в жизни. Флекс от разрабов засчитан, уровень погружения зашкаливает. \n\n❤️ — Жду, когда найду свой подъезд\n👎 — Слишком душно, я в игру играть пришел",
-    "card_title": "ВАЙС-СИТИ В РЕАЛЬНОЙ ЖИЗНИ",
-    "reason": "Игроки массово находят свои реальные дома в игре, что создает вирусный контент.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.1-flash-lite"
-   },
-   "queued_at": "2026-11-21T22:05:15.684685+00:00"
-  },
-  {
-   "item": {
-    "title": "Radio Tower Expert Can’t Believe How Realistic GTA 6′s Towers Are: ‘Oh My God Boys… Earthed Tower Legs With Saddles”",
-    "link": "https://kotaku.com/radio-tower-expert-cant-believe-how-realistic-gta-6s-towers-are-oh-my-god-boys-earthed-tower-legs-with-saddles-2000759186",
-    "summary": "If you were curious how accurate the utility towers in Grand Theft Auto 6 the answer appears to be: Very",
-    "published": "2026-11-21T22:00:32+00:00",
-    "source": "Kotaku",
-    "site_name": "Kotaku",
-    "trust": "high",
-    "text": "Grand Theft Auto 6 is a massive game, yes, but if you dig into everything inside of it, you’ll quickly discover that nearly every inch of this big world is filled with incredibly realistic details. Case in point: a content creator who has also worked on large communication towers was recently stunned by GTA 6′s attention to detail. Folks, we got Erathed tower legs.\nContent creator MrMcg92, who primarily plays first-person shooters and military sims, is also someone who has, in real life, worked on and climbed large communication and radio towers. So whenever he comes across a radio tower in a video game, he takes some time to do a “Tower Inspection.” He’s looked at towers in Battlefield, Days Gone, and Far Cry. And while all of these towers had some nice details, they often made mistakes or were missing important bits MrMcg92 would expect to find on a real comms tower. That wasn’t the case when he did a tower inspection in GTA 6. Instead, he was flabbergasted and impressed by the tower’s hyper-realistic details.\n“Oh my fucking god, boys,” exclaimed MrMcg92 when walking up to a radio tower in GTA 6. “For the first time ever, we got the tower legs earthed. Earthed tower legs with saddles. And double locknuts on the HDs, lads. Double lock nuts everywhere!”\nHe then spotted a red power cable running up the middle of the tower and claimed that if there was an aircraft warning light at the top, he would get a “stiffy.” As he climbed the tower, he continued to be impressed by how Rockstar’s artists included every tiny detail that should be found on a real-life tower like this.\n“Oh, boys, we got proper AA clamps on the mount points. Tails running out the bottom of the panels to the RRU,” pointed out the creator on his climb up the tower. I don’t really know what half of this means, but based on his past videos, expert knowledge, and excitement, I get the feeling this is all just very, very impressive.\nAnd yes, at the top was indeed a red warning light.\nI hope somewhere an artist at Rockstar who helped with this tower sees this video and gets to feel really proud of what they made. I can’t wait for more experts in code and utility regulations to start posting videos about how accurate GTA 6′s electrical cables and highways are, and I’m not even joking.\nDon’t miss the latest reviews, news and tips. Sign up for our free newsletter.\nTips & Guides Rockstar Dev Tells GTA 6 Players To ‘Stop Thinking In Tasks, Completion Percentages, Online Guides’ The best way to play is ",
-    "extra": {
-     "image": "https://kotaku.com/app/uploads/2026/11/Gta-6-tower-1280x720.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "РЕАЛЬНЫЕ вышки в GTA 6\n\nЧел, который в жизни строит радиовышки, затестил их в игре и просто в шоке. Говорит, Rockstar проработали даже такие мелочи, как заземление опор и двойные контргайки, которые в других играх вечно забывают. Лютая база по детализации, Рокстар — просто монстры графики и реализма. 🏗️\n\n❤️ — Тоже залипаю на детали\n👎 — Мне бы в сюжет, а не на вышки",
-    "card_title": "РЕАЛЬНЫЕ ВЫШКИ В GTA 6",
-    "reason": "Эксперт в реальных вышках подтвердил невероятную детализацию объектов в игре.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.1-flash-lite"
-   },
-   "queued_at": "2026-11-21T22:05:11.716813+00:00"
-  },
   {
    "item": {
     "title": "GTA 6 radio DJs and podcast hosts: Every famous voice on GTA 6’s radio",
@@ -8719,35 +8708,6 @@
     "model": "groq:openai/gpt-oss-120b → gemini:gemini-3.5-flash"
    },
    "queued_at": "2026-11-22T01:07:10.569581+00:00"
-  },
-  {
-   "item": {
-    "title": "The Dexter Apartment Is the Best Proof Yet of How GTA 6 Builds Its World",
-    "link": "https://www.gtaboom.com/the-dexter-apartment-is-the-best-proof-yet-of-how-gta-6-builds-its-world-3cdd",
-    "summary": "GTA 6 brings Miami TV history to Vice City with Dexter’s waterfront apartment exterior, a rooftop kit and a renamed boat docked nearby.",
-    "published": "2026-11-21T21:56:50+00:00",
-    "source": "GTA BOOM",
-    "site_name": "GTA BOOM",
-    "trust": "medium",
-    "text": "One of the best Easter eggs in Grand Theft Auto VI is a locked apartment door nobody can open and it will probably remain closed forever. Dexter Morgan's waterfront place is in Vice City within hours of launch, down to the spiral staircase and the rooftop kill kit. Michael C. Hall later learned his own character's apartment was in the fastest-selling video game ever from the reporter interviewing him.\nThe references are everywhere once you know where to look. Trinity Apartments on Washington Island copies the exact exterior of Dexter Morgan's home from the original Dexter series. Even the name itself is a nod to the Trinity Killer. The rooftop holds the kit, a syringe for the M99 tranquilizer, a knife, rope, tape and gloves. A boat renamed the Lure Predator L35P sits docked nearby where the Slice of Life should be and there's even plastic-sheeted kill room near Key Lento.\nHall's reaction to the discovery is the tell. Promoting Dexter: Resurrection, he told Barstool Movies he had \"been informed\" about the GTA 6 apartment, that he \"wasn't consulted\" and that it felt good to be \"folded into the zeitgeist.\" Asked about Dexter memes, he went to the Doakes \"Surprise, motherfucker\" line.\nThis is what we mean when we talk about how Rockstar Games builds a world. Leonida works because it is built from real Miami. The real Miami locations in the game include the kind of waterfront block where Dexter filmed for eight seasons. Rockstar did not drop a reference in. It rebuilt a piece of the city's pop-culture DNA and let players find it. We have watched the studio do this at every scale, from the way a stray NPC sells the illusion to the random events the developers themselves got surprised by.\nThe overall pattern is familiar. The Florida Joker ended up in the game as a background face, a real-world Miami face folded in whether the subject signed off or not.\nFor anyone hunting the spots themselves, our Vice City map marks the neighborhoods.\nThe Dexter find sits in a long line of GTA 6 moments where the real world bleeds in, from spotting what could've been the apartment back when Grand Theft Auto VI: An Extended Look premiered in August, months before launch. The apartment is one detail in the game's believable version of the city. The celebrity enthusiasm goes beyond Hall, from the voice of DJ Cara taking two weeks off to Lewis Hamilton clearing his schedule.\nGetting referenced in a video game used to be a cute footnote. Now it is a marker of having mattered, pulled i",
-    "extra": {
-     "image": "https://media.gtaboom.com/variants/1920/media/images/ce/92/the-dexter-apartment-is-the-best-proof-yet-of-how-gta-6-builds-its-world-1.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "🗺 Гайд: пасхалка на сериал «Декстер»\n\nНашел крутую отсылку в Вайс-Сити — квартиру Декстера! Ищи в районе Washington Island, здание Trinity Apartments. Рокстары воссоздали всё до мелочей: винтовую лестницу, лодку рядом и даже набор для «уборки» на крыше. Полная база, разрабы реально заморочились с деталями! Сам Майкл Холл заценил такой флекс.\n\n❤️ — Топ пасхалка!\n👎 — Опять закрытая дверь, ну ё-моё",
-    "card_title": "СЕКРЕТНАЯ КВАРТИРА ДЕКСТЕРА В GTA 6",
-    "reason": "Это крутая пасхалка из вышедшей игры, которая очень нравится фанатам.",
-    "duplicate": false,
-    "corroborated": true,
-    "duplicate_of": "",
-    "corroborated_by": "GTA 6 Players Are Obsessed With Finding IRL Florida in Vice City",
-    "guide": true,
-    "model": "gemini:gemini-3.1-flash-lite"
-   },
-   "queued_at": "2026-11-21T22:05:18.251236+00:00"
   },
   {
    "item": {
@@ -8983,6 +8943,38 @@
   },
   {
    "item": {
+    "title": "Janelle James Bullied Her Way Into GTA 6, Then Rockstar Sent Her a Custom PS5 Pro",
+    "link": "https://www.gtaboom.com/janelle-james-bullied-her-way-into-gta-6-then-rockstar-sent-her-a-custom-ps5-pro-ad55",
+    "summary": "Janelle James unboxed Rockstar’s custom PS5 Pro and says she pitched and scripted She Got Assets, the GTA 6 radio show she hosts as Tish.",
+    "published": "2026-11-22T10:09:03+00:00",
+    "source": "GTA BOOM",
+    "site_name": "GTA BOOM",
+    "trust": "medium",
+    "text": "The custom Grand Theft Auto VI consoles Rockstar Games has been handing out did not stop at the Miami Heat. Abbott Elementary star Janelle James unboxed one of the same packages this week and her reaction might be the best part of the whole campaign. By her own account, James wasn’t recruited for the game. She bullied her way in.\nIn case you missed it, Rockstar put together a custom PlayStation 5 Pro in a Vice City finish, dark silver with etched palm trees, the GTA VI logo and neon teal-to-magenta stripes down the center. It comes with two matching DualSense controllers, a physical game case and the whole thing packed into a hard-shell briefcase. There is no store page and no press release. Every confirmation has come from recipients proudly posting their own unboxings on social media.\nWhat is in Rockstar's custom GTA 6 console package\nEvery piece of the gift Rockstar sent players and contributors that's currently not available to the public.\nJames shared her unboxing on Instagram around November 22, with a caption that was pure her.\nGOD IM TURNED ON KNOWING HOW MANY PEOPLE ARE JEALOUS RIGHT NOW, she wrote, THANK YOU ROCKSTAR.\nHer package arrived days after the Heat received theirs.\nJames did more for the game than lend her voice. James voices Tish, the host of a talk-radio show called \"She Got Assets\" on The Wipe, the kind of foul-mouthed segment players catch while driving. She did not just show up to record lines. She told fans on Instagram she pursued, conceptualized, pitched, scripted and voiced the whole show herself, then said Rockstar did not choose her, she bullied her way to them. She says she has played since Grand Theft Auto: Vice City, called it a literal dream come true and cast her comedian friends as guests.\nThe Heat players were the first to show the gift off. GTA 6's Vice City takeover of the arena on November 18 put the consoles in players' hands. We covered the first unboxings from Davion Mitchell, Nikola Jović, Tim Hardaway Jr. and others. Unfortunately, as far as we know, head coach Erik Spoelstra did not get one, though he has since said he would play if someone handed him a console.\nThe consoles are the glossiest piece of a Vice City marketing push we have tracked for weeks, from the black-and-pink Heat jerseys to the Cactus Jack apparel drop and the Rockstar-funded music event in Little Haiti. Unlike the Goodtime State collection you can buy, none of these consoles are for sale.\nWhose GTA 6 package would you want more, the Miami H",
+    "extra": {
+     "image": "https://media.gtaboom.com/variants/1920/media/images/e7/4a/janelle-james-bullied-her-way-into-gta-6-then-rockstar-sent-her-a-custom-ps5-pro.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "🎁 Актриса выбила роль в GTA 6 и получила кастомную PS5 Pro\n\nДжанелл Джеймс буквально «забуллила» Rockstar, чтобы замутить собственное радиошоу She Got Assets в игре. За такой жесткий флекс разрабы подогнали ей эксклюзивный чемодан с консолью в стиле Вайс-Сити. Вот это я понимаю, выбила себе топовый мерч! 🌴",
+    "card_title": "АКТРИСА ВЫБИЛА РОЛЬ В GTA 6",
+    "reason": "Актриса сама выбила себе роль в GTA 6 и получила кастомную PS5 Pro от Rockstar",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-3.5-flash"
+   },
+   "queued_at": "2026-11-22T10:19:29.255237+00:00",
+   "moderation": "approved",
+   "draft_msg_id": 77,
+   "waiting_logged": true
+  },
+  {
+   "item": {
     "title": "GTA 6 Is Too Big for Borders but Not for a Black Friday Discount",
     "link": "https://www.gtaboom.com/gta-6-is-too-big-for-borders-but-not-for-a-black-friday-discount-f9fa",
     "summary": "UK retailer ShopTo cut Grand Theft Auto VI Ultimate Edition on Xbox Series X|S to £68.85, about 25% off, in an early Black Friday deal.",
@@ -9094,9 +9086,10 @@
   "2026-11-22T07:45:16.792567+00:00",
   "2026-11-22T08:00:39.655785+00:00",
   "2026-11-22T08:16:15.135437+00:00",
-  "2026-11-22T09:13:29.759405+00:00"
+  "2026-11-22T09:13:29.759405+00:00",
+  "2026-11-22T10:19:40.823469+00:00"
  ],
- "tg_offset": 387129038,
+ "tg_offset": 387129040,
  "channel": {
   "id": -1003986639147,
   "title": "GTA 6 | Горячие новости",
@@ -9123,7 +9116,8 @@
   "2026-11-22T06:00:17.061585+00:00",
   "2026-11-22T07:01:07.973868+00:00",
   "2026-11-22T08:01:32.386619+00:00",
-  "2026-11-22T09:01:59.839607+00:00"
+  "2026-11-22T09:01:59.839607+00:00",
+  "2026-11-22T10:19:40.160726+00:00"
  ],
  "slots_sent": {
   "2026-11-21:guide:1": "2026-11-21T21:14:52.573728+00:00",
@@ -9151,7 +9145,8 @@
   "2026-11-21T21:38:25.673953+00:00",
   "2026-11-22T07:07:06.857669+00:00",
   "2026-11-22T08:09:45.463203+00:00",
-  "2026-11-22T09:12:46.509272+00:00"
+  "2026-11-22T09:12:46.509272+00:00",
+  "2026-11-22T10:17:37.834870+00:00"
  ],
  "clip_history": [
   {
@@ -13219,6 +13214,74 @@
    "ts": "2026-11-22T09:12:46.509295+00:00",
    "frames": [],
    "caption": "🔞 В стрип-клубе Вайс-Сити анимации и физика — просто лютый разнос 💀 Разработчики явно проработали детали по максимуму."
+  },
+  {
+   "author": "youtube:manguni gamer",
+   "vod": "",
+   "offset": -1,
+   "title": "Vimzz in Vice city🤩 Grand Theft Auto GTA 6 (60fps)| Epi 05 | Manguni Gamer",
+   "drafted": false,
+   "ts": "2026-11-22T10:13:05.855320+00:00"
+  },
+  {
+   "author": "youtube:fanum live",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 🍌 TODAY WE MAKE $1,000,000 🍌 DAY 4 🍌 ITS HEAVY 🍌 ROBBING PEOPLE ON SNAPMATIC 🍌 ROBBING CARS 🍌",
+   "drafted": false,
+   "ts": "2026-11-22T10:13:06.735752+00:00"
+  },
+  {
+   "author": "youtube:neonxpawan",
+   "vod": "",
+   "offset": -1,
+   "title": "🔴 GTA 6 LIVE 🔥 Exploring Vice City | INSANE Gameplay | Join Now!#gta6  #gta6shorts #GTA6Gameplay",
+   "drafted": false,
+   "ts": "2026-11-22T10:13:07.427904+00:00"
+  },
+  {
+   "author": "youtube:gamexboi",
+   "vod": "",
+   "offset": -1,
+   "title": "Can We Stop the Train In GTA 6 ? 🤔",
+   "drafted": false,
+   "ts": "2026-11-22T10:13:08.138765+00:00"
+  },
+  {
+   "author": "youtube:ctrlaltplay",
+   "vod": "",
+   "offset": -1,
+   "title": "Secret Muscle Car Location in GTA 6!",
+   "drafted": false,
+   "ts": "2026-11-22T10:13:59.024548+00:00"
+  },
+  {
+   "author": "twitch:woolieversus",
+   "vod": "2936501633",
+   "offset": 10495.0,
+   "title": "Reggie folds",
+   "drafted": false,
+   "ts": "2026-11-22T10:13:59.906091+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:silky",
+   "vod": "2936828440",
+   "offset": 8793.0,
+   "title": "NO KILL",
+   "drafted": false,
+   "ts": "2026-11-22T10:17:03.257764+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:silky",
+   "vod": "2936828440",
+   "offset": 8793.0,
+   "title": "NO KILL",
+   "drafted": true,
+   "ts": "2026-11-22T10:17:37.834888+00:00",
+   "frames": [],
+   "caption": "🔞 СПОЙЛЕР. Чел поймал жесткий тильт, когда Rockstar зацензурили горячую сцену в сюжетке 💀"
   }
  ],
  "published": [
@@ -13381,6 +13444,13 @@
    "msg_id": 50,
    "title": "В стрип-клубе Вайс-Сити анимации и физика — просто лютый разнос 💀 Разработчики явно прора…",
    "importance": 8,
+   "kind": "video"
+  },
+  {
+   "ts": "2026-11-22T10:19:40.823494+00:00",
+   "msg_id": 51,
+   "title": "СПОЙЛЕР. Чел поймал жесткий тильт, когда Rockstar зацензурили горячую сцену в сюжетке 💀",
+   "importance": 7,
    "kind": "video"
   }
  ],
