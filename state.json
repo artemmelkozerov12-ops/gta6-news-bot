@@ -3148,7 +3148,12 @@
   "b95c88e5784c5ed1": "2026-11-23T22:03:53.096677+00:00",
   "1b68d4f27021f7c1": "2026-11-23T22:04:14.943451+00:00",
   "ba371de1d199c87b": "2026-11-23T22:04:26.582711+00:00",
-  "7836ab1926fb821c": "2026-11-23T22:04:51.295075+00:00"
+  "7836ab1926fb821c": "2026-11-23T22:04:51.295075+00:00",
+  "7104a12c4e4e621a": "2026-11-23T22:20:12.527567+00:00",
+  "8a6faa8aa8b3b379": "2026-11-23T22:20:37.632274+00:00",
+  "f4d5c0770232beac": "2026-11-23T22:37:08.530049+00:00",
+  "beae7d81ad80be77": "2026-11-23T22:37:08.530118+00:00",
+  "13bff354fa974d07": "2026-11-23T22:37:37.447633+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -5283,7 +5288,11 @@
   "578b534be9e9749d": "2026-11-23T22:03:53.096677+00:00",
   "6feabf6c5469fa70": "2026-11-23T22:04:14.943451+00:00",
   "6ffb394b35300aad": "2026-11-23T22:04:26.582711+00:00",
-  "c4b4f82bde373b82": "2026-11-23T22:04:51.295075+00:00"
+  "c4b4f82bde373b82": "2026-11-23T22:04:51.295075+00:00",
+  "b4f3d02944c01968": "2026-11-23T22:20:12.527567+00:00",
+  "582487e3dff7e3fe": "2026-11-23T22:20:37.632274+00:00",
+  "805b22b538c0390c": "2026-11-23T22:37:37.447633+00:00",
+  "00f152ff3ccad823": "2026-11-23T22:37:08.530118+00:00"
  },
  "recent": [
   {
@@ -13709,6 +13718,54 @@
    "status": "skipped",
    "ts": "2026-11-23T22:04:51.295200+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GTA 6 update fixes crashes, autosaving and story-progress bugs",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-23T22:20:12.527611+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Актёр GTA VI попросил игроков о помощи — он забыл о своей роли и не может найти себя в игре",
+   "source": "iXBT.games",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-23T22:20:13.808489+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Update 1.002.002 Fixes Failed Autosaves and Missing Story Calls",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-23T22:20:45.953128+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Players Figure Out A Way To Remove Its Framerate Cap, But 60FPS Ain’t Happening Anytime Soon",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-23T22:37:08.530087+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "10 Hacks Every 'GTA 6' Player Should Know",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-23T22:37:08.530143+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "The Race Is On To Unofficially Port GTA 6 To PC After Cyberleek Drops .Exe File",
+   "source": "Kotaku",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-23T22:37:09.792484+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -14098,35 +14155,6 @@
     "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
    },
    "queued_at": "2026-11-23T17:48:26.944659+00:00"
-  },
-  {
-   "item": {
-    "title": "The GTA 6 Jason Arrest Video Going Viral Is Real Footage",
-    "link": "https://www.gtaboom.com/the-gta-6-jason-arrest-video-going-viral-is-real-footage-c5e5",
-    "summary": "The viral GTA 6 clip shows a supercar wrapped in Jason and Lucia artwork under D.C. police lights, with a “Call Lucia” overlay that mimics gameplay.",
-    "published": "2026-11-23T09:56:15+00:00",
-    "source": "GTA BOOM",
-    "site_name": "GTA BOOM",
-    "trust": "medium",
-    "text": "A 28-second video is tearing across social media right now showing a supercar wrapped in Grand Theft Auto VI artwork under police lights in Washington, D.C. An added “Call Lucia” overlay makes the scene look like it came from the game.\nIt’s unclear whether Rockstar Games had anything to do with the scene.\nWith that said, it is interesting that this is still happening. A supercar wrapped in GTA 6 Jason and Lucia artwork sitting on a D.C. street at night, lit up by police vehicles and what look like Secret Service units, with a \"TF WEST\" sign in shot. Someone slapped a \"Call Lucia\" overlay on top, a wink at the in-game mechanic that summons your partner. Frame by frame, the footage looks like an ordinary bystander clip.\nWhat it shows is a flashy wrapped car caught up in some police situation, nothing anyone has tied to an arrest.\nFrom the looks of it, the figure near the car is not Dylan Rourke either, the actor who plays Jason. Rourke is fair-skinned with reddish hair, while the man in the clip has short dark hair and looks more like the in-game character model under the emergency lighting.\nRockstar Games has run the loudest launch in entertainment history and it might still be running it. We watched actual GTA 6-wrapped cars rolling around Miami before launch, police Lamborghini and all, so a wrapped supercar drawing attention on a city street is a normal Monday at this point.\nUntil we get official confirmation, the real story under the noise is that GTA 6 and real life keep bleeding into each other. Several police departments across the United States have put out warnings telling fans not to act the game out on real streets. This is what happens to a game like GTA 6 after a record-breaking launch that put the game in front of everyone. In the game, Jason getting busted means a Busted screen and a respawn, minus some cash. In D.C. it means a wrapped car, a caption and going viral.\nFor now, the clip doesn't establish that anyone was arrested in Washington, D.C. The man by the car doesn't look like Dylan Rourke, who plays Jason in GTA 6, but the footage doesn't identify him. Whether the scene is part of GTA 6's marketing is still unclear.\nWhat comes next for GTA 6 is only something that Take-Two Interactive and Rockstar at this point but it's becoming clear that they're not done just yet.\nIn the meantime, be sure to check out our story guide if you're playing through GTA 6 and follow our tips on how to get the best weapons early in the game so you can avoid ",
-    "extra": {
-     "image": "https://media.gtaboom.com/variants/1920/media/images/7c/1e/the-gta-6-jason-arrest-video-going-viral-is-real-footage-1.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "🚨 ВИРУСНОЕ ВИДЕО С «АРЕСТОМ» ДЖЕЙСОНА В США\n\nВ сети вирусняк: спорткар в виниле GTA 6 окружила полиция прямо в Вашингтоне. На видео наложили плашку «Call Lucia», и народ подумал, что копы повязали актера Джейсона. На деле чел у тачки даже не похож на актера, да и ареста не было. Но рофл получился сочный — реальность опять путают с Vice City.",
-    "card_title": "ФЕЙКОВЫЙ АРЕСТ ДЖЕЙСОНА",
-    "reason": "Вирусное видео с реальной тачкой в стиле GTA 6 в Вашингтоне вызвало бурю обсуждений, это реальный футаж",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-3.5-flash"
-   },
-   "queued_at": "2026-11-23T10:09:14.867621+00:00"
   },
   {
    "item": {
@@ -20985,36 +21013,6 @@
   },
   {
    "item": {
-    "title": "The Race Is On To Unofficially Port GTA 6 To PC After Cyberleek Drops .Exe File",
-    "link": "https://kotaku.com/gta-6-leaker-cyberleek-claims-to-have-to-released-exe-file-that-could-lead-to-unofficial-pc-port-2000759529",
-    "summary": "They swear it's not all lies and crypto schemes",
-    "published": "2026-11-23T18:30:37+00:00",
-    "source": "Kotaku",
-    "site_name": "Kotaku",
-    "trust": "high",
-    "text": "Last week, infamous Grand Theft Auto 6 leaker Cyberleek claimed to have released a current Xbox build of the game that could be used to create an unofficial PC port. The only thing that was missing was the .exe file. Cyberleek claims they’ve released that now too, meaning it could only be a matter of time before the homebrew scene begins trying to decompile the biggest game ever.\n“The torch passes to the open source recomp and emulation projects,” the account posted online on November 23. “Before trusting any file, verify it.” They claimed this was part of an ongoing pro-consumer fight against greedy video game publisher practices and suggested that Rockstar Games’ parent company, Take-Two, has so far been unable to catch them. “Months of takedowns, subpoenas and wallet tracing later, the hunt is still on and the uploads keep arriving,” the account posted.\n“Every release was always free and always will be,” it continued, contradicting earlier announcements that releases would only happen when the $CYBERLEEK meme coin reached certain market cap thresholds.\nGTA VI's executable file out now. byu/Woleth inpcmasterrace\nThe surprise release of the .exe file has sent the homebrew scene into a frenzy. People from the Project Leonida community have been poring over what’s allegedly available to download online and sharing updates on their findings in a Discord. “CL has just dropped the exe, expect a lot of static recompilation work to be done soon,” one of the lead developers in the group posted on X. He added in the Discord, which has been flooded with new members, that “it will take at least a week for us to get somewhere noticeable to the point where you can play on your pc.”\nThe Leonida project is currently available to access online but does not contain “the game, keys or an executable, and it does not explain how to get them.” Unofficial porting efforts are being undertaken with the help of Claude AI, raising questions about just how fast a PC version of the game might become technically playable. GTA 6 is currently only on PS5 and Xbox Series X/S, with an official PC port reportedly coming in early 2027, but unannounced as of yet.\n“Undoubtedly, it would be very difficult to replicate the experience of consuming our game as intended because of technical limitations,” Take-Two CEO Strauss Zelnick told investors earlier this month. But he said that thanks to the recent flood of AI-fueled decomps, preventing such replications from happening is “going to become m",
-    "extra": {
-     "image": "https://kotaku.com/app/uploads/2026/10/gta-burning-1280x720.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 9,
-    "post": "Хакеры выложили .exe GTA 6\n\nГруппа Cyberleek слила исполняемый файл игры, и теперь энтузиасты из сообщества Project Leonida пытаются запилить неофициальный порт на ПК. Челы уже вовсю копаются в коде, обещая первые результаты через неделю. Rockstar пока молчит, но Take-Two в тильте от происходящего. Ждем разнос или очередной пшик? 🤯\n\n❤️ — Жду ПК-версию!\n👎 — Опять фейк и мусор",
-    "card_title": "ХАКЕРЫ ВЫЛОЖИЛИ ФАЙЛ ДЛЯ ПОРТА",
-    "reason": "Хакеры выложили исполняемый файл игры, что спровоцировало фанатское сообщество на попытки создания неофициального порта для ПК.",
-    "duplicate": false,
-    "corroborated": true,
-    "duplicate_of": "",
-    "corroborated_by": "До релиза фанатской ПК-версии GTA VI осталась неделя? Моддеры уже запустили игру и назвали системные требования",
-    "guide": false,
-    "model": "gemini:gemini-3.1-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-23T19:20:31.940770+00:00"
-  },
-  {
-   "item": {
     "title": "The Last of Us 2 dev says \"GTA 6 is the great pyramids of game development\"",
     "link": "https://www.gamesradar.com/games/grand-theft-auto/the-last-of-us-2-dev-says-gta-6-is-the-great-pyramids-of-game-development-in-that-people-will-be-asking-for-centuries-how-it-was-possible/",
     "summary": "\"The sheer size of the script must be mind boggling\"",
@@ -21132,36 +21130,6 @@
    },
    "corr": false,
    "since": "2026-11-23T20:13:34.521550+00:00"
-  },
-  {
-   "item": {
-    "title": "Актёр GTA VI попросил игроков о помощи — он забыл о своей роли и не может найти себя в игре",
-    "link": "https://ixbt.games/news/2026/11/23/akter-gta-vi-poprosil-igrokov-o-pomoshhi-on-zabyl-o-svoei-roli-i-ne-mozet-naiti-sebia-v-igre.html",
-    "summary": "Необходимо изучить множество разнообразных персонажей.",
-    "published": "2026-11-23T18:14:00+00:00",
-    "source": "iXBT.games",
-    "site_name": "iXBT.games",
-    "trust": "medium",
-    "text": "Необходимо изучить множество разнообразных персонажей.\nНедавно состоялся релиз Grand Theft Auto VI на консолях PlayStation 5 и Xbox Series X|S. Спало действие NDA (соглашения о неразглашении) и актёры начали рассказывать о своём участие в игре. Однако не все сейчас готовы рассказать про своих персонажей.\nВо время разработки многие вещи держатся в секрете, в том числе от самих актёров, и Grand Theft Auto VI разрабатывали много лет. Поэтому теперь некоторые не могут вспомнить детали своей роли.\nВ социальной сети завирусился пост одного из актёров. Гай А. Фортт (Guy A. Fortt) столкнулся с проблемой — он поработал над Grand Theft Auto VI, но не может сказать, кого именно сыграл:\nЯ был актёром захвата движений для GTA VI, однако понятия не имею, кого я там играю. Я проходил пробы 4-5 лет назад, они облепили мне всё тело и лицо этими шариками… а потом я вообще об этом забыл.\nФортту уже 63 года, у него нет PlayStation 5 и сам он не играет в видеоигры. Теперь он просит игроков в Grand Theft Auto VI о помощи с поиском его персонажа. По словам актёра, в одной из сцен он стоял за стойкой и взаимодействовал с Лусией и Джейсоном. Одна из основных версий: он мог сыграть кого-то из обслуживающего персонала, например продавца, или полицейского, который работает за столом\nНе пропускайте наши новостиДобавьте сайт в предпочитаемые источники, чтобы видеть нас чащеДобавить в Google",
-    "extra": {
-     "image": "https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1745512/media-a6a27ef0d6b7bc56be84af6a3dce0d3aeaed1039b1fc1cab1afcd7c057b44b5f.png"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "АКТЁР мокапа забыл кого сыграл\n\nДед вообще не геймер, консоли нет, а датчики на него вешали лет пять назад. Теперь просит челов помочь отыскать его героя в сюжете.",
-    "card_title": "АКТЁР МОКАПА ЗАБЫЛ СВОЮ РОЛЬ",
-    "reason": "Забавная история про актёра мокапа, который забыл свою роль и просит игроков найти его в игре.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-23T20:31:29.892579+00:00"
   },
   {
    "item": {
@@ -21342,6 +21310,36 @@
    },
    "corr": false,
    "since": "2026-11-23T22:02:22.285383+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA 6 Players Figure Out A Way To Remove Its Framerate Cap, But 60FPS Ain’t Happening Anytime Soon",
+    "link": "https://kotaku.com/gta-6-players-figure-out-a-way-to-remove-its-framerate-cap-but-60fps-aint-happening-anytime-soon-2000759582",
+    "summary": "Rockstar has suggested not even the PS5 Pro could handle higher framerates in GTA 6",
+    "published": "2026-11-23T22:30:19+00:00",
+    "source": "Kotaku",
+    "site_name": "Kotaku",
+    "trust": "high",
+    "text": "60FPSGrand Theft Auto 6GTA 6Rockstar Games\nA new glitch on Xbox lets players play Grand Theft Auto 6 without a framerate cap. It’s a neat trick that, in some circumstances, does allow the game to run at nearly 60FPS. However, this odd glitch really shows how GTA 6 is unlikely to get an actual performance mode anytime soon.\nGrand Theft Auto 6 targets 30FPS on PlayStation 5 and Xbox. This performance limitation upset some players, especially those hoping the game would hit higher numbers on PS5 Pro. And in some areas of the game, it struggles to maintain that level of performance due to the immense amount of simulation happening under the hood and all the incredible visual effects running at all times. Rockstar has also explained that current-gen hardware can’t support higher framerates. That hasn’t stopped fans from trying, and a new Xbox bug has some claiming a 60FPS mode is here. But it’s more complicated than that.\nAs explained in a new video from Digital Foundry, this Xbox glitch, which was discovered by Reddit user Meowwie64 and involves tweaking some refresh settings while booting up GTA 6 and a second game, is fun to play around with, but isn’t a hidden high-performance mode.\nAfter extensive testing, DF determined that playing GTA 6 with this glitch in effect resulted in an average framerate of 36FPS. That is higher than normal, but it doesn’t equate to a smoother experience. There are moments when you can get the game running at nearly 60FPS, but to do so you have to go out in the middle of the ocean, away from all the simulation and action, and look at the sky. And even then, GTA 6 can’t hit a locked 60FPS using this newly discovered glitch.\nIt also seems like this bug causes some weird issues with gameplay. When the framerate goes up, the game appears to speed up alongside it. This is likely a result of the bug and not a sign that GTA 6′s action is tied to the framerate. The one positive, as noted by Digital Foundry, is that input lag is reduced somewhat when using this mode. But keep in mind that as the framerate goes up, so does that game speed issue, making it harder to control the action while driving or shooting.\nSome online have tried to claim this is some secret 60FPS mode that Rockstar has hidden in the game for… some reason. Or that Rockstar lied when it told Kotaku these consoles, even the PS5 Pro, can’t handle a 40 or 60FPS mode. But the truth is that this is just a weird bug that might get patched in the near future by Xbox or Rockstar",
+    "extra": {
+     "image": "https://kotaku.com/app/uploads/2026/08/gta-6-top-art-1280x720.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "Глитч на разблокировку FPS\n\nЧел нашел способ убрать лимит кадров на Xbox. Спойлер: 60 FPS не ждите, это просто лютый баг, из-за которого игра ускоряется, а геймплей превращается в кринж. В океане на небо посмотришь — будет почти 60, но в городе — тильт. Не советуем тестить, если не хотите сломать себе нервы.\n\n❤️ — Жду патч на 60 FPS\n👎 — Мне и 30 хватает",
+    "card_title": "ГЛИТЧ НА FPS В GTA 6",
+    "reason": "Глитч на разблокировку FPS — это хайповая тема, хотя и не дает стабильных 60 кадров.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "GTA 6 Players Figure Out A Way To Remove Its Framerate Cap, But 60FPS Ain’t Happening Anytime Soon",
+    "corroborated_by": "GTA 6 Players Figure Out A Way To Remove Its Framerate Cap, But 60FPS Ain’t Happening Anytime Soon",
+    "guide": false,
+    "model": "gemini:gemini-3.1-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-23T22:38:33.318766+00:00"
   }
  ]
 }
