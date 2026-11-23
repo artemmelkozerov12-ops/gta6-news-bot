@@ -2795,7 +2795,29 @@
   "f051c5cdbd9ebfc6": "2026-11-23T13:05:28.758229+00:00",
   "67adfa6236a7c7cf": "2026-11-23T13:05:33.942350+00:00",
   "8526e79ca9ef20ea": "2026-11-23T13:05:56.147327+00:00",
-  "ec59c1aeab8187f2": "2026-11-23T13:06:18.652510+00:00"
+  "ec59c1aeab8187f2": "2026-11-23T13:06:18.652510+00:00",
+  "db31a9b56bffb835": "2026-11-23T13:22:16.091673+00:00",
+  "6ef70dff3a3729e9": "2026-11-23T13:22:16.091765+00:00",
+  "ac97c932851e5def": "2026-11-23T13:22:16.095248+00:00",
+  "cbab2aac13a70a6d": "2026-11-23T13:22:16.188696+00:00",
+  "8ed57134c1152022": "2026-11-23T13:22:16.362933+00:00",
+  "18be20e9dbd318f9": "2026-11-23T13:22:18.881101+00:00",
+  "3a437410bffb259a": "2026-11-23T13:22:26.702820+00:00",
+  "740ba63d471a06a5": "2026-11-23T13:22:34.996904+00:00",
+  "cff69eb9f4c5c1c1": "2026-11-23T13:23:13.127294+00:00",
+  "a4d2a9f08ac17703": "2026-11-23T13:23:15.633578+00:00",
+  "cf50d19f273677d0": "2026-11-23T13:23:38.990914+00:00",
+  "b65a7aa0dd90484c": "2026-11-23T13:24:01.934019+00:00",
+  "2a4641344a6e073c": "2026-11-23T13:24:25.289142+00:00",
+  "241b88788a10af0b": "2026-11-23T13:40:37.013302+00:00",
+  "8be0cbbb7a7c8c53": "2026-11-23T13:41:27.985186+00:00",
+  "450d5d2bb17d5358": "2026-11-23T13:41:30.165483+00:00",
+  "8ba74b9023694190": "2026-11-23T13:42:00.748223+00:00",
+  "01aadbb9fb814f00": "2026-11-23T13:42:30.377475+00:00",
+  "e01458895bcf83de": "2026-11-23T13:42:54.302680+00:00",
+  "11df7b339537d302": "2026-11-23T13:43:16.954192+00:00",
+  "2d1de7c1f4559d86": "2026-11-23T13:43:40.564162+00:00",
+  "ec0b0b95ab6284f8": "2026-11-23T13:44:01.539510+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -4721,7 +4743,27 @@
   "c2d19e9c41c10c29": "2026-11-23T13:05:28.758229+00:00",
   "620996d5f0791533": "2026-11-23T13:05:33.942350+00:00",
   "88c3f6194dd7ce57": "2026-11-23T13:05:56.147327+00:00",
-  "7a24c7a65ab98209": "2026-11-23T13:06:18.652510+00:00"
+  "7a24c7a65ab98209": "2026-11-23T13:06:18.652510+00:00",
+  "3cfbe8e2c293e9bd": "2026-11-23T13:24:01.934019+00:00",
+  "bcc18ceb7bd189fe": "2026-11-23T13:22:16.091765+00:00",
+  "ac905a23ae920b61": "2026-11-23T13:22:16.095248+00:00",
+  "60ef9784a9d40f44": "2026-11-23T13:22:16.188696+00:00",
+  "4a23edf312264579": "2026-11-23T13:22:16.362933+00:00",
+  "997f86be8d91695f": "2026-11-23T13:22:18.881101+00:00",
+  "d9c1166d56101852": "2026-11-23T13:22:26.702820+00:00",
+  "2499c4f473201ee9": "2026-11-23T13:22:34.996904+00:00",
+  "6e49ff24cc1ec48f": "2026-11-23T13:23:13.127294+00:00",
+  "13d5b5ea81521dd4": "2026-11-23T13:23:15.633578+00:00",
+  "0d09c0b7f99d53ad": "2026-11-23T13:23:38.990914+00:00",
+  "5bb19419db40e8b7": "2026-11-23T13:24:25.289142+00:00",
+  "daaa884525aac063": "2026-11-23T13:42:00.748223+00:00",
+  "df40b76526d767f5": "2026-11-23T13:41:27.985186+00:00",
+  "22fbc72fb69cf478": "2026-11-23T13:41:30.165483+00:00",
+  "56d7118db6a2ed93": "2026-11-23T13:42:30.377475+00:00",
+  "7fd3a8a272f589bd": "2026-11-23T13:42:54.302680+00:00",
+  "490dc322132a8f00": "2026-11-23T13:43:16.954192+00:00",
+  "86bd7bbda8809325": "2026-11-23T13:43:40.564162+00:00",
+  "83257e48d152fd0f": "2026-11-23T13:44:01.539510+00:00"
  },
  "recent": [
   {
@@ -12459,38 +12501,169 @@
    "status": "skipped",
    "ts": "2026-11-23T13:06:18.652632+00:00",
    "card_title": ""
+  },
+  {
+   "title": "'GTA 6' sales left every 2026 entertainment release in the dust. Here's how much.",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-23T13:22:16.091718+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Here's how to steal the Schafter V12 in GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-23T13:22:16.091805+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to steal the Schafter V12 in GTA 6",
+   "source": "PC Gamer",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-23T13:22:16.095275+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Where to Find The Invetero Coquette D10 Supercar in GTA 6—Randy’s Wishlist Car Locations",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "dup",
+   "ts": "2026-11-23T13:22:16.188748+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI has reportedly already sold about 45 million copies",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-23T13:22:16.363018+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Where To Find the Snap Gun in GTA 6—Lockpick Doors and Avoid Alarms During Robberies",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-23T13:22:19.752600+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to Play GTA 6 in First Person With the Camera Glitch",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-23T13:22:27.524782+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "\"Cyberpunk 2 is cancelled,\" says the RPG's director after entering a \"GTA 6-induced\" depression",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-23T13:23:04.434866+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 revenue \"roughly equal\" to Spider-Man: Brand New Day and The Odyssey combined, analyst says",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-23T13:23:13.701350+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Didn’t Include Darts Because It Needed “A Lot of Work” to “Get It Tuned Right”",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T13:23:38.991050+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "'GTA 6' sales left every 2026 entertainment release in the dust. Here's how much.",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T13:24:01.934149+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "'This community will have it emulated inside a week': Cyberleek is set to release the final piece of their GTA 6 leak today — here's what that means for the PC version",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T13:24:25.289266+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Update 01.002.002 Rolling Out Now, Although There Are No Patch Notes Yet",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-23T13:40:37.013351+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Даже Тэйлор Свифт с ее турами такое не снилось: GTA VI заработала более $4 млрд за первые четыре дня после релиза и разошлась тиражом почти 45 млн копий, подсчитали аналитики",
+   "source": "iXBT.games",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-23T13:41:28.421719+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Update 01.002.002 Rolling Out Now, Although There Are No Patch Notes Yet",
+   "source": "IGN",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-23T13:42:09.322798+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "У каждого NPC в GTA 6 есть своя история",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T13:42:30.377588+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Motion Capture Actor Has No Idea Who He Is in the Game, Sparks Social Media Hunt to Find His Character",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T13:42:54.302839+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Sony and Microsoft are blocking public access to GTA 6 and demanding $70 to launch it on another profile.",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T13:43:16.954336+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Sony и Microsoft блокируют общий доступ к GTA 6 и требуют $70 за запуск на другом профиле",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T13:43:40.564305+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI inspires Arapahoe County game mashups",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T13:44:01.539627+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
-  {
-   "item": {
-    "title": "GTA 6 Is Getting Review Bombed in Zelda vs. GTA Troll War",
-    "link": "https://www.polygon.com/gta-6-review-bombed-legend-of-zelda/",
-    "summary": "Grand Theft Auto 6 and The Legend of Zelda: Ocarina of Time fans are fighting over Metacritic scores as part of a larger anti-woke culture war.",
-    "published": "2026-11-23T00:45:43+00:00",
-    "source": "Polygon",
-    "site_name": "Polygon",
-    "trust": "high",
-    "text": "Grand Theft Auto 6 may be the highest-rated game of all time on Metacritic, and may have earned a record-breaking $3.79 billion on launch day, but that doesn't mean Rockstar Games' new blockbuster can't have its haters. Multiple groups have descended on GTA 6's Metacritic page to attack the game for its perceived shortcomings, much of that criticism is based on culture war nonsense.\nBut some of GTA 6's detractors are targeting the game for another reason: for slighting The Legend of Zelda.\nGTA 6 made its debut on Metacritic with a 99 Metascore, based on more than 150 critics reviews. That feat nudged the previous best game of all time, at least going by Metacritic score averages, The Legend of Zelda: Ocarina of Time, down to No. 2 on the review aggregator website. That has led some Legend of Zelda supporters to review bomb Grand Theft Auto 6 on Metacritic, and some GTA 6 supporters to do the same to Zelda. Now, both camps are in a pointless war to lower the other franchise's user review score.\nOver the past few days, GTA and Zelda fans have been trading barbs and slinging \"0\" user review scores at their perceived rivals. As of Sunday, Nov. 22, Grand Theft Auto 6's user review score on Metacritic has dipped to 5.6, indicating \"mixed or average\" reviews from players. In response, the original Ocarina of Time and its Nintendo Switch 2 remake have also been review bombed (though their user scores are in the mid-8s as of Sunday).\nThe completion percentage is the only tally GTA keeps, and for you it is the whole reason the hours are worth counting.\nYour first hour goes on the collectibles menu, working out the size of the job before you start it.\nA mission that goes wrong gets replayed until it is clean, because there is a rating attached and you are going for it.\nYou were still at 68 percent when the credits rolled, and the credits did not feel like an ending.\nGTA spends more effort on the feel of a car at night than on almost anything else, and you are the player that work was for.\nThere is a waypoint on your map and you may never reach it, because the drive is better than the arrival.\nYou have one car, you drive it everywhere, and you know exactly where you parked it.\nThe credits rolled and nothing changed. You are still out there with the radio on.\nStopping at a red light in an empty city is a choice nobody asks you to make, which is exactly why you make it.\nYour first hour goes on the camera, the controls and the radio, set precisely how you want them befor",
-    "extra": {
-     "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/lucia_caminos_07.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "🎭 ФАНАТЫ ZELDA ОБРУШИЛИ ОЦЕНКИ GTA 6!\n\nGTA VI обогнала легендарную Ocarina of Time на Metacritic с оценкой 99, и тут начался лютый кринж. Фаны «Зельды» обиделись и занизили пользовательский рейтинг игры до 5.6, а нашенские в ответ пошли топить игры Nintendo. Вот это рофл года!\n\n❤️ — Наш Вайс-Сити всё равно топчик\n👎 — Детский сад какой-то",
-    "card_title": "ВОЙНА С ZELDA НА METACRITIC",
-    "reason": "Официальные данные крупного СМИ о ревью-бомбинге GTA 6 фанатами Zelda.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "GTA 6 Is Getting Review Bombed in Zelda vs. GTA Troll War",
-    "corroborated_by": "GTA 6 Is Getting Review Bombed in Zelda vs. GTA Troll War",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-3.5-flash"
-   },
-   "queued_at": "2026-11-23T01:06:51.441416+00:00"
-  },
   {
    "item": {
     "title": "GTA 6 \"girlfriend simulator\" complaints \"are real\" at first, ex-Rockstar lead says",
@@ -12551,35 +12724,6 @@
   },
   {
    "item": {
-    "title": "На PlayStation начали банить игроков за пикантные кадры геймплея GTA VI — на аккаунт накладывают 30-дневные ограничения",
-    "link": "https://ixbt.games/news/2026/11/23/na-playstation-nacali-banit-igrokov-za-pikantnye-kadry-geimpleia-gta-vi-na-akkaunt-nakladyvaiut-30-dnevnye-ograniceniia.html",
-    "summary": "История игроков на Xbox некоторых ничему не научила.",
-    "published": "2026-11-23T01:09:00+00:00",
-    "source": "iXBT.games",
-    "site_name": "iXBT.games",
-    "trust": "medium",
-    "text": "История игроков на Xbox некоторых ничему не научила.\nНедавно состоялся релиз Grand Theft Auto VI на PlayStation 5 и Xbox Series X|S. Вскоре игроки на консолях Microsoft начали жаловаться: они стали получать временные блокировки после загрузки записей геймплея — система модерации реагировали на пикантный контент, например на наличие в сцене обнажёнки.\nОдин из игроков на PlayStation 5 на собственном опыте убедился, что распространение пикантных кадров Grand Theft Auto VI не лучшая идея и на консоли Sony. По словам derrickgott007, ему выдали бан PlayStation Network на целый месяц — ему ограничили социальные функции:\nНе отправляйте. ПОВТОРЯЮ: НЕ ОТПРАВЛЯЙТЕ через систему сообщений PSN скриншоты, сделанные внутриигровой камерой, если на них есть нагота [обнажённое тело в кадре]. Я только что получил бан социальных функций PSN на 30 дней за то, что отправил другу скриншот нудистского поселения, которое я нашёл в GTA VI.\nСудя по представленному derrickgott007 изображению с уведомлением, система модерации PlayStation Network после изучения кадра решила, что его содержание является «Порнографическим или непристойным контентом».\nНе пропускайте наши новостиДобавьте сайт в предпочитаемые источники, чтобы видеть нас чащеДобавить в Google",
-    "extra": {
-     "image": "https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1745160/media-65ce0f0788d187ad83939f46255597bc07a5df629a5951d24e433902a60e68bb.png"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "🚫 БАН НА МЕСЯЦ ЗА СКРИНЫ В GTA 6\n\nНа PlayStation начался лютый тильт: консольщиков банят на 30 дней за рассылку пикантных кадров из игры. Один чел отправил другу фото нудистского поселения в GTA 6 и моментально схватил блок соцфункций PSN за «непристойный контент». Так что не флексьте горячими скриншотами в ЛС, модерация не спит!\n\n❤️ — Жёсткий кринж от PSN\n👎 — Нефиг голых скриншотить",
-    "card_title": "БАНЫ ЗА СКРИНШОТЫ В PSN",
-    "reason": "Подтверждённый инцидент от medium‑источника, важен для игроков",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "groq:openai/gpt-oss-120b → gemini:gemini-3.5-flash"
-   },
-   "queued_at": "2026-11-23T01:38:02.748496+00:00"
-  },
-  {
-   "item": {
     "title": "GTA 6 Has Already Sold 45 Million Copies, Says Research Firm",
     "link": "https://insider-gaming.com/gta-6-45-million-copies/",
     "summary": "A research firm claims GTA 6 has already sold nearly 45 million copies in its launch weekend, amounting to over $4 billion in revenue. The post GTA 6 Has Already Sold 45 Million Copies, Says Research Firm appeared first on Insider Gaming .",
@@ -12608,35 +12752,6 @@
    "queued_at": "2026-11-23T12:48:28.674127+00:00",
    "moderation": "pending",
    "draft_msg_id": 108
-  },
-  {
-   "item": {
-    "title": "Звезда Red Dead Redemption 2 стала кастинг-директором GTA VI — она нашла девушку для обложки игры",
-    "link": "https://ixbt.games/news/2026/11/23/zvezda-red-dead-redemption-2-stala-kasting-direktorom-gta-vi-ona-nasla-devusku-dlia-oblozki-igry.html",
-    "summary": "Для одной из актрис сотрудничество с Rockstar Games вышло на новый уровень.",
-    "published": "2026-11-23T00:56:00+00:00",
-    "source": "iXBT.games",
-    "site_name": "iXBT.games",
-    "trust": "medium",
-    "text": "Для одной из актрис сотрудничество с Rockstar Games вышло на новый уровень.\nНедавно состоялся релиз Grand Theft Auto VI и спало действие NDA (соглашения о неразглашении). Актёры и другие участники проекта стали подтверждать своё участие.\nКак оказалось, команду Rockstar Games пополнила актриса, которая в прошлом сыграла одного из персонажей в Red Dead Redemption 2. Кали Элизабет Мур (Cali Elizabeth Moore), которую игроки знают по роли Эбигейл Робертс, стала кастинг-директором Grand Theft Auto VI.\nОна опубликовала обращение в социальной сети:\nПосле многих лет работы с Rockstar в качестве актрисы в Red Dead Redemption 2 у меня появилась возможность стать штатным сотрудником компании —кастинг-директором Rockstar, и я с радостью ухватилась за шанс работать с этой замечательной, доброй и талантливой командой. После многих лет кастинга тысяч актёров со всего мира для этого проекта я невероятно горжусь тем, чего добилась моя потрясающая команда. Провести бесчисленные часы в поисках актёра, свободно говорящего с нужным испанским акцентом; танцовщицы для необходимой анимации в стриптиз-клубе; актёра, достойного наших блестяще написанных главных персонажей; каскадёра, способного выполнить захватывающий дух трюк; идеального аутентичного лица для сканирования — это была огромная задача, и так здорово наконец поделиться этой работой со всем миром.\nПосле выхода также стало известно о том, кто на самом деле стал прототипом девушки с обложки Grand Theft Auto VI. Недавно актриса поблагодарила Кали Элизабет Мур и её команду за то, что они нашли её и дали шанс принять участие в таком проекте.\nНайдена настоящая девушка с обложки GTA VI — модель подтвердила участие в проекте\nНе пропускайте наши новостиДобавьте сайт в предпочитаемые источники, чтобы видеть нас чащеДобавить в Google",
-    "extra": {
-     "image": "https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1745158/media-3ef2f1d270e8eb5fe65541fcacd0806f37f101f7e221003650a8d84b4cbe4ac9.png"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "🔥 Актриса из RDR 2 нашла девушку для обложки GTA 6!\n\nКали Элизабет Мур, сыгравшая Эбигейл в Red Dead Redemption 2, официально стала кастинг-директором Rockstar. Именно она с командой искала актеров, танцовщиц для стрип-клубов и ту самую красотку с арта игры. Вот это карьерный рост, чисто база! 😎",
-    "card_title": "АКТРИСА RDR 2 НАШЛА ДЕВУШКУ С ОБЛОЖКИ",
-    "reason": "Подтверждённый факт от medium‑доверенного источника, интересен фанатам",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "groq:openai/gpt-oss-120b → gemini:gemini-3.5-flash"
-   },
-   "queued_at": "2026-11-23T01:38:07.908546+00:00"
   },
   {
    "item": {
@@ -19330,5 +19445,64 @@
   "digest-20261121": "2026-11-21T19:30:10.993120+00:00",
   "digest-20261122": "2026-11-22T19:31:01.015194+00:00"
  },
- "rewrite_wait": []
+ "rewrite_wait": [
+  {
+   "item": {
+    "title": "GTA 6 заработала $4 млрд за выходные — больше Spider-Man и The Odyssey",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1UY09rUWZlRW1WU3VqclViand4U2xua0VSX1JYdk1Wek9ZdzVmMV91RE5TVE0xT3F3RWtqQlh1bW1ROXZlUEtkTnpDZWZCTTd3RFo1Z1UybzV2SzFVRWxrdXpOZHd6cWpjNnl1dEFn?oc=5",
+    "summary": "GTA 6 заработала $4 млрд за выходные — больше Spider-Man и The Odyssey dungen.ru",
+    "published": "2026-11-23T13:20:44+00:00",
+    "source": "Google News (RU)",
+    "site_name": "dungen.ru",
+    "trust": "rumor",
+    "text": "GTA 6 заработала $4 млрд за выходные — больше Spider-Man и The Odyssey dungen.ru",
+    "extra": {}
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 9,
+    "post": "💰 GTA 6 ЗАВЕРНУЛА $4 МЛРД ЗА ВЫХОДНЫЕ\n\nКасса Rockstar не останавливается: сумма бьёт рекорды и превосходит результаты Spider-Man и The Odyssey. Игроки спали, а мы всё считали. Имба-монетизация или просто магия бренда?\",",
+    "card_title": "GTA 6: $4 МЛРД ЗА ВЫХОДНЫЕ",
+    "reason": "Крупные финансовые результаты игры, подтверждённые аналитикой, высокая новостная значимость и интерес аудитории.",
+    "duplicate": false,
+    "corroborated": true,
+    "duplicate_of": "",
+    "corroborated_by": "GTA 6 revenue \"roughly equal\" to Spider-Man: Brand New Day and The Odyssey combined, analyst says — GamesRadar+, доверие: high",
+    "guide": false,
+    "model": "groq:qwen/qwen3.8-27b"
+   },
+   "corr": false,
+   "since": "2026-11-23T13:23:17.052261+00:00"
+  },
+  {
+   "item": {
+    "title": "'The System Is Not Good Vs. Evil': Why GTA 6's Criminal Profile Mechanic Is Dividing Fans",
+    "link": "https://www.ign.com/articles/gta-6-criminal-profile-system-self-defense-penalties",
+    "summary": "GTA 6 players are debating the game's Criminal Profile system, and how it operates with more depth than just a straightforward \"good vs. evil\" morality system.",
+    "published": "2026-11-23T13:10:30+00:00",
+    "source": "IGN",
+    "site_name": "IGN",
+    "trust": "high",
+    "text": "GTA 6 players are debating the game's Criminal Profile scale, and how it operates with more depth than just a straightforward \"good vs. evil\" morality system.\nWhile previous Rockstar adventures have operated on a simpler, binary scale, GTA 6 offers a more nuanced Criminal Profile that reflects your playstyle — from silent and stealthy to excessively violent and \"psycho.\" But some players have criticised how the gameplay mechanic appears to penalise actions taken in self-defence, while others have suggested it is just not well explained.\nFrom \"Professional\" all the way to \"Irredeemable,\" GTA 6 tracks each character's actions across a series of five profile labels — and yes, you can make Jason and Lucia have wildly different personalities from each other, depending on your actions as either. But Professional does not mean pacifist, and players will inevitably still rack up a fair body count as they explore more of Leonida — the difference here is how messy you are along the way.\nThe scale begins with Professional, which reflects actions that align with an undetected or non-lethal play style. Stealth takedowns and non-lethal incapacitations award a focus boost, as do kind acts towards NPCs. Go for limbs (highlighted in yellow while in bullet time) rather than headshots to keep this rating intact, or earn points back towards it if you're currently rated as more wantonly violent.\nNext up is Hardened, which reflects a slightly less cautious approach to firefights and taking lives in general. You're headshotting the bad guys rather than incapacitating them, in other words, but not mowing down the innocent cops who try and stop you on the way out.\nTurn things up a notch and you get to Violent, where cops and random passers by are being caught up in your rampage. It's at this level that your focus boost switches to pulling off headshots, reflecting your own more violent playstyle. But there's still a way to go yet before you're playing GTA 6 at your worst.\nSlip into Pyscho rank and you'll have left a lot of defenceless people and animals smeared across the tarmac or piled up in artfully arranged piles of corpses. It's a this rank that cops are so tired of your bulls**t that the option to surrender gets removed, and probably fair enough.\nAnd then there's Irredeemable. If you don't revert from Psycho after a while — and ignore multiple in-game warnings — you'll permanently slip into Irredeemable territory for the rest of your playthrough. There no way to change your ",
+    "extra": {
+     "image": "https://assets-prd.ignimgs.com/2026/11/22/jason-duval-gta-6-1795371162747.png"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "🚔 GTA 6: КРИМИНАЛЬНЫЙ ПРОФИЛЬ ДЕЛИТ ФАНАТОВ\n\nСистема репутации от «Профессионала» до «Неисправимого» — это не просто добро и зло. Игроки орут, что механика наказывает за самооборону, превращая мирных в психов. Лютый кринж или честный хардкор? Голосуем:\n❤️ — Честно, за хаос платить надо\n👎 — Батл-пас, вали",
+    "card_title": "КРИМИНАЛЬНЫЙ ПРОФИЛЬ В GTA 6",
+    "reason": "Подтвержденная IGN механика, вызывающая бурные споры в комьюнити (хайп/драма).",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "groq:qwen/qwen3.8-27b"
+   },
+   "corr": false,
+   "since": "2026-11-23T13:41:34.616025+00:00"
+  }
+ ]
 }
