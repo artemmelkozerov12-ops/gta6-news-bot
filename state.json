@@ -3138,7 +3138,17 @@
   "c7a47f67aa2457b0": "2026-11-23T21:44:55.096725+00:00",
   "78a6030fded95253": "2026-11-23T21:45:15.018703+00:00",
   "2b8ed3702b634c31": "2026-11-23T21:45:55.569930+00:00",
-  "6a9acad0354b7b98": "2026-11-23T21:46:24.633121+00:00"
+  "6a9acad0354b7b98": "2026-11-23T21:46:24.633121+00:00",
+  "988f19e38dcdb90e": "2026-11-23T22:01:45.786964+00:00",
+  "cc057924dca6a3c7": "2026-11-23T22:01:45.787046+00:00",
+  "60b76d9590654241": "2026-11-23T22:02:21.016484+00:00",
+  "76012fa095a9e82a": "2026-11-23T22:02:21.965963+00:00",
+  "222e09ff585bd1ab": "2026-11-23T22:03:29.044574+00:00",
+  "06f43049c6a648a6": "2026-11-23T22:03:32.423169+00:00",
+  "b95c88e5784c5ed1": "2026-11-23T22:03:53.096677+00:00",
+  "1b68d4f27021f7c1": "2026-11-23T22:04:14.943451+00:00",
+  "ba371de1d199c87b": "2026-11-23T22:04:26.582711+00:00",
+  "7836ab1926fb821c": "2026-11-23T22:04:51.295075+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -5265,7 +5275,15 @@
   "da6de01dda6af1e5": "2026-11-23T21:44:55.096725+00:00",
   "35cbdcf29e9f0890": "2026-11-23T21:45:15.018703+00:00",
   "b3ba38107f49e4d0": "2026-11-23T21:45:55.569930+00:00",
-  "3340158ed9ba8ee2": "2026-11-23T21:46:24.633121+00:00"
+  "3340158ed9ba8ee2": "2026-11-23T21:46:24.633121+00:00",
+  "3950b4a9a53253ee": "2026-11-23T22:03:32.423169+00:00",
+  "26b9e2f6e22c90f8": "2026-11-23T22:02:21.965963+00:00",
+  "d9fc5a0354660e52": "2026-11-23T22:02:21.016484+00:00",
+  "f8399c47d525061d": "2026-11-23T22:03:29.044574+00:00",
+  "578b534be9e9749d": "2026-11-23T22:03:53.096677+00:00",
+  "6feabf6c5469fa70": "2026-11-23T22:04:14.943451+00:00",
+  "6ffb394b35300aad": "2026-11-23T22:04:26.582711+00:00",
+  "c4b4f82bde373b82": "2026-11-23T22:04:51.295075+00:00"
  },
  "recent": [
   {
@@ -13176,7 +13194,7 @@
    "title": "Cyberleek releases executable for GTA 6 Xbox build leaked last week: 'The torch passes to the open source recomp and emulation projects'",
    "source": "PC Gamer",
    "trust": "high",
-   "status": "queued",
+   "status": "published",
    "ts": "2026-11-23T20:12:05.386680+00:00",
    "card_title": "КИБЕРЛИК ВЫЛОЖИЛ EXE GTA6"
   },
@@ -13603,40 +13621,97 @@
    "status": "skipped",
    "ts": "2026-11-23T21:46:24.633243+00:00",
    "card_title": ""
+  },
+  {
+   "title": "All the ‘GTA 6’ Movie and TV References: From ‘Jaws’ to ‘Die Hard,’ Rockstar Pays Tribute to Hollywood Classics",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-23T22:01:45.787016+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "This GTA 6 Glitch (Almost) Ruined The Game’s Most Iconic Scene",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-23T22:01:45.787075+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Some Unlucky GTA 6 Players Keep Running Into Crashes On PS5, But There Are Workarounds",
+   "source": "Kotaku",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-23T22:01:47.209127+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Rockstar Just Dropped a GTA 6 Deluxe Album With 23 New Tracks",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-23T22:01:47.209222+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Grand Theft Auto VI: The Album (Deluxe Edition)",
+   "source": "Rockstar Newswire",
+   "trust": "official",
+   "status": "skipped",
+   "ts": "2026-11-23T22:01:47.209254+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 is already playable in your browser, but only if you're extremely patient",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "error",
+   "ts": "2026-11-23T22:03:29.044649+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "All the ‘GTA 6’ Movie and TV References: From ‘Jaws’ to ‘Die Hard,’ Rockstar Pays Tribute to Hollywood Classics",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T22:03:32.423300+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Is There a Casino in GTA 6? Gambling Explained",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T22:03:53.096806+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "6 Signs GTA 6 Is Ruining Your Relationship, According to a Couples Therapist",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T22:04:14.943578+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "The missing piece needed to get the leaked GTA 6 Xbox build running on PC has reportedly surfaced online",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T22:04:26.582839+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Как найти портал в оригинальную Vice City в GTA 6: полное прохождение загадки с Томми Версетти",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T22:04:51.295200+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
-  {
-   "item": {
-    "title": "Cyberleek releases executable for GTA 6 Xbox build leaked last week: 'The torch passes to the open source recomp and emulation projects'",
-    "link": "https://www.pcgamer.com/games/grand-theft-auto/cyberleek-releases-executable-for-gta-6-xbox-build-leaked-last-week-the-torch-passes-to-the-open-source-recomp-and-emulation-projects/",
-    "summary": "The notorious GTA 6 leaker called it \"an early Christmas gift.\"",
-    "published": "2026-11-23T17:54:30+00:00",
-    "source": "PC Gamer",
-    "site_name": "PC Gamer",
-    "trust": "high",
-    "text": "Grand Theft Auto 6 leaker Cyberleek appears to have followed through on their threat to release the executable of the Xbox build of GTA 6 they put into the wild last week, calling it \"an early Christmas gift\" for followers and explicitly linking the leak to efforts to recreate the game on PC: \"The torch passes to the open source recomp and emulation projects.\"\nCyberleek released a near-complete build of GTA 6 late last week, holding back only the main exe—the part that makes everything else run, basically—until either their crypto coin achieved a $15 million market cap, or November 23, whichever came first. The crypto missed badly, but time marches on, and so here we are.\nThe release of the exe, naturally, includes a call for more \"donations\" in its readme file (via Reddit) which Cyberleek said will go toward a secretive project \"for the gamers.\" They also taunted Take-Two Interactive's efforts to track them down: \"Months of takedowns, subpoenas and wallet tracing later, the hunt is still on and the uploads keep arriving. No budget makes a lock unbreakable, and no court order deletes what the internet already has.\"\nLeaks in the game industry aren't anything new, but this case is unique: GTA 6, effectively the biggest videogame of all time, still hasn't been announced for PC, as is Take-Two's way. But the advent of AI means the game could be emulated on our platform far more quickly than was possible in the past—some modders estimated it could happen within a week.\nOne of the leads on the Leonida recomp project predicted that things will start to move quickly from here:\nAt the same time, Shayder tempered expectations in a message on the Leonida Discord, saying \"it will take at least a week\" for the project to reach the point where GTA will be playable on PC.\nHow that unofficial emulated made-with-AI build would compare to the real deal is an open question, and I strongly suspect the answer will be \"not well,\" but even just having something GTA 6-ish playable on PC is a headache that I'm pretty sure Take-Two would rather not have to deal with. I also wonder whether it will prompt Take-Two to release GTA 6 on PC more quickly than it has with previous releases. A rumor to that effect surfaced in October and I had serious doubts, but it's possible that ongoing emulation efforts will expedite its arrival..\nKeep up to date with the most important stories and the best deals, as picked by the PC Gamer team.\nI haven't verified whether the released exe is legit, but ",
-    "extra": {
-     "image": "https://cdn.mos.cms.futurecdn.net/dwxifSrgRWzUwvmTbTdSRV-1920-80.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 9,
-    "post": "🚀 Cyberleek выложил exe‑файл Xbox‑билда GTA 6\n\nЛол, leaker наконец скинул главный exe, и теперь можно запустить почти полную версию на ПК. Это реальный кринж для Take‑Two, а для нас — имба‑момент 🎮, когда игра почти живёт в эмуляторе. Готовьте донаты, а мы будем тестить!",
-    "card_title": "КИБЕРЛИК ВЫЛОЖИЛ EXE GTA6",
-    "reason": "Подтвержденный крупными СМИ факт о релизе слитого exe и начале эмуляции на ПК, высокий хайп и угроза для издателя.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "GTA 6 Leaker Cyberleek Reportedly Releases .exe File for Xbox Build, Sparking Concern an Unofficial PC Port Could Be Around the Corner",
-    "guide": false,
-    "model": "groq:qwen/qwen3.8-27b → groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-23T20:12:05.386667+00:00",
-   "moderation": "pending",
-   "draft_msg_id": 116
-  },
   {
    "item": {
     "title": "GTA 6 can run at 60fps on Xbox Series X if you use a glitch, but there's a catch",
@@ -14293,9 +14368,10 @@
   "2026-11-23T14:20:44.184745+00:00",
   "2026-11-23T18:15:29.675198+00:00",
   "2026-11-23T18:31:04.220563+00:00",
-  "2026-11-23T20:00:00.591069+00:00"
+  "2026-11-23T20:00:00.591069+00:00",
+  "2026-11-23T21:50:40.027944+00:00"
  ],
- "tg_offset": 387129071,
+ "tg_offset": 387129072,
  "channel": {
   "id": -1003986639147,
   "title": "GTA 6 | Горячие новости",
@@ -20829,6 +20905,13 @@
    "title": "GTA 6 продал 44,9 млн копий за уикенд",
    "importance": 8,
    "kind": "confirmed"
+  },
+  {
+   "ts": "2026-11-23T21:50:40.027961+00:00",
+   "msg_id": 75,
+   "title": "Cyberleek выложил exe‑файл Xbox‑билда GTA 6",
+   "importance": 9,
+   "kind": "confirmed"
   }
  ],
  "extras": [],
@@ -21202,24 +21285,24 @@
   },
   {
    "item": {
-    "title": "Some Unlucky GTA 6 Players Keep Running Into Crashes On PS5, But There Are Workarounds",
-    "link": "https://kotaku.com/some-unlucky-gta-6-players-keep-running-into-crashes-on-ps5-but-there-are-workarounds-2000758451",
-    "summary": "Mysteriously exiled from Vice City",
-    "published": "2026-11-23T16:15:08+00:00",
-    "source": "Kotaku",
-    "site_name": "Kotaku",
+    "title": "GTA 6 Crosstown Traffic walkthrough",
+    "link": "https://www.videogameschronicle.com/guide/gta-6-crosstown-traffic-walkthrough/",
+    "summary": "How to complete Crosstown Traffic in GTA 6",
+    "published": "2026-11-23T21:46:33+00:00",
+    "source": "VGC",
+    "site_name": "VGC",
     "trust": "high",
-    "text": "Grand Theft Auto 6 is finally out, and it’s been getting rave reviews. Well, it’s been getting rave reviews from just about everyone other than a small, especially unlucky group of players who can’t seem to play much of the game at all because of mysterious crashes occurring on PlayStation 5, that is.\nIn the hours following GTA 6’s launch last Thursday, players flocked to Reddit to report issues with sudden crashes amid what was otherwise a successful launch. Some players can’t access the game at all, reporting that it just refuses to launch and instead suddenly shuts down their (sometimes brand-new) consoles or displays error messages.\nOthers (including myself) reported that they can launch the game, but it crashes at seemingly random times, especially during that gorgeous opening cutscene or during Chapter 1. My PS5 has been shutting down entirely without a warning message before waking up and complaining about how it wasn’t turned off properly. There have also been reports of people getting shut out of the game with the error code CE-108255-1.\nBecause of how intensive Grand Theft Auto VI is, it's exposing a lot of PS5s that weren't truly stable. pic.twitter.com/2xXzBgllJE — Charlie (@ghost_motley) November 19, 2026\n“I’ve lost 4 HOURS of gameplay because the game refuses to auto-save. This is the second time I’ve had to replay everything, and honestly, I’ve lost all motivation to continue,” one Reddit commenter wrote.\nSony and Rockstar haven’t issued any statements on the issue yet, but players online have suggested some workarounds that have seemed to work for them. Some players have attributed their launch issues to licensing errors, which can be fixed by using the Restore Licenses button in the game’s settings. Others have suggested booting PS5s into safe mode to clear the cache and restore the database, reinstalling the game, making sure the console is plugged directly into a wall outlet, cleaning out dust, changing the game’s resolution, or just…blowing a fan onto the PS5 in case it needs a little extra help cooling down.\nBut some players have tried plenty or all of the above solutions to no avail, and I fear that I’m one of them. I stayed up comically late last night tinkering with my PS5 after it kept crashing during the opening cutscene, and I tried pretty much every single solution I could dig up on Reddit. I thought I had fixed the issue after giving the fans a good old clean and letting my PS5 take a little nap, but GTA 6 now keeps crashing ri",
+    "text": "Here’s how to complete Crosstown Traffic in GTA 6.\nThe mission, which is given by your new contact Raul, splits the couple across Vice City. While Jason follows a convoy of boats along the river on a motorbike, Lucia boards a metro overground train to get close to one of the gang’s associates.\nHere’s everything you need to know about completing Crosstown Traffic in GTA 6, including what rewards you’ll get at the end of it.\nAre you looking for more GTA 6 guides? Then check out our GTA 6 Guide Hub.\nGuides: If you're playing Grand Theft Auto 6, make sure to check out our complete walkthrough hub, featuring beginner tips, navigation experience explained, GTA 6 cheats, and more.\nOnce you’ve received the phonecall from Raul, you can start the mission from either of two locations:\nStarting as Lucia: Head to the Courtyard Bar in Stockyard to meet Raul.\nStarting as Jason: Visit the boatyard in La Perle to meet Karim.\nIt doesn’t matter which character you choose. Both starting locations lead into the same mission, with the story switching between Lucia and Jason as the operation unfolds. This also doesn’t impact what rewards you get, or any choices in the mission.\nThe mission is split into several objectives, alternating between Lucia’s metro operation and Jason’s pursuit of the boat convoy. The game swaps you between the two automatically, so you don’t need to keep an eye on this.\nAfter the opening cutscene, you’ll take control of Jason, who is riding a motorbike along the riverbank.\nYour objective is to follow the boats carrying the shipment. Stick to the dirt paths alongside the river and keep the boats in sight as you follow it through Vice City. If you let them get away, or destroy the bike by falling into the water, the mission will end.\nAs long as you keep up with them, you’ll be fine. You can’t take them down here or anything like that, you’re just tailing them until the game automatically swaps to the next portion with Lucia.\nEventually, Jason will reach the drop-off point and the game will switch to Lucia.\nLucia’s part of the mission begins with her missing the train.\nYou’ll need to catch up with it before it gets too far away. Sprint underneath the elevated railway tracks, following the route marked on your minimap. You can jump into a car (or in our case use one of the Lime scooter-style Escooters that are sitting around) to make it to the next metro station.\nIf you miss the train’s departure, it may be possible to board it at the next station, but it’s ",
     "extra": {
-     "image": "https://kotaku.com/app/uploads/2026/11/GTA-6-lucia-shooting-drinka-1280x720.jpg"
+     "image": "https://www.videogameschronicle.com/files/2026/11/GTA-6-Crosstown-Traffic-Walkthrough-1.jpg"
     }
    },
    "verdict": {
     "type": "confirmed",
     "importance": 6,
-    "post": "💥 КРАШИ НА PS5\n\n\nГеймеры GTA 6 жалуются на падения в открытой сцене и при запуске. К счастью, есть несколько трюков, которые реально помогают:\n\n1️⃣ В настройках игры нажми «Restore Licenses».\n2️⃣ Перезайди в безопасном режиме, очисти кэш и восстанови базу.\n3️⃣ Переустанови игру и подключи PS5 к розетке, а не к USB‑мульти.\n4️⃣ Очисти вентиляторы и дай консоли «сладкий сон».\n\nЭти шаги работают у большинства, так что попробуй, пока не выйдет патч.\n\n❤️ — Всё ок, игра запускается\n👎 — Всё равно падает, нужна патч",
-    "card_title": "ПРОСТО РЕШЕНИЕ КРАШЕЙ",
-    "reason": "официальный источник Kotaku сообщает реальные проблемы и решения",
+    "post": "🚦 Гайд: Кросстоун Траффик\n\nСобирайся к Raul и выбери персонажа – Lucia или Jason. Оба пути ведут к одной миссии, где ты сначала следишь за конвой на мотоцикле, а потом ловишь поезд в метро. Главное – держать мотоцикл в живых и не пропустить поезд, иначе миссия проваливается. Всё, что нужно, в одном клике, без лишних поисков. Это топ‑трип, так что не пропусти!",
+    "card_title": "ГАЙД: КРОССТОУН ТРАФФИК",
+    "reason": "Подтверждённый гайд по миссии из официального источника",
     "duplicate": false,
     "corroborated": false,
     "duplicate_of": "",
@@ -21228,28 +21311,28 @@
     "model": "groq:openai/gpt-oss-20b"
    },
    "corr": false,
-   "since": "2026-11-23T21:44:55.352447+00:00"
+   "since": "2026-11-23T22:02:21.324853+00:00"
   },
   {
    "item": {
-    "title": "Rockstar Just Dropped a GTA 6 Deluxe Album With 23 New Tracks",
-    "link": "https://www.gtaboom.com/rockstar-just-dropped-a-gta-6-deluxe-album-with-23-new-tracks-e16c",
-    "summary": "Rockstar dropped a surprise Deluxe Edition of the GTA 6 companion album on major streaming services, with 23 bonus tracks led by Travis Scott.",
-    "published": "2026-11-23T16:03:04+00:00",
-    "source": "GTA BOOM",
-    "site_name": "GTA BOOM",
-    "trust": "medium",
-    "text": "Rockstar Games is not done flooding the launch window with music. The studio surprise-released Grand Theft Auto VI: The Album Deluxe Edition on November 23, stacking 23 brand-new tracks on top of the standard record. We cover every one of these drops, so here is what the Deluxe adds and where it sits among the game's three separate music releases.\nThe Deluxe Edition piles 23 bonus songs onto the 34-track Album that arrived three days earlier. Rockstar's announcement leads with The Dare, Slayyyter, Denzel Curry, HEALTH, Power Trip and Real Dimez with Sexyy Red. Travis Scott opens the expansion with \"Burn This Shit Down\" and 21 Savage, Latto, Offset, Anitta, Young Nudy and Kodak Black all turn up. The whole thing arrived on every major streaming service at once through Atlantic Records and Rockstar.\nThe Deluxe is a soundtrack expansion, not in-game content for Grand Theft Auto VI itself. You are not buying a premium item or GTA VI DLC. Nothing here unlocks a thing inside the game. It is a companion album, free to stream like the rest. Rockstar's official Newswire post and a matching post on X carry the full tracklist and the streaming link, with no physical Deluxe pressing announced yet.\nWith its release, three separate official music products now sit under GTA VI. The Deluxe is only one of them. First, there's The Album, the vocal companion record from Atlantic that just grew to 57 songs across its standard and Deluxe versions by our count. Second, the Original Score by Justice, an adaptive instrumental work that arrives on December 11. Third, the in-game radio stations you hear while driving. The Deluxe belongs to the first bucket, nothing more.\nHow the Album, the Deluxe expansion and the Justice Score differ.\nA few things stand out. Overmono take five of the 23 slots, including \"Welcome to Leonida,\" the same additional-score track creators flagged for copyright claims even with the mute setting on. The Deluxe is digital only for now, with no vinyl or CD to match the standard Album's liquid-filled and splatter pressings.\nDropping 23 more tracks just three days after the standard album is a lot, even by this launch's standards, though nobody serious about the soundtrack will complain about more Travis Scott and Denzel Curry.\nHere is the full Deluxe tracklist, straight from Rockstar.\nGTA 6 The Album Deluxe Edition Tracklist, Part 1\nThe first twelve of the 23 new Deluxe tracks.\nGTA 6 The Album Deluxe Edition Tracklist, Part 2\nThe remaining eleven Deluxe track",
+    "title": "This GTA 6 Glitch (Almost) Ruined The Game’s Most Iconic Scene",
+    "link": "https://www.gamespot.com/articles/this-gta-6-glitch-almost-ruined-the-games-most-iconic-scene/",
+    "summary": "Note: This story will discuss a pivotal mission in Chapter 2 of Grand Theft Auto 6. A powerful sequence in Grand Theft Auto 6 is quickly becoming a favorite among the game's many players, but a technical mishap made my experience of this scene very different--hilariously different. Chapter 2 of GTA 6 begins with Jason and Lucia in a rough spot, with the former still recovering from major injuries sustained at the end of Chapter 1 , and the latter having to care for him. It isn't until the mission \"Breakfast Run\" that Jason is back on his feet, and the Bonnie-and-Clyde-like duo mark his recovery with a crime spree. Set to \"Money or Nothing\" by Dire Straits , Lucia and Jason rob a diner, not dissimilar to a scene from Pulp Fiction, and a playable montage shows the pair robbing convenience shops, a clothing store, and other establishments. The image of Jason and Lucia busting open double doors, guns in hand, is probably the most iconic image of GTA 6, a statement of intent that defines the game's story going forward. https://bsky.app/profile/compenderizer.bsky.social/post/3n2yzmpjn6c2j But somehow, I had gotten a slightly different version of this montage. When I returned to the motel as Lucia, I sprinted toward the door , only for the game to place me back outside the room. The game told me to \"Go to Hank's Waffles\" with no additional context, and I walked back into the motel to find Jason, not only up and about, but only sporting his underwear, bandages, and a buzz cut. I suspected that there was a cutscene that I missed showing Jason fully recovered, so I decided to carry out the mission. The problem was that Jason wouldn't put any clothes on. I drove to the diner as the game instructed me to, and the entire mission, Dire Straits and all, resumed with a mostly naked Jason. It was impossible not to cackle at the sheer absurdity of the situation, watching Jason terrorize locals and presumably solidifying a new legacy as the Leonida underwear robber. At one point, the camera cut to Jason's bare foot slamming a gas pedal, and I was left breathless from laughter. Eventually, the game decided to put clothes back on Jason, but I had to visit a salon to grow his hair back. Iconic. Though GTA 6 features nudity in various degrees, you cannot dress Jason and Lucia in their underwear outside of their home. That sprint through the motel room door must have bypassed some sort of clothing check and allowed Jason to freely show skin outside of the motel. I've seen players online talk about an \"underwear glitch,\" and I found one Reddit comment saying that they also had a nearly naked Jason run about in \"Breakfast Run,\" so I appear to be an edge case in experiencing this specific glitch. I can't say that this bug \"ruined\" one of GTA 6's best missions for me, as I still found myself thoroughly entertained--just not in the way Rockstar Games wanted. Having Jason in his undies while still concealing his identity with a hat and bandana felt like something out of a Sai",
+    "published": "2026-11-23T21:23:41+00:00",
+    "source": "GameSpot",
+    "site_name": "GameSpot",
+    "trust": "high",
+    "text": "Note: This story will discuss a pivotal mission in Chapter 2 of Grand Theft Auto 6. A powerful sequence in Grand Theft Auto 6 is quickly becoming a favorite among the game's many players, but a technical mishap made my experience of this scene very different--hilariously different. Chapter 2 of GTA 6 begins with Jason and Lucia in a rough spot, with the former still recovering from major injuries sustained at the end of Chapter 1 , and the latter having to care for him. It isn't until the mission \"Breakfast Run\" that Jason is back on his feet, and the Bonnie-and-Clyde-like duo mark his recovery with a crime spree. Set to \"Money or Nothing\" by Dire Straits , Lucia and Jason rob a diner, not dissimilar to a scene from Pulp Fiction, and a playable montage shows the pair robbing convenience shops, a clothing store, and other establishments. The image of Jason and Lucia busting open double doors, guns in hand, is probably the most iconic image of GTA 6, a statement of intent that defines the game's story going forward. https://bsky.app/profile/compenderizer.bsky.social/post/3n2yzmpjn6c2j But somehow, I had gotten a slightly different version of this montage. When I returned to the motel as Lucia, I sprinted toward the door , only for the game to place me back outside the room. The game told me to \"Go to Hank's Waffles\" with no additional context, and I walked back into the motel to find Jason, not only up and about, but only sporting his underwear, bandages, and a buzz cut. I suspected that there was a cutscene that I missed showing Jason fully recovered, so I decided to carry out the mission. The problem was that Jason wouldn't put any clothes on. I drove to the diner as the game instructed me to, and the entire mission, Dire Straits and all, resumed with a mostly naked Jason. It was impossible not to cackle at the sheer absurdity of the situation, watching Jason terrorize locals and presumably solidifying a new legacy as the Leonida underwear robber. At one point, the camera cut to Jason's bare foot slamming a gas pedal, and I was left breathless from laughter. Eventually, the game decided to put clothes back on Jason, but I had to visit a salon to grow his hair back. Iconic. Though GTA 6 features nudity in various degrees, you cannot dress Jason and Lucia in their underwear outside of their home. That sprint through the motel room door must have bypassed some sort of clothing check and allowed Jason to freely show skin outside of the motel. I've seen players",
     "extra": {
-     "image": "https://media.gtaboom.com/variants/1920/media/images/c3/e0/rockstar-just-dropped-a-gta-6-deluxe-album-with-23-new-tracks.jpg"
+     "image": "https://www.gamespot.com/wp-content/uploads/2026/11/GTA-6-glitch.jpg?w=300"
     }
    },
    "verdict": {
     "type": "confirmed",
-    "importance": 6,
-    "post": "🎧 GTA 6 ДЕЛЮКС: 23 новых трека\n\nRockstar внезапно выпустил Deluxe‑версию альбома, добавив 23 песни к 34‑треки. Это только компаньон‑сингл, внутри игры ничего не открывает. Слушайте, но не ждите квестов.",
-    "card_title": "ROCKSTAR АЛЬБОМ",
-    "reason": "официальное объявление Rockstar о новом альбоме, но без игровых изменений",
+    "importance": 8,
+    "post": "🔥 ГЛИТЧ В ИКОННОЙ СЦЕНЕ\n\nСитуация: в миссии «Breakfast Run» Джейсон появляется почти голым, а игроку приходится крутить педаль газом босиком. Это не просто баг — это комичный момент, который почти испортил легендарную сцену. Rockstar пока не исправил, но фанаты уже делятся смехом и мемами. Удача в том, что после визита в салон Джейсон снова выглядит как герой, а не как «Leonida underwear robber».",
+    "card_title": "ГЛИТЧ В ИКОННОЙ СЦЕНЕ",
+    "reason": "официальный источник GameSpot описывает подтверждённый глитч в GTA 6",
     "duplicate": false,
     "corroborated": false,
     "duplicate_of": "",
@@ -21258,35 +21341,7 @@
     "model": "groq:openai/gpt-oss-20b"
    },
    "corr": false,
-   "since": "2026-11-23T21:45:24.383402+00:00"
-  },
-  {
-   "item": {
-    "title": "Grand Theft Auto VI: The Album (Deluxe Edition)",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMy1WQ21GcGpGQTlTblpRemlIb2pJZ2RBdlhNRFBqYVlMenJwWEVNb0ZPVG4tTFJwUjBBXzE0Y1BhdzJJMl9LUjZoREt2N29WSlhmU1RVS3haTVg0WDJKOW1kdEJCdHlnZnNHVUdfdWZHNG1iR05XdUxrS3R6a01pMks2NkhvZFhLTmNxcUtFSHEyS0RYYlA2d2RWSDhvV0xiaEFwUVh5QTdEQQ?oc=5",
-    "summary": "Grand Theft Auto VI: The Album (Deluxe Edition) Rockstar Games",
-    "published": "2026-11-23T14:06:15+00:00",
-    "source": "Rockstar Newswire",
-    "site_name": "Rockstar Games",
-    "trust": "official",
-    "text": "Grand Theft Auto VI: The Album (Deluxe Edition) Rockstar Games",
-    "extra": {}
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 6,
-    "post": "🎶 GTA 6: The Album (Deluxe Edition) уже в продаже\n\nRockstar объявила, что новая версия игры включает эксклюзивный контент, расширенный сюжет и улучшенные графические настройки. Это прямой апгрейд для фанатов, которые хотят максимум от GTA 6.",
-    "card_title": "ДЛЮКС-ЭДИШНЬ GTA 6",
-    "reason": "официальное заявление Rockstar о Deluxe Edition GTA 6",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "groq:openai/gpt-oss-20b"
-   },
-   "corr": false,
-   "since": "2026-11-23T21:46:03.939570+00:00"
+   "since": "2026-11-23T22:02:22.285383+00:00"
   }
  ]
 }
