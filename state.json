@@ -2765,7 +2765,37 @@
   "8c1ce6b016898200": "2026-11-23T12:31:37.154567+00:00",
   "930a3452234c7fe6": "2026-11-23T12:31:38.169720+00:00",
   "807a4925db0187b7": "2026-11-23T12:31:39.328265+00:00",
-  "78ee5fd248b87214": "2026-11-23T12:31:40.741143+00:00"
+  "78ee5fd248b87214": "2026-11-23T12:31:40.741143+00:00",
+  "c9396b316d1fe8a5": "2026-11-23T12:47:59.270113+00:00",
+  "d270a80a29491f4e": "2026-11-23T12:48:01.931684+00:00",
+  "5d3784cdcda122f6": "2026-11-23T12:48:31.382926+00:00",
+  "201accfc85053fdb": "2026-11-23T12:48:32.532130+00:00",
+  "c5ad758995b9fc31": "2026-11-23T12:48:34.622888+00:00",
+  "ad89b563d4311571": "2026-11-23T12:48:36.434566+00:00",
+  "3d962c16deb853d1": "2026-11-23T12:48:37.799130+00:00",
+  "b64be3e9669907b5": "2026-11-23T12:48:38.978485+00:00",
+  "281d70222c695fa7": "2026-11-23T12:48:40.537288+00:00",
+  "545503a3d41f687d": "2026-11-23T12:57:57.087591+00:00",
+  "22dc10e88c39e142": "2026-11-23T12:57:57.927202+00:00",
+  "f0e08f021eb46eb0": "2026-11-23T12:57:58.951721+00:00",
+  "430ed3cbc5a3e0ae": "2026-11-23T12:57:59.951773+00:00",
+  "8779e1e0b4d9daeb": "2026-11-23T12:58:50.862589+00:00",
+  "11ae3d1ec4b74a98": "2026-11-23T12:58:51.641519+00:00",
+  "72c4e7cb0e2fb752": "2026-11-23T12:58:52.501051+00:00",
+  "d8c01aa9aee83f04": "2026-11-23T12:58:53.248423+00:00",
+  "6ffea376a78f5cc8": "2026-11-23T12:59:44.308741+00:00",
+  "186d3b756b07a076": "2026-11-23T12:59:45.177057+00:00",
+  "380c3f870c5c7d1b": "2026-11-23T12:59:45.902750+00:00",
+  "7f4af03783b8137a": "2026-11-23T13:05:11.739243+00:00",
+  "707a7472be94c09e": "2026-11-23T13:05:11.885809+00:00",
+  "e644b51fefd36e8e": "2026-11-23T13:05:14.518194+00:00",
+  "0adb5a4dc37c46ed": "2026-11-23T13:05:16.895337+00:00",
+  "94952836bfbc9066": "2026-11-23T13:05:19.414150+00:00",
+  "a3f0022b4769d241": "2026-11-23T13:05:26.496780+00:00",
+  "f051c5cdbd9ebfc6": "2026-11-23T13:05:28.758229+00:00",
+  "67adfa6236a7c7cf": "2026-11-23T13:05:33.942350+00:00",
+  "8526e79ca9ef20ea": "2026-11-23T13:05:56.147327+00:00",
+  "ec59c1aeab8187f2": "2026-11-23T13:06:18.652510+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -4673,7 +4703,25 @@
   "5306146b0962c7c0": "2026-11-23T12:31:37.154567+00:00",
   "ffa3d7591869a8e4": "2026-11-23T12:31:38.169720+00:00",
   "15a635d0808cdd40": "2026-11-23T12:31:39.328265+00:00",
-  "d33e2f63ae6a70fb": "2026-11-23T12:31:40.741143+00:00"
+  "d33e2f63ae6a70fb": "2026-11-23T12:31:40.741143+00:00",
+  "1f92ecd18c8f19c6": "2026-11-23T12:48:01.931684+00:00",
+  "a52cf391ea6a87e1": "2026-11-23T12:48:31.382926+00:00",
+  "3f3be7b27e6cffc0": "2026-11-23T12:48:32.532130+00:00",
+  "e721c08d083dba30": "2026-11-23T12:48:34.622888+00:00",
+  "f5a69b92772f9d22": "2026-11-23T12:48:36.434566+00:00",
+  "45c43ac01f8ea44d": "2026-11-23T12:48:37.799130+00:00",
+  "5d29251adeb71b89": "2026-11-23T12:48:38.978485+00:00",
+  "3704c1844ec91b3e": "2026-11-23T12:48:40.537288+00:00",
+  "de8893485cc5eb9a": "2026-11-23T13:05:11.739243+00:00",
+  "c2a142f3067e174b": "2026-11-23T13:05:11.885809+00:00",
+  "cf8446df281382c5": "2026-11-23T13:05:14.518194+00:00",
+  "2e639392a2730632": "2026-11-23T13:05:16.895337+00:00",
+  "427c5812cdce0bd7": "2026-11-23T13:05:19.414150+00:00",
+  "1c1233d7d3c0f046": "2026-11-23T13:05:26.496780+00:00",
+  "c2d19e9c41c10c29": "2026-11-23T13:05:28.758229+00:00",
+  "620996d5f0791533": "2026-11-23T13:05:33.942350+00:00",
+  "88c3f6194dd7ce57": "2026-11-23T13:05:56.147327+00:00",
+  "7a24c7a65ab98209": "2026-11-23T13:06:18.652510+00:00"
  },
  "recent": [
   {
@@ -12259,6 +12307,158 @@
    "status": "skipped",
    "ts": "2026-11-23T12:31:40.741277+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GTA 6 Has Already Sold 45 Million Copies, Says Research Firm",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-23T12:47:59.270154+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Has Already Sold 45 Million Copies, Says Research Firm",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "queued",
+   "ts": "2026-11-23T12:48:28.674136+00:00",
+   "card_title": "ПОЧТИ 45 МИЛЛИОНОВ КОПИЙ"
+  },
+  {
+   "title": "GTA 6 Has Given Carly Rae Jepsen's Most Underrated Song Another Shot in the Charts",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T12:48:31.383059+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "US Education Department uses GTA 6 and Google Gemini to argue against trans kids in sports",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T12:48:32.532247+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Бесплатный DLC для GTA 6 за предзаказ теперь доступен для отдельной покупки на Xbox за $4,99",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T12:48:34.623030+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 для ПК: GTA 5 набирает популярность в Steam, энтузиасты работают над неофициальным портом",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T12:48:36.434685+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Take Two Can Retest $265 in 2026 With This December GTA VI Announcement",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T12:48:37.799264+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "В Ингушетии бойкотировали GTA 6",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T12:48:38.978598+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GameStop CEO Ryan Cohen Criticizes GTA 6 Skipping Physical Discs: ‘When Buying a Game, Players Should Be Able to Sell It, Trade It, or Lend It’",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T12:48:40.537427+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "'GTA 6' on PC update: What we know about when it releases",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-23T13:05:11.739285+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "DAta: GTA VI the biggest entertainment release ever",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-23T13:05:11.885870+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Where To Find Cut-Off Tool in GTA 6 To Open Containers",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-23T13:05:15.347863+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Metacritic's user review problem worsens, as GTA 6's launch prompts review-bombing for completely unrelated games like Soul Calibur and The Ocarina of Time",
+   "source": "Eurogamer",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-23T13:05:17.888272+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6: Don’t Finish Chapter 2 Before Doing These Things",
+   "source": "GameSpot",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-23T13:05:20.043721+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 cast: Every confirmed voice actor and character",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T13:05:26.496902+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Rockstar пришлось приложить кучу усилий, чтобы проработать интимную близость между Джейсоном и Лусией в зависимости от уровня их отношений",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T13:05:28.758358+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 First Major Update Officially Released",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T13:05:33.942467+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Makes $3.79 Billion in One Day as Its Soundtrack Takes Over Spotify",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T13:05:56.147460+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Building a Life guide: how to assemble the coffee table with Lucia",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T13:06:18.652632+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -12377,6 +12577,37 @@
     "model": "groq:openai/gpt-oss-120b → gemini:gemini-3.5-flash"
    },
    "queued_at": "2026-11-23T01:38:02.748496+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA 6 Has Already Sold 45 Million Copies, Says Research Firm",
+    "link": "https://insider-gaming.com/gta-6-45-million-copies/",
+    "summary": "A research firm claims GTA 6 has already sold nearly 45 million copies in its launch weekend, amounting to over $4 billion in revenue. The post GTA 6 Has Already Sold 45 Million Copies, Says Research Firm appeared first on Insider Gaming .",
+    "published": "2026-11-23T12:37:07+00:00",
+    "source": "Insider Gaming",
+    "site_name": "Insider Gaming",
+    "trust": "medium",
+    "text": "A research firm claims GTA 6 has already sold nearly 45 million copies in its launch weekend, amounting to over $4 billion in revenue.\nAccording to the research firm Alinea Analytics via X, GTA 6 has sold 44.9 million copies since its November 19 release, which, if true, puts it well ahead of the best-selling game during its launch weekend. According to the firm, this does not include the unsold copies sent to retailers, meaning that 45 million players already have their hands on GTA 6. That’s despite GTA 6 currently being review-bombed by players.\nIn a breakdown provided by the firm, 33.7 million units, or 75.1%, have been sold on PS5, and 11.2 million units, or 24.9%, have been sold on Xbox. The sold units also don’t include the players who’ve opted to play Grand Theft Auto 6 on the Xbox One via Cloud.\nAs rightfully pointed out by Rhys Elliott on X (Head of market analysis at Alinea Analytics, if the figures are accurate, GTA 6 is roughly equal revenue-wise to the box office earnings of both The Odyssey and Spider-Man Brand New Day.\nRELATED – GTA 6 New Update Releasing in Phases; Size Revealed\nIf you’re reading this, you’re almost certainly one of the nearly 45 million players who have bought GTA 6; if so, we recommend checking out our master guide hub on GTA 6, where you can learn everything you need to know about the game.\nWhat are you liking about GTA 6 so far? Let us know in the official Insider Gaming Discord server.\nFor more indie game goodness on Insider Gaming, check out our story on the team behind Sea of Stars as they work on their next game. Also, don’t forget to sign up for our weekly newsletter.\nTom Henderson is Insider Gaming's Co-Founder and Editor-In-Chief. When he's not running one of the industry's leading independent video game websites, he's probably playing an FPS like Call of Duty,…\nConcept Art From The Cancelled Halo Battle Royale Mode ‘Project Tatanka’ Surfaces Online\nGTA 6’s Free Pre-Order Bonus is Now a Paid Store Purchase\nGTA 6 New Update Releasing in Phases; Size Revealed\nGTA 3 Had a $600,000 Music Budget It Never Spent",
+    "extra": {
+     "image": "https://insider-gaming.com/wp-content/uploads/2026/11/GTA-6-45-MILLION-COPIES-scaled.jpg"
+    }
+   },
+   "verdict": {
+    "type": "rumor",
+    "importance": 8,
+    "post": "💸 GTA 6 взяла почти 45 МИЛЛИОНОВ копий за уикенд\n\nПо оценкам Alinea Analytics, за первые выходные продали 44,9 млн копий — 75,1% на PS5 и 24,9% на Xbox. Пока кто-то строчит гневные отзывы, у Rockstar лютый разнос и свыше $4 млрд выручки.",
+    "card_title": "ПОЧТИ 45 МИЛЛИОНОВ КОПИЙ",
+    "reason": "Инсайдерские данные о 45 миллионах копий GTA 6 за выходные — это лютый хайп и рекорд.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "GTA 6 Has Already Sold 45 Million Copies, Says Research Firm",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-4-hydrogen"
+   },
+   "queued_at": "2026-11-23T12:48:28.674127+00:00",
+   "moderation": "pending",
+   "draft_msg_id": 108
   },
   {
    "item": {
@@ -12774,7 +13005,8 @@
   "2026-11-23T09:03:49.755980+00:00",
   "2026-11-23T10:03:54.460173+00:00",
   "2026-11-23T11:04:22.094502+00:00",
-  "2026-11-23T12:04:48.730690+00:00"
+  "2026-11-23T12:04:48.730690+00:00",
+  "2026-11-23T13:06:25.145699+00:00"
  ],
  "slots_sent": {
   "2026-11-21:guide:1": "2026-11-21T21:14:52.573728+00:00",
@@ -12876,6 +13108,36 @@
    "file_id": "BAACAgIAAxkDAANlawQGTa91m63mSO2vuBOu-j8-XI0AAieyAAKTDSFIapcO_xP4krI9BA",
    "moderation": "pending",
    "draft_msg_id": 101
+  },
+  {
+   "clip": {
+    "source": "twitch",
+    "url": "https://www.twitch.tv/steel/clip/PlainExpensiveFinchTBCheesePull-MSUiadv4EFZdyp2N",
+    "title": "ФИНАЛ ГТА",
+    "author": "steel",
+    "views": 1934,
+    "duration": 29.9,
+    "created": "2026-11-23T00:43:55+00:00",
+    "lang": "ru",
+    "description": "",
+    "vod_id": "2937407818",
+    "vod_offset": 31630.0
+   },
+   "caption": "СПОЙЛЕР. Финал сюжетки: персонажа сбрасывают с моста прямо на дорогу — вот это драма от Rockstar 💀",
+   "interest": 9,
+   "spoiler": true,
+   "nsfw": false,
+   "watched": true,
+   "model": "gemini:gemini-3.5-flash-lite",
+   "media": {
+    "width": null,
+    "height": 720,
+    "duration": 29
+   },
+   "queued_at": "2026-11-23T13:00:07.127765+00:00",
+   "file_id": "BAACAgIAAxkDAANrawQ42CTCH89TOt1RQT3f-0dlFo0AAl-vAAKTDSlIWvVXVYj5rG09BA",
+   "moderation": "pending",
+   "draft_msg_id": 107
   }
  ],
  "clip_drafts": [
@@ -12898,7 +13160,8 @@
   "2026-11-23T08:20:39.624989+00:00",
   "2026-11-23T09:24:29.720206+00:00",
   "2026-11-23T10:29:00.148443+00:00",
-  "2026-11-23T11:31:47.510995+00:00"
+  "2026-11-23T11:31:47.510995+00:00",
+  "2026-11-23T13:00:09.458629+00:00"
  ],
  "clip_history": [
   {
@@ -18663,6 +18926,105 @@
    "ts": "2026-11-23T11:31:47.511010+00:00",
    "frames": [],
    "caption": "СПОЙЛЕР. Стример словил лютый тильт на финальной катсцене — вот это драма от Rockstar 💀"
+  },
+  {
+   "author": "youtube:raj grover",
+   "vod": "",
+   "offset": -1,
+   "title": "Ab toh Lucia bhi chalegi😭 #Gta6 | Raj Grover | #shorts",
+   "drafted": false,
+   "ts": "2026-11-23T12:57:57.087626+00:00"
+  },
+  {
+   "author": "youtube:rk gaming world",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA VI JASON LUCIA MANDY ROMANCE SCENE PART 08 NO COMMENTRY  PS5 LIVE GAMEPLAY",
+   "drafted": false,
+   "ts": "2026-11-23T12:57:57.927247+00:00"
+  },
+  {
+   "author": "youtube:ferrelatos",
+   "vod": "",
+   "offset": -1,
+   "title": "En GTA 6 sí arregla la casa pero en la vida real no 😂",
+   "drafted": false,
+   "ts": "2026-11-23T12:57:58.951756+00:00"
+  },
+  {
+   "author": "youtube:ohnepixel raw",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 gym physics are BROKEN 💀",
+   "drafted": false,
+   "ts": "2026-11-23T12:57:59.951804+00:00"
+  },
+  {
+   "author": "youtube:reeler",
+   "vod": "",
+   "offset": -1,
+   "title": "spider-man finally plays GTA 6",
+   "drafted": false,
+   "ts": "2026-11-23T12:58:50.862634+00:00"
+  },
+  {
+   "author": "youtube:winterflash",
+   "vod": "",
+   "offset": -1,
+   "title": "DA PRA FUGIR DO NPC PERSEGUIDOR IMORTAL DO GTA 6?",
+   "drafted": false,
+   "ts": "2026-11-23T12:58:51.641564+00:00"
+  },
+  {
+   "author": "youtube:lolik",
+   "vod": "",
+   "offset": -1,
+   "title": "How To Play As Arthur Morgan In GTA 6?! #shorts #gaming #gta6 #gtavi",
+   "drafted": false,
+   "ts": "2026-11-23T12:58:52.501094+00:00"
+  },
+  {
+   "author": "youtube:兄者弟者",
+   "vod": "",
+   "offset": -1,
+   "title": "心が痛すぎるミッション【GTA VI】 #shorts",
+   "drafted": false,
+   "ts": "2026-11-23T12:58:53.248453+00:00"
+  },
+  {
+   "author": "youtube:afif yulistian",
+   "vod": "",
+   "offset": -1,
+   "title": "Main Quest RADIO ON AJA DAH ! DRAMA GTA ! - Grand Theft Auto VI Part 7",
+   "drafted": false,
+   "ts": "2026-11-23T12:59:44.308782+00:00"
+  },
+  {
+   "author": "youtube:jdeshortsz",
+   "vod": "",
+   "offset": -1,
+   "title": "He Played GTA 6 for 52 Hours Straight 💀 #shorts #funnyshorts",
+   "drafted": false,
+   "ts": "2026-11-23T12:59:45.177094+00:00"
+  },
+  {
+   "author": "twitch:steel",
+   "vod": "2937407818",
+   "offset": 31630.0,
+   "title": "ФИНАЛ ГТА",
+   "drafted": false,
+   "ts": "2026-11-23T12:59:45.902792+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:steel",
+   "vod": "2937407818",
+   "offset": 31630.0,
+   "title": "ФИНАЛ ГТА",
+   "drafted": true,
+   "ts": "2026-11-23T13:00:09.458644+00:00",
+   "frames": [],
+   "caption": "СПОЙЛЕР. Финал сюжетки: персонажа сбрасывают с моста прямо на дорогу — вот это драма от Rockstar 💀"
   }
  ],
  "published": [
