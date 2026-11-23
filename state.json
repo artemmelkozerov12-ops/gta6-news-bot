@@ -2506,7 +2506,16 @@
   "ff606ab983f37bcd": "2026-11-23T06:06:48.296535+00:00",
   "30a15f333d171f4e": "2026-11-23T06:06:49.313519+00:00",
   "b8d7e88dc1551431": "2026-11-23T06:06:50.658012+00:00",
-  "3581d94957cdb7f3": "2026-11-23T06:06:52.279113+00:00"
+  "3581d94957cdb7f3": "2026-11-23T06:06:52.279113+00:00",
+  "de769eab09c0c6da": "2026-11-23T06:22:17.185998+00:00",
+  "d1edfa99a3a8a6e7": "2026-11-23T06:22:18.460710+00:00",
+  "ff9b17a1e327d362": "2026-11-23T06:22:19.795980+00:00",
+  "92c59f7a204e63cc": "2026-11-23T06:22:21.074008+00:00",
+  "c19929ca9c990329": "2026-11-23T06:37:41.470463+00:00",
+  "92afdbd8d1172527": "2026-11-23T06:37:42.757379+00:00",
+  "39bdff5b8d554471": "2026-11-23T06:37:44.149659+00:00",
+  "26dd66eebea14f2d": "2026-11-23T06:37:45.594250+00:00",
+  "9bb7b0b90d92571f": "2026-11-23T06:37:46.877397+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -4232,7 +4241,16 @@
   "e9aae0dadb5e99ed": "2026-11-23T06:06:48.296535+00:00",
   "89046838399cf0c0": "2026-11-23T06:06:49.313519+00:00",
   "53ec1daea3fed9a8": "2026-11-23T06:06:50.658012+00:00",
-  "e74d752198accf15": "2026-11-23T06:06:52.279113+00:00"
+  "e74d752198accf15": "2026-11-23T06:06:52.279113+00:00",
+  "2673dbbebcf6afb8": "2026-11-23T06:22:17.185998+00:00",
+  "ef1c84f98a6320c1": "2026-11-23T06:22:18.460710+00:00",
+  "2b73cd1b93d9b266": "2026-11-23T06:22:19.795980+00:00",
+  "fde27fc357f07bb4": "2026-11-23T06:22:21.074008+00:00",
+  "1e6005a441a22af3": "2026-11-23T06:37:41.470463+00:00",
+  "c88cc32c0f753926": "2026-11-23T06:37:42.757379+00:00",
+  "8604913814a72dae": "2026-11-23T06:37:44.149659+00:00",
+  "6a28f6faf0dc44f0": "2026-11-23T06:37:45.594250+00:00",
+  "e2753aad6f25d895": "2026-11-23T06:37:46.877397+00:00"
  },
  "recent": [
   {
@@ -9583,7 +9601,7 @@
    "title": "GTA 6's massive casino and sick go-kart track are currently closed, but I'm hoping we can trust those 'coming soon' signs 🙏",
    "source": "PC Gamer",
    "trust": "high",
-   "status": "queued",
+   "status": "published",
    "ts": "2026-11-22T19:24:52.314215+00:00",
    "card_title": "ЗАКРЫТЫЕ КАЗИНО И КАРТИНГ"
   },
@@ -10543,7 +10561,7 @@
    "title": "«Cyberpunk 2 отменена»: креативный директор сиквела Cyberpunk 2077 оказался под впечатлением GTA VI и решил пошутить",
    "source": "iXBT.games",
    "trust": "medium",
-   "status": "queued",
+   "status": "rejected",
    "ts": "2026-11-23T02:55:43.661121+00:00",
    "card_title": "ШУТКА ПРО ОТМЕНУ CYBERPUNK 2"
   },
@@ -10866,6 +10884,78 @@
    "status": "skipped",
    "ts": "2026-11-23T06:06:52.279236+00:00",
    "card_title": ""
+  },
+  {
+   "title": "Телосложения NPC в GTA 6 делала отдельная команда",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T06:22:17.186108+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Доходы Grand Theft Auto VI за первые сутки сравнили с GTA 5 и GTA 4",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T06:22:18.460836+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Rockstar Talks Real-Life Inspirations for Jason Duval in GTA VI",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T06:22:19.796095+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Rockstar Reveals How It Made GTA VI’s NPCs Feel More Realistic",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T06:22:21.074140+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 safehouses explained: when each one unlocks and what you can do inside",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T06:37:41.470590+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Геймеры удивлены тем, как GTA 6 выглядит и работает на Xbox Series S",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T06:37:42.757501+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "“То ли казахи, то ли бразильцы“ - неожиданная фраза прозвучала в GTA 6",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T06:37:44.149783+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "В даркнете за 200 долларов продают готовый набор для обмана игроков фальшивой ПК-версией GTA 6",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T06:37:45.594384+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Брянским геймерам рекомендовали играть в GTA 6 не дольше 90 минут подряд",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T06:37:46.877514+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -10897,8 +10987,9 @@
     "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
    },
    "queued_at": "2026-11-22T19:26:39.003613+00:00",
-   "moderation": "pending",
-   "draft_msg_id": 91
+   "moderation": "approved",
+   "draft_msg_id": 91,
+   "waiting_logged": true
   },
   {
    "item": {
@@ -10928,37 +11019,6 @@
     "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-3.5-flash"
    },
    "queued_at": "2026-11-23T01:06:51.441416+00:00"
-  },
-  {
-   "item": {
-    "title": "GTA 6's massive casino and sick go-kart track are currently closed, but I'm hoping we can trust those 'coming soon' signs 🙏",
-    "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6s-massive-casino-and-sick-go-kart-track-are-currently-closed-but-im-hoping-we-can-trust-those-coming-soon-signs/",
-    "summary": "And not just for GTA 6 Online, right? Right?",
-    "published": "2026-11-22T17:51:53+00:00",
-    "source": "PC Gamer",
-    "site_name": "PC Gamer",
-    "trust": "high",
-    "text": "I'd just stolen my very first airplane in GTA 6 and was happily cruising over the city when I looked out my window and saw an enormous purple building. I banked, slowed down, and flew a bit closer to read the huge sign on the roof.\nOh, hell yes. I was so excited to throw my carefully accumulated three hundred dollars away on poker and slots that I immediately attempted my very first landing. After the explosion and my miraculous resurrection, I rushed back to the casino and crashed again, this time with my body into the locked front doors.\nThe casino in GTA 6 is closed. Trust me, I tried every door, and the only one that opened was a utility closet.\nI was early into my playthrough, still in Chapter 1 of the GTA 6 story missions, so I thought maybe there'll be some mission that unlocks the casino so I can play some poker, try my luck at the slots, and maybe bet on the also-closed dog track—I assume it's a dog track because I've seen dogs in GTA 6, but no horses—that's right next door to the casino.\nNope! I'm now 100% done with the main story and that casino is still closed. And that's not the only business in GTA 6 that isn't open for business. Not even a half-mile away from the casino there's a go-cart track called Hot Skidz sporting a huge \"Coming Soon\" sign. I saw that early in my game as well, and checked back later. Still closed. I also found a second, smaller casino. Also closed.\nWhat a letdown. I managed to get my motorcycle onto the go-cart track, and as I drove glumly around it, alone, having no fun, I perked up a bit. Maybe this just gives me something to look forward to. A hint of more singleplayer content that'll be coming to GTA 6 next year. Hopefully next year.\nThere's already a lot of seemingly unfinished stuff in GTA 6, partial systems that could be added to and completed, like:\nI can throw a frisbee but no one will catch it—not even dogs—or throw it back\nI can go to a tennis court, pick up a tennis racket and tennis ball, and hit the ball with the racket, but I can't actually play tennis\nSpeaking of dogs, who would put so many dogs in a game and not let me have my own dog?\nThere's a baseball bat and baseballs, but I can't play baseball\nThe dog thing is madness. Gotta let us have dogs at some point\nThere are so many cool houses but I can only live in the one currently assigned to me by the story\nThere are hotels everywhere but I can't rent a room\nYou can play eight-ball pool but not nine-ball? Pure insanity, even moreso than the dog decision",
-    "extra": {
-     "image": "https://cdn.mos.cms.futurecdn.net/8q3aB7eUKTKyvGtqBRoLPE-1920-80.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "В GTA 6 нашли ЗАКРЫТЫЕ казино и картинг\n\nГеймеры наткнулись на запертые локации вроде казино и карт-трека с надписями «Coming Soon». Двери закрыты даже после полного прохождения сюжета, так что ждём жирные обновы.\n\n❤️ — Ждём DLC с казино!\n👎 — Опять прогрев на контент...",
-    "card_title": "ЗАКРЫТЫЕ КАЗИНО И КАРТИНГ",
-    "reason": "Игрок нашел закрытые казино и трассы с табличками скоро открытие, а также фичи вроде фрисби и тенниса без мини-игр",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-3.5-flash"
-   },
-   "queued_at": "2026-11-22T19:24:52.314201+00:00",
-   "moderation": "pending",
-   "draft_msg_id": 93
   },
   {
    "item": {
@@ -11310,37 +11370,6 @@
   },
   {
    "item": {
-    "title": "«Cyberpunk 2 отменена»: креативный директор сиквела Cyberpunk 2077 оказался под впечатлением GTA VI и решил пошутить",
-    "link": "https://ixbt.games/news/2026/11/23/cyberpunk-2-otmenena-kreativnyi-direktor-sikvela-cyberpunk-2077-okazalsia-pod-vpecatleniem-gta-vi-i-resil-posutit.html",
-    "summary": "Rockstar Games проделала впечатляющую работу.",
-    "published": "2026-11-23T02:11:00+00:00",
-    "source": "iXBT.games",
-    "site_name": "iXBT.games",
-    "trust": "medium",
-    "text": "Rockstar Games проделала впечатляющую работу.\nНедавно Grand Theft Auto VI выпустили на консолях PlayStation 5 и Xbox Series X|S. С новинкой уже успели познакомиться не только обычные игроки, но и многие разработчики. На некоторых проект Rockstar Games произвёл сильное впечатление.\nНапример, своим мнением о Grand Theft Auto VI в социальной сети решило поделиться креативный директор сиквела Cyberpunk 2077. Игорь Саржиньски (Igor Sarzynski)\nДепрессия у разработчика игр с открытым миром, вызванная GTA VI — это реально. [GTA VI] это, вероятно, величайшее художественное достижение в истории, я серьёзно. Масштаб, насыщенность, цельность, продуманность всего — просто технологическое и творческое чудо. Cyberpunk 2 отменяется, пойду подметать осенние листья у себя во дворе.\nПосле такой шутки Игорь Саржиньски продолжил, уже серьёзно, и уточнил — CD Projekt RED продолжает работать. Авторы Cyberpunk 2 создают нечто своё и не будут напрямую конкурировать с Rockstar Games:\nЯ думаю, что мы делаем что-то своё, со своим неповторимым характером. GTA впечатляет так же, как любое великое произведение искусства: раздвигает границы возможного. Завораживающий замысел, безупречно воплощённый в жизнь.\nИздательский директор Larian Studios Майкл Даус (Michael Douse) разделяет его мнение: «Не каждая игра должна быть GTA».\nНе пропускайте наши новостиДобавьте сайт в предпочитаемые источники, чтобы видеть нас чащеДобавить в Google",
-    "extra": {
-     "image": "https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1745166/media-b3cd8d85b17cd91afe02caa3a6c0e0e761c53c56a9a518ee7924af2d2c12dd9d.png"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "🍂 Автор Cyberpunk 2 в шутку ОТМЕНИЛ игру из-за GTA 6\n\nНовинка так зашла креативному директору сиквела Игорю Саржиньски, что он словил тильт и собрался мести листья во дворе. Позже разраб выдохнул и уточнил: CDPR делает проект со своим характером, а в Larian подтвердили — не всем же играм быть GTA.",
-    "card_title": "ШУТКА ПРО ОТМЕНУ CYBERPUNK 2",
-    "reason": "Креативный директор сиквела Cyberpunk 2077 впечатлен масштабом GTA 6 и пошутил об отмене игры",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-4-hydrogen"
-   },
-   "queued_at": "2026-11-23T02:55:43.661109+00:00",
-   "moderation": "pending",
-   "draft_msg_id": 95
-  },
-  {
-   "item": {
     "title": "Авторов GTA VI обвинили в плагиате",
     "link": "https://ixbt.games/news/2026/11/23/avtorov-gta-vi-obvinili-v-plagiate.html",
     "summary": "К оригинальности части контента есть вопросы.",
@@ -11427,9 +11456,10 @@
   "2026-11-22T18:53:08.255210+00:00",
   "2026-11-22T19:08:58.405726+00:00",
   "2026-11-22T20:58:34.120756+00:00",
-  "2026-11-22T21:13:49.600943+00:00"
+  "2026-11-22T21:13:49.600943+00:00",
+  "2026-11-23T06:36:35.519544+00:00"
  ],
- "tg_offset": 387129053,
+ "tg_offset": 387129059,
  "channel": {
   "id": -1003986639147,
   "title": "GTA 6 | Горячие новости",
@@ -11473,68 +11503,7 @@
  "urgent": [
   "2026-11-21T20:14:20.243248+00:00"
  ],
- "clips": [
-  {
-   "clip": {
-    "source": "twitch",
-    "url": "https://www.twitch.tv/jerma985/clip/InventiveRelievedHerringHassanChop-Z4105qYJddi_wfru",
-    "title": "friendship denied :(",
-    "author": "Jerma985",
-    "views": 492,
-    "duration": 59.4,
-    "created": "2026-11-22T20:07:11+00:00",
-    "lang": "en",
-    "description": "",
-    "vod_id": "2937408089",
-    "vod_offset": 14762.0
-   },
-   "caption": "Чел просто выкинул друга из тачки посреди поездки, а тот побежал за ним с криками 💀 Ору с этой физики",
-   "interest": 8,
-   "spoiler": false,
-   "nsfw": false,
-   "watched": true,
-   "model": "gemini:gemini-3.5-flash-lite",
-   "media": {
-    "width": null,
-    "height": 720,
-    "duration": 59
-   },
-   "queued_at": "2026-11-22T20:35:58.815927+00:00",
-   "file_id": "BAACAgIAAxkDAANcawNSMMEHqPDwWq5cKeI34cF-oG4AAjS1AAKnJxlIRFW2KvyqK2w9BA",
-   "moderation": "pending",
-   "draft_msg_id": 92
-  },
-  {
-   "clip": {
-    "source": "twitch",
-    "url": "https://www.twitch.tv/donacs/clip/FilthySarcasticTigerBlargNaut-Iy7uwIYAFy9N0uyO",
-    "title": "o7 lucia",
-    "author": "donaCS",
-    "views": 420,
-    "duration": 36.1,
-    "created": "2026-11-22T15:33:15+00:00",
-    "lang": "en",
-    "description": "",
-    "vod_id": "2937221358",
-    "vod_offset": 12329.0
-   },
-   "caption": "Стримерша случайно застрелила Лусию прямо после миссии — ласт её ошибка, просто ору с этой реакции 💀",
-   "interest": 8,
-   "spoiler": false,
-   "nsfw": false,
-   "watched": true,
-   "model": "gemini:gemini-3.5-flash-lite",
-   "media": {
-    "width": null,
-    "height": 720,
-    "duration": 36
-   },
-   "queued_at": "2026-11-22T21:42:52.550697+00:00",
-   "file_id": "BAACAgIAAxkDAANeawNh3QMNRKqG4ekzMCVn4Y-S0LUAAsi1AAKnJxlIBrNb2SX0wGE9BA",
-   "moderation": "pending",
-   "draft_msg_id": 94
-  }
- ],
+ "clips": [],
  "clip_drafts": [
   "2026-11-21T07:15:43.486003+00:00",
   "2026-11-21T12:48:29.513513+00:00",
@@ -16932,6 +16901,13 @@
    "title": "Полный разнос на нудистском пляже: Лусия устроила замес с голыми NPC, и они все полезли д…",
    "importance": 9,
    "kind": "video"
+  },
+  {
+   "ts": "2026-11-23T06:36:35.519558+00:00",
+   "msg_id": 62,
+   "title": "В GTA 6 нашли ЗАКРЫТЫЕ казино и картинг",
+   "importance": 7,
+   "kind": "confirmed"
   }
  ],
  "extras": [],
