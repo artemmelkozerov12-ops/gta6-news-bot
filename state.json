@@ -2565,7 +2565,22 @@
   "eca8e44281a23206": "2026-11-23T07:28:06.449903+00:00",
   "0184b34ddac94991": "2026-11-23T07:28:07.667664+00:00",
   "f8c591db146c67f5": "2026-11-23T07:28:09.136110+00:00",
-  "b7e0e16810940fbc": "2026-11-23T07:28:10.148444+00:00"
+  "b7e0e16810940fbc": "2026-11-23T07:28:10.148444+00:00",
+  "1ea14e0e4bb4d4ad": "2026-11-23T07:43:33.997050+00:00",
+  "74666599c0721abf": "2026-11-23T07:43:35.315559+00:00",
+  "a1d5938d55f1d629": "2026-11-23T07:43:36.707436+00:00",
+  "d73befcb52466dc8": "2026-11-23T07:43:39.080677+00:00",
+  "baa919168f08a1cb": "2026-11-23T07:43:41.989393+00:00",
+  "e6221089990a13f8": "2026-11-23T07:43:43.321241+00:00",
+  "a7c2b00b1a1458ca": "2026-11-23T07:43:44.776590+00:00",
+  "7ff41db14761c315": "2026-11-23T07:59:30.549163+00:00",
+  "7720ca47c9de862f": "2026-11-23T07:59:31.570991+00:00",
+  "cb37098507b61e8b": "2026-11-23T07:59:32.894960+00:00",
+  "634606968a2cc01e": "2026-11-23T07:59:33.829720+00:00",
+  "595754179f251760": "2026-11-23T07:59:34.997243+00:00",
+  "95a6d218a36a4937": "2026-11-23T07:59:36.585788+00:00",
+  "018695c5e832369f": "2026-11-23T07:59:37.802487+00:00",
+  "80575794afeb68fc": "2026-11-23T07:59:39.342510+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -4320,7 +4335,22 @@
   "273fb99551c02972": "2026-11-23T07:28:06.449903+00:00",
   "0213d98334891dee": "2026-11-23T07:28:07.667664+00:00",
   "46579acc66fd2c00": "2026-11-23T07:28:09.136110+00:00",
-  "6604ae0210360cdc": "2026-11-23T07:28:10.148444+00:00"
+  "6604ae0210360cdc": "2026-11-23T07:28:10.148444+00:00",
+  "c6d290f36c244263": "2026-11-23T07:43:33.997050+00:00",
+  "fe387dbd326657a1": "2026-11-23T07:43:35.315559+00:00",
+  "6e120e548413f2dc": "2026-11-23T07:43:36.707436+00:00",
+  "044482f94ac1360f": "2026-11-23T07:43:39.080677+00:00",
+  "2a857756dfcbddd4": "2026-11-23T07:43:41.989393+00:00",
+  "c356bb6b141fbae7": "2026-11-23T07:43:43.321241+00:00",
+  "fab738fb8b1f6462": "2026-11-23T07:43:44.776590+00:00",
+  "7cba483b2437cd73": "2026-11-23T07:59:30.549163+00:00",
+  "c57b2b70160dd5e6": "2026-11-23T07:59:31.570991+00:00",
+  "0513af113b24ad99": "2026-11-23T07:59:32.894960+00:00",
+  "08a1b4803cae5313": "2026-11-23T07:59:33.829720+00:00",
+  "8d7261be9c0e6400": "2026-11-23T07:59:34.997243+00:00",
+  "22e75166497e6337": "2026-11-23T07:59:36.585788+00:00",
+  "310a9314bc448e20": "2026-11-23T07:59:37.802487+00:00",
+  "0f4055126703aac4": "2026-11-23T07:59:39.342510+00:00"
  },
  "recent": [
   {
@@ -10887,7 +10917,7 @@
    "title": "GTA 6 Strip Clubs: Locations, Prices and Private Dances",
    "source": "GTA BOOM",
    "trust": "medium",
-   "status": "queued",
+   "status": "published",
    "ts": "2026-11-23T05:51:16.806464+00:00",
    "card_title": "ГДЕ ВСЕ СТРИП-КЛУБЫ"
   },
@@ -11039,7 +11069,7 @@
    "title": "How to Get the Safe Code and Disarm the Alarm at Donovan Banks & Co. in GTA 6",
    "source": "GTA BOOM",
    "trust": "medium",
-   "status": "queued",
+   "status": "published",
    "ts": "2026-11-23T06:54:31.205136+00:00",
    "card_title": "ОГРАБЛЕНИЕ ЮВЕЛИРКИ DONOVAN BANKS"
   },
@@ -11186,6 +11216,126 @@
    "status": "skipped",
    "ts": "2026-11-23T07:28:10.148565+00:00",
    "card_title": ""
+  },
+  {
+   "title": "В GTA 6 заметили отсылку на Казахстан, но не все оценили шутку",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T07:43:33.997172+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI Racing Circuits: Every Track and Real-World Inspiration",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T07:43:35.315681+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Бывший художник Rockstar оценил графику GTA 6 как \"почти безупречную\" – но реки в Red Dead Redemption 2 всё равно лучше",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T07:43:36.707558+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 взломали? Что известно об утечке 209 ГБ для ПК и Xbox",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T07:43:39.080802+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Продажи GTA VI побили мировой рекорд: $3,8 млрд за первые сутки после релиза",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T07:43:41.989515+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Unwanted Attention guide: stealing the Phoenix from the Hamlet impound",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T07:43:43.321358+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Мистическая пасхалка с бессмертным NPC в GTA 6 • Игроки в Grand Theft Auto 6 обнаружили пугающего неуязвимого персонажа, который... 2026",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T07:43:44.776712+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Steal the Scooter guide: helping Shirley take Peggy’s mobility scooter",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T07:59:30.549295+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "That's a scene worthy of GTA 6 if ever I saw one 🤣 Just a shame it's AI Writer: Ian",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T07:59:31.571105+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Дуров* назвал «самую неправдоподобную» вещь в новой GTA VI: подробности",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T07:59:32.895072+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Эксперт Digital Foundry высказался о FPS в GTA 6 на Xbox",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T07:59:33.829856+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Tesla показала автопілот у стилі GTA 6 з новим ШІ",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T07:59:34.997363+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Breaks Entertainment Launch Record With US$3.8 Billion In Sales",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T07:59:36.585928+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "🇺🇸 Rockstar went all in on the details in GTA 6, right down to how a boat goes under. Slow, quiet and low-key terrifying. Writers: Daniyal, Oliver",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T07:59:37.802609+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Elon Musk reveals new Tesla self-driving technology with real-time video game visuals: 'Better than GTA 6'",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T07:59:39.342627+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -11217,35 +11367,6 @@
     "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-3.5-flash"
    },
    "queued_at": "2026-11-23T01:06:51.441416+00:00"
-  },
-  {
-   "item": {
-    "title": "'GTA 6' Bombshell: Husband Melts Down After Wife Hid Her Role In Game For Years",
-    "link": "https://www.polygon.com/gta-6-amber-wallin-comedian-instagram-npc-voice-actor-husband-secret/",
-    "summary": "A long-kept GTA 6 secret low-key almost destroyed comedian Amber Wallin's marriage.",
-    "published": "2026-11-22T19:32:30+00:00",
-    "source": "Polygon",
-    "site_name": "Polygon",
-    "trust": "high",
-    "text": "The gaming industry is notoriously secretive, and that's doubly true for anything related to Grand Theft Auto 6. Rockstar Games kept much of the game tightly under wraps, including one of the title's biggest secrets — a remarkable feat when you consider how much of the game leaked prior to launch. All of this might be true, but it didn't take the sting out of one husband's recent discovery about his wife's work on the record-breaking open-world title.\nAmber Wallin is a comedian who voices several non-playable characters in GTA 6. Wallin's voice can be heard during an early segment of the game where Lucia is notified she will be allowed to carry out her sentence via a quasi-home arrest program. Wallin appears in a few other roles throughout the game, such as a character who roasts Jason after he harasses her.\nGiven her profession, it's no surprise that Wallin's characters are a hoot. \"Motherfucker wanna clock out soon when shit gets real,\" she says via the aggravated NPC. \"Clock in, ho. Time is money!\"\nWhile Wallin's various roles are minor, the game is already the biggest entertainment launch of all time, meaning anyone who can say they were involved in its creation has much to brag about. So, imagine the surprise of Wallin's husband when he learned she was in the game like any other player. According to a video the couple recently posted on social media, Wallin apparently kept her involvement in the game a total secret from even her husband for two years.\n\"NDAs do not apply to husbands,\" Wallin's partner screams. The video is not entirely serious — at one point, Wallin suggests Rockstar Games could assassinate her for talking about it even now. The clip was obviously planned beforehand and is staged to look like a dramatic segment in a reality TV show as well. Yet the feelings expressed in it, and Wallin's tight-lipped approach to her work, appear to be 100% genuine.\nPerhaps the most ironic part is that Wallin has a video where she playfully describes her relationship with her husband. In it, she describes a time during pregnancy where she took care of a handful of tedious house chores. When she was finished, she wanted to treat herself with a pint of ice cream — but when she opened the fridge, all she found was an empty carton. On top of not throwing it out, the husband evidently did not even bother to put the ice cream back in the freezer.\nGiven GTA 6's focus on relationships and how much it encourages men to be thoughtful partners, perhaps playing thro",
-    "extra": {
-     "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/grand-theft-auto-6-jason-and-lucia-motorcycles.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "Актриса 2 года СКРЫВАЛА роль в GTA 6 от собственного мужа 🤫\n\nКомедиантка Эмбер Уоллин озвучила нескольких NPC в игре, включая сцену с Люсией в начале сюжета, но из-за жесткого NDA от Rockstar не сказала благоверному ни слова. Чел узнал обо всем только на релизе, включив игру, и словил лютый тильт от такой секретности.\n\n❤️ — Уровень дисциплины просто база!\n👎 — Кринж, от мужа скрывать перебор",
-    "card_title": "ТАЙНА ОТ МУЖА РАДИ GTA 6",
-    "reason": "Забавная история о том, как актриса озвучки два года скрывала от мужа участие в GTA 6.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-3.8-flash"
-   },
-   "queued_at": "2026-11-22T19:44:44.256067+00:00"
   },
   {
    "item": {
@@ -11423,35 +11544,6 @@
   },
   {
    "item": {
-    "title": "Создатели Escape from Tarkov отпраздновали релиз GTA VI кроссовером — показали сцену с тонущим Томми Версетти и бензопилой",
-    "link": "https://ixbt.games/news/2026/11/22/sozdateli-escape-from-tarkov-otprazdnovali-reliz-gta-vi-krossoverom-pokazali-scenu-s-tonushhim-tommi-versetti-i-benzopiloi.html",
-    "summary": "В Таркове некоторые тоже не умеют плавать.",
-    "published": "2026-11-22T19:26:00+00:00",
-    "source": "iXBT.games",
-    "site_name": "iXBT.games",
-    "trust": "medium",
-    "text": "В Таркове некоторые тоже не умеют плавать.\nВ ноябре на консолях состоялся релиз Grand Theft Auto VI. Мимо такого события не прошла и команда разработчиков одного известного extraction-шутера.\nАвторы Escape from Tarkov иногда отмечают запуск некоторых проектов специфическими роликами-кроссоверами. В честь выхода GTA VI студия Battlestate Games опубликовала видео, в котором по сюжету тарковский аналог Томми Версетти из GTA: Vice City берёт в руки бензопилу и отправляется разбираться с местным «Сонни».\nОднако на пути героя возникает препятствие в виде бассейна — после неудачного прыжка «Томми» тонет с характерной анимацией.\nЭта сценка отсылает к одной миссий из GTA: Vice City — Treacherous Swine (или «Подлая свинья»), тогда по сюжету главный герой тоже получает бензопилу, но ему надо разобраться с другим персонажем. В GTA у Томми Версетти всё получилось иначе.\nРанее в этом месяце авторы Escape from Tarkov запустили в честь релиза Grand Theft Auto VI специальную Twitch Drops-кампанию, в ходе которой игроки за просмотр стримов могли получить комплекты со снаряжением, а также одежду для ЧВК, выполненную в стиле Vice City. Эта кампания продлится до 23 ноября, 18:00 МСК.\nНе пропускайте наши новостиДобавьте сайт в предпочитаемые источники, чтобы видеть нас чащеДобавить в Google",
-    "extra": {
-     "image": "https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1745096/media-001898e6c436c44239302606ad620d6edaed4a017f627062969a6e6ffed7c984.png"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "БЕНЗОПИЛА и бассейн: кроссовер от авторов Таркова 🪚\n\nСоздатели Escape from Tarkov эпично поздравили Rockstar с релизом. В ролике местный клон Томми Версетти пошёл на дело с бензопилой, но прыгнул в бассейн и по старой памяти сразу пошёл ко дну. Чистый рофл и база!",
-    "card_title": "ТАРКОВ ПОЗДРАВИЛ GTA 6",
-    "reason": "Разработчики Escape from Tarkov сделали крутой кроссовер в честь релиза GTA 6",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-3.7-flash"
-   },
-   "queued_at": "2026-11-22T19:46:05.161338+00:00"
-  },
-  {
-   "item": {
     "title": "Звезда Red Dead Redemption 2 стала кастинг-директором GTA VI — она нашла девушку для обложки игры",
     "link": "https://ixbt.games/news/2026/11/23/zvezda-red-dead-redemption-2-stala-kasting-direktorom-gta-vi-ona-nasla-devusku-dlia-oblozki-igry.html",
     "summary": "Для одной из актрис сотрудничество с Rockstar Games вышло на новый уровень.",
@@ -11536,66 +11628,6 @@
     "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-4-hydrogen"
    },
    "queued_at": "2026-11-23T03:11:41.570748+00:00"
-  },
-  {
-   "item": {
-    "title": "GTA 6 Strip Clubs: Locations, Prices and Private Dances",
-    "link": "https://www.gtaboom.com/gta-6-strip-clubs-locations-prices-and-private-dances-d5b0",
-    "summary": "Delights Cabaret is the cheapest strip club in GTA 6, with private dances around $40 versus about $300 at NINE1NINE and $1,000 at Jack of Hearts.",
-    "published": "2026-11-23T05:44:33+00:00",
-    "source": "GTA BOOM",
-    "site_name": "GTA BOOM",
-    "trust": "medium",
-    "text": "Grand Theft Auto VI lets us walk into the strip clubs we spent years reading about and there are three of them spread across Vice City and Kelly County\nHere is the full rundown of where you can find each club, what spending a night there costs and what GTA 6 will and will not let you do once you are inside.\nAll Three GTA 6 Strip Clubs and Where to Find Them\nGTA 6 has three strip clubs, catering to different types of individuals. NINE1NINE is the high-roller spot downtown, Jack of Hearts is the story-locked club for those with the deepest pockets and Delights Cabaret is the cheap dive out in the county.\nEvery GTA 6 strip club with its location, private-dance price and unlock timing.\nNINE1NINE, the Luxury Club With a Real Miami Backstory\nNINE1NINE sits in downtown Vice City, just south of Crosstown below the overpass near The Vault, open from Chapter 1. It is the luxury option, a nightclub and strip club hybrid with VIP lounges, a wealthy crowd and the steepest drink markups of the three. Private dances run around $300, with tips on top of roughly $50.\nAnyone who followed our launch coverage will recognize the name. Rockstar Games modeled the in-game club on Miami's E11EVEN, the real nightclub-strip-club hybrid, so the name lines up with the real-world Vice City spots we mapped long before the game shipped. It is the one club built to make you feel the price of a night out.\nJack of Hearts and the Only Raw Records Studio\nJack of Hearts is the hip-hop-themed club owned by Boobie Ike, it stays locked until Chapter 3 and it carries the highest price in the game, with private dances around $1,000. The back of the club also holds the recording studio for Only Raw Records, the in-game label tied to Boobie Ike, Dre'Quan Priest and the Dimez.\nThe club itself is central to several story missions and meetings.\nDelights Cabaret, the Cheap Old-School Option\nDelights Cabaret trades the downtown gloss for a rougher room. This roadside dive sits out in Port Gellhorn in Kelly County, off the I-404, owned by a character named Frankie. Private dances cost around $40, the cheapest in the game by a mile, with small tips on top. The crowd is lower-key and old-school. It is also the one club with pool tables, which the downtown spots skip.\nIf you want the full strip-club experience without emptying your wallet, this is where to start.\nWhat You Can Do Inside a GTA 6 Strip Club\nThe clubs share a core set of activities. You can order drinks at the bar, sometimes for a temporary buff,",
-    "extra": {
-     "image": "https://media.gtaboom.com/variants/1920/media/images/47/b4/gta-6-strip-clubs-locations-prices-and-private-dances-2.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 6,
-    "post": "🗺 Гайд: Стрип-клубы Вайс-Сити\n\nВ игре всего три заведения под разный бюджет. Го сливать виртуальные баксы:\n\n1. NINE1NINE — даунтаун Вайс-Сити (доступен с 1 главы). Элитный клуб в стиле Майами. Приват — $300.\n2. Jack of Hearts — откроется в 3 главе. Самый дорогой топич для мажоров, приват обойдётся в $1000.\n3. Delights Cabaret — Порт-Геллхорн (округ Келли). Самый дешёвый дедовский бар с бильярдом, приват всего за $40.",
-    "card_title": "ГДЕ ВСЕ СТРИП-КЛУБЫ",
-    "reason": "Гайд по расположению и ценам стрип-клубов в вышедшей GTA 6",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": true,
-    "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-3.5-flash"
-   },
-   "queued_at": "2026-11-23T05:51:16.806453+00:00",
-   "moderation": "pending",
-   "draft_msg_id": 96
-  },
-  {
-   "item": {
-    "title": "How to Get the Safe Code and Disarm the Alarm at Donovan Banks & Co. in GTA 6",
-    "link": "https://www.gtaboom.com/gta-6-donovan-banks-robbery-guide-e5bb",
-    "summary": "At Donovan Banks & Co. in GTA 6, get the safe code from the clerk and disarm the alarm at the office wall keypad before smashing the display cases.",
-    "published": "2026-11-23T06:45:19+00:00",
-    "source": "GTA BOOM",
-    "site_name": "GTA BOOM",
-    "trust": "medium",
-    "text": "Donovan Banks & Co. is a free-roam jewellery robbery in GTA 6. You're there for the safe, the cash at the counter and the jewellery in the display cases. In our run with Jason, disarming the alarm gave us enough time to take jewellery and get outside before any wanted stars appeared. Police still started searching after we drove away.\nOn the map, select the green diamond near Milk King on SW 7th Street. Look for Donovan Banks & Co. on the card. It showed GTA$14,000 to GTA$25,000 in goods in our run. That's an estimate of the haul's value, not what you'll take home in cash.\nAs Lucia, select Invite Jason with Triangle on PlayStation or Y on Xbox if the map offers it. He can watch the shop floor while you check the back rooms. If you go alone, keep an eye on the guard just inside the entrance.\nPut on your face wrap before going inside. At the main counter, threaten the clerk. If they don't give you the code right away, choose Anything Else?, then Safe Code? when that prompt appears. Collect the cash from the counter before you head to the back rooms.\nOur free-roam code was 1822. Use the number the clerk gives you. If you missed it at the counter, look for the green note under the white shelf above the office desk. The Yasmani job at the same shop can have a different code.\nGo through the door at the end of the counter beside the railing. The large black safe is against the wall next to the shelves. Open it before you start on the glass cases so you're not entering the code during a police search. With the alarm on, the search started seconds after we broke the first case.\nDisarm the alarm before breaking the cases\nIn the back rooms, look for the door marked Office by the sailboat picture. In our run, we used Destroy Footage at the recorder on the desk, then selected Disarm Security System at the wall keypad just inside the office door. Use that wall keypad to turn off the alarm; the keypad on the safe only opens the safe.\nGo back to the shop floor. Use Smash on the display cases, then collect the jewellery inside. With the alarm on, a police search began seconds after we broke the first case, while we were still inside. We also opened the safe and took jewellery solo with the alarm off.\nLeave promptly and sell the jewellery separately\nLeave through the front and drive away. In the run with Jason and the alarm off, we had no wanted stars at the door but picked up three after we left. Don't hang around just because the minimap is clear. If a search starts, use ",
-    "extra": {
-     "image": "https://media.gtaboom.com/variants/1920/media/images/46/bd/donovan-jewellery-hero-80435a6df6900340.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 6,
-    "post": "🗺 Гайд: выносим ювелирку Donovan Banks без ТРЕВОГИ\n\n1. Ищи зелёный ромб на SW 7th Street у Milk King (можно позвать Джейсона).\n2. В маске выбей код сейфа у клерка — или ищи зелёную записку в офисе.\n3. В подсобке у картины с парусником выруби камеры и сигналку на стене.\n4. Открой чёрный сейф, бей витрины и сваливай — топчик, но копы всё равно поедут, так что без флекса у входа.",
-    "card_title": "ОГРАБЛЕНИЕ ЮВЕЛИРКИ DONOVAN BANKS",
-    "reason": "Гайд по ограблению ювелирки в GTA 6 с полезными советами.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": true,
-    "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-4-hydrogen"
-   },
-   "queued_at": "2026-11-23T06:54:31.205124+00:00"
   }
  ],
  "posts": [
@@ -11629,9 +11661,11 @@
   "2026-11-22T20:58:34.120756+00:00",
   "2026-11-22T21:13:49.600943+00:00",
   "2026-11-23T06:36:35.519544+00:00",
-  "2026-11-23T06:52:12.409408+00:00"
+  "2026-11-23T06:52:12.409408+00:00",
+  "2026-11-23T07:46:39.243843+00:00",
+  "2026-11-23T08:03:27.656863+00:00"
  ],
- "tg_offset": 387129059,
+ "tg_offset": 387129061,
  "channel": {
   "id": -1003986639147,
   "title": "GTA 6 | Горячие новости",
@@ -11666,13 +11700,15 @@
   "2026-11-22T20:03:38.323230+00:00",
   "2026-11-22T21:03:59.840790+00:00",
   "2026-11-23T06:00:40.772988+00:00",
-  "2026-11-23T07:01:27.603407+00:00"
+  "2026-11-23T07:01:27.603407+00:00",
+  "2026-11-23T08:02:17.685960+00:00"
  ],
  "slots_sent": {
   "2026-11-21:guide:1": "2026-11-21T21:14:52.573728+00:00",
   "2026-11-22:guide:1": "2026-11-22T08:01:32.386719+00:00",
   "2026-11-22:guide:2": "2026-11-22T09:01:59.839706+00:00",
-  "2026-11-23:guide:1": "2026-11-23T07:01:27.603496+00:00"
+  "2026-11-23:guide:1": "2026-11-23T07:01:27.603496+00:00",
+  "2026-11-23:guide:2": "2026-11-23T08:02:17.686051+00:00"
  },
  "urgent": [
   "2026-11-21T20:14:20.243248+00:00"
@@ -17374,6 +17410,20 @@
    "title": "Пойманные пасхалки GTA 6: от Вайс Сити FM до собаки‑джетски",
    "importance": 8,
    "kind": "confirmed"
+  },
+  {
+   "ts": "2026-11-23T07:46:39.243857+00:00",
+   "msg_id": 64,
+   "title": "Стрип-клубы Вайс-Сити",
+   "importance": 6,
+   "kind": "guide"
+  },
+  {
+   "ts": "2026-11-23T08:03:27.656879+00:00",
+   "msg_id": 65,
+   "title": "Выносим ювелирку Donovan Banks без ТРЕВОГИ",
+   "importance": 6,
+   "kind": "guide"
   }
  ],
  "extras": [],
