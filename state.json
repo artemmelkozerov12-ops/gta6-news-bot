@@ -2428,7 +2428,15 @@
   "75b3aa583838d31a": "2026-11-22T23:33:26.948608+00:00",
   "d8adfc13012437cd": "2026-11-22T23:33:29.965318+00:00",
   "398cdec78735ff21": "2026-11-22T23:33:31.492719+00:00",
-  "eebc04c6540d1e18": "2026-11-22T23:33:37.972394+00:00"
+  "eebc04c6540d1e18": "2026-11-22T23:33:37.972394+00:00",
+  "fea70de2d7a22a87": "2026-11-22T23:48:53.900595+00:00",
+  "a0899ff76722f85b": "2026-11-22T23:48:55.343193+00:00",
+  "368aa3d253376a15": "2026-11-22T23:49:02.145362+00:00",
+  "1f483624bce7688a": "2026-11-22T23:49:04.261538+00:00",
+  "efc9476215d3df0c": "2026-11-22T23:49:07.835835+00:00",
+  "20c4dfe9730523ea": "2026-11-22T23:49:19.702522+00:00",
+  "4f9802ad6d3680f4": "2026-11-23T00:04:38.829811+00:00",
+  "2ba17018b8d6b5f3": "2026-11-23T00:04:51.120647+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -4077,7 +4085,15 @@
   "81bad4c536e89ec1": "2026-11-22T23:33:26.948608+00:00",
   "1d98d3ccc52e1e72": "2026-11-22T23:33:29.965318+00:00",
   "ba727e178aee14b3": "2026-11-22T23:33:31.492719+00:00",
-  "2983e830a130c077": "2026-11-22T23:33:37.972394+00:00"
+  "2983e830a130c077": "2026-11-22T23:33:37.972394+00:00",
+  "4cbee51d9a71be00": "2026-11-22T23:48:53.900595+00:00",
+  "c37edb70e76719e0": "2026-11-22T23:48:55.343193+00:00",
+  "3b8f3305de56fe52": "2026-11-22T23:49:02.145362+00:00",
+  "68a4534df0968d71": "2026-11-22T23:49:04.261538+00:00",
+  "dabb5947475e7365": "2026-11-22T23:49:07.835835+00:00",
+  "f09b4807a0db9900": "2026-11-22T23:49:19.702522+00:00",
+  "3257d75f7f72b41a": "2026-11-23T00:04:38.829811+00:00",
+  "a50a6e3f8bca4ae5": "2026-11-23T00:04:51.120647+00:00"
  },
  "recent": [
   {
@@ -10710,6 +10726,70 @@
    "trust": "rumor",
    "status": "skipped",
    "ts": "2026-11-22T23:33:37.972519+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Safe, Door and Garage Codes and Where to Find the Clues",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "dup",
+   "ts": "2026-11-22T23:48:53.900626+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Ride or Die walkthrough: Where to find the DWNPLY sneakers and get them for free",
+   "source": "VGC",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-22T23:48:58.035284+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "‘GTA 6’: Where You Know Mandy Actress Lexie Shoaibi From",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T23:49:02.145492+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Dev Honors Late Mother With In-Game Memorial That Players Can Visit",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T23:49:04.261662+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to complete the Hyde Island Manhunt Easter egg in GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T23:49:11.171122+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Gives Ford’s Forgotten Muscle Truck The Love It Deserves",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-22T23:49:19.702646+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Dessert: GTA 6 features a Cantopop classic",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T00:04:38.829932+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Controversial windfall for Miami: GTA VI reopens debate over crime and protecting minors",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T00:04:51.120783+00:00",
    "card_title": ""
   }
  ],
