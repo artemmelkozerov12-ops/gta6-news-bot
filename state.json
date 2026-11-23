@@ -2920,7 +2920,74 @@
   "0e6d07dc619e6884": "2026-11-23T18:11:01.879596+00:00",
   "1e1c440d3da31684": "2026-11-23T18:11:21.902101+00:00",
   "34acb09f203164ca": "2026-11-23T18:11:45.662748+00:00",
-  "13d84e2737daa486": "2026-11-23T18:12:19.712767+00:00"
+  "13d84e2737daa486": "2026-11-23T18:12:19.712767+00:00",
+  "d5f23073a6af0be0": "2026-11-23T18:28:14.340460+00:00",
+  "09bdfc1d5743eed4": "2026-11-23T18:28:14.340550+00:00",
+  "1091c4042e8cc78c": "2026-11-23T18:28:40.213869+00:00",
+  "2dd18e05689a5562": "2026-11-23T18:28:42.406816+00:00",
+  "595036fe59b02ff3": "2026-11-23T18:29:14.670348+00:00",
+  "2db99a1730d0b78c": "2026-11-23T18:30:03.794845+00:00",
+  "d89ea2a5ba3a1ae7": "2026-11-23T18:30:05.048595+00:00",
+  "4a6b51128722d868": "2026-11-23T18:30:06.121242+00:00",
+  "393f30570e222dd2": "2026-11-23T18:30:06.947186+00:00",
+  "bf80250adbeeaaef": "2026-11-23T18:30:58.132136+00:00",
+  "e1e082ee94759cc7": "2026-11-23T18:30:59.133608+00:00",
+  "6813b53864471a63": "2026-11-23T18:30:59.893617+00:00",
+  "722ab708c5a7aa1d": "2026-11-23T18:31:01.082277+00:00",
+  "dd86ee0cdcd4c88c": "2026-11-23T18:31:54.510070+00:00",
+  "9eaad8c744c7b650": "2026-11-23T18:31:55.386159+00:00",
+  "3c4aaaee13b00ead": "2026-11-23T18:31:56.344599+00:00",
+  "385324333b9ca83d": "2026-11-23T18:31:57.199432+00:00",
+  "662c7958ea4c9d7a": "2026-11-23T18:32:48.046626+00:00",
+  "ee9fc55bb7e65694": "2026-11-23T18:32:48.882821+00:00",
+  "0c73091a37c55f34": "2026-11-23T18:32:49.754899+00:00",
+  "22e86df725c5b7d2": "2026-11-23T18:32:50.784344+00:00",
+  "66a833e070178129": "2026-11-23T18:33:41.828952+00:00",
+  "2ede06cb6ea3593e": "2026-11-23T18:33:42.654313+00:00",
+  "f37caf33d8434327": "2026-11-23T18:33:43.019537+00:00",
+  "c747ff8cb5055bff": "2026-11-23T18:33:43.387472+00:00",
+  "a3b758fe4bef6ac8": "2026-11-23T18:34:33.851053+00:00",
+  "a87e8e1b8313cb09": "2026-11-23T18:34:34.207153+00:00",
+  "91e4974d1d2639ba": "2026-11-23T18:34:34.583373+00:00",
+  "43ba7b7c828a64cc": "2026-11-23T18:34:35.168583+00:00",
+  "bed07e24b5e590fb": "2026-11-23T18:35:25.651403+00:00",
+  "f9efbb9558df8073": "2026-11-23T18:35:26.130518+00:00",
+  "ac6fd505c88eff37": "2026-11-23T18:35:26.541100+00:00",
+  "1e386518c92676ca": "2026-11-23T18:35:26.918395+00:00",
+  "a32d1ab9445deb39": "2026-11-23T18:36:17.481312+00:00",
+  "e8aaede3984ac0d5": "2026-11-23T18:36:17.982671+00:00",
+  "f39aa40bd9731725": "2026-11-23T18:36:18.387914+00:00",
+  "f5fcc314d91ec828": "2026-11-23T18:36:18.746590+00:00",
+  "05156880c5dfbc9c": "2026-11-23T18:37:09.237855+00:00",
+  "a5ca596d612ac1ff": "2026-11-23T18:37:09.695665+00:00",
+  "49e6b6493e657150": "2026-11-23T18:37:10.091310+00:00",
+  "4c2f182a01b31be2": "2026-11-23T18:37:10.477801+00:00",
+  "2b678c8d4ae6c2ea": "2026-11-23T18:38:00.964202+00:00",
+  "e448a5ff77a3cfda": "2026-11-23T18:38:01.340670+00:00",
+  "e3d03f7fe109629b": "2026-11-23T18:38:01.723762+00:00",
+  "81cc986cad58e680": "2026-11-23T18:38:02.173939+00:00",
+  "075d6b1d72fc29db": "2026-11-23T18:38:52.783710+00:00",
+  "6557e0f3b1538e55": "2026-11-23T18:38:53.209954+00:00",
+  "3c1a8a9a56524a43": "2026-11-23T18:38:53.562565+00:00",
+  "fc606f9d0c63b968": "2026-11-23T18:38:53.933180+00:00",
+  "6e7689dfeaad2347": "2026-11-23T18:39:44.454543+00:00",
+  "2000ed69ffb15034": "2026-11-23T18:39:44.832477+00:00",
+  "af8dcaf06515d1aa": "2026-11-23T18:39:45.445937+00:00",
+  "fc99057a9b91399b": "2026-11-23T18:39:45.888782+00:00",
+  "473777e59c793be5": "2026-11-23T18:40:36.363210+00:00",
+  "d75562f2e74a25ce": "2026-11-23T18:40:36.797725+00:00",
+  "88696c1b656cf352": "2026-11-23T18:40:37.220209+00:00",
+  "241951a4a86974ff": "2026-11-23T18:40:37.951875+00:00",
+  "a6fd543af14e9957": "2026-11-23T18:41:28.408126+00:00",
+  "1c52299bfec727b6": "2026-11-23T18:41:28.764242+00:00",
+  "afd2b67dd4c2f601": "2026-11-23T18:41:29.109639+00:00",
+  "2dcc057b681fd99a": "2026-11-23T18:41:29.454163+00:00",
+  "0018c355e35f919e": "2026-11-23T18:42:19.953000+00:00",
+  "a6e1ed4835a1bbb4": "2026-11-23T18:42:20.387602+00:00",
+  "2e82816807b0bd95": "2026-11-23T18:42:20.724708+00:00",
+  "b34e30d46ba4a5a0": "2026-11-23T18:42:21.461233+00:00",
+  "63279f4e36700760": "2026-11-23T18:43:11.922901+00:00",
+  "bf0c997f135ba085": "2026-11-23T18:43:12.340058+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -4962,7 +5029,12 @@
   "0f96d9cd4fbcb678": "2026-11-23T18:11:01.879596+00:00",
   "7d90eb7ce13bb3ea": "2026-11-23T18:11:21.902101+00:00",
   "4dd35b0578b4d6ea": "2026-11-23T18:11:45.662748+00:00",
-  "8b0d04399e133bc7": "2026-11-23T18:12:19.712767+00:00"
+  "8b0d04399e133bc7": "2026-11-23T18:12:19.712767+00:00",
+  "bdfa8123798bbe16": "2026-11-23T18:28:14.340460+00:00",
+  "af6ac7bf1d321fbd": "2026-11-23T18:28:14.340550+00:00",
+  "2f04191a9c7f8313": "2026-11-23T18:28:40.213869+00:00",
+  "45469403e1b3bc74": "2026-11-23T18:28:42.406816+00:00",
+  "3bf7cb93f491eb62": "2026-11-23T18:29:14.670348+00:00"
  },
  "recent": [
   {
@@ -12721,7 +12793,7 @@
    "title": "GTA 6 заработала $4 млрд за выходные — больше Spider-Man и The Odyssey",
    "source": "Google News (RU)",
    "trust": "rumor",
-   "status": "queued",
+   "status": "published",
    "ts": "2026-11-23T14:35:32.497252+00:00",
    "card_title": "GTA 6 — $4 МЛРД ПРОДАЖ"
   },
@@ -13289,7 +13361,7 @@
    "title": "Cyberpunk 2 Is Canceled, Director Jokes, After GTA 6 Raises The Bar",
    "source": "GameSpot",
    "trust": "high",
-   "status": "queued",
+   "status": "published",
    "ts": "2026-11-23T17:48:29.497614+00:00",
    "card_title": "ГТА 6 РЕКОРДНЫЕ ПРОДАЖИ"
   },
@@ -13396,6 +13468,38 @@
    "status": "skipped",
    "ts": "2026-11-23T18:12:19.712866+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GTA 6's mind-blowing Easter egg is 5 years in the making",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-23T18:28:14.340503+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6: First post-launch patch notes",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-23T18:28:14.340590+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6’s Most Incredible Easter Egg Is 5 Years in the Making",
+   "source": "Polygon",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-23T18:28:41.201010+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Grand Theft Auto 6’s Strip Clubs: Where They Are And What You Can Do There",
+   "source": "Kotaku",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-23T18:28:47.878324+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -13460,37 +13564,6 @@
    "queued_at": "2026-11-23T14:36:54.224955+00:00",
    "moderation": "pending",
    "draft_msg_id": 110
-  },
-  {
-   "item": {
-    "title": "Cyberpunk 2 Is Canceled, Director Jokes, After GTA 6 Raises The Bar",
-    "link": "https://www.gamespot.com/articles/cyberpunk-2-is-canceled-director-jokes-after-gta-6-raises-the-bar/",
-    "summary": "Grand Theft Auto 6 has raised the bar for open-world games, and Cyberpunk 2 creative director Igor Sarzyński is feeling it. Online, the developer jokingly commented about GTA 6 setting a new gold standard for the genre, a level of quality that makes him want to pack up his Cyberpunk 2 development bags and call it a day. \"GTA 6-induced-open-world-game-dev-depression is real,\" Sarzyński wrote online. Probably the single greatest artistic achievement in history, I mean it. Scale, density, coherence, thoughtfulness of it all, just a technological and creative miracle. Cyberpunk 2 is canceled, Imma go sweep autumn leaves in my backyard now.\" https://www.youtube.com/watch?v=OAN_BXmVR0g Don't worry, Cyberpunk fans, because Sarzyński believes the game will offer a unique \"flavor\" compared to GTA 6. \"Seriously though, I think we're doing something of our own, with a different, unique flavor,\" he wrote in a follow-up post. \"GTA is impressive in a way all great art is; it expands what is possible, a captivating vision flawlessly executed.\" Meanwhile, Cyberpunk 2077 has had a great 2026, as the release of the new Cyberpunk Edgerunners anime series once again drove the game's numbers up . A meaty update also helped draw new players, and Cyberpunk 2 game director Gabe Amatangelo recently shared more thoughts on how the sequel is evolving beyond his original vision as more people join the project. Other developers across the industry have also commented on GTA 6, and Naughty Dog world design director Michael Barclay also believes that it is a technological achievement. \"I've made video games for 19 years, and GTA6 appears to me as a Bugatti Veyron would to a nervous Victorian child,\" he wrote. Payday 2 game director David Goldfarb has been utterly astonished by what he has seen so far, while The Last of Us: Part 2 and Star Wars: Jedi - Survivor character artist Del Walker wrote that he can't believe what he's seeing (and how some black magic might be involved): https://twitter.com/locust9/status/2123203448057536751 https://twitter.com/TheCartelDel/status/2123632078457831663 GTA 6 has had a phenomenal start , selling 44.9 million copies in its first weekend and making $4 billion. The first post-launch patch has also gone live, though we're not too sure what it does yet. For more on GTA 6, from completing side missions to finding a tricky location on the sprawling map of Leonida, we’ve got you covered with our Grand Theft Auto 6 guides hub.",
-    "published": "2026-11-23T14:19:27+00:00",
-    "source": "GameSpot",
-    "site_name": "GameSpot",
-    "trust": "high",
-    "text": "Grand Theft Auto 6 has raised the bar for open-world games, and Cyberpunk 2 creative director Igor Sarzyński is feeling it. Online, the developer jokingly commented about GTA 6 setting a new gold standard for the genre, a level of quality that makes him want to pack up his Cyberpunk 2 development bags and call it a day. \"GTA 6-induced-open-world-game-dev-depression is real,\" Sarzyński wrote online. Probably the single greatest artistic achievement in history, I mean it. Scale, density, coherence, thoughtfulness of it all, just a technological and creative miracle. Cyberpunk 2 is canceled, Imma go sweep autumn leaves in my backyard now.\" https://www.youtube.com/watch?v=OAN_BXmVR0g Don't worry, Cyberpunk fans, because Sarzyński believes the game will offer a unique \"flavor\" compared to GTA 6. \"Seriously though, I think we're doing something of our own, with a different, unique flavor,\" he wrote in a follow-up post. \"GTA is impressive in a way all great art is; it expands what is possible, a captivating vision flawlessly executed.\" Meanwhile, Cyberpunk 2077 has had a great 2026, as the release of the new Cyberpunk Edgerunners anime series once again drove the game's numbers up . A meaty update also helped draw new players, and Cyberpunk 2 game director Gabe Amatangelo recently shared more thoughts on how the sequel is evolving beyond his original vision as more people join the project. Other developers across the industry have also commented on GTA 6, and Naughty Dog world design director Michael Barclay also believes that it is a technological achievement. \"I've made video games for 19 years, and GTA6 appears to me as a Bugatti Veyron would to a nervous Victorian child,\" he wrote. Payday 2 game director David Goldfarb has been utterly astonished by what he has seen so far, while The Last of Us: Part 2 and Star Wars: Jedi - Survivor character artist Del Walker wrote that he can't believe what he's seeing (and how some black magic might be involved): https://twitter.com/locust9/status/2123203448057536751 https://twitter.com/TheCartelDel/status/2123632078457831663 GTA 6 has had a phenomenal start , selling 44.9 million copies in its first weekend and making $4 billion. The first post-launch patch has also gone live, though we're not too sure what it does yet. For more on GTA 6, from completing side missions to finding a tricky location on the sprawling map of Leonida, we’ve got you covered with our Grand Theft Auto 6 guides hub.",
-    "extra": {
-     "image": "https://www.gamespot.com/wp-content/uploads/2026/11/GTA-6-Cyberpunk.jpg?w=300"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "💥 GTA 6 продал 44,9 млн копий за уикенд\n\nЭто просто лут — 44,9 млн продаж и $4 млрд выручки, базу зашкаливает. Похоже, мир уже встает на колени перед имбой от Rockstar, так что готовим флекс и новые катки 🚀",
-    "card_title": "ГТА 6 РЕКОРДНЫЕ ПРОДАЖИ",
-    "reason": "Юмористичная и эмоциональная реакция известного разработчика на успех GTA 6, что вызывает высокий интерес у аудитории.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "groq:qwen/qwen3.8-27b → groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-23T17:48:29.497602+00:00",
-   "moderation": "pending",
-   "draft_msg_id": 113
   },
   {
    "item": {
@@ -13986,35 +14059,6 @@
     "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
    },
    "queued_at": "2026-11-23T12:13:00.786155+00:00"
-  },
-  {
-   "item": {
-    "title": "GTA 6 заработала $4 млрд за выходные — больше Spider-Man и The Odyssey",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1UY09rUWZlRW1WU3VqclViand4U2xua0VSX1JYdk1Wek9ZdzVmMV91RE5TVE0xT3F3RWtqQlh1bW1ROXZlUEtkTnpDZWZCTTd3RFo1Z1UybzV2SzFVRWxrdXpOZHd6cWpjNnl1dEFn?oc=5",
-    "summary": "GTA 6 заработала $4 млрд за выходные — больше Spider-Man и The Odyssey dungen.ru",
-    "published": "2026-11-23T13:20:44+00:00",
-    "source": "Google News (RU)",
-    "site_name": "dungen.ru",
-    "trust": "rumor",
-    "text": "GTA 6 заработала $4 млрд за выходные — больше Spider-Man и The Odyssey dungen.ru",
-    "extra": {}
-   },
-   "verdict": {
-    "type": "rumor",
-    "importance": 8,
-    "post": "🔥 Слух, не подтверждено, dungen.ru\nGTA 6 подзаработала $4 млрд за уикенд 🚀\n\nЧетырёхмиллиардный чек за уикенд — имба по продажам! Если правда, Rockstar уже в космосе, а мы тут в шоке, как будто нашли редкий лут.",
-    "card_title": "GTA 6 — $4 МЛРД ПРОДАЖ",
-    "reason": "Крупные финансовые результаты игры, подтверждённые аналитикой, высокая новостная значимость и интерес аудитории.",
-    "duplicate": false,
-    "corroborated": true,
-    "duplicate_of": "",
-    "corroborated_by": "GTA 6 revenue \"roughly equal\" to Spider-Man: Brand New Day and The Odyssey combined, analyst says — GamesRadar+, доверие: high",
-    "guide": false,
-    "model": "groq:qwen/qwen3.8-27b → groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-23T14:35:32.497237+00:00",
-   "moderation": "pending",
-   "draft_msg_id": 112
   }
  ],
  "posts": [
@@ -14053,9 +14097,11 @@
   "2026-11-23T10:29:41.906769+00:00",
   "2026-11-23T11:56:22.914930+00:00",
   "2026-11-23T12:26:40.287506+00:00",
-  "2026-11-23T14:20:44.184745+00:00"
+  "2026-11-23T14:20:44.184745+00:00",
+  "2026-11-23T18:15:29.675198+00:00",
+  "2026-11-23T18:31:04.220563+00:00"
  ],
- "tg_offset": 387129068,
+ "tg_offset": 387129070,
  "channel": {
   "id": -1003986639147,
   "title": "GTA 6 | Горячие новости",
@@ -19601,6 +19647,548 @@
    "ts": "2026-11-23T13:00:09.458644+00:00",
    "frames": [],
    "caption": "СПОЙЛЕР. Финал сюжетки: персонажа сбрасывают с моста прямо на дорогу — вот это драма от Rockstar 💀"
+  },
+  {
+   "author": "youtube:mu mu life diary",
+   "vod": "",
+   "offset": -1,
+   "title": "#gta  #gta6  #shorts #kpop",
+   "drafted": false,
+   "ts": "2026-11-23T18:30:03.794895+00:00"
+  },
+  {
+   "author": "youtube:live insaan",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 🛑 We Back in Vice City Live (Day 2)",
+   "drafted": false,
+   "ts": "2026-11-23T18:30:05.048628+00:00"
+  },
+  {
+   "author": "youtube:zippy 3d",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6-Hulk Vs Spiderman Challenge 🤣 29 #hulk #spiderman #gta",
+   "drafted": false,
+   "ts": "2026-11-23T18:30:06.121281+00:00"
+  },
+  {
+   "author": "youtube:tokparty",
+   "vod": "",
+   "offset": -1,
+   "title": "😱 ЛЮДИ НАХОДЯТ свой реальный дом в игре GTA 6 👀 #shorts #общение #gta6 #юмор",
+   "drafted": false,
+   "ts": "2026-11-23T18:30:06.947215+00:00"
+  },
+  {
+   "author": "youtube:kapten keju",
+   "vod": "",
+   "offset": -1,
+   "title": "Polisi Beneran Ikut Nimbrung Hype GTA 6 🚓😂",
+   "drafted": false,
+   "ts": "2026-11-23T18:30:58.132166+00:00"
+  },
+  {
+   "author": "youtube:la historia de él",
+   "vod": "",
+   "offset": -1,
+   "title": "Eligió Hacer La Tarea 📚 En Vez De Jugar GTA 6 🕹️",
+   "drafted": false,
+   "ts": "2026-11-23T18:30:59.133640+00:00"
+  },
+  {
+   "author": "youtube:tin nhanh 3 phút",
+   "vod": "",
+   "offset": -1,
+   "title": "Mang PS5 đến lớp chơi GTA 6: 😆 #shorts",
+   "drafted": false,
+   "ts": "2026-11-23T18:30:59.893649+00:00"
+  },
+  {
+   "author": "youtube:carryislive",
+   "vod": "",
+   "offset": -1,
+   "title": "FINALLY GETTING THE GOLDEN LAMBO IN GTA VI | NO PROMOTIONS",
+   "drafted": false,
+   "ts": "2026-11-23T18:31:01.082323+00:00"
+  },
+  {
+   "author": "youtube:deankt",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA VI MOBIL FERRARI IM COMINGGGGG - EP. 7",
+   "drafted": false,
+   "ts": "2026-11-23T18:31:54.510102+00:00"
+  },
+  {
+   "author": "youtube:asmongold shorts",
+   "vod": "",
+   "offset": -1,
+   "title": "Cyberpunk Is Better Than GTA 6",
+   "drafted": false,
+   "ts": "2026-11-23T18:31:55.386189+00:00"
+  },
+  {
+   "author": "youtube:vegetta777",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 - ¿UN HOGAR MEJOR? #6",
+   "drafted": false,
+   "ts": "2026-11-23T18:31:56.344629+00:00"
+  },
+  {
+   "author": "youtube:sev7n games oficial",
+   "vod": "",
+   "offset": -1,
+   "title": "O bizarro mistério do Kraken no mar do GTA 6",
+   "drafted": false,
+   "ts": "2026-11-23T18:31:57.199465+00:00"
+  },
+  {
+   "author": "youtube:cohh",
+   "vod": "",
+   "offset": -1,
+   "title": "Weird Al Is In GTA 6",
+   "drafted": false,
+   "ts": "2026-11-23T18:32:48.046665+00:00"
+  },
+  {
+   "author": "youtube:trending clipz",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 Easter Egg #gta #gta5 #gta6 #gaming #shorts#viral #trending #gameplay #meme",
+   "drafted": false,
+   "ts": "2026-11-23T18:32:48.882851+00:00"
+  },
+  {
+   "author": "youtube:lifeofsidanu",
+   "vod": "",
+   "offset": -1,
+   "title": "#ps5 #gta6 #gaming #gameplay #trendingshorts #fypシ゚viral #exploremore #husbandwifecomdey #couple",
+   "drafted": false,
+   "ts": "2026-11-23T18:32:49.754939+00:00"
+  },
+  {
+   "author": "youtube:bilawal sidhu",
+   "vod": "",
+   "offset": -1,
+   "title": "Tesla Reality View is GTA 6 in real life (no game engine)",
+   "drafted": false,
+   "ts": "2026-11-23T18:32:50.784376+00:00"
+  },
+  {
+   "author": "twitch:caseoh_",
+   "vod": "2937666104",
+   "offset": 2562.0,
+   "title": "get away",
+   "drafted": false,
+   "ts": "2026-11-23T18:33:41.829000+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:leb1ga",
+   "vod": "2938347376",
+   "offset": 14494.0,
+   "title": "МІША ЗАГОВОРИВ НА ІНОПЛАНЕТЯНСЬКОМУ",
+   "drafted": false,
+   "ts": "2026-11-23T18:33:42.654355+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:ohnepixel",
+   "vod": "2938342600",
+   "offset": 13303.0,
+   "title": "ohne is a dick",
+   "drafted": false,
+   "ts": "2026-11-23T18:33:43.019574+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:切嘛",
+   "vod": "2938335316",
+   "offset": 5375.0,
+   "title": "FPSが強いCR所属の切嘛さん",
+   "drafted": false,
+   "ts": "2026-11-23T18:33:43.387513+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:lru_rose",
+   "vod": "2938409183",
+   "offset": 5013.0,
+   "title": "моя бести",
+   "drafted": false,
+   "ts": "2026-11-23T18:34:33.851097+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:哈耿",
+   "vod": "2938152178",
+   "offset": 13320.0,
+   "title": "表態了",
+   "drafted": false,
+   "ts": "2026-11-23T18:34:34.207198+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:illojuan",
+   "vod": "2937449247",
+   "offset": 13788.0,
+   "title": "y sin avisar",
+   "drafted": false,
+   "ts": "2026-11-23T18:34:34.583414+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:dmitry_lixxx",
+   "vod": "2938162458",
+   "offset": 19909.0,
+   "title": "худшая концовка",
+   "drafted": false,
+   "ts": "2026-11-23T18:34:35.168621+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:jerma985",
+   "vod": "2937408089",
+   "offset": 14160.0,
+   "title": "Eye Tracker: On",
+   "drafted": false,
+   "ts": "2026-11-23T18:35:25.651448+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:orkpod",
+   "vod": "2937320908",
+   "offset": 17642.0,
+   "title": "ПОМОГ БЛОГЕРУ",
+   "drafted": false,
+   "ts": "2026-11-23T18:35:26.130559+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:tumblurr",
+   "vod": "2937607241",
+   "offset": 9109.0,
+   "title": "il pitone",
+   "drafted": false,
+   "ts": "2026-11-23T18:35:26.541145+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:mrdzinold",
+   "vod": "",
+   "offset": -1,
+   "title": "Zmartwychwsatanie oficjalnie",
+   "drafted": false,
+   "ts": "2026-11-23T18:35:26.918437+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:tusoved",
+   "vod": "2938210053",
+   "offset": 6222.0,
+   "title": "под грузовик как в жизни",
+   "drafted": false,
+   "ts": "2026-11-23T18:36:17.481357+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:ewroon",
+   "vod": "",
+   "offset": -1,
+   "title": "[EN/ES CC]🌴GTA 6 CALA FABULA🌴60 FPS🌴DZIEN 5🌴 !G4 !holy !flashskins VODY na !yt",
+   "drafted": false,
+   "ts": "2026-11-23T18:36:17.982713+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:zackrawrr",
+   "vod": "2937570825",
+   "offset": 15311.0,
+   "title": "AI is Good",
+   "drafted": false,
+   "ts": "2026-11-23T18:36:18.387957+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:chh4ll",
+   "vod": "2937922909",
+   "offset": 16033.0,
+   "title": "wrecked",
+   "drafted": false,
+   "ts": "2026-11-23T18:36:18.746628+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:splxf",
+   "vod": "",
+   "offset": -1,
+   "title": "Gta 6️⃣",
+   "drafted": false,
+   "ts": "2026-11-23T18:37:09.237911+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:quin69",
+   "vod": "2937364444",
+   "offset": 17673.0,
+   "title": "yeah I dont think so",
+   "drafted": false,
+   "ts": "2026-11-23T18:37:09.695703+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:agent00",
+   "vod": "2937713787",
+   "offset": 19318.0,
+   "title": "Agent reacts to Emily speaking too soon",
+   "drafted": false,
+   "ts": "2026-11-23T18:37:10.091357+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:juansguarnizo",
+   "vod": "2937476949",
+   "offset": 6836.0,
+   "title": "queriendo salvar a un mutante",
+   "drafted": false,
+   "ts": "2026-11-23T18:37:10.477846+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:schradin",
+   "vod": "2937290835",
+   "offset": 28069.0,
+   "title": "Was war das",
+   "drafted": false,
+   "ts": "2026-11-23T18:38:00.964245+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:hasanabi",
+   "vod": "2937602356",
+   "offset": 11860.0,
+   "title": "Mandy from GTA VI in the house!",
+   "drafted": false,
+   "ts": "2026-11-23T18:38:01.340711+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:happydies",
+   "vod": "2937161543",
+   "offset": 14967.0,
+   "title": "НЛО в GTA 6",
+   "drafted": false,
+   "ts": "2026-11-23T18:38:01.723803+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:xxrebellioxx",
+   "vod": "2937697088",
+   "offset": 7583.0,
+   "title": "Mr. Superpilot gibt sein Bestes! - GTA6",
+   "drafted": false,
+   "ts": "2026-11-23T18:38:02.173982+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:cellbit",
+   "vod": "2937631729",
+   "offset": 20674.0,
+   "title": "busco padre exorcista para esconjurar jogo de video game gta 6 contato e pagamento na DM obrigado",
+   "drafted": false,
+   "ts": "2026-11-23T18:38:52.783758+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:skywhywalker",
+   "vod": "2937180390",
+   "offset": 34647.0,
+   "title": "ФУТБОЛЬНЫЙ МЯЧИК",
+   "drafted": false,
+   "ts": "2026-11-23T18:38:53.209999+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:aussieantics",
+   "vod": "2938114507",
+   "offset": 944.0,
+   "title": "2",
+   "drafted": false,
+   "ts": "2026-11-23T18:38:53.562606+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:revenant",
+   "vod": "2937347527",
+   "offset": 29525.0,
+   "title": "3 60 mi niño",
+   "drafted": false,
+   "ts": "2026-11-23T18:38:53.933223+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:samiraclose",
+   "vod": "2937834874",
+   "offset": 530.0,
+   "title": "#publi, #YouTubePartner |  Vocês não imaginam o prazer que é estar de volta!",
+   "drafted": false,
+   "ts": "2026-11-23T18:39:44.454589+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:perra",
+   "vod": "2937412799",
+   "offset": 21267.0,
+   "title": "full vuxen man btw",
+   "drafted": false,
+   "ts": "2026-11-23T18:39:44.832528+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:squeezie",
+   "vod": "2937494566",
+   "offset": 3640.0,
+   "title": "Je te déconseille d'ouvrir cette porte !",
+   "drafted": false,
+   "ts": "2026-11-23T18:39:45.445979+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:syndicate",
+   "vod": "2937270133",
+   "offset": 8219.0,
+   "title": "She literally stood on the roof",
+   "drafted": false,
+   "ts": "2026-11-23T18:39:45.888827+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:maisterious",
+   "vod": "2937519885",
+   "offset": 8530.0,
+   "title": "Let's get the clipfarming out of the way...",
+   "drafted": false,
+   "ts": "2026-11-23T18:40:36.363256+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:thegrefg",
+   "vod": "2937882458",
+   "offset": 10590.0,
+   "title": "LECHITA DE MONO",
+   "drafted": false,
+   "ts": "2026-11-23T18:40:36.797768+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:afoninje",
+   "vod": "2937376086",
+   "offset": 22322.0,
+   "title": "урок феминизма. Все равны перед Андреем",
+   "drafted": false,
+   "ts": "2026-11-23T18:40:37.220258+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:totaamc",
+   "vod": "2937987402",
+   "offset": 2397.0,
+   "title": "jason rember logan",
+   "drafted": false,
+   "ts": "2026-11-23T18:40:37.951931+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:naswicks",
+   "vod": "2937576254",
+   "offset": 10409.0,
+   "title": "hayee- oh.",
+   "drafted": false,
+   "ts": "2026-11-23T18:41:28.408178+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:rubius",
+   "vod": "2937487056",
+   "offset": 13238.0,
+   "title": "chucho",
+   "drafted": false,
+   "ts": "2026-11-23T18:41:28.764280+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:stormfall33",
+   "vod": "2937652141",
+   "offset": 20127.0,
+   "title": "true patriot",
+   "drafted": false,
+   "ts": "2026-11-23T18:41:29.109682+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:aryssa614",
+   "vod": "2937415604",
+   "offset": 9950.0,
+   "title": "mesmerized",
+   "drafted": false,
+   "ts": "2026-11-23T18:41:29.454200+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:eliasn97",
+   "vod": "",
+   "offset": -1,
+   "title": "STEIG EIN",
+   "drafted": false,
+   "ts": "2026-11-23T18:42:19.953044+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:swagg",
+   "vod": "2937560031",
+   "offset": 794.0,
+   "title": "terror",
+   "drafted": false,
+   "ts": "2026-11-23T18:42:20.387642+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:rostislav_999",
+   "vod": "2937323377",
+   "offset": 6965.0,
+   "title": "knpk",
+   "drafted": false,
+   "ts": "2026-11-23T18:42:20.724754+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:lyonwgflive",
+   "vod": "2937534396",
+   "offset": 8254.0,
+   "title": "mario diventa spina",
+   "drafted": false,
+   "ts": "2026-11-23T18:42:21.461276+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:egorkreed",
+   "vod": "",
+   "offset": -1,
+   "title": "ПОДСОС НА СТРИМЕ!",
+   "drafted": false,
+   "ts": "2026-11-23T18:43:11.922952+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:lacy",
+   "vod": "2937465519",
+   "offset": 5178.0,
+   "title": "ayo",
+   "drafted": false,
+   "ts": "2026-11-23T18:43:12.340101+00:00",
+   "frames": []
   }
  ],
  "published": [
@@ -19904,6 +20492,20 @@
    "title": "СИМУЛЯТОР ДЕВУШКИ в GTA 6 — это норма?",
    "importance": 7,
    "kind": "confirmed"
+  },
+  {
+   "ts": "2026-11-23T18:15:29.675213+00:00",
+   "msg_id": 72,
+   "title": "GTA 6 подзаработала $4 млрд за уикенд 🚀",
+   "importance": 8,
+   "kind": "rumor"
+  },
+  {
+   "ts": "2026-11-23T18:31:04.220580+00:00",
+   "msg_id": 73,
+   "title": "GTA 6 продал 44,9 млн копий за уикенд",
+   "importance": 8,
+   "kind": "confirmed"
   }
  ],
  "extras": [],
@@ -20033,6 +20635,36 @@
    },
    "corr": false,
    "since": "2026-11-23T18:10:57.918519+00:00"
+  },
+  {
+   "item": {
+    "title": "«Лучше, чем The Sims»: жена забрала у мужа GTA VI и теперь ходит по магазинам, наряжает героев и красит ногти",
+    "link": "https://ixbt.games/news/2026/11/23/lucse-cem-the-sims-zena-zabrala-u-muza-gta-vi-i-teper-xodit-po-magazinam-nariazaet-geroev-i-krasit-nogti.html",
+    "summary": "Похоже, что разработчики нашли способ захватить женскую аудиторию.",
+    "published": "2026-11-23T17:58:00+00:00",
+    "source": "iXBT.games",
+    "site_name": "iXBT.games",
+    "trust": "medium",
+    "text": "Похоже, что разработчики нашли способ захватить женскую аудиторию.\nНедавно состоялся релиз Grand Theft Auto VI. В игре пара главных героев, Лусия и Джейсон, и игроки могут развивать отношения между ними. Некоторых женщин это беспокоит, но порой есть и те, кого игра Rockstar Games затягивает.\nНедавно пользователь под ником PorkPoncho рассказал, что его жена начала играть в Grand Theft Auto VI. Он теперь за этим наблюдает и делится её успехами: «Рассказываю про приключения моей жены в GTA VI — она уже практически забрала игру себе, чтобы свободно гулять по миру за Лусию».\nПозвала Джейсона погулять и потащила его по магазинам, чтобы принарядить.\nСходила с ним поесть и украла у него картошку фри.\nВместе с ним ограбила ломбард — оба были в своих «милых нарядах».\nИ затем снова потащила Джейсона по магазинам, чтобы обновить им обоим гардероб, а потом поиграла в мини-гольф (Джейсон выиграл).\nПосле этого она отправилась в поход. PorkPoncho спросил «это отдельная активность в игре или она просто гуляла?» — ответила, что «припарковалась в красивом месте и пошла бродить». Позднее она призналась, что весь этот поход затевался ради поиска красивого вида, на фоне которого Джейсон мог бы фотографить Лусию в её милом наряде.\nПриключения геймерши продолжаются. По словам PorkPoncho, она «просто помешалась на симуляторной составляющей игры», для неё это лучше, чем The Sims:\nМне кажется, люди серьёзно недооценивают, насколько мощно Rockstar зацепили этой игрой стереотипно «женскую» аудиторию. И если в следующей версии GTA Online они сохранят более приземлённый реализм и элементы симулятора жизни, то смогут набивать деньгами целые бассейны.\nНе пропускайте наши новостиДобавьте сайт в предпочитаемые источники, чтобы видеть нас чащеДобавить в Google",
+    "extra": {
+     "image": "https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1745500/media-5ba9bf559f3dd909e21e4bd8a35fc76710b2b3e37ce2664e0759d06e1f36e7f2.png"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "👗 ЖЕНА ЗАБРАЛА У МУЖА GTA 6\n\nХелпер PorkPoncho рассказывает, что его спутница жизни залипла в игре сильнее, чем в The Sims. Она таскает Лусию по магазинам, крадёт у Джейсона фри и ищет красивые виды для фотосессий. Симуляционная часть игры оказалась имбой для женской аудитории. Рокстар, вы гении.\n\n❤️ — Милая жиза\n👎 — Джейсон, ты чей?",
+    "card_title": "ЖЕНА ЗАБРАЛА GTA 6",
+    "reason": "Уютный мем-контент о женской аудитории в вышедшей игре, высокий интерес для комьюнити",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "groq:qwen/qwen3.8-27b"
+   },
+   "corr": false,
+   "since": "2026-11-23T18:29:23.172358+00:00"
   }
  ]
 }
