@@ -2439,7 +2439,15 @@
   "2ba17018b8d6b5f3": "2026-11-23T00:04:51.120647+00:00",
   "0b69a212fadc637d": "2026-11-23T00:20:11.077449+00:00",
   "f7c0824f012c2ec3": "2026-11-23T00:35:38.166619+00:00",
-  "22b612179b28778d": "2026-11-23T00:36:07.927372+00:00"
+  "22b612179b28778d": "2026-11-23T00:36:07.927372+00:00",
+  "ec1657b05424ef00": "2026-11-23T00:51:24.427407+00:00",
+  "f5048ae8ecdaa6af": "2026-11-23T00:51:25.873485+00:00",
+  "ec1e36cbdba0c99b": "2026-11-23T00:51:27.930244+00:00",
+  "82f7eeaadb25368d": "2026-11-23T00:51:28.970903+00:00",
+  "2908898db34289b5": "2026-11-23T00:51:29.747154+00:00",
+  "b9e3ec2c89ad7b6c": "2026-11-23T00:51:30.725223+00:00",
+  "8bd454234aa6b544": "2026-11-23T01:07:00.993803+00:00",
+  "9c9ad30979607026": "2026-11-23T01:07:10.913820+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -4099,7 +4107,14 @@
   "a50a6e3f8bca4ae5": "2026-11-23T00:04:51.120647+00:00",
   "eba1716403d4bb2c": "2026-11-23T00:20:11.077449+00:00",
   "fdfd558a39586f86": "2026-11-23T00:35:38.166619+00:00",
-  "09e023ed2bb141d0": "2026-11-23T00:36:07.927372+00:00"
+  "09e023ed2bb141d0": "2026-11-23T00:36:07.927372+00:00",
+  "a521af3c3ed3542b": "2026-11-23T00:51:25.873485+00:00",
+  "309cf5d1016a8d12": "2026-11-23T00:51:27.930244+00:00",
+  "21abab863270dafc": "2026-11-23T00:51:28.970903+00:00",
+  "7f6dd64ec38d3145": "2026-11-23T00:51:29.747154+00:00",
+  "6c6bc2ec75b1cc85": "2026-11-23T00:51:30.725223+00:00",
+  "0e68cf6ebab88163": "2026-11-23T01:07:00.993803+00:00",
+  "bec23b6cc9aa5a71": "2026-11-23T01:07:10.913820+00:00"
  },
  "recent": [
   {
@@ -10821,6 +10836,70 @@
    "status": "skipped",
    "ts": "2026-11-23T00:36:07.927506+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GTA 6 Is Getting Review Bombed in Zelda vs. GTA Troll War",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-23T00:51:24.427445+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Уже «тысячи» разработчиков хотят выпустить GTA VI на ПК после утечки билда — они работают над эмуляторами Xbox Series и рекомпиляцией",
+   "source": "iXBT.games",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-23T00:51:27.930362+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "All Slater Towning Inc Robbery Key Valuables Locations - GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T00:51:28.971031+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "The Hunger Games: Sunrise on the Reaping Plows Through GTA 6 Hype With $225 Million Opening Weekend",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T00:51:29.747285+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How Long Is Chapter 3 in GTA 6? All Missables and Mission List",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T00:51:30.725346+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Is Getting Review Bombed in Zelda vs. GTA Troll War",
+   "source": "Polygon",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-23T01:06:51.441426+00:00",
+   "card_title": "ВОЙНА С ZELDA НА METACRITIC"
+  },
+  {
+   "title": "Oh yeah, GTA VI is the good stuff for streamers",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T01:07:00.993923+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "A GTA 6 listing has appeared on Steam, but it isn’t the PC port fans are waiting for",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T01:07:10.913950+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -10854,6 +10933,35 @@
    "queued_at": "2026-11-22T19:26:39.003613+00:00",
    "moderation": "pending",
    "draft_msg_id": 91
+  },
+  {
+   "item": {
+    "title": "GTA 6 Is Getting Review Bombed in Zelda vs. GTA Troll War",
+    "link": "https://www.polygon.com/gta-6-review-bombed-legend-of-zelda/",
+    "summary": "Grand Theft Auto 6 and The Legend of Zelda: Ocarina of Time fans are fighting over Metacritic scores as part of a larger anti-woke culture war.",
+    "published": "2026-11-23T00:45:43+00:00",
+    "source": "Polygon",
+    "site_name": "Polygon",
+    "trust": "high",
+    "text": "Grand Theft Auto 6 may be the highest-rated game of all time on Metacritic, and may have earned a record-breaking $3.79 billion on launch day, but that doesn't mean Rockstar Games' new blockbuster can't have its haters. Multiple groups have descended on GTA 6's Metacritic page to attack the game for its perceived shortcomings, much of that criticism is based on culture war nonsense.\nBut some of GTA 6's detractors are targeting the game for another reason: for slighting The Legend of Zelda.\nGTA 6 made its debut on Metacritic with a 99 Metascore, based on more than 150 critics reviews. That feat nudged the previous best game of all time, at least going by Metacritic score averages, The Legend of Zelda: Ocarina of Time, down to No. 2 on the review aggregator website. That has led some Legend of Zelda supporters to review bomb Grand Theft Auto 6 on Metacritic, and some GTA 6 supporters to do the same to Zelda. Now, both camps are in a pointless war to lower the other franchise's user review score.\nOver the past few days, GTA and Zelda fans have been trading barbs and slinging \"0\" user review scores at their perceived rivals. As of Sunday, Nov. 22, Grand Theft Auto 6's user review score on Metacritic has dipped to 5.6, indicating \"mixed or average\" reviews from players. In response, the original Ocarina of Time and its Nintendo Switch 2 remake have also been review bombed (though their user scores are in the mid-8s as of Sunday).\nThe completion percentage is the only tally GTA keeps, and for you it is the whole reason the hours are worth counting.\nYour first hour goes on the collectibles menu, working out the size of the job before you start it.\nA mission that goes wrong gets replayed until it is clean, because there is a rating attached and you are going for it.\nYou were still at 68 percent when the credits rolled, and the credits did not feel like an ending.\nGTA spends more effort on the feel of a car at night than on almost anything else, and you are the player that work was for.\nThere is a waypoint on your map and you may never reach it, because the drive is better than the arrival.\nYou have one car, you drive it everywhere, and you know exactly where you parked it.\nThe credits rolled and nothing changed. You are still out there with the radio on.\nStopping at a red light in an empty city is a choice nobody asks you to make, which is exactly why you make it.\nYour first hour goes on the camera, the controls and the radio, set precisely how you want them befor",
+    "extra": {
+     "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/lucia_caminos_07.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "🎭 ФАНАТЫ ZELDA ОБРУШИЛИ ОЦЕНКИ GTA 6!\n\nGTA VI обогнала легендарную Ocarina of Time на Metacritic с оценкой 99, и тут начался лютый кринж. Фаны «Зельды» обиделись и занизили пользовательский рейтинг игры до 5.6, а нашенские в ответ пошли топить игры Nintendo. Вот это рофл года!\n\n❤️ — Наш Вайс-Сити всё равно топчик\n👎 — Детский сад какой-то",
+    "card_title": "ВОЙНА С ZELDA НА METACRITIC",
+    "reason": "Официальные данные крупного СМИ о ревью-бомбинге GTA 6 фанатами Zelda.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "GTA 6 Is Getting Review Bombed in Zelda vs. GTA Troll War",
+    "corroborated_by": "GTA 6 Is Getting Review Bombed in Zelda vs. GTA Troll War",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-3.5-flash"
+   },
+   "queued_at": "2026-11-23T01:06:51.441416+00:00"
   },
   {
    "item": {
