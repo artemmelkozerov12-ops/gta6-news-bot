@@ -2817,7 +2817,16 @@
   "e01458895bcf83de": "2026-11-23T13:42:54.302680+00:00",
   "11df7b339537d302": "2026-11-23T13:43:16.954192+00:00",
   "2d1de7c1f4559d86": "2026-11-23T13:43:40.564162+00:00",
-  "ec0b0b95ab6284f8": "2026-11-23T13:44:01.539510+00:00"
+  "ec0b0b95ab6284f8": "2026-11-23T13:44:01.539510+00:00",
+  "345f93a0a073e9a3": "2026-11-23T13:59:30.539894+00:00",
+  "2a813398b3422261": "2026-11-23T13:59:50.126897+00:00",
+  "4de863fc3c22a006": "2026-11-23T13:59:52.032572+00:00",
+  "f2a0e438dc007094": "2026-11-23T14:00:14.112952+00:00",
+  "f5ac1183178a2855": "2026-11-23T14:00:43.872594+00:00",
+  "cc5f3c4bcf5516a1": "2026-11-23T14:01:07.390786+00:00",
+  "baf9cb0a68a9fc34": "2026-11-23T14:01:29.419112+00:00",
+  "cff82da5fb316ed1": "2026-11-23T14:01:52.541456+00:00",
+  "1a07378a288a17cf": "2026-11-23T14:02:13.842323+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -4763,7 +4772,16 @@
   "7fd3a8a272f589bd": "2026-11-23T13:42:54.302680+00:00",
   "490dc322132a8f00": "2026-11-23T13:43:16.954192+00:00",
   "86bd7bbda8809325": "2026-11-23T13:43:40.564162+00:00",
-  "83257e48d152fd0f": "2026-11-23T13:44:01.539510+00:00"
+  "83257e48d152fd0f": "2026-11-23T13:44:01.539510+00:00",
+  "f7df6553f7585491": "2026-11-23T13:59:30.539894+00:00",
+  "895b5740218707c6": "2026-11-23T13:59:50.126897+00:00",
+  "e4281aaf7c78e438": "2026-11-23T13:59:52.032572+00:00",
+  "b4dc889c3392d847": "2026-11-23T14:00:14.112952+00:00",
+  "ca59d90b91ba8ba8": "2026-11-23T14:00:43.872594+00:00",
+  "28c0710fac677969": "2026-11-23T14:01:07.390786+00:00",
+  "4b9358450ae302e4": "2026-11-23T14:01:29.419112+00:00",
+  "518403f8037bc8a5": "2026-11-23T14:01:52.541456+00:00",
+  "3439fdce436c73a8": "2026-11-23T14:02:13.842323+00:00"
  },
  "recent": [
   {
@@ -12661,6 +12679,70 @@
    "status": "skipped",
    "ts": "2026-11-23T13:44:01.539627+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GTA 6 gets a 603MB PS5 update, but Rockstar has not explained what it changes",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-23T13:59:30.539949+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Is Approaching An Absurd New Sales Milestone, Report Says",
+   "source": "GameSpot",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-23T13:59:50.576788+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6’s First Patch Is Rolling Out, But Rockstar Hasn’t Said What It Does (Yet)",
+   "source": "GameSpot",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-23T13:59:52.032696+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Маркетинг на $150 млн за два месяца до старта: чему релиз GTA 6 учит B2B и e-commerce",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T14:00:43.872726+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "‘GTA VI’ success causes spike in flight searches to Miami",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T14:01:07.390907+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6’s Podcasts Include A Clever Nod To Its Predecessors’ Lead Trio",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T14:01:29.419239+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 brings back Niko Bellic’s actor, but Rockstar’s credits use a different name",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T14:01:52.541586+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Every NPC in GTA 6 has a story of their own",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T14:02:13.842453+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -12691,7 +12773,9 @@
     "guide": false,
     "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-3.5-flash"
    },
-   "queued_at": "2026-11-23T11:17:13.224845+00:00"
+   "queued_at": "2026-11-23T11:17:13.224845+00:00",
+   "moderation": "pending",
+   "draft_msg_id": 109
   },
   {
    "item": {
@@ -13121,7 +13205,8 @@
   "2026-11-23T10:03:54.460173+00:00",
   "2026-11-23T11:04:22.094502+00:00",
   "2026-11-23T12:04:48.730690+00:00",
-  "2026-11-23T13:06:25.145699+00:00"
+  "2026-11-23T13:06:25.145699+00:00",
+  "2026-11-23T14:06:31.773180+00:00"
  ],
  "slots_sent": {
   "2026-11-21:guide:1": "2026-11-21T21:14:52.573728+00:00",
@@ -19503,6 +19588,36 @@
    },
    "corr": false,
    "since": "2026-11-23T13:41:34.616025+00:00"
+  },
+  {
+   "item": {
+    "title": "Best Funny GTA 6 Clips—Glitches, NPC Encounters, and Accidents",
+    "link": "https://insider-gaming.com/funny-gta-6-clips-npcs-glitches-more/",
+    "summary": "Grand Theft Auto 6 is a goldmine for funny clips. In this list, check out the pick of the bunch that we've seen on social media. The post Best Funny GTA 6 Clips—Glitches, NPC Encounters, and Accidents appeared first on Insider Gaming .",
+    "published": "2026-11-23T13:39:18+00:00",
+    "source": "Insider Gaming",
+    "site_name": "Insider Gaming",
+    "trust": "medium",
+    "text": "Grand Theft Auto 6 is hilarious. That’s what we expected from Rockstar Games, but it’s the emergent gameplay that’s really nailing it this time around. On social media, users have taken great pride in sharing some fantastic and funny GTA 6 clips that have generated millions upon millions of impressions, and they’re all so freaking good.\nIn this breakdown, I’ve pulled together the most hilarious GTA 6 clips that you can go through at your own pace, earning a chuckle or two from a game that manages to be equal parts emotional and side-splitting. Be warned: There are stacks of them, and there are more coming in all the time, so make sure you bookmark this page!\nTop GTA 6 Clips We’ve Found on Social Media\nHere are the funniest GTA 6 clips we’ve found online, all of which perfectly showcase how hilarious this incredible game can be.\nIn this clip, a user discovers the hard way about forced perspective. They’re cruising down the road and trying to outrun the police when they stumble into something that’s ripped straight from the Looney Tunes universe.\nThe physics engine in GTA 6 is nothing short of absolute perfection, and that’s revealed nicely in this clip of Jason being sent sky-high by a fast-moving barrier that he climbs at the very wrong time.\nYou need to be careful with your balls in GTA 6. In this clip, one user pummeled Lucia by mistake, but it resulted in a fantastic clip that shows how great the spontaneous interactions can be in this game.\nAgain, the physics side of GTA 6 is brilliant. If an NPC puts a step wrong, there’s nothing stopping them from eating s*** as they grapple with gravity. Even when they might outnumber the player, physics might be their downfall.\nBe careful with your interactions in GTA 6. If you’re not watching the buttons you’re pressing, you might make a harmless shopping trip go south by punting a cat clean across the store.\nIn Chapter Two, Jason and Lucia rob a strip club, and upon escaping, something might happen that prevents Jason from ever making it out alive. The problem is, it’s absolutely hilarious…\nThere’s something to be said about karma in GTA 6. When you get robbed by an NPC, they might end up having a much worse day than you. That’s the universe aligning to punish them.\nThe simplest mechanic in GTA 6 sees players opening their car door while they’re in the vehicle. The thing is, if you combine that with good timing and an unsuspecting cyclist, you can generate hours of funny clips.\nIn true Floridian fashion, we learn",
+    "extra": {
+     "image": "https://insider-gaming.com/wp-content/uploads/2026/11/0f8a4716-8538-47a9-9c14-f060ea4ffe34-1-1024x576.png"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "🤣 Физика в GTA 6 — это просто кринж для NPC\n\nДжэсона улетает в стратосферу от барьера, а случайный прохожий кувыркается из-за ошибки в шаге. Игровые клипы с лютыми багами и абсурдом собирают миллионы просмотров. Физический движок завез, даже если ты просто откроешь дверь машины в неподходящий момент. Орём над каждым провалом.",
+    "card_title": "СМЕШНЫЕ МОМЕНТЫ GTA 6",
+    "reason": "Подборка смешных моментов и багов физики в вышедшей игре, высокий хайп и вовлеченность.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "groq:qwen/qwen3.8-27b"
+   },
+   "corr": false,
+   "since": "2026-11-23T14:00:21.851495+00:00"
   }
  ]
 }
