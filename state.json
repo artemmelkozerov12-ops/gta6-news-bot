@@ -3012,7 +3012,43 @@
   "2f0ce0957c013bd9": "2026-11-23T19:05:12.024592+00:00",
   "1e5846fec3142714": "2026-11-23T19:05:12.412109+00:00",
   "57050f7701e3b2e2": "2026-11-23T19:05:12.808644+00:00",
-  "3985fe6af769a6cb": "2026-11-23T19:05:13.179573+00:00"
+  "3985fe6af769a6cb": "2026-11-23T19:05:13.179573+00:00",
+  "1ffdde2eb008d25f": "2026-11-23T19:19:39.595778+00:00",
+  "bceeb5798288800d": "2026-11-23T19:19:39.595900+00:00",
+  "7e2a2a3d701886f8": "2026-11-23T19:19:39.595985+00:00",
+  "234ff02e7c05023b": "2026-11-23T19:19:39.596053+00:00",
+  "9533b5ff14365be0": "2026-11-23T19:19:39.614736+00:00",
+  "7d56cd691602b057": "2026-11-23T19:19:40.197568+00:00",
+  "d016c80fe8e81e95": "2026-11-23T19:19:40.303716+00:00",
+  "7eda865eaee1d309": "2026-11-23T19:19:48.466989+00:00",
+  "d25cb62b3cf1e963": "2026-11-23T19:19:50.796985+00:00",
+  "2f040976a109965d": "2026-11-23T19:20:03.332276+00:00",
+  "a4f7e56bb9fe1363": "2026-11-23T19:20:05.391100+00:00",
+  "4f46f125eef23d68": "2026-11-23T19:20:23.591287+00:00",
+  "24a43975d4844136": "2026-11-23T19:22:12.790396+00:00",
+  "7ffda6de86366af9": "2026-11-23T19:22:13.668103+00:00",
+  "30e6003e01ee02e4": "2026-11-23T19:22:14.455204+00:00",
+  "208900c907ad7807": "2026-11-23T19:22:15.198439+00:00",
+  "8109ae1fe5e79f1f": "2026-11-23T19:23:06.471177+00:00",
+  "0bb8977a12984f06": "2026-11-23T19:23:07.845981+00:00",
+  "db66499f04386ade": "2026-11-23T19:23:08.747010+00:00",
+  "2ff26a38392c6cc5": "2026-11-23T19:23:09.600768+00:00",
+  "b05aa276d2140ce3": "2026-11-23T19:24:00.731722+00:00",
+  "ee0fab9675bcbaca": "2026-11-23T19:24:01.502224+00:00",
+  "be9ad6cda2c488a9": "2026-11-23T19:24:02.355791+00:00",
+  "37e7a0591cb6fbba": "2026-11-23T19:24:02.924009+00:00",
+  "b99c21c8019df8f5": "2026-11-23T19:24:53.374646+00:00",
+  "f8e1fdcfb1703978": "2026-11-23T19:24:53.775913+00:00",
+  "07f8e7fedf3ae06d": "2026-11-23T19:24:54.133835+00:00",
+  "95eaebb5d9032b26": "2026-11-23T19:24:54.492231+00:00",
+  "2c40fc78f13efba6": "2026-11-23T19:25:44.943937+00:00",
+  "8c24bea402ec9839": "2026-11-23T19:37:38.040461+00:00",
+  "845c6dab147151c2": "2026-11-23T19:37:38.649087+00:00",
+  "dc0221e064c2ddba": "2026-11-23T19:38:14.583393+00:00",
+  "288d4718f9952fd3": "2026-11-23T19:39:29.850682+00:00",
+  "5a9b40773319dedd": "2026-11-23T19:39:30.395356+00:00",
+  "56086b302080418a": "2026-11-23T19:39:30.779772+00:00",
+  "7cc50889c1619975": "2026-11-23T19:39:31.169821+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -5064,7 +5100,21 @@
   "f011945ea01d1825": "2026-11-23T18:45:59.707030+00:00",
   "f6c4a37b06f09bc1": "2026-11-23T18:45:59.720742+00:00",
   "e47bc9e75d234204": "2026-11-23T19:03:15.479642+00:00",
-  "b4c429f859ab6751": "2026-11-23T19:03:16.230787+00:00"
+  "b4c429f859ab6751": "2026-11-23T19:03:16.230787+00:00",
+  "5ea03db21580a750": "2026-11-23T19:19:50.796985+00:00",
+  "3a7f054839ea15e1": "2026-11-23T19:19:39.595900+00:00",
+  "e35fccd19485fb87": "2026-11-23T19:19:39.595985+00:00",
+  "83fe0f58f0cac712": "2026-11-23T19:19:39.596053+00:00",
+  "d35f302431b218a0": "2026-11-23T19:19:39.614736+00:00",
+  "32074486740100cb": "2026-11-23T19:19:40.197568+00:00",
+  "8014acfe1e6be6dd": "2026-11-23T19:19:40.303716+00:00",
+  "81e554ab408f9587": "2026-11-23T19:19:48.466989+00:00",
+  "2f1d65f6af398c82": "2026-11-23T19:20:03.332276+00:00",
+  "9adeb7eace716d71": "2026-11-23T19:20:05.391100+00:00",
+  "8ce35a7584bb37e3": "2026-11-23T19:20:23.591287+00:00",
+  "7252a3d0781eb240": "2026-11-23T19:37:38.040461+00:00",
+  "ade041f572a7839c": "2026-11-23T19:37:38.649087+00:00",
+  "0b0c207d0d69be99": "2026-11-23T19:38:14.583393+00:00"
  },
  "recent": [
   {
@@ -13570,6 +13620,102 @@
    "status": "dup",
    "ts": "2026-11-23T19:03:16.230891+00:00",
    "card_title": ""
+  },
+  {
+   "title": "Digital Foundry Analyses Whether GTA 6 Could Benefit From 40FPS On Xbox Series X",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-23T19:19:39.595837+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to work out the laptop password in GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-23T19:19:39.595944+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Hear Power Trip's 'GTA VI' Soundtrack Single \"Mutual Death Warrant\"",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-23T19:19:39.596020+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Get the Fastest Car in GTA 6 with this Cheat Code",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-23T19:19:39.596092+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Where to find the UFO dream house in GTA 6",
+   "source": "Polygon",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-23T19:19:39.614767+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "What's the fastest car in GTA 6?",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-23T19:19:40.197636+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How To Get A Plane In GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-23T19:19:40.303776+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Should you give the statue to Benedict Halifax during 'Dubious Provenance' in GTA 6?",
+   "source": "Polygon",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-23T19:19:49.152681+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Digital Foundry Analyses Whether GTA 6 Could Benefit From 40FPS On Xbox Series X",
+   "source": "Pure Xbox",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-23T19:19:56.763919+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI Hacker Sentenced To 7 Years For Major Cyberattacks",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-23T19:37:38.040519+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 First-Day Sales: $3.79B and an 8-Hour Average",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-23T19:37:38.649166+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Hacker Officially Walks Free After Judge's Final Warning",
+   "source": "Polygon",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-23T19:38:50.665845+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -14173,7 +14319,7 @@
   "2026-11-23T18:15:29.675198+00:00",
   "2026-11-23T18:31:04.220563+00:00"
  ],
- "tg_offset": 387129070,
+ "tg_offset": 387129071,
  "channel": {
   "id": -1003986639147,
   "title": "GTA 6 | Горячие новости",
@@ -20442,6 +20588,185 @@
    "drafted": false,
    "ts": "2026-11-23T19:05:13.179621+00:00",
    "frames": []
+  },
+  {
+   "author": "youtube:ludwig",
+   "vod": "",
+   "offset": -1,
+   "title": "Thoughts and prayers for the single people playing gta 6....",
+   "drafted": false,
+   "ts": "2026-11-23T19:22:12.790440+00:00"
+  },
+  {
+   "author": "youtube:el mago de lore",
+   "vod": "",
+   "offset": -1,
+   "title": "😆!!! En GTA 6 Jason vivía mejor sin Lucia ? ¡¡¡😆 #rockstar #gta6 #luciagta6 #gta6bugs #playstation",
+   "drafted": false,
+   "ts": "2026-11-23T19:22:13.668149+00:00"
+  },
+  {
+   "author": "youtube:standart skill",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 FINALE HEUTE! 100% LIVE",
+   "drafted": false,
+   "ts": "2026-11-23T19:22:14.455247+00:00"
+  },
+  {
+   "author": "youtube:jokerkihaveli",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 - BIGGEST ROBBERY IN VICE CITY",
+   "drafted": false,
+   "ts": "2026-11-23T19:22:15.198487+00:00"
+  },
+  {
+   "author": "youtube:gagan play hub",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 Game Ka Sapna Papa Ne Kiya Pura! #shorts #viral #gta6 #game",
+   "drafted": false,
+   "ts": "2026-11-23T19:23:06.471224+00:00"
+  },
+  {
+   "author": "youtube:ricfazeres",
+   "vod": "",
+   "offset": -1,
+   "title": "🔴LIVE ➡️ BORA GTA 6 ATÉ A LUA ESTAR NO AR ➡️ !loja",
+   "drafted": false,
+   "ts": "2026-11-23T19:23:07.846026+00:00"
+  },
+  {
+   "author": "youtube:drdisrespect",
+   "vod": "",
+   "offset": -1,
+   "title": "🔴DR DISRESPECT - GTA 6 - THE WILD ONE",
+   "drafted": false,
+   "ts": "2026-11-23T19:23:08.747058+00:00"
+  },
+  {
+   "author": "youtube:memeio",
+   "vod": "",
+   "offset": -1,
+   "title": "INSANE GTA 6 SECRET 👀 #gta #gta6",
+   "drafted": false,
+   "ts": "2026-11-23T19:23:09.600802+00:00"
+  },
+  {
+   "author": "youtube:mokkacommentry 2",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 Hidden Car Features #gta6 #gameplay #grandtheftauto6 #tipsandtricks",
+   "drafted": false,
+   "ts": "2026-11-23T19:24:00.731754+00:00"
+  },
+  {
+   "author": "youtube:tarell",
+   "vod": "",
+   "offset": -1,
+   "title": "Getting IRREDEEMABLE in GTA 6 #shorts",
+   "drafted": false,
+   "ts": "2026-11-23T19:24:01.502261+00:00"
+  },
+  {
+   "author": "twitch:xxrebellioxx",
+   "vod": "2938330995",
+   "offset": 4416.0,
+   "title": "Wuuhuu,...das war geil! 😎",
+   "drafted": false,
+   "ts": "2026-11-23T19:24:02.355834+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:ohnepixel",
+   "vod": "2938342600",
+   "offset": 11958.0,
+   "title": "negev incident 2.0",
+   "drafted": false,
+   "ts": "2026-11-23T19:24:02.924040+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:caseoh_",
+   "vod": "2937666104",
+   "offset": 1227.0,
+   "title": "sad incident",
+   "drafted": false,
+   "ts": "2026-11-23T19:24:53.374690+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:montanablack88",
+   "vod": "2938201590",
+   "offset": 10604.0,
+   "title": "Zieh die blank die Dinger!",
+   "drafted": false,
+   "ts": "2026-11-23T19:24:53.775951+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:tusoved",
+   "vod": "2938210053",
+   "offset": 7754.0,
+   "title": "лабраю и он всё равно прыгнет",
+   "drafted": false,
+   "ts": "2026-11-23T19:24:54.133893+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:illojuan",
+   "vod": "2937449247",
+   "offset": 14743.0,
+   "title": "iLLoNPC!!",
+   "drafted": false,
+   "ts": "2026-11-23T19:24:54.492271+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:eliasn97",
+   "vod": "",
+   "offset": -1,
+   "title": "gtoy fail gta 6 #1",
+   "drafted": false,
+   "ts": "2026-11-23T19:25:44.943982+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:ohnepixel",
+   "vod": "2938342600",
+   "offset": 19530.0,
+   "title": "new fear unlocked",
+   "drafted": false,
+   "ts": "2026-11-23T19:39:29.850722+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:ironmouse",
+   "vod": "2938042221",
+   "offset": 22911.0,
+   "title": "Mouse encounters the GTA6 Terminator",
+   "drafted": false,
+   "ts": "2026-11-23T19:39:30.395402+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:caseoh_",
+   "vod": "2937666104",
+   "offset": 968.0,
+   "title": "he saw the videos 😭😭😭",
+   "drafted": false,
+   "ts": "2026-11-23T19:39:30.779830+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:illojuan",
+   "vod": "2937449247",
+   "offset": 12884.0,
+   "title": "pepe",
+   "drafted": false,
+   "ts": "2026-11-23T19:39:31.169870+00:00",
+   "frames": []
   }
  ],
  "published": [
@@ -20761,12 +21086,25 @@
    "kind": "confirmed"
   }
  ],
- "extras": [],
+ "extras": [
+  {
+   "key": "digest-20261123",
+   "kind": "Итоги дня",
+   "payload": {
+    "text": "🌙 <b>Итоги дня</b> · 23 ноября\n\n📰 <a href=\"https://t.me/gta6_hotnews/62\">В GTA 6 нашли ЗАКРЫТЫЕ казино и картинг</a>\n📰 <a href=\"https://t.me/gta6_hotnews/63\">Пойманные пасхалки GTA 6: от Вайс Сити FM до собаки‑джетски</a>\n🎥 <a href=\"https://t.me/gta6_hotnews/68\">В GTA 6 завезли работу мужским стриптизёром с полноценной мини-игрой — это просто лютый р…</a>\n🎥 <a href=\"https://t.me/gta6_hotnews/69\">СПОЙЛЕР. Стример словил лютый тильт на финальной катсцене — вот это драма от Rockstar 💀</a>\n🔥 <a href=\"https://t.me/gta6_hotnews/72\">GTA 6 подзаработала $4 млрд за уикенд 🚀</a>\n📰 <a href=\"https://t.me/gta6_hotnews/73\">GTA 6 продал 44,9 млн копий за уикенд</a>\n\nЧто из этого зашло больше всего? Пиши в комменты 👇",
+    "publish_at": "2026-11-23T20:00:00+00:00"
+   },
+   "moderation": "approved",
+   "draft_msg_id": 115,
+   "queued_at": "2026-11-23T19:30:46.041563+00:00"
+  }
+ ],
  "extras_sent": {
   "poll-2026-W47": "2026-11-21T16:00:25.901739+00:00",
   "weekly-20261121": "2026-11-21T17:30:42.606074+00:00",
   "digest-20261121": "2026-11-21T19:30:10.993120+00:00",
-  "digest-20261122": "2026-11-22T19:31:01.015194+00:00"
+  "digest-20261122": "2026-11-22T19:31:01.015194+00:00",
+  "digest-20261123": "2026-11-23T19:30:46.041576+00:00"
  },
  "rewrite_wait": [
   {
@@ -20918,6 +21256,96 @@
    },
    "corr": false,
    "since": "2026-11-23T18:29:23.172358+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA 6 Introduces The Series’ First Nonbinary Character, And They Have A Really Cool Name",
+    "link": "https://kotaku.com/gta-6-introduces-the-series-first-nonbinary-character-and-they-have-a-really-cool-name-2000758914",
+    "summary": "Rockstar is also making an effort to 'mitigate anti-trans violence'",
+    "published": "2026-11-23T19:00:06+00:00",
+    "source": "Kotaku",
+    "site_name": "Kotaku",
+    "trust": "high",
+    "text": "Grand Theft Auto 6 is full of a lot of big milestones for the series, including (most obviously) its first playable female protagonist. GTA 6 also parts with the franchise’s long history of including sex workers you can visit (and abuse), and might mark the first time a GTA game has ever been called “woke slop” after it let players buy flowers for a woman in its first…deconstruction of toxic masculinity.\nOne detail that most players haven’t spotted, however, marks yet another significant milestone for the series: its first ever nonbinary character.\nIn an Instagram post on Thursday, actress and writer Jesse James Rose shared that she played Cygnus, a museum curator who doubles as Grand Theft Auto’s first ever nonbinary character. Rose, who is trans, also shared quite a few neat facts about her time on set.\n“GTA was one of the most inclusive & caring sets I’ve ever been on,” she wrote. “I shot this back in my they/them days, and everyone on production ensured I was comfortable and gendered correctly.” Rose also mentioned that other trans folks were featured in GTA 6, both in other acting roles and as designers and writers.\nIt seems like there’s always been a very awful subset of players who just view Rockstar’s games as sandboxes that let them commit targeted hate crimes (like when people spent way too much energy trying to bypass YouTube’s standards to upload clips of themselves beating up suffragettes in Red Dead Redemption 2). Thankfully, players aren’t able to hurt Cygnus, which Rose said was a decision made by Rockstar “to mitigate anti-trans violence.”\nRose also shared some insight into how (predictably) strict the game’s NDAs were, with her having to sign 17 of them. What’s especially baffling is that she wasn’t allowed to know what she was shooting, and didn’t receive confirmation that it was actually GTA 6 until after the game’s release!\nI’m pretty early in my playthrough of GTA 6, and I haven’t come across Cygnus yet. Apparently, a lot of folks haven’t. Some of my colleagues at Kotaku and beyond have put a comical amount of hours into the game without ever meeting the elusive Cygnus or even locating the museum. I’m looking forward to tracking them down, though—I just know someone with a name as cool as Cygnus curates a meaaaannnn exhibit.\nDon’t miss the latest reviews, news and tips. Sign up for our free newsletter.\nCultureNews GTA 6 Contains A Very Hidden Secret That Teleports You Back In Time To Vice City On The PS2 You are going to need some tim",
+    "extra": {
+     "image": "https://kotaku.com/app/uploads/2026/08/GTa-6-10802-1280x720.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "В GTA 6 нашли НЕБИНАРНОГО персонажа\n\nВ игре появился первый небинарный персонаж — куратор музея по имени Сигнус, сыгранный актрисой Джесси Джеймс Роуз. Прикиньте, ее защитили от урона, чтобы челы не устраивали дичь на моменте анти-транс насилия.\n\n❤️ — Имба\n👎 — Душно",
+    "card_title": "ПЕРВЫЙ НЕБИНАРНЫЙ ПЕРСОНАЖ",
+    "reason": "Первый небинарный персонаж в серии, интересная деталь от актрисы",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "GTA 6 Introduces The Series' First Ever Nonbinary Character",
+    "corroborated_by": "GTA 6 Introduces The Series' First Ever Nonbinary Character",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-23T19:20:04.011089+00:00"
+  },
+  {
+   "item": {
+    "title": "From scoffing chips to Snapmatic sh*tposts, GTA 6 is filled with brilliant little details",
+    "link": "https://www.gamesradar.com/games/grand-theft-auto/from-scoffing-chips-to-snapmatic-sh-tposts-gta-6-is-filled-with-brilliant-little-details-here-are-our-favorites/",
+    "summary": "Keep your eyes peeled, and Leonida is a thriving open-world",
+    "published": "2026-11-23T19:00:00+00:00",
+    "source": "GamesRadar+",
+    "site_name": "GamesRadar+",
+    "trust": "high",
+    "text": "GTA 6 might only have been with us for a few days, but it's clear from the jump that the level of detail in Rockstar's open world is astonishing. So I asked the GamesRadar+ team to document their favorite little features that might escape your attention if you're not looking very closely. From turn-signals to hyper-efficient snacking techniques, and social media to road condition, here's what impressed us the most in our opening few days.\nBarely three hours in, GTA 6's reputation system was something I was still getting my head around, but it was already impressing me. In an early mission where I went to collect rent money for Brian, the store owner got mad at me and pulled a baseball bat. Before he could rush me, I pulled out Jason's pistol and he balked at just the sight of the gun, dropping the bat and agreeing to hand over the payment. I love that the game logged that as an illegal activity, but still one that showed restraint, heightening Jason's reputation as a cool, collected, professional criminal. It's a nuance that few RPGs capture so effectively, and I'm looking forward to how it works over the rest of the game.\nThey say art imitates life, and that's never been truer than seeing Jason Duval take every opportunity to stuff his face and become a munch goblin in GTA 6. Like when I do it, it's to obtain buffs to my health, stamina, and focus, of course. Choking out police security, I take time to pour myself a mug of java, sipping it as I slink behind cover. After a stressful interaction with a neighbour, I double fist her endless fruit bowl as I crunch apples and leave the cores around her kitchenette. The detail is tremendous – with one hand carrying a crate of beer, Jason will open potato chips one-handed with his mouth before pouring a few bites at a time into his beard-framed mouth. That's my move. I couldn't be prouder.\nJasmine Gould-Wilson, Senior Staff Writer\nI have a very particular problem with GTA 6's hyper-realistic car damage mechanics. Specifically, they are so realistic that it makes me panic to even be in my car. The slightest ding against a post box results in an ugly dent in the side of my freshly-painted truck, and don't get me started on how bit of bumper-to-bumper action with another car while squeezing my way onto the highway means an unsightly horizontal scrape all down my… whatever part of the car my door is on. I'm not a cars person, okay? I suck at driving in video games and don't even have my license in the real world (par",
+    "extra": {
+     "image": "https://cdn.mos.cms.futurecdn.net/Mm57B9qZwMpfTYbRGubRVG-1920-80.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "МЕГА-ДЕТАЛИ в GTA 6\n\nИгроки находят безумные мелочи в открытом мире: Джейсон может открывать чипсы одной рукой прямо ртом и жрать яблоки во время перестрелок.\n\n❤️ — Жизненная база\n👎 — Душно",
+    "card_title": "МЕГА-ДЕТАЛИ В GTA 6",
+    "reason": "Детализированные механики из вышедшей игры, забавные анимации и система репутации.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-23T19:20:06.091766+00:00"
+  },
+  {
+   "item": {
+    "title": "The Race Is On To Unofficially Port GTA 6 To PC After Cyberleek Drops .Exe File",
+    "link": "https://kotaku.com/gta-6-leaker-cyberleek-claims-to-have-to-released-exe-file-that-could-lead-to-unofficial-pc-port-2000759529",
+    "summary": "They swear it's not all lies and crypto schemes",
+    "published": "2026-11-23T18:30:37+00:00",
+    "source": "Kotaku",
+    "site_name": "Kotaku",
+    "trust": "high",
+    "text": "Last week, infamous Grand Theft Auto 6 leaker Cyberleek claimed to have released a current Xbox build of the game that could be used to create an unofficial PC port. The only thing that was missing was the .exe file. Cyberleek claims they’ve released that now too, meaning it could only be a matter of time before the homebrew scene begins trying to decompile the biggest game ever.\n“The torch passes to the open source recomp and emulation projects,” the account posted online on November 23. “Before trusting any file, verify it.” They claimed this was part of an ongoing pro-consumer fight against greedy video game publisher practices and suggested that Rockstar Games’ parent company, Take-Two, has so far been unable to catch them. “Months of takedowns, subpoenas and wallet tracing later, the hunt is still on and the uploads keep arriving,” the account posted.\n“Every release was always free and always will be,” it continued, contradicting earlier announcements that releases would only happen when the $CYBERLEEK meme coin reached certain market cap thresholds.\nGTA VI's executable file out now. byu/Woleth inpcmasterrace\nThe surprise release of the .exe file has sent the homebrew scene into a frenzy. People from the Project Leonida community have been poring over what’s allegedly available to download online and sharing updates on their findings in a Discord. “CL has just dropped the exe, expect a lot of static recompilation work to be done soon,” one of the lead developers in the group posted on X. He added in the Discord, which has been flooded with new members, that “it will take at least a week for us to get somewhere noticeable to the point where you can play on your pc.”\nThe Leonida project is currently available to access online but does not contain “the game, keys or an executable, and it does not explain how to get them.” Unofficial porting efforts are being undertaken with the help of Claude AI, raising questions about just how fast a PC version of the game might become technically playable. GTA 6 is currently only on PS5 and Xbox Series X/S, with an official PC port reportedly coming in early 2027, but unannounced as of yet.\n“Undoubtedly, it would be very difficult to replicate the experience of consuming our game as intended because of technical limitations,” Take-Two CEO Strauss Zelnick told investors earlier this month. But he said that thanks to the recent flood of AI-fueled decomps, preventing such replications from happening is “going to become m",
+    "extra": {
+     "image": "https://kotaku.com/app/uploads/2026/10/gta-burning-1280x720.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 9,
+    "post": "Хакеры выложили .exe GTA 6\n\nГруппа Cyberleek слила исполняемый файл игры, и теперь энтузиасты из сообщества Project Leonida пытаются запилить неофициальный порт на ПК. Челы уже вовсю копаются в коде, обещая первые результаты через неделю. Rockstar пока молчит, но Take-Two в тильте от происходящего. Ждем разнос или очередной пшик? 🤯\n\n❤️ — Жду ПК-версию!\n👎 — Опять фейк и мусор",
+    "card_title": "ХАКЕРЫ ВЫЛОЖИЛИ ФАЙЛ ДЛЯ ПОРТА",
+    "reason": "Хакеры выложили исполняемый файл игры, что спровоцировало фанатское сообщество на попытки создания неофициального порта для ПК.",
+    "duplicate": false,
+    "corroborated": true,
+    "duplicate_of": "",
+    "corroborated_by": "До релиза фанатской ПК-версии GTA VI осталась неделя? Моддеры уже запустили игру и назвали системные требования",
+    "guide": false,
+    "model": "gemini:gemini-3.1-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-23T19:20:31.940770+00:00"
   }
  ]
 }
