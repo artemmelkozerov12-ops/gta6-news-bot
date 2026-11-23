@@ -3105,7 +3105,40 @@
   "3481956b9e7f896a": "2026-11-23T21:06:09.222807+00:00",
   "8075873051d97e74": "2026-11-23T21:06:34.312714+00:00",
   "e370b505a4cc6a12": "2026-11-23T21:07:04.371770+00:00",
-  "ac2762c9feb9eb65": "2026-11-23T21:07:30.208115+00:00"
+  "ac2762c9feb9eb65": "2026-11-23T21:07:30.208115+00:00",
+  "cbf91652efbe6d2d": "2026-11-23T21:17:39.713853+00:00",
+  "14649a87c5fade6d": "2026-11-23T21:17:41.173352+00:00",
+  "0ad4c9c6425c5374": "2026-11-23T21:17:42.499540+00:00",
+  "c877624df6dd8198": "2026-11-23T21:17:51.633980+00:00",
+  "d7b6fdec21b95bc7": "2026-11-23T21:18:54.169750+00:00",
+  "357c6dca168fb755": "2026-11-23T21:18:54.985802+00:00",
+  "5d11f03be0d959f9": "2026-11-23T21:18:55.967976+00:00",
+  "6784633bce0f0353": "2026-11-23T21:19:55.430513+00:00",
+  "fe48b869e461614e": "2026-11-23T21:20:46.857668+00:00",
+  "3dc241df172beeb8": "2026-11-23T21:22:54.729141+00:00",
+  "ac5f2d6d775bc022": "2026-11-23T21:22:54.729202+00:00",
+  "a521e3e194d3628f": "2026-11-23T21:22:54.729246+00:00",
+  "920889a5166bfe09": "2026-11-23T21:22:54.729298+00:00",
+  "d8b94a9fa7be152e": "2026-11-23T21:22:54.729342+00:00",
+  "d7ffcfbc97e49202": "2026-11-23T21:22:54.763604+00:00",
+  "34a21c0d758af80d": "2026-11-23T21:22:54.901449+00:00",
+  "a9f506719b748f18": "2026-11-23T21:23:04.478703+00:00",
+  "694a729296da1e77": "2026-11-23T21:24:52.944721+00:00",
+  "ff85f727d0501477": "2026-11-23T21:24:53.975340+00:00",
+  "e6827cc03f15c09c": "2026-11-23T21:25:13.252447+00:00",
+  "70c717781d6d4cad": "2026-11-23T21:25:47.487092+00:00",
+  "94822d41edfaa90e": "2026-11-23T21:26:19.783723+00:00",
+  "b366bb8faac5d302": "2026-11-23T21:26:46.727952+00:00",
+  "6054d12181c2b9a8": "2026-11-23T21:27:35.401957+00:00",
+  "34c1ec293bd6e477": "2026-11-23T21:42:56.603584+00:00",
+  "f15b8ee189d0e3d6": "2026-11-23T21:42:59.483810+00:00",
+  "1f2331a0e7eb3184": "2026-11-23T21:43:01.874671+00:00",
+  "83d1b6a0eb08f938": "2026-11-23T21:43:17.682916+00:00",
+  "21a9ccc3f4b205fd": "2026-11-23T21:44:54.080800+00:00",
+  "c7a47f67aa2457b0": "2026-11-23T21:44:55.096725+00:00",
+  "78a6030fded95253": "2026-11-23T21:45:15.018703+00:00",
+  "2b8ed3702b634c31": "2026-11-23T21:45:55.569930+00:00",
+  "6a9acad0354b7b98": "2026-11-23T21:46:24.633121+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -5212,7 +5245,27 @@
   "6c360750563ad4fb": "2026-11-23T21:05:18.108435+00:00",
   "331ec9a474c29c67": "2026-11-23T21:06:34.312714+00:00",
   "30a6ea12506723e4": "2026-11-23T21:07:04.371770+00:00",
-  "6f8537ea26084473": "2026-11-23T21:07:30.208115+00:00"
+  "6f8537ea26084473": "2026-11-23T21:07:30.208115+00:00",
+  "1660a2b42b6c5e87": "2026-11-23T21:24:52.944721+00:00",
+  "658a2ac28efd85ac": "2026-11-23T21:22:54.729202+00:00",
+  "2acc1a26b2bd7a8e": "2026-11-23T21:25:13.252447+00:00",
+  "907601fa041e8fe3": "2026-11-23T21:26:19.783723+00:00",
+  "ac43fd52b51dea15": "2026-11-23T21:25:47.487092+00:00",
+  "a38f9b480da956ee": "2026-11-23T21:22:54.763604+00:00",
+  "f48bf01d50ac54b8": "2026-11-23T21:22:54.901449+00:00",
+  "d792b65f7389a633": "2026-11-23T21:23:04.478703+00:00",
+  "cd3d868801f72c83": "2026-11-23T21:24:53.975340+00:00",
+  "75fc29df71ac0e63": "2026-11-23T21:26:46.727952+00:00",
+  "9ff559ae4c90e676": "2026-11-23T21:27:35.401957+00:00",
+  "4a158487a6f27821": "2026-11-23T21:42:56.603584+00:00",
+  "6e7542cca247b301": "2026-11-23T21:42:59.483810+00:00",
+  "8f87c71c742c10d4": "2026-11-23T21:43:01.874671+00:00",
+  "cd860121e742f1d7": "2026-11-23T21:43:17.682916+00:00",
+  "cd3be80e7fc34072": "2026-11-23T21:44:54.080800+00:00",
+  "da6de01dda6af1e5": "2026-11-23T21:44:55.096725+00:00",
+  "35cbdcf29e9f0890": "2026-11-23T21:45:15.018703+00:00",
+  "b3ba38107f49e4d0": "2026-11-23T21:45:55.569930+00:00",
+  "3340158ed9ba8ee2": "2026-11-23T21:46:24.633121+00:00"
  },
  "recent": [
   {
@@ -13414,6 +13467,142 @@
    "status": "skipped",
    "ts": "2026-11-23T21:07:30.208223+00:00",
    "card_title": ""
+  },
+  {
+   "title": "Every Playable Video Game in GTA 6, Ranked Worst to Best",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-23T21:22:54.729180+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Tampa Spots We’re Shocked Didn’t Make it into GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-23T21:22:54.729222+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Players Have Found a GTA 6 60fps Glitch, but It Just Reaffirms Rockstar's 30fps Cap",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-23T21:22:54.729271+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Are Couples Really Breaking Up Over GTA 6?",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-23T21:22:54.729318+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "YouTuber Discovers Wild GTA 6 Easter Egg, Cracks Code in Just 3 Days to Reveal Brilliant Surprise",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-23T21:22:54.729364+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "The Grand Theft Auto 6 hacker who was hospitalized in 2023 has been released on parole with a warning not to do it again",
+   "source": "PC Gamer",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-23T21:22:54.763635+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "All Mini-Golf Course Locations in GTA 6",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "dup",
+   "ts": "2026-11-23T21:22:54.901493+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "The Fort Lauderdale Tattoo Studio That Shares its Name with GTA 6’s Hyper Ink",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-23T21:23:04.478812+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Players Have Found a GTA 6 60fps Glitch, but It Just Reaffirms Rockstar's 30fps Cap",
+   "source": "IGN",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-23T21:25:25.665395+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "YouTuber Discovers Wild GTA 6 Easter Egg, Cracks Code in Just 3 Days to Reveal Brilliant Surprise",
+   "source": "IGN",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-23T21:25:57.766580+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Are Couples Really Breaking Up Over GTA 6?",
+   "source": "IGN",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-23T21:26:19.783826+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6‘s First Post-Launch Update Fixes 7 Bugs",
+   "source": "Kotaku",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-23T21:26:46.728061+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 is a \"last of its kind\" AAA game execs won't be trying to copy, analyst says",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-23T21:27:35.402070+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 hacker released on licence with warning 'don't let this happen again'",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-23T21:42:56.603634+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "The 2022 GTA 6 Hacker Goes Free With A Warning And Reduced Sentence: ‘Don’t Let This Happen Again’",
+   "source": "Kotaku",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-23T21:43:02.697276+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6's Lucia is \"long overdue,\" ex-Rockstar dev says, as representation of women hasn't \"been good\"",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-23T21:44:54.080919+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 boots on PC only 3 hours after Xbox executable leaked",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T21:46:24.633243+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -14040,64 +14229,6 @@
   },
   {
    "item": {
-    "title": "How to Find and Keep Dom's Charger in GTA 6",
-    "link": "https://www.gtaboom.com/how-to-find-and-keep-doms-charger-in-gta-6-0143",
-    "summary": "Find Dom’s Charger lookalike behind a house in Grayson, respray it black and keep it with Moses’s free first registration in Chapter 2.",
-    "published": "2026-11-23T09:16:58+00:00",
-    "source": "GTA BOOM",
-    "site_name": "GTA BOOM",
-    "trust": "medium",
-    "text": "We went hunting through the northern side of Grand Theft Auto VI and found the one car every Fast & Furious fan has been waiting for. Tucked behind a house in Grayson is a rusted, supercharged muscle car that is Dom Toretto's black 1970 Dodge Charger R/T in everything but the badge. Rockstar Games never says the words, but the blower punched through the hood, the drag-strip setting and the classic silhouette leave little doubt about the homage. Best of all, it is free.\nHere is exactly where to find it, how to make it look like the movie car and how to keep it for good.\nThe car is a Bravado Driveshaft Gauntlet, a standout version of the '69 Bravado Gauntlet Custom that the game tags as DriveShaft Famous.\nStrip away the fictional brand and you have a 1960s muscle coupe with a supercharger blower standing proud of the hood, the single detail that turns a rusty classic into an unmistakable Charger stand-in from the famous. It is not the same as the modern, Challenger-style Hellfire Gauntlet you will have to find yourself chasing for Randy later.\nThis one is all American muscle, just like the car Dom had in the The Fast and the Furious, right down to the stance.\nHead to Grayson, a town up in Lummox County in the northern of Leonida. The car sits abandoned behind a house that belongs to a local named Sid Thompson, close to a Pay 'n' Spray, a gas station and the train station. The railroad tracks running past the property recall the final drag race from the 2001 film. You cannot miss the car once you are on the right street, it is the only rusted, light-blue muscle coupe with a blower sticking out of the hood.\nScan the car with WAiNK before you touch it, the same way we do in our vehicle theft guide. In our runs, it has no tracker to deal with. Getting in is easy, this is not a locked-down supercar, so you can take it early without a Key Cloner.\nDrive it straight out, rusty, faded light-blue paint and all.\nThere is a Pay 'n' Spray right there in Grayson. Pull in, pick black and the faded blue disappears under Dom's exact color. The respray also does double duty, since it clears the car's description if you picked up any heat grabbing it. A fresh black coat is the difference between a rusty curiosity and the car from the poster.\nTaking the car is the easy part. Keeping it means registering it. In GTA 6 that runs through Moses at Watkins Auto Parts in Port Gellhorn, the fence from our Moses walkthrough. His garage opens during the Moses mission in Chapter 2 and the",
-    "extra": {
-     "image": "https://media.gtaboom.com/variants/1920/media/images/55/87/how-to-find-and-keep-doms-charger-in-gta-6-6.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 6,
-    "post": "🗺 Гайд: МАСЛКАР ДОМА ТОРЕТТО В GTA 6\n\nВ городке Грейсон на севере штата нашли тот самый Charger из «Форсажа» — в игре это Bravado Driveshaft Gauntlet.\n\n1. Едем в Грейсон (округ Ламмокс) к дому Сида Томпсона возле железной дороги.\n2. Забираем ржавый голубой маслкар с нагнетателем из капота.\n3. Заезжаем в ближайший Pay 'n' Spray и перекрашиваем в черный цвет.\n4. Для регистрации везем тачку к Мозесу в Port Gellhorn.",
-    "card_title": "КАК ЗАБРАТЬ CHARGER ТОРЕТТО",
-    "reason": "Гайд по поиску отсылки на машину Дома Торетто из Форсажа в GTA 6.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": true,
-    "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-3.5-flash"
-   },
-   "queued_at": "2026-11-23T09:19:27.548882+00:00"
-  },
-  {
-   "item": {
-    "title": "Секрет успеха GTA VI: тысяча сотрудников Rockstar работают в студии уже больше 10 лет",
-    "link": "https://ixbt.games/news/2026/11/23/sekret-uspexa-gta-vi-tysiaca-sotrudnikov-rockstar-rabotaiut-v-studii-uze-bolse-10-let.html",
-    "summary": "Около тысячи сотрудников Rockstar Games работают в студии не менее 10 лет, а накопленный опыт ветеранов стал одним из секретов успеха GTA VI.",
-    "published": "2026-11-23T09:02:00+00:00",
-    "source": "iXBT.games",
-    "site_name": "iXBT.games",
-    "trust": "medium",
-    "text": "Около тысячи сотрудников Rockstar Games работают в студии не менее 10 лет, а накопленный опыт ветеранов стал одним из секретов успеха GTA VI.\nПредставительница Rockstar Games рассказала в интервью, что 21% сотрудников компании связаны со студией как минимум десятилетие. Это примерно 1000 человек. Над GTA VI работали многие создатели Red Dead Redemption 2 и предыдущих игр Rockstar.\nВ октябре компания сообщила, что после выхода Red Dead Redemption 2 штат вырос с 2441 до 4711 человек. Масштаб производства GTA 6 потребовал даже создания специальной команды, которая занималась написанием реплик для безымянных NPC.\nБольшой штат и опыт сотрудников должны помочь Rockstar быстрее выпускать следующие игры. В студии надеются, что после GTA VI фанатам не придётся ждать очередного проекта так долго.\nДвижок, инструменты и команда, которые мы создали в ходе работы над этим проектом, позволят нам действовать быстрее.\nGrand Theft Auto VI вышла 19 ноября на PS5 и Xbox Series X/S. Игра уже принесла огромную выручку, установив новый рекорд во всей индустрии развлечений. Высокие оценки критиков также подтвердили успех проекта.\nНе пропускайте наши новостиДобавьте сайт в предпочитаемые источники, чтобы видеть нас чащеДобавить в Google",
-    "extra": {
-     "image": "https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1745329/84a6e944-e37a-43a4-be86-29a4a68d18cb.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 6,
-    "post": "🏢 В Rockstar пашут 1000 ВЕТЕРАНОВ\n\nОказывается, каждый пятый сотрудник студии пилит игры Рокстар уже больше 10 лет. Именно этот старый состав тащил GTA 6 и прописывал диалоги даже безымянным прохожим.\n\nБоссы заявляют, что набранный опыт и новый движок помогут выпускать следующие тайтлы сильно быстрее. Ждем следующую катку не 12 лет?",
-    "card_title": "СЕКРЕТ УСПЕХА GTA 6",
-    "reason": "Официальная информация о штате разработчиков и опыте сотрудников Rockstar.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-3.5-flash"
-   },
-   "queued_at": "2026-11-23T09:19:41.050348+00:00"
-  },
-  {
-   "item": {
     "title": "GTA 6 Update 01.002.002—All Changes & Download Size",
     "link": "https://insider-gaming.com/gta-6-update-01-002-002-all-changes-download-size/",
     "summary": "Here's everything you need to know about Update 01.002.002 for Grand Theft Auto 6, including all changes and its download size. The post GTA 6 Update 01.002.002—All Changes & Download Size appeared first on Insider Gaming .",
@@ -14366,6 +14497,36 @@
    "file_id": "BAACAgIAAxkDAAN1awSfR1ugGpO9n4n_zOXs-kIDrUYAAlC0AAKTDSlImh0jjtnB-Lg9BA",
    "moderation": "pending",
    "draft_msg_id": 117
+  },
+  {
+   "clip": {
+    "source": "twitch",
+    "url": "https://www.twitch.tv/squeex/clip/ColdbloodedPowerfulAsparagusPogChamp-d7A-QcrNyZ3ACEEa",
+    "title": "before we go in....",
+    "author": "Squeex",
+    "views": 414,
+    "duration": 30.9,
+    "created": "2026-11-22T22:09:47+00:00",
+    "lang": "en",
+    "description": "",
+    "vod_id": "2937696340",
+    "vod_offset": 5810.0
+   },
+   "caption": "Имба: Джейсон и Лусия обнимаются перед ограблением — чисто романтик-вайб посреди криминала 💀",
+   "interest": 7,
+   "spoiler": false,
+   "nsfw": false,
+   "watched": true,
+   "model": "gemini:gemini-3.5-flash-lite",
+   "media": {
+    "width": null,
+    "height": 720,
+    "duration": 30
+   },
+   "queued_at": "2026-11-23T21:20:55.645451+00:00",
+   "file_id": "BAACAgIAAxkDAAN3awSuOZnqKonMbsczcrbUcj4n5zcAAvW0AAKTDSlIq7YSMWTv1Gc9BA",
+   "moderation": "pending",
+   "draft_msg_id": 119
   }
  ],
  "clip_drafts": [
@@ -14387,7 +14548,8 @@
   "2026-11-23T10:29:00.148443+00:00",
   "2026-11-23T11:31:47.510995+00:00",
   "2026-11-23T13:00:09.458629+00:00",
-  "2026-11-23T20:17:12.002269+00:00"
+  "2026-11-23T20:17:12.002269+00:00",
+  "2026-11-23T21:20:57.697562+00:00"
  ],
  "clip_history": [
   {
@@ -20259,6 +20421,97 @@
    "ts": "2026-11-23T20:17:12.002287+00:00",
    "frames": [],
    "caption": "Имба: переключаешься на Джейсона, а он падает с крыши прямо на парковку — вот это физика 💀"
+  },
+  {
+   "author": "twitch:michou",
+   "vod": "2937267270",
+   "offset": 26759.0,
+   "title": "stunt michou",
+   "drafted": false,
+   "ts": "2026-11-23T21:17:39.713886+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:montanablack88",
+   "vod": "2938201590",
+   "offset": 2992.0,
+   "title": "Tanzshow",
+   "drafted": false,
+   "ts": "2026-11-23T21:17:41.173393+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:bigpuffer",
+   "vod": "2937551178",
+   "offset": 28431.0,
+   "title": "Marty McFly moment",
+   "drafted": false,
+   "ts": "2026-11-23T21:17:42.499576+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:charborg",
+   "vod": "2937903732",
+   "offset": 4108.0,
+   "title": "Easiest kidnapping ever",
+   "drafted": false,
+   "ts": "2026-11-23T21:17:51.634013+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:dmitry_bale",
+   "vod": "2935987301",
+   "offset": 26164.0,
+   "title": "ГачиАкута№2",
+   "drafted": false,
+   "ts": "2026-11-23T21:18:54.169797+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:h2p_gucio",
+   "vod": "2937558490",
+   "offset": 16575.0,
+   "title": "xDDDDDDDD",
+   "drafted": false,
+   "ts": "2026-11-23T21:18:54.985845+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:zetfartv",
+   "vod": "2937772066",
+   "offset": 10718.0,
+   "title": "on est enfin au chapitre 2",
+   "drafted": false,
+   "ts": "2026-11-23T21:18:55.968028+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:missmikkaa",
+   "vod": "2937328007",
+   "offset": 25077.0,
+   "title": "that looked like it hurt",
+   "drafted": false,
+   "ts": "2026-11-23T21:19:55.430569+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:squeex",
+   "vod": "2937696340",
+   "offset": 5810.0,
+   "title": "before we go in....",
+   "drafted": false,
+   "ts": "2026-11-23T21:20:46.857724+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:squeex",
+   "vod": "2937696340",
+   "offset": 5810.0,
+   "title": "before we go in....",
+   "drafted": true,
+   "ts": "2026-11-23T21:20:57.697579+00:00",
+   "frames": [],
+   "caption": "Имба: Джейсон и Лусия обнимаются перед ограблением — чисто романтик-вайб посреди криминала 💀"
   }
  ],
  "published": [
@@ -20826,6 +21079,214 @@
    },
    "corr": false,
    "since": "2026-11-23T20:31:29.892579+00:00"
+  },
+  {
+   "item": {
+    "title": "Every Playable Video Game in GTA 6, Ranked Worst to Best",
+    "link": "https://www.polygon.com/gta-6-playable-video-games-ranked/",
+    "summary": "Grand Theft Auto 6 features four playable video games within the game. Here's how they stack up.",
+    "published": "2026-11-23T21:04:57+00:00",
+    "source": "Polygon",
+    "site_name": "Polygon",
+    "trust": "high",
+    "text": "Grand Theft Auto 6 is so big that it’s actually five games in one. Like previous games in the series, there are several games-within-the-game that you can play while hanging out in Leonida. These aren’t just quick arcade games that you can play for a few minutes, but full-on console games that are actually pretty fun in their own right.\nIt’s a playful meta joke from Rockstar, and I would be remiss not to play into it. Where there are games, there must be a video game website ranking those games in an arbitrary list. Here’s how the four games featured in GTA 6 stack up. Even if they aren’t all winners, they’re all at least high-effort jokes that deserve some praise.\nAs a parody of the kind of hunting games you find in dive bars, Bang For Your Buck is a pretty one-note gag. It’s an on-rails shooter where you simply have to gun down bucks while sparing does that populate three stages. The only real twist is that your money ticks down along with the timer, so you need to kill deer rapidly to keep playing. That mechanic is reused for a much better game that you’ll see higher on this list, so Bang For Your Buck doesn’t have much going for it beyond the obvious hunting satire. But as a piece of worldbuilding? It’s pure Florida, and I’m glad that it exists in Leonida.\nStreet Trash 3: Dezombifier is GTA 6’s very own Vampire Survivors clone. It’s a top-down twin-stick shooter where the goal is to gun through dense waves of zombies (and skeletons, for some reason) as you hunt for gears. As a send-up, it’s a little hit-and-miss. The roguelite is fun enough with its reliable choose-three level-up system, though it could have benefited from adopting Vampire Survivors’ more intuitive auto-firing action. It’s a little less effective as satire than some other entries on his list, since it feels more like a parody of AAA action games, complete with its quippy narrator. Still, it’s a fun little distraction that even has its own unlock system to keep you playing and find new weapons.\nArguably the funniest and most unexpected gag in all of GTA 6, Tenebrae Lux is Rockstar at the height of its satirical powers. The black-and-white puzzle game is a send-up of arthouse indie games created by auteur developers. More specifically, it’s a parody of Jonathan Blow, the creator of The Witness and Order of the Sinking Star. The convoluted experience (created solely by fictional developer Johannes Zuch) sees you exploring a mysterious island as a pompous narrator waxes poetic about philos",
+    "extra": {
+     "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/grand-theft-auto-6-lucia-arcade-cabinet.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "🎮 GTA 6: ТОП‑5 мини‑игр\n\nГеймеры, в GTA 6 уже есть пять полноценн…",
+    "card_title": "РЕЙТИНГ ИГР В GTA 6",
+    "reason": "официальный рейтинг игр внутри GTA 6 от Polygon, полезно, но не сенсационно",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "groq:openai/gpt-oss-20b"
+   },
+   "corr": false,
+   "since": "2026-11-23T21:24:53.207164+00:00"
+  },
+  {
+   "item": {
+    "title": "D'Angelo's Estate Speaks Out After Late Artist's Unreleased Song, Kamikaze, Discovered in GTA 6",
+    "link": "https://www.ign.com/articles/dangelos-estate-speaks-out-after-late-artists-unreleased-song-kamikaze-discovered-in-gta-6",
+    "summary": "The estate of late American R&B artist D’Angelo has spoken out after the launch of GTA 6, which featured a song that he created for the game back in 2024.",
+    "published": "2026-11-23T19:56:31+00:00",
+    "source": "IGN",
+    "site_name": "IGN",
+    "trust": "high",
+    "text": "\"He was a tremendous admirer of Rockstar Games.\"\nThe estate of late American R&B artist D’Angelo has spoken out after the launch of GTA 6, which featured a song that he created for the game back in 2024.\nGTA 6 features a slew of songs, both licensed and original, from a wide variety of high-profile music artists. Names like Cardi B, Tame Impala, Burna Boy, and many more contributed to the game’s soundtrack. D’Angelo was one of those artists who created a track for the game two years ahead of its highly anticipated November 2026 launch.\nThe song, titled ‘Kamikaze,’ is a funky tune that players quickly discovered during their playthroughs. Snippets of the track were uploaded to social media mere days after GTA 6’s release, and now, D’Angelo’s estate has officially confirmed the track’s existence in the game.\nThe track and its title were shared on November 23, 2026, in a series of Instagram posts on D’Angelo’s official profile. One of these included a statement penned by his brother, Luther Archer, who described how\n“Michael approved this track in its current form in November of 2024 to be released as part of Grand Theft Auto VI. He was a tremendous admirer of Rockstar Games and a past collaborator of theirs, and he was enthusiastic (to say the least) to have this record included in the game and released to a wide audience as a single,” Archer wrote.\n“Kamikazi was produced by D'Angelo himself, with Slingbaum and engineer/trusted ally Ben Kane. It features performances from D'Angelo and Slingbaum alongside Yussef Dayes (drums on the left) and the late legendary James Gadson (drums on the right). The cover artwork was done by Andre Trenier, the genius brother of Michael's mentor and longtime manager Dominque Trenier.”\nD’Angelo has a storied history with Rockstar; he created a song for the Red Dead Redemption 2 soundtrack titled ‘May I? Stand Unshaken,’ a collaboration that came about after he asked to playtest the game at Rockstar’s New York Offices before its release.\n“D’Angelo’s actually a massive, massive, massive fan of the game — more than I ever knew,” Rockstar Games’ Director of Music and Audio, Ivan Pavlovich, told Rolling Stone in a 2018 interview.\n“He would come in here [Rockstar’s New York city office] and just play the game. We weren’t even talking about doing music. When D’Angelo comes through, he shows up at midnight, and he’s playing the game until four in the morning. Each time he was just like, ‘It’s incredible.’ It just blows his mind. He’s su",
+    "extra": {
+     "image": "https://assets-prd.ignimgs.com/2026/11/18/gta6-review-blogroll-1794996674466.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "🎵 D’Angelo в GTA 6\n\n\nТрек «Kamikaze» официально подтверждён: его брат Luther Archer заявил, что Майкл одобрил песню в 2024 г. Теперь фанаты могут послушать его funky‑шедевр в игре. Это крутая находка для любителей музыки и GTA‑фанатов.",
+    "card_title": "D’ANGELO В GTA 6",
+    "reason": "официальное подтверждение трека D’Angelo в GTA 6",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "groq:openai/gpt-oss-20b"
+   },
+   "corr": false,
+   "since": "2026-11-23T21:24:54.309052+00:00"
+  },
+  {
+   "item": {
+    "title": "Every GTA 6 ending and how to get them",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-endings/",
+    "summary": "All the endings (and a couple variations) for GTA 6 we've seen so far.",
+    "published": "2026-11-23T21:33:58+00:00",
+    "source": "PC Gamer",
+    "site_name": "PC Gamer",
+    "trust": "high",
+    "text": "Obviously, massive spoilers follow for GTA 6 endings!\nThere are multiple endings to GTA 6, and while we haven't experienced them all personally here at PC Gamer, the gaming community has been sharing them around for anyone curious about what they may have missed.\nThe ending you get depends on the choices you make during the final GTA 6 story mission, but also depends on how you handled Jason and Lucia's romance and criminal profiles throughout the game, so seeing every version of the ending would mean not just playing the ending multiple times, but having different playthroughs of the game altogether.\nThere are a couple of endings that I don't consider \"different\" from each other but do have some differences leading up to them, which I'll explain below. There may also be additional endings we haven't seen yet, so we may update this guide in the future.\nIn the bridge endings, Jason and Lucia have defeated Mendez and his squad and gotten the hard drive back from Georgio's penthouse and escaped. They drive to Cal's place in Key Lento, but discover he has been compromised. They drive to the bridge, but the cops have set up a roadblock and have the couple trapped. Lucia wants to keep going, but Jason suggests they jump off the bridge and swim for it.\nA choice comes up on the screen: \"Swim For it\" or \"No Surrender.\"\nJason and Lucia try to run the roadblock and are shot to death by cops on the bridge. They die holding hands. In the credits, we see that their son Tomas lives happily with Lucia's aunt, her husband, and their children.\nHave a strong relationship with Jason and Lucia\nJason and Lucia are shot to death by cops on the bridge. They die holding hands. In the credits, their lawyer, Abe, brings the money to Lucia's aunt. Tomas lives happily with Lucia's aunt, her husband, and their children in a much bigger house than the other No Surrender ending.\nSave $2 million before beginning Protective Custody\nChoosing \"Swim for it\" presents an additional choice. When Jason gets out of the car, Lucia can choose to \"Exit\" the car with him, or change her mind by not choosing it.\nJason and Lucia decide to jump off the bridge and swim for it. They both exit the car without holding guns. Lucia jumps, but Jason doesn't jump and is arrested. Lucia signs a deal for immunity while Jason goes to prison. Lucia gets a job in a diner. Lucia takes Tomas to meet Jason in prison, but he can only see his son through a glass divider.\nJason and Lucia decide to jump off the bridge and sw",
+    "extra": {
+     "image": "https://cdn.mos.cms.futurecdn.net/VpCnytmTy4pVTZb2NhTAY6-1920-80.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "🗺 Гайд: Как открыть все концовки\n\nФинал истории Джейсона и Люсии зависит от твоего выбора на мосту и отношений парочки.\n\nВыбор «Swim For it» или «No Surrender» приводит к разным исходам: от драматичной гибели до тюрьмы или спасения. Чтобы увидеть все варианты, придется перепройти сюжет с другими решениями и деньгами на счету.",
+    "card_title": "ВСЕ КОНЦОВКИ GTA 6",
+    "reason": "Гайд по концовкам игры для вышедшей GTA 6",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": true,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-23T21:43:00.184992+00:00"
+  },
+  {
+   "item": {
+    "title": "Goodbye, Mandy: GTA 6 Players Are Already Obsessed With Someone Else",
+    "link": "https://www.polygon.com/gta-6-vicki-chapter-2-girls-trip/",
+    "summary": "Grand Theft Auto 6 fans were obsessed with Mandy in Chapter 1, and have now moved on to obsessing over Vicki in Chapter 2.",
+    "published": "2026-11-23T21:29:19+00:00",
+    "source": "Polygon",
+    "site_name": "Polygon",
+    "trust": "high",
+    "text": "As Grand Theft Auto 6 began releasing around the world last week, players quickly became obsessed with Mandy. She's a neighbor of Jason's who tries to seduce the himbo while he fixes her sink. (And she is totally not a serial killer, no way, why would you ask?) Mandy shows up early in GTA 6. But as more players advance in the game, they're becoming obsessed with a new character: Vicki, a standout character from Chapter 2.\n[Ed. note: Light spoilers for the end of Chapter 1 and beginning of Chapter 2 follow. We'll keep them vague.]\nAfter Jason is injured at the end of Chapter 1, Lucia takes him to a run-down motel to lie low. She wants to find stronger painkillers for him, which leads her to Vicki. She's a goth exotic dancer who also moonlights as a small-time drug dealer, and immediately pulls one over on Lucia by selling her over-the-counter Zombix (GTA's brand of painkiller) for $50. Lucia then barges back into Vicki's room and demands the drugs she paid for, which takes the two on a trip around Port Gellhorn. They get Vicki's paycheck from Delights Cabaret and save her friend Dunk from a gang, all the while getting to know one another. They bond over the fact that they're both moms trying to support their kids by whatever means necessary.\nPlayers have quickly fallen for Vicki. \"Love her she's my favorite character so far,\" one player wrote on Reddit.\n\"Punk Ana de Armas,\" another said, and, you know, I can kinda see it.\nVicki is voiced by Taryn Manning, who's best known for her role in Orange Is the New Black. She's also starred in 8 Mile, Hustle and Flow, and Hawaii Five-0.\nManning's work as Vicki is part of the reason why players are flocking to her. \"Mandy didn't do it for me, but Vicki did because I recognized Taryn Manning’s voice immediately,\" one Redditor said.\n\"Vicki the baddie that made everyone move on from Mandy lmao,\" another said.\nBasically, you can tell how far thirsty GTA 6 players are getting in the game based on who they're obsessively posting about over on the Grand Theft Auto subreddits. In a few days, as players continue to marathon Rockstar's hit, I'm sure they'll have a new favorite.",
+    "extra": {
+     "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/lucia_caminos_06.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "Новая вайфу в GTA 6: прощай, Мэнди\n\nИгроки массово переключились с Мэнди на Вики из второй главы. Эта готичная танцовщица с озвучкой от актрисы из «Оранжевый — хит сезона» — просто пушка, фанаты в восторге от её харизмы. Видимо, Мэнди была лишь разогревом перед настоящим разрывом.\n\n❤️ — Вики топ, Мэнди в пролете\n👎 — Не, Мэнди всё равно лучше",
+    "card_title": "НОВАЯ ЛЮБИМИЦА ИГРОКОВ GTA 6",
+    "reason": "Новый персонаж-вайфу из GTA 6 стал объектом обожания фанатов, сместив предыдущую любимицу.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.1-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-23T21:44:53.267765+00:00"
+  },
+  {
+   "item": {
+    "title": "Some Unlucky GTA 6 Players Keep Running Into Crashes On PS5, But There Are Workarounds",
+    "link": "https://kotaku.com/some-unlucky-gta-6-players-keep-running-into-crashes-on-ps5-but-there-are-workarounds-2000758451",
+    "summary": "Mysteriously exiled from Vice City",
+    "published": "2026-11-23T16:15:08+00:00",
+    "source": "Kotaku",
+    "site_name": "Kotaku",
+    "trust": "high",
+    "text": "Grand Theft Auto 6 is finally out, and it’s been getting rave reviews. Well, it’s been getting rave reviews from just about everyone other than a small, especially unlucky group of players who can’t seem to play much of the game at all because of mysterious crashes occurring on PlayStation 5, that is.\nIn the hours following GTA 6’s launch last Thursday, players flocked to Reddit to report issues with sudden crashes amid what was otherwise a successful launch. Some players can’t access the game at all, reporting that it just refuses to launch and instead suddenly shuts down their (sometimes brand-new) consoles or displays error messages.\nOthers (including myself) reported that they can launch the game, but it crashes at seemingly random times, especially during that gorgeous opening cutscene or during Chapter 1. My PS5 has been shutting down entirely without a warning message before waking up and complaining about how it wasn’t turned off properly. There have also been reports of people getting shut out of the game with the error code CE-108255-1.\nBecause of how intensive Grand Theft Auto VI is, it's exposing a lot of PS5s that weren't truly stable. pic.twitter.com/2xXzBgllJE — Charlie (@ghost_motley) November 19, 2026\n“I’ve lost 4 HOURS of gameplay because the game refuses to auto-save. This is the second time I’ve had to replay everything, and honestly, I’ve lost all motivation to continue,” one Reddit commenter wrote.\nSony and Rockstar haven’t issued any statements on the issue yet, but players online have suggested some workarounds that have seemed to work for them. Some players have attributed their launch issues to licensing errors, which can be fixed by using the Restore Licenses button in the game’s settings. Others have suggested booting PS5s into safe mode to clear the cache and restore the database, reinstalling the game, making sure the console is plugged directly into a wall outlet, cleaning out dust, changing the game’s resolution, or just…blowing a fan onto the PS5 in case it needs a little extra help cooling down.\nBut some players have tried plenty or all of the above solutions to no avail, and I fear that I’m one of them. I stayed up comically late last night tinkering with my PS5 after it kept crashing during the opening cutscene, and I tried pretty much every single solution I could dig up on Reddit. I thought I had fixed the issue after giving the fans a good old clean and letting my PS5 take a little nap, but GTA 6 now keeps crashing ri",
+    "extra": {
+     "image": "https://kotaku.com/app/uploads/2026/11/GTA-6-lucia-shooting-drinka-1280x720.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "💥 КРАШИ НА PS5\n\n\nГеймеры GTA 6 жалуются на падения в открытой сцене и при запуске. К счастью, есть несколько трюков, которые реально помогают:\n\n1️⃣ В настройках игры нажми «Restore Licenses».\n2️⃣ Перезайди в безопасном режиме, очисти кэш и восстанови базу.\n3️⃣ Переустанови игру и подключи PS5 к розетке, а не к USB‑мульти.\n4️⃣ Очисти вентиляторы и дай консоли «сладкий сон».\n\nЭти шаги работают у большинства, так что попробуй, пока не выйдет патч.\n\n❤️ — Всё ок, игра запускается\n👎 — Всё равно падает, нужна патч",
+    "card_title": "ПРОСТО РЕШЕНИЕ КРАШЕЙ",
+    "reason": "официальный источник Kotaku сообщает реальные проблемы и решения",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": true,
+    "model": "groq:openai/gpt-oss-20b"
+   },
+   "corr": false,
+   "since": "2026-11-23T21:44:55.352447+00:00"
+  },
+  {
+   "item": {
+    "title": "Rockstar Just Dropped a GTA 6 Deluxe Album With 23 New Tracks",
+    "link": "https://www.gtaboom.com/rockstar-just-dropped-a-gta-6-deluxe-album-with-23-new-tracks-e16c",
+    "summary": "Rockstar dropped a surprise Deluxe Edition of the GTA 6 companion album on major streaming services, with 23 bonus tracks led by Travis Scott.",
+    "published": "2026-11-23T16:03:04+00:00",
+    "source": "GTA BOOM",
+    "site_name": "GTA BOOM",
+    "trust": "medium",
+    "text": "Rockstar Games is not done flooding the launch window with music. The studio surprise-released Grand Theft Auto VI: The Album Deluxe Edition on November 23, stacking 23 brand-new tracks on top of the standard record. We cover every one of these drops, so here is what the Deluxe adds and where it sits among the game's three separate music releases.\nThe Deluxe Edition piles 23 bonus songs onto the 34-track Album that arrived three days earlier. Rockstar's announcement leads with The Dare, Slayyyter, Denzel Curry, HEALTH, Power Trip and Real Dimez with Sexyy Red. Travis Scott opens the expansion with \"Burn This Shit Down\" and 21 Savage, Latto, Offset, Anitta, Young Nudy and Kodak Black all turn up. The whole thing arrived on every major streaming service at once through Atlantic Records and Rockstar.\nThe Deluxe is a soundtrack expansion, not in-game content for Grand Theft Auto VI itself. You are not buying a premium item or GTA VI DLC. Nothing here unlocks a thing inside the game. It is a companion album, free to stream like the rest. Rockstar's official Newswire post and a matching post on X carry the full tracklist and the streaming link, with no physical Deluxe pressing announced yet.\nWith its release, three separate official music products now sit under GTA VI. The Deluxe is only one of them. First, there's The Album, the vocal companion record from Atlantic that just grew to 57 songs across its standard and Deluxe versions by our count. Second, the Original Score by Justice, an adaptive instrumental work that arrives on December 11. Third, the in-game radio stations you hear while driving. The Deluxe belongs to the first bucket, nothing more.\nHow the Album, the Deluxe expansion and the Justice Score differ.\nA few things stand out. Overmono take five of the 23 slots, including \"Welcome to Leonida,\" the same additional-score track creators flagged for copyright claims even with the mute setting on. The Deluxe is digital only for now, with no vinyl or CD to match the standard Album's liquid-filled and splatter pressings.\nDropping 23 more tracks just three days after the standard album is a lot, even by this launch's standards, though nobody serious about the soundtrack will complain about more Travis Scott and Denzel Curry.\nHere is the full Deluxe tracklist, straight from Rockstar.\nGTA 6 The Album Deluxe Edition Tracklist, Part 1\nThe first twelve of the 23 new Deluxe tracks.\nGTA 6 The Album Deluxe Edition Tracklist, Part 2\nThe remaining eleven Deluxe track",
+    "extra": {
+     "image": "https://media.gtaboom.com/variants/1920/media/images/c3/e0/rockstar-just-dropped-a-gta-6-deluxe-album-with-23-new-tracks.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "🎧 GTA 6 ДЕЛЮКС: 23 новых трека\n\nRockstar внезапно выпустил Deluxe‑версию альбома, добавив 23 песни к 34‑треки. Это только компаньон‑сингл, внутри игры ничего не открывает. Слушайте, но не ждите квестов.",
+    "card_title": "ROCKSTAR АЛЬБОМ",
+    "reason": "официальное объявление Rockstar о новом альбоме, но без игровых изменений",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "groq:openai/gpt-oss-20b"
+   },
+   "corr": false,
+   "since": "2026-11-23T21:45:24.383402+00:00"
+  },
+  {
+   "item": {
+    "title": "Grand Theft Auto VI: The Album (Deluxe Edition)",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMy1WQ21GcGpGQTlTblpRemlIb2pJZ2RBdlhNRFBqYVlMenJwWEVNb0ZPVG4tTFJwUjBBXzE0Y1BhdzJJMl9LUjZoREt2N29WSlhmU1RVS3haTVg0WDJKOW1kdEJCdHlnZnNHVUdfdWZHNG1iR05XdUxrS3R6a01pMks2NkhvZFhLTmNxcUtFSHEyS0RYYlA2d2RWSDhvV0xiaEFwUVh5QTdEQQ?oc=5",
+    "summary": "Grand Theft Auto VI: The Album (Deluxe Edition) Rockstar Games",
+    "published": "2026-11-23T14:06:15+00:00",
+    "source": "Rockstar Newswire",
+    "site_name": "Rockstar Games",
+    "trust": "official",
+    "text": "Grand Theft Auto VI: The Album (Deluxe Edition) Rockstar Games",
+    "extra": {}
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "🎶 GTA 6: The Album (Deluxe Edition) уже в продаже\n\nRockstar объявила, что новая версия игры включает эксклюзивный контент, расширенный сюжет и улучшенные графические настройки. Это прямой апгрейд для фанатов, которые хотят максимум от GTA 6.",
+    "card_title": "ДЛЮКС-ЭДИШНЬ GTA 6",
+    "reason": "официальное заявление Rockstar о Deluxe Edition GTA 6",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "groq:openai/gpt-oss-20b"
+   },
+   "corr": false,
+   "since": "2026-11-23T21:46:03.939570+00:00"
   }
  ]
 }
