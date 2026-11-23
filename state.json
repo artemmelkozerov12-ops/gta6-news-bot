@@ -2497,7 +2497,16 @@
   "bfc3a2c60dd24cdc": "2026-11-23T05:20:15.762084+00:00",
   "837033be9ef99091": "2026-11-23T05:35:38.939313+00:00",
   "4afda7ceccf7207c": "2026-11-23T05:35:41.213419+00:00",
-  "cd4211abc0a89e1e": "2026-11-23T05:35:43.535329+00:00"
+  "cd4211abc0a89e1e": "2026-11-23T05:35:43.535329+00:00",
+  "6404aaa4acb4cce9": "2026-11-23T05:51:10.836501+00:00",
+  "d6db5c522a7da689": "2026-11-23T05:51:18.088233+00:00",
+  "f3e862fe97689617": "2026-11-23T05:51:19.347110+00:00",
+  "4305385b4d56ca99": "2026-11-23T05:51:20.535982+00:00",
+  "eabf5a6604b3c603": "2026-11-23T06:06:46.932164+00:00",
+  "ff606ab983f37bcd": "2026-11-23T06:06:48.296535+00:00",
+  "30a15f333d171f4e": "2026-11-23T06:06:49.313519+00:00",
+  "b8d7e88dc1551431": "2026-11-23T06:06:50.658012+00:00",
+  "3581d94957cdb7f3": "2026-11-23T06:06:52.279113+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -4214,7 +4223,16 @@
   "1d905007bdf24005": "2026-11-23T05:20:15.762084+00:00",
   "4a663666f80126d8": "2026-11-23T05:35:38.939313+00:00",
   "be650a644fd1b867": "2026-11-23T05:35:41.213419+00:00",
-  "128746786fe218f9": "2026-11-23T05:35:43.535329+00:00"
+  "128746786fe218f9": "2026-11-23T05:35:43.535329+00:00",
+  "ec0b70112d69bdec": "2026-11-23T05:51:10.836501+00:00",
+  "c9f9b621564d62f0": "2026-11-23T05:51:18.088233+00:00",
+  "8f1a4e53961d238a": "2026-11-23T05:51:19.347110+00:00",
+  "135efb6906f511dc": "2026-11-23T05:51:20.535982+00:00",
+  "e0020dcb325a6dbc": "2026-11-23T06:06:46.932164+00:00",
+  "e9aae0dadb5e99ed": "2026-11-23T06:06:48.296535+00:00",
+  "89046838399cf0c0": "2026-11-23T06:06:49.313519+00:00",
+  "53ec1daea3fed9a8": "2026-11-23T06:06:50.658012+00:00",
+  "e74d752198accf15": "2026-11-23T06:06:52.279113+00:00"
  },
  "recent": [
   {
@@ -10776,6 +10794,78 @@
    "status": "skipped",
    "ts": "2026-11-23T05:35:43.535447+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GTA 6 Strip Clubs: Locations, Prices and Private Dances",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "queued",
+   "ts": "2026-11-23T05:51:16.806464+00:00",
+   "card_title": "ГДЕ ВСЕ СТРИП-КЛУБЫ"
+  },
+  {
+   "title": "Bill Maher roasts GTA 6 with brutal joke about ICE",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T05:51:18.088353+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 на ПК: почему Rockstar задерживает порт и чего ждать от компьютерной версии",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T05:51:19.347237+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Разработчики рассказали о создании интимных сцен в GTA 6",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T05:51:20.536097+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "All La Cascara Motel Robbery Key Valuables Locations - GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T06:06:46.932295+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 feature divides couples as men called out for act with ‘virtual girlfriend’",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T06:06:48.296664+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Can you buy Rockstar Games stock? No, but you can buy its owner, Take-Two (TTWO)",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T06:06:49.313635+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Неуязвимый прохожий из GTA 6 стал главной загадкой первых дней после релиза",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T06:06:50.658139+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Geekerwan estimates GTA 6 could run at 60 fps on a less costly PC",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T06:06:52.279236+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -11245,7 +11335,9 @@
     "guide": false,
     "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-4-hydrogen"
    },
-   "queued_at": "2026-11-23T02:55:43.661109+00:00"
+   "queued_at": "2026-11-23T02:55:43.661109+00:00",
+   "moderation": "pending",
+   "draft_msg_id": 95
   },
   {
    "item": {
@@ -11275,6 +11367,35 @@
     "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-4-hydrogen"
    },
    "queued_at": "2026-11-23T03:11:41.570748+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA 6 Strip Clubs: Locations, Prices and Private Dances",
+    "link": "https://www.gtaboom.com/gta-6-strip-clubs-locations-prices-and-private-dances-d5b0",
+    "summary": "Delights Cabaret is the cheapest strip club in GTA 6, with private dances around $40 versus about $300 at NINE1NINE and $1,000 at Jack of Hearts.",
+    "published": "2026-11-23T05:44:33+00:00",
+    "source": "GTA BOOM",
+    "site_name": "GTA BOOM",
+    "trust": "medium",
+    "text": "Grand Theft Auto VI lets us walk into the strip clubs we spent years reading about and there are three of them spread across Vice City and Kelly County\nHere is the full rundown of where you can find each club, what spending a night there costs and what GTA 6 will and will not let you do once you are inside.\nAll Three GTA 6 Strip Clubs and Where to Find Them\nGTA 6 has three strip clubs, catering to different types of individuals. NINE1NINE is the high-roller spot downtown, Jack of Hearts is the story-locked club for those with the deepest pockets and Delights Cabaret is the cheap dive out in the county.\nEvery GTA 6 strip club with its location, private-dance price and unlock timing.\nNINE1NINE, the Luxury Club With a Real Miami Backstory\nNINE1NINE sits in downtown Vice City, just south of Crosstown below the overpass near The Vault, open from Chapter 1. It is the luxury option, a nightclub and strip club hybrid with VIP lounges, a wealthy crowd and the steepest drink markups of the three. Private dances run around $300, with tips on top of roughly $50.\nAnyone who followed our launch coverage will recognize the name. Rockstar Games modeled the in-game club on Miami's E11EVEN, the real nightclub-strip-club hybrid, so the name lines up with the real-world Vice City spots we mapped long before the game shipped. It is the one club built to make you feel the price of a night out.\nJack of Hearts and the Only Raw Records Studio\nJack of Hearts is the hip-hop-themed club owned by Boobie Ike, it stays locked until Chapter 3 and it carries the highest price in the game, with private dances around $1,000. The back of the club also holds the recording studio for Only Raw Records, the in-game label tied to Boobie Ike, Dre'Quan Priest and the Dimez.\nThe club itself is central to several story missions and meetings.\nDelights Cabaret, the Cheap Old-School Option\nDelights Cabaret trades the downtown gloss for a rougher room. This roadside dive sits out in Port Gellhorn in Kelly County, off the I-404, owned by a character named Frankie. Private dances cost around $40, the cheapest in the game by a mile, with small tips on top. The crowd is lower-key and old-school. It is also the one club with pool tables, which the downtown spots skip.\nIf you want the full strip-club experience without emptying your wallet, this is where to start.\nWhat You Can Do Inside a GTA 6 Strip Club\nThe clubs share a core set of activities. You can order drinks at the bar, sometimes for a temporary buff,",
+    "extra": {
+     "image": "https://media.gtaboom.com/variants/1920/media/images/47/b4/gta-6-strip-clubs-locations-prices-and-private-dances-2.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "🗺 Гайд: Стрип-клубы Вайс-Сити\n\nВ игре всего три заведения под разный бюджет. Го сливать виртуальные баксы:\n\n1. NINE1NINE — даунтаун Вайс-Сити (доступен с 1 главы). Элитный клуб в стиле Майами. Приват — $300.\n2. Jack of Hearts — откроется в 3 главе. Самый дорогой топич для мажоров, приват обойдётся в $1000.\n3. Delights Cabaret — Порт-Геллхорн (округ Келли). Самый дешёвый дедовский бар с бильярдом, приват всего за $40.",
+    "card_title": "ГДЕ ВСЕ СТРИП-КЛУБЫ",
+    "reason": "Гайд по расположению и ценам стрип-клубов в вышедшей GTA 6",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": true,
+    "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-3.5-flash"
+   },
+   "queued_at": "2026-11-23T05:51:16.806453+00:00"
   }
  ],
  "posts": [
@@ -11341,7 +11462,8 @@
   "2026-11-22T18:03:09.854828+00:00",
   "2026-11-22T19:03:13.539370+00:00",
   "2026-11-22T20:03:38.323230+00:00",
-  "2026-11-22T21:03:59.840790+00:00"
+  "2026-11-22T21:03:59.840790+00:00",
+  "2026-11-23T06:00:40.772988+00:00"
  ],
  "slots_sent": {
   "2026-11-21:guide:1": "2026-11-21T21:14:52.573728+00:00",
