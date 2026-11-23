@@ -2733,7 +2733,17 @@
   "24d7223fd1780225": "2026-11-23T11:38:33.172836+00:00",
   "11af9c4af960d3ad": "2026-11-23T11:38:35.575549+00:00",
   "9715588a4d601068": "2026-11-23T11:38:36.795885+00:00",
-  "860503cae913f2d8": "2026-11-23T11:38:37.990787+00:00"
+  "860503cae913f2d8": "2026-11-23T11:38:37.990787+00:00",
+  "df0e9eff141a3a96": "2026-11-23T11:54:03.672827+00:00",
+  "1c9237c9694f4d3a": "2026-11-23T11:54:03.710109+00:00",
+  "ff8a3aa62a2ba4ab": "2026-11-23T11:54:38.563885+00:00",
+  "b2a1c35b07ad4f7c": "2026-11-23T11:54:43.067493+00:00",
+  "00a85e7b44bac0f6": "2026-11-23T11:54:45.146327+00:00",
+  "c5f3d74ec1309880": "2026-11-23T11:54:46.324617+00:00",
+  "08f6a8b1031c9a29": "2026-11-23T11:54:50.025182+00:00",
+  "c59c28828c1f3068": "2026-11-23T11:54:51.750236+00:00",
+  "ea2b1defdc7df15b": "2026-11-23T11:54:55.262352+00:00",
+  "283ba6aa1e96c070": "2026-11-23T11:54:56.507676+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -4612,7 +4622,16 @@
   "15f1edf735961c6c": "2026-11-23T11:38:33.172836+00:00",
   "659c08253d8d320d": "2026-11-23T11:38:35.575549+00:00",
   "11d32d6ee312d2a6": "2026-11-23T11:38:36.795885+00:00",
-  "df5122afd4a9f920": "2026-11-23T11:38:37.990787+00:00"
+  "df5122afd4a9f920": "2026-11-23T11:38:37.990787+00:00",
+  "f51c97226130446d": "2026-11-23T11:54:43.067493+00:00",
+  "cf6be5ccadcf8970": "2026-11-23T11:54:03.710109+00:00",
+  "510971a375f1a241": "2026-11-23T11:54:38.563885+00:00",
+  "0d6d8940e9f6715f": "2026-11-23T11:54:45.146327+00:00",
+  "6f7d22daef66e7e0": "2026-11-23T11:54:46.324617+00:00",
+  "f5991becb73a0472": "2026-11-23T11:54:50.025182+00:00",
+  "afceb8e865af9422": "2026-11-23T11:54:51.750236+00:00",
+  "077b2a5223366604": "2026-11-23T11:54:55.262352+00:00",
+  "6bfe06e1db8b53a6": "2026-11-23T11:54:56.507676+00:00"
  },
  "recent": [
   {
@@ -11619,7 +11638,7 @@
    "title": "Naughty Dog Dev: GTA 6 Appears to Him ‘as a Bugatti Veyron Would to a Nervous Victorian Child’",
    "source": "IGN",
    "trust": "high",
-   "status": "queued",
+   "status": "rejected",
    "ts": "2026-11-23T10:41:53.418906+00:00",
    "card_title": "ДЕВЫ В ШОКЕ ОТ GTA 6"
   },
@@ -11918,6 +11937,70 @@
    "status": "skipped",
    "ts": "2026-11-23T11:38:37.990900+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GTA 6 Update 01.002.002—All Changes & Download Size",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-23T11:54:03.672870+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How To Get A Key Cloner In GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-23T11:54:03.710153+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "I Play Rocky is the spiritual antithesis of GTA VI",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T11:54:45.146440+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Где найти подводную станцию в GTA 6",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T11:54:46.324729+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "WoW Forever Breaks Records While PC Players Wait for GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T11:54:50.025297+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "В GTA VI убрали проституток из-за фокуса на сюжете",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T11:54:51.750348+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 sells 44.9M copies, makes $4.0B+",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T11:54:55.262464+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6's Billboard Takes Aim at Anti-Trans Panic",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T11:54:56.507786+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -11949,37 +12032,6 @@
     "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-3.5-flash"
    },
    "queued_at": "2026-11-23T01:06:51.441416+00:00"
-  },
-  {
-   "item": {
-    "title": "Naughty Dog Dev: GTA 6 Appears to Him ‘as a Bugatti Veyron Would to a Nervous Victorian Child’",
-    "link": "https://www.ign.com/articles/naughty-dog-dev-gta-6-appears-to-him-as-as-a-bugatti-veyron-would-to-a-nervous-victorian-child",
-    "summary": "Developers are stunned at how dramatically advanced GTA 6 is.",
-    "published": "2026-11-23T07:58:42+00:00",
-    "source": "IGN",
-    "site_name": "IGN",
-    "trust": "high",
-    "text": "Developers are stunned at how dramatically advanced GTA 6 is.\nJust like the rest of us, developers the world over are playing GTA 6. Just like the rest of us, they’re also finding themselves blown away by just how dramatically advanced and impressive GTA 6 is proving to be. However, as professionals with a far, far firmer idea of how the sausage gets made than regular punters, precisely how impressed some developers are is speaking volumes about just what a technical achievement GTA 6 really does represent.\nNaughty Dog world design director Michael Barclay, presently working on Intergalactic: The Heretic Prophet, minces no words.\n“I’ve made video games for 19 years and GTA VI appears to me as a Bugatti Veyron would to a nervous Victorian child,” writes Barclay via social media.\nBarclay is far from alone, with a host of developers in the replies to Barclay’s comment expressing like sentiments in the days following GTA 6’s release.\nPayday 2 game director David Goldfarb, who previously worked on Mirror’s Edge and a variety of Battlefield games, is similarly stunned.\n“Been making games over 30 years… Can’t even find words for what I’m playing now,” he writes, later noting he’s “never been this floored by anything ever.”\nCharacter artist Del Walker (Suicide Squad: Kill the Justice League, The Last of Us: Part II, Star Wars: Jedi - Survivor) quips he simply can’t explain what he’s seeing despite his background in the business.\n“Every GTA clip gets sent to me in the group chat with. ‘You’re a game dev. How did they do this?” he writes. “Brother, I wasn’t there when they opened the portal? This is not magic I recognize.”\nGTA 6 arrived late last week, smashing records as the biggest entertainment launch of all time, with retail sales reaching $3.79 billion in its first 24 hours. In my review for IGN I called it “the single most impressive video game I have ever played,” something that is making increasingly more sense to me the more other developers I note making comments like the above.\nJust getting started in GTA 6, or wondering what to do next? You can get stuck into the Official Grand Theft Auto 6 guide right here on IGN, consult our Beginner's Guide or Leonida interactive map, or get an idea of all the incredible flourishes to keep an eye out for by checking out our look at 99 incredible details you can find in GTA 6.\nLuke Reilly is an award-winning journalist with 23 years of media experience. He previously served as Editor of Official PlayStation Magazine – ",
-    "extra": {
-     "image": "https://assets-prd.ignimgs.com/2026/11/18/g-blog-6-1795002008156.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "🚗 Разработчик Naughty Dog в ШОКЕ от технологий GTA 6\n\nДевы из топовых студий массово выпадают в осадок с механик шестёрки. Дизайнер Naughty Dog Майкл Баркли вообще заявил, что чувствует себя нервным викторианским ребёнком перед «Бугатти Вейрон». Индустрия в полном тильте и не понимает, какую магию Rockstar применила при создании игры. Топчик!\n\n❤️ — Rockstar реально гении!\n👎 — Да ладно, просто навалили хайпа",
-    "card_title": "ДЕВЫ В ШОКЕ ОТ GTA 6",
-    "reason": "Разработчики из Naughty Dog и других студий в шоке от технологического уровня GTA 6, официально от IGN.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "Naughty Dog Dev: GTA 6 Appears to Him ‘as a Bugatti Veyron Would to a Nervous Victorian Child’",
-    "corroborated_by": "Naughty Dog Dev: GTA 6 Appears to Him ‘as a Bugatti Veyron Would to a Nervous Victorian Child’",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-3.5-flash"
-   },
-   "queued_at": "2026-11-23T10:41:53.418896+00:00",
-   "moderation": "pending",
-   "draft_msg_id": 104
   },
   {
    "item": {
@@ -12037,7 +12089,9 @@
     "guide": false,
     "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-3.5-flash"
    },
-   "queued_at": "2026-11-23T11:37:31.359280+00:00"
+   "queued_at": "2026-11-23T11:37:31.359280+00:00",
+   "moderation": "pending",
+   "draft_msg_id": 106
   },
   {
    "item": {
@@ -12306,9 +12360,10 @@
   "2026-11-23T08:03:27.656863+00:00",
   "2026-11-23T09:26:09.914285+00:00",
   "2026-11-23T10:14:32.380291+00:00",
-  "2026-11-23T10:29:41.906769+00:00"
+  "2026-11-23T10:29:41.906769+00:00",
+  "2026-11-23T11:56:22.914930+00:00"
  ],
- "tg_offset": 387129064,
+ "tg_offset": 387129066,
  "channel": {
   "id": -1003986639147,
   "title": "GTA 6 | Горячие новости",
@@ -12345,7 +12400,8 @@
   "2026-11-23T08:02:17.685960+00:00",
   "2026-11-23T09:03:49.755980+00:00",
   "2026-11-23T10:03:54.460173+00:00",
-  "2026-11-23T11:04:22.094502+00:00"
+  "2026-11-23T11:04:22.094502+00:00",
+  "2026-11-23T12:04:48.730690+00:00"
  ],
  "slots_sent": {
   "2026-11-21:guide:1": "2026-11-21T21:14:52.573728+00:00",
@@ -12447,36 +12503,6 @@
    "file_id": "BAACAgIAAxkDAANlawQGTa91m63mSO2vuBOu-j8-XI0AAieyAAKTDSFIapcO_xP4krI9BA",
    "moderation": "pending",
    "draft_msg_id": 101
-  },
-  {
-   "clip": {
-    "source": "twitch",
-    "url": "https://www.twitch.tv/xqc/clip/KnottyTameRhinocerosHeyGirl-OgpyqkXK-_K-KA15",
-    "title": "xQc got the Bonnie and Clyde Ending in GTA 6",
-    "author": "xQc",
-    "views": 2439,
-    "duration": 60.0,
-    "created": "2026-11-23T06:13:42+00:00",
-    "lang": "en",
-    "description": "",
-    "vod_id": "2937629817",
-    "vod_offset": 36038.0
-   },
-   "caption": "СПОЙЛЕР. Стример словил лютый тильт на финальной катсцене — вот это драма от Rockstar 💀",
-   "interest": 9,
-   "spoiler": true,
-   "nsfw": false,
-   "watched": true,
-   "model": "gemini:gemini-3.5-flash-lite",
-   "media": {
-    "width": null,
-    "height": 720,
-    "duration": 60
-   },
-   "queued_at": "2026-11-23T11:31:45.480346+00:00",
-   "file_id": "BAACAgIAAxkDAANpawQkIvuxuw1iRO6vi9bhtFvwc4wAAu6zAAKTDSFIzQsKeYASPSg9BA",
-   "moderation": "pending",
-   "draft_msg_id": 105
   }
  ],
  "clip_drafts": [
@@ -18546,6 +18572,13 @@
    "title": "В GTA 6 завезли работу мужским стриптизёром с полноценной мини-игрой — это просто лютый р…",
    "importance": 8,
    "kind": "video"
+  },
+  {
+   "ts": "2026-11-23T11:56:22.914977+00:00",
+   "msg_id": 69,
+   "title": "СПОЙЛЕР. Стример словил лютый тильт на финальной катсцене — вот это драма от Rockstar 💀",
+   "importance": 9,
+   "kind": "video"
   }
  ],
  "extras": [],
@@ -18645,6 +18678,66 @@
    },
    "corr": false,
    "since": "2026-11-23T11:38:34.168119+00:00"
+  },
+  {
+   "item": {
+    "title": "First GTA VI Patch Release Time Revealed, Download Size Confirmed",
+    "link": "https://rockstarintel.com/first-gta-vi-patch-release-time-revealed-download-size-confirmed/",
+    "summary": "Rockstar Games have released their first post-launch patch for Grand Theft Auto VI on PlayStation 5 and XBOX Series X|S. However, some players will have to wait before being able to download it. On Monday morning, November 23rd, Rockstar issued a new update for the game to all of those who have the game installed. [...] The post First GTA VI Patch Release Time Revealed, Download Size Confirmed appeared first on RockstarINTEL .",
+    "published": "2026-11-23T11:53:46+00:00",
+    "source": "Rockstar Intel",
+    "site_name": "Rockstar Intel",
+    "trust": "medium",
+    "text": "Rockstar Games have released their first post-launch patch for Grand Theft Auto VI on PlayStation 5 and XBOX Series X|S. However, some players will have to wait before being able to download it.\nOn Monday morning, November 23rd, Rockstar issued a new update for the game to all of those who have the game installed. This is a mandatory update that must be installed before playing the game again.\nThe patch comes in at 1.6GB on XBOX Series X|S and 603.8MB on PS5 (varies a little per region). As for version number, it is now 1.0.2.2 on XBOX and 01.002.002 on PS5 so an incremental build change. GTA VI’s install size on XBOX remains at 211.9GB.\nWhilst every XBOX user has the update right away, Sony and Rockstar are gradually rolling out the patch to PS5 users. Much like with the pre-launch patches, only a selection of the playerbase have received the download. This is to reduce load on PSN servers because of the sheer amount of data being transferred by millions of people.\nAccording to GTA community member @PLTytus, 33% of users have gotten the update. At 1pm GMT, a further 33% will get the update. The remainder of the pre-ordered players will get it at 4pm GMT.\nNo patch notes have been released by Rockstar Games just yet but as and when they do, we’ll be sure to publish them on our site. It remains to be seen if issues such as the PS5 error code CE-108255-1 crash is fixed in this update or other notable problems.\nIn other GTA VI news, Rockstar made the pre-order bonus available to purchase on Sunday; more info here.\nLooking for some Grand Theft Auto VI guides? We show you how you can unlock the exclusive Venturas Blvd Elegy here. Plus, check out the best settings to use when playing the game. Also, there’s a glitch that unlocks the 30FPS cap and here’s how to do it.\nYou can order your PS5 or XBOX copy of Grand Theft Auto VI with this link. Using the link to order the game will help support this website as we’ll earn a small commission. Thank you!\nFor more news on GTA VI, stay tuned to RockstarINTEL and sign up to our newsletter for a weekly round-up of all things Rockstar Games delivered straight to your inbox.",
+    "extra": {
+     "image": "https://rockstarintel.com/wp-content/uploads/2026/11/Grand-Theft-Auto-VI-Pre-Load-Now-00-00-18-copy-1280.webp"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "ПЕРВЫЙ патч уже летит\n\nRockstar выкатили первое обязательное обновление для GTA 6. Весит добротно: на боксе 1.6 ГБ, на плойке чуть меньше. Качайте и вкатывайтесь в катку.",
+    "card_title": "ПЕРВЫЙ ПАТЧ ДЛЯ GTA 6",
+    "reason": "Official first post-launch patch released by Rockstar for GTA 6 with specific sizes.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "GTA 6 PS5 Update 1.002.002 Rolling Out Now",
+    "corroborated_by": "GTA 6 PS5 Update 1.002.002 Rolling Out Now",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-23T11:54:41.021443+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA 6 Update 01.002.002—All Changes & Download Size",
+    "link": "https://insider-gaming.com/gta-6-update-01-002-002-all-changes-download-size/",
+    "summary": "Here's everything you need to know about Update 01.002.002 for Grand Theft Auto 6, including all changes and its download size. The post GTA 6 Update 01.002.002—All Changes & Download Size appeared first on Insider Gaming .",
+    "published": "2026-11-23T11:48:24+00:00",
+    "source": "Insider Gaming",
+    "site_name": "Insider Gaming",
+    "trust": "medium",
+    "text": "It’s been almost a week since Grand Theft Auto 6 officially launched, and it’s fair to say that Rockstar has enjoyed an incredibly successful release. With millions of copies sold and billions of dollars already generated, the game has made a phenomenal start. However, that doesn’t mean Rockstar is finished making improvements, as the studio has now rolled out GTA 6 Update 01.002.002.\nPost-launch updates have become increasingly common, even for single-player experiences, as developers continue to iron out issues and improve the overall experience. GTA 6 is no exception, and you can expect plenty more updates in the months ahead. For now, though, here’s everything you need to know about Update 01.002.002.\nYou can buy Grand Theft Auto 6 here if you haven’t already!\nThe latest Grand Theft Auto 6 update has a different download size depending on which platform you’re playing on.\nIf you’re playing on PlayStation 5, the update comes in at just over half a gigabyte. However, those playing on Xbox Series X|S will have a considerably larger download to deal with. Here are the exact download sizes for GTA 6 Update 01.002.002 on each platform:\nThankfully, neither download is particularly demanding, so you shouldn’t need to start clearing out your console’s storage to make room. The relatively small file sizes should also mean you won’t be waiting around for too long before jumping back into Vice City.\nRelated: All GTA 6 Challenges & How To Do Them\nWhat’s Changed With The GTA 6 Update 01.002.002?\nAs of writing, Rockstar Games hasn’t released any official patch notes detailing the changes introduced with GTA 6 Update 01.002.002.\nUntil the developer provides further information, it’s impossible to say exactly what’s been adjusted. Rockstar may eventually publish a full breakdown of the update, although the studio doesn’t always provide detailed patch notes for smaller releases.\nGiven the relatively modest download sizes and quiet release, it’s reasonable to assume that this update primarily focuses on bug fixes and general stability improvements. Several players have reported issues with GTA 6 crashing, while others have experienced problems with the game’s save system. There’s a possibility that Rockstar has addressed some of these problems, although this remains speculation until official details are provided.\nRelated: GTA 6 Sex & Romance—How To Have Sex In GTA 6\nThere are also a handful of more exploitable glitches that the developer might be looking to stamp out. A",
+    "extra": {
+     "image": "https://insider-gaming.com/wp-content/uploads/2026/11/gta-6-empathy-scaled.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "ПЕРВЫЙ патч 01.002.002\n\nRockstar выкатили первую обнову для консолей. Весит немного, так что катка начнется быстро, а багов станет меньше.",
+    "card_title": "ПАТЧ 01.002.002 УЖЕ В ИГРЕ",
+    "reason": "Официальный выход первого патча 01.002.002 для GTA 6 с багфиксами.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "GTA 6 PS5 Update 1.002.002 Rolling Out Now",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-23T11:54:44.039635+00:00"
   }
  ]
 }
