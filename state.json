@@ -2489,7 +2489,10 @@
   "be9ee1af0b51ac0c": "2026-11-23T04:33:54.302275+00:00",
   "7ab6f518db9c56a3": "2026-11-23T04:33:55.944922+00:00",
   "c0d6f8fe63db45a9": "2026-11-23T04:33:57.444955+00:00",
-  "3ef5405e494dfc14": "2026-11-23T04:33:58.546044+00:00"
+  "3ef5405e494dfc14": "2026-11-23T04:33:58.546044+00:00",
+  "4ba08ef68ed12db9": "2026-11-23T05:04:46.726569+00:00",
+  "16a3073c4eb14314": "2026-11-23T05:04:47.977632+00:00",
+  "9a83778d5a5065a4": "2026-11-23T05:04:49.242802+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -4198,7 +4201,10 @@
   "686d0bccbbe3e971": "2026-11-23T04:33:54.302275+00:00",
   "bcfece809fa75b0e": "2026-11-23T04:33:55.944922+00:00",
   "c2d3f6aa1b462a52": "2026-11-23T04:33:57.444955+00:00",
-  "046d2f6a3b9f9ea1": "2026-11-23T04:33:58.546044+00:00"
+  "046d2f6a3b9f9ea1": "2026-11-23T04:33:58.546044+00:00",
+  "4f923709556203e3": "2026-11-23T05:04:46.726569+00:00",
+  "ab48c300ba7e3a93": "2026-11-23T05:04:47.977632+00:00",
+  "c0b75c9ee43269e5": "2026-11-23T05:04:49.242802+00:00"
  },
  "recent": [
   {
@@ -10696,6 +10702,30 @@
    "status": "skipped",
    "ts": "2026-11-23T04:33:58.546163+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GTA 6 Launch-Day Players Averaged Over 8 Hours, Circana Says",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T05:04:46.726714+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Abby’s Angle: It's not a GTA VI problem, it's a boyfriend problem",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T05:04:47.977767+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Более 2 миллионов игроков \"переехали\" в Новую Зеландию ради раннего запуска GTA 6",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T05:04:49.242937+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -10963,37 +10993,6 @@
     "model": "groq:qwen/qwen3.8-27b → gemini:gemini-3.5-flash"
    },
    "queued_at": "2026-11-22T21:56:35.408863+00:00"
-  },
-  {
-   "item": {
-    "title": "GTA 6’s Worst Feature Needs to Be Patched ASAP",
-    "link": "https://www.polygon.com/gta-6-stash-box-atm-money/",
-    "summary": "Depositing and withdrawing money from your stash box and ATMs is shockingly fiddly and counterintuitive in GTA 6.",
-    "published": "2026-11-22T16:30:17+00:00",
-    "source": "Polygon",
-    "site_name": "Polygon",
-    "trust": "high",
-    "text": "After years of waiting, Grand Theft Auto 6 is finally here. And somehow, miraculously, it's living up to the impossible level of hype surrounding it. Rockstar's game is a staggering technological and artistic achievement in countless ways. The world of Leonida is vast and intricate, and the emergent gameplay enabled by hundreds of unique NPCs is truly astonishing. But there's one thing about GTA 6 I find absolutely infuriating so far, and it's extremely minor: depositing and withdrawing money from Jason's stash box and ATMs is a total pain in the ass.\nIn the early hours of the game, Jason doesn't have a bank account. (He later tells Lucia he doesn't want to be \"in the system.\") So while he's making a living doing odd jobs and waiting for Lucia to be released from prison, he's keeping money under the floorboards in his bedroom. In order to select the amount you want to deposit or withdraw from the stash box, you press left or right on the d-pad. It takes forever for the numbers to tick up or down — until suddenly it doesn't, and you've whizzed far past the figure you wanted to input. The sensitivity of the counter is totally out of whack, going from a trickle to a fire hose instantaneously. I figured I was missing something — surely it should not be this difficult to wrangle the stash box?\nAt first, I generously assumed this was some kind of artistic flourish. Jason isn't counting the cash he places in the stash by hand every time; he's just eyeballing it. Then, about halfway through Chapter 1, you get access to the BuckMe app, essentially a bank account for people with terrible credit like Jason and Lucia. In addition to keeping cash at home, you can now deposit your ill-gotten gains at ATMs throughout Leonida. (Having a BuckMe account also allows you to make more expensive purchases at the gun store.) I assumed my days of wrangling that horrible slider were over. Surely the ATM would feature a numerical keypad, and I could just enter the amount I wanted to deposit or withdraw. After all, a similar interface appears elsewhere in the game, for door codes and lockboxes. Nope! For no discernible reason, ATMs also use the same clunky, left-to-right scrolling interface as the stash box.\nPerhaps the intent here is to encourage you to put all your money in your BuckMe and Family Savings account as soon as the option becomes available. But I enjoy having a few hundred dollars of \"fuck around money​​​​​​​\" for buying snacks or car repairs. Yes, you can use the app ",
-    "extra": {
-     "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/gta6-3.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 6,
-    "post": "💸 В GTA 6 нашли самую ДУШНУЮ фичу с наличкой\n\nВ Polygon словили тильт от того, как неудобно класть и снимать деньги в тайнике Джейсона и банкоматах. Ползунок на крестовине сначала еле ползёт, а потом улетает в космос — хотя на кодовых замках нормальная цифровая клавиатура в игре есть. Вот такая жиза в Леониде, срочно нужен патч.",
-    "card_title": "САМАЯ ДУШНАЯ МЕХАНИКА GTA 6",
-    "reason": "Журналисты Polygon жалуются на неудобный интерфейс банкоматов и тайников в GTA 6.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-4-hydrogen"
-   },
-   "queued_at": "2026-11-22T16:41:24.184196+00:00",
-   "moderation": "pending",
-   "draft_msg_id": 88
   },
   {
    "item": {
