@@ -3153,7 +3153,11 @@
   "8a6faa8aa8b3b379": "2026-11-23T22:20:37.632274+00:00",
   "f4d5c0770232beac": "2026-11-23T22:37:08.530049+00:00",
   "beae7d81ad80be77": "2026-11-23T22:37:08.530118+00:00",
-  "13bff354fa974d07": "2026-11-23T22:37:37.447633+00:00"
+  "13bff354fa974d07": "2026-11-23T22:37:37.447633+00:00",
+  "7678aad25c80b9bc": "2026-11-23T22:54:05.591554+00:00",
+  "fb78c4588589bc3b": "2026-11-23T23:10:14.167885+00:00",
+  "a8634f8248f18545": "2026-11-23T23:10:14.167945+00:00",
+  "88d723e2d37607b1": "2026-11-23T23:10:17.166960+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -5292,7 +5296,11 @@
   "b4f3d02944c01968": "2026-11-23T22:20:12.527567+00:00",
   "582487e3dff7e3fe": "2026-11-23T22:20:37.632274+00:00",
   "805b22b538c0390c": "2026-11-23T22:37:37.447633+00:00",
-  "00f152ff3ccad823": "2026-11-23T22:37:08.530118+00:00"
+  "00f152ff3ccad823": "2026-11-23T22:37:08.530118+00:00",
+  "70ab4e8a21df7fd3": "2026-11-23T22:54:05.591554+00:00",
+  "38c7c16617bd1126": "2026-11-23T23:10:14.167885+00:00",
+  "7cf8aa18ce362174": "2026-11-23T23:10:14.167945+00:00",
+  "871090ea0ad9cbba": "2026-11-23T23:10:17.166960+00:00"
  },
  "recent": [
   {
@@ -13766,6 +13774,62 @@
    "status": "skipped",
    "ts": "2026-11-23T22:37:09.792484+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GTA VI can hit 60 FPS on Xbox Series X thanks to a Quick Resume bug, though with a few catches",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-23T22:54:05.591616+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "The 6 Most Outrageous GTA 6 Myths, Debunked",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-23T23:10:14.167923+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "It’s Hard To Be A Pacifist In GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-23T23:10:14.167973+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Introduces The Series’ First Nonbinary Character, And They Have A Really Cool Name",
+   "source": "Kotaku",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-23T23:10:15.441544+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "From scoffing chips to Snapmatic sh*tposts, GTA 6 is filled with brilliant little details",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-23T23:10:15.441633+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Family-Friendly Fortnite Streamer Goes Viral After Picking Up GTA 6 And Performing the Ultimate Heelturn, Including a Bloody Zoo Rampage",
+   "source": "IGN",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-23T23:10:15.441717+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to Get The Fastest Car in GTA 6 For Free—Truffade Andrew Node’s Thrax Car Location",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-23T23:12:14.974967+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -14155,35 +14219,6 @@
     "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
    },
    "queued_at": "2026-11-23T17:48:26.944659+00:00"
-  },
-  {
-   "item": {
-    "title": "GTA 6's Leads and Phil Collins Are All Repping Their Characters on Instagram",
-    "link": "https://www.gtaboom.com/gta-6s-leads-and-phil-collins-are-all-repping-their-characters-on-instagram-b8ea",
-    "summary": "GTA 6’s leads put Jason and Lucia on their Instagram profiles, while Phil Collins picked his likeness from 2006’s Vice City Stories.",
-    "published": "2026-11-23T10:51:35+00:00",
-    "source": "GTA BOOM",
-    "site_name": "GTA BOOM",
-    "trust": "medium",
-    "text": "A profile picture generally doesn't mean anything, but three of them in the same week is interesting, to say the least. bigger story. The two actors behind Grand Theft Auto VI's Jason and Lucia just swapped their Instagram faces for their in-game characters. So did Phil Collins, who has not been in a Grand Theft Auto game for 20 years. After the years of silence Rockstar Games wrapped around this cast, watching the talent proudly wear these roles, especially Phil Collins, is something.\nDylan Rourke and Manni L. Perez said nothing for years while fans tried to unmask them, then stepped out together on launch day with a joint post that signed off \"See y'all in Leonida.\"\nChanging their profile pictures to Jason and Lucia was the exclamation point, a public claim on roles they could not even admit to a week earlier.\nThen came the fun one. Phil Collins set his official Instagram picture to his own likeness from Grand Theft Auto: Vice City Stories, the 2006 game where he played himself across the \"Kill Phil\" missions and an in-game concert set to \"In the Air Tonight.\" He was the first real celebrity to appear as himself in a Grand Theft Auto game. Two decades later he is still claiming the role and proud of it!\nThe timing is a happy accident, since Grand Theft Auto: Vice City Stories just got a native PC port that makes his old performance playable again without an emulator.\nThis is 20 years of GTA in one screenshot. Two brand-new leads from the biggest launch in history, next to a music legend from a spin-off title on the PlayStation Portable most people have not touched since 2006. We are not going to pretend this was a coordinated campaign, three people changed a picture on their own. What it shows is that being part of a GTA game is now something people want their face attached to, whether they joined last week or during the Bush administration.\nThe contrast with how we got here is sharp. Rockstar spent years treating the identities of its leads like state secrets. Now these actors are grinning out of their profile pictures while a guest star from 2006 joins the party. The vault opened and nobody inside seems to miss the secrecy.\nWe have followed this cast from the fan hunt to the eight Game Awards nominations it earned, through the optional relationship that ties Jason and Lucia together on screen. The profile-picture moment is a quieter footnote to all of it, the human beings behind the pixels taking a visible bow.\nA changed profile picture is nothing on i",
-    "extra": {
-     "image": "https://media.gtaboom.com/variants/1920/media/images/62/ab/gta-6s-leads-and-phil-collins-are-all-repping-their-characters-on-instagram.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "📸 Актеры GTA 6 СМЕНИЛИ аватарки на своих героев\n\nДилан Рурк и Манни Перес официально флексят ролями Джейсона и Лусии в инсте. А легенда Phil Collins поднял олдовый вайб и поставил на аву своего персонажа из Vice City Stories. Легендарный сходняк!",
-    "card_title": "АКТЕРЫ ГТА В АВАТАРКАХ",
-    "reason": "Atris and Phil Collins changed their Instagram avatars to GTA 6 and Vice City characters after the game's launch, which is a cool fun fact confirmed by media.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-3.5-flash"
-   },
-   "queued_at": "2026-11-23T10:59:27.177298+00:00"
   },
   {
    "item": {
@@ -20953,66 +20988,6 @@
  "rewrite_wait": [
   {
    "item": {
-    "title": "GTA 6 Introduces The Series’ First Nonbinary Character, And They Have A Really Cool Name",
-    "link": "https://kotaku.com/gta-6-introduces-the-series-first-nonbinary-character-and-they-have-a-really-cool-name-2000758914",
-    "summary": "Rockstar is also making an effort to 'mitigate anti-trans violence'",
-    "published": "2026-11-23T19:00:06+00:00",
-    "source": "Kotaku",
-    "site_name": "Kotaku",
-    "trust": "high",
-    "text": "Grand Theft Auto 6 is full of a lot of big milestones for the series, including (most obviously) its first playable female protagonist. GTA 6 also parts with the franchise’s long history of including sex workers you can visit (and abuse), and might mark the first time a GTA game has ever been called “woke slop” after it let players buy flowers for a woman in its first…deconstruction of toxic masculinity.\nOne detail that most players haven’t spotted, however, marks yet another significant milestone for the series: its first ever nonbinary character.\nIn an Instagram post on Thursday, actress and writer Jesse James Rose shared that she played Cygnus, a museum curator who doubles as Grand Theft Auto’s first ever nonbinary character. Rose, who is trans, also shared quite a few neat facts about her time on set.\n“GTA was one of the most inclusive & caring sets I’ve ever been on,” she wrote. “I shot this back in my they/them days, and everyone on production ensured I was comfortable and gendered correctly.” Rose also mentioned that other trans folks were featured in GTA 6, both in other acting roles and as designers and writers.\nIt seems like there’s always been a very awful subset of players who just view Rockstar’s games as sandboxes that let them commit targeted hate crimes (like when people spent way too much energy trying to bypass YouTube’s standards to upload clips of themselves beating up suffragettes in Red Dead Redemption 2). Thankfully, players aren’t able to hurt Cygnus, which Rose said was a decision made by Rockstar “to mitigate anti-trans violence.”\nRose also shared some insight into how (predictably) strict the game’s NDAs were, with her having to sign 17 of them. What’s especially baffling is that she wasn’t allowed to know what she was shooting, and didn’t receive confirmation that it was actually GTA 6 until after the game’s release!\nI’m pretty early in my playthrough of GTA 6, and I haven’t come across Cygnus yet. Apparently, a lot of folks haven’t. Some of my colleagues at Kotaku and beyond have put a comical amount of hours into the game without ever meeting the elusive Cygnus or even locating the museum. I’m looking forward to tracking them down, though—I just know someone with a name as cool as Cygnus curates a meaaaannnn exhibit.\nDon’t miss the latest reviews, news and tips. Sign up for our free newsletter.\nCultureNews GTA 6 Contains A Very Hidden Secret That Teleports You Back In Time To Vice City On The PS2 You are going to need some tim",
-    "extra": {
-     "image": "https://kotaku.com/app/uploads/2026/08/GTa-6-10802-1280x720.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "В GTA 6 нашли НЕБИНАРНОГО персонажа\n\nВ игре появился первый небинарный персонаж — куратор музея по имени Сигнус, сыгранный актрисой Джесси Джеймс Роуз. Прикиньте, ее защитили от урона, чтобы челы не устраивали дичь на моменте анти-транс насилия.\n\n❤️ — Имба\n👎 — Душно",
-    "card_title": "ПЕРВЫЙ НЕБИНАРНЫЙ ПЕРСОНАЖ",
-    "reason": "Первый небинарный персонаж в серии, интересная деталь от актрисы",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "GTA 6 Introduces The Series' First Ever Nonbinary Character",
-    "corroborated_by": "GTA 6 Introduces The Series' First Ever Nonbinary Character",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-23T19:20:04.011089+00:00"
-  },
-  {
-   "item": {
-    "title": "From scoffing chips to Snapmatic sh*tposts, GTA 6 is filled with brilliant little details",
-    "link": "https://www.gamesradar.com/games/grand-theft-auto/from-scoffing-chips-to-snapmatic-sh-tposts-gta-6-is-filled-with-brilliant-little-details-here-are-our-favorites/",
-    "summary": "Keep your eyes peeled, and Leonida is a thriving open-world",
-    "published": "2026-11-23T19:00:00+00:00",
-    "source": "GamesRadar+",
-    "site_name": "GamesRadar+",
-    "trust": "high",
-    "text": "GTA 6 might only have been with us for a few days, but it's clear from the jump that the level of detail in Rockstar's open world is astonishing. So I asked the GamesRadar+ team to document their favorite little features that might escape your attention if you're not looking very closely. From turn-signals to hyper-efficient snacking techniques, and social media to road condition, here's what impressed us the most in our opening few days.\nBarely three hours in, GTA 6's reputation system was something I was still getting my head around, but it was already impressing me. In an early mission where I went to collect rent money for Brian, the store owner got mad at me and pulled a baseball bat. Before he could rush me, I pulled out Jason's pistol and he balked at just the sight of the gun, dropping the bat and agreeing to hand over the payment. I love that the game logged that as an illegal activity, but still one that showed restraint, heightening Jason's reputation as a cool, collected, professional criminal. It's a nuance that few RPGs capture so effectively, and I'm looking forward to how it works over the rest of the game.\nThey say art imitates life, and that's never been truer than seeing Jason Duval take every opportunity to stuff his face and become a munch goblin in GTA 6. Like when I do it, it's to obtain buffs to my health, stamina, and focus, of course. Choking out police security, I take time to pour myself a mug of java, sipping it as I slink behind cover. After a stressful interaction with a neighbour, I double fist her endless fruit bowl as I crunch apples and leave the cores around her kitchenette. The detail is tremendous – with one hand carrying a crate of beer, Jason will open potato chips one-handed with his mouth before pouring a few bites at a time into his beard-framed mouth. That's my move. I couldn't be prouder.\nJasmine Gould-Wilson, Senior Staff Writer\nI have a very particular problem with GTA 6's hyper-realistic car damage mechanics. Specifically, they are so realistic that it makes me panic to even be in my car. The slightest ding against a post box results in an ugly dent in the side of my freshly-painted truck, and don't get me started on how bit of bumper-to-bumper action with another car while squeezing my way onto the highway means an unsightly horizontal scrape all down my… whatever part of the car my door is on. I'm not a cars person, okay? I suck at driving in video games and don't even have my license in the real world (par",
-    "extra": {
-     "image": "https://cdn.mos.cms.futurecdn.net/Mm57B9qZwMpfTYbRGubRVG-1920-80.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "МЕГА-ДЕТАЛИ в GTA 6\n\nИгроки находят безумные мелочи в открытом мире: Джейсон может открывать чипсы одной рукой прямо ртом и жрать яблоки во время перестрелок.\n\n❤️ — Жизненная база\n👎 — Душно",
-    "card_title": "МЕГА-ДЕТАЛИ В GTA 6",
-    "reason": "Детализированные механики из вышедшей игры, забавные анимации и система репутации.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-23T19:20:06.091766+00:00"
-  },
-  {
-   "item": {
     "title": "The Last of Us 2 dev says \"GTA 6 is the great pyramids of game development\"",
     "link": "https://www.gamesradar.com/games/grand-theft-auto/the-last-of-us-2-dev-says-gta-6-is-the-great-pyramids-of-game-development-in-that-people-will-be-asking-for-centuries-how-it-was-possible/",
     "summary": "\"The sheer size of the script must be mind boggling\"",
@@ -21100,36 +21075,6 @@
    },
    "corr": false,
    "since": "2026-11-23T20:13:26.418755+00:00"
-  },
-  {
-   "item": {
-    "title": "Family-Friendly Fortnite Streamer Goes Viral After Picking Up GTA 6 And Performing the Ultimate Heelturn, Including a Bloody Zoo Rampage",
-    "link": "https://www.ign.com/articles/family-friendly-fortnite-streamer-viral-gta-6-zoo-rampage",
-    "summary": "Nice-guy Fortnite streamer Nick Eh 30 has gone viral after trying GTA 6 — and immediately pushing the violence in Rockstar's game to its limit.",
-    "published": "2026-11-23T18:57:06+00:00",
-    "source": "IGN",
-    "site_name": "IGN",
-    "trust": "high",
-    "text": "Nice-guy Fortnite streamer Nick Eh 30 has gone viral after trying GTA 6 — and immediately pushing the violence in Rockstar's game to its limit.\nFor almost a decade, cheery Canadian streamer Nicholas \"Nick Eh 30\" Amyoony has amassed a community of millions around his family-friendly Fortnite streams. His personal brand is based on pushing positivity, he's known for never swearing on camera, and he's become one of the few Twitch stars partnered with Epic Games to get a skin of himself made available in-game.\nSo it has, understandably, come as something of a surprise to see wholesome Nick Eh 30 embracing the most dastardly deeds GTA 6 has on offer: kicking pet dogs to death in the street, shooting animals in the zoo, and walking down the length of a train executing every passenger at point blank range.\nAs someone who has followed Nick Eh 30 for a while, seeing him wandering around GTA 6's world eliminating swathes of its animal population while chuckling to himself is indeed odd to see. Social media is awash with similar reactions, with posts from his followers stating things like: \"IN WHAT UNIVERSE DO YOU NEED TO BE DOING THIS\" and \"Years of building ramps in Fortnite could not prepare chat for this.\"\nBut this is all clearly intentional, down to his streams being labelled as humorously promising \"family friendly GTA\" gameplay (I'm not sure there's any such thing). And the fact this has led people to actually discuss his streams and share clips further has only proven why he's likely doing this.\nNickEh30 takes a taser to the Zoo in GTA VI https://t.co/4SAVgUCjYm— yoxic (@yoxics) November 22, 2026\nAll of that said, it's still a surprise to see Nick squarely aiming for the game's brutal \"Irredeemable\" criminal profile rating — a label that Rockstar has actually made quite difficult to achieve unless you really, really want to play the game as bloodily as possible.\nIt's this, seemingly, which has led to clips of Nick playing fetch with dogs using lumps of C4, and throwing random NPCs from buildings.\nJust getting started in GTA 6 or wondering what to do next? Check out the Official Grand Theft Auto 6 guide right here on IGN. If you're still getting your bearings, discover GTA's new systems with the Beginner's Guide - 67 Tips and Tricks, or get all the details on the first chapters with the Chapter 1 Guide and Tips, Chapter 2 Guide and Tips, and Chapter 3 Guide and Tips. If you're already driving all around Leonida and want to know everything there is to find and ",
-    "extra": {
-     "image": "https://assets-prd.ignimgs.com/2026/11/23/screenshot-2026-11-23-185649-1795460219133.png"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "🐶 НИК ЭХ 30 УБРАЛ ВООРУЖЁННЫЙ ТИЛЬТ\n\nСамый милый стример Fortnite внезапно зашёл в GTA 6 и устроил резню в зоопарке. Голосит про «семейный контент», а сам пинает собак и стреляет в толпу. Чат в шоке, мем на год вперёд. Рофл, конечно, но и хаос в игре виден сочно.",
-    "card_title": "НИК ЭХ 30 В ГТА 6",
-    "reason": "Вирусный мем про контраст между «милым» стримером и жестокостью GTA 6, высокий интерес аудитории.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "groq:qwen/qwen3.8-27b"
-   },
-   "corr": false,
-   "since": "2026-11-23T20:13:34.521550+00:00"
   },
   {
    "item": {
