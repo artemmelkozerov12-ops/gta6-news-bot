@@ -2876,7 +2876,17 @@
   "896768ca894e57b7": "2026-11-23T15:34:52.695981+00:00",
   "88b396f5dfdfc857": "2026-11-23T15:35:14.676543+00:00",
   "020053a9a1610e77": "2026-11-23T15:35:25.737400+00:00",
-  "10062a1928712574": "2026-11-23T15:35:49.468513+00:00"
+  "10062a1928712574": "2026-11-23T15:35:49.468513+00:00",
+  "e21d3424db938572": "2026-11-23T15:51:57.474433+00:00",
+  "783ff2e9cd751e09": "2026-11-23T15:52:00.020128+00:00",
+  "0e9b52a784cc898d": "2026-11-23T15:52:02.445342+00:00",
+  "0bb6ff2e1297a806": "2026-11-23T15:52:04.009956+00:00",
+  "b10328733adc48b3": "2026-11-23T15:52:50.417558+00:00",
+  "876f00e0e983e869": "2026-11-23T16:08:46.691375+00:00",
+  "8939f0521389e006": "2026-11-23T16:08:46.691454+00:00",
+  "811671e016cc47c7": "2026-11-23T16:08:46.691551+00:00",
+  "7ed5fa9a3304b2b2": "2026-11-23T16:08:46.691635+00:00",
+  "4e09286245b6dbab": "2026-11-23T16:08:46.759549+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -4875,7 +4885,17 @@
   "9b6e840adb48409c": "2026-11-23T15:34:52.695981+00:00",
   "35f515c76caa6efc": "2026-11-23T15:35:14.676543+00:00",
   "0601f92c36c29091": "2026-11-23T15:35:25.737400+00:00",
-  "583c3a5aba2182bb": "2026-11-23T15:35:49.468513+00:00"
+  "583c3a5aba2182bb": "2026-11-23T15:35:49.468513+00:00",
+  "5f5d892826da3829": "2026-11-23T15:51:57.474433+00:00",
+  "565b19fcb031de92": "2026-11-23T15:52:00.020128+00:00",
+  "f8f5578cc23ce190": "2026-11-23T15:52:02.445342+00:00",
+  "bc95dff324aabca1": "2026-11-23T15:52:04.009956+00:00",
+  "64fc95f2f8eb39ac": "2026-11-23T15:52:50.417558+00:00",
+  "a8c2173beca11692": "2026-11-23T16:08:46.691375+00:00",
+  "605932b8dfbe1e5d": "2026-11-23T16:08:46.691454+00:00",
+  "81ec01785db3be4e": "2026-11-23T16:08:46.691551+00:00",
+  "8e36808bdbef0e6c": "2026-11-23T16:08:46.691635+00:00",
+  "fcb6117156dff7a5": "2026-11-23T16:08:46.759549+00:00"
  },
  "recent": [
   {
@@ -12949,6 +12969,78 @@
    "status": "skipped",
    "ts": "2026-11-23T15:35:49.468649+00:00",
    "card_title": ""
+  },
+  {
+   "title": "A ‘GTA 6’ Player Finds Tommy Vercetti’s Shirt, Portal To Original Vice City",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-23T15:51:57.474499+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Дожди в Леониде, звонки по сюжету и баг с розыском: что изменил первый патч GTA 6 после релиза",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T15:52:02.445480+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Хейтеры GTA 6 уже не знают, куда лицо спрятать: игра продалась тиражом в 45 миллионов копий за выходные",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T15:52:04.010102+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "До появления GTA 6 на ПК осталось... Cyberleek слила exe-файл в Сеть",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T15:52:50.417701+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "An Absurd Little Immersion-Breaking Hiccup That Reminded Me GTA 6 Isn’t Perfect",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-23T16:08:46.691421+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6's First Big Patch Finally Fixes A Major Fan Complaint",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-23T16:08:46.691503+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Power Trip's \"Mutual Death Warrant\" From GTA 6 Now Streaming Everywhere",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-23T16:08:46.691591+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Atlantic, Rockstar Drop Deluxe \"GTA VI\" LP With 23 More Tracks",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-23T16:08:46.691670+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6’s Preorder DLC Is Now Available By Itself For $5",
+   "source": "GameSpot",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-23T16:08:46.759582+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -12979,7 +13071,9 @@
     "guide": false,
     "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
    },
-   "queued_at": "2026-11-23T14:36:21.716509+00:00"
+   "queued_at": "2026-11-23T14:36:21.716509+00:00",
+   "moderation": "pending",
+   "draft_msg_id": 111
   },
   {
    "item": {
@@ -13467,7 +13561,8 @@
   "2026-11-23T12:04:48.730690+00:00",
   "2026-11-23T13:06:25.145699+00:00",
   "2026-11-23T14:06:31.773180+00:00",
-  "2026-11-23T15:06:34.422085+00:00"
+  "2026-11-23T15:06:34.422085+00:00",
+  "2026-11-23T16:07:11.944353+00:00"
  ],
  "slots_sent": {
   "2026-11-21:guide:1": "2026-11-21T21:14:52.573728+00:00",
@@ -19433,6 +19528,36 @@
    },
    "corr": false,
    "since": "2026-11-23T15:33:45.336544+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA 6 hacker who leaked footage in 2022 has been released on licence and told not to do it again",
+    "link": "https://www.videogameschronicle.com/news/gta-6-hacker-who-leaked-footage-in-2022-has-been-released-on-licence-and-told-not-to-do-it-again/",
+    "summary": "Arion Kurtaj was deemed to fit to stand trial earlier this year",
+    "published": "2026-11-23T15:43:51+00:00",
+    "source": "VGC",
+    "site_name": "VGC",
+    "trust": "high",
+    "text": "The UK teenager who hacked Rockstar and leaked footage of Grand Theft Auto 6 has been released on licence and warned not to do anything like it again.\nIn 2022, Arion Kurtaj, who suffers from acute autism, was convicted of being a member of the international hacking group Lapsus$, which also carried out attacks on tech companies including Uber, Nvidia and EE.\nIn late 2023, a judge determined that Kurtaj – who was 18 at the time – remained fixated with hacking and posed “a high risk of serious harm to the public through skill in gaining unfettered access to computers”.\nIt was decided that Kurtaj would stay at a secure hospital facility until such time that a mental health tribunal decided he no longer posed a danger to others.\nEarlier this year, however, it was decided that he was now fit to stand trial, and was released to a normal prison in January.\nThe trial took place last week, where Kurtaj pleaded guilty. Now, as reported by the BBC, he has been given a Serious Crime Prevention Order, which restricts his online activity for the next five years, including a ban on using Telegram and Discord.\nAccording to the report, the judge told Kurtaj that he was “a very talented young man”, and told him: “Don’t let this happen again.”\nIn September 2022, Kurtaj and other hackers published an hour of GTA 6 development footage online, giving players their first look at the sequel to one of the best-selling games of all-time.\nThis footage included the first look at Lucia, confirming for the first time that the game would feature a female protagonist.\nAt the time, Rockstar said it was “extremely disappointed” to have details on the game shared in this way, and proceeded to release the game’s first trailer later that year, officially confirming the female lead.",
+    "extra": {
+     "image": "https://www.videogameschronicle.com/files/2026/11/gta-grand-theft-auto-6-pic16.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "ХАКЕР GTA 6 на свободе\n\nЧел, сливший ранний геймплей игры в 2022 году, откинулся из больницы и получил бан на Telegram и Discord сроком на пять лет. Больше так не будет.\n\n❤️ — Земля пухом его компукту\n👎 — Ждем новый слив",
+    "card_title": "ХАКЕР GTA 6 НА СВОБОДЕ",
+    "reason": "Главный хакер, сливший билд GTA 6 в 2022 году, вышел на свободу и получил запрет на интернет.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-23T15:52:00.669168+00:00"
   }
  ]
 }
