@@ -2855,7 +2855,28 @@
   "8e84d1097b4b3866": "2026-11-23T14:57:51.973003+00:00",
   "f02ec8ab76a18da1": "2026-11-23T14:58:12.773402+00:00",
   "48ab6eccd2e14a62": "2026-11-23T14:58:34.812729+00:00",
-  "18f4cade06888750": "2026-11-23T14:58:56.693462+00:00"
+  "18f4cade06888750": "2026-11-23T14:58:56.693462+00:00",
+  "df2162efa8f8454c": "2026-11-23T15:14:27.815935+00:00",
+  "7418bb4834a5e3b2": "2026-11-23T15:14:27.816025+00:00",
+  "20fa120371a46641": "2026-11-23T15:14:27.816111+00:00",
+  "21a5a73978a84a7c": "2026-11-23T15:14:45.294248+00:00",
+  "b1a41205c8119cac": "2026-11-23T15:14:46.416049+00:00",
+  "5cc674ff1fffef8b": "2026-11-23T15:15:30.607306+00:00",
+  "b9c6fe161b007e33": "2026-11-23T15:15:43.289932+00:00",
+  "518c531cb942dc6e": "2026-11-23T15:16:07.473261+00:00",
+  "bcfd2befccfe533c": "2026-11-23T15:16:38.767516+00:00",
+  "9f4abdc4af68fff1": "2026-11-23T15:17:00.637052+00:00",
+  "5e2be28e7af82706": "2026-11-23T15:17:22.635190+00:00",
+  "cf18fecf0a5e6a7d": "2026-11-23T15:33:29.076094+00:00",
+  "babbfbba0c5f9ca7": "2026-11-23T15:33:29.192731+00:00",
+  "04b7a93f4fde1ca2": "2026-11-23T15:33:44.262044+00:00",
+  "9f5a17bd4e8fe24e": "2026-11-23T15:33:58.553602+00:00",
+  "868d5bfc74fd1367": "2026-11-23T15:33:59.939365+00:00",
+  "f00ecb259ea92ace": "2026-11-23T15:34:21.236939+00:00",
+  "896768ca894e57b7": "2026-11-23T15:34:52.695981+00:00",
+  "88b396f5dfdfc857": "2026-11-23T15:35:14.676543+00:00",
+  "020053a9a1610e77": "2026-11-23T15:35:25.737400+00:00",
+  "10062a1928712574": "2026-11-23T15:35:49.468513+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -4836,7 +4857,25 @@
   "e4594bff1b097c48": "2026-11-23T14:57:51.973003+00:00",
   "87339551a76417e0": "2026-11-23T14:58:12.773402+00:00",
   "65507b525c54a067": "2026-11-23T14:58:34.812729+00:00",
-  "d810dc0de757d436": "2026-11-23T14:58:56.693462+00:00"
+  "d810dc0de757d436": "2026-11-23T14:58:56.693462+00:00",
+  "4a4d5a0928f7856e": "2026-11-23T15:14:27.815935+00:00",
+  "d1a51ba7fc3ff6ad": "2026-11-23T15:15:43.289932+00:00",
+  "10ff40c256133568": "2026-11-23T15:16:07.473261+00:00",
+  "307e61fd132bb89c": "2026-11-23T15:14:45.294248+00:00",
+  "d38c41d1e408175a": "2026-11-23T15:14:46.416049+00:00",
+  "b3540526646ff51d": "2026-11-23T15:15:30.607306+00:00",
+  "5fdf641f10570c6b": "2026-11-23T15:16:38.767516+00:00",
+  "c5fc917f9c6c8ebe": "2026-11-23T15:17:00.637052+00:00",
+  "257b76bb1e52331d": "2026-11-23T15:17:22.635190+00:00",
+  "ab94065eb5b1c1af": "2026-11-23T15:34:21.236939+00:00",
+  "ae1bede258d6589e": "2026-11-23T15:33:29.192731+00:00",
+  "2b010fceb697554c": "2026-11-23T15:33:44.262044+00:00",
+  "98015aa15d52535f": "2026-11-23T15:33:58.553602+00:00",
+  "77ceca79f1a1a524": "2026-11-23T15:33:59.939365+00:00",
+  "9b6e840adb48409c": "2026-11-23T15:34:52.695981+00:00",
+  "35f515c76caa6efc": "2026-11-23T15:35:14.676543+00:00",
+  "0601f92c36c29091": "2026-11-23T15:35:25.737400+00:00",
+  "583c3a5aba2182bb": "2026-11-23T15:35:49.468513+00:00"
  },
  "recent": [
   {
@@ -12766,6 +12805,150 @@
    "status": "skipped",
    "ts": "2026-11-23T14:58:56.693580+00:00",
    "card_title": ""
+  },
+  {
+   "title": "How To Get The ‘Best’ Ending In ‘GTA 6’",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-23T15:14:27.815976+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "New Hunger Games Movie Blows Past Expectations After Some Feared GTA 6 Could Limit Its Reach",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-23T15:14:27.816068+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Update Now Live On Xbox Series X|S, Includes Seven Official Fixes",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-23T15:14:27.816147+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Теперь дело за умельцами: хакеры слили exe-файл Xbox-версии Grand Theft Auto VI",
+   "source": "iXBT.games",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-23T15:14:45.294370+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Should you choose the cut or pure drugs in GTA 6?",
+   "source": "PC Gamer",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-23T15:15:30.607411+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "New Hunger Games Movie Blows Past Expectations After Some Feared GTA 6 Could Limit Its Reach",
+   "source": "GameSpot",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-23T15:15:43.290036+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Для GTA 6 вышел первый патч — со сменой погоды и устранением багов",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T15:16:38.767636+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 получила обновление, исправляющее проблемы с вылетами и автосохранениями",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T15:17:00.637179+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Update Fixes Phone Call Bugs That Blocked Story Progress",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T15:17:22.635298+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "The Secret Controls GTA 6 Doesn't Tell You About — How To Flip Your Car, Flip the Bird, and Much More",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-23T15:33:29.076160+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI Update 01.002.002 Patch Notes Released",
+   "source": "Rockstar Intel",
+   "trust": "medium",
+   "status": "dup",
+   "ts": "2026-11-23T15:33:29.192778+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 just got a patch that fixed a progression bug on PS5 and Xbox Series X/S",
+   "source": "Eurogamer",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-23T15:33:58.881062+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 update gives players losing progress to crashes a lifeline",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-23T15:34:00.222242+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "The Secret Controls GTA 6 Doesn't Tell You About — How To Flip Your Car, Flip the Bird, and Much More",
+   "source": "IGN",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-23T15:34:31.639133+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 players urged to avoid major glitch which softlocks your save",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T15:34:52.696120+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "You Don't Need a PS5 Pro. GTA 6 Still Stuns on the Xbox Series S",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T15:35:14.676684+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Sees First Post-Launch Patch - but Don't Expect Big Changes",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T15:35:25.737528+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Фанаты GTA 6 начали ревью-бомбить SoulCalibur из-за рейтинга на Metacritic",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T15:35:49.468649+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -12917,35 +13100,6 @@
    "queued_at": "2026-11-23T12:48:28.674127+00:00",
    "moderation": "pending",
    "draft_msg_id": 108
-  },
-  {
-   "item": {
-    "title": "Авторов GTA VI обвинили в плагиате",
-    "link": "https://ixbt.games/news/2026/11/23/avtorov-gta-vi-obvinili-v-plagiate.html",
-    "summary": "К оригинальности части контента есть вопросы.",
-    "published": "2026-11-23T02:53:00+00:00",
-    "source": "iXBT.games",
-    "site_name": "iXBT.games",
-    "trust": "medium",
-    "text": "К оригинальности части контента есть вопросы.\nИгроки постепенно изучают контент Grand Theft Auto VI и к некоторым элементам возникли претензии. Некоторые пользователи считают, что Rockstar Games скопировала иллюстрацию художницы GabyT с фурри, чтобы создать раскраску для кастомного пистолета-пулемёта. Эту модель оружия игроки могут получить после встречи с персонажем-фурри в костюме лисы.\nВскоре после выхода пользователь под ником Glacius опубликовал в социальной сети пост со сравнением моделей, которые, по его словам, были извлечены датамайнерами из файлов Grand Theft ASuto VI.\nИзображение художницы GabyT было опубликовано в конце 2021 года, т.е. за пять лет до выхода Grand Theft Auto VI. Судя по посту, этот арт был сделан на заказ для Markwrc.\nSockz the Puppet решил наложить полученные изображения из GTA VI с оригинальным артом и показал, что работа GabyT действительно очень похожа: «Это что такое :/ Я надеюсь, что Rockstar заплатила за это?».\nbro what is this :/ I hope rockstar paid for this?\nUPDATE: IT WAS TRACED???? x.com/Gabitigress18/…\nМнения пользователей разделились: некоторые считают, что это словно «обвели» по контуру, а другие описывают увиденное как «незначительное сходство». Пока не ясно, сотрудничала ли Rockstar Games с GabyT.\nНе пропускайте наши новостиДобавьте сайт в предпочитаемые источники, чтобы видеть нас чащеДобавить в Google",
-    "extra": {
-     "image": "https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1745169/media-14c91f54f67a2b97197e68ffbf5e31d0d22615292cb404d6900682d7d360c3d3.png"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "🦊 Авторов GTA 6 обвинили в ПЛАГИАТЕ фурри-арта\n\nИгроки сравнили скин кастомного ПП из игры со старым артом художницы GabyT 2021 года — эту пушку выдают после встречи с фурри-лисом. Одни орут, что Rockstar просто обвели рисунок по контуру, другие считают сходство мелочью, а сотрудничали ли с автором — пока загадка.\n\n❤️ — рил обвели, кринж\n👎 — просто совпадение",
-    "card_title": "ROCKSTAR ОБВИНИЛИ В ПЛАГИАТЕ",
-    "reason": "Обвинение Rockstar в плагиате арта для внутриигрового оружия — громкий скандал с участием реальных художников.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-4-hydrogen"
-   },
-   "queued_at": "2026-11-23T03:11:41.570748+00:00"
   },
   {
    "item": {
@@ -19189,6 +19343,96 @@
    },
    "corr": true,
    "since": "2026-11-23T14:37:41.964841+00:00"
+  },
+  {
+   "item": {
+    "title": "Has Rockstar taken the \"Grand Theft Auto\" out of GTA 6? Or has it just gamified car-jacking properly for the first time?",
+    "link": "https://www.eurogamer.net/gta-6-car-theft-gamified",
+    "summary": "It's impossible to have a big game launch these days without some section of the internet, somewhere, finding grievances with the final product because it does not align with the expectations they had pre-release. Read more",
+    "published": "2026-11-23T14:58:20+00:00",
+    "source": "Eurogamer",
+    "site_name": "Eurogamer",
+    "trust": "high",
+    "text": "It's impossible to have a big game launch these days without some section of the internet, somewhere, finding grievances with the final product because it does not align with the expectations they had pre-release.\nThe most recent upset comes in the form of Grand Theft Auto 6's revised take on, well, grand theft auto. In case you're one of the few still unfamiliar, grand theft auto is more than the titular moniker for Rockstar's premier crime simulation series; it's actually a US legal term for the act of stealing or attempting to steal a motor vehicle. In most previous GTA entries, this was a central part of the core gameplay loop: accept a mission, nick a car, complete the mission, nick another car, getaway. It's an endemic part of the loop, and has become so popular and identifiable as such that even other games - Watch Dogs, Saint's Row, Cyberpunk 2077, and so on - have emulated the mechanic.\nSo it makes sense that the internet is in a bit of a spin about GTA 6's more mature and restrained take on its eponymous crime. A quick, no-frills getaway in a vehicle you've hijacked on the road isn't always the most effective option. A mindless crime spree on the streets of Leonida is not a simple thing to pull off, nor an easy thing to live down. In this game, actions have consequences, and an ill-timed or ill-judged car jacking can quickly and efficiently put an end to your criminal ambitions.\nThat's not to say you cannot simply steal cars. Of course you can: the option to saunter up to an occupied vehicle and jack it from its registered owner is available to you from the very beginning of the game. But the citizens of Leonida aren't going to take your wanton act of foolishness lying down; many of the motorists in the county will fight back, pull a piece on you, or run you over mid-robbery attempt. Even if you are lucky to find one of the more pliant residents of the city, you might find something peculiar is happening in their car. I jacked a woman in the city over the weekend, and the cat she was ferrying from place to place decided to attack me, causing me to crash. I've heard other people say they've had muffled cries coming from the boot of the car where someone is transporting a hostage, or incidents where they've jacked the same person multiple times, leading to the poor car's owner to have a breakdown in the middle of the city.\nThat cat event, the team here at Eurogamer has worked out, is an early game trigger - it seems stealing random cars early in th",
+    "extra": {
+     "image": "https://assetsio.gnwcdn.com/car-gta-6.jpg?width=690&quality=85&format=jpg&auto=webp"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "🚗 Новый подход к угонам авто\n\nГТА 6 реально изменила правила игры: теперь угоны не просто «клик» – они могут обернуться отрезвлением, кражей, даже нападением кота. Чистый «прыг‑поймай‑покинь» уже не самый крутый способ. \n\nЕсли хочешь сэкономить время и не получить «плохой репутационный» клик, лучше планировать хак, но будьте готовы к тому, что в городе могут сопротивляться.\n\n❤️ — крутая новость\n👎 — скучный гайд",
+    "card_title": "НОВЫЙ ПОДХОД К УГОНАМ АВТО",
+    "reason": "Высокоточный источник Eurogamer сообщает о реальном изменении механики угона авто в GTA 6",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "groq:openai/gpt-oss-20b"
+   },
+   "corr": false,
+   "since": "2026-11-23T15:14:46.908336+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA 6 Update Now Live On Xbox Series X|S, Includes Seven Official Fixes",
+    "link": "https://www.purexbox.com/news/2026/11/gta-6-update-now-live-on-xbox-series-xs-includes-seven-official-fixes",
+    "summary": "Update: We've got the deets from Rockstar. GTA 6 only officially launched late last week, but Rockstar Games has already pushed out a new update (01.002.002) for the game across Xbox Series X and Xbox Series S (along with PS5), rolling out as of a few hours ago. You're looking at a download size of around 1.6GB for update 1.0.2 on Xbox Series X and S. Read the full article on purexbox.com",
+    "published": "2026-11-23T14:50:00+00:00",
+    "source": "Pure Xbox",
+    "site_name": "Pure Xbox",
+    "trust": "high",
+    "text": "Update [Mon 23rd Nov 2026, 2:50pm]: Well, the patch notes are out! Rockstar Games mentions seven official fixes for the update, and none of them are specifically to do with the Xbox Series S or other things like how bright the game is.\nNevertheless, there's always a chance they've made some extra tweaks under the hood.\nHere are the official seven fixes in GTA 6's first post-launch update (November 23):\nFixed several issues that caused the game to crash\nFixed an issue that resulted in the weather not changing for extended periods\nFixed an issue that resulted in the game not autosaving correctly\nFixed several issues that resulted phone calls not triggering correctly including those that progressed the story or unlocked mission content\nFixed an issue that resulted in the players being unable to lose their Wanted Level\nFixed an issue that resulted in the player being unable to use the deadlift bar in the Gym\nFixed that resulted in partners not handing over bags so that players could sell them to fences\nOriginal Story: GTA 6 only officially launched late last week, but Rockstar Games has already pushed out a new update (01.002.002) for the game across Xbox Series X and Xbox Series S (along with PS5), rolling out as of a few hours ago.\nYou're looking at a download size of around 1.6GB for update 1.0.2 on Xbox Series X and S.\nIn terms of what's included, Rockstar has yet to issue any official patch notes, and we'll have to wait and see whether anything is distributed. We'll obviously update this article with the patch notes if they're made available to us.\nPlayers are trying to make their own discoveries in the meantime, with suggestions that the game may run smoother on Xbox Series S now, that saving your game returns you to the exact same spot instead of your safehouse (although this seemed to be happening for us already), and that the first-person glitch is still working as things stand.\nAll of these could be akin to placebo effects though, so take them with a pinch of salt:\nAs you can see from one of the impressions above, there's a suggestion that the game seems brighter now, which perhaps could have something to do with the borked HDR calibration tool that we discussed the other day.\nThat said, who knows whether these are areas that have actually been targeted for the update, or whether they're just happy coincidences that some players are experiencing. In any case, we'll keep an eye out for any official confirmations.\nHave you noticed anything that needs f",
+    "extra": {
+     "image": "https://images.purexbox.com/f7b59a19daa93/large.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "GTA 6 патч 1.0.2 уже в сети\n\nRockstar выкатил обновление 1.0.2 на Xbox Series X/S и PS5. 7 официальных фикс: кранч, погода, автосохранение, телефонные звонки, Wanted‑level, deadlift‑bar в спортзале и отдача сумок партнёрам. Размер ~1.6 GB. Теперь игра должна работать ровнее, а баги исчезнут.",
+    "card_title": "ПАТЧ 1.0.2",
+    "reason": "официальный патч с 7 фиксами",
+    "duplicate": false,
+    "corroborated": true,
+    "duplicate_of": "GTA 6 Update Now Live On Xbox Series X|S, Players Share Their First Impressions",
+    "corroborated_by": "Grand Theft Auto 6 has received a new update which fixes autosaving",
+    "guide": false,
+    "model": "groq:openai/gpt-oss-20b"
+   },
+   "corr": false,
+   "since": "2026-11-23T15:16:16.824995+00:00"
+  },
+  {
+   "item": {
+    "title": "Telegram CEO Says The ‘Least Realistic’ Thing About GTA 6 Is That Nobody Uses His App To Commit Crimes",
+    "link": "https://kotaku.com/telegram-ceo-says-the-least-realistic-thing-about-gta-6-is-that-nobody-uses-his-app-to-commit-crimes-2000759427",
+    "summary": "He just tweeted it out",
+    "published": "2026-11-23T15:30:50+00:00",
+    "source": "Kotaku",
+    "site_name": "Kotaku",
+    "trust": "high",
+    "text": "The lawyers for Pavel Durov have got to be going through it right now. The CEO of Telegram is one of the many millions of people who seem to be enjoying GTA 6. However, he has a few quibbles about the game’s realism. Late last week he posted on X, “The least realistic thing about GTA VI is that Jason and Lucia run a whole criminal operation without a single Telegram group.”\nTelegram is a popular messaging app used worldwide. It functions similarly to Signal and allows for encrypted messaging, making it an attractive chat service for people who need to communicate privately including journalists, protestors, and labor organizers. Those features also make Telegram a hotspot for illegal activity.\nTelegram has an infamous reputation for being the go-to app for crimes. Scratch some kind of criminal network of unsavory people like white nationalists or cryptoscammers, and you’re likely going to find a Telegram group chat. The app is so notorious for being Crime Facebook that in 2024 Durov was indicted in France on 12 charges for allegedly not doing enough to curb the drug trafficking and distribution of child sexual assault abuse materials taking place on Telegram. Earlier this year, Russia charged Durov with facilitating terrorism for failing to remove information allegedly used to target Russian soldiers, infrastructure, and civilians in the Russia-Ukraine war.\nDurov has said Telegram actively works to remove illegal content from the app and has denied claims that it’s some kind of haven for criminals. Which is why it’s really weird that he’s salty-posting on X about how the two most famous fictional criminals in the world right now aren’t using his app to do their criming. He’s facing all this litigation for allegedly not doing enough about his app being the crime place and he just tweets an acknowledgement that he can’t even conceive of fictional crime being done without Telegram’s help.\nDon’t miss the latest reviews, news and tips. Sign up for our free newsletter.\nCultureNews Binding Of Isaac Update Review-Bombed Over AI-Generated Music In GTA 6 Mode: ‘Woke Up To A Sh*t Show, Obviously I Had No Idea’ A Vice City mode was using music made by AI By Ethan Gach Published November 21, 2026\nCultureOdds and Ends Radio Tower Expert Can’t Believe How Realistic GTA 6′s Towers Are: ‘Oh My God Boys… Earthed Tower Legs With Saddles” If you were curious how accurate the utility towers in Grand Theft Auto 6 the answer appears to be: Very By Zack Zwiezen Published November",
+    "extra": {
+     "image": "https://kotaku.com/app/uploads/2026/11/Lucia-Caminos-GTA6-1280x720.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "ДОВЕРЕННОЕ ЛИЦО\n\nПавел Дуров неожиданно залетел в комьюнити с рофлом: глава Telegram заявил, что нереалистичность GTA 6 в том, что Джейсон и Люсия мутят криминал без его мессенджера. База, чел факты выдал, ждем пацанские цитаты на фоне Вайс-Сити.\n\n❤️ — Ждем канал Джейсона и Люсии\n👎 — Скинули бы все на батином модеме",
+    "card_title": "ДУРОВ ПРО УГОЛОВНЫЙ ВАЙБ GTA 6",
+    "reason": "Глава Telegram пошутил про реализм GTA 6, забавная новость с высоким охватом",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-23T15:33:45.336544+00:00"
   }
  ]
 }
