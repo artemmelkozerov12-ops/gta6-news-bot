@@ -2515,7 +2515,22 @@
   "92afdbd8d1172527": "2026-11-23T06:37:42.757379+00:00",
   "39bdff5b8d554471": "2026-11-23T06:37:44.149659+00:00",
   "26dd66eebea14f2d": "2026-11-23T06:37:45.594250+00:00",
-  "9bb7b0b90d92571f": "2026-11-23T06:37:46.877397+00:00"
+  "9bb7b0b90d92571f": "2026-11-23T06:37:46.877397+00:00",
+  "02cb0491477a48b2": "2026-11-23T06:53:18.395169+00:00",
+  "5e1e4de4a9c296df": "2026-11-23T06:53:20.431284+00:00",
+  "23f3521cef34a9f5": "2026-11-23T06:54:32.406577+00:00",
+  "0e41b13422a5d1b0": "2026-11-23T06:54:33.656597+00:00",
+  "8a0ad0868988505d": "2026-11-23T06:54:35.109536+00:00",
+  "ff7e5808762a997b": "2026-11-23T06:54:36.150699+00:00",
+  "d4442001d322f7f9": "2026-11-23T06:54:37.798247+00:00",
+  "fcbf483f36c5d738": "2026-11-23T07:07:18.897558+00:00",
+  "cefb35a6983b6ba5": "2026-11-23T07:07:19.931337+00:00",
+  "40b08d4b10197ef7": "2026-11-23T07:07:20.708882+00:00",
+  "668031bbe7f4917c": "2026-11-23T07:07:21.507518+00:00",
+  "8bcdade1577f4034": "2026-11-23T07:08:12.599137+00:00",
+  "cb118d27ed52ab5c": "2026-11-23T07:08:13.347056+00:00",
+  "979091a6ddde32a0": "2026-11-23T07:08:14.099780+00:00",
+  "fd73c271a0c3d690": "2026-11-23T07:08:14.867791+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -4250,7 +4265,14 @@
   "c88cc32c0f753926": "2026-11-23T06:37:42.757379+00:00",
   "8604913814a72dae": "2026-11-23T06:37:44.149659+00:00",
   "6a28f6faf0dc44f0": "2026-11-23T06:37:45.594250+00:00",
-  "e2753aad6f25d895": "2026-11-23T06:37:46.877397+00:00"
+  "e2753aad6f25d895": "2026-11-23T06:37:46.877397+00:00",
+  "fbc287e34e64e3dd": "2026-11-23T06:53:18.395169+00:00",
+  "b82a940ba1c50c0c": "2026-11-23T06:53:20.431284+00:00",
+  "e5ee39c813994717": "2026-11-23T06:54:32.406577+00:00",
+  "ae67ab68b5f83069": "2026-11-23T06:54:33.656597+00:00",
+  "52048fa6ade8b317": "2026-11-23T06:54:35.109536+00:00",
+  "4b4e972a2fcdf525": "2026-11-23T06:54:36.150699+00:00",
+  "3f6675a2483e77b5": "2026-11-23T06:54:37.798247+00:00"
  },
  "recent": [
   {
@@ -9633,7 +9655,7 @@
    "title": "The Best GTA 6 Easter Eggs We’ve Seen So Far",
    "source": "Polygon",
    "trust": "high",
-   "status": "queued",
+   "status": "published",
    "ts": "2026-11-22T19:26:39.003630+00:00",
    "card_title": "ГТА 6 ПАСХАЛКИ И СЕКРЕТЫ"
   },
@@ -10956,41 +10978,65 @@
    "status": "skipped",
    "ts": "2026-11-23T06:37:46.877514+00:00",
    "card_title": ""
+  },
+  {
+   "title": "Авторов GTA VI обвинили в плагиате — на оружии нашли рисунок художницы",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-23T06:53:18.395244+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to Get the Safe Code and Disarm the Alarm at Donovan Banks & Co. in GTA 6",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "queued",
+   "ts": "2026-11-23T06:54:31.205136+00:00",
+   "card_title": "ОГРАБЛЕНИЕ ЮВЕЛИРКИ DONOVAN BANKS"
+  },
+  {
+   "title": "Robbing Banks is a Blast, But I Wish There Were More Houses to Repair in GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T06:54:32.406725+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Only in GTA 6 can an ALLIGATOR walk into a shop and refuse to leave until you FEED HIM with a hot dog 💀 Writer: Sol",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T06:54:33.656723+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI Actress Lexie Shoaibi Streams with Hasan Piker",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T06:54:35.109652+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Xbox Build Leak: What We Know About the 209 GB Files and PC Port Talk",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T06:54:36.150838+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "CaseOh Delights Fans with Chaotic GTA 6 Streams",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T06:54:37.798379+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
-  {
-   "item": {
-    "title": "The Best GTA 6 Easter Eggs We’ve Seen So Far",
-    "link": "https://www.polygon.com/gta-6-easter-eggs/",
-    "summary": "Grand Theft Auto 6 features tons of celebrity cameos, pop-culture references, and nods to past Rockstar games. Here are a few of our faves.",
-    "published": "2026-11-22T18:42:14+00:00",
-    "source": "Polygon",
-    "site_name": "Polygon",
-    "trust": "high",
-    "text": "Grand Theft Auto 6 is finally in the wild, and there are a mind-boggling number of things to do in Leonida. Many of them are terribly dangerous, like stealing cars from the police impound lot, getting into high-speed chases, and laundering stolen goods. But GTA 6 has plenty of wild and wacky optional activities too, many of which include references to pop-culture icons, past Rockstar games, or well-known memes. Here are a few of the coolest Easter eggs we've discovered in our own playthroughs and from other players on social media.\nGTA's radio stations have become famous for their celebrity hosts over the years, and GTA 6 doubles down on that tradition. Weird Al is a host on Vice City FM, which plays 1980s hits from artists like Hall and Oates, Phil Collins, and Flock of Seagulls. He confirmed his role in the game in a recent Bluesky post, where he wrote, \"I’m the host of GTA 6’s “non-stop ‘80s” radio channel Vice City FM. I also wrote some in-game commercials, and I’m the voice of the Burger Shot ads as well! As a long-time fan of the Grand Theft Auto franchise, I couldn’t be more excited about this. Okay, gotta get back to playing the game!\"\nDuring Jason's final days as a bachelor early in the game, one of the most relaxing activities you can get up to is swimming near his house. If you manage to venture out far enough, you'll come across an unusual watersports enthusiast: a German Shepherd riding a jet ski all by himself. This is likely a reference to a real dog in Fort Lauderdale, a Golden Retriever who's become a local attraction due to his love of riding the waves. The breeds may not be the same, but the shout-out is clear.\nIn Brian's office at the Marina, you can find a copy of a book called The Cowboy's Prayer Is to Die Young. It contains several references to the events of 2018's Red Dead Redemption 2, the previous game from GTA 6 developer Rockstar Games. The book follows protagonist Rust McCreary, a clear stand-in for Arthur Morgan, as he \"rides across the final days of the West in a bloody quest for inner peace.\" If you flip through the pages, you'll find references to New Austin, Blackwater, and Ambarino. There's even a pretty detailed rundown of a main-story mission from RDR2, where Arthur tracks down gunslinger Flaco Hernandez to a cabin on Cairn Lake.\nOnce you make it to Port Gellhorn, you can find a convincing replica of Arthur's hat at a yard sale. The house is located about two blocks south of Moses' garage, so keep an eye out for signs.",
-    "extra": {
-     "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/10/gta6jason.JPG"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "🕵️‍♂️ Пойманные пасхалки GTA 6: от Вайс Сити FM до собаки‑джетски\n\nНайди в Леониде кучу скрытых фишек – от Weird Al на радио до немецкой овчарки на гидроскутере. Это реальный топчик, который заставит всех в чатах рилить.",
-    "card_title": "ГТА 6 ПАСХАЛКИ И СЕКРЕТЫ",
-    "reason": "Крутая подборка пасхалок и отсылок в игре",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-22T19:26:39.003613+00:00",
-   "moderation": "approved",
-   "draft_msg_id": 91,
-   "waiting_logged": true
-  },
   {
    "item": {
     "title": "GTA 6 Is Getting Review Bombed in Zelda vs. GTA Troll War",
@@ -11424,7 +11470,38 @@
     "guide": true,
     "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-3.5-flash"
    },
-   "queued_at": "2026-11-23T05:51:16.806453+00:00"
+   "queued_at": "2026-11-23T05:51:16.806453+00:00",
+   "moderation": "pending",
+   "draft_msg_id": 96
+  },
+  {
+   "item": {
+    "title": "How to Get the Safe Code and Disarm the Alarm at Donovan Banks & Co. in GTA 6",
+    "link": "https://www.gtaboom.com/gta-6-donovan-banks-robbery-guide-e5bb",
+    "summary": "At Donovan Banks & Co. in GTA 6, get the safe code from the clerk and disarm the alarm at the office wall keypad before smashing the display cases.",
+    "published": "2026-11-23T06:45:19+00:00",
+    "source": "GTA BOOM",
+    "site_name": "GTA BOOM",
+    "trust": "medium",
+    "text": "Donovan Banks & Co. is a free-roam jewellery robbery in GTA 6. You're there for the safe, the cash at the counter and the jewellery in the display cases. In our run with Jason, disarming the alarm gave us enough time to take jewellery and get outside before any wanted stars appeared. Police still started searching after we drove away.\nOn the map, select the green diamond near Milk King on SW 7th Street. Look for Donovan Banks & Co. on the card. It showed GTA$14,000 to GTA$25,000 in goods in our run. That's an estimate of the haul's value, not what you'll take home in cash.\nAs Lucia, select Invite Jason with Triangle on PlayStation or Y on Xbox if the map offers it. He can watch the shop floor while you check the back rooms. If you go alone, keep an eye on the guard just inside the entrance.\nPut on your face wrap before going inside. At the main counter, threaten the clerk. If they don't give you the code right away, choose Anything Else?, then Safe Code? when that prompt appears. Collect the cash from the counter before you head to the back rooms.\nOur free-roam code was 1822. Use the number the clerk gives you. If you missed it at the counter, look for the green note under the white shelf above the office desk. The Yasmani job at the same shop can have a different code.\nGo through the door at the end of the counter beside the railing. The large black safe is against the wall next to the shelves. Open it before you start on the glass cases so you're not entering the code during a police search. With the alarm on, the search started seconds after we broke the first case.\nDisarm the alarm before breaking the cases\nIn the back rooms, look for the door marked Office by the sailboat picture. In our run, we used Destroy Footage at the recorder on the desk, then selected Disarm Security System at the wall keypad just inside the office door. Use that wall keypad to turn off the alarm; the keypad on the safe only opens the safe.\nGo back to the shop floor. Use Smash on the display cases, then collect the jewellery inside. With the alarm on, a police search began seconds after we broke the first case, while we were still inside. We also opened the safe and took jewellery solo with the alarm off.\nLeave promptly and sell the jewellery separately\nLeave through the front and drive away. In the run with Jason and the alarm off, we had no wanted stars at the door but picked up three after we left. Don't hang around just because the minimap is clear. If a search starts, use ",
+    "extra": {
+     "image": "https://media.gtaboom.com/variants/1920/media/images/46/bd/donovan-jewellery-hero-80435a6df6900340.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "🗺 Гайд: выносим ювелирку Donovan Banks без ТРЕВОГИ\n\n1. Ищи зелёный ромб на SW 7th Street у Milk King (можно позвать Джейсона).\n2. В маске выбей код сейфа у клерка — или ищи зелёную записку в офисе.\n3. В подсобке у картины с парусником выруби камеры и сигналку на стене.\n4. Открой чёрный сейф, бей витрины и сваливай — топчик, но копы всё равно поедут, так что без флекса у входа.",
+    "card_title": "ОГРАБЛЕНИЕ ЮВЕЛИРКИ DONOVAN BANKS",
+    "reason": "Гайд по ограблению ювелирки в GTA 6 с полезными советами.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": true,
+    "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-4-hydrogen"
+   },
+   "queued_at": "2026-11-23T06:54:31.205124+00:00"
   }
  ],
  "posts": [
@@ -11457,7 +11534,8 @@
   "2026-11-22T19:08:58.405726+00:00",
   "2026-11-22T20:58:34.120756+00:00",
   "2026-11-22T21:13:49.600943+00:00",
-  "2026-11-23T06:36:35.519544+00:00"
+  "2026-11-23T06:36:35.519544+00:00",
+  "2026-11-23T06:52:12.409408+00:00"
  ],
  "tg_offset": 387129059,
  "channel": {
@@ -11493,12 +11571,14 @@
   "2026-11-22T19:03:13.539370+00:00",
   "2026-11-22T20:03:38.323230+00:00",
   "2026-11-22T21:03:59.840790+00:00",
-  "2026-11-23T06:00:40.772988+00:00"
+  "2026-11-23T06:00:40.772988+00:00",
+  "2026-11-23T07:01:27.603407+00:00"
  ],
  "slots_sent": {
   "2026-11-21:guide:1": "2026-11-21T21:14:52.573728+00:00",
   "2026-11-22:guide:1": "2026-11-22T08:01:32.386719+00:00",
-  "2026-11-22:guide:2": "2026-11-22T09:01:59.839706+00:00"
+  "2026-11-22:guide:2": "2026-11-22T09:01:59.839706+00:00",
+  "2026-11-23:guide:1": "2026-11-23T07:01:27.603496+00:00"
  },
  "urgent": [
   "2026-11-21T20:14:20.243248+00:00"
@@ -16668,6 +16748,70 @@
    "ts": "2026-11-22T21:42:54.050728+00:00",
    "frames": [],
    "caption": "Стримерша случайно застрелила Лусию прямо после миссии — ласт её ошибка, просто ору с этой реакции 💀"
+  },
+  {
+   "author": "youtube:gta2025",
+   "vod": "",
+   "offset": -1,
+   "title": "otra vez gta 5 le dio una leccion al #gta6",
+   "drafted": false,
+   "ts": "2026-11-23T07:07:18.897608+00:00"
+  },
+  {
+   "author": "youtube:yzekverse",
+   "vod": "",
+   "offset": -1,
+   "title": "Bro Really Bought GTA 6 From TEMU 💀😭 #memes #maincharacterenergy",
+   "drafted": false,
+   "ts": "2026-11-23T07:07:19.931389+00:00"
+  },
+  {
+   "author": "youtube:carterpcs",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 not launching on PC was a good idea..",
+   "drafted": false,
+   "ts": "2026-11-23T07:07:20.708931+00:00"
+  },
+  {
+   "author": "youtube:bux vlogs",
+   "vod": "",
+   "offset": -1,
+   "title": "Mi Novia y GTA 6 🚨😭",
+   "drafted": false,
+   "ts": "2026-11-23T07:07:21.507571+00:00"
+  },
+  {
+   "author": "youtube:informante de vice city",
+   "vod": "",
+   "offset": -1,
+   "title": "Trevor foi HUMILHADO na festa do GTA 6! part 4 😭💔 #Shorts",
+   "drafted": false,
+   "ts": "2026-11-23T07:08:12.599187+00:00"
+  },
+  {
+   "author": "youtube:cayo",
+   "vod": "",
+   "offset": -1,
+   "title": "Mandy From GTA 6 Revealed! 👱‍♀️",
+   "drafted": false,
+   "ts": "2026-11-23T07:08:13.347104+00:00"
+  },
+  {
+   "author": "youtube:ravito",
+   "vod": "",
+   "offset": -1,
+   "title": "QR CODE SCANNEN MIT ECHTEN HANDY IN GTA6…⁉️ #gta #gta6 #gta6shorts",
+   "drafted": false,
+   "ts": "2026-11-23T07:08:14.099833+00:00"
+  },
+  {
+   "author": "youtube:hamid sahari",
+   "vod": "",
+   "offset": -1,
+   "title": "Even Messi has been affected by GTA 6. 🤕",
+   "drafted": false,
+   "ts": "2026-11-23T07:08:14.867843+00:00"
   }
  ],
  "published": [
@@ -16907,6 +17051,13 @@
    "msg_id": 62,
    "title": "В GTA 6 нашли ЗАКРЫТЫЕ казино и картинг",
    "importance": 7,
+   "kind": "confirmed"
+  },
+  {
+   "ts": "2026-11-23T06:52:12.409426+00:00",
+   "msg_id": 63,
+   "title": "Пойманные пасхалки GTA 6: от Вайс Сити FM до собаки‑джетски",
+   "importance": 8,
    "kind": "confirmed"
   }
  ],
