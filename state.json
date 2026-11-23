@@ -2476,7 +2476,14 @@
   "3a27595344674386": "2026-11-23T03:27:02.389417+00:00",
   "842923b8426594da": "2026-11-23T03:27:03.294488+00:00",
   "beb37988274d8d8b": "2026-11-23T03:27:04.253956+00:00",
-  "c3ea14ecbd829a09": "2026-11-23T03:27:05.613625+00:00"
+  "c3ea14ecbd829a09": "2026-11-23T03:27:05.613625+00:00",
+  "707a42707b74d297": "2026-11-23T03:47:11.802409+00:00",
+  "01a81eafaf678a8b": "2026-11-23T03:47:12.753372+00:00",
+  "e651406ee543eb11": "2026-11-23T04:02:36.621309+00:00",
+  "f93a5bd4f7865de3": "2026-11-23T04:02:37.718448+00:00",
+  "0e43400460d0f2cd": "2026-11-23T04:02:46.907873+00:00",
+  "0a1748ebd0166f33": "2026-11-23T04:02:48.417760+00:00",
+  "989a32f0deb08854": "2026-11-23T04:02:49.986916+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -4172,633 +4179,16 @@
   "5d31404be0fe1549": "2026-11-23T03:27:02.389417+00:00",
   "d9738d64575055b8": "2026-11-23T03:27:03.294488+00:00",
   "893d6585c69e2ace": "2026-11-23T03:27:04.253956+00:00",
-  "5b9f313925cb00b6": "2026-11-23T03:27:05.613625+00:00"
+  "5b9f313925cb00b6": "2026-11-23T03:27:05.613625+00:00",
+  "f2a118ba0dd27da2": "2026-11-23T03:47:11.802409+00:00",
+  "810b60b373c22263": "2026-11-23T03:47:12.753372+00:00",
+  "135ffde7d23f0b93": "2026-11-23T04:02:36.621309+00:00",
+  "4050b507649dd575": "2026-11-23T04:02:37.718448+00:00",
+  "be7231d1e552dbb9": "2026-11-23T04:02:46.907873+00:00",
+  "66818a591f441444": "2026-11-23T04:02:48.417760+00:00",
+  "8afc433fe6a5fcdc": "2026-11-23T04:02:49.986916+00:00"
  },
  "recent": [
-  {
-   "title": "GTA 6 Breakfast Run walkthrough",
-   "source": "VGC",
-   "trust": "high",
-   "status": "dup",
-   "ts": "2026-11-20T23:48:31.822530+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Is the Biggest Entertainment Launch of All Time at $3.79 Billion on Day One",
-   "source": "IGN",
-   "trust": "high",
-   "status": "dup",
-   "ts": "2026-11-20T23:48:31.822667+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 What's in the Bag? Walkthrough",
-   "source": "GTA BOOM",
-   "trust": "medium",
-   "status": "dup",
-   "ts": "2026-11-20T23:48:31.822747+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Discharge Time Walkthrough",
-   "source": "GTA BOOM",
-   "trust": "medium",
-   "status": "dup",
-   "ts": "2026-11-20T23:48:31.822819+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Home Sweet Home Walkthrough",
-   "source": "GTA BOOM",
-   "trust": "medium",
-   "status": "dup",
-   "ts": "2026-11-20T23:48:31.822891+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Tourist Trap Walkthrough",
-   "source": "GTA BOOM",
-   "trust": "medium",
-   "status": "dup",
-   "ts": "2026-11-20T23:48:31.822969+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Recalibration Walkthrough",
-   "source": "GTA BOOM",
-   "trust": "medium",
-   "status": "dup",
-   "ts": "2026-11-20T23:48:31.823039+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Don Gone Walkthrough",
-   "source": "GTA BOOM",
-   "trust": "medium",
-   "status": "dup",
-   "ts": "2026-11-20T23:48:31.823098+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Best Aim & Controller Settings To Use in GTA 6",
-   "source": "Insider Gaming",
-   "trust": "medium",
-   "status": "dup",
-   "ts": "2026-11-20T23:48:31.823156+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Best Sound Settings To Use in GTA 6",
-   "source": "Insider Gaming",
-   "trust": "medium",
-   "status": "dup",
-   "ts": "2026-11-20T23:48:31.823210+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Just Set the Biggest Entertainment Launch Record in History",
-   "source": "GTA BOOM",
-   "trust": "medium",
-   "status": "dup",
-   "ts": "2026-11-20T23:48:31.823268+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Grand Theft Auto 6 Breaks Sales Records In One Day",
-   "source": "Insider Gaming",
-   "trust": "medium",
-   "status": "dup",
-   "ts": "2026-11-20T23:48:31.823324+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "How To Solve All Main Puzzles In GTA 6′ s Tenebrae Lux",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-20T23:48:31.823402+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Despite GTA 6's huge map, it only takes about 4 minutes to fly across it in a plane",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-20T23:48:31.823478+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Try this GTA 6 movement speed setting to make Jason and Lucia walk faster",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-20T23:48:31.823567+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "‘GTA VI’ Sets New Record With Nearly $4 Billion in Sales on Launch Day",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-20T23:48:31.823646+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 players spending an 'absolutely bonkers' amount of time with the game",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-20T23:48:31.823715+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "‘GTA VI’ sales blew past $3 billion in its first day, making it one of the biggest entertainment launches ever",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-20T23:48:31.823791+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 is Officially the Biggest Entertainment Launch in History",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-20T23:48:31.823856+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Has Dexter References, And Now Dexter Himself Has Reacted",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-20T23:48:31.823921+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Breaks Records With $3.79 Billion First-Day Sales",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-20T23:48:31.823988+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Take-Two shatters sales record as 'GTA VI' launches to massive fanfare",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-20T23:48:31.824055+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 hits $3.79 billion in its first day on sale, becoming \"the biggest entertainment launch in history\"",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-20T23:48:31.824125+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "‘GTA 6’ Raked In $3.8 Billion Sales On First Day—The Largest Entertainment Launch Ever",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-20T23:48:31.824196+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Sets Even More Records",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-20T23:48:31.824258+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA VI books record $3.79 billion in sales on first day of launch",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-20T23:48:31.824326+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Rockstar says GTA VI made $3.79 billion in its first day",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-20T23:48:31.824392+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6’s Astonishing $4 Billion Day One Includes 32.5 Million Copies Sold",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-20T23:48:31.824459+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "‘GTA 6’ Hits Massive $3.79 Billion in First-Day Sales",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-20T23:48:31.824525+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "‘GTA 6’ Hits Massive $3.79 Billion in First-Day Sales",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-20T23:48:31.824614+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 breaks entertainment box office records with $3.79B in 1st-day sales",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-20T23:48:31.824694+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Makes Billions as Rockstar Workers Fear Layoffs",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-20T23:48:31.824760+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Где выгоднее купить GTA 6 в России на PS5 и Xbox",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-20T23:48:31.824828+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Everyone In GTA 6 Sucks At Driving Except For Me",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-20T23:48:31.824891+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "How to open the GTA 6 Kingpin Bowling Alley safe",
-   "source": "VGC",
-   "trust": "high",
-   "status": "dup",
-   "ts": "2026-11-20T23:48:32.080000+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Skunk Ape Walkthrough (Part 3 of 3): Help Kirk Find Mr. Mangrove",
-   "source": "GTA BOOM",
-   "trust": "medium",
-   "status": "dup",
-   "ts": "2026-11-20T23:48:32.535901+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "How to Get the Key Cloner in GTA 6",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-20T23:48:32.705589+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Guide: GTA 6: How to Get Ultimate Edition Items & Pre-Order Bonuses",
-   "source": "Push Square",
-   "trust": "high",
-   "status": "queued",
-   "ts": "2026-11-20T23:48:39.158941+00:00",
-   "card_title": "ЗАБЕРИ БОНУСЫ ULTIMATE EDITION"
-  },
-  {
-   "title": "How To Solve All Main Puzzles In GTA 6′s Tenebrae Lux",
-   "source": "Kotaku",
-   "trust": "high",
-   "status": "published",
-   "ts": "2026-11-20T23:48:48.854216+00:00",
-   "card_title": "КАК ПРОЙТИ TENEBRAE LUX"
-  },
-  {
-   "title": "GTA 6 Coffee Break walkthrough",
-   "source": "VGC",
-   "trust": "high",
-   "status": "queued",
-   "ts": "2026-11-20T23:49:24.929164+00:00",
-   "card_title": "СВОБОДНАЯ СМЕНА ГЕРОЕВ В GTA 6"
-  },
-  {
-   "title": "GTA 6 is Getting Review Bombed",
-   "source": "Insider Gaming",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-20T23:50:13.334323+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Despite GTA 6's huge map, it only takes about 4 minutes to fly across it in a plane",
-   "source": "PC Gamer",
-   "trust": "high",
-   "status": "queued",
-   "ts": "2026-11-20T23:51:05.405434+00:00",
-   "card_title": "ПОЛЕТ НА ДВУХ МИНУТАХ"
-  },
-  {
-   "title": "GTA 6 PC release date: Is Grand Theft Auto 6 coming to PC?",
-   "source": "VGC",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-20T23:51:41.126563+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Best Graphics Settings To Use in GTA 6",
-   "source": "Insider Gaming",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-20T23:52:04.383871+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Even Grand Theft Auto 6 Can’t Escape The Anti-Woke Culture War As It Gets Review-Bombed On Metacritic",
-   "source": "Kotaku",
-   "trust": "high",
-   "status": "queued",
-   "ts": "2026-11-20T23:53:00.822289+00:00",
-   "card_title": "ОТЗЫВЫ И БОМБАРДИНГ В GTA 6"
-  },
-  {
-   "title": "GTA VI motion capture actor discusses game's success",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-21T00:08:37.836256+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Has An Impressive Number Of Accessibility Options To Make The Game Less Frustrating",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-21T00:08:37.836349+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Slam Dunk Mission Walkthrough",
-   "source": "VGC",
-   "trust": "high",
-   "status": "dup",
-   "ts": "2026-11-21T00:08:38.254186+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Can You Fast Travel in GTA 6?",
-   "source": "Insider Gaming",
-   "trust": "medium",
-   "status": "dup",
-   "ts": "2026-11-21T00:08:38.371274+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "So Is The $100 GTA 6 Ultimate Edition Actually Worth It?",
-   "source": "Kotaku",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-21T00:08:41.530870+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Players Captivated By Mandy Apparently Include A Former Nintendo President",
-   "source": "GameSpot",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-21T00:08:42.674505+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Smashes Multiple Sales Records And Earns Xbox Series S Praise In First 24 Hours",
-   "source": "Pure Xbox",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-21T00:09:07.937049+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Florida Joker gets his wish: He's a 'special voice actor' in Grand Theft Auto 6",
-   "source": "PC Gamer",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-21T00:09:31.145989+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Who is Johannes Zuch supposed to be in GTA 6?",
-   "source": "Polygon",
-   "trust": "high",
-   "status": "queued",
-   "ts": "2026-11-21T00:09:33.175358+00:00",
-   "card_title": "ПАСХАЛКА ПРО ДЖОНАТАНА БЛОУ В GTA 6"
-  },
-  {
-   "title": "GTA 6 PC port could come from hackers before Rockstar, if Cyberleek makes good on its latest threat",
-   "source": "GamesRadar+",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-21T00:09:34.816860+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Did Not Kill Physical Games, It Just Proved They Were Already Dead",
-   "source": "GTA BOOM",
-   "trust": "medium",
-   "status": "queued",
-   "ts": "2026-11-21T00:09:42.060729+00:00",
-   "card_title": "GTA 6 ДОКАЗАЛА СМЕРТЬ ДИСКОВ"
-  },
-  {
-   "title": "Grand Theft Auto 6 Gave One Of The Best Pop Songs Of The Century Its Due",
-   "source": "Kotaku",
-   "trust": "high",
-   "status": "queued",
-   "ts": "2026-11-21T00:09:44.072425+00:00",
-   "card_title": "ЛУЧШИЙ ТРЕК В GTA 6"
-  },
-  {
-   "title": "GTA 6 Sells a Record-Breaking 32.5 Million Copies",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-21T00:25:02.078229+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Afternoon Delight walkthrough: Safe code, Jason’s dance choice and rewards",
-   "source": "VGC",
-   "trust": "high",
-   "status": "queued",
-   "ts": "2026-11-21T00:25:05.977828+00:00",
-   "card_title": "ПРОХОЖДЕНИЕ AFTERNOON DELIGHT"
-  },
-  {
-   "title": "GTA 6 Collectible Card Locations: Three Early Pickups",
-   "source": "GTA BOOM",
-   "trust": "medium",
-   "status": "queued",
-   "ts": "2026-11-21T00:25:07.961733+00:00",
-   "card_title": "КАК НАЙТИ КОЛЛЕКЦИОННЫЕ КАРТЫ"
-  },
-  {
-   "title": "«Мэнди вообще лошадь в сравнении с ней»: фанаты GTA VI нашли себе новую королеву — готическую барменшу Вики",
-   "source": "iXBT.games",
-   "trust": "medium",
-   "status": "queued",
-   "ts": "2026-11-21T00:25:11.093453+00:00",
-   "card_title": "ГОТИЧЕСКАЯ БАРМЕНША ВИКИ"
-  },
-  {
-   "title": "GTA 6 Players Are Officially Spending an ‘Absolutely Bonkers’ Amount of Time with the Game",
-   "source": "Polygon",
-   "trust": "high",
-   "status": "queued",
-   "ts": "2026-11-21T00:25:13.197612+00:00",
-   "card_title": "ИГРОКИ ТРАТЯТ ПО 8 ЧАСОВ"
-  },
-  {
-   "title": "Satoru Gojo's English Voice Actor Didn't Realize These Wild Lines He Recorded Were for GTA 6",
-   "source": "IGN",
-   "trust": "high",
-   "status": "queued",
-   "ts": "2026-11-21T00:25:15.309925+00:00",
-   "card_title": "АКТЁРЫ ОЗВУЧКИ В GTA 6"
-  },
-  {
-   "title": "GTA 6 full cast confirmed – Every actor in Grand Theft Auto 6",
-   "source": "VGC",
-   "trust": "high",
-   "status": "queued",
-   "ts": "2026-11-21T00:25:17.352151+00:00",
-   "card_title": "ПОЛНЫЙ АКТЕРСКИЙ СОСТАВ GTA 6"
-  },
-  {
-   "title": "Sexyy Red Had the Best Response to Her Viral GTA 6 Moment With Jason",
-   "source": "IGN",
-   "trust": "high",
-   "status": "queued",
-   "ts": "2026-11-21T00:25:19.348708+00:00",
-   "card_title": "СЕКСИ РЕД В GTA 6"
-  },
-  {
-   "title": "21% of Rockstar staff have been employed by the company for over 10 years, which explains a lot about GTA 6's record-breaking launch",
-   "source": "PC Gamer",
-   "trust": "high",
-   "status": "queued",
-   "ts": "2026-11-21T00:25:21.580406+00:00",
-   "card_title": "ОПЫТНЫЕ РАЗРАБОТЧИКИ GTA 6"
-  },
-  {
-   "title": "Here Are Some Super Useful Control Shortcuts GTA 6 Doesn’t Tell You About",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-21T00:40:38.531577+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Actor Who Plays Mandy in GTA 6 Excitedly Speaks Out After Character Goes Viral",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-21T00:40:38.531676+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Triggers Busiest Traffic Day in Comcast History",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-21T00:40:38.531754+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA VI Breaks Records With 32.5 Million Copies Sold, $4 Billion On Release Day",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-21T00:40:38.531829+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Here Are Some Super Useful Control Shortcuts GTA 6 Doesn’t Tell You About",
-   "source": "Kotaku",
-   "trust": "high",
-   "status": "queued",
-   "ts": "2026-11-21T00:40:42.219239+00:00",
-   "card_title": "СКРЫТЫЕ ШОРТКАТЫ УПРАВЛЕНИЯ"
-  },
-  {
-   "title": "Actor Who Plays Mandy in GTA 6 Excitedly Speaks Out After Character Goes Viral",
-   "source": "IGN",
-   "trust": "high",
-   "status": "queued",
-   "ts": "2026-11-21T00:40:44.304753+00:00",
-   "card_title": "АКТРИСА РОЛИ МЭНДИ"
-  },
-  {
-   "title": "GTA 6 Triggers Busiest Traffic Day in Comcast History",
-   "source": "IGN",
-   "trust": "high",
-   "status": "queued",
-   "ts": "2026-11-21T00:40:46.166916+00:00",
-   "card_title": "РЕКОРДНЫЙ ТРАФИК COMCAST"
-  },
-  {
-   "title": "GTA 6 Players React After Exclusive Shops Greet Non-Ultimate Edition Buyers With Locked Doors",
-   "source": "IGN",
-   "trust": "high",
-   "status": "queued",
-   "ts": "2026-11-21T00:40:48.159330+00:00",
-   "card_title": "ЗАКРЫТЫЕ МАГАЗИНЫ В GTA 6"
-  },
-  {
-   "title": "Let's put GTA 6's $3.79 billion launch into perspective: GTA 5 made $800 million at launch",
-   "source": "GamesRadar+",
-   "trust": "high",
-   "status": "queued",
-   "ts": "2026-11-21T00:40:50.467102+00:00",
-   "card_title": "РЕКОРДНЫЕ ПРОДАЖИ GTA 6 НА СТАРТЕ"
-  },
-  {
-   "title": "GTA 6 Includes Compelling Evidence That It’s Set In The Same Universe As Red Dead Redemption",
-   "source": "Kotaku",
-   "trust": "high",
-   "status": "queued",
-   "ts": "2026-11-21T00:40:52.504645+00:00",
-   "card_title": "ПАСХАЛКИ RDR В GTA 6"
-  },
-  {
-   "title": "GTA VI заработала $3,79 млрд за первые сутки, установив рекорд для всей индустрии развлечений",
-   "source": "iXBT.games",
-   "trust": "medium",
-   "status": "queued",
-   "ts": "2026-11-21T00:40:55.519680+00:00",
-   "card_title": "РЕКОРДНЫЕ ПРОДАЖИ GTA 6"
-  },
-  {
-   "title": "When Do Your BuckMe Limits Increase in GTA 6? Banking App, Explained",
-   "source": "Insider Gaming",
-   "trust": "medium",
-   "status": "queued",
-   "ts": "2026-11-21T00:40:57.764096+00:00",
-   "card_title": "КАК УВЕЛИЧИТЬ ЛИМИТЫ BUCKME"
-  },
   {
    "title": "GTA 6: How To Listen To Music Outside Of Your Car",
    "source": "Google News (EN)",
@@ -11189,6 +10579,62 @@
    "trust": "rumor",
    "status": "skipped",
    "ts": "2026-11-23T03:27:05.613776+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "'GTA 6' Has Officially Outearned One of 2026's Biggest Movies' Entire Global Run",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T03:47:11.802535+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Cops: Do not recreate any crimes from GTA VI",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T03:47:12.753493+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Игроки ненавидят GTA VI, новая Fallout с котиками, геймплей Total War: Warhammer 40,000…",
+   "source": "StopGame",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-23T04:02:36.621418+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI doesn't have darts because even Rockstar doesn't have \"unlimited money or unlimited time\"",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T04:02:37.718565+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 emails fuel surge in gaming phishing attacks",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T04:02:46.907991+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "The unofficial PC version of GTA 6 will require a Ryzen 5 5600X and an RTX 30 with 8GB of memory.",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T04:02:48.417880+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Для запуска неофициальной ПК версии GTA 6 потребуется Ryzen 5 5600X и RTX 30 с 8 ГБ памяти",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T04:02:49.987034+00:00",
    "card_title": ""
   }
  ],
