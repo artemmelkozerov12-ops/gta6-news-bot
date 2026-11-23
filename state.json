@@ -2826,7 +2826,16 @@
   "cc5f3c4bcf5516a1": "2026-11-23T14:01:07.390786+00:00",
   "baf9cb0a68a9fc34": "2026-11-23T14:01:29.419112+00:00",
   "cff82da5fb316ed1": "2026-11-23T14:01:52.541456+00:00",
-  "1a07378a288a17cf": "2026-11-23T14:02:13.842323+00:00"
+  "1a07378a288a17cf": "2026-11-23T14:02:13.842323+00:00",
+  "d5c1f9959d639a05": "2026-11-23T14:17:49.308259+00:00",
+  "6686dc8199d445be": "2026-11-23T14:17:52.799977+00:00",
+  "151204e2fa76c44a": "2026-11-23T14:18:01.020426+00:00",
+  "0e53db7358c7df5d": "2026-11-23T14:18:12.699645+00:00",
+  "e32977b41ce0a4ba": "2026-11-23T14:18:46.211918+00:00",
+  "cb97f5aab49315c8": "2026-11-23T14:19:21.961834+00:00",
+  "c3f781b5c1435801": "2026-11-23T14:19:52.680987+00:00",
+  "6796e7e92daf88d3": "2026-11-23T14:20:14.191513+00:00",
+  "3c6eb0c7d75e69e1": "2026-11-23T14:20:36.592919+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -4781,7 +4790,16 @@
   "28c0710fac677969": "2026-11-23T14:01:07.390786+00:00",
   "4b9358450ae302e4": "2026-11-23T14:01:29.419112+00:00",
   "518403f8037bc8a5": "2026-11-23T14:01:52.541456+00:00",
-  "3439fdce436c73a8": "2026-11-23T14:02:13.842323+00:00"
+  "3439fdce436c73a8": "2026-11-23T14:02:13.842323+00:00",
+  "cd615e2ec9e29e2c": "2026-11-23T14:17:49.308259+00:00",
+  "e58957309171b868": "2026-11-23T14:17:52.799977+00:00",
+  "4295fc58b48af836": "2026-11-23T14:18:01.020426+00:00",
+  "692574e11b2be641": "2026-11-23T14:18:12.699645+00:00",
+  "149b5d127a995a33": "2026-11-23T14:18:46.211918+00:00",
+  "31b090d6d88f8fbf": "2026-11-23T14:19:21.961834+00:00",
+  "98ea71b2dbf9de71": "2026-11-23T14:19:52.680987+00:00",
+  "9bfd4547ef27f36d": "2026-11-23T14:20:14.191513+00:00",
+  "0d8ad49003bb5935": "2026-11-23T14:20:36.592919+00:00"
  },
  "recent": [
   {
@@ -11924,7 +11942,7 @@
    "title": "GTA 6 \"girlfriend simulator\" complaints \"are real\" at first, ex-Rockstar lead says",
    "source": "GamesRadar+",
    "trust": "high",
-   "status": "queued",
+   "status": "published",
    "ts": "2026-11-23T11:17:13.224854+00:00",
    "card_title": "ОЦЕНКА ЭКС-РАЗРАБОТЧИКА ROCKSTAR"
   },
@@ -12743,40 +12761,57 @@
    "status": "skipped",
    "ts": "2026-11-23T14:02:13.842453+00:00",
    "card_title": ""
+  },
+  {
+   "title": "How to Unlock Tommy Vercetti’s Shirt in GTA 6 – Vice City Easter Egg Explained",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-23T14:17:49.308314+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to Get Tommy Vercetti Outfit & Bike in GTA 6—Vice City Easter Egg & Location, Explained",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-23T14:18:01.693398+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Where To Find Armored Trucks in GTA 6—A Classic Blitz Play Trophy Guide",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-23T14:18:19.391038+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Doja Cat Angry After Her Music Is Left Out of GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T14:19:52.681127+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 для ПК: даты нет, но эмулятор уже в разработке",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T14:20:14.191636+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How Old Are Jason and Lucia in GTA 6? Driver’s Licenses Reveal Their Ages",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T14:20:36.593065+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
-  {
-   "item": {
-    "title": "GTA 6 \"girlfriend simulator\" complaints \"are real\" at first, ex-Rockstar lead says",
-    "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-girlfriend-simulator-complaints-are-real-at-first-ex-rockstar-lead-says-but-chapter-2-is-where-the-grand-theft-auto-magic-kicks-in/",
-    "summary": "Obbe Vermeij says he's \"having loads of fun now\" he's further into the game",
-    "published": "2026-11-23T11:10:18+00:00",
-    "source": "GamesRadar+",
-    "site_name": "GamesRadar+",
-    "trust": "high",
-    "text": "One former Rockstar Games lead has a revolutionary take about GTA 6 – \"it is good.\" But even though that may be the case, he reckons that \"the complaints are real\" in Chapter 1 from those suggesting that it \"doesn't feel like a sandbox\" and instead feels like a \"girlfriend simulator.\"\nObbe Vermeij worked at Rockstar Games between 1995 and 2009, serving as technical director on GTA 3, 4, Vice City, and San Andreas. Obviously, he'd left the studio well before GTA 6 started development (it might have been a long time coming, but it wasn't that long), so he's been playing through it alongside the rest of us.\n\"It is good. Very good,\" he begins in a post on Twitter. However, there's a \"but\" coming.\n\"In chapter 1 (The first 8 hours or so) the game doesn't give you much choice,\" he continues. \"There are many tutorials, cut scenes, mandatory missions and the missions are basic. The complaints are real (realism over gameplay, girlfriend simulator, doesn't feel like a sandbox).\"\nOpinions here do vary – I've definitely seen more than a few social media posts complaining about the optional tasks of grocery shopping for Lucia and buying her flowers, for example. They probably weren't high up the list of activities fans who planned to enter Leonida and immediately commit heinous crimes had in mind, I suppose – though it's worth keeping in mind that, again, those parts are optional.\nEqually, though, I've seen plenty of people enjoying the almost life-sim-esque vibe of GTA 6's opening hours, and that's probably reflected in how much time people spend in that first chapter. As someone who spent 18 hours in Chapter 1, you can probably guess what camp I fall into.\nRegardless, though, Vermeij reckons things really pick up by the time you reach the second chapter. \"In chapter 2, the game backs off and gives you a bunch of missions to choose from,\" he says. \"This is when the GTA magic kicks in.\"\nWeekly digests, tales from the communities you love, and more\nVermeij says he's now 46% of the way through the story in Chapter 3 and \"having loads of fun now.\" He concludes that the \"production values are unreal,\" and I don't think anyone could disagree with that.\nGTA 6 reviews have been glowing across the board, and Rockstar has already achieved almost unfathomable commercial success, with a whopping 32.5 million copies sold via pre-orders (eclipsing a figure that took Elden Ring three years to reach) and earning $3.79 billion on day one. It had the biggest entertainment launch in hist",
-    "extra": {
-     "image": "https://cdn.mos.cms.futurecdn.net/CG3GQCJ9xpUCooLVxwVPSo-1920-80.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "🎮 СИМУЛЯТОР ДЕВУШКИ в GTA 6 — это норма?\n\nБывший техдиректор Rockstar Оббе Вермей выдал базу: первая глава реально ощущается душно из-за кучи туториалов и романтики. Но уже со второй главы начинается тот самый трушный GTA-геймплей, так что терпим!\n\n❤️ — Первые часы кайф, вайбово\n👎 — Реально душно, дайте свободы",
-    "card_title": "ОЦЕНКА ЭКС-РАЗРАБОТЧИКА ROCKSTAR",
-    "reason": "Мнение бывшего техдиректора Rockstar об игре и первой главе вызвало бурные обсуждения.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-3.5-flash"
-   },
-   "queued_at": "2026-11-23T11:17:13.224845+00:00",
-   "moderation": "pending",
-   "draft_msg_id": 109
-  },
   {
    "item": {
     "title": "GTA 6: Find and break into Freddie Gibbs’ doomsday compound in Grand Theft Auto 6",
@@ -13164,9 +13199,10 @@
   "2026-11-23T10:14:32.380291+00:00",
   "2026-11-23T10:29:41.906769+00:00",
   "2026-11-23T11:56:22.914930+00:00",
-  "2026-11-23T12:26:40.287506+00:00"
+  "2026-11-23T12:26:40.287506+00:00",
+  "2026-11-23T14:20:44.184745+00:00"
  ],
- "tg_offset": 387129067,
+ "tg_offset": 387129068,
  "channel": {
   "id": -1003986639147,
   "title": "GTA 6 | Горячие новости",
@@ -19521,6 +19557,13 @@
    "title": "СТРАЙКИ ЗА СТРИМЫ GTA 6 🛑",
    "importance": 7,
    "kind": "confirmed"
+  },
+  {
+   "ts": "2026-11-23T14:20:44.184759+00:00",
+   "msg_id": 71,
+   "title": "СИМУЛЯТОР ДЕВУШКИ в GTA 6 — это норма?",
+   "importance": 7,
+   "kind": "confirmed"
   }
  ],
  "extras": [],
@@ -19618,6 +19661,96 @@
    },
    "corr": false,
    "since": "2026-11-23T14:00:21.851495+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA 6 can run at 60fps on Xbox Series X if you use a glitch, but there's a catch",
+    "link": "https://www.eurogamer.net/grand-theft-auto-6-60-fps-glitch-xbox",
+    "summary": "Grand Theft Auto 6 runs at 30 frames-per-second across all the consoles it's currently available on , including the more powerful PlayStation 5 Pro . The game doesn't offer a 60fps performance mode or an option to unlock the frame-rate, but one industrious player has managed to do it anyway on Xbox. Read more",
+    "published": "2026-11-23T14:12:00+00:00",
+    "source": "Eurogamer",
+    "site_name": "Eurogamer",
+    "trust": "high",
+    "text": "Grand Theft Auto 6 runs at 30 frames-per-second across all the consoles it's currently available on, including the more powerful PlayStation 5 Pro. The game doesn't offer a 60fps performance mode or an option to unlock the frame-rate, but one industrious player has managed to do it anyway on Xbox.\nReddit user Meowwie64 devised a way to essentially unlock GTA 6's frame-rate on Series X. Their hack relied on the Xbox's rarely-discussed Quick Resume feature, which lets you park multiple games in memory and switch between them without having to re-load each game.\nIn a detailed post, Meowwie64 shared the steps they used to trigger their glitch. For starters, you're going to need a 120Hz monitor display or TV, as the glitch requires adjusting refresh rates.\nFirst, you need to limit Xbox to display at 60Hz under the console Settings menu. Then, you start GTA 6 (version 01.002.001), wait until the six-star logo appears and then go back to Xbox Settings to change the refresh rate to 120Hz.\nBefore you return to GTA 6, the final step requires launching another game on your console. This has to be a cold boot, meaning the game shouldn't already be running parked in Quick Resume.\nAfter the second game launches, you now need to use Quick Resume to resume playing GTA 6, which is when you're going to notice the higher frame-rate. The Reddit user said the game could reach 90-plus FPS at certain moments.\nUnfortunately, the user also discovered that game-speed appears to be tied to frame-rate in GTA 6, at least when it comes to certain gameplay animations and when performing certain actions. \"I have a stable 90fps and everything works fine but Jason's animations run at 2x speed or more,\" Meowwie64 wrote. Incidentally, cutscenes do not appear to be affected by this issue, so they run at their normal speed.\nAs much as a 30fps frame-rate makes GTA 6 feel less smooth and potentially less enjoyable to play compared to 60fps or higher, none of the current-generation consoles are capable of delivering frame-rates beyond that. Tech experts Digital Foundry recently explained why even the PS5 Pro isn't powerful enough to run the game at 60fps or even 40fps.",
+    "extra": {
+     "image": "https://assetsio.gnwcdn.com/GTA6_5nov-(29).jpg?width=690&quality=85&format=jpg&auto=webp"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "РАЗГНАЛИ GTA 6 ДО 90 FPS\n\nОдин умелец на Xbox нашел лютый глитч через Quick Resume и настройки герцовки, но есть нюанс: анимации Джейсона начинают летать на двойной скорости. Баганутая катка обеспечена!\n\n❤️ — Затещу ради интереса\n👎 — Оставлю стандартные 30",
+    "card_title": "ГЛИТЧ НА 60 FPS НА XBOX",
+    "reason": "Игрок нашел глитч для разблокировки 60+ FPS на Xbox, но анимации ломаются.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-23T14:17:59.896294+00:00"
+  },
+  {
+   "item": {
+    "title": "Rumour: LA Noire 2 Is Rockstar's Next Game",
+    "link": "https://www.pushsquare.com/news/2026/11/rumour-la-noire-2-is-rockstars-next-game",
+    "summary": "Post-GTA 6 life. Okay, you'll have to stick with me for this one because it's going to take some explaining... So, all the way back in 2023, a supposed leak on the GTAForums ( please beware of potential GTA 6 spoilers if you click this link) attracted relatively little attention. At the time, there was no way to prove that any of it was legit. Read the full article on pushsquare.com",
+    "published": "2026-11-23T14:00:00+00:00",
+    "source": "Push Square",
+    "site_name": "Push Square",
+    "trust": "high",
+    "text": "Okay, you'll have to stick with me for this one because it's going to take some explaining...\nSo, all the way back in 2023, a supposed leak on the GTAForums (please beware of potential GTA 6 spoilers if you click this link) attracted relatively little attention. At the time, there was no way to prove that any of it was legit.\nThe \"leak\" in question revealed Rockstar's schedule, with the original poster claiming that a sequel to LA Noire would be the developer's next game, after GTA 6, and it was targeting a 2030 release.\nThe reason it's being brought again almost three years later — chiefly via Reddit — is because as it turns out, the leaker did get a number of details about GTA 6 correct. Most notably, they managed to provide surprisingly solid info on the game's multiple endings — and they'd obviously be quite difficult to predict without some kind of insider knowledge.\nTo be clear, not everything in the \"leak\" has ended up being correct. It's a little hit and miss, but then things can change in the space of two and a half years or so; it's possible that these inaccurate details were legit at or before the time of posting.\nI think the deciding factor for the believers here is that Rockstar moving on to a new LA Noire would make some sense.\nAssuming it's in line with the first game, you would think that it would be a much smaller production than something like Red Dead Redemption 3 — even with the tech and engine refinements the company has made with GTA 6.\nPlus, there is some LA Noire DNA in both Red Dead Redemption 2 and GTA 6; environmental and NPC interactions are key parts of Rockstar's most recent releases, and they arguably stem from LA Noire's investigative gameplay loop.\nIt's also worth remembering that after LA Noire's original developer Team Bondi was closed in 2011 (with Rockstar retaining the rights to LA Noire itself), its founder Brendan McNamara would go on to establish a new outfit called Video Games Deluxe.\nThe Australian studio crafted LA Noire: The VR Case Files years later, and even took over post-launch support for GTA: The Trilogy following its incredibly shoddy launch. Video Games Deluxe was then acquired by Rockstar in 2025, and it was renamed Rockstar Australia. Hmmm.\nSo some of this stuff seems to line up — but I don't think there's quite enough evidence here to nail the suspect. I mean, er, put your full trust in that original leak. Still, I wouldn't say no to another LA Noire.\nWould you love to see an LA Noire sequel? Feel fre",
+    "extra": {
+     "image": "https://images.pushsquare.com/3cfc9d75b96e8/large.jpg"
+    }
+   },
+   "verdict": {
+    "type": "rumor",
+    "importance": 8,
+    "post": "🔥 Слух, не подтверждено. Источник: старый «слив» с GTAForums 2023 года.\n\nRockstar следующую игру делает по мотивам LA Noire?\n\nЗвучит как бред, но логика есть. Тот же чел, что сливал расписание в 2023-м, тогда угадал концовки GTA 6. А в 2025-м Rockstar купила студию, делавшую VR-версию LA Noire. Так что база: после шестёрки нас ждёт детектив, а не RDR 3. Ждём или кринж?",
+    "card_title": "СЛУХ: LA NOIRE 2",
+    "reason": "Слух о следующей игре Rockstar, основанный на частичном подтверждении старых утечек и покупке студии. Высокая важность из-за гипотетического нового IP.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "groq:qwen/qwen3.8-27b"
+   },
+   "corr": false,
+   "since": "2026-11-23T14:18:54.843211+00:00"
+  },
+  {
+   "item": {
+    "title": "Shang-Chi star Simu Liu says GTA 6's Lucia will appreciate you buying Avengers: Doomsday tickets",
+    "link": "https://www.gamesradar.com/entertainment/marvel-movies/shang-chi-star-simu-liu-says-gta-6s-lucia-will-appreciate-you-buying-avengers-doomsday-tickets/",
+    "summary": "Simi Liu star joins in on the GTA 6 fun, saying Lucia wants you to see Avengers: Doomsday",
+    "published": "2026-11-23T13:56:42+00:00",
+    "source": "GamesRadar+",
+    "site_name": "GamesRadar+",
+    "trust": "high",
+    "text": "The biggest game of the year and the biggest superhero team-up of the year collide as Marvel's Shang-Chi star Simu Liu uses GTA 6 to promote Avengers: Doomsday.\nOver on Twitter, Liu shared a mock screengrab of the new game on Twitter, which reads, \"Lucia will appreciate this: Buy tickets for Avengers: Doomsday.\" Well, we better do what she says and preorder tickets right now. Check out the post below.\nThere is some confusion as to whether this is a real screenshot. However, it looks like the graphic was made by artist Rafael Caban, who is taking a break from Doomsday art to play GTA 6. The mock-up replicates optional tasks that players can choose to complete when they play as Jason. Completed tasks boost your relationship rating with Lucia. The way your relationship pans out affects the overall story.\nIt wouldn't be that out of the ordinary to see a Doomsday Easter egg in the new game, as fans have already found a bunch of nods to a number of TV shows and movies in GTA 6. This includes Dexter's Miami apartment from the hit Showtime crime series, as well as references to Game of Thrones author George R.R. Martin. As for Marvel, the game includes an X-Men comic and a figure who looks a lot like the Hulk.\nHowever, we don't think Marvel fans need a reminder from Lucia to buy tickets for the upcoming Marvel Phase 6 movie. Presales crossed $50 million at the start of September, 100 days before release. Some reports now suggest that the movie has crossed $120 million, but Marvel Studios has yet to confirm.\nDoomsday is set to follow \"courageous teams from three universes\" who must band together to face Robert Downey Jr.'s Doctor Doom. The synopsis continues, \"Their choices and actions in this crucial moment will lay the foundation for the future of the Multiverse.\" Alongside Liu, the movie also stars Chris Hemsworth's Thor, Chris Evans' Steve Rogers, the Thunderbolts, a bunch of the original Fox-era X-Men, the Wakandans, and more,\nAvengers: Doomsday hits cinemas on December 18, and December 16 in the UK. For more, check out our guide to the Marvel timeline, and keep up with upcoming Marvel movies and shows on the way.\nSubscribe for a weekly digest of the movie and TV news that matters, direct to your inbox. From first-look trailers, interviews, reviews and explainers, we’ve got you covered.\nFor more on GTA 6, check out our GTA 6 review and our guides to all the GTA 6 locations to visit, GTA 6 cars to collect, and GTA 6 cheats.\nI'm the Junior Social Media Editor he",
+    "extra": {
+     "image": "https://cdn.mos.cms.futurecdn.net/HrcZXsg65H3qgtsiMfyZA5-1920-80.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "🎬 СИМУ ЛИУ РЕКЛАМИРУЕТ АВЕНОЖЕРОВ ЧЕРЕЗ GTA 6\n\nЗвезда «Шан-Чи» Симу Лю выложил в Твиттер фейковый скриншот из шестерки, где Люсия якобы просит купить билеты на «Мстители: День распада». Это не реал, а мем от фаната, но вайб зашёл. В игре уже нашлись пасхалки от X-Men и «Игры престолов», так что кроссовер с Марвелом звучит как база. Кто-то уже шёл на премьеру 18 декабря?",
+    "card_title": "СИМУ ЛИУ РЕКЛАМИРУЕТ АВЕНОЖЕРОВ",
+    "reason": "Юмористическая новость о связи реального мира и GTA 6, упоминание актёра и кинематографичность темы дают высокий интерес.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "groq:qwen/qwen3.8-27b"
+   },
+   "corr": false,
+   "since": "2026-11-23T14:19:29.403303+00:00"
   }
  ]
 }
