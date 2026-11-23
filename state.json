@@ -2896,7 +2896,14 @@
   "778181336f836a57": "2026-11-23T16:42:08.822804+00:00",
   "636c5cd9e30aacfd": "2026-11-23T16:42:09.085036+00:00",
   "8d17ae54e83afb53": "2026-11-23T16:42:18.684966+00:00",
-  "2e71fe5a63549e65": "2026-11-23T16:58:00.352709+00:00"
+  "2e71fe5a63549e65": "2026-11-23T16:58:00.352709+00:00",
+  "2aa0a0d920df8c38": "2026-11-23T17:13:54.590353+00:00",
+  "ecef1799a5bfad1c": "2026-11-23T17:13:54.590453+00:00",
+  "5ef91c6b1b6bcdc6": "2026-11-23T17:13:54.590548+00:00",
+  "c6780d436d606c51": "2026-11-23T17:13:54.590626+00:00",
+  "b9f6e2281eb9d9b1": "2026-11-23T17:13:54.634043+00:00",
+  "d1971d635d38a294": "2026-11-23T17:13:55.509234+00:00",
+  "5d2e699aaf43de3d": "2026-11-23T17:31:58.145210+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -4915,7 +4922,14 @@
   "5d1a5a19e0fc5473": "2026-11-23T16:42:08.822804+00:00",
   "5b532c1f116117f3": "2026-11-23T16:42:09.085036+00:00",
   "4e6ac021a4857c02": "2026-11-23T16:42:18.684966+00:00",
-  "b41bc5795a533338": "2026-11-23T16:58:00.352709+00:00"
+  "b41bc5795a533338": "2026-11-23T16:58:00.352709+00:00",
+  "6842f72cd3ee3de5": "2026-11-23T17:13:54.590353+00:00",
+  "aa074dd1011543c4": "2026-11-23T17:13:54.590453+00:00",
+  "3d4089a12ee28999": "2026-11-23T17:13:54.590548+00:00",
+  "721d54c0d9b8504f": "2026-11-23T17:13:54.590626+00:00",
+  "3323ad0e75732e2b": "2026-11-23T17:13:54.634043+00:00",
+  "2e4475e69a8e38a0": "2026-11-23T17:13:55.509234+00:00",
+  "8a40c6e12de0e899": "2026-11-23T17:31:58.145210+00:00"
  },
  "recent": [
   {
@@ -13132,6 +13146,62 @@
    "trust": "medium",
    "status": "dup",
    "ts": "2026-11-23T16:58:00.352761+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI The Album Deluxe Edition Announced, Features 23 Bonus Tracks",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-23T17:13:54.590410+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Do You Need the Key Cloner to Steal All of GTA 6's Cars?",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-23T17:13:54.590496+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Rockstar Games and Atlantic Records share GTA VI: The Album (Deluxe Edition), featuring 23 new tracks",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-23T17:13:54.590587+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Прохождение GTA 6 — Глава 3. Миссия «Гони или сдохни»",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-23T17:13:54.590664+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "12 Of The Funniest, Most Chaotic GTA 6 Clips We’ve Seen So Far",
+   "source": "Kotaku",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-23T17:13:54.634087+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6: How to get Car Key Cloner",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-23T17:13:55.509316+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Poll: Has GTA 6 Lived Up to the Hype Over Its First Weekend?",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-23T17:31:58.145255+00:00",
    "card_title": ""
   }
  ],
