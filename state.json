@@ -2686,7 +2686,24 @@
   "5b819f16959a628a": "2026-11-23T10:27:24.013809+00:00",
   "ea19e88ac992509a": "2026-11-23T10:27:24.933081+00:00",
   "f45e89e9387d35f9": "2026-11-23T10:28:15.713811+00:00",
-  "158407355f0a7388": "2026-11-23T10:28:16.634425+00:00"
+  "158407355f0a7388": "2026-11-23T10:28:16.634425+00:00",
+  "2efda084b0d69096": "2026-11-23T10:41:40.952261+00:00",
+  "5ea6016b40556b72": "2026-11-23T10:41:42.729893+00:00",
+  "43e0a75b52565025": "2026-11-23T10:41:45.506767+00:00",
+  "970334dd1daa06fb": "2026-11-23T10:41:54.540317+00:00",
+  "ae3e6afe9cb32983": "2026-11-23T10:41:55.843039+00:00",
+  "90bd6dc5cc704250": "2026-11-23T10:41:57.260860+00:00",
+  "db7474d5997ccaca": "2026-11-23T10:41:58.573291+00:00",
+  "a9d341c87a441fe3": "2026-11-23T10:42:00.114908+00:00",
+  "10f039b80622f2fa": "2026-11-23T10:42:01.362484+00:00",
+  "0591aaab9504f796": "2026-11-23T10:57:56.927419+00:00",
+  "e235db6c6f98b652": "2026-11-23T10:58:09.576723+00:00",
+  "0393295216ff34df": "2026-11-23T10:59:28.443859+00:00",
+  "4894de82b8e4416c": "2026-11-23T10:59:45.803160+00:00",
+  "5d1ae5d7c02f9fc3": "2026-11-23T10:59:55.795515+00:00",
+  "3c7139f60c551e08": "2026-11-23T10:59:59.942366+00:00",
+  "ed51fef524eec067": "2026-11-23T11:00:00.970243+00:00",
+  "58fb48ccfea2a29a": "2026-11-23T11:00:04.664170+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -4527,7 +4544,23 @@
   "770840c3dc560643": "2026-11-23T10:25:49.201071+00:00",
   "35f45e757c2e88b7": "2026-11-23T10:25:49.914198+00:00",
   "7e8d460fc4dcea35": "2026-11-23T10:25:53.490544+00:00",
-  "3fd3ced62371c2be": "2026-11-23T10:26:24.514175+00:00"
+  "3fd3ced62371c2be": "2026-11-23T10:26:24.514175+00:00",
+  "a97b2f646c06e4fa": "2026-11-23T10:41:45.506767+00:00",
+  "c40713574ada7a26": "2026-11-23T10:41:42.729893+00:00",
+  "f7a5382e93ca1be1": "2026-11-23T10:41:54.540317+00:00",
+  "4fe4e7e49411f902": "2026-11-23T10:41:55.843039+00:00",
+  "e452a519fa804bca": "2026-11-23T10:41:57.260860+00:00",
+  "990143a48f7d007c": "2026-11-23T10:41:58.573291+00:00",
+  "91d80b5e532fb6cd": "2026-11-23T10:42:00.114908+00:00",
+  "600451412c3e131d": "2026-11-23T10:42:01.362484+00:00",
+  "b48938f14bfa857f": "2026-11-23T10:57:56.927419+00:00",
+  "cfec43b761532460": "2026-11-23T10:58:09.576723+00:00",
+  "8d4aca009684700f": "2026-11-23T10:59:28.443859+00:00",
+  "3536f47fbead1fcd": "2026-11-23T10:59:45.803160+00:00",
+  "c1764bc83c345c7d": "2026-11-23T10:59:55.795515+00:00",
+  "5c187d319e133550": "2026-11-23T10:59:59.942366+00:00",
+  "9cb4d4d5edc7d34b": "2026-11-23T11:00:00.970243+00:00",
+  "3acb9f58639ce1e3": "2026-11-23T11:00:04.664170+00:00"
  },
  "recent": [
   {
@@ -11513,6 +11546,142 @@
    "status": "skipped",
    "ts": "2026-11-23T10:26:24.514301+00:00",
    "card_title": ""
+  },
+  {
+   "title": "Naughty Dog Dev: GTA 6 Appears to Him ‘as a Bugatti Veyron Would to a Nervous Victorian Child’",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-23T10:41:40.952300+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "We got GTA 6 before Winds of Winter, and now the game features two shoutouts to Game of Thrones creator George RR Martin",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-23T10:41:43.957284+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Naughty Dog Dev: GTA 6 Appears to Him ‘as a Bugatti Veyron Would to a Nervous Victorian Child’",
+   "source": "IGN",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-23T10:41:53.418906+00:00",
+   "card_title": "ДЕВЫ В ШОКЕ ОТ GTA 6"
+  },
+  {
+   "title": "GTA 6 Story Leak: 6 L.A. Noire 2 Claims, 0 Confirmed",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T10:41:54.540431+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6's Goth Girl Vicki Actor Starred In A 10/10 Netflix Series",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T10:41:55.843170+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "'GTA 6' Online release update: What we know about when it comes out.",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T10:41:57.260987+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Отец киберпанка Уильям Гибсон признался, что ни разу не играл в видеоигры, но GTA 6 его заинтриговала",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T10:41:58.573416+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI получила 4,8 баллов из 5 от игроков на PlayStation и Xbox",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T10:42:00.115065+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Игроки GTA 6 месяцами не забирают Лусию из тюрьмы, ведь без неё жизнь Джейсона слишком хороша",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T10:42:01.362614+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 New Update Releasing in Phases; Size Revealed?",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-23T10:57:56.927526+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6's Leads and Phil Collins Are All Repping Their Characters on Instagram",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "queued",
+   "ts": "2026-11-23T10:59:27.177308+00:00",
+   "card_title": "АКТЕРЫ ГТА В АВАТАРКАХ"
+  },
+  {
+   "title": "GTA 6 Down to Earth mission guide: seaplane drug drops and a parole officer visit",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T10:59:28.444006+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Хайп вокруг GTA VI может стать последним массовым событием в индустрии",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T10:59:45.803288+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Neuralink participant plays GTA 6 without a controller using nothing but his thoughts",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T10:59:55.795631+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Как открыть дорогие машины в ГТА 6. Где взять клонировщик ключей в GTA 6",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T10:59:59.942488+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Toob sees record network traffic ahead of GTA VI launch",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T11:00:00.970356+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 — мировая сенсация, а на Reddit постоянно возникают технические проблемы.",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T11:00:04.664287+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -11544,6 +11713,37 @@
     "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-3.5-flash"
    },
    "queued_at": "2026-11-23T01:06:51.441416+00:00"
+  },
+  {
+   "item": {
+    "title": "Naughty Dog Dev: GTA 6 Appears to Him ‘as a Bugatti Veyron Would to a Nervous Victorian Child’",
+    "link": "https://www.ign.com/articles/naughty-dog-dev-gta-6-appears-to-him-as-as-a-bugatti-veyron-would-to-a-nervous-victorian-child",
+    "summary": "Developers are stunned at how dramatically advanced GTA 6 is.",
+    "published": "2026-11-23T07:58:42+00:00",
+    "source": "IGN",
+    "site_name": "IGN",
+    "trust": "high",
+    "text": "Developers are stunned at how dramatically advanced GTA 6 is.\nJust like the rest of us, developers the world over are playing GTA 6. Just like the rest of us, they’re also finding themselves blown away by just how dramatically advanced and impressive GTA 6 is proving to be. However, as professionals with a far, far firmer idea of how the sausage gets made than regular punters, precisely how impressed some developers are is speaking volumes about just what a technical achievement GTA 6 really does represent.\nNaughty Dog world design director Michael Barclay, presently working on Intergalactic: The Heretic Prophet, minces no words.\n“I’ve made video games for 19 years and GTA VI appears to me as a Bugatti Veyron would to a nervous Victorian child,” writes Barclay via social media.\nBarclay is far from alone, with a host of developers in the replies to Barclay’s comment expressing like sentiments in the days following GTA 6’s release.\nPayday 2 game director David Goldfarb, who previously worked on Mirror’s Edge and a variety of Battlefield games, is similarly stunned.\n“Been making games over 30 years… Can’t even find words for what I’m playing now,” he writes, later noting he’s “never been this floored by anything ever.”\nCharacter artist Del Walker (Suicide Squad: Kill the Justice League, The Last of Us: Part II, Star Wars: Jedi - Survivor) quips he simply can’t explain what he’s seeing despite his background in the business.\n“Every GTA clip gets sent to me in the group chat with. ‘You’re a game dev. How did they do this?” he writes. “Brother, I wasn’t there when they opened the portal? This is not magic I recognize.”\nGTA 6 arrived late last week, smashing records as the biggest entertainment launch of all time, with retail sales reaching $3.79 billion in its first 24 hours. In my review for IGN I called it “the single most impressive video game I have ever played,” something that is making increasingly more sense to me the more other developers I note making comments like the above.\nJust getting started in GTA 6, or wondering what to do next? You can get stuck into the Official Grand Theft Auto 6 guide right here on IGN, consult our Beginner's Guide or Leonida interactive map, or get an idea of all the incredible flourishes to keep an eye out for by checking out our look at 99 incredible details you can find in GTA 6.\nLuke Reilly is an award-winning journalist with 23 years of media experience. He previously served as Editor of Official PlayStation Magazine – ",
+    "extra": {
+     "image": "https://assets-prd.ignimgs.com/2026/11/18/g-blog-6-1795002008156.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "🚗 Разработчик Naughty Dog в ШОКЕ от технологий GTA 6\n\nДевы из топовых студий массово выпадают в осадок с механик шестёрки. Дизайнер Naughty Dog Майкл Баркли вообще заявил, что чувствует себя нервным викторианским ребёнком перед «Бугатти Вейрон». Индустрия в полном тильте и не понимает, какую магию Rockstar применила при создании игры. Топчик!\n\n❤️ — Rockstar реально гении!\n👎 — Да ладно, просто навалили хайпа",
+    "card_title": "ДЕВЫ В ШОКЕ ОТ GTA 6",
+    "reason": "Разработчики из Naughty Dog и других студий в шоке от технологического уровня GTA 6, официально от IGN.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "Naughty Dog Dev: GTA 6 Appears to Him ‘as a Bugatti Veyron Would to a Nervous Victorian Child’",
+    "corroborated_by": "Naughty Dog Dev: GTA 6 Appears to Him ‘as a Bugatti Veyron Would to a Nervous Victorian Child’",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-3.5-flash"
+   },
+   "queued_at": "2026-11-23T10:41:53.418896+00:00",
+   "moderation": "pending",
+   "draft_msg_id": 104
   },
   {
    "item": {
@@ -11692,6 +11892,35 @@
   },
   {
    "item": {
+    "title": "GTA 6's Leads and Phil Collins Are All Repping Their Characters on Instagram",
+    "link": "https://www.gtaboom.com/gta-6s-leads-and-phil-collins-are-all-repping-their-characters-on-instagram-b8ea",
+    "summary": "GTA 6’s leads put Jason and Lucia on their Instagram profiles, while Phil Collins picked his likeness from 2006’s Vice City Stories.",
+    "published": "2026-11-23T10:51:35+00:00",
+    "source": "GTA BOOM",
+    "site_name": "GTA BOOM",
+    "trust": "medium",
+    "text": "A profile picture generally doesn't mean anything, but three of them in the same week is interesting, to say the least. bigger story. The two actors behind Grand Theft Auto VI's Jason and Lucia just swapped their Instagram faces for their in-game characters. So did Phil Collins, who has not been in a Grand Theft Auto game for 20 years. After the years of silence Rockstar Games wrapped around this cast, watching the talent proudly wear these roles, especially Phil Collins, is something.\nDylan Rourke and Manni L. Perez said nothing for years while fans tried to unmask them, then stepped out together on launch day with a joint post that signed off \"See y'all in Leonida.\"\nChanging their profile pictures to Jason and Lucia was the exclamation point, a public claim on roles they could not even admit to a week earlier.\nThen came the fun one. Phil Collins set his official Instagram picture to his own likeness from Grand Theft Auto: Vice City Stories, the 2006 game where he played himself across the \"Kill Phil\" missions and an in-game concert set to \"In the Air Tonight.\" He was the first real celebrity to appear as himself in a Grand Theft Auto game. Two decades later he is still claiming the role and proud of it!\nThe timing is a happy accident, since Grand Theft Auto: Vice City Stories just got a native PC port that makes his old performance playable again without an emulator.\nThis is 20 years of GTA in one screenshot. Two brand-new leads from the biggest launch in history, next to a music legend from a spin-off title on the PlayStation Portable most people have not touched since 2006. We are not going to pretend this was a coordinated campaign, three people changed a picture on their own. What it shows is that being part of a GTA game is now something people want their face attached to, whether they joined last week or during the Bush administration.\nThe contrast with how we got here is sharp. Rockstar spent years treating the identities of its leads like state secrets. Now these actors are grinning out of their profile pictures while a guest star from 2006 joins the party. The vault opened and nobody inside seems to miss the secrecy.\nWe have followed this cast from the fan hunt to the eight Game Awards nominations it earned, through the optional relationship that ties Jason and Lucia together on screen. The profile-picture moment is a quieter footnote to all of it, the human beings behind the pixels taking a visible bow.\nA changed profile picture is nothing on i",
+    "extra": {
+     "image": "https://media.gtaboom.com/variants/1920/media/images/62/ab/gta-6s-leads-and-phil-collins-are-all-repping-their-characters-on-instagram.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "📸 Актеры GTA 6 СМЕНИЛИ аватарки на своих героев\n\nДилан Рурк и Манни Перес официально флексят ролями Джейсона и Лусии в инсте. А легенда Phil Collins поднял олдовый вайб и поставил на аву своего персонажа из Vice City Stories. Легендарный сходняк!",
+    "card_title": "АКТЕРЫ ГТА В АВАТАРКАХ",
+    "reason": "Atris and Phil Collins changed their Instagram avatars to GTA 6 and Vice City characters after the game's launch, which is a cool fun fact confirmed by media.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-3.5-flash"
+   },
+   "queued_at": "2026-11-23T10:59:27.177298+00:00"
+  },
+  {
+   "item": {
     "title": "How to Find and Keep Dom's Charger in GTA 6",
     "link": "https://www.gtaboom.com/how-to-find-and-keep-doms-charger-in-gta-6-0143",
     "summary": "Find Dom’s Charger lookalike behind a house in Grayson, respray it black and keep it with Moses’s free first registration in Chapter 2.",
@@ -11821,7 +12050,8 @@
   "2026-11-23T07:01:27.603407+00:00",
   "2026-11-23T08:02:17.685960+00:00",
   "2026-11-23T09:03:49.755980+00:00",
-  "2026-11-23T10:03:54.460173+00:00"
+  "2026-11-23T10:03:54.460173+00:00",
+  "2026-11-23T11:04:22.094502+00:00"
  ],
  "slots_sent": {
   "2026-11-21:guide:1": "2026-11-21T21:14:52.573728+00:00",
