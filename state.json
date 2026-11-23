@@ -2886,7 +2886,16 @@
   "8939f0521389e006": "2026-11-23T16:08:46.691454+00:00",
   "811671e016cc47c7": "2026-11-23T16:08:46.691551+00:00",
   "7ed5fa9a3304b2b2": "2026-11-23T16:08:46.691635+00:00",
-  "4e09286245b6dbab": "2026-11-23T16:08:46.759549+00:00"
+  "4e09286245b6dbab": "2026-11-23T16:08:46.759549+00:00",
+  "2831b8afa13aba2b": "2026-11-23T16:25:17.475357+00:00",
+  "9d6c20d96c8c6df0": "2026-11-23T16:25:17.475450+00:00",
+  "174a6614680e6b15": "2026-11-23T16:25:17.475530+00:00",
+  "522cd747471f666a": "2026-11-23T16:25:17.786091+00:00",
+  "c414cafa1f794a63": "2026-11-23T16:42:08.704900+00:00",
+  "98fc85b7b87fb11e": "2026-11-23T16:42:08.788532+00:00",
+  "778181336f836a57": "2026-11-23T16:42:08.822804+00:00",
+  "636c5cd9e30aacfd": "2026-11-23T16:42:09.085036+00:00",
+  "8d17ae54e83afb53": "2026-11-23T16:42:18.684966+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -4895,7 +4904,16 @@
   "605932b8dfbe1e5d": "2026-11-23T16:08:46.691454+00:00",
   "81ec01785db3be4e": "2026-11-23T16:08:46.691551+00:00",
   "8e36808bdbef0e6c": "2026-11-23T16:08:46.691635+00:00",
-  "fcb6117156dff7a5": "2026-11-23T16:08:46.759549+00:00"
+  "fcb6117156dff7a5": "2026-11-23T16:08:46.759549+00:00",
+  "7273c91d6129de93": "2026-11-23T16:25:17.475357+00:00",
+  "3a4597340106efe7": "2026-11-23T16:25:17.475450+00:00",
+  "95c7abb55020e28f": "2026-11-23T16:25:17.475530+00:00",
+  "6f42a8e96142b61e": "2026-11-23T16:25:17.786091+00:00",
+  "5985eb5c78bbe8ff": "2026-11-23T16:42:08.704900+00:00",
+  "27a124cdc61ac767": "2026-11-23T16:42:08.788532+00:00",
+  "5d1a5a19e0fc5473": "2026-11-23T16:42:08.822804+00:00",
+  "5b532c1f116117f3": "2026-11-23T16:42:09.085036+00:00",
+  "4e6ac021a4857c02": "2026-11-23T16:42:18.684966+00:00"
  },
  "recent": [
   {
@@ -13041,6 +13059,70 @@
    "status": "dup",
    "ts": "2026-11-23T16:08:46.759582+00:00",
    "card_title": ""
+  },
+  {
+   "title": "Первый уик-энд GTA 6: продажи, рекорды, отзывы и главные итоги",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-23T16:25:17.475402+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "60 hours in GTA 6 has me yearning for an online Leonida",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-23T16:25:17.475491+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to find golden Lamborghini Huracan and Urus in GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-23T16:25:17.475563+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to find Paul Walker's Fast and Furious car in GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-23T16:25:17.786135+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6's First Patch Fixes Some Crashes And Bugs",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-23T16:42:08.704946+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "This Terrifying GTA 6 Easter Egg Will Give You Nightmares",
+   "source": "GameSpot",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-23T16:42:08.788581+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to find the serial killer in GTA 6",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-23T16:42:08.822844+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Update 01.002.002 Patch Notes: Rockstar Confirms 7 Fixes",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-23T16:42:09.085103+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -19558,6 +19640,36 @@
    },
    "corr": false,
    "since": "2026-11-23T15:52:00.669168+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA 6 PC version is close, modders say after Cyberleek releases executable: \"The game almost boots\"",
+    "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-pc-version-is-close-modders-say-after-cyberleek-releases-executable-the-game-almost-boots/",
+    "summary": "GTA 6 Xbox EXE triggers new wave of recompilation work",
+    "published": "2026-11-23T16:39:01+00:00",
+    "source": "GamesRadar+",
+    "site_name": "GamesRadar+",
+    "trust": "high",
+    "text": "An unofficial GTA 6 PC release is in sight. GTA 6 leaker Cyberleek has released the executable file for the Xbox build of the game, which was shared earlier this month, formally firing the starting shot on recompilation work that could soon see Rockstar's game running on PC.\nUsers flagged the November 23 release of the Xbox EXE online. \"The torch passes to the open source recomp and emulation projects. Before trusting any file, verify it,\" a message from Cyberleek reads.\nProject Leonida is at the forefront of those recompilation efforts, pushing for a native GTA 6 version based on the leaked Xbox build. One of Leonida's lead developers, Shayder, reacted to the executable leak on Twitter: \"CL has just dropped the exe, expect a lot of static recompilation work to be done soon.\"\nLeonida is currently available to access online, with its creators noting it \"does not contain the game, keys or an executable, and it does not explain how to get them. You need your own copy, with its files already readable on disk. Nothing here decrypts or works around any protection.\" You'll be shocked to hear the recomp is co-authored by Claude AI.\nThe release of this executable has not changed that, but it has kicked the GTA 6 PC race into high gear.\nJust hours after the EXE arrived, an update went out to the Leonida Discord server: \"The game almost boots. Black screen, audio cuts off.\"\nAfter the news broke, the Leonida Discord server buckled under an influx of new users, forcing the moderators to end a live stream amid a temporary outage. The server was \"not nuked,\" says one admin.\nWeekly digests, tales from the communities you love, and more\nThe latest Leonida status update reads: \"Everything that can be done without the game's executable is in place, so work on booting can start as soon as one is available to a developer.\" Development is moving fast with that keystone now in place, though the game remains unplayable on PC.\nAn official GTA 6 PC version is expected to be released in the next year or two at the latest, following Rockstar's pattern with titles like GTA 5 and Red Dead Redemption 2.\nPreviously, CEO Strauss Zelnick of Rockstar owner Take-Two Interactive said GTA 6 being pirated is just \"a fact of life,\" though he also said the company has its legal team on standby to handle any problems. I wonder how they'd react to a playable PC build surfacing, currently, less than one week after GTA 6's console launch.\nGTA 6's Lucia is \"long overdue,\" OG Grand Theft Auto lead says",
+    "extra": {
+     "image": "https://cdn.mos.cms.futurecdn.net/qftUB3KeiYNLRLCEWMq4EY-1920-80.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "⚡️ Слили экзешник GTA 6\n\nМоддеры получили файлы консольной версии и уже пытаются запустить игру на ПК. До полноценного порта еще далеко, но черный экран с жужжанием звука уже поймали.\n\n❤️ — Ждем на ПК\n👎 — Консольный эксклюзив база",
+    "card_title": "ЭКЗЕШНИК GTA 6 НА ПК",
+    "reason": "Новость о сливе exe-файла и попытках запустить игру на ПК освещена крупными СМИ.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "До появления GTA 6 на ПК осталось... Cyberleek слила exe-файл в Сеть",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-23T16:42:19.789377+00:00"
   }
  ]
 }
