@@ -2743,7 +2743,29 @@
   "08f6a8b1031c9a29": "2026-11-23T11:54:50.025182+00:00",
   "c59c28828c1f3068": "2026-11-23T11:54:51.750236+00:00",
   "ea2b1defdc7df15b": "2026-11-23T11:54:55.262352+00:00",
-  "283ba6aa1e96c070": "2026-11-23T11:54:56.507676+00:00"
+  "283ba6aa1e96c070": "2026-11-23T11:54:56.507676+00:00",
+  "aa93e67043bdb8a8": "2026-11-23T12:11:10.724269+00:00",
+  "06e67a44df21e808": "2026-11-23T12:11:10.724351+00:00",
+  "50ed064ea0094221": "2026-11-23T12:11:10.918415+00:00",
+  "096901b685733203": "2026-11-23T12:13:26.309799+00:00",
+  "40e006dad073fb3c": "2026-11-23T12:14:15.588453+00:00",
+  "5f11a32cb9acdbff": "2026-11-23T12:14:17.137547+00:00",
+  "739639f5e128c70b": "2026-11-23T12:14:25.102272+00:00",
+  "6229460a358e67a2": "2026-11-23T12:14:47.408433+00:00",
+  "3e0df4e5ab9abc44": "2026-11-23T12:15:08.622349+00:00",
+  "566cd9eb092f9ad3": "2026-11-23T12:15:28.428805+00:00",
+  "fdaab75eb216e52e": "2026-11-23T12:15:51.043313+00:00",
+  "2d81a93b4857fb1b": "2026-11-23T12:31:08.585379+00:00",
+  "87134efec198d384": "2026-11-23T12:31:08.585464+00:00",
+  "01c4aafc6a54961e": "2026-11-23T12:31:08.585557+00:00",
+  "5fad4ba281326531": "2026-11-23T12:31:11.413947+00:00",
+  "569a9e6d63e4b4e7": "2026-11-23T12:31:13.114464+00:00",
+  "6b4fd36ed59951d0": "2026-11-23T12:31:15.713541+00:00",
+  "e0b4b48032b5891e": "2026-11-23T12:31:35.142448+00:00",
+  "8c1ce6b016898200": "2026-11-23T12:31:37.154567+00:00",
+  "930a3452234c7fe6": "2026-11-23T12:31:38.169720+00:00",
+  "807a4925db0187b7": "2026-11-23T12:31:39.328265+00:00",
+  "78ee5fd248b87214": "2026-11-23T12:31:40.741143+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -4631,7 +4653,27 @@
   "f5991becb73a0472": "2026-11-23T11:54:50.025182+00:00",
   "afceb8e865af9422": "2026-11-23T11:54:51.750236+00:00",
   "077b2a5223366604": "2026-11-23T11:54:55.262352+00:00",
-  "6bfe06e1db8b53a6": "2026-11-23T11:54:56.507676+00:00"
+  "6bfe06e1db8b53a6": "2026-11-23T11:54:56.507676+00:00",
+  "0f1375c99afc4d2b": "2026-11-23T12:14:15.588453+00:00",
+  "dd97efa95d1d7a4c": "2026-11-23T12:11:10.724351+00:00",
+  "12e660ee284d4fef": "2026-11-23T12:11:10.918415+00:00",
+  "785a8552e2e02eb4": "2026-11-23T12:13:26.309799+00:00",
+  "b016c58150b5a574": "2026-11-23T12:14:17.137547+00:00",
+  "c5515485f1a42fd5": "2026-11-23T12:14:25.102272+00:00",
+  "5df156aa45152791": "2026-11-23T12:14:47.408433+00:00",
+  "18cc3909053c3907": "2026-11-23T12:15:08.622349+00:00",
+  "35f0f079d8ad1795": "2026-11-23T12:15:28.428805+00:00",
+  "842e8141aad41f99": "2026-11-23T12:15:51.043313+00:00",
+  "1c819418c01639c4": "2026-11-23T12:31:11.413947+00:00",
+  "e54e6b5c68ff8692": "2026-11-23T12:31:08.585464+00:00",
+  "c72e5cf401090c2a": "2026-11-23T12:31:08.585557+00:00",
+  "4a02b1774f041eed": "2026-11-23T12:31:13.114464+00:00",
+  "44322e6b7f01685c": "2026-11-23T12:31:15.713541+00:00",
+  "498ed45357da640a": "2026-11-23T12:31:35.142448+00:00",
+  "5306146b0962c7c0": "2026-11-23T12:31:37.154567+00:00",
+  "ffa3d7591869a8e4": "2026-11-23T12:31:38.169720+00:00",
+  "15a635d0808cdd40": "2026-11-23T12:31:39.328265+00:00",
+  "d33e2f63ae6a70fb": "2026-11-23T12:31:40.741143+00:00"
  },
  "recent": [
   {
@@ -11886,7 +11928,7 @@
    "title": "GTA 6 Streams Hit With Indiscriminate Copyright Claims by Reggaeton Artist",
    "source": "Polygon",
    "trust": "high",
-   "status": "queued",
+   "status": "published",
    "ts": "2026-11-23T11:37:31.359300+00:00",
    "card_title": "СТРАЙКИ ЗА СТРИМЫ GTA 6"
   },
@@ -12001,6 +12043,222 @@
    "status": "skipped",
    "ts": "2026-11-23T11:54:56.507786+00:00",
    "card_title": ""
+  },
+  {
+   "title": "How to Flip Cars in GTA 6: Step-By-Step Guide",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-23T12:11:10.724312+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Kit Car - Watson Bay",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-23T12:11:10.724394+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Where to Find the Hulk in GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-23T12:11:10.918492+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Россияне лишились доступа к GTA Online и RDR — возникли проблемы с лаунчером Rockstar Games",
+   "source": "iXBT.games",
+   "trust": "medium",
+   "status": "queued",
+   "ts": "2026-11-23T12:11:43.834604+00:00",
+   "card_title": "ОТКЛЮЧЕНИЕ GTA ONLINE"
+  },
+  {
+   "title": "GTA 6: Find and break into Freddie Gibbs’ doomsday compound in Grand Theft Auto 6",
+   "source": "VGC",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-23T12:11:46.101677+00:00",
+   "card_title": "ФРЕДДИ ГИББС: БУНКЕР"
+  },
+  {
+   "title": "Пенсионерам дали попробовать GTA VI — им так понравилось, что теперь они просят её в подарок на Рождество",
+   "source": "iXBT.games",
+   "trust": "medium",
+   "status": "queued",
+   "ts": "2026-11-23T12:12:03.057420+00:00",
+   "card_title": "ПЕНСИОНЕРЫ И GTA VI"
+  },
+  {
+   "title": "First GTA VI Patch Release Time Revealed, Download Size Confirmed",
+   "source": "Rockstar Intel",
+   "trust": "medium",
+   "status": "queued",
+   "ts": "2026-11-23T12:12:30.085468+00:00",
+   "card_title": "ПАТЧ GTA VI: РАЗМЕР И ВРЕМЯ"
+  },
+  {
+   "title": "GTA 6 Update 01.002.002—All Changes & Download Size",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "queued",
+   "ts": "2026-11-23T12:13:00.786167+00:00",
+   "card_title": "ОБНОВЛЕНИЕ GTA 6 01.002.002"
+  },
+  {
+   "title": "Ocean View Hotel GTA 6 Location Guide: Where to find the Vapid ’55 Stainer",
+   "source": "VGC",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-23T12:13:40.145783+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to Flip Cars in GTA 6: Step-By-Step Guide",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-23T12:14:15.588574+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 PS5 Players Suffering Game Crashes – With Some Consoles Even Dying On Players",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T12:14:17.137666+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 выйдет на ПК 23 ноября? Всё об утечке Cyberleek",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T12:14:25.102401+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Can You Replay Missions in GTA 6? When to Save and How to Get Missables",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T12:14:47.408555+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 раскрыла измену: девушка вычислила неверного бойфренда благодаря игре",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T12:15:08.622489+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How smart network planning helped Clemson handle the GTA 6 launch",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T12:15:28.428930+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 is already the most preordered game ever on PlayStation and Xbox — and launch day hasn't even arrived",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T12:15:51.043454+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "First GTA 6 PS5 Patch Live Now, Get All the Details Here",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-23T12:31:08.585422+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Here's how to get Vanessa's laptop password and find Auntie's Place in La Perle in GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-23T12:31:08.585511+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Patch Update 01.002.002 Is Live on PS5 and Xbox Series X – Patch Notes",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-23T12:31:08.585599+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "First GTA 6 PS5 Patch Live Now, Get All the Details Here",
+   "source": "Push Square",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-23T12:31:11.414071+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6: Recover Jason’s stash from Key Lento in Grand Theft Auto 6",
+   "source": "VGC",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-23T12:31:13.932800+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA's treatment of women 'has not been good', says Rockstar vet delighted by 'long overdue' female protagonist in GTA 6",
+   "source": "PC Gamer",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-23T12:31:28.067638+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 laptop password and where to find Auntie's Place in La Perle",
+   "source": "PC Gamer",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-23T12:31:35.912117+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "🇺🇸 I thought GTA VI had gone woke. This bit changed my mind way too fast! 🤣 Writer: Mhedi",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T12:31:37.154689+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Big pharmas ride GTA VI’s promotional coattails in tribute to global phenomenon",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T12:31:38.169858+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Credits 2 Sikkim Artists in Characters Team",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T12:31:39.328377+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Rockstar спрятала в GTA 6 девушку из первого трейлера и подшутила над фанатскими теориями",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T12:31:40.741277+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -12064,34 +12322,32 @@
   },
   {
    "item": {
-    "title": "GTA 6 Streams Hit With Indiscriminate Copyright Claims by Reggaeton Artist",
-    "link": "https://www.polygon.com/gta-6-streamers-copyright-claim-frank-el-santo/",
-    "summary": "Colombian reggaeton artist Frank El Santo took down GTA 6 livestreams on YouTube through a barrage of 'automated' copyright claims.",
-    "published": "2026-11-23T11:01:11+00:00",
-    "source": "Polygon",
-    "site_name": "Polygon",
+    "title": "GTA 6: Find and break into Freddie Gibbs’ doomsday compound in Grand Theft Auto 6",
+    "link": "https://www.videogameschronicle.com/guide/gta-6-find-break-in-freddie-doomsday-compound-grand-theft-auto/",
+    "summary": "How to find Freddie Gibbs, enter his compound, and get rewards in Grand Theft Auto 6",
+    "published": "2026-11-23T11:31:32+00:00",
+    "source": "VGC",
+    "site_name": "VGC",
     "trust": "high",
-    "text": "On Nov. 22, streamers who uploaded their GTA 6 gameplay on YouTube were suddenly hit with a barrage of copyright strikes. They all came from a single source: Colombian reggaeton artist Frank \"El Santo.\"\nThe Medellín-born singer and songwriter, whose real name is Andrés Mauricio Arango Flórez, played GTA 6 on stream on his YouTube channel. His footage was then used to auto-claim copyright on anyone who was playing the game live on YouTube. This resulted in indiscriminate strikes against users, including big channels such as theRadBrad (14.1 million subscribers) and HollowPoiint (5.2 million subscribers).\nReggaeton artist hits major YouTube streamers with GTA 6 copyright strikes\nThis seemingly absurd situation arose from a combination of specific circumstances and YouTube's often-criticized copyright policies. Frank El Santo's YouTube channel contains his official music videos, so it's possible that the platform mistakenly deemed the GTA 6 gameplay video eligible for copyright claims. After commenters pointed out the issue during his stream, Arango Flórez deleted the gameplay video, but the copyright strikes continued until the YouTube team intervened.\nArango Flórez's only official response to the issue is a comment under his now-deleted gameplay video, stating that the claims were not filed by him and were instead the result of the automated Content ID system. However, YouTube doesn't necessarily issue copyright claims automatically​​​​​​​. Many angry fans online​​​​​​​ are claiming that the artist must have done this on purpose.\nRegardless of the intent, this episode highlights that YouTube's copyright policies are either ineffective or outright damaging to its users. The company relies on automated processes and AI-assisted tools to detect copyright infringement​​​​​​​, often resulting in videos being taken down or demonetized without proper reason. As HollowPoiint put it in a post on X where he praised YouTube's quick intervention to resolve the GTA 6 El Santo issue, \"Now we just need a better system in place.\"\nGTA 6 has been streamed nonstop since the game launched on Nov. 19. Millions of people worldwide are experiencing the game not by playing it themselves, but by watching other people play it. While this can often result in biased opinions, it's also undeniable that not everyone will be able to play Rockstar's game from the start, especially considering its hefty price. Despite its shortcomings​​​​​​​, streaming is still an important element of vide",
+    "text": "Rapper Freddie Gibbs is in Grand Theft Auto 6, and he’s a doomsday prepper with an impressive compound and bunker.\nFreddie is convinced that the apocalypse is coming, so he’s built up a doomsday bunker and compound, complete with an electric fence, mines, and even explosive drones. That’s just the defenses — he’s really prepared for the world to end.\nFreddie is a pretty nice and generous guy once you get to know him, but getting to know him isn’t so easy. In this guide, we’re breaking down how to find and break into Freddie’s compound both times in GTA 6.\nHow to find Freddie’s doomsday bunker – GTA 6\nFreddie’s compound is located on the North shore of Lake Leonida in North Leonard County. It’s on the same road as One-Eyed Willie’s Auto Shop (Ultimate Edition exclusive). You can’t miss it as it’s a large compound surrounded by electric fences, and has multiple billboards propped up warning about the end of the world.\nHow to break into Freddie’s compound – GTA 6\nThe first time you break into Freddie’s compound, it has an obvious flaw.\nA water tower to the rear of the compound is outside of the electric fence. It has an unblocked ladder that you can climb to take you up to a platform, from which you can jump onto the roof of a shed inside the electric fence.\nYou will have to watch out for both proximity mines and drones. Proximity mines will be highlighted in Focus mode, and when you hear a drone, Focus mode will again give you enough time to shoot them down. The best route through the compound is sticking close to the fence while heading East, and then South. Proximity mines will not be placed on the pipes and cables in the compound, meaning you can use them as a walkway.\nYou will complete the challenge by getting to the front door of the large dug-out bunker. The first time you complete this challenge, Freddie will free you and challenge you to return later, after he improves his defenses.\nHow to break into Freddie’s compound again – GTA 6\nAfter some time, Freddie will text Jason and Lucia, challenging them to a rematch. You need to break into his compound and get to the door of his bunker again, only this time the water tower isn’t an option, and the proximity mines and drones have been buffed.\nNothing is impossible, though, and Jason and Lucia are both pretty good climbers who are able to clamber on top of large vehicles. You see where this is going.\nTo the rear of the compound – the Northwest corner – you’ll find a tractor with a large trailer, along wit",
     "extra": {
-     "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/ultimate_edition_vice_city_style_04.jpg"
+     "image": "https://www.videogameschronicle.com/files/2026/11/GTA-6-Find-and-infiltrate-Freddie-Gibbs-doomsday-compound-in-Grand-Theft-Auto-6-6.jpg"
     }
    },
    "verdict": {
     "type": "confirmed",
-    "importance": 7,
-    "post": "СТРАЙКИ ЗА СТРИМЫ GTA 6 🛑\n\nКолумбийский певец Frank El Santo постримил GTA 6 на YouTube, и алгоритмы площадки сгенерили масс-баны. В бан-хаммер отлетели даже гиганты вроде theRadBrad и HollowPoiint.\n\nМузыкант уже удалил ролик и божится, что это автосистема ютуба сошла с ума. Рил лютый кринж, ютубу пора чинить алгоритмы.",
-    "card_title": "СТРАЙКИ ЗА СТРИМЫ GTA 6",
-    "reason": "Крупный скандал со страйками на стримах GTA 6 из-за сбоя YouTube и артиста",
+    "importance": 6,
+    "post": "🔓 Как пробраться в бункер Фредди Гиббса\n\nНайди его укреплённый компаунд на северном берегу озера Леонида и взломай защиту — первый раз зайди через водяную башню, а потом покажи, что ты умеешь, когда всё подмонтировано. Топовый челлендж с минными полями и дронами, так что включай фокус и готовься к разлёту!",
+    "card_title": "ФРЕДДИ ГИББС: БУНКЕР",
+    "reason": "Гайд по проникновению в бункер Фредди Гиббса в игре",
     "duplicate": false,
     "corroborated": false,
     "duplicate_of": "",
-    "corroborated_by": "GTA 6 Streams Hit With Indiscriminate Copyright Claims by Reggaeton Artist",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-3.5-flash"
+    "corroborated_by": "",
+    "guide": true,
+    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
    },
-   "queued_at": "2026-11-23T11:37:31.359280+00:00",
-   "moderation": "pending",
-   "draft_msg_id": 106
+   "queued_at": "2026-11-23T12:11:46.101665+00:00"
   },
   {
    "item": {
@@ -12269,6 +12525,93 @@
   },
   {
    "item": {
+    "title": "Россияне лишились доступа к GTA Online и RDR — возникли проблемы с лаунчером Rockstar Games",
+    "link": "https://ixbt.games/news/2026/11/23/rossiiane-lisilis-dostupa-k-gta-online-i-rdr-voznikli-problemy-s-launcerom-rockstar-games.html",
+    "summary": "Пользователи испытывают проблемы с доступом к сервисам.",
+    "published": "2026-11-23T10:53:00+00:00",
+    "source": "iXBT.games",
+    "site_name": "iXBT.games",
+    "trust": "medium",
+    "text": "Пользователи испытывают проблемы с доступом к сервисам.\nНедавно пользователи из России начали массово жаловать на проблемы в работе сервисов студии Rockstar Games. На сервисе Detector404 в понедельник 23 ноября был зарегистрирован всплеск сообщений о проблемах.\nЧаще всего недовольные пользователи пишут, что у них «не подключается». Также часть жалоб связана с недоступностью личного кабинета. Некоторые комментаторы указывают код ошибок:\nНет соединения с сервером У меня гта на 100% закончить надо, чините бырее роки. 7002.225\nСреди лидеров по числу жалоб на проблемы с доступом к сервисам Rockstar Games: Новосибирская область, Москва, Пермский край, Санкт-Петербург, а также Челябинская область.\nИгроки предположили, что проблема связана с техническими работами на стороне Rockstar Games. Спустя несколько часов некоторые пользователи смогли подключиться, однако часть авторов жалоб всё ещё не может этого сделать.\nНедавно состоялся релиз Grand Theft Auto VI на консолях PlayStation 5 и Xbox Series X|S. Про ПК-версию игры или онлайн-режим Rockstar Games и Take-Two пока ничего не рассказывали.\nНе пропускайте наши новостиДобавьте сайт в предпочитаемые источники, чтобы видеть нас чащеДобавить в Google",
+    "extra": {
+     "image": "https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1745384/media-58781e1156bcf73612a85a795a03588767cf2c349c938dcca39690005c1ec5ef.png"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "🚨 Проблемы с GTA Online в России: лаунчер не работает\n\nРоссийские геймеры в шоке — не могут зайти в GTA Online и RDR, лаунчер от Rockstar отказывает. Пока техработы, ждём, когда всё вернётся, а то уже тильт.",
+    "card_title": "ОТКЛЮЧЕНИЕ GTA ONLINE",
+    "reason": "Массовые проблемы с лаунчером Rockstar в РФ, игроки не могут зайти в онлайн",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
+   },
+   "queued_at": "2026-11-23T12:11:43.834592+00:00"
+  },
+  {
+   "item": {
+    "title": "Пенсионерам дали попробовать GTA VI — им так понравилось, что теперь они просят её в подарок на Рождество",
+    "link": "https://ixbt.games/news/2026/11/23/pensioneram-dali-poprobovat-gta-vi-im-tak-ponravilos-cto-teper-oni-prosiat-ee-v-podarok-na-rozdestvo.html",
+    "summary": "Возраст не помеха для увлечения видеоиграми.",
+    "published": "2026-11-23T10:58:00+00:00",
+    "source": "iXBT.games",
+    "site_name": "iXBT.games",
+    "trust": "medium",
+    "text": "Возраст не помеха для увлечения видеоиграми.\nНедавно вышла Grand Theft Auto VI и во французском доме престарелых Domitys решили организовать игровую сессию. Несколько пожилых участников так увлеклись новинкой Rockstar Games, что теперь хотят получить игру в качестве подарка на Рождество.\nЖурналисты ICI Paris Ile-de-France рассказали, что мероприятие провели на следующий день после официального релиза Grand Theft Auto VI в городе Серри. Вместо привычных занятий пенсионерам предложили отправиться исследовать виртуальный штат Леонида. Многим больше всего понравились эпизоды, когда они управляли лодкой (вождение автомобилей и перестрелки оказались сложнее).\n86-летняя Люсиенн оказалась под впечатлением от качества графики GTA VI — она назвала её невероятной; от игры она испытывала впечатления как от просмотра настоящего кино.\n🎮 \"Ça m'a fait un bien inouï.\" En Seine-et-Marne, les pensionnaires d'une résidence Séniors découvrent GTA VI.\nСейчас Grand Theft Auto VI официально доступна только на PlayStation 5 и Xbox Series X|S. Поигравшие в новинку в доме престарелых Domitys теперь предлагают установить консоль в общей комнате, чтобы продолжить проводить такие игровые сессии.\nНе пропускайте наши новостиДобавьте сайт в предпочитаемые источники, чтобы видеть нас чащеДобавить в Google",
+    "extra": {
+     "image": "https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1745388/media-9e413d1c6727eefcb8704347b37d7352e8716c7c31d8e401d3362fd4aaeccac3.png"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "👴👵 ПЕНСИОНЕРЫ ПОЛЮБИЛИ GTA VI\n\nВ доме престарелых Domitys запустили сессию GTA VI, и бабки с дедами сразу врубились – лодка, графика, всё как в кино. Теперь они требуют игру в подарок на Рождество, а консоль хотят в общей комнате поставить. 🎮",
+    "card_title": "ПЕНСИОНЕРЫ И GTA VI",
+    "reason": "Забавная и милая новость про французских пенсионеров, оценивших графику и лодки в GTA 6.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
+   },
+   "queued_at": "2026-11-23T12:12:03.057407+00:00"
+  },
+  {
+   "item": {
+    "title": "First GTA VI Patch Release Time Revealed, Download Size Confirmed",
+    "link": "https://rockstarintel.com/first-gta-vi-patch-release-time-revealed-download-size-confirmed/",
+    "summary": "Rockstar Games have released their first post-launch patch for Grand Theft Auto VI on PlayStation 5 and XBOX Series X|S. However, some players will have to wait before being able to download it. On Monday morning, November 23rd, Rockstar issued a new update for the game to all of those who have the game installed. [...] The post First GTA VI Patch Release Time Revealed, Download Size Confirmed appeared first on RockstarINTEL .",
+    "published": "2026-11-23T11:53:46+00:00",
+    "source": "Rockstar Intel",
+    "site_name": "Rockstar Intel",
+    "trust": "medium",
+    "text": "Rockstar Games have released their first post-launch patch for Grand Theft Auto VI on PlayStation 5 and XBOX Series X|S. However, some players will have to wait before being able to download it.\nOn Monday morning, November 23rd, Rockstar issued a new update for the game to all of those who have the game installed. This is a mandatory update that must be installed before playing the game again.\nThe patch comes in at 1.6GB on XBOX Series X|S and 603.8MB on PS5 (varies a little per region). As for version number, it is now 1.0.2.2 on XBOX and 01.002.002 on PS5 so an incremental build change. GTA VI’s install size on XBOX remains at 211.9GB.\nWhilst every XBOX user has the update right away, Sony and Rockstar are gradually rolling out the patch to PS5 users. Much like with the pre-launch patches, only a selection of the playerbase have received the download. This is to reduce load on PSN servers because of the sheer amount of data being transferred by millions of people.\nAccording to GTA community member @PLTytus, 33% of users have gotten the update. At 1pm GMT, a further 33% will get the update. The remainder of the pre-ordered players will get it at 4pm GMT.\nNo patch notes have been released by Rockstar Games just yet but as and when they do, we’ll be sure to publish them on our site. It remains to be seen if issues such as the PS5 error code CE-108255-1 crash is fixed in this update or other notable problems.\nIn other GTA VI news, Rockstar made the pre-order bonus available to purchase on Sunday; more info here.\nLooking for some Grand Theft Auto VI guides? We show you how you can unlock the exclusive Venturas Blvd Elegy here. Plus, check out the best settings to use when playing the game. Also, there’s a glitch that unlocks the 30FPS cap and here’s how to do it.\nYou can order your PS5 or XBOX copy of Grand Theft Auto VI with this link. Using the link to order the game will help support this website as we’ll earn a small commission. Thank you!\nFor more news on GTA VI, stay tuned to RockstarINTEL and sign up to our newsletter for a weekly round-up of all things Rockstar Games delivered straight to your inbox.",
+    "extra": {
+     "image": "https://rockstarintel.com/wp-content/uploads/2026/11/Grand-Theft-Auto-VI-Pre-Load-Now-00-00-18-copy-1280.webp"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "🚀 Патч GTA VI уже в сети: 1.6 ГБ на Xbox, 600 МБ на PS5\n\nRockstar выкатили первый обязательный апдейт — без него нельзя играть. На Xbox качаем 1.6 ГБ, а PS5 получит лёгкую 600 МБ, но rollout идёт по волнам, так что держим пальцы на пульсе.",
+    "card_title": "ПАТЧ GTA VI: РАЗМЕР И ВРЕМЯ",
+    "reason": "Official first post-launch patch released by Rockstar for GTA 6 with specific sizes.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "GTA 6 PS5 Update 1.002.002 Rolling Out Now",
+    "corroborated_by": "GTA 6 PS5 Update 1.002.002 Rolling Out Now",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
+   },
+   "queued_at": "2026-11-23T12:12:30.085453+00:00"
+  },
+  {
+   "item": {
     "title": "How to Find and Keep Dom's Charger in GTA 6",
     "link": "https://www.gtaboom.com/how-to-find-and-keep-doms-charger-in-gta-6-0143",
     "summary": "Find Dom’s Charger lookalike behind a house in Grayson, respray it black and keep it with Moses’s free first registration in Chapter 2.",
@@ -12324,6 +12667,35 @@
     "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-3.5-flash"
    },
    "queued_at": "2026-11-23T09:19:41.050348+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA 6 Update 01.002.002—All Changes & Download Size",
+    "link": "https://insider-gaming.com/gta-6-update-01-002-002-all-changes-download-size/",
+    "summary": "Here's everything you need to know about Update 01.002.002 for Grand Theft Auto 6, including all changes and its download size. The post GTA 6 Update 01.002.002—All Changes & Download Size appeared first on Insider Gaming .",
+    "published": "2026-11-23T11:48:24+00:00",
+    "source": "Insider Gaming",
+    "site_name": "Insider Gaming",
+    "trust": "medium",
+    "text": "It’s been almost a week since Grand Theft Auto 6 officially launched, and it’s fair to say that Rockstar has enjoyed an incredibly successful release. With millions of copies sold and billions of dollars already generated, the game has made a phenomenal start. However, that doesn’t mean Rockstar is finished making improvements, as the studio has now rolled out GTA 6 Update 01.002.002.\nPost-launch updates have become increasingly common, even for single-player experiences, as developers continue to iron out issues and improve the overall experience. GTA 6 is no exception, and you can expect plenty more updates in the months ahead. For now, though, here’s everything you need to know about Update 01.002.002.\nYou can buy Grand Theft Auto 6 here if you haven’t already!\nThe latest Grand Theft Auto 6 update has a different download size depending on which platform you’re playing on.\nIf you’re playing on PlayStation 5, the update comes in at just over half a gigabyte. However, those playing on Xbox Series X|S will have a considerably larger download to deal with. Here are the exact download sizes for GTA 6 Update 01.002.002 on each platform:\nThankfully, neither download is particularly demanding, so you shouldn’t need to start clearing out your console’s storage to make room. The relatively small file sizes should also mean you won’t be waiting around for too long before jumping back into Vice City.\nRelated: All GTA 6 Challenges & How To Do Them\nWhat’s Changed With The GTA 6 Update 01.002.002?\nAs of writing, Rockstar Games hasn’t released any official patch notes detailing the changes introduced with GTA 6 Update 01.002.002.\nUntil the developer provides further information, it’s impossible to say exactly what’s been adjusted. Rockstar may eventually publish a full breakdown of the update, although the studio doesn’t always provide detailed patch notes for smaller releases.\nGiven the relatively modest download sizes and quiet release, it’s reasonable to assume that this update primarily focuses on bug fixes and general stability improvements. Several players have reported issues with GTA 6 crashing, while others have experienced problems with the game’s save system. There’s a possibility that Rockstar has addressed some of these problems, although this remains speculation until official details are provided.\nRelated: GTA 6 Sex & Romance—How To Have Sex In GTA 6\nThere are also a handful of more exploitable glitches that the developer might be looking to stamp out. A",
+    "extra": {
+     "image": "https://insider-gaming.com/wp-content/uploads/2026/11/gta-6-empathy-scaled.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "🚀 GTA 6 Update 01.002.002 уже в сети\n\nНаконец‑то патч прилетел — на PS5 он весит чуть больше 0,5 ГБ, а на Xbox чуть больше. Фиксы багов и стабильность, так что можно без тильта вернуться в Vice City. 🎮📦",
+    "card_title": "ОБНОВЛЕНИЕ GTA 6 01.002.002",
+    "reason": "Официальный выход первого патча 01.002.002 для GTA 6 с багфиксами.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "GTA 6 PS5 Update 1.002.002 Rolling Out Now",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
+   },
+   "queued_at": "2026-11-23T12:13:00.786155+00:00"
   }
  ],
  "posts": [
@@ -12361,9 +12733,10 @@
   "2026-11-23T09:26:09.914285+00:00",
   "2026-11-23T10:14:32.380291+00:00",
   "2026-11-23T10:29:41.906769+00:00",
-  "2026-11-23T11:56:22.914930+00:00"
+  "2026-11-23T11:56:22.914930+00:00",
+  "2026-11-23T12:26:40.287506+00:00"
  ],
- "tg_offset": 387129066,
+ "tg_offset": 387129067,
  "channel": {
   "id": -1003986639147,
   "title": "GTA 6 | Горячие новости",
@@ -18579,6 +18952,13 @@
    "title": "СПОЙЛЕР. Стример словил лютый тильт на финальной катсцене — вот это драма от Rockstar 💀",
    "importance": 9,
    "kind": "video"
+  },
+  {
+   "ts": "2026-11-23T12:26:40.287520+00:00",
+   "msg_id": 70,
+   "title": "СТРАЙКИ ЗА СТРИМЫ GTA 6 🛑",
+   "importance": 7,
+   "kind": "confirmed"
   }
  ],
  "extras": [],
@@ -18588,156 +18968,5 @@
   "digest-20261121": "2026-11-21T19:30:10.993120+00:00",
   "digest-20261122": "2026-11-22T19:31:01.015194+00:00"
  },
- "rewrite_wait": [
-  {
-   "item": {
-    "title": "Россияне лишились доступа к GTA Online и RDR — возникли проблемы с лаунчером Rockstar Games",
-    "link": "https://ixbt.games/news/2026/11/23/rossiiane-lisilis-dostupa-k-gta-online-i-rdr-voznikli-problemy-s-launcerom-rockstar-games.html",
-    "summary": "Пользователи испытывают проблемы с доступом к сервисам.",
-    "published": "2026-11-23T10:53:00+00:00",
-    "source": "iXBT.games",
-    "site_name": "iXBT.games",
-    "trust": "medium",
-    "text": "Пользователи испытывают проблемы с доступом к сервисам.\nНедавно пользователи из России начали массово жаловать на проблемы в работе сервисов студии Rockstar Games. На сервисе Detector404 в понедельник 23 ноября был зарегистрирован всплеск сообщений о проблемах.\nЧаще всего недовольные пользователи пишут, что у них «не подключается». Также часть жалоб связана с недоступностью личного кабинета. Некоторые комментаторы указывают код ошибок:\nНет соединения с сервером У меня гта на 100% закончить надо, чините бырее роки. 7002.225\nСреди лидеров по числу жалоб на проблемы с доступом к сервисам Rockstar Games: Новосибирская область, Москва, Пермский край, Санкт-Петербург, а также Челябинская область.\nИгроки предположили, что проблема связана с техническими работами на стороне Rockstar Games. Спустя несколько часов некоторые пользователи смогли подключиться, однако часть авторов жалоб всё ещё не может этого сделать.\nНедавно состоялся релиз Grand Theft Auto VI на консолях PlayStation 5 и Xbox Series X|S. Про ПК-версию игры или онлайн-режим Rockstar Games и Take-Two пока ничего не рассказывали.\nНе пропускайте наши новостиДобавьте сайт в предпочитаемые источники, чтобы видеть нас чащеДобавить в Google",
-    "extra": {
-     "image": "https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1745384/media-58781e1156bcf73612a85a795a03588767cf2c349c938dcca39690005c1ec5ef.png"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "⚡️ Сбой у Роков\n\nИгроки из РФ массово жалуются на отвал серверов Rockstar — лаунчер тупит и выдает ошибки подключения. Кажется, кто-то сломал катку века, ждем фикс.",
-    "card_title": "ПРОБЛЕМЫ С ЛАУНЧЕРОМ ROCKSTAR",
-    "reason": "Массовые проблемы с лаунчером Rockstar в РФ, игроки не могут зайти в онлайн",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-23T11:21:19.631132+00:00"
-  },
-  {
-   "item": {
-    "title": "GTA 6: Find and break into Freddie Gibbs’ doomsday compound in Grand Theft Auto 6",
-    "link": "https://www.videogameschronicle.com/guide/gta-6-find-break-in-freddie-doomsday-compound-grand-theft-auto/",
-    "summary": "How to find Freddie Gibbs, enter his compound, and get rewards in Grand Theft Auto 6",
-    "published": "2026-11-23T11:31:32+00:00",
-    "source": "VGC",
-    "site_name": "VGC",
-    "trust": "high",
-    "text": "Rapper Freddie Gibbs is in Grand Theft Auto 6, and he’s a doomsday prepper with an impressive compound and bunker.\nFreddie is convinced that the apocalypse is coming, so he’s built up a doomsday bunker and compound, complete with an electric fence, mines, and even explosive drones. That’s just the defenses — he’s really prepared for the world to end.\nFreddie is a pretty nice and generous guy once you get to know him, but getting to know him isn’t so easy. In this guide, we’re breaking down how to find and break into Freddie’s compound both times in GTA 6.\nHow to find Freddie’s doomsday bunker – GTA 6\nFreddie’s compound is located on the North shore of Lake Leonida in North Leonard County. It’s on the same road as One-Eyed Willie’s Auto Shop (Ultimate Edition exclusive). You can’t miss it as it’s a large compound surrounded by electric fences, and has multiple billboards propped up warning about the end of the world.\nHow to break into Freddie’s compound – GTA 6\nThe first time you break into Freddie’s compound, it has an obvious flaw.\nA water tower to the rear of the compound is outside of the electric fence. It has an unblocked ladder that you can climb to take you up to a platform, from which you can jump onto the roof of a shed inside the electric fence.\nYou will have to watch out for both proximity mines and drones. Proximity mines will be highlighted in Focus mode, and when you hear a drone, Focus mode will again give you enough time to shoot them down. The best route through the compound is sticking close to the fence while heading East, and then South. Proximity mines will not be placed on the pipes and cables in the compound, meaning you can use them as a walkway.\nYou will complete the challenge by getting to the front door of the large dug-out bunker. The first time you complete this challenge, Freddie will free you and challenge you to return later, after he improves his defenses.\nHow to break into Freddie’s compound again – GTA 6\nAfter some time, Freddie will text Jason and Lucia, challenging them to a rematch. You need to break into his compound and get to the door of his bunker again, only this time the water tower isn’t an option, and the proximity mines and drones have been buffed.\nNothing is impossible, though, and Jason and Lucia are both pretty good climbers who are able to clamber on top of large vehicles. You see where this is going.\nTo the rear of the compound – the Northwest corner – you’ll find a tractor with a large trailer, along wit",
-    "extra": {
-     "image": "https://www.videogameschronicle.com/files/2026/11/GTA-6-Find-and-infiltrate-Freddie-Gibbs-doomsday-compound-in-Grand-Theft-Auto-6-6.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 6,
-    "post": "🗺 Гайд: Бункер Фредди Гиббса\n\nКак залутать базу рэпера Фредди в GTA 6 и не подорваться на минах.\n\nИщем его халупу на северном берегу озера Леонида. Забор под напряжением, дроны и мины — классика сурвайвиста.\n\nПервый раз залезаем через водонапорную башню сзади и прыгаем на сарай. Во второй раз батл хардкорнее: юзаем трактор с прицепом на северо-западе, чтобы перемахнуть ограду. Изи вайб и топчик лут гарантированы.",
-    "card_title": "БУНКЕР ФРЕДДИ ГИББСА",
-    "reason": "Гайд по проникновению в бункер Фредди Гиббса в игре",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": true,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-23T11:38:26.662113+00:00"
-  },
-  {
-   "item": {
-    "title": "Пенсионерам дали попробовать GTA VI — им так понравилось, что теперь они просят её в подарок на Рождество",
-    "link": "https://ixbt.games/news/2026/11/23/pensioneram-dali-poprobovat-gta-vi-im-tak-ponravilos-cto-teper-oni-prosiat-ee-v-podarok-na-rozdestvo.html",
-    "summary": "Возраст не помеха для увлечения видеоиграми.",
-    "published": "2026-11-23T10:58:00+00:00",
-    "source": "iXBT.games",
-    "site_name": "iXBT.games",
-    "trust": "medium",
-    "text": "Возраст не помеха для увлечения видеоиграми.\nНедавно вышла Grand Theft Auto VI и во французском доме престарелых Domitys решили организовать игровую сессию. Несколько пожилых участников так увлеклись новинкой Rockstar Games, что теперь хотят получить игру в качестве подарка на Рождество.\nЖурналисты ICI Paris Ile-de-France рассказали, что мероприятие провели на следующий день после официального релиза Grand Theft Auto VI в городе Серри. Вместо привычных занятий пенсионерам предложили отправиться исследовать виртуальный штат Леонида. Многим больше всего понравились эпизоды, когда они управляли лодкой (вождение автомобилей и перестрелки оказались сложнее).\n86-летняя Люсиенн оказалась под впечатлением от качества графики GTA VI — она назвала её невероятной; от игры она испытывала впечатления как от просмотра настоящего кино.\n🎮 \"Ça m'a fait un bien inouï.\" En Seine-et-Marne, les pensionnaires d'une résidence Séniors découvrent GTA VI.\nСейчас Grand Theft Auto VI официально доступна только на PlayStation 5 и Xbox Series X|S. Поигравшие в новинку в доме престарелых Domitys теперь предлагают установить консоль в общей комнате, чтобы продолжить проводить такие игровые сессии.\nНе пропускайте наши новостиДобавьте сайт в предпочитаемые источники, чтобы видеть нас чащеДобавить в Google",
-    "extra": {
-     "image": "https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1745388/media-9e413d1c6727eefcb8704347b37d7352e8716c7c31d8e401d3362fd4aaeccac3.png"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "БАБУЛИ ПРОСЯТ GTA 6 НА РОЖДЕСТВО\n\nВо французском доме престарелых устроили катку в новенькую часть серии, и бабушкам с дедушками люто зашло. Особенно они кайфуют от катания на лодках, а графон сравнили с кином.",
-    "card_title": "ПЕНСИОНЕРЫ ИГРАЮТ В GTA 6",
-    "reason": "Забавная и милая новость про французских пенсионеров, оценивших графику и лодки в GTA 6.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-23T11:38:34.168119+00:00"
-  },
-  {
-   "item": {
-    "title": "First GTA VI Patch Release Time Revealed, Download Size Confirmed",
-    "link": "https://rockstarintel.com/first-gta-vi-patch-release-time-revealed-download-size-confirmed/",
-    "summary": "Rockstar Games have released their first post-launch patch for Grand Theft Auto VI on PlayStation 5 and XBOX Series X|S. However, some players will have to wait before being able to download it. On Monday morning, November 23rd, Rockstar issued a new update for the game to all of those who have the game installed. [...] The post First GTA VI Patch Release Time Revealed, Download Size Confirmed appeared first on RockstarINTEL .",
-    "published": "2026-11-23T11:53:46+00:00",
-    "source": "Rockstar Intel",
-    "site_name": "Rockstar Intel",
-    "trust": "medium",
-    "text": "Rockstar Games have released their first post-launch patch for Grand Theft Auto VI on PlayStation 5 and XBOX Series X|S. However, some players will have to wait before being able to download it.\nOn Monday morning, November 23rd, Rockstar issued a new update for the game to all of those who have the game installed. This is a mandatory update that must be installed before playing the game again.\nThe patch comes in at 1.6GB on XBOX Series X|S and 603.8MB on PS5 (varies a little per region). As for version number, it is now 1.0.2.2 on XBOX and 01.002.002 on PS5 so an incremental build change. GTA VI’s install size on XBOX remains at 211.9GB.\nWhilst every XBOX user has the update right away, Sony and Rockstar are gradually rolling out the patch to PS5 users. Much like with the pre-launch patches, only a selection of the playerbase have received the download. This is to reduce load on PSN servers because of the sheer amount of data being transferred by millions of people.\nAccording to GTA community member @PLTytus, 33% of users have gotten the update. At 1pm GMT, a further 33% will get the update. The remainder of the pre-ordered players will get it at 4pm GMT.\nNo patch notes have been released by Rockstar Games just yet but as and when they do, we’ll be sure to publish them on our site. It remains to be seen if issues such as the PS5 error code CE-108255-1 crash is fixed in this update or other notable problems.\nIn other GTA VI news, Rockstar made the pre-order bonus available to purchase on Sunday; more info here.\nLooking for some Grand Theft Auto VI guides? We show you how you can unlock the exclusive Venturas Blvd Elegy here. Plus, check out the best settings to use when playing the game. Also, there’s a glitch that unlocks the 30FPS cap and here’s how to do it.\nYou can order your PS5 or XBOX copy of Grand Theft Auto VI with this link. Using the link to order the game will help support this website as we’ll earn a small commission. Thank you!\nFor more news on GTA VI, stay tuned to RockstarINTEL and sign up to our newsletter for a weekly round-up of all things Rockstar Games delivered straight to your inbox.",
-    "extra": {
-     "image": "https://rockstarintel.com/wp-content/uploads/2026/11/Grand-Theft-Auto-VI-Pre-Load-Now-00-00-18-copy-1280.webp"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "ПЕРВЫЙ патч уже летит\n\nRockstar выкатили первое обязательное обновление для GTA 6. Весит добротно: на боксе 1.6 ГБ, на плойке чуть меньше. Качайте и вкатывайтесь в катку.",
-    "card_title": "ПЕРВЫЙ ПАТЧ ДЛЯ GTA 6",
-    "reason": "Official first post-launch patch released by Rockstar for GTA 6 with specific sizes.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "GTA 6 PS5 Update 1.002.002 Rolling Out Now",
-    "corroborated_by": "GTA 6 PS5 Update 1.002.002 Rolling Out Now",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-23T11:54:41.021443+00:00"
-  },
-  {
-   "item": {
-    "title": "GTA 6 Update 01.002.002—All Changes & Download Size",
-    "link": "https://insider-gaming.com/gta-6-update-01-002-002-all-changes-download-size/",
-    "summary": "Here's everything you need to know about Update 01.002.002 for Grand Theft Auto 6, including all changes and its download size. The post GTA 6 Update 01.002.002—All Changes & Download Size appeared first on Insider Gaming .",
-    "published": "2026-11-23T11:48:24+00:00",
-    "source": "Insider Gaming",
-    "site_name": "Insider Gaming",
-    "trust": "medium",
-    "text": "It’s been almost a week since Grand Theft Auto 6 officially launched, and it’s fair to say that Rockstar has enjoyed an incredibly successful release. With millions of copies sold and billions of dollars already generated, the game has made a phenomenal start. However, that doesn’t mean Rockstar is finished making improvements, as the studio has now rolled out GTA 6 Update 01.002.002.\nPost-launch updates have become increasingly common, even for single-player experiences, as developers continue to iron out issues and improve the overall experience. GTA 6 is no exception, and you can expect plenty more updates in the months ahead. For now, though, here’s everything you need to know about Update 01.002.002.\nYou can buy Grand Theft Auto 6 here if you haven’t already!\nThe latest Grand Theft Auto 6 update has a different download size depending on which platform you’re playing on.\nIf you’re playing on PlayStation 5, the update comes in at just over half a gigabyte. However, those playing on Xbox Series X|S will have a considerably larger download to deal with. Here are the exact download sizes for GTA 6 Update 01.002.002 on each platform:\nThankfully, neither download is particularly demanding, so you shouldn’t need to start clearing out your console’s storage to make room. The relatively small file sizes should also mean you won’t be waiting around for too long before jumping back into Vice City.\nRelated: All GTA 6 Challenges & How To Do Them\nWhat’s Changed With The GTA 6 Update 01.002.002?\nAs of writing, Rockstar Games hasn’t released any official patch notes detailing the changes introduced with GTA 6 Update 01.002.002.\nUntil the developer provides further information, it’s impossible to say exactly what’s been adjusted. Rockstar may eventually publish a full breakdown of the update, although the studio doesn’t always provide detailed patch notes for smaller releases.\nGiven the relatively modest download sizes and quiet release, it’s reasonable to assume that this update primarily focuses on bug fixes and general stability improvements. Several players have reported issues with GTA 6 crashing, while others have experienced problems with the game’s save system. There’s a possibility that Rockstar has addressed some of these problems, although this remains speculation until official details are provided.\nRelated: GTA 6 Sex & Romance—How To Have Sex In GTA 6\nThere are also a handful of more exploitable glitches that the developer might be looking to stamp out. A",
-    "extra": {
-     "image": "https://insider-gaming.com/wp-content/uploads/2026/11/gta-6-empathy-scaled.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 6,
-    "post": "ПЕРВЫЙ патч 01.002.002\n\nRockstar выкатили первую обнову для консолей. Весит немного, так что катка начнется быстро, а багов станет меньше.",
-    "card_title": "ПАТЧ 01.002.002 УЖЕ В ИГРЕ",
-    "reason": "Официальный выход первого патча 01.002.002 для GTA 6 с багфиксами.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "GTA 6 PS5 Update 1.002.002 Rolling Out Now",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-23T11:54:44.039635+00:00"
-  }
- ]
+ "rewrite_wait": []
 }
