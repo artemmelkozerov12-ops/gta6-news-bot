@@ -2530,7 +2530,42 @@
   "8bcdade1577f4034": "2026-11-23T07:08:12.599137+00:00",
   "cb118d27ed52ab5c": "2026-11-23T07:08:13.347056+00:00",
   "979091a6ddde32a0": "2026-11-23T07:08:14.099780+00:00",
-  "fd73c271a0c3d690": "2026-11-23T07:08:14.867791+00:00"
+  "fd73c271a0c3d690": "2026-11-23T07:08:14.867791+00:00",
+  "56f9ddbe35c72d62": "2026-11-23T07:09:07.722754+00:00",
+  "d9ccbc14e92371d1": "2026-11-23T07:09:08.684692+00:00",
+  "f2c707ee91645b4a": "2026-11-23T07:09:09.466323+00:00",
+  "06773e2d0b63fdaa": "2026-11-23T07:09:10.306712+00:00",
+  "d0dd392788801b83": "2026-11-23T07:11:01.784831+00:00",
+  "6044ce3674142d88": "2026-11-23T07:11:02.720177+00:00",
+  "c6146f8ae6d15795": "2026-11-23T07:11:09.867599+00:00",
+  "37ed8d9d21ab4bcf": "2026-11-23T07:11:32.868560+00:00",
+  "b356387f83e15979": "2026-11-23T07:11:55.415157+00:00",
+  "95959d6cc6062019": "2026-11-23T07:12:00.167308+00:00",
+  "6d0d403406a0e06c": "2026-11-23T07:12:00.954511+00:00",
+  "0d8a3f626b35b4d8": "2026-11-23T07:12:01.842956+00:00",
+  "9ea89d2c7b707266": "2026-11-23T07:12:02.654014+00:00",
+  "a6088e18eac89ea2": "2026-11-23T07:12:54.013602+00:00",
+  "f8a783b58ac137d6": "2026-11-23T07:12:54.755070+00:00",
+  "20696423cd71a0e2": "2026-11-23T07:12:55.548786+00:00",
+  "313839f8381435ea": "2026-11-23T07:12:56.361291+00:00",
+  "39bc1636dc4f9a8b": "2026-11-23T07:13:47.346122+00:00",
+  "57eb76c918aeedaf": "2026-11-23T07:13:48.180294+00:00",
+  "d246f731bdf20525": "2026-11-23T07:13:48.919155+00:00",
+  "a92c44a52c52555b": "2026-11-23T07:14:25.486615+00:00",
+  "63ea851f0b53510d": "2026-11-23T07:15:16.800317+00:00",
+  "44eb2439bb1391dc": "2026-11-23T07:15:17.683224+00:00",
+  "fa2ac2f515d93915": "2026-11-23T07:15:18.437233+00:00",
+  "3f11a2beaefc019d": "2026-11-23T07:15:19.159793+00:00",
+  "c256e8f67cf3ceeb": "2026-11-23T07:16:10.099366+00:00",
+  "818830e9867452ad": "2026-11-23T07:16:16.545042+00:00",
+  "487ccf17fd7adde1": "2026-11-23T07:27:33.396120+00:00",
+  "56ad2e6d0dfbef25": "2026-11-23T07:27:35.968252+00:00",
+  "4ce0bdbc73712f4f": "2026-11-23T07:27:43.986344+00:00",
+  "a2a5e2cd49e66ec8": "2026-11-23T07:28:05.005136+00:00",
+  "eca8e44281a23206": "2026-11-23T07:28:06.449903+00:00",
+  "0184b34ddac94991": "2026-11-23T07:28:07.667664+00:00",
+  "f8c591db146c67f5": "2026-11-23T07:28:09.136110+00:00",
+  "b7e0e16810940fbc": "2026-11-23T07:28:10.148444+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -4272,7 +4307,20 @@
   "ae67ab68b5f83069": "2026-11-23T06:54:33.656597+00:00",
   "52048fa6ade8b317": "2026-11-23T06:54:35.109536+00:00",
   "4b4e972a2fcdf525": "2026-11-23T06:54:36.150699+00:00",
-  "3f6675a2483e77b5": "2026-11-23T06:54:37.798247+00:00"
+  "3f6675a2483e77b5": "2026-11-23T06:54:37.798247+00:00",
+  "aa3bc1cefff4655e": "2026-11-23T07:11:01.784831+00:00",
+  "17dfc79efc85e8a2": "2026-11-23T07:11:02.720177+00:00",
+  "dad03dfcb2fd85b2": "2026-11-23T07:11:09.867599+00:00",
+  "c0194755abc0664c": "2026-11-23T07:11:32.868560+00:00",
+  "b7b07a587867161e": "2026-11-23T07:11:55.415157+00:00",
+  "d30335df02928f4f": "2026-11-23T07:27:33.396120+00:00",
+  "902c8babf6e504bf": "2026-11-23T07:27:35.968252+00:00",
+  "782d162ed524c737": "2026-11-23T07:27:43.986344+00:00",
+  "0965f605da535edc": "2026-11-23T07:28:05.005136+00:00",
+  "273fb99551c02972": "2026-11-23T07:28:06.449903+00:00",
+  "0213d98334891dee": "2026-11-23T07:28:07.667664+00:00",
+  "46579acc66fd2c00": "2026-11-23T07:28:09.136110+00:00",
+  "6604ae0210360cdc": "2026-11-23T07:28:10.148444+00:00"
  },
  "recent": [
   {
@@ -11034,6 +11082,110 @@
    "status": "skipped",
    "ts": "2026-11-23T06:54:37.798379+00:00",
    "card_title": ""
+  },
+  {
+   "title": "В Иордании готовят правовую базу для запрета GTA 6 | В мире",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T07:11:01.784952+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Скрытые сочетания кнопок в GTA 6, о которых игра не рассказывает",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T07:11:02.720324+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Elon Musk Reacts as Stealing a Tesla in GTA VI Goes Horribly Wrong After Car Calls the Cops and Drives Pl",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T07:11:09.867724+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Фанаты GTA 6 и Ocarina of Time воюют за оценки",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T07:11:32.868682+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Забирайте красивейшие обои в стиле GTA VI Vice City",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T07:11:55.415308+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "The GTA 6 Review Bombing Is Mostly AI Noise, but It is Not Perfect",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-23T07:27:33.876170+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Джейсона из GTA VI создавали по образу голливудской звезды и армейских рейнджеров",
+   "source": "iXBT.games",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-23T07:27:35.968357+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Персонаж-конспиролог в GTA VI догадался, что он живёт в игре",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T07:27:43.986471+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "«Только для взрослых»: в одной стране хотят запретить GTA 6",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T07:28:05.005271+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Tesla Theft Clip: Did Musk React? 0 Confirmed Replies",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T07:28:06.450015+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 launch eve: PSN sign-in outage, unverified glitch clips and how to get the game running",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T07:28:07.667797+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Made $3.79 Billion on Day One. Here’s Every Record It Broke",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T07:28:09.136251+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Вышла GTA 6: релиз вызвал резонанс в СМИ и стриминге",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T07:28:10.148565+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -11065,64 +11217,6 @@
     "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-3.5-flash"
    },
    "queued_at": "2026-11-23T01:06:51.441416+00:00"
-  },
-  {
-   "item": {
-    "title": "Godfather Of Cyberpunk Says He’s Never Played A Video Game, But Finds GTA 6 ‘Intriguing’",
-    "link": "https://kotaku.com/godfather-of-cyberpunk-says-hes-never-played-a-video-game-but-finds-gta-6-intriguing-2000759281",
-    "summary": "Arcade addicts of the 1980s inspired the cyberspace of William Gibson’s influential Neuromancer, now the author is transfixed on viral footage of Rockstar’s ultra-hit",
-    "published": "2026-11-22T18:44:40+00:00",
-    "source": "Kotaku",
-    "site_name": "Kotaku",
-    "trust": "high",
-    "text": "CyberpunkGrand Theft Auto 6NeuromancerWilliam Gibson\nWilliam Gibson, the science fiction author often credited for establishing the cyberpunk genre, took plenty of inspiration from video game culture in the ’70s and ’80s. Despite this, and the influence of works like Neuromancer has had on the medium, Gibson says he doesn’t partake in the hobby, claiming this weekend that he’s never even played a video game. One game seems to be recapturing his interest, though, the forefather of virtual reality allured by viral Grand Theft Auto clips online.\n“I’ve never played a video game in my life, but this thing [Grand Theft Auto] actually does [seem] interesting,” posted Gibson. “When I said that I found that clip of the new GTA interesting, I didn’t mean that it made me interested in learning to play it, but interested in what it was that I found intriguing, in some mysterious way, in its…texture?…depth? I don’t know.”\nWhen I said that I found that clip of the new GTA interesting, I didn’t mean that it made me interested in learning to play it, but interested in what it was that I found intriguing, in some mysterious way, in its…texture?…depth? I don’t know. — William Gibson (@greatdismal.bsky.social) 2026-11-22T03:23:17.866Z",
-    "extra": {
-     "image": "https://kotaku.com/app/uploads/2023/08/6e09a0056e1d3bd2d72c274f795f16fc-1280x720.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "🕶️ Отец киберпанка В ШОКЕ от GTA 6\n\nЛегендарный писатель Уильям Гибсон признался, что за всю жизнь не геймил ни в одну игру, но вирусные ролики шестёрки его конкретно зацепили. Дед проникся текстурами и глубиной Вайс-Сити. Чисто вайбовый респект!",
-    "card_title": "ОТЕЦ КИБЕРПАНКА В ШОКЕ",
-    "reason": "Отец киберпанка Уильям Гибсон впервые в жизни заинтересовался видеоиграми из-за GTA 6",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-3.5-flash"
-   },
-   "queued_at": "2026-11-22T19:25:45.047042+00:00"
-  },
-  {
-   "item": {
-    "title": "GTA 6 discourse is already suffering from the flat earther effect",
-    "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-discourse-is-already-suffering-from-the-flat-earther-effect/",
-    "summary": "Didn't you hear? You can't even steal cars anymore.",
-    "published": "2026-11-22T18:43:01+00:00",
-    "source": "PC Gamer",
-    "site_name": "PC Gamer",
-    "trust": "high",
-    "text": "If you ever watch science videos on social media, you've probably been served a video of someone debunking the claims of a flat earther.\nIt starts with a clip of some belligerent dope demanding to know why, if the earth is so round, ships don't disappear over the horizon. A greenscreened science communicator then appears, rubs their forehead, and shows us a video of a ship disappearing over the horizon. Checkmate.\nIt's good content, but if you linger too long on one of those videos, you'll get another, and then another, and pretty soon your whole feed will be debunking videos. Now you're enrolled in a never ending lesson plan which features such insights as 'an all-meat diet is not good for you,' 'the moon landing was real,' and 'hating women is not in fact based.'\nThe total effect of this is that the most ignorant and dishonest quacks and provocateurs get to set the level of discourse, and instead of investigating new metaphorical horizons in topics that interest you, you wind up watching people debate the existence of the actual horizon.\nWhich brings me to Grand Theft Auto 6. Despite making $3.79 billion on its launch day, it's easy to stumble across confident social media claims that it's a total flop and everyone's going to refund it. According to popular X posts, GTA 6 doesn't even let you steal cars anymore, and there are hundreds of Metacritic user reviewers insisting that it's far-left propaganda rather than the mass-market entertainment product it obviously is.\nIt's the videogame discourse version of flat eartherism. The millions of people playing GTA 6 do not think it is a \"cuck simulator\" because you can buy a woman flowers, but it's hard not to react to the few dorks making that claim, even though focusing on debunking them severely limits the depth of the conversations we can then have about the game. Good luck discussing your feelings if you dislike GTA 6 for normal reasons!\nOver the past few days, I've entertained sparks of hope that GTA 6 could be the flashpoint that brings us out of this era of videogame discourse. The millions of people playing it and not reacting like buffoons are surely irrefutable evidence that culture war dunces don't represent the masses.\nKeep up to date with the most important stories and the best deals, as picked by the PC Gamer team.\nBut then again, we're still pointing at videos of ships going over the horizon to prove that the earth isn't flat.\nGTA 6 guide: One-stop info shopGTA 6 map: The full Vice City tourGTA",
-    "extra": {
-     "image": "https://cdn.mos.cms.futurecdn.net/88bmYYeTdzTBy8hNsLoXrc-1920-80.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "🚀 GTA 6 в эпицентре флэт‑эртер дискурса\n\nВ соцсетях уже разгоняют GTA 6 как провал, но реально игра собрала $3.79 млрд за день и всё ещё топчик. Не дайте крикам про «не крадут машины» испортить вайб — игра имба, а хейтеры просто флеймят.\n\n❤️ — согласен\n👎 — нет",
-    "card_title": "ГТА 6: ДИСКУРС И ХЕЙТЕРЫ",
-    "reason": "Статья из авторитетного СМИ об абсурдных фейках и хейте вокруг релиза GTA 6.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-22T19:26:37.003053+00:00"
   },
   {
    "item": {
@@ -11583,7 +11677,38 @@
  "urgent": [
   "2026-11-21T20:14:20.243248+00:00"
  ],
- "clips": [],
+ "clips": [
+  {
+   "clip": {
+    "source": "twitch",
+    "url": "https://www.twitch.tv/auronplay/clip/FineFastPotatoOptimizePrime-inV4L6UqTN4eWTV2",
+    "title": "ESTAS BIEN LUCIA?",
+    "author": "auronplay",
+    "views": 4924,
+    "duration": 30.0,
+    "created": "2026-11-22T19:29:33+00:00",
+    "lang": "es",
+    "description": "",
+    "vod_id": "2937333836",
+    "vod_offset": 17850.0
+   },
+   "caption": "Имба: можно случайно сбить Лусию своей же тачкой, а потом спрашивать, всё ли в порядке 💀",
+   "interest": 7,
+   "spoiler": false,
+   "nsfw": false,
+   "watched": true,
+   "model": "gemini:gemini-3.5-flash-lite",
+   "media": {
+    "width": null,
+    "height": 720,
+    "duration": 30
+   },
+   "queued_at": "2026-11-23T07:16:21.926540+00:00",
+   "file_id": "BAACAgIAAxkDAANhawPoR__6CYWSvaYRE6j0-EnI0DUAAv2wAAKTDSFI-o1dNGzMkl89BA",
+   "moderation": "pending",
+   "draft_msg_id": 97
+  }
+ ],
  "clip_drafts": [
   "2026-11-21T07:15:43.486003+00:00",
   "2026-11-21T12:48:29.513513+00:00",
@@ -11600,7 +11725,8 @@
   "2026-11-22T18:27:42.489518+00:00",
   "2026-11-22T19:32:31.903053+00:00",
   "2026-11-22T20:36:00.471956+00:00",
-  "2026-11-22T21:42:54.050709+00:00"
+  "2026-11-22T21:42:54.050709+00:00",
+  "2026-11-23T07:16:24.550423+00:00"
  ],
  "clip_history": [
   {
@@ -16812,6 +16938,195 @@
    "title": "Even Messi has been affected by GTA 6. 🤕",
    "drafted": false,
    "ts": "2026-11-23T07:08:14.867843+00:00"
+  },
+  {
+   "author": "youtube:gelnox",
+   "vod": "",
+   "offset": -1,
+   "title": "PC Players #memes #funnymemes #humor GTA 6 #gaming #gta6",
+   "drafted": false,
+   "ts": "2026-11-23T07:09:07.722810+00:00"
+  },
+  {
+   "author": "youtube:galo véio",
+   "vod": "",
+   "offset": -1,
+   "title": "DETALHES DE GTA 6😲 INCRÍVEIS! #gta6 #ps5 #xbox #videogames",
+   "drafted": false,
+   "ts": "2026-11-23T07:09:08.684746+00:00"
+  },
+  {
+   "author": "youtube:madcap",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6",
+   "drafted": false,
+   "ts": "2026-11-23T07:09:09.466372+00:00"
+  },
+  {
+   "author": "youtube:sudha l stories",
+   "vod": "",
+   "offset": -1,
+   "title": "Father Gifted Her Daughter GTA 6 But She Is Fake Studying 😂 ~ #gta6 #shorts",
+   "drafted": false,
+   "ts": "2026-11-23T07:09:10.306764+00:00"
+  },
+  {
+   "author": "youtube:mark playz",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 5 Characters Left Us Forever For GTA 6? 😱💔",
+   "drafted": false,
+   "ts": "2026-11-23T07:12:00.167358+00:00"
+  },
+  {
+   "author": "youtube:koseki bijou ch. hololive",
+   "vod": "",
+   "offset": -1,
+   "title": "【Grand Theft Auto VI】Playing gta6 before gta7 comes out",
+   "drafted": false,
+   "ts": "2026-11-23T07:12:00.954563+00:00"
+  },
+  {
+   "author": "youtube:meraj",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA VI Game Khelna Hai #viralvideo #shortvideo #ytshorts #reelschallenge #funnyvideo #tiktokvideo",
+   "drafted": false,
+   "ts": "2026-11-23T07:12:01.843003+00:00"
+  },
+  {
+   "author": "youtube:snax gaming",
+   "vod": "",
+   "offset": -1,
+   "title": "One Second Away From Disaster 😂 #shorts #gta6",
+   "drafted": false,
+   "ts": "2026-11-23T07:12:02.654060+00:00"
+  },
+  {
+   "author": "youtube:fazzgta",
+   "vod": "",
+   "offset": -1,
+   "title": "Como Hacer a JASON MÁS FUERTE EN GTA 6 (ENTRENAMIENTO SECRETO)",
+   "drafted": false,
+   "ts": "2026-11-23T07:12:54.013655+00:00"
+  },
+  {
+   "author": "youtube:blackpanthaa",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 is THE Racing Game of 2026...",
+   "drafted": false,
+   "ts": "2026-11-23T07:12:54.755120+00:00"
+  },
+  {
+   "author": "youtube:abhimanthan",
+   "vod": "",
+   "offset": -1,
+   "title": "Mythpat apni GTA 6 stream pe ro pade 😭",
+   "drafted": false,
+   "ts": "2026-11-23T07:12:55.548837+00:00"
+  },
+  {
+   "author": "youtube:tiger blox",
+   "vod": "",
+   "offset": -1,
+   "title": "Roblox GTA 6 Button Troll 😱",
+   "drafted": false,
+   "ts": "2026-11-23T07:12:56.361335+00:00"
+  },
+  {
+   "author": "youtube:snap gaming",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 4 Has Better Physics Than GTA 6? Part-2",
+   "drafted": false,
+   "ts": "2026-11-23T07:13:47.346170+00:00"
+  },
+  {
+   "author": "youtube:dhanush ff gamer",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 🌴 TELUGU LIVE 🔴 FULL GAMEPLAY MARATHON! 😨 NON-STOP UNTIL THE END | DAY 1 🔥",
+   "drafted": false,
+   "ts": "2026-11-23T07:13:48.180344+00:00"
+  },
+  {
+   "author": "twitch:rubius",
+   "vod": "2937487056",
+   "offset": 30278.0,
+   "title": "Hueles a choto",
+   "drafted": false,
+   "ts": "2026-11-23T07:13:48.919212+00:00",
+   "frames": []
+  },
+  {
+   "author": "youtube:mrskidbit",
+   "vod": "",
+   "offset": -1,
+   "title": "bro turned the GTA 6 logo into a BEAT?! 😭 #flstudio #musicproducer #producer #fyp #short #usa",
+   "drafted": false,
+   "ts": "2026-11-23T07:14:25.486663+00:00"
+  },
+  {
+   "author": "youtube:daily games idn",
+   "vod": "",
+   "offset": -1,
+   "title": "3 Map Game Terbesar Melebihi GTA 6! #shorts #gaming",
+   "drafted": false,
+   "ts": "2026-11-23T07:15:16.800364+00:00"
+  },
+  {
+   "author": "youtube:instaclip",
+   "vod": "",
+   "offset": -1,
+   "title": "Squeezie découvre une mécanique secrète de musculation sur GTA 6 ! 💪 #squeezie #gta6 #shorts",
+   "drafted": false,
+   "ts": "2026-11-23T07:15:17.683271+00:00"
+  },
+  {
+   "author": "youtube:sparky vox",
+   "vod": "",
+   "offset": -1,
+   "title": "The GTA 6 Launch Became IShowSpeed's Biggest Moment! 😱🔥",
+   "drafted": false,
+   "ts": "2026-11-23T07:15:18.437282+00:00"
+  },
+  {
+   "author": "youtube:yoshi, ale gry",
+   "vod": "",
+   "offset": -1,
+   "title": "DARMOWA LEGENDARNA BROŃ I $$$$ w GTA 6! #gta6 #gtavi",
+   "drafted": false,
+   "ts": "2026-11-23T07:15:19.159840+00:00"
+  },
+  {
+   "author": "twitch:drupy876",
+   "vod": "2936703252",
+   "offset": 4133.0,
+   "title": "push ping ping crazy B****😭😭😂",
+   "drafted": false,
+   "ts": "2026-11-23T07:16:10.099433+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:auronplay",
+   "vod": "2937333836",
+   "offset": 17850.0,
+   "title": "ESTAS BIEN LUCIA?",
+   "drafted": false,
+   "ts": "2026-11-23T07:16:16.545102+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:auronplay",
+   "vod": "2937333836",
+   "offset": 17850.0,
+   "title": "ESTAS BIEN LUCIA?",
+   "drafted": true,
+   "ts": "2026-11-23T07:16:24.550440+00:00",
+   "frames": [],
+   "caption": "Имба: можно случайно сбить Лусию своей же тачкой, а потом спрашивать, всё ли в порядке 💀"
   }
  ],
  "published": [
