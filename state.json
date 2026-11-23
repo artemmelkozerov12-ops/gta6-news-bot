@@ -2703,7 +2703,37 @@
   "5d1ae5d7c02f9fc3": "2026-11-23T10:59:55.795515+00:00",
   "3c7139f60c551e08": "2026-11-23T10:59:59.942366+00:00",
   "ed51fef524eec067": "2026-11-23T11:00:00.970243+00:00",
-  "58fb48ccfea2a29a": "2026-11-23T11:00:04.664170+00:00"
+  "58fb48ccfea2a29a": "2026-11-23T11:00:04.664170+00:00",
+  "8d1190f9d13c7b60": "2026-11-23T11:16:43.555183+00:00",
+  "ace72df6c923ee2e": "2026-11-23T11:16:43.906594+00:00",
+  "a6f1570c067e9601": "2026-11-23T11:16:46.062508+00:00",
+  "df55753740271ab8": "2026-11-23T11:17:14.701076+00:00",
+  "961359cc79304d8e": "2026-11-23T11:17:18.564121+00:00",
+  "99f61d8aa78ff256": "2026-11-23T11:21:10.215374+00:00",
+  "84aae87fea9c89fe": "2026-11-23T11:21:18.795312+00:00",
+  "dfc0989ffcf3da0c": "2026-11-23T11:21:21.979423+00:00",
+  "407131d4da324639": "2026-11-23T11:21:23.333090+00:00",
+  "e52bb74571ac4fa2": "2026-11-23T11:21:24.779585+00:00",
+  "082557188bc1a540": "2026-11-23T11:31:31.330120+00:00",
+  "fab8aa73180fd19d": "2026-11-23T11:31:32.439335+00:00",
+  "4340dfbfa4ef3178": "2026-11-23T11:31:33.315698+00:00",
+  "26c8c0d280e87c1d": "2026-11-23T11:31:34.232433+00:00",
+  "2c856d5865d808dd": "2026-11-23T11:37:17.667354+00:00",
+  "bee519c0f7415668": "2026-11-23T11:37:17.667424+00:00",
+  "caaea66452bf14c5": "2026-11-23T11:37:17.667518+00:00",
+  "dfcf9ab3902987a6": "2026-11-23T11:37:17.667593+00:00",
+  "65a72774f594104a": "2026-11-23T11:37:17.667664+00:00",
+  "01478f7a6d7ef3b6": "2026-11-23T11:37:17.667726+00:00",
+  "752a69a783e09f80": "2026-11-23T11:37:17.695081+00:00",
+  "b15eed0c3b12f134": "2026-11-23T11:37:18.301790+00:00",
+  "db32cb97ea54c29b": "2026-11-23T11:38:21.906534+00:00",
+  "a8144f1d35ed13fd": "2026-11-23T11:38:25.312791+00:00",
+  "9d3a18cf626fead5": "2026-11-23T11:38:28.100983+00:00",
+  "a426d8a5ceca0b6c": "2026-11-23T11:38:30.086008+00:00",
+  "24d7223fd1780225": "2026-11-23T11:38:33.172836+00:00",
+  "11af9c4af960d3ad": "2026-11-23T11:38:35.575549+00:00",
+  "9715588a4d601068": "2026-11-23T11:38:36.795885+00:00",
+  "860503cae913f2d8": "2026-11-23T11:38:37.990787+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -4560,7 +4590,29 @@
   "c1764bc83c345c7d": "2026-11-23T10:59:55.795515+00:00",
   "5c187d319e133550": "2026-11-23T10:59:59.942366+00:00",
   "9cb4d4d5edc7d34b": "2026-11-23T11:00:00.970243+00:00",
-  "3acb9f58639ce1e3": "2026-11-23T11:00:04.664170+00:00"
+  "3acb9f58639ce1e3": "2026-11-23T11:00:04.664170+00:00",
+  "01e8f0892681b190": "2026-11-23T11:21:10.215374+00:00",
+  "a2b62e49d5280b54": "2026-11-23T11:16:43.906594+00:00",
+  "299ed47ac829be9e": "2026-11-23T11:16:46.062508+00:00",
+  "9fc8662e1bae9e34": "2026-11-23T11:17:14.701076+00:00",
+  "ba6526af6a8032d1": "2026-11-23T11:17:18.564121+00:00",
+  "941efbff8fa2b621": "2026-11-23T11:21:18.795312+00:00",
+  "9730262192492132": "2026-11-23T11:21:21.979423+00:00",
+  "9248f449607e02c2": "2026-11-23T11:21:23.333090+00:00",
+  "d381243427a65019": "2026-11-23T11:21:24.779585+00:00",
+  "58aace689c29a87c": "2026-11-23T11:37:17.667354+00:00",
+  "da5b3b146358086e": "2026-11-23T11:38:25.312791+00:00",
+  "6fc98bc426841d17": "2026-11-23T11:38:28.100983+00:00",
+  "21d4849314dd7772": "2026-11-23T11:38:30.086008+00:00",
+  "ea2d0c5aea2fab1d": "2026-11-23T11:37:17.667664+00:00",
+  "25fdb30a3cf6446b": "2026-11-23T11:37:17.667726+00:00",
+  "57f75ea259cd89bc": "2026-11-23T11:37:17.695081+00:00",
+  "d6cb2c81a7d062b9": "2026-11-23T11:37:18.301790+00:00",
+  "dcb222bf71f47173": "2026-11-23T11:38:21.906534+00:00",
+  "15f1edf735961c6c": "2026-11-23T11:38:33.172836+00:00",
+  "659c08253d8d320d": "2026-11-23T11:38:35.575549+00:00",
+  "11d32d6ee312d2a6": "2026-11-23T11:38:36.795885+00:00",
+  "df5122afd4a9f920": "2026-11-23T11:38:37.990787+00:00"
  },
  "recent": [
   {
@@ -11682,6 +11734,190 @@
    "status": "skipped",
    "ts": "2026-11-23T11:00:04.664287+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GTA 6 Streams Hit With Indiscriminate Copyright Claims by Reggaeton Artist",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-23T11:16:43.555229+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Over half of console players in the US played GTA 6 on launch day, according to Circana",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-23T11:16:43.906659+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 \"girlfriend simulator\" complaints \"are real\" at first, ex-Rockstar lead says",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-23T11:17:13.224854+00:00",
+   "card_title": "ОЦЕНКА ЭКС-РАЗРАБОТЧИКА ROCKSTAR"
+  },
+  {
+   "title": "GTA 6 review bomb somehow sees Zelda: Ocarina of Time catch strays",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-23T11:17:15.928463+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Грудастые девушки раскритиковали GTA VI — у «горячих» женщин большие попы, но маленькая грудь",
+   "source": "iXBT.games",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-23T11:21:07.987575+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "«Не сдавайтесь»: GTA VI раскрывается не сразу — ветеран Rockstar объяснил, через сколько часов «начинается магия»",
+   "source": "iXBT.games",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-23T11:21:21.979564+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 actor told developers put stop to anti-trans violence in game",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T11:21:23.333213+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 players spot uncanny lookalike of WWE's Rhea Ripley hiding in Vice City",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T11:21:24.779706+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 PS5 Update 1.002.002 Rolling Out Now",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-23T11:37:17.667393+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6: Find and break into Freddie Gibbs’ doomsday compound in Grand Theft Auto 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-23T11:37:17.667473+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Chapter 3 Mission List: Every Mission in Order & Point of No Return",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-23T11:37:17.667555+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "As GTA 6 gets review-bombed on Metacritic, GTA fans have started review-bombing Ocarina of Time in response",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-23T11:37:17.667629+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Kit Car - Wild Hog Point",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-23T11:37:17.667693+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Kit Car - Casanova Island",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-23T11:37:17.667754+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Kit Car locations: How to restore the fourth car for Wyman",
+   "source": "PC Gamer",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-23T11:37:17.695108+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 generates $3.79bn in day one sales to become the biggest entertainment launch in history",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-23T11:37:18.301868+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Streams Hit With Indiscriminate Copyright Claims by Reggaeton Artist",
+   "source": "Polygon",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-23T11:37:31.359300+00:00",
+   "card_title": "СТРАЙКИ ЗА СТРИМЫ GTA 6"
+  },
+  {
+   "title": "GTA 6’s Free Pre-Order Bonus Now Being Offered as Paid Store Purchase",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-23T11:38:23.326123+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Chapter 3 Mission List: Every Mission in Order & Point of No Return",
+   "source": "VGC",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-23T11:38:28.101087+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "As GTA 6 gets review-bombed on Metacritic, GTA fans have started review-bombing Ocarina of Time in response",
+   "source": "VGC",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-23T11:38:30.817402+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to rob ATMs in GTA 6 explained: Get the car upgrade you need",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T11:38:35.575663+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 First Update 1.002.002 Released on November 23",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T11:38:36.796016+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Update 01.002.002 for GTA VI is currenty being rolled out",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T11:38:37.990900+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -11744,6 +11980,64 @@
    "queued_at": "2026-11-23T10:41:53.418896+00:00",
    "moderation": "pending",
    "draft_msg_id": 104
+  },
+  {
+   "item": {
+    "title": "GTA 6 \"girlfriend simulator\" complaints \"are real\" at first, ex-Rockstar lead says",
+    "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-girlfriend-simulator-complaints-are-real-at-first-ex-rockstar-lead-says-but-chapter-2-is-where-the-grand-theft-auto-magic-kicks-in/",
+    "summary": "Obbe Vermeij says he's \"having loads of fun now\" he's further into the game",
+    "published": "2026-11-23T11:10:18+00:00",
+    "source": "GamesRadar+",
+    "site_name": "GamesRadar+",
+    "trust": "high",
+    "text": "One former Rockstar Games lead has a revolutionary take about GTA 6 – \"it is good.\" But even though that may be the case, he reckons that \"the complaints are real\" in Chapter 1 from those suggesting that it \"doesn't feel like a sandbox\" and instead feels like a \"girlfriend simulator.\"\nObbe Vermeij worked at Rockstar Games between 1995 and 2009, serving as technical director on GTA 3, 4, Vice City, and San Andreas. Obviously, he'd left the studio well before GTA 6 started development (it might have been a long time coming, but it wasn't that long), so he's been playing through it alongside the rest of us.\n\"It is good. Very good,\" he begins in a post on Twitter. However, there's a \"but\" coming.\n\"In chapter 1 (The first 8 hours or so) the game doesn't give you much choice,\" he continues. \"There are many tutorials, cut scenes, mandatory missions and the missions are basic. The complaints are real (realism over gameplay, girlfriend simulator, doesn't feel like a sandbox).\"\nOpinions here do vary – I've definitely seen more than a few social media posts complaining about the optional tasks of grocery shopping for Lucia and buying her flowers, for example. They probably weren't high up the list of activities fans who planned to enter Leonida and immediately commit heinous crimes had in mind, I suppose – though it's worth keeping in mind that, again, those parts are optional.\nEqually, though, I've seen plenty of people enjoying the almost life-sim-esque vibe of GTA 6's opening hours, and that's probably reflected in how much time people spend in that first chapter. As someone who spent 18 hours in Chapter 1, you can probably guess what camp I fall into.\nRegardless, though, Vermeij reckons things really pick up by the time you reach the second chapter. \"In chapter 2, the game backs off and gives you a bunch of missions to choose from,\" he says. \"This is when the GTA magic kicks in.\"\nWeekly digests, tales from the communities you love, and more\nVermeij says he's now 46% of the way through the story in Chapter 3 and \"having loads of fun now.\" He concludes that the \"production values are unreal,\" and I don't think anyone could disagree with that.\nGTA 6 reviews have been glowing across the board, and Rockstar has already achieved almost unfathomable commercial success, with a whopping 32.5 million copies sold via pre-orders (eclipsing a figure that took Elden Ring three years to reach) and earning $3.79 billion on day one. It had the biggest entertainment launch in hist",
+    "extra": {
+     "image": "https://cdn.mos.cms.futurecdn.net/CG3GQCJ9xpUCooLVxwVPSo-1920-80.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "🎮 СИМУЛЯТОР ДЕВУШКИ в GTA 6 — это норма?\n\nБывший техдиректор Rockstar Оббе Вермей выдал базу: первая глава реально ощущается душно из-за кучи туториалов и романтики. Но уже со второй главы начинается тот самый трушный GTA-геймплей, так что терпим!\n\n❤️ — Первые часы кайф, вайбово\n👎 — Реально душно, дайте свободы",
+    "card_title": "ОЦЕНКА ЭКС-РАЗРАБОТЧИКА ROCKSTAR",
+    "reason": "Мнение бывшего техдиректора Rockstar об игре и первой главе вызвало бурные обсуждения.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-3.5-flash"
+   },
+   "queued_at": "2026-11-23T11:17:13.224845+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA 6 Streams Hit With Indiscriminate Copyright Claims by Reggaeton Artist",
+    "link": "https://www.polygon.com/gta-6-streamers-copyright-claim-frank-el-santo/",
+    "summary": "Colombian reggaeton artist Frank El Santo took down GTA 6 livestreams on YouTube through a barrage of 'automated' copyright claims.",
+    "published": "2026-11-23T11:01:11+00:00",
+    "source": "Polygon",
+    "site_name": "Polygon",
+    "trust": "high",
+    "text": "On Nov. 22, streamers who uploaded their GTA 6 gameplay on YouTube were suddenly hit with a barrage of copyright strikes. They all came from a single source: Colombian reggaeton artist Frank \"El Santo.\"\nThe Medellín-born singer and songwriter, whose real name is Andrés Mauricio Arango Flórez, played GTA 6 on stream on his YouTube channel. His footage was then used to auto-claim copyright on anyone who was playing the game live on YouTube. This resulted in indiscriminate strikes against users, including big channels such as theRadBrad (14.1 million subscribers) and HollowPoiint (5.2 million subscribers).\nReggaeton artist hits major YouTube streamers with GTA 6 copyright strikes\nThis seemingly absurd situation arose from a combination of specific circumstances and YouTube's often-criticized copyright policies. Frank El Santo's YouTube channel contains his official music videos, so it's possible that the platform mistakenly deemed the GTA 6 gameplay video eligible for copyright claims. After commenters pointed out the issue during his stream, Arango Flórez deleted the gameplay video, but the copyright strikes continued until the YouTube team intervened.\nArango Flórez's only official response to the issue is a comment under his now-deleted gameplay video, stating that the claims were not filed by him and were instead the result of the automated Content ID system. However, YouTube doesn't necessarily issue copyright claims automatically​​​​​​​. Many angry fans online​​​​​​​ are claiming that the artist must have done this on purpose.\nRegardless of the intent, this episode highlights that YouTube's copyright policies are either ineffective or outright damaging to its users. The company relies on automated processes and AI-assisted tools to detect copyright infringement​​​​​​​, often resulting in videos being taken down or demonetized without proper reason. As HollowPoiint put it in a post on X where he praised YouTube's quick intervention to resolve the GTA 6 El Santo issue, \"Now we just need a better system in place.\"\nGTA 6 has been streamed nonstop since the game launched on Nov. 19. Millions of people worldwide are experiencing the game not by playing it themselves, but by watching other people play it. While this can often result in biased opinions, it's also undeniable that not everyone will be able to play Rockstar's game from the start, especially considering its hefty price. Despite its shortcomings​​​​​​​, streaming is still an important element of vide",
+    "extra": {
+     "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/ultimate_edition_vice_city_style_04.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "СТРАЙКИ ЗА СТРИМЫ GTA 6 🛑\n\nКолумбийский певец Frank El Santo постримил GTA 6 на YouTube, и алгоритмы площадки сгенерили масс-баны. В бан-хаммер отлетели даже гиганты вроде theRadBrad и HollowPoiint.\n\nМузыкант уже удалил ролик и божится, что это автосистема ютуба сошла с ума. Рил лютый кринж, ютубу пора чинить алгоритмы.",
+    "card_title": "СТРАЙКИ ЗА СТРИМЫ GTA 6",
+    "reason": "Крупный скандал со страйками на стримах GTA 6 из-за сбоя YouTube и артиста",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "GTA 6 Streams Hit With Indiscriminate Copyright Claims by Reggaeton Artist",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-3.5-flash"
+   },
+   "queued_at": "2026-11-23T11:37:31.359280+00:00"
   },
   {
    "item": {
@@ -12153,6 +12447,36 @@
    "file_id": "BAACAgIAAxkDAANlawQGTa91m63mSO2vuBOu-j8-XI0AAieyAAKTDSFIapcO_xP4krI9BA",
    "moderation": "pending",
    "draft_msg_id": 101
+  },
+  {
+   "clip": {
+    "source": "twitch",
+    "url": "https://www.twitch.tv/xqc/clip/KnottyTameRhinocerosHeyGirl-OgpyqkXK-_K-KA15",
+    "title": "xQc got the Bonnie and Clyde Ending in GTA 6",
+    "author": "xQc",
+    "views": 2439,
+    "duration": 60.0,
+    "created": "2026-11-23T06:13:42+00:00",
+    "lang": "en",
+    "description": "",
+    "vod_id": "2937629817",
+    "vod_offset": 36038.0
+   },
+   "caption": "СПОЙЛЕР. Стример словил лютый тильт на финальной катсцене — вот это драма от Rockstar 💀",
+   "interest": 9,
+   "spoiler": true,
+   "nsfw": false,
+   "watched": true,
+   "model": "gemini:gemini-3.5-flash-lite",
+   "media": {
+    "width": null,
+    "height": 720,
+    "duration": 60
+   },
+   "queued_at": "2026-11-23T11:31:45.480346+00:00",
+   "file_id": "BAACAgIAAxkDAANpawQkIvuxuw1iRO6vi9bhtFvwc4wAAu6zAAKTDSFIzQsKeYASPSg9BA",
+   "moderation": "pending",
+   "draft_msg_id": 105
   }
  ],
  "clip_drafts": [
@@ -12174,7 +12498,8 @@
   "2026-11-23T07:16:24.550423+00:00",
   "2026-11-23T08:20:39.624989+00:00",
   "2026-11-23T09:24:29.720206+00:00",
-  "2026-11-23T10:29:00.148443+00:00"
+  "2026-11-23T10:29:00.148443+00:00",
+  "2026-11-23T11:31:47.510995+00:00"
  ],
  "clip_history": [
   {
@@ -17896,6 +18221,49 @@
    "ts": "2026-11-23T10:29:00.148459+00:00",
    "frames": [],
    "caption": "🔞 В GTA 6 завезли работу мужским стриптизёром с полноценной мини-игрой — это просто лютый разнос 💀"
+  },
+  {
+   "author": "youtube:flayhq",
+   "vod": "",
+   "offset": -1,
+   "title": "DON’T Finish Chapter 3 in GTA 6 Without Getting This FREE Car & Garage!",
+   "drafted": false,
+   "ts": "2026-11-23T11:31:31.330159+00:00"
+  },
+  {
+   "author": "youtube:maygoescrazy",
+   "vod": "",
+   "offset": -1,
+   "title": "POV: Different People React To You Playing GTA 6",
+   "drafted": false,
+   "ts": "2026-11-23T11:31:32.439371+00:00"
+  },
+  {
+   "author": "youtube:coletheman gta",
+   "vod": "",
+   "offset": -1,
+   "title": "5 Things In GTA 6 You Didn't Know You Can Do #gta6 #gta",
+   "drafted": false,
+   "ts": "2026-11-23T11:31:33.315739+00:00"
+  },
+  {
+   "author": "twitch:xqc",
+   "vod": "2937629817",
+   "offset": 36038.0,
+   "title": "xQc got the Bonnie and Clyde Ending in GTA 6",
+   "drafted": false,
+   "ts": "2026-11-23T11:31:34.232480+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:xqc",
+   "vod": "2937629817",
+   "offset": 36038.0,
+   "title": "xQc got the Bonnie and Clyde Ending in GTA 6",
+   "drafted": true,
+   "ts": "2026-11-23T11:31:47.511010+00:00",
+   "frames": [],
+   "caption": "СПОЙЛЕР. Стример словил лютый тильт на финальной катсцене — вот это драма от Rockstar 💀"
   }
  ],
  "published": [
@@ -18187,5 +18555,96 @@
   "digest-20261121": "2026-11-21T19:30:10.993120+00:00",
   "digest-20261122": "2026-11-22T19:31:01.015194+00:00"
  },
- "rewrite_wait": []
+ "rewrite_wait": [
+  {
+   "item": {
+    "title": "Россияне лишились доступа к GTA Online и RDR — возникли проблемы с лаунчером Rockstar Games",
+    "link": "https://ixbt.games/news/2026/11/23/rossiiane-lisilis-dostupa-k-gta-online-i-rdr-voznikli-problemy-s-launcerom-rockstar-games.html",
+    "summary": "Пользователи испытывают проблемы с доступом к сервисам.",
+    "published": "2026-11-23T10:53:00+00:00",
+    "source": "iXBT.games",
+    "site_name": "iXBT.games",
+    "trust": "medium",
+    "text": "Пользователи испытывают проблемы с доступом к сервисам.\nНедавно пользователи из России начали массово жаловать на проблемы в работе сервисов студии Rockstar Games. На сервисе Detector404 в понедельник 23 ноября был зарегистрирован всплеск сообщений о проблемах.\nЧаще всего недовольные пользователи пишут, что у них «не подключается». Также часть жалоб связана с недоступностью личного кабинета. Некоторые комментаторы указывают код ошибок:\nНет соединения с сервером У меня гта на 100% закончить надо, чините бырее роки. 7002.225\nСреди лидеров по числу жалоб на проблемы с доступом к сервисам Rockstar Games: Новосибирская область, Москва, Пермский край, Санкт-Петербург, а также Челябинская область.\nИгроки предположили, что проблема связана с техническими работами на стороне Rockstar Games. Спустя несколько часов некоторые пользователи смогли подключиться, однако часть авторов жалоб всё ещё не может этого сделать.\nНедавно состоялся релиз Grand Theft Auto VI на консолях PlayStation 5 и Xbox Series X|S. Про ПК-версию игры или онлайн-режим Rockstar Games и Take-Two пока ничего не рассказывали.\nНе пропускайте наши новостиДобавьте сайт в предпочитаемые источники, чтобы видеть нас чащеДобавить в Google",
+    "extra": {
+     "image": "https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1745384/media-58781e1156bcf73612a85a795a03588767cf2c349c938dcca39690005c1ec5ef.png"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "⚡️ Сбой у Роков\n\nИгроки из РФ массово жалуются на отвал серверов Rockstar — лаунчер тупит и выдает ошибки подключения. Кажется, кто-то сломал катку века, ждем фикс.",
+    "card_title": "ПРОБЛЕМЫ С ЛАУНЧЕРОМ ROCKSTAR",
+    "reason": "Массовые проблемы с лаунчером Rockstar в РФ, игроки не могут зайти в онлайн",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-23T11:21:19.631132+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA 6: Find and break into Freddie Gibbs’ doomsday compound in Grand Theft Auto 6",
+    "link": "https://www.videogameschronicle.com/guide/gta-6-find-break-in-freddie-doomsday-compound-grand-theft-auto/",
+    "summary": "How to find Freddie Gibbs, enter his compound, and get rewards in Grand Theft Auto 6",
+    "published": "2026-11-23T11:31:32+00:00",
+    "source": "VGC",
+    "site_name": "VGC",
+    "trust": "high",
+    "text": "Rapper Freddie Gibbs is in Grand Theft Auto 6, and he’s a doomsday prepper with an impressive compound and bunker.\nFreddie is convinced that the apocalypse is coming, so he’s built up a doomsday bunker and compound, complete with an electric fence, mines, and even explosive drones. That’s just the defenses — he’s really prepared for the world to end.\nFreddie is a pretty nice and generous guy once you get to know him, but getting to know him isn’t so easy. In this guide, we’re breaking down how to find and break into Freddie’s compound both times in GTA 6.\nHow to find Freddie’s doomsday bunker – GTA 6\nFreddie’s compound is located on the North shore of Lake Leonida in North Leonard County. It’s on the same road as One-Eyed Willie’s Auto Shop (Ultimate Edition exclusive). You can’t miss it as it’s a large compound surrounded by electric fences, and has multiple billboards propped up warning about the end of the world.\nHow to break into Freddie’s compound – GTA 6\nThe first time you break into Freddie’s compound, it has an obvious flaw.\nA water tower to the rear of the compound is outside of the electric fence. It has an unblocked ladder that you can climb to take you up to a platform, from which you can jump onto the roof of a shed inside the electric fence.\nYou will have to watch out for both proximity mines and drones. Proximity mines will be highlighted in Focus mode, and when you hear a drone, Focus mode will again give you enough time to shoot them down. The best route through the compound is sticking close to the fence while heading East, and then South. Proximity mines will not be placed on the pipes and cables in the compound, meaning you can use them as a walkway.\nYou will complete the challenge by getting to the front door of the large dug-out bunker. The first time you complete this challenge, Freddie will free you and challenge you to return later, after he improves his defenses.\nHow to break into Freddie’s compound again – GTA 6\nAfter some time, Freddie will text Jason and Lucia, challenging them to a rematch. You need to break into his compound and get to the door of his bunker again, only this time the water tower isn’t an option, and the proximity mines and drones have been buffed.\nNothing is impossible, though, and Jason and Lucia are both pretty good climbers who are able to clamber on top of large vehicles. You see where this is going.\nTo the rear of the compound – the Northwest corner – you’ll find a tractor with a large trailer, along wit",
+    "extra": {
+     "image": "https://www.videogameschronicle.com/files/2026/11/GTA-6-Find-and-infiltrate-Freddie-Gibbs-doomsday-compound-in-Grand-Theft-Auto-6-6.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "🗺 Гайд: Бункер Фредди Гиббса\n\nКак залутать базу рэпера Фредди в GTA 6 и не подорваться на минах.\n\nИщем его халупу на северном берегу озера Леонида. Забор под напряжением, дроны и мины — классика сурвайвиста.\n\nПервый раз залезаем через водонапорную башню сзади и прыгаем на сарай. Во второй раз батл хардкорнее: юзаем трактор с прицепом на северо-западе, чтобы перемахнуть ограду. Изи вайб и топчик лут гарантированы.",
+    "card_title": "БУНКЕР ФРЕДДИ ГИББСА",
+    "reason": "Гайд по проникновению в бункер Фредди Гиббса в игре",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": true,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-23T11:38:26.662113+00:00"
+  },
+  {
+   "item": {
+    "title": "Пенсионерам дали попробовать GTA VI — им так понравилось, что теперь они просят её в подарок на Рождество",
+    "link": "https://ixbt.games/news/2026/11/23/pensioneram-dali-poprobovat-gta-vi-im-tak-ponravilos-cto-teper-oni-prosiat-ee-v-podarok-na-rozdestvo.html",
+    "summary": "Возраст не помеха для увлечения видеоиграми.",
+    "published": "2026-11-23T10:58:00+00:00",
+    "source": "iXBT.games",
+    "site_name": "iXBT.games",
+    "trust": "medium",
+    "text": "Возраст не помеха для увлечения видеоиграми.\nНедавно вышла Grand Theft Auto VI и во французском доме престарелых Domitys решили организовать игровую сессию. Несколько пожилых участников так увлеклись новинкой Rockstar Games, что теперь хотят получить игру в качестве подарка на Рождество.\nЖурналисты ICI Paris Ile-de-France рассказали, что мероприятие провели на следующий день после официального релиза Grand Theft Auto VI в городе Серри. Вместо привычных занятий пенсионерам предложили отправиться исследовать виртуальный штат Леонида. Многим больше всего понравились эпизоды, когда они управляли лодкой (вождение автомобилей и перестрелки оказались сложнее).\n86-летняя Люсиенн оказалась под впечатлением от качества графики GTA VI — она назвала её невероятной; от игры она испытывала впечатления как от просмотра настоящего кино.\n🎮 \"Ça m'a fait un bien inouï.\" En Seine-et-Marne, les pensionnaires d'une résidence Séniors découvrent GTA VI.\nСейчас Grand Theft Auto VI официально доступна только на PlayStation 5 и Xbox Series X|S. Поигравшие в новинку в доме престарелых Domitys теперь предлагают установить консоль в общей комнате, чтобы продолжить проводить такие игровые сессии.\nНе пропускайте наши новостиДобавьте сайт в предпочитаемые источники, чтобы видеть нас чащеДобавить в Google",
+    "extra": {
+     "image": "https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1745388/media-9e413d1c6727eefcb8704347b37d7352e8716c7c31d8e401d3362fd4aaeccac3.png"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "БАБУЛИ ПРОСЯТ GTA 6 НА РОЖДЕСТВО\n\nВо французском доме престарелых устроили катку в новенькую часть серии, и бабушкам с дедушками люто зашло. Особенно они кайфуют от катания на лодках, а графон сравнили с кином.",
+    "card_title": "ПЕНСИОНЕРЫ ИГРАЮТ В GTA 6",
+    "reason": "Забавная и милая новость про французских пенсионеров, оценивших графику и лодки в GTA 6.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-23T11:38:34.168119+00:00"
+  }
+ ]
 }
