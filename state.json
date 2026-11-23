@@ -2903,7 +2903,24 @@
   "c6780d436d606c51": "2026-11-23T17:13:54.590626+00:00",
   "b9f6e2281eb9d9b1": "2026-11-23T17:13:54.634043+00:00",
   "d1971d635d38a294": "2026-11-23T17:13:55.509234+00:00",
-  "5d2e699aaf43de3d": "2026-11-23T17:31:58.145210+00:00"
+  "5d2e699aaf43de3d": "2026-11-23T17:31:58.145210+00:00",
+  "822134c097959479": "2026-11-23T17:47:59.269808+00:00",
+  "019dab93acddb19b": "2026-11-23T17:47:59.269917+00:00",
+  "1b99b9251d6fcdec": "2026-11-23T17:47:59.270012+00:00",
+  "64a56d35977fbde7": "2026-11-23T17:47:59.270092+00:00",
+  "3ef5473fcf000b2d": "2026-11-23T17:47:59.270169+00:00",
+  "996f4302312936bd": "2026-11-23T17:51:50.329916+00:00",
+  "b31dec01005280fa": "2026-11-23T18:08:04.434262+00:00",
+  "f37a1f325b36963b": "2026-11-23T18:08:04.434380+00:00",
+  "152d0e894dec5ca6": "2026-11-23T18:08:04.434474+00:00",
+  "5d430b49bb5f2830": "2026-11-23T18:10:37.113652+00:00",
+  "5ca37a8d19afef13": "2026-11-23T18:10:39.395983+00:00",
+  "078bf43fe909c1a2": "2026-11-23T18:10:47.218847+00:00",
+  "7ca478ce26f5d5c2": "2026-11-23T18:10:57.399021+00:00",
+  "0e6d07dc619e6884": "2026-11-23T18:11:01.879596+00:00",
+  "1e1c440d3da31684": "2026-11-23T18:11:21.902101+00:00",
+  "34acb09f203164ca": "2026-11-23T18:11:45.662748+00:00",
+  "13d84e2737daa486": "2026-11-23T18:12:19.712767+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -4929,7 +4946,23 @@
   "721d54c0d9b8504f": "2026-11-23T17:13:54.590626+00:00",
   "3323ad0e75732e2b": "2026-11-23T17:13:54.634043+00:00",
   "2e4475e69a8e38a0": "2026-11-23T17:13:55.509234+00:00",
-  "8a40c6e12de0e899": "2026-11-23T17:31:58.145210+00:00"
+  "8a40c6e12de0e899": "2026-11-23T17:31:58.145210+00:00",
+  "16cec702579230eb": "2026-11-23T17:47:59.269808+00:00",
+  "2f7c9baeadbcf859": "2026-11-23T17:47:59.269917+00:00",
+  "4062ef338ca28e5c": "2026-11-23T17:47:59.270012+00:00",
+  "0a0e05f4a467d25b": "2026-11-23T17:47:59.270092+00:00",
+  "bcaba85fcf643da2": "2026-11-23T17:47:59.270169+00:00",
+  "c7497501c5217ba0": "2026-11-23T17:51:50.329916+00:00",
+  "31d7fe1570dc2b82": "2026-11-23T18:08:04.434262+00:00",
+  "3f46c49aa2df85c5": "2026-11-23T18:10:47.218847+00:00",
+  "23022914a1163609": "2026-11-23T18:08:04.434474+00:00",
+  "9bf226e9b3f7d04c": "2026-11-23T18:10:37.113652+00:00",
+  "d27de4a19e37a915": "2026-11-23T18:10:39.395983+00:00",
+  "56dc967bf4ab0eef": "2026-11-23T18:10:57.399021+00:00",
+  "0f96d9cd4fbcb678": "2026-11-23T18:11:01.879596+00:00",
+  "7d90eb7ce13bb3ea": "2026-11-23T18:11:21.902101+00:00",
+  "4dd35b0578b4d6ea": "2026-11-23T18:11:45.662748+00:00",
+  "8b0d04399e133bc7": "2026-11-23T18:12:19.712767+00:00"
  },
  "recent": [
   {
@@ -13203,6 +13236,166 @@
    "status": "dup",
    "ts": "2026-11-23T17:31:58.145255+00:00",
    "card_title": ""
+  },
+  {
+   "title": "Forget GTA 6, Taylor Sheridan’s New 8-Part Crime Series Officially Releases Next Month",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-23T17:47:59.269858+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Is Officially Making Boyfriends and Husbands Step Up Their Game",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-23T17:47:59.269963+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Random: GTA 6 Hides An Adorable Mario & Luigi Easter Egg In Its Massive World",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-23T17:47:59.270052+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Judge Lets Hacker Behind Massive GTA 6 Leak of 2022 Go Free With a Warning: 'Don't Let This Happen Again'",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-23T17:47:59.270129+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "POWER TRIP stream new track \"Mutual Death Warrant\" (from GTA 6)",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-23T17:47:59.270204+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI Hacker Released From Prison",
+   "source": "Rockstar Intel",
+   "trust": "medium",
+   "status": "queued",
+   "ts": "2026-11-23T17:48:26.944672+00:00",
+   "card_title": "ХАКЕР GTA VI СВОБОДЕН"
+  },
+  {
+   "title": "Cyberpunk 2 Is Canceled, Director Jokes, After GTA 6 Raises The Bar",
+   "source": "GameSpot",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-23T17:48:29.497614+00:00",
+   "card_title": "ГТА 6 РЕКОРДНЫЕ ПРОДАЖИ"
+  },
+  {
+   "title": "Has Rockstar taken the \"Grand Theft Auto\" out of GTA 6? Or has it just gamified car-jacking properly for the first time?",
+   "source": "Eurogamer",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-23T17:48:54.884476+00:00",
+   "card_title": "НОВАЯ МЕХАНИКА УГОНА МАШИН"
+  },
+  {
+   "title": "GTA 6 Update Now Live On Xbox Series X|S, Includes Seven Official Fixes",
+   "source": "Pure Xbox",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-23T17:49:22.076041+00:00",
+   "card_title": "ОБНОВЛЕНИЕ XBOX: 7 ФИКСОВ"
+  },
+  {
+   "title": "Telegram CEO Says The ‘Least Realistic’ Thing About GTA 6 Is That Nobody Uses His App To Commit Crimes",
+   "source": "Kotaku",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-23T17:49:49.386543+00:00",
+   "card_title": "ТЕЛЕГРАМ НЕ В GTA 6"
+  },
+  {
+   "title": "GTA 6 hacker who leaked footage in 2022 has been released on licence and told not to do it again",
+   "source": "VGC",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-23T17:50:25.309056+00:00",
+   "card_title": "ХАКЕР ВЫПУЩЕН НА ЛИЦЕНЗИЮ"
+  },
+  {
+   "title": "GTA 6 Contains A Very Hidden Secret That Teleports You Back In Time To Vice City On The PS2",
+   "source": "Kotaku",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-23T17:52:06.738501+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Leaker Cyberleek Reportedly Releases .exe File for Xbox Build, Sparking Concern an Unofficial PC Port Could Be Around the Corner",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-23T18:08:04.434325+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Vintage Vice City Pack Now Available To All Players On Xbox, And It's Pretty Cheap",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-23T18:08:04.434427+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6’s Best-Kept Secret Is the Key to Its Whole Design",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-23T18:08:04.434513+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Quote of the Day from Telegram CEO: GTA 6's hardened criminals should be using my product",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-23T18:10:39.396105+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Hacker behind GTA 6 leak released as judge says \"don't let this happen again\"",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-23T18:11:01.879721+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Сливший GTA VI хакер предстал перед судом — получил 7 лет тюрьмы, но его освободили в тот же день",
+   "source": "iXBT.games",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-23T18:11:21.902223+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "До релиза фанатской ПК-версии GTA VI осталась неделя? Моддеры уже запустили игру и назвали системные требования",
+   "source": "iXBT.games",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-23T18:11:53.215640+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Should you sell the pure or cut coke for Boobie in GTA 6?",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-23T18:12:19.712866+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -13270,6 +13463,37 @@
   },
   {
    "item": {
+    "title": "Cyberpunk 2 Is Canceled, Director Jokes, After GTA 6 Raises The Bar",
+    "link": "https://www.gamespot.com/articles/cyberpunk-2-is-canceled-director-jokes-after-gta-6-raises-the-bar/",
+    "summary": "Grand Theft Auto 6 has raised the bar for open-world games, and Cyberpunk 2 creative director Igor Sarzyński is feeling it. Online, the developer jokingly commented about GTA 6 setting a new gold standard for the genre, a level of quality that makes him want to pack up his Cyberpunk 2 development bags and call it a day. \"GTA 6-induced-open-world-game-dev-depression is real,\" Sarzyński wrote online. Probably the single greatest artistic achievement in history, I mean it. Scale, density, coherence, thoughtfulness of it all, just a technological and creative miracle. Cyberpunk 2 is canceled, Imma go sweep autumn leaves in my backyard now.\" https://www.youtube.com/watch?v=OAN_BXmVR0g Don't worry, Cyberpunk fans, because Sarzyński believes the game will offer a unique \"flavor\" compared to GTA 6. \"Seriously though, I think we're doing something of our own, with a different, unique flavor,\" he wrote in a follow-up post. \"GTA is impressive in a way all great art is; it expands what is possible, a captivating vision flawlessly executed.\" Meanwhile, Cyberpunk 2077 has had a great 2026, as the release of the new Cyberpunk Edgerunners anime series once again drove the game's numbers up . A meaty update also helped draw new players, and Cyberpunk 2 game director Gabe Amatangelo recently shared more thoughts on how the sequel is evolving beyond his original vision as more people join the project. Other developers across the industry have also commented on GTA 6, and Naughty Dog world design director Michael Barclay also believes that it is a technological achievement. \"I've made video games for 19 years, and GTA6 appears to me as a Bugatti Veyron would to a nervous Victorian child,\" he wrote. Payday 2 game director David Goldfarb has been utterly astonished by what he has seen so far, while The Last of Us: Part 2 and Star Wars: Jedi - Survivor character artist Del Walker wrote that he can't believe what he's seeing (and how some black magic might be involved): https://twitter.com/locust9/status/2123203448057536751 https://twitter.com/TheCartelDel/status/2123632078457831663 GTA 6 has had a phenomenal start , selling 44.9 million copies in its first weekend and making $4 billion. The first post-launch patch has also gone live, though we're not too sure what it does yet. For more on GTA 6, from completing side missions to finding a tricky location on the sprawling map of Leonida, we’ve got you covered with our Grand Theft Auto 6 guides hub.",
+    "published": "2026-11-23T14:19:27+00:00",
+    "source": "GameSpot",
+    "site_name": "GameSpot",
+    "trust": "high",
+    "text": "Grand Theft Auto 6 has raised the bar for open-world games, and Cyberpunk 2 creative director Igor Sarzyński is feeling it. Online, the developer jokingly commented about GTA 6 setting a new gold standard for the genre, a level of quality that makes him want to pack up his Cyberpunk 2 development bags and call it a day. \"GTA 6-induced-open-world-game-dev-depression is real,\" Sarzyński wrote online. Probably the single greatest artistic achievement in history, I mean it. Scale, density, coherence, thoughtfulness of it all, just a technological and creative miracle. Cyberpunk 2 is canceled, Imma go sweep autumn leaves in my backyard now.\" https://www.youtube.com/watch?v=OAN_BXmVR0g Don't worry, Cyberpunk fans, because Sarzyński believes the game will offer a unique \"flavor\" compared to GTA 6. \"Seriously though, I think we're doing something of our own, with a different, unique flavor,\" he wrote in a follow-up post. \"GTA is impressive in a way all great art is; it expands what is possible, a captivating vision flawlessly executed.\" Meanwhile, Cyberpunk 2077 has had a great 2026, as the release of the new Cyberpunk Edgerunners anime series once again drove the game's numbers up . A meaty update also helped draw new players, and Cyberpunk 2 game director Gabe Amatangelo recently shared more thoughts on how the sequel is evolving beyond his original vision as more people join the project. Other developers across the industry have also commented on GTA 6, and Naughty Dog world design director Michael Barclay also believes that it is a technological achievement. \"I've made video games for 19 years, and GTA6 appears to me as a Bugatti Veyron would to a nervous Victorian child,\" he wrote. Payday 2 game director David Goldfarb has been utterly astonished by what he has seen so far, while The Last of Us: Part 2 and Star Wars: Jedi - Survivor character artist Del Walker wrote that he can't believe what he's seeing (and how some black magic might be involved): https://twitter.com/locust9/status/2123203448057536751 https://twitter.com/TheCartelDel/status/2123632078457831663 GTA 6 has had a phenomenal start , selling 44.9 million copies in its first weekend and making $4 billion. The first post-launch patch has also gone live, though we're not too sure what it does yet. For more on GTA 6, from completing side missions to finding a tricky location on the sprawling map of Leonida, we’ve got you covered with our Grand Theft Auto 6 guides hub.",
+    "extra": {
+     "image": "https://www.gamespot.com/wp-content/uploads/2026/11/GTA-6-Cyberpunk.jpg?w=300"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "💥 GTA 6 продал 44,9 млн копий за уикенд\n\nЭто просто лут — 44,9 млн продаж и $4 млрд выручки, базу зашкаливает. Похоже, мир уже встает на колени перед имбой от Rockstar, так что готовим флекс и новые катки 🚀",
+    "card_title": "ГТА 6 РЕКОРДНЫЕ ПРОДАЖИ",
+    "reason": "Юмористичная и эмоциональная реакция известного разработчика на успех GTA 6, что вызывает высокий интерес у аудитории.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "groq:qwen/qwen3.8-27b → groq:openai/gpt-oss-120b"
+   },
+   "queued_at": "2026-11-23T17:48:29.497602+00:00",
+   "moderation": "pending",
+   "draft_msg_id": 113
+  },
+  {
+   "item": {
     "title": "'The System Is Not Good Vs. Evil': Why GTA 6's Criminal Profile Mechanic Is Dividing Fans",
     "link": "https://www.ign.com/articles/gta-6-criminal-profile-system-self-defense-penalties",
     "summary": "GTA 6 players are debating the game's Criminal Profile system, and how it operates with more depth than just a straightforward \"good vs. evil\" morality system.",
@@ -13296,6 +13520,93 @@
     "model": "groq:qwen/qwen3.8-27b → groq:openai/gpt-oss-120b"
    },
    "queued_at": "2026-11-23T14:35:34.745866+00:00"
+  },
+  {
+   "item": {
+    "title": "Has Rockstar taken the \"Grand Theft Auto\" out of GTA 6? Or has it just gamified car-jacking properly for the first time?",
+    "link": "https://www.eurogamer.net/gta-6-car-theft-gamified",
+    "summary": "It's impossible to have a big game launch these days without some section of the internet, somewhere, finding grievances with the final product because it does not align with the expectations they had pre-release. Read more",
+    "published": "2026-11-23T14:58:20+00:00",
+    "source": "Eurogamer",
+    "site_name": "Eurogamer",
+    "trust": "high",
+    "text": "It's impossible to have a big game launch these days without some section of the internet, somewhere, finding grievances with the final product because it does not align with the expectations they had pre-release.\nThe most recent upset comes in the form of Grand Theft Auto 6's revised take on, well, grand theft auto. In case you're one of the few still unfamiliar, grand theft auto is more than the titular moniker for Rockstar's premier crime simulation series; it's actually a US legal term for the act of stealing or attempting to steal a motor vehicle. In most previous GTA entries, this was a central part of the core gameplay loop: accept a mission, nick a car, complete the mission, nick another car, getaway. It's an endemic part of the loop, and has become so popular and identifiable as such that even other games - Watch Dogs, Saint's Row, Cyberpunk 2077, and so on - have emulated the mechanic.\nSo it makes sense that the internet is in a bit of a spin about GTA 6's more mature and restrained take on its eponymous crime. A quick, no-frills getaway in a vehicle you've hijacked on the road isn't always the most effective option. A mindless crime spree on the streets of Leonida is not a simple thing to pull off, nor an easy thing to live down. In this game, actions have consequences, and an ill-timed or ill-judged car jacking can quickly and efficiently put an end to your criminal ambitions.\nThat's not to say you cannot simply steal cars. Of course you can: the option to saunter up to an occupied vehicle and jack it from its registered owner is available to you from the very beginning of the game. But the citizens of Leonida aren't going to take your wanton act of foolishness lying down; many of the motorists in the county will fight back, pull a piece on you, or run you over mid-robbery attempt. Even if you are lucky to find one of the more pliant residents of the city, you might find something peculiar is happening in their car. I jacked a woman in the city over the weekend, and the cat she was ferrying from place to place decided to attack me, causing me to crash. I've heard other people say they've had muffled cries coming from the boot of the car where someone is transporting a hostage, or incidents where they've jacked the same person multiple times, leading to the poor car's owner to have a breakdown in the middle of the city.\nThat cat event, the team here at Eurogamer has worked out, is an early game trigger - it seems stealing random cars early in th",
+    "extra": {
+     "image": "https://assetsio.gnwcdn.com/car-gta-6.jpg?width=690&quality=85&format=jpg&auto=webp"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "🚗 Угон в GTA 6: теперь за ним реально могут отомстить\n\nНовый подход к кар‑джеку в Леониде — каждый ваш налёт может обернуться битвой с хозяином или даже котом‑мутантом. Ставьте на осторожность, иначе получите тильт и кучу полицейских 😅",
+    "card_title": "НОВАЯ МЕХАНИКА УГОНА МАШИН",
+    "reason": "Высокоточный источник Eurogamer сообщает о реальном изменении механики угона авто в GTA 6",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "groq:openai/gpt-oss-20b → groq:openai/gpt-oss-120b"
+   },
+   "queued_at": "2026-11-23T17:48:54.884465+00:00"
+  },
+  {
+   "item": {
+    "title": "Telegram CEO Says The ‘Least Realistic’ Thing About GTA 6 Is That Nobody Uses His App To Commit Crimes",
+    "link": "https://kotaku.com/telegram-ceo-says-the-least-realistic-thing-about-gta-6-is-that-nobody-uses-his-app-to-commit-crimes-2000759427",
+    "summary": "He just tweeted it out",
+    "published": "2026-11-23T15:30:50+00:00",
+    "source": "Kotaku",
+    "site_name": "Kotaku",
+    "trust": "high",
+    "text": "The lawyers for Pavel Durov have got to be going through it right now. The CEO of Telegram is one of the many millions of people who seem to be enjoying GTA 6. However, he has a few quibbles about the game’s realism. Late last week he posted on X, “The least realistic thing about GTA VI is that Jason and Lucia run a whole criminal operation without a single Telegram group.”\nTelegram is a popular messaging app used worldwide. It functions similarly to Signal and allows for encrypted messaging, making it an attractive chat service for people who need to communicate privately including journalists, protestors, and labor organizers. Those features also make Telegram a hotspot for illegal activity.\nTelegram has an infamous reputation for being the go-to app for crimes. Scratch some kind of criminal network of unsavory people like white nationalists or cryptoscammers, and you’re likely going to find a Telegram group chat. The app is so notorious for being Crime Facebook that in 2024 Durov was indicted in France on 12 charges for allegedly not doing enough to curb the drug trafficking and distribution of child sexual assault abuse materials taking place on Telegram. Earlier this year, Russia charged Durov with facilitating terrorism for failing to remove information allegedly used to target Russian soldiers, infrastructure, and civilians in the Russia-Ukraine war.\nDurov has said Telegram actively works to remove illegal content from the app and has denied claims that it’s some kind of haven for criminals. Which is why it’s really weird that he’s salty-posting on X about how the two most famous fictional criminals in the world right now aren’t using his app to do their criming. He’s facing all this litigation for allegedly not doing enough about his app being the crime place and he just tweets an acknowledgement that he can’t even conceive of fictional crime being done without Telegram’s help.\nDon’t miss the latest reviews, news and tips. Sign up for our free newsletter.\nCultureNews Binding Of Isaac Update Review-Bombed Over AI-Generated Music In GTA 6 Mode: ‘Woke Up To A Sh*t Show, Obviously I Had No Idea’ A Vice City mode was using music made by AI By Ethan Gach Published November 21, 2026\nCultureOdds and Ends Radio Tower Expert Can’t Believe How Realistic GTA 6′s Towers Are: ‘Oh My God Boys… Earthed Tower Legs With Saddles” If you were curious how accurate the utility towers in Grand Theft Auto 6 the answer appears to be: Very By Zack Zwiezen Published November",
+    "extra": {
+     "image": "https://kotaku.com/app/uploads/2026/11/Lucia-Caminos-GTA6-1280x720.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "🗨️ ДУРОВ: в GTA 6 нет Telegram‑чатов\n\nCEO Telegram влепил в Твиттере, что в игре Джейсон и Люсия крутят криминал без единого нашего чата. Чисто лол, но уже обсуждают в комьюнити, кто бы их в TG добавил. 🤷",
+    "card_title": "ТЕЛЕГРАМ НЕ В GTA 6",
+    "reason": "Глава Telegram пошутил про реализм GTA 6, забавная новость с высоким охватом",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
+   },
+   "queued_at": "2026-11-23T17:49:49.386522+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA 6 hacker who leaked footage in 2022 has been released on licence and told not to do it again",
+    "link": "https://www.videogameschronicle.com/news/gta-6-hacker-who-leaked-footage-in-2022-has-been-released-on-licence-and-told-not-to-do-it-again/",
+    "summary": "Arion Kurtaj was deemed to fit to stand trial earlier this year",
+    "published": "2026-11-23T15:43:51+00:00",
+    "source": "VGC",
+    "site_name": "VGC",
+    "trust": "high",
+    "text": "The UK teenager who hacked Rockstar and leaked footage of Grand Theft Auto 6 has been released on licence and warned not to do anything like it again.\nIn 2022, Arion Kurtaj, who suffers from acute autism, was convicted of being a member of the international hacking group Lapsus$, which also carried out attacks on tech companies including Uber, Nvidia and EE.\nIn late 2023, a judge determined that Kurtaj – who was 18 at the time – remained fixated with hacking and posed “a high risk of serious harm to the public through skill in gaining unfettered access to computers”.\nIt was decided that Kurtaj would stay at a secure hospital facility until such time that a mental health tribunal decided he no longer posed a danger to others.\nEarlier this year, however, it was decided that he was now fit to stand trial, and was released to a normal prison in January.\nThe trial took place last week, where Kurtaj pleaded guilty. Now, as reported by the BBC, he has been given a Serious Crime Prevention Order, which restricts his online activity for the next five years, including a ban on using Telegram and Discord.\nAccording to the report, the judge told Kurtaj that he was “a very talented young man”, and told him: “Don’t let this happen again.”\nIn September 2022, Kurtaj and other hackers published an hour of GTA 6 development footage online, giving players their first look at the sequel to one of the best-selling games of all-time.\nThis footage included the first look at Lucia, confirming for the first time that the game would feature a female protagonist.\nAt the time, Rockstar said it was “extremely disappointed” to have details on the game shared in this way, and proceeded to release the game’s first trailer later that year, officially confirming the female lead.",
+    "extra": {
+     "image": "https://www.videogameschronicle.com/files/2026/11/gta-grand-theft-auto-6-pic16.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "🚨 Хакер GTA 6 выпустили на лицензии, но с запретом\n\nТот самый парнишка, который в 2022 вырвал час геймплейных кадров, теперь на свободе, но под пятой — пять лет без Telegram и Discord. Рокстар явно не шутит, а судья сказал: «Не повторяй». \n❤️ — за справедливость\n👎 — за хакеров",
+    "card_title": "ХАКЕР ВЫПУЩЕН НА ЛИЦЕНЗИЮ",
+    "reason": "Главный хакер, сливший билд GTA 6 в 2022 году, вышел на свободу и получил запрет на интернет.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
+   },
+   "queued_at": "2026-11-23T17:50:25.309045+00:00"
   },
   {
    "item": {
@@ -13328,6 +13639,35 @@
   },
   {
    "item": {
+    "title": "GTA 6 Update Now Live On Xbox Series X|S, Includes Seven Official Fixes",
+    "link": "https://www.purexbox.com/news/2026/11/gta-6-update-now-live-on-xbox-series-xs-includes-seven-official-fixes",
+    "summary": "Update: We've got the deets from Rockstar. GTA 6 only officially launched late last week, but Rockstar Games has already pushed out a new update (01.002.002) for the game across Xbox Series X and Xbox Series S (along with PS5), rolling out as of a few hours ago. You're looking at a download size of around 1.6GB for update 1.0.2 on Xbox Series X and S. Read the full article on purexbox.com",
+    "published": "2026-11-23T14:50:00+00:00",
+    "source": "Pure Xbox",
+    "site_name": "Pure Xbox",
+    "trust": "high",
+    "text": "Update [Mon 23rd Nov 2026, 2:50pm]: Well, the patch notes are out! Rockstar Games mentions seven official fixes for the update, and none of them are specifically to do with the Xbox Series S or other things like how bright the game is.\nNevertheless, there's always a chance they've made some extra tweaks under the hood.\nHere are the official seven fixes in GTA 6's first post-launch update (November 23):\nFixed several issues that caused the game to crash\nFixed an issue that resulted in the weather not changing for extended periods\nFixed an issue that resulted in the game not autosaving correctly\nFixed several issues that resulted phone calls not triggering correctly including those that progressed the story or unlocked mission content\nFixed an issue that resulted in the players being unable to lose their Wanted Level\nFixed an issue that resulted in the player being unable to use the deadlift bar in the Gym\nFixed that resulted in partners not handing over bags so that players could sell them to fences\nOriginal Story: GTA 6 only officially launched late last week, but Rockstar Games has already pushed out a new update (01.002.002) for the game across Xbox Series X and Xbox Series S (along with PS5), rolling out as of a few hours ago.\nYou're looking at a download size of around 1.6GB for update 1.0.2 on Xbox Series X and S.\nIn terms of what's included, Rockstar has yet to issue any official patch notes, and we'll have to wait and see whether anything is distributed. We'll obviously update this article with the patch notes if they're made available to us.\nPlayers are trying to make their own discoveries in the meantime, with suggestions that the game may run smoother on Xbox Series S now, that saving your game returns you to the exact same spot instead of your safehouse (although this seemed to be happening for us already), and that the first-person glitch is still working as things stand.\nAll of these could be akin to placebo effects though, so take them with a pinch of salt:\nAs you can see from one of the impressions above, there's a suggestion that the game seems brighter now, which perhaps could have something to do with the borked HDR calibration tool that we discussed the other day.\nThat said, who knows whether these are areas that have actually been targeted for the update, or whether they're just happy coincidences that some players are experiencing. In any case, we'll keep an eye out for any official confirmations.\nHave you noticed anything that needs f",
+    "extra": {
+     "image": "https://images.purexbox.com/f7b59a19daa93/large.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "🚀 Обновление GTA 6 на Xbox: 7 фиксиков\n\nRockstar выкатил патч 01.002.002, который устранил краши, баги с погодой, автосохранением и даже проблему с баром в спортзале. Теперь можно терять уровень розыска и продавать сумки партнёрам без глюков. Похоже, игра стала чуть стабильнее, так что вперёд к новым разносам! 💥",
+    "card_title": "ОБНОВЛЕНИЕ XBOX: 7 ФИКСОВ",
+    "reason": "официальный патч с 7 фиксами",
+    "duplicate": false,
+    "corroborated": true,
+    "duplicate_of": "GTA 6 Update Now Live On Xbox Series X|S, Players Share Their First Impressions",
+    "corroborated_by": "Grand Theft Auto 6 has received a new update which fixes autosaving",
+    "guide": false,
+    "model": "groq:openai/gpt-oss-20b → groq:openai/gpt-oss-120b"
+   },
+   "queued_at": "2026-11-23T17:49:22.076028+00:00"
+  },
+  {
+   "item": {
     "title": "GTA 6 Has Already Sold 45 Million Copies, Says Research Firm",
     "link": "https://insider-gaming.com/gta-6-45-million-copies/",
     "summary": "A research firm claims GTA 6 has already sold nearly 45 million copies in its launch weekend, amounting to over $4 billion in revenue. The post GTA 6 Has Already Sold 45 Million Copies, Says Research Firm appeared first on Insider Gaming .",
@@ -13356,6 +13696,35 @@
    "queued_at": "2026-11-23T12:48:28.674127+00:00",
    "moderation": "pending",
    "draft_msg_id": 108
+  },
+  {
+   "item": {
+    "title": "GTA VI Hacker Released From Prison",
+    "link": "https://rockstarintel.com/gta-vi-hacker-released-from-prison/",
+    "summary": "The infamous hacker who published 90 GTA VI gameplay videos before the game was officially revealed has been released from prison. Arion Kurtaj is now a free man after being a teen hacker causing cyber mayhem. On Monday morning, the criminal was sentenced at Woolwich Crown Court following a guilty plea made last week. We reported how [...] The post GTA VI Hacker Released From Prison appeared first on RockstarINTEL .",
+    "published": "2026-11-23T14:26:18+00:00",
+    "source": "Rockstar Intel",
+    "site_name": "Rockstar Intel",
+    "trust": "medium",
+    "text": "The infamous hacker who published 90 GTA VI gameplay videos before the game was officially revealed has been released from prison. Arion Kurtaj is now a free man after being a teen hacker causing cyber mayhem.\nOn Monday morning, the criminal was sentenced at Woolwich Crown Court following a guilty plea made last week. We reported how he plead guilty to all of his crimes including fraud, computer misuse and more.\nThe BBC reports Kurtaj was sentenced by the judge to 7 years in prison. However, Mr Justice Turner had him walk away free today. It is claimed the hacker smiled when the judge freed him. As part of his release, Kurtaj has been given a Serious Crime Prevention Order for 5 years. This means he is given restricted internet usage such a ban on Telegram and Discord.\nThis will be a surprise to some fans and worrisome given his past claims of intent to reoffend. Rockstar Games might be concerned and disappointed by this result. We got GTA VI hacker released before GTA VI Online.\n“You are obviously a very talented young man. Don’t waste those talents by spending the rest of your life in and out of prison. Don’t let this happen again.” Judge Turner\nKurtaj was originally moved into a secure hospital for his own and others’ safety. Eventually, he got out and placed into a standard prison at the start of this year. We reported on some of his communication from inside his cell here.\n“Arion Kurtaj used sophisticated hacking techniques to carry out a sustained campaign of cyberattacks, causing serious disruption to major international business and putting sensitive information at risk… This was an exceptionally complex and challenging case, but despite his efforts to conceal his identity online, our specialist prosecutors were able to work closely with the City of London Police and international law enforcement partners to build a strong case that exposed his actions and resulted in his guilty pleas.” Robert Hutchinson, Specialist Prosecutor, Crown Prosecution Service\nHopefully this is the end of Arion Kurtaj’s story with Rockstar Games and GTA VI. With Cyberleek still on the loose, Rockstar don’t need more interference.\nLooking for some Grand Theft Auto VI guides? We show you how you can unlock the exclusive Venturas Blvd Elegy here. Plus, check out the best settings to use when playing the game. Also, there’s a glitch that unlocks the 30FPS cap and here’s how to do it.\nFor more news on GTA 6, stay tuned to RockstarINTEL and sign up to our newsletter for a weekl",
+    "extra": {
+     "image": "https://rockstarintel.com/wp-content/uploads/2026/10/radio-background-desktop.0hlwc1-j9tqg-copy-1024x576.webp"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "🔓 Хакер GTA VI вышел на свободу\n\nТот самый Аріон Куртай, который слил кучу видосов до релиза, теперь свободен. 🔥 Фанаты в шоке, а Rockstar явно нервничает — будет ли новый слив?",
+    "card_title": "ХАКЕР GTA VI СВОБОДЕН",
+    "reason": "Хакер, сливший геймплей GTA 6 до релиза, вышел на свободу, что очень зацепит фанатов.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
+   },
+   "queued_at": "2026-11-23T17:48:26.944659+00:00"
   },
   {
    "item": {
@@ -13727,7 +14096,8 @@
   "2026-11-23T14:06:31.773180+00:00",
   "2026-11-23T15:06:34.422085+00:00",
   "2026-11-23T16:07:11.944353+00:00",
-  "2026-11-23T17:07:48.137370+00:00"
+  "2026-11-23T17:07:48.137370+00:00",
+  "2026-11-23T18:12:28.283664+00:00"
  ],
  "slots_sent": {
   "2026-11-21:guide:1": "2026-11-21T21:14:52.573728+00:00",
@@ -19546,186 +19916,6 @@
  "rewrite_wait": [
   {
    "item": {
-    "title": "GTA VI Hacker Released From Prison",
-    "link": "https://rockstarintel.com/gta-vi-hacker-released-from-prison/",
-    "summary": "The infamous hacker who published 90 GTA VI gameplay videos before the game was officially revealed has been released from prison. Arion Kurtaj is now a free man after being a teen hacker causing cyber mayhem. On Monday morning, the criminal was sentenced at Woolwich Crown Court following a guilty plea made last week. We reported how [...] The post GTA VI Hacker Released From Prison appeared first on RockstarINTEL .",
-    "published": "2026-11-23T14:26:18+00:00",
-    "source": "Rockstar Intel",
-    "site_name": "Rockstar Intel",
-    "trust": "medium",
-    "text": "The infamous hacker who published 90 GTA VI gameplay videos before the game was officially revealed has been released from prison. Arion Kurtaj is now a free man after being a teen hacker causing cyber mayhem.\nOn Monday morning, the criminal was sentenced at Woolwich Crown Court following a guilty plea made last week. We reported how he plead guilty to all of his crimes including fraud, computer misuse and more.\nThe BBC reports Kurtaj was sentenced by the judge to 7 years in prison. However, Mr Justice Turner had him walk away free today. It is claimed the hacker smiled when the judge freed him. As part of his release, Kurtaj has been given a Serious Crime Prevention Order for 5 years. This means he is given restricted internet usage such a ban on Telegram and Discord.\nThis will be a surprise to some fans and worrisome given his past claims of intent to reoffend. Rockstar Games might be concerned and disappointed by this result. We got GTA VI hacker released before GTA VI Online.\n“You are obviously a very talented young man. Don’t waste those talents by spending the rest of your life in and out of prison. Don’t let this happen again.” Judge Turner\nKurtaj was originally moved into a secure hospital for his own and others’ safety. Eventually, he got out and placed into a standard prison at the start of this year. We reported on some of his communication from inside his cell here.\n“Arion Kurtaj used sophisticated hacking techniques to carry out a sustained campaign of cyberattacks, causing serious disruption to major international business and putting sensitive information at risk… This was an exceptionally complex and challenging case, but despite his efforts to conceal his identity online, our specialist prosecutors were able to work closely with the City of London Police and international law enforcement partners to build a strong case that exposed his actions and resulted in his guilty pleas.” Robert Hutchinson, Specialist Prosecutor, Crown Prosecution Service\nHopefully this is the end of Arion Kurtaj’s story with Rockstar Games and GTA VI. With Cyberleek still on the loose, Rockstar don’t need more interference.\nLooking for some Grand Theft Auto VI guides? We show you how you can unlock the exclusive Venturas Blvd Elegy here. Plus, check out the best settings to use when playing the game. Also, there’s a glitch that unlocks the 30FPS cap and here’s how to do it.\nFor more news on GTA 6, stay tuned to RockstarINTEL and sign up to our newsletter for a weekl",
-    "extra": {
-     "image": "https://rockstarintel.com/wp-content/uploads/2026/10/radio-background-desktop.0hlwc1-j9tqg-copy-1024x576.webp"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "ХАКЕР, сливший геймплей GTA 6, уже на свободе\n\nАрион Куртадж вышел из тюрьмы, отделавшись ограничениями на интернет и пятилетним запретом на Telegram и Дискорд. Вот это поворот, чел на свободе раньше, чем в игру завезли онлайн!\n\n❤️ — Ждем новый слив\n👎 — Бан в сети навсегда",
-    "card_title": "ХАКЕР GTA 6 НА СВОБОДЕ",
-    "reason": "Хакер, сливший геймплей GTA 6 до релиза, вышел на свободу, что очень зацепит фанатов.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-23T14:37:33.308807+00:00"
-  },
-  {
-   "item": {
-    "title": "Cyberpunk 2 Is Canceled, Director Jokes, After GTA 6 Raises The Bar",
-    "link": "https://www.gamespot.com/articles/cyberpunk-2-is-canceled-director-jokes-after-gta-6-raises-the-bar/",
-    "summary": "Grand Theft Auto 6 has raised the bar for open-world games, and Cyberpunk 2 creative director Igor Sarzyński is feeling it. Online, the developer jokingly commented about GTA 6 setting a new gold standard for the genre, a level of quality that makes him want to pack up his Cyberpunk 2 development bags and call it a day. \"GTA 6-induced-open-world-game-dev-depression is real,\" Sarzyński wrote online. Probably the single greatest artistic achievement in history, I mean it. Scale, density, coherence, thoughtfulness of it all, just a technological and creative miracle. Cyberpunk 2 is canceled, Imma go sweep autumn leaves in my backyard now.\" https://www.youtube.com/watch?v=OAN_BXmVR0g Don't worry, Cyberpunk fans, because Sarzyński believes the game will offer a unique \"flavor\" compared to GTA 6. \"Seriously though, I think we're doing something of our own, with a different, unique flavor,\" he wrote in a follow-up post. \"GTA is impressive in a way all great art is; it expands what is possible, a captivating vision flawlessly executed.\" Meanwhile, Cyberpunk 2077 has had a great 2026, as the release of the new Cyberpunk Edgerunners anime series once again drove the game's numbers up . A meaty update also helped draw new players, and Cyberpunk 2 game director Gabe Amatangelo recently shared more thoughts on how the sequel is evolving beyond his original vision as more people join the project. Other developers across the industry have also commented on GTA 6, and Naughty Dog world design director Michael Barclay also believes that it is a technological achievement. \"I've made video games for 19 years, and GTA6 appears to me as a Bugatti Veyron would to a nervous Victorian child,\" he wrote. Payday 2 game director David Goldfarb has been utterly astonished by what he has seen so far, while The Last of Us: Part 2 and Star Wars: Jedi - Survivor character artist Del Walker wrote that he can't believe what he's seeing (and how some black magic might be involved): https://twitter.com/locust9/status/2123203448057536751 https://twitter.com/TheCartelDel/status/2123632078457831663 GTA 6 has had a phenomenal start , selling 44.9 million copies in its first weekend and making $4 billion. The first post-launch patch has also gone live, though we're not too sure what it does yet. For more on GTA 6, from completing side missions to finding a tricky location on the sprawling map of Leonida, we’ve got you covered with our Grand Theft Auto 6 guides hub.",
-    "published": "2026-11-23T14:19:27+00:00",
-    "source": "GameSpot",
-    "site_name": "GameSpot",
-    "trust": "high",
-    "text": "Grand Theft Auto 6 has raised the bar for open-world games, and Cyberpunk 2 creative director Igor Sarzyński is feeling it. Online, the developer jokingly commented about GTA 6 setting a new gold standard for the genre, a level of quality that makes him want to pack up his Cyberpunk 2 development bags and call it a day. \"GTA 6-induced-open-world-game-dev-depression is real,\" Sarzyński wrote online. Probably the single greatest artistic achievement in history, I mean it. Scale, density, coherence, thoughtfulness of it all, just a technological and creative miracle. Cyberpunk 2 is canceled, Imma go sweep autumn leaves in my backyard now.\" https://www.youtube.com/watch?v=OAN_BXmVR0g Don't worry, Cyberpunk fans, because Sarzyński believes the game will offer a unique \"flavor\" compared to GTA 6. \"Seriously though, I think we're doing something of our own, with a different, unique flavor,\" he wrote in a follow-up post. \"GTA is impressive in a way all great art is; it expands what is possible, a captivating vision flawlessly executed.\" Meanwhile, Cyberpunk 2077 has had a great 2026, as the release of the new Cyberpunk Edgerunners anime series once again drove the game's numbers up . A meaty update also helped draw new players, and Cyberpunk 2 game director Gabe Amatangelo recently shared more thoughts on how the sequel is evolving beyond his original vision as more people join the project. Other developers across the industry have also commented on GTA 6, and Naughty Dog world design director Michael Barclay also believes that it is a technological achievement. \"I've made video games for 19 years, and GTA6 appears to me as a Bugatti Veyron would to a nervous Victorian child,\" he wrote. Payday 2 game director David Goldfarb has been utterly astonished by what he has seen so far, while The Last of Us: Part 2 and Star Wars: Jedi - Survivor character artist Del Walker wrote that he can't believe what he's seeing (and how some black magic might be involved): https://twitter.com/locust9/status/2123203448057536751 https://twitter.com/TheCartelDel/status/2123632078457831663 GTA 6 has had a phenomenal start , selling 44.9 million copies in its first weekend and making $4 billion. The first post-launch patch has also gone live, though we're not too sure what it does yet. For more on GTA 6, from completing side missions to finding a tricky location on the sprawling map of Leonida, we’ve got you covered with our Grand Theft Auto 6 guides hub.",
-    "extra": {
-     "image": "https://www.gamespot.com/wp-content/uploads/2026/11/GTA-6-Cyberpunk.jpg?w=300"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "🔥 Директор Cyberpunk 2 «отменил» игру из-за GTA 6\n\nИгорь Саржиньски выдал лютый треш: говорит, GTA 6 подняла планку так высоко, что у него депрессия и он идёт листья подметать. Ору, база! Но в комментах признался, что их проект будет со своим уникальным вайбом. Разнос.",
-    "card_title": "CYBERPUNK 2 СКАНДАЛ",
-    "reason": "Юмористичная и эмоциональная реакция известного разработчика на успех GTA 6, что вызывает высокий интерес у аудитории.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "groq:qwen/qwen3.8-27b"
-   },
-   "corr": true,
-   "since": "2026-11-23T14:37:41.964841+00:00"
-  },
-  {
-   "item": {
-    "title": "Has Rockstar taken the \"Grand Theft Auto\" out of GTA 6? Or has it just gamified car-jacking properly for the first time?",
-    "link": "https://www.eurogamer.net/gta-6-car-theft-gamified",
-    "summary": "It's impossible to have a big game launch these days without some section of the internet, somewhere, finding grievances with the final product because it does not align with the expectations they had pre-release. Read more",
-    "published": "2026-11-23T14:58:20+00:00",
-    "source": "Eurogamer",
-    "site_name": "Eurogamer",
-    "trust": "high",
-    "text": "It's impossible to have a big game launch these days without some section of the internet, somewhere, finding grievances with the final product because it does not align with the expectations they had pre-release.\nThe most recent upset comes in the form of Grand Theft Auto 6's revised take on, well, grand theft auto. In case you're one of the few still unfamiliar, grand theft auto is more than the titular moniker for Rockstar's premier crime simulation series; it's actually a US legal term for the act of stealing or attempting to steal a motor vehicle. In most previous GTA entries, this was a central part of the core gameplay loop: accept a mission, nick a car, complete the mission, nick another car, getaway. It's an endemic part of the loop, and has become so popular and identifiable as such that even other games - Watch Dogs, Saint's Row, Cyberpunk 2077, and so on - have emulated the mechanic.\nSo it makes sense that the internet is in a bit of a spin about GTA 6's more mature and restrained take on its eponymous crime. A quick, no-frills getaway in a vehicle you've hijacked on the road isn't always the most effective option. A mindless crime spree on the streets of Leonida is not a simple thing to pull off, nor an easy thing to live down. In this game, actions have consequences, and an ill-timed or ill-judged car jacking can quickly and efficiently put an end to your criminal ambitions.\nThat's not to say you cannot simply steal cars. Of course you can: the option to saunter up to an occupied vehicle and jack it from its registered owner is available to you from the very beginning of the game. But the citizens of Leonida aren't going to take your wanton act of foolishness lying down; many of the motorists in the county will fight back, pull a piece on you, or run you over mid-robbery attempt. Even if you are lucky to find one of the more pliant residents of the city, you might find something peculiar is happening in their car. I jacked a woman in the city over the weekend, and the cat she was ferrying from place to place decided to attack me, causing me to crash. I've heard other people say they've had muffled cries coming from the boot of the car where someone is transporting a hostage, or incidents where they've jacked the same person multiple times, leading to the poor car's owner to have a breakdown in the middle of the city.\nThat cat event, the team here at Eurogamer has worked out, is an early game trigger - it seems stealing random cars early in th",
-    "extra": {
-     "image": "https://assetsio.gnwcdn.com/car-gta-6.jpg?width=690&quality=85&format=jpg&auto=webp"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "🚗 Новый подход к угонам авто\n\nГТА 6 реально изменила правила игры: теперь угоны не просто «клик» – они могут обернуться отрезвлением, кражей, даже нападением кота. Чистый «прыг‑поймай‑покинь» уже не самый крутый способ. \n\nЕсли хочешь сэкономить время и не получить «плохой репутационный» клик, лучше планировать хак, но будьте готовы к тому, что в городе могут сопротивляться.\n\n❤️ — крутая новость\n👎 — скучный гайд",
-    "card_title": "НОВЫЙ ПОДХОД К УГОНАМ АВТО",
-    "reason": "Высокоточный источник Eurogamer сообщает о реальном изменении механики угона авто в GTA 6",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "groq:openai/gpt-oss-20b"
-   },
-   "corr": false,
-   "since": "2026-11-23T15:14:46.908336+00:00"
-  },
-  {
-   "item": {
-    "title": "GTA 6 Update Now Live On Xbox Series X|S, Includes Seven Official Fixes",
-    "link": "https://www.purexbox.com/news/2026/11/gta-6-update-now-live-on-xbox-series-xs-includes-seven-official-fixes",
-    "summary": "Update: We've got the deets from Rockstar. GTA 6 only officially launched late last week, but Rockstar Games has already pushed out a new update (01.002.002) for the game across Xbox Series X and Xbox Series S (along with PS5), rolling out as of a few hours ago. You're looking at a download size of around 1.6GB for update 1.0.2 on Xbox Series X and S. Read the full article on purexbox.com",
-    "published": "2026-11-23T14:50:00+00:00",
-    "source": "Pure Xbox",
-    "site_name": "Pure Xbox",
-    "trust": "high",
-    "text": "Update [Mon 23rd Nov 2026, 2:50pm]: Well, the patch notes are out! Rockstar Games mentions seven official fixes for the update, and none of them are specifically to do with the Xbox Series S or other things like how bright the game is.\nNevertheless, there's always a chance they've made some extra tweaks under the hood.\nHere are the official seven fixes in GTA 6's first post-launch update (November 23):\nFixed several issues that caused the game to crash\nFixed an issue that resulted in the weather not changing for extended periods\nFixed an issue that resulted in the game not autosaving correctly\nFixed several issues that resulted phone calls not triggering correctly including those that progressed the story or unlocked mission content\nFixed an issue that resulted in the players being unable to lose their Wanted Level\nFixed an issue that resulted in the player being unable to use the deadlift bar in the Gym\nFixed that resulted in partners not handing over bags so that players could sell them to fences\nOriginal Story: GTA 6 only officially launched late last week, but Rockstar Games has already pushed out a new update (01.002.002) for the game across Xbox Series X and Xbox Series S (along with PS5), rolling out as of a few hours ago.\nYou're looking at a download size of around 1.6GB for update 1.0.2 on Xbox Series X and S.\nIn terms of what's included, Rockstar has yet to issue any official patch notes, and we'll have to wait and see whether anything is distributed. We'll obviously update this article with the patch notes if they're made available to us.\nPlayers are trying to make their own discoveries in the meantime, with suggestions that the game may run smoother on Xbox Series S now, that saving your game returns you to the exact same spot instead of your safehouse (although this seemed to be happening for us already), and that the first-person glitch is still working as things stand.\nAll of these could be akin to placebo effects though, so take them with a pinch of salt:\nAs you can see from one of the impressions above, there's a suggestion that the game seems brighter now, which perhaps could have something to do with the borked HDR calibration tool that we discussed the other day.\nThat said, who knows whether these are areas that have actually been targeted for the update, or whether they're just happy coincidences that some players are experiencing. In any case, we'll keep an eye out for any official confirmations.\nHave you noticed anything that needs f",
-    "extra": {
-     "image": "https://images.purexbox.com/f7b59a19daa93/large.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 6,
-    "post": "GTA 6 патч 1.0.2 уже в сети\n\nRockstar выкатил обновление 1.0.2 на Xbox Series X/S и PS5. 7 официальных фикс: кранч, погода, автосохранение, телефонные звонки, Wanted‑level, deadlift‑bar в спортзале и отдача сумок партнёрам. Размер ~1.6 GB. Теперь игра должна работать ровнее, а баги исчезнут.",
-    "card_title": "ПАТЧ 1.0.2",
-    "reason": "официальный патч с 7 фиксами",
-    "duplicate": false,
-    "corroborated": true,
-    "duplicate_of": "GTA 6 Update Now Live On Xbox Series X|S, Players Share Their First Impressions",
-    "corroborated_by": "Grand Theft Auto 6 has received a new update which fixes autosaving",
-    "guide": false,
-    "model": "groq:openai/gpt-oss-20b"
-   },
-   "corr": false,
-   "since": "2026-11-23T15:16:16.824995+00:00"
-  },
-  {
-   "item": {
-    "title": "Telegram CEO Says The ‘Least Realistic’ Thing About GTA 6 Is That Nobody Uses His App To Commit Crimes",
-    "link": "https://kotaku.com/telegram-ceo-says-the-least-realistic-thing-about-gta-6-is-that-nobody-uses-his-app-to-commit-crimes-2000759427",
-    "summary": "He just tweeted it out",
-    "published": "2026-11-23T15:30:50+00:00",
-    "source": "Kotaku",
-    "site_name": "Kotaku",
-    "trust": "high",
-    "text": "The lawyers for Pavel Durov have got to be going through it right now. The CEO of Telegram is one of the many millions of people who seem to be enjoying GTA 6. However, he has a few quibbles about the game’s realism. Late last week he posted on X, “The least realistic thing about GTA VI is that Jason and Lucia run a whole criminal operation without a single Telegram group.”\nTelegram is a popular messaging app used worldwide. It functions similarly to Signal and allows for encrypted messaging, making it an attractive chat service for people who need to communicate privately including journalists, protestors, and labor organizers. Those features also make Telegram a hotspot for illegal activity.\nTelegram has an infamous reputation for being the go-to app for crimes. Scratch some kind of criminal network of unsavory people like white nationalists or cryptoscammers, and you’re likely going to find a Telegram group chat. The app is so notorious for being Crime Facebook that in 2024 Durov was indicted in France on 12 charges for allegedly not doing enough to curb the drug trafficking and distribution of child sexual assault abuse materials taking place on Telegram. Earlier this year, Russia charged Durov with facilitating terrorism for failing to remove information allegedly used to target Russian soldiers, infrastructure, and civilians in the Russia-Ukraine war.\nDurov has said Telegram actively works to remove illegal content from the app and has denied claims that it’s some kind of haven for criminals. Which is why it’s really weird that he’s salty-posting on X about how the two most famous fictional criminals in the world right now aren’t using his app to do their criming. He’s facing all this litigation for allegedly not doing enough about his app being the crime place and he just tweets an acknowledgement that he can’t even conceive of fictional crime being done without Telegram’s help.\nDon’t miss the latest reviews, news and tips. Sign up for our free newsletter.\nCultureNews Binding Of Isaac Update Review-Bombed Over AI-Generated Music In GTA 6 Mode: ‘Woke Up To A Sh*t Show, Obviously I Had No Idea’ A Vice City mode was using music made by AI By Ethan Gach Published November 21, 2026\nCultureOdds and Ends Radio Tower Expert Can’t Believe How Realistic GTA 6′s Towers Are: ‘Oh My God Boys… Earthed Tower Legs With Saddles” If you were curious how accurate the utility towers in Grand Theft Auto 6 the answer appears to be: Very By Zack Zwiezen Published November",
-    "extra": {
-     "image": "https://kotaku.com/app/uploads/2026/11/Lucia-Caminos-GTA6-1280x720.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "ДОВЕРЕННОЕ ЛИЦО\n\nПавел Дуров неожиданно залетел в комьюнити с рофлом: глава Telegram заявил, что нереалистичность GTA 6 в том, что Джейсон и Люсия мутят криминал без его мессенджера. База, чел факты выдал, ждем пацанские цитаты на фоне Вайс-Сити.\n\n❤️ — Ждем канал Джейсона и Люсии\n👎 — Скинули бы все на батином модеме",
-    "card_title": "ДУРОВ ПРО УГОЛОВНЫЙ ВАЙБ GTA 6",
-    "reason": "Глава Telegram пошутил про реализм GTA 6, забавная новость с высоким охватом",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-23T15:33:45.336544+00:00"
-  },
-  {
-   "item": {
-    "title": "GTA 6 hacker who leaked footage in 2022 has been released on licence and told not to do it again",
-    "link": "https://www.videogameschronicle.com/news/gta-6-hacker-who-leaked-footage-in-2022-has-been-released-on-licence-and-told-not-to-do-it-again/",
-    "summary": "Arion Kurtaj was deemed to fit to stand trial earlier this year",
-    "published": "2026-11-23T15:43:51+00:00",
-    "source": "VGC",
-    "site_name": "VGC",
-    "trust": "high",
-    "text": "The UK teenager who hacked Rockstar and leaked footage of Grand Theft Auto 6 has been released on licence and warned not to do anything like it again.\nIn 2022, Arion Kurtaj, who suffers from acute autism, was convicted of being a member of the international hacking group Lapsus$, which also carried out attacks on tech companies including Uber, Nvidia and EE.\nIn late 2023, a judge determined that Kurtaj – who was 18 at the time – remained fixated with hacking and posed “a high risk of serious harm to the public through skill in gaining unfettered access to computers”.\nIt was decided that Kurtaj would stay at a secure hospital facility until such time that a mental health tribunal decided he no longer posed a danger to others.\nEarlier this year, however, it was decided that he was now fit to stand trial, and was released to a normal prison in January.\nThe trial took place last week, where Kurtaj pleaded guilty. Now, as reported by the BBC, he has been given a Serious Crime Prevention Order, which restricts his online activity for the next five years, including a ban on using Telegram and Discord.\nAccording to the report, the judge told Kurtaj that he was “a very talented young man”, and told him: “Don’t let this happen again.”\nIn September 2022, Kurtaj and other hackers published an hour of GTA 6 development footage online, giving players their first look at the sequel to one of the best-selling games of all-time.\nThis footage included the first look at Lucia, confirming for the first time that the game would feature a female protagonist.\nAt the time, Rockstar said it was “extremely disappointed” to have details on the game shared in this way, and proceeded to release the game’s first trailer later that year, officially confirming the female lead.",
-    "extra": {
-     "image": "https://www.videogameschronicle.com/files/2026/11/gta-grand-theft-auto-6-pic16.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "ХАКЕР GTA 6 на свободе\n\nЧел, сливший ранний геймплей игры в 2022 году, откинулся из больницы и получил бан на Telegram и Discord сроком на пять лет. Больше так не будет.\n\n❤️ — Земля пухом его компукту\n👎 — Ждем новый слив",
-    "card_title": "ХАКЕР GTA 6 НА СВОБОДЕ",
-    "reason": "Главный хакер, сливший билд GTA 6 в 2022 году, вышел на свободу и получил запрет на интернет.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-23T15:52:00.669168+00:00"
-  },
-  {
-   "item": {
     "title": "GTA 6 PC version is close, modders say after Cyberleek releases executable: \"The game almost boots\"",
     "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-pc-version-is-close-modders-say-after-cyberleek-releases-executable-the-game-almost-boots/",
     "summary": "GTA 6 Xbox EXE triggers new wave of recompilation work",
@@ -19753,6 +19943,96 @@
    },
    "corr": false,
    "since": "2026-11-23T16:42:19.789377+00:00"
+  },
+  {
+   "item": {
+    "title": "You Need to Watch GTA 6’s Telenovela Immediately",
+    "link": "https://www.polygon.com/gta-6-telenovela-megamundo-el-destino-extiende-sus-alas/",
+    "summary": "GTA 6's Spanish-language TV channel features a soap opera called El Destino Extiende Sus Alas, and it should be considered required viewing",
+    "published": "2026-11-23T18:01:08+00:00",
+    "source": "Polygon",
+    "site_name": "Polygon",
+    "trust": "high",
+    "text": "There is a ton of stuff to do in Grand Theft Auto 6. You can rob jewelry stores and steal exotic supercars. You can go scuba diving and hunt for pirate treasure. On the other end of the spectrum, you can trawl yard sales and vintage stores to expand your in-game collection of novelty T-shirts. In addition to a comprehensive variety of radio stations and podcasts, there are also three basic TV channels to choose from: Visit Leonida, Megamundo, and Weazel. The Spanish-language Megamundo — a parody of the real-world Telemundo — is the best of the bunch, and that's all down to one show that sunk its claws into me the second I tuned in: El Destino Extiende Sus Alas, which translates to \"destiny spreads its wings.\"\nThis soap opera centers on the intense drama within a wealthy family. Patriarch Don Antonio de Ramos moves to rewrite his will to name the domestic worker Marisol as heir to his land, which sets off a war between his son and second wife as they all jostle for control over the lavish estate. El Destino Extiende Sus Alas is a parody of a well-known Colombian soap from the early 2000s called Pasión de Gavilanes, which you can watch free on Pluto TV.\nAfter watching a really hokey fight sequence in which Don Antonio defends Marisol's honor by very slowly punching a man and then setting him on fire by tossing his cigar, I was locked in. GTA 6 kept trying to subtly pull me away from the show by zooming out from Jason and Lucia's television, wordlessly suggesting I get up and move around, maybe eat a protein bar and do some squats. No way! I had to see what happened next.\nI didn't grow up speaking Spanish at home, but I studied it through middle school and high school. Watching telenovelas definitely helped me to learn the language, because I loved all the melodrama and wild twists. If you enjoy any of the following things, you should definitely watch El Destino Extiende Sus Alas:\nMan fighting a mountain lion that is clearly a dummy\nExtremely stilted fight choreography and glacially paced fistfights\nIf you're interested in checking out the show but don't want to wait for it to air on Megamundo, you can already find it on YouTube. The Stone Age Gaming Channel has the entire 40-minute storyline, with English subtitles as well.\nAs someone who had secretly hoped that GTA 6 would include some sort of dynamic \"chisme system\" where speaking Spanish unlocked unique rumors and missions, I'm loving discovering stuff like this. I'm sure there'll be thousands of social m",
+    "extra": {
+     "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/screenshot-2026-11-23-at-10-57-51-am.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "СМОТРЕЛ ТЕЛЕНОВЕЛЛУ ВМЕСТО КАТКИ\n\nВ GTA 6 завезли лютое ТВ-шоу «El Destino» на испаноязычном канале Megamundo. Драка старика с чучелом пумы и эпичный удар сигарой просто разнос, оторваться анриал.",
+    "card_title": "МЕЛОДРАМА В GTA 6",
+    "reason": "Обзор крутой внутриигровой пасхалки и ТВ-шоу в GTA 6,Confirmed по материалу крупного СМИ Polygon.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-23T18:10:37.917180+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA 6 Vintage Vice City Pack Now Available To All Players On Xbox, And It's Pretty Cheap",
+    "link": "https://www.purexbox.com/news/2026/11/gta-6-vintage-vice-city-pack-now-available-to-all-players-on-xbox-and-its-pretty-cheap",
+    "summary": "\"Flash back to when the neon burned brightest\". Ahead of the release of GTA 6 , there were three types of content made available for it - the standard game, the Ultimate Edition content, and the Vintage Vice City Pack. The latter was intended as a pre-order bonus across Xbox and PS5. Now that the game is out in the wild though, Rockstar Games has decided to make the Vintage Vice City Pack available to purchase on the Xbox Store, carrying a price tag of £4.49 / $4.99. That's obviously not as good as getting it for free, but it's pretty cheap all the same, and a nice option to have if you missed out on the pre-order period. Read the full article on purexbox.com",
+    "published": "2026-11-23T18:00:00+00:00",
+    "source": "Pure Xbox",
+    "site_name": "Pure Xbox",
+    "trust": "high",
+    "text": "Ahead of the release of GTA 6, there were three types of content made available for it - the standard game, the Ultimate Edition content, and the Vintage Vice City Pack. The latter was intended as a pre-order bonus across Xbox and PS5.\nNow that the game is out in the wild though, Rockstar Games has decided to make the Vintage Vice City Pack available to purchase on the Xbox Store, carrying a price tag of £4.49 / $4.99. That's obviously not as good as getting it for free, but it's pretty cheap all the same, and a nice option to have if you missed out on the pre-order period.\n'55 VAPID STANIER: Cruise Shore Drive in this classic sedan and store it just a stone's throw from the glistening sands of Ocean Beach in the Shore Court garage, complete with a weapon locker plus a secure place to deposit stolen goods to be fenced.\nOUTFITS AND HAIRSTYLES: Dress for excess with Jason’s effortlessly chic linen suit in vintage pastel, complemented by the cut and coif of the decade of decadence. Show everyone the world is yours in Lucia’s red sequin mini dress and curls.\nEXCLUSIVE WEAPON PATTERN: Adorn most guns with a tropical pattern inspired by Tommy Vercetti's iconic palm tree button-up.\nSimilar to the Ultimate Edition content that you can also buy separately for £20.00 / $20.00, these items are made available \"as [the] story progresses\", so you don't necessarily get it all at the beginning of the campaign.\nI have to admit that I haven't really engaged with the Ultimate Edition stuff all that much yet, although it's certainly a nice bonus to get extra vehicles, liveries and outfits. The game is more than stacked enough that you don't need to buy anything more than the standard edition, but the option is there if you want the most content possible.\nWe'll leave a poll down below to find out which version you personally have, and let us know in the comments if you think the Vintage Vice City Pack and/or the Ultimate Edition content is worth buying on top of GTA 6 itself!\nWhich Version Of GTA 6 Do You Have? (6 votes)\nI have the standard edition with the pre-order content (Vice City pack)17%\nI just have the standard edition, no pre-order stuff 0%\nIs The Pre-Order Content Worth It In Your Opinion? (2 votes)\nIs The Ultimate Edition Content Worth It In Your Opinion? (4 votes)\nHow are you getting on with this pre-order / Ultimate content? Let us know in the comments down below.",
+    "extra": {
+     "image": "https://images.purexbox.com/9882cae897de1/large.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "VINTAGE VICE CITY ПАК ТЕПЕРЬ ДОСТУПЕН\n\nПропустили предзаказ? Не беда, Rockstar выкатили набор с тачкой и шмотками в магаз Xbox всего за пять баксов. Изи вайб из прошлых частей за копейки.",
+    "card_title": "ПАК VINTAGE VICE CITY НА XBOX",
+    "reason": "Официальный релиз пака Vintage Vice City для покупки в магазине Xbox",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "GTA 6 Vintage Vice City Pack Now Available To All Players On Xbox, And It's Pretty Cheap",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-23T18:10:48.065120+00:00"
+  },
+  {
+   "item": {
+    "title": "Cyberleek releases executable for GTA 6 Xbox build leaked last week: 'The torch passes to the open source recomp and emulation projects'",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/cyberleek-releases-executable-for-gta-6-xbox-build-leaked-last-week-the-torch-passes-to-the-open-source-recomp-and-emulation-projects/",
+    "summary": "The notorious GTA 6 leaker called it \"an early Christmas gift.\"",
+    "published": "2026-11-23T17:54:30+00:00",
+    "source": "PC Gamer",
+    "site_name": "PC Gamer",
+    "trust": "high",
+    "text": "Grand Theft Auto 6 leaker Cyberleek appears to have followed through on their threat to release the executable of the Xbox build of GTA 6 they put into the wild last week, calling it \"an early Christmas gift\" for followers and explicitly linking the leak to efforts to recreate the game on PC: \"The torch passes to the open source recomp and emulation projects.\"\nCyberleek released a near-complete build of GTA 6 late last week, holding back only the main exe—the part that makes everything else run, basically—until either their crypto coin achieved a $15 million market cap, or November 23, whichever came first. The crypto missed badly, but time marches on, and so here we are.\nThe release of the exe, naturally, includes a call for more \"donations\" in its readme file (via Reddit) which Cyberleek said will go toward a secretive project \"for the gamers.\" They also taunted Take-Two Interactive's efforts to track them down: \"Months of takedowns, subpoenas and wallet tracing later, the hunt is still on and the uploads keep arriving. No budget makes a lock unbreakable, and no court order deletes what the internet already has.\"\nLeaks in the game industry aren't anything new, but this case is unique: GTA 6, effectively the biggest videogame of all time, still hasn't been announced for PC, as is Take-Two's way. But the advent of AI means the game could be emulated on our platform far more quickly than was possible in the past—some modders estimated it could happen within a week.\nOne of the leads on the Leonida recomp project predicted that things will start to move quickly from here:\nAt the same time, Shayder tempered expectations in a message on the Leonida Discord, saying \"it will take at least a week\" for the project to reach the point where GTA will be playable on PC.\nHow that unofficial emulated made-with-AI build would compare to the real deal is an open question, and I strongly suspect the answer will be \"not well,\" but even just having something GTA 6-ish playable on PC is a headache that I'm pretty sure Take-Two would rather not have to deal with. I also wonder whether it will prompt Take-Two to release GTA 6 on PC more quickly than it has with previous releases. A rumor to that effect surfaced in October and I had serious doubts, but it's possible that ongoing emulation efforts will expedite its arrival..\nKeep up to date with the most important stories and the best deals, as picked by the PC Gamer team.\nI haven't verified whether the released exe is legit, but ",
+    "extra": {
+     "image": "https://cdn.mos.cms.futurecdn.net/dwxifSrgRWzUwvmTbTdSRV-1920-80.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 9,
+    "post": "🚨 СЛИЛИ GTA 6 ПОЛНОСТЬЮ\n\nCyberleek выкинули в сеть исполняемый файл Xbox-версии. Теперь моддеры пытаются собрать неофициальный ПК-порт с помощью ИИ. Rockstar, держитесь крепче, это будет взрыв.",
+    "card_title": "СЛИВ GTA 6 И ПК-ПОРТ",
+    "reason": "Подтвержденный крупными СМИ факт о релизе слитого exe и начале эмуляции на ПК, высокий хайп и угроза для издателя.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "GTA 6 Leaker Cyberleek Reportedly Releases .exe File for Xbox Build, Sparking Concern an Unofficial PC Port Could Be Around the Corner",
+    "guide": false,
+    "model": "groq:qwen/qwen3.8-27b"
+   },
+   "corr": false,
+   "since": "2026-11-23T18:10:57.918519+00:00"
   }
  ]
 }
