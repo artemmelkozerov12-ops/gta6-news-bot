@@ -2643,7 +2643,23 @@
   "71bde2eb8bdbe450": "2026-11-23T09:21:43.239737+00:00",
   "a540f5932d8b4b9e": "2026-11-23T09:22:55.736625+00:00",
   "278a939b4aea90c3": "2026-11-23T09:24:07.415619+00:00",
-  "403714c3b411c3e1": "2026-11-23T09:24:18.714090+00:00"
+  "403714c3b411c3e1": "2026-11-23T09:24:18.714090+00:00",
+  "f49da8fd625db2f4": "2026-11-23T09:35:41.892330+00:00",
+  "31f70e90a049313d": "2026-11-23T09:35:43.336835+00:00",
+  "0adbf30527bd54bb": "2026-11-23T09:35:44.779106+00:00",
+  "7530db90644f5a20": "2026-11-23T09:35:46.108643+00:00",
+  "8c1dca1d264c0e18": "2026-11-23T09:35:47.462712+00:00",
+  "ca4f31416d66cf95": "2026-11-23T09:35:48.842159+00:00",
+  "b0b7f696baa96d50": "2026-11-23T09:35:50.123300+00:00",
+  "19c482e98530d65d": "2026-11-23T09:35:51.499065+00:00",
+  "efe1d1f2aa4eb763": "2026-11-23T09:52:47.101371+00:00",
+  "93ae18ad276851b7": "2026-11-23T09:52:48.579576+00:00",
+  "bbae7fea0fa61287": "2026-11-23T09:52:49.751588+00:00",
+  "75d74fe70c73cb7b": "2026-11-23T09:52:50.960495+00:00",
+  "c41625a1e4ef90ca": "2026-11-23T09:52:52.257046+00:00",
+  "1788cfa0b41d2910": "2026-11-23T09:52:53.403748+00:00",
+  "d7c8212c54103e2f": "2026-11-23T09:52:54.501250+00:00",
+  "9b2c07bfeef6b7b3": "2026-11-23T09:52:55.824124+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -4451,7 +4467,23 @@
   "db95ea546e22b737": "2026-11-23T09:19:45.394860+00:00",
   "daca10e238c11da7": "2026-11-23T09:19:51.470340+00:00",
   "54b09aeb3de008ff": "2026-11-23T09:19:52.496527+00:00",
-  "ec89a6856de60780": "2026-11-23T09:19:53.467502+00:00"
+  "ec89a6856de60780": "2026-11-23T09:19:53.467502+00:00",
+  "dd55190b1d4eaa62": "2026-11-23T09:35:41.892330+00:00",
+  "77a1c50e69a5adaf": "2026-11-23T09:35:43.336835+00:00",
+  "6fdcaba626a77bc9": "2026-11-23T09:35:44.779106+00:00",
+  "3725da9d3f94214f": "2026-11-23T09:35:46.108643+00:00",
+  "fd471fe15da7a98a": "2026-11-23T09:35:47.462712+00:00",
+  "570a8fca21985e0b": "2026-11-23T09:35:48.842159+00:00",
+  "c884dc3c550e6670": "2026-11-23T09:35:50.123300+00:00",
+  "14584fe19356eeb4": "2026-11-23T09:35:51.499065+00:00",
+  "86f3f4a8e5745baf": "2026-11-23T09:52:47.101371+00:00",
+  "5f76d029ef872c1d": "2026-11-23T09:52:48.579576+00:00",
+  "ed62d44d4967a550": "2026-11-23T09:52:49.751588+00:00",
+  "b535b9f33067f8e9": "2026-11-23T09:52:50.960495+00:00",
+  "485612279039d24c": "2026-11-23T09:52:52.257046+00:00",
+  "45432bbe3800eacc": "2026-11-23T09:52:53.403748+00:00",
+  "8e03b34dec7bbe3b": "2026-11-23T09:52:54.501250+00:00",
+  "bbbeecd5032ef7cc": "2026-11-23T09:52:55.824124+00:00"
  },
  "recent": [
   {
@@ -11173,6 +11205,134 @@
    "status": "skipped",
    "ts": "2026-11-23T09:19:53.467623+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GTA 6 бьёт рекорды продаж, а администрацию Трампа высмеивают за её использование игры",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T09:35:41.892458+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Геймер на Xbox Series X нашёл способ запустить GTA 6 в 60 FPS – оказалось, что все анимации в игре привязаны к частоте кадров и ускоряются вдвое",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T09:35:43.336985+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 breaks sales records as Trump administration co-opt game and get ridiculed online",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T09:35:44.779253+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Поход в стриптиз-клуб в GTA 6 — измена или нет? Психологи ответили",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T09:35:46.108767+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Интимные сцены в GTA 6 стали для аниматоров особым вызовом",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T09:35:47.462847+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How GTA 6 is powering a gaming café revival in Mumbai - CNBC TV18",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T09:35:48.842280+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "zWORMz Gaming показал, как GTA 6 работает на PS5 при 60 fps с DLSS 5 — без артефактов не обошлось",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T09:35:50.123428+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "В Общественной палате Новосибирской области сравнили GTA 6 с наркотиком",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T09:35:51.499214+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Why can't you play darts in GTA 6 when you could in previous games? Because Rockstar \"didn't have the resources\" to do it to a standard it'd be happy with",
+   "source": "Eurogamer",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-23T09:52:47.767315+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "SoulCalibur Is Getting Review Bombed Thanks To GTA 6 And Ocarina Of Time",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T09:52:48.579692+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Lana Del Rey celebrates ‘GTA 6’ launch with Miami tour and Vice City Birkin",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T09:52:49.751718+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Прощай GTA 6? На сервере произошел массовый сбой",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T09:52:50.960636+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Durov deems GTA 6 less realistic as crime gangs don’t use Telegram",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T09:52:52.257174+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "«Магия GTA появляется во второй главе»: бывший разработчик Rockstar — о GTA 6",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T09:52:53.403874+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6: игроки часами листают мемы в Snapmatic",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T09:52:54.501375+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "«Информационный наркотик»: член Общественной палаты предложил познакомить игроков в GTA 6 с настоящим оружием",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T09:52:55.824256+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -11204,35 +11364,6 @@
     "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-3.5-flash"
    },
    "queued_at": "2026-11-23T01:06:51.441416+00:00"
-  },
-  {
-   "item": {
-    "title": "GTA 6's T-shirts Are True Works of Art",
-    "link": "https://www.polygon.com/gta-6-t-shirts/",
-    "summary": "Fashion can help you evade police in GTA 6, and Rockstar's design team has crafted some seriously covetable threads for the game.",
-    "published": "2026-11-22T20:30:17+00:00",
-    "source": "Polygon",
-    "site_name": "Polygon",
-    "trust": "high",
-    "text": "We've known for some time that fashion would be a big deal in Grand Theft Auto 6. In Rockstar's official promotional materials for the game, both Jason and Lucia were prominently featured wearing stylish clothing, from Lucia's body-hugging gold dress to Jason's slick Miami Vice-inspired aqua sport coat. Even supporting characters like Brian wear Tommy Bahama-inspired aloha shirts yanked straight from the closet of a dapper middle-aged stoner. GTA 6 has drawn praise from all quarters for its scrupulous attention to detail in every aspect of the game, and there's one area the developer went far, far harder than it needed to: the vast and immaculate selection of T-shirts.\nHaving a diverse wardrobe isn't just a fun little customization touch in GTA 6. If you're reported for committing a crime in Leonida — and this will happen very often — police will be able to recognize you based on your car, your physical appearance, and what you're wearing. Keeping a couple spare outfits in your trunk or hastily buying a new ensemble on the run can be the difference between a successful job and ending up busted (or wasted).\nI'm taking my time with GTA 6 and still kicking around the introductory area of Key Lento. I know I should be putting money in my family savings account. It would probably be in my best interest to learn how to drive without sideswiping semi-trucks or taking out stop signs. Perhaps I ought to be buying more guns. Instead, I'm trawling South Leonida for all the vintage and souvenir shops I can find. You can keep your fancy cars. I've got a T-shirt collection to maintain.\nMuch like in real life, you never know when you're going to find a gem in a vintage boutique or souvenir shop in GTA 6. My prized Rusty Anchor shirt came from an optional mission where you take Cal for drinks, he has a few too many, and you have to take him home. Apparently Cal won a wet T-shirt contest at the Anchor and this was his reward, but he's too hungover to claim the prize.\nDuring my wanderings, I also discovered a riff on that three-wolves-howling-at-the-moon shirt that everyone had about a decade ago, including me. But this one has gators on it. I bought it from Sharleen's yard sale in Jason's very own neighborhood of Key Lento. She had a couple of inexpensive clothing items on offer, including some pretty slick teal sneakers that were clearly inspired by Air Force One low-tops. I was delighted to learn that there are multiple yard sales in the game, including one in Port Gellh",
-    "extra": {
-     "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/jason-gator.png"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "👕 ФУТБОЛКИ в GTA 6: спасение от копов и приколы с барахолок\n\nКопы в Леониде запоминают одежду, поэтому сменка в багажнике — чистая база для побега. А ещё в игру завезли кучу смешных маек: на распродаже в Ки-Ленто продают принт с тремя воющими аллигаторами, а после попойки с Кэлом можно забрать его приз с конкурса мокрых футболок — зачем вообще покупать пушки?",
-    "card_title": "ФУТБОЛКИ И БАРАХОЛКИ В GTA 6",
-    "reason": "Детальный разбор крутой механики кастомизации и одежды в GTA 6 от Polygon",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-4-hydrogen"
-   },
-   "queued_at": "2026-11-22T21:23:23.449022+00:00"
   },
   {
    "item": {
@@ -11493,7 +11624,9 @@
     "guide": false,
     "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-3.5-flash"
    },
-   "queued_at": "2026-11-23T09:02:39.851533+00:00"
+   "queued_at": "2026-11-23T09:02:39.851533+00:00",
+   "moderation": "pending",
+   "draft_msg_id": 102
   },
   {
    "item": {
@@ -11623,7 +11756,8 @@
   "2026-11-23T06:00:40.772988+00:00",
   "2026-11-23T07:01:27.603407+00:00",
   "2026-11-23T08:02:17.685960+00:00",
-  "2026-11-23T09:03:49.755980+00:00"
+  "2026-11-23T09:03:49.755980+00:00",
+  "2026-11-23T10:03:54.460173+00:00"
  ],
  "slots_sent": {
   "2026-11-21:guide:1": "2026-11-21T21:14:52.573728+00:00",
