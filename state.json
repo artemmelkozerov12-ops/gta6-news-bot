@@ -2987,7 +2987,32 @@
   "2e82816807b0bd95": "2026-11-23T18:42:20.724708+00:00",
   "b34e30d46ba4a5a0": "2026-11-23T18:42:21.461233+00:00",
   "63279f4e36700760": "2026-11-23T18:43:11.922901+00:00",
-  "bf0c997f135ba085": "2026-11-23T18:43:12.340058+00:00"
+  "bf0c997f135ba085": "2026-11-23T18:43:12.340058+00:00",
+  "887e8e9ff61587bf": "2026-11-23T18:45:59.694632+00:00",
+  "0d8ae70dc673cc8a": "2026-11-23T18:45:59.707030+00:00",
+  "99fc32bead1c7d59": "2026-11-23T18:45:59.720742+00:00",
+  "ee38a817a64b7e8a": "2026-11-23T18:47:47.708581+00:00",
+  "1c4863bbc113f198": "2026-11-23T18:47:48.140238+00:00",
+  "22c4ac4aa70269d2": "2026-11-23T18:47:48.560373+00:00",
+  "ba1a91e5bb804831": "2026-11-23T18:47:48.916710+00:00",
+  "3f2288a30bab9f49": "2026-11-23T18:48:39.588429+00:00",
+  "34c3ba55aa630063": "2026-11-23T18:48:39.981448+00:00",
+  "cdb243eec2953427": "2026-11-23T18:48:40.406027+00:00",
+  "4216835786ee4140": "2026-11-23T18:48:40.759273+00:00",
+  "c9812ff80c401eaf": "2026-11-23T18:49:31.454509+00:00",
+  "154983ea02f48c69": "2026-11-23T18:49:32.014175+00:00",
+  "2ddbab1d901376da": "2026-11-23T18:49:32.485059+00:00",
+  "4e1da1ec049a6717": "2026-11-23T18:49:32.846683+00:00",
+  "d831718eb6742181": "2026-11-23T19:03:15.479642+00:00",
+  "ba2fada577c9d0f4": "2026-11-23T19:03:16.230787+00:00",
+  "741285a0e02eefe3": "2026-11-23T19:04:20.120589+00:00",
+  "7b82cf2455b40c84": "2026-11-23T19:04:20.599072+00:00",
+  "e72ee0fcf17e14f2": "2026-11-23T19:04:20.975300+00:00",
+  "bc4502005fb1ac04": "2026-11-23T19:04:21.350420+00:00",
+  "2f0ce0957c013bd9": "2026-11-23T19:05:12.024592+00:00",
+  "1e5846fec3142714": "2026-11-23T19:05:12.412109+00:00",
+  "57050f7701e3b2e2": "2026-11-23T19:05:12.808644+00:00",
+  "3985fe6af769a6cb": "2026-11-23T19:05:13.179573+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -5034,7 +5059,12 @@
   "af6ac7bf1d321fbd": "2026-11-23T18:28:14.340550+00:00",
   "2f04191a9c7f8313": "2026-11-23T18:28:40.213869+00:00",
   "45469403e1b3bc74": "2026-11-23T18:28:42.406816+00:00",
-  "3bf7cb93f491eb62": "2026-11-23T18:29:14.670348+00:00"
+  "3bf7cb93f491eb62": "2026-11-23T18:29:14.670348+00:00",
+  "f83fd6e7c5b2138c": "2026-11-23T18:45:59.694632+00:00",
+  "f011945ea01d1825": "2026-11-23T18:45:59.707030+00:00",
+  "f6c4a37b06f09bc1": "2026-11-23T18:45:59.720742+00:00",
+  "e47bc9e75d234204": "2026-11-23T19:03:15.479642+00:00",
+  "b4c429f859ab6751": "2026-11-23T19:03:16.230787+00:00"
  },
  "recent": [
   {
@@ -13500,6 +13530,46 @@
    "status": "skipped",
    "ts": "2026-11-23T18:28:47.878324+00:00",
    "card_title": ""
+  },
+  {
+   "title": "What is the laptop password in GTA 6.",
+   "source": "Polygon",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-23T18:45:59.694668+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Where to find Auntie's Place in La Perle in GTA 6",
+   "source": "Polygon",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-23T18:45:59.707058+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Vice City Pre-Order DLC Now Available for All, With One Catch",
+   "source": "Polygon",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-23T18:45:59.720772+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Introduces The Series' First Ever Nonbinary Character",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-23T19:03:15.479701+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Vice City pre-order DLC now available for all, but there’s a catch",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-23T19:03:16.230891+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -13650,7 +13720,9 @@
     "guide": false,
     "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
    },
-   "queued_at": "2026-11-23T17:49:49.386522+00:00"
+   "queued_at": "2026-11-23T17:49:49.386522+00:00",
+   "moderation": "pending",
+   "draft_msg_id": 114
   },
   {
    "item": {
@@ -14143,7 +14215,8 @@
   "2026-11-23T15:06:34.422085+00:00",
   "2026-11-23T16:07:11.944353+00:00",
   "2026-11-23T17:07:48.137370+00:00",
-  "2026-11-23T18:12:28.283664+00:00"
+  "2026-11-23T18:12:28.283664+00:00",
+  "2026-11-23T19:12:46.915605+00:00"
  ],
  "slots_sent": {
   "2026-11-21:guide:1": "2026-11-21T21:14:52.573728+00:00",
@@ -20188,6 +20261,186 @@
    "title": "ayo",
    "drafted": false,
    "ts": "2026-11-23T18:43:12.340101+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:cohhcarnage",
+   "vod": "2938310833",
+   "offset": 18016.0,
+   "title": "Cohh realized something about the UFO Easter Egg he found in GTA 6",
+   "drafted": false,
+   "ts": "2026-11-23T18:47:47.708622+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:caseoh_",
+   "vod": "2937666104",
+   "offset": 6399.0,
+   "title": "nice scooter",
+   "drafted": false,
+   "ts": "2026-11-23T18:47:48.140281+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:ohnepixel",
+   "vod": "2938342600",
+   "offset": 2264.0,
+   "title": "Lucia tripped",
+   "drafted": false,
+   "ts": "2026-11-23T18:47:48.560415+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:lru_rose",
+   "vod": "2938409183",
+   "offset": 4107.0,
+   "title": "мужик ваще красава",
+   "drafted": false,
+   "ts": "2026-11-23T18:47:48.916738+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:illojuan",
+   "vod": "2937449247",
+   "offset": 22098.0,
+   "title": "tas bien? lmao",
+   "drafted": false,
+   "ts": "2026-11-23T18:48:39.588473+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:切嘛",
+   "vod": "2937252104",
+   "offset": 24547.0,
+   "title": "切嘛「おいだーん！w」",
+   "drafted": false,
+   "ts": "2026-11-23T18:48:39.981490+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:skywhywalker",
+   "vod": "2938261645",
+   "offset": 2100.0,
+   "title": "полосочка",
+   "drafted": false,
+   "ts": "2026-11-23T18:48:40.406068+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:jerma985",
+   "vod": "2937408089",
+   "offset": 16246.0,
+   "title": "…Is That A Dog?",
+   "drafted": false,
+   "ts": "2026-11-23T18:48:40.759310+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:montanablack88",
+   "vod": "2938201590",
+   "offset": 428.0,
+   "title": "Ragebait hat funktioniert",
+   "drafted": false,
+   "ts": "2026-11-23T18:49:31.454556+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:leb1ga",
+   "vod": "2936840963",
+   "offset": 67240.0,
+   "title": "паєхалі на*y*, перший ушол, кудааа зараз па жо*ам бл**ь😂😂😂",
+   "drafted": false,
+   "ts": "2026-11-23T18:49:32.014218+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:rubius",
+   "vod": "2937487056",
+   "offset": 16584.0,
+   "title": "el timing JAJAJAJAJAJAJ",
+   "drafted": false,
+   "ts": "2026-11-23T18:49:32.485104+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:mirwana",
+   "vod": "2936272458",
+   "offset": 209.0,
+   "title": "Про Бустера",
+   "drafted": false,
+   "ts": "2026-11-23T18:49:32.846721+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:caseoh_",
+   "vod": "2937666104",
+   "offset": 8882.0,
+   "title": "is it",
+   "drafted": false,
+   "ts": "2026-11-23T19:04:20.120630+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:tusoved",
+   "vod": "2938210053",
+   "offset": 10235.0,
+   "title": "нейронка не вывезла монтаж",
+   "drafted": false,
+   "ts": "2026-11-23T19:04:20.599103+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:ohnepixel",
+   "vod": "2937242599",
+   "offset": 26563.0,
+   "title": "OH SHIT YT",
+   "drafted": false,
+   "ts": "2026-11-23T19:04:20.975348+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:silky",
+   "vod": "2938023226",
+   "offset": 25110.0,
+   "title": "LMAO",
+   "drafted": false,
+   "ts": "2026-11-23T19:04:21.350449+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:illojuan",
+   "vod": "2937449247",
+   "offset": 8771.0,
+   "title": "algo hay",
+   "drafted": false,
+   "ts": "2026-11-23T19:05:12.024645+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:isthisemmiep",
+   "vod": "",
+   "offset": -1,
+   "title": "losing my GTA virginity tn?!?! !socials",
+   "drafted": false,
+   "ts": "2026-11-23T19:05:12.412152+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:leb1ga",
+   "vod": "2936840963",
+   "offset": 65521.0,
+   "title": "бл*т* сусідку 3ахyяpив 😂😂😂",
+   "drafted": false,
+   "ts": "2026-11-23T19:05:12.808689+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:lru_rose",
+   "vod": "2937368267",
+   "offset": 20312.0,
+   "title": "наглая старость",
+   "drafted": false,
+   "ts": "2026-11-23T19:05:13.179621+00:00",
    "frames": []
   }
  ],
