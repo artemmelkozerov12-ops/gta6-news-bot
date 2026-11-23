@@ -2453,7 +2453,12 @@
   "73e976cfeafe0bf9": "2026-11-23T01:22:39.544344+00:00",
   "b92e80c0701f1a01": "2026-11-23T01:37:58.043692+00:00",
   "5973bbf28af74a97": "2026-11-23T01:38:05.042651+00:00",
-  "b050993d4a8aee48": "2026-11-23T01:38:16.315236+00:00"
+  "b050993d4a8aee48": "2026-11-23T01:38:16.315236+00:00",
+  "ff6a9de783df2427": "2026-11-23T01:53:35.065151+00:00",
+  "a2d8235e0b23c741": "2026-11-23T01:53:36.507130+00:00",
+  "ac385962e277a979": "2026-11-23T01:53:37.470462+00:00",
+  "1f89c34611cc2f39": "2026-11-23T02:08:57.389359+00:00",
+  "1fb9cd3af0c6361a": "2026-11-23T02:08:58.442442+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -4126,7 +4131,12 @@
   "95239ee508f82181": "2026-11-23T01:22:39.544344+00:00",
   "75a7c904bda51f5d": "2026-11-23T01:37:58.043692+00:00",
   "fcfc87989b6bb78e": "2026-11-23T01:38:05.042651+00:00",
-  "ca9a2d1cc46ccf2b": "2026-11-23T01:38:16.315236+00:00"
+  "ca9a2d1cc46ccf2b": "2026-11-23T01:38:16.315236+00:00",
+  "7c86ddb22f40c92a": "2026-11-23T01:53:35.065151+00:00",
+  "e472568bacb31f02": "2026-11-23T01:53:36.507130+00:00",
+  "ee67cc84d31d9f4d": "2026-11-23T01:53:37.470462+00:00",
+  "1a0e5ec0a7429b1d": "2026-11-23T02:08:57.389359+00:00",
+  "4f3984351cf8ba74": "2026-11-23T02:08:58.442442+00:00"
  },
  "recent": [
   {
@@ -10960,6 +10970,46 @@
    "status": "skipped",
    "ts": "2026-11-23T01:38:16.315383+00:00",
    "card_title": ""
+  },
+  {
+   "title": "All Donovan Banks & Co Heist Loot & Stealth Walkthrough - GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T01:53:35.065274+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to Enable Auto-Drive In GTA 6 (& Why You Should",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T01:53:36.507251+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Почти шесть тысяч сотрудников Rockstar попали на карту разработчиков",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T01:53:37.470598+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 at 60 fps on PC may cost less than expected, Geekerwan estimates",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T02:08:57.389494+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "🇺🇸 She tapped a car in GTA 6 thinking the NPCs would let it go. Instead they wrecked her ride, so welcome to a whole new level of road rage. Writer: Daniyal",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-23T02:08:58.442582+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -11022,35 +11072,6 @@
     "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-3.5-flash"
    },
    "queued_at": "2026-11-23T01:06:51.441416+00:00"
-  },
-  {
-   "item": {
-    "title": "GTA 6 Makes It Nearly Impossible to Play Without Killing Anyone",
-    "link": "https://www.polygon.com/gta-6-no-kill-playthrough-fail/",
-    "summary": "I tried not to kill anyone in Grand Theft Auto 6 and failed. However, it changed the way I thought about and approached the game's violence.",
-    "published": "2026-11-22T13:00:17+00:00",
-    "source": "Polygon",
-    "site_name": "Polygon",
-    "trust": "high",
-    "text": "Grand Theft Auto 6 is out now, and for my initial playthrough of Rockstar’s latest giant open-world game, I wanted to try something a bit out of left field: How long could I play without killing anyone? I’d do my best Batman impression: brutally beating my foes, crippling them with excessive medical debt, but keeping them alive.\nYeah, that didn’t last long. Turns out trying to not commit crime in the game that’s all about committing crime is a difficult task.\nThe first mission was easy enough. Jason has to rescue drug runner Donnie from a gang of rednecks who keep tigers in cages. (Surely that will end well for them.) After I rescued him, I got into a fist fight with a beefy boy and knocked him out. So far so good. Jason had a pistol on him and could pick up weapons around the swamp base, but, trying to avoid a shootout at all costs, I stealthily booked it away from the rednecks and toward the water, avoiding any detection (and potential for violence).\nThat was the opening mostly-on-the-rails mission, but things quickly went south when I was left to my own devices. During the next in-game day, players are given a few mission options. I met up with Cal, Jason’s buddy who’s not cut out for a life of crime, and we drove to a police impound lot. I needed to steal a car with a trunk full of weed, and this is where shit hit the fan.\nLook, I never learned how to drive in real life, and am not the biggest fan of it in video games. Driving for more than a few feet without hitting anything or anyone is an impossible challenge in games, and driving in GTA 6 feels especially difficult; I can never figure out the right speed to go, and sharp turns are the bane of my existence.\nSo maybe I was always doomed to run over a cop on my way out of the impound lot.\nPolice officers swarmed Jason after he unhooked the red Phoenix and hotwired it. Too much was happening at once: an on-screen message about how I could open the gate, cops flinging open the driver’s side door and trying to rip Jason from the vehicle, and police radio chatter pouring out of my controller speaker. I’m not ashamed to say I restarted this mission several times just trying to figure out how to get out of the lot by carefully not running over any cops.\nAnd then, who pulls up in front of the gate I’m about to crash through but a do-gooder cop hopping out of his vehicle? I assumed the giant pool of blood leaking out of him after our collision meant he wasn’t long for the world.\nI did get caught on that attem",
-    "extra": {
-     "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/jasonrob.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "🚫 Нельзя пройти GTA 6 без убийств\n\nПытался пройти первую миссию без кила — в итоге полетели копы, тачки и мозги. Играть чисто в GTA 6 почти нереально, так что готовьте крутую импровизацию, иначе будет респаун криков 💥",
-    "card_title": "БЕЗ УБИЙСТВ В GTA 6 НЕВОЗМОЖНО",
-    "reason": "Zhurnalistskii opyt o slozhnosti pacifizma v GTA 6, unikalnyy kontent po vyshedshey igre.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "GTA 6 Makes It Nearly Impossible to Play Without Killing Anyone",
-    "corroborated_by": "GTA 6 Makes It Nearly Impossible to Play Without Killing Anyone",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-22T14:00:56.931524+00:00"
   },
   {
    "item": {
@@ -11256,35 +11277,6 @@
     "model": "groq:qwen/qwen3.8-27b → gemini:gemini-3.5-flash"
    },
    "queued_at": "2026-11-22T21:56:35.408863+00:00"
-  },
-  {
-   "item": {
-    "title": "How to get a GTA 6 Rhino tank and become virtually indestructible",
-    "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-tank-rhino/",
-    "summary": "There are rows of GTA 6 tanks waiting to be liberated right from the start of the game, to earn the Challenging Tank award",
-    "published": "2026-11-22T13:04:45+00:00",
-    "source": "GamesRadar+",
-    "site_name": "GamesRadar+",
-    "trust": "high",
-    "text": "Getting a tank in GTA 6 represents the pinnacle of criminal behavior, and there's a long history of stealing Rhinos going all the way back through the series to GTA 3! These military vehicles are virtually indestructible so you're safely protected inside, and they pack a powerful enough punch with their cannon to destroy anything GTA 6 puts in front of you. You also need to get inside one to unlock the Challenging Tank Trophy or Achievement, so to help you out with that, here's how to steal a tank in GTA 6.\nThe location for an entire row of GTA 6 tanks is in the Mile Zero Air Station, situated west of the area you begin the story in, which you can reach by driving through Abismo Key and on to Southwind. You'll need a vehicle to break into the military base which will get left behind, so it's best not to use your GTA 6 personal vehicle for this job, and equipping body armor from Ammu-nation is highly recommended for added protection.\nBy following the route marked on my map above you'll weave through several road barriers, as which point the soldiers will open fire on you, then turn right at the first opportunity to pass more barriers and soldiers until you spot a handy pile of dirt. You must use this Stunt Jump to clear the perimeter fence, though if you don't get enough height to also clear the inner fence you can smash through it to reach the runway.\nLook to your left when on the miliary runway and you'll see a large building, and to the left of that are the Rhino tanks we're looking for – you can also head to the right of that building if you'd prefer to grab a GTA 6 jet instead. Once you reach the tanks, crash through the fence and then approach one before using the usual enter vehicle button to climb in through the front hatch. Note that there is various military hardware in this area, but the Rhino tanks are the ones closest to the fence you broke through.\nYou can then drive away in your new GTA 6 tank, which will shortly unlock the Challenging Tank award from the GTA 6 Trophy and Achievement list to add to your collection. Strangely, commandeering this military vehicle doesn't initially increase your GTA 6 Wanted Level beyond the existing two-stars for breaking into the base, though this soon goes to five and then six-stars when you start blasting things with your cannon.\nDon't expect to get too far in your Rhino tank, as it drives pretty slowly and you're being constantly peppered with incoming gunfire plus rockets from helicopters – which you can s",
-    "extra": {
-     "image": "https://cdn.mos.cms.futurecdn.net/6TkMTypEzXTZbpYs2m4BsX-1920-80.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 6,
-    "post": "🗺 Гайд: Как украсть танк Rhino в GTA 6\n\n1️⃣ Прокачай в Mile Zero Air Station (через Abismo Key → Southwind) и подойди к военной базе.\n2️⃣ Проложи путь через барьеры, прыгни со Stunt Jump через периметр‑забор.\n3️⃣ На взлетной полосе слева от большого здания вломись в ближайший Rhino, займи его и отъедь.\nТанк — почти неубиваем, но медленный, так что готовь бронежилет и готовься к шуткам от вертолетов. 🚁",
-    "card_title": "ТАНК RHINO ГАЙД",
-    "reason": "Гайд по угону танка Rhino в GTA 6 и получению достижения.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": true,
-    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-22T13:59:59.325031+00:00"
   },
   {
    "item": {
@@ -11522,35 +11514,6 @@
   },
   {
    "item": {
-    "title": "How to Perform Robberies through Snapmatic in GTA 6—Scrolling, Location Pin, and More",
-    "link": "https://insider-gaming.com/robberies-snapmatic-gta-6/",
-    "summary": "GTA 6 allows players to scope targets and rob them through Snapmatic. Here's a guide on how this system works. The post How to Perform Robberies through Snapmatic in GTA 6—Scrolling, Location Pin, and More appeared first on Insider Gaming .",
-    "published": "2026-11-22T13:03:25+00:00",
-    "source": "Insider Gaming",
-    "site_name": "Insider Gaming",
-    "trust": "medium",
-    "text": "GTA 6 has various ways players can rob to earn money, and its social media platform, Snapmatic, is also one that players can use as a medium to find targets to rob; here’s a guide on how it works.\nRockstar has created GTA 6 to be one of the most realistic video games ever, blurring the lines between real life and in-game life. Players can engage in activities like doomscrolling, just as they do in real life, even right before going to bed. However, the Snapmatic feature is not only for doomscrolling in GTA 6; it also serves as a tool to identify potential targets for robbery, allowing players to earn some money along the way.\nYou can buy Grand Theft Auto 6 here if you haven’t already!\nHow to Find Targets in Snapmatic in GTA 6\nPlayers need to scope targets through the Snapmatic app first to perform robberies in GTA 6.\nCheck out the steps below to learn how to find targets to rob through Snapmatic in GTA 6:\nFirst, players should open their smartphone using the D-pad Up button.\nOnce the app is open, press R1 or L1 / LB or RB to switch tabs.\nGo to the Explore tab in the center, marked by the ‘eye’ icon.\nHere, players will need to scroll until they see some odd stuff people are posting, like contraband and such—I found a post that had an image of some drugs with the caption “Look whose buddies got their hands on a shitload of mind-altering shizzz.”\nOnce you find such a post, press Square / X for Options for that post.\nSelect Set Destination to get a waypoint to the place.\nTo perform robberies, players first need to identify targets on GTA 6’s Snapmatic app, and luckily the NPCs are foolish enough to reveal not only what you will be robbing, but also where it’s kept. All you need to do is mark their location through Snapmatic and drive to where these people are, and then their stuff is yours for the taking.\nCheck out the video below for a walkthrough on how to find the robbery targets through GTA 6’s Snapmatic app below:\nNow, all you need to do is drive to the location, scope out the place, and choose your approach. In my situation, there were only a handful of enemies, so I quickly took them down with some non-lethal focus shots, headed inside the shed, and stole all of their acid.\nInterestingly, they also had a helicopter just lying around that you can steal, which definitely helps you get from point A to point B much faster and helps in some missions.\nMore Insider Gaming: All GTA 6 Guides, Walkthroughs, Best Tips & Tricks\nInterested readers can see the video ",
-    "extra": {
-     "image": "https://insider-gaming.com/wp-content/uploads/2025/05/Vice_City_06-scaled.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 6,
-    "post": "🤑 Как грабить через Snapmatic в GTA 6\n\nОткрой смартфон (D‑pad Up), зайди в таб «Explore», листай посты с контрабандой, ставь точку назначения и врывайся – лут сразу в карман. Имба для быстрых бабок, базуешься на реальных постах, так что в деле всё по‑реальному. 🚀",
-    "card_title": "ГРАБИТЬ ЧЕРЕЗ SNAPMATIC",
-    "reason": "Полезный гайд по поиску целей для грабежей через Snapmatic в вышедшей GTA 6",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": true,
-    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-22T14:00:24.444956+00:00"
-  },
-  {
-   "item": {
     "title": "How to Find Backyard Wrestling in GTA 6—Location, Luchador Mask and More",
     "link": "https://insider-gaming.com/backyard-wrestling-gta-6/",
     "summary": "Here's a guide on how to find Backyard Wrestling in GTA 6 and how to defeat The Gentrifier to get the Luchador Mask. The post How to Find Backyard Wrestling in GTA 6—Location, Luchador Mask and More appeared first on Insider Gaming .",
@@ -11635,33 +11598,6 @@
     "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
    },
    "queued_at": "2026-11-22T16:24:41.012324+00:00"
-  },
-  {
-   "item": {
-    "title": "GTA 6: Where To Find The Patriot Cat",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE83ZXJaTlk5RkVtX3BQdEFZdXdQbjVxamhBX0Q3MHhsQ3J4cFI0SlQwdUxWVUV4RHBiWVR3SkZfTmlwUFJpbjhnOHEwS1pFYnVwU3BQUFpfQ2VqQjNUbzJ3X05wb3VTcXdKcDIzT3dya0V2SzQ?oc=5",
-    "summary": "GTA 6: Where To Find The Patriot Cat Cultured Vultures",
-    "published": "2026-11-22T12:23:27+00:00",
-    "source": "Google News (EN)",
-    "site_name": "Cultured Vultures",
-    "trust": "rumor",
-    "text": "GTA 6: Where To Find The Patriot Cat Cultured Vultures",
-    "extra": {}
-   },
-   "verdict": {
-    "type": "rumor",
-    "importance": 8,
-    "post": "🔥 Слух, не подтверждено, Cultured Vultures\n🐱 Патриотский кот в GTA 6\n\nГоворят, в Патриот Парк прячется кот‑мем, который лайкает твою тачку. Если найдёшь — получишь уникальный скин и ржач в онлайн. 🐾",
-    "card_title": "ПАТРИОТСКИЙ КОТ В GTA 6",
-    "reason": "Гайд по поиску секретного кота в вышедшей игре, полезно и интересно для игроков.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": true,
-    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-22T13:58:58.971321+00:00"
   }
  ],
  "posts": [
