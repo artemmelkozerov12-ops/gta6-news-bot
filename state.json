@@ -3463,7 +3463,38 @@
   "c52e50f08f248978": "2026-11-24T10:18:48.227777+00:00",
   "060f477ac3f6c729": "2026-11-24T10:19:55.227331+00:00",
   "c9dc17695fa14ea2": "2026-11-24T10:20:06.226524+00:00",
-  "8afcffb0d34376f8": "2026-11-24T10:20:25.072914+00:00"
+  "8afcffb0d34376f8": "2026-11-24T10:20:25.072914+00:00",
+  "e375aee5bb17eab9": "2026-11-24T10:28:56.921201+00:00",
+  "494daaffd67d512f": "2026-11-24T10:28:57.686186+00:00",
+  "13a7f15d006307b5": "2026-11-24T10:28:58.496926+00:00",
+  "fe6485070a980d18": "2026-11-24T10:28:59.516312+00:00",
+  "2597a6e66c41d319": "2026-11-24T10:29:50.429589+00:00",
+  "8743b7d98ed6a204": "2026-11-24T10:29:51.234746+00:00",
+  "d90af6f44fd2c096": "2026-11-24T10:29:51.975485+00:00",
+  "6b4a39d60e17ed15": "2026-11-24T10:29:52.802295+00:00",
+  "02bb353fa4817bcb": "2026-11-24T10:30:43.746753+00:00",
+  "34c40dbf5317bea0": "2026-11-24T10:30:44.557763+00:00",
+  "184cea26d5038441": "2026-11-24T10:32:49.478497+00:00",
+  "9a764a1b78cb794a": "2026-11-24T10:32:57.145188+00:00",
+  "2e1ad44ff6a3e1ce": "2026-11-24T10:34:03.263604+00:00",
+  "5d82fc9fd2e16f03": "2026-11-24T10:34:36.877008+00:00",
+  "8ab27ccfac1a681f": "2026-11-24T10:36:42.876169+00:00",
+  "25ac53e8456e79ad": "2026-11-24T10:36:43.929663+00:00",
+  "27aa155b73a7d745": "2026-11-24T10:36:54.371982+00:00",
+  "8ccc5cccae897a52": "2026-11-24T10:37:15.406530+00:00",
+  "c942b52913aceefb": "2026-11-24T10:37:39.516774+00:00",
+  "9fbc802a1e751174": "2026-11-24T10:37:50.777798+00:00",
+  "597474f5c8572226": "2026-11-24T10:38:11.061792+00:00",
+  "594312b198183112": "2026-11-24T10:38:25.180988+00:00",
+  "8507cae67e83e2e9": "2026-11-24T10:53:39.855130+00:00",
+  "2cd25648f2d50d58": "2026-11-24T10:53:41.756096+00:00",
+  "128d50f960fb4be4": "2026-11-24T10:53:43.003744+00:00",
+  "207f51b02ee3271d": "2026-11-24T10:53:44.599294+00:00",
+  "9f258e57678056ab": "2026-11-24T10:53:45.787726+00:00",
+  "34bff4f491c95c90": "2026-11-24T10:53:47.284819+00:00",
+  "49918c430079bf2c": "2026-11-24T10:53:48.444650+00:00",
+  "5c970ae97d7c9338": "2026-11-24T10:53:49.661208+00:00",
+  "aef78d181bc2492c": "2026-11-24T10:53:51.651206+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -5833,7 +5864,24 @@
   "3632860e20fc4687": "2026-11-24T10:18:48.227777+00:00",
   "39ba9d3b69ee9df8": "2026-11-24T10:19:55.227331+00:00",
   "972690382f4b0b67": "2026-11-24T10:20:06.226524+00:00",
-  "88448f2490d7ee6e": "2026-11-24T10:20:25.072914+00:00"
+  "88448f2490d7ee6e": "2026-11-24T10:20:25.072914+00:00",
+  "f4ee20f06a0b8346": "2026-11-24T10:36:42.876169+00:00",
+  "7e65f6a032ed286c": "2026-11-24T10:36:43.929663+00:00",
+  "108f7058f6b87345": "2026-11-24T10:36:54.371982+00:00",
+  "05e3657a92cb6e78": "2026-11-24T10:37:15.406530+00:00",
+  "30e7872f36c4fca5": "2026-11-24T10:37:39.516774+00:00",
+  "818b69a2067901d3": "2026-11-24T10:37:50.777798+00:00",
+  "cf42eb1116c126f9": "2026-11-24T10:38:11.061792+00:00",
+  "681794c350908ac7": "2026-11-24T10:38:25.180988+00:00",
+  "4da33aabd5d5d424": "2026-11-24T10:53:39.855130+00:00",
+  "15047c0663b15564": "2026-11-24T10:53:41.756096+00:00",
+  "14b9a7d65bf2d5d2": "2026-11-24T10:53:43.003744+00:00",
+  "aca8ff022785101e": "2026-11-24T10:53:44.599294+00:00",
+  "f6aa6b2b420a656e": "2026-11-24T10:53:45.787726+00:00",
+  "d266291b93c27a66": "2026-11-24T10:53:47.284819+00:00",
+  "919dc11bdcc03a93": "2026-11-24T10:53:48.444650+00:00",
+  "2b5f22f66072979a": "2026-11-24T10:53:49.661208+00:00",
+  "2fe3fab33afa6dcf": "2026-11-24T10:53:51.651206+00:00"
  },
  "recent": [
   {
@@ -14819,6 +14867,142 @@
    "status": "skipped",
    "ts": "2026-11-24T10:20:25.073044+00:00",
    "card_title": ""
+  },
+  {
+   "title": "Cyberpunk 2 creative director jokes that he’s cancelling the game after playing GTA 6",
+   "source": "VGC",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-24T10:36:42.876292+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Polymarket Traders Bet $172K on When GTA 6 Streamers Will Finish the Game",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T10:36:43.929812+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Store Robberies: Which Shops Can You Hold Up?",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T10:36:54.372110+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Игроки GTA 6 обнаружили ловушку в стиле Хитрого Койота с дорогой, нарисованной на стене",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T10:37:15.406670+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 — где найти нудистов: Tiki Touchdown и Paradise RV Park",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T10:37:39.516912+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Как найти портал стрип-клуба Vice City в GTA 6",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T10:37:50.777923+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "UK Charts: No Disc, No Problem - GTA 6 Shoves Zelda Further Down The Ranking",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T10:38:11.061920+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Вместо GTA 6 — развитие себя: новосибирцам посоветовали не тратить деньги на игры, а вложить их в себя",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T10:38:25.181128+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6: Where to find the Mario & Luigi hats",
+   "source": "VGC",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-24T10:53:39.855160+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "'GTA VI: The Album Deluxe Edition' features Travis Scott & Slayyyter",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T10:53:41.756216+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Около миллиона фанатов GTA 6 уже провели в игре больше 50 часов, заявили аналитики",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T10:53:43.003881+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI at $79.99: 5 Tensions in One Launch",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T10:53:44.599414+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 на ПК: разработчики прогнозируют играбельную версию через неделю",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T10:53:45.787855+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Gamer hijacks plane in GTA 6 using just mind control and eye tracking — Xbox controller mapped to read brain signals using EEG, maps mental commands to an Xbox controller without surgery",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T10:53:47.284966+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Один из неофициальных ПК-портов GTA VI добрался до стадии рендеринга игрового процесса — Videocardz",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T10:53:48.444788+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "В GTA VI нашли «пасхалку» по Super Mario",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T10:53:50.666418+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI Review: The Best Stories Begin With a Wrong Turn",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T10:53:51.651329+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -15613,6 +15797,36 @@
    "file_id": "BAACAgIAAxkDAAN-awVYw5k7kLYwQiT3ZhZpbUXYMnsAAuKqAAKTDTFIQXVcu0XOlB09BA",
    "moderation": "pending",
    "draft_msg_id": 126
+  },
+  {
+   "clip": {
+    "source": "twitch",
+    "url": "https://www.twitch.tv/caseoh_/clip/SpeedyOilyClipzWOOP-SYHCWnkVXwnYbUaP",
+    "title": "OMG STRAIGHT CHEEKS ACTION LMAO",
+    "author": "caseoh_",
+    "views": 528,
+    "duration": 60.0,
+    "created": "2026-11-23T22:23:30+00:00",
+    "lang": "en",
+    "description": "",
+    "vod_id": "2938655753",
+    "vod_offset": 8412.0
+   },
+   "caption": "СПОЙЛЕР. 🔞 Вот это отсылка! Нико из GTA 4 решил заглянуть в Леониду, но пришел в чем мать родила. Разнос 💀",
+   "interest": 9,
+   "spoiler": true,
+   "nsfw": true,
+   "watched": true,
+   "model": "gemini:gemini-3.1-flash-lite",
+   "media": {
+    "width": null,
+    "height": 720,
+    "duration": 60
+   },
+   "queued_at": "2026-11-24T10:35:40.364402+00:00",
+   "file_id": "BAACAgIAAxkDAAOAawVofXEWY4bRYWc1Lyy1MNxaQZEAAp-rAAKTDTFI2UUr2c087Jc9BA",
+   "moderation": "pending",
+   "draft_msg_id": 128
   }
  ],
  "clip_drafts": [
@@ -15635,7 +15849,8 @@
   "2026-11-23T21:20:57.697562+00:00",
   "2026-11-24T07:09:52.275827+00:00",
   "2026-11-24T08:24:52.738621+00:00",
-  "2026-11-24T09:28:35.874072+00:00"
+  "2026-11-24T09:28:35.874072+00:00",
+  "2026-11-24T10:35:41.949576+00:00"
  ],
  "clip_history": [
   {
@@ -21919,6 +22134,133 @@
    "ts": "2026-11-24T09:28:35.874092+00:00",
    "frames": [],
    "caption": "Тачка застряла на камнях прямо над водой, но Лусия не паникует — просто достала смартфон и починила её через приложение "
+  },
+  {
+   "author": "youtube:verrtv",
+   "vod": "",
+   "offset": -1,
+   "title": "Cabinet Glitch 🗄️ For Free GTA 6 🎮 #GTA #GTA6 #YouTubeShorts",
+   "drafted": false,
+   "ts": "2026-11-24T10:28:56.921243+00:00"
+  },
+  {
+   "author": "youtube:coletheman gta",
+   "vod": "",
+   "offset": -1,
+   "title": "Fastest $40,000 I've Made In GTA 6 #gta6 #gta",
+   "drafted": false,
+   "ts": "2026-11-24T10:28:57.686228+00:00"
+  },
+  {
+   "author": "youtube:techno fun",
+   "vod": "",
+   "offset": -1,
+   "title": "🚤 GTA 6’DA YOLDAKİ YAT DENİZDE ÇALIŞIR MI ? 🤯",
+   "drafted": false,
+   "ts": "2026-11-24T10:28:58.496973+00:00"
+  },
+  {
+   "author": "youtube:tom magic",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6: Jason & Lucia Vs Roblox, Minecraft, Lego 🚘🌳 #gta6 #roblox #grandtheftauto",
+   "drafted": false,
+   "ts": "2026-11-24T10:28:59.516358+00:00"
+  },
+  {
+   "author": "youtube:ign",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 - What's New In the First Patch?",
+   "drafted": false,
+   "ts": "2026-11-24T10:29:50.429626+00:00"
+  },
+  {
+   "author": "youtube:facttechz",
+   "vod": "",
+   "offset": -1,
+   "title": "Stop Playing GTA 6 Game! SHOCKING $1 Billion 'Productivity Loss' Explained! #shorts",
+   "drafted": false,
+   "ts": "2026-11-24T10:29:51.234794+00:00"
+  },
+  {
+   "author": "youtube:101leafy",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 PC Port Recomp Race — Live Progress Tracker XCL vs VIctory",
+   "drafted": false,
+   "ts": "2026-11-24T10:29:51.975530+00:00"
+  },
+  {
+   "author": "youtube:игротомия",
+   "vod": "",
+   "offset": -1,
+   "title": "5 настроек для плавности в GTA 6",
+   "drafted": false,
+   "ts": "2026-11-24T10:29:52.802336+00:00"
+  },
+  {
+   "author": "youtube:dhanush ff gamer",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 🌴 FINAL STREAM 🔴 100% GAME COMPLETION! 🏆 | TELUGU LIVE 🔥",
+   "drafted": false,
+   "ts": "2026-11-24T10:30:43.746801+00:00"
+  },
+  {
+   "author": "twitch:pokelawls",
+   "vod": "2938967116",
+   "offset": 20984.0,
+   "title": "GTA 6 issue",
+   "drafted": false,
+   "ts": "2026-11-24T10:30:44.557808+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:illojuan",
+   "vod": "2938510132",
+   "offset": 3936.0,
+   "title": "illojuan se enfada y borra gta6",
+   "drafted": false,
+   "ts": "2026-11-24T10:32:49.478561+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:theburntpeanut",
+   "vod": "2938886234",
+   "offset": 9927.0,
+   "title": "Peanut scared",
+   "drafted": false,
+   "ts": "2026-11-24T10:32:57.145250+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:alanzoka",
+   "vod": "2938467977",
+   "offset": 8415.0,
+   "title": "E quiser explosão",
+   "drafted": false,
+   "ts": "2026-11-24T10:34:03.263653+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:caseoh_",
+   "vod": "2938655753",
+   "offset": 8412.0,
+   "title": "OMG STRAIGHT CHEEKS ACTION LMAO",
+   "drafted": false,
+   "ts": "2026-11-24T10:34:36.877061+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:caseoh_",
+   "vod": "2938655753",
+   "offset": 8412.0,
+   "title": "OMG STRAIGHT CHEEKS ACTION LMAO",
+   "drafted": true,
+   "ts": "2026-11-24T10:35:41.949593+00:00",
+   "frames": [],
+   "caption": "СПОЙЛЕР. 🔞 Вот это отсылка! Нико из GTA 4 решил заглянуть в Леониду, но пришел в чем мать родила. Разнос 💀"
   }
  ],
  "published": [
