@@ -3308,7 +3308,18 @@
   "6690b61d28b80afa": "2026-11-24T06:17:27.490901+00:00",
   "a41a70244071e2d0": "2026-11-24T06:17:28.861705+00:00",
   "1d6d417451ee2ac1": "2026-11-24T06:17:30.453894+00:00",
-  "9593cb713bd62815": "2026-11-24T06:17:31.897908+00:00"
+  "9593cb713bd62815": "2026-11-24T06:17:31.897908+00:00",
+  "68a59b9209a82159": "2026-11-24T06:32:58.823763+00:00",
+  "43b969e4a559973e": "2026-11-24T06:33:00.142917+00:00",
+  "2a9f8a9ea38d5db9": "2026-11-24T06:33:09.862566+00:00",
+  "6b05de974b065257": "2026-11-24T06:48:39.918256+00:00",
+  "26ca0168b0bc85fc": "2026-11-24T06:48:41.552843+00:00",
+  "64e43de87d5b32c6": "2026-11-24T06:48:43.013587+00:00",
+  "6986815178440e28": "2026-11-24T06:48:43.974919+00:00",
+  "c9108492bb5048d3": "2026-11-24T06:48:44.508825+00:00",
+  "a68fcb2060ec81ce": "2026-11-24T06:48:53.330008+00:00",
+  "8d3072bb68114c18": "2026-11-24T06:49:16.121986+00:00",
+  "d4ab808a33d6bd92": "2026-11-24T06:49:39.163259+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -5602,7 +5613,18 @@
   "c53fb43fda71623b": "2026-11-24T06:17:27.490901+00:00",
   "44b713618c0653dd": "2026-11-24T06:17:28.861705+00:00",
   "278dbc679622d643": "2026-11-24T06:17:30.453894+00:00",
-  "0c3c2a44b13f9c80": "2026-11-24T06:17:31.897908+00:00"
+  "0c3c2a44b13f9c80": "2026-11-24T06:17:31.897908+00:00",
+  "ae678d99aaba0f60": "2026-11-24T06:32:58.823763+00:00",
+  "9b7a7914ad34481a": "2026-11-24T06:33:00.142917+00:00",
+  "cf39188eed6e23a9": "2026-11-24T06:33:09.862566+00:00",
+  "a975aa05aa8b3a8d": "2026-11-24T06:48:39.918256+00:00",
+  "24fdddb2f9304d6d": "2026-11-24T06:48:41.552843+00:00",
+  "3c78d0c12ffb769f": "2026-11-24T06:48:43.013587+00:00",
+  "15c78f23258d01a7": "2026-11-24T06:48:43.974919+00:00",
+  "a435f7e4655efb6f": "2026-11-24T06:48:44.508825+00:00",
+  "19abff36968ef1d9": "2026-11-24T06:48:53.330008+00:00",
+  "9e51e1bb175fc140": "2026-11-24T06:49:16.121986+00:00",
+  "0efe0e7db4419d56": "2026-11-24T06:49:39.163259+00:00"
  },
  "recent": [
   {
@@ -14249,7 +14271,7 @@
    "title": "GTA 6's Best Easter Egg Is a Classic Tom Cruise Crime-Thriller You Can Stream For Free",
    "source": "Polygon",
    "trust": "high",
-   "status": "queued",
+   "status": "published",
    "ts": "2026-11-24T04:58:06.304213+00:00",
    "card_title": "ТОМ КРУЗ В GTA 6"
   },
@@ -14460,6 +14482,94 @@
    "status": "skipped",
    "ts": "2026-11-24T06:17:31.898045+00:00",
    "card_title": ""
+  },
+  {
+   "title": "Игроки GTA 6 обнаружили, что электромобили в стиле Tesla запирают угонщика в салоне и сами везут его в полицию",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T06:32:58.823891+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "От Дельфина до саундтрека GTA 6 — альбомы и концерты декабря 2026",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T06:33:00.143044+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "I played GTA 6 without a TV all weekend — and kept Vice City to myself with AR glasses",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T06:33:09.862705+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Монтажник радиовышек пришёл в восторг от реализма вышки связи в GTA 6",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T06:48:39.918387+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "«Хуже, чем наркотики»: фанат GTA 6 погнался за матерью с пилой из-за отобранного Xbox",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T06:48:41.552976+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Актёр забыл какую роль сыграл в GTA VI — он попросил интернет найти его персонажа",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T06:48:43.013721+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Backseat Pilot walkthrough: Pilot Pete’s seven-drop seaplane run in The Last Mile",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T06:48:43.975058+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "I turned my living room into GTA 6's Vice City with this tiny camera sitting on top of my TV",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T06:48:44.508963+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Фанаты GTA 6 запустили флешмоб против быстрого прохождения сюжета",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T06:48:53.330146+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 стала «историческим релизом» для PlayStation",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T06:49:16.122120+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Инди-разработчики откликнулись на пародию в GTA VI",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T06:49:39.163378+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -14636,37 +14746,6 @@
     "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
    },
    "queued_at": "2026-11-24T04:57:39.131152+00:00"
-  },
-  {
-   "item": {
-    "title": "GTA 6's Best Easter Egg Is a Classic Tom Cruise Crime-Thriller You Can Stream For Free",
-    "link": "https://www.polygon.com/gta-6-collateral-easter-egg-streaming-for-free/",
-    "summary": "A GTA 6 taxi encounter echoes Michael Mann’s Collateral, starring Tom Cruise and Jamie Foxx. Watch it free on Pluto TV or stream it on Paramount Plus.",
-    "published": "2026-11-24T02:30:17+00:00",
-    "source": "Polygon",
-    "site_name": "Polygon",
-    "trust": "high",
-    "text": "One of Grand Theft Auto 6’s strangest random encounters occurs when you’re offering taxi services, and a man with a beard wearing a dark suit and sunglasses climbs into the backseat with a gun. This can happen if you’re playing as either Jason or Lucia, but both scenes play out the same way: The man wants you to run a red light, ignore phone calls, and drive him to Harborside Park in Vice Beach. He also sounds an awful lot like Tom Cruise, with a calm but forceful demeanor that seems almost sociopathic. Several clips of the sequence have already hit the internet, and to many people, it’s an obvious nod to Collateral, Michael Mann’s 2004 thriller about a hitman who takes a cab driver hostage.\nJason or Lucia gets a better deal than Mann’s cabbie in this Easter egg. If you take the stranger to his destination and follow him inside after he takes out some of the criminals there, you can find a ton of valuable loot. Most players seem keen on eliminating the stranger rather than keep driving him around. In Collateral, Jamie Foxx’s character, Max, has to spend the whole night driving Cruise’s Vincent around Los Angeles. If you’ve never seen how that goes for him, Collateral is streaming for free on Pluto TV — and it’s a must-watch, especially if you want a movie that has a vibe as wild and crime-filled as GTA 6’s.\nMax is a cab driver who’s been telling himself for years that the job is temporary. He wants to start his own limo company someday, so when a well-dressed passenger named Vincent (Cruise) offers him $600 to drive him around for the night, it seems like the kind of opportunity that could get him a little closer to quitting. Then a body lands on his cab at their first destination. Vincent has five people to kill before the night is over. Max has just agreed to drive him to all five stops — and he’s already an accomplice.\nVincent is one of Cruise’s best roles because so much of what makes him convincing as an action hero makes him downright scary here. The same certainty that lets Ethan Hunt talk somebody into jumping out of a plane makes it seem perfectly reasonable, for about half a second, when Vincent asks Max to help him stuff a body in the trunk. He’s also an obnoxious backseat driver. The longer he spends in the cab, the more interested he becomes in why Max has seemingly wasted so much of his life. Some of his advice is irritatingly solid, yet he’s also a man who could end the conversation with a single gunshot whenever he wanted to.\nDespite the pl",
-    "extra": {
-     "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/collateral-tom-cruise.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "🚕 Коллатеральный пасхалка в GTA 6\n\nЕсли в такси к тебе залезет таинственный парень в темных очках, это дань Тому Крузу из «Collateral». Доставь его в Harborside Park, подойди к нему после разборки – и получишь имба-лут. 🎬",
-    "card_title": "ТОМ КРУЗ В GTA 6",
-    "reason": "Крутая отсылка к фильму 'Соучастник' с Томом Крузом в такси, игроки уже находят пасхалку и лутают награды.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-24T04:58:06.304200+00:00",
-   "moderation": "pending",
-   "draft_msg_id": 120
   },
   {
    "item": {
@@ -15135,9 +15214,10 @@
   "2026-11-23T18:31:04.220563+00:00",
   "2026-11-23T20:00:00.591069+00:00",
   "2026-11-23T21:50:40.027944+00:00",
-  "2026-11-24T04:31:49.377232+00:00"
+  "2026-11-24T04:31:49.377232+00:00",
+  "2026-11-24T06:53:33.099748+00:00"
  ],
- "tg_offset": 387129073,
+ "tg_offset": 387129074,
  "channel": {
   "id": -1003986639147,
   "title": "GTA 6 | Горячие новости",
@@ -21679,6 +21759,13 @@
    "msg_id": 76,
    "title": "Как посмотреть теленовеллу в GTA 6",
    "importance": 7,
+   "kind": "confirmed"
+  },
+  {
+   "ts": "2026-11-24T06:53:33.099765+00:00",
+   "msg_id": 77,
+   "title": "Коллатеральный пасхалка в GTA 6",
+   "importance": 8,
    "kind": "confirmed"
   }
  ],
