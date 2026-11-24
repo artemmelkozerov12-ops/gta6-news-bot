@@ -3783,7 +3783,37 @@
   "25667912719907e6": "2026-11-24T19:56:12.886018+00:00",
   "00aa403868c87719": "2026-11-24T19:56:14.095952+00:00",
   "6c847bb95eb4af13": "2026-11-24T19:56:15.351771+00:00",
-  "581b2737480f00dd": "2026-11-24T19:56:16.907955+00:00"
+  "581b2737480f00dd": "2026-11-24T19:56:16.907955+00:00",
+  "3541ecb0034e3ed4": "2026-11-24T20:11:36.607050+00:00",
+  "76eb4d55ca6f25c0": "2026-11-24T20:11:47.444683+00:00",
+  "230bdd638ba86a3e": "2026-11-24T20:11:58.956898+00:00",
+  "5ef7fd5c1d5e2b5c": "2026-11-24T20:12:27.090148+00:00",
+  "a5053accd14320a4": "2026-11-24T20:12:30.713243+00:00",
+  "ffa1a26723b000e0": "2026-11-24T20:12:36.070793+00:00",
+  "1f7588a51962749b": "2026-11-24T20:12:49.365618+00:00",
+  "fc8feae94d9a03de": "2026-11-24T20:12:54.432815+00:00",
+  "3385a5f279e35ece": "2026-11-24T20:12:57.336333+00:00",
+  "72fee1822154b9d8": "2026-11-24T20:23:50.989688+00:00",
+  "4a31f0464d80c3e3": "2026-11-24T20:23:51.884441+00:00",
+  "c47a49c0632e6579": "2026-11-24T20:23:52.917043+00:00",
+  "ab916e2db9c9b5cd": "2026-11-24T20:23:53.870105+00:00",
+  "26c1955494f2b976": "2026-11-24T20:24:44.838717+00:00",
+  "9310c723b8b94ba9": "2026-11-24T20:24:46.025196+00:00",
+  "d652cc7926476982": "2026-11-24T20:24:46.737485+00:00",
+  "41644195d8368add": "2026-11-24T20:24:54.397087+00:00",
+  "e5cfe5a265e75f38": "2026-11-24T20:25:53.065673+00:00",
+  "45e20db357c6f81f": "2026-11-24T20:26:39.511842+00:00",
+  "34c3cd6d14f0ae18": "2026-11-24T20:26:46.935633+00:00",
+  "2debf85dc8ec2377": "2026-11-24T20:27:07.026524+00:00",
+  "59ebec38d7aa802d": "2026-11-24T20:28:22.080636+00:00",
+  "ef75b43dc8428837": "2026-11-24T20:28:30.367013+00:00",
+  "cce103d820e875f0": "2026-11-24T20:28:31.725054+00:00",
+  "a3febc27dace509d": "2026-11-24T20:28:40.273727+00:00",
+  "038c21bd2ad55f11": "2026-11-24T20:28:41.785490+00:00",
+  "1c56e09e75c2573e": "2026-11-24T20:28:45.141214+00:00",
+  "850d96628d1a7e7a": "2026-11-24T20:28:59.825337+00:00",
+  "e985aec5b96485ab": "2026-11-24T20:29:12.166531+00:00",
+  "3852c2112a2a4142": "2026-11-24T20:29:14.154601+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -6328,7 +6358,23 @@
   "09608bb4d9028224": "2026-11-24T19:56:12.886018+00:00",
   "f1608d757ba3d1c3": "2026-11-24T19:56:14.095952+00:00",
   "6d620ff92339827b": "2026-11-24T19:56:15.351771+00:00",
-  "dcd47c1b98b957db": "2026-11-24T19:56:16.907955+00:00"
+  "dcd47c1b98b957db": "2026-11-24T19:56:16.907955+00:00",
+  "cd1ac14e8002df06": "2026-11-24T20:12:57.336333+00:00",
+  "00862fb03fb69e61": "2026-11-24T20:11:47.444683+00:00",
+  "e8ae1f553112c94d": "2026-11-24T20:11:58.956898+00:00",
+  "b4f77a94dae6b02c": "2026-11-24T20:12:27.090148+00:00",
+  "f9df2256e5322a2b": "2026-11-24T20:12:30.713243+00:00",
+  "ebd2a7ce5244343b": "2026-11-24T20:12:36.070793+00:00",
+  "f5738938a8be2db1": "2026-11-24T20:12:49.365618+00:00",
+  "fc949fcfe8d49107": "2026-11-24T20:12:54.432815+00:00",
+  "57ece1fb04154a3f": "2026-11-24T20:28:22.080636+00:00",
+  "1f60386f820ac178": "2026-11-24T20:28:30.367013+00:00",
+  "b3ff0891e904ec93": "2026-11-24T20:28:31.725054+00:00",
+  "f556029968134918": "2026-11-24T20:28:40.273727+00:00",
+  "fdd631186d4dfe07": "2026-11-24T20:28:41.785490+00:00",
+  "8a3a281a035a3375": "2026-11-24T20:28:45.141214+00:00",
+  "672ac7466af3f7f8": "2026-11-24T20:28:59.825337+00:00",
+  "91d1953c896e3f53": "2026-11-24T20:29:12.166531+00:00"
  },
  "recent": [
   {
@@ -14578,6 +14624,142 @@
    "status": "skipped",
    "ts": "2026-11-24T19:56:16.908084+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GTA 6 Sparks Privacy Concerns Over What Rockstar Games and Take-Two Know About Players",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-24T20:11:36.607101+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "The Witcher 4 Will Be a GTA 6-Sized Leap Forward, CD Projekt Red Says",
+   "source": "Polygon",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-24T20:11:47.444796+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "CDPR claims leap to Witcher 4 is ‘comparable’ to leap from GTA 5 to GTA 6",
+   "source": "VGC",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-24T20:11:58.957011+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Over Half of GTA 6 Watch Time Came From Viewers Under 25 Years Old",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T20:12:27.090275+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "PlayStation Plus drops 4 more games, including a must-play GTA 6 alternative",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T20:12:30.713378+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI launch weekend pulled players away from Call of Duty, Fortnite and more",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T20:12:36.070923+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Пациент Neuralink играет в GTA 6 одной силой мысли и показал, как устроено управление",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T20:12:49.365755+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI’s Mandy Actress Is Unbothered by People Being Weird About Her Online",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T20:12:54.432949+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Sparks Privacy Concerns Over What Rockstar Games and Take-Two Know About Players",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T20:12:57.336470+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Best unique weapons to grab early in GTA 6: Get yourself some silenced weapons without the price tag",
+   "source": "PC Gamer",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-24T20:28:24.498245+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Just Like GTA 6, The Witcher 4 Has A PlayStation Deal",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T20:28:30.367149+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "In 'GTA VI,' every stolen car is a music discovery machine",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T20:28:31.725193+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "The Witcher 4 will be a GTA 6-like leap forward, CD Projekt Red says",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T20:28:40.273867+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI Netflix trailer tripled the weekly sales pace, while launch week drove nearly three-quarters of campaign GMV",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T20:28:41.785633+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Bad Driver! guide: tracking down Felipe and deciding his fate",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T20:28:45.141354+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Woman Says Men Who Play GTA 6 Are Not High Value",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T20:28:59.825482+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Gets Officially Licensed Trading Cards Based on In-Game Collectibles",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T20:29:12.166668+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -14637,7 +14819,9 @@
     "guide": false,
     "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
    },
-   "queued_at": "2026-11-24T18:26:55.617238+00:00"
+   "queued_at": "2026-11-24T18:26:55.617238+00:00",
+   "moderation": "pending",
+   "draft_msg_id": 142
   },
   {
    "item": {
@@ -14727,37 +14911,6 @@
     "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
    },
    "queued_at": "2026-11-24T18:26:07.925516+00:00"
-  },
-  {
-   "item": {
-    "title": "Владельцы PlayStation 5 уже получили две платины в GTA VI",
-    "link": "https://ixbt.games/news/2026/11/24/vladelcy-playstation-5-uze-polucili-dve-platiny-v-gta-vi.html",
-    "summary": "Два игрока первыми в мире открыли платиновый трофей в GTA VI на PS5, опередив более 32 млн владельцев игры.",
-    "published": "2026-11-24T08:24:00+00:00",
-    "source": "iXBT.games",
-    "site_name": "iXBT.games",
-    "trust": "medium",
-    "text": "Два игрока первыми в мире открыли платиновый трофей в GTA VI на PS5, опередив более 32 млн владельцев игры.\nПо данным Rockstar, за первый день после релиза GTA 6 разошлась тиражом более 32 млн копий. На этом фоне достижение одного игрока выглядит особенно примечательно: он стал первым, кому удалось получить платиновый трофей в версии для PS5.\nОтследить количество игроков, открывших платину, помогает сайт PSNProfiles. Он собирает статистику трофеев для всех игр PlayStation, позволяя сравнивать достижения пользователей. В случае с GTA VI этот ресурс особенно полезен: внутриигровой список трофеев по-прежнему показывает нулевой процент обладателей платины, хотя уже есть два таких игрока.\nСогласно данным PSNProfiles, первым достижение получил пользователь под ником Danpool85, а чуть позже им завладел rmay2002. Статистика также показывает, что первый играл в GTA VI на протяжении дней, а второй – 5 дней и 14 часов. То есть у Danpool85 было преимущество перед большинством остальных покупателей, которые получили доступ к игре лишь пять дней назад.\nВероятнее всего, Danpool85 получил от Rockstar копию для обзора до официального релиза или каким-то образом обошёл установленные правила.\nНе пропускайте наши новостиДобавьте сайт в предпочитаемые источники, чтобы видеть нас чащеДобавить в Google",
-    "extra": {
-     "image": "https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1745728/39ea9896-0994-4033-9764-456fcfc2fd57.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "🏆 Две первые ПЛАТИНЫ в GTA 6 уже выбили на PS5\n\nНа фоне 32+ млн проданных копий два чела — Danpool85 и rmay2002 — уже закрыли список трофеев на PS5. Первый, похоже, урвал раннюю копию, а второй просто жил в игре 5 дней и 14 часов. Вот это лютый гринд — походу, траву они потрогают ещё нескоро. 😅",
-    "card_title": "ПЕРВЫЕ ПЛАТИНЫ В GTA 6",
-    "reason": "Подтвержденный факт достижения платины первыми игроками, что является значимым событием для сообщества.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "Один из десятков миллионов игроков GTA 6 уже выбил платину",
-    "corroborated_by": "Один из десятков миллионов игроков GTA 6 уже выбил платину",
-    "guide": false,
-    "model": "gemini:gemini-3.1-flash-lite → gemini:gemini-4-hydrogen"
-   },
-   "queued_at": "2026-11-24T08:28:40.049511+00:00",
-   "moderation": "pending",
-   "draft_msg_id": 125
   },
   {
    "item": {
@@ -14862,7 +15015,8 @@
   "2026-11-24T16:11:35.893385+00:00",
   "2026-11-24T17:12:17.478418+00:00",
   "2026-11-24T18:29:42.694606+00:00",
-  "2026-11-24T19:30:13.442978+00:00"
+  "2026-11-24T19:30:13.442978+00:00",
+  "2026-11-24T20:30:28.952858+00:00"
  ],
  "slots_sent": {
   "2026-11-23:guide:1": "2026-11-23T07:01:27.603496+00:00",
@@ -14874,36 +15028,6 @@
   "2026-11-23T20:15:05.441047+00:00"
  ],
  "clips": [
-  {
-   "clip": {
-    "source": "twitch",
-    "url": "https://www.twitch.tv/ohnepixel/clip/OutstandingLongElkPeoplesChamp-wDpsX2-RjUu9iv7g",
-    "title": "jason fell LULE",
-    "author": "ohnePixel",
-    "views": 443,
-    "duration": 21.8,
-    "created": "2026-11-22T20:32:00+00:00",
-    "lang": "en",
-    "description": "",
-    "vod_id": "2937242599",
-    "vod_offset": 28723.0
-   },
-   "caption": "Имба: переключаешься на Джейсона, а он падает с крыши прямо на парковку — вот это физика 💀",
-   "interest": 8,
-   "spoiler": false,
-   "nsfw": false,
-   "watched": true,
-   "model": "gemini:gemini-3.5-flash-lite",
-   "media": {
-    "width": null,
-    "height": 720,
-    "duration": 21
-   },
-   "queued_at": "2026-11-23T20:17:09.942367+00:00",
-   "file_id": "BAACAgIAAxkDAAN1awSfR1ugGpO9n4n_zOXs-kIDrUYAAlC0AAKTDSlImh0jjtnB-Lg9BA",
-   "moderation": "pending",
-   "draft_msg_id": 117
-  },
   {
    "clip": {
     "source": "twitch",
@@ -15053,6 +15177,36 @@
    "file_id": "BAACAgIAAxkDAAOKawXkMdBjc9Y1ytvO5kGtCgYyENsAAmO6AAImETBIAaZdSnH0WxI9BA",
    "moderation": "pending",
    "draft_msg_id": 138
+  },
+  {
+   "clip": {
+    "source": "twitch",
+    "url": "https://www.twitch.tv/vinesauce/clip/EasyDreamyConsoleMrDestructoid-oa-E_Ucl8j-vVaO9",
+    "title": "He belongs to Monke now",
+    "author": "Vinesauce",
+    "views": 335,
+    "duration": 30.0,
+    "created": "2026-11-24T05:27:51+00:00",
+    "lang": "en",
+    "description": "",
+    "vod_id": "",
+    "vod_offset": -1
+   },
+   "caption": "Чел решил, что обезьяны в клетке — отличная компания для ночных фоток, но получил разнос. Жиза, не стоило их вообще трогать 💀",
+   "interest": 9,
+   "spoiler": false,
+   "nsfw": false,
+   "watched": true,
+   "model": "gemini:gemini-3.1-flash-lite",
+   "media": {
+    "width": null,
+    "height": 720,
+    "duration": 30
+   },
+   "queued_at": "2026-11-24T20:29:35.321376+00:00",
+   "file_id": "BAACAgIAAxkDAAONawXzsFLL19wFfGUj50gqEf5-4n8AAtW6AAImETBIpQgiGfNjQvc9BA",
+   "moderation": "pending",
+   "draft_msg_id": 141
   }
  ],
  "clip_drafts": [
@@ -15074,7 +15228,8 @@
   "2026-11-24T10:35:41.949576+00:00",
   "2026-11-24T11:38:40.245755+00:00",
   "2026-11-24T16:12:54.165650+00:00",
-  "2026-11-24T19:23:29.579276+00:00"
+  "2026-11-24T19:23:29.579276+00:00",
+  "2026-11-24T20:29:37.383213+00:00"
  ],
  "clip_history": [
   {
@@ -20722,6 +20877,127 @@
    "ts": "2026-11-24T19:23:29.579292+00:00",
    "frames": [],
    "caption": "Чел на трассе буквально проглотил грузовик, а потом просто поехал дальше — физика в GTA 6 это просто лютый разнос 💀"
+  },
+  {
+   "author": "youtube:gelnox",
+   "vod": "",
+   "offset": -1,
+   "title": "Map of all GTA 6 Players",
+   "drafted": false,
+   "ts": "2026-11-24T20:23:50.989725+00:00"
+  },
+  {
+   "author": "youtube:mixigaming",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA VI...... #7",
+   "drafted": false,
+   "ts": "2026-11-24T20:23:51.884472+00:00"
+  },
+  {
+   "author": "youtube:o victor magalhães",
+   "vod": "",
+   "offset": -1,
+   "title": "NOTAS EM GTA 6",
+   "drafted": false,
+   "ts": "2026-11-24T20:23:52.917081+00:00"
+  },
+  {
+   "author": "youtube:djmariio",
+   "vod": "",
+   "offset": -1,
+   "title": "🔴GTA 6 | DIA 7 MODO HISTORIA (HOY SORTEAMOS CODIGOS EN DIRECTO) DjMaRiiO",
+   "drafted": false,
+   "ts": "2026-11-24T20:23:53.870151+00:00"
+  },
+  {
+   "author": "youtube:reidboehm",
+   "vod": "",
+   "offset": -1,
+   "title": "The GTA 6 chapter 1 experience",
+   "drafted": false,
+   "ts": "2026-11-24T20:24:44.838753+00:00"
+  },
+  {
+   "author": "youtube:jef dicas tech 📱tecnologia ",
+   "vod": "",
+   "offset": -1,
+   "title": "5 Coisas que as pessoas NÃO SABEM NO GTA 6",
+   "drafted": false,
+   "ts": "2026-11-24T20:24:46.025235+00:00"
+  },
+  {
+   "author": "twitch:paache_",
+   "vod": "2939442144",
+   "offset": 6619.0,
+   "title": "SALTO BOMBA",
+   "drafted": false,
+   "ts": "2026-11-24T20:24:46.737521+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:fanum",
+   "vod": "2939012870",
+   "offset": 7988.0,
+   "title": "Fanum and Kai discuss GTA 6 😁",
+   "drafted": false,
+   "ts": "2026-11-24T20:24:54.397126+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:deusamir",
+   "vod": "2938421796",
+   "offset": 8175.0,
+   "title": "alv",
+   "drafted": false,
+   "ts": "2026-11-24T20:25:53.065705+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:bigpuffer",
+   "vod": "2938767122",
+   "offset": 12754.0,
+   "title": "SLOW DO",
+   "drafted": false,
+   "ts": "2026-11-24T20:26:39.511887+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:rubius",
+   "vod": "2935100343",
+   "offset": 24027.0,
+   "title": "+18",
+   "drafted": false,
+   "ts": "2026-11-24T20:26:46.935687+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:nickeh30",
+   "vod": "2938347685",
+   "offset": 32654.0,
+   "title": "how many bodies can we put in tne back of this car?",
+   "drafted": false,
+   "ts": "2026-11-24T20:27:07.026588+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:vinesauce",
+   "vod": "",
+   "offset": -1,
+   "title": "He belongs to Monke now",
+   "drafted": false,
+   "ts": "2026-11-24T20:29:14.154640+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:vinesauce",
+   "vod": "",
+   "offset": -1,
+   "title": "He belongs to Monke now",
+   "drafted": true,
+   "ts": "2026-11-24T20:29:37.383230+00:00",
+   "frames": [],
+   "caption": "Чел решил, что обезьяны в клетке — отличная компания для ночных фоток, но получил разнос. Жиза, не стоило их вообще трог"
   }
  ],
  "published": [
