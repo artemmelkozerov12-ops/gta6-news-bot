@@ -3596,7 +3596,13 @@
   "38db007cef5104db": "2026-11-24T13:10:23.990777+00:00",
   "d942cc81dcefb4ae": "2026-11-24T13:10:41.091438+00:00",
   "f624bd76dcca49cc": "2026-11-24T13:11:05.251189+00:00",
-  "be2c2c4e19eb02dd": "2026-11-24T13:11:16.078602+00:00"
+  "be2c2c4e19eb02dd": "2026-11-24T13:11:16.078602+00:00",
+  "97d50866e3d69538": "2026-11-24T13:26:45.982257+00:00",
+  "25ac728343f80d4e": "2026-11-24T13:26:50.940140+00:00",
+  "e8b43b2c24f1831d": "2026-11-24T13:27:00.558323+00:00",
+  "70345c9d607cb882": "2026-11-24T13:27:31.500548+00:00",
+  "dce6243d77a1b436": "2026-11-24T13:42:48.253538+00:00",
+  "2e8f52defacca49b": "2026-11-24T13:43:02.484665+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -6037,7 +6043,11 @@
   "3c3ed4ab921b3db5": "2026-11-24T13:10:41.091438+00:00",
   "7a24b5cfa83bddd2": "2026-11-24T13:10:23.955059+00:00",
   "953001c99c19f0c2": "2026-11-24T13:10:23.990777+00:00",
-  "8c34a7b95d65a609": "2026-11-24T13:11:05.251189+00:00"
+  "8c34a7b95d65a609": "2026-11-24T13:11:05.251189+00:00",
+  "a39732d61b3521b0": "2026-11-24T13:26:45.982257+00:00",
+  "ad9ab86e5af44bff": "2026-11-24T13:26:50.940140+00:00",
+  "fa8f3285a5b1c5eb": "2026-11-24T13:27:00.558323+00:00",
+  "97284167929cf352": "2026-11-24T13:42:48.253538+00:00"
  },
  "recent": [
   {
@@ -14879,6 +14889,30 @@
    "status": "skipped",
    "ts": "2026-11-24T13:11:14.162431+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GTA 6 Cloud Streaming Guide: How to Stream GTA 6 Without a Console",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-24T13:26:51.863229+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "ПК-игроки поддержали неофициальные порты GTA VI и обвинили Rockstar",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T13:27:00.558471+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Grand Theft Auto 6 Is The Biggest PlayStation Launch Of All Time",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-24T13:42:48.253575+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -22030,6 +22064,24 @@
    "drafted": false,
    "ts": "2026-11-24T13:11:16.078643+00:00",
    "frames": []
+  },
+  {
+   "author": "twitch:leva2k",
+   "vod": "2937392051",
+   "offset": 102656.0,
+   "title": ".",
+   "drafted": false,
+   "ts": "2026-11-24T13:27:31.500584+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:rejiboi",
+   "vod": "2938563485",
+   "offset": 14465.0,
+   "title": "Разозлился",
+   "drafted": false,
+   "ts": "2026-11-24T13:43:02.484709+00:00",
+   "frames": []
   }
  ],
  "published": [
@@ -22413,5 +22465,36 @@
   "digest-20261122": "2026-11-22T19:31:01.015194+00:00",
   "digest-20261123": "2026-11-23T19:30:46.041576+00:00"
  },
- "rewrite_wait": []
+ "rewrite_wait": [
+  {
+   "item": {
+    "title": "Does GTA 6 Have Darts or Bowling?",
+    "link": "https://insider-gaming.com/gta-6-darts-bowling/",
+    "summary": "Darts and bowling have been popular minigames and pastimes in Grand Theft Auto games, but does GTA 6 have either? The post Does GTA 6 Have Darts or Bowling? appeared first on Insider Gaming .",
+    "published": "2026-11-24T13:10:51+00:00",
+    "source": "Insider Gaming",
+    "site_name": "Insider Gaming",
+    "trust": "medium",
+    "text": "Grand Theft Auto 6 is absolutely jam-packed with features, mini-games, activities, and collectibles. It can take hundreds of hours to see and do everything, so let’s see if two of the series’ most popular activities, darts and bowling, are somewhere in Vice City.\nTake out all the main story missions in GTA 6, and you still have a ridiculously deep array of entertainment. Backyard Wrestling, Illegal Operations, and even meditating. But Rockstar wouldn’t cut two iconic games, right?\nYou can buy Grand Theft Auto 6 here if you haven’t already!\nYou can’t play Darts in GTA 6 as Rockstar Games has opted not to include the mini-game this time around.\nWe all played a decent amount of Darts in GTA 4 and GTA 5, but that won’t be the case in GTA 6—for now. Darts is not one of GTA 6’s activities, so you’ll need to throw some real-life arrows for your fix.\nMore Insider Gaming: All GTA 6 Guides, Walkthroughs, Best Tips & Tricks\nI’ll explain more about this below, but unless Rockstar Games adds Darts as a feature in GTA Online 2 multiplayer, the sport looks to be skipping a generation.\nAnother recurring mini-game in the Grand Theft Auto franchise has been bowling, but bowling has been omitted from GTA 6 as well.\nYou almost can’t complain about GTA 6 lacking features when it has so much. But you’d think Darts and Bowling would be dead-certs, especially with the game’s various bars and entertainment facilities.\nMore Insider Gaming: Best Legendary Weapon Variants in GTA 6: All Locations Walkthrough\nThere’s a reason for this, though, and here’s what Rob Nelson, Rockstar North co-studio head, told IGN:\n“Darts was a contentious one. Even we… you hear they have unlimited money or unlimited time, even we do not and so sometimes you just have to admit we are not going to be able to make this to the level we feel we need to. A lot of work [is needed] to get it tuned right. Darts is one we just didn’t get to.”\nAre you sad that both have basically been cut? Let us know your thoughts about the game via the free Insider Gaming Discord server.\nFor more Insider Gaming content, read ‘All GTA 6 Cheats—Best Grand Theft Auto 6 Cheat Codes.’ Don’t forget to sign up for our free weekly newsletter.\nNOTE: Insider Gaming may earn affiliate commission if you purchase items through links on Insider Gaming. Read more about affiliate commission here.\nAndy is Insider Gaming's Senior Evergreen Editor and has been in the games journalism sphere in one way or another for over 7 years. His video game tast",
+    "extra": {
+     "image": "https://insider-gaming.com/wp-content/uploads/2026/11/Does-GTA-6-Have-Darts-or-Bowling_-guide.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "❌ Без боулинга и дартса\n\nРокстары признались, что вырезали из шестёрки дартс и боулинг — просто не успели допилить мини-игры до идеала. Чел, ну как так-то, а с кем теперь Роману катку катать?\n\n❤️ — Жаль до слёз\n👎 — Да пофиг, база топ",
+    "card_title": "ДАРТС И БОУЛИНГ В GTA 6",
+    "reason": "Official confirmation from Rockstar that darts and bowling were cut from GTA 6 due to time limits.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-24T13:26:46.964216+00:00"
+  }
+ ]
 }
