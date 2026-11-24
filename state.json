@@ -3430,7 +3430,16 @@
   "20eba9502586c01f": "2026-11-24T08:29:19.941455+00:00",
   "8a5b0d6cbae47de8": "2026-11-24T08:29:34.527645+00:00",
   "da06d65f766f8517": "2026-11-24T08:44:57.489729+00:00",
-  "b42f24c911f70088": "2026-11-24T08:45:06.889794+00:00"
+  "b42f24c911f70088": "2026-11-24T08:45:06.889794+00:00",
+  "644f849c2f573beb": "2026-11-24T09:01:52.962929+00:00",
+  "72cf027c34eb9995": "2026-11-24T09:19:27.345336+00:00",
+  "c27426e839487772": "2026-11-24T09:19:32.700158+00:00",
+  "150e2a8718c7cf58": "2026-11-24T09:20:00.326907+00:00",
+  "6772f0ee0e6b6698": "2026-11-24T09:20:01.717088+00:00",
+  "5834fdbbc077dc41": "2026-11-24T09:20:03.130632+00:00",
+  "b916eddd0663d79a": "2026-11-24T09:20:12.827127+00:00",
+  "49a2e3e87160232f": "2026-11-24T09:20:17.568494+00:00",
+  "39ea5623f54b981d": "2026-11-24T09:20:23.824494+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -5775,7 +5784,16 @@
   "0fa3b622c98a5987": "2026-11-24T08:29:19.941455+00:00",
   "2126810a4c0663af": "2026-11-24T08:29:34.527645+00:00",
   "802a1f53ab4dc677": "2026-11-24T08:44:57.489729+00:00",
-  "f5b24b0910e71e97": "2026-11-24T08:45:06.889794+00:00"
+  "f5b24b0910e71e97": "2026-11-24T08:45:06.889794+00:00",
+  "029978606935e60a": "2026-11-24T09:01:52.962929+00:00",
+  "b46ba11b05f088e7": "2026-11-24T09:19:27.345336+00:00",
+  "8fd5264734fe1fe7": "2026-11-24T09:19:32.700158+00:00",
+  "991d64c118bddcdc": "2026-11-24T09:20:00.326907+00:00",
+  "9c0bb4f2f69a50ae": "2026-11-24T09:20:01.717088+00:00",
+  "1624f903338e6012": "2026-11-24T09:20:03.130632+00:00",
+  "719086e0fefae999": "2026-11-24T09:20:12.827127+00:00",
+  "93a5a38d5de9a3a4": "2026-11-24T09:20:17.568494+00:00",
+  "92374559ccc6c60b": "2026-11-24T09:20:23.824494+00:00"
  },
  "recent": [
   {
@@ -14553,6 +14571,78 @@
    "status": "skipped",
    "ts": "2026-11-24T08:45:06.889943+00:00",
    "card_title": ""
+  },
+  {
+   "title": "Grand Theft Auto VI: Прохождение всех миссий — Глава 2 «Потерянный рай»",
+   "source": "StopGame",
+   "trust": "medium",
+   "status": "dup",
+   "ts": "2026-11-24T09:01:52.962974+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Modders already have GTA 6 running on PC, after CyberLeek released a full Xbox build of the game",
+   "source": "Eurogamer",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-24T09:19:27.922652+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Grand Theft Auto VI: Grand Theft Auto VI: Прохождение всех миссий — Глава 3 «Сиськи, жопы, наркоденьги»",
+   "source": "StopGame",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-24T09:19:59.022856+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Bumper to Bumper walkthrough: Yago’s nitrous build, race and police escape",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T09:20:00.327054+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Police Departments Warn Players: Keep It in the Game",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T09:20:01.717227+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 devs say bringing every detail together in Leonida ‘to feel like a directed whole was a huge challenge’ and ‘hope’ players ‘stop thinking in tasks, completion percentages, online guides, and rather let the game unfold in front of them’",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T09:20:03.130791+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Из-за абсурдных наездов и ревью-бомбинга GTA 6 со стороны нинбоев и хейтеров фанаты GTA 6 стали занижать оценки Resident Evil Requiem — «потому, что она не GTA 6»",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T09:20:12.827264+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Из 45 миллионов игроков в GTA 6 40 сыграли на PS5 — это абсолютный рекорд за всю историю консоли",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T09:20:17.568640+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Креативный директор Cyberpunk 2 пошутил об отмене игры после выхода GTA 6",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T09:20:23.824618+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -15018,7 +15108,9 @@
     "guide": false,
     "model": "gemini:gemini-3.1-flash-lite → gemini:gemini-4-hydrogen"
    },
-   "queued_at": "2026-11-24T08:28:40.049511+00:00"
+   "queued_at": "2026-11-24T08:28:40.049511+00:00",
+   "moderation": "pending",
+   "draft_msg_id": 125
   },
   {
    "item": {
@@ -15152,7 +15244,8 @@
   "2026-11-23T21:15:56.693001+00:00",
   "2026-11-24T06:02:05.423698+00:00",
   "2026-11-24T07:03:01.494680+00:00",
-  "2026-11-24T08:03:13.983642+00:00"
+  "2026-11-24T08:03:13.983642+00:00",
+  "2026-11-24T09:04:41.289540+00:00"
  ],
  "slots_sent": {
   "2026-11-22:guide:1": "2026-11-22T08:01:32.386719+00:00",
