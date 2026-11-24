@@ -3242,7 +3242,23 @@
   "f1533b8a43c24092": "2026-11-24T02:05:23.801704+00:00",
   "f81b8ae4f556d19e": "2026-11-24T02:05:26.858571+00:00",
   "345edba0b370cbd1": "2026-11-24T02:05:30.264508+00:00",
-  "4cc1c830087be342": "2026-11-24T02:05:33.102287+00:00"
+  "4cc1c830087be342": "2026-11-24T02:05:33.102287+00:00",
+  "2831f0237a21ffd1": "2026-11-24T02:20:53.837870+00:00",
+  "6090a51d87b56c71": "2026-11-24T02:21:16.500965+00:00",
+  "129e060e92cce058": "2026-11-24T02:21:23.529293+00:00",
+  "99d9302de38a4fe6": "2026-11-24T02:21:39.129588+00:00",
+  "b7b41a47d2f1634d": "2026-11-24T02:21:40.661325+00:00",
+  "6ad0f5aaf751fe0a": "2026-11-24T02:21:53.646901+00:00",
+  "ae43e08ab60fdc1c": "2026-11-24T02:21:56.726798+00:00",
+  "06d467be595adce4": "2026-11-24T02:21:58.746203+00:00",
+  "c6aaa622a596b63a": "2026-11-24T02:22:00.667882+00:00",
+  "dd8f57da858f8b6c": "2026-11-24T02:37:43.610916+00:00",
+  "f63fc528ce0802ec": "2026-11-24T02:37:50.264189+00:00",
+  "6f4e9dac45f5b9a2": "2026-11-24T02:38:01.920238+00:00",
+  "546caaf77aa6d05e": "2026-11-24T02:38:04.432984+00:00",
+  "ebd6c40f54eceb50": "2026-11-24T02:38:05.950850+00:00",
+  "661de4593481136b": "2026-11-24T02:38:07.569260+00:00",
+  "ea01509f7b179683": "2026-11-24T02:38:09.085976+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -5470,7 +5486,23 @@
   "068c992fa8e38dca": "2026-11-24T02:05:23.801704+00:00",
   "941e235c7b087989": "2026-11-24T02:05:26.858571+00:00",
   "bc8ad3937cbcf6b3": "2026-11-24T02:05:30.264508+00:00",
-  "10ba8e77686ff6bc": "2026-11-24T02:05:33.102287+00:00"
+  "10ba8e77686ff6bc": "2026-11-24T02:05:33.102287+00:00",
+  "073ceffe72b2ee57": "2026-11-24T02:20:53.837870+00:00",
+  "a309ef5588ff5a85": "2026-11-24T02:21:16.500965+00:00",
+  "77574d015e285c25": "2026-11-24T02:21:23.529293+00:00",
+  "97a0e2997c47675d": "2026-11-24T02:21:39.129588+00:00",
+  "70d9aee56a8fac4b": "2026-11-24T02:21:40.661325+00:00",
+  "f4fab7f5a2087e50": "2026-11-24T02:21:53.646901+00:00",
+  "b1e4518ee7e36f3d": "2026-11-24T02:21:56.726798+00:00",
+  "3d3e33bfd146cdab": "2026-11-24T02:21:58.746203+00:00",
+  "7db2a0a54c6a3040": "2026-11-24T02:22:00.667882+00:00",
+  "3b6d71bab0e4d0a8": "2026-11-24T02:37:43.610916+00:00",
+  "072602ca0fe8731b": "2026-11-24T02:37:50.264189+00:00",
+  "da8e1f11b0fae14f": "2026-11-24T02:38:01.920238+00:00",
+  "de29189cfe198dc1": "2026-11-24T02:38:04.432984+00:00",
+  "e5ca516067111a8b": "2026-11-24T02:38:05.950850+00:00",
+  "0deee3e417577cab": "2026-11-24T02:38:07.569260+00:00",
+  "ac77c9e0e98c0aa7": "2026-11-24T02:38:09.085976+00:00"
  },
  "recent": [
   {
@@ -13728,6 +13760,134 @@
    "status": "skipped",
    "ts": "2026-11-24T02:05:33.102433+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GTA 6 Was the Biggest Game Launch in PlayStation History With Over 39 Million Unique Players",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-24T02:20:53.837919+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Сможет ли GTA 6 легко выиграть звание «Игра года 2026»?",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T02:21:16.501108+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI Broke Every Record in 24 Hours, So Why Did Take-Two Shareholders Sell?",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T02:21:23.529409+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Использование FSR 4.1.2 в GTA 6 на Xbox Series X может снизить частоту кадров ниже 30 FPS",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T02:21:39.129726+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Jake Paul Responds After Paul vs Tyson Easter Egg Discovered in GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T02:21:40.661464+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Моддеры запустили GTA VI для Xbox на ПК",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T02:21:53.647030+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Пользователь, который еще в 2023 году опубликовал верные утечки GTA 6, утверждает, что следующая игра Rockstar – L.A. Noire 2 о Зодиаке в Сан-Франциско",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T02:21:56.726956+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Энтузиасты запустили пролог GTA 6 на ПК спустя несколько часов после утечки EXE файла",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T02:21:58.746336+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI’s pretentious puzzler makes indie developers feel ‘part of larger culture’",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T02:22:00.668002+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Praised for Its Accurate Portrayal of Felon Rehabilitation",
+   "source": "IGN",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-24T02:37:17.888683+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Results in Call of Duty Losing Nearly Half of Its Player Base During Launch Weekend",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T02:37:50.264333+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Производительности PlayStation 6 не хватит для стабильных 60 fps в GTA VI — Kepler_L2",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T02:38:01.920370+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "PlayStation 5 Pro может вскоре получить патч с поддержкой 40 FPS для GTA 6",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T02:38:04.433165+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "В сети опубликовали геймплей GTA 6 от первого лица с активным фильтром DLSS 5",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T02:38:05.951000+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Стартовые продажи GTA 6 в несколько раз превзошли результат GTA 5",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T02:38:07.569395+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 PC Rumors: What's Real and What's Just Hype",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T02:38:09.086117+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -13788,68 +13948,6 @@
     "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-3.5-flash"
    },
    "queued_at": "2026-11-24T02:04:50.224888+00:00"
-  },
-  {
-   "item": {
-    "title": "GTA 6 can run at 60fps on Xbox Series X if you use a glitch, but there's a catch",
-    "link": "https://www.eurogamer.net/grand-theft-auto-6-60-fps-glitch-xbox",
-    "summary": "Grand Theft Auto 6 runs at 30 frames-per-second across all the consoles it's currently available on , including the more powerful PlayStation 5 Pro . The game doesn't offer a 60fps performance mode or an option to unlock the frame-rate, but one industrious player has managed to do it anyway on Xbox. Read more",
-    "published": "2026-11-23T14:12:00+00:00",
-    "source": "Eurogamer",
-    "site_name": "Eurogamer",
-    "trust": "high",
-    "text": "Grand Theft Auto 6 runs at 30 frames-per-second across all the consoles it's currently available on, including the more powerful PlayStation 5 Pro. The game doesn't offer a 60fps performance mode or an option to unlock the frame-rate, but one industrious player has managed to do it anyway on Xbox.\nReddit user Meowwie64 devised a way to essentially unlock GTA 6's frame-rate on Series X. Their hack relied on the Xbox's rarely-discussed Quick Resume feature, which lets you park multiple games in memory and switch between them without having to re-load each game.\nIn a detailed post, Meowwie64 shared the steps they used to trigger their glitch. For starters, you're going to need a 120Hz monitor display or TV, as the glitch requires adjusting refresh rates.\nFirst, you need to limit Xbox to display at 60Hz under the console Settings menu. Then, you start GTA 6 (version 01.002.001), wait until the six-star logo appears and then go back to Xbox Settings to change the refresh rate to 120Hz.\nBefore you return to GTA 6, the final step requires launching another game on your console. This has to be a cold boot, meaning the game shouldn't already be running parked in Quick Resume.\nAfter the second game launches, you now need to use Quick Resume to resume playing GTA 6, which is when you're going to notice the higher frame-rate. The Reddit user said the game could reach 90-plus FPS at certain moments.\nUnfortunately, the user also discovered that game-speed appears to be tied to frame-rate in GTA 6, at least when it comes to certain gameplay animations and when performing certain actions. \"I have a stable 90fps and everything works fine but Jason's animations run at 2x speed or more,\" Meowwie64 wrote. Incidentally, cutscenes do not appear to be affected by this issue, so they run at their normal speed.\nAs much as a 30fps frame-rate makes GTA 6 feel less smooth and potentially less enjoyable to play compared to 60fps or higher, none of the current-generation consoles are capable of delivering frame-rates beyond that. Tech experts Digital Foundry recently explained why even the PS5 Pro isn't powerful enough to run the game at 60fps or even 40fps.",
-    "extra": {
-     "image": "https://assetsio.gnwcdn.com/GTA6_5nov-(29).jpg?width=690&quality=85&format=jpg&auto=webp"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "🚀 Глитч: 90fps на Xbox Series X (но анимации в 2x)\n\n🗺 Гайд:\n1. В настройках Xbox выставь 60Hz, запусти GTA 6, дождись логотипа.\n2. Снова в Settings переключи частоту на 120Hz.\n3. Холодный запуск любой второй игры, потом Quick Resume к GTA 6.\n4. Наслаждайся до 90fps, но будь готов к ускоренным анимациям.",
-    "card_title": "ГЛИЧТ 90FPS НА XBOX",
-    "reason": "Игрок нашел глитч для разблокировки 60+ FPS на Xbox, но анимации ломаются.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-23T14:36:21.716509+00:00",
-   "moderation": "pending",
-   "draft_msg_id": 111
-  },
-  {
-   "item": {
-    "title": "Rumour: LA Noire 2 Is Rockstar's Next Game",
-    "link": "https://www.pushsquare.com/news/2026/11/rumour-la-noire-2-is-rockstars-next-game",
-    "summary": "Post-GTA 6 life. Okay, you'll have to stick with me for this one because it's going to take some explaining... So, all the way back in 2023, a supposed leak on the GTAForums ( please beware of potential GTA 6 spoilers if you click this link) attracted relatively little attention. At the time, there was no way to prove that any of it was legit. Read the full article on pushsquare.com",
-    "published": "2026-11-23T14:00:00+00:00",
-    "source": "Push Square",
-    "site_name": "Push Square",
-    "trust": "high",
-    "text": "Okay, you'll have to stick with me for this one because it's going to take some explaining...\nSo, all the way back in 2023, a supposed leak on the GTAForums (please beware of potential GTA 6 spoilers if you click this link) attracted relatively little attention. At the time, there was no way to prove that any of it was legit.\nThe \"leak\" in question revealed Rockstar's schedule, with the original poster claiming that a sequel to LA Noire would be the developer's next game, after GTA 6, and it was targeting a 2030 release.\nThe reason it's being brought again almost three years later — chiefly via Reddit — is because as it turns out, the leaker did get a number of details about GTA 6 correct. Most notably, they managed to provide surprisingly solid info on the game's multiple endings — and they'd obviously be quite difficult to predict without some kind of insider knowledge.\nTo be clear, not everything in the \"leak\" has ended up being correct. It's a little hit and miss, but then things can change in the space of two and a half years or so; it's possible that these inaccurate details were legit at or before the time of posting.\nI think the deciding factor for the believers here is that Rockstar moving on to a new LA Noire would make some sense.\nAssuming it's in line with the first game, you would think that it would be a much smaller production than something like Red Dead Redemption 3 — even with the tech and engine refinements the company has made with GTA 6.\nPlus, there is some LA Noire DNA in both Red Dead Redemption 2 and GTA 6; environmental and NPC interactions are key parts of Rockstar's most recent releases, and they arguably stem from LA Noire's investigative gameplay loop.\nIt's also worth remembering that after LA Noire's original developer Team Bondi was closed in 2011 (with Rockstar retaining the rights to LA Noire itself), its founder Brendan McNamara would go on to establish a new outfit called Video Games Deluxe.\nThe Australian studio crafted LA Noire: The VR Case Files years later, and even took over post-launch support for GTA: The Trilogy following its incredibly shoddy launch. Video Games Deluxe was then acquired by Rockstar in 2025, and it was renamed Rockstar Australia. Hmmm.\nSo some of this stuff seems to line up — but I don't think there's quite enough evidence here to nail the suspect. I mean, er, put your full trust in that original leak. Still, I wouldn't say no to another LA Noire.\nWould you love to see an LA Noire sequel? Feel fre",
-    "extra": {
-     "image": "https://images.pushsquare.com/3cfc9d75b96e8/large.jpg"
-    }
-   },
-   "verdict": {
-    "type": "rumor",
-    "importance": 8,
-    "post": "🔥 Слух, не подтверждено (Push Square)\nLA Noire 2 — следующая игра Rockstar?\n\nГоворят, что после GTA 6 Rockstar замутит продолжение LA Noire, цель — 2030 год. Если правда, ждём имбовых детективных миссий и крутого расследования. Пока — только спекуляции, но уже зашло в топчик слухов.",
-    "card_title": "LA NOIRE 2 — НОВАЯ ИГРА",
-    "reason": "Слух о следующей игре Rockstar, основанный на частичном подтверждении старых утечек и покупке студии. Высокая важность из-за гипотетического нового IP.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "groq:qwen/qwen3.8-27b → groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-23T14:36:54.224955+00:00",
-   "moderation": "pending",
-   "draft_msg_id": 110
   },
   {
    "item": {
@@ -13937,35 +14035,6 @@
     "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
    },
    "queued_at": "2026-11-24T01:47:59.471210+00:00"
-  },
-  {
-   "item": {
-    "title": "'The System Is Not Good Vs. Evil': Why GTA 6's Criminal Profile Mechanic Is Dividing Fans",
-    "link": "https://www.ign.com/articles/gta-6-criminal-profile-system-self-defense-penalties",
-    "summary": "GTA 6 players are debating the game's Criminal Profile system, and how it operates with more depth than just a straightforward \"good vs. evil\" morality system.",
-    "published": "2026-11-23T13:10:30+00:00",
-    "source": "IGN",
-    "site_name": "IGN",
-    "trust": "high",
-    "text": "GTA 6 players are debating the game's Criminal Profile scale, and how it operates with more depth than just a straightforward \"good vs. evil\" morality system.\nWhile previous Rockstar adventures have operated on a simpler, binary scale, GTA 6 offers a more nuanced Criminal Profile that reflects your playstyle — from silent and stealthy to excessively violent and \"psycho.\" But some players have criticised how the gameplay mechanic appears to penalise actions taken in self-defence, while others have suggested it is just not well explained.\nFrom \"Professional\" all the way to \"Irredeemable,\" GTA 6 tracks each character's actions across a series of five profile labels — and yes, you can make Jason and Lucia have wildly different personalities from each other, depending on your actions as either. But Professional does not mean pacifist, and players will inevitably still rack up a fair body count as they explore more of Leonida — the difference here is how messy you are along the way.\nThe scale begins with Professional, which reflects actions that align with an undetected or non-lethal play style. Stealth takedowns and non-lethal incapacitations award a focus boost, as do kind acts towards NPCs. Go for limbs (highlighted in yellow while in bullet time) rather than headshots to keep this rating intact, or earn points back towards it if you're currently rated as more wantonly violent.\nNext up is Hardened, which reflects a slightly less cautious approach to firefights and taking lives in general. You're headshotting the bad guys rather than incapacitating them, in other words, but not mowing down the innocent cops who try and stop you on the way out.\nTurn things up a notch and you get to Violent, where cops and random passers by are being caught up in your rampage. It's at this level that your focus boost switches to pulling off headshots, reflecting your own more violent playstyle. But there's still a way to go yet before you're playing GTA 6 at your worst.\nSlip into Pyscho rank and you'll have left a lot of defenceless people and animals smeared across the tarmac or piled up in artfully arranged piles of corpses. It's a this rank that cops are so tired of your bulls**t that the option to surrender gets removed, and probably fair enough.\nAnd then there's Irredeemable. If you don't revert from Psycho after a while — and ignore multiple in-game warnings — you'll permanently slip into Irredeemable territory for the rest of your playthrough. There no way to change your ",
-    "extra": {
-     "image": "https://assets-prd.ignimgs.com/2026/11/22/jason-duval-gta-6-1795371162747.png"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "⚖️ Criminal Profile в GTA 6: добро‑зло делит фанатов\n\nНовый шкала профилей заставила базу спорить: тихий стелс или полный разнос — каждый выбор меняет ваш рейтинг и бонусы. 😅 Если зайдёте в психо, даже копы вас не спасут, так что держите баланс, иначе будет крик «психо».",
-    "card_title": "CRIMINAL PROFILE МЕХАНИКА",
-    "reason": "Подтвержденная IGN механика, вызывающая бурные споры в комьюнити (хайп/драма).",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "groq:qwen/qwen3.8-27b → groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-23T14:35:34.745866+00:00"
   },
   {
    "item": {
@@ -14434,35 +14503,6 @@
     "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
    },
    "queued_at": "2026-11-23T17:48:26.944659+00:00"
-  },
-  {
-   "item": {
-    "title": "Best Funny GTA 6 Clips—Glitches, NPC Encounters, and Accidents",
-    "link": "https://insider-gaming.com/funny-gta-6-clips-npcs-glitches-more/",
-    "summary": "Grand Theft Auto 6 is a goldmine for funny clips. In this list, check out the pick of the bunch that we've seen on social media. The post Best Funny GTA 6 Clips—Glitches, NPC Encounters, and Accidents appeared first on Insider Gaming .",
-    "published": "2026-11-23T13:39:18+00:00",
-    "source": "Insider Gaming",
-    "site_name": "Insider Gaming",
-    "trust": "medium",
-    "text": "Grand Theft Auto 6 is hilarious. That’s what we expected from Rockstar Games, but it’s the emergent gameplay that’s really nailing it this time around. On social media, users have taken great pride in sharing some fantastic and funny GTA 6 clips that have generated millions upon millions of impressions, and they’re all so freaking good.\nIn this breakdown, I’ve pulled together the most hilarious GTA 6 clips that you can go through at your own pace, earning a chuckle or two from a game that manages to be equal parts emotional and side-splitting. Be warned: There are stacks of them, and there are more coming in all the time, so make sure you bookmark this page!\nTop GTA 6 Clips We’ve Found on Social Media\nHere are the funniest GTA 6 clips we’ve found online, all of which perfectly showcase how hilarious this incredible game can be.\nIn this clip, a user discovers the hard way about forced perspective. They’re cruising down the road and trying to outrun the police when they stumble into something that’s ripped straight from the Looney Tunes universe.\nThe physics engine in GTA 6 is nothing short of absolute perfection, and that’s revealed nicely in this clip of Jason being sent sky-high by a fast-moving barrier that he climbs at the very wrong time.\nYou need to be careful with your balls in GTA 6. In this clip, one user pummeled Lucia by mistake, but it resulted in a fantastic clip that shows how great the spontaneous interactions can be in this game.\nAgain, the physics side of GTA 6 is brilliant. If an NPC puts a step wrong, there’s nothing stopping them from eating s*** as they grapple with gravity. Even when they might outnumber the player, physics might be their downfall.\nBe careful with your interactions in GTA 6. If you’re not watching the buttons you’re pressing, you might make a harmless shopping trip go south by punting a cat clean across the store.\nIn Chapter Two, Jason and Lucia rob a strip club, and upon escaping, something might happen that prevents Jason from ever making it out alive. The problem is, it’s absolutely hilarious…\nThere’s something to be said about karma in GTA 6. When you get robbed by an NPC, they might end up having a much worse day than you. That’s the universe aligning to punish them.\nThe simplest mechanic in GTA 6 sees players opening their car door while they’re in the vehicle. The thing is, if you combine that with good timing and an unsuspecting cyclist, you can generate hours of funny clips.\nIn true Floridian fashion, we learn",
-    "extra": {
-     "image": "https://insider-gaming.com/wp-content/uploads/2026/11/0f8a4716-8538-47a9-9c14-f060ea4ffe34-1-1024x576.png"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "😂 GTA 6: Лучшие глитчи и эпичные фейлы\n\nСобрали самые лулзовые клипы, где физика ломается, NPC врезаются в стену и даже коты становятся оружием. Зацените, как игра сама подкидывает имба‑моменты – реально ржач! Готовьте попкорн, будет жара. 🎮😂",
-    "card_title": "ЛУЧШИЕ ГЛИТЧИ GTA 6",
-    "reason": "Подборка смешных моментов и багов физики в вышедшей игре, высокий хайп и вовлеченность.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "groq:qwen/qwen3.8-27b → groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-23T14:35:54.095437+00:00"
   },
   {
    "item": {
@@ -21104,36 +21144,6 @@
   },
   {
    "item": {
-    "title": "GTA 6 Praised for Its Accurate Portrayal of Felon Rehabilitation",
-    "link": "https://www.ign.com/articles/gta-6-praised-for-its-accurate-portrayal-of-felon-rehabilitation",
-    "summary": "GTA 6 is receiving praise for its commentary on how hard it is for felons to start a life and the system that breeds crime.",
-    "published": "2026-11-23T22:25:46+00:00",
-    "source": "IGN",
-    "site_name": "IGN",
-    "trust": "high",
-    "text": "GTA 6 is receiving praise for its commentary on how hard it is for felons to start a new life and the system that breeds crime.\nIn GTA 6, Jason and Lucia choose a life of crime in hopes of creating financial stability in their lives. Their goal isn't necessarily to get rich and buy flashy cars or a mansion, but so they can lay the foundation for their family. Although Jason runs drugs for a local crime boss, Lucia in particular is the one who really pushes them to take on more ambitious jobs. Some players felt that her decision-making at the start of the game was a bit reckless, given that she just got out of prison — but if you read her text messages, things begin to make a lot more sense.\nPlayers realized that her parole officer had denied her petition to take a job at a local bar, one of her only options for employment because she knew someone who worked there that could vouch for her. Without that, her record as a convicted felon would make it difficult for employers to consider her for a position. Her PO also noted that she's overdue on paying court-ordered parole fees, which she can't pay because she doesn't have a job, putting her in a vicious cycle.\nLucia's willingness to get back into crime makes a lot more sense when you look at her texts with her PO and see that they denied her request to get a job but still wanted her to pay bills she has no money for https://t.co/HBfpsZEmz2— Nikuo 🏴󠁧󠁢󠁳󠁣󠁴󠁿 (@MEATMAAAAN) November 23, 2026\nThis pushes Lucia to get involved with shady characters who turn her life with Jason upside down. A number of fans have praised this particular narrative beat, including some who have worked within this very system.\n\"As someone who worked as part of the system years ago, not as a PO but a case manager, this is wildly accurate to real life,\" said X user Mgs2master. \"Rockstar did their homework here.\"\n\"GTA 6 is brave enough to try and educate the player on how desperation can drive you to crime through how it incorporates gameplay mechanics into the story,\" said one player. \"It's genuinely one of the best uses of ludonarrative I’ve ever seen, period. I am floored.\"\n\"As someone who's had family that has had to go through this s**t, it's genuinely not satirical,\" said another user. \"This is straight up just what happens. The system is designed to funnel criminals back into crime by denying them opportunities needed to rehabilitate themselves to keep prisons full.\"\nAnother person noted that this system blocks people out of having a ",
-    "extra": {
-     "image": "https://assets-prd.ignimgs.com/2026/11/23/gta-6-lucia-explosion-1795467537268.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "СЮЖЕТНАЯ база: почему Люсия вернулась к криминалу\n\nРокстары прописали лютый реализм: игра показывает, как система УДО сама толкает людей обратно на дно. Из-за отказа копеечной работы и долгов у Люсии просто не было выбора, имба.\n\n❤️ — Жизненная драма\n👎 — Слишком душно для GTA",
-    "card_title": "ЛУСИЯ И СИСТЕМА УДО В GTA 6",
-    "reason": "Реалистичный сюжетный нюанс про Люсию и УДО зацепил игроков и экспертов",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-24T00:05:32.134617+00:00"
-  },
-  {
-   "item": {
     "title": "Sony Touts Nearly 40 Million GTA 6 Players on PS5",
     "link": "https://insider-gaming.com/40-million-gta-6-players-ps5/",
     "summary": "Four days removed from launch, Sony is already reporting insane player numbers for GTA 6. As is stands, nearly 40 million have jumped in. The post Sony Touts Nearly 40 Million GTA 6 Players on PS5 appeared first on Insider Gaming .",
@@ -21341,6 +21351,36 @@
    },
    "corr": false,
    "since": "2026-11-24T02:05:09.400942+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA 6's Best Easter Egg Is a Classic Tom Cruise Crime-Thriller You Can Stream For Free",
+    "link": "https://www.polygon.com/gta-6-collateral-easter-egg-streaming-for-free/",
+    "summary": "A GTA 6 taxi encounter echoes Michael Mann’s Collateral, starring Tom Cruise and Jamie Foxx. Watch it free on Pluto TV or stream it on Paramount Plus.",
+    "published": "2026-11-24T02:30:17+00:00",
+    "source": "Polygon",
+    "site_name": "Polygon",
+    "trust": "high",
+    "text": "One of Grand Theft Auto 6’s strangest random encounters occurs when you’re offering taxi services, and a man with a beard wearing a dark suit and sunglasses climbs into the backseat with a gun. This can happen if you’re playing as either Jason or Lucia, but both scenes play out the same way: The man wants you to run a red light, ignore phone calls, and drive him to Harborside Park in Vice Beach. He also sounds an awful lot like Tom Cruise, with a calm but forceful demeanor that seems almost sociopathic. Several clips of the sequence have already hit the internet, and to many people, it’s an obvious nod to Collateral, Michael Mann’s 2004 thriller about a hitman who takes a cab driver hostage.\nJason or Lucia gets a better deal than Mann’s cabbie in this Easter egg. If you take the stranger to his destination and follow him inside after he takes out some of the criminals there, you can find a ton of valuable loot. Most players seem keen on eliminating the stranger rather than keep driving him around. In Collateral, Jamie Foxx’s character, Max, has to spend the whole night driving Cruise’s Vincent around Los Angeles. If you’ve never seen how that goes for him, Collateral is streaming for free on Pluto TV — and it’s a must-watch, especially if you want a movie that has a vibe as wild and crime-filled as GTA 6’s.\nMax is a cab driver who’s been telling himself for years that the job is temporary. He wants to start his own limo company someday, so when a well-dressed passenger named Vincent (Cruise) offers him $600 to drive him around for the night, it seems like the kind of opportunity that could get him a little closer to quitting. Then a body lands on his cab at their first destination. Vincent has five people to kill before the night is over. Max has just agreed to drive him to all five stops — and he’s already an accomplice.\nVincent is one of Cruise’s best roles because so much of what makes him convincing as an action hero makes him downright scary here. The same certainty that lets Ethan Hunt talk somebody into jumping out of a plane makes it seem perfectly reasonable, for about half a second, when Vincent asks Max to help him stuff a body in the trunk. He’s also an obnoxious backseat driver. The longer he spends in the cab, the more interested he becomes in why Max has seemingly wasted so much of his life. Some of his advice is irritatingly solid, yet he’s also a man who could end the conversation with a single gunshot whenever he wanted to.\nDespite the pl",
+    "extra": {
+     "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/collateral-tom-cruise.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "Пасхалка на фильм 'Соучастник' в такси\n\nКатая пассажиров за Джейсона или Люсию, можно встретить типа с пушкой в костюме, который подозрительно похож на героя Тома Круза. Имба-отсылка: довезете куда просит — получите гору крутого лута, если не решите пристрелить его раньше.",
+    "card_title": "ПАСХАЛКА С ТОМОМ КРУЗОМ В ТАКСИ",
+    "reason": "Крутая отсылка к фильму 'Соучастник' с Томом Крузом в такси, игроки уже находят пасхалку и лутают награды.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-24T02:37:48.716939+00:00"
   }
  ]
 }
