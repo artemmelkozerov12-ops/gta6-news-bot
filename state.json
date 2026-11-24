@@ -3883,7 +3883,25 @@
   "e8aa0cbddee48675": "2026-11-24T21:53:49.469179+00:00",
   "899c5c19328b25ec": "2026-11-24T21:54:41.011295+00:00",
   "936d72f1b3029cb4": "2026-11-24T21:54:47.218615+00:00",
-  "03b5db5f245897bd": "2026-11-24T21:54:51.419010+00:00"
+  "03b5db5f245897bd": "2026-11-24T21:54:51.419010+00:00",
+  "75edc8fdebdc6466": "2026-11-24T22:09:32.056132+00:00",
+  "32f1f3df8c67356a": "2026-11-24T22:09:32.056189+00:00",
+  "a7819890ce39376f": "2026-11-24T22:09:34.315427+00:00",
+  "c015ca7b5f5c44e3": "2026-11-24T22:09:45.505947+00:00",
+  "1341f6896adfba7d": "2026-11-24T22:09:50.204006+00:00",
+  "93974128135165e5": "2026-11-24T22:09:56.463836+00:00",
+  "735e43d23b2e6675": "2026-11-24T22:10:04.008038+00:00",
+  "e05e364d9eabae3c": "2026-11-24T22:10:07.810686+00:00",
+  "d34039c32df853d4": "2026-11-24T22:10:11.620024+00:00",
+  "7843837471ee3120": "2026-11-24T22:10:18.023224+00:00",
+  "6b7e08dc60f14f76": "2026-11-24T22:25:41.510575+00:00",
+  "6cb8f755a045f4de": "2026-11-24T22:25:43.521068+00:00",
+  "c7e4062d73131efe": "2026-11-24T22:25:45.369205+00:00",
+  "969f09f1e5aa87cf": "2026-11-24T22:25:47.758418+00:00",
+  "8f178b8ae85a1059": "2026-11-24T22:25:48.983095+00:00",
+  "e6cd33da2a2b157b": "2026-11-24T22:25:50.388933+00:00",
+  "00d83739e3df86df": "2026-11-24T22:25:52.547455+00:00",
+  "25f23d39ae4ac4d3": "2026-11-24T22:25:53.981951+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -6485,7 +6503,24 @@
   "b0dba2b5404b170c": "2026-11-24T21:53:29.270762+00:00",
   "6c73595a4ae0e128": "2026-11-24T21:53:39.973789+00:00",
   "ce292d5e47ee1f93": "2026-11-24T21:53:42.080240+00:00",
-  "0a6e63bacbcd01a9": "2026-11-24T21:53:43.861827+00:00"
+  "0a6e63bacbcd01a9": "2026-11-24T21:53:43.861827+00:00",
+  "db6818a946c688f5": "2026-11-24T22:09:56.463836+00:00",
+  "dee792714617c64d": "2026-11-24T22:09:32.056189+00:00",
+  "db83bb8aaa411941": "2026-11-24T22:09:34.315427+00:00",
+  "df193de6356881a1": "2026-11-24T22:09:45.505947+00:00",
+  "763b0b2420debd86": "2026-11-24T22:09:50.204006+00:00",
+  "a8e8b70f0331d17c": "2026-11-24T22:10:04.008038+00:00",
+  "ce6d27f01b4dfd03": "2026-11-24T22:10:07.810686+00:00",
+  "1ae4c0adb4322734": "2026-11-24T22:10:11.620024+00:00",
+  "34cbb55029fcc4b9": "2026-11-24T22:10:18.023224+00:00",
+  "16d364325238d98f": "2026-11-24T22:25:41.510575+00:00",
+  "f2a59638b5af936e": "2026-11-24T22:25:43.521068+00:00",
+  "7f7a1b4a0ab3daba": "2026-11-24T22:25:45.369205+00:00",
+  "976a1465a80be84a": "2026-11-24T22:25:47.758418+00:00",
+  "dfea6187a572e56c": "2026-11-24T22:25:48.983095+00:00",
+  "c2bc48f2865e2bf2": "2026-11-24T22:25:50.388933+00:00",
+  "ae9f6120a9207344": "2026-11-24T22:25:52.547455+00:00",
+  "638ebd92a18552bc": "2026-11-24T22:25:53.981951+00:00"
  },
  "recent": [
   {
@@ -15263,6 +15298,134 @@
    "status": "skipped",
    "ts": "2026-11-24T21:53:43.861952+00:00",
    "card_title": ""
+  },
+  {
+   "title": "Yes, Despite What Some Say Online, There Are Thunderstorms In GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-24T22:09:32.056167+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6: Fastest Cars & Where To Find Them",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-24T22:09:32.056217+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 PC vibe-coders beg AI to \"make no mistakes,\" which will definitely work",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-24T22:09:35.029406+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to get your car out of the impound in GTA 6",
+   "source": "Polygon",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-24T22:09:52.433285+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI is great on PlayStation 5, but it could be better on PC – 4 things I’m hoping for",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T22:10:04.008170+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Tom Petty, Stephen Root and Cedar Key: The local ties hidden in GTA VI",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T22:10:07.810820+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "All safe codes in GTA 6 and where to find them",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T22:10:14.635048+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 PC Port Officially Shut Down By Rockstar",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T22:10:18.023348+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Safe Word Mission Walkthrough: How to Steal the Practice Safe",
+   "source": "VGC",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-24T22:25:41.510696+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Should You Participate in the Safe Word Mission in GTA 6?",
+   "source": "VGC",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-24T22:25:43.521179+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Vice City portal Easter egg location in GTA 6",
+   "source": "Polygon",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-24T22:25:46.040796+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Experience retro Vice City after solving this GTA 6 puzzle",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T22:25:47.758544+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Epic 'GTA 6' scavenger hunt erupts after actor asks for help finding him in the game",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T22:25:48.983225+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "A Secret Portal in GTA VI Transports You Back to the PS2 Era",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T22:25:51.144060+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "The Travis Scott x Rockstar x Nike Air Force 1 Low GTA 6 Pack Raffle is Live",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T22:25:52.547584+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI PC recompilation project shut down by Take-Two",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T22:25:53.982087+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -15443,35 +15606,6 @@
     "model": "gemini:gemini-3.1-flash-lite → gemini:gemini-4-hydrogen"
    },
    "queued_at": "2026-11-24T21:52:46.574545+00:00"
-  },
-  {
-   "item": {
-    "title": "Rockstar Games reveals 23 extra tracks in GTA 6's deluxe edition soundtrack, featuring Denzel Curry, HEALTH, and more",
-    "link": "https://www.eurogamer.net/gta-6-deluxe-edition-soundtrack-23-extra-tracks",
-    "summary": "For those of you out there in love with Grand Theft Auto 6 's soundtrack, you'll be happy to know that Rockstar Games have revealed an additional 23 tracks as part of the game's deluxe edition album. Read more",
-    "published": "2026-11-24T10:03:50+00:00",
-    "source": "Eurogamer",
-    "site_name": "Eurogamer",
-    "trust": "high",
-    "text": "For those of you out there in love with Grand Theft Auto 6's soundtrack, you'll be happy to know that Rockstar Games have revealed an additional 23 tracks as part of the game's deluxe edition album.\nThese tracks, available via streaming services, include songs from artists like HEALTH, Denzel Curry, Playboi Carti, and more. You can find the full track list on the official Rockstar Games music website.\nSome of these artists played a significant role in the game. Justice, for example, helped compose the game's original soundtrack and several of their tracks appear throughout the game. There are others, too.\nBoth Sexyy Red and Denzel Curry voice characters in the game's later chapters. Others like Kodack Black and Freddie Gibbs also show up, too - that's not to mention the huge number of musicians who make an appearance in the game's many radio stations. If you listen through those, you'll hear the voices of Keith Richards, Lana Del Ray, The Alchemist and others.\nMusical talent also played an additional role in creating the TV advertisements and shows you can watch in the game. Zack Fox is one example, as is Weird Al Yankovic. Both wrote parts of the game's enticing and absurd big screen entertainment - which makes sense given the pair's shared comedy background.\nIf you're playing through the game right now, you may benefit from Eurogamer's GTA 6 walkthrough, as well as the full list of GTA 6 cheats.",
-    "extra": {
-     "image": "https://assetsio.gnwcdn.com/grand-theft-auto-6-nightclub-scene.png?width=690&quality=85&format=jpg&auto=webp"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 6,
-    "post": "🎧 +23 ТРЕКА В САУНДТРЕК GTA 6\n\nRockstar выкатили 23 дополнительных трека из Deluxe-издания на стриминги. В списке — Denzel Curry, HEALTH, Playboi Carti и другие имбовые исполнители.\n\nКстати, Denzel Curry и Sexyy Red не просто дали музыку, а озвучили персонажей в поздних главах! А радиостанции забиты голосами от Ланы Дель Рей до Кита Ричардса. Вайб на максимуме, го слушать! 🔊",
-    "card_title": "23 НОВЫХ ТРЕКА В GTA 6",
-    "reason": "Официальный анонс Rockstar о добавлении 23 треков в делюкс-саундтрек GTA 6, подтверждённый Eurogamer.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-4-hydrogen → gemini:gemini-3.5-flash"
-   },
-   "queued_at": "2026-11-24T10:19:18.414087+00:00"
   },
   {
    "item": {
@@ -22627,6 +22761,66 @@
    },
    "corr": false,
    "since": "2026-11-24T21:53:21.701192+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA 6 60fps glitch isn't all it's cracked up to be, tech analysis shows",
+    "link": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-isnt-keeping-anything-amazing-from-you-gta-6-60fps-glitch-isnt-all-its-cracked-up-to-be-tech-analysis-shows/",
+    "summary": "\"This game should probably be capped at 30fps\"",
+    "published": "2026-11-24T22:01:38+00:00",
+    "source": "GamesRadar+",
+    "site_name": "GamesRadar+",
+    "trust": "high",
+    "text": "Rockstar's decision to cap GTA 6 at 30fps remains a controversial one, especially after we spent much of the PS5 and Xbox Series X generation getting used to 60fps gameplay on consoles. But if you thought the recent 60fps glitch discovered on Xbox would be a quick piece of salvation, you should probably recalibrate your expectations. As it turns out, it's really more of a 36fps glitch.\nThat's according to new analysis from Digital Foundry, which has put the supposed 60fps glitch through its paces. On one level, it's true – you can get GTA 6 to run at 60fps. But that's only if you take a plane up into the air, well away from any roving NPCs on the map, and point the camera directly at the sky.\nIn real gameplay, removing the frame rate cap is still going to leave you with a \"mean average\" of \"about 36 to 37 frames per second,\" based on testing of the first hour of the game. In other words, \"Rockstar isn't keeping anything amazing from you.\" That's the sort of awkward, variable frame rate that's a lot more unpleasant than a steady 30 frames per second, and DF's analysts agree that \"this game should probably be capped at 30fps.\"\nThat's not even counting the part where GTA 6 currently runs at an increased speed based on the frame rate, but that's likely just an artifact of the glitch rather than a suggestion that there's some underlying issue with the game. \"Ultimately this shouldn't be reflecting on the quality of the code itself,\" DF's Richard Leadbetter observes. \"Obviously there are going to be versions in the future of Grand Theft Auto 6 that will be running at faster than 30fps.\"\nJust don't expect those future versions to run on current-gen consoles. Our first taste of 60fps GTA 6 will likely come on PC, though whether it'll first arrive through an official port or a fan-made PC version remains to be seen.\nCheck out our GTA 6 review for our full thoughts on the game, or dig into our GTA 6 guides if you're already trying to make your way in Leonida.\n4. Best pro Xbox: Nacon Revolution X Unlimited\nWeekly digests, tales from the communities you love, and more\nDustin Bailey joined the GamesRadar team as a Staff Writer in May 2022, and is currently based in Missouri. He's been covering games (with occasional dalliances in the worlds of anime and pro wrestling) since 2015, first as a freelancer, then as a news writer at PCGamesN for nearly five years. His love for games was sparked somewhere between Metal Gear Solid 2 and Knights of the Old Republic, and these d",
+    "extra": {
+     "image": "https://cdn.mos.cms.futurecdn.net/qrbcWpiXwQczg2ARoHrCDA-1920-80.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "ГЛИТЧ НА 60 FPS — ЛОВУШКА\n\nЧел, не ведись на видосы с «плавным» геймплеем. Digital Foundry протестили тот самый глитч на Xbox: в реальности это лютый нестабильный мусор, который выдает в среднем 36 кадров. \n\nРазрабы не просто так залочили игру на 30 FPS. Пытаться выжать больше через баги — только портить себе вайб и ловить тильт от дерганой картинки. Ждем нормальный порт на ПК, там будет пушка. 🎮",
+    "card_title": "ГЛИТЧ НА 60 FPS — ЛОВУШКА",
+    "reason": "Анализ от Digital Foundry развенчивает миф о стабильных 60 FPS через глитч.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.1-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-24T22:09:48.428674+00:00"
+  },
+  {
+   "item": {
+    "title": "Yes, Despite What Some Say Online, There Are Thunderstorms In GTA 6",
+    "link": "https://kotaku.com/yes-despite-what-some-say-online-there-are-thunderstorms-in-gta-6-2001000112",
+    "summary": "It seems like things weren't working properly for some people until a recent patch, though",
+    "published": "2026-11-24T22:00:57+00:00",
+    "source": "Kotaku",
+    "site_name": "Kotaku",
+    "trust": "high",
+    "text": "Grand Theft Auto 6 is a massive world filled with an incredible amount of detail and simulation. This includes the game’s dynamic and realistic weather system, a feature Rockstar hyped up quite a bit before launch. However, some players online aren’t seeing much rain and are claiming Rockstar lied. The reality is that, yes, rainstorms happen, but you might not be seeing them very often for a few reasons.\nIf you search around Reddit or Twitter, you’ll see a lot of people complaining that it never rains in GTA 6. However, you can also find amazing clips of thunderstorms pummeling Vice City. And I can confirm that when I played GTA 6 pre-release, I saw rainstorms and other weather events, like fog. So what’s going on here? Why are some people suggesting the weather system in GTA 6 isn’t working or was a lie, while others, like myself, are dealing with thunderstorms?\nTHIS ISN'T JUST RAIN. THIS IS ENVIRONMENTAL ARTISTRY AT AN ABSURD LEVEL! 🤯 Just look at the rain dripping off the sides of the bridge, the incredibly atmospheric overcast skies and the way the entire scene comes together. GTA 6 genuinely looks like a work of art! I'm quite… pic.twitter.com/NjbjmeYHV7 — VideoGameDetails (@VideoGameDetail) November 24, 2026\nFirst up is that it does seem like something was borked with GTA 6‘s dynamic weather system at launch. On Monday, the first post-launch patch for GTA 6 arrived and fixed an issue that, according to Rockstar’s patch notes, led to the weather not changing for extended periods of time. So yeah, one reason it might not have been raining in your game is because of a bug.\nHowever, even after the patch, some people are still claiming it isn’t raining in GTA 6. And maybe something is still bugged. The more likely explanation is that people don’t realize just how dynamic and advanced the weather is in GTA 6.\nIn all previous Grand Theft Auto games and most other open-world games, when it rains in the game, it rains across the whole map. That’s not how weather in GTA 6 works. Instead, storms, fog, and other weather events can happen locally and in small parts of the map. At one point I was flying a plane and it was sunny, but ahead in the sky were big dark clouds. As I reached them, I entered a rainstorm. As I left the clouds behind, the rain stopped. So it’s very possible that it is raining somewhere in your GTA 6 world; you just aren’t in the spot where the rain is falling.\nI’ve also seen some people suggesting the weather is locked to certain conditions ",
+    "extra": {
+     "image": "https://kotaku.com/app/uploads/2026/11/Lucia_Caminos_11.0j617-ylicowx-1280x720.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "Где дождь в GTA 6?\n\nЧел, если ты не видишь ливней, это не значит, что Rockstar наврали. Разрабы завезли лютую систему локальной погоды: в одной части карты может быть солнце, а через километр — шторм. Плюс, баг с зависанием погоды уже пофиксили первым патчем. Так что просто катайся по штату, и ливень тебя обязательно найдет. Это база для такой масштабной игры.\n\n❤️ — У меня постоянно льет\n👎 — Все еще сухо, как в пустыне",
+    "card_title": "ГДЕ ДОЖДЬ В GTA 6",
+    "reason": "Разрушение мифа о погоде в GTA 6 с пояснением механики локальных осадков.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "Yes, Despite What Some Say Online, There Are Thunderstorms In GTA 6",
+    "guide": false,
+    "model": "gemini:gemini-3.1-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-24T22:10:00.625600+00:00"
   }
  ]
 }
