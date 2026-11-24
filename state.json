@@ -3198,7 +3198,27 @@
   "d9f2b0396348b820": "2026-11-24T00:39:09.584616+00:00",
   "633c5db0b5146ad2": "2026-11-24T00:39:11.488881+00:00",
   "6f0d2a560656e216": "2026-11-24T00:39:12.354714+00:00",
-  "be4d362234ace706": "2026-11-24T00:39:14.177294+00:00"
+  "be4d362234ace706": "2026-11-24T00:39:14.177294+00:00",
+  "4f05982e1c8f12de": "2026-11-24T00:54:34.373279+00:00",
+  "48ddd3714aef6439": "2026-11-24T00:54:34.373341+00:00",
+  "dd40ec07214eb8d7": "2026-11-24T00:54:47.042545+00:00",
+  "013fa765cc147415": "2026-11-24T00:55:05.599732+00:00",
+  "b7b404c0aede35cc": "2026-11-24T00:55:25.042058+00:00",
+  "f6d6f69fdec13ba3": "2026-11-24T00:55:39.238120+00:00",
+  "4c9c6897cf9e254f": "2026-11-24T00:56:00.912830+00:00",
+  "3869cbd58eec9a6a": "2026-11-24T00:56:03.510875+00:00",
+  "b7134fe409dbda10": "2026-11-24T00:56:05.161372+00:00",
+  "9b7d9ba8d77a7c42": "2026-11-24T00:56:24.111770+00:00",
+  "2474893657837ee7": "2026-11-24T01:11:43.662862+00:00",
+  "642b73ee23bc51c5": "2026-11-24T01:11:43.715731+00:00",
+  "8ae1e1a001e6eade": "2026-11-24T01:11:49.148715+00:00",
+  "0b44b1248990bc49": "2026-11-24T01:11:50.914358+00:00",
+  "9340feb9207d4ab8": "2026-11-24T01:11:53.035417+00:00",
+  "182fe1c1ea94f2fb": "2026-11-24T01:11:54.444991+00:00",
+  "e9d3d03422eac700": "2026-11-24T01:12:07.663628+00:00",
+  "8165d6812d100611": "2026-11-24T01:12:09.300218+00:00",
+  "bc056802e5371874": "2026-11-24T01:12:16.728246+00:00",
+  "fef2fab845101be9": "2026-11-24T01:12:22.568925+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -5382,7 +5402,27 @@
   "36a24b234b3d0119": "2026-11-24T00:39:09.584616+00:00",
   "2ad2ce11c6ae7f0d": "2026-11-24T00:39:11.488881+00:00",
   "4b754c273c4b6098": "2026-11-24T00:39:12.354714+00:00",
-  "cba9879ee735f028": "2026-11-24T00:39:14.177294+00:00"
+  "cba9879ee735f028": "2026-11-24T00:39:14.177294+00:00",
+  "2738fd418bb5c6f4": "2026-11-24T00:54:34.373279+00:00",
+  "be790407259d3df5": "2026-11-24T00:54:34.373341+00:00",
+  "6bc6f6f8a5c26374": "2026-11-24T00:54:47.042545+00:00",
+  "dab1e0839ab2dfa8": "2026-11-24T00:55:05.599732+00:00",
+  "058bf7c2974269c3": "2026-11-24T00:55:25.042058+00:00",
+  "408e54c1a878fe1c": "2026-11-24T00:55:39.238120+00:00",
+  "be4205cf197f8eb1": "2026-11-24T00:56:00.912830+00:00",
+  "97dc73f1093f9f0e": "2026-11-24T00:56:03.510875+00:00",
+  "0ef8ddd73ff2df2f": "2026-11-24T00:56:05.161372+00:00",
+  "34ffd5e0ed04e1fe": "2026-11-24T00:56:24.111770+00:00",
+  "cc6d1270644b685d": "2026-11-24T01:11:43.662862+00:00",
+  "0bea92869462db79": "2026-11-24T01:11:43.715731+00:00",
+  "ff89b512478862c8": "2026-11-24T01:11:49.148715+00:00",
+  "51360f72d761f72f": "2026-11-24T01:11:50.914358+00:00",
+  "ebe4a2fc4d3d1c9d": "2026-11-24T01:11:53.035417+00:00",
+  "d82806ce352efb2e": "2026-11-24T01:11:54.444991+00:00",
+  "8268727e5c91d5c2": "2026-11-24T01:12:07.663628+00:00",
+  "b4444278acf8145e": "2026-11-24T01:12:09.300218+00:00",
+  "189040b035a3e31d": "2026-11-24T01:12:16.728246+00:00",
+  "683dc787771aeef5": "2026-11-24T01:12:22.568925+00:00"
  },
  "recent": [
   {
@@ -14232,6 +14272,142 @@
    "status": "skipped",
    "ts": "2026-11-24T00:39:14.177423+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GTA 6 Marks Biggest Launch in PlayStation History",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-24T00:54:34.373318+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Lets Players Revisit the Original Vice City, Here’s How",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-24T00:54:34.373360+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Easter Egg Opens a Portal to the Original 2002 Vice City",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T00:55:25.042208+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Just Gave a 50-Year-Old Country Classic an Unexpected Second Life With a New Generation",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T00:55:39.238274+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6's Jason Actor Had A Small Role On Modern Family",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T00:56:00.912969+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Should Christians Play GTA 6? Ruslan Warns About Nudity, Violence and Wasting Time",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T00:56:03.511024+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Power Trip is releasing new music… in GTA VI.",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T00:56:05.161498+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Sales Record, Miley Cyrus’ Wedding and a New ‘Home Alone’ Sequel Lead Entertainment News",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T00:56:24.111915+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to Get Tommy Vercetti's Shirt and Bike in GTA 6",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "dup",
+   "ts": "2026-11-24T01:11:43.662910+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How To Break Into The Mile Zero Military Base In GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-24T01:11:43.715788+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Car Service walkthrough: How to steal the Schafter V12",
+   "source": "VGC",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-24T01:11:49.148850+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 had 39 million players on PS5 with high penetration rate, Sony confirms",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T01:11:53.035566+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Gilbert Arenas is latest NBA star to weigh in on GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T01:11:54.445130+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "9 Ways 'GTA 6' Actually Got Worse After 13 Years (Rockstar Needs To Fix #3 ASAP)",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T01:12:07.663788+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI hacker released despite being sentenced to 7 years in UK prison",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T01:12:09.300366+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GameStop CEO says digital-only games hurt consumers as GTA VI ships without a disc",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T01:12:16.728389+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6's Criminal Profiles Explained",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T01:12:22.569070+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -14764,37 +14940,6 @@
     "model": "groq:openai/gpt-oss-20b → gemini:gemini-3.5-flash"
    },
    "queued_at": "2026-11-23T23:46:31.066347+00:00"
-  },
-  {
-   "item": {
-    "title": "GTA 6 Has Already Sold 45 Million Copies, Says Research Firm",
-    "link": "https://insider-gaming.com/gta-6-45-million-copies/",
-    "summary": "A research firm claims GTA 6 has already sold nearly 45 million copies in its launch weekend, amounting to over $4 billion in revenue. The post GTA 6 Has Already Sold 45 Million Copies, Says Research Firm appeared first on Insider Gaming .",
-    "published": "2026-11-23T12:37:07+00:00",
-    "source": "Insider Gaming",
-    "site_name": "Insider Gaming",
-    "trust": "medium",
-    "text": "A research firm claims GTA 6 has already sold nearly 45 million copies in its launch weekend, amounting to over $4 billion in revenue.\nAccording to the research firm Alinea Analytics via X, GTA 6 has sold 44.9 million copies since its November 19 release, which, if true, puts it well ahead of the best-selling game during its launch weekend. According to the firm, this does not include the unsold copies sent to retailers, meaning that 45 million players already have their hands on GTA 6. That’s despite GTA 6 currently being review-bombed by players.\nIn a breakdown provided by the firm, 33.7 million units, or 75.1%, have been sold on PS5, and 11.2 million units, or 24.9%, have been sold on Xbox. The sold units also don’t include the players who’ve opted to play Grand Theft Auto 6 on the Xbox One via Cloud.\nAs rightfully pointed out by Rhys Elliott on X (Head of market analysis at Alinea Analytics, if the figures are accurate, GTA 6 is roughly equal revenue-wise to the box office earnings of both The Odyssey and Spider-Man Brand New Day.\nRELATED – GTA 6 New Update Releasing in Phases; Size Revealed\nIf you’re reading this, you’re almost certainly one of the nearly 45 million players who have bought GTA 6; if so, we recommend checking out our master guide hub on GTA 6, where you can learn everything you need to know about the game.\nWhat are you liking about GTA 6 so far? Let us know in the official Insider Gaming Discord server.\nFor more indie game goodness on Insider Gaming, check out our story on the team behind Sea of Stars as they work on their next game. Also, don’t forget to sign up for our weekly newsletter.\nTom Henderson is Insider Gaming's Co-Founder and Editor-In-Chief. When he's not running one of the industry's leading independent video game websites, he's probably playing an FPS like Call of Duty,…\nConcept Art From The Cancelled Halo Battle Royale Mode ‘Project Tatanka’ Surfaces Online\nGTA 6’s Free Pre-Order Bonus is Now a Paid Store Purchase\nGTA 6 New Update Releasing in Phases; Size Revealed\nGTA 3 Had a $600,000 Music Budget It Never Spent",
-    "extra": {
-     "image": "https://insider-gaming.com/wp-content/uploads/2026/11/GTA-6-45-MILLION-COPIES-scaled.jpg"
-    }
-   },
-   "verdict": {
-    "type": "rumor",
-    "importance": 8,
-    "post": "💸 GTA 6 взяла почти 45 МИЛЛИОНОВ копий за уикенд\n\nПо оценкам Alinea Analytics, за первые выходные продали 44,9 млн копий — 75,1% на PS5 и 24,9% на Xbox. Пока кто-то строчит гневные отзывы, у Rockstar лютый разнос и свыше $4 млрд выручки.",
-    "card_title": "ПОЧТИ 45 МИЛЛИОНОВ КОПИЙ",
-    "reason": "Инсайдерские данные о 45 миллионах копий GTA 6 за выходные — это лютый хайп и рекорд.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "GTA 6 Has Already Sold 45 Million Copies, Says Research Firm",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-4-hydrogen"
-   },
-   "queued_at": "2026-11-23T12:48:28.674127+00:00",
-   "moderation": "pending",
-   "draft_msg_id": 108
   },
   {
    "item": {
@@ -21804,6 +21949,96 @@
    },
    "corr": false,
    "since": "2026-11-24T00:23:01.915475+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA VI стала крупнейшим запуском в истории PlayStation: игру запустили более 39 млн пользователей PS5",
+    "link": "https://ixbt.games/news/2026/11/24/gta-vi-stala-krupneisim-zapuskom-v-istorii-playstation-igru-zapustili-bolee-39-mln-polzovatelei-ps5.html",
+    "summary": "По данным аналитиков, предварительные заказы на игру превысили 32 млн копий, а выручка от розничных продаж в первый день достигла 3,79 млрд долларов.",
+    "published": "2026-11-24T00:48:00+00:00",
+    "source": "iXBT.games",
+    "site_name": "iXBT.games",
+    "trust": "medium",
+    "text": "По данным аналитиков, предварительные заказы на игру превысили 32 млн копий, а выручка от розничных продаж в первый день достигла 3,79 млрд долларов.\nGrand Theft Auto VI установила сразу несколько рекордов на консолях PlayStation. По данным Sony, с момента выхода игры более 39 млн пользователей PS5 успели познакомиться с новым проектом Rockstar Games, а суммарное время, проведенное в игре, превысило 683 млн часов.\nОб этом представители Sony сообщили в официальном блоге PlayStation. Согласно опубликованной статистике, с момента релиза 19 ноября по 22 ноября включительно игроки провели в Grand Theft Auto VI в общей сложности 683 млн часов. Кроме того, проект установил новый рекорд по одновременному количеству пользователей одной игры на консолях PlayStation.\nВ Sony также отметили, что запуск GTA 6 привел к крупнейшему за всю историю PS5 однодневному увеличению числа впервые подключённых консолей. Предыдущие показатели удалось превзойти, несмотря на то что компания не учитывала традиционный всплеск продаж в период новогодних праздников.\nОсобенно показательно, что Grand Theft Auto VI стала первой запущенной игрой на 70% новых консолей PS5, подключенных в период с момента релиза по 22 ноября.\nНе пропускайте наши новостиДобавьте сайт в предпочитаемые источники, чтобы видеть нас чащеДобавить в Google",
+    "extra": {
+     "image": "https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1745568/4b30d9f1-b4ed-4278-b9c5-1cc4b6fe8bad.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "🔥 GTA VI — рекорд PS5\n\n39 млн чел. зашли в игру, суммарно накатали 683 млн часов. Это самый мощный запуск в истории приставки. Sony даже отметили, что 70% новых консолей купили ради этой катки. Завезли по полной, база.",
+    "card_title": "РЕКОРД ЗАПУСКА GTA VI",
+    "reason": "Официальная статистика Sony о рекордах запуска, подтверждена несколькими источниками. Важная новость для хайпа, но цифры уже видели.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "GTA 6 привлекла 39 млн пользователей PS5 за первые дни",
+    "guide": false,
+    "model": "groq:qwen/qwen3.8-27b"
+   },
+   "corr": false,
+   "since": "2026-11-24T00:55:00.049377+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA 6 Was Biggest Launch in PlayStation History",
+    "link": "https://www.ign.com/articles/gta-6-was-biggest-launch-in-playstation-history",
+    "summary": "Now that the dust has somewhat settled after the avalanche that was the launch of GTA 6, PlayStation has revealed some of its stats from the game, revealing that this was the single largest game release in PlayStation history.",
+    "published": "2026-11-24T00:14:18+00:00",
+    "source": "IGN",
+    "site_name": "IGN",
+    "trust": "high",
+    "text": "Now that the dust has somewhat settled after the avalanche that was the launch of GTA 6, PlayStation has revealed some of its stats from the game, revealing that this was the single largest game release in PlayStation history.\nPlayStation’s November 23 blog post states that more than 39 million unique players have played the game on the PlayStation 5, setting a new record for the highest number of concurrent players for any PlayStation game. This beats out other records for multiplayer games, single-player games, and perhaps most astonishingly, even free-to-play titles.\nOn top of that, GTA 6 players logged a total of 683 million hours played in the game, with the average player spending an estimated 17.4 hours sticking up virtual pawn shops and stealing NPC’s cars during its first few days.\nWhat’s more impressive is the sheer amount of people who purchased PS5s specifically to play GTA 6. PlayStation’s blog says it saw the “largest number of newly-connected PS5 consoles on a single day” since the console’s launch in November 2020, not counting end-of-year holidays like Christmas. Since GTA 6’s launch, it was the first game played on 70% of these new consoles.\nGTA 6 has, perhaps unsurprisingly, broken a slew of big records. The most prominent of these is its status as the biggest entertainment launch of all time, with Rockstar reporting that the game earned $3.79 billion in its first 24 hours.\nOn top of this, internet provider Comcast said that GTA 6’s launch day was its highest-traffic day ever, with 24% of all its internet traffic during peak times coming from users downloading and playing Rockstar’s latest offering. Xbox had its own big records, too; Xfinity, which is under the Comcast umbrella, said GTA 6 increased the internet traffic on Xbox consoles by four times the normal amount this November.\nPeople are still making new discoveries in this game, and there’s bound to be many more that pop up over the next few months. GTA 6 is up for eight awards at The Game Awards and has enjoyed massive critical reception, with IGN scoring it a glowing 10 out of 10 — the title of ‘Masterpiece.’ Reviewer Luke Reilly praised the game for being “exquisitely detailed, endlessly ripe for experimentation, and uncompromisingly engineered,” saying “Grand Theft Auto 6 is the single most impressive video game I have ever played.”\nIt’s unlikely that we see a game release as big as this one, with such a massive cultural impact, ever again. Rockstar certainly set a new standar",
+    "extra": {
+     "image": "https://assets-prd.ignimgs.com/2026/11/23/gtavi-38-1795441920082.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "🚀 GTA 6 СЛОМАЛА PS5\n\n39 млн чел. зашли в игру, поставив рекорд по онлайну среди всех тайтлов PlayStation. Плюс 683 млн часов игрового времени за пару дней. Rockstar реально завезла: 70% новых PS5 включали именно ради шестёрки. Сочный рекорд, база.\n\n❤️ — Рокстар велика\n👎 — Серверы упали",
+    "card_title": "РЕКОРДЫ GTA 6 НА PS5",
+    "reason": "Официальные статистические данные от PlayStation о рекордах игры, подтверждённые IGN. Высокий интерес аудитории к масштабам успеха.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "groq:qwen/qwen3.8-27b"
+   },
+   "corr": false,
+   "since": "2026-11-24T00:55:19.541657+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA 6 Owners Can Now Stream the Game to PS5, PS Portal with PS Plus Premium",
+    "link": "https://www.pushsquare.com/news/2026/11/gta-6-owners-can-now-stream-the-game-to-ps5-ps-portal-with-ps-plus-premium",
+    "summary": "Livin' the Leonida stream. GTA 6 has been updated to support PS Plus Premium cloud streaming directly to the PS5 and PS Portal . To be crystal clear about this: the game has not been added to the PS Plus Premium catalogue and you will still need to own it. Read the full article on pushsquare.com",
+    "published": "2026-11-24T01:00:00+00:00",
+    "source": "Push Square",
+    "site_name": "Push Square",
+    "trust": "high",
+    "text": "GTA 6 has been updated to support PS Plus Premium cloud streaming directly to the PS5 and PS Portal.\nTo be crystal clear about this: the game has not been added to the PS Plus Premium catalogue and you will still need to own it.\nHowever, assuming you’ve purchased the game – and millions of you have – then you’ll now be able to stream it directly from Sony’s servers, assuming you’re a PS Plus Premium member.\nThere are a number of use cases for this, but the most likely is you’re away from your console and still want to play on your PS Portal. Now you won’t need to rely on Remote Play; you can just stream it directly.\nThis feature wasn’t available at launch, but I’ve been able to test it on my PS5 here in the UK and it’s working well.\nThere was some reporting prior to release that Microsoft had secured “exclusive” streaming rights to this title, but they were quickly clarified. This update now confirms boss Asha Sharma misspoke.\nWill you be taking advantage of this feature at all? Let me know in the comments section below.",
+    "extra": {
+     "image": "https://images.pushsquare.com/c9545ea0caeb9/large.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "GTA 6 ТЕПЕРЬ доступна для облачного стриминга\n\nОбладатели подписки PS Plus Premium и купленной игры теперь могут запускать тайтл напрямую с серверов Sony на PS5 или через PS Portal без Remote Play. Имба для тех, кто гоняет вне дома.\n\n❤️ — Затестим на портативке\n👎 — Мне и на консоли норм",
+    "card_title": "СТРИМИНГ GTA 6 НА PS PORTAL",
+    "reason": "Официальное обновление функции стриминга GTA 6 для PS Plus Premium и PS Portal",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-24T01:11:51.682977+00:00"
   }
  ]
 }
