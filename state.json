@@ -3935,7 +3935,15 @@
   "f1c0b97c2960a6bb": "2026-11-24T23:28:32.793177+00:00",
   "119b17ef16c4be76": "2026-11-24T23:28:39.640219+00:00",
   "233bb71a3b670eba": "2026-11-24T23:28:48.950573+00:00",
-  "2eafdfa5f128097c": "2026-11-24T23:28:56.667078+00:00"
+  "2eafdfa5f128097c": "2026-11-24T23:28:56.667078+00:00",
+  "de92a90bf3c8dc1c": "2026-11-24T23:44:17.397948+00:00",
+  "06b46f85344ccd80": "2026-11-24T23:44:19.162697+00:00",
+  "9095a3a1ba86d668": "2026-11-24T23:44:25.556277+00:00",
+  "35d145e19e5f7865": "2026-11-24T23:44:26.626070+00:00",
+  "f385907f59008783": "2026-11-24T23:44:33.295850+00:00",
+  "bacbe0f98f60d969": "2026-11-24T23:44:34.498473+00:00",
+  "4c825734c0b1f935": "2026-11-24T23:44:35.559915+00:00",
+  "3054e3745ca86d42": "2026-11-24T23:44:36.792174+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -6588,7 +6596,15 @@
   "f290f8a084bced64": "2026-11-24T23:28:32.793177+00:00",
   "78a9819b81223acb": "2026-11-24T23:28:39.640219+00:00",
   "ba40235b2871af7e": "2026-11-24T23:28:48.950573+00:00",
-  "3c05c5d99c9666dc": "2026-11-24T23:28:56.667078+00:00"
+  "3c05c5d99c9666dc": "2026-11-24T23:28:56.667078+00:00",
+  "b48ac30bb3536ed6": "2026-11-24T23:44:17.397948+00:00",
+  "749c5bb00affa937": "2026-11-24T23:44:19.162697+00:00",
+  "b62208bff624710e": "2026-11-24T23:44:25.556277+00:00",
+  "011e0d5090fe001b": "2026-11-24T23:44:26.626070+00:00",
+  "a95088de6f03eed9": "2026-11-24T23:44:33.295850+00:00",
+  "31b162bd4d0cd6a8": "2026-11-24T23:44:34.498473+00:00",
+  "a76123ef1f618d19": "2026-11-24T23:44:35.559915+00:00",
+  "c39fca5d034a3a87": "2026-11-24T23:44:36.792174+00:00"
  },
  "recent": [
   {
@@ -15774,6 +15790,62 @@
    "status": "skipped",
    "ts": "2026-11-24T23:28:56.667217+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GTA 6 - PlayStation 5 Pro Vs Base PlayStation 5 | Graphics Comparison",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T23:44:19.162823+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Highland man faces charges after GTA VI threats at Walmart",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T23:44:25.556402+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Творческий директор Cyberpunk 2 признался в «депрессии из-за GTA 6»",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T23:44:26.626194+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI: PS5 Pro держит 30 FPS, Xbox Series S падает ниже 20",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T23:44:33.295973+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Моддеры запустили GTA 6 на ПК со скоростью около 4 FPS",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T23:44:34.498596+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "PS5 раскупили: эффект GTA 6 опустошает полки",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T23:44:35.560044+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Carly Rae Jepsen's 'Run Away With Me' Sees 288 Percent Streaming Bump Thanks to 'GTA VI'",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T23:44:36.792312+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -23139,6 +23211,36 @@
    },
    "corr": false,
    "since": "2026-11-24T22:10:00.625600+00:00"
+  },
+  {
+   "item": {
+    "title": "Fursuit Bans, Furry Hunters, And A Chaotic Rescue: What’s Actually Going On With Furries In GTA 6",
+    "link": "https://kotaku.com/grand-theft-auto-6-gta-6-furries-mission-illegal-2001000147",
+    "summary": "‘All this for the crime of being cute and huggable’",
+    "published": "2026-11-24T23:30:02+00:00",
+    "source": "Kotaku",
+    "site_name": "Kotaku",
+    "trust": "high",
+    "text": "Grand Theft Auto 6 is an open-world satire with things to say about the current state of America, and part of its web of commentary involves furries, the people who wear costumes of anthropomorphic animals as part of their subculture. In GTA 6, the act of wearing a fursuit is illegal in the fictional state of Leonida, and you can see public service announcements on TV telling citizens that they are required to report any “suspicious activity” to local law enforcement, such as when an “animal” says things like “Uwu,” “Rawr xD,” and “hewwo.”\nGTA 6 has an Anti Furry Association??? pic.twitter.com/OEMgIP2Mud — Clinisk 𓆏 (@CIinisk) November 18, 2026\nHunters are apparently authorized to shoot furries, so being a furry brings with it not just social scrutiny but also life-threatening danger as violence against them is legally sanctioned and encouraged. Grand Theft Auto 6 could have left things here or even let players get in on the discrimination, and in the early hours of the game’s launch last week, I saw a fair number of people claiming that the game encouraged players to enact violence upon fursuiters. But it turns out that’s not the case.\nPlayers can stumble upon a furry fox wearing their suit and surrounded by cops and taunting them while a helicopter shines a spotlight on them. You can drive past the whole scene, or you can pull up next to the fox and offer a ride. Doing so starts a quick mission in which you can help a few folks who are part of an underground coalition of furries called the Furverts to avoid the feds, and while on the drive, you hear a number of animal puns, listen to the plight of Leonida’s furry community, and even get asked what animal you would be if you were hypothetically a secret furry. You can check out the full sequence below courtesy of Hardcore Gamer:\nElsewhere, Jason and Lucia can have text conversations in which you can say furries are “misunderstood.”\nJason is an ally #GTA6 pic.twitter.com/ptLKg6iCDK — Oreo Kangy🦘🇨🇦 (@JoeyAKangaroo) November 21, 2026\nWhile there was definitely some skepticism from players initially, it seems like the game, by and large, is sympathetic to its furries, and uses them not as a punching bag to make fun of, but instead as a subject in its larger satire.\n-Likes to cuddle and spread positivity-high quality fursuit-Communicates through nose boops-Has a major career in the medical field How the fuck is one of the best portrayals of furries in mainstream media fucking GRAND THEFT AUTO of all things? ht",
+    "extra": {
+     "image": "https://kotaku.com/app/uploads/2026/11/gta-furries-1280x720.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "Фурри в Леониде вне закона\n\nВ игре можно наткнуться на сумасшедшую миссию, где копы прессуют чувака в костюме лисы, а Джейсон и Люсия могут обсудить эту сатиру. Сами разработчики неожиданно оказались топчиками по части поддержки пушистых.\n\n❤️ — Ждем патч для квадроберов\n👎 — Осуждаем этих анимешников",
+    "card_title": "ФУРРИ В GTA 6",
+    "reason": "Interesting in-game detail and satire regarding furries in GTA 6, confirmed by Kotaku.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-24T23:44:18.056167+00:00"
   }
  ]
 }
