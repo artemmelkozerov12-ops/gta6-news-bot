@@ -3319,7 +3319,43 @@
   "c9108492bb5048d3": "2026-11-24T06:48:44.508825+00:00",
   "a68fcb2060ec81ce": "2026-11-24T06:48:53.330008+00:00",
   "8d3072bb68114c18": "2026-11-24T06:49:16.121986+00:00",
-  "d4ab808a33d6bd92": "2026-11-24T06:49:39.163259+00:00"
+  "d4ab808a33d6bd92": "2026-11-24T06:49:39.163259+00:00",
+  "2bd7ad82c0f13b4d": "2026-11-24T07:00:16.769674+00:00",
+  "e4c8e46fdc9cd76f": "2026-11-24T07:00:17.728277+00:00",
+  "4ffb24619231d11f": "2026-11-24T07:00:18.484793+00:00",
+  "0ebb792487f7167d": "2026-11-24T07:00:19.349111+00:00",
+  "f89e6a44fb0d58db": "2026-11-24T07:01:10.422472+00:00",
+  "325122288d5a32ad": "2026-11-24T07:01:11.237202+00:00",
+  "7d9cdcd0b554099d": "2026-11-24T07:01:12.101588+00:00",
+  "d89b6a3c80ec34d7": "2026-11-24T07:01:12.934094+00:00",
+  "62d6d932e5c7ee15": "2026-11-24T07:02:03.913853+00:00",
+  "9b4f86d98c761d87": "2026-11-24T07:02:04.775585+00:00",
+  "31d1a45b1788c7d8": "2026-11-24T07:02:05.617478+00:00",
+  "5cbd08bd6392f3d7": "2026-11-24T07:02:06.460171+00:00",
+  "e876530ee35fc916": "2026-11-24T07:03:01.541630+00:00",
+  "1230b6274fa67dde": "2026-11-24T07:03:02.288672+00:00",
+  "e2c63e45ca90ce78": "2026-11-24T07:03:03.319321+00:00",
+  "fb3f71059bc95341": "2026-11-24T07:03:04.065560+00:00",
+  "4650ba4e2a39d514": "2026-11-24T07:03:55.000352+00:00",
+  "880423d09f00b45f": "2026-11-24T07:03:55.851308+00:00",
+  "433a210b6d6a4d06": "2026-11-24T07:03:56.738813+00:00",
+  "2d981d93583f1185": "2026-11-24T07:03:57.610411+00:00",
+  "22d2ccf333216019": "2026-11-24T07:05:06.674078+00:00",
+  "4d37d6f8708ac673": "2026-11-24T07:05:20.617304+00:00",
+  "891a300479eeffdd": "2026-11-24T07:05:21.272721+00:00",
+  "e9070edf4da5a98b": "2026-11-24T07:06:01.372833+00:00",
+  "4e6b963b905bb220": "2026-11-24T07:06:06.169197+00:00",
+  "30212572f02d8b61": "2026-11-24T07:06:37.918161+00:00",
+  "3f37130d93470d56": "2026-11-24T07:06:42.236709+00:00",
+  "e9f004574c683789": "2026-11-24T07:06:43.095904+00:00",
+  "368913b8dab20f2c": "2026-11-24T07:06:44.015430+00:00",
+  "9766ba66e199e832": "2026-11-24T07:06:44.877148+00:00",
+  "9a37bbc6a204749b": "2026-11-24T07:07:36.127455+00:00",
+  "e67ec301571fa061": "2026-11-24T07:07:36.928241+00:00",
+  "85b46bd802de9d69": "2026-11-24T07:07:37.796675+00:00",
+  "2ea199c09fde6621": "2026-11-24T07:07:38.641362+00:00",
+  "8483be1d1dc9a878": "2026-11-24T07:08:29.890227+00:00",
+  "425a82c6592bbdeb": "2026-11-24T07:08:30.872490+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -5624,7 +5660,13 @@
   "a435f7e4655efb6f": "2026-11-24T06:48:44.508825+00:00",
   "19abff36968ef1d9": "2026-11-24T06:48:53.330008+00:00",
   "9e51e1bb175fc140": "2026-11-24T06:49:16.121986+00:00",
-  "0efe0e7db4419d56": "2026-11-24T06:49:39.163259+00:00"
+  "0efe0e7db4419d56": "2026-11-24T06:49:39.163259+00:00",
+  "d0d217ac85b58d79": "2026-11-24T07:05:06.674078+00:00",
+  "b43b3fa259741d84": "2026-11-24T07:05:20.617304+00:00",
+  "3c3c578e48d4a57e": "2026-11-24T07:05:21.272721+00:00",
+  "3dd2fac2caa2438c": "2026-11-24T07:06:01.372833+00:00",
+  "8eb46d7050c8f158": "2026-11-24T07:06:06.169197+00:00",
+  "06b293ea8d7cbe3e": "2026-11-24T07:06:37.918161+00:00"
  },
  "recent": [
   {
@@ -14570,6 +14612,54 @@
    "status": "skipped",
    "ts": "2026-11-24T06:49:39.163378+00:00",
    "card_title": ""
+  },
+  {
+   "title": "Telegram CEO Pavel Durov Says GTA 6 Is Unrealistic Without Telegram",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T07:05:06.674213+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 — великие пирамиды игроразработки, считает создатель The Last of Us 2",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T07:05:20.617427+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Российские кибер-клубы подняли цены из-за ажиотажа вокруг GTA-6",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T07:05:21.272840+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Prologue guide: how Lucia’s Hamlet Prison opening plays out",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T07:06:01.372960+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "PS5 vs. Xbox: Which GTA 6 Console Features Are Better",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T07:06:06.169326+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Rockstar удалила GitHub-репозиторий, Discord-канал и Kick-канал порта GTA VI",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T07:06:37.918300+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -15093,7 +15183,9 @@
     "guide": false,
     "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
    },
-   "queued_at": "2026-11-24T04:59:17.576919+00:00"
+   "queued_at": "2026-11-24T04:59:17.576919+00:00",
+   "moderation": "pending",
+   "draft_msg_id": 121
   },
   {
    "item": {
@@ -15217,7 +15309,7 @@
   "2026-11-24T04:31:49.377232+00:00",
   "2026-11-24T06:53:33.099748+00:00"
  ],
- "tg_offset": 387129074,
+ "tg_offset": 387129075,
  "channel": {
   "id": -1003986639147,
   "title": "GTA 6 | Горячие новости",
@@ -15255,7 +15347,8 @@
   "2026-11-23T19:12:46.915605+00:00",
   "2026-11-23T20:15:05.440958+00:00",
   "2026-11-23T21:15:56.693001+00:00",
-  "2026-11-24T06:02:05.423698+00:00"
+  "2026-11-24T06:02:05.423698+00:00",
+  "2026-11-24T07:03:01.494680+00:00"
  ],
  "slots_sent": {
   "2026-11-22:guide:1": "2026-11-22T08:01:32.386719+00:00",
@@ -15446,6 +15539,36 @@
    "file_id": "BAACAgIAAxkDAAN3awSuOZnqKonMbsczcrbUcj4n5zcAAvW0AAKTDSlIq7YSMWTv1Gc9BA",
    "moderation": "pending",
    "draft_msg_id": 119
+  },
+  {
+   "clip": {
+    "source": "twitch",
+    "url": "https://www.twitch.tv/tminnzy/clip/RudeBlueStapleResidentSleeper-hN6aHqGrcSgwB2Dl",
+    "title": "bro",
+    "author": "Tminnzy",
+    "views": 28913,
+    "duration": 30.0,
+    "created": "2026-11-23T15:01:45+00:00",
+    "lang": "en",
+    "description": "",
+    "vod_id": "2935827889",
+    "vod_offset": 35080.0
+   },
+   "caption": "«Я максимально сфокусирован на миссии» — и через секунду Джейсон летит за борт самолёта. Лютый скилл ишью 💀",
+   "interest": 7,
+   "spoiler": false,
+   "nsfw": false,
+   "watched": true,
+   "model": "gemini:gemini-4-hydrogen",
+   "media": {
+    "width": null,
+    "height": 720,
+    "duration": 30
+   },
+   "queued_at": "2026-11-24T07:09:50.261713+00:00",
+   "file_id": "BAACAgIAAxkDAAN6awU4P15j1xszYNnJIHFGRVR9C9UAAqCpAAKTDTFI2D8iYpYG-II9BA",
+   "moderation": "pending",
+   "draft_msg_id": 122
   }
  ],
  "clip_drafts": [
@@ -15466,7 +15589,8 @@
   "2026-11-23T11:31:47.510995+00:00",
   "2026-11-23T13:00:09.458629+00:00",
   "2026-11-23T20:17:12.002269+00:00",
-  "2026-11-23T21:20:57.697562+00:00"
+  "2026-11-23T21:20:57.697562+00:00",
+  "2026-11-24T07:09:52.275827+00:00"
  ],
  "clip_history": [
   {
@@ -21429,6 +21553,257 @@
    "ts": "2026-11-23T21:20:57.697579+00:00",
    "frames": [],
    "caption": "Имба: Джейсон и Лусия обнимаются перед ограблением — чисто романтик-вайб посреди криминала 💀"
+  },
+  {
+   "author": "youtube:mrduarte xd",
+   "vod": "",
+   "offset": -1,
+   "title": "¡CUANDO JUEGAS GTA 6! #minecraft #shorts #minecraftshorts",
+   "drafted": false,
+   "ts": "2026-11-24T07:00:16.769727+00:00"
+  },
+  {
+   "author": "youtube:gta2025",
+   "vod": "",
+   "offset": -1,
+   "title": "si el personaje come demasiado en #gta6",
+   "drafted": false,
+   "ts": "2026-11-24T07:00:17.728332+00:00"
+  },
+  {
+   "author": "youtube:stuntfart",
+   "vod": "",
+   "offset": -1,
+   "title": "Tree climbing in GTA 6",
+   "drafted": false,
+   "ts": "2026-11-24T07:00:18.484839+00:00"
+  },
+  {
+   "author": "youtube:theburntpeanut",
+   "vod": "",
+   "offset": -1,
+   "title": "🔴LIVE | GTA 6 | DAY 5 | DIMENSIONAL RIFTS, DEMONS, SECRET MISSIONS | #BUNGULATE",
+   "drafted": false,
+   "ts": "2026-11-24T07:00:19.349161+00:00"
+  },
+  {
+   "author": "youtube:e agora?",
+   "vod": "",
+   "offset": -1,
+   "title": "Ela destruiu o PS5 por ciúmes do GTA 6 e o pior aconteceu... #shorts #gta #arthur",
+   "drafted": false,
+   "ts": "2026-11-24T07:01:10.422519+00:00"
+  },
+  {
+   "author": "youtube:yerrikillerxd",
+   "vod": "",
+   "offset": -1,
+   "title": "Tu Padre Va al TACÓN del GTA 6👠🔥#comedia",
+   "drafted": false,
+   "ts": "2026-11-24T07:01:11.237241+00:00"
+  },
+  {
+   "author": "youtube:iboclips",
+   "vod": "",
+   "offset": -1,
+   "title": "Jynxzi Reacts to NickEh30 Getting Out of Character in GTA 6! 😭💀",
+   "drafted": false,
+   "ts": "2026-11-24T07:01:12.101641+00:00"
+  },
+  {
+   "author": "youtube:marcade",
+   "vod": "",
+   "offset": -1,
+   "title": "Wanita Tercantik di GTA 6 Ternyata.... #shorts",
+   "drafted": false,
+   "ts": "2026-11-24T07:01:12.934147+00:00"
+  },
+  {
+   "author": "youtube:местар",
+   "vod": "",
+   "offset": -1,
+   "title": "😱 НЕ Заканчивай 3 Главу в GTA 6, Пока Не Заберёшь Это!",
+   "drafted": false,
+   "ts": "2026-11-24T07:02:03.913898+00:00"
+  },
+  {
+   "author": "youtube:brendan delaney",
+   "vod": "",
+   "offset": -1,
+   "title": "Can You Survive Jason Duval’s Diet? #gta #gta6 #gtavi",
+   "drafted": false,
+   "ts": "2026-11-24T07:02:04.775622+00:00"
+  },
+  {
+   "author": "youtube:tom the explorer",
+   "vod": "",
+   "offset": -1,
+   "title": "POV Everyone went off to play GTA 6 | Steal an Egg #stealanegg",
+   "drafted": false,
+   "ts": "2026-11-24T07:02:05.617520+00:00"
+  },
+  {
+   "author": "youtube:xgtaharry",
+   "vod": "",
+   "offset": -1,
+   "title": "Nobody Knows You Can Do THIS to ATMs in GTA 6",
+   "drafted": false,
+   "ts": "2026-11-24T07:02:06.460219+00:00"
+  },
+  {
+   "author": "youtube:flayhq",
+   "vod": "",
+   "offset": -1,
+   "title": "How to Get the Bugatti for FREE in GTA 6!",
+   "drafted": false,
+   "ts": "2026-11-24T07:03:01.541677+00:00"
+  },
+  {
+   "author": "youtube:riru",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 😂",
+   "drafted": false,
+   "ts": "2026-11-24T07:03:02.288707+00:00"
+  },
+  {
+   "author": "youtube:murilocz",
+   "vod": "",
+   "offset": -1,
+   "title": "NÃO COMETA ERROS NESSA MISSÃO! #games #jogos #gaming #gta #gta6 #rockstargames #rockstar #gta5 #gtav",
+   "drafted": false,
+   "ts": "2026-11-24T07:03:03.319371+00:00"
+  },
+  {
+   "author": "youtube:studio ci",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 Exagerou Demais?",
+   "drafted": false,
+   "ts": "2026-11-24T07:03:04.065605+00:00"
+  },
+  {
+   "author": "youtube:vrythox",
+   "vod": "",
+   "offset": -1,
+   "title": "gta 6 gameplay details on PlayStation 5 #shorts #gta6 #gaming",
+   "drafted": false,
+   "ts": "2026-11-24T07:03:55.000403+00:00"
+  },
+  {
+   "author": "youtube:kinay",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA6'DA HIZLI BİR ARABAYLA BİR YERE ÇARPARSAK? #shorts #gta6 #GTAVI #GamingWithYouTube #gaming",
+   "drafted": false,
+   "ts": "2026-11-24T07:03:55.851360+00:00"
+  },
+  {
+   "author": "youtube:bharat ek vichaar",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 Is Going to Be SLOWER Than You Think 😳 #gta6 #mythpat #shorts",
+   "drafted": false,
+   "ts": "2026-11-24T07:03:56.738864+00:00"
+  },
+  {
+   "author": "youtube:schlayer",
+   "vod": "",
+   "offset": -1,
+   "title": "Steal Every ATM in GTA 6 Using This Truck! 💵 #gta6 #glitch",
+   "drafted": false,
+   "ts": "2026-11-24T07:03:57.610457+00:00"
+  },
+  {
+   "author": "youtube:gta2025",
+   "vod": "",
+   "offset": -1,
+   "title": "si caemos sobre el cableado electrico en #gta6",
+   "drafted": false,
+   "ts": "2026-11-24T07:06:42.236759+00:00"
+  },
+  {
+   "author": "youtube:kuldeep singhania shorts",
+   "vod": "",
+   "offset": -1,
+   "title": "When you Finally take a Break from GTA 6 💀💔 | Kuldeep Singhaniaa #shorts #gta6",
+   "drafted": false,
+   "ts": "2026-11-24T07:06:43.095955+00:00"
+  },
+  {
+   "author": "youtube:spinfactz",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 Chores Over Real Life Chores 😂🎮",
+   "drafted": false,
+   "ts": "2026-11-24T07:06:44.015473+00:00"
+  },
+  {
+   "author": "youtube:quill x gaming",
+   "vod": "",
+   "offset": -1,
+   "title": "BIKE KICK-START LOGIC: GTA 6 vs. GTA 5 vs. GTA 4! #gta #gta6 #gta5 #gaming #gtavi #gtav #shorts",
+   "drafted": false,
+   "ts": "2026-11-24T07:06:44.877200+00:00"
+  },
+  {
+   "author": "youtube:cris kenji",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 Trailer vs Jogo 😂",
+   "drafted": false,
+   "ts": "2026-11-24T07:07:36.127492+00:00"
+  },
+  {
+   "author": "youtube:jorraptor",
+   "vod": "",
+   "offset": -1,
+   "title": "First GTA 6 Update Out Now... (Grand Theft Auto 6 Update)",
+   "drafted": false,
+   "ts": "2026-11-24T07:07:36.928290+00:00"
+  },
+  {
+   "author": "youtube:kishormagic1998",
+   "vod": "",
+   "offset": -1,
+   "title": "Zoo (From \"Zootopia 2\") | VICE CITY | GTA 6 GAMEPLAY#shorts #viral",
+   "drafted": false,
+   "ts": "2026-11-24T07:07:37.796717+00:00"
+  },
+  {
+   "author": "youtube:snax gaming",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 FINAL DAY :THE VICE CITY TAKEOVER",
+   "drafted": false,
+   "ts": "2026-11-24T07:07:38.641412+00:00"
+  },
+  {
+   "author": "youtube:vishhh vlogs",
+   "vod": "",
+   "offset": -1,
+   "title": "Boys Buying GTA VI😂 #gta6 #gta6shorts #gamingshorts #gta6trailer #gamer #ytshorts #shorts",
+   "drafted": false,
+   "ts": "2026-11-24T07:08:29.890278+00:00"
+  },
+  {
+   "author": "twitch:tminnzy",
+   "vod": "2935827889",
+   "offset": 35080.0,
+   "title": "bro",
+   "drafted": false,
+   "ts": "2026-11-24T07:08:30.872541+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:tminnzy",
+   "vod": "2935827889",
+   "offset": 35080.0,
+   "title": "bro",
+   "drafted": true,
+   "ts": "2026-11-24T07:09:52.275845+00:00",
+   "frames": [],
+   "caption": "«Я максимально сфокусирован на миссии» — и через секунду Джейсон летит за борт самолёта. Лютый скилл ишью 💀"
   }
  ],
  "published": [
