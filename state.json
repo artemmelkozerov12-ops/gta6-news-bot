@@ -3543,7 +3543,34 @@
   "66d8c9c4f2a172d1": "2026-11-24T12:20:17.031392+00:00",
   "cdeee89a8402437f": "2026-11-24T12:20:18.623903+00:00",
   "b66d1060b65d4800": "2026-11-24T12:20:28.543026+00:00",
-  "7d61944f83816f1a": "2026-11-24T12:20:43.095898+00:00"
+  "7d61944f83816f1a": "2026-11-24T12:20:43.095898+00:00",
+  "5d263f8e0f3e1f9e": "2026-11-24T12:37:30.545945+00:00",
+  "5b7d92078136d800": "2026-11-24T12:39:08.493117+00:00",
+  "73d40507b084ea79": "2026-11-24T12:39:09.245315+00:00",
+  "748d14a681f53317": "2026-11-24T12:39:10.245645+00:00",
+  "b562e258b382e157": "2026-11-24T12:39:11.192307+00:00",
+  "00e7b720a77d74fa": "2026-11-24T12:40:02.219299+00:00",
+  "1cda4f67ea46889a": "2026-11-24T12:40:03.099950+00:00",
+  "754b99b3cc44b975": "2026-11-24T12:40:03.949950+00:00",
+  "27eab82daace481c": "2026-11-24T12:40:04.675282+00:00",
+  "f501994b5b1edd28": "2026-11-24T12:40:55.266484+00:00",
+  "fd2e56696728c3f4": "2026-11-24T12:40:55.883115+00:00",
+  "af05556701d27c1f": "2026-11-24T12:40:56.482338+00:00",
+  "8652d40c46434e9b": "2026-11-24T12:40:56.999445+00:00",
+  "eac0110a4eae01eb": "2026-11-24T12:41:47.661901+00:00",
+  "794ab2e6951955b5": "2026-11-24T12:41:48.088073+00:00",
+  "8d0501982a551214": "2026-11-24T12:41:48.485892+00:00",
+  "30ca798ab3a56401": "2026-11-24T12:41:48.916630+00:00",
+  "bc03cfba517ae276": "2026-11-24T12:42:39.414608+00:00",
+  "b83027d58557da4d": "2026-11-24T12:42:39.859522+00:00",
+  "67c7b5c6f253e254": "2026-11-24T12:42:40.259276+00:00",
+  "53f1d47deb710bf5": "2026-11-24T12:42:40.837039+00:00",
+  "5f9713a0847b7f5d": "2026-11-24T12:43:31.403220+00:00",
+  "c0b0b86f8b01a8c0": "2026-11-24T12:43:31.911674+00:00",
+  "9022e069142bbf6b": "2026-11-24T12:43:32.676081+00:00",
+  "165e5657bda67fa0": "2026-11-24T12:43:33.018751+00:00",
+  "002a736a08079628": "2026-11-24T12:44:23.653814+00:00",
+  "a43b7e97dbe239c9": "2026-11-24T12:44:24.039304+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -5971,7 +5998,8 @@
   "d04dbe45fbd2ac01": "2026-11-24T12:20:17.031392+00:00",
   "cc0857c580180f20": "2026-11-24T12:20:18.623903+00:00",
   "46189483d395393e": "2026-11-24T12:20:28.543026+00:00",
-  "d659d185a3d29b8d": "2026-11-24T12:20:43.095898+00:00"
+  "d659d185a3d29b8d": "2026-11-24T12:20:43.095898+00:00",
+  "cd8a94111d265d3b": "2026-11-24T12:37:30.545945+00:00"
  },
  "recent": [
   {
@@ -14522,7 +14550,7 @@
    "title": "Автор проекта Leonida по портированию GTA 6 на ПК покинул разработку, испугавшись юридических претензий со стороны издателя",
    "source": "Google News (RU)",
    "trust": "rumor",
-   "status": "queued",
+   "status": "published",
    "ts": "2026-11-24T07:36:52.993506+00:00",
    "card_title": "ПОРТ НА ПК ВСЁ"
   },
@@ -14826,7 +14854,7 @@
    "title": "The Australian and New Zealand Version of GTA 6 Really Is Censored After All",
    "source": "GTA BOOM",
    "trust": "medium",
-   "status": "queued",
+   "status": "published",
    "ts": "2026-11-24T09:41:52.601891+00:00",
    "card_title": "ЦЕНЗУРА В GTA 6"
   },
@@ -15194,7 +15222,7 @@
    "title": "От радиофака до создания GTA VI — россиянин помог создать хит Rockstar Games",
    "source": "iXBT.games",
    "trust": "medium",
-   "status": "queued",
+   "status": "rejected",
    "ts": "2026-11-24T11:27:45.104132+00:00",
    "card_title": "НАШ ЧЕЛ В ROCKSTAR"
   },
@@ -15404,6 +15432,14 @@
    "trust": "rumor",
    "status": "skipped",
    "ts": "2026-11-24T12:20:43.096029+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Is Bigger Than Taylor Swift, Analysts Say",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-24T12:37:30.545986+00:00",
    "card_title": ""
   }
  ],
@@ -15699,97 +15735,6 @@
     "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
    },
    "queued_at": "2026-11-24T04:58:51.952036+00:00"
-  },
-  {
-   "item": {
-    "title": "The Australian and New Zealand Version of GTA 6 Really Is Censored After All",
-    "link": "https://www.gtaboom.com/the-australian-and-new-zealand-version-of-gta-6-really-is-censored-after-all-f418",
-    "summary": "The Australian and New Zealand version of Grand Theft Auto VI dropped one of the game's small mechanics.",
-    "published": "2026-11-24T09:25:03+00:00",
-    "source": "GTA BOOM",
-    "site_name": "GTA BOOM",
-    "trust": "medium",
-    "text": "The Australian and New Zealand version of Grand Theft Auto VI dropped one of the game's small mechanics. Players there cannot skim cocaine from the bricks in their inventory to make baggies, carry them around and consume them for a stamina boost. The option the rest of the world has is simply gone from the AU and NZ build.\nThe loss is minor on its own. A baggie buff is one of many ways to top up stamina in GTA 6, so players in Australia or New Zealand won't miss much especially when they don't know that it's an actual feature. Despite this, the missing mechanic surfaced fast as soon as the game went live on November 19.\nRunning multiple playthroughs across the world, we personally tested it as soon as the game opened and we got our hands on a cocaine brick. Unfortunately, some of us playing in New Zealand mentioned that the skim option was absent. True enough, players on the r/GTA6 subreddit running the AU build and modder and dataminer Lance McDonald confirmed the baggies and the whole skimming feature are stripped from the regional release.\nTo be fair, the signs were there before launch. The AU and NZ preload files ran about 700 KB smaller than the US version, missing a specific PlayGo data chunk, core_restofworld001, tied to story and minigame elements.\nInterestingly enough, the Australian Classification Board handed the submitted build an R 18+ without asking for a single cut, consistent with Rockstar Games having removed the mechanic before submission. Back in September the X 18+ label slapped on Australia's listing looked almost certainly like a mistake, since that rating does not exist for games. The real question was whether the final call would be R 18+ or MA 15+.\nNone of this is a surprise for a region that polices drug incentives harder than most. Australia has knocked back games before over rewards tied to illicit drug use, so a stamina boost you earn by cutting cocaine was always going to be a risk. The cocaine use flagged in the pulled PEGI listing was one of the first hard signs of how far GTA 6 would push its drug content and it was later confirmed.\nSimilar regional edits also showed up in Japan, where the build censored showers, nudity and blood in ways the West never saw.\nThe AU and NZ cut slots into a launch defined by regional difference. South Korea came within an inch of banning the game over nudity and tte real ban map turned out far smaller than the panic suggested. The game still shipped to massive critical acclaim and nominations ",
-    "extra": {
-     "image": "https://media.gtaboom.com/variants/1920/media/images/43/c6/the-australian-and-new-zealand-version-of-gta-6-really-is-censored-after-all-1.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "🇦🇺 В Австралии ВЫРЕЗАЛИ кокаин из GTA 6\n\nВ версии для Австралии и Новой Зеландии нельзя отсыпать стафф из брикетов ради баффа выносливости. Rockstar заранее подрезала механику, чтобы пройти местную душную цензуру. Весь остальной мир спокойно юзает буст, а австралийцы сидят в тильте. Рил кринж.\n\n❤️ — Цензура это бред\n👎 — Пофиг, баффаемся пивом",
-    "card_title": "ЦЕНЗУРА В GTA 6",
-    "reason": "Официально подтвержденная региональная цензура механики в игре.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.1-flash-lite → gemini:gemini-3.5-flash"
-   },
-   "queued_at": "2026-11-24T09:41:52.601880+00:00",
-   "moderation": "pending",
-   "draft_msg_id": 127
-  },
-  {
-   "item": {
-    "title": "От радиофака до создания GTA VI — россиянин помог создать хит Rockstar Games",
-    "link": "https://ixbt.games/news/2026/11/24/ot-radiofaka-do-sozdaniia-gta-vi-rossiianin-pomog-sozdat-xit-rockstar-games.html",
-    "summary": "К созданию Grand Theft Auto VI привлекли разнообразных специалистов.",
-    "published": "2026-11-24T10:57:00+00:00",
-    "source": "iXBT.games",
-    "site_name": "iXBT.games",
-    "trust": "medium",
-    "text": "К созданию Grand Theft Auto VI привлекли разнообразных специалистов.\nНедавно состоялся релиз Grand Theft Auto VI и спало действие NDA (соглашения о неразглашении). Rockstar Games опубликовала титры, где перечислили разработчиков и актёров, которые участвовали в работе над проектом.\nКак оказалось, Grand Theft Auto VI помог создать россиянин. На портале E1 рассказали историю уральского геймера — «разработчиком самой хайповой игры в мире оказался парень из Екатеринбурга».\nДмитрий Шамриков учился на радиофаке в УПИ: «начинал ещё до того, как и универ, и факультет переименовали». Сначала он работал в местной компании Targem Games, а впоследствии у него появилась возможность переехать в другую страну. Однажды его заметили в Rockstar и предложили сотрудничать:\nЭто была интересная работа, я [в Targem Games] многому научился, знаю людей, кто работает там уже около 20 лет. Уже к тому времени я понимал, что буду продолжать карьеру не в России. К 2019 году появилась возможность переехать в Сербию, так как получил предложение от Ubisoft. Через несколько лет меня позвали в Rockstar, и я перебрался в Эдинбург».\nРодителей Дмитрия в карьерном росте больше всего впечатлила зарплата: «Родители больше зарплатой впечатлены. Хотя мой отец играл в „ГТА Сан-Андреас“ давно».\nПо словам разработчика, в работе над Grand Theft Auto VI задействовали тысячи специалистов, каждый из которых закрывает свой узкий набор задач. Во время работы над игрой Дмитрий «старался держаться подальше от основных сюжетных миссий, чтобы избежать спойлеров».\nСейчас в сети ведутся споры по поводу механик GTA VI — некоторые называют главного героя «подкаблучником». Дмитрий высказал мнение, что подготовиться к приезду девушки — это нормально:\nЯ думаю, что прибрать свой дом, заказать цветы или подстричься перед приездом девушки — это нормально. Стоит задуматься, почему для кого-то это стало такой большой проблемой. Мне кажется, хейтеры хватаются за мельчайшие детали просто для того, чтобы хайпануть на чём-то популярном\nНе пропускайте наши новостиДобавьте сайт в предпочитаемые источники, чтобы видеть нас чащеДобавить в Google",
-    "extra": {
-     "image": "https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1745850/media-22c82e873cf29e556fc45ca8b3cdedfa7aff1f33e2464f45561daca35c57f9ec.png"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "🇷🇺 Разработчик из Екатеринбурга делал GTA 6\n\nСпало NDA, и в титрах игры нашли Дмитрия Шамрикова — парня из Урала, который через Targem и Ubisoft пробился в студию Rockstar в Эдинбурге. Чел признался, что сам старался не трогать сюжетки, чтобы избегать спойлеров перед релизом.\n\nЗаодно раздал базы диванным хейтерам, которые визжат про «подкаблучника» Джейсона: прибрать хату и купить цветы девушке — это норма, а токсики просто пытаются захайпить на популярной катки. Сочно ответил, согласны?\n\n❤️ — База, респект уральцу!\n👎 — Кринж, сюжетку слили...",
-    "card_title": "НАШ ЧЕЛ В ROCKSTAR",
-    "reason": "Интересная человеческая история из титров, подтвержденная фактом релиза и NDA. Не слух, так как это факт о сотруднике, а не прогноз.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "groq:qwen/qwen3.8-27b → gemini:gemini-3.5-flash"
-   },
-   "queued_at": "2026-11-24T11:27:45.104122+00:00",
-   "moderation": "pending",
-   "draft_msg_id": 131
-  },
-  {
-   "item": {
-    "title": "Автор проекта Leonida по портированию GTA 6 на ПК покинул разработку, испугавшись юридических претензий со стороны издателя",
-    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOcUtJa0lhQ3Z6aS01bWI3QUUxdXltX05mQl9yT2YyTzlYalA5OGU4LXFTejFGanlNX19wa2MxVENoTDdlNU5PQUhEMjNWejJ3R2tWNFB2em9jQjZsZmNCTzc4eFNJT3I4eE5XeFVMNm14SnpmRHZiY2VTdWpPeTAyZzItVHVTS0dTZkxROXRwMk82Xy01Tm1pUHJwbjFubEZ1THVKNmMzX1RLLWg0LWExSlN0RHd0Tnp6SmdhR2U2OWt1Qlhsel9BVkJNZV94aEhIaXZvY2JnWGV4bFc1bjViQ2plR1BiRkM0?oc=5",
-    "summary": "Автор проекта Leonida по портированию GTA 6 на ПК покинул разработку, испугавшись юридических претензий со стороны издателя GoHa.Ru",
-    "published": "2026-11-24T07:28:07+00:00",
-    "source": "Google News (RU)",
-    "site_name": "GoHa.Ru",
-    "trust": "rumor",
-    "text": "Автор проекта Leonida по портированию GTA 6 на ПК покинул разработку, испугавшись юридических претензий со стороны издателя GoHa.Ru",
-    "extra": {}
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "⚡️ АВТОР ПК-ПОРТА СВАЛИЛ\n\nСоздатель фанатского проекта Leonida по переносу GTA 6 на ПК покинул команду. Чел банально испугался юристов Rockstar и Take-Two, которые уже начали зачищать интернет от сливов.\n\nЗато без судов и тильта.\n\n❤️ — Понимаем, юристы Т2 страшнее любого босса\n👎 — Эх, а счастье было так близко",
-    "card_title": "ПОРТ НА ПК ВСЁ",
-    "reason": "Новость о закрытии фанатского порта GTA 6 на ПК подтверждена крупными СМИ и действиями юристов Take-Two.",
-    "duplicate": false,
-    "corroborated": true,
-    "duplicate_of": "Rockstar удалила GitHub-репозиторий, Discord-канал и Kick-канал порта GTA VI",
-    "corroborated_by": "GTA VI запустили на ПК без помощи Rockstar и главная команда потеряла своего создателя",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-3.5-flash"
-   },
-   "queued_at": "2026-11-24T07:36:52.993495+00:00",
-   "moderation": "pending",
-   "draft_msg_id": 129
   }
  ],
  "posts": [
@@ -15827,9 +15772,11 @@
   "2026-11-24T06:53:33.099748+00:00",
   "2026-11-24T08:05:18.622992+00:00",
   "2026-11-24T08:20:55.237297+00:00",
-  "2026-11-24T08:36:19.330104+00:00"
+  "2026-11-24T08:36:19.330104+00:00",
+  "2026-11-24T12:31:54.928944+00:00",
+  "2026-11-24T12:47:46.729770+00:00"
  ],
- "tg_offset": 387129079,
+ "tg_offset": 387129082,
  "channel": {
   "id": -1003986639147,
   "title": "GTA 6 | Горячие новости",
@@ -22573,6 +22520,234 @@
    "ts": "2026-11-24T11:38:40.245772+00:00",
    "frames": [],
    "caption": "Главное, что упаковка пива в кузове Vapid на месте 🍺 Мелочи и физика предметов — просто база"
+  },
+  {
+   "author": "youtube:santy con y",
+   "vod": "",
+   "offset": -1,
+   "title": "GANE GTA 6 Y SE LO DIERON A OTRO",
+   "drafted": false,
+   "ts": "2026-11-24T12:39:08.493162+00:00"
+  },
+  {
+   "author": "youtube:peter",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 is SCHOOL HOMEWORK?! 😂",
+   "drafted": false,
+   "ts": "2026-11-24T12:39:09.245355+00:00"
+  },
+  {
+   "author": "youtube:shorts from brazuka",
+   "vod": "",
+   "offset": -1,
+   "title": "Ele parou a gameplay só pra falar isso JOGO: GTA 6 #alanzoka",
+   "drafted": false,
+   "ts": "2026-11-24T12:39:10.245691+00:00"
+  },
+  {
+   "author": "youtube:shreyas mendiratta",
+   "vod": "",
+   "offset": -1,
+   "title": "Everything Happened Before GTA 6…",
+   "drafted": false,
+   "ts": "2026-11-24T12:39:11.192348+00:00"
+  },
+  {
+   "author": "youtube:gourav slayz",
+   "vod": "",
+   "offset": -1,
+   "title": "I Asked A Kid To Play GTA 6 With Me!😱",
+   "drafted": false,
+   "ts": "2026-11-24T12:40:02.219338+00:00"
+  },
+  {
+   "author": "youtube:suraj vlogumentary",
+   "vod": "",
+   "offset": -1,
+   "title": "😱 GTA 6 Gameplay Experience PS5  Marshall Speaker Pe Sound Test |  Worth It Hai #minivlog #shorts",
+   "drafted": false,
+   "ts": "2026-11-24T12:40:03.100001+00:00"
+  },
+  {
+   "author": "twitch:jerma985",
+   "vod": "2938334131",
+   "offset": 5550.0,
+   "title": "Run Over?",
+   "drafted": false,
+   "ts": "2026-11-24T12:40:03.949995+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:theburntpeanut",
+   "vod": "2938886234",
+   "offset": 11571.0,
+   "title": "That's a whole lot of ASS!!!!",
+   "drafted": false,
+   "ts": "2026-11-24T12:40:04.675321+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:frametamer666",
+   "vod": "2936786153",
+   "offset": 172472.0,
+   "title": "жулька",
+   "drafted": false,
+   "ts": "2026-11-24T12:40:55.266529+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:illojuan",
+   "vod": "2938510132",
+   "offset": 6867.0,
+   "title": "ovni",
+   "drafted": false,
+   "ts": "2026-11-24T12:40:55.883161+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:chloeyummyyy",
+   "vod": "2938227714",
+   "offset": 14902.0,
+   "title": "Chloeyummyyy 0 The Chair +1",
+   "drafted": false,
+   "ts": "2026-11-24T12:40:56.482392+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:djmariio",
+   "vod": "2932168999",
+   "offset": 35589.0,
+   "title": "WOW",
+   "drafted": false,
+   "ts": "2026-11-24T12:40:56.999491+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:missmikkaa",
+   "vod": "2938373303",
+   "offset": 10903.0,
+   "title": "Snack time!",
+   "drafted": false,
+   "ts": "2026-11-24T12:41:47.661947+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:leb1ga",
+   "vod": "2938347376",
+   "offset": 24613.0,
+   "title": "криси мусорскі вонючі",
+   "drafted": false,
+   "ts": "2026-11-24T12:41:48.088129+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:bratishkinoff",
+   "vod": "2938328156",
+   "offset": 20220.0,
+   "title": "воришка",
+   "drafted": false,
+   "ts": "2026-11-24T12:41:48.485938+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:dahlia",
+   "vod": "2938462320",
+   "offset": 15071.0,
+   "title": "Crazy Drivers",
+   "drafted": false,
+   "ts": "2026-11-24T12:41:48.916675+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:quin69",
+   "vod": "2938394862",
+   "offset": 13569.0,
+   "title": "it worked better in my head",
+   "drafted": false,
+   "ts": "2026-11-24T12:42:39.414663+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:alanzoka",
+   "vod": "2938467977",
+   "offset": 15851.0,
+   "title": "jason, ta deitado por que pô",
+   "drafted": false,
+   "ts": "2026-11-24T12:42:39.859573+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:oskarwesterlin",
+   "vod": "2938487828",
+   "offset": 3287.0,
+   "title": "ook",
+   "drafted": false,
+   "ts": "2026-11-24T12:42:40.259324+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:meshael_mr",
+   "vod": "",
+   "offset": -1,
+   "title": "على أذنها",
+   "drafted": false,
+   "ts": "2026-11-24T12:42:40.837090+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:montanablack88",
+   "vod": "2938201590",
+   "offset": 18475.0,
+   "title": "Schradin & Zarbex am Start",
+   "drafted": false,
+   "ts": "2026-11-24T12:43:31.403279+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:welovegames",
+   "vod": "2938354240",
+   "offset": 10795.0,
+   "title": "Люсия наехала на Джейсона",
+   "drafted": false,
+   "ts": "2026-11-24T12:43:31.911734+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:aryssa614",
+   "vod": "2938311963",
+   "offset": 12149.0,
+   "title": "typical man",
+   "drafted": false,
+   "ts": "2026-11-24T12:43:32.676131+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:西南69",
+   "vod": "2938233418",
+   "offset": 16223.0,
+   "title": "我超大的",
+   "drafted": false,
+   "ts": "2026-11-24T12:43:33.018798+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:domingo",
+   "vod": "2938284759",
+   "offset": 6085.0,
+   "title": "DAB",
+   "drafted": false,
+   "ts": "2026-11-24T12:44:23.653860+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:nickeh30",
+   "vod": "2938347685",
+   "offset": 2458.0,
+   "title": "nick is going insane bro",
+   "drafted": false,
+   "ts": "2026-11-24T12:44:24.039349+00:00",
+   "frames": []
   }
  ],
  "published": [
@@ -22932,6 +23107,20 @@
    "title": "Имба: Джейсон и Лусия обнимаются перед ограблением — чисто романтик-вайб посреди криминал…",
    "importance": 7,
    "kind": "video"
+  },
+  {
+   "ts": "2026-11-24T12:31:54.928957+00:00",
+   "msg_id": 81,
+   "title": "В Австралии ВЫРЕЗАЛИ кокаин из GTA 6",
+   "importance": 7,
+   "kind": "confirmed"
+  },
+  {
+   "ts": "2026-11-24T12:47:46.729784+00:00",
+   "msg_id": 82,
+   "title": "АВТОР ПК-ПОРТА СВАЛИЛ",
+   "importance": 7,
+   "kind": "confirmed"
   }
  ],
  "extras": [],
