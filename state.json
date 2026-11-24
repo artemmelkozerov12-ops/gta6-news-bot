@@ -3365,7 +3365,53 @@
   "bd998fea6d583342": "2026-11-24T07:36:54.376925+00:00",
   "de110d75f3d2ba5f": "2026-11-24T07:36:55.546628+00:00",
   "2e532e27a30f045d": "2026-11-24T07:36:57.436523+00:00",
-  "ea48ebb0a6f00d55": "2026-11-24T07:37:11.064101+00:00"
+  "ea48ebb0a6f00d55": "2026-11-24T07:37:11.064101+00:00",
+  "9703fa6dbe565ebf": "2026-11-24T07:52:30.213381+00:00",
+  "7f6f033b4a43adc5": "2026-11-24T07:52:31.664418+00:00",
+  "9a36fbc4454b3ef8": "2026-11-24T07:52:36.826187+00:00",
+  "bbf100254eb58158": "2026-11-24T07:52:57.319636+00:00",
+  "68ad41d1696e33bb": "2026-11-24T07:52:57.932376+00:00",
+  "f5530cd2a8fdbf37": "2026-11-24T07:53:05.717334+00:00",
+  "97560a3a0065ef19": "2026-11-24T08:09:02.902746+00:00",
+  "39ae32beaf2b5b54": "2026-11-24T08:09:19.556650+00:00",
+  "257f80d956db4755": "2026-11-24T08:10:57.587497+00:00",
+  "07fc8c455b06a467": "2026-11-24T08:11:08.960063+00:00",
+  "20e08de5985439f7": "2026-11-24T08:12:21.127692+00:00",
+  "f5bfcc225ac2066f": "2026-11-24T08:12:22.060678+00:00",
+  "fe8aa693b0f767de": "2026-11-24T08:12:26.979301+00:00",
+  "4c91da366fc289a4": "2026-11-24T08:12:52.887763+00:00",
+  "07caef39543df652": "2026-11-24T08:12:56.459061+00:00",
+  "3eed1b399ff6a839": "2026-11-24T08:12:57.417798+00:00",
+  "0c8e371f59c2eb48": "2026-11-24T08:12:58.221540+00:00",
+  "91ffb82c70e30408": "2026-11-24T08:12:59.128633+00:00",
+  "3763d41c5dac3918": "2026-11-24T08:13:50.297404+00:00",
+  "431ff3913c526a21": "2026-11-24T08:14:44.892469+00:00",
+  "af316de45ea6b549": "2026-11-24T08:14:45.683609+00:00",
+  "122bde8a7252e4e3": "2026-11-24T08:14:56.550690+00:00",
+  "21b16face32b6cc8": "2026-11-24T08:16:05.065516+00:00",
+  "bc7f787a84c3e8a6": "2026-11-24T08:16:06.100207+00:00",
+  "a1471f17ad69b85f": "2026-11-24T08:16:06.974337+00:00",
+  "050e5902148062c2": "2026-11-24T08:16:07.883377+00:00",
+  "76c13dde297c5ac2": "2026-11-24T08:17:11.111114+00:00",
+  "47626f199f91558d": "2026-11-24T08:17:12.091815+00:00",
+  "befe147eb69751e5": "2026-11-24T08:17:12.952288+00:00",
+  "c2af8e447f62537b": "2026-11-24T08:17:13.768761+00:00",
+  "59cd172c0ad0499a": "2026-11-24T08:18:23.183900+00:00",
+  "a6451d6270594fd2": "2026-11-24T08:18:24.204501+00:00",
+  "faf2811ebabf96fe": "2026-11-24T08:18:25.656560+00:00",
+  "7ef890ce7d0dbca7": "2026-11-24T08:18:26.637931+00:00",
+  "f8ce5f2a93bf146b": "2026-11-24T08:19:21.979958+00:00",
+  "2d57841884279c5d": "2026-11-24T08:19:22.848309+00:00",
+  "52a4939d0b44cf6c": "2026-11-24T08:19:23.509726+00:00",
+  "b6901f0e08b9c9cd": "2026-11-24T08:19:28.380791+00:00",
+  "c2e66cfb54e024e9": "2026-11-24T08:20:27.798669+00:00",
+  "e0d0f98f0f8cd6b6": "2026-11-24T08:20:29.406407+00:00",
+  "ec27522c030d79d6": "2026-11-24T08:20:30.398367+00:00",
+  "6aece0fd13d17d93": "2026-11-24T08:20:41.697912+00:00",
+  "0b0a9b0121d39c19": "2026-11-24T08:21:45.507482+00:00",
+  "b58eed00c3a7c9c0": "2026-11-24T08:21:47.041705+00:00",
+  "68955ce9ee1f381f": "2026-11-24T08:21:47.833817+00:00",
+  "f92b3c103a22c12e": "2026-11-24T08:21:49.162569+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -5686,7 +5732,21 @@
   "f94f8787bd024cd0": "2026-11-24T07:36:54.376925+00:00",
   "a7fa68bb7fac29c1": "2026-11-24T07:36:55.546628+00:00",
   "720efe50822031b2": "2026-11-24T07:36:57.436523+00:00",
-  "b0bd9001aa50ddaa": "2026-11-24T07:37:11.064101+00:00"
+  "b0bd9001aa50ddaa": "2026-11-24T07:37:11.064101+00:00",
+  "342643be683d8a00": "2026-11-24T07:52:30.213381+00:00",
+  "990c7eed3fa68d8b": "2026-11-24T07:52:31.664418+00:00",
+  "0d689f1536b2cb2c": "2026-11-24T07:52:36.826187+00:00",
+  "7c7ea2c9e5ab4210": "2026-11-24T07:52:57.319636+00:00",
+  "f6ad87ff0703dd95": "2026-11-24T07:52:57.932376+00:00",
+  "4382520d196cedf3": "2026-11-24T07:53:05.717334+00:00",
+  "d675978e9273fa0c": "2026-11-24T08:09:02.902746+00:00",
+  "3931689a100dc8f8": "2026-11-24T08:09:19.556650+00:00",
+  "917f0550b7ba2455": "2026-11-24T08:10:57.587497+00:00",
+  "603aa6d561518592": "2026-11-24T08:11:08.960063+00:00",
+  "72989796bba1ea5a": "2026-11-24T08:12:21.127692+00:00",
+  "bf91726d1df4cf91": "2026-11-24T08:12:22.060678+00:00",
+  "105c7f7b745e30e1": "2026-11-24T08:12:26.979301+00:00",
+  "78bb2af395947313": "2026-11-24T08:12:52.887763+00:00"
  },
  "recent": [
   {
@@ -13869,7 +13929,7 @@
    "title": "GTA VI сожгла PS5 прямо во время стрима. Консоль не выдержала",
    "source": "iXBT.games",
    "trust": "medium",
-   "status": "queued",
+   "status": "published",
    "ts": "2026-11-24T04:59:17.576931+00:00",
    "card_title": "ГОРЯЧАЯ ПС5 ОТ GTA VI"
   },
@@ -13957,7 +14017,7 @@
    "title": "Call of Duty потеряла миллионы игроков из-за GTA VI. Fortnite тоже пострадала",
    "source": "iXBT.games",
    "trust": "medium",
-   "status": "queued",
+   "status": "published",
    "ts": "2026-11-24T06:01:53.144303+00:00",
    "card_title": "GTA 6 УБИЛА COD И FORTNITE"
   },
@@ -14272,6 +14332,118 @@
    "status": "skipped",
    "ts": "2026-11-24T07:37:11.064240+00:00",
    "card_title": ""
+  },
+  {
+   "title": "Отель в Красной Поляне ищет двойников героев GTA 6 и обещает им бар и приставку",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T07:52:30.213528+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6: погода была сломана, Rockstar исправила в новом патче",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T07:52:31.664554+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI hides a huge Easter Egg referencing GTA: Vice City",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T07:52:36.826318+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "«Самое нереалистичное в GTA 6 — отсутствие групп в Telegram»: шутка Павла Дурова понравилась Сети",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T07:52:57.319798+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "'GTA 6' Players Face PSN Ban After Sending Nude Screenshots From the Game—Here's the Punishment",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T07:52:57.932516+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 patch 01.002.002 fixes broken autosaves and story calls that never came",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T07:53:05.717487+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Exclusive: How Issa Lopez Gives GTA 6’s Cocoteo FM its Puerto Rican Radio Sound",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-24T08:09:02.902878+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "There's an unofficial PC version of GTA VI coming thanks to recompilation",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T08:09:19.556785+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Boss Gives Official Update On GTA 7",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T08:10:57.587614+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "‘We completely rewrote the vehicle simulation for every vehicle type so we could add more detail and realism’ — GTA 6 technical director explains how vital it was to understand different vehicle designs for ‘authenticity and believability’",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T08:11:08.960218+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Проект по портированию GTA VI на ПК закрылся — все ресурсы группы были удалены",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "error",
+   "ts": "2026-11-24T08:12:21.127796+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Мультиплеер GTA 6 может превзойти Fortnite и GTA Online по доходам",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T08:12:22.060808+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 запустили на ПК — уже доступно главное меню",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T08:12:26.979444+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "39 млн уникальных игроков и 683 млн часов — PlayStation поделилась статистикой запуска GTA VI",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T08:12:52.887898+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -14451,35 +14623,6 @@
   },
   {
    "item": {
-    "title": "GTA 6 PC version is close, modders say after Cyberleek releases executable: \"The game almost boots\"",
-    "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-pc-version-is-close-modders-say-after-cyberleek-releases-executable-the-game-almost-boots/",
-    "summary": "GTA 6 Xbox EXE triggers new wave of recompilation work",
-    "published": "2026-11-23T16:39:01+00:00",
-    "source": "GamesRadar+",
-    "site_name": "GamesRadar+",
-    "trust": "high",
-    "text": "An unofficial GTA 6 PC release is in sight. GTA 6 leaker Cyberleek has released the executable file for the Xbox build of the game, which was shared earlier this month, formally firing the starting shot on recompilation work that could soon see Rockstar's game running on PC.\nUsers flagged the November 23 release of the Xbox EXE online. \"The torch passes to the open source recomp and emulation projects. Before trusting any file, verify it,\" a message from Cyberleek reads.\nProject Leonida is at the forefront of those recompilation efforts, pushing for a native GTA 6 version based on the leaked Xbox build. One of Leonida's lead developers, Shayder, reacted to the executable leak on Twitter: \"CL has just dropped the exe, expect a lot of static recompilation work to be done soon.\"\nLeonida is currently available to access online, with its creators noting it \"does not contain the game, keys or an executable, and it does not explain how to get them. You need your own copy, with its files already readable on disk. Nothing here decrypts or works around any protection.\" You'll be shocked to hear the recomp is co-authored by Claude AI.\nThe release of this executable has not changed that, but it has kicked the GTA 6 PC race into high gear.\nJust hours after the EXE arrived, an update went out to the Leonida Discord server: \"The game almost boots. Black screen, audio cuts off.\"\nAfter the news broke, the Leonida Discord server buckled under an influx of new users, forcing the moderators to end a live stream amid a temporary outage. The server was \"not nuked,\" says one admin.\nWeekly digests, tales from the communities you love, and more\nThe latest Leonida status update reads: \"Everything that can be done without the game's executable is in place, so work on booting can start as soon as one is available to a developer.\" Development is moving fast with that keystone now in place, though the game remains unplayable on PC.\nAn official GTA 6 PC version is expected to be released in the next year or two at the latest, following Rockstar's pattern with titles like GTA 5 and Red Dead Redemption 2.\nPreviously, CEO Strauss Zelnick of Rockstar owner Take-Two Interactive said GTA 6 being pirated is just \"a fact of life,\" though he also said the company has its legal team on standby to handle any problems. I wonder how they'd react to a playable PC build surfacing, currently, less than one week after GTA 6's console launch.\nGTA 6's Lucia is \"long overdue,\" OG Grand Theft Auto lead says",
-    "extra": {
-     "image": "https://cdn.mos.cms.futurecdn.net/qftUB3KeiYNLRLCEWMq4EY-1920-80.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "🚀 Cyberleek выкатил Xbox‑EXE: GTA 6 почти запустится на ПК\n\nМоддеры уже вгоняют exe в комп, но пока только чёрный экран и обрыв аудио. Если хотите увидеть GTA 6 в деле — держим пальцы на клавиатуре, будет лютый разгон! 🔥",
-    "card_title": "КИБЕРЛИК ВЫКАТИЛ EXE",
-    "reason": "Новость о сливе exe-файла и попытках запустить игру на ПК освещена крупными СМИ.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "До появления GTA 6 на ПК осталось... Cyberleek слила exe-файл в Сеть",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-23T20:11:00.404270+00:00"
-  },
-  {
-   "item": {
     "title": "GTA 6 players swore the weather system was broken and the latest patch has confirmed those suspicions",
     "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-players-swore-the-weather-system-was-broken-and-the-latest-patch-has-confirmed-those-suspicions/",
     "summary": "Rockstar brought weather back to Leonida.",
@@ -14625,35 +14768,6 @@
   },
   {
    "item": {
-    "title": "GTA 6 Vintage Vice City Pack Now Available To All Players On Xbox, And It's Pretty Cheap",
-    "link": "https://www.purexbox.com/news/2026/11/gta-6-vintage-vice-city-pack-now-available-to-all-players-on-xbox-and-its-pretty-cheap",
-    "summary": "\"Flash back to when the neon burned brightest\". Ahead of the release of GTA 6 , there were three types of content made available for it - the standard game, the Ultimate Edition content, and the Vintage Vice City Pack. The latter was intended as a pre-order bonus across Xbox and PS5. Now that the game is out in the wild though, Rockstar Games has decided to make the Vintage Vice City Pack available to purchase on the Xbox Store, carrying a price tag of £4.49 / $4.99. That's obviously not as good as getting it for free, but it's pretty cheap all the same, and a nice option to have if you missed out on the pre-order period. Read the full article on purexbox.com",
-    "published": "2026-11-23T18:00:00+00:00",
-    "source": "Pure Xbox",
-    "site_name": "Pure Xbox",
-    "trust": "high",
-    "text": "Ahead of the release of GTA 6, there were three types of content made available for it - the standard game, the Ultimate Edition content, and the Vintage Vice City Pack. The latter was intended as a pre-order bonus across Xbox and PS5.\nNow that the game is out in the wild though, Rockstar Games has decided to make the Vintage Vice City Pack available to purchase on the Xbox Store, carrying a price tag of £4.49 / $4.99. That's obviously not as good as getting it for free, but it's pretty cheap all the same, and a nice option to have if you missed out on the pre-order period.\n'55 VAPID STANIER: Cruise Shore Drive in this classic sedan and store it just a stone's throw from the glistening sands of Ocean Beach in the Shore Court garage, complete with a weapon locker plus a secure place to deposit stolen goods to be fenced.\nOUTFITS AND HAIRSTYLES: Dress for excess with Jason’s effortlessly chic linen suit in vintage pastel, complemented by the cut and coif of the decade of decadence. Show everyone the world is yours in Lucia’s red sequin mini dress and curls.\nEXCLUSIVE WEAPON PATTERN: Adorn most guns with a tropical pattern inspired by Tommy Vercetti's iconic palm tree button-up.\nSimilar to the Ultimate Edition content that you can also buy separately for £20.00 / $20.00, these items are made available \"as [the] story progresses\", so you don't necessarily get it all at the beginning of the campaign.\nI have to admit that I haven't really engaged with the Ultimate Edition stuff all that much yet, although it's certainly a nice bonus to get extra vehicles, liveries and outfits. The game is more than stacked enough that you don't need to buy anything more than the standard edition, but the option is there if you want the most content possible.\nWe'll leave a poll down below to find out which version you personally have, and let us know in the comments if you think the Vintage Vice City Pack and/or the Ultimate Edition content is worth buying on top of GTA 6 itself!\nWhich Version Of GTA 6 Do You Have? (6 votes)\nI have the standard edition with the pre-order content (Vice City pack)17%\nI just have the standard edition, no pre-order stuff 0%\nIs The Pre-Order Content Worth It In Your Opinion? (2 votes)\nIs The Ultimate Edition Content Worth It In Your Opinion? (4 votes)\nHow are you getting on with this pre-order / Ultimate content? Let us know in the comments down below.",
-    "extra": {
-     "image": "https://images.purexbox.com/9882cae897de1/large.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 6,
-    "post": "🤑 Винтажный Vice City Pack теперь в Xbox Store\n\nRockstar наконец открыл продажу Vintage Vice City Pack за $4.99 – дешёвая возможность запилить крутой седан, стильные луки и пальмовые паттерны на пушках. Если пропустил предзаказ – лови шанс, пока не подскочит цена. 😎",
-    "card_title": "ВИНТАЖНЫЙ ПАК ДЛЯ XBOX",
-    "reason": "Официальный релиз пака Vintage Vice City для покупки в магазине Xbox",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "GTA 6 Vintage Vice City Pack Now Available To All Players On Xbox, And It's Pretty Cheap",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-23T20:11:29.474442+00:00"
-  },
-  {
-   "item": {
     "title": "Every Playable Video Game in GTA 6, Ranked Worst to Best",
     "link": "https://www.polygon.com/gta-6-playable-video-games-ranked/",
     "summary": "Grand Theft Auto 6 features four playable video games within the game. Here's how they stack up.",
@@ -14770,95 +14884,6 @@
   },
   {
    "item": {
-    "title": "GTA VI сожгла PS5 прямо во время стрима. Консоль не выдержала",
-    "link": "https://ixbt.games/news/2026/11/24/gta-vi-sozgla-ps5-priamo-vo-vremia-strima-konsol-ne-vyderzala.html",
-    "summary": "Во время стрима GTA VI у одного из игроков PS5 начала дымиться и окончательно вышла из строя, а другие владельцы консоли жалуются на перегрев и вылеты игры.",
-    "published": "2026-11-24T04:04:00+00:00",
-    "source": "iXBT.games",
-    "site_name": "iXBT.games",
-    "trust": "medium",
-    "text": "Во время стрима GTA VI у одного из игроков PS5 начала дымиться и окончательно вышла из строя, а другие владельцы консоли жалуются на перегрев и вылеты игры.\nДавно было понятно, что GTA VI выжмет из консолей нынешнего поколения практически все возможности. Новая игра стала самой технологически продвинутой разработкой для PS5 и Xbox Series X|S, однако вряд ли кто-то ожидал, что нагрузка окажется настолько серьёзной, что консоли начнут буквально дымиться. Именно такая неприятность произошла с одним из стримеров, чья PS5 сгорела прямо во время трансляции.\nПострадавшим оказался автор Twitch-канала JoJoJosiah. Во время стрима GTA VI он решил ненадолго отлучиться и поставил игру на паузу. Вернувшись в комнату, стример обнаружил, что из его PS5 валит густой дым. Обошлось без пожара в квартире и других серьёзных последствий. А вот сама консоль, похоже, окончательно вышла из строя. Расстроенный владелец признал, что восстановить устройство уже не получится, поэтому придётся покупать новую консоль.\nХотя дымящаяся на глазах зрителей консоль – крайний случай, это не единственная жалоба на работу GTA VI. Другие владельцы PS5 всё чаще сообщают о зависаниях игры и предупреждениях о перегреве. По некоторым сообщениям, нагрузка на комплектующие настолько велика, что внутренняя температура консоли достигает 100 градусов. В результате игра или устройство принудительно выключается.\nWas playing gta VI on stream but had to go poop. Paused it and put on a sensory vid for my chat PS5 started just smoking out its ass and now i need to get a replacement 😀\nУ подавляющего большинства игроков никаких проблем с температурой нет. Скорее всего, игра выступает своеобразным стресс-тестом: если у PS5 уже была скрытая неисправность или годами работала с забитой пылью системой охлаждения, повышенная нагрузка могла окончательно вывести её из строя.\nНе пропускайте наши новостиДобавьте сайт в предпочитаемые источники, чтобы видеть нас чащеДобавить в Google",
-    "extra": {
-     "image": "https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1745579/42d59e85-b30e-4d9f-bc12-5d0a05ef1576.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "🔥 PS5 сгорела во время GTA VI стрима\n\n🔥 PS5 сгорела во время GTA VI стрима — стример JoJoJosiah в шоке. Игра жёстко жжёт, консоль не выдержала, так что держите вентиляторы на полную!",
-    "card_title": "ГОРЯЧАЯ ПС5 ОТ GTA VI",
-    "reason": "Стримеру спалила консоль GTA 6, громкий хайповый случай с перегревом железа.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-24T04:59:17.576919+00:00",
-   "moderation": "pending",
-   "draft_msg_id": 121
-  },
-  {
-   "item": {
-    "title": "Call of Duty потеряла миллионы игроков из-за GTA VI. Fortnite тоже пострадала",
-    "link": "https://ixbt.games/news/2026/11/24/call-of-duty-poteriala-milliony-igrokov-iz-za-gta-vi-fortnite-toze-postradala.html",
-    "summary": "Выход GTA VI привёл к масштабному оттоку игроков из Call of Duty и Fortnite: ежедневная активность первой серии упала на 42%, а второй на 28%.",
-    "published": "2026-11-24T05:47:00+00:00",
-    "source": "iXBT.games",
-    "site_name": "iXBT.games",
-    "trust": "medium",
-    "text": "Выход GTA VI привёл к масштабному оттоку игроков из Call of Duty и Fortnite: ежедневная активность первой серии упала на 42%, а второй на 28%.\nСогласно данным аналитической компании Alinea Analytics, сильнее всего запуск новой игры Rockstar Games ударил по Call of Duty. Количество ежедневно активных игроков серии на PlayStation, Xbox и в Steam сократилось с привычных 7,5 млн до 4,4 млн человек. Падение составило 42%. На PlayStation, которая остаётся основной платформой для франшизы, показатель снизился на 44%. Даже спустя четыре дня после выхода GTA VI ситуация существенно не изменилась: разница с прежним уровнем активности по-прежнему составляла 41%.\nFortnite также потеряла значительную часть аудитории, хотя последствия оказались менее серьёзными. На PlayStation и Xbox количество ежедневных игроков сократилось с 17,8 млн до 12,8 млн, то есть на 28%. При этом игра Epic Games быстрее начала восстанавливать позиции. К концу выходных отставание от привычных показателей уменьшилось до 19%.\nGTA 6's launch hit Call of Duty HARD (@alineaanalytics estimates). COD HQ's daily active users across PlayStation, Xbox, and Steam are down 42% from an average of 7.5M DAUs to 4.4M. On PlayStation – CoD’s main platform – Call of Duty took a 44% hit. Sadly, CoD has barely bounced\nПо приведённым данным, мировые продажи GTA VI приблизились к 45 млн копий. Влияние игры на конкурентов может усилиться после запуска сетевого режима и выхода версии для ПК.\nНе пропускайте наши новостиДобавьте сайт в предпочитаемые источники, чтобы видеть нас чащеДобавить в Google",
-    "extra": {
-     "image": "https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1745616/09ddc31e-b631-445e-9abe-c47f547b8553.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "💀 GTA 6 УНИЧТОЖИЛА онлайн Call of Duty и Fortnite\n\nАналитики подсчитали, что после выхода игры CoD потеряла аж 42% ежедневных игроков, а Форт — 28%. Челы просто забили на батлпассы и ушли тусить в Вайс-Сити. База, получайте разнос!\n\n❤️ — Туда их, GTA 6 ванлав\n👎 — Сочувствую казуалам из CoD",
-    "card_title": "GTA 6 УБИЛА COD И FORTNITE",
-    "reason": "Official analytics data showing massive drop in CoD and Fortnite players due to GTA 6 release.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-3.5-flash"
-   },
-   "queued_at": "2026-11-24T06:01:53.144293+00:00"
-  },
-  {
-   "item": {
-    "title": "«Лучше, чем The Sims»: жена забрала у мужа GTA VI и теперь ходит по магазинам, наряжает героев и красит ногти",
-    "link": "https://ixbt.games/news/2026/11/23/lucse-cem-the-sims-zena-zabrala-u-muza-gta-vi-i-teper-xodit-po-magazinam-nariazaet-geroev-i-krasit-nogti.html",
-    "summary": "Похоже, что разработчики нашли способ захватить женскую аудиторию.",
-    "published": "2026-11-23T17:58:00+00:00",
-    "source": "iXBT.games",
-    "site_name": "iXBT.games",
-    "trust": "medium",
-    "text": "Похоже, что разработчики нашли способ захватить женскую аудиторию.\nНедавно состоялся релиз Grand Theft Auto VI. В игре пара главных героев, Лусия и Джейсон, и игроки могут развивать отношения между ними. Некоторых женщин это беспокоит, но порой есть и те, кого игра Rockstar Games затягивает.\nНедавно пользователь под ником PorkPoncho рассказал, что его жена начала играть в Grand Theft Auto VI. Он теперь за этим наблюдает и делится её успехами: «Рассказываю про приключения моей жены в GTA VI — она уже практически забрала игру себе, чтобы свободно гулять по миру за Лусию».\nПозвала Джейсона погулять и потащила его по магазинам, чтобы принарядить.\nСходила с ним поесть и украла у него картошку фри.\nВместе с ним ограбила ломбард — оба были в своих «милых нарядах».\nИ затем снова потащила Джейсона по магазинам, чтобы обновить им обоим гардероб, а потом поиграла в мини-гольф (Джейсон выиграл).\nПосле этого она отправилась в поход. PorkPoncho спросил «это отдельная активность в игре или она просто гуляла?» — ответила, что «припарковалась в красивом месте и пошла бродить». Позднее она призналась, что весь этот поход затевался ради поиска красивого вида, на фоне которого Джейсон мог бы фотографить Лусию в её милом наряде.\nПриключения геймерши продолжаются. По словам PorkPoncho, она «просто помешалась на симуляторной составляющей игры», для неё это лучше, чем The Sims:\nМне кажется, люди серьёзно недооценивают, насколько мощно Rockstar зацепили этой игрой стереотипно «женскую» аудиторию. И если в следующей версии GTA Online они сохранят более приземлённый реализм и элементы симулятора жизни, то смогут набивать деньгами целые бассейны.\nНе пропускайте наши новостиДобавьте сайт в предпочитаемые источники, чтобы видеть нас чащеДобавить в Google",
-    "extra": {
-     "image": "https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1745500/media-5ba9bf559f3dd909e21e4bd8a35fc76710b2b3e37ce2664e0759d06e1f36e7f2.png"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "👩‍💻 Жена захватила GTA VI и превратила в The Sims\n\nПорка ПоркПончо делится, как его жена превратила Лусию и Джейсона в модных моделей: гуляет по магазинам, крадет фри и даже вгоняет их в мини‑гольф. Игра стала её личным симулятором жизни, а не просто шуткой. Лол, кто бы мог подумать, что GTA теперь тоже для девчачьих вайбов?",
-    "card_title": "ЖЕНА ПЕРЕХВАТИЛА GTA VI",
-    "reason": "Уютный мем-контент о женской аудитории в вышедшей игре, высокий интерес для комьюнити",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "groq:qwen/qwen3.8-27b → groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-23T20:12:35.732251+00:00"
-  },
-  {
-   "item": {
     "title": "GTA V не собирается на пенсию. Онлайн игры Rockstar резко вырос после выхода GTA VI",
     "link": "https://ixbt.games/news/2026/11/24/gta-v-ne-sobiraetsia-na-pensiiu-onlain-igry-rockstar-rezko-vyros-posle-vyxoda-gta-vi.html",
     "summary": "Даже спустя 13 лет GTA V остаётся на коне: на волне выхода GTA VI в Steam вернулись десятки тысяч игроков, а пиковый онлайн вырос до 137 000.",
@@ -14946,9 +14971,11 @@
   "2026-11-23T20:00:00.591069+00:00",
   "2026-11-23T21:50:40.027944+00:00",
   "2026-11-24T04:31:49.377232+00:00",
-  "2026-11-24T06:53:33.099748+00:00"
+  "2026-11-24T06:53:33.099748+00:00",
+  "2026-11-24T08:05:18.622992+00:00",
+  "2026-11-24T08:20:55.237297+00:00"
  ],
- "tg_offset": 387129075,
+ "tg_offset": 387129079,
  "channel": {
   "id": -1003986639147,
   "title": "GTA 6 | Горячие новости",
@@ -14985,7 +15012,8 @@
   "2026-11-23T20:15:05.440958+00:00",
   "2026-11-23T21:15:56.693001+00:00",
   "2026-11-24T06:02:05.423698+00:00",
-  "2026-11-24T07:03:01.494680+00:00"
+  "2026-11-24T07:03:01.494680+00:00",
+  "2026-11-24T08:03:13.983642+00:00"
  ],
  "slots_sent": {
   "2026-11-22:guide:1": "2026-11-22T08:01:32.386719+00:00",
@@ -15144,38 +15172,9 @@
    },
    "queued_at": "2026-11-23T21:20:55.645451+00:00",
    "file_id": "BAACAgIAAxkDAAN3awSuOZnqKonMbsczcrbUcj4n5zcAAvW0AAKTDSlIq7YSMWTv1Gc9BA",
-   "moderation": "pending",
-   "draft_msg_id": 119
-  },
-  {
-   "clip": {
-    "source": "twitch",
-    "url": "https://www.twitch.tv/tminnzy/clip/RudeBlueStapleResidentSleeper-hN6aHqGrcSgwB2Dl",
-    "title": "bro",
-    "author": "Tminnzy",
-    "views": 28913,
-    "duration": 30.0,
-    "created": "2026-11-23T15:01:45+00:00",
-    "lang": "en",
-    "description": "",
-    "vod_id": "2935827889",
-    "vod_offset": 35080.0
-   },
-   "caption": "«Я максимально сфокусирован на миссии» — и через секунду Джейсон летит за борт самолёта. Лютый скилл ишью 💀",
-   "interest": 7,
-   "spoiler": false,
-   "nsfw": false,
-   "watched": true,
-   "model": "gemini:gemini-4-hydrogen",
-   "media": {
-    "width": null,
-    "height": 720,
-    "duration": 30
-   },
-   "queued_at": "2026-11-24T07:09:50.261713+00:00",
-   "file_id": "BAACAgIAAxkDAAN6awU4P15j1xszYNnJIHFGRVR9C9UAAqCpAAKTDTFI2D8iYpYG-II9BA",
-   "moderation": "pending",
-   "draft_msg_id": 122
+   "moderation": "approved",
+   "draft_msg_id": 119,
+   "waiting_logged": true
   }
  ],
  "clip_drafts": [
@@ -21036,6 +21035,290 @@
    "ts": "2026-11-24T07:09:52.275845+00:00",
    "frames": [],
    "caption": "«Я максимально сфокусирован на миссии» — и через секунду Джейсон летит за борт самолёта. Лютый скилл ишью 💀"
+  },
+  {
+   "author": "youtube:typical gamer",
+   "vod": "",
+   "offset": -1,
+   "title": "🔴 LIVE! - PLAYING GTA 6 RIGHT NOW! (PS5 PRO)",
+   "drafted": false,
+   "ts": "2026-11-24T08:12:56.459101+00:00"
+  },
+  {
+   "author": "youtube:猎魔的契约",
+   "vod": "",
+   "offset": -1,
+   "title": "选择喜欢的交通工具吧#gta  #gta6  #shorts",
+   "drafted": false,
+   "ts": "2026-11-24T08:12:57.417836+00:00"
+  },
+  {
+   "author": "youtube:playstation",
+   "vod": "",
+   "offset": -1,
+   "title": "Grand Theft Auto VI - Features Trailer | PS5 Games",
+   "drafted": false,
+   "ts": "2026-11-24T08:12:58.221588+00:00"
+  },
+  {
+   "author": "youtube:gamexboi",
+   "vod": "",
+   "offset": -1,
+   "title": "Did GTA 6 Fixed Car Door Blocked Problem? 🤔",
+   "drafted": false,
+   "ts": "2026-11-24T08:12:59.128677+00:00"
+  },
+  {
+   "author": "twitch:eviemeowie",
+   "vod": "2938020682",
+   "offset": 20455.0,
+   "title": "Parked",
+   "drafted": false,
+   "ts": "2026-11-24T08:13:50.297465+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:avoidingthepuddle",
+   "vod": "2938781725",
+   "offset": 3738.0,
+   "title": "god damnnn",
+   "drafted": false,
+   "ts": "2026-11-24T08:14:44.892518+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:caseoh_",
+   "vod": "2938655753",
+   "offset": 28844.0,
+   "title": "Casoh's soft locked from completing the game by his chat and is now struggling to make money",
+   "drafted": false,
+   "ts": "2026-11-24T08:14:45.683671+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:baupenner",
+   "vod": "2938192582",
+   "offset": 18179.0,
+   "title": "Was ist das 🤣🤣",
+   "drafted": false,
+   "ts": "2026-11-24T08:14:56.550745+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:vinesauce",
+   "vod": "",
+   "offset": -1,
+   "title": "VAPORIZED",
+   "drafted": false,
+   "ts": "2026-11-24T08:16:05.065580+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:rubius",
+   "vod": "2938666621",
+   "offset": 1706.0,
+   "title": "🥵Lucia GTA6🔥",
+   "drafted": false,
+   "ts": "2026-11-24T08:16:06.100267+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:jynxzi",
+   "vod": "2938664561",
+   "offset": 20694.0,
+   "title": "jynxzi checks on nickeh30",
+   "drafted": false,
+   "ts": "2026-11-24T08:16:06.974389+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:illojuan",
+   "vod": "2938510132",
+   "offset": 19489.0,
+   "title": "Canción de mi país",
+   "drafted": false,
+   "ts": "2026-11-24T08:16:07.883445+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:promised_consort_abearbis",
+   "vod": "2935131803",
+   "offset": 14763.0,
+   "title": "\"Yeah me too\" #slag4jesus 🛐🙏🕊️ POINT",
+   "drafted": false,
+   "ts": "2026-11-24T08:17:11.111171+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:joe_bartolozzi",
+   "vod": "2938650249",
+   "offset": 9441.0,
+   "title": "timing",
+   "drafted": false,
+   "ts": "2026-11-24T08:17:12.091860+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:ギルくん",
+   "vod": "2938338541",
+   "offset": 1896.0,
+   "title": "足元何か横切る",
+   "drafted": false,
+   "ts": "2026-11-24T08:17:12.952340+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:auronplay",
+   "vod": "2938386346",
+   "offset": 15465.0,
+   "title": "Nueva funda 😭😂",
+   "drafted": false,
+   "ts": "2026-11-24T08:17:13.768811+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:patstaresat",
+   "vod": "2939024831",
+   "offset": 3636.0,
+   "title": "They better not be callin' the cops",
+   "drafted": false,
+   "ts": "2026-11-24T08:18:23.183955+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:raw_phil",
+   "vod": "",
+   "offset": -1,
+   "title": "dsp drives into water .-.",
+   "drafted": false,
+   "ts": "2026-11-24T08:18:24.204548+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:alanzoka",
+   "vod": "2938467977",
+   "offset": 26312.0,
+   "title": "COITADA DA LUCIA",
+   "drafted": false,
+   "ts": "2026-11-24T08:18:25.656614+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:xagepa",
+   "vod": "2938374630",
+   "offset": 31245.0,
+   "title": "wtf bro",
+   "drafted": false,
+   "ts": "2026-11-24T08:18:26.637984+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:youngmulti",
+   "vod": "2938437279",
+   "offset": 20394.0,
+   "title": "Multi odkrywca nagich zabaw",
+   "drafted": false,
+   "ts": "2026-11-24T08:19:21.980012+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:camy",
+   "vod": "2937570682",
+   "offset": 85595.0,
+   "title": "dwdwdwdawdwd",
+   "drafted": false,
+   "ts": "2026-11-24T08:19:22.848353+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:buster",
+   "vod": "2938532610",
+   "offset": 9687.0,
+   "title": "WW",
+   "drafted": false,
+   "ts": "2026-11-24T08:19:23.509776+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:t2x2",
+   "vod": "2938353942",
+   "offset": 24157.0,
+   "title": "тяжелая жизнь нефора",
+   "drafted": false,
+   "ts": "2026-11-24T08:19:28.380838+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:lru_rose",
+   "vod": "2938409183",
+   "offset": 15897.0,
+   "title": "сюда +яхта",
+   "drafted": false,
+   "ts": "2026-11-24T08:20:27.798714+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:orkpod",
+   "vod": "2938356384",
+   "offset": 16607.0,
+   "title": "Возвращение Хуанга в Nvidia (миниатюра)",
+   "drafted": false,
+   "ts": "2026-11-24T08:20:29.406475+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:jerma985",
+   "vod": "2938334131",
+   "offset": 3156.0,
+   "title": "???",
+   "drafted": false,
+   "ts": "2026-11-24T08:20:30.398416+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:sasavot",
+   "vod": "2938288604",
+   "offset": 9992.0,
+   "title": "ВСМ/ПОНЕДЕЛЬНИК ?",
+   "drafted": false,
+   "ts": "2026-11-24T08:20:41.697976+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:chloeyummyyy",
+   "vod": "2938227714",
+   "offset": 395.0,
+   "title": "fit check",
+   "drafted": false,
+   "ts": "2026-11-24T08:21:45.507530+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:zloyn",
+   "vod": "2938215294",
+   "offset": 12813.0,
+   "title": "WW",
+   "drafted": false,
+   "ts": "2026-11-24T08:21:47.041752+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:fanum",
+   "vod": "2938388445",
+   "offset": 5488.0,
+   "title": "Oh shoot",
+   "drafted": false,
+   "ts": "2026-11-24T08:21:47.833866+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:juansguarnizo",
+   "vod": "2938621669",
+   "offset": 4141.0,
+   "title": "juan choque",
+   "drafted": false,
+   "ts": "2026-11-24T08:21:49.162624+00:00",
+   "frames": []
   }
  ],
  "published": [
@@ -21372,6 +21655,20 @@
    "ts": "2026-11-24T06:53:33.099765+00:00",
    "msg_id": 77,
    "title": "Коллатеральный пасхалка в GTA 6",
+   "importance": 8,
+   "kind": "confirmed"
+  },
+  {
+   "ts": "2026-11-24T08:05:18.623009+00:00",
+   "msg_id": 78,
+   "title": "GTA 6 УНИЧТОЖИЛА онлайн Call of Duty и Fortnite",
+   "importance": 8,
+   "kind": "confirmed"
+  },
+  {
+   "ts": "2026-11-24T08:20:55.237313+00:00",
+   "msg_id": 79,
+   "title": "PS5 сгорела во время GTA VI стрима",
    "importance": 8,
    "kind": "confirmed"
   }
