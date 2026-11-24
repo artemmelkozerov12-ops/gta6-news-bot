@@ -3512,7 +3512,24 @@
   "1c0c1d4c716c6989": "2026-11-24T11:27:52.777521+00:00",
   "f161b8d4169c2413": "2026-11-24T11:28:21.008326+00:00",
   "437c03e791f446a5": "2026-11-24T11:28:51.529254+00:00",
-  "c629c7743a31a340": "2026-11-24T11:29:13.430350+00:00"
+  "c629c7743a31a340": "2026-11-24T11:29:13.430350+00:00",
+  "8c3e587a77e3b5fd": "2026-11-24T11:35:58.676989+00:00",
+  "1c0d235d126cb6dd": "2026-11-24T11:35:59.431403+00:00",
+  "be28d1d0d7c167fd": "2026-11-24T11:36:00.314069+00:00",
+  "d8c5407dfe38fd48": "2026-11-24T11:36:01.157411+00:00",
+  "ded362e978239020": "2026-11-24T11:36:52.074579+00:00",
+  "86b327f2541ca232": "2026-11-24T11:36:52.808201+00:00",
+  "632375cae52a73ef": "2026-11-24T11:36:53.786404+00:00",
+  "2ffab623f45a9f06": "2026-11-24T11:38:06.395343+00:00",
+  "fa9bd258fbeb0ce2": "2026-11-24T11:44:41.725585+00:00",
+  "162fbfd363371967": "2026-11-24T11:44:43.567018+00:00",
+  "7fcabcbd8ba47349": "2026-11-24T11:45:09.805993+00:00",
+  "ec8fd9c810116a62": "2026-11-24T11:45:18.014784+00:00",
+  "cb4b0063cb5a148c": "2026-11-24T11:45:34.212968+00:00",
+  "166e4b457514b2d9": "2026-11-24T11:45:34.877926+00:00",
+  "90aeca2570154ef0": "2026-11-24T11:45:44.676445+00:00",
+  "c95410f0eea52280": "2026-11-24T11:46:10.245128+00:00",
+  "cce248a25af31e74": "2026-11-24T11:46:49.802327+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -5917,7 +5934,16 @@
   "f789dd6625a1e9e1": "2026-11-24T11:27:52.777521+00:00",
   "47ccc49f229ae305": "2026-11-24T11:28:21.008326+00:00",
   "f60c963302b605d1": "2026-11-24T11:28:51.529254+00:00",
-  "efde9799a539d4ff": "2026-11-24T11:29:13.430350+00:00"
+  "efde9799a539d4ff": "2026-11-24T11:29:13.430350+00:00",
+  "6481c838c11efc67": "2026-11-24T11:44:41.725585+00:00",
+  "e9e812ae7e398aca": "2026-11-24T11:44:43.567018+00:00",
+  "016bdfdabdf5e2b0": "2026-11-24T11:45:09.805993+00:00",
+  "ce98925391ab7d53": "2026-11-24T11:45:18.014784+00:00",
+  "0d39c1f5a003652b": "2026-11-24T11:45:34.212968+00:00",
+  "ba7cc7603b78b50a": "2026-11-24T11:45:34.877926+00:00",
+  "df01ac4c081c987a": "2026-11-24T11:45:44.676445+00:00",
+  "ff1ef85eed74e9cd": "2026-11-24T11:46:10.245128+00:00",
+  "dd525cc2543b6367": "2026-11-24T11:46:49.802327+00:00"
  },
  "recent": [
   {
@@ -15183,6 +15209,78 @@
    "status": "skipped",
    "ts": "2026-11-24T11:29:13.430500+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GTA 6 Becomes the Biggest Launch in PlayStation History With Over 39 Unique Million Players",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-24T11:44:41.725651+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 First Impressions mission walkthrough",
+   "source": "VGC",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-24T11:45:02.143700+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 \"hit Call of Duty HARD,\" analyst reports, with a 42% drop in daily players",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-24T11:45:10.516509+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Hacker Releases Full Xbox Build, And PC Modders Are Already Trying To Get It Running",
+   "source": "GameSpot",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-24T11:45:19.039253+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Гейб Ньюэлл ошибался? После релиза GTA VI игроки переосмыслили слова босса Valve о реализме",
+   "source": "iXBT.games",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-24T11:45:34.213086+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Игроки GTA 6 заметили, что дешёвая покраска автомобиля пузырится и выглядит хуже дорогой",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T11:45:34.878059+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "The Vintage City Pack for GTA VI, previously included for free with pre-orders, is now available for €4.99",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T11:45:44.676575+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 interactive: How India is experiencing the world’s biggest gaming phenomenon",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T11:46:10.245299+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI Player Banned From PlayStation Network for Sharing Photo He Took in the Game",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T11:46:49.802473+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -15333,35 +15431,6 @@
   },
   {
    "item": {
-    "title": "Goodbye, Mandy: GTA 6 Players Are Already Obsessed With Someone Else",
-    "link": "https://www.polygon.com/gta-6-vicki-chapter-2-girls-trip/",
-    "summary": "Grand Theft Auto 6 fans were obsessed with Mandy in Chapter 1, and have now moved on to obsessing over Vicki in Chapter 2.",
-    "published": "2026-11-23T21:29:19+00:00",
-    "source": "Polygon",
-    "site_name": "Polygon",
-    "trust": "high",
-    "text": "As Grand Theft Auto 6 began releasing around the world last week, players quickly became obsessed with Mandy. She's a neighbor of Jason's who tries to seduce the himbo while he fixes her sink. (And she is totally not a serial killer, no way, why would you ask?) Mandy shows up early in GTA 6. But as more players advance in the game, they're becoming obsessed with a new character: Vicki, a standout character from Chapter 2.\n[Ed. note: Light spoilers for the end of Chapter 1 and beginning of Chapter 2 follow. We'll keep them vague.]\nAfter Jason is injured at the end of Chapter 1, Lucia takes him to a run-down motel to lie low. She wants to find stronger painkillers for him, which leads her to Vicki. She's a goth exotic dancer who also moonlights as a small-time drug dealer, and immediately pulls one over on Lucia by selling her over-the-counter Zombix (GTA's brand of painkiller) for $50. Lucia then barges back into Vicki's room and demands the drugs she paid for, which takes the two on a trip around Port Gellhorn. They get Vicki's paycheck from Delights Cabaret and save her friend Dunk from a gang, all the while getting to know one another. They bond over the fact that they're both moms trying to support their kids by whatever means necessary.\nPlayers have quickly fallen for Vicki. \"Love her she's my favorite character so far,\" one player wrote on Reddit.\n\"Punk Ana de Armas,\" another said, and, you know, I can kinda see it.\nVicki is voiced by Taryn Manning, who's best known for her role in Orange Is the New Black. She's also starred in 8 Mile, Hustle and Flow, and Hawaii Five-0.\nManning's work as Vicki is part of the reason why players are flocking to her. \"Mandy didn't do it for me, but Vicki did because I recognized Taryn Manning’s voice immediately,\" one Redditor said.\n\"Vicki the baddie that made everyone move on from Mandy lmao,\" another said.\nBasically, you can tell how far thirsty GTA 6 players are getting in the game based on who they're obsessively posting about over on the Grand Theft Auto subreddits. In a few days, as players continue to marathon Rockstar's hit, I'm sure they'll have a new favorite.",
-    "extra": {
-     "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/lucia_caminos_06.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "🎮 Vicki — новый кумир GTA 6\n\nИгроки уже влюбились в Vicki, готическую танцовщицу‑дилера 😍. Ее голос Тэрин Мэннинг заставил чат Reddit рвать на «пункт!». Похоже, Mandy уже в тени.",
-    "card_title": "VICKI — НОВАЯ ИКОНКА GTA6",
-    "reason": "Новый персонаж-вайфу из GTA 6 стал объектом обожания фанатов, сместив предыдущую любимицу.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.1-flash-lite → groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-23T23:30:13.860461+00:00"
-  },
-  {
-   "item": {
     "title": "GTA 6 Is So Unstoppable It's Even Made Nickelback Go Viral",
     "link": "https://www.polygon.com/gta-6-nickelback-cover/",
     "summary": "GTA 6 features a radio station with alternate-language covers of pop songs, the best of which is the Greek Nickelback \"How You Remind Me\" cover.",
@@ -15417,64 +15486,6 @@
     "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
    },
    "queued_at": "2026-11-24T04:57:35.266519+00:00"
-  },
-  {
-   "item": {
-    "title": "Every GTA 6 ending and how to get them",
-    "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-endings/",
-    "summary": "All the endings (and a couple variations) for GTA 6 we've seen so far.",
-    "published": "2026-11-23T21:33:58+00:00",
-    "source": "PC Gamer",
-    "site_name": "PC Gamer",
-    "trust": "high",
-    "text": "Obviously, massive spoilers follow for GTA 6 endings!\nThere are multiple endings to GTA 6, and while we haven't experienced them all personally here at PC Gamer, the gaming community has been sharing them around for anyone curious about what they may have missed.\nThe ending you get depends on the choices you make during the final GTA 6 story mission, but also depends on how you handled Jason and Lucia's romance and criminal profiles throughout the game, so seeing every version of the ending would mean not just playing the ending multiple times, but having different playthroughs of the game altogether.\nThere are a couple of endings that I don't consider \"different\" from each other but do have some differences leading up to them, which I'll explain below. There may also be additional endings we haven't seen yet, so we may update this guide in the future.\nIn the bridge endings, Jason and Lucia have defeated Mendez and his squad and gotten the hard drive back from Georgio's penthouse and escaped. They drive to Cal's place in Key Lento, but discover he has been compromised. They drive to the bridge, but the cops have set up a roadblock and have the couple trapped. Lucia wants to keep going, but Jason suggests they jump off the bridge and swim for it.\nA choice comes up on the screen: \"Swim For it\" or \"No Surrender.\"\nJason and Lucia try to run the roadblock and are shot to death by cops on the bridge. They die holding hands. In the credits, we see that their son Tomas lives happily with Lucia's aunt, her husband, and their children.\nHave a strong relationship with Jason and Lucia\nJason and Lucia are shot to death by cops on the bridge. They die holding hands. In the credits, their lawyer, Abe, brings the money to Lucia's aunt. Tomas lives happily with Lucia's aunt, her husband, and their children in a much bigger house than the other No Surrender ending.\nSave $2 million before beginning Protective Custody\nChoosing \"Swim for it\" presents an additional choice. When Jason gets out of the car, Lucia can choose to \"Exit\" the car with him, or change her mind by not choosing it.\nJason and Lucia decide to jump off the bridge and swim for it. They both exit the car without holding guns. Lucia jumps, but Jason doesn't jump and is arrested. Lucia signs a deal for immunity while Jason goes to prison. Lucia gets a job in a diner. Lucia takes Tomas to meet Jason in prison, but he can only see his son through a glass divider.\nJason and Lucia decide to jump off the bridge and sw",
-    "extra": {
-     "image": "https://cdn.mos.cms.futurecdn.net/VpCnytmTy4pVTZb2NhTAY6-1920-80.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 6,
-    "post": "🗺 Гайд: Как открыть все концовки GTA 6 🎮\n\n1. Выбери «Swim For It» или «No Surrender» в финальной миссии.\n2. Меняй отношения с Джейсоном и Луизой — держи их в «Strong» или «Broken».\n3. Сохраняй $2 млн перед «Protective Custody», открывая альтернативный эпилог.\n4. Перепройди игру с новыми выборами, чтобы увидеть каждый конец.\nЛутай все концовки и покажи друзьям, какой ты геймер!",
-    "card_title": "ВСЕ КОНЦОВКИ GTA 6",
-    "reason": "Гайд по концовкам игры для вышедшей GTA 6",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": true,
-    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-23T23:29:43.827204+00:00"
-  },
-  {
-   "item": {
-    "title": "GTA 6 Crosstown Traffic walkthrough",
-    "link": "https://www.videogameschronicle.com/guide/gta-6-crosstown-traffic-walkthrough/",
-    "summary": "How to complete Crosstown Traffic in GTA 6",
-    "published": "2026-11-23T21:46:33+00:00",
-    "source": "VGC",
-    "site_name": "VGC",
-    "trust": "high",
-    "text": "Here’s how to complete Crosstown Traffic in GTA 6.\nThe mission, which is given by your new contact Raul, splits the couple across Vice City. While Jason follows a convoy of boats along the river on a motorbike, Lucia boards a metro overground train to get close to one of the gang’s associates.\nHere’s everything you need to know about completing Crosstown Traffic in GTA 6, including what rewards you’ll get at the end of it.\nAre you looking for more GTA 6 guides? Then check out our GTA 6 Guide Hub.\nGuides: If you're playing Grand Theft Auto 6, make sure to check out our complete walkthrough hub, featuring beginner tips, navigation experience explained, GTA 6 cheats, and more.\nOnce you’ve received the phonecall from Raul, you can start the mission from either of two locations:\nStarting as Lucia: Head to the Courtyard Bar in Stockyard to meet Raul.\nStarting as Jason: Visit the boatyard in La Perle to meet Karim.\nIt doesn’t matter which character you choose. Both starting locations lead into the same mission, with the story switching between Lucia and Jason as the operation unfolds. This also doesn’t impact what rewards you get, or any choices in the mission.\nThe mission is split into several objectives, alternating between Lucia’s metro operation and Jason’s pursuit of the boat convoy. The game swaps you between the two automatically, so you don’t need to keep an eye on this.\nAfter the opening cutscene, you’ll take control of Jason, who is riding a motorbike along the riverbank.\nYour objective is to follow the boats carrying the shipment. Stick to the dirt paths alongside the river and keep the boats in sight as you follow it through Vice City. If you let them get away, or destroy the bike by falling into the water, the mission will end.\nAs long as you keep up with them, you’ll be fine. You can’t take them down here or anything like that, you’re just tailing them until the game automatically swaps to the next portion with Lucia.\nEventually, Jason will reach the drop-off point and the game will switch to Lucia.\nLucia’s part of the mission begins with her missing the train.\nYou’ll need to catch up with it before it gets too far away. Sprint underneath the elevated railway tracks, following the route marked on your minimap. You can jump into a car (or in our case use one of the Lime scooter-style Escooters that are sitting around) to make it to the next metro station.\nIf you miss the train’s departure, it may be possible to board it at the next station, but it’s ",
-    "extra": {
-     "image": "https://www.videogameschronicle.com/files/2026/11/GTA-6-Crosstown-Traffic-Walkthrough-1.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 6,
-    "post": "🗺 Гайд: как легко пройти миссию Crosstown Traffic\n\nСтартовать можно за любого персонажа у Рауля или Карима. В первой фазе за Джейсона просто мчим на байке вдоль реки за лодками, главное не упустить их и не улететь в воду. Дальше игра сама переключит на Люсию — быстро хватаем электросамокат или тачку, чтобы успеть на поезд метро.",
-    "card_title": "ПРОХОЖДЕНИЕ CROSSTOWN TRAFFIC",
-    "reason": "Подтверждённый гайд по миссии из официального источника",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": true,
-    "model": "groq:openai/gpt-oss-20b → gemini:gemini-3.5-flash"
-   },
-   "queued_at": "2026-11-23T23:46:31.066347+00:00"
   },
   {
    "item": {
@@ -15894,6 +15905,36 @@
    "file_id": "BAACAgIAAxkDAAOAawVofXEWY4bRYWc1Lyy1MNxaQZEAAp-rAAKTDTFI2UUr2c087Jc9BA",
    "moderation": "pending",
    "draft_msg_id": 128
+  },
+  {
+   "clip": {
+    "source": "twitch",
+    "url": "https://www.twitch.tv/lru_rose/clip/PoisedLittleJalapenoOptimizePrime-buJM7mdPGqX2R6T_",
+    "title": "где бабки???",
+    "author": "LRU_ROSE",
+    "views": 678,
+    "duration": 30.0,
+    "created": "2026-11-23T20:24:17+00:00",
+    "lang": "ru",
+    "description": "",
+    "vod_id": "2938409183",
+    "vod_offset": 18054.0
+   },
+   "caption": "Главное, что упаковка пива в кузове Vapid на месте 🍺 Мелочи и физика предметов — просто база",
+   "interest": 7,
+   "spoiler": false,
+   "nsfw": false,
+   "watched": true,
+   "model": "gemini:gemini-3.5-flash",
+   "media": {
+    "width": null,
+    "height": 720,
+    "duration": 30
+   },
+   "queued_at": "2026-11-24T11:38:38.373886+00:00",
+   "file_id": "BAACAgIAAxkDAAOCawV3P2aj7Z1UmBAv-WeHK3es-7YAAl2sAAKTDTFISK7mmhGPw4o9BA",
+   "moderation": "pending",
+   "draft_msg_id": 130
   }
  ],
  "clip_drafts": [
@@ -15917,7 +15958,8 @@
   "2026-11-24T07:09:52.275827+00:00",
   "2026-11-24T08:24:52.738621+00:00",
   "2026-11-24T09:28:35.874072+00:00",
-  "2026-11-24T10:35:41.949576+00:00"
+  "2026-11-24T10:35:41.949576+00:00",
+  "2026-11-24T11:38:40.245755+00:00"
  ],
  "clip_history": [
   {
@@ -22328,6 +22370,82 @@
    "ts": "2026-11-24T10:35:41.949593+00:00",
    "frames": [],
    "caption": "СПОЙЛЕР. 🔞 Вот это отсылка! Нико из GTA 4 решил заглянуть в Леониду, но пришел в чем мать родила. Разнос 💀"
+  },
+  {
+   "author": "youtube:gta2025",
+   "vod": "",
+   "offset": -1,
+   "title": "se puede llenar la alberca de esta forma en #gta6",
+   "drafted": false,
+   "ts": "2026-11-24T11:35:58.677030+00:00"
+  },
+  {
+   "author": "youtube:auntie charli",
+   "vod": "",
+   "offset": -1,
+   "title": "That one friend who’s OBSESSED with GTA 6 #comedy #pov #gta #gta6",
+   "drafted": false,
+   "ts": "2026-11-24T11:35:59.431455+00:00"
+  },
+  {
+   "author": "youtube:tio bit",
+   "vod": "",
+   "offset": -1,
+   "title": "Can You Really Enter Every Building in GTA 6?",
+   "drafted": false,
+   "ts": "2026-11-24T11:36:00.314112+00:00"
+  },
+  {
+   "author": "youtube:shreeman legend live",
+   "vod": "",
+   "offset": -1,
+   "title": "Aaj Full Day Gta 6 | Day 5",
+   "drafted": false,
+   "ts": "2026-11-24T11:36:01.157472+00:00"
+  },
+  {
+   "author": "youtube:mo'din",
+   "vod": "",
+   "offset": -1,
+   "title": "🎮🍶 ON VA VÉRIFIER CE QUE VOUS AVEZ MIJOTÉ ROCKSTAR 😂  #gtavi #gta6",
+   "drafted": false,
+   "ts": "2026-11-24T11:36:52.074627+00:00"
+  },
+  {
+   "author": "youtube:nexiph",
+   "vod": "",
+   "offset": -1,
+   "title": "You DON'T want 6 stars in GTA 6... #GTA6 #GTA6CLIPS #GTAVI #GTATIPS #gta6gameplay",
+   "drafted": false,
+   "ts": "2026-11-24T11:36:52.808250+00:00"
+  },
+  {
+   "author": "twitch:illojuan",
+   "vod": "2938510132",
+   "offset": 16559.0,
+   "title": "GTA VI BUGAZO DE JUAN",
+   "drafted": false,
+   "ts": "2026-11-24T11:36:53.786455+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:lru_rose",
+   "vod": "2938409183",
+   "offset": 18054.0,
+   "title": "где бабки???",
+   "drafted": false,
+   "ts": "2026-11-24T11:38:06.395408+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:lru_rose",
+   "vod": "2938409183",
+   "offset": 18054.0,
+   "title": "где бабки???",
+   "drafted": true,
+   "ts": "2026-11-24T11:38:40.245772+00:00",
+   "frames": [],
+   "caption": "Главное, что упаковка пива в кузове Vapid на месте 🍺 Мелочи и физика предметов — просто база"
   }
  ],
  "published": [
