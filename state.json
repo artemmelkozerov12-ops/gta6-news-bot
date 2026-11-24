@@ -3701,7 +3701,17 @@
   "e292fc0a82f532dd": "2026-11-24T17:21:55.640905+00:00",
   "96fe00eb457bd77a": "2026-11-24T17:21:56.478128+00:00",
   "458ddb6db66dadb3": "2026-11-24T17:21:57.275936+00:00",
-  "61f7194d93329bd9": "2026-11-24T17:21:58.007988+00:00"
+  "61f7194d93329bd9": "2026-11-24T17:21:58.007988+00:00",
+  "803284d029e862c8": "2026-11-24T17:37:36.731254+00:00",
+  "4e25cb1d20b01796": "2026-11-24T17:38:11.575789+00:00",
+  "42e04035b0ad6269": "2026-11-24T17:41:12.635317+00:00",
+  "3f37cfd5decafd1f": "2026-11-24T17:41:13.238469+00:00",
+  "f795d6bfaa1b6368": "2026-11-24T17:41:13.763163+00:00",
+  "da90ee8ffb5f17f8": "2026-11-24T17:41:14.292178+00:00",
+  "05af7612eb00756d": "2026-11-24T17:56:33.652777+00:00",
+  "6f3c1bd28a55657e": "2026-11-24T17:56:33.652862+00:00",
+  "215891f2450ed8f2": "2026-11-24T17:57:36.026794+00:00",
+  "899427e03f2285a6": "2026-11-24T17:57:36.893899+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -6195,7 +6205,11 @@
   "eb6d21c576da22b3": "2026-11-24T17:02:56.940683+00:00",
   "294fd8ba5dda88cf": "2026-11-24T17:19:54.114415+00:00",
   "f1183bec6338c2d8": "2026-11-24T17:19:54.114492+00:00",
-  "509006b0245f4996": "2026-11-24T17:20:02.970998+00:00"
+  "509006b0245f4996": "2026-11-24T17:20:02.970998+00:00",
+  "ba876a67aa6e5076": "2026-11-24T17:37:36.731254+00:00",
+  "02518a2e753872f4": "2026-11-24T17:38:11.575789+00:00",
+  "8c39284410ffebfc": "2026-11-24T17:56:33.652777+00:00",
+  "01ce4f3f94c6fa85": "2026-11-24T17:56:33.652862+00:00"
  },
  "recent": [
   {
@@ -15437,6 +15451,30 @@
    "status": "dup",
    "ts": "2026-11-24T17:19:54.114516+00:00",
    "card_title": ""
+  },
+  {
+   "title": "All Peewees Billboards Locations in GTA 6 & Reward",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-24T17:38:11.575949+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Kitty Litter - Southeast Of The Jack Of Hearts",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-24T17:56:33.652827+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Моддеры запустили GTA 6 на ПК спустя несколько часов после утечки исполняемого файла с Xbox",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-24T17:56:33.652902+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -22860,6 +22898,60 @@
    "drafted": false,
    "ts": "2026-11-24T17:21:58.008038+00:00",
    "frames": []
+  },
+  {
+   "author": "twitch:silky",
+   "vod": "2939060529",
+   "offset": 9488.0,
+   "title": ".",
+   "drafted": false,
+   "ts": "2026-11-24T17:41:12.635353+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:nickeh30",
+   "vod": "2938347685",
+   "offset": 33064.0,
+   "title": "Family Friendly activities.",
+   "drafted": false,
+   "ts": "2026-11-24T17:41:13.238520+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:fibii",
+   "vod": "2938450334",
+   "offset": 12694.0,
+   "title": "Mandy",
+   "drafted": false,
+   "ts": "2026-11-24T17:41:13.763217+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:leva2k",
+   "vod": "2937392051",
+   "offset": 94787.0,
+   "title": "треш",
+   "drafted": false,
+   "ts": "2026-11-24T17:41:14.292211+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:nagaikouji074",
+   "vod": "2939251340",
+   "offset": 12287.0,
+   "title": "www",
+   "drafted": false,
+   "ts": "2026-11-24T17:57:36.026830+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:samueletienne",
+   "vod": "2938420112",
+   "offset": 17383.0,
+   "title": "Sam sort l'hélico",
+   "drafted": false,
+   "ts": "2026-11-24T17:57:36.893938+00:00",
+   "frames": []
   }
  ],
  "published": [
@@ -23407,6 +23499,36 @@
    },
    "corr": false,
    "since": "2026-11-24T17:20:03.731969+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA 6 \"isn't trying to make you a simp\" it's just \"daring\" you to be human, Baldur's Gate 3 dev says",
+    "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-isnt-trying-to-make-you-a-simp-baldurs-gate-3-lead-says-its-daring-you-to-see-the-worlds-characters-as-human-beings/",
+    "summary": "Rockstar's going for another kind of complexity",
+    "published": "2026-11-24T17:33:35+00:00",
+    "source": "GamesRadar+",
+    "site_name": "GamesRadar+",
+    "trust": "high",
+    "text": "Nobody should be surprised how much of the discourse around GTA 6 has pivoted on Jason being some sort of simp for Lucia. Disappointed nonetheless, sure, but not surprised. Regardless, a senior member of Baldur's Gate 3 company Larian Studios commends Rockstar for injecting more humanity than ever into the cast here.\nMichael 'Cromwelp' Douse, the director of publishing at Larian, provides some expanded thoughts on his time in Leonida thus far on Twitter. \"I really like GTA 6's near-organic morality system,\" he starts. \"The quality of assets, writing and storytelling are such that it makes sense to be able to do a lot for the characters (big and small) that resonate, while allowing for you to be a shit-head with folks outside of the network, or the neighborhood.\"\nHe points towards the way you fulfill errands and do small favors to earn people's trust, all the while the game is teaching us about who these characters really are. \"Like tipping bar owner in her 60s as she's sweetly smiling, dancing to the veteran house band at a dive bar get-together,\" he writes. \"Picking up an alcoholics' favorite rum as a human gesture of good will.\"\nThere are many such examples, but some of the loudest voices on the collective internet have zeroed in on these aspects and used them to accuse the game of being \"woke\" or turning players into simps because Jason actively cares about Lucia's well-being. The complaints are shallow and asinine, but Douse addresses them directly.\n\"Everything in this game has been scaled up, and so too have the organic relationships between the caricatures of life,\" he says. \"This game isn't trying to make you a simp, it is just daring you (thanks in part to its technical prowess) to see the world's characters as human beings.\"\nHe calls GTA 6 \"remarkable\" in how well it manages to do all of this. I do applaud Rockstar for rejecting power fantasy in favor of grounding the protagonists in a world where the mundane is embraced rather than rejected. Being a decent person isn't simp behaviour, and I'd be wary of anyone trying to say otherwise.\nYet to dive into Rockstar's new game? Check out our GTA 6 review to see why everyone's talking about it. If you're exploring Leonida, be sure to check out our GTA 6 guides for some handy pointers and tips, and look at our recommendations for the best controllers and headsets to play GTA 6 for the ultimate experience.\nWeekly digests, tales from the communities you love, and more\n4. Best pro Xbox: Nacon Revolution X U",
+    "extra": {
+     "image": "https://cdn.mos.cms.futurecdn.net/taghN58pKxHKxF2DW3dvDA-1920-80.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "Разраб BG3 ЗАЩИТИЛ GTA 6\n\nДиректор Larian похвалил игру за живую мораль и человечность. Хватит ныть, что Джейсон «симп» — игра просто прокачала персонажей, база же!",
+    "card_title": "ДРЕВЕСИНА ЛАРИАН О GTA 6",
+    "reason": "Разработчик Baldur's Gate 3 похвалил GTA 6 за человечность и ответил токсичным игрокам",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-24T17:37:38.086034+00:00"
   }
  ]
 }
