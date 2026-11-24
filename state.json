@@ -3273,7 +3273,18 @@
   "2b8fc859b5b8e005": "2026-11-24T03:24:42.679109+00:00",
   "bd2cb893ef2cb1c7": "2026-11-24T03:40:03.632994+00:00",
   "077fc8473ef1e951": "2026-11-24T03:40:06.348764+00:00",
-  "f934e866e3fbd7c3": "2026-11-24T03:40:07.490814+00:00"
+  "f934e866e3fbd7c3": "2026-11-24T03:40:07.490814+00:00",
+  "d08d76dc202cc815": "2026-11-24T03:55:26.726788+00:00",
+  "5e0252deb8c3150f": "2026-11-24T03:55:28.556228+00:00",
+  "6f6289efafe72214": "2026-11-24T03:55:30.955269+00:00",
+  "ed31ba649ae5304a": "2026-11-24T03:55:32.429380+00:00",
+  "6f2ca19f05fef55d": "2026-11-24T03:55:33.884375+00:00",
+  "bbcec6b3f59f12a0": "2026-11-24T03:55:35.355618+00:00",
+  "883cb2b2967d3ab2": "2026-11-24T03:55:36.723303+00:00",
+  "1772d229eb7bd0db": "2026-11-24T04:10:57.048172+00:00",
+  "4e1dff13b1c34b75": "2026-11-24T04:10:59.270496+00:00",
+  "d5813fe442aa5660": "2026-11-24T04:11:00.662483+00:00",
+  "492c4bfa643e8c93": "2026-11-24T04:11:02.137636+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -5532,7 +5543,18 @@
   "39c308033934a37a": "2026-11-24T03:24:42.679109+00:00",
   "1c4d0f379df71131": "2026-11-24T03:40:03.632994+00:00",
   "9ada86e5ae6b1551": "2026-11-24T03:40:06.348764+00:00",
-  "667f96e0a3ac7b0b": "2026-11-24T03:40:07.490814+00:00"
+  "667f96e0a3ac7b0b": "2026-11-24T03:40:07.490814+00:00",
+  "1ac5f766a283b573": "2026-11-24T03:55:26.726788+00:00",
+  "e5967949052b19f1": "2026-11-24T03:55:28.556228+00:00",
+  "4692b9d017a4dce0": "2026-11-24T03:55:30.955269+00:00",
+  "0486cda94b50ce76": "2026-11-24T03:55:32.429380+00:00",
+  "2f7c000fc23d1d8a": "2026-11-24T03:55:33.884375+00:00",
+  "161869806bffb801": "2026-11-24T03:55:35.355618+00:00",
+  "3ec71c1eb7613d7f": "2026-11-24T03:55:36.723303+00:00",
+  "0fe9c1899beafdb5": "2026-11-24T04:10:57.048172+00:00",
+  "dfb1fb34353e636b": "2026-11-24T04:10:59.270496+00:00",
+  "afbac53628688d24": "2026-11-24T04:11:00.662483+00:00",
+  "836a941751b16ad2": "2026-11-24T04:11:02.137636+00:00"
  },
  "recent": [
   {
@@ -14038,6 +14060,86 @@
    "status": "skipped",
    "ts": "2026-11-24T03:40:07.490952+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GTA 6 Was the Biggest Launch in PlayStation History With Over 39 Million Unique Players",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-24T03:55:26.726850+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Fact Check Team: GTA VI generates $3.79 billion in first-day sales",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T03:55:30.955392+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to Get the Pink Porsche in GTA 6 – Chapter 3 Missable",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T03:55:32.429515+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Rockstar Games and Discord have blocked Leonida's GTA VI porting project.",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T03:55:33.884510+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Standard Edition locks five shops, and the $20.00 Xbox upgrade opens them",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T03:55:35.355754+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 PC port progressing at breakneck speed",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T03:55:36.723435+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Officially the 'Biggest Launch in PlayStation History' with Over 39 Million Players",
+   "source": "Push Square",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-24T04:10:55.029384+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Проект переноса GTA 6 на ПК исчез, его автором оказался 15-летний школьник",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T04:10:59.270638+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Kodak, Brun create secret Haitian music station in 'GTA VI'",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T04:11:00.662607+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI question sparks Islam Makhachev's gaming confession",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T04:11:02.137775+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -21324,36 +21426,6 @@
   },
   {
    "item": {
-    "title": "GTA 6 Officially the 'Biggest Launch in PlayStation History' with Over 39 Million Players",
-    "link": "https://www.pushsquare.com/news/2026/11/gta-6-officially-the-biggest-launch-in-playstation-history-with-over-39-million-players",
-    "summary": "Highest number of concurrent players ever on PlayStation. Sony has shared a selection of staggering statistics relating to the launch of GTA 6 on PS5. From launch on 19th November through to the end of the title's opening weekend, Sony recorded over 39 million unique players. Read the full article on pushsquare.com",
-    "published": "2026-11-24T00:00:00+00:00",
-    "source": "Push Square",
-    "site_name": "Push Square",
-    "trust": "high",
-    "text": "Sony has shared a selection of staggering statistics relating to the launch of GTA 6 on PS5.\nFrom launch on 19th November through to the end of the title's opening weekend, Sony recorded over 39 million unique players.\nThe game set a new record on PlayStation for the highest number of concurrent players on any game.\nPS5 players have logged 683 million hours of GTA 6 playtime, and on average, every owner on PlayStation has played it for 17.4 hours.\nOutside of the console's launch and Christmas holidays, the launch of GTA 6 resulted in \"the largest number of newly connected PS5 consoles on a single day\". GTA 6 was the first game played on 70% of those new PS5 systems.\n\"These are just a few ways we’ve seen our PlayStation community come together around this incredible moment in gaming, and we’re excited to see how you continue to build and share new memories and experiences in the months ahead,\" said content communications manager Tim Turi on the PlayStation Blog.\nThe day after release, Rockstar Games announced GTA 6 had sold 32.5 million units across PS5 and Xbox Series X|S. With these new stats from PlayStation, we know it's sold over 39 million copies on PS5 alone, as of yesterday.\nGTA 6 will continue to sell for years to come, as there'll be a PC version next year along with a brand new iteration of GTA Online. We've got a 10/10-rated GTA 6 PS5 review on the site, and we're working on our comprehensive GTA 6 guide right now.\nAre you one of those 39 million+ owners of GTA 6 on PS5? Let us know in the comments below.",
-    "extra": {
-     "image": "https://images.pushsquare.com/80604e4573097/large.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 9,
-    "post": "39 МИЛЛИОНОВ игроков на PS5\n\nGTA 6 просто порвала все рекорды и стала крупнейшим релизом в истории PlayStation за пару дней. Челы нафармили 683 миллиона часов в катках, это жёсткий разнос.\n\n❤️ — Успел ворваться в этот топчик\n👎 — Жду патчи и ПК",
-    "card_title": "39 МИЛЛИОНОВ ИГРОКОВ НА PS5",
-    "reason": "Official PlayStation stats confirming a massive 39 million players on PS5, setting a historic record.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-24T00:23:01.915475+00:00"
-  },
-  {
-   "item": {
     "title": "GTA VI стала крупнейшим запуском в истории PlayStation: игру запустили более 39 млн пользователей PS5",
     "link": "https://ixbt.games/news/2026/11/24/gta-vi-stala-krupneisim-zapuskom-v-istorii-playstation-igru-zapustili-bolee-39-mln-polzovatelei-ps5.html",
     "summary": "По данным аналитиков, предварительные заказы на игру превысили 32 млн копий, а выручка от розничных продаж в первый день достигла 3,79 млрд долларов.",
@@ -21529,6 +21601,66 @@
    },
    "corr": true,
    "since": "2026-11-24T03:40:04.718482+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA V не собирается на пенсию. Онлайн игры Rockstar резко вырос после выхода GTA VI",
+    "link": "https://ixbt.games/news/2026/11/24/gta-v-ne-sobiraetsia-na-pensiiu-onlain-igry-rockstar-rezko-vyros-posle-vyxoda-gta-vi.html",
+    "summary": "Даже спустя 13 лет GTA V остаётся на коне: на волне выхода GTA VI в Steam вернулись десятки тысяч игроков, а пиковый онлайн вырос до 137 000.",
+    "published": "2026-11-24T03:44:00+00:00",
+    "source": "iXBT.games",
+    "site_name": "iXBT.games",
+    "trust": "medium",
+    "text": "Даже спустя 13 лет GTA V остаётся на коне: на волне выхода GTA VI в Steam вернулись десятки тысяч игроков, а пиковый онлайн вырос до 137 000.\nКазалось бы, с выходом Grand Theft Auto 6 предыдущая часть серии должна постепенно уступить ей место. Всё-таки GTA V уже исполнилось 13 лет. Однако реальность оказалась иной: игра Rockstar Games переживает очередной всплеск популярности на ПК. Похоже, пользователи ПК, которым пока недоступна новая часть, решили вернуться на улицы старого доброго Лос-Сантоса.\nЛучше всего это заметно по статистике Steam. Вместо ожидаемого падения интереса аудитория GTA 5, наоборот, выросла. По данным SteamDB, в последние дни пиковый одновременный онлайн игры достиг примерно 137 000 человек. Это на несколько десятков процентов больше октябрьских показателей. В день полноценного мирового запуска GTA VI интерес к «пятёрке» немного просел, однако для 13-летней игры такие результаты на фоне выхода прямого продолжения выглядят впечатляюще.\nВпрочем, GTA V давно демонстрирует силу ПК-аудитории. На протяжении последнего года игра стабильно удерживала в Steam в среднем 40 000 – 50 000 одновременных пользователей. Дополнительный интерес поддерживают регулярные скидки и огромное сообщество моддеров, благодаря которому проект практически не стареет. Похоже, консольный релиз GTA VI не нарушил привычный ритм, а лишь подогрел интерес к криминальной вселенной Rockstar.\nОстаётся вопрос, как долго пользователям ПК придётся довольствоваться старой частью. В последнее время появились оптимистичные слухи сразу из нескольких источников, знакомых с планами студии. Согласно им, GTA VI может выйти на ПК уже в первом квартале 2027 года.\nНе пропускайте наши новостиДобавьте сайт в предпочитаемые источники, чтобы видеть нас чащеДобавить в Google",
+    "extra": {
+     "image": "https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1745573/ff4d3a48-ce71-46db-ac15-65fd3c35dd0f.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "ОНЛАЙН в GTA 5 подскочил до небес\n\nПока консольщики залипают в новую часть, ПК-геймеры массово вернулись в старый добрый Лос-Сантос. Пиковый онлайн в Steam пробил отметку в 137 тысяч человек — база жива и качает.\n\n❤️ — Ждем на ПК\n👎 — Зачем возвращаться в прошлое",
+    "card_title": "ОНЛАЙН GTA 5 СНОВА РАСТЕТ",
+    "reason": "Oфициальная статистика Steam показывает рост онлайна GTA 5 после релиза шестой части",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-24T03:55:29.473151+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA VI сожгла PS5 прямо во время стрима. Консоль не выдержала",
+    "link": "https://ixbt.games/news/2026/11/24/gta-vi-sozgla-ps5-priamo-vo-vremia-strima-konsol-ne-vyderzala.html",
+    "summary": "Во время стрима GTA VI у одного из игроков PS5 начала дымиться и окончательно вышла из строя, а другие владельцы консоли жалуются на перегрев и вылеты игры.",
+    "published": "2026-11-24T04:04:00+00:00",
+    "source": "iXBT.games",
+    "site_name": "iXBT.games",
+    "trust": "medium",
+    "text": "Во время стрима GTA VI у одного из игроков PS5 начала дымиться и окончательно вышла из строя, а другие владельцы консоли жалуются на перегрев и вылеты игры.\nДавно было понятно, что GTA VI выжмет из консолей нынешнего поколения практически все возможности. Новая игра стала самой технологически продвинутой разработкой для PS5 и Xbox Series X|S, однако вряд ли кто-то ожидал, что нагрузка окажется настолько серьёзной, что консоли начнут буквально дымиться. Именно такая неприятность произошла с одним из стримеров, чья PS5 сгорела прямо во время трансляции.\nПострадавшим оказался автор Twitch-канала JoJoJosiah. Во время стрима GTA VI он решил ненадолго отлучиться и поставил игру на паузу. Вернувшись в комнату, стример обнаружил, что из его PS5 валит густой дым. Обошлось без пожара в квартире и других серьёзных последствий. А вот сама консоль, похоже, окончательно вышла из строя. Расстроенный владелец признал, что восстановить устройство уже не получится, поэтому придётся покупать новую консоль.\nХотя дымящаяся на глазах зрителей консоль – крайний случай, это не единственная жалоба на работу GTA VI. Другие владельцы PS5 всё чаще сообщают о зависаниях игры и предупреждениях о перегреве. По некоторым сообщениям, нагрузка на комплектующие настолько велика, что внутренняя температура консоли достигает 100 градусов. В результате игра или устройство принудительно выключается.\nWas playing gta VI on stream but had to go poop. Paused it and put on a sensory vid for my chat PS5 started just smoking out its ass and now i need to get a replacement 😀\nУ подавляющего большинства игроков никаких проблем с температурой нет. Скорее всего, игра выступает своеобразным стресс-тестом: если у PS5 уже была скрытая неисправность или годами работала с забитой пылью системой охлаждения, повышенная нагрузка могла окончательно вывести её из строя.\nНе пропускайте наши новостиДобавьте сайт в предпочитаемые источники, чтобы видеть нас чащеДобавить в Google",
+    "extra": {
+     "image": "https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1745579/42d59e85-b30e-4d9f-bc12-5d0a05ef1576.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "🔥 У стримера СГОРЕЛА PS5 прямо во время игры в GTA 6\n\nКонсоль не выдержала лютых нагрузок и начала дымиться на трансляции, пока автор отошел. Походу, игра работает как жестокий стресс-тест для запыленного железа.\n\n❤️ — Чистил консоль\n👎 — Ждем патч на огнетушители",
+    "card_title": "GTA 6 СОЖГЛА PS5",
+    "reason": "Стримеру спалила консоль GTA 6, громкий хайповый случай с перегревом железа.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-24T04:10:57.893791+00:00"
   }
  ]
 }
