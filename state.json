@@ -3411,7 +3411,26 @@
   "0b0a9b0121d39c19": "2026-11-24T08:21:45.507482+00:00",
   "b58eed00c3a7c9c0": "2026-11-24T08:21:47.041705+00:00",
   "68955ce9ee1f381f": "2026-11-24T08:21:47.833817+00:00",
-  "f92b3c103a22c12e": "2026-11-24T08:21:49.162569+00:00"
+  "f92b3c103a22c12e": "2026-11-24T08:21:49.162569+00:00",
+  "65c32f1b23713c27": "2026-11-24T08:22:41.877331+00:00",
+  "f91b977af80b238e": "2026-11-24T08:22:43.013659+00:00",
+  "216a70f42ba36aa4": "2026-11-24T08:22:43.881676+00:00",
+  "ad2ef3733c750997": "2026-11-24T08:22:45.850832+00:00",
+  "cafc3dbd5b0652c5": "2026-11-24T08:23:36.957519+00:00",
+  "34b1ae0fc9418163": "2026-11-24T08:23:38.066316+00:00",
+  "cfa54c3565e0a545": "2026-11-24T08:23:38.965314+00:00",
+  "ca3db2675a545266": "2026-11-24T08:23:40.835750+00:00",
+  "c2be41ffcdb46e7e": "2026-11-24T08:24:31.514237+00:00",
+  "e7e09d5340bc7cf0": "2026-11-24T08:28:24.998158+00:00",
+  "d6ff02f66b504298": "2026-11-24T08:28:47.863974+00:00",
+  "788fc54c82e2c8c7": "2026-11-24T08:28:49.337269+00:00",
+  "69441bf34b4ac440": "2026-11-24T08:28:59.202986+00:00",
+  "0a83d52e33eecc6d": "2026-11-24T08:29:02.285683+00:00",
+  "083e78147de30ab7": "2026-11-24T08:29:03.991288+00:00",
+  "20eba9502586c01f": "2026-11-24T08:29:19.941455+00:00",
+  "8a5b0d6cbae47de8": "2026-11-24T08:29:34.527645+00:00",
+  "da06d65f766f8517": "2026-11-24T08:44:57.489729+00:00",
+  "b42f24c911f70088": "2026-11-24T08:45:06.889794+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -5746,7 +5765,17 @@
   "72989796bba1ea5a": "2026-11-24T08:12:21.127692+00:00",
   "bf91726d1df4cf91": "2026-11-24T08:12:22.060678+00:00",
   "105c7f7b745e30e1": "2026-11-24T08:12:26.979301+00:00",
-  "78bb2af395947313": "2026-11-24T08:12:52.887763+00:00"
+  "78bb2af395947313": "2026-11-24T08:12:52.887763+00:00",
+  "16937f732c45a64b": "2026-11-24T08:28:24.998158+00:00",
+  "eb91b87dfb0d2671": "2026-11-24T08:28:47.863974+00:00",
+  "8ededc084c242f80": "2026-11-24T08:28:49.337269+00:00",
+  "789729a6855bf1f3": "2026-11-24T08:28:59.202986+00:00",
+  "3cdd5236cd82e809": "2026-11-24T08:29:02.285683+00:00",
+  "10a7aa70a25a8d54": "2026-11-24T08:29:03.991288+00:00",
+  "0fa3b622c98a5987": "2026-11-24T08:29:19.941455+00:00",
+  "2126810a4c0663af": "2026-11-24T08:29:34.527645+00:00",
+  "802a1f53ab4dc677": "2026-11-24T08:44:57.489729+00:00",
+  "f5b24b0910e71e97": "2026-11-24T08:45:06.889794+00:00"
  },
  "recent": [
   {
@@ -14444,6 +14473,86 @@
    "status": "skipped",
    "ts": "2026-11-24T08:12:52.887898+00:00",
    "card_title": ""
+  },
+  {
+   "title": "Владельцы PlayStation 5 уже получили две платины в GTA VI",
+   "source": "iXBT.games",
+   "trust": "medium",
+   "status": "queued",
+   "ts": "2026-11-24T08:28:40.049523+00:00",
+   "card_title": "ПЕРВЫЕ ПЛАТИНЫ В GTA 6"
+  },
+  {
+   "title": "Rockstar полностью переписала симуляцию транспорта в GTA 6 для правдоподобия",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T08:28:47.864121+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Will Hit 30 FPS on Consoles, and the CPU Is Why",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T08:28:49.337397+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Pay 'N' Sprays Map: All 19 Locations",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T08:28:59.203111+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Boss Delivers Brilliant Response To GTA 7 Question",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T08:29:02.285818+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "5 Games to Play While Everyone Else Is Playing GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T08:29:03.991440+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Hunger Games: Sunrise on the Reaping opens to $120 million despite GTA VI—and its audience explains why",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T08:29:19.941596+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI record, Apple's Siri glasses and Tesla without a steering wheel: tech world highlights",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T08:29:34.527785+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI могут запустить на ПК уже через несколько дней после релиза",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T08:44:57.489859+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Геймер три дня шёл вдоль ЛЭП в GTA 6 и открыл портал в эпоху Vice City и рубашку Томми Версетти",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T08:45:06.889943+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -14884,6 +14993,35 @@
   },
   {
    "item": {
+    "title": "Владельцы PlayStation 5 уже получили две платины в GTA VI",
+    "link": "https://ixbt.games/news/2026/11/24/vladelcy-playstation-5-uze-polucili-dve-platiny-v-gta-vi.html",
+    "summary": "Два игрока первыми в мире открыли платиновый трофей в GTA VI на PS5, опередив более 32 млн владельцев игры.",
+    "published": "2026-11-24T08:24:00+00:00",
+    "source": "iXBT.games",
+    "site_name": "iXBT.games",
+    "trust": "medium",
+    "text": "Два игрока первыми в мире открыли платиновый трофей в GTA VI на PS5, опередив более 32 млн владельцев игры.\nПо данным Rockstar, за первый день после релиза GTA 6 разошлась тиражом более 32 млн копий. На этом фоне достижение одного игрока выглядит особенно примечательно: он стал первым, кому удалось получить платиновый трофей в версии для PS5.\nОтследить количество игроков, открывших платину, помогает сайт PSNProfiles. Он собирает статистику трофеев для всех игр PlayStation, позволяя сравнивать достижения пользователей. В случае с GTA VI этот ресурс особенно полезен: внутриигровой список трофеев по-прежнему показывает нулевой процент обладателей платины, хотя уже есть два таких игрока.\nСогласно данным PSNProfiles, первым достижение получил пользователь под ником Danpool85, а чуть позже им завладел rmay2002. Статистика также показывает, что первый играл в GTA VI на протяжении дней, а второй – 5 дней и 14 часов. То есть у Danpool85 было преимущество перед большинством остальных покупателей, которые получили доступ к игре лишь пять дней назад.\nВероятнее всего, Danpool85 получил от Rockstar копию для обзора до официального релиза или каким-то образом обошёл установленные правила.\nНе пропускайте наши новостиДобавьте сайт в предпочитаемые источники, чтобы видеть нас чащеДобавить в Google",
+    "extra": {
+     "image": "https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1745728/39ea9896-0994-4033-9764-456fcfc2fd57.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "🏆 Две первые ПЛАТИНЫ в GTA 6 уже выбили на PS5\n\nНа фоне 32+ млн проданных копий два чела — Danpool85 и rmay2002 — уже закрыли список трофеев на PS5. Первый, похоже, урвал раннюю копию, а второй просто жил в игре 5 дней и 14 часов. Вот это лютый гринд — походу, траву они потрогают ещё нескоро. 😅",
+    "card_title": "ПЕРВЫЕ ПЛАТИНЫ В GTA 6",
+    "reason": "Подтвержденный факт достижения платины первыми игроками, что является значимым событием для сообщества.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "Один из десятков миллионов игроков GTA 6 уже выбил платину",
+    "corroborated_by": "Один из десятков миллионов игроков GTA 6 уже выбил платину",
+    "guide": false,
+    "model": "gemini:gemini-3.1-flash-lite → gemini:gemini-4-hydrogen"
+   },
+   "queued_at": "2026-11-24T08:28:40.049511+00:00"
+  },
+  {
+   "item": {
     "title": "GTA V не собирается на пенсию. Онлайн игры Rockstar резко вырос после выхода GTA VI",
     "link": "https://ixbt.games/news/2026/11/24/gta-v-ne-sobiraetsia-na-pensiiu-onlain-igry-rockstar-rezko-vyros-posle-vyxoda-gta-vi.html",
     "summary": "Даже спустя 13 лет GTA V остаётся на коне: на волне выхода GTA VI в Steam вернулись десятки тысяч игроков, а пиковый онлайн вырос до 137 000.",
@@ -14973,7 +15111,8 @@
   "2026-11-24T04:31:49.377232+00:00",
   "2026-11-24T06:53:33.099748+00:00",
   "2026-11-24T08:05:18.622992+00:00",
-  "2026-11-24T08:20:55.237297+00:00"
+  "2026-11-24T08:20:55.237297+00:00",
+  "2026-11-24T08:36:19.330104+00:00"
  ],
  "tg_offset": 387129079,
  "channel": {
@@ -15025,36 +15164,6 @@
   "2026-11-23T20:15:05.441047+00:00"
  ],
  "clips": [
-  {
-   "clip": {
-    "source": "twitch",
-    "url": "https://www.twitch.tv/tototmix/clip/WimpyImpartialChinchillaKeepo-go23qZWj8gAB2lwL",
-    "title": "やっばい匂いがプンプンして「やっばいｗｗ」と目隠しを一生懸命するととさん(笑)",
-    "author": "ととみっくす",
-    "views": 1508,
-    "duration": 51.6,
-    "created": "2026-11-22T19:51:20+00:00",
-    "lang": "ja",
-    "description": "",
-    "vod_id": "2937168577",
-    "vod_offset": 33524.0
-   },
-   "caption": "🔞 СПОЙЛЕР. Лютая сцена в сюжете с БДСМ-вайбом — просто разнос 💀",
-   "interest": 9,
-   "spoiler": true,
-   "nsfw": true,
-   "watched": true,
-   "model": "gemini:gemini-3.5-flash-lite",
-   "media": {
-    "width": null,
-    "height": 720,
-    "duration": 51
-   },
-   "queued_at": "2026-11-23T08:20:37.313796+00:00",
-   "file_id": "BAACAgIAAxkDAANjawP3VxYZFgTO0ajZE-ZbBTWSS14AAnuxAAKTDSFIFB1u1-PAwXY9BA",
-   "moderation": "pending",
-   "draft_msg_id": 99
-  },
   {
    "clip": {
     "source": "twitch",
@@ -15148,33 +15257,32 @@
   {
    "clip": {
     "source": "twitch",
-    "url": "https://www.twitch.tv/squeex/clip/ColdbloodedPowerfulAsparagusPogChamp-d7A-QcrNyZ3ACEEa",
-    "title": "before we go in....",
-    "author": "Squeex",
-    "views": 414,
-    "duration": 30.9,
-    "created": "2026-11-22T22:09:47+00:00",
-    "lang": "en",
+    "url": "https://www.twitch.tv/blackufa/clip/SpookyRealSharkCopyThis-EJqunFJp6ZstyLay",
+    "title": "Полет 10 из 10",
+    "author": "BlackUFA",
+    "views": 421,
+    "duration": 30.0,
+    "created": "2026-11-23T14:02:48+00:00",
+    "lang": "ru",
     "description": "",
-    "vod_id": "2937696340",
-    "vod_offset": 5810.0
+    "vod_id": "2938242406",
+    "vod_offset": 14008.0
    },
-   "caption": "Имба: Джейсон и Лусия обнимаются перед ограблением — чисто романтик-вайб посреди криминала 💀",
-   "interest": 7,
+   "caption": "Полет Лусии с байка — это просто ЛЮТЫЙ разнос. Физика в GTA 6 реально имба, такого приземления я еще не видел 💀",
+   "interest": 8,
    "spoiler": false,
    "nsfw": false,
    "watched": true,
-   "model": "gemini:gemini-3.5-flash-lite",
+   "model": "gemini:gemini-3.1-flash-lite",
    "media": {
     "width": null,
     "height": 720,
     "duration": 30
    },
-   "queued_at": "2026-11-23T21:20:55.645451+00:00",
-   "file_id": "BAACAgIAAxkDAAN3awSuOZnqKonMbsczcrbUcj4n5zcAAvW0AAKTDSlIq7YSMWTv1Gc9BA",
-   "moderation": "approved",
-   "draft_msg_id": 119,
-   "waiting_logged": true
+   "queued_at": "2026-11-24T08:24:51.061571+00:00",
+   "file_id": "BAACAgIAAxkDAAN8awVJ1PMlBvXOQBABFDubQO3r-NsAAkeqAAKTDTFIWEGoBDsYmmA9BA",
+   "moderation": "pending",
+   "draft_msg_id": 124
   }
  ],
  "clip_drafts": [
@@ -15195,7 +15303,8 @@
   "2026-11-23T13:00:09.458629+00:00",
   "2026-11-23T20:17:12.002269+00:00",
   "2026-11-23T21:20:57.697562+00:00",
-  "2026-11-24T07:09:52.275827+00:00"
+  "2026-11-24T07:09:52.275827+00:00",
+  "2026-11-24T08:24:52.738621+00:00"
  ],
  "clip_history": [
   {
@@ -21319,6 +21428,97 @@
    "drafted": false,
    "ts": "2026-11-24T08:21:49.162624+00:00",
    "frames": []
+  },
+  {
+   "author": "twitch:trymacs",
+   "vod": "2938528021",
+   "offset": 9353.0,
+   "title": "sber dann bin kch ein Psycho",
+   "drafted": false,
+   "ts": "2026-11-24T08:22:41.877380+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:cohhcarnage",
+   "vod": "2938310833",
+   "offset": 4368.0,
+   "title": "The GTA Radio",
+   "drafted": false,
+   "ts": "2026-11-24T08:22:43.013730+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:djmariio",
+   "vod": "2938378778",
+   "offset": 8017.0,
+   "title": "SE LE HA VISTO EL PEZON",
+   "drafted": false,
+   "ts": "2026-11-24T08:22:43.881727+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:symfuhny",
+   "vod": "2938298608",
+   "offset": 9250.0,
+   "title": "lmao",
+   "drafted": false,
+   "ts": "2026-11-24T08:22:45.850881+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:montanablack88",
+   "vod": "2938201590",
+   "offset": 694.0,
+   "title": "Monte über den Stefan Raab Clip",
+   "drafted": false,
+   "ts": "2026-11-24T08:23:36.957570+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:nickeh30",
+   "vod": "2938347685",
+   "offset": 4772.0,
+   "title": "\"Nick Eh 30 Classic\"",
+   "drafted": false,
+   "ts": "2026-11-24T08:23:38.066366+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:adm1tr1pow",
+   "vod": "2938462181",
+   "offset": 9131.0,
+   "title": "полет нормальный",
+   "drafted": false,
+   "ts": "2026-11-24T08:23:38.965362+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:frametamer666",
+   "vod": "2936786153",
+   "offset": 141014.0,
+   "title": "надо",
+   "drafted": false,
+   "ts": "2026-11-24T08:23:40.835796+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:blackufa",
+   "vod": "2938242406",
+   "offset": 14008.0,
+   "title": "Полет 10 из 10",
+   "drafted": false,
+   "ts": "2026-11-24T08:24:31.514297+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:blackufa",
+   "vod": "2938242406",
+   "offset": 14008.0,
+   "title": "Полет 10 из 10",
+   "drafted": true,
+   "ts": "2026-11-24T08:24:52.738638+00:00",
+   "frames": [],
+   "caption": "Полет Лусии с байка — это просто ЛЮТЫЙ разнос. Физика в GTA 6 реально имба, такого приземления я еще не видел 💀"
   }
  ],
  "published": [
@@ -21671,6 +21871,13 @@
    "title": "PS5 сгорела во время GTA VI стрима",
    "importance": 8,
    "kind": "confirmed"
+  },
+  {
+   "ts": "2026-11-24T08:36:19.330126+00:00",
+   "msg_id": 80,
+   "title": "Имба: Джейсон и Лусия обнимаются перед ограблением — чисто романтик-вайб посреди криминал…",
+   "importance": 7,
+   "kind": "video"
   }
  ],
  "extras": [],
