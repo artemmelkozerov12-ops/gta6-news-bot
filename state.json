@@ -3647,7 +3647,22 @@
   "088c16c312183228": "2026-11-24T15:36:23.966994+00:00",
   "d59cdcb620ea1344": "2026-11-24T15:36:24.851332+00:00",
   "0816b1560d4c0d07": "2026-11-24T15:51:43.705712+00:00",
-  "f6de003524f057b2": "2026-11-24T15:52:22.568133+00:00"
+  "f6de003524f057b2": "2026-11-24T15:52:22.568133+00:00",
+  "323488d01fe65c55": "2026-11-24T16:08:04.426097+00:00",
+  "8a4249e5ac8ae560": "2026-11-24T16:08:58.487064+00:00",
+  "025155301ffb9d7a": "2026-11-24T16:10:06.384651+00:00",
+  "353cb8971d16422c": "2026-11-24T16:10:28.564160+00:00",
+  "32d7ac08f03ba29f": "2026-11-24T16:10:30.152379+00:00",
+  "02977cf5717f5eb9": "2026-11-24T16:10:57.899272+00:00",
+  "d9e5abd45029e053": "2026-11-24T16:11:00.164156+00:00",
+  "0c7384bfa1c520c2": "2026-11-24T16:11:28.147105+00:00",
+  "1ab9444cf6211287": "2026-11-24T16:11:35.942863+00:00",
+  "b5c5be4bb52e990a": "2026-11-24T16:11:36.798303+00:00",
+  "d1ffb7737709a8f3": "2026-11-24T16:11:37.797508+00:00",
+  "f7eb187ddaef9a72": "2026-11-24T16:11:38.546997+00:00",
+  "a80333d3083c10d8": "2026-11-24T16:12:29.495388+00:00",
+  "cf3d5d7dc74d93b1": "2026-11-24T16:12:30.475242+00:00",
+  "309a50be4e51aa5b": "2026-11-24T16:12:31.196440+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -6108,7 +6123,15 @@
   "486002af45e41ca0": "2026-11-24T15:35:27.982600+00:00",
   "a45e44044aecedf1": "2026-11-24T15:35:27.984619+00:00",
   "770c7b8246a9eaf8": "2026-11-24T15:36:16.294049+00:00",
-  "917bcc92079fa1a7": "2026-11-24T15:51:43.705712+00:00"
+  "917bcc92079fa1a7": "2026-11-24T15:51:43.705712+00:00",
+  "0f16a491202640e4": "2026-11-24T16:08:04.426097+00:00",
+  "a96d19c211eae692": "2026-11-24T16:08:58.487064+00:00",
+  "a375276123f70e08": "2026-11-24T16:10:06.384651+00:00",
+  "6fafdf23ca9ced8e": "2026-11-24T16:10:28.564160+00:00",
+  "682390a2472a66af": "2026-11-24T16:10:30.152379+00:00",
+  "353ce8307fb87501": "2026-11-24T16:10:57.899272+00:00",
+  "244174d0f9c8c0cc": "2026-11-24T16:11:00.164156+00:00",
+  "73b9f3b9f413a169": "2026-11-24T16:11:28.147105+00:00"
  },
  "recent": [
   {
@@ -15102,6 +15125,70 @@
    "status": "dup",
    "ts": "2026-11-24T15:51:43.705762+00:00",
    "card_title": ""
+  },
+  {
+   "title": "Does GTA 6 Have Darts or Bowling?",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "queued",
+   "ts": "2026-11-24T16:08:02.887296+00:00",
+   "card_title": "ДАРТС И БОУЛИНГ ОТСУТСТВУЮТ"
+  },
+  {
+   "title": "Where To Get The Car Key Cloner In GTA 6",
+   "source": "VGC",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-24T16:08:30.890563+00:00",
+   "card_title": "КЛОНЕР КЛЮЧЕЙ: ГАЙД"
+  },
+  {
+   "title": "How to Find & Complete Tractor Revenge Encounter in GTA 6",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "queued",
+   "ts": "2026-11-24T16:09:40.140841+00:00",
+   "card_title": "ТРАКТОРНАЯ МЕСТЬ В GTA 6"
+  },
+  {
+   "title": "Gellhorn’s Missing Tourists Walkthrough in GTA 6—Serial Killer Mission Location & Guide",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-24T16:10:06.930601+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Rockstar Shuts Down Discord Server Trying to Port GTA 6 to PC",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-24T16:10:28.564276+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Can you buy houses in GTA 6? Property, garages and safehouses explained",
+   "source": "VGC",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-24T16:10:32.405941+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Обсуждения GTA VI (и не только) вызывают усталость",
+   "source": "StopGame",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-24T16:10:57.899397+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Has A Secret Mission That Feels Like Hard Target Meets Saw",
+   "source": "GameSpot",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-24T16:11:30.558935+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -15194,6 +15281,35 @@
   },
   {
    "item": {
+    "title": "Where To Get The Car Key Cloner In GTA 6",
+    "link": "https://www.videogameschronicle.com/guide/where-to-get-the-car-key-cloner-in-gta-6/",
+    "summary": "Here's where to get the Car Key Cloner in GTA 6",
+    "published": "2026-11-24T15:59:08+00:00",
+    "source": "VGC",
+    "site_name": "VGC",
+    "trust": "high",
+    "text": "Where do you get the Car Key Cloner in GTA 6?\nIf you’re looking to steal some of GTA 6’s most flashy vehicles, then you need the Car Key Cloner. Here’s how to unlock the tool and where to find it in Vice City.\nCheck out our GTA 6 Guides Hub for dozens of guides laying out everything you need to know about Rockstar‘s latest epic.\nGuides: If you're playing Grand Theft Auto 6, make sure to check out our complete walkthrough hub, featuring beginner tips, navigation experience explained, GTA 6 cheats, and more.\nHow To Unlock The Car Key Cloner In GTA 6\nTo get the Car Key Cloner, you’ll need to progress through the main story until Chapter 3.\nFirst, complete the Crosstown Traffic mission. You’ll then receive a job from Randy, who asks you to steal a Granforma Zorrusso from Hathaway Apartments in Ocean Beach.\nDuring the Clonin’ Keys, Makin’ GS mission, you’ll be prompted to install the Key Cloner software, labelled key_cloner_v3.6.9, on your in-game phone.\nOnce installed, the tool becomes available for both Jason and Lucia.\nUsing the Car Key Cloner is relatively straightforward:\nYou can find out if a car is keyless via the WAiNK app.\nPress Triangle button to select Clone Key.\nFollow the on-screen instructions to complete the cloning process.\nIt’s absolutely worth getting the Car Key Cloner. The Car Key Cloner is the only way you’ll get access to parked supercars.\nIt also helps unlock further vehicle theft opportunities through Randy’s Wish List, most of which are supercars that require the car key cloner, lest you smash the window and cause a police response.\nJust remember that cloning a vehicle’s key doesn’t automatically remove its tracking device. You’ll still need to deal with trackers before making a stolen vehicle your own. You can do that at a Pay N Spray or at Randy’s.",
+    "extra": {
+     "image": "https://www.videogameschronicle.com/files/2026/11/GTA-6-key-cloner-5.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "🗺 Гайд: Как раздобыть Car Key Cloner\n\n1️⃣ Пройди сюжет до 3‑й главы и заверши миссию «Crosstown Traffic».\n2️⃣ Получи заказ от Рэнди — украсть Granforma Zorrusso в Ocean Beach.\n3️⃣ В миссии «Clonin’ Keys, Makin’ GS» установи софт key_cloner_v3.6.9 на телефон.\n4️⃣ Открой WAiNK, нажми Triangle → Clone Key и получи клон ключа.",
+    "card_title": "КЛОНЕР КЛЮЧЕЙ: ГАЙД",
+    "reason": "Подтверждённый гайд от VGC, полезен для кражи суперкаров",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": true,
+    "model": "groq:openai/gpt-oss-120b → groq:openai/gpt-oss-120b"
+   },
+   "queued_at": "2026-11-24T16:08:30.890550+00:00"
+  },
+  {
+   "item": {
     "title": "Владельцы PlayStation 5 уже получили две платины в GTA VI",
     "link": "https://ixbt.games/news/2026/11/24/vladelcy-playstation-5-uze-polucili-dve-platiny-v-gta-vi.html",
     "summary": "Два игрока первыми в мире открыли платиновый трофей в GTA VI на PS5, опередив более 32 млн владельцев игры.",
@@ -15251,6 +15367,66 @@
     "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
    },
    "queued_at": "2026-11-24T04:58:51.952036+00:00"
+  },
+  {
+   "item": {
+    "title": "Does GTA 6 Have Darts or Bowling?",
+    "link": "https://insider-gaming.com/gta-6-darts-bowling/",
+    "summary": "Darts and bowling have been popular minigames and pastimes in Grand Theft Auto games, but does GTA 6 have either? The post Does GTA 6 Have Darts or Bowling? appeared first on Insider Gaming .",
+    "published": "2026-11-24T13:10:51+00:00",
+    "source": "Insider Gaming",
+    "site_name": "Insider Gaming",
+    "trust": "medium",
+    "text": "Grand Theft Auto 6 is absolutely jam-packed with features, mini-games, activities, and collectibles. It can take hundreds of hours to see and do everything, so let’s see if two of the series’ most popular activities, darts and bowling, are somewhere in Vice City.\nTake out all the main story missions in GTA 6, and you still have a ridiculously deep array of entertainment. Backyard Wrestling, Illegal Operations, and even meditating. But Rockstar wouldn’t cut two iconic games, right?\nYou can buy Grand Theft Auto 6 here if you haven’t already!\nYou can’t play Darts in GTA 6 as Rockstar Games has opted not to include the mini-game this time around.\nWe all played a decent amount of Darts in GTA 4 and GTA 5, but that won’t be the case in GTA 6—for now. Darts is not one of GTA 6’s activities, so you’ll need to throw some real-life arrows for your fix.\nMore Insider Gaming: All GTA 6 Guides, Walkthroughs, Best Tips & Tricks\nI’ll explain more about this below, but unless Rockstar Games adds Darts as a feature in GTA Online 2 multiplayer, the sport looks to be skipping a generation.\nAnother recurring mini-game in the Grand Theft Auto franchise has been bowling, but bowling has been omitted from GTA 6 as well.\nYou almost can’t complain about GTA 6 lacking features when it has so much. But you’d think Darts and Bowling would be dead-certs, especially with the game’s various bars and entertainment facilities.\nMore Insider Gaming: Best Legendary Weapon Variants in GTA 6: All Locations Walkthrough\nThere’s a reason for this, though, and here’s what Rob Nelson, Rockstar North co-studio head, told IGN:\n“Darts was a contentious one. Even we… you hear they have unlimited money or unlimited time, even we do not and so sometimes you just have to admit we are not going to be able to make this to the level we feel we need to. A lot of work [is needed] to get it tuned right. Darts is one we just didn’t get to.”\nAre you sad that both have basically been cut? Let us know your thoughts about the game via the free Insider Gaming Discord server.\nFor more Insider Gaming content, read ‘All GTA 6 Cheats—Best Grand Theft Auto 6 Cheat Codes.’ Don’t forget to sign up for our free weekly newsletter.\nNOTE: Insider Gaming may earn affiliate commission if you purchase items through links on Insider Gaming. Read more about affiliate commission here.\nAndy is Insider Gaming's Senior Evergreen Editor and has been in the games journalism sphere in one way or another for over 7 years. His video game tast",
+    "extra": {
+     "image": "https://insider-gaming.com/wp-content/uploads/2026/11/Does-GTA-6-Have-Darts-or-Bowling_-guide.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "🎯 Дартс и боулинг в GTA 6 — пропали\n\nRockstar признались, что дартс и боулинг не успели замутить, так что в вирах будет только гонки и разборки. Жёстко, но зато у нас куча новых штук, так что не парьтесь, а катайте по улицам. 🤷‍♂️",
+    "card_title": "ДАРТС И БОУЛИНГ ОТСУТСТВУЮТ",
+    "reason": "Official confirmation from Rockstar that darts and bowling were cut from GTA 6 due to time limits.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
+   },
+   "queued_at": "2026-11-24T16:08:02.887282+00:00",
+   "moderation": "pending",
+   "draft_msg_id": 134
+  },
+  {
+   "item": {
+    "title": "How to Find & Complete Tractor Revenge Encounter in GTA 6",
+    "link": "https://insider-gaming.com/how-to-find-complete-tractor-revenge-encounter-in-gta-6/",
+    "summary": "Here's a detailed guide on how to find and complete GTA 6's Tractor Revenge encounter where you spray manure over a house. The post How to Find & Complete Tractor Revenge Encounter in GTA 6 appeared first on Insider Gaming .",
+    "published": "2026-11-24T15:58:53+00:00",
+    "source": "Insider Gaming",
+    "site_name": "Insider Gaming",
+    "trust": "medium",
+    "text": "Did you know there’s a Tractor Revenge encounter in GTA 6 where you have to spread manure over someone’s house? Here’s a guide that explains how to do it.\nIn a game like GTA 6, players always need to keep their ears and eyes open, because you never know what weird, absurd adventure you’ll suddenly become part of while calmly cruising down the road. One such event is Caleb’s revenge story against his mistreating ex-boss, Stacey, and this guide explains how to find the encounter and what you need to do.\nYou can also buy Grand Theft Auto 6 here if you haven’t already!\nGTA 6 Tractor Revenge Encounter Map Location\nThe Tractor Revenge Encounter in GTA 6 can be found on a highway while driving towards Frogswater.\nWhile driving from the motel to Frogswater in Chapter 2, players will encounter an erratic tractor on the highway (the exact location is marked with a blue star in the screenshot above).\nMore Insider Gaming: All GTA 6 Guides, Walkthroughs, Best Tips & Tricks\nThe tractor is being operated by an NPC named Caleb, who is heavily under the influence of alcohol and is causing a disturbance with his reckless driving, leading to traffic congestion on the road. To initiate this encounter, players should approach the tractor and press and hold up on the D-Pad to Taunt/Question Caleb.\nGTA 6 Tractor Revenge Encounter Mission Walkthrough\nHere are the steps on how to find and complete the tractor revenge encounter in GTA 6 and how to spread manure over Stacey’s house:\nOnce you interact with Caleb, he will park the tractor, attached to a trailer filled with manure, on the side of the road and ask Lucia to drive it instead.\nOn the way, he explains that you are going to Stacey’s house, who is an ex-boss who was making intimate videos of him and also earning money off of him. She didn’t give him a penny from the earnings and left him high and dry when the earnings from his videos stopped.\nCaleb’s recipe for revenge includes spraying manure over Stacey’s house, and when you reach the location, you will see a pristine white house ready to be smeared with shit.\nOnce you are at the house, hold down R1/RB to spray the manure; it sprays from the right side of the carrier.\nThe areas that need to be covered by manure are highlighted in pink; they include the entire house, the back door, the swimming pool, Stacey’s car, and the front door.\nStacey eventually comes out because of the commotion, and Caleb asks you to spray the manure over her too while she’s talking.\nYour cue to exit",
+    "extra": {
+     "image": "https://insider-gaming.com/wp-content/uploads/2026/11/GTA-6-Tractor-Revenge-2-scaled.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "🗺 Гайд: Тракторная месть — как заспреить навоз на дом Стейси 🚜\n\n1️⃣ По пути от мотеля к Фрогсуотеру в Главе 2 ищи трактор с синим маркером на шоссе.\n2️⃣ Подъезжай, держи ↑ на D‑Pad, чтобы вызвать Калеба.\n3️⃣ Садись в трактор‑прицеп, едем к дому Стейси (белый дом с бассейном).\n4️⃣ Держи R1/RB, чтобы спрейнуть навоз на отмеченные розовые зоны и на саму Стейси.",
+    "card_title": "ТРАКТОРНАЯ МЕСТЬ В GTA 6",
+    "reason": "Подтверждённый гайд от Insider Gaming, интересный и полезный контент",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": true,
+    "model": "groq:openai/gpt-oss-120b → groq:openai/gpt-oss-120b"
+   },
+   "queued_at": "2026-11-24T16:09:40.140827+00:00"
   }
  ],
  "posts": [
@@ -15325,7 +15501,8 @@
   "2026-11-24T11:05:40.560573+00:00",
   "2026-11-24T12:06:30.409601+00:00",
   "2026-11-24T13:07:21.924170+00:00",
-  "2026-11-24T14:08:00.473282+00:00"
+  "2026-11-24T14:08:00.473282+00:00",
+  "2026-11-24T16:11:35.893385+00:00"
  ],
  "slots_sent": {
   "2026-11-23:guide:1": "2026-11-23T07:01:27.603496+00:00",
@@ -15485,6 +15662,36 @@
    "file_id": "BAACAgIAAxkDAAOCawV3P2aj7Z1UmBAv-WeHK3es-7YAAl2sAAKTDTFISK7mmhGPw4o9BA",
    "moderation": "pending",
    "draft_msg_id": 130
+  },
+  {
+   "clip": {
+    "source": "twitch",
+    "url": "https://www.twitch.tv/cinna/clip/FunnyLaconicMooseTriHard-cgT-muBYSEUJm0u7",
+    "title": "Not Even Hiding It Anymore",
+    "author": "Cinna",
+    "views": 394,
+    "duration": 57.7,
+    "created": "2026-11-23T23:30:15+00:00",
+    "lang": "en",
+    "description": "",
+    "vod_id": "2938693218",
+    "vod_offset": 9924.0
+   },
+   "caption": "🔞 В GTA 6 завезли интерактивную мини-игру в душе — и стримерша словила тильт, не понимая, куда смотреть 💀",
+   "interest": 8,
+   "spoiler": false,
+   "nsfw": true,
+   "watched": true,
+   "model": "gemini:gemini-3.5-flash",
+   "media": {
+    "width": null,
+    "height": 720,
+    "duration": 57
+   },
+   "queued_at": "2026-11-24T16:12:52.497495+00:00",
+   "file_id": "BAACAgIAAxkDAAOHawW3hSMWz-urSvoxLNA-86oC5d4AAtKvAAKTDTFIOLm15ghVi2Y9BA",
+   "moderation": "pending",
+   "draft_msg_id": 135
   }
  ],
  "clip_drafts": [
@@ -15505,7 +15712,8 @@
   "2026-11-24T08:24:52.738621+00:00",
   "2026-11-24T09:28:35.874072+00:00",
   "2026-11-24T10:35:41.949576+00:00",
-  "2026-11-24T11:38:40.245755+00:00"
+  "2026-11-24T11:38:40.245755+00:00",
+  "2026-11-24T16:12:54.165650+00:00"
  ],
  "clip_history": [
   {
@@ -22318,6 +22526,73 @@
    "drafted": false,
    "ts": "2026-11-24T15:52:22.568173+00:00",
    "frames": []
+  },
+  {
+   "author": "youtube:carterpcs",
+   "vod": "",
+   "offset": -1,
+   "title": "My portable GTA 6 setup for thanksgiving..",
+   "drafted": false,
+   "ts": "2026-11-24T16:11:35.942921+00:00"
+  },
+  {
+   "author": "youtube:oye jid show",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6  🤩 | #oyejid #funny #comedy #shorts #gta #gta6",
+   "drafted": false,
+   "ts": "2026-11-24T16:11:36.798344+00:00"
+  },
+  {
+   "author": "youtube:surprisefact - curiosities ",
+   "vod": "",
+   "offset": -1,
+   "title": "THE MOST USELESS BUTTONS IN GTA 6",
+   "drafted": false,
+   "ts": "2026-11-24T16:11:37.797561+00:00"
+  },
+  {
+   "author": "youtube:poseidon",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 Karıma Sorabilir Miyim :D Rraenee Elraenn",
+   "drafted": false,
+   "ts": "2026-11-24T16:11:38.547038+00:00"
+  },
+  {
+   "author": "youtube:virluxeditz",
+   "vod": "",
+   "offset": -1,
+   "title": "BMW in GTA 6 💀🥶 #bmw #bmwm5 #gta6 #gta #viral #shorts #fyp",
+   "drafted": false,
+   "ts": "2026-11-24T16:12:29.495436+00:00"
+  },
+  {
+   "author": "youtube:bytetalkyt",
+   "vod": "",
+   "offset": -1,
+   "title": "How To Get Stuck In First Person In GTA 6",
+   "drafted": false,
+   "ts": "2026-11-24T16:12:30.475283+00:00"
+  },
+  {
+   "author": "twitch:cinna",
+   "vod": "2938693218",
+   "offset": 9924.0,
+   "title": "Not Even Hiding It Anymore",
+   "drafted": false,
+   "ts": "2026-11-24T16:12:31.196480+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:cinna",
+   "vod": "2938693218",
+   "offset": 9924.0,
+   "title": "Not Even Hiding It Anymore",
+   "drafted": true,
+   "ts": "2026-11-24T16:12:54.165668+00:00",
+   "frames": [],
+   "caption": "🔞 В GTA 6 завезли интерактивную мини-игру в душе — и стримерша словила тильт, не понимая, куда смотреть 💀"
   }
  ],
  "published": [
@@ -22718,33 +22993,33 @@
  "rewrite_wait": [
   {
    "item": {
-    "title": "Does GTA 6 Have Darts or Bowling?",
-    "link": "https://insider-gaming.com/gta-6-darts-bowling/",
-    "summary": "Darts and bowling have been popular minigames and pastimes in Grand Theft Auto games, but does GTA 6 have either? The post Does GTA 6 Have Darts or Bowling? appeared first on Insider Gaming .",
-    "published": "2026-11-24T13:10:51+00:00",
-    "source": "Insider Gaming",
-    "site_name": "Insider Gaming",
-    "trust": "medium",
-    "text": "Grand Theft Auto 6 is absolutely jam-packed with features, mini-games, activities, and collectibles. It can take hundreds of hours to see and do everything, so let’s see if two of the series’ most popular activities, darts and bowling, are somewhere in Vice City.\nTake out all the main story missions in GTA 6, and you still have a ridiculously deep array of entertainment. Backyard Wrestling, Illegal Operations, and even meditating. But Rockstar wouldn’t cut two iconic games, right?\nYou can buy Grand Theft Auto 6 here if you haven’t already!\nYou can’t play Darts in GTA 6 as Rockstar Games has opted not to include the mini-game this time around.\nWe all played a decent amount of Darts in GTA 4 and GTA 5, but that won’t be the case in GTA 6—for now. Darts is not one of GTA 6’s activities, so you’ll need to throw some real-life arrows for your fix.\nMore Insider Gaming: All GTA 6 Guides, Walkthroughs, Best Tips & Tricks\nI’ll explain more about this below, but unless Rockstar Games adds Darts as a feature in GTA Online 2 multiplayer, the sport looks to be skipping a generation.\nAnother recurring mini-game in the Grand Theft Auto franchise has been bowling, but bowling has been omitted from GTA 6 as well.\nYou almost can’t complain about GTA 6 lacking features when it has so much. But you’d think Darts and Bowling would be dead-certs, especially with the game’s various bars and entertainment facilities.\nMore Insider Gaming: Best Legendary Weapon Variants in GTA 6: All Locations Walkthrough\nThere’s a reason for this, though, and here’s what Rob Nelson, Rockstar North co-studio head, told IGN:\n“Darts was a contentious one. Even we… you hear they have unlimited money or unlimited time, even we do not and so sometimes you just have to admit we are not going to be able to make this to the level we feel we need to. A lot of work [is needed] to get it tuned right. Darts is one we just didn’t get to.”\nAre you sad that both have basically been cut? Let us know your thoughts about the game via the free Insider Gaming Discord server.\nFor more Insider Gaming content, read ‘All GTA 6 Cheats—Best Grand Theft Auto 6 Cheat Codes.’ Don’t forget to sign up for our free weekly newsletter.\nNOTE: Insider Gaming may earn affiliate commission if you purchase items through links on Insider Gaming. Read more about affiliate commission here.\nAndy is Insider Gaming's Senior Evergreen Editor and has been in the games journalism sphere in one way or another for over 7 years. His video game tast",
+    "title": "Thursday Night Football Had Lowest Viewership All Season On GTA 6 Launch Day",
+    "link": "https://www.gamespot.com/articles/thursday-night-football-had-lowest-viewership-all-season-on-gta-6-launch-day/",
+    "summary": "The Thursday Night Football matchup on November 19, the day that GTA 6 came out, had the lowest viewership of the entire season so far for a TNF game, but the low ratings might not be due entirely to competition with GTA 6. The data shows that 12.23 million people, on average, watched the November 19 matchup between the Indianapolis Colts and Houston Texans on Prime Video. That was a 9% slide from the Week 11 Thursday Night Football matchup in 2025 featuring the New England Patriots and New York Jets. https://www.youtube.com/watch?v=dJDf76QVv70 Looking at week-over-week, the November 12 matchup this year between the Washington Commanders and New York Giants drew 16.27 million viewers , and was up 17% compared to the Week 10 matchup in 2025 featuring the Las Vegas Raiders and Denver Broncos. Due to the poor ratings of the November 19 TNF game, the full-season average now for TNF games this season sank to 16.62 million on per game. One expert told GameSpot that live sports like football probably won't be too heavily impacted by GTA 6 because people want to watch in real time. The low ratings for the November 19 matchup could be partially attributable to competition with GTA 6, but a likelier scenario is that people tuned out because it was a boring game in which the heavily favored Texans throttled the Colts by a score of 26-3. The Texans were up 17-3 at the half, and the game only had nine more points total scored in the second half--all by the Texans. Not exactly thrilling stuff that people would stay glued to. Ahead of GTA 6's launch, people also wondered how The Hunger Games: Sunrise on the Reaping, which released on November 20, might be impacted. It may have been, but the film still put up massive numbers at the box office that exceeded expectations. GTA 6 sold 32.5 million copies via pre-purchases alone and generated close to $4 billion on day one. The game will continue to sell, and it should get another jolt of sales when the PC edition arrives in 2027 , as rumored. If you're just getting started, be sure to check out GameSpot's rundown of the five best things to do first and our guide for how to make money fast .",
+    "published": "2026-11-24T15:46:40+00:00",
+    "source": "GameSpot",
+    "site_name": "GameSpot",
+    "trust": "high",
+    "text": "The Thursday Night Football matchup on November 19, the day that GTA 6 came out, had the lowest viewership of the entire season so far for a TNF game, but the low ratings might not be due entirely to competition with GTA 6. The data shows that 12.23 million people, on average, watched the November 19 matchup between the Indianapolis Colts and Houston Texans on Prime Video. That was a 9% slide from the Week 11 Thursday Night Football matchup in 2025 featuring the New England Patriots and New York Jets. https://www.youtube.com/watch?v=dJDf76QVv70 Looking at week-over-week, the November 12 matchup this year between the Washington Commanders and New York Giants drew 16.27 million viewers , and was up 17% compared to the Week 10 matchup in 2025 featuring the Las Vegas Raiders and Denver Broncos. Due to the poor ratings of the November 19 TNF game, the full-season average now for TNF games this season sank to 16.62 million on per game. One expert told GameSpot that live sports like football probably won't be too heavily impacted by GTA 6 because people want to watch in real time. The low ratings for the November 19 matchup could be partially attributable to competition with GTA 6, but a likelier scenario is that people tuned out because it was a boring game in which the heavily favored Texans throttled the Colts by a score of 26-3. The Texans were up 17-3 at the half, and the game only had nine more points total scored in the second half--all by the Texans. Not exactly thrilling stuff that people would stay glued to. Ahead of GTA 6's launch, people also wondered how The Hunger Games: Sunrise on the Reaping, which released on November 20, might be impacted. It may have been, but the film still put up massive numbers at the box office that exceeded expectations. GTA 6 sold 32.5 million copies via pre-purchases alone and generated close to $4 billion on day one. The game will continue to sell, and it should get another jolt of sales when the PC edition arrives in 2027 , as rumored. If you're just getting started, be sure to check out GameSpot's rundown of the five best things to do first and our guide for how to make money fast .",
     "extra": {
-     "image": "https://insider-gaming.com/wp-content/uploads/2026/11/Does-GTA-6-Have-Darts-or-Bowling_-guide.jpg"
+     "image": "https://www.gamespot.com/wp-content/uploads/2026/11/Grand-Theft-Auto-VI_20261030130806_.jpg?w=300"
     }
    },
    "verdict": {
     "type": "confirmed",
-    "importance": 6,
-    "post": "❌ Без боулинга и дартса\n\nРокстары признались, что вырезали из шестёрки дартс и боулинг — просто не успели допилить мини-игры до идеала. Чел, ну как так-то, а с кем теперь Роману катку катать?\n\n❤️ — Жаль до слёз\n👎 — Да пофиг, база топ",
-    "card_title": "ДАРТС И БОУЛИНГ В GTA 6",
-    "reason": "Official confirmation from Rockstar that darts and bowling were cut from GTA 6 due to time limits.",
+    "importance": 7,
+    "post": "📉 ФУТБОЛ ПРОИГРАЛ GTA 6\n\nВ день релиза вечером смотрели меньше всего за сезон. 12.2 млн зрителей — минус 9% к прошлому году. Хотя, честно, матч был скучный: 26:3 в пользу Техасцев. Но вайб того, что все сидели в Лесере, а не у ТВ, просто топчик.\n\n❤️ — Футбол умер\n👎 — Просто скучный матч",
+    "card_title": "ТАФТ ПРОИГРАЛ GTA 6",
+    "reason": "Потребительские данные о снижении аудитории на фоне релиза — интересная статистика и мемный контекст для аудитории.",
     "duplicate": false,
     "corroborated": false,
     "duplicate_of": "",
     "corroborated_by": "",
     "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
+    "model": "groq:qwen/qwen3.8-27b"
    },
    "corr": false,
-   "since": "2026-11-24T13:26:46.964216+00:00"
+   "since": "2026-11-24T16:11:00.662147+00:00"
   }
  ]
 }
