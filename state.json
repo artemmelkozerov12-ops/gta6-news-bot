@@ -3218,7 +3218,15 @@
   "e9d3d03422eac700": "2026-11-24T01:12:07.663628+00:00",
   "8165d6812d100611": "2026-11-24T01:12:09.300218+00:00",
   "bc056802e5371874": "2026-11-24T01:12:16.728246+00:00",
-  "fef2fab845101be9": "2026-11-24T01:12:22.568925+00:00"
+  "fef2fab845101be9": "2026-11-24T01:12:22.568925+00:00",
+  "4bbf3663fec3c311": "2026-11-24T01:27:49.032852+00:00",
+  "ce410c0b2a2411a6": "2026-11-24T01:27:56.105188+00:00",
+  "060143d41837ae89": "2026-11-24T01:28:00.120760+00:00",
+  "5ebcda3f29ddd6e9": "2026-11-24T01:28:01.439302+00:00",
+  "217b98a343fd747d": "2026-11-24T01:28:07.793359+00:00",
+  "b2ab79122183bcd3": "2026-11-24T01:28:09.200494+00:00",
+  "f26e46dfae1885b8": "2026-11-24T01:28:11.060737+00:00",
+  "8d186b719738b4fe": "2026-11-24T01:28:12.808028+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -5422,7 +5430,15 @@
   "8268727e5c91d5c2": "2026-11-24T01:12:07.663628+00:00",
   "b4444278acf8145e": "2026-11-24T01:12:09.300218+00:00",
   "189040b035a3e31d": "2026-11-24T01:12:16.728246+00:00",
-  "683dc787771aeef5": "2026-11-24T01:12:22.568925+00:00"
+  "683dc787771aeef5": "2026-11-24T01:12:22.568925+00:00",
+  "beee9bc6872ae0ac": "2026-11-24T01:27:49.032852+00:00",
+  "fa21d7728ed63938": "2026-11-24T01:27:56.105188+00:00",
+  "830e71582d01b26e": "2026-11-24T01:28:00.120760+00:00",
+  "f2d544dfa596defb": "2026-11-24T01:28:01.439302+00:00",
+  "94784a1c2d6659c7": "2026-11-24T01:28:07.793359+00:00",
+  "ef72f51ca6cc6e17": "2026-11-24T01:28:09.200494+00:00",
+  "faa1a730cf919a50": "2026-11-24T01:28:11.060737+00:00",
+  "65a7f4d79d6761d2": "2026-11-24T01:28:12.808028+00:00"
  },
  "recent": [
   {
@@ -14408,6 +14424,78 @@
    "status": "skipped",
    "ts": "2026-11-24T01:12:22.569070+00:00",
    "card_title": ""
+  },
+  {
+   "title": "This GTA 6 Glitch (Almost) Ruined The Game’s Most Iconic Scene",
+   "source": "GameSpot",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-24T01:27:43.887284+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "See the Biggest Stars Who Made Cameos in ‘GTA 6’",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T01:27:49.032969+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Player Gets Social Ban On PSN After Sending A Photo Of In-Game Nudity",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T01:27:56.105327+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How GTA 6 made $3.79 billion on launch day",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T01:28:00.120887+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "17 часов в GTA 6 и всего 19% сюжета – игроки не спешат на миссии и просто изучают мир",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T01:28:01.439445+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Вылеты GTA 6 на PS5 помешали игрокам пройти первые сюжетные сцены",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T01:28:07.793508+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How a Surprise D’Angelo Song Landed in GTA VI",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T01:28:09.200630+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Resident Evil Requiem засыпали нулями на Metacritic из-за GTA 6",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T01:28:11.060873+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6's First Post-Launch Patch Fixes Crashes, Stuck Weather, and Autosaves",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T01:28:31.883901+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -21620,36 +21708,6 @@
   "digest-20261123": "2026-11-23T19:30:46.041576+00:00"
  },
  "rewrite_wait": [
-  {
-   "item": {
-    "title": "This GTA 6 Glitch (Almost) Ruined The Game’s Most Iconic Scene",
-    "link": "https://www.gamespot.com/articles/this-gta-6-glitch-almost-ruined-the-games-most-iconic-scene/",
-    "summary": "Note: This story will discuss a pivotal mission in Chapter 2 of Grand Theft Auto 6. A powerful sequence in Grand Theft Auto 6 is quickly becoming a favorite among the game's many players, but a technical mishap made my experience of this scene very different--hilariously different. Chapter 2 of GTA 6 begins with Jason and Lucia in a rough spot, with the former still recovering from major injuries sustained at the end of Chapter 1 , and the latter having to care for him. It isn't until the mission \"Breakfast Run\" that Jason is back on his feet, and the Bonnie-and-Clyde-like duo mark his recovery with a crime spree. Set to \"Money or Nothing\" by Dire Straits , Lucia and Jason rob a diner, not dissimilar to a scene from Pulp Fiction, and a playable montage shows the pair robbing convenience shops, a clothing store, and other establishments. The image of Jason and Lucia busting open double doors, guns in hand, is probably the most iconic image of GTA 6, a statement of intent that defines the game's story going forward. https://bsky.app/profile/compenderizer.bsky.social/post/3n2yzmpjn6c2j But somehow, I had gotten a slightly different version of this montage. When I returned to the motel as Lucia, I sprinted toward the door , only for the game to place me back outside the room. The game told me to \"Go to Hank's Waffles\" with no additional context, and I walked back into the motel to find Jason, not only up and about, but only sporting his underwear, bandages, and a buzz cut. I suspected that there was a cutscene that I missed showing Jason fully recovered, so I decided to carry out the mission. The problem was that Jason wouldn't put any clothes on. I drove to the diner as the game instructed me to, and the entire mission, Dire Straits and all, resumed with a mostly naked Jason. It was impossible not to cackle at the sheer absurdity of the situation, watching Jason terrorize locals and presumably solidifying a new legacy as the Leonida underwear robber. At one point, the camera cut to Jason's bare foot slamming a gas pedal, and I was left breathless from laughter. Eventually, the game decided to put clothes back on Jason, but I had to visit a salon to grow his hair back. Iconic. Though GTA 6 features nudity in various degrees, you cannot dress Jason and Lucia in their underwear outside of their home. That sprint through the motel room door must have bypassed some sort of clothing check and allowed Jason to freely show skin outside of the motel. I've seen players online talk about an \"underwear glitch,\" and I found one Reddit comment saying that they also had a nearly naked Jason run about in \"Breakfast Run,\" so I appear to be an edge case in experiencing this specific glitch. I can't say that this bug \"ruined\" one of GTA 6's best missions for me, as I still found myself thoroughly entertained--just not in the way Rockstar Games wanted. Having Jason in his undies while still concealing his identity with a hat and bandana felt like something out of a Sai",
-    "published": "2026-11-23T21:23:41+00:00",
-    "source": "GameSpot",
-    "site_name": "GameSpot",
-    "trust": "high",
-    "text": "Note: This story will discuss a pivotal mission in Chapter 2 of Grand Theft Auto 6. A powerful sequence in Grand Theft Auto 6 is quickly becoming a favorite among the game's many players, but a technical mishap made my experience of this scene very different--hilariously different. Chapter 2 of GTA 6 begins with Jason and Lucia in a rough spot, with the former still recovering from major injuries sustained at the end of Chapter 1 , and the latter having to care for him. It isn't until the mission \"Breakfast Run\" that Jason is back on his feet, and the Bonnie-and-Clyde-like duo mark his recovery with a crime spree. Set to \"Money or Nothing\" by Dire Straits , Lucia and Jason rob a diner, not dissimilar to a scene from Pulp Fiction, and a playable montage shows the pair robbing convenience shops, a clothing store, and other establishments. The image of Jason and Lucia busting open double doors, guns in hand, is probably the most iconic image of GTA 6, a statement of intent that defines the game's story going forward. https://bsky.app/profile/compenderizer.bsky.social/post/3n2yzmpjn6c2j But somehow, I had gotten a slightly different version of this montage. When I returned to the motel as Lucia, I sprinted toward the door , only for the game to place me back outside the room. The game told me to \"Go to Hank's Waffles\" with no additional context, and I walked back into the motel to find Jason, not only up and about, but only sporting his underwear, bandages, and a buzz cut. I suspected that there was a cutscene that I missed showing Jason fully recovered, so I decided to carry out the mission. The problem was that Jason wouldn't put any clothes on. I drove to the diner as the game instructed me to, and the entire mission, Dire Straits and all, resumed with a mostly naked Jason. It was impossible not to cackle at the sheer absurdity of the situation, watching Jason terrorize locals and presumably solidifying a new legacy as the Leonida underwear robber. At one point, the camera cut to Jason's bare foot slamming a gas pedal, and I was left breathless from laughter. Eventually, the game decided to put clothes back on Jason, but I had to visit a salon to grow his hair back. Iconic. Though GTA 6 features nudity in various degrees, you cannot dress Jason and Lucia in their underwear outside of their home. That sprint through the motel room door must have bypassed some sort of clothing check and allowed Jason to freely show skin outside of the motel. I've seen players",
-    "extra": {
-     "image": "https://www.gamespot.com/wp-content/uploads/2026/11/GTA-6-glitch.jpg?w=300"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "🔥 ГЛИТЧ В ИКОННОЙ СЦЕНЕ\n\nСитуация: в миссии «Breakfast Run» Джейсон появляется почти голым, а игроку приходится крутить педаль газом босиком. Это не просто баг — это комичный момент, который почти испортил легендарную сцену. Rockstar пока не исправил, но фанаты уже делятся смехом и мемами. Удача в том, что после визита в салон Джейсон снова выглядит как герой, а не как «Leonida underwear robber».",
-    "card_title": "ГЛИТЧ В ИКОННОЙ СЦЕНЕ",
-    "reason": "официальный источник GameSpot описывает подтверждённый глитч в GTA 6",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "groq:openai/gpt-oss-20b"
-   },
-   "corr": false,
-   "since": "2026-11-23T22:02:22.285383+00:00"
-  },
   {
    "item": {
     "title": "GTA 6 Players Figure Out A Way To Remove Its Framerate Cap, But 60FPS Ain’t Happening Anytime Soon",
