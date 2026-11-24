@@ -3181,7 +3181,24 @@
   "44f61019184acfae": "2026-11-24T00:05:50.449734+00:00",
   "1114db36b72767d1": "2026-11-24T00:06:58.528201+00:00",
   "314cdda64ebbdd49": "2026-11-24T00:06:59.844332+00:00",
-  "5bfd2d02152c75bb": "2026-11-24T00:07:00.905958+00:00"
+  "5bfd2d02152c75bb": "2026-11-24T00:07:00.905958+00:00",
+  "869092368df82162": "2026-11-24T00:22:21.049944+00:00",
+  "42ed4d372a217e86": "2026-11-24T00:22:28.989701+00:00",
+  "5887a6de14558701": "2026-11-24T00:22:44.985597+00:00",
+  "3cd099188b62aaed": "2026-11-24T00:22:56.840467+00:00",
+  "4194d0ba4d8f94a6": "2026-11-24T00:23:09.401937+00:00",
+  "2c33eaa96450a8da": "2026-11-24T00:23:16.825121+00:00",
+  "5169471269f992c6": "2026-11-24T00:23:21.940903+00:00",
+  "7a05fa21e3332785": "2026-11-24T00:23:37.697693+00:00",
+  "a4f358e4eee4b204": "2026-11-24T00:23:43.223589+00:00",
+  "a5ed7c0f45b7810b": "2026-11-24T00:39:03.436497+00:00",
+  "ae07edcd61099acf": "2026-11-24T00:39:05.519668+00:00",
+  "27d4c0935e2f1289": "2026-11-24T00:39:06.659448+00:00",
+  "655fe4a49e5f04d1": "2026-11-24T00:39:07.829755+00:00",
+  "d9f2b0396348b820": "2026-11-24T00:39:09.584616+00:00",
+  "633c5db0b5146ad2": "2026-11-24T00:39:11.488881+00:00",
+  "6f0d2a560656e216": "2026-11-24T00:39:12.354714+00:00",
+  "be4d362234ace706": "2026-11-24T00:39:14.177294+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -5348,7 +5365,24 @@
   "610dc066688b3ec3": "2026-11-24T00:05:50.449734+00:00",
   "4185dfa3a0481f2e": "2026-11-24T00:06:58.528201+00:00",
   "7d27086635d83fc9": "2026-11-24T00:06:59.844332+00:00",
-  "617da125937ca922": "2026-11-24T00:07:00.905958+00:00"
+  "617da125937ca922": "2026-11-24T00:07:00.905958+00:00",
+  "2c1aa2c030a3cedd": "2026-11-24T00:22:21.049944+00:00",
+  "ace91255427a504f": "2026-11-24T00:22:28.989701+00:00",
+  "0a7bd2d2e682cd57": "2026-11-24T00:22:44.985597+00:00",
+  "49897af512d0b1ab": "2026-11-24T00:22:56.840467+00:00",
+  "51fda9a7230a9ba9": "2026-11-24T00:23:09.401937+00:00",
+  "3d1c2f7fe47ad825": "2026-11-24T00:23:16.825121+00:00",
+  "01b0fe0f017f88a9": "2026-11-24T00:23:21.940903+00:00",
+  "132857d78ab4bb0d": "2026-11-24T00:23:37.697693+00:00",
+  "074bbec46114aa3a": "2026-11-24T00:23:43.223589+00:00",
+  "409c9098aceb656f": "2026-11-24T00:39:03.436497+00:00",
+  "b100eb4bdbc8a463": "2026-11-24T00:39:05.519668+00:00",
+  "f10f00defa26e41f": "2026-11-24T00:39:06.659448+00:00",
+  "ad4a2b6a2bd4010e": "2026-11-24T00:39:07.829755+00:00",
+  "36a24b234b3d0119": "2026-11-24T00:39:09.584616+00:00",
+  "2ad2ce11c6ae7f0d": "2026-11-24T00:39:11.488881+00:00",
+  "4b754c273c4b6098": "2026-11-24T00:39:12.354714+00:00",
+  "cba9879ee735f028": "2026-11-24T00:39:14.177294+00:00"
  },
  "recent": [
   {
@@ -14086,6 +14120,118 @@
    "status": "skipped",
    "ts": "2026-11-24T00:07:00.906104+00:00",
    "card_title": ""
+  },
+  {
+   "title": "D’Angelo’s Estate Releases Posthumous Song ‘Kamikazi’ for ‘GTA 6’: Singer ‘Approved This Track’ Before His Death",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-24T00:22:21.049989+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "D’Angelo’s posthumous song “Kamikazi” for GTA VI is released",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T00:23:09.402069+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 has a hidden Mario and Luigi Easter egg that lets Jason and Lucia dress like Nintendo's iconic plumbers",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T00:23:16.825257+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Call of Duty's Player Count Dropped by Over 40% Following GTA 6's Release, According to Analysts",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T00:23:21.941049+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6, Zelda and Resident Evil fans caught up in bizarre Metacritic ratings war",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T00:23:37.697828+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "All the 'GTA VI' Merch Drops You Need to Know About",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T00:23:43.223725+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "What Happens If You Go Back to Jason’s House in GTA 6?",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-24T00:39:04.129411+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 привлекла 39 млн пользователей PS5 за первые дни",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T00:39:05.519799+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "‘GTA VI’ radio stations: Every celebrity DJ and host",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T00:39:06.659574+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Does GTA 6 Have a 60 FPS Mode? PS5, PS5 Pro and Xbox Explained",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T00:39:07.829881+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "'GTA 6 Online' rumors say you'll need to complete the game to play. Don't believe them.",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T00:39:09.584753+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "The first 'GTA 6' patch is live: 7 fixes address fan complaints",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T00:39:11.489003+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI Does What Most Video Games With Choice And Morality Systems Don't",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T00:39:12.354837+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "There’s an NPC in GTA 6 Who Knows He’s in a Video Game. Here’s How to Find His House.",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T00:39:14.177423+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -14447,35 +14593,6 @@
   },
   {
    "item": {
-    "title": "GTA 6: Find and break into Freddie Gibbs’ doomsday compound in Grand Theft Auto 6",
-    "link": "https://www.videogameschronicle.com/guide/gta-6-find-break-in-freddie-doomsday-compound-grand-theft-auto/",
-    "summary": "How to find Freddie Gibbs, enter his compound, and get rewards in Grand Theft Auto 6",
-    "published": "2026-11-23T11:31:32+00:00",
-    "source": "VGC",
-    "site_name": "VGC",
-    "trust": "high",
-    "text": "Rapper Freddie Gibbs is in Grand Theft Auto 6, and he’s a doomsday prepper with an impressive compound and bunker.\nFreddie is convinced that the apocalypse is coming, so he’s built up a doomsday bunker and compound, complete with an electric fence, mines, and even explosive drones. That’s just the defenses — he’s really prepared for the world to end.\nFreddie is a pretty nice and generous guy once you get to know him, but getting to know him isn’t so easy. In this guide, we’re breaking down how to find and break into Freddie’s compound both times in GTA 6.\nHow to find Freddie’s doomsday bunker – GTA 6\nFreddie’s compound is located on the North shore of Lake Leonida in North Leonard County. It’s on the same road as One-Eyed Willie’s Auto Shop (Ultimate Edition exclusive). You can’t miss it as it’s a large compound surrounded by electric fences, and has multiple billboards propped up warning about the end of the world.\nHow to break into Freddie’s compound – GTA 6\nThe first time you break into Freddie’s compound, it has an obvious flaw.\nA water tower to the rear of the compound is outside of the electric fence. It has an unblocked ladder that you can climb to take you up to a platform, from which you can jump onto the roof of a shed inside the electric fence.\nYou will have to watch out for both proximity mines and drones. Proximity mines will be highlighted in Focus mode, and when you hear a drone, Focus mode will again give you enough time to shoot them down. The best route through the compound is sticking close to the fence while heading East, and then South. Proximity mines will not be placed on the pipes and cables in the compound, meaning you can use them as a walkway.\nYou will complete the challenge by getting to the front door of the large dug-out bunker. The first time you complete this challenge, Freddie will free you and challenge you to return later, after he improves his defenses.\nHow to break into Freddie’s compound again – GTA 6\nAfter some time, Freddie will text Jason and Lucia, challenging them to a rematch. You need to break into his compound and get to the door of his bunker again, only this time the water tower isn’t an option, and the proximity mines and drones have been buffed.\nNothing is impossible, though, and Jason and Lucia are both pretty good climbers who are able to clamber on top of large vehicles. You see where this is going.\nTo the rear of the compound – the Northwest corner – you’ll find a tractor with a large trailer, along wit",
-    "extra": {
-     "image": "https://www.videogameschronicle.com/files/2026/11/GTA-6-Find-and-infiltrate-Freddie-Gibbs-doomsday-compound-in-Grand-Theft-Auto-6-6.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 6,
-    "post": "🔓 Как пробраться в бункер Фредди Гиббса\n\nНайди его укреплённый компаунд на северном берегу озера Леонида и взломай защиту — первый раз зайди через водяную башню, а потом покажи, что ты умеешь, когда всё подмонтировано. Топовый челлендж с минными полями и дронами, так что включай фокус и готовься к разлёту!",
-    "card_title": "ФРЕДДИ ГИББС: БУНКЕР",
-    "reason": "Гайд по проникновению в бункер Фредди Гиббса в игре",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": true,
-    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-23T12:11:46.101665+00:00"
-  },
-  {
-   "item": {
     "title": "GTA 6 Update Now Live On Xbox Series X|S, Includes Seven Official Fixes",
     "link": "https://www.purexbox.com/news/2026/11/gta-6-update-now-live-on-xbox-series-xs-includes-seven-official-fixes",
     "summary": "Update: We've got the deets from Rockstar. GTA 6 only officially launched late last week, but Rockstar Games has already pushed out a new update (01.002.002) for the game across Xbox Series X and Xbox Series S (along with PS5), rolling out as of a few hours ago. You're looking at a download size of around 1.6GB for update 1.0.2 on Xbox Series X and S. Read the full article on purexbox.com",
@@ -14710,93 +14827,6 @@
   },
   {
    "item": {
-    "title": "Россияне лишились доступа к GTA Online и RDR — возникли проблемы с лаунчером Rockstar Games",
-    "link": "https://ixbt.games/news/2026/11/23/rossiiane-lisilis-dostupa-k-gta-online-i-rdr-voznikli-problemy-s-launcerom-rockstar-games.html",
-    "summary": "Пользователи испытывают проблемы с доступом к сервисам.",
-    "published": "2026-11-23T10:53:00+00:00",
-    "source": "iXBT.games",
-    "site_name": "iXBT.games",
-    "trust": "medium",
-    "text": "Пользователи испытывают проблемы с доступом к сервисам.\nНедавно пользователи из России начали массово жаловать на проблемы в работе сервисов студии Rockstar Games. На сервисе Detector404 в понедельник 23 ноября был зарегистрирован всплеск сообщений о проблемах.\nЧаще всего недовольные пользователи пишут, что у них «не подключается». Также часть жалоб связана с недоступностью личного кабинета. Некоторые комментаторы указывают код ошибок:\nНет соединения с сервером У меня гта на 100% закончить надо, чините бырее роки. 7002.225\nСреди лидеров по числу жалоб на проблемы с доступом к сервисам Rockstar Games: Новосибирская область, Москва, Пермский край, Санкт-Петербург, а также Челябинская область.\nИгроки предположили, что проблема связана с техническими работами на стороне Rockstar Games. Спустя несколько часов некоторые пользователи смогли подключиться, однако часть авторов жалоб всё ещё не может этого сделать.\nНедавно состоялся релиз Grand Theft Auto VI на консолях PlayStation 5 и Xbox Series X|S. Про ПК-версию игры или онлайн-режим Rockstar Games и Take-Two пока ничего не рассказывали.\nНе пропускайте наши новостиДобавьте сайт в предпочитаемые источники, чтобы видеть нас чащеДобавить в Google",
-    "extra": {
-     "image": "https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1745384/media-58781e1156bcf73612a85a795a03588767cf2c349c938dcca39690005c1ec5ef.png"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "🚨 Проблемы с GTA Online в России: лаунчер не работает\n\nРоссийские геймеры в шоке — не могут зайти в GTA Online и RDR, лаунчер от Rockstar отказывает. Пока техработы, ждём, когда всё вернётся, а то уже тильт.",
-    "card_title": "ОТКЛЮЧЕНИЕ GTA ONLINE",
-    "reason": "Массовые проблемы с лаунчером Rockstar в РФ, игроки не могут зайти в онлайн",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-23T12:11:43.834592+00:00"
-  },
-  {
-   "item": {
-    "title": "Пенсионерам дали попробовать GTA VI — им так понравилось, что теперь они просят её в подарок на Рождество",
-    "link": "https://ixbt.games/news/2026/11/23/pensioneram-dali-poprobovat-gta-vi-im-tak-ponravilos-cto-teper-oni-prosiat-ee-v-podarok-na-rozdestvo.html",
-    "summary": "Возраст не помеха для увлечения видеоиграми.",
-    "published": "2026-11-23T10:58:00+00:00",
-    "source": "iXBT.games",
-    "site_name": "iXBT.games",
-    "trust": "medium",
-    "text": "Возраст не помеха для увлечения видеоиграми.\nНедавно вышла Grand Theft Auto VI и во французском доме престарелых Domitys решили организовать игровую сессию. Несколько пожилых участников так увлеклись новинкой Rockstar Games, что теперь хотят получить игру в качестве подарка на Рождество.\nЖурналисты ICI Paris Ile-de-France рассказали, что мероприятие провели на следующий день после официального релиза Grand Theft Auto VI в городе Серри. Вместо привычных занятий пенсионерам предложили отправиться исследовать виртуальный штат Леонида. Многим больше всего понравились эпизоды, когда они управляли лодкой (вождение автомобилей и перестрелки оказались сложнее).\n86-летняя Люсиенн оказалась под впечатлением от качества графики GTA VI — она назвала её невероятной; от игры она испытывала впечатления как от просмотра настоящего кино.\n🎮 \"Ça m'a fait un bien inouï.\" En Seine-et-Marne, les pensionnaires d'une résidence Séniors découvrent GTA VI.\nСейчас Grand Theft Auto VI официально доступна только на PlayStation 5 и Xbox Series X|S. Поигравшие в новинку в доме престарелых Domitys теперь предлагают установить консоль в общей комнате, чтобы продолжить проводить такие игровые сессии.\nНе пропускайте наши новостиДобавьте сайт в предпочитаемые источники, чтобы видеть нас чащеДобавить в Google",
-    "extra": {
-     "image": "https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1745388/media-9e413d1c6727eefcb8704347b37d7352e8716c7c31d8e401d3362fd4aaeccac3.png"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "👴👵 ПЕНСИОНЕРЫ ПОЛЮБИЛИ GTA VI\n\nВ доме престарелых Domitys запустили сессию GTA VI, и бабки с дедами сразу врубились – лодка, графика, всё как в кино. Теперь они требуют игру в подарок на Рождество, а консоль хотят в общей комнате поставить. 🎮",
-    "card_title": "ПЕНСИОНЕРЫ И GTA VI",
-    "reason": "Забавная и милая новость про французских пенсионеров, оценивших графику и лодки в GTA 6.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-23T12:12:03.057407+00:00"
-  },
-  {
-   "item": {
-    "title": "First GTA VI Patch Release Time Revealed, Download Size Confirmed",
-    "link": "https://rockstarintel.com/first-gta-vi-patch-release-time-revealed-download-size-confirmed/",
-    "summary": "Rockstar Games have released their first post-launch patch for Grand Theft Auto VI on PlayStation 5 and XBOX Series X|S. However, some players will have to wait before being able to download it. On Monday morning, November 23rd, Rockstar issued a new update for the game to all of those who have the game installed. [...] The post First GTA VI Patch Release Time Revealed, Download Size Confirmed appeared first on RockstarINTEL .",
-    "published": "2026-11-23T11:53:46+00:00",
-    "source": "Rockstar Intel",
-    "site_name": "Rockstar Intel",
-    "trust": "medium",
-    "text": "Rockstar Games have released their first post-launch patch for Grand Theft Auto VI on PlayStation 5 and XBOX Series X|S. However, some players will have to wait before being able to download it.\nOn Monday morning, November 23rd, Rockstar issued a new update for the game to all of those who have the game installed. This is a mandatory update that must be installed before playing the game again.\nThe patch comes in at 1.6GB on XBOX Series X|S and 603.8MB on PS5 (varies a little per region). As for version number, it is now 1.0.2.2 on XBOX and 01.002.002 on PS5 so an incremental build change. GTA VI’s install size on XBOX remains at 211.9GB.\nWhilst every XBOX user has the update right away, Sony and Rockstar are gradually rolling out the patch to PS5 users. Much like with the pre-launch patches, only a selection of the playerbase have received the download. This is to reduce load on PSN servers because of the sheer amount of data being transferred by millions of people.\nAccording to GTA community member @PLTytus, 33% of users have gotten the update. At 1pm GMT, a further 33% will get the update. The remainder of the pre-ordered players will get it at 4pm GMT.\nNo patch notes have been released by Rockstar Games just yet but as and when they do, we’ll be sure to publish them on our site. It remains to be seen if issues such as the PS5 error code CE-108255-1 crash is fixed in this update or other notable problems.\nIn other GTA VI news, Rockstar made the pre-order bonus available to purchase on Sunday; more info here.\nLooking for some Grand Theft Auto VI guides? We show you how you can unlock the exclusive Venturas Blvd Elegy here. Plus, check out the best settings to use when playing the game. Also, there’s a glitch that unlocks the 30FPS cap and here’s how to do it.\nYou can order your PS5 or XBOX copy of Grand Theft Auto VI with this link. Using the link to order the game will help support this website as we’ll earn a small commission. Thank you!\nFor more news on GTA VI, stay tuned to RockstarINTEL and sign up to our newsletter for a weekly round-up of all things Rockstar Games delivered straight to your inbox.",
-    "extra": {
-     "image": "https://rockstarintel.com/wp-content/uploads/2026/11/Grand-Theft-Auto-VI-Pre-Load-Now-00-00-18-copy-1280.webp"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "🚀 Патч GTA VI уже в сети: 1.6 ГБ на Xbox, 600 МБ на PS5\n\nRockstar выкатили первый обязательный апдейт — без него нельзя играть. На Xbox качаем 1.6 ГБ, а PS5 получит лёгкую 600 МБ, но rollout идёт по волнам, так что держим пальцы на пульсе.",
-    "card_title": "ПАТЧ GTA VI: РАЗМЕР И ВРЕМЯ",
-    "reason": "Official first post-launch patch released by Rockstar for GTA 6 with specific sizes.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "GTA 6 PS5 Update 1.002.002 Rolling Out Now",
-    "corroborated_by": "GTA 6 PS5 Update 1.002.002 Rolling Out Now",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-23T12:12:30.085453+00:00"
-  },
-  {
-   "item": {
     "title": "Best Funny GTA 6 Clips—Glitches, NPC Encounters, and Accidents",
     "link": "https://insider-gaming.com/funny-gta-6-clips-npcs-glitches-more/",
     "summary": "Grand Theft Auto 6 is a goldmine for funny clips. In this list, check out the pick of the bunch that we've seen on social media. The post Best Funny GTA 6 Clips—Glitches, NPC Encounters, and Accidents appeared first on Insider Gaming .",
@@ -14852,35 +14882,6 @@
     "model": "groq:qwen/qwen3.8-27b → groq:openai/gpt-oss-120b"
    },
    "queued_at": "2026-11-23T20:12:35.732251+00:00"
-  },
-  {
-   "item": {
-    "title": "GTA 6 Update 01.002.002—All Changes & Download Size",
-    "link": "https://insider-gaming.com/gta-6-update-01-002-002-all-changes-download-size/",
-    "summary": "Here's everything you need to know about Update 01.002.002 for Grand Theft Auto 6, including all changes and its download size. The post GTA 6 Update 01.002.002—All Changes & Download Size appeared first on Insider Gaming .",
-    "published": "2026-11-23T11:48:24+00:00",
-    "source": "Insider Gaming",
-    "site_name": "Insider Gaming",
-    "trust": "medium",
-    "text": "It’s been almost a week since Grand Theft Auto 6 officially launched, and it’s fair to say that Rockstar has enjoyed an incredibly successful release. With millions of copies sold and billions of dollars already generated, the game has made a phenomenal start. However, that doesn’t mean Rockstar is finished making improvements, as the studio has now rolled out GTA 6 Update 01.002.002.\nPost-launch updates have become increasingly common, even for single-player experiences, as developers continue to iron out issues and improve the overall experience. GTA 6 is no exception, and you can expect plenty more updates in the months ahead. For now, though, here’s everything you need to know about Update 01.002.002.\nYou can buy Grand Theft Auto 6 here if you haven’t already!\nThe latest Grand Theft Auto 6 update has a different download size depending on which platform you’re playing on.\nIf you’re playing on PlayStation 5, the update comes in at just over half a gigabyte. However, those playing on Xbox Series X|S will have a considerably larger download to deal with. Here are the exact download sizes for GTA 6 Update 01.002.002 on each platform:\nThankfully, neither download is particularly demanding, so you shouldn’t need to start clearing out your console’s storage to make room. The relatively small file sizes should also mean you won’t be waiting around for too long before jumping back into Vice City.\nRelated: All GTA 6 Challenges & How To Do Them\nWhat’s Changed With The GTA 6 Update 01.002.002?\nAs of writing, Rockstar Games hasn’t released any official patch notes detailing the changes introduced with GTA 6 Update 01.002.002.\nUntil the developer provides further information, it’s impossible to say exactly what’s been adjusted. Rockstar may eventually publish a full breakdown of the update, although the studio doesn’t always provide detailed patch notes for smaller releases.\nGiven the relatively modest download sizes and quiet release, it’s reasonable to assume that this update primarily focuses on bug fixes and general stability improvements. Several players have reported issues with GTA 6 crashing, while others have experienced problems with the game’s save system. There’s a possibility that Rockstar has addressed some of these problems, although this remains speculation until official details are provided.\nRelated: GTA 6 Sex & Romance—How To Have Sex In GTA 6\nThere are also a handful of more exploitable glitches that the developer might be looking to stamp out. A",
-    "extra": {
-     "image": "https://insider-gaming.com/wp-content/uploads/2026/11/gta-6-empathy-scaled.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 6,
-    "post": "🚀 GTA 6 Update 01.002.002 уже в сети\n\nНаконец‑то патч прилетел — на PS5 он весит чуть больше 0,5 ГБ, а на Xbox чуть больше. Фиксы багов и стабильность, так что можно без тильта вернуться в Vice City. 🎮📦",
-    "card_title": "ОБНОВЛЕНИЕ GTA 6 01.002.002",
-    "reason": "Официальный выход первого патча 01.002.002 для GTA 6 с багфиксами.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "GTA 6 PS5 Update 1.002.002 Rolling Out Now",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-23T12:13:00.786155+00:00"
   }
  ],
  "posts": [
@@ -21713,6 +21714,96 @@
    },
    "corr": false,
    "since": "2026-11-24T00:05:32.134617+00:00"
+  },
+  {
+   "item": {
+    "title": "Sony Touts Nearly 40 Million GTA 6 Players on PS5",
+    "link": "https://insider-gaming.com/40-million-gta-6-players-ps5/",
+    "summary": "Four days removed from launch, Sony is already reporting insane player numbers for GTA 6. As is stands, nearly 40 million have jumped in. The post Sony Touts Nearly 40 Million GTA 6 Players on PS5 appeared first on Insider Gaming .",
+    "published": "2026-11-24T00:16:35+00:00",
+    "source": "Insider Gaming",
+    "site_name": "Insider Gaming",
+    "trust": "medium",
+    "text": "It’s already been a whirlwind for GTA 6 since it launched just last Thursday. Since then, Rockstar’s new masterpiece has been rated #1 all-time by critics, review-bombed by certain players, and everything in between.\nTurns out overall, however, the game seems to be doing incredibly well. New data shared by Sony shows that in the last four days, nearly 40 million unique players have decided to jump into GTA 6 on PS5.\nYou can purchase Grand Theft Auto 6 here if you want to see what all the hype is about.\nA few days ago, GTA 6 publisher Take-Two Interactive already claimed that the game had sold over 32 million units. Today, information provided by Sony shows that the actual current player base has moved several million beyond that number on PS5 consoles alone.\nIn a post on PlayStation Blog, Sony mentions that GTA 6 has been the largest single-game launch in the history of PlayStation across all generations. At the time of their story going live, over 39 million unique players had started the game. It’s important to note that the number of “unique players” does not directly correlate to the total number of sales, but it’s still an insane player count regardless.\nFurther fleshing out this staggering number of players, it’s also claimed that 683 million collective hours of GTA 6 have been played by these 39 million users on PS5, which averages out to about 17.4 hours per person since November 19.\nPS Blog also states that GTA 6 broke the record for the title with the most concurrent players at once on PlayStation, and 70% of new consoles purchased since the game came out booted up GTA 6 before anything else.\nWe’ve yet to see Xbox report on player count stats for GTA 6 since launch, but whatever the number of players on the Microsoft console is, combined with PS5’s 39 million+, is sure to be even more staggering.\nAre you one of the 40 million GTA 6 players on PS5? Let us know what you think so far in the Insider Gaming Discord server.\nHopped in already and need some tips? We’ve got plenty of guides and walkthroughs ready to go. For more, make sure to subscribe to the Insider Gaming weekly newsletter.\nNOTE: Insider Gaming may earn affiliate commission if you purchase items through links on Insider Gaming. Read more about affiliate commission here.\nEthan Krieger got started as a sports journalist covering the NBA, but video games have always been his main passion. Since then, he's edited and written for multiple gaming outlets,…\nGod of War’s Deborah Ann Woll Named ",
+    "extra": {
+     "image": "https://insider-gaming.com/wp-content/uploads/2026/11/IMG_9376.jpeg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "ПОЧТИ 40 МИЛЛИОНОВ игроков на PS5\n\nSony поделилась инфой: за первые дни в GTA 6 ворвалось почти 40 млн уникальных типов. Самый крупный запуск в истории PlayStation, вайб дикий.\n\n❤️ — Успех, база!\n👎 — Да у меня катка не грузит",
+    "card_title": "40 МИЛЛИОНОВ ИГРОКОВ НА PS5",
+    "reason": "Sony officially reported nearly 40 million players on PS5, breaking records.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "GTA 6 установила рекорд PS5: 39 млн игроков за 72 часа",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-24T00:22:40.257219+00:00"
+  },
+  {
+   "item": {
+    "title": "Sony: GTA 6 set record for 'highest number of concurrent players for any game on PlayStation' ever",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/sony-gta-6-set-record-for-highest-number-of-concurrent-players-for-any-game-on-playstation-ever/",
+    "summary": "The industry is finding new milestones to measure GTA 6's success.",
+    "published": "2026-11-24T00:14:36+00:00",
+    "source": "PC Gamer",
+    "site_name": "PC Gamer",
+    "trust": "high",
+    "text": "GTA 6 has been shattering records since before it came out, becoming the top-rated game in the history of Metacritic before it had the biggest entertainment launch (by dollars) in history. Sony is now joining in that victory lap by sharing GTA 6 milestones as they pertain to PlayStation.\n\"More than 39 million unique players have experienced Jason and Lucia's story in Grand Theft Auto 6 on PlayStation 5,\" Sony content communications manager Tim Turi wrote in a blog post today. That is a staggering number, especially considering GTA 6 also launched on Xbox and will (eventually) hit PC.\nBut that's not a sales record—Rockstar still has a ways to go to surpass GTA 5's 230 million lifetime sales. What is unprecedented, at least for PlayStation, is GTA 6's concurrents over launch weekend.\n\"GTA 6 set a new record for the highest number of concurrent players for any game on PlayStation, surpassing previous records across multiplayer, free-to-play, and single-player titles,\" Turi said.\nThat's the wild one to me, because that means more people were playing GTA 6 at the same time on the largest console platform than Call of Duty, GTA 5, or even Fortnite has ever achieved. Turi didn't share the concurrent figure itself, which is too bad—Steam remains the only platform that hands out exact player data. If the figure is theoretically higher than some of the biggest concurrent peaks we know about on Steam, then it could've been as high as 3-4 million players.\nOn average, those 39 million PS5 players logged 17.4 hours over four days. Let's just say my hour count represents the higher end of that average, and I'm still less than halfway through the main story.\nGTA 6 guide: One-stop info shopGTA 6 map: The full Vice City tourGTA 6 cheats: A complete listGTA 6 radio: All the songs and stationsGTA 6 romance: How to keep a strong bond\nKeep up to date with the most important stories and the best deals, as picked by the PC Gamer team.\nMorgan has been writing for PC Gamer since 2018, first as a freelancer and currently as a staff writer. He has also appeared on Polygon, Kotaku, Fanbyte, and PCGamesN. Before freelancing, he spent most of high school and all of college writing at small gaming sites that didn't pay him. He's very happy to have a real job now. Morgan is a beat writer following the latest and greatest shooters and the communities that play them. He also writes general news, reviews, features, the occasional guide, and bad jokes in Slack. Twist his arm, and he'll even w",
+    "extra": {
+     "image": "https://cdn.mos.cms.futurecdn.net/dMuVMfRwWo2raGaXFzDHHD-1920-80.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 9,
+    "post": "РЕКОРД ОНЛАЙНА НА PS5\n\nSony официально подтвердили: GTA 6 разнесла все рекорды и собрала абсолютный пик одновременных игроков в истории PlayStation. База лютая, даже Fortnite столько не вывозил.",
+    "card_title": "РЕКОРД ОНЛАЙНА В GTA 6 НА PS5",
+    "reason": "Official record-breaking player stats on PlayStation shared by Sony.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-24T00:22:51.384836+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA 6 Officially the 'Biggest Launch in PlayStation History' with Over 39 Million Players",
+    "link": "https://www.pushsquare.com/news/2026/11/gta-6-officially-the-biggest-launch-in-playstation-history-with-over-39-million-players",
+    "summary": "Highest number of concurrent players ever on PlayStation. Sony has shared a selection of staggering statistics relating to the launch of GTA 6 on PS5. From launch on 19th November through to the end of the title's opening weekend, Sony recorded over 39 million unique players. Read the full article on pushsquare.com",
+    "published": "2026-11-24T00:00:00+00:00",
+    "source": "Push Square",
+    "site_name": "Push Square",
+    "trust": "high",
+    "text": "Sony has shared a selection of staggering statistics relating to the launch of GTA 6 on PS5.\nFrom launch on 19th November through to the end of the title's opening weekend, Sony recorded over 39 million unique players.\nThe game set a new record on PlayStation for the highest number of concurrent players on any game.\nPS5 players have logged 683 million hours of GTA 6 playtime, and on average, every owner on PlayStation has played it for 17.4 hours.\nOutside of the console's launch and Christmas holidays, the launch of GTA 6 resulted in \"the largest number of newly connected PS5 consoles on a single day\". GTA 6 was the first game played on 70% of those new PS5 systems.\n\"These are just a few ways we’ve seen our PlayStation community come together around this incredible moment in gaming, and we’re excited to see how you continue to build and share new memories and experiences in the months ahead,\" said content communications manager Tim Turi on the PlayStation Blog.\nThe day after release, Rockstar Games announced GTA 6 had sold 32.5 million units across PS5 and Xbox Series X|S. With these new stats from PlayStation, we know it's sold over 39 million copies on PS5 alone, as of yesterday.\nGTA 6 will continue to sell for years to come, as there'll be a PC version next year along with a brand new iteration of GTA Online. We've got a 10/10-rated GTA 6 PS5 review on the site, and we're working on our comprehensive GTA 6 guide right now.\nAre you one of those 39 million+ owners of GTA 6 on PS5? Let us know in the comments below.",
+    "extra": {
+     "image": "https://images.pushsquare.com/80604e4573097/large.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 9,
+    "post": "39 МИЛЛИОНОВ игроков на PS5\n\nGTA 6 просто порвала все рекорды и стала крупнейшим релизом в истории PlayStation за пару дней. Челы нафармили 683 миллиона часов в катках, это жёсткий разнос.\n\n❤️ — Успел ворваться в этот топчик\n👎 — Жду патчи и ПК",
+    "card_title": "39 МИЛЛИОНОВ ИГРОКОВ НА PS5",
+    "reason": "Official PlayStation stats confirming a massive 39 million players on PS5, setting a historic record.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-24T00:23:01.915475+00:00"
   }
  ]
 }
