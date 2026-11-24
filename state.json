@@ -3611,7 +3611,18 @@
   "b1c0a417be866d69": "2026-11-24T13:59:35.148310+00:00",
   "130a99bcb771b3c1": "2026-11-24T14:14:18.039829+00:00",
   "58adb9a3106b3afa": "2026-11-24T14:14:19.041663+00:00",
-  "6df916c1d451a77a": "2026-11-24T14:14:19.641343+00:00"
+  "6df916c1d451a77a": "2026-11-24T14:14:19.641343+00:00",
+  "17ef32a9643398ee": "2026-11-24T14:30:09.459442+00:00",
+  "3b29f0f474099afc": "2026-11-24T14:30:09.459505+00:00",
+  "ac5e127fe2ad5f56": "2026-11-24T14:30:09.459561+00:00",
+  "4328f1b1b16b2d2f": "2026-11-24T14:30:51.980383+00:00",
+  "f8cd35b64456ad9b": "2026-11-24T14:30:52.624733+00:00",
+  "38469ca8c63d8dfc": "2026-11-24T14:30:53.207174+00:00",
+  "f39e880fe84e587e": "2026-11-24T14:30:53.692065+00:00",
+  "6f7220b33713d49f": "2026-11-24T14:46:11.103687+00:00",
+  "c9f558c636a39f06": "2026-11-24T14:46:11.243033+00:00",
+  "1474a73227991de4": "2026-11-24T14:46:11.246697+00:00",
+  "5781df600c6eb0e9": "2026-11-24T14:46:41.744256+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -6056,7 +6067,13 @@
   "a39732d61b3521b0": "2026-11-24T13:26:45.982257+00:00",
   "ad9ab86e5af44bff": "2026-11-24T13:26:50.940140+00:00",
   "fa8f3285a5b1c5eb": "2026-11-24T13:27:00.558323+00:00",
-  "97284167929cf352": "2026-11-24T13:42:48.253538+00:00"
+  "97284167929cf352": "2026-11-24T13:42:48.253538+00:00",
+  "66b9f34db5634359": "2026-11-24T14:30:09.459442+00:00",
+  "5db12b606f1e1cfa": "2026-11-24T14:30:09.459505+00:00",
+  "d9b2b68228754c3d": "2026-11-24T14:30:09.459561+00:00",
+  "fd2e8e2ab28c5fd2": "2026-11-24T14:46:11.103687+00:00",
+  "8e783631d7d42e92": "2026-11-24T14:46:11.243033+00:00",
+  "6017bdc62cd9b36a": "2026-11-24T14:46:11.246697+00:00"
  },
  "recent": [
   {
@@ -14783,7 +14800,7 @@
    "title": "GTA 6 players are already starting to get very good at heists, despite all the new challenges Rockstar has added to the game",
    "source": "Eurogamer",
    "trust": "high",
-   "status": "queued",
+   "status": "published",
    "ts": "2026-11-24T12:52:18.030705+00:00",
    "card_title": "ТАЙНЫЕ МЕХАНИКИ ХЕСТОВ"
   },
@@ -14922,6 +14939,54 @@
    "status": "dup",
    "ts": "2026-11-24T13:42:48.253575+00:00",
    "card_title": ""
+  },
+  {
+   "title": "Where to Find the Mamba GT Car in GTA 6—Randy’s Wishlist Car Locations",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "dup",
+   "ts": "2026-11-24T14:30:09.459483+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Where To Find The New Best Car In ‘GTA 6,’ Which Can Steal ATMs",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-24T14:30:09.459536+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Is The Biggest PlayStation Launch Of All Time",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-24T14:30:09.459585+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Every GTA 6 Arcade Game—How To Play & Locations Guide",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-24T14:46:11.103731+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6: Pre-order bonus wasn't exclusive, now available separately for $5",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-24T14:46:11.243108+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Where To Find Lucia’s Best Hairstyle In ‘GTA 6’",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-24T14:46:11.246734+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -14953,38 +15018,6 @@
     "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
    },
    "queued_at": "2026-11-24T04:57:39.131152+00:00"
-  },
-  {
-   "item": {
-    "title": "GTA 6 players are already starting to get very good at heists, despite all the new challenges Rockstar has added to the game",
-    "link": "https://www.eurogamer.net/gta-6-players-getting-very-good-at-heists-despite-challenges",
-    "summary": "Grand Theft Auto 6 has been out for a little while now, and already players are showing off their skills when it comes to the game's many heists. Despite the challenges in getting away clean, some are proving it's possible. Read more",
-    "published": "2026-11-24T11:47:40+00:00",
-    "source": "Eurogamer",
-    "site_name": "Eurogamer",
-    "trust": "high",
-    "text": "Grand Theft Auto 6 has been out for a little while now, and already players are showing off their skills when it comes to the game's many heists. Despite the challenges in getting away clean, some are proving it's possible.\nFor one, sneaking into a bank while the vault is open and stuffing your bags full of marked bills is a tricky process of gradually making your way through rooms and taking out guards as quietly as possible. While the police in the clip below were called to an eventual breakout of violence, a lengthy getaway allowed for a cheeky payday of almost $100,000 in cash.\nThis crew really cracked a whole bank vault and walked out with almost $100K in GTA 6 💰🏦🚔😮‍💨 #gtavi #gta pic.twitter.com/pJyFXREBvY— Quid Clips (@quidclipzz) November 21, 2026\nOne especially impressive element of Grand Theft Auto 6 is how many of its little mechanics interact with each other. As you can see below, if you bring a vehicle with a winch to a cash machine, you can actually pull it off the wall and drag it away from the scene of the crime.\nWhy rob a bank in GTA 6 when you can just take the whole ATM💸 How to do it❓- Hook the ATM up to a vehicle with a winch- Drag it through the streets until the cash cases fall out- Shoot them open and get out fast, the cops come quickly!(via u/MelloYello917) pic.twitter.com/5eXbULJWP3— Project VI (@The_ProjectVI) November 21, 2026\nAs you progress through Grand Theft Auto 6, the game actually introduces you to both styles of heists. Without spoiling exactly how this happens, you're told how to go about taking on such criminal ventures, and you can continue to do so throughout the game at your pleasure. Still, even after you've been tutorialised, pulling off one of these heists is no joke, and can easily turn chaotic.\nThis GTA 6 robbery sequence was CRAZY, I couldn't even think straight . pic.twitter.com/l65xSFRoSr— Keemotion (@Keemotionx) November 21, 2026\nHere's a little tip for those of you looking to pull off a heist yourself. You're told that safety deposit boxes can be rifled through for additional loot. However, when you actually make your way into a vault, these will be closed without much sign on which you can access. If you use the focus mode (by pushing in both L3 and R3), it will highlight boxes which you can shoot open. This, of course, may garner unwanted attention, so whether or not you think it's worth doing is part of the risk/reward dilemma you'll have to reckon with. As is the case with so much stuff in GTA 6 includin",
-    "extra": {
-     "image": "https://assetsio.gnwcdn.com/grand-theft-auto-6-lucia-jason-masks.png?width=690&quality=85&format=jpg&auto=webp"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "🗺 Гайд: Как вытащить ATM на лебёдке и схватить кэш 💰\n\n1️⃣ Подъезжаешь к банкомату на тачке с лебёдкой 🚗\n2️⃣ Включаешь лебёдку, вытягиваешь банкомат со стены 🏦\n3️⃣ Тащишь его по улицам, пока кейсы не разлетаются 💸\n4️⃣ Быстро стреляешь в кейсы и отскакиваешь — копы уже в хвосте \nИмба‑техника, чекай и лутай!",
-    "card_title": "ТАЙНЫЕ МЕХАНИКИ ХЕСТОВ",
-    "reason": "Игроки уже мастерски грабят банки и находят крутые механики вроде вырывания банкоматов лебедкой.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-24T12:52:18.030692+00:00",
-   "moderation": "approved",
-   "draft_msg_id": 132,
-   "waiting_logged": true
   },
   {
    "item": {
@@ -15135,7 +15168,8 @@
   "2026-11-24T08:36:19.330104+00:00",
   "2026-11-24T12:31:54.928944+00:00",
   "2026-11-24T12:47:46.729770+00:00",
-  "2026-11-24T14:14:50.960346+00:00"
+  "2026-11-24T14:14:50.960346+00:00",
+  "2026-11-24T14:30:57.057953+00:00"
  ],
  "tg_offset": 387129084,
  "channel": {
@@ -21996,6 +22030,51 @@
    "drafted": false,
    "ts": "2026-11-24T14:14:19.641396+00:00",
    "frames": []
+  },
+  {
+   "author": "twitch:grxneronkel",
+   "vod": "2938817567",
+   "offset": 126.0,
+   "title": "BigMoney? am ende von Minenschacht GTA 6",
+   "drafted": false,
+   "ts": "2026-11-24T14:30:51.980433+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:alanzoka",
+   "vod": "2938467977",
+   "offset": 14668.0,
+   "title": "A praia da galeta :0",
+   "drafted": false,
+   "ts": "2026-11-24T14:30:52.624778+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:chowh1",
+   "vod": "2938482312",
+   "offset": 4681.0,
+   "title": "[DROP]🌴1 SUB = BADGE ou EMOTE GTA6 -  MODE PMU 180FPS 🌴 !!holy !vpn",
+   "drafted": false,
+   "ts": "2026-11-24T14:30:53.207227+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:sasavot",
+   "vod": "2938288604",
+   "offset": 11256.0,
+   "title": ",,,",
+   "drafted": false,
+   "ts": "2026-11-24T14:30:53.692097+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:missmikkaa",
+   "vod": "2938373303",
+   "offset": 24730.0,
+   "title": "Mikkaa's EPIC ramp stunt",
+   "drafted": false,
+   "ts": "2026-11-24T14:46:41.744304+00:00",
+   "frames": []
   }
  ],
  "published": [
@@ -22376,6 +22455,13 @@
    "title": "Как заполучить BF Bandito в GTA 6",
    "importance": 6,
    "kind": "guide"
+  },
+  {
+   "ts": "2026-11-24T14:30:57.057969+00:00",
+   "msg_id": 84,
+   "title": "Как вытащить ATM на лебёдке и схватить кэш 💰",
+   "importance": 8,
+   "kind": "confirmed"
   }
  ],
  "extras": [],
