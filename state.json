@@ -3746,7 +3746,26 @@
   "477262eccf929224": "2026-11-24T18:47:25.941488+00:00",
   "1ea74ccbd4f94537": "2026-11-24T18:48:17.756183+00:00",
   "1715182a594ccc85": "2026-11-24T18:48:18.440124+00:00",
-  "b2bbf5d6f2a814ea": "2026-11-24T18:48:18.972086+00:00"
+  "b2bbf5d6f2a814ea": "2026-11-24T18:48:18.972086+00:00",
+  "c57c9d231a7ca6f2": "2026-11-24T19:03:39.914971+00:00",
+  "317c437c18ab2967": "2026-11-24T19:03:39.915054+00:00",
+  "57e41b0300bf2532": "2026-11-24T19:03:55.127012+00:00",
+  "c27324d9b45db99a": "2026-11-24T19:06:23.728096+00:00",
+  "8b2933f1df0ecafe": "2026-11-24T19:06:25.575105+00:00",
+  "4a2b1e24b3780fba": "2026-11-24T19:06:26.081545+00:00",
+  "fcbe6a71ea64f37f": "2026-11-24T19:21:40.510729+00:00",
+  "950883770241a48b": "2026-11-24T19:21:40.510791+00:00",
+  "3f77ba6c5ce95481": "2026-11-24T19:21:40.510843+00:00",
+  "4b737803a524618e": "2026-11-24T19:21:49.496096+00:00",
+  "172b869baaf55861": "2026-11-24T19:21:52.338014+00:00",
+  "80ee9b0662b97eaf": "2026-11-24T19:22:04.290454+00:00",
+  "ef7b3d117a40255a": "2026-11-24T19:22:09.331460+00:00",
+  "99ecb917f3151b9e": "2026-11-24T19:22:23.649447+00:00",
+  "a738cc5ba89f77c8": "2026-11-24T19:22:31.526025+00:00",
+  "6c9b0e59c3926cb8": "2026-11-24T19:22:37.222310+00:00",
+  "4b8897c6021abdda": "2026-11-24T19:22:41.873215+00:00",
+  "06a8db96c453e764": "2026-11-24T19:22:45.347489+00:00",
+  "c5a0b604b3e950dc": "2026-11-24T19:23:24.272251+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -6262,7 +6281,19 @@
   "178bfca05790c7a1": "2026-11-24T18:45:29.011504+00:00",
   "4c79047dc78dfbf3": "2026-11-24T18:47:01.532736+00:00",
   "bcbe04ed8edb21be": "2026-11-24T18:47:02.775526+00:00",
-  "298eaf31f87864e6": "2026-11-24T18:47:25.941488+00:00"
+  "298eaf31f87864e6": "2026-11-24T18:47:25.941488+00:00",
+  "7e8801b628840206": "2026-11-24T19:03:39.914971+00:00",
+  "0690c12cbf54c944": "2026-11-24T19:03:39.915054+00:00",
+  "177c6f2d9211db5e": "2026-11-24T19:03:55.127012+00:00",
+  "a22b7f2bf6559022": "2026-11-24T19:21:49.496096+00:00",
+  "f7fd32a089435e2e": "2026-11-24T19:21:52.338014+00:00",
+  "f05217fb2a14d6e9": "2026-11-24T19:21:40.510843+00:00",
+  "0d88ce7a39c3f9d4": "2026-11-24T19:22:04.290454+00:00",
+  "95a6b788872efb28": "2026-11-24T19:22:09.331460+00:00",
+  "b325886c773fd75b": "2026-11-24T19:22:23.649447+00:00",
+  "93ce3757f6c91c59": "2026-11-24T19:22:31.526025+00:00",
+  "64d76bcd86a01fb2": "2026-11-24T19:22:37.222310+00:00",
+  "c6d5625949094fec": "2026-11-24T19:22:41.873215+00:00"
  },
  "recent": [
   {
@@ -14288,6 +14319,86 @@
    "status": "skipped",
    "ts": "2026-11-24T18:47:02.775639+00:00",
    "card_title": ""
+  },
+  {
+   "title": "Should You Trust Halifax in GTA 6?",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-24T19:03:39.915018+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Kitty Litter - First La Perle Lab",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-24T19:03:39.915081+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Here’s How To Listen To The Radio On Foot In GTA 6 Using Headphones",
+   "source": "Kotaku",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-24T19:04:19.507753+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Data Reveals Only 40% of Players Have Cleared Chapter 2",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-24T19:21:40.510768+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Real Life Strip Club Says It's Had 'Hundreds of Inquiries' From GTA 6 Fans, as Pornhub Traffic Plummets",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-24T19:21:40.510819+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Pornhub traffic plunged on 'GTA 6' release day",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-24T19:21:40.510866+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Palworld 1.1 and Palfarm updates teased by Pocketpair lead who previously blamed silence on GTA 6",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-24T19:22:09.331578+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Rockstar снова сделала невозможное, обзор Crimson Desert Enhanced: Charting the Unknown — самые интересные материалы за неделю",
+   "source": "iXBT.games",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-24T19:22:23.649576+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How To Play GTA 6 On Your PC Or Phone Via Remote Play On Xbox",
+   "source": "GameSpot",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-24T19:22:39.035149+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Unofficial GTA 6 PC port effort suffers setback as Rockstar seemingly takes down Project Leonida, one of the internet's biggest recompilation projects",
+   "source": "Eurogamer",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-24T19:22:43.933016+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -14318,7 +14429,9 @@
     "guide": false,
     "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
    },
-   "queued_at": "2026-11-24T18:26:36.505352+00:00"
+   "queued_at": "2026-11-24T18:26:36.505352+00:00",
+   "moderation": "pending",
+   "draft_msg_id": 139
   },
   {
    "item": {
@@ -14598,7 +14711,8 @@
   "2026-11-24T14:08:00.473282+00:00",
   "2026-11-24T16:11:35.893385+00:00",
   "2026-11-24T17:12:17.478418+00:00",
-  "2026-11-24T18:29:42.694606+00:00"
+  "2026-11-24T18:29:42.694606+00:00",
+  "2026-11-24T19:30:13.442978+00:00"
  ],
  "slots_sent": {
   "2026-11-23:guide:1": "2026-11-23T07:01:27.603496+00:00",
@@ -14759,6 +14873,36 @@
    "file_id": "BAACAgIAAxkDAAOCawV3P2aj7Z1UmBAv-WeHK3es-7YAAl2sAAKTDTFISK7mmhGPw4o9BA",
    "moderation": "pending",
    "draft_msg_id": 130
+  },
+  {
+   "clip": {
+    "source": "twitch",
+    "url": "https://www.twitch.tv/staryuuki/clip/UninterestedPerfectWaspDxCat-jbJG-PYz2TXEx9aI",
+    "title": "Y ESE BUG?",
+    "author": "Staryuuki",
+    "views": 390,
+    "duration": 10.6,
+    "created": "2026-11-24T05:16:59+00:00",
+    "lang": "es",
+    "description": "",
+    "vod_id": "2938941728",
+    "vod_offset": 14137.0
+   },
+   "caption": "Чел на трассе буквально проглотил грузовик, а потом просто поехал дальше — физика в GTA 6 это просто лютый разнос 💀",
+   "interest": 9,
+   "spoiler": false,
+   "nsfw": false,
+   "watched": true,
+   "model": "gemini:gemini-3.1-flash-lite",
+   "media": {
+    "width": null,
+    "height": 720,
+    "duration": 10
+   },
+   "queued_at": "2026-11-24T19:23:27.984954+00:00",
+   "file_id": "BAACAgIAAxkDAAOKawXkMdBjc9Y1ytvO5kGtCgYyENsAAmO6AAImETBIAaZdSnH0WxI9BA",
+   "moderation": "pending",
+   "draft_msg_id": 138
   }
  ],
  "clip_drafts": [
@@ -14779,7 +14923,8 @@
   "2026-11-24T09:28:35.874072+00:00",
   "2026-11-24T10:35:41.949576+00:00",
   "2026-11-24T11:38:40.245755+00:00",
-  "2026-11-24T16:12:54.165650+00:00"
+  "2026-11-24T16:12:54.165650+00:00",
+  "2026-11-24T19:23:29.579276+00:00"
  ],
  "clip_history": [
   {
@@ -20372,6 +20517,61 @@
    "drafted": false,
    "ts": "2026-11-24T18:48:18.972121+00:00",
    "frames": []
+  },
+  {
+   "author": "twitch:k4rankul",
+   "vod": "",
+   "offset": -1,
+   "title": "курьеру не повезло 3 раза, бежит уволняться",
+   "drafted": false,
+   "ts": "2026-11-24T19:06:23.728140+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:montanablack88",
+   "vod": "2939188825",
+   "offset": 579.0,
+   "title": "story dom",
+   "drafted": false,
+   "ts": "2026-11-24T19:06:25.575140+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:mrdzinold",
+   "vod": "2938593203",
+   "offset": 15790.0,
+   "title": "Gdzie ku&wa dzwonisz XDD",
+   "drafted": false,
+   "ts": "2026-11-24T19:06:26.081584+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:keysjore",
+   "vod": "",
+   "offset": -1,
+   "title": "So sollte man nicht fahren Kinder!!!",
+   "drafted": false,
+   "ts": "2026-11-24T19:22:45.347531+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:staryuuki",
+   "vod": "2938941728",
+   "offset": 14137.0,
+   "title": "Y ESE BUG?",
+   "drafted": false,
+   "ts": "2026-11-24T19:23:24.272288+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:staryuuki",
+   "vod": "2938941728",
+   "offset": 14137.0,
+   "title": "Y ESE BUG?",
+   "drafted": true,
+   "ts": "2026-11-24T19:23:29.579292+00:00",
+   "frames": [],
+   "caption": "Чел на трассе буквально проглотил грузовик, а потом просто поехал дальше — физика в GTA 6 это просто лютый разнос 💀"
   }
  ],
  "published": [
@@ -20782,13 +20982,26 @@
    "kind": "confirmed"
   }
  ],
- "extras": [],
+ "extras": [
+  {
+   "key": "digest-20261124",
+   "kind": "Итоги дня",
+   "payload": {
+    "text": "🌙 <b>Итоги дня</b> · 24 ноября\n\n📰 <a href=\"https://t.me/gta6_hotnews/77\">Коллатеральный пасхалка в GTA 6</a>\n📰 <a href=\"https://t.me/gta6_hotnews/78\">GTA 6 УНИЧТОЖИЛА онлайн Call of Duty и Fortnite</a>\n📰 <a href=\"https://t.me/gta6_hotnews/79\">PS5 сгорела во время GTA VI стрима</a>\n📰 <a href=\"https://t.me/gta6_hotnews/84\">Как вытащить ATM на лебёдке и схватить кэш 💰</a>\n🎥 <a href=\"https://t.me/gta6_hotnews/85\">В GTA 6 завезли интерактивную мини-игру в душе — и стримерша словила тильт, не понимая, к…</a>\n📰 <a href=\"https://t.me/gta6_hotnews/87\">GTA 6: PS5 игроки в среднем 17+ часов за уикенд</a>\n\nЧто из этого зашло больше всего? Пиши в комменты 👇",
+    "publish_at": "2026-11-24T20:00:00+00:00"
+   },
+   "moderation": "pending",
+   "draft_msg_id": 140,
+   "queued_at": "2026-11-24T19:30:13.623688+00:00"
+  }
+ ],
  "extras_sent": {
   "poll-2026-W47": "2026-11-21T16:00:25.901739+00:00",
   "weekly-20261121": "2026-11-21T17:30:42.606074+00:00",
   "digest-20261121": "2026-11-21T19:30:10.993120+00:00",
   "digest-20261122": "2026-11-22T19:31:01.015194+00:00",
-  "digest-20261123": "2026-11-23T19:30:46.041576+00:00"
+  "digest-20261123": "2026-11-23T19:30:46.041576+00:00",
+  "digest-20261124": "2026-11-24T19:30:13.623703+00:00"
  },
  "rewrite_wait": [
   {
@@ -21060,6 +21273,126 @@
    },
    "corr": false,
    "since": "2026-11-24T18:47:36.230949+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA 6 Data Reveals Only 40% of Players Have Cleared Chapter 2",
+    "link": "https://www.polygon.com/gta-6-player-data-taking-it-slow-progress/",
+    "summary": "Grand Theft Auto 6 achievement data shows that only 40% of players have reached Chapter 3.",
+    "published": "2026-11-24T19:08:18+00:00",
+    "source": "Polygon",
+    "site_name": "Polygon",
+    "trust": "high",
+    "text": "If your feed is full of clips and streams from people who’ve already gone deep into Grand Theft Auto 6, here’s some reassurance: most players aren’t as far along as you probably think.\nAccording to PSNProfiles, only 66.22% of Grand Theft Auto 6 players on PlayStation 5 have earned the trophy for completing Chapter 1, which takes place in the Leonida Keys. The numbers on Xbox are similar, with 56% of players having beaten that part of the game, according to TrueAchievements. This completion percentage feels particularly significant because the first chapter of the game is a big departure from classic GTA, with Jason living out a relatively low-key existence interrupted by the occasional shootout with backwoods drug dealers. Still, it seems a solid chunk of players are more than happy fishing with Cal for now.\nMeanwhile, only 40.55% of players have cleared Chapter 2 on PS5, and 31% on Xbox. Again, considering that Chapter 3 is arguably where the game becomes more of a traditional Grand Theft Auto entry, as you officially enter Vice City, it’s a bit of a surprise that the numbers are so low, even if it takes close to 20 hours to get there.\nAs for the rest of the game, few have gotten past Chapter 3: 6.45% have cleared that chapter on PS5, compared to 4% on Xbox; 1.26% have cleared Chapter 4 on PS5 against 1% on Xbox; and a tiny 0.88% have cleared the final mission on PlayStation against fewer than 1% on Xbox.\nAlthough it’s tempting to assume these low completion numbers are simply because the game came out so recently, Sony released player engagement numbers that made it clear most have already put a ton of time into GTA 6. Mat Piscatella, senior director at market research firm Circana, revealed that players spent an average of more than 8 hours playing the game on launch day. As of Nov. 23, PS5 players had already spent an average of 17.4 hours playing. While users are playing a lot and sticking with the game, most are taking their time. Rockstar previously said the main story takes around 50 hours to finish.\nThe completion percentage is the only tally GTA keeps, and for you it is the whole reason the hours are worth counting.\nYour first hour goes on the collectibles menu, working out the size of the job before you start it.\nA mission that goes wrong gets replayed until it is clean, because there is a rating attached and you are going for it.\nYou were still at 68 percent when the credits rolled, and the credits did not feel like an ending.\nGTA spends more e",
+    "extra": {
+     "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/grand-theft-auto-6-jason-with-gun.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "ИГРОКИ НЕ СПЕШАТ ПРОХОДИТЬ GTA 6\n\nСтатистика с консолей показала, что только 40% игроков добрались до 3-й главы. Видимо, рыбалка и вайб Леониды затягивают сильнее, чем основной сюжет — база! \n\nМногие залипают на побочках и просто исследуют мир, хотя наигрывают по 17+ часов. А на каком этапе ты, чел?\n\n❤️ — Я чилю, никуда не спешу\n👎 — Рашу сюжет, мне не до рыбалки",
+    "card_title": "ИГРОКИ НЕ СПЕШАТ ПРОХОДИТЬ GTA 6",
+    "reason": "Статистика прохождения игры от крупного издания Polygon, подтверждающая, что игроки не спешат.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.1-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-24T19:21:50.167855+00:00"
+  },
+  {
+   "item": {
+    "title": "Real Life Strip Club Says It's Had 'Hundreds of Inquiries' From GTA 6 Fans, as Pornhub Traffic Plummets",
+    "link": "https://www.ign.com/articles/real-life-strip-club-says-its-had-hundreds-of-inquiries-from-gta-6-fans-as-pornhub-traffic-plummets",
+    "summary": "Strip Clubs are part of the very DNA of GTA 6, and exotic dance chain Spearmint Rhino is making the most of it, hiring a choreographer to recreate the moves of the in-game dancers for its patrons. According to the club, it's in response to a wave of requests from visitors and people sliding into its DMs.",
+    "published": "2026-11-24T17:46:32+00:00",
+    "source": "IGN",
+    "site_name": "IGN",
+    "trust": "high",
+    "text": "Hires a choreographer to recreate the moves.\nStrip Clubs are part of the very DNA of GTA 6, and exotic dance chain Spearmint Rhino is making the most of it, hiring a choreographer to recreate the moves of the in-game dancers for its patrons. According to the club, it's in response to a wave of requests from visitors and people sliding into its DMs.\n\"I’m fascinated with the attention to detail from Rockstar,\" said the head choreographer, Brooke Wilde. \"I spent hours in Jack of Hearts and Delights Cabaret, mastering each performance to bring back to Spearmint, and now obsessed gamers can put down their controllers, get out of the bedroom, and experience their favourite virtual lap dances with the Spearmint Rhino girls in the real world. While the in-game strip clubs are addictive, nothing beats the real thing.”\nWhile we can't be sure exactly how many people are reaching out to their local strip joints for IRL GTA-inspired bodily contact, you have to respect the hustle. It's also an interesting counterpoint given GTA 6's impact on another part of the adult entertainment industry, with Mashable reporting that Pornhub saw a 15.5% drop an hour after the game was released on November 19.\nSpearmint Rhino's relationship with the series actually goes back to 2013 and GTA 5, when Rockstar used a play on the name of the clubs, Vanilla Rhino, and Rockstar has said that developers for GTA 6 visited strip clubs in Miami and Florida (where Spearmint Rhino has one of its venues) for research purposes.\nIn GTA 6, Jason and Lucia can both go to strip clubs either together as a couple or individually, and can opt-in for VIP lap dances. As explained in our GTA 6 sex and romance guide, you can throw money at dancers, and if you throw most of your money at one dancer they will remove some of their clothes.\n“While gamers across the world immerse themselves in virtual worlds, demand for authentic real-world experiences has never been higher and we’ve had hundreds of inquiries from GTA 6 fans,\" explained the company president and COO, Kathy Vercher.\n\"Strip clubs are such an iconic feature in the franchise, and Spearmint Rhino is uniquely positioned to create a real-world experience for gamers. Thanks to the dedication of our Chief Choreographer, Brooke, we’ve been able to bring the in-game lap dance experience into our venues worldwide, with such accuracy that gamers are guaranteed to get a mindblowing real-life experience.”\nJust getting started in GTA 6 or wondering what to do next",
+    "extra": {
+     "image": "https://assets-prd.ignimgs.com/2026/11/24/gta-6-ign-1795542340689.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "GTA 6 ВЫТЕСНЯЕТ ПОРНОХАБ\n\nИгроки настолько ушли в вайб стрип-клубов Вайс-Сити, что реальные заведения фиксируют сотни запросов от фанатов. А трафик на Pornhub рухнул на 15% сразу после релиза — вот это настоящий разнос! \n\nСеть клубов Spearmint Rhino даже наняла хореографа, чтобы перенести танцы из игры в реал. Челы, вы рил решили выйти из комнаты ради этого? 🤡\n\n❤️ — Ну, база, играем в симулятор жизни\n👎 — Кринж, идите лучше сюжетку добейте",
+    "card_title": "GTA 6 ВЫТЕСНЯЕТ ПОРНОХАБ",
+    "reason": "Забавная новость про влияние игры на реальный мир и индустрию развлечений.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "Real Life Strip Club Says It's Had 'Hundreds of Inquiries' From GTA 6 Fans, as Pornhub Traffic Plummets",
+    "corroborated_by": "Real Life Strip Club Says It's Had 'Hundreds of Inquiries' From GTA 6 Fans, as Pornhub Traffic Plummets",
+    "guide": false,
+    "model": "gemini:gemini-3.1-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-24T19:21:53.436042+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA 6 Is Giving Pornhub A Hard Time",
+    "link": "https://www.gamespot.com/articles/gta-6-is-giving-pornhub-a-hard-time/",
+    "summary": "Not even porn is immune to the GTA 6 effect, as it's just one of several forms of entertainment that has seen a decline in viewership since the massive open-world game launched. It's not surprising, given the game's record-breaking start, with 32.5 million sales from preorders alone. On PS5, GTA 6 is the \"biggest launch\" in PlayStation history, and players spent an average of 17.4 hours playing in its first few days--which probably didn't leave much time for a quick browse of after-hours material. According to Mashable , US traffic on Pornhub--which I've been told is one of the largest pornography websites, by traffic--dipped by as much as 15.5% an hour after GTA 6 launched. Paradoxically, Pornhub traffic had actually been up by 16.5% compared to average days, likely indicating that people were bored and randy. Pornhub traffic started to fluctuate after the GTA 6 launch and reached an average peak a few days later. https://www.youtube.com/watch?v=i7l7Lu69V_c Thanks to the game's massive success, we're also seeing the Rule 34 effect on GTA 6, as Mashable's research noted a 16,196% spike in GTA-related searches. Up to 15 million search queries were made on November 18 alone, with users searching for GTA 6, the GTA 6 strip club, and content depicting the co-protagonist Lucia specifically. The fan-favorite stalker--and possible serial killer--Mandy also appeared in search results, while Lucia's partner-in-crime Jason ranked low. Thursday Night Football also saw a big dip last week, with the lowest viewership of the season so far for a TNF game. While Rockstar's new open-world adventure can't be blamed entirely for that dip, it certainly must have had an impact, given that the football game was held on GTA 6's launch day. That effect didn't extend to the box office , as The Hunger Games: Sunrise on the Reaping opened to a massive $120 million in the US, almost triple that of the last film in the series, The Ballad of Songbirds and Snakes. For more GTA 6 news, you can read up on how modders are attempting to make an unofficial PC port , how to fix GTA 6's broken HDR , and you can check out our list of walkthroughs in the GTA 6 guides hub .",
+    "published": "2026-11-24T16:31:17+00:00",
+    "source": "GameSpot",
+    "site_name": "GameSpot",
+    "trust": "high",
+    "text": "Not even porn is immune to the GTA 6 effect, as it's just one of several forms of entertainment that has seen a decline in viewership since the massive open-world game launched. It's not surprising, given the game's record-breaking start, with 32.5 million sales from preorders alone. On PS5, GTA 6 is the \"biggest launch\" in PlayStation history, and players spent an average of 17.4 hours playing in its first few days--which probably didn't leave much time for a quick browse of after-hours material. According to Mashable , US traffic on Pornhub--which I've been told is one of the largest pornography websites, by traffic--dipped by as much as 15.5% an hour after GTA 6 launched. Paradoxically, Pornhub traffic had actually been up by 16.5% compared to average days, likely indicating that people were bored and randy. Pornhub traffic started to fluctuate after the GTA 6 launch and reached an average peak a few days later. https://www.youtube.com/watch?v=i7l7Lu69V_c Thanks to the game's massive success, we're also seeing the Rule 34 effect on GTA 6, as Mashable's research noted a 16,196% spike in GTA-related searches. Up to 15 million search queries were made on November 18 alone, with users searching for GTA 6, the GTA 6 strip club, and content depicting the co-protagonist Lucia specifically. The fan-favorite stalker--and possible serial killer--Mandy also appeared in search results, while Lucia's partner-in-crime Jason ranked low. Thursday Night Football also saw a big dip last week, with the lowest viewership of the season so far for a TNF game. While Rockstar's new open-world adventure can't be blamed entirely for that dip, it certainly must have had an impact, given that the football game was held on GTA 6's launch day. That effect didn't extend to the box office , as The Hunger Games: Sunrise on the Reaping opened to a massive $120 million in the US, almost triple that of the last film in the series, The Ballad of Songbirds and Snakes. For more GTA 6 news, you can read up on how modders are attempting to make an unofficial PC port , how to fix GTA 6's broken HDR , and you can check out our list of walkthroughs in the GTA 6 guides hub .",
+    "extra": {
+     "image": "https://www.gamespot.com/wp-content/uploads/2026/11/GTA-6-launch-screens-27.jpg?w=300"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 9,
+    "post": "GTA 6 ПОБЕДИЛА ПОРНОХАБ\n\nКажется, игроки настолько ушли в Вайс-Сити, что забыли про всё остальное. В день релиза трафик на Pornhub просел на 15.5% — видать, Люсия и катка в GTA куда интереснее любого контента. Зато поисковые запросы по игре улетели в космос на 16 000%, фанаты не дремлют. Вот это я понимаю — реальный разнос индустрии! 🎮🔥\n\n❤️ — Топ, игра важнее\n👎 — Ору, вы серьезно?",
+    "card_title": "GTA 6 ПОБЕДИЛА ПОРНОХАБ",
+    "reason": "Забавный факт о влиянии игры на трафик крупных сайтов, подтвержденный авторитетным СМИ.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "Pornhub traffic plunged on 'GTA 6' release day",
+    "guide": false,
+    "model": "gemini:gemini-3.1-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-24T19:22:04.995687+00:00"
+  },
+  {
+   "item": {
+    "title": "I can’t believe I let Jason spend $475 on a gold-plated piece of tin in GTA 6, but it's such a Boy Move that I can't even be angry",
+    "link": "https://www.gamesradar.com/games/grand-theft-auto/i-cant-believe-i-let-jason-spend-usd475-on-a-gold-plated-piece-of-tin-in-gta-6-but-its-such-a-boy-move-that-i-cant-even-be-angry/",
+    "summary": "GTA 6's genius lies in its moments of real-life authenticity – including poking fun at Boy Traits",
+    "published": "2026-11-24T14:00:00+00:00",
+    "source": "GamesRadar+",
+    "site_name": "GamesRadar+",
+    "trust": "high",
+    "text": "Sigh. Boys. I would say men, but even with his shredded physique and ex-military career, GTA 6 protagonist Jason is such a boy that it goes from being funny to endearing.\nAll the signs are there as I explore his beachside stilt house for the first time. Spartan living room furnishings consist of a sofa, coffee table, and a single rickety armchair. A peek in the fridge and pantry confirms my suspicions: the dude is surviving on protein shakes, protein bars, two day old coffee, and maybe a handful of gas station potato chips. Rockstar here pokes fun at every stereotype of the simple, single man, with no partner to appease or even make little considerations for as he goes about his day.\nBut after Cal's bro time visit to play video games starts with the two men reconfiguring said living room in Lucia's honor, I've decided to reform this bachelor into the ultimate Wife Guy – but why oh why did he have to choose that necklace?!\nI make it my business to do everything that Lucia might appreciate and improve my relationship status in GTA 6. Each interaction that will earn her acknowledgement is signposted with a little pink heart. Home improvements are a big one, but getting sexy is my top priority.\nGetting Jason in ship shape for his missus was not hard, at least from a physical perspective. Glancing at the fitness app, I see he's already ripped and has a low bodyfat percentage (what a show-off) at the start of the game, but there's always room for improvement.\nFrom kettlebells to bench presses, squats, and pull ups, Lucia clearly likes her man in tip top shape. My Jason is shredded now – Key Lento's very own beach bum hunk – and I take every opportunity to show flirtatious GTA 6 neighbour Mandy my disinterest in her possibly cannibalistic games. I go so far as to blow off main missions, emerging from the glittering waters outside Jason's crib at 2am to find a text from big boss Brian postponing a job because \"it's a little late now\". I lock in Jason's cardio workout with a protein shake and a cigarette, and go to bed excited to see my gains.\nBut everything I have done to make Jason the perfect man for Lucia suddenly comes under threat the day before her release. I pick up some spare clothes from Andy, just as she asked. I buy every single thing at the grocery store, including a fancy wine, bread, cereal… you know, real gourmet stuff. I order a bouquet of roses, the most expensive option at the florist. But then I reach Siren's Cove to buy her a necklace and my on",
+    "extra": {
+     "image": "https://cdn.mos.cms.futurecdn.net/JDcDS3XG3Ym8vfomVYNjqG-1920-80.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "КАК СДЕЛАТЬ ИЗ ДЖЕЙСОНА ПОДСНЕЖНИКА\n\nВ GTA 6 можно превратить нашего брутального Джейсона в идеального мужа для Люсии. Разрабы знатно порофлили над бытом холостяка, но возможность обустроить жилье и подкачать героя ради отношений — это лютая база. Главное — не слить все бабки на кринжовые подарки в Siren's Cove, как автор статьи, а то выйдет не романтика, а полный тильт.",
+    "card_title": "КАК СДЕЛАТЬ ИЗ ДЖЕЙСОНА ПОДСНЕЖНИКА",
+    "reason": "Интересная механика отношений и быта Джейсона, которая зацепит игроков.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.1-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-24T19:22:34.298854+00:00"
   }
  ]
 }
