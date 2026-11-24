@@ -3258,7 +3258,17 @@
   "546caaf77aa6d05e": "2026-11-24T02:38:04.432984+00:00",
   "ebd6c40f54eceb50": "2026-11-24T02:38:05.950850+00:00",
   "661de4593481136b": "2026-11-24T02:38:07.569260+00:00",
-  "ea01509f7b179683": "2026-11-24T02:38:09.085976+00:00"
+  "ea01509f7b179683": "2026-11-24T02:38:09.085976+00:00",
+  "f25f81440a28175b": "2026-11-24T02:53:30.855364+00:00",
+  "280beaa89412e65c": "2026-11-24T02:53:32.698979+00:00",
+  "a8b3b86ee04da0fd": "2026-11-24T02:53:33.815227+00:00",
+  "e6dd81b7dfc8a9cd": "2026-11-24T02:53:42.903227+00:00",
+  "e2067436f4875839": "2026-11-24T02:53:45.019204+00:00",
+  "f44c39450e29ba84": "2026-11-24T02:53:46.662561+00:00",
+  "f3468bd420988a2f": "2026-11-24T03:09:07.185220+00:00",
+  "ea2bc76e9df25e51": "2026-11-24T03:09:08.499601+00:00",
+  "aaa0bae90ca04ede": "2026-11-24T03:09:09.966858+00:00",
+  "d3be5a6d3b82c629": "2026-11-24T03:09:18.419047+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -5502,7 +5512,17 @@
   "de29189cfe198dc1": "2026-11-24T02:38:04.432984+00:00",
   "e5ca516067111a8b": "2026-11-24T02:38:05.950850+00:00",
   "0deee3e417577cab": "2026-11-24T02:38:07.569260+00:00",
-  "ac77c9e0e98c0aa7": "2026-11-24T02:38:09.085976+00:00"
+  "ac77c9e0e98c0aa7": "2026-11-24T02:38:09.085976+00:00",
+  "809406a33fd64ecb": "2026-11-24T02:53:30.855364+00:00",
+  "69d8c16675bd3d1d": "2026-11-24T02:53:32.698979+00:00",
+  "4d6e2dcdcd0a4811": "2026-11-24T02:53:33.815227+00:00",
+  "d67e9bf0574d1dfd": "2026-11-24T02:53:42.903227+00:00",
+  "46f76577679a42f2": "2026-11-24T02:53:45.019204+00:00",
+  "18a988c80bff8229": "2026-11-24T02:53:46.662561+00:00",
+  "522d4e66e82d3af5": "2026-11-24T03:09:07.185220+00:00",
+  "98803cedae5d198b": "2026-11-24T03:09:08.499601+00:00",
+  "c4dc1ded776e3e82": "2026-11-24T03:09:09.966858+00:00",
+  "bee5e533a8b43ac8": "2026-11-24T03:09:18.419047+00:00"
  },
  "recent": [
   {
@@ -13888,6 +13908,94 @@
    "status": "skipped",
    "ts": "2026-11-24T02:38:09.086117+00:00",
    "card_title": ""
+  },
+  {
+   "title": "«Крупнейший релиз для PlayStation» — количество уникальных игроков GTA 6 на PS5 превысило 39 млн",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T02:53:30.855505+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "BRO…GTA 6 NPCs ARE ACTUALLY TERRIFYING 😭 They’ll just TELEPORT behind you out of nowhere and delete you… Rockstar cooked too hard with these demons 💀 Writer: Bri",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T02:53:32.699136+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Nick Eh 30 Unleashes Chaos in GTA VI Streams",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T02:53:33.815356+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI Hacker Forbidden From Using Telegram As Telegram Boss Declares Game Unrealistic For Not Using App In Crimes",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T02:53:42.903365+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI sets a record for launch revenue, according to Alinea Analytics.",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T02:53:45.019346+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 has been out less than a week, and a full PC port is already on its way",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T02:53:46.662696+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Players Are Convinced Rockstar Painted a Fake Tunnel Just to Trick Them Into a Looney Tunes-Style Crash",
+   "source": "IGN",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-24T03:09:05.706496+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "KFC Offers a Fried Chicken 'GTA 6' Replacement Disc",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T03:09:07.185367+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI Songs: Pulse Music's Got Game",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T03:09:08.499740+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to Get the Hellspawn Shotgun in GTA 6 – Satan Easter Egg Guide",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T03:09:09.966995+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Энтузиасты приступили к портированию GTA VI с Xbox на Windows",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T03:09:18.419201+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -21112,36 +21220,6 @@
   "digest-20261123": "2026-11-23T19:30:46.041576+00:00"
  },
  "rewrite_wait": [
-  {
-   "item": {
-    "title": "GTA 6 Players Are Convinced Rockstar Painted a Fake Tunnel Just to Trick Them Into a Looney Tunes-Style Crash",
-    "link": "https://www.ign.com/articles/gta-6-players-are-convinced-rockstar-painted-a-fake-tunnel-just-to-trick-them-into-a-looney-tunes-style-crash",
-    "summary": "GTA 6 players are convinced that Rockstar Games painted a fake tunnel in Vice City just to trick them into ramming into it in a Looney Tunes-style crash.",
-    "published": "2026-11-23T23:03:36+00:00",
-    "source": "IGN",
-    "site_name": "IGN",
-    "trust": "high",
-    "text": "GTA 6 players are convinced that Rockstar Games painted a fake tunnel in Vice City just to trick them into ramming into it in a Looney Tunes-style crash.\nPicture it: One day, Lucia's driving through Vice City without a care in the world, when suddenly – wham! – she splats right into the wall. That's a story that's become all too common in the early days of GTA 6 thanks to a very silly (and very convincing) mural located in the game.\nIf you've ever seen a Wile E. Coyote cartoon, you probably know where this is going. The idea is that the painting on the wall looks so lifelike that anyone not hyper-focused on the details thinks they can drive straight through it like any other tunnel. While the trick typically works out for the Road Runner, Jason, Lucia, and the rest of the internet haven't been so lucky.\nMany 'GTA 6' fans are getting fed up after crashing into a painted wall because it looks like a real driving path 😂 https://t.co/1aUiG7qiON— internet hall of fame (@InternetH0F) November 23, 2026\nLudwig Drives Straight Into a Painted Wall in GTA VIClipped from ludwig's live streamFollow for the best GTA 6 moments every day!#GTA6 #ludwig #GTAVI https://t.co/sDE9kbneUq— ChatSaidClipThat (@ChatSaidClip) November 21, 2026\nLet's be honest: Rockstar probably did this on purpose. These crashes and Looney Tunes comparisons are way, way too common for it to have been something the developers didn't consider. Maybe the team didn't expect that many people to fall for the gag, or maybe they expected more players to notice it before running face-first into the wall, but it's hilarious, either way.\nIf there's anything we've learned from the early days of GTA 6, it's that Rockstar spent its lengthy development time well. Leonida is packed with things to do, people to meet, and secrets to discover, and even though so much has already been found after just one weekend, it's clear players won't be done anytime soon. The fact that everything looks so real it's tricking everyone online is just a bonus.\nOne example of an Easter Egg that someone (somehow) solved in just three days arrived this morning. Instead of a blink-and-you'll-miss-it moment or a convincing mural, this one teleports players to a retro version of Vice City.\nFaites attention quand vous conduisez sur cette route dans GTA 6 ce mur paraît invisible 🫥 https://t.co/92AprYf5Gu— Mahdii🇸🇳 (@MahdiToure8) November 23, 2026\nWhat in the fucking looney toons bullshit https://t.co/8OeCfSAgZk— filthy groyper (@FilthyGroyper",
-    "extra": {
-     "image": "https://assets-prd.ignimgs.com/2026/11/23/gta-6-secret-blogroll-1795445757736.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "🎨 СТЕНА-ОБМАНКА В GTA 6\n\nРокстаровцы знатно рофлят над игроками: в Вай Сity нашли нарисованный туннель прямо в стене, куда на полной скорости влесают бедолаги в стиле Looney Tunes. Чистый кайф и лютая база от разработчиков.\n\n❤️ — Ловил этот кринж\n👎 — Я сразу понял, что это обман",
-    "card_title": "ФЕЙКОВЫЙ ТУННЕЛЬ В ВИС СИТИ",
-    "reason": "Funny and viral Easter egg with players crashing into a fake tunnel, perfect for gamer community hype.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-24T00:05:12.877764+00:00"
-  },
   {
    "item": {
     "title": "Sony Touts Nearly 40 Million GTA 6 Players on PS5",
