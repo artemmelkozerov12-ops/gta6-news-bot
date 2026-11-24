@@ -3602,7 +3602,16 @@
   "e8b43b2c24f1831d": "2026-11-24T13:27:00.558323+00:00",
   "70345c9d607cb882": "2026-11-24T13:27:31.500548+00:00",
   "dce6243d77a1b436": "2026-11-24T13:42:48.253538+00:00",
-  "2e8f52defacca49b": "2026-11-24T13:43:02.484665+00:00"
+  "2e8f52defacca49b": "2026-11-24T13:43:02.484665+00:00",
+  "81b19e654dcb2523": "2026-11-24T13:58:40.256287+00:00",
+  "d19f4f161d592ecc": "2026-11-24T13:58:41.141347+00:00",
+  "2885137a8795da1c": "2026-11-24T13:58:41.993228+00:00",
+  "9adb8c282d2c8151": "2026-11-24T13:58:42.774206+00:00",
+  "f88ca06b98ba051d": "2026-11-24T13:59:34.098218+00:00",
+  "b1c0a417be866d69": "2026-11-24T13:59:35.148310+00:00",
+  "130a99bcb771b3c1": "2026-11-24T14:14:18.039829+00:00",
+  "58adb9a3106b3afa": "2026-11-24T14:14:19.041663+00:00",
+  "6df916c1d451a77a": "2026-11-24T14:14:19.641343+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -14782,7 +14791,7 @@
    "title": "How to get the GTA 6 BF Bandito",
    "source": "GamesRadar+",
    "trust": "high",
-   "status": "queued",
+   "status": "published",
    "ts": "2026-11-24T12:52:20.116332+00:00",
    "card_title": "BF BANDITO: КАК ПОЛУЧИТЬ"
   },
@@ -14918,122 +14927,6 @@
  "queue": [
   {
    "item": {
-    "title": "One of GTA 6’s most elaborate Easter eggs has been solved",
-    "link": "https://www.videogameschronicle.com/news/one-of-gta-6s-most-elaborate-easter-eggs-has-been-solved/",
-    "summary": "A YouTuber has discovered one of GTA 6's biggest secrets",
-    "published": "2026-11-23T23:23:12+00:00",
-    "source": "VGC",
-    "site_name": "VGC",
-    "trust": "high",
-    "text": "One of GTA 6’s most elaborate Easter eggs has been solved after 4 days.\nWhile most players are still in the early chapters of GTA 6, some players are discovering some of the game’s biggest secrets only days after the game launched.\nOne such Easter egg, discovered by a YouTube creator, is likely one of the most elaborate Easter eggs in Grand Theft Auto 6.\nGuides: If you're playing Grand Theft Auto 6, make sure to check out our complete walkthrough hub, featuring beginner tips, navigation experience explained, GTA 6 cheats, and more.\nNote: This story contains details about the Easter egg. While we’d encourage players to go and see it for themselves, the likelihood of you stumbling upon this organically is very low.\nThe Easter egg involves a musical chime from Grand Theft Auto: Vice City, and an elaborate riddle that took one player across Leonida in order to solve it.\nYouTube creator Memeio deciphered a code which saw him travel the, flipping switches and pressing buttons at specific substations. As he explains in his original post, the Easter egg, which requires knowledge of Vice City’s cheat codes, took three days of following in-game electricity wires in order to find each substation.\nAs requested, here is the entire cutscene! I highly recommend you go and do this secret yourself, but I'm happy to share it with the world (I literally spent three days following powerlines in game to find the substations...) 🤓 https://t.co/dEuXIRDXj5 pic.twitter.com/3NuYYRqlCp— Memeio (@MemeioYT) November 23, 2026\nThey payoff for this Easter egg is a trip back to the 1980s. If all the steps of the Easter egg are done correctly, then a portal will open, sending the player back to a stylized version of the PS2 game. Not only this, but a cameo from Danny Dyer, reprising his role as Kent Paul, is also part of the Easter egg.\nWhen players return from the Easter egg, they’ll be given a shirt and a motorbike belonging to Tommy Vercetti, the protagonist of GTA: Vice City.\nGrand Theft Auto 6, which launched on Thursday, has become the most successful launch for any piece of media in history, after being pre-ordered over 32 million times, according to Rockstar.\nVGC’s Grand Theft Auto 6 review calls it “the game of the generation”, saying Rockstar “delivers its modern masterpiece with a remarkable artistic achievement that exceeds all expectations”.\n“Rockstar’s developers have created a remarkable open world that excels in storytelling, gameplay, visuals, music and technology to achie",
-    "extra": {
-     "image": "https://www.videogameschronicle.com/files/2026/06/VINTAGE_VICE_CITY_PACK_EXCLUSIVE_LOOKS_03.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 9,
-    "post": "🕹️ Эпичная пасхалка‑портал в 80‑е раскрыта\n\nМемейо пробежал по проводам Леонида, раскодил читы Vice City и открыл портал в 80‑е. За это — фирменная футболка и байк Томи Вёрсетти, плюс камео Дэнни Дайера. Готовьте квест‑пушку, лут ждёт! 🚀",
-    "card_title": "ЭЛИТНАЯ ПАССХАЛКА ПОРТАЛ 80‑Х",
-    "reason": "Игрок разгадал лютую пасхалку с порталом в Вайб-Сити и камео Кента Пола за 3 дня.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-24T01:47:53.413872+00:00"
-  },
-  {
-   "item": {
-    "title": "GTA 6 was the ‘biggest launch in PlayStation history’ with over 39 million players",
-    "link": "https://www.videogameschronicle.com/news/gta-6-was-the-biggest-launch-in-playstation-history-with-over-39-million-players/",
-    "summary": "GTA 6 has broken another record",
-    "published": "2026-11-23T23:55:23+00:00",
-    "source": "VGC",
-    "site_name": "VGC",
-    "trust": "high",
-    "text": "Grand Theft Auto 6 was “the biggest launch in PlayStation history,” according to Sony, with over 39 million users playing the game on PS5.\nAccording to a post on the PlayStation blog, players cumulatively logged 683 million hours of gameplay in GTA 6 between launch and November 22. The game also set a new record for concurrent players of a single game on PlayStation consoles.\nPlayStation also claims that the platform holder “saw the largest number of newly connected PS5 consoles on a single day since the console’s launch, outside of end-of-year holidays.”\nGTA 6 was also “the first game played on 70% of new PS5 consoles” during the period of launch until November 22.\nThis comes after Rockstar and publisher Take-Two announced that Grand Theft Auto 6 has become the most successful launch for any piece of media in history, after being pre-ordered over 32 million times.\nOn Friday, Rockstar and Take-Two claimed that the game has generated $3.79 billion in day one retail sales, “setting a new record for entertainment across any medium, and becoming the biggest entertainment launch in history.”\nFor comparison, Spider-Man: Brand New Day generated $2.5 billion across its entire theatrical run as the highest grossing film of the year. When compared to other GTA titles, GTA 5 generated $815 million on launch day, which means GTA 6 managed almost 5 times as much.\nGrand Theft Auto 6 released on Thursday November 19, 13 years after the previous entry in the franchise. Upon release, the game achieved a record-tieing 99 out of 100 on Metacritic, making it one of the highest rated games of all time.\nVGC’s Grand Theft Auto 6 review calls it “the game of the generation”, saying Rockstar “delivers its modern masterpiece with a remarkable artistic achievement that exceeds all expectations”.\nGuides: If you're playing Grand Theft Auto 6, make sure to check out our complete walkthrough hub, featuring beginner tips, navigation experience explained, GTA 6 cheats, and more.",
-    "extra": {
-     "image": "https://www.videogameschronicle.com/files/2026/11/HXl7aGxXcAAHEti.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 9,
-    "post": "🎮 39 МИЛЛИОНОВ ИГРОКОВ НА PS5\n\nSony подтвердила, что GTA 6 показала крупнейший запуск в истории PlayStation! Намотали уже 683 миллиона часов геймплея до 22 ноября. А ещё 70% покупателей новых PS5 первым делом запускали именно историю Люсии и Джейсона.\n\nПросто разнос всех возможных рекордов, народ ушёл в жесткий задротский трип. А сколько часов уже наиграл ты?\n\n❤️ — Жгу Vice City с утра до ночи\n👎 — Жду патчей / ПК-версию",
-    "card_title": "РЕКОРД НА PLAYSTATION",
-    "reason": "Официальные данные о рекордном запуске GTA 6 на PS5 и продажах от Sony и Rockstar.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-3.5-flash"
-   },
-   "queued_at": "2026-11-24T02:04:50.224888+00:00"
-  },
-  {
-   "item": {
-    "title": "GTA 6 Players Figure Out A Way To Remove Its Framerate Cap, But 60FPS Ain’t Happening Anytime Soon",
-    "link": "https://kotaku.com/gta-6-players-figure-out-a-way-to-remove-its-framerate-cap-but-60fps-aint-happening-anytime-soon-2000759582",
-    "summary": "Rockstar has suggested not even the PS5 Pro could handle higher framerates in GTA 6",
-    "published": "2026-11-23T22:30:19+00:00",
-    "source": "Kotaku",
-    "site_name": "Kotaku",
-    "trust": "high",
-    "text": "60FPSGrand Theft Auto 6GTA 6Rockstar Games\nA new glitch on Xbox lets players play Grand Theft Auto 6 without a framerate cap. It’s a neat trick that, in some circumstances, does allow the game to run at nearly 60FPS. However, this odd glitch really shows how GTA 6 is unlikely to get an actual performance mode anytime soon.\nGrand Theft Auto 6 targets 30FPS on PlayStation 5 and Xbox. This performance limitation upset some players, especially those hoping the game would hit higher numbers on PS5 Pro. And in some areas of the game, it struggles to maintain that level of performance due to the immense amount of simulation happening under the hood and all the incredible visual effects running at all times. Rockstar has also explained that current-gen hardware can’t support higher framerates. That hasn’t stopped fans from trying, and a new Xbox bug has some claiming a 60FPS mode is here. But it’s more complicated than that.\nAs explained in a new video from Digital Foundry, this Xbox glitch, which was discovered by Reddit user Meowwie64 and involves tweaking some refresh settings while booting up GTA 6 and a second game, is fun to play around with, but isn’t a hidden high-performance mode.\nAfter extensive testing, DF determined that playing GTA 6 with this glitch in effect resulted in an average framerate of 36FPS. That is higher than normal, but it doesn’t equate to a smoother experience. There are moments when you can get the game running at nearly 60FPS, but to do so you have to go out in the middle of the ocean, away from all the simulation and action, and look at the sky. And even then, GTA 6 can’t hit a locked 60FPS using this newly discovered glitch.\nIt also seems like this bug causes some weird issues with gameplay. When the framerate goes up, the game appears to speed up alongside it. This is likely a result of the bug and not a sign that GTA 6′s action is tied to the framerate. The one positive, as noted by Digital Foundry, is that input lag is reduced somewhat when using this mode. But keep in mind that as the framerate goes up, so does that game speed issue, making it harder to control the action while driving or shooting.\nSome online have tried to claim this is some secret 60FPS mode that Rockstar has hidden in the game for… some reason. Or that Rockstar lied when it told Kotaku these consoles, even the PS5 Pro, can’t handle a 40 or 60FPS mode. But the truth is that this is just a weird bug that might get patched in the near future by Xbox or Rockstar",
-    "extra": {
-     "image": "https://kotaku.com/app/uploads/2026/08/gta-6-top-art-1280x720.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "🚀 Как снять лимит FPS в GTA 6\n\n🗺 Гайд:\n1️⃣ В настройках экрана Xbox отключи ограничение частоты.\n2️⃣ При загрузке GTA 6 запусти вторую игру (например, FIFA) и переключи её в режим 60 Гц.\n3️⃣ Войдя в GTA 6, проверяй FPS – в открытом океане будет почти 60, в городе около 36.\n⚠️ Глюк ускоряет игру, так что готовься к быстрой тачке.",
-    "card_title": "СНЯТЬ ФПС-ЛИМИТ В GTA6",
-    "reason": "Глитч на разблокировку FPS — это хайповая тема, хотя и не дает стабильных 60 кадров.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "GTA 6 Players Figure Out A Way To Remove Its Framerate Cap, But 60FPS Ain’t Happening Anytime Soon",
-    "corroborated_by": "GTA 6 Players Figure Out A Way To Remove Its Framerate Cap, But 60FPS Ain’t Happening Anytime Soon",
-    "guide": false,
-    "model": "gemini:gemini-3.1-flash-lite → groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-24T01:47:34.714439+00:00"
-  },
-  {
-   "item": {
-    "title": "GTA 6 Players Are Upset Its New Train Can Actually Be Stopped After Spending 13 Years With the Unstoppable GTA 5 Train",
-    "link": "https://www.ign.com/articles/gta-6-players-are-upset-its-new-train-can-actually-be-stopped-after-spending-13-years-with-the-unstoppable-gta-5-train",
-    "summary": "GTA 5's unstoppable train has been a meme for a decade, so naturally, players wasted no time trying to stop GTA 6's train – but they were sad to find out that it wasn't all that hard to do.",
-    "published": "2026-11-23T22:10:23+00:00",
-    "source": "IGN",
-    "site_name": "IGN",
-    "trust": "high",
-    "text": "GTA 5's unstoppable train has been a meme for a decade, so naturally, players wasted no time trying to stop the one in GTA 6 – but they were sad to find out that it wasn't all that hard to do.\nWhat better way to spend the early days of a project that Rockstar Games fans waited 13 years for than to immediately do the same thing they've already been doing? As players were dropped into the south end of Leonida, many immediately took Jason as far as they could just to find a train to stand in front of.\nThere is, indeed, a new train screeching over the tracks surrounding Vice City, but there's a problem – it has no aura.\nFinally, the train in GTA 6 has come to stop 😭😭😭😭 https://t.co/ly0JOJ0Mb0— NiK (@Oye_Nik) November 21, 2026\nSo sánh tàu hỏa đối đầu với các phương tiện trong GTA5 vs GTA6 vs PDR2 https://t.co/M4CwCbgokx— Troy Ah Keith (@TroyAhKeith) November 23, 2026\nIf you're one of the few people who hasn't picked up GTA 5 since it launched in 2013, you still may have heard about its unstoppable train. The iconic black, yellow, and white locomotive patrols Los Santos and has for years, and unlike just about every other vehicle in the game, there's nothing Michael, Franklin, or Trevor can do to stop it.\nDumb trucks, C4, planes, rows of cars – you name it. No one has ever been able to get GTA 5's train to budge. After 13 years of trying, it's become a meme on the internet to try and move the train, resulting in countless videos that have cropped up from those seeking to test its mettle (and farm a bit of engagement on social media).\nNaturally, GTA 6 presented an updated take on the opportunity when players discovered its train. Unfortunately, Rockstar's commitment to realism means moving the new locomotive isn't just possible; it's actually kind of easy. Crash into it with a dump truck? Works like a charm. Park an excavator in its path? Stops it in its tracks. Raise a bridge? Completely detailed. Rockstar's new, smarter NPCs even have the brains to pull the brakes when they see a person simply standing in their way.\nThis is where we get into the argument that has plagued Rockstar both inside and outside of the studio for years: When is a game too realistic? Judging by GTA 6's record-breaking earnings and all-time great reviews, it seems the developers' new playground struck a nice balance between being grounded and goofy. Of course, that hasn't stopped a small section of players from being upset that Leonida plays by many of the same rules that we do in the rea",
-    "extra": {
-     "image": "https://assets-prd.ignimgs.com/2026/11/23/gta-6-train-1795470147994.png"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "🚂 Трен в GTA 6 можно остановить, и фанаты в шоке\n\nПосле 13 лет мемов про неостановимый локомотив в GTA 5, в новой игре его уже можно просто врезать в кучу грузовика 😭. Челы уже делятся роликами, а в чатах только рофл и лёгкий тильт — лютый контент, но и немного кринж.",
-    "card_title": "ОСТАНОВЛЕННЫЙ ТРЕН GTA 6",
-    "reason": "Игроки выяснили, что поезд в GTA 6 можно остановить, и расстроены потерей легендарной фишки из GTA 5",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-24T01:47:59.471210+00:00"
-  },
-  {
-   "item": {
     "title": "GTA 6 Is 'Probably the Greatest Artistic Achievement in History', Says Cyberpunk 2 Director",
     "link": "https://www.pushsquare.com/news/2026/11/gta-6-is-probably-the-greatest-artistic-achievement-in-history-says-cyberpunk-2-director",
     "summary": "\"Cyberpunk 2 is cancelled\". Just about every veteran developer in the industry has been heaping praise on GTA 6 since its release last week, but I'm not sure any of that rampant positivity matches the thoughts of Igor Sarzynski . Sarzynski is currently the creative director on Cyberpunk 2 (as it's officially known right now), having previously worked on both The Witcher 3 and Cyberpunk 2077 — two games that are widely considered to be amongst the best that the open world genre has to offer. Read the full article on pushsquare.com",
@@ -15089,37 +14982,9 @@
     "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
    },
    "queued_at": "2026-11-24T12:52:18.030692+00:00",
-   "moderation": "pending",
-   "draft_msg_id": 132
-  },
-  {
-   "item": {
-    "title": "GTA 6 Is So Unstoppable It's Even Made Nickelback Go Viral",
-    "link": "https://www.polygon.com/gta-6-nickelback-cover/",
-    "summary": "GTA 6 features a radio station with alternate-language covers of pop songs, the best of which is the Greek Nickelback \"How You Remind Me\" cover.",
-    "published": "2026-11-24T00:00:18+00:00",
-    "source": "Polygon",
-    "site_name": "Polygon",
-    "trust": "high",
-    "text": "It's still a debate whether Grand Theft Auto 6 has the best gaming soundtrack of 2026, but it certainly has the most soundtrack of 2026. Rockstar Games' latest open-world crime epic features more than 800 songs, most of which you'll hear on its 26 genre-themed radio stations. Of all this breadth of wild music, you'd figure the most popular song on the soundtrack would be something that had overlap with a Fast and Furious OST. But it turns out the single best song in the GTA 6 soundtrack is something by... Nickelback?\nThanks to GTA 6, Nickelback's 2001 angst ballad \"How You Remind Me\" has been getting a lot of play — kind of. Technically, this version is a cover. GTA 6's Kaleidoscope FM radio station plays alternate-language versions of popular songs, the indisputable best of which is \"Ola Afta Poui Fovamai,\" by the Greek singer and alternate former tourism minister Alkistis Protopsalti. As far as covers go, this is one for the ages. Seriously, listen:\nYou might be somewhat surprised to hear \"How You Remind Me\" making the rounds again, years removed from its days reigning over the Billboard charts. To this day, the most-played radio song of the 2000s has been relegated to background music in the daddest bars from Mississauga to Massapequa. It is arguably the epitome not just of Dad Rock but specifically of Divorced Dad Rock. If \"How You Remind Me\" was a person, its kitchen would include Slim Jims (assorted flavors), cold pizza (definitely pepperoni), and nothing else. It would drive a 2014 Corvette Stingray (bright red, obviously). It would live on the golf course.\nBut with \"Ola Afta Poui Fovamai,\" Protopsalti injects a youthful, upbeat verve to Chad Kroeger's genius composition that legendarily emerged, nearly fully formed, from his brain in just 45 minutes following an argument with a partner. It's the sort of track you'd play in a convertible on a sunny day, or in the bathroom while getting ready for a party themed after The Devil Wears Prada (the good one). There is practically zero Divorced Dad energy in \"Ola Afta Poui Fovamai.\" It is transformational.\nI am far from the only person to completely lose my shit over the resurfacing of a song that hit number-one on charts in Austria, Canada, Denmark, Ireland, and the United Kingdom, in addition to peaking in the top ten in various other international markets. As of this writing, searches for \"Nickelback\" on Bluesky are all about \"Ola Afta Poui Fovamai.\" On Facebook, Greek culture accounts are sharing the c",
-    "extra": {
-     "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/nickelback-photograph-gta-6.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "🎧 Nickelback в GTA 6: кавер взорвал интернет\n\nКалейдоскоп FM крутит греческую версию «How You Remind Me», и теперь Никелбэк стал топом в Bluesky. Пацаны, включайте — реальный вайб, а не просто фон. 😎",
-    "card_title": "НИКЕЛБЭК В GTA 6",
-    "reason": "Interesting in-game radio track from GTA 6 went viral, fitting the gaming culture and hype vibe.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-24T01:48:31.469814+00:00"
+   "moderation": "approved",
+   "draft_msg_id": 132,
+   "waiting_logged": true
   },
   {
    "item": {
@@ -15178,35 +15043,6 @@
     "model": "gemini:gemini-4-hydrogen → gemini:gemini-3.5-flash"
    },
    "queued_at": "2026-11-24T10:19:18.414087+00:00"
-  },
-  {
-   "item": {
-    "title": "How to get the GTA 6 BF Bandito",
-    "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-bf-bandito/",
-    "summary": "You won't find the BF Bandito in a lock up in GTA 6, as this vehicle heist is a little tricker to pull off",
-    "published": "2026-11-24T11:45:55+00:00",
-    "source": "GamesRadar+",
-    "site_name": "GamesRadar+",
-    "trust": "high",
-    "text": "While you're out stealing cars for Moses, the GTA 6 BF Bandito will appear on your list, taking you out to the very rural roads of South Leonard County and the Buckskin Swamp. This GTA 6 heist is slightly harder than the others you might have carried out so far though, as this car will be on the move.Like all of Moses' targets, the rough location of the BF Bandito is marked on the map, but as you make your way there, you'll pass by some whoopin' and hollerin' country dwellers who are already taking the buggy for a spin. Here's how to get your hands on the GTA 6 Bandito and get paid.\nThe map marker will take you to the rough location of the BF Bandito, where you should keep your eyes and ears open for some locals riding around the swamps on buggies - one of these is the Bandito.\nTo claim it for yourself, you'll need to stop the Bandito driver, and there are a few ways to do this. If you clock him fast enough, particularly when crossing water, you can simply get in front of him, and he'll stop. Otherwise, you can chase down the Bandito, shooting the driver and his pals. Weirdly, though, when I did this challenge, the driver eventually just stopped and bolted, leaving the buggy free for me to take, though I'm not sure exactly what triggered him to do this. Essentially, just stay close, don't destroy the car by shooting it too much, and it'll be yours in no time.\nIf you're struggling to find some of the other GTA 6 cars that are ripe for the taking, then check I can also help you nab the Declasse Vamos, as well as Vanessa's cute GTA 6 pink Porsche - I mean, Pfister, which will be live shortly.\n© GamesRadar+. Not to be reproduced without permission.\nWeekly digests, tales from the communities you love, and more\nAfter studying Music and Lifestyle journalism and writing a column for a stylish lifestyle magazine in her hometown of Brighton, Danielle finally found her feet writing about videogames for WePC in 2021. She then honed her guides writing skills at PCGamesN between 2022 and 2026, when she took those skills to GamesRadar as a Guides Writer. Danielle's guides are a safe space - she definitely got stuck before you did, which is why she's perfect for the job. When she's not replaying the Silent Hill games or a more up-to-date single-player horror game, you'll find her fighting for her life in Dead by Daylight, tending to a garden in Stardew Valley, or doing both in Minecraft.\nYou must confirm your public display name before commenting\nPlease logout and then lo",
-    "extra": {
-     "image": "https://cdn.mos.cms.futurecdn.net/kUMeVoKh7ic8eZ4Yb229iE-1920-80.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 6,
-    "post": "🚗 Как заполучить BF Bandito в GTA 6\n\nНужен имба‑багги? Он прячется в болотах South Leonard County – ищи маркер, подкрадись к местным гонщикам и останови его, не разрушив. Быстро подрежь, и тачка твоя. 🎯",
-    "card_title": "BF BANDITO: КАК ПОЛУЧИТЬ",
-    "reason": "Гайд по угону машины BF Bandito для задания Мозеса в South Leonard County.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": true,
-    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-24T12:52:20.116319+00:00"
   },
   {
    "item": {
@@ -15298,9 +15134,10 @@
   "2026-11-24T08:20:55.237297+00:00",
   "2026-11-24T08:36:19.330104+00:00",
   "2026-11-24T12:31:54.928944+00:00",
-  "2026-11-24T12:47:46.729770+00:00"
+  "2026-11-24T12:47:46.729770+00:00",
+  "2026-11-24T14:14:50.960346+00:00"
  ],
- "tg_offset": 387129082,
+ "tg_offset": 387129084,
  "channel": {
   "id": -1003986639147,
   "title": "GTA 6 | Горячие новости",
@@ -15338,11 +15175,13 @@
   "2026-11-24T10:05:15.058615+00:00",
   "2026-11-24T11:05:40.560573+00:00",
   "2026-11-24T12:06:30.409601+00:00",
-  "2026-11-24T13:07:21.924170+00:00"
+  "2026-11-24T13:07:21.924170+00:00",
+  "2026-11-24T14:08:00.473282+00:00"
  ],
  "slots_sent": {
   "2026-11-23:guide:1": "2026-11-23T07:01:27.603496+00:00",
-  "2026-11-23:guide:2": "2026-11-23T08:02:17.686051+00:00"
+  "2026-11-23:guide:2": "2026-11-23T08:02:17.686051+00:00",
+  "2026-11-24:guide:1": "2026-11-24T14:08:00.473378+00:00"
  },
  "urgent": [
   "2026-11-23T20:15:05.441047+00:00"
@@ -22082,6 +21921,81 @@
    "drafted": false,
    "ts": "2026-11-24T13:43:02.484709+00:00",
    "frames": []
+  },
+  {
+   "author": "youtube:meowing",
+   "vod": "",
+   "offset": -1,
+   "title": "Jalanan Palsu di GTA VI, Referensi Kartun di Game GTA VI 😹",
+   "drafted": false,
+   "ts": "2026-11-24T13:58:40.256338+00:00"
+  },
+  {
+   "author": "youtube:danirep | +6 vídeos diarios de gta 5 online!",
+   "vod": "",
+   "offset": -1,
+   "title": "ME QUEDO SIN GASOLINA EN GTA 6",
+   "drafted": false,
+   "ts": "2026-11-24T13:58:41.141399+00:00"
+  },
+  {
+   "author": "youtube:vice7erse",
+   "vod": "",
+   "offset": -1,
+   "title": "Never Take Your Girlfriend to the GTA Shop #gta6 #gta #gta5",
+   "drafted": false,
+   "ts": "2026-11-24T13:58:41.993279+00:00"
+  },
+  {
+   "author": "youtube:astro key",
+   "vod": "",
+   "offset": -1,
+   "title": "DAVY JONES SOFRE O ACIDENTE MAIS ABSURDO DE GTA 6?! 💀",
+   "drafted": false,
+   "ts": "2026-11-24T13:58:42.774255+00:00"
+  },
+  {
+   "author": "youtube:ludwig",
+   "vod": "",
+   "offset": -1,
+   "title": "🚘NON-LETHAL GTA VI MARATHON 🚔 GIVING AWAY CODES EVERY HOUR 🚔 !RedBull !AT&T !Alienware #GameChanger",
+   "drafted": false,
+   "ts": "2026-11-24T13:59:34.098271+00:00"
+  },
+  {
+   "author": "youtube:gameplayrj",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 VAMOS ZERAR HOJE? by Logitech G",
+   "drafted": false,
+   "ts": "2026-11-24T13:59:35.148362+00:00"
+  },
+  {
+   "author": "twitch:grxneronkel",
+   "vod": "2937295990",
+   "offset": 22204.0,
+   "title": "Lucia im Traum gefangen. GTA 6",
+   "drafted": false,
+   "ts": "2026-11-24T14:14:18.039879+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:alanzoka",
+   "vod": "2938467977",
+   "offset": 27336.0,
+   "title": "vai bebe vem",
+   "drafted": false,
+   "ts": "2026-11-24T14:14:19.041706+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:captaindarkseason",
+   "vod": "2938583224",
+   "offset": 10048.0,
+   "title": "SUB FOR DROPS! || GTA 6 LAUNCH || Playthrough & Exploration | 📣 !TTS = 5 bits 🎹 !sounds ☕️ !coffee 🚨 !lights 🎣 !fish",
+   "drafted": false,
+   "ts": "2026-11-24T14:14:19.641396+00:00",
+   "frames": []
   }
  ],
  "published": [
@@ -22455,6 +22369,13 @@
    "title": "АВТОР ПК-ПОРТА СВАЛИЛ",
    "importance": 7,
    "kind": "confirmed"
+  },
+  {
+   "ts": "2026-11-24T14:14:50.960361+00:00",
+   "msg_id": 83,
+   "title": "Как заполучить BF Bandito в GTA 6",
+   "importance": 6,
+   "kind": "guide"
   }
  ],
  "extras": [],
