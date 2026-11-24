@@ -3847,7 +3847,43 @@
   "8d9e0a41d193b51b": "2026-11-24T21:31:02.259590+00:00",
   "a54f788becc60635": "2026-11-24T21:32:20.133850+00:00",
   "b1e9bab51a51856d": "2026-11-24T21:32:44.153820+00:00",
-  "b830bec4ad2c18e8": "2026-11-24T21:33:14.900258+00:00"
+  "b830bec4ad2c18e8": "2026-11-24T21:33:14.900258+00:00",
+  "89021fde9c222e55": "2026-11-24T21:35:47.535425+00:00",
+  "83be9892180767fd": "2026-11-24T21:35:49.667701+00:00",
+  "6629c56184718156": "2026-11-24T21:35:50.815110+00:00",
+  "f0f5ce2724599fa5": "2026-11-24T21:35:52.015326+00:00",
+  "c36d39f3f2c6bb18": "2026-11-24T21:35:58.434729+00:00",
+  "b011beebdb93733f": "2026-11-24T21:35:59.626575+00:00",
+  "bbafc7e940744cf3": "2026-11-24T21:36:00.759671+00:00",
+  "0b0f74656843e8c8": "2026-11-24T21:36:07.998384+00:00",
+  "302d4adc4d27e8e6": "2026-11-24T21:36:11.934093+00:00",
+  "fcab6619c8c3efa6": "2026-11-24T21:36:16.755714+00:00",
+  "710a4f94706df027": "2026-11-24T21:36:20.754393+00:00",
+  "f1fd5b2f18196595": "2026-11-24T21:36:30.933110+00:00",
+  "d76fb0960d0ade25": "2026-11-24T21:37:22.869786+00:00",
+  "3578a4e6430a2416": "2026-11-24T21:37:24.012132+00:00",
+  "55286e926715fa60": "2026-11-24T21:37:26.084445+00:00",
+  "0f006a5b08b72ff2": "2026-11-24T21:37:50.994871+00:00",
+  "85d82a7c645c0484": "2026-11-24T21:39:20.195334+00:00",
+  "67591a2b4cf1a48e": "2026-11-24T21:39:22.935819+00:00",
+  "4715cdd8bc9315a1": "2026-11-24T21:40:03.555033+00:00",
+  "aca03de08475ca79": "2026-11-24T21:40:04.234412+00:00",
+  "3cdaca69f96c573d": "2026-11-24T21:40:55.123975+00:00",
+  "c146b62c84abe9b2": "2026-11-24T21:52:57.612325+00:00",
+  "c6f309b5275b2c51": "2026-11-24T21:53:05.042900+00:00",
+  "d582913742964ce8": "2026-11-24T21:53:06.646456+00:00",
+  "6b0d55866deb4adc": "2026-11-24T21:53:15.351614+00:00",
+  "18a9047ff7c8e911": "2026-11-24T21:53:29.270762+00:00",
+  "da0695b34eb753e1": "2026-11-24T21:53:39.973789+00:00",
+  "7a77e1f443a6a232": "2026-11-24T21:53:42.080240+00:00",
+  "d057d4346716a0e9": "2026-11-24T21:53:43.861827+00:00",
+  "636053d795a867fe": "2026-11-24T21:53:46.938217+00:00",
+  "feb12d9092a4fa31": "2026-11-24T21:53:47.837649+00:00",
+  "71db772b6f896e50": "2026-11-24T21:53:48.633711+00:00",
+  "e8aa0cbddee48675": "2026-11-24T21:53:49.469179+00:00",
+  "899c5c19328b25ec": "2026-11-24T21:54:41.011295+00:00",
+  "936d72f1b3029cb4": "2026-11-24T21:54:47.218615+00:00",
+  "03b5db5f245897bd": "2026-11-24T21:54:51.419010+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -6433,7 +6469,23 @@
   "7fbcacbbf8bcbec1": "2026-11-24T21:18:10.541580+00:00",
   "3dd67f9e66036d7f": "2026-11-24T21:18:19.467019+00:00",
   "0893276f629b7bd8": "2026-11-24T21:18:22.327881+00:00",
-  "5f3a33f8fe494539": "2026-11-24T21:18:24.246330+00:00"
+  "5f3a33f8fe494539": "2026-11-24T21:18:24.246330+00:00",
+  "00de0b2c4dde3de1": "2026-11-24T21:35:47.535425+00:00",
+  "2df8308c11f39b4c": "2026-11-24T21:35:49.667701+00:00",
+  "1fb33822d5ecb655": "2026-11-24T21:35:50.815110+00:00",
+  "21ddc494c48f1e2c": "2026-11-24T21:35:52.015326+00:00",
+  "4a34a55fb72281ab": "2026-11-24T21:35:58.434729+00:00",
+  "1e258e21218440ea": "2026-11-24T21:35:59.626575+00:00",
+  "4b0fa11b8f0bf284": "2026-11-24T21:36:00.759671+00:00",
+  "415af47d9004c7a8": "2026-11-24T21:36:07.998384+00:00",
+  "16a11203ca108ab2": "2026-11-24T21:52:57.612325+00:00",
+  "dd05a73cee07249b": "2026-11-24T21:53:05.042900+00:00",
+  "c1af9be26b540081": "2026-11-24T21:53:06.646456+00:00",
+  "7e142ba859af56e3": "2026-11-24T21:53:15.351614+00:00",
+  "b0dba2b5404b170c": "2026-11-24T21:53:29.270762+00:00",
+  "6c73595a4ae0e128": "2026-11-24T21:53:39.973789+00:00",
+  "ce292d5e47ee1f93": "2026-11-24T21:53:42.080240+00:00",
+  "0a6e63bacbcd01a9": "2026-11-24T21:53:43.861827+00:00"
  },
  "recent": [
   {
@@ -15011,9 +15063,298 @@
    "status": "skipped",
    "ts": "2026-11-24T21:18:24.246461+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GTA VI Official Trading Cards Announced by Panini",
+   "source": "Rockstar Intel",
+   "trust": "medium",
+   "status": "queued",
+   "ts": "2026-11-24T21:34:24.303268+00:00",
+   "card_title": "ОФИЦИАЛЬНЫЕ КАРТОЧКИ GTA VI"
+  },
+  {
+   "title": "Panini and Rockstar Announce Official GTA 6 Trading Cards, Out in December",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "queued",
+   "ts": "2026-11-24T21:34:26.217639+00:00",
+   "card_title": "ОФИЦИАЛЬНЫЕ КАРТЫ GTA 6"
+  },
+  {
+   "title": "GTA 6 Has Recaptured the Beautifully Borked Energy of Skyrim",
+   "source": "Polygon",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-24T21:34:48.494025+00:00",
+   "card_title": "БАГИ И СМЕХ В GTA6"
+  },
+  {
+   "title": "Quote of the Day from GTA 6 writer: \"We want players to be emotionally in step with Jason and Lucia\"",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-24T21:35:20.998335+00:00",
+   "card_title": "ЭМОЦИОНАЛЬНЫЙ СИНХРОН ДЖЕЙСОН ЛУИЗА"
+  },
+  {
+   "title": "GTA 6 Performs Better on Xbox Series X Than Base PS5, Despite All of Sony's Marketing",
+   "source": "Push Square",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-24T21:35:46.169689+00:00",
+   "card_title": "XBOX VS PS5 В GTA 6"
+  },
+  {
+   "title": "Official GTA 6 trading cards are coming next month",
+   "source": "VGC",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-24T21:35:46.211903+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to Get Jason & Lucia’s Relationship to Max Level in GTA 6",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-24T21:35:48.741739+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "The Witcher 4 Will Have a Comparable Leap From GTA 5 to GTA 6, Says CD Projekt Red",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T21:35:49.667826+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How GTA VI serves as a ‘developmental tool for incels’",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T21:35:50.815238+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 players have discovered iconic cars from famous films and TV series.",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T21:35:52.015463+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Игроки GTA 6 обнаружили культовые машины из известных фильмов и сериалов",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T21:35:58.434857+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI Launch Triggered a 10% Dip in Gym Workouts",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T21:35:59.626706+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Опубликован список видеокарт AMD для неофициального запуска GTA 6 на ПК",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T21:36:00.759798+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Even the Cyberpunk 2 director is shaken by GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T21:36:07.998506+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Релиз GTA VI ударил по посещаемости порносайтов, но затем игроки начали искать видео про автомобили и Лусию",
+   "source": "iXBT.games",
+   "trust": "medium",
+   "status": "queued",
+   "ts": "2026-11-24T21:52:22.533910+00:00",
+   "card_title": "ГЕЙМЕРЫ ПРОМЕНЯЛИ 18+ НА GTA 6"
+  },
+  {
+   "title": "Catastrophic 'GTA 6' Leak Officially Kickstarts PC Port Race",
+   "source": "Polygon",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-24T21:52:34.788928+00:00",
+   "card_title": "ХАКЕР СЛИЛ БИЛД GTA 6"
+  },
+  {
+   "title": "GTA 6 Data Reveals Only 40% of Players Have Cleared Chapter 2",
+   "source": "Polygon",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-24T21:52:46.574554+00:00",
+   "card_title": "МЕНЬШЕ ПРОЦЕНТА ПРОШЛИ GTA 6"
+  },
+  {
+   "title": "Real Life Strip Club Says It's Had 'Hundreds of Inquiries' From GTA 6 Fans, as Pornhub Traffic Plummets",
+   "source": "IGN",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-24T21:52:46.574590+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 has more framerate drops on PS5 than Xbox Series X, according to analysis",
+   "source": "VGC",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-24T21:52:57.612460+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Best way to reveal the map in GTA 6",
+   "source": "Polygon",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-24T21:53:05.042999+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "The race to port GTA 6 to PC, explained",
+   "source": "PC Gamer",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-24T21:53:07.328806+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "CD Projekt RED сравнила графический прогресс The Witcher 4 с GTA 6",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T21:53:29.270885+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "All Red Dead Redemption references in GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T21:53:39.973908+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 PC Port on GitHub Shut Down Following Take-Two DMCA Complaint",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T21:53:42.080369+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Tinashe Sings “Melatonin” Verse Mid-Shootout During Her ‘GTA VI’ Stream",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T21:53:43.861952+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
+  {
+   "item": {
+    "title": "GTA 6 Has Recaptured the Beautifully Borked Energy of Skyrim",
+    "link": "https://www.polygon.com/gta-6-bugs-glitches/",
+    "summary": "The technically astonishing Grand Theft Auto 6 isn't without its bugs, and those glitches give it the charm of an Elder Scrolls game.",
+    "published": "2026-11-24T18:00:18+00:00",
+    "source": "Polygon",
+    "site_name": "Polygon",
+    "trust": "high",
+    "text": "Grand Theft Auto 6 is a towering technological achievement. It is an open-world game made up of criss-crossing emergent systems that make it feel like life is unfolding all around you, whether you’re there to see it or not. It’s not easy to pull off something so complex — and players are learning that in real time. A few days into its lifespan, players are already finding a host of quirks and bugs that are turning the hyperrealistic GTA 6 into a slapstick comedy show.\nWhile my initial playthrough largely went off without a hitch, I’ve begun to see the seams for myself as I get more experimental with my post-game play. And while I’m sure that many of the bugs I’ve experienced will be patched out over time, I’m secretly hoping Rockstar leaves a few in. In its current state, GTA 6 has all the imperfect charm of an Elder Scrolls game — with 1000% more exploding trucks.\nThere are two kinds of technical eccentricities you’re bound to come across in GTA 6. The first are the strange, hilarious things that happen when complex systems collide. These moments happen where enemy AI meets game logic and physics in some unexpected way. The best example of this so far can be seen in a viral clip where Lucia and Jason run up to a drawbridge that is about to lower. The AI-controlled Jason attempts to vault over a lowered barrier arm… at the exact moment that it’s lifting. It flings the poor guy into the air, like a scene out of a Wile E. Coyote toon. Another personal favorite clip I’ve seen involves an NPC backing up his car, and the open passenger side door knocking an unaware Jason flat on his ass.\nthis gta6 clip is going to be the end of me — Mice Nature ᓚᘏᕐᐷ (@gizmouse.bsky.social) 2026-11-21T20:35:20.437Z\nThese aren’t bugs; it’s the game working exactly as intended, on some level. Slapstick moments born from systems that don’t revolve solely around the player create the sense that accidents can and do happen in Leonida. Drive around long enough and you’re bound to see something like a car taking a turn too wide and accidentally knocking down an entire traffic light. These little moments turn GTA 6 into an unpredictable comedy of emergent errors.\nThat’s the same energy that once drew me into Bethesda’s RPGs. Perhaps my favorite game clip of all time is a video from Oblivion of an NPC saying “Farewell!” before getting crushed by a pressure plate, only for another NPC to approach his dead body and say “May he rest in peace” as he is also crushed to death. It’s a hysterica",
+    "extra": {
+     "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/grand-theft-auto-6-grassrivers-chase.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "🚗 Баги GTA 6: когда траки взлетают как в мультике\n\nИгроки уже наткнулись на кучу лулзов — Джейсон летит над мостом, а машины сбивают светофоры 😆. Смотри, как Леонида превратилась в слэпстик‑комедию, и готовься к новым приколам!",
+    "card_title": "БАГИ И СМЕХ В GTA6",
+    "reason": "Контент про баги и смешные моменты в вышедшей игре, высокий интерес аудитории.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "groq:qwen/qwen3.8-27b → groq:openai/gpt-oss-120b"
+   },
+   "queued_at": "2026-11-24T21:34:48.494013+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA 6 Performs Better on Xbox Series X Than Base PS5, Despite All of Sony's Marketing",
+    "link": "https://www.pushsquare.com/news/2026/11/gta-6-performs-better-on-xbox-series-x-than-base-ps5-despite-all-of-sonys-marketing",
+    "summary": "Digital Foundry discovers. Even though Sony has paid god-only-knows how much money to market GTA 6 as a borderline PS5 exclusive, it turns out that Rockstar's magnum opus actually runs better on Xbox. This is according to those tech wizards over at Digital Foundry , who have spent hours comparing the open world title across base PS5, PS5 Pro, Xbox Series X, and Xbox Series S. Read the full article on pushsquare.com",
+    "published": "2026-11-24T18:00:00+00:00",
+    "source": "Push Square",
+    "site_name": "Push Square",
+    "trust": "high",
+    "text": "Even though Sony has paid god-only-knows how much money to market GTA 6 as a borderline PS5 exclusive, it turns out that Rockstar's magnum opus actually runs better on Xbox.\nThis is according to those tech wizards over at Digital Foundry, who have spent hours comparing the open world title across base PS5, PS5 Pro, Xbox Series X, and Xbox Series S.\nNow, we already know that GTA 6 isn't perfect on the standard PS5. It suffers from minor but sometimes prolonged frame rate drops during busy scenes — whether you're speeding through heavy traffic or fighting for your life in a particularly explosive combat encounter.\nBut in a rather shocking twist, the Xbox Series X outdoes the PS5 in this department. While Digital Foundry's testing shows that the frame rate dips are still present on the Series X, they're nowhere near as frequent.\nThey write: \"PS5 suffers substantially more frequent frame rate drops than Series X, which is compounded by the fact that the Xbox machine also benefits from 120Hz VRR support to smooth out minor dips.\"\nThe article continues: \"Ultimately, Series X is meaningfully better off.\"\nThis isn't what you'd expect, given that every PlayStation-related GTA 6 advertisement and trailer has boasted that the game 'Plays Best on PS5'.\nOkay, so that slogan might technically be true if we're counting the PS5 Pro, where GTA 6 does perform best by some distance, thanks to a combination of the console's PSSR upscaler and increased GPU power.\nBut on base hardware, it's Microsoft that wins out.\n\"Overall, the PS5 Pro leads the rankings with its superior visual detail and rock-solid 30fps target, followed by the Xbox Series X — which edges out the standard PS5 through better performance stability,\" Digital Foundry concludes.\nAre you surprised by these findings? Have you noticed any frequent frame rate drops in GTA 6 on PS5? Wonder if we'll ever see 60fps again in the comments section below.\nOh you better believe they're having a field day with this on PX like it's some sort of major dunk to Sony.\nAt the end of the day it still runs best on PS5 Pro, which is a PS5.\nPerforming better is also not the same as playing better. PS5 still plays better because the Dualsense is a superior controller to the hand cramper that is the Xbox controller.\nGTA VI plays better than base PS5Quick Resume is \"Alien Tech\"Disc to DigitalGamePass\nGuess which one has sold over 100 Million and I would put what money I make sold significantly more for the release of GTA.\nIts a good job i",
+    "extra": {
+     "image": "https://images.pushsquare.com/d4992e3260f71/large.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "🎮 Xbox Series X обгоняет базовый PS5 в GTA 6\n\nDigital Foundry протащил цифры: на XBOX X кадры падают реже, так что можно без тильта гонять по Вайбстеру. Базовый PS5 всё ещё кринжит с фрэйм‑дропами, а Pro уже в топе. 🚀",
+    "card_title": "XBOX VS PS5 В GTA 6",
+    "reason": "Прямопротиворечит маркетингу Sony, подтверждено Digital Foundry, высокий интерес к сравнению консолей.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "groq:qwen/qwen3.8-27b → groq:openai/gpt-oss-120b"
+   },
+   "queued_at": "2026-11-24T21:35:46.169674+00:00",
+   "moderation": "pending",
+   "draft_msg_id": 143
+  },
+  {
+   "item": {
+    "title": "Catastrophic 'GTA 6' Leak Officially Kickstarts PC Port Race",
+    "link": "https://www.polygon.com/gta-6-on-pc-port-emulator-cyberleek-exe-xbox-executable-is-it-playable/",
+    "summary": "Hackers are trying to get GTA 6 running on PC, Mac, and Linux without the help of Rockstar following a major game file leak",
+    "published": "2026-11-24T18:24:27+00:00",
+    "source": "Polygon",
+    "site_name": "Polygon",
+    "trust": "high",
+    "text": "Grand Theft Auto 6's official release seemed like the end for apparent hacker Cyberleek, who raised millions of dollars in cryptocurrency by sharing unauthorized video of the open-world game ahead of launch. Rather than fading into obscurity, Cyberleek upped the ante by releasing an apparent build of GTA 6 onto the internet. And now, hackers, vibe coders, and programming enthusiasts are rushing to try and make GTA 6 playable on PC before Rockstar does.\nThose following along might recall Cyberleek as the hacker who spent weeks provoking Rockstar Games. In addition to supplying the internet with leaked footage of the unfinished version of the game, Cyberleek also critiqued Rockstar and parent company Take-Two Interactive's business practices. The leaker claimed they objected to GTA 6's digital-only release as well as its pre-order bonuses. Cyberleek encouraged Rockstar and Take-Two to change course by dangling the possibility of sharing the files they were using to play the game to the public.\nThis suggestion was particularly shocking since Rockstar has not made the game available outside of console platforms. The game also doesn't exist on a disc, meaning that players don't have access to the game files. Without such data, players can't peek under the hood of the game — and they definitely could not tinker with it in unintended ways, like forcing the characters to appear without clothes in the overworld.\nCyberleek's motives seemed questionable, especially since the hacker gated the release of the alleged files behind monetary milestones. One of those early milestones included nude gameplay featuring the game's co-protagonist Lucia which successfully rallied fans to donate money. Once Cyberleek shared the footage, however, the hacker lost their leverage and the public moved on.\nMore recently, the hacker reappeared with a more appealing proposal: they would drop the apparent files free of charge. \"The torch passes to the open source recomp and emulation projects,\" Cyberleek said on their website.\nPolygon cannot confirm the veracity of these files; Rockstar Games and Xbox did not immediately respond to a request for comment. Yet even as some hoaxes related to Cyberleek seem likely, the larger claim about the game files appears to be legitimate. Since Cyberleek dropped the alleged executable, savvy GTA 6 fans gathering on Discord have shared steady progress on making the game accessible on Linux, Mac, and Windows PC. These initial attempts don't seem impressive",
+    "extra": {
+     "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/lucia3.JPG"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "🔥 Хакер слил билд и запустил ГОНКУ за порт GTA 6 на ПК\n\nХакер Cyberleek выложил файлы игры бесплатно, и умельцы в Discord уже пытаются запустить её на Windows, Mac и Linux. Пока официальной ПК-версии нет, энтузиасты сами решили завезти порт — посмотрим, кто быстрее: эмуляторщики или юристы Take-Two.\n\n❤️ — Умельцы затащат\n👎 — Юристы снесут всё",
+    "card_title": "ХАКЕР СЛИЛ БИЛД GTA 6",
+    "reason": "Хакер слил файлы игры, и энтузиасты начали делать неофициальный порт на ПК.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "Catastrophic GTA 6 leak officially kickstarts race for PC port — Google News (EN)",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-4-hydrogen"
+   },
+   "queued_at": "2026-11-24T21:52:34.788919+00:00"
+  },
   {
    "item": {
     "title": "Thursday Night Football Had Lowest Viewership All Season On GTA 6 Launch Day",
@@ -15073,6 +15414,35 @@
    "queued_at": "2026-11-24T18:26:55.617238+00:00",
    "moderation": "pending",
    "draft_msg_id": 142
+  },
+  {
+   "item": {
+    "title": "GTA 6 Data Reveals Only 40% of Players Have Cleared Chapter 2",
+    "link": "https://www.polygon.com/gta-6-player-data-taking-it-slow-progress/",
+    "summary": "Grand Theft Auto 6 achievement data shows that only 40% of players have reached Chapter 3.",
+    "published": "2026-11-24T19:08:18+00:00",
+    "source": "Polygon",
+    "site_name": "Polygon",
+    "trust": "high",
+    "text": "If your feed is full of clips and streams from people who’ve already gone deep into Grand Theft Auto 6, here’s some reassurance: most players aren’t as far along as you probably think.\nAccording to PSNProfiles, only 66.22% of Grand Theft Auto 6 players on PlayStation 5 have earned the trophy for completing Chapter 1, which takes place in the Leonida Keys. The numbers on Xbox are similar, with 56% of players having beaten that part of the game, according to TrueAchievements. This completion percentage feels particularly significant because the first chapter of the game is a big departure from classic GTA, with Jason living out a relatively low-key existence interrupted by the occasional shootout with backwoods drug dealers. Still, it seems a solid chunk of players are more than happy fishing with Cal for now.\nMeanwhile, only 40.55% of players have cleared Chapter 2 on PS5, and 31% on Xbox. Again, considering that Chapter 3 is arguably where the game becomes more of a traditional Grand Theft Auto entry, as you officially enter Vice City, it’s a bit of a surprise that the numbers are so low, even if it takes close to 20 hours to get there.\nAs for the rest of the game, few have gotten past Chapter 3: 6.45% have cleared that chapter on PS5, compared to 4% on Xbox; 1.26% have cleared Chapter 4 on PS5 against 1% on Xbox; and a tiny 0.88% have cleared the final mission on PlayStation against fewer than 1% on Xbox.\nAlthough it’s tempting to assume these low completion numbers are simply because the game came out so recently, Sony released player engagement numbers that made it clear most have already put a ton of time into GTA 6. Mat Piscatella, senior director at market research firm Circana, revealed that players spent an average of more than 8 hours playing the game on launch day. As of Nov. 23, PS5 players had already spent an average of 17.4 hours playing. While users are playing a lot and sticking with the game, most are taking their time. Rockstar previously said the main story takes around 50 hours to finish.\nThe completion percentage is the only tally GTA keeps, and for you it is the whole reason the hours are worth counting.\nYour first hour goes on the collectibles menu, working out the size of the job before you start it.\nA mission that goes wrong gets replayed until it is clean, because there is a rating attached and you are going for it.\nYou were still at 68 percent when the credits rolled, and the credits did not feel like an ending.\nGTA spends more e",
+    "extra": {
+     "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/grand-theft-auto-6-jason-with-gun.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "Меньше 1% игроков ПРОШЛИ сюжетку GTA 6\n\nНа PS5 народ уже наиграл в среднем 17,4 часа, но вторую главу осилили только 40,5% на плойке и 31% на Xbox — большинство даже не добралось до Вайс-Сити. Финал вообще закрыли 0,88%, остальные зависают на рыбалке с Кэлом — база, такой вайб грех спидранить.\n\n❤️ — тоже никуда не спешу\n👎 — уже закрыл сюжет",
+    "card_title": "МЕНЬШЕ ПРОЦЕНТА ПРОШЛИ GTA 6",
+    "reason": "Статистика прохождения игры от крупного издания Polygon, подтверждающая, что игроки не спешат.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.1-flash-lite → gemini:gemini-4-hydrogen"
+   },
+   "queued_at": "2026-11-24T21:52:46.574545+00:00"
   },
   {
    "item": {
@@ -15162,6 +15532,122 @@
     "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
    },
    "queued_at": "2026-11-24T18:26:07.925516+00:00"
+  },
+  {
+   "item": {
+    "title": "Quote of the Day from GTA 6 writer: \"We want players to be emotionally in step with Jason and Lucia\"",
+    "link": "https://www.gamesradar.com/games/grand-theft-auto/quote-of-the-day-from-gta-6-writer-we-want-players-to-be-emotionally-in-step-with-jason-and-lucia/",
+    "summary": "Rockstar wants you to feel the characters' \"highs and lows\"",
+    "published": "2026-11-24T18:00:00+00:00",
+    "source": "GamesRadar+",
+    "site_name": "GamesRadar+",
+    "trust": "high",
+    "text": "GTA 6 has been in players' hands for a few days now, and one pretty major narrative has emerged - a dissatisfaction among some groups with the pacing and limited stakes of early missions. Particularly before Lucia leaves prison, the more domestic aspects of Jason's story has been a signficant talking point. But that slower pace was part of Rockstar's plan, as writer Michael Wiafe explained in a pre-release briefing on the game.\n\"We want players to be emotionally in-step with Jason and Lucia, going through the highs and lows they do,\" he explains. Rockstar wanted players to feel \"the thrills and excitement that come with a rebellious rush to escape from economic desperation,\" but I think it also wanted them to feel Jason's anxiety about building a life for his family, and Lucia's restlessness throughout Chapter 1 that sees her so desperate to find meaningful work.\nThose slower moments, Wiafe explains, are all part of \"advancing at a rhythm that doesn't feel too off-beat with the player's own playstyle and choices. Distractions along the way, major or minor, are all welcome,\" and that means that when you do go off into the open-world to explore at your own pace, coming back to the story shouldn't require \"a mental reset each time.\"\nCrucially, Rockstar doesn't want you to feel \"an overwhelming sense of having to grind in order to progress the story.\" Wiafe points out that \"there obviously is the option here to grind,\" but says that \"the world is so rich and thought-out,\" that Rockstar hopes players can \"just enjoy existing in it to the point where the experience just feels seamless from start to finish.\" The story, he says, \"is happening to Jason and Lucia; however, players should feel they still have all the agency.\"\nIt's that final sentence that's why I chose this as today's Quote of the Day, because I think it's where the disconnect lies. A certain subsection of players don't feel as though they've got that agency, because GTA 6 - far more than other games in the series - wants you to feel the investment in and stakes of its world. To some extent, the disconnect comes from holding on too much to what GTA has been in the past; i.e. a criminal sandbox where chaotic rampages are part of the soul of the game. GTA 6 isn't that game, and I'm not sure Rockstar is that studio anymore. But when some players just want to drive a sports car through a crowded beach, any mission - however optional - that asks them to paint a house or collect flowers for their girlfrien",
+    "extra": {
+     "image": "https://cdn.mos.cms.futurecdn.net/rEdpLQ3nrdgraaEQofNt2A-1920-80.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "🗣️ Писатель GTA 6: «Эмоционально вровень с Джейсоном и Луизой»\n\nРокстар хотят, чтобы ты реально чувствовал их качели – от побега из тюрьмы до семейных тревог. Так что, если миссии кажутся «тупыми», это часть задуманного ритма, а не баг. 🎮",
+    "card_title": "ЭМОЦИОНАЛЬНЫЙ СИНХРОН ДЖЕЙСОН ЛУИЗА",
+    "reason": "Официальный комментарий разработчика по поводу геймплея, подтверждено GamesRadar. Не слух, не гайд.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "groq:qwen/qwen3.8-27b → groq:openai/gpt-oss-120b"
+   },
+   "queued_at": "2026-11-24T21:35:20.998323+00:00"
+  },
+  {
+   "item": {
+    "title": "Релиз GTA VI ударил по посещаемости порносайтов, но затем игроки начали искать видео про автомобили и Лусию",
+    "link": "https://ixbt.games/news/2026/11/24/reliz-gta-vi-udaril-po-poseshhaemosti-pornosaitov-no-zatem-igroki-nacali-iskat-video-pro-avtomobili-i-lusiiu.html",
+    "summary": "У некоторых игроков интересные вкусы в автопроме.",
+    "published": "2026-11-24T17:58:00+00:00",
+    "source": "iXBT.games",
+    "site_name": "iXBT.games",
+    "trust": "medium",
+    "text": "У некоторых игроков интересные вкусы в автопроме.\nНедавно состоялся релиз Grand Theft Auto VI на консолях PlayStation 5 и Xbox Series X|S. Это стало масштабным событием и многие отложили все остальные дела и другие увлечения, чтобы проходить новинку.\nВ mashable обратили внимание на статистику: трафик на одном известном ресурсе для взрослых в США резко упал на 15,5% всего через час после выхода GTA VI. При этом за несколько часов до релиза игры был зафиксирован рост посещаемости — предполагается, что некоторые хотели скоротать время перед запуском.\nВ ночь релиза GTA VI посещаемость колебалась: исследователи допускают, что это могло быть связано с часовыми поясами, или же игроки решили сделать перерыв.\nПосле знакомства с Grand Theft Auto VI игроки начали искать контент по новинке Rockstar Games — число таких запросов увеличилось на 16 196%. Например, с 18 ноября пользователи искали пикантный контент по GTA VI порядка 15 миллионов раз.\nПомимо прямых запросов, вроде «GTA VI» и «GTA VI strip club», ищут контент по конкретным персонажам — Лусия на втором месте в списке запросов, Мэнди — на пятом месте, а Джейсон на 12-ом месте (совместные запросы «Лусия+Джейсон» популярнее).\nТакже оказалось, что кому-то интересен контент по автомобилям — в топе оказался запрос «GTA VI cheetah».\nНе пропускайте наши новостиДобавьте сайт в предпочитаемые источники, чтобы видеть нас чащеДобавить в Google",
+    "extra": {
+     "image": "https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1746001/media-b88ce6561efe826d542cd2985bc19fced7000db2e5e7ab9b901528e4ddd8c88a.png"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "🔞 Из-за GTA 6 трафик на сайте для взрослых РУХНУЛ на 15,5%\n\nЧерез час после релиза в США народ забил на известную площадку ради игры. Но с 18 ноября туда накидали 15 млн запросов по GTA 6 — в топе Лусия, Мэнди, стрип-клуб и тачка Cheetah 🚗 Ору, челам даже местный автопром показался горячим 😂",
+    "card_title": "ГЕЙМЕРЫ ПРОМЕНЯЛИ 18+ НА GTA 6",
+    "reason": "Забавный факт о влиянии игры на поведение игроков и статистику запросов, что всегда вызывает хайп.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.1-flash-lite → gemini:gemini-4-hydrogen"
+   },
+   "queued_at": "2026-11-24T21:52:22.533901+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA VI Official Trading Cards Announced by Panini",
+    "link": "https://rockstarintel.com/gta-vi-official-trading-cards-announced-by-panini/",
+    "summary": "Panini America has officially announced a new partnership with Rockstar Games to release Grand Theft Auto VI trading cards. The collection will bring some of the sports cards found in the game into the real world. The announcement was made on November 24 through Panini America’s official social media accounts. The first promotional images also [...] The post GTA VI Official Trading Cards Announced by Panini appeared first on RockstarINTEL .",
+    "published": "2026-11-24T18:20:42+00:00",
+    "source": "Rockstar Intel",
+    "site_name": "Rockstar Intel",
+    "trust": "medium",
+    "text": "Panini America has officially announced a new partnership with Rockstar Games to release Grand Theft Auto VI trading cards. The collection will bring some of the sports cards found in the game into the real world.\nThe announcement was made on November 24 through Panini America’s official social media accounts. The first promotional images also give us a look at some of the cards included in the collection, featuring several fictional athletes from GTA VI.\nSome of the revealed cards include Dartanyon Pearson, Carl Kasey, Mario Rugama and Maleek Rivers. The designs feature different styles, with some cards also including special artwork and autograph designs.\nWhat’s Included in the GTA VI Trading Card Collection?\nAccording to Panini America’s official product page, each box will contain four packs, with four cards in each pack. This means there will be 16 cards in total per box. On average, collectors can expect to find two Rookies, one Retro, one Illustrated and four Special Silvers in each box.\nThe collection will also feature several rare cards and different team color variations. These include Silver, Pink, Teal and Light Blue parallels. There will also be numbered cards, including Legend Bronze cards limited to 49 copies, Silver cards limited to 25 copies and Gold cards with only one copy each.\nWhen Will GTA VI Trading Cards Be Available?\nPanini America has confirmed that the GTA VI: Sports Trading Card Collection will be released in December 2026. However, the product is currently listed as “Coming Soon” on Panini’s website, with no official price announced yet.\nWith sports cards being among the collectibles found throughout GTA VI, it is interesting to see Rockstar and Panini bringing them into the real world. Fans will soon have the opportunity to collect physical versions of cards inspired by the game’s fictional sports world.\nIn other Grand Theft Auto VI news, a major leak has revealed more details about GTA VI coming to PC, read more here. Sony has also confirmed that GTA VI has reached 39 million PS5 players, making it the biggest launch in PlayStation history here. Finally, the GTA VI album Deluxe Edition has been announced, featuring 23 bonus tracks, with more details available here.\nAre you going to purchase any of these cards? Let us know down in the comment section below.\nFor more news on Grand Theft Auto VI, stay tuned to RockstarINTEL and sign up to our newsletter for a weekly round-up of all things Rockstar Games delivered straight to you",
+    "extra": {
+     "image": "https://assets.paniniamerica.net/catalog/product/1/_/1_normal_choo_copy.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "🃏 Официальные карточки GTA VI от Panini\n\nPanini и Rockstar официально запустили коллекцию реальных карточек из GTA VI. В каждой коробке — 16 штук, включая редкие серебряные, золотые и даже единственный Gold‑карточку. Если ты фанат спорта в игре, это уже топчик для коллекционеров. 🚀",
+    "card_title": "ОФИЦИАЛЬНЫЕ КАРТОЧКИ GTA VI",
+    "reason": "Официальное объявление партнёрства, интерес коллекционеров",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "groq:openai/gpt-oss-120b → groq:openai/gpt-oss-120b"
+   },
+   "queued_at": "2026-11-24T21:34:24.303251+00:00"
+  },
+  {
+   "item": {
+    "title": "Panini and Rockstar Announce Official GTA 6 Trading Cards, Out in December",
+    "link": "https://www.gtaboom.com/panini-and-rockstar-announce-official-gta-6-trading-cards-out-in-december-f079",
+    "summary": "Panini and Rockstar’s first physical Grand Theft Auto VI sports cards arrive in December 2026, with Dartanyon Pearson and a one of one Gold chase.",
+    "published": "2026-11-24T18:04:32+00:00",
+    "source": "GTA BOOM",
+    "site_name": "GTA BOOM",
+    "trust": "medium",
+    "text": "The sports cards you dig out of drawers, locked safes and glove boxes in Grand Theft Auto VI are about to exist for real. Panini America and Rockstar Games have announced the GTAVI: Sports Trading Card Collection, the first official physical trading cards for the game, bringing real-world versions of the in-game card collectibles to shelves in December 2026. This is a true hobby product, packs and boxes and numbered chase cards and all.\nThe Panini set is a physical collector release built around the game's sports teams, while the in-game cards are a digital system of 480 collectibles across 18 sets that you find around Leonida and sell at pawn shops. If you want to know the card locations, pawn prices and the completion trophies, those belong with the in-game cards. The Panini product is aimed squarely at trading card hobbyists.\nPanini and Rockstar made the deal official on November 24, 2026 through a press release, with product pages set to follow on the Panini America site. The official licensing partner is Rockstar's parent company, Take-Two Interactive.\nThe first card revealed is Dartanyon Pearson, a wide receiver for the Liberty City Wrath wearing number 84, the kind of fictional-but-convincing athlete the game's sports world runs on.\nPanini is building this like one of its real sports lines. A four-pack box averages two Rookies, one Retro, one Illustrated and four Special Silvers, with the chase sitting in the parallels and the numbered cards. Color parallels run Silver, Pink, Teal and Light Blue, alongside team-color parallels tied to each squad. The serial-numbered tier climbs from Legend Bronze numbered to 49, to Silver numbered to 25, up to a one-of-one Gold.\nThe roster comes from the game's fake leagues. Football comes from the Liberty City Wrath, basketball from the Vice City Narcos, with the Vice City Manatees and the Liberty City Swingers among the early names. Maleek Rivers of the Manatees is reportedly modeled on the voice and likeness of NFL receiver Tyreek Hill, with Carl Kasey of the Narcos and Mario Rugama of the Swingers rounding out the first reveals.\nThe announcement runs ahead of the details collectors want. Panini has not set a price, a full checklist or official pack odds yet. The print runs beyond the three numbered tiers are still unconfirmed.\nWith that said, the appeal is owning a piece of the game's world, a Liberty City Wrath rookie or a one-of-one Gold of a character. Numbered chase cards and team-color parallels may be a pa",
+    "extra": {
+     "image": "https://media.gtaboom.com/variants/1920/media/images/69/b4/panini-and-rockstar-announce-official-gta-6-trading-cards-out-in-december-1.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "🃏 Официальные карты GTA 6 уже в пути!\n\nPanini и Rockstar официально анонсировали физические коллекционные карты к GTA VI – выход в декабре. Реальные паки, редкие параллели и золотой лут, так что коллекционерам будет чем флексить. Кто уже готов к охоте за золотой карточкой?",
+    "card_title": "ОФИЦИАЛЬНЫЕ КАРТЫ GTA 6",
+    "reason": "Official announcement of real GTA 6 trading cards by Panini and Rockstar",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
+   },
+   "queued_at": "2026-11-24T21:34:26.217627+00:00"
   },
   {
    "item": {
@@ -15267,7 +15753,8 @@
   "2026-11-24T17:12:17.478418+00:00",
   "2026-11-24T18:29:42.694606+00:00",
   "2026-11-24T19:30:13.442978+00:00",
-  "2026-11-24T20:30:28.952858+00:00"
+  "2026-11-24T20:30:28.952858+00:00",
+  "2026-11-24T21:36:11.909030+00:00"
  ],
  "slots_sent": {
   "2026-11-23:guide:1": "2026-11-23T07:01:27.603496+00:00",
@@ -15458,6 +15945,36 @@
    "file_id": "BAACAgIAAxkDAAONawXzsFLL19wFfGUj50gqEf5-4n8AAtW6AAImETBIpQgiGfNjQvc9BA",
    "moderation": "pending",
    "draft_msg_id": 141
+  },
+  {
+   "clip": {
+    "source": "twitch",
+    "url": "https://www.twitch.tv/nickeh30/clip/BlindingNeighborlyOxChocolateRain-ALweatmVZn5Z-rVQ",
+    "title": "EHHHMAZING!!!!",
+    "author": "NickEh30",
+    "views": 300,
+    "duration": 20.1,
+    "created": "2026-11-24T16:56:40+00:00",
+    "lang": "en",
+    "description": "",
+    "vod_id": "2939401420",
+    "vod_offset": 5193.0
+   },
+   "caption": "🔞 На пляже в Вайс-Сити лучше никого не трогать — NPC в GTA 6 не прощают агрессию, это просто лютый разнос 💀 Физика крови и реакция прохожих — имба!",
+   "interest": 9,
+   "spoiler": false,
+   "nsfw": true,
+   "watched": true,
+   "model": "gemini:gemini-3.1-flash-lite",
+   "media": {
+    "width": null,
+    "height": 720,
+    "duration": 20
+   },
+   "queued_at": "2026-11-24T21:55:04.463549+00:00",
+   "file_id": "BAACAgIAAxkDAAOQawYHuUhdzjgLu3oSJupXe9iBMV4AAke7AAImETBIumHcPcg9LnA9BA",
+   "moderation": "pending",
+   "draft_msg_id": 144
   }
  ],
  "clip_drafts": [
@@ -15480,7 +15997,8 @@
   "2026-11-24T11:38:40.245755+00:00",
   "2026-11-24T16:12:54.165650+00:00",
   "2026-11-24T19:23:29.579276+00:00",
-  "2026-11-24T20:29:37.383213+00:00"
+  "2026-11-24T20:29:37.383213+00:00",
+  "2026-11-24T21:55:06.434149+00:00"
  ],
  "clip_history": [
   {
@@ -21317,6 +21835,192 @@
    "drafted": false,
    "ts": "2026-11-24T21:33:14.900305+00:00",
    "frames": []
+  },
+  {
+   "author": "twitch:baupenner",
+   "vod": "2939184789",
+   "offset": 3043.0,
+   "title": "Keine 5 Sekunden",
+   "drafted": false,
+   "ts": "2026-11-24T21:36:11.934129+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:ohnepixel",
+   "vod": "2939324211",
+   "offset": 3901.0,
+   "title": "caught... its not about her hair",
+   "drafted": false,
+   "ts": "2026-11-24T21:36:16.755768+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:nickeh30",
+   "vod": "2939401420",
+   "offset": 6518.0,
+   "title": "Nick goes psycho",
+   "drafted": false,
+   "ts": "2026-11-24T21:36:20.754431+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:moistcr1tikal",
+   "vod": "2939095385",
+   "offset": 4097.0,
+   "title": "🍌🍆",
+   "drafted": false,
+   "ts": "2026-11-24T21:36:30.933137+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:leva2k",
+   "vod": "2937392051",
+   "offset": 118926.0,
+   "title": "вставил буйвол",
+   "drafted": false,
+   "ts": "2026-11-24T21:37:22.869830+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:yayahuz",
+   "vod": "2938511394",
+   "offset": 19260.0,
+   "title": "Por que ele fez isso??!!",
+   "drafted": false,
+   "ts": "2026-11-24T21:37:24.012183+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:typicalgamer",
+   "vod": "2938912600",
+   "offset": 461.0,
+   "title": "pirate token in gta 6",
+   "drafted": false,
+   "ts": "2026-11-24T21:37:26.084499+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:elina",
+   "vod": "2938654673",
+   "offset": 18522.0,
+   "title": "WzBot CLIP | ✅DROPS + [60fps] and Beginning of Chapter 2! + Hunting Easter Eggs! - !yo (by jabo_213)",
+   "drafted": false,
+   "ts": "2026-11-24T21:37:50.994931+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:squeezie",
+   "vod": "2938523523",
+   "offset": 15189.0,
+   "title": "🔞 🔞 🔞🤣🤣",
+   "drafted": false,
+   "ts": "2026-11-24T21:39:20.195377+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:squeex",
+   "vod": "2938691447",
+   "offset": 5449.0,
+   "title": "Flying Kick",
+   "drafted": false,
+   "ts": "2026-11-24T21:39:22.935870+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:jennyan",
+   "vod": "2938539872",
+   "offset": 13132.0,
+   "title": "Test",
+   "drafted": false,
+   "ts": "2026-11-24T21:40:03.555081+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:flowtives",
+   "vod": "2938752258",
+   "offset": 3260.0,
+   "title": "LMAOOO",
+   "drafted": false,
+   "ts": "2026-11-24T21:40:04.234457+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:alanzoka",
+   "vod": "2938467977",
+   "offset": 17907.0,
+   "title": "O avião caindo?",
+   "drafted": false,
+   "ts": "2026-11-24T21:40:55.124021+00:00",
+   "frames": []
+  },
+  {
+   "author": "youtube:bismarkzando",
+   "vod": "",
+   "offset": -1,
+   "title": "Minha Mãe me deu um Vídeo Game para jogar GTA 6🥹 #humor #memes #comedy #anime #fyp",
+   "drafted": false,
+   "ts": "2026-11-24T21:53:46.938265+00:00"
+  },
+  {
+   "author": "youtube:darsa gaming",
+   "vod": "",
+   "offset": -1,
+   "title": "Eksperimen Ikutin NPC Membawa Harimau di GTA 6 #shorts",
+   "drafted": false,
+   "ts": "2026-11-24T21:53:47.837695+00:00"
+  },
+  {
+   "author": "youtube:nick eh 30",
+   "vod": "",
+   "offset": -1,
+   "title": "NickEh30 plays GTA 6! (Day 7)",
+   "drafted": false,
+   "ts": "2026-11-24T21:53:48.633747+00:00"
+  },
+  {
+   "author": "youtube:luthfi halimawan",
+   "vod": "",
+   "offset": -1,
+   "title": "WAKTUNYA BERPESTA DI VICE CITY! - GTA VI #7",
+   "drafted": false,
+   "ts": "2026-11-24T21:53:49.469218+00:00"
+  },
+  {
+   "author": "twitch:baupenner",
+   "vod": "2939184789",
+   "offset": 18565.0,
+   "title": "Gratis Auto ??",
+   "drafted": false,
+   "ts": "2026-11-24T21:54:41.011329+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:ohnepixel",
+   "vod": "2938342600",
+   "offset": 9975.0,
+   "title": "honest-truth",
+   "drafted": false,
+   "ts": "2026-11-24T21:54:47.218672+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:nickeh30",
+   "vod": "2939401420",
+   "offset": 5193.0,
+   "title": "EHHHMAZING!!!!",
+   "drafted": false,
+   "ts": "2026-11-24T21:54:51.419046+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:nickeh30",
+   "vod": "2939401420",
+   "offset": 5193.0,
+   "title": "EHHHMAZING!!!!",
+   "drafted": true,
+   "ts": "2026-11-24T21:55:06.434165+00:00",
+   "frames": [],
+   "caption": "🔞 На пляже в Вайс-Сити лучше никого не трогать — NPC в GTA 6 не прощают агрессию, это просто лютый разнос 💀 Физика крови"
   }
  ],
  "published": [
@@ -21746,306 +22450,6 @@
  "rewrite_wait": [
   {
    "item": {
-    "title": "GTA VI Official Trading Cards Announced by Panini",
-    "link": "https://rockstarintel.com/gta-vi-official-trading-cards-announced-by-panini/",
-    "summary": "Panini America has officially announced a new partnership with Rockstar Games to release Grand Theft Auto VI trading cards. The collection will bring some of the sports cards found in the game into the real world. The announcement was made on November 24 through Panini America’s official social media accounts. The first promotional images also [...] The post GTA VI Official Trading Cards Announced by Panini appeared first on RockstarINTEL .",
-    "published": "2026-11-24T18:20:42+00:00",
-    "source": "Rockstar Intel",
-    "site_name": "Rockstar Intel",
-    "trust": "medium",
-    "text": "Panini America has officially announced a new partnership with Rockstar Games to release Grand Theft Auto VI trading cards. The collection will bring some of the sports cards found in the game into the real world.\nThe announcement was made on November 24 through Panini America’s official social media accounts. The first promotional images also give us a look at some of the cards included in the collection, featuring several fictional athletes from GTA VI.\nSome of the revealed cards include Dartanyon Pearson, Carl Kasey, Mario Rugama and Maleek Rivers. The designs feature different styles, with some cards also including special artwork and autograph designs.\nWhat’s Included in the GTA VI Trading Card Collection?\nAccording to Panini America’s official product page, each box will contain four packs, with four cards in each pack. This means there will be 16 cards in total per box. On average, collectors can expect to find two Rookies, one Retro, one Illustrated and four Special Silvers in each box.\nThe collection will also feature several rare cards and different team color variations. These include Silver, Pink, Teal and Light Blue parallels. There will also be numbered cards, including Legend Bronze cards limited to 49 copies, Silver cards limited to 25 copies and Gold cards with only one copy each.\nWhen Will GTA VI Trading Cards Be Available?\nPanini America has confirmed that the GTA VI: Sports Trading Card Collection will be released in December 2026. However, the product is currently listed as “Coming Soon” on Panini’s website, with no official price announced yet.\nWith sports cards being among the collectibles found throughout GTA VI, it is interesting to see Rockstar and Panini bringing them into the real world. Fans will soon have the opportunity to collect physical versions of cards inspired by the game’s fictional sports world.\nIn other Grand Theft Auto VI news, a major leak has revealed more details about GTA VI coming to PC, read more here. Sony has also confirmed that GTA VI has reached 39 million PS5 players, making it the biggest launch in PlayStation history here. Finally, the GTA VI album Deluxe Edition has been announced, featuring 23 bonus tracks, with more details available here.\nAre you going to purchase any of these cards? Let us know down in the comment section below.\nFor more news on Grand Theft Auto VI, stay tuned to RockstarINTEL and sign up to our newsletter for a weekly round-up of all things Rockstar Games delivered straight to you",
-    "extra": {
-     "image": "https://assets.paniniamerica.net/catalog/product/1/_/1_normal_choo_copy.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "🃏 Официальные GTA VI Trading Cards от Panini\n\nНаконец-то реальные карточки из GTA VI! Panini выпускает наборы с вымышленными спортсменами игры – от Dartanyon до Maleek. В каждой коробке 16 штук, а редкие версии (Silver, Gold, Legend Bronze) ограничены. Выпуск в декабре 2026 – готовьте кошелёк, будет лутить!\n\n❤️ — Ставлю на то, что успею собрать все редкие\n👎 — Считаю, что это просто маркетинг",
-    "card_title": "GTA VI ТРЕЙДИНГ КАРДС",
-    "reason": "Официальное объявление партнёрства, интерес коллекционеров",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "groq:openai/gpt-oss-120b"
-   },
-   "corr": false,
-   "since": "2026-11-24T18:27:23.240291+00:00"
-  },
-  {
-   "item": {
-    "title": "Panini and Rockstar Announce Official GTA 6 Trading Cards, Out in December",
-    "link": "https://www.gtaboom.com/panini-and-rockstar-announce-official-gta-6-trading-cards-out-in-december-f079",
-    "summary": "Panini and Rockstar’s first physical Grand Theft Auto VI sports cards arrive in December 2026, with Dartanyon Pearson and a one of one Gold chase.",
-    "published": "2026-11-24T18:04:32+00:00",
-    "source": "GTA BOOM",
-    "site_name": "GTA BOOM",
-    "trust": "medium",
-    "text": "The sports cards you dig out of drawers, locked safes and glove boxes in Grand Theft Auto VI are about to exist for real. Panini America and Rockstar Games have announced the GTAVI: Sports Trading Card Collection, the first official physical trading cards for the game, bringing real-world versions of the in-game card collectibles to shelves in December 2026. This is a true hobby product, packs and boxes and numbered chase cards and all.\nThe Panini set is a physical collector release built around the game's sports teams, while the in-game cards are a digital system of 480 collectibles across 18 sets that you find around Leonida and sell at pawn shops. If you want to know the card locations, pawn prices and the completion trophies, those belong with the in-game cards. The Panini product is aimed squarely at trading card hobbyists.\nPanini and Rockstar made the deal official on November 24, 2026 through a press release, with product pages set to follow on the Panini America site. The official licensing partner is Rockstar's parent company, Take-Two Interactive.\nThe first card revealed is Dartanyon Pearson, a wide receiver for the Liberty City Wrath wearing number 84, the kind of fictional-but-convincing athlete the game's sports world runs on.\nPanini is building this like one of its real sports lines. A four-pack box averages two Rookies, one Retro, one Illustrated and four Special Silvers, with the chase sitting in the parallels and the numbered cards. Color parallels run Silver, Pink, Teal and Light Blue, alongside team-color parallels tied to each squad. The serial-numbered tier climbs from Legend Bronze numbered to 49, to Silver numbered to 25, up to a one-of-one Gold.\nThe roster comes from the game's fake leagues. Football comes from the Liberty City Wrath, basketball from the Vice City Narcos, with the Vice City Manatees and the Liberty City Swingers among the early names. Maleek Rivers of the Manatees is reportedly modeled on the voice and likeness of NFL receiver Tyreek Hill, with Carl Kasey of the Narcos and Mario Rugama of the Swingers rounding out the first reveals.\nThe announcement runs ahead of the details collectors want. Panini has not set a price, a full checklist or official pack odds yet. The print runs beyond the three numbered tiers are still unconfirmed.\nWith that said, the appeal is owning a piece of the game's world, a Liberty City Wrath rookie or a one-of-one Gold of a character. Numbered chase cards and team-color parallels may be a pa",
-    "extra": {
-     "image": "https://media.gtaboom.com/variants/1920/media/images/69/b4/panini-and-rockstar-announce-official-gta-6-trading-cards-out-in-december-1.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "РЕАЛЬНЫЕ КАРТОЧКИ GTA 6\n\nRockstar и Panini запилят официальный физический набор коллекционных карточек по внутриигровым лигам уже в декабре. Имба для любителей пособирать редкий мерч.\n\n❤️ — Бегу заказывать бустеры\n👎 — Зачем мне реальный картон",
-    "card_title": "ФИЗИЧЕСКИЕ КАРТОЧКИ GTA 6",
-    "reason": "Official announcement of real GTA 6 trading cards by Panini and Rockstar",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-24T18:27:27.742785+00:00"
-  },
-  {
-   "item": {
-    "title": "GTA 6 Has Recaptured the Beautifully Borked Energy of Skyrim",
-    "link": "https://www.polygon.com/gta-6-bugs-glitches/",
-    "summary": "The technically astonishing Grand Theft Auto 6 isn't without its bugs, and those glitches give it the charm of an Elder Scrolls game.",
-    "published": "2026-11-24T18:00:18+00:00",
-    "source": "Polygon",
-    "site_name": "Polygon",
-    "trust": "high",
-    "text": "Grand Theft Auto 6 is a towering technological achievement. It is an open-world game made up of criss-crossing emergent systems that make it feel like life is unfolding all around you, whether you’re there to see it or not. It’s not easy to pull off something so complex — and players are learning that in real time. A few days into its lifespan, players are already finding a host of quirks and bugs that are turning the hyperrealistic GTA 6 into a slapstick comedy show.\nWhile my initial playthrough largely went off without a hitch, I’ve begun to see the seams for myself as I get more experimental with my post-game play. And while I’m sure that many of the bugs I’ve experienced will be patched out over time, I’m secretly hoping Rockstar leaves a few in. In its current state, GTA 6 has all the imperfect charm of an Elder Scrolls game — with 1000% more exploding trucks.\nThere are two kinds of technical eccentricities you’re bound to come across in GTA 6. The first are the strange, hilarious things that happen when complex systems collide. These moments happen where enemy AI meets game logic and physics in some unexpected way. The best example of this so far can be seen in a viral clip where Lucia and Jason run up to a drawbridge that is about to lower. The AI-controlled Jason attempts to vault over a lowered barrier arm… at the exact moment that it’s lifting. It flings the poor guy into the air, like a scene out of a Wile E. Coyote toon. Another personal favorite clip I’ve seen involves an NPC backing up his car, and the open passenger side door knocking an unaware Jason flat on his ass.\nthis gta6 clip is going to be the end of me — Mice Nature ᓚᘏᕐᐷ (@gizmouse.bsky.social) 2026-11-21T20:35:20.437Z\nThese aren’t bugs; it’s the game working exactly as intended, on some level. Slapstick moments born from systems that don’t revolve solely around the player create the sense that accidents can and do happen in Leonida. Drive around long enough and you’re bound to see something like a car taking a turn too wide and accidentally knocking down an entire traffic light. These little moments turn GTA 6 into an unpredictable comedy of emergent errors.\nThat’s the same energy that once drew me into Bethesda’s RPGs. Perhaps my favorite game clip of all time is a video from Oblivion of an NPC saying “Farewell!” before getting crushed by a pressure plate, only for another NPC to approach his dead body and say “May he rest in peace” as he is also crushed to death. It’s a hysterica",
-    "extra": {
-     "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/grand-theft-auto-6-grassrivers-chase.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "🤣 GTA 6: Баги = Комедия\n\nRockstar случайно (или нет) завезла вайб Skyrim: NPC летают от мостов, а Jason получает по морде от открывающейся двери. Это не кринж, а сочная имба. Ждём патч или нет?",
-    "card_title": "БАГИ КАК ФУНКЦИЯ",
-    "reason": "Контент про баги и смешные моменты в вышедшей игре, высокий интерес аудитории.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "groq:qwen/qwen3.8-27b"
-   },
-   "corr": false,
-   "since": "2026-11-24T18:28:05.620113+00:00"
-  },
-  {
-   "item": {
-    "title": "Quote of the Day from GTA 6 writer: \"We want players to be emotionally in step with Jason and Lucia\"",
-    "link": "https://www.gamesradar.com/games/grand-theft-auto/quote-of-the-day-from-gta-6-writer-we-want-players-to-be-emotionally-in-step-with-jason-and-lucia/",
-    "summary": "Rockstar wants you to feel the characters' \"highs and lows\"",
-    "published": "2026-11-24T18:00:00+00:00",
-    "source": "GamesRadar+",
-    "site_name": "GamesRadar+",
-    "trust": "high",
-    "text": "GTA 6 has been in players' hands for a few days now, and one pretty major narrative has emerged - a dissatisfaction among some groups with the pacing and limited stakes of early missions. Particularly before Lucia leaves prison, the more domestic aspects of Jason's story has been a signficant talking point. But that slower pace was part of Rockstar's plan, as writer Michael Wiafe explained in a pre-release briefing on the game.\n\"We want players to be emotionally in-step with Jason and Lucia, going through the highs and lows they do,\" he explains. Rockstar wanted players to feel \"the thrills and excitement that come with a rebellious rush to escape from economic desperation,\" but I think it also wanted them to feel Jason's anxiety about building a life for his family, and Lucia's restlessness throughout Chapter 1 that sees her so desperate to find meaningful work.\nThose slower moments, Wiafe explains, are all part of \"advancing at a rhythm that doesn't feel too off-beat with the player's own playstyle and choices. Distractions along the way, major or minor, are all welcome,\" and that means that when you do go off into the open-world to explore at your own pace, coming back to the story shouldn't require \"a mental reset each time.\"\nCrucially, Rockstar doesn't want you to feel \"an overwhelming sense of having to grind in order to progress the story.\" Wiafe points out that \"there obviously is the option here to grind,\" but says that \"the world is so rich and thought-out,\" that Rockstar hopes players can \"just enjoy existing in it to the point where the experience just feels seamless from start to finish.\" The story, he says, \"is happening to Jason and Lucia; however, players should feel they still have all the agency.\"\nIt's that final sentence that's why I chose this as today's Quote of the Day, because I think it's where the disconnect lies. A certain subsection of players don't feel as though they've got that agency, because GTA 6 - far more than other games in the series - wants you to feel the investment in and stakes of its world. To some extent, the disconnect comes from holding on too much to what GTA has been in the past; i.e. a criminal sandbox where chaotic rampages are part of the soul of the game. GTA 6 isn't that game, and I'm not sure Rockstar is that studio anymore. But when some players just want to drive a sports car through a crowded beach, any mission - however optional - that asks them to paint a house or collect flowers for their girlfrien",
-    "extra": {
-     "image": "https://cdn.mos.cms.futurecdn.net/rEdpLQ3nrdgraaEQofNt2A-1920-80.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 6,
-    "post": "🎮 Рокстар объяснила медленный старт в GTA 6\n\nСценарист Майкл Уайф признал: первые миссии намеренно спокойные, чтобы вы чувствовали эмоции Джейсона и Люсии. Не гонка, а жизнь. Если хочется просто жечь резину, тут может быть кринж, но вайб задуман именно так. Завезли реализм?",
-    "card_title": "ПЕЙСИНГ GTA 6",
-    "reason": "Официальный комментарий разработчика по поводу геймплея, подтверждено GamesRadar. Не слух, не гайд.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "groq:qwen/qwen3.8-27b"
-   },
-   "corr": false,
-   "since": "2026-11-24T18:28:09.730152+00:00"
-  },
-  {
-   "item": {
-    "title": "GTA 6 Performs Better on Xbox Series X Than Base PS5, Despite All of Sony's Marketing",
-    "link": "https://www.pushsquare.com/news/2026/11/gta-6-performs-better-on-xbox-series-x-than-base-ps5-despite-all-of-sonys-marketing",
-    "summary": "Digital Foundry discovers. Even though Sony has paid god-only-knows how much money to market GTA 6 as a borderline PS5 exclusive, it turns out that Rockstar's magnum opus actually runs better on Xbox. This is according to those tech wizards over at Digital Foundry , who have spent hours comparing the open world title across base PS5, PS5 Pro, Xbox Series X, and Xbox Series S. Read the full article on pushsquare.com",
-    "published": "2026-11-24T18:00:00+00:00",
-    "source": "Push Square",
-    "site_name": "Push Square",
-    "trust": "high",
-    "text": "Even though Sony has paid god-only-knows how much money to market GTA 6 as a borderline PS5 exclusive, it turns out that Rockstar's magnum opus actually runs better on Xbox.\nThis is according to those tech wizards over at Digital Foundry, who have spent hours comparing the open world title across base PS5, PS5 Pro, Xbox Series X, and Xbox Series S.\nNow, we already know that GTA 6 isn't perfect on the standard PS5. It suffers from minor but sometimes prolonged frame rate drops during busy scenes — whether you're speeding through heavy traffic or fighting for your life in a particularly explosive combat encounter.\nBut in a rather shocking twist, the Xbox Series X outdoes the PS5 in this department. While Digital Foundry's testing shows that the frame rate dips are still present on the Series X, they're nowhere near as frequent.\nThey write: \"PS5 suffers substantially more frequent frame rate drops than Series X, which is compounded by the fact that the Xbox machine also benefits from 120Hz VRR support to smooth out minor dips.\"\nThe article continues: \"Ultimately, Series X is meaningfully better off.\"\nThis isn't what you'd expect, given that every PlayStation-related GTA 6 advertisement and trailer has boasted that the game 'Plays Best on PS5'.\nOkay, so that slogan might technically be true if we're counting the PS5 Pro, where GTA 6 does perform best by some distance, thanks to a combination of the console's PSSR upscaler and increased GPU power.\nBut on base hardware, it's Microsoft that wins out.\n\"Overall, the PS5 Pro leads the rankings with its superior visual detail and rock-solid 30fps target, followed by the Xbox Series X — which edges out the standard PS5 through better performance stability,\" Digital Foundry concludes.\nAre you surprised by these findings? Have you noticed any frequent frame rate drops in GTA 6 on PS5? Wonder if we'll ever see 60fps again in the comments section below.\nOh you better believe they're having a field day with this on PX like it's some sort of major dunk to Sony.\nAt the end of the day it still runs best on PS5 Pro, which is a PS5.\nPerforming better is also not the same as playing better. PS5 still plays better because the Dualsense is a superior controller to the hand cramper that is the Xbox controller.\nGTA VI plays better than base PS5Quick Resume is \"Alien Tech\"Disc to DigitalGamePass\nGuess which one has sold over 100 Million and I would put what money I make sold significantly more for the release of GTA.\nIts a good job i",
-    "extra": {
-     "image": "https://images.pushsquare.com/d4992e3260f71/large.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "🎮 XBOX УБЕЖАЛ PS5\n\nDigital Foundry затестили GTA 6 на консолях, и база PS5 просела по стабильности. На Xbox Series X фризы редкие, плюс там есть VRR. Sony клялась, что игра «лучше на PS5», но по фактам — Xbox выигрывает. PS5 Pro всё ещё топ, но за ту же цену Series X выглядит сочнее. Сочный раунд для Микрософт.",
-    "card_title": "XBOX БИТ PS5",
-    "reason": "Прямопротиворечит маркетингу Sony, подтверждено Digital Foundry, высокий интерес к сравнению консолей.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "groq:qwen/qwen3.8-27b"
-   },
-   "corr": false,
-   "since": "2026-11-24T18:28:41.432633+00:00"
-  },
-  {
-   "item": {
-    "title": "Релиз GTA VI ударил по посещаемости порносайтов, но затем игроки начали искать видео про автомобили и Лусию",
-    "link": "https://ixbt.games/news/2026/11/24/reliz-gta-vi-udaril-po-poseshhaemosti-pornosaitov-no-zatem-igroki-nacali-iskat-video-pro-avtomobili-i-lusiiu.html",
-    "summary": "У некоторых игроков интересные вкусы в автопроме.",
-    "published": "2026-11-24T17:58:00+00:00",
-    "source": "iXBT.games",
-    "site_name": "iXBT.games",
-    "trust": "medium",
-    "text": "У некоторых игроков интересные вкусы в автопроме.\nНедавно состоялся релиз Grand Theft Auto VI на консолях PlayStation 5 и Xbox Series X|S. Это стало масштабным событием и многие отложили все остальные дела и другие увлечения, чтобы проходить новинку.\nВ mashable обратили внимание на статистику: трафик на одном известном ресурсе для взрослых в США резко упал на 15,5% всего через час после выхода GTA VI. При этом за несколько часов до релиза игры был зафиксирован рост посещаемости — предполагается, что некоторые хотели скоротать время перед запуском.\nВ ночь релиза GTA VI посещаемость колебалась: исследователи допускают, что это могло быть связано с часовыми поясами, или же игроки решили сделать перерыв.\nПосле знакомства с Grand Theft Auto VI игроки начали искать контент по новинке Rockstar Games — число таких запросов увеличилось на 16 196%. Например, с 18 ноября пользователи искали пикантный контент по GTA VI порядка 15 миллионов раз.\nПомимо прямых запросов, вроде «GTA VI» и «GTA VI strip club», ищут контент по конкретным персонажам — Лусия на втором месте в списке запросов, Мэнди — на пятом месте, а Джейсон на 12-ом месте (совместные запросы «Лусия+Джейсон» популярнее).\nТакже оказалось, что кому-то интересен контент по автомобилям — в топе оказался запрос «GTA VI cheetah».\nНе пропускайте наши новостиДобавьте сайт в предпочитаемые источники, чтобы видеть нас чащеДобавить в Google",
-    "extra": {
-     "image": "https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1746001/media-b88ce6561efe826d542cd2985bc19fced7000db2e5e7ab9b901528e4ddd8c88a.png"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "GTA 6 ПОБЕДИЛА ПОРНОСАЙТЫ\n\nВ день релиза трафик на сайтах для взрослых в США просел на 15,5% — народ явно был занят делом. Зато запросы по Лусии и тачкам в поиске улетели в космос, вот это я понимаю приоритеты 🎮🔥\n\n❤️ — Лусия топ\n👎 — Вернитесь в реальность",
-    "card_title": "GTA 6 ПОБЕДИЛА ПОРНОСАЙТЫ",
-    "reason": "Забавный факт о влиянии игры на поведение игроков и статистику запросов, что всегда вызывает хайп.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.1-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-24T18:29:37.305260+00:00"
-  },
-  {
-   "item": {
-    "title": "Catastrophic 'GTA 6' Leak Officially Kickstarts PC Port Race",
-    "link": "https://www.polygon.com/gta-6-on-pc-port-emulator-cyberleek-exe-xbox-executable-is-it-playable/",
-    "summary": "Hackers are trying to get GTA 6 running on PC, Mac, and Linux without the help of Rockstar following a major game file leak",
-    "published": "2026-11-24T18:24:27+00:00",
-    "source": "Polygon",
-    "site_name": "Polygon",
-    "trust": "high",
-    "text": "Grand Theft Auto 6's official release seemed like the end for apparent hacker Cyberleek, who raised millions of dollars in cryptocurrency by sharing unauthorized video of the open-world game ahead of launch. Rather than fading into obscurity, Cyberleek upped the ante by releasing an apparent build of GTA 6 onto the internet. And now, hackers, vibe coders, and programming enthusiasts are rushing to try and make GTA 6 playable on PC before Rockstar does.\nThose following along might recall Cyberleek as the hacker who spent weeks provoking Rockstar Games. In addition to supplying the internet with leaked footage of the unfinished version of the game, Cyberleek also critiqued Rockstar and parent company Take-Two Interactive's business practices. The leaker claimed they objected to GTA 6's digital-only release as well as its pre-order bonuses. Cyberleek encouraged Rockstar and Take-Two to change course by dangling the possibility of sharing the files they were using to play the game to the public.\nThis suggestion was particularly shocking since Rockstar has not made the game available outside of console platforms. The game also doesn't exist on a disc, meaning that players don't have access to the game files. Without such data, players can't peek under the hood of the game — and they definitely could not tinker with it in unintended ways, like forcing the characters to appear without clothes in the overworld.\nCyberleek's motives seemed questionable, especially since the hacker gated the release of the alleged files behind monetary milestones. One of those early milestones included nude gameplay featuring the game's co-protagonist Lucia which successfully rallied fans to donate money. Once Cyberleek shared the footage, however, the hacker lost their leverage and the public moved on.\nMore recently, the hacker reappeared with a more appealing proposal: they would drop the apparent files free of charge. \"The torch passes to the open source recomp and emulation projects,\" Cyberleek said on their website.\nPolygon cannot confirm the veracity of these files; Rockstar Games and Xbox did not immediately respond to a request for comment. Yet even as some hoaxes related to Cyberleek seem likely, the larger claim about the game files appears to be legitimate. Since Cyberleek dropped the alleged executable, savvy GTA 6 fans gathering on Discord have shared steady progress on making the game accessible on Linux, Mac, and Windows PC. These initial attempts don't seem impressive",
-    "extra": {
-     "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/lucia3.JPG"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "Хакер слил файлы игры 💻\n\nПохоже, пока консольщики залипают в новинку, энтузиасты уже пытаются запустить её на ПК и маках. Чистая имба для тех, кто ждал релиз на компьютеры.\n\n❤️ — Жду на ПК\n👎 — Консольщики победили",
-    "card_title": "ХАКЕРЫ СЛИЛИ ФАЙЛЫ GTA 6",
-    "reason": "Хакер слил файлы игры, и энтузиасты начали делать неофициальный порт на ПК.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "Catastrophic GTA 6 leak officially kickstarts race for PC port — Google News (EN)",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-24T18:45:15.208969+00:00"
-  },
-  {
-   "item": {
-    "title": "Official GTA 6 trading cards are coming next month",
-    "link": "https://www.videogameschronicle.com/news/official-gta-6-trading-cards-are-coming-next-month/",
-    "summary": "GTA 6's in-game trading cards are getting a physical release this December",
-    "published": "2026-11-24T17:23:31+00:00",
-    "source": "VGC",
-    "site_name": "VGC",
-    "trust": "high",
-    "text": "Grand Theft Auto 6 is getting an official trading card release.\nThe GTA 6: Sports Trading Card Collection is being produced through a partnership between Rockstar and collectables distributor Panini America. The release is set for this December, so it’s just a few weeks away.\nThe trading card collection will include a selection of cards that can be found in-game, centred around fictional sports stars and teams.\nThe artwork on the cards ranges from stylised drawings and in-game character renders, just as you can find in GTA 6 itself. As with any other trading card release, there will be cards of varying rarities in each pack.\nGrand Theft Auto VI official trading cards, coming soon from @PaniniAmerica and @RockstarGames. pic.twitter.com/H1VrYVXTm5— Panini America (@PaniniAmerica) November 24, 2026\nRight now, there’s no word on when exactly they will be released, how much they will cost, and what regions they will be available in. All we know right now is that they will be distributed by Panini America, so it remains to be seen if fans outside of the US will be able to pick them up too. There isn’t currently a way to place a pre-order for these cards either.\nThis partnership is among the first post-launch merch drops for GTA 6. Prior to the game’s launch, we saw Rockstar collaborate with the Miami Heat in the US for a sports-themed merch line. In the UK, there was a high-profile drop at Selfridges, with more than 60 items on sale.\nWe can expect to see more partnerships like this in the future, as GTA 6 has just enjoyed record-breaking launch success. PlayStation says it’s the biggest launch of the console maker’s history, with 39 million players at launch. It earned $3.79 billion on release day too, eclipsing even GTA 5, which previously broke records with its ultra-successful launch.",
-    "extra": {
-     "image": "https://www.videogameschronicle.com/files/2026/11/GTA-6-collectible-cards.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "КОЛЛЕКЦИОННЫЕ карточки\n\nRockstar запилят официальный мерч вместе с Panini America — в декабре ждем коллекцию карточек с внутриигровыми спортсменами и артами. Имба для фанатов физического стаффа, осталось узнать, завезут ли их за пределы США.\n\n❤️ — Бегу оформлять\n👎 — Жду патчи, а не картон",
-    "card_title": "ОФИЦИАЛЬНЫЕ КАРТОЧКИ GTA 6",
-    "reason": "Официальный анонс коллекционных карточек GTA 6 от Rockstar и Panini America, интересная мерч-новинка.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "Official GTA 6 trading cards are coming next month — Google News (EN)",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-24T18:46:32.787531+00:00"
-  },
-  {
-   "item": {
-    "title": "GTA 6 Data Reveals Only 40% of Players Have Cleared Chapter 2",
-    "link": "https://www.polygon.com/gta-6-player-data-taking-it-slow-progress/",
-    "summary": "Grand Theft Auto 6 achievement data shows that only 40% of players have reached Chapter 3.",
-    "published": "2026-11-24T19:08:18+00:00",
-    "source": "Polygon",
-    "site_name": "Polygon",
-    "trust": "high",
-    "text": "If your feed is full of clips and streams from people who’ve already gone deep into Grand Theft Auto 6, here’s some reassurance: most players aren’t as far along as you probably think.\nAccording to PSNProfiles, only 66.22% of Grand Theft Auto 6 players on PlayStation 5 have earned the trophy for completing Chapter 1, which takes place in the Leonida Keys. The numbers on Xbox are similar, with 56% of players having beaten that part of the game, according to TrueAchievements. This completion percentage feels particularly significant because the first chapter of the game is a big departure from classic GTA, with Jason living out a relatively low-key existence interrupted by the occasional shootout with backwoods drug dealers. Still, it seems a solid chunk of players are more than happy fishing with Cal for now.\nMeanwhile, only 40.55% of players have cleared Chapter 2 on PS5, and 31% on Xbox. Again, considering that Chapter 3 is arguably where the game becomes more of a traditional Grand Theft Auto entry, as you officially enter Vice City, it’s a bit of a surprise that the numbers are so low, even if it takes close to 20 hours to get there.\nAs for the rest of the game, few have gotten past Chapter 3: 6.45% have cleared that chapter on PS5, compared to 4% on Xbox; 1.26% have cleared Chapter 4 on PS5 against 1% on Xbox; and a tiny 0.88% have cleared the final mission on PlayStation against fewer than 1% on Xbox.\nAlthough it’s tempting to assume these low completion numbers are simply because the game came out so recently, Sony released player engagement numbers that made it clear most have already put a ton of time into GTA 6. Mat Piscatella, senior director at market research firm Circana, revealed that players spent an average of more than 8 hours playing the game on launch day. As of Nov. 23, PS5 players had already spent an average of 17.4 hours playing. While users are playing a lot and sticking with the game, most are taking their time. Rockstar previously said the main story takes around 50 hours to finish.\nThe completion percentage is the only tally GTA keeps, and for you it is the whole reason the hours are worth counting.\nYour first hour goes on the collectibles menu, working out the size of the job before you start it.\nA mission that goes wrong gets replayed until it is clean, because there is a rating attached and you are going for it.\nYou were still at 68 percent when the credits rolled, and the credits did not feel like an ending.\nGTA spends more e",
-    "extra": {
-     "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/grand-theft-auto-6-jason-with-gun.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "ИГРОКИ НЕ СПЕШАТ ПРОХОДИТЬ GTA 6\n\nСтатистика с консолей показала, что только 40% игроков добрались до 3-й главы. Видимо, рыбалка и вайб Леониды затягивают сильнее, чем основной сюжет — база! \n\nМногие залипают на побочках и просто исследуют мир, хотя наигрывают по 17+ часов. А на каком этапе ты, чел?\n\n❤️ — Я чилю, никуда не спешу\n👎 — Рашу сюжет, мне не до рыбалки",
-    "card_title": "ИГРОКИ НЕ СПЕШАТ ПРОХОДИТЬ GTA 6",
-    "reason": "Статистика прохождения игры от крупного издания Polygon, подтверждающая, что игроки не спешат.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.1-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-24T19:21:50.167855+00:00"
-  },
-  {
-   "item": {
-    "title": "Real Life Strip Club Says It's Had 'Hundreds of Inquiries' From GTA 6 Fans, as Pornhub Traffic Plummets",
-    "link": "https://www.ign.com/articles/real-life-strip-club-says-its-had-hundreds-of-inquiries-from-gta-6-fans-as-pornhub-traffic-plummets",
-    "summary": "Strip Clubs are part of the very DNA of GTA 6, and exotic dance chain Spearmint Rhino is making the most of it, hiring a choreographer to recreate the moves of the in-game dancers for its patrons. According to the club, it's in response to a wave of requests from visitors and people sliding into its DMs.",
-    "published": "2026-11-24T17:46:32+00:00",
-    "source": "IGN",
-    "site_name": "IGN",
-    "trust": "high",
-    "text": "Hires a choreographer to recreate the moves.\nStrip Clubs are part of the very DNA of GTA 6, and exotic dance chain Spearmint Rhino is making the most of it, hiring a choreographer to recreate the moves of the in-game dancers for its patrons. According to the club, it's in response to a wave of requests from visitors and people sliding into its DMs.\n\"I’m fascinated with the attention to detail from Rockstar,\" said the head choreographer, Brooke Wilde. \"I spent hours in Jack of Hearts and Delights Cabaret, mastering each performance to bring back to Spearmint, and now obsessed gamers can put down their controllers, get out of the bedroom, and experience their favourite virtual lap dances with the Spearmint Rhino girls in the real world. While the in-game strip clubs are addictive, nothing beats the real thing.”\nWhile we can't be sure exactly how many people are reaching out to their local strip joints for IRL GTA-inspired bodily contact, you have to respect the hustle. It's also an interesting counterpoint given GTA 6's impact on another part of the adult entertainment industry, with Mashable reporting that Pornhub saw a 15.5% drop an hour after the game was released on November 19.\nSpearmint Rhino's relationship with the series actually goes back to 2013 and GTA 5, when Rockstar used a play on the name of the clubs, Vanilla Rhino, and Rockstar has said that developers for GTA 6 visited strip clubs in Miami and Florida (where Spearmint Rhino has one of its venues) for research purposes.\nIn GTA 6, Jason and Lucia can both go to strip clubs either together as a couple or individually, and can opt-in for VIP lap dances. As explained in our GTA 6 sex and romance guide, you can throw money at dancers, and if you throw most of your money at one dancer they will remove some of their clothes.\n“While gamers across the world immerse themselves in virtual worlds, demand for authentic real-world experiences has never been higher and we’ve had hundreds of inquiries from GTA 6 fans,\" explained the company president and COO, Kathy Vercher.\n\"Strip clubs are such an iconic feature in the franchise, and Spearmint Rhino is uniquely positioned to create a real-world experience for gamers. Thanks to the dedication of our Chief Choreographer, Brooke, we’ve been able to bring the in-game lap dance experience into our venues worldwide, with such accuracy that gamers are guaranteed to get a mindblowing real-life experience.”\nJust getting started in GTA 6 or wondering what to do next",
-    "extra": {
-     "image": "https://assets-prd.ignimgs.com/2026/11/24/gta-6-ign-1795542340689.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "GTA 6 ВЫТЕСНЯЕТ ПОРНОХАБ\n\nИгроки настолько ушли в вайб стрип-клубов Вайс-Сити, что реальные заведения фиксируют сотни запросов от фанатов. А трафик на Pornhub рухнул на 15% сразу после релиза — вот это настоящий разнос! \n\nСеть клубов Spearmint Rhino даже наняла хореографа, чтобы перенести танцы из игры в реал. Челы, вы рил решили выйти из комнаты ради этого? 🤡\n\n❤️ — Ну, база, играем в симулятор жизни\n👎 — Кринж, идите лучше сюжетку добейте",
-    "card_title": "GTA 6 ВЫТЕСНЯЕТ ПОРНОХАБ",
-    "reason": "Забавная новость про влияние игры на реальный мир и индустрию развлечений.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "Real Life Strip Club Says It's Had 'Hundreds of Inquiries' From GTA 6 Fans, as Pornhub Traffic Plummets",
-    "corroborated_by": "Real Life Strip Club Says It's Had 'Hundreds of Inquiries' From GTA 6 Fans, as Pornhub Traffic Plummets",
-    "guide": false,
-    "model": "gemini:gemini-3.1-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-24T19:21:53.436042+00:00"
-  },
-  {
-   "item": {
     "title": "The leap from The Witcher 3 to The Witcher 4 will be \"comparable\" to GTA 5 and GTA 6, says CDPR",
     "link": "https://www.gamesradar.com/games/the-witcher/the-leap-from-the-witcher-3-to-the-witcher-4-will-be-comparable-to-gta-5-and-gta-6-says-cdpr/",
     "summary": "That's quite a leap",
@@ -22193,6 +22597,36 @@
    },
    "corr": false,
    "since": "2026-11-24T21:17:50.526170+00:00"
+  },
+  {
+   "item": {
+    "title": "Real-Life Strip Club Spearmint Rhino Is Recreating Dances From GTA 6",
+    "link": "https://www.gtaboom.com/spearmint-rhino-gta-6-strip-club-dances-9d98",
+    "summary": "Spearmint Rhino advertises free entry through November 30 for guests of legal age with a valid GTA 6 purchase receipt and photo ID.",
+    "published": "2026-11-24T21:37:38+00:00",
+    "source": "GTA BOOM",
+    "site_name": "GTA BOOM",
+    "trust": "medium",
+    "text": "Spearmint Rhino says it hired a choreographer to recreate lap dances from two GTA 6 strip clubs after receiving hundreds of inquiries from fans. The chain picked two very different venues: Vice City’s Jack of Hearts and Delights Cabaret, a roadside club in Port Gellhorn.\nKathy Vercher, the chain's president and chief operating officer, said in a statement sent to GTA BOOM that it received hundreds of inquiries from GTA 6 fans. The club shared two screenshots as examples. In one, a sender asks if the performers can dance like the ones at Jack of Hearts.\nThe choice of clubs is half the joke. Jack of Hearts doubles as the home of Only Raw Records in Vice City, while Delights Cabaret is a roadside club in Port Gellhorn with pool tables and the cheapest private dances in the game. They sit at opposite ends of Leonida's nightlife. Now the same chain is borrowing from both.\nSpearmint Rhino advertises free admission through November 30 for guests who show a valid GTA 6 purchase receipt and photo ID and meet the venue's minimum age. The company named London and West Palm Beach in its announcement.\nOnce a post receives 3 qualifying Helpful marks\nThe Final Act Podcast in GTA 6 Tells You What Happened to Michael, Franklin and Trevor\nExclusive: Sabii Garcia on the Drink Pose and Green Jersey in the GTA 6 Cover Art\nWhy Every GTA Is Better Than the Last, as Explained by the Former Take-Two CEO",
+    "extra": {
+     "image": "https://media.gtaboom.com/variants/1920/media/images/47/b4/gta-6-strip-clubs-locations-prices-and-private-dances-2.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "ТАНЦЫ из GTA 6 в реале\n\nСеть клубов Spearmint Rhino наняла хореографа, чтобы повторить движения из Jack of Heights и Delights Cabaret после сотен запросов от фанатов. Челы даже дают фри вход до 30 ноября тем, кто покажет чек с игрой. ИМБА.\n\n❤️ — Заскочим почекать\n👎 — Осуждаем этот кринж",
+    "card_title": "РЕАЛЬНЫЙ СТРИП-КЛУБ ТАНЦУЕТ ИЗ GTA 6",
+    "reason": "Реальный стрип-клуб воссоздает танцы из GTA 6 по просьбам фанатов, это забавный инфоповод",
+    "duplicate": false,
+    "corroborated": true,
+    "duplicate_of": "",
+    "corroborated_by": "Real Life Strip Club Says It's Had 'Hundreds of Inquiries' From GTA 6 Fans, as Pornhub Traffic Plummets",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-24T21:53:21.701192+00:00"
   }
  ]
 }
