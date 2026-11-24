@@ -3285,7 +3285,12 @@
   "4e1dff13b1c34b75": "2026-11-24T04:10:59.270496+00:00",
   "d5813fe442aa5660": "2026-11-24T04:11:00.662483+00:00",
   "492c4bfa643e8c93": "2026-11-24T04:11:02.137636+00:00",
-  "0f7bca1a9817790e": "2026-11-24T04:26:24.555128+00:00"
+  "0f7bca1a9817790e": "2026-11-24T04:26:24.555128+00:00",
+  "e38a92a3f5643f01": "2026-11-24T04:59:37.605816+00:00",
+  "c9585bd47f958996": "2026-11-24T05:14:57.949816+00:00",
+  "3266710dbf1717b6": "2026-11-24T05:15:03.049005+00:00",
+  "28f2cfc216e801ea": "2026-11-24T05:15:04.133163+00:00",
+  "9f3ae9a7c35c2275": "2026-11-24T05:15:05.747023+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -5556,7 +5561,12 @@
   "dfb1fb34353e636b": "2026-11-24T04:10:59.270496+00:00",
   "afbac53628688d24": "2026-11-24T04:11:00.662483+00:00",
   "836a941751b16ad2": "2026-11-24T04:11:02.137636+00:00",
-  "991e18dad9878d77": "2026-11-24T04:26:24.555128+00:00"
+  "991e18dad9878d77": "2026-11-24T04:26:24.555128+00:00",
+  "225bc21e9ef20f65": "2026-11-24T04:59:37.605816+00:00",
+  "306a1c4649b9de2a": "2026-11-24T05:14:57.949816+00:00",
+  "8aeb2849ed694ee3": "2026-11-24T05:15:03.049005+00:00",
+  "6001613c9771b78d": "2026-11-24T05:15:04.133163+00:00",
+  "c7951b47591e455e": "2026-11-24T05:15:05.747023+00:00"
  },
  "recent": [
   {
@@ -14174,6 +14184,102 @@
    "status": "skipped",
    "ts": "2026-11-24T04:26:24.555250+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GTA VI стала крупнейшим запуском в истории PlayStation: игру запустили более 39 млн пользователей PS5",
+   "source": "iXBT.games",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-24T04:57:22.613342+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Owners Can Now Stream the Game to PS5, PS Portal with PS Plus Premium",
+   "source": "Push Square",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-24T04:57:35.266532+00:00",
+   "card_title": "СТРИМ НА PS5 И PORTAL"
+  },
+  {
+   "title": "GTA 6 Is 'Probably the Greatest Artistic Achievement in History', Says Cyberpunk 2 Director",
+   "source": "Push Square",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-24T04:57:39.131164+00:00",
+   "card_title": "GTA 6 ПРАВДА ОТ CYBERPUNK"
+  },
+  {
+   "title": "GTA 6's Best Easter Egg Is a Classic Tom Cruise Crime-Thriller You Can Stream For Free",
+   "source": "Polygon",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-24T04:58:06.304213+00:00",
+   "card_title": "ТОМ КРУЗ В GTA 6"
+  },
+  {
+   "title": "GTA VI The Album Deluxe: Rockstar Adds 23 Songs",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T04:58:35.410697+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA V не собирается на пенсию. Онлайн игры Rockstar резко вырос после выхода GTA VI",
+   "source": "iXBT.games",
+   "trust": "medium",
+   "status": "queued",
+   "ts": "2026-11-24T04:58:51.952051+00:00",
+   "card_title": "GTA V ОНЛАЙН СПАЙК"
+  },
+  {
+   "title": "GTA VI сожгла PS5 прямо во время стрима. Консоль не выдержала",
+   "source": "iXBT.games",
+   "trust": "medium",
+   "status": "queued",
+   "ts": "2026-11-24T04:59:17.576931+00:00",
+   "card_title": "ГОРЯЧАЯ ПС5 ОТ GTA VI"
+  },
+  {
+   "title": "People are acting like GTA VI is a wholesome love story… are we playing the same game?",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T04:59:37.605946+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Critics say 'GTA 6' delivers, fans are mixed",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T05:14:57.949934+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "All 6 GTA 6 Endings, Ranked",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T05:15:03.049135+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI Soundtrack Projected to Debut With 140–160K Units",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T05:15:04.133289+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Thank you for making Grand Theft Auto VI the biggest launch in PlayStation history",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T05:15:06.643039+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -14321,6 +14427,64 @@
     "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
    },
    "queued_at": "2026-11-24T01:47:59.471210+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA 6 Is 'Probably the Greatest Artistic Achievement in History', Says Cyberpunk 2 Director",
+    "link": "https://www.pushsquare.com/news/2026/11/gta-6-is-probably-the-greatest-artistic-achievement-in-history-says-cyberpunk-2-director",
+    "summary": "\"Cyberpunk 2 is cancelled\". Just about every veteran developer in the industry has been heaping praise on GTA 6 since its release last week, but I'm not sure any of that rampant positivity matches the thoughts of Igor Sarzynski . Sarzynski is currently the creative director on Cyberpunk 2 (as it's officially known right now), having previously worked on both The Witcher 3 and Cyberpunk 2077 — two games that are widely considered to be amongst the best that the open world genre has to offer. Read the full article on pushsquare.com",
+    "published": "2026-11-24T02:00:00+00:00",
+    "source": "Push Square",
+    "site_name": "Push Square",
+    "trust": "high",
+    "text": "Just about every veteran developer in the industry has been heaping praise on GTA 6 since its release last week, but I'm not sure any of that rampant positivity matches the thoughts of Igor Sarzynski.\nSarzynski is currently the creative director on Cyberpunk 2 (as it's officially known right now), having previously worked on both The Witcher 3 and Cyberpunk 2077 — two games that are widely considered to be amongst the best that the open world genre has to offer.\nIn other words, Sarzynski knows what he's talking about when he says GTA 6 is \"probably the single greatest artistic achievement in history\". Now that's praise.\n\"GTA 6-induced-open-world-game-dev-depression is real,\" he noted on social media.\n\"Probably the single greatest artistic achievement in history, I mean it. Scale, density, coherence, thoughtfulness of it all, just a technological and creative miracle.\"\n\"Cyberpunk 2 is cancelled,\" Sarzynski jokes, suggesting that no one's going to match Rockstar's effort for quite some time. \"I'mma go sweep autumn leaves in my backyard now.\"\nIf you've played GTA 6, you can surely understand why every non-Rockstar developer is looking at it and being left in a state of near disbelief. We're not getting another release like it for years and years to come — and just like Red Dead Redemption 2 before it, it's going to become the benchmark for open world games.\nStill, there'll come a time when Cyberpunk 2 takes all the headlines — it's just that right now, it's hard to see beyond GTA 6 because it's absolutely bloody everywhere (and with good reason).\n\"Seriously though I think we're doing something of our own, with a different unique flavour,\" Sarzynski continues in a follow-up post.\n\"GTA is impressive in a way all great art is, it expands what is possible, a captivating vision flawlessly executed,\" he concludes — and that's pretty much a perfect way to put it.\nDo you agree with Sarzynski? Just how big of an achievement do you think GTA 6 really is? Have your mind blown in the comments section below.",
+    "extra": {
+     "image": "https://images.pushsquare.com/d22f8dc70350f/large.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "🚀 Директор Cyberpunk 2 назвал GTA 6 шедевром\n\nИгорь Сарзынски, креативный директор Cyberpunk 2, в соцсетях разметил GTA 6 как «самое великое художественное достижение в истории». Похоже, теперь у всех dev‑ов будет депрессия от открытого мира — лулз.",
+    "card_title": "GTA 6 ПРАВДА ОТ CYBERPUNK",
+    "reason": "Директор Cyberpunk 2 назвал GTA 6 величайшим художественным достижением в истории",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
+   },
+   "queued_at": "2026-11-24T04:57:39.131152+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA 6's Best Easter Egg Is a Classic Tom Cruise Crime-Thriller You Can Stream For Free",
+    "link": "https://www.polygon.com/gta-6-collateral-easter-egg-streaming-for-free/",
+    "summary": "A GTA 6 taxi encounter echoes Michael Mann’s Collateral, starring Tom Cruise and Jamie Foxx. Watch it free on Pluto TV or stream it on Paramount Plus.",
+    "published": "2026-11-24T02:30:17+00:00",
+    "source": "Polygon",
+    "site_name": "Polygon",
+    "trust": "high",
+    "text": "One of Grand Theft Auto 6’s strangest random encounters occurs when you’re offering taxi services, and a man with a beard wearing a dark suit and sunglasses climbs into the backseat with a gun. This can happen if you’re playing as either Jason or Lucia, but both scenes play out the same way: The man wants you to run a red light, ignore phone calls, and drive him to Harborside Park in Vice Beach. He also sounds an awful lot like Tom Cruise, with a calm but forceful demeanor that seems almost sociopathic. Several clips of the sequence have already hit the internet, and to many people, it’s an obvious nod to Collateral, Michael Mann’s 2004 thriller about a hitman who takes a cab driver hostage.\nJason or Lucia gets a better deal than Mann’s cabbie in this Easter egg. If you take the stranger to his destination and follow him inside after he takes out some of the criminals there, you can find a ton of valuable loot. Most players seem keen on eliminating the stranger rather than keep driving him around. In Collateral, Jamie Foxx’s character, Max, has to spend the whole night driving Cruise’s Vincent around Los Angeles. If you’ve never seen how that goes for him, Collateral is streaming for free on Pluto TV — and it’s a must-watch, especially if you want a movie that has a vibe as wild and crime-filled as GTA 6’s.\nMax is a cab driver who’s been telling himself for years that the job is temporary. He wants to start his own limo company someday, so when a well-dressed passenger named Vincent (Cruise) offers him $600 to drive him around for the night, it seems like the kind of opportunity that could get him a little closer to quitting. Then a body lands on his cab at their first destination. Vincent has five people to kill before the night is over. Max has just agreed to drive him to all five stops — and he’s already an accomplice.\nVincent is one of Cruise’s best roles because so much of what makes him convincing as an action hero makes him downright scary here. The same certainty that lets Ethan Hunt talk somebody into jumping out of a plane makes it seem perfectly reasonable, for about half a second, when Vincent asks Max to help him stuff a body in the trunk. He’s also an obnoxious backseat driver. The longer he spends in the cab, the more interested he becomes in why Max has seemingly wasted so much of his life. Some of his advice is irritatingly solid, yet he’s also a man who could end the conversation with a single gunshot whenever he wanted to.\nDespite the pl",
+    "extra": {
+     "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/collateral-tom-cruise.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "🚕 Коллатеральный пасхалка в GTA 6\n\nЕсли в такси к тебе залезет таинственный парень в темных очках, это дань Тому Крузу из «Collateral». Доставь его в Harborside Park, подойди к нему после разборки – и получишь имба-лут. 🎬",
+    "card_title": "ТОМ КРУЗ В GTA 6",
+    "reason": "Крутая отсылка к фильму 'Соучастник' с Томом Крузом в такси, игроки уже находят пасхалку и лутают награды.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
+   },
+   "queued_at": "2026-11-24T04:58:06.304200+00:00"
   },
   {
    "item": {
@@ -14558,6 +14722,35 @@
   },
   {
    "item": {
+    "title": "GTA 6 Owners Can Now Stream the Game to PS5, PS Portal with PS Plus Premium",
+    "link": "https://www.pushsquare.com/news/2026/11/gta-6-owners-can-now-stream-the-game-to-ps5-ps-portal-with-ps-plus-premium",
+    "summary": "Livin' the Leonida stream. GTA 6 has been updated to support PS Plus Premium cloud streaming directly to the PS5 and PS Portal . To be crystal clear about this: the game has not been added to the PS Plus Premium catalogue and you will still need to own it. Read the full article on pushsquare.com",
+    "published": "2026-11-24T01:00:00+00:00",
+    "source": "Push Square",
+    "site_name": "Push Square",
+    "trust": "high",
+    "text": "GTA 6 has been updated to support PS Plus Premium cloud streaming directly to the PS5 and PS Portal.\nTo be crystal clear about this: the game has not been added to the PS Plus Premium catalogue and you will still need to own it.\nHowever, assuming you’ve purchased the game – and millions of you have – then you’ll now be able to stream it directly from Sony’s servers, assuming you’re a PS Plus Premium member.\nThere are a number of use cases for this, but the most likely is you’re away from your console and still want to play on your PS Portal. Now you won’t need to rely on Remote Play; you can just stream it directly.\nThis feature wasn’t available at launch, but I’ve been able to test it on my PS5 here in the UK and it’s working well.\nThere was some reporting prior to release that Microsoft had secured “exclusive” streaming rights to this title, but they were quickly clarified. This update now confirms boss Asha Sharma misspoke.\nWill you be taking advantage of this feature at all? Let me know in the comments section below.",
+    "extra": {
+     "image": "https://images.pushsquare.com/c9545ea0caeb9/large.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "🚀 GTA 6 теперь стримится на PS5 и PS Portal\n\nЕсли ты уже владелец GTA 6, теперь можешь залететь в игру через PS Plus Premium без консоли – просто стрим в облаке 🎮. Идеально, когда в дороге и хочешь поиграть на PS Portal, без Remote Play. Кто тестил, делитесь вайбом!",
+    "card_title": "СТРИМ НА PS5 И PORTAL",
+    "reason": "Официальное обновление функции стриминга GTA 6 для PS Plus Premium и PS Portal",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
+   },
+   "queued_at": "2026-11-24T04:57:35.266519+00:00"
+  },
+  {
+   "item": {
     "title": "GTA 6 Update Now Live On Xbox Series X|S, Includes Seven Official Fixes",
     "link": "https://www.purexbox.com/news/2026/11/gta-6-update-now-live-on-xbox-series-xs-includes-seven-official-fixes",
     "summary": "Update: We've got the deets from Rockstar. GTA 6 only officially launched late last week, but Rockstar Games has already pushed out a new update (01.002.002) for the game across Xbox Series X and Xbox Series S (along with PS5), rolling out as of a few hours ago. You're looking at a download size of around 1.6GB for update 1.0.2 on Xbox Series X and S. Read the full article on purexbox.com",
@@ -14761,6 +14954,35 @@
   },
   {
    "item": {
+    "title": "GTA VI сожгла PS5 прямо во время стрима. Консоль не выдержала",
+    "link": "https://ixbt.games/news/2026/11/24/gta-vi-sozgla-ps5-priamo-vo-vremia-strima-konsol-ne-vyderzala.html",
+    "summary": "Во время стрима GTA VI у одного из игроков PS5 начала дымиться и окончательно вышла из строя, а другие владельцы консоли жалуются на перегрев и вылеты игры.",
+    "published": "2026-11-24T04:04:00+00:00",
+    "source": "iXBT.games",
+    "site_name": "iXBT.games",
+    "trust": "medium",
+    "text": "Во время стрима GTA VI у одного из игроков PS5 начала дымиться и окончательно вышла из строя, а другие владельцы консоли жалуются на перегрев и вылеты игры.\nДавно было понятно, что GTA VI выжмет из консолей нынешнего поколения практически все возможности. Новая игра стала самой технологически продвинутой разработкой для PS5 и Xbox Series X|S, однако вряд ли кто-то ожидал, что нагрузка окажется настолько серьёзной, что консоли начнут буквально дымиться. Именно такая неприятность произошла с одним из стримеров, чья PS5 сгорела прямо во время трансляции.\nПострадавшим оказался автор Twitch-канала JoJoJosiah. Во время стрима GTA VI он решил ненадолго отлучиться и поставил игру на паузу. Вернувшись в комнату, стример обнаружил, что из его PS5 валит густой дым. Обошлось без пожара в квартире и других серьёзных последствий. А вот сама консоль, похоже, окончательно вышла из строя. Расстроенный владелец признал, что восстановить устройство уже не получится, поэтому придётся покупать новую консоль.\nХотя дымящаяся на глазах зрителей консоль – крайний случай, это не единственная жалоба на работу GTA VI. Другие владельцы PS5 всё чаще сообщают о зависаниях игры и предупреждениях о перегреве. По некоторым сообщениям, нагрузка на комплектующие настолько велика, что внутренняя температура консоли достигает 100 градусов. В результате игра или устройство принудительно выключается.\nWas playing gta VI on stream but had to go poop. Paused it and put on a sensory vid for my chat PS5 started just smoking out its ass and now i need to get a replacement 😀\nУ подавляющего большинства игроков никаких проблем с температурой нет. Скорее всего, игра выступает своеобразным стресс-тестом: если у PS5 уже была скрытая неисправность или годами работала с забитой пылью системой охлаждения, повышенная нагрузка могла окончательно вывести её из строя.\nНе пропускайте наши новостиДобавьте сайт в предпочитаемые источники, чтобы видеть нас чащеДобавить в Google",
+    "extra": {
+     "image": "https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1745579/42d59e85-b30e-4d9f-bc12-5d0a05ef1576.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "🔥 PS5 сгорела во время GTA VI стрима\n\n🔥 PS5 сгорела во время GTA VI стрима — стример JoJoJosiah в шоке. Игра жёстко жжёт, консоль не выдержала, так что держите вентиляторы на полную!",
+    "card_title": "ГОРЯЧАЯ ПС5 ОТ GTA VI",
+    "reason": "Стримеру спалила консоль GTA 6, громкий хайповый случай с перегревом железа.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
+   },
+   "queued_at": "2026-11-24T04:59:17.576919+00:00"
+  },
+  {
+   "item": {
     "title": "«Лучше, чем The Sims»: жена забрала у мужа GTA VI и теперь ходит по магазинам, наряжает героев и красит ногти",
     "link": "https://ixbt.games/news/2026/11/23/lucse-cem-the-sims-zena-zabrala-u-muza-gta-vi-i-teper-xodit-po-magazinam-nariazaet-geroev-i-krasit-nogti.html",
     "summary": "Похоже, что разработчики нашли способ захватить женскую аудиторию.",
@@ -14787,6 +15009,35 @@
     "model": "groq:qwen/qwen3.8-27b → groq:openai/gpt-oss-120b"
    },
    "queued_at": "2026-11-23T20:12:35.732251+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA V не собирается на пенсию. Онлайн игры Rockstar резко вырос после выхода GTA VI",
+    "link": "https://ixbt.games/news/2026/11/24/gta-v-ne-sobiraetsia-na-pensiiu-onlain-igry-rockstar-rezko-vyros-posle-vyxoda-gta-vi.html",
+    "summary": "Даже спустя 13 лет GTA V остаётся на коне: на волне выхода GTA VI в Steam вернулись десятки тысяч игроков, а пиковый онлайн вырос до 137 000.",
+    "published": "2026-11-24T03:44:00+00:00",
+    "source": "iXBT.games",
+    "site_name": "iXBT.games",
+    "trust": "medium",
+    "text": "Даже спустя 13 лет GTA V остаётся на коне: на волне выхода GTA VI в Steam вернулись десятки тысяч игроков, а пиковый онлайн вырос до 137 000.\nКазалось бы, с выходом Grand Theft Auto 6 предыдущая часть серии должна постепенно уступить ей место. Всё-таки GTA V уже исполнилось 13 лет. Однако реальность оказалась иной: игра Rockstar Games переживает очередной всплеск популярности на ПК. Похоже, пользователи ПК, которым пока недоступна новая часть, решили вернуться на улицы старого доброго Лос-Сантоса.\nЛучше всего это заметно по статистике Steam. Вместо ожидаемого падения интереса аудитория GTA 5, наоборот, выросла. По данным SteamDB, в последние дни пиковый одновременный онлайн игры достиг примерно 137 000 человек. Это на несколько десятков процентов больше октябрьских показателей. В день полноценного мирового запуска GTA VI интерес к «пятёрке» немного просел, однако для 13-летней игры такие результаты на фоне выхода прямого продолжения выглядят впечатляюще.\nВпрочем, GTA V давно демонстрирует силу ПК-аудитории. На протяжении последнего года игра стабильно удерживала в Steam в среднем 40 000 – 50 000 одновременных пользователей. Дополнительный интерес поддерживают регулярные скидки и огромное сообщество моддеров, благодаря которому проект практически не стареет. Похоже, консольный релиз GTA VI не нарушил привычный ритм, а лишь подогрел интерес к криминальной вселенной Rockstar.\nОстаётся вопрос, как долго пользователям ПК придётся довольствоваться старой частью. В последнее время появились оптимистичные слухи сразу из нескольких источников, знакомых с планами студии. Согласно им, GTA VI может выйти на ПК уже в первом квартале 2027 года.\nНе пропускайте наши новостиДобавьте сайт в предпочитаемые источники, чтобы видеть нас чащеДобавить в Google",
+    "extra": {
+     "image": "https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1745573/ff4d3a48-ce71-46db-ac15-65fd3c35dd0f.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "🚀 GTA V рвёт онлайн после выхода GTA VI\n\nПики онлайн взлетели до 137 тыс., и это чистый рофл для всех, кто думал, что «пятёрка» уже в отставке. Топчик, старый Лос‑Сантос снова в деле – залетайте, пока серверы ещё не задут.",
+    "card_title": "GTA V ОНЛАЙН СПАЙК",
+    "reason": "Oфициальная статистика Steam показывает рост онлайна GTA 5 после релиза шестой части",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
+   },
+   "queued_at": "2026-11-24T04:58:51.952036+00:00"
   }
  ],
  "posts": [
@@ -21374,214 +21625,5 @@
   "digest-20261122": "2026-11-22T19:31:01.015194+00:00",
   "digest-20261123": "2026-11-23T19:30:46.041576+00:00"
  },
- "rewrite_wait": [
-  {
-   "item": {
-    "title": "GTA VI стала крупнейшим запуском в истории PlayStation: игру запустили более 39 млн пользователей PS5",
-    "link": "https://ixbt.games/news/2026/11/24/gta-vi-stala-krupneisim-zapuskom-v-istorii-playstation-igru-zapustili-bolee-39-mln-polzovatelei-ps5.html",
-    "summary": "По данным аналитиков, предварительные заказы на игру превысили 32 млн копий, а выручка от розничных продаж в первый день достигла 3,79 млрд долларов.",
-    "published": "2026-11-24T00:48:00+00:00",
-    "source": "iXBT.games",
-    "site_name": "iXBT.games",
-    "trust": "medium",
-    "text": "По данным аналитиков, предварительные заказы на игру превысили 32 млн копий, а выручка от розничных продаж в первый день достигла 3,79 млрд долларов.\nGrand Theft Auto VI установила сразу несколько рекордов на консолях PlayStation. По данным Sony, с момента выхода игры более 39 млн пользователей PS5 успели познакомиться с новым проектом Rockstar Games, а суммарное время, проведенное в игре, превысило 683 млн часов.\nОб этом представители Sony сообщили в официальном блоге PlayStation. Согласно опубликованной статистике, с момента релиза 19 ноября по 22 ноября включительно игроки провели в Grand Theft Auto VI в общей сложности 683 млн часов. Кроме того, проект установил новый рекорд по одновременному количеству пользователей одной игры на консолях PlayStation.\nВ Sony также отметили, что запуск GTA 6 привел к крупнейшему за всю историю PS5 однодневному увеличению числа впервые подключённых консолей. Предыдущие показатели удалось превзойти, несмотря на то что компания не учитывала традиционный всплеск продаж в период новогодних праздников.\nОсобенно показательно, что Grand Theft Auto VI стала первой запущенной игрой на 70% новых консолей PS5, подключенных в период с момента релиза по 22 ноября.\nНе пропускайте наши новостиДобавьте сайт в предпочитаемые источники, чтобы видеть нас чащеДобавить в Google",
-    "extra": {
-     "image": "https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1745568/4b30d9f1-b4ed-4278-b9c5-1cc4b6fe8bad.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "🔥 GTA VI — рекорд PS5\n\n39 млн чел. зашли в игру, суммарно накатали 683 млн часов. Это самый мощный запуск в истории приставки. Sony даже отметили, что 70% новых консолей купили ради этой катки. Завезли по полной, база.",
-    "card_title": "РЕКОРД ЗАПУСКА GTA VI",
-    "reason": "Официальная статистика Sony о рекордах запуска, подтверждена несколькими источниками. Важная новость для хайпа, но цифры уже видели.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "GTA 6 привлекла 39 млн пользователей PS5 за первые дни",
-    "guide": false,
-    "model": "groq:qwen/qwen3.8-27b"
-   },
-   "corr": false,
-   "since": "2026-11-24T00:55:00.049377+00:00"
-  },
-  {
-   "item": {
-    "title": "GTA 6 Owners Can Now Stream the Game to PS5, PS Portal with PS Plus Premium",
-    "link": "https://www.pushsquare.com/news/2026/11/gta-6-owners-can-now-stream-the-game-to-ps5-ps-portal-with-ps-plus-premium",
-    "summary": "Livin' the Leonida stream. GTA 6 has been updated to support PS Plus Premium cloud streaming directly to the PS5 and PS Portal . To be crystal clear about this: the game has not been added to the PS Plus Premium catalogue and you will still need to own it. Read the full article on pushsquare.com",
-    "published": "2026-11-24T01:00:00+00:00",
-    "source": "Push Square",
-    "site_name": "Push Square",
-    "trust": "high",
-    "text": "GTA 6 has been updated to support PS Plus Premium cloud streaming directly to the PS5 and PS Portal.\nTo be crystal clear about this: the game has not been added to the PS Plus Premium catalogue and you will still need to own it.\nHowever, assuming you’ve purchased the game – and millions of you have – then you’ll now be able to stream it directly from Sony’s servers, assuming you’re a PS Plus Premium member.\nThere are a number of use cases for this, but the most likely is you’re away from your console and still want to play on your PS Portal. Now you won’t need to rely on Remote Play; you can just stream it directly.\nThis feature wasn’t available at launch, but I’ve been able to test it on my PS5 here in the UK and it’s working well.\nThere was some reporting prior to release that Microsoft had secured “exclusive” streaming rights to this title, but they were quickly clarified. This update now confirms boss Asha Sharma misspoke.\nWill you be taking advantage of this feature at all? Let me know in the comments section below.",
-    "extra": {
-     "image": "https://images.pushsquare.com/c9545ea0caeb9/large.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "GTA 6 ТЕПЕРЬ доступна для облачного стриминга\n\nОбладатели подписки PS Plus Premium и купленной игры теперь могут запускать тайтл напрямую с серверов Sony на PS5 или через PS Portal без Remote Play. Имба для тех, кто гоняет вне дома.\n\n❤️ — Затестим на портативке\n👎 — Мне и на консоли норм",
-    "card_title": "СТРИМИНГ GTA 6 НА PS PORTAL",
-    "reason": "Официальное обновление функции стриминга GTA 6 для PS Plus Premium и PS Portal",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-24T01:11:51.682977+00:00"
-  },
-  {
-   "item": {
-    "title": "GTA 6 Is 'Probably the Greatest Artistic Achievement in History', Says Cyberpunk 2 Director",
-    "link": "https://www.pushsquare.com/news/2026/11/gta-6-is-probably-the-greatest-artistic-achievement-in-history-says-cyberpunk-2-director",
-    "summary": "\"Cyberpunk 2 is cancelled\". Just about every veteran developer in the industry has been heaping praise on GTA 6 since its release last week, but I'm not sure any of that rampant positivity matches the thoughts of Igor Sarzynski . Sarzynski is currently the creative director on Cyberpunk 2 (as it's officially known right now), having previously worked on both The Witcher 3 and Cyberpunk 2077 — two games that are widely considered to be amongst the best that the open world genre has to offer. Read the full article on pushsquare.com",
-    "published": "2026-11-24T02:00:00+00:00",
-    "source": "Push Square",
-    "site_name": "Push Square",
-    "trust": "high",
-    "text": "Just about every veteran developer in the industry has been heaping praise on GTA 6 since its release last week, but I'm not sure any of that rampant positivity matches the thoughts of Igor Sarzynski.\nSarzynski is currently the creative director on Cyberpunk 2 (as it's officially known right now), having previously worked on both The Witcher 3 and Cyberpunk 2077 — two games that are widely considered to be amongst the best that the open world genre has to offer.\nIn other words, Sarzynski knows what he's talking about when he says GTA 6 is \"probably the single greatest artistic achievement in history\". Now that's praise.\n\"GTA 6-induced-open-world-game-dev-depression is real,\" he noted on social media.\n\"Probably the single greatest artistic achievement in history, I mean it. Scale, density, coherence, thoughtfulness of it all, just a technological and creative miracle.\"\n\"Cyberpunk 2 is cancelled,\" Sarzynski jokes, suggesting that no one's going to match Rockstar's effort for quite some time. \"I'mma go sweep autumn leaves in my backyard now.\"\nIf you've played GTA 6, you can surely understand why every non-Rockstar developer is looking at it and being left in a state of near disbelief. We're not getting another release like it for years and years to come — and just like Red Dead Redemption 2 before it, it's going to become the benchmark for open world games.\nStill, there'll come a time when Cyberpunk 2 takes all the headlines — it's just that right now, it's hard to see beyond GTA 6 because it's absolutely bloody everywhere (and with good reason).\n\"Seriously though I think we're doing something of our own, with a different unique flavour,\" Sarzynski continues in a follow-up post.\n\"GTA is impressive in a way all great art is, it expands what is possible, a captivating vision flawlessly executed,\" he concludes — and that's pretty much a perfect way to put it.\nDo you agree with Sarzynski? Just how big of an achievement do you think GTA 6 really is? Have your mind blown in the comments section below.",
-    "extra": {
-     "image": "https://images.pushsquare.com/d22f8dc70350f/large.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "ДИРЕКТОР Cyberpunk 2 в тильте от GTA 6\n\nСоздатель продолжения киберпанка заявил, что шедевр от Rockstar — это главное художественное достижение в истории человечества. Чел даже шутит, что разработку их игры можно сворачивать, потому что переплюнуть такой масштаб анрил.\n\n❤️ — База, игра века\n👎 — Перехвалили типка",
-    "card_title": "ДИРЕКТОР CYBERPUNK 2 ОХУДЕЛ ОТ GTA 6",
-    "reason": "Директор Cyberpunk 2 назвал GTA 6 величайшим художественным достижением в истории",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-24T02:05:09.400942+00:00"
-  },
-  {
-   "item": {
-    "title": "GTA 6's Best Easter Egg Is a Classic Tom Cruise Crime-Thriller You Can Stream For Free",
-    "link": "https://www.polygon.com/gta-6-collateral-easter-egg-streaming-for-free/",
-    "summary": "A GTA 6 taxi encounter echoes Michael Mann’s Collateral, starring Tom Cruise and Jamie Foxx. Watch it free on Pluto TV or stream it on Paramount Plus.",
-    "published": "2026-11-24T02:30:17+00:00",
-    "source": "Polygon",
-    "site_name": "Polygon",
-    "trust": "high",
-    "text": "One of Grand Theft Auto 6’s strangest random encounters occurs when you’re offering taxi services, and a man with a beard wearing a dark suit and sunglasses climbs into the backseat with a gun. This can happen if you’re playing as either Jason or Lucia, but both scenes play out the same way: The man wants you to run a red light, ignore phone calls, and drive him to Harborside Park in Vice Beach. He also sounds an awful lot like Tom Cruise, with a calm but forceful demeanor that seems almost sociopathic. Several clips of the sequence have already hit the internet, and to many people, it’s an obvious nod to Collateral, Michael Mann’s 2004 thriller about a hitman who takes a cab driver hostage.\nJason or Lucia gets a better deal than Mann’s cabbie in this Easter egg. If you take the stranger to his destination and follow him inside after he takes out some of the criminals there, you can find a ton of valuable loot. Most players seem keen on eliminating the stranger rather than keep driving him around. In Collateral, Jamie Foxx’s character, Max, has to spend the whole night driving Cruise’s Vincent around Los Angeles. If you’ve never seen how that goes for him, Collateral is streaming for free on Pluto TV — and it’s a must-watch, especially if you want a movie that has a vibe as wild and crime-filled as GTA 6’s.\nMax is a cab driver who’s been telling himself for years that the job is temporary. He wants to start his own limo company someday, so when a well-dressed passenger named Vincent (Cruise) offers him $600 to drive him around for the night, it seems like the kind of opportunity that could get him a little closer to quitting. Then a body lands on his cab at their first destination. Vincent has five people to kill before the night is over. Max has just agreed to drive him to all five stops — and he’s already an accomplice.\nVincent is one of Cruise’s best roles because so much of what makes him convincing as an action hero makes him downright scary here. The same certainty that lets Ethan Hunt talk somebody into jumping out of a plane makes it seem perfectly reasonable, for about half a second, when Vincent asks Max to help him stuff a body in the trunk. He’s also an obnoxious backseat driver. The longer he spends in the cab, the more interested he becomes in why Max has seemingly wasted so much of his life. Some of his advice is irritatingly solid, yet he’s also a man who could end the conversation with a single gunshot whenever he wanted to.\nDespite the pl",
-    "extra": {
-     "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/collateral-tom-cruise.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "Пасхалка на фильм 'Соучастник' в такси\n\nКатая пассажиров за Джейсона или Люсию, можно встретить типа с пушкой в костюме, который подозрительно похож на героя Тома Круза. Имба-отсылка: довезете куда просит — получите гору крутого лута, если не решите пристрелить его раньше.",
-    "card_title": "ПАСХАЛКА С ТОМОМ КРУЗОМ В ТАКСИ",
-    "reason": "Крутая отсылка к фильму 'Соучастник' с Томом Крузом в такси, игроки уже находят пасхалку и лутают награды.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-24T02:37:48.716939+00:00"
-  },
-  {
-   "item": {
-    "title": "GTA VI The Album Deluxe: Rockstar Adds 23 Songs",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9McEhOQllDdFNrNDhKVXpMZHNCeVhnLWw0MVB6cUJZSE9SX0RJQkVrWmZJR3ZRWHV3Z0FUR0hFLV9kUkMzR2xCUUZVbjVkR0FzTzdJWlhhVHQ0eTZXUF9zRU82OA?oc=5",
-    "summary": "GTA VI The Album Deluxe: Rockstar Adds 23 Songs Kazi Magazine",
-    "published": "2026-11-24T03:39:22+00:00",
-    "source": "Google News (EN)",
-    "site_name": "Kazi Magazine",
-    "trust": "rumor",
-    "text": "GTA VI The Album Deluxe: Rockstar Adds 23 Songs Kazi Magazine",
-    "extra": {}
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "🎵 АЛЬБОМ GTA 6 НА ВЫСОТЕ\n\nRockstar завезла в делюкс-издание саундтрека еще 23 трека. Самое то под новый плейлист для вечерних покатушек по вайбовому Вайс-Сити.\n\n❤️ — Уже в репите\n👎 — Жду кастомное радио",
-    "card_title": "АЛЬБОМ GTA 6 ПОПОЛНИЛСЯ",
-    "reason": "Rockstar добавила 23 новые песни в делюкс-альбом музыки из GTA 6",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": true,
-   "since": "2026-11-24T03:40:04.718482+00:00"
-  },
-  {
-   "item": {
-    "title": "GTA V не собирается на пенсию. Онлайн игры Rockstar резко вырос после выхода GTA VI",
-    "link": "https://ixbt.games/news/2026/11/24/gta-v-ne-sobiraetsia-na-pensiiu-onlain-igry-rockstar-rezko-vyros-posle-vyxoda-gta-vi.html",
-    "summary": "Даже спустя 13 лет GTA V остаётся на коне: на волне выхода GTA VI в Steam вернулись десятки тысяч игроков, а пиковый онлайн вырос до 137 000.",
-    "published": "2026-11-24T03:44:00+00:00",
-    "source": "iXBT.games",
-    "site_name": "iXBT.games",
-    "trust": "medium",
-    "text": "Даже спустя 13 лет GTA V остаётся на коне: на волне выхода GTA VI в Steam вернулись десятки тысяч игроков, а пиковый онлайн вырос до 137 000.\nКазалось бы, с выходом Grand Theft Auto 6 предыдущая часть серии должна постепенно уступить ей место. Всё-таки GTA V уже исполнилось 13 лет. Однако реальность оказалась иной: игра Rockstar Games переживает очередной всплеск популярности на ПК. Похоже, пользователи ПК, которым пока недоступна новая часть, решили вернуться на улицы старого доброго Лос-Сантоса.\nЛучше всего это заметно по статистике Steam. Вместо ожидаемого падения интереса аудитория GTA 5, наоборот, выросла. По данным SteamDB, в последние дни пиковый одновременный онлайн игры достиг примерно 137 000 человек. Это на несколько десятков процентов больше октябрьских показателей. В день полноценного мирового запуска GTA VI интерес к «пятёрке» немного просел, однако для 13-летней игры такие результаты на фоне выхода прямого продолжения выглядят впечатляюще.\nВпрочем, GTA V давно демонстрирует силу ПК-аудитории. На протяжении последнего года игра стабильно удерживала в Steam в среднем 40 000 – 50 000 одновременных пользователей. Дополнительный интерес поддерживают регулярные скидки и огромное сообщество моддеров, благодаря которому проект практически не стареет. Похоже, консольный релиз GTA VI не нарушил привычный ритм, а лишь подогрел интерес к криминальной вселенной Rockstar.\nОстаётся вопрос, как долго пользователям ПК придётся довольствоваться старой частью. В последнее время появились оптимистичные слухи сразу из нескольких источников, знакомых с планами студии. Согласно им, GTA VI может выйти на ПК уже в первом квартале 2027 года.\nНе пропускайте наши новостиДобавьте сайт в предпочитаемые источники, чтобы видеть нас чащеДобавить в Google",
-    "extra": {
-     "image": "https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1745573/ff4d3a48-ce71-46db-ac15-65fd3c35dd0f.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "ОНЛАЙН в GTA 5 подскочил до небес\n\nПока консольщики залипают в новую часть, ПК-геймеры массово вернулись в старый добрый Лос-Сантос. Пиковый онлайн в Steam пробил отметку в 137 тысяч человек — база жива и качает.\n\n❤️ — Ждем на ПК\n👎 — Зачем возвращаться в прошлое",
-    "card_title": "ОНЛАЙН GTA 5 СНОВА РАСТЕТ",
-    "reason": "Oфициальная статистика Steam показывает рост онлайна GTA 5 после релиза шестой части",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-24T03:55:29.473151+00:00"
-  },
-  {
-   "item": {
-    "title": "GTA VI сожгла PS5 прямо во время стрима. Консоль не выдержала",
-    "link": "https://ixbt.games/news/2026/11/24/gta-vi-sozgla-ps5-priamo-vo-vremia-strima-konsol-ne-vyderzala.html",
-    "summary": "Во время стрима GTA VI у одного из игроков PS5 начала дымиться и окончательно вышла из строя, а другие владельцы консоли жалуются на перегрев и вылеты игры.",
-    "published": "2026-11-24T04:04:00+00:00",
-    "source": "iXBT.games",
-    "site_name": "iXBT.games",
-    "trust": "medium",
-    "text": "Во время стрима GTA VI у одного из игроков PS5 начала дымиться и окончательно вышла из строя, а другие владельцы консоли жалуются на перегрев и вылеты игры.\nДавно было понятно, что GTA VI выжмет из консолей нынешнего поколения практически все возможности. Новая игра стала самой технологически продвинутой разработкой для PS5 и Xbox Series X|S, однако вряд ли кто-то ожидал, что нагрузка окажется настолько серьёзной, что консоли начнут буквально дымиться. Именно такая неприятность произошла с одним из стримеров, чья PS5 сгорела прямо во время трансляции.\nПострадавшим оказался автор Twitch-канала JoJoJosiah. Во время стрима GTA VI он решил ненадолго отлучиться и поставил игру на паузу. Вернувшись в комнату, стример обнаружил, что из его PS5 валит густой дым. Обошлось без пожара в квартире и других серьёзных последствий. А вот сама консоль, похоже, окончательно вышла из строя. Расстроенный владелец признал, что восстановить устройство уже не получится, поэтому придётся покупать новую консоль.\nХотя дымящаяся на глазах зрителей консоль – крайний случай, это не единственная жалоба на работу GTA VI. Другие владельцы PS5 всё чаще сообщают о зависаниях игры и предупреждениях о перегреве. По некоторым сообщениям, нагрузка на комплектующие настолько велика, что внутренняя температура консоли достигает 100 градусов. В результате игра или устройство принудительно выключается.\nWas playing gta VI on stream but had to go poop. Paused it and put on a sensory vid for my chat PS5 started just smoking out its ass and now i need to get a replacement 😀\nУ подавляющего большинства игроков никаких проблем с температурой нет. Скорее всего, игра выступает своеобразным стресс-тестом: если у PS5 уже была скрытая неисправность или годами работала с забитой пылью системой охлаждения, повышенная нагрузка могла окончательно вывести её из строя.\nНе пропускайте наши новостиДобавьте сайт в предпочитаемые источники, чтобы видеть нас чащеДобавить в Google",
-    "extra": {
-     "image": "https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1745579/42d59e85-b30e-4d9f-bc12-5d0a05ef1576.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "🔥 У стримера СГОРЕЛА PS5 прямо во время игры в GTA 6\n\nКонсоль не выдержала лютых нагрузок и начала дымиться на трансляции, пока автор отошел. Походу, игра работает как жестокий стресс-тест для запыленного железа.\n\n❤️ — Чистил консоль\n👎 — Ждем патч на огнетушители",
-    "card_title": "GTA 6 СОЖГЛА PS5",
-    "reason": "Стримеру спалила консоль GTA 6, громкий хайповый случай с перегревом железа.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-24T04:10:57.893791+00:00"
-  }
- ]
+ "rewrite_wait": []
 }
