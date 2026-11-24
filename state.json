@@ -3711,7 +3711,12 @@
   "05af7612eb00756d": "2026-11-24T17:56:33.652777+00:00",
   "6f3c1bd28a55657e": "2026-11-24T17:56:33.652862+00:00",
   "215891f2450ed8f2": "2026-11-24T17:57:36.026794+00:00",
-  "899427e03f2285a6": "2026-11-24T17:57:36.893899+00:00"
+  "899427e03f2285a6": "2026-11-24T17:57:36.893899+00:00",
+  "a1a976c1ad094a6f": "2026-11-24T18:13:25.335716+00:00",
+  "36ba12d4283aa209": "2026-11-24T18:14:20.934919+00:00",
+  "3aaf0b83e87b32bb": "2026-11-24T18:14:21.819773+00:00",
+  "e5696dc33ac5c05f": "2026-11-24T18:14:22.451175+00:00",
+  "4bcd8de3be4d9086": "2026-11-24T18:14:23.164678+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -6209,7 +6214,8 @@
   "ba876a67aa6e5076": "2026-11-24T17:37:36.731254+00:00",
   "02518a2e753872f4": "2026-11-24T17:38:11.575789+00:00",
   "8c39284410ffebfc": "2026-11-24T17:56:33.652777+00:00",
-  "01ce4f3f94c6fa85": "2026-11-24T17:56:33.652862+00:00"
+  "01ce4f3f94c6fa85": "2026-11-24T17:56:33.652862+00:00",
+  "ef39806a88bf6392": "2026-11-24T18:13:25.335716+00:00"
  },
  "recent": [
   {
@@ -15475,6 +15481,14 @@
    "status": "dup",
    "ts": "2026-11-24T17:56:33.652902+00:00",
    "card_title": ""
+  },
+  {
+   "title": "Chatting With People In GTA Online About Why They’re Not Playing GTA 6: “$80 Is Too Much For Me, Bro”",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-24T18:13:25.335782+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -15597,8 +15611,9 @@
     "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
    },
    "queued_at": "2026-11-24T16:08:02.887282+00:00",
-   "moderation": "pending",
-   "draft_msg_id": 134
+   "moderation": "approved",
+   "draft_msg_id": 134,
+   "waiting_logged": true
   },
   {
    "item": {
@@ -15661,9 +15676,10 @@
   "2026-11-24T12:31:54.928944+00:00",
   "2026-11-24T12:47:46.729770+00:00",
   "2026-11-24T14:14:50.960346+00:00",
-  "2026-11-24T14:30:57.057953+00:00"
+  "2026-11-24T14:30:57.057953+00:00",
+  "2026-11-24T18:12:15.901707+00:00"
  ],
- "tg_offset": 387129084,
+ "tg_offset": 387129086,
  "channel": {
   "id": -1003986639147,
   "title": "GTA 6 | Горячие новости",
@@ -15865,36 +15881,6 @@
    "file_id": "BAACAgIAAxkDAAOCawV3P2aj7Z1UmBAv-WeHK3es-7YAAl2sAAKTDTFISK7mmhGPw4o9BA",
    "moderation": "pending",
    "draft_msg_id": 130
-  },
-  {
-   "clip": {
-    "source": "twitch",
-    "url": "https://www.twitch.tv/cinna/clip/FunnyLaconicMooseTriHard-cgT-muBYSEUJm0u7",
-    "title": "Not Even Hiding It Anymore",
-    "author": "Cinna",
-    "views": 394,
-    "duration": 57.7,
-    "created": "2026-11-23T23:30:15+00:00",
-    "lang": "en",
-    "description": "",
-    "vod_id": "2938693218",
-    "vod_offset": 9924.0
-   },
-   "caption": "🔞 В GTA 6 завезли интерактивную мини-игру в душе — и стримерша словила тильт, не понимая, куда смотреть 💀",
-   "interest": 8,
-   "spoiler": false,
-   "nsfw": true,
-   "watched": true,
-   "model": "gemini:gemini-3.5-flash",
-   "media": {
-    "width": null,
-    "height": 720,
-    "duration": 57
-   },
-   "queued_at": "2026-11-24T16:12:52.497495+00:00",
-   "file_id": "BAACAgIAAxkDAAOHawW3hSMWz-urSvoxLNA-86oC5d4AAtKvAAKTDTFIOLm15ghVi2Y9BA",
-   "moderation": "pending",
-   "draft_msg_id": 135
   }
  ],
  "clip_drafts": [
@@ -22952,6 +22938,42 @@
    "drafted": false,
    "ts": "2026-11-24T17:57:36.893938+00:00",
    "frames": []
+  },
+  {
+   "author": "twitch:adm1tr1pow",
+   "vod": "2939481639",
+   "offset": 2737.0,
+   "title": "в салоне чисто",
+   "drafted": false,
+   "ts": "2026-11-24T18:14:20.934969+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:staryuuki",
+   "vod": "2938941728",
+   "offset": 12887.0,
+   "title": "SE SORPRENDE CON MANDY",
+   "drafted": false,
+   "ts": "2026-11-24T18:14:21.819815+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:alanzoka",
+   "vod": "2938467977",
+   "offset": 19292.0,
+   "title": "LUCIA TA BOLADA",
+   "drafted": false,
+   "ts": "2026-11-24T18:14:22.451218+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:syndicate",
+   "vod": "2938643974",
+   "offset": 3758.0,
+   "title": "🚨GTA 6 100% COMPLETED - TIME FOR FUN!🚨",
+   "drafted": false,
+   "ts": "2026-11-24T18:14:23.164730+00:00",
+   "frames": []
   }
  ],
  "published": [
@@ -23339,6 +23361,13 @@
    "title": "Как вытащить ATM на лебёдке и схватить кэш 💰",
    "importance": 8,
    "kind": "confirmed"
+  },
+  {
+   "ts": "2026-11-24T18:12:15.901730+00:00",
+   "msg_id": 85,
+   "title": "В GTA 6 завезли интерактивную мини-игру в душе — и стримерша словила тильт, не понимая, к…",
+   "importance": 8,
+   "kind": "video"
   }
  ],
  "extras": [],
