@@ -3439,7 +3439,15 @@
   "5834fdbbc077dc41": "2026-11-24T09:20:03.130632+00:00",
   "b916eddd0663d79a": "2026-11-24T09:20:12.827127+00:00",
   "49a2e3e87160232f": "2026-11-24T09:20:17.568494+00:00",
-  "39ea5623f54b981d": "2026-11-24T09:20:23.824494+00:00"
+  "39ea5623f54b981d": "2026-11-24T09:20:23.824494+00:00",
+  "10f973663816e816": "2026-11-24T09:25:30.217582+00:00",
+  "715cad47ac24e2bf": "2026-11-24T09:25:31.127338+00:00",
+  "29be60903c05eabd": "2026-11-24T09:25:31.926518+00:00",
+  "59af9170fd0a9f4d": "2026-11-24T09:25:32.761464+00:00",
+  "f76c5ad30ef4d024": "2026-11-24T09:26:23.644497+00:00",
+  "37343f25fdfbce5a": "2026-11-24T09:26:57.545723+00:00",
+  "cc6bebd987b84e0a": "2026-11-24T09:27:56.493892+00:00",
+  "fdf275468fe1c6e0": "2026-11-24T09:37:11.081293+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -5793,7 +5801,8 @@
   "1624f903338e6012": "2026-11-24T09:20:03.130632+00:00",
   "719086e0fefae999": "2026-11-24T09:20:12.827127+00:00",
   "93a5a38d5de9a3a4": "2026-11-24T09:20:17.568494+00:00",
-  "92374559ccc6c60b": "2026-11-24T09:20:23.824494+00:00"
+  "92374559ccc6c60b": "2026-11-24T09:20:23.824494+00:00",
+  "85b1e9cf57568cb8": "2026-11-24T09:37:11.081293+00:00"
  },
  "recent": [
   {
@@ -14643,6 +14652,14 @@
    "status": "skipped",
    "ts": "2026-11-24T09:20:23.824618+00:00",
    "card_title": ""
+  },
+  {
+   "title": "The Australian and New Zealand Version of GTA 6 Really Is Censored After All",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "queued",
+   "ts": "2026-11-24T09:41:52.601891+00:00",
+   "card_title": "ЦЕНЗУРА В GTA 6"
   }
  ],
  "queue": [
@@ -15143,6 +15160,35 @@
   },
   {
    "item": {
+    "title": "The Australian and New Zealand Version of GTA 6 Really Is Censored After All",
+    "link": "https://www.gtaboom.com/the-australian-and-new-zealand-version-of-gta-6-really-is-censored-after-all-f418",
+    "summary": "The Australian and New Zealand version of Grand Theft Auto VI dropped one of the game's small mechanics.",
+    "published": "2026-11-24T09:25:03+00:00",
+    "source": "GTA BOOM",
+    "site_name": "GTA BOOM",
+    "trust": "medium",
+    "text": "The Australian and New Zealand version of Grand Theft Auto VI dropped one of the game's small mechanics. Players there cannot skim cocaine from the bricks in their inventory to make baggies, carry them around and consume them for a stamina boost. The option the rest of the world has is simply gone from the AU and NZ build.\nThe loss is minor on its own. A baggie buff is one of many ways to top up stamina in GTA 6, so players in Australia or New Zealand won't miss much especially when they don't know that it's an actual feature. Despite this, the missing mechanic surfaced fast as soon as the game went live on November 19.\nRunning multiple playthroughs across the world, we personally tested it as soon as the game opened and we got our hands on a cocaine brick. Unfortunately, some of us playing in New Zealand mentioned that the skim option was absent. True enough, players on the r/GTA6 subreddit running the AU build and modder and dataminer Lance McDonald confirmed the baggies and the whole skimming feature are stripped from the regional release.\nTo be fair, the signs were there before launch. The AU and NZ preload files ran about 700 KB smaller than the US version, missing a specific PlayGo data chunk, core_restofworld001, tied to story and minigame elements.\nInterestingly enough, the Australian Classification Board handed the submitted build an R 18+ without asking for a single cut, consistent with Rockstar Games having removed the mechanic before submission. Back in September the X 18+ label slapped on Australia's listing looked almost certainly like a mistake, since that rating does not exist for games. The real question was whether the final call would be R 18+ or MA 15+.\nNone of this is a surprise for a region that polices drug incentives harder than most. Australia has knocked back games before over rewards tied to illicit drug use, so a stamina boost you earn by cutting cocaine was always going to be a risk. The cocaine use flagged in the pulled PEGI listing was one of the first hard signs of how far GTA 6 would push its drug content and it was later confirmed.\nSimilar regional edits also showed up in Japan, where the build censored showers, nudity and blood in ways the West never saw.\nThe AU and NZ cut slots into a launch defined by regional difference. South Korea came within an inch of banning the game over nudity and tte real ban map turned out far smaller than the panic suggested. The game still shipped to massive critical acclaim and nominations ",
+    "extra": {
+     "image": "https://media.gtaboom.com/variants/1920/media/images/43/c6/the-australian-and-new-zealand-version-of-gta-6-really-is-censored-after-all-1.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "🇦🇺 В Австралии ВЫРЕЗАЛИ кокаин из GTA 6\n\nВ версии для Австралии и Новой Зеландии нельзя отсыпать стафф из брикетов ради баффа выносливости. Rockstar заранее подрезала механику, чтобы пройти местную душную цензуру. Весь остальной мир спокойно юзает буст, а австралийцы сидят в тильте. Рил кринж.\n\n❤️ — Цензура это бред\n👎 — Пофиг, баффаемся пивом",
+    "card_title": "ЦЕНЗУРА В GTA 6",
+    "reason": "Официально подтвержденная региональная цензура механики в игре.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.1-flash-lite → gemini:gemini-3.5-flash"
+   },
+   "queued_at": "2026-11-24T09:41:52.601880+00:00"
+  },
+  {
+   "item": {
     "title": "Автор проекта Leonida по портированию GTA 6 на ПК покинул разработку, испугавшись юридических претензий со стороны издателя",
     "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOcUtJa0lhQ3Z6aS01bWI3QUUxdXltX05mQl9yT2YyTzlYalA5OGU4LXFTejFGanlNX19wa2MxVENoTDdlNU5PQUhEMjNWejJ3R2tWNFB2em9jQjZsZmNCTzc4eFNJT3I4eE5XeFVMNm14SnpmRHZiY2VTdWpPeTAyZzItVHVTS0dTZkxROXRwMk82Xy01Tm1pUHJwbjFubEZ1THVKNmMzX1RLLWg0LWExSlN0RHd0Tnp6SmdhR2U2OWt1Qlhsel9BVkJNZV94aEhIaXZvY2JnWGV4bFc1bjViQ2plR1BiRkM0?oc=5",
     "summary": "Автор проекта Leonida по портированию GTA 6 на ПК покинул разработку, испугавшись юридических претензий со стороны издателя GoHa.Ru",
@@ -15260,36 +15306,6 @@
   {
    "clip": {
     "source": "twitch",
-    "url": "https://www.twitch.tv/bratishkinoff/clip/NimbleBreakableSashimiOSkomodo-U2N2CyddVjE3-F1y",
-    "title": "Багоюз года WW",
-    "author": "bratishkinOFF",
-    "views": 921,
-    "duration": 38.0,
-    "created": "2026-11-22T23:30:29+00:00",
-    "lang": "ru",
-    "description": "",
-    "vod_id": "2937199120",
-    "vod_offset": 43396.0
-   },
-   "caption": "Чел пролез сквозь щель в гараже, чтобы угонить тачку за 12k$, и всё сработало 💀 Багоюз года, рил база!",
-   "interest": 8,
-   "spoiler": false,
-   "nsfw": false,
-   "watched": true,
-   "model": "gemini:gemini-3.5-flash",
-   "media": {
-    "width": null,
-    "height": 720,
-    "duration": 38
-   },
-   "queued_at": "2026-11-23T09:24:27.343193+00:00",
-   "file_id": "BAACAgIAAxkDAANlawQGTa91m63mSO2vuBOu-j8-XI0AAieyAAKTDSFIapcO_xP4krI9BA",
-   "moderation": "pending",
-   "draft_msg_id": 101
-  },
-  {
-   "clip": {
-    "source": "twitch",
     "url": "https://www.twitch.tv/steel/clip/PlainExpensiveFinchTBCheesePull-MSUiadv4EFZdyp2N",
     "title": "ФИНАЛ ГТА",
     "author": "steel",
@@ -15376,6 +15392,36 @@
    "file_id": "BAACAgIAAxkDAAN8awVJ1PMlBvXOQBABFDubQO3r-NsAAkeqAAKTDTFIWEGoBDsYmmA9BA",
    "moderation": "pending",
    "draft_msg_id": 124
+  },
+  {
+   "clip": {
+    "source": "twitch",
+    "url": "https://www.twitch.tv/ohnepixel/clip/CredulousConcernedDuckAliens-KXzr7E3q5t55CkrC",
+    "title": "WE CANT BE DEADASS",
+    "author": "ohnePixel",
+    "views": 1586,
+    "duration": 39.8,
+    "created": "2026-11-23T15:53:12+00:00",
+    "lang": "en",
+    "description": "",
+    "vod_id": "2938342600",
+    "vod_offset": 8040.0
+   },
+   "caption": "Тачка застряла на камнях прямо над водой, но Лусия не паникует — просто достала смартфон и починила её через приложение Scooter Bros 💀 Удобно завезли!",
+   "interest": 8,
+   "spoiler": false,
+   "nsfw": false,
+   "watched": true,
+   "model": "gemini:gemini-3.5-flash",
+   "media": {
+    "width": null,
+    "height": 720,
+    "duration": 39
+   },
+   "queued_at": "2026-11-24T09:28:34.013161+00:00",
+   "file_id": "BAACAgIAAxkDAAN-awVYw5k7kLYwQiT3ZhZpbUXYMnsAAuKqAAKTDTFIQXVcu0XOlB09BA",
+   "moderation": "pending",
+   "draft_msg_id": 126
   }
  ],
  "clip_drafts": [
@@ -15397,7 +15443,8 @@
   "2026-11-23T20:17:12.002269+00:00",
   "2026-11-23T21:20:57.697562+00:00",
   "2026-11-24T07:09:52.275827+00:00",
-  "2026-11-24T08:24:52.738621+00:00"
+  "2026-11-24T08:24:52.738621+00:00",
+  "2026-11-24T09:28:35.874072+00:00"
  ],
  "clip_history": [
   {
@@ -21612,6 +21659,75 @@
    "ts": "2026-11-24T08:24:52.738638+00:00",
    "frames": [],
    "caption": "Полет Лусии с байка — это просто ЛЮТЫЙ разнос. Физика в GTA 6 реально имба, такого приземления я еще не видел 💀"
+  },
+  {
+   "author": "youtube:jamerjame",
+   "vod": "",
+   "offset": -1,
+   "title": "Michael Is Not Impressed With GTA 6 😭 #gta6 #gta5",
+   "drafted": false,
+   "ts": "2026-11-24T09:25:30.217620+00:00"
+  },
+  {
+   "author": "youtube:heisty",
+   "vod": "",
+   "offset": -1,
+   "title": "When GTA 6 drops but you only have a PC 😭✌ - PC vs Console | Montagem Valkaro | #gta6 #memes #edit",
+   "drafted": false,
+   "ts": "2026-11-24T09:25:31.127386+00:00"
+  },
+  {
+   "author": "youtube:aben",
+   "vod": "",
+   "offset": -1,
+   "title": "KÊNH NÀY CHỈ CHƠI GTA6...",
+   "drafted": false,
+   "ts": "2026-11-24T09:25:31.926553+00:00"
+  },
+  {
+   "author": "youtube:redeye.mp4",
+   "vod": "",
+   "offset": -1,
+   "title": "Я НАШЕЛ СЕКРЕТНЫЙ БУНКЕР И ТАНК В GTA 6! #gta6 #gta",
+   "drafted": false,
+   "ts": "2026-11-24T09:25:32.761509+00:00"
+  },
+  {
+   "author": "twitch:baupenner",
+   "vod": "2938192582",
+   "offset": 32324.0,
+   "title": "Entsorge den Helikopter 🤣🤣",
+   "drafted": false,
+   "ts": "2026-11-24T09:26:23.644548+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:rubius",
+   "vod": "2938666621",
+   "offset": 10134.0,
+   "title": "El compras",
+   "drafted": false,
+   "ts": "2026-11-24T09:26:57.545772+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:ohnepixel",
+   "vod": "2938342600",
+   "offset": 8040.0,
+   "title": "WE CANT BE DEADASS",
+   "drafted": false,
+   "ts": "2026-11-24T09:27:56.493943+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:ohnepixel",
+   "vod": "2938342600",
+   "offset": 8040.0,
+   "title": "WE CANT BE DEADASS",
+   "drafted": true,
+   "ts": "2026-11-24T09:28:35.874092+00:00",
+   "frames": [],
+   "caption": "Тачка застряла на камнях прямо над водой, но Лусия не паникует — просто достала смартфон и починила её через приложение "
   }
  ],
  "published": [
