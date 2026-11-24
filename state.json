@@ -3637,7 +3637,17 @@
   "b8b548c1eee3be7d": "2026-11-24T15:20:08.007174+00:00",
   "ea4cffa6c82de4b6": "2026-11-24T15:20:08.783849+00:00",
   "fcfcedb5338a5fea": "2026-11-24T15:20:09.510779+00:00",
-  "53f8627e34fee60e": "2026-11-24T15:20:10.090867+00:00"
+  "53f8627e34fee60e": "2026-11-24T15:20:10.090867+00:00",
+  "4234fe950ad583b4": "2026-11-24T15:35:27.738504+00:00",
+  "4facda17318e9f09": "2026-11-24T15:35:27.738570+00:00",
+  "7c2f3bd38263d39d": "2026-11-24T15:35:27.753245+00:00",
+  "a5a5cb5d32809c37": "2026-11-24T15:35:27.982600+00:00",
+  "5d5abbbc7c3d8332": "2026-11-24T15:35:27.984619+00:00",
+  "bd9210e72310bf7d": "2026-11-24T15:36:16.294049+00:00",
+  "088c16c312183228": "2026-11-24T15:36:23.966994+00:00",
+  "d59cdcb620ea1344": "2026-11-24T15:36:24.851332+00:00",
+  "0816b1560d4c0d07": "2026-11-24T15:51:43.705712+00:00",
+  "f6de003524f057b2": "2026-11-24T15:52:22.568133+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -6091,7 +6101,14 @@
   "6017bdc62cd9b36a": "2026-11-24T14:46:11.246697+00:00",
   "aceb810319c5ba4b": "2026-11-24T15:01:58.264164+00:00",
   "384b2475fcdbf0bf": "2026-11-24T15:18:09.703030+00:00",
-  "0c7ddbf30c043532": "2026-11-24T15:18:09.932284+00:00"
+  "0c7ddbf30c043532": "2026-11-24T15:18:09.932284+00:00",
+  "4b9c63ae3e535d65": "2026-11-24T15:35:27.738504+00:00",
+  "0d23de4c81633055": "2026-11-24T15:35:27.738570+00:00",
+  "41d7195767185ec6": "2026-11-24T15:35:27.753245+00:00",
+  "486002af45e41ca0": "2026-11-24T15:35:27.982600+00:00",
+  "a45e44044aecedf1": "2026-11-24T15:35:27.984619+00:00",
+  "770c7b8246a9eaf8": "2026-11-24T15:36:16.294049+00:00",
+  "917bcc92079fa1a7": "2026-11-24T15:51:43.705712+00:00"
  },
  "recent": [
   {
@@ -15029,6 +15046,62 @@
    "status": "dup",
    "ts": "2026-11-24T15:18:09.932355+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GTA 6 Has Second Biggest Retail Launch in French History With Over 1 Million Sold",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-24T15:35:27.738547+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "The Secret Controls GTA 6 Doesn't Tell You About",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-24T15:35:27.738589+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Is PlayStation’s Biggest Launch Of All Time, With Over 39 Million Players",
+   "source": "Kotaku",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-24T15:35:27.753277+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 is “The Great Pyramids of Game Development”, Says Naughty Dog Director",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-24T15:35:27.982671+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "The Best TV Show Easter Eggs In GTA 6 (So Far)",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-24T15:35:27.984651+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Rockstar is reportedly interested in a Red Dead Redemption film or TV show",
+   "source": "VGC",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-24T15:36:16.294169+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Comparison Reveals Two Advantages Of Xbox Series X Over PS5",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-24T15:51:43.705762+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -22217,6 +22290,33 @@
    "title": "Voiture sur le toit",
    "drafted": false,
    "ts": "2026-11-24T15:20:10.090914+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:zloyn",
+   "vod": "2938763812",
+   "offset": 5425.0,
+   "title": "авхаах",
+   "drafted": false,
+   "ts": "2026-11-24T15:36:23.967030+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:missmikkaa",
+   "vod": "2938373303",
+   "offset": 30188.0,
+   "title": "Behold, the perfect car!",
+   "drafted": false,
+   "ts": "2026-11-24T15:36:24.851382+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:西南69",
+   "vod": "2938233418",
+   "offset": 25388.0,
+   "title": "西南教你怎麼教訓機車猴",
+   "drafted": false,
+   "ts": "2026-11-24T15:52:22.568173+00:00",
    "frames": []
   }
  ],
