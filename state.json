@@ -3901,7 +3901,25 @@
   "8f178b8ae85a1059": "2026-11-24T22:25:48.983095+00:00",
   "e6cd33da2a2b157b": "2026-11-24T22:25:50.388933+00:00",
   "00d83739e3df86df": "2026-11-24T22:25:52.547455+00:00",
-  "25f23d39ae4ac4d3": "2026-11-24T22:25:53.981951+00:00"
+  "25f23d39ae4ac4d3": "2026-11-24T22:25:53.981951+00:00",
+  "4f884410a3b7e59e": "2026-11-24T22:41:11.201313+00:00",
+  "63ea57b017621af2": "2026-11-24T22:41:12.941781+00:00",
+  "142a44fe0456c71d": "2026-11-24T22:41:14.037202+00:00",
+  "7dad00f77476f26b": "2026-11-24T22:41:15.076276+00:00",
+  "4724685843cc1d55": "2026-11-24T22:41:16.785835+00:00",
+  "4da9c36c2452c418": "2026-11-24T22:41:18.164935+00:00",
+  "946f853ba242b4c2": "2026-11-24T22:41:24.646841+00:00",
+  "3b4c3c4e5c0be131": "2026-11-24T22:41:26.616015+00:00",
+  "d9432f3d4d3db23e": "2026-11-24T22:41:33.566668+00:00",
+  "c3216227ce4907cd": "2026-11-24T22:56:50.537025+00:00",
+  "fe6b3af9256aaa1e": "2026-11-24T22:56:52.343665+00:00",
+  "9d31ed31c510d2f4": "2026-11-24T22:56:53.522055+00:00",
+  "2ce193883f12fd6f": "2026-11-24T22:56:54.674814+00:00",
+  "647aaa69366f4258": "2026-11-24T22:56:55.698056+00:00",
+  "5f069c9fa42358ff": "2026-11-24T22:56:56.894178+00:00",
+  "140b75b3d394fdbd": "2026-11-24T22:56:58.287066+00:00",
+  "b94e4c7aadaa6806": "2026-11-24T22:56:59.403315+00:00",
+  "2ff2c3fa5bbd27ac": "2026-11-24T22:57:00.441428+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -6520,7 +6538,25 @@
   "dfea6187a572e56c": "2026-11-24T22:25:48.983095+00:00",
   "c2bc48f2865e2bf2": "2026-11-24T22:25:50.388933+00:00",
   "ae9f6120a9207344": "2026-11-24T22:25:52.547455+00:00",
-  "638ebd92a18552bc": "2026-11-24T22:25:53.981951+00:00"
+  "638ebd92a18552bc": "2026-11-24T22:25:53.981951+00:00",
+  "c12cece726ae5b14": "2026-11-24T22:41:11.201313+00:00",
+  "e37d357ec13ec6cd": "2026-11-24T22:41:12.941781+00:00",
+  "26263805b3a32e5f": "2026-11-24T22:41:14.037202+00:00",
+  "b8c635119fd41f62": "2026-11-24T22:41:15.076276+00:00",
+  "c3d2a3a4283d90dc": "2026-11-24T22:41:16.785835+00:00",
+  "7a81a87c4286b397": "2026-11-24T22:41:18.164935+00:00",
+  "a9bffce826b0b8b0": "2026-11-24T22:41:24.646841+00:00",
+  "c20308653bacfd33": "2026-11-24T22:41:26.616015+00:00",
+  "17eb99627ea772cc": "2026-11-24T22:41:33.566668+00:00",
+  "317e40bdf29c7c06": "2026-11-24T22:56:50.537025+00:00",
+  "bc1854c1d6d56774": "2026-11-24T22:56:52.343665+00:00",
+  "29c175f427445b1d": "2026-11-24T22:56:53.522055+00:00",
+  "80932721631c8be7": "2026-11-24T22:56:54.674814+00:00",
+  "acdc5c844bf4409c": "2026-11-24T22:56:55.698056+00:00",
+  "d284522360fb57e0": "2026-11-24T22:56:56.894178+00:00",
+  "27efa67054a149ea": "2026-11-24T22:56:58.287066+00:00",
+  "91d753423895a5fd": "2026-11-24T22:56:59.403315+00:00",
+  "4671df3c72452a64": "2026-11-24T22:57:00.441428+00:00"
  },
  "recent": [
   {
@@ -15425,6 +15461,150 @@
    "trust": "rumor",
    "status": "skipped",
    "ts": "2026-11-24T22:25:53.982087+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to flip your car in GTA 6",
+   "source": "Polygon",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-24T22:41:11.201348+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Pushing The Witcher 4 to Improve “Every Possible Facet” of The Witcher 3",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T22:41:12.941919+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Easter Egg Has One NPC Work Out The Game’s Biggest Secret",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T22:41:14.037344+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Премьера Греции захейтили за шутку про GTA 6 для внуков",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T22:41:15.076402+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Where to find books, little libraries, and the book club in GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T22:41:16.785972+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 cloud streaming hits PS5 and PlayStation Portal, sparing your hard drive a 212GB install",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T22:41:18.165078+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Here's where you can steal the Ocelot Bloodless Jugular for Randy in GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T22:41:25.363108+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Desperate Gamers Are Trying Bring GTA 6 To PCs And Break Free Of Its 30 Fps Cap",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T22:41:26.616146+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI Has Wild Monkeys. The Real Florida Has Them Too — and There's a Bizarre Story Behind Them",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T22:41:33.566800+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Runs Better On Xbox Series X Than Base PS5",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "dup",
+   "ts": "2026-11-24T22:56:50.537060+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Chapter 1 Is Hooking Players So Much With Its Slice of Life Content That They Aren't Even Doing Any Crime",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T22:56:52.343803+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Forget GTA 6, Rockstar’s Best Open-World Game Movie Adaptation Reportedly in Works for $100M+",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T22:56:53.522189+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "‘GTA 6’ Fans Will Soon Be Able to Collect Real-Life Versions of the Game’s Trading Cards—And Some Are One of a Kind",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T22:56:54.674950+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Richmond’s Bunny Machine on Keeping Her GTA 6 Secret",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T22:56:55.698182+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "A Month In, and I Thought I'd Seen All of GTA 6. I Was So Wrong",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T22:56:56.894304+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Трафик Pornhub резко упал в день выхода GTA 6",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T22:56:58.287188+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Photo/Shoot mission guide: helicopter photos, a car chase and Dre’Quan’s rescue",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T22:56:59.403449+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "To run GTA 6 on PC via Project Victory, you will need at least an RTX 2080 Ti or RX 6700 XT.",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T22:57:00.441567+00:00",
    "card_title": ""
   }
  ],
