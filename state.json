@@ -3529,7 +3529,21 @@
   "166e4b457514b2d9": "2026-11-24T11:45:34.877926+00:00",
   "90aeca2570154ef0": "2026-11-24T11:45:44.676445+00:00",
   "c95410f0eea52280": "2026-11-24T11:46:10.245128+00:00",
-  "cce248a25af31e74": "2026-11-24T11:46:49.802327+00:00"
+  "cce248a25af31e74": "2026-11-24T11:46:49.802327+00:00",
+  "4addd23561b05c4c": "2026-11-24T12:02:13.813076+00:00",
+  "cb03719704e649d2": "2026-11-24T12:02:13.926599+00:00",
+  "651c1a06b092c518": "2026-11-24T12:02:37.718358+00:00",
+  "24c266a8d49ae389": "2026-11-24T12:02:44.281433+00:00",
+  "6890bc8dac9f0488": "2026-11-24T12:03:15.823798+00:00",
+  "1595bdae3966e85b": "2026-11-24T12:03:28.267581+00:00",
+  "fd04b8d53dc0233c": "2026-11-24T12:03:47.652387+00:00",
+  "33baf88c203e319f": "2026-11-24T12:03:48.792661+00:00",
+  "705cff10215402f5": "2026-11-24T12:03:49.837355+00:00",
+  "8c82726d778adba8": "2026-11-24T12:03:50.829839+00:00",
+  "66d8c9c4f2a172d1": "2026-11-24T12:20:17.031392+00:00",
+  "cdeee89a8402437f": "2026-11-24T12:20:18.623903+00:00",
+  "b66d1060b65d4800": "2026-11-24T12:20:28.543026+00:00",
+  "7d61944f83816f1a": "2026-11-24T12:20:43.095898+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -5943,7 +5957,21 @@
   "ba7cc7603b78b50a": "2026-11-24T11:45:34.877926+00:00",
   "df01ac4c081c987a": "2026-11-24T11:45:44.676445+00:00",
   "ff1ef85eed74e9cd": "2026-11-24T11:46:10.245128+00:00",
-  "dd525cc2543b6367": "2026-11-24T11:46:49.802327+00:00"
+  "dd525cc2543b6367": "2026-11-24T11:46:49.802327+00:00",
+  "c2e3fdaae04d19fe": "2026-11-24T12:02:13.813076+00:00",
+  "4e52193d1d754880": "2026-11-24T12:02:13.926599+00:00",
+  "28541e2984e826b8": "2026-11-24T12:02:37.718358+00:00",
+  "f3a80393f279f482": "2026-11-24T12:02:44.281433+00:00",
+  "5965d63547ed9522": "2026-11-24T12:03:15.823798+00:00",
+  "f2ff094092f0a09a": "2026-11-24T12:03:28.267581+00:00",
+  "6c1e173ae8a869a0": "2026-11-24T12:03:47.652387+00:00",
+  "4a4ea1a2cf1d7d0b": "2026-11-24T12:03:48.792661+00:00",
+  "a19edfd2f84e2462": "2026-11-24T12:03:49.837355+00:00",
+  "92386ecb813e6251": "2026-11-24T12:03:50.829839+00:00",
+  "d04dbe45fbd2ac01": "2026-11-24T12:20:17.031392+00:00",
+  "cc0857c580180f20": "2026-11-24T12:20:18.623903+00:00",
+  "46189483d395393e": "2026-11-24T12:20:28.543026+00:00",
+  "d659d185a3d29b8d": "2026-11-24T12:20:43.095898+00:00"
  },
  "recent": [
   {
@@ -15281,6 +15309,102 @@
    "status": "skipped",
    "ts": "2026-11-24T11:46:49.802473+00:00",
    "card_title": ""
+  },
+  {
+   "title": "Why is GTA 6 Getting Review Bombed?",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-24T12:02:13.813155+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 was the \"biggest launch in PlayStation history\", with the highest number of concurrent players ever",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-24T12:02:13.926685+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Rockstar has \"been an awesome partner\" for the Max Payne 1 and 2 remakes, says Remedy CEO",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-24T12:02:37.718491+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Rockstar is actively shopping Read Dead Redemption movie and TV rights around, just don't expect the same for Grand Theft Auto",
+   "source": "Eurogamer",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-24T12:03:13.802671+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Хакера осудили на семь лет за слив GTA 6, но сразу освободили",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T12:03:47.652545+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 можно будет запустить на ПК самостоятельно: хакеры Cyberleek слили файл игры",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T12:03:48.792796+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "A $2,000 PC with a Ryzen 7 9700X and RTX 5070 could run GTA 6 at 1440p and 60 FPS",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T12:03:49.837488+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Sony кинула игроков с возвратом GTA 6: предзагрузка считается за время владения игрой и ее активации",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T12:03:50.829982+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "All GTA 6 first update patch notes",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-24T12:20:17.031510+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Mandy Actor Calls Viral Fame 'Bittersweet' Because People Keep Pretending to Be Her on Social Media",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T12:20:18.624037+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How Long Is Chapter 4 in GTA 6? All Missables and Mission List",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T12:20:28.543172+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "CD Projekt RED говорят об отмене сиквела Cyberpunk 2077 после релиза GTA 6",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T12:20:43.096029+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -15634,7 +15758,9 @@
     "guide": false,
     "model": "groq:qwen/qwen3.8-27b → gemini:gemini-3.5-flash"
    },
-   "queued_at": "2026-11-24T11:27:45.104122+00:00"
+   "queued_at": "2026-11-24T11:27:45.104122+00:00",
+   "moderation": "pending",
+   "draft_msg_id": 131
   },
   {
    "item": {
@@ -15744,7 +15870,8 @@
   "2026-11-24T08:03:13.983642+00:00",
   "2026-11-24T09:04:41.289540+00:00",
   "2026-11-24T10:05:15.058615+00:00",
-  "2026-11-24T11:05:40.560573+00:00"
+  "2026-11-24T11:05:40.560573+00:00",
+  "2026-11-24T12:06:30.409601+00:00"
  ],
  "slots_sent": {
   "2026-11-22:guide:1": "2026-11-22T08:01:32.386719+00:00",
@@ -22815,5 +22942,66 @@
   "digest-20261122": "2026-11-22T19:31:01.015194+00:00",
   "digest-20261123": "2026-11-23T19:30:46.041576+00:00"
  },
- "rewrite_wait": []
+ "rewrite_wait": [
+  {
+   "item": {
+    "title": "GTA 6 players are already starting to get very good at heists, despite all the new challenges Rockstar has added to the game",
+    "link": "https://www.eurogamer.net/gta-6-players-getting-very-good-at-heists-despite-challenges",
+    "summary": "Grand Theft Auto 6 has been out for a little while now, and already players are showing off their skills when it comes to the game's many heists. Despite the challenges in getting away clean, some are proving it's possible. Read more",
+    "published": "2026-11-24T11:47:40+00:00",
+    "source": "Eurogamer",
+    "site_name": "Eurogamer",
+    "trust": "high",
+    "text": "Grand Theft Auto 6 has been out for a little while now, and already players are showing off their skills when it comes to the game's many heists. Despite the challenges in getting away clean, some are proving it's possible.\nFor one, sneaking into a bank while the vault is open and stuffing your bags full of marked bills is a tricky process of gradually making your way through rooms and taking out guards as quietly as possible. While the police in the clip below were called to an eventual breakout of violence, a lengthy getaway allowed for a cheeky payday of almost $100,000 in cash.\nThis crew really cracked a whole bank vault and walked out with almost $100K in GTA 6 💰🏦🚔😮‍💨 #gtavi #gta pic.twitter.com/pJyFXREBvY— Quid Clips (@quidclipzz) November 21, 2026\nOne especially impressive element of Grand Theft Auto 6 is how many of its little mechanics interact with each other. As you can see below, if you bring a vehicle with a winch to a cash machine, you can actually pull it off the wall and drag it away from the scene of the crime.\nWhy rob a bank in GTA 6 when you can just take the whole ATM💸 How to do it❓- Hook the ATM up to a vehicle with a winch- Drag it through the streets until the cash cases fall out- Shoot them open and get out fast, the cops come quickly!(via u/MelloYello917) pic.twitter.com/5eXbULJWP3— Project VI (@The_ProjectVI) November 21, 2026\nAs you progress through Grand Theft Auto 6, the game actually introduces you to both styles of heists. Without spoiling exactly how this happens, you're told how to go about taking on such criminal ventures, and you can continue to do so throughout the game at your pleasure. Still, even after you've been tutorialised, pulling off one of these heists is no joke, and can easily turn chaotic.\nThis GTA 6 robbery sequence was CRAZY, I couldn't even think straight . pic.twitter.com/l65xSFRoSr— Keemotion (@Keemotionx) November 21, 2026\nHere's a little tip for those of you looking to pull off a heist yourself. You're told that safety deposit boxes can be rifled through for additional loot. However, when you actually make your way into a vault, these will be closed without much sign on which you can access. If you use the focus mode (by pushing in both L3 and R3), it will highlight boxes which you can shoot open. This, of course, may garner unwanted attention, so whether or not you think it's worth doing is part of the risk/reward dilemma you'll have to reckon with. As is the case with so much stuff in GTA 6 includin",
+    "extra": {
+     "image": "https://assetsio.gnwcdn.com/grand-theft-auto-6-lucia-jason-masks.png?width=690&quality=85&format=jpg&auto=webp"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "ИГРОКИ УЖЕ ПРОКАЧАЛИСЬ В ОГРАБЛЕНИЯХ\n\nПока одни тихо выносят сейфы на сотки косарей, другие просто выдирают банкоматы лебедкой с машины. Полный разнос, имба механики работают как надо! 💸\n\n❤️ — Жду патч, это слишком сложно\n👎 — Изи катка, уже богаче Рокстар",
+    "card_title": "ОГРАБЛЕНИЯ В GTA 6",
+    "reason": "Игроки уже мастерски грабят банки и находят крутые механики вроде вырывания банкоматов лебедкой.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-24T12:03:16.467945+00:00"
+  },
+  {
+   "item": {
+    "title": "How to get the GTA 6 BF Bandito",
+    "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-bf-bandito/",
+    "summary": "You won't find the BF Bandito in a lock up in GTA 6, as this vehicle heist is a little tricker to pull off",
+    "published": "2026-11-24T11:45:55+00:00",
+    "source": "GamesRadar+",
+    "site_name": "GamesRadar+",
+    "trust": "high",
+    "text": "While you're out stealing cars for Moses, the GTA 6 BF Bandito will appear on your list, taking you out to the very rural roads of South Leonard County and the Buckskin Swamp. This GTA 6 heist is slightly harder than the others you might have carried out so far though, as this car will be on the move.Like all of Moses' targets, the rough location of the BF Bandito is marked on the map, but as you make your way there, you'll pass by some whoopin' and hollerin' country dwellers who are already taking the buggy for a spin. Here's how to get your hands on the GTA 6 Bandito and get paid.\nThe map marker will take you to the rough location of the BF Bandito, where you should keep your eyes and ears open for some locals riding around the swamps on buggies - one of these is the Bandito.\nTo claim it for yourself, you'll need to stop the Bandito driver, and there are a few ways to do this. If you clock him fast enough, particularly when crossing water, you can simply get in front of him, and he'll stop. Otherwise, you can chase down the Bandito, shooting the driver and his pals. Weirdly, though, when I did this challenge, the driver eventually just stopped and bolted, leaving the buggy free for me to take, though I'm not sure exactly what triggered him to do this. Essentially, just stay close, don't destroy the car by shooting it too much, and it'll be yours in no time.\nIf you're struggling to find some of the other GTA 6 cars that are ripe for the taking, then check I can also help you nab the Declasse Vamos, as well as Vanessa's cute GTA 6 pink Porsche - I mean, Pfister, which will be live shortly.\n© GamesRadar+. Not to be reproduced without permission.\nWeekly digests, tales from the communities you love, and more\nAfter studying Music and Lifestyle journalism and writing a column for a stylish lifestyle magazine in her hometown of Brighton, Danielle finally found her feet writing about videogames for WePC in 2021. She then honed her guides writing skills at PCGamesN between 2022 and 2026, when she took those skills to GamesRadar as a Guides Writer. Danielle's guides are a safe space - she definitely got stuck before you did, which is why she's perfect for the job. When she's not replaying the Silent Hill games or a more up-to-date single-player horror game, you'll find her fighting for her life in Dead by Daylight, tending to a garden in Stardew Valley, or doing both in Minecraft.\nYou must confirm your public display name before commenting\nPlease logout and then lo",
+    "extra": {
+     "image": "https://cdn.mos.cms.futurecdn.net/kUMeVoKh7ic8eZ4Yb229iE-1920-80.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "🗺 Гайд: Как забрать BF Bandito\n\nНужно догнать багги в болотах Buckskin Swamp и остановить водителя.\n\nЗадание от Мозеса заставит попотеть, так как тачка едет. Перережьте путь у воды или шмальните по пацанам, чтобы они свалили и оставили вам имбовый транспортер.\n\n❤️ — Уже затестил\n👎 — Душно",
+    "card_title": "КАК УГНАТЬ BF BANDITO",
+    "reason": "Гайд по угону машины BF Bandito для задания Мозеса в South Leonard County.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": true,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-24T12:03:33.079477+00:00"
+  }
+ ]
 }
