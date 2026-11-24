@@ -3295,7 +3295,20 @@
   "8687e14b081350ba": "2026-11-24T05:45:49.370600+00:00",
   "f0a1a39bbdde8228": "2026-11-24T05:45:50.834322+00:00",
   "7635c05eaea2c63e": "2026-11-24T05:45:52.439404+00:00",
-  "4ac72046e1540d8f": "2026-11-24T05:45:53.502722+00:00"
+  "4ac72046e1540d8f": "2026-11-24T05:45:53.502722+00:00",
+  "d21ab2b306a67739": "2026-11-24T06:01:23.464553+00:00",
+  "e459e182da1bb4c2": "2026-11-24T06:01:54.991865+00:00",
+  "73a5c528e175231e": "2026-11-24T06:01:57.530133+00:00",
+  "ed72079425604644": "2026-11-24T06:17:19.450892+00:00",
+  "4b4a3789c5c440e1": "2026-11-24T06:17:19.578902+00:00",
+  "51a1d14f45d4e67c": "2026-11-24T06:17:21.129879+00:00",
+  "7484d5e88db6e812": "2026-11-24T06:17:22.606041+00:00",
+  "1c344268360fb51f": "2026-11-24T06:17:24.510982+00:00",
+  "59f82903bb76f6f7": "2026-11-24T06:17:25.712271+00:00",
+  "6690b61d28b80afa": "2026-11-24T06:17:27.490901+00:00",
+  "a41a70244071e2d0": "2026-11-24T06:17:28.861705+00:00",
+  "1d6d417451ee2ac1": "2026-11-24T06:17:30.453894+00:00",
+  "9593cb713bd62815": "2026-11-24T06:17:31.897908+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -5576,7 +5589,20 @@
   "317ff2d68f076d06": "2026-11-24T05:45:49.370600+00:00",
   "93d29869414bb6e7": "2026-11-24T05:45:50.834322+00:00",
   "63435bc73ee85819": "2026-11-24T05:45:52.439404+00:00",
-  "40abe2a9aab9e561": "2026-11-24T05:45:53.502722+00:00"
+  "40abe2a9aab9e561": "2026-11-24T05:45:53.502722+00:00",
+  "8292f6c68094ceb3": "2026-11-24T06:01:23.464553+00:00",
+  "e829c73fecd636bc": "2026-11-24T06:01:54.991865+00:00",
+  "a76ccac520bb8964": "2026-11-24T06:01:57.530133+00:00",
+  "31af55391b0992c5": "2026-11-24T06:17:19.450892+00:00",
+  "ca84670398d4935a": "2026-11-24T06:17:19.578902+00:00",
+  "ac0ae10c7a873a0e": "2026-11-24T06:17:21.129879+00:00",
+  "24196f223a2b7ba1": "2026-11-24T06:17:22.606041+00:00",
+  "3fb9894ccc172157": "2026-11-24T06:17:24.510982+00:00",
+  "8843558bc02d4090": "2026-11-24T06:17:25.712271+00:00",
+  "c53fb43fda71623b": "2026-11-24T06:17:27.490901+00:00",
+  "44b713618c0653dd": "2026-11-24T06:17:28.861705+00:00",
+  "278dbc679622d643": "2026-11-24T06:17:30.453894+00:00",
+  "0c3c2a44b13f9c80": "2026-11-24T06:17:31.897908+00:00"
  },
  "recent": [
   {
@@ -14330,6 +14356,110 @@
    "status": "skipped",
    "ts": "2026-11-24T05:45:53.502844+00:00",
    "card_title": ""
+  },
+  {
+   "title": "Call of Duty потеряла миллионы игроков из-за GTA VI. Fortnite тоже пострадала",
+   "source": "iXBT.games",
+   "trust": "medium",
+   "status": "queued",
+   "ts": "2026-11-24T06:01:53.144303+00:00",
+   "card_title": "GTA 6 УБИЛА COD И FORTNITE"
+  },
+  {
+   "title": "GTA 6 Crossed 39 Million Unique Players on PS5, Sets New Concurrent Record",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T06:01:55.908423+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Cyberpunk 2 creative director jokes that the game is canceled after seeing what Rockstar achieved with GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T06:01:57.530288+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Для 60 FPS при 1440p в GTA 6 на ПК потребуются Ryzen 7 9700X и GeForce RTX 5070",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-24T06:17:19.450935+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI is the biggest launch in PlayStation history, with over 39 million unique players",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-24T06:17:19.578966+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Had the Highest Number of New PS5s Connected Since the Console’s 2020 Launch",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T06:17:21.130028+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "For 60 FPS at 1440p in GTA 6 on PC, you'll need a Ryzen 7 9700X and a GeForce RTX 5070.",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T06:17:22.606173+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "«Разработка Cyberpunk 2 отменяется» из-за вызванной GTA 6 депрессии — пошутили в CDPR",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T06:17:24.511114+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Майк Форбс: пять лет съемок GTA 6 и вклад главных звезд",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T06:17:25.712399+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Cyberpunk 2 отменена? Директор CD Projekt о влиянии GTA 6",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T06:17:27.491035+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "В России решили превратить GTA 6 в службу знакомств",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T06:17:28.861819+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 can now be launched from the cloud on PlayStation Portal without a PS5 console.",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T06:17:30.454033+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 теперь можно запускать из облака на PlayStation Portal без консоли PS5",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T06:17:31.898045+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -14534,96 +14664,9 @@
     "guide": false,
     "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
    },
-   "queued_at": "2026-11-24T04:58:06.304200+00:00"
-  },
-  {
-   "item": {
-    "title": "Has Rockstar taken the \"Grand Theft Auto\" out of GTA 6? Or has it just gamified car-jacking properly for the first time?",
-    "link": "https://www.eurogamer.net/gta-6-car-theft-gamified",
-    "summary": "It's impossible to have a big game launch these days without some section of the internet, somewhere, finding grievances with the final product because it does not align with the expectations they had pre-release. Read more",
-    "published": "2026-11-23T14:58:20+00:00",
-    "source": "Eurogamer",
-    "site_name": "Eurogamer",
-    "trust": "high",
-    "text": "It's impossible to have a big game launch these days without some section of the internet, somewhere, finding grievances with the final product because it does not align with the expectations they had pre-release.\nThe most recent upset comes in the form of Grand Theft Auto 6's revised take on, well, grand theft auto. In case you're one of the few still unfamiliar, grand theft auto is more than the titular moniker for Rockstar's premier crime simulation series; it's actually a US legal term for the act of stealing or attempting to steal a motor vehicle. In most previous GTA entries, this was a central part of the core gameplay loop: accept a mission, nick a car, complete the mission, nick another car, getaway. It's an endemic part of the loop, and has become so popular and identifiable as such that even other games - Watch Dogs, Saint's Row, Cyberpunk 2077, and so on - have emulated the mechanic.\nSo it makes sense that the internet is in a bit of a spin about GTA 6's more mature and restrained take on its eponymous crime. A quick, no-frills getaway in a vehicle you've hijacked on the road isn't always the most effective option. A mindless crime spree on the streets of Leonida is not a simple thing to pull off, nor an easy thing to live down. In this game, actions have consequences, and an ill-timed or ill-judged car jacking can quickly and efficiently put an end to your criminal ambitions.\nThat's not to say you cannot simply steal cars. Of course you can: the option to saunter up to an occupied vehicle and jack it from its registered owner is available to you from the very beginning of the game. But the citizens of Leonida aren't going to take your wanton act of foolishness lying down; many of the motorists in the county will fight back, pull a piece on you, or run you over mid-robbery attempt. Even if you are lucky to find one of the more pliant residents of the city, you might find something peculiar is happening in their car. I jacked a woman in the city over the weekend, and the cat she was ferrying from place to place decided to attack me, causing me to crash. I've heard other people say they've had muffled cries coming from the boot of the car where someone is transporting a hostage, or incidents where they've jacked the same person multiple times, leading to the poor car's owner to have a breakdown in the middle of the city.\nThat cat event, the team here at Eurogamer has worked out, is an early game trigger - it seems stealing random cars early in th",
-    "extra": {
-     "image": "https://assetsio.gnwcdn.com/car-gta-6.jpg?width=690&quality=85&format=jpg&auto=webp"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "🚗 Угон в GTA 6: теперь за ним реально могут отомстить\n\nНовый подход к кар‑джеку в Леониде — каждый ваш налёт может обернуться битвой с хозяином или даже котом‑мутантом. Ставьте на осторожность, иначе получите тильт и кучу полицейских 😅",
-    "card_title": "НОВАЯ МЕХАНИКА УГОНА МАШИН",
-    "reason": "Высокоточный источник Eurogamer сообщает о реальном изменении механики угона авто в GTA 6",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "groq:openai/gpt-oss-20b → groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-23T17:48:54.884465+00:00"
-  },
-  {
-   "item": {
-    "title": "Telegram CEO Says The ‘Least Realistic’ Thing About GTA 6 Is That Nobody Uses His App To Commit Crimes",
-    "link": "https://kotaku.com/telegram-ceo-says-the-least-realistic-thing-about-gta-6-is-that-nobody-uses-his-app-to-commit-crimes-2000759427",
-    "summary": "He just tweeted it out",
-    "published": "2026-11-23T15:30:50+00:00",
-    "source": "Kotaku",
-    "site_name": "Kotaku",
-    "trust": "high",
-    "text": "The lawyers for Pavel Durov have got to be going through it right now. The CEO of Telegram is one of the many millions of people who seem to be enjoying GTA 6. However, he has a few quibbles about the game’s realism. Late last week he posted on X, “The least realistic thing about GTA VI is that Jason and Lucia run a whole criminal operation without a single Telegram group.”\nTelegram is a popular messaging app used worldwide. It functions similarly to Signal and allows for encrypted messaging, making it an attractive chat service for people who need to communicate privately including journalists, protestors, and labor organizers. Those features also make Telegram a hotspot for illegal activity.\nTelegram has an infamous reputation for being the go-to app for crimes. Scratch some kind of criminal network of unsavory people like white nationalists or cryptoscammers, and you’re likely going to find a Telegram group chat. The app is so notorious for being Crime Facebook that in 2024 Durov was indicted in France on 12 charges for allegedly not doing enough to curb the drug trafficking and distribution of child sexual assault abuse materials taking place on Telegram. Earlier this year, Russia charged Durov with facilitating terrorism for failing to remove information allegedly used to target Russian soldiers, infrastructure, and civilians in the Russia-Ukraine war.\nDurov has said Telegram actively works to remove illegal content from the app and has denied claims that it’s some kind of haven for criminals. Which is why it’s really weird that he’s salty-posting on X about how the two most famous fictional criminals in the world right now aren’t using his app to do their criming. He’s facing all this litigation for allegedly not doing enough about his app being the crime place and he just tweets an acknowledgement that he can’t even conceive of fictional crime being done without Telegram’s help.\nDon’t miss the latest reviews, news and tips. Sign up for our free newsletter.\nCultureNews Binding Of Isaac Update Review-Bombed Over AI-Generated Music In GTA 6 Mode: ‘Woke Up To A Sh*t Show, Obviously I Had No Idea’ A Vice City mode was using music made by AI By Ethan Gach Published November 21, 2026\nCultureOdds and Ends Radio Tower Expert Can’t Believe How Realistic GTA 6′s Towers Are: ‘Oh My God Boys… Earthed Tower Legs With Saddles” If you were curious how accurate the utility towers in Grand Theft Auto 6 the answer appears to be: Very By Zack Zwiezen Published November",
-    "extra": {
-     "image": "https://kotaku.com/app/uploads/2026/11/Lucia-Caminos-GTA6-1280x720.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "🗨️ ДУРОВ: в GTA 6 нет Telegram‑чатов\n\nCEO Telegram влепил в Твиттере, что в игре Джейсон и Люсия крутят криминал без единого нашего чата. Чисто лол, но уже обсуждают в комьюнити, кто бы их в TG добавил. 🤷",
-    "card_title": "ТЕЛЕГРАМ НЕ В GTA 6",
-    "reason": "Глава Telegram пошутил про реализм GTA 6, забавная новость с высоким охватом",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-23T17:49:49.386522+00:00",
+   "queued_at": "2026-11-24T04:58:06.304200+00:00",
    "moderation": "pending",
-   "draft_msg_id": 114
-  },
-  {
-   "item": {
-    "title": "GTA 6 hacker who leaked footage in 2022 has been released on licence and told not to do it again",
-    "link": "https://www.videogameschronicle.com/news/gta-6-hacker-who-leaked-footage-in-2022-has-been-released-on-licence-and-told-not-to-do-it-again/",
-    "summary": "Arion Kurtaj was deemed to fit to stand trial earlier this year",
-    "published": "2026-11-23T15:43:51+00:00",
-    "source": "VGC",
-    "site_name": "VGC",
-    "trust": "high",
-    "text": "The UK teenager who hacked Rockstar and leaked footage of Grand Theft Auto 6 has been released on licence and warned not to do anything like it again.\nIn 2022, Arion Kurtaj, who suffers from acute autism, was convicted of being a member of the international hacking group Lapsus$, which also carried out attacks on tech companies including Uber, Nvidia and EE.\nIn late 2023, a judge determined that Kurtaj – who was 18 at the time – remained fixated with hacking and posed “a high risk of serious harm to the public through skill in gaining unfettered access to computers”.\nIt was decided that Kurtaj would stay at a secure hospital facility until such time that a mental health tribunal decided he no longer posed a danger to others.\nEarlier this year, however, it was decided that he was now fit to stand trial, and was released to a normal prison in January.\nThe trial took place last week, where Kurtaj pleaded guilty. Now, as reported by the BBC, he has been given a Serious Crime Prevention Order, which restricts his online activity for the next five years, including a ban on using Telegram and Discord.\nAccording to the report, the judge told Kurtaj that he was “a very talented young man”, and told him: “Don’t let this happen again.”\nIn September 2022, Kurtaj and other hackers published an hour of GTA 6 development footage online, giving players their first look at the sequel to one of the best-selling games of all-time.\nThis footage included the first look at Lucia, confirming for the first time that the game would feature a female protagonist.\nAt the time, Rockstar said it was “extremely disappointed” to have details on the game shared in this way, and proceeded to release the game’s first trailer later that year, officially confirming the female lead.",
-    "extra": {
-     "image": "https://www.videogameschronicle.com/files/2026/11/gta-grand-theft-auto-6-pic16.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "🚨 Хакер GTA 6 выпустили на лицензии, но с запретом\n\nТот самый парнишка, который в 2022 вырвал час геймплейных кадров, теперь на свободе, но под пятой — пять лет без Telegram и Discord. Рокстар явно не шутит, а судья сказал: «Не повторяй». \n❤️ — за справедливость\n👎 — за хакеров",
-    "card_title": "ХАКЕР ВЫПУЩЕН НА ЛИЦЕНЗИЮ",
-    "reason": "Главный хакер, сливший билд GTA 6 в 2022 году, вышел на свободу и получил запрет на интернет.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-23T17:50:25.309045+00:00"
+   "draft_msg_id": 120
   },
   {
    "item": {
@@ -14801,35 +14844,6 @@
   },
   {
    "item": {
-    "title": "GTA 6 Update Now Live On Xbox Series X|S, Includes Seven Official Fixes",
-    "link": "https://www.purexbox.com/news/2026/11/gta-6-update-now-live-on-xbox-series-xs-includes-seven-official-fixes",
-    "summary": "Update: We've got the deets from Rockstar. GTA 6 only officially launched late last week, but Rockstar Games has already pushed out a new update (01.002.002) for the game across Xbox Series X and Xbox Series S (along with PS5), rolling out as of a few hours ago. You're looking at a download size of around 1.6GB for update 1.0.2 on Xbox Series X and S. Read the full article on purexbox.com",
-    "published": "2026-11-23T14:50:00+00:00",
-    "source": "Pure Xbox",
-    "site_name": "Pure Xbox",
-    "trust": "high",
-    "text": "Update [Mon 23rd Nov 2026, 2:50pm]: Well, the patch notes are out! Rockstar Games mentions seven official fixes for the update, and none of them are specifically to do with the Xbox Series S or other things like how bright the game is.\nNevertheless, there's always a chance they've made some extra tweaks under the hood.\nHere are the official seven fixes in GTA 6's first post-launch update (November 23):\nFixed several issues that caused the game to crash\nFixed an issue that resulted in the weather not changing for extended periods\nFixed an issue that resulted in the game not autosaving correctly\nFixed several issues that resulted phone calls not triggering correctly including those that progressed the story or unlocked mission content\nFixed an issue that resulted in the players being unable to lose their Wanted Level\nFixed an issue that resulted in the player being unable to use the deadlift bar in the Gym\nFixed that resulted in partners not handing over bags so that players could sell them to fences\nOriginal Story: GTA 6 only officially launched late last week, but Rockstar Games has already pushed out a new update (01.002.002) for the game across Xbox Series X and Xbox Series S (along with PS5), rolling out as of a few hours ago.\nYou're looking at a download size of around 1.6GB for update 1.0.2 on Xbox Series X and S.\nIn terms of what's included, Rockstar has yet to issue any official patch notes, and we'll have to wait and see whether anything is distributed. We'll obviously update this article with the patch notes if they're made available to us.\nPlayers are trying to make their own discoveries in the meantime, with suggestions that the game may run smoother on Xbox Series S now, that saving your game returns you to the exact same spot instead of your safehouse (although this seemed to be happening for us already), and that the first-person glitch is still working as things stand.\nAll of these could be akin to placebo effects though, so take them with a pinch of salt:\nAs you can see from one of the impressions above, there's a suggestion that the game seems brighter now, which perhaps could have something to do with the borked HDR calibration tool that we discussed the other day.\nThat said, who knows whether these are areas that have actually been targeted for the update, or whether they're just happy coincidences that some players are experiencing. In any case, we'll keep an eye out for any official confirmations.\nHave you noticed anything that needs f",
-    "extra": {
-     "image": "https://images.purexbox.com/f7b59a19daa93/large.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 6,
-    "post": "🚀 Обновление GTA 6 на Xbox: 7 фиксиков\n\nRockstar выкатил патч 01.002.002, который устранил краши, баги с погодой, автосохранением и даже проблему с баром в спортзале. Теперь можно терять уровень розыска и продавать сумки партнёрам без глюков. Похоже, игра стала чуть стабильнее, так что вперёд к новым разносам! 💥",
-    "card_title": "ОБНОВЛЕНИЕ XBOX: 7 ФИКСОВ",
-    "reason": "официальный патч с 7 фиксами",
-    "duplicate": false,
-    "corroborated": true,
-    "duplicate_of": "GTA 6 Update Now Live On Xbox Series X|S, Players Share Their First Impressions",
-    "corroborated_by": "Grand Theft Auto 6 has received a new update which fixes autosaving",
-    "guide": false,
-    "model": "groq:openai/gpt-oss-20b → groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-23T17:49:22.076028+00:00"
-  },
-  {
-   "item": {
     "title": "GTA 6 Vintage Vice City Pack Now Available To All Players On Xbox, And It's Pretty Cheap",
     "link": "https://www.purexbox.com/news/2026/11/gta-6-vintage-vice-city-pack-now-available-to-all-players-on-xbox-and-its-pretty-cheap",
     "summary": "\"Flash back to when the neon burned brightest\". Ahead of the release of GTA 6 , there were three types of content made available for it - the standard game, the Ultimate Edition content, and the Vintage Vice City Pack. The latter was intended as a pre-order bonus across Xbox and PS5. Now that the game is out in the wild though, Rockstar Games has decided to make the Vintage Vice City Pack available to purchase on the Xbox Store, carrying a price tag of £4.49 / $4.99. That's obviously not as good as getting it for free, but it's pretty cheap all the same, and a nice option to have if you missed out on the pre-order period. Read the full article on purexbox.com",
@@ -14975,35 +14989,6 @@
   },
   {
    "item": {
-    "title": "GTA VI Hacker Released From Prison",
-    "link": "https://rockstarintel.com/gta-vi-hacker-released-from-prison/",
-    "summary": "The infamous hacker who published 90 GTA VI gameplay videos before the game was officially revealed has been released from prison. Arion Kurtaj is now a free man after being a teen hacker causing cyber mayhem. On Monday morning, the criminal was sentenced at Woolwich Crown Court following a guilty plea made last week. We reported how [...] The post GTA VI Hacker Released From Prison appeared first on RockstarINTEL .",
-    "published": "2026-11-23T14:26:18+00:00",
-    "source": "Rockstar Intel",
-    "site_name": "Rockstar Intel",
-    "trust": "medium",
-    "text": "The infamous hacker who published 90 GTA VI gameplay videos before the game was officially revealed has been released from prison. Arion Kurtaj is now a free man after being a teen hacker causing cyber mayhem.\nOn Monday morning, the criminal was sentenced at Woolwich Crown Court following a guilty plea made last week. We reported how he plead guilty to all of his crimes including fraud, computer misuse and more.\nThe BBC reports Kurtaj was sentenced by the judge to 7 years in prison. However, Mr Justice Turner had him walk away free today. It is claimed the hacker smiled when the judge freed him. As part of his release, Kurtaj has been given a Serious Crime Prevention Order for 5 years. This means he is given restricted internet usage such a ban on Telegram and Discord.\nThis will be a surprise to some fans and worrisome given his past claims of intent to reoffend. Rockstar Games might be concerned and disappointed by this result. We got GTA VI hacker released before GTA VI Online.\n“You are obviously a very talented young man. Don’t waste those talents by spending the rest of your life in and out of prison. Don’t let this happen again.” Judge Turner\nKurtaj was originally moved into a secure hospital for his own and others’ safety. Eventually, he got out and placed into a standard prison at the start of this year. We reported on some of his communication from inside his cell here.\n“Arion Kurtaj used sophisticated hacking techniques to carry out a sustained campaign of cyberattacks, causing serious disruption to major international business and putting sensitive information at risk… This was an exceptionally complex and challenging case, but despite his efforts to conceal his identity online, our specialist prosecutors were able to work closely with the City of London Police and international law enforcement partners to build a strong case that exposed his actions and resulted in his guilty pleas.” Robert Hutchinson, Specialist Prosecutor, Crown Prosecution Service\nHopefully this is the end of Arion Kurtaj’s story with Rockstar Games and GTA VI. With Cyberleek still on the loose, Rockstar don’t need more interference.\nLooking for some Grand Theft Auto VI guides? We show you how you can unlock the exclusive Venturas Blvd Elegy here. Plus, check out the best settings to use when playing the game. Also, there’s a glitch that unlocks the 30FPS cap and here’s how to do it.\nFor more news on GTA 6, stay tuned to RockstarINTEL and sign up to our newsletter for a weekl",
-    "extra": {
-     "image": "https://rockstarintel.com/wp-content/uploads/2026/10/radio-background-desktop.0hlwc1-j9tqg-copy-1024x576.webp"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "🔓 Хакер GTA VI вышел на свободу\n\nТот самый Аріон Куртай, который слил кучу видосов до релиза, теперь свободен. 🔥 Фанаты в шоке, а Rockstar явно нервничает — будет ли новый слив?",
-    "card_title": "ХАКЕР GTA VI СВОБОДЕН",
-    "reason": "Хакер, сливший геймплей GTA 6 до релиза, вышел на свободу, что очень зацепит фанатов.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-23T17:48:26.944659+00:00"
-  },
-  {
-   "item": {
     "title": "GTA VI сожгла PS5 прямо во время стрима. Консоль не выдержала",
     "link": "https://ixbt.games/news/2026/11/24/gta-vi-sozgla-ps5-priamo-vo-vremia-strima-konsol-ne-vyderzala.html",
     "summary": "Во время стрима GTA VI у одного из игроков PS5 начала дымиться и окончательно вышла из строя, а другие владельцы консоли жалуются на перегрев и вылеты игры.",
@@ -15030,6 +15015,35 @@
     "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
    },
    "queued_at": "2026-11-24T04:59:17.576919+00:00"
+  },
+  {
+   "item": {
+    "title": "Call of Duty потеряла миллионы игроков из-за GTA VI. Fortnite тоже пострадала",
+    "link": "https://ixbt.games/news/2026/11/24/call-of-duty-poteriala-milliony-igrokov-iz-za-gta-vi-fortnite-toze-postradala.html",
+    "summary": "Выход GTA VI привёл к масштабному оттоку игроков из Call of Duty и Fortnite: ежедневная активность первой серии упала на 42%, а второй на 28%.",
+    "published": "2026-11-24T05:47:00+00:00",
+    "source": "iXBT.games",
+    "site_name": "iXBT.games",
+    "trust": "medium",
+    "text": "Выход GTA VI привёл к масштабному оттоку игроков из Call of Duty и Fortnite: ежедневная активность первой серии упала на 42%, а второй на 28%.\nСогласно данным аналитической компании Alinea Analytics, сильнее всего запуск новой игры Rockstar Games ударил по Call of Duty. Количество ежедневно активных игроков серии на PlayStation, Xbox и в Steam сократилось с привычных 7,5 млн до 4,4 млн человек. Падение составило 42%. На PlayStation, которая остаётся основной платформой для франшизы, показатель снизился на 44%. Даже спустя четыре дня после выхода GTA VI ситуация существенно не изменилась: разница с прежним уровнем активности по-прежнему составляла 41%.\nFortnite также потеряла значительную часть аудитории, хотя последствия оказались менее серьёзными. На PlayStation и Xbox количество ежедневных игроков сократилось с 17,8 млн до 12,8 млн, то есть на 28%. При этом игра Epic Games быстрее начала восстанавливать позиции. К концу выходных отставание от привычных показателей уменьшилось до 19%.\nGTA 6's launch hit Call of Duty HARD (@alineaanalytics estimates). COD HQ's daily active users across PlayStation, Xbox, and Steam are down 42% from an average of 7.5M DAUs to 4.4M. On PlayStation – CoD’s main platform – Call of Duty took a 44% hit. Sadly, CoD has barely bounced\nПо приведённым данным, мировые продажи GTA VI приблизились к 45 млн копий. Влияние игры на конкурентов может усилиться после запуска сетевого режима и выхода версии для ПК.\nНе пропускайте наши новостиДобавьте сайт в предпочитаемые источники, чтобы видеть нас чащеДобавить в Google",
+    "extra": {
+     "image": "https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1745616/09ddc31e-b631-445e-9abe-c47f547b8553.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "💀 GTA 6 УНИЧТОЖИЛА онлайн Call of Duty и Fortnite\n\nАналитики подсчитали, что после выхода игры CoD потеряла аж 42% ежедневных игроков, а Форт — 28%. Челы просто забили на батлпассы и ушли тусить в Вайс-Сити. База, получайте разнос!\n\n❤️ — Туда их, GTA 6 ванлав\n👎 — Сочувствую казуалам из CoD",
+    "card_title": "GTA 6 УБИЛА COD И FORTNITE",
+    "reason": "Official analytics data showing massive drop in CoD and Fortnite players due to GTA 6 release.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-3.5-flash"
+   },
+   "queued_at": "2026-11-24T06:01:53.144293+00:00"
   },
   {
    "item": {
@@ -15160,7 +15174,8 @@
   "2026-11-23T18:12:28.283664+00:00",
   "2026-11-23T19:12:46.915605+00:00",
   "2026-11-23T20:15:05.440958+00:00",
-  "2026-11-23T21:15:56.693001+00:00"
+  "2026-11-23T21:15:56.693001+00:00",
+  "2026-11-24T06:02:05.423698+00:00"
  ],
  "slots_sent": {
   "2026-11-22:guide:1": "2026-11-22T08:01:32.386719+00:00",
