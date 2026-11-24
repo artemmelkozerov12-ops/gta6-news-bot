@@ -3765,7 +3765,25 @@
   "6c9b0e59c3926cb8": "2026-11-24T19:22:37.222310+00:00",
   "4b8897c6021abdda": "2026-11-24T19:22:41.873215+00:00",
   "06a8db96c453e764": "2026-11-24T19:22:45.347489+00:00",
-  "c5a0b604b3e950dc": "2026-11-24T19:23:24.272251+00:00"
+  "c5a0b604b3e950dc": "2026-11-24T19:23:24.272251+00:00",
+  "9420a1b36d99873f": "2026-11-24T19:38:42.996148+00:00",
+  "acdc49e71d291911": "2026-11-24T19:38:42.996203+00:00",
+  "caf9c02144c10146": "2026-11-24T19:38:51.703712+00:00",
+  "f66c0dc3c35f5256": "2026-11-24T19:38:59.945392+00:00",
+  "63541ff1cc67c4a3": "2026-11-24T19:39:14.785532+00:00",
+  "4853c63c9579b4b5": "2026-11-24T19:39:31.768907+00:00",
+  "8c8a263a449b64c6": "2026-11-24T19:39:44.988612+00:00",
+  "e366bd8839c43f48": "2026-11-24T19:39:53.482815+00:00",
+  "a6ab610d3d2ddff9": "2026-11-24T19:39:59.855227+00:00",
+  "4279a6935ccb54d4": "2026-11-24T19:40:09.018848+00:00",
+  "d93c2a335145ca7d": "2026-11-24T19:55:38.744105+00:00",
+  "0b0369d8abfe35b8": "2026-11-24T19:55:40.647116+00:00",
+  "77c3e75dcce70f69": "2026-11-24T19:56:01.753893+00:00",
+  "139228cbf3825c8f": "2026-11-24T19:56:05.917807+00:00",
+  "25667912719907e6": "2026-11-24T19:56:12.886018+00:00",
+  "00aa403868c87719": "2026-11-24T19:56:14.095952+00:00",
+  "6c847bb95eb4af13": "2026-11-24T19:56:15.351771+00:00",
+  "581b2737480f00dd": "2026-11-24T19:56:16.907955+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -6293,7 +6311,24 @@
   "b325886c773fd75b": "2026-11-24T19:22:23.649447+00:00",
   "93ce3757f6c91c59": "2026-11-24T19:22:31.526025+00:00",
   "64d76bcd86a01fb2": "2026-11-24T19:22:37.222310+00:00",
-  "c6d5625949094fec": "2026-11-24T19:22:41.873215+00:00"
+  "c6d5625949094fec": "2026-11-24T19:22:41.873215+00:00",
+  "560a9350860cb5cc": "2026-11-24T19:38:42.996148+00:00",
+  "e58f323c31a7bdad": "2026-11-24T19:38:59.945392+00:00",
+  "1beda2ddbc2eb7a2": "2026-11-24T19:38:51.703712+00:00",
+  "86aaac6ece1b7cbf": "2026-11-24T19:39:14.785532+00:00",
+  "044f0b69c346e122": "2026-11-24T19:39:31.768907+00:00",
+  "9db3bd0bb2e0be1e": "2026-11-24T19:39:44.988612+00:00",
+  "3b59730026ec00da": "2026-11-24T19:39:53.482815+00:00",
+  "20d80769b3efa1ef": "2026-11-24T19:39:59.855227+00:00",
+  "54a4439bbaab7a4a": "2026-11-24T19:40:09.018848+00:00",
+  "402b659f00343ada": "2026-11-24T19:55:38.744105+00:00",
+  "024eebecb210c66a": "2026-11-24T19:55:40.647116+00:00",
+  "6a73dc437b76cf45": "2026-11-24T19:56:01.753893+00:00",
+  "9517923b209738e8": "2026-11-24T19:56:05.917807+00:00",
+  "09608bb4d9028224": "2026-11-24T19:56:12.886018+00:00",
+  "f1608d757ba3d1c3": "2026-11-24T19:56:14.095952+00:00",
+  "6d620ff92339827b": "2026-11-24T19:56:15.351771+00:00",
+  "dcd47c1b98b957db": "2026-11-24T19:56:16.907955+00:00"
  },
  "recent": [
   {
@@ -14244,7 +14279,7 @@
    "title": "This GTA 6 Moment Is A Trolling Master Class From Rockstar",
    "source": "Polygon",
    "trust": "high",
-   "status": "queued",
+   "status": "published",
    "ts": "2026-11-24T18:26:36.505367+00:00",
    "card_title": "ЛУННИ ТУНЗ СТЕНА GTA6"
   },
@@ -14399,40 +14434,153 @@
    "status": "skipped",
    "ts": "2026-11-24T19:22:43.933016+00:00",
    "card_title": ""
+  },
+  {
+   "title": "Guide: GTA 6: Vice City Easter Egg Walkthrough & Tommy Vercetti Shirt Unlock",
+   "source": "Push Square",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-24T19:38:42.996181+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "The GTA 6 NPCs Who Crash Out When You Steal From Them Are Some Of The Funniest In The Game",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-24T19:38:42.996225+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "I can’t believe I let Jason spend $475 on a gold-plated piece of tin in GTA 6, but it's such a Boy Move that I can't even be angry",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-24T19:38:44.242667+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6: Full Vice City retro easter egg walkthrough, all rewards",
+   "source": "VGC",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-24T19:38:57.665768+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "The GTA 6 NPCs Who Crash Out When You Steal From Them Are Some Of The Funniest In The Game",
+   "source": "Kotaku",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-24T19:39:00.596765+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Players Should Do This Immediately Upon Starting The Game",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T19:39:31.769047+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Launches at $79.99 on PS5 and Xbox, PC Undated",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T19:39:44.988758+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Игроки в восторге от особенностей DualSense в GTA 6 – особенно из-за удобного среднего хода автомобиля",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T19:39:53.482944+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "‘GTA 6’ Character Resembles Dad Who Killed Son’s Alleged Abuser",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T19:39:59.855353+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Pornhub traffic fell by 15% on the day GTA VI was released",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T19:40:09.018987+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Sony Will Support The Witcher 4's Marketing, Much Like GTA 6",
+   "source": "Push Square",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-24T19:55:38.744218+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to steal the Ocelot Bloodless Jugular in GTA 6",
+   "source": "PC Gamer",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-24T19:55:52.686760+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "The One Thing to Know About Jason and Lucia Before You Play Too Much GTA 6",
+   "source": "Polygon",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-24T19:56:04.393896+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Top 20 Fastest Cars In GTA 6—All Locations & How To Get Them",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-24T19:56:11.574799+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Missed GTA 6’s Vintage Vice City bonus? Rockstar is now selling the pack separately for $4.99",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T19:56:12.886147+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "More Than Half of GTA 6 Watch Time on Streaming Platforms Came From Viewers Under 25 Years Old",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T19:56:14.096083+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Just Resurrected a 70s Pop Duo's Forgotten Song, Sending Its Streams Soaring More Than 130,000%",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T19:56:15.351907+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "'GTA 6' chapter 1 is so good that I'm afraid to move on to chapter 2",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T19:56:16.908084+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
-  {
-   "item": {
-    "title": "This GTA 6 Moment Is A Trolling Master Class From Rockstar",
-    "link": "https://www.polygon.com/gta-6-fake-looney-tunes-wall-where-is-map-location-car-crash-videos/",
-    "summary": "GTA 6 keep crashing at the same place, and they're blaming Rockstar Games for tricking them",
-    "published": "2026-11-24T16:56:17+00:00",
-    "source": "Polygon",
-    "site_name": "Polygon",
-    "trust": "high",
-    "text": "Have you ever seen those classic Looney Tunes cartoons where the murderous Wile E. Coyote dashes after the infuriating Road Runner? Usually, a high-speed chase ends with an unexpected comic twist, such as a bundle of dynamite exploding at the wrong time. Perhaps the most famous gag from these iconic animated shorts​​​​​​​ is the one where the plotting Coyote is tricked into running headfirst into a canyon wall painted to look like the entry to a tunnel.\nSome people are currently learning that the silly gag can be more convincing than they thought, especially in a video game as hyperrealistic as Grand Theft Auto 6.\nSince the release of Rockstar's open-world game, social media has filled up with clips​​​​​​​ of players running down a street at high speed. Maybe they're in the middle of a police chase, or maybe they're just not paying much attention. The high-speed drive ends in misfortune when the player realizes that the area in front of them isn't a street at all — it's a mural​​​​​​​ that looks like the natural continuation of the street.\nStreet art like this is common in GTA 6, but the placement of this particular mural and its muted color palette make it seem like Rockstar fully intended​​​​​​​ for it to mislead people. As such, viral videos showing untimely car crashes have helped popularize the name \"Looney Tunes wall\" for this part of the game.​​​​​​​ If fans don't call it that, they usually still compare the encounter to Looney Tunes anyway.​​​​​​​\nThe ragebaiting fake wall is between the Stockyard and Decor District in Vice City, at this specific marker:\nThough it can be infuriating in the heat of the moment,​​​​​​​ fans are delighted by the jest as well. \"I really hope they release some stats on how many people hit this wall,\" one YouTube caption reads.\nOther GTA 6 fans can't believe something so simple got them. To be fair, the area is full of shops — including some spots Jason and Lucia can rob. It's easy to stop looking closely when you're actively trying to run away with a stolen stash as the police chase you. It's also positioned so the surrounding stoplights frame the fake tunnel, adding a physical layer of legitimacy to the optical illusion.\nIf you still think you'd never fall for it, don't be too sure.​​​​​​​ Earlier in 2026, a man in Scotland crashed his car into a wall after mistaking a mural featuring two giant eyes for an actual tunnel.​​​​​​​\n\"Bro fell for literally the oldest trick in a book,\" reads one comment on Reddit in a thread ",
-    "extra": {
-     "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/gta6looney.JPG"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "🚧 Looney Tunes стена в Vice City — реальный ловкач\n\nЭта фейковая стенка заставила кучу гонщиков врезаться в «трубу», а всё из‑за того, что граффити выглядит как настоящая дорога. Ищите её между Stockyard и Decor District — там, где светофоры обрамляют иллюзию, и готовьте реактивные тормоза, чел! 🎨",
-    "card_title": "ЛУННИ ТУНЗ СТЕНА GTA6",
-    "reason": "Funny and viral discovery about a Looney Tunes-style fake tunnel wall in GTA 6, highly engaging for players.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-24T18:26:36.505352+00:00",
-   "moderation": "pending",
-   "draft_msg_id": 139
-  },
   {
    "item": {
     "title": "Thursday Night Football Had Lowest Viewership All Season On GTA 6 Launch Day",
@@ -14672,9 +14820,11 @@
   "2026-11-24T14:30:57.057953+00:00",
   "2026-11-24T18:12:15.901707+00:00",
   "2026-11-24T18:29:48.785267+00:00",
-  "2026-11-24T18:48:21.666455+00:00"
+  "2026-11-24T18:48:21.666455+00:00",
+  "2026-11-24T19:36:50.392824+00:00",
+  "2026-11-24T20:00:29.641117+00:00"
  ],
- "tg_offset": 387129087,
+ "tg_offset": 387129089,
  "channel": {
   "id": -1003986639147,
   "title": "GTA 6 | Горячие новости",
@@ -20980,21 +21130,16 @@
    "title": "GTA 6: PS5 игроки в среднем 17+ часов за уикенд",
    "importance": 8,
    "kind": "confirmed"
-  }
- ],
- "extras": [
+  },
   {
-   "key": "digest-20261124",
-   "kind": "Итоги дня",
-   "payload": {
-    "text": "🌙 <b>Итоги дня</b> · 24 ноября\n\n📰 <a href=\"https://t.me/gta6_hotnews/77\">Коллатеральный пасхалка в GTA 6</a>\n📰 <a href=\"https://t.me/gta6_hotnews/78\">GTA 6 УНИЧТОЖИЛА онлайн Call of Duty и Fortnite</a>\n📰 <a href=\"https://t.me/gta6_hotnews/79\">PS5 сгорела во время GTA VI стрима</a>\n📰 <a href=\"https://t.me/gta6_hotnews/84\">Как вытащить ATM на лебёдке и схватить кэш 💰</a>\n🎥 <a href=\"https://t.me/gta6_hotnews/85\">В GTA 6 завезли интерактивную мини-игру в душе — и стримерша словила тильт, не понимая, к…</a>\n📰 <a href=\"https://t.me/gta6_hotnews/87\">GTA 6: PS5 игроки в среднем 17+ часов за уикенд</a>\n\nЧто из этого зашло больше всего? Пиши в комменты 👇",
-    "publish_at": "2026-11-24T20:00:00+00:00"
-   },
-   "moderation": "pending",
-   "draft_msg_id": 140,
-   "queued_at": "2026-11-24T19:30:13.623688+00:00"
+   "ts": "2026-11-24T19:36:50.392838+00:00",
+   "msg_id": 88,
+   "title": "Looney Tunes стена в Vice City — реальный ловкач",
+   "importance": 8,
+   "kind": "confirmed"
   }
  ],
+ "extras": [],
  "extras_sent": {
   "poll-2026-W47": "2026-11-21T16:00:25.901739+00:00",
   "weekly-20261121": "2026-11-21T17:30:42.606074+00:00",
@@ -21366,24 +21511,24 @@
   },
   {
    "item": {
-    "title": "I can’t believe I let Jason spend $475 on a gold-plated piece of tin in GTA 6, but it's such a Boy Move that I can't even be angry",
-    "link": "https://www.gamesradar.com/games/grand-theft-auto/i-cant-believe-i-let-jason-spend-usd475-on-a-gold-plated-piece-of-tin-in-gta-6-but-its-such-a-boy-move-that-i-cant-even-be-angry/",
-    "summary": "GTA 6's genius lies in its moments of real-life authenticity – including poking fun at Boy Traits",
-    "published": "2026-11-24T14:00:00+00:00",
+    "title": "The leap from The Witcher 3 to The Witcher 4 will be \"comparable\" to GTA 5 and GTA 6, says CDPR",
+    "link": "https://www.gamesradar.com/games/the-witcher/the-leap-from-the-witcher-3-to-the-witcher-4-will-be-comparable-to-gta-5-and-gta-6-says-cdpr/",
+    "summary": "That's quite a leap",
+    "published": "2026-11-24T19:27:06+00:00",
     "source": "GamesRadar+",
     "site_name": "GamesRadar+",
     "trust": "high",
-    "text": "Sigh. Boys. I would say men, but even with his shredded physique and ex-military career, GTA 6 protagonist Jason is such a boy that it goes from being funny to endearing.\nAll the signs are there as I explore his beachside stilt house for the first time. Spartan living room furnishings consist of a sofa, coffee table, and a single rickety armchair. A peek in the fridge and pantry confirms my suspicions: the dude is surviving on protein shakes, protein bars, two day old coffee, and maybe a handful of gas station potato chips. Rockstar here pokes fun at every stereotype of the simple, single man, with no partner to appease or even make little considerations for as he goes about his day.\nBut after Cal's bro time visit to play video games starts with the two men reconfiguring said living room in Lucia's honor, I've decided to reform this bachelor into the ultimate Wife Guy – but why oh why did he have to choose that necklace?!\nI make it my business to do everything that Lucia might appreciate and improve my relationship status in GTA 6. Each interaction that will earn her acknowledgement is signposted with a little pink heart. Home improvements are a big one, but getting sexy is my top priority.\nGetting Jason in ship shape for his missus was not hard, at least from a physical perspective. Glancing at the fitness app, I see he's already ripped and has a low bodyfat percentage (what a show-off) at the start of the game, but there's always room for improvement.\nFrom kettlebells to bench presses, squats, and pull ups, Lucia clearly likes her man in tip top shape. My Jason is shredded now – Key Lento's very own beach bum hunk – and I take every opportunity to show flirtatious GTA 6 neighbour Mandy my disinterest in her possibly cannibalistic games. I go so far as to blow off main missions, emerging from the glittering waters outside Jason's crib at 2am to find a text from big boss Brian postponing a job because \"it's a little late now\". I lock in Jason's cardio workout with a protein shake and a cigarette, and go to bed excited to see my gains.\nBut everything I have done to make Jason the perfect man for Lucia suddenly comes under threat the day before her release. I pick up some spare clothes from Andy, just as she asked. I buy every single thing at the grocery store, including a fancy wine, bread, cereal… you know, real gourmet stuff. I order a bouquet of roses, the most expensive option at the florist. But then I reach Siren's Cove to buy her a necklace and my on",
+    "text": "It's GTA 6's world, and we're just living in it. Rockstar's latest release is an astonishing technical achievement to behold, confounding even developers working on big-budget games like Naughty Dog's Intergalactic: The Heretic Prophet. It's been 13 long years since GTA 5, but seeing the staggering advancements in visual detail, depth of interactivity, and overall scale in GTA 6, you'd think it's been even longer. And yet, CD Projekt Red says we'll see a similar technical leap in The Witcher 4 compared to The Witcher 3, which came out in 2015.\nDuring the Q&A portion of CDPR's latest earnings call, joint-studio CEO Michał Nowakowski fields a question about GTA 6 and whether The Witcher fans can expect a similar improvement from The Witcher 4. He says the team at CDPR \"did look at [GTA 6]\" and \"did see the differences,\" and \"we believe there's gonna be a comparable leap between Witcher 3 and Witcher 4.\"\n\"It's been 11 years, we are working on The Witcher 4 to make it significantly better looking and improved in terms of pretty much every possible facet of the game, so yes, you can expect us to make a much bigger jump between The Witcher 3 and The Witcher 4,\" says Nowakowski.\nThere aren't many (read: any) studios with GTA 6's budget, which of course is supplied by Rockstar parent company Take-Two Interactive, but CDPR definitely has the resources to craft huge, visually stunning worlds packed with detail and complex systems that rival today's most expansive AAA games. Cyberpunk 2077 is the most recent example, but even 11 years on, The Witcher 3 absolutely holds up to modern open-world standards.\nWe're still a couple of years out from The Witcher 4's estimated 2028 release, but there's every reason to believe it'll make The Witcher 3 look downright dated, even after its recent remaster. Whether it'll truly mark a leap comparable to what Rockstar managed from GTA 5 to GTA 6 is a very different question we'll have to wait to answer.\nCiri in The Witcher 4 is \"far more hot-headed\" than Geralt, CD Projekt Red lead says, and \"you are much more deeply involved in the story through her personal perspective\"\nWeekly digests, tales from the communities you love, and more\nAfter earning an English degree from ASU, I worked as a corporate copy editor while freelancing for places like SFX Magazine, Screen Rant, Game Revolution, and MMORPG on the side. I got my big break here in 2019 with a freelance news gig, and I was hired on as GamesRadar's west coast Staff Writer in 2021",
     "extra": {
-     "image": "https://cdn.mos.cms.futurecdn.net/JDcDS3XG3Ym8vfomVYNjqG-1920-80.jpg"
+     "image": "https://cdn.mos.cms.futurecdn.net/DGnMUzTLacm59A4tLG9vi-1920-80.jpg"
     }
    },
    "verdict": {
     "type": "confirmed",
-    "importance": 7,
-    "post": "КАК СДЕЛАТЬ ИЗ ДЖЕЙСОНА ПОДСНЕЖНИКА\n\nВ GTA 6 можно превратить нашего брутального Джейсона в идеального мужа для Люсии. Разрабы знатно порофлили над бытом холостяка, но возможность обустроить жилье и подкачать героя ради отношений — это лютая база. Главное — не слить все бабки на кринжовые подарки в Siren's Cove, как автор статьи, а то выйдет не романтика, а полный тильт.",
-    "card_title": "КАК СДЕЛАТЬ ИЗ ДЖЕЙСОНА ПОДСНЕЖНИКА",
-    "reason": "Интересная механика отношений и быта Джейсона, которая зацепит игроков.",
+    "importance": 6,
+    "post": "Ведьмак 4 будет на уровне GTA 6\n\nРазрабы из CDPR глянули на нашу любимую GTA 6 и решили, что их следующий «Ведьмак» совершит такой же лютый технический скачок по сравнению с третьей частью. Обещают, что графон и интерактивность будут просто пушка, ждем 2028 год.\n\n❤️ — Верим в поляков!\n👎 — Опять кормят завтраками",
+    "card_title": "ВЕДЬМАК 4 СРАВНЯЮТ С GTA 6",
+    "reason": "Официальное заявление разработчиков CD Projekt Red о сравнении технического прогресса с GTA 6.",
     "duplicate": false,
     "corroborated": false,
     "duplicate_of": "",
@@ -21392,7 +21537,7 @@
     "model": "gemini:gemini-3.1-flash-lite"
    },
    "corr": false,
-   "since": "2026-11-24T19:22:34.298854+00:00"
+   "since": "2026-11-24T19:39:18.387407+00:00"
   }
  ]
 }
