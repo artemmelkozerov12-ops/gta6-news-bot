@@ -3447,7 +3447,23 @@
   "f76c5ad30ef4d024": "2026-11-24T09:26:23.644497+00:00",
   "37343f25fdfbce5a": "2026-11-24T09:26:57.545723+00:00",
   "cc6bebd987b84e0a": "2026-11-24T09:27:56.493892+00:00",
-  "fdf275468fe1c6e0": "2026-11-24T09:37:11.081293+00:00"
+  "fdf275468fe1c6e0": "2026-11-24T09:37:11.081293+00:00",
+  "3d07ba9ef4c326c6": "2026-11-24T09:58:32.170803+00:00",
+  "0d64c8e4607c83bf": "2026-11-24T09:58:39.070452+00:00",
+  "267cdf66dd935375": "2026-11-24T09:58:42.780096+00:00",
+  "75af30f2b976b929": "2026-11-24T09:58:45.975340+00:00",
+  "f286a84e9f3234fe": "2026-11-24T09:58:51.308026+00:00",
+  "9facc6095cf7e5d3": "2026-11-24T09:59:07.182446+00:00",
+  "f75fae5fc8827068": "2026-11-24T09:59:08.447211+00:00",
+  "4e133b2a8272cd16": "2026-11-24T09:59:11.323200+00:00",
+  "8b03390a85fa9771": "2026-11-24T09:59:19.017655+00:00",
+  "5a02ea6ad3a9f733": "2026-11-24T10:14:35.779022+00:00",
+  "df58dd00d0dad892": "2026-11-24T10:14:35.826721+00:00",
+  "7f8d7701e5456ba7": "2026-11-24T10:17:03.110066+00:00",
+  "c52e50f08f248978": "2026-11-24T10:18:48.227777+00:00",
+  "060f477ac3f6c729": "2026-11-24T10:19:55.227331+00:00",
+  "c9dc17695fa14ea2": "2026-11-24T10:20:06.226524+00:00",
+  "8afcffb0d34376f8": "2026-11-24T10:20:25.072914+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -5802,7 +5818,22 @@
   "719086e0fefae999": "2026-11-24T09:20:12.827127+00:00",
   "93a5a38d5de9a3a4": "2026-11-24T09:20:17.568494+00:00",
   "92374559ccc6c60b": "2026-11-24T09:20:23.824494+00:00",
-  "85b1e9cf57568cb8": "2026-11-24T09:37:11.081293+00:00"
+  "85b1e9cf57568cb8": "2026-11-24T09:37:11.081293+00:00",
+  "dc44138fcf777e80": "2026-11-24T09:58:32.170803+00:00",
+  "3adf22d1ae70b5ad": "2026-11-24T09:58:39.070452+00:00",
+  "67ba8a24b1d63e7b": "2026-11-24T09:58:42.780096+00:00",
+  "f61b98efc83bd8d9": "2026-11-24T09:58:45.975340+00:00",
+  "f4447004bab3da65": "2026-11-24T09:58:51.308026+00:00",
+  "ec2121c11ad40c07": "2026-11-24T09:59:07.182446+00:00",
+  "6cec7e59523f2c45": "2026-11-24T09:59:08.447211+00:00",
+  "cb938ebca8ce8fa5": "2026-11-24T09:59:11.323200+00:00",
+  "99fec0ed1ddaf514": "2026-11-24T09:59:19.017655+00:00",
+  "cf32a3d26209ca34": "2026-11-24T10:14:35.826721+00:00",
+  "c1ab7e379fa3c507": "2026-11-24T10:17:03.110066+00:00",
+  "3632860e20fc4687": "2026-11-24T10:18:48.227777+00:00",
+  "39ba9d3b69ee9df8": "2026-11-24T10:19:55.227331+00:00",
+  "972690382f4b0b67": "2026-11-24T10:20:06.226524+00:00",
+  "88448f2490d7ee6e": "2026-11-24T10:20:25.072914+00:00"
  },
  "recent": [
   {
@@ -14660,6 +14691,134 @@
    "status": "queued",
    "ts": "2026-11-24T09:41:52.601891+00:00",
    "card_title": "ЦЕНЗУРА В GTA 6"
+  },
+  {
+   "title": "How to Auto Drive in GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-24T09:58:32.170874+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI Hits 39 Million PS5 Players in Biggest Launch Ever, Sony Confirms",
+   "source": "Rockstar Intel",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-24T09:58:40.064305+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI players have found an NPC who just WON'T go down. They're calling him the \"Terminator,\" and taking him out comes with a surprisingly big cash reward. Writer: Julie",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T09:58:42.780245+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Игроки обнаружили россиянку среди героев GTA 6: она пять лет работала над персонажем",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T09:58:45.975512+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Шаманы XXI века предсказывают: GTA 6 Online даст бой самой Fortnite по доходам",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T09:58:51.308164+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "There's A Secret Super Mario Easter Egg Hidden In GTA VI With Hats As Rewards",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T09:59:07.182598+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Gas Stations Map: All 57 Locations and Details",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T09:59:08.447360+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI scam steals passwords through fake PC client",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T09:59:11.323337+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Геймеры нашли способ играть в GTA 6 от первого лица — вот как можно переключить камеру",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T09:59:19.017777+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 is Officially the Biggest Launch in PlayStation History",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-24T10:14:35.779068+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 is Officially the Biggest Launch in PlayStation History",
+   "source": "Polygon",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-24T10:14:35.826769+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "More than 39 million people have played GTA 6 on PlayStation alone, Sony says, as the game breaks all-time player numbers on the platform",
+   "source": "Eurogamer",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-24T10:17:55.201783+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Rockstar Games reveals 23 extra tracks in GTA 6's deluxe edition soundtrack, featuring Denzel Curry, HEALTH, and more",
+   "source": "Eurogamer",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-24T10:19:18.414098+00:00",
+   "card_title": "23 НОВЫХ ТРЕКА В GTA 6"
+  },
+  {
+   "title": "GTA 6 Wasted or Busted: What You Lose, Including Your Pocket Cash",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T10:19:55.227467+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Grand Theft Auto 6 fans spot north Florida landmarks in video game",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T10:20:06.226662+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Cyberpunk 2 «отменили» из-за страха конкуренции с GTA 6",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T10:20:25.073044+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -15100,6 +15259,35 @@
   },
   {
    "item": {
+    "title": "Rockstar Games reveals 23 extra tracks in GTA 6's deluxe edition soundtrack, featuring Denzel Curry, HEALTH, and more",
+    "link": "https://www.eurogamer.net/gta-6-deluxe-edition-soundtrack-23-extra-tracks",
+    "summary": "For those of you out there in love with Grand Theft Auto 6 's soundtrack, you'll be happy to know that Rockstar Games have revealed an additional 23 tracks as part of the game's deluxe edition album. Read more",
+    "published": "2026-11-24T10:03:50+00:00",
+    "source": "Eurogamer",
+    "site_name": "Eurogamer",
+    "trust": "high",
+    "text": "For those of you out there in love with Grand Theft Auto 6's soundtrack, you'll be happy to know that Rockstar Games have revealed an additional 23 tracks as part of the game's deluxe edition album.\nThese tracks, available via streaming services, include songs from artists like HEALTH, Denzel Curry, Playboi Carti, and more. You can find the full track list on the official Rockstar Games music website.\nSome of these artists played a significant role in the game. Justice, for example, helped compose the game's original soundtrack and several of their tracks appear throughout the game. There are others, too.\nBoth Sexyy Red and Denzel Curry voice characters in the game's later chapters. Others like Kodack Black and Freddie Gibbs also show up, too - that's not to mention the huge number of musicians who make an appearance in the game's many radio stations. If you listen through those, you'll hear the voices of Keith Richards, Lana Del Ray, The Alchemist and others.\nMusical talent also played an additional role in creating the TV advertisements and shows you can watch in the game. Zack Fox is one example, as is Weird Al Yankovic. Both wrote parts of the game's enticing and absurd big screen entertainment - which makes sense given the pair's shared comedy background.\nIf you're playing through the game right now, you may benefit from Eurogamer's GTA 6 walkthrough, as well as the full list of GTA 6 cheats.",
+    "extra": {
+     "image": "https://assetsio.gnwcdn.com/grand-theft-auto-6-nightclub-scene.png?width=690&quality=85&format=jpg&auto=webp"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "🎧 +23 ТРЕКА В САУНДТРЕК GTA 6\n\nRockstar выкатили 23 дополнительных трека из Deluxe-издания на стриминги. В списке — Denzel Curry, HEALTH, Playboi Carti и другие имбовые исполнители.\n\nКстати, Denzel Curry и Sexyy Red не просто дали музыку, а озвучили персонажей в поздних главах! А радиостанции забиты голосами от Ланы Дель Рей до Кита Ричардса. Вайб на максимуме, го слушать! 🔊",
+    "card_title": "23 НОВЫХ ТРЕКА В GTA 6",
+    "reason": "Официальный анонс Rockstar о добавлении 23 треков в делюкс-саундтрек GTA 6, подтверждённый Eurogamer.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-4-hydrogen → gemini:gemini-3.5-flash"
+   },
+   "queued_at": "2026-11-24T10:19:18.414087+00:00"
+  },
+  {
+   "item": {
     "title": "Владельцы PlayStation 5 уже получили две платины в GTA VI",
     "link": "https://ixbt.games/news/2026/11/24/vladelcy-playstation-5-uze-polucili-dve-platiny-v-gta-vi.html",
     "summary": "Два игрока первыми в мире открыли платиновый трофей в GTA VI на PS5, опередив более 32 млн владельцев игры.",
@@ -15185,7 +15373,9 @@
     "guide": false,
     "model": "gemini:gemini-3.1-flash-lite → gemini:gemini-3.5-flash"
    },
-   "queued_at": "2026-11-24T09:41:52.601880+00:00"
+   "queued_at": "2026-11-24T09:41:52.601880+00:00",
+   "moderation": "pending",
+   "draft_msg_id": 127
   },
   {
    "item": {
@@ -15291,7 +15481,8 @@
   "2026-11-24T06:02:05.423698+00:00",
   "2026-11-24T07:03:01.494680+00:00",
   "2026-11-24T08:03:13.983642+00:00",
-  "2026-11-24T09:04:41.289540+00:00"
+  "2026-11-24T09:04:41.289540+00:00",
+  "2026-11-24T10:05:15.058615+00:00"
  ],
  "slots_sent": {
   "2026-11-22:guide:1": "2026-11-22T08:01:32.386719+00:00",
