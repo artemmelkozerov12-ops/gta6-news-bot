@@ -3919,7 +3919,23 @@
   "5f069c9fa42358ff": "2026-11-24T22:56:56.894178+00:00",
   "140b75b3d394fdbd": "2026-11-24T22:56:58.287066+00:00",
   "b94e4c7aadaa6806": "2026-11-24T22:56:59.403315+00:00",
-  "2ff2c3fa5bbd27ac": "2026-11-24T22:57:00.441428+00:00"
+  "2ff2c3fa5bbd27ac": "2026-11-24T22:57:00.441428+00:00",
+  "e8c1e104002abd10": "2026-11-24T23:12:24.511977+00:00",
+  "786d794afaf7de05": "2026-11-24T23:12:27.021318+00:00",
+  "74881c6918da9d04": "2026-11-24T23:12:28.135262+00:00",
+  "ee7635748f26fec4": "2026-11-24T23:12:29.458844+00:00",
+  "d0ea3c408c8c56ba": "2026-11-24T23:12:30.785219+00:00",
+  "2e5feeaa64c8dcc4": "2026-11-24T23:12:32.021059+00:00",
+  "bc27defa003d5ef0": "2026-11-24T23:12:33.230614+00:00",
+  "08e65170ba4d260d": "2026-11-24T23:12:34.082767+00:00",
+  "7c8168171dd3583d": "2026-11-24T23:28:00.558200+00:00",
+  "898838d52c4f8a45": "2026-11-24T23:28:08.485044+00:00",
+  "1d689b0a5d369638": "2026-11-24T23:28:16.798634+00:00",
+  "546d9280062780ca": "2026-11-24T23:28:24.278965+00:00",
+  "f1c0b97c2960a6bb": "2026-11-24T23:28:32.793177+00:00",
+  "119b17ef16c4be76": "2026-11-24T23:28:39.640219+00:00",
+  "233bb71a3b670eba": "2026-11-24T23:28:48.950573+00:00",
+  "2eafdfa5f128097c": "2026-11-24T23:28:56.667078+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -6556,7 +6572,23 @@
   "d284522360fb57e0": "2026-11-24T22:56:56.894178+00:00",
   "27efa67054a149ea": "2026-11-24T22:56:58.287066+00:00",
   "91d753423895a5fd": "2026-11-24T22:56:59.403315+00:00",
-  "4671df3c72452a64": "2026-11-24T22:57:00.441428+00:00"
+  "4671df3c72452a64": "2026-11-24T22:57:00.441428+00:00",
+  "7308f525fb2917a8": "2026-11-24T23:12:24.511977+00:00",
+  "abb80d779c3377ec": "2026-11-24T23:12:27.021318+00:00",
+  "946d42e4941a6695": "2026-11-24T23:12:28.135262+00:00",
+  "84c8e48d7ed5a792": "2026-11-24T23:12:29.458844+00:00",
+  "028352f4f1edd48b": "2026-11-24T23:12:30.785219+00:00",
+  "2ed53da369902ca7": "2026-11-24T23:12:32.021059+00:00",
+  "5eeb1b126522f710": "2026-11-24T23:12:33.230614+00:00",
+  "41345876a1bedf7f": "2026-11-24T23:12:34.082767+00:00",
+  "29e589137667a3bc": "2026-11-24T23:28:00.558200+00:00",
+  "cced8aa51414fde7": "2026-11-24T23:28:08.485044+00:00",
+  "f7da18d160cb95d7": "2026-11-24T23:28:16.798634+00:00",
+  "d4c31b27ad504bea": "2026-11-24T23:28:24.278965+00:00",
+  "f290f8a084bced64": "2026-11-24T23:28:32.793177+00:00",
+  "78a9819b81223acb": "2026-11-24T23:28:39.640219+00:00",
+  "ba40235b2871af7e": "2026-11-24T23:28:48.950573+00:00",
+  "3c05c5d99c9666dc": "2026-11-24T23:28:56.667078+00:00"
  },
  "recent": [
   {
@@ -15606,6 +15638,142 @@
    "status": "skipped",
    "ts": "2026-11-24T22:57:00.441567+00:00",
    "card_title": ""
+  },
+  {
+   "title": "The difference between The Witcher 3 and Witcher 4 will be 'comparable' to that of GTA 5 and GTA 6, CD Projekt boss says: 'I mean, it's been 11 years'",
+   "source": "PC Gamer",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-24T23:12:24.512103+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Rockstar reportedly kills Project Leonida, a 15-year-old's GTA 6 PC port effort, along with its 180,000-member Discord",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T23:12:27.021452+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Mandy Location Explained: How To Find Her House And See Her Again",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T23:12:28.135394+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Witcher 4's evolution similar to GTA 5's leap to GTA 6, CD Projekt says",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T23:12:29.458974+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Unauthorized 'GTA 6' PC port shut down by Rockstar Games' parent company",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T23:12:30.785357+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Для запуска GTA 6 на ПК через проект VIctory потребуется минимум RTX 2080 Ti или RX 6700 XT",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T23:12:32.021193+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Директор Larian Studios похвалил GTA 6 за отказ от «подкаблучника»",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T23:12:33.230743+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "CDPR: «Ведьмак 4» превзойдет «Ведьмака 3», как GTA 6 затмила GTA 5",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T23:12:34.082890+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "The leap from The Witcher 3 to The Witcher 4 will be \"comparable\" to GTA 5 and GTA 6, says CDPR",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-24T23:27:52.521718+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 обещала 60 FPS из-за бага: проверка раскрыла неприятное",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T23:28:00.558321+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Rockstar Games kills unauthorized 'GTA 6' PC port, for obvious reasons",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T23:28:08.485171+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "We Tested GTA 6's Driving Physics And The Results Surprised Us",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T23:28:16.798771+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Как регистрировать больше машин в GTA 6. Как открыть больше слотов под тачки в ГТА 6",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T23:28:24.279099+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Запущен сайт слежения за неофициальными ПК-портами GTA 6 с прогрессом 72%",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T23:28:32.793298+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA V вернулась в топ-10 Steam на фоне выхода GTA 6 и скидки 56%",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T23:28:39.640342+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Змея Джейсона в GTA 6 довела до белого каления владелицу настоящих змей",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T23:28:48.950729+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "'GTA 6' is giving Carly Rae Jepsen's 'Run Away With Me' a second life",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T23:28:56.667217+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -22762,36 +22930,6 @@
   "digest-20261124": "2026-11-24T19:30:13.623703+00:00"
  },
  "rewrite_wait": [
-  {
-   "item": {
-    "title": "The leap from The Witcher 3 to The Witcher 4 will be \"comparable\" to GTA 5 and GTA 6, says CDPR",
-    "link": "https://www.gamesradar.com/games/the-witcher/the-leap-from-the-witcher-3-to-the-witcher-4-will-be-comparable-to-gta-5-and-gta-6-says-cdpr/",
-    "summary": "That's quite a leap",
-    "published": "2026-11-24T19:27:06+00:00",
-    "source": "GamesRadar+",
-    "site_name": "GamesRadar+",
-    "trust": "high",
-    "text": "It's GTA 6's world, and we're just living in it. Rockstar's latest release is an astonishing technical achievement to behold, confounding even developers working on big-budget games like Naughty Dog's Intergalactic: The Heretic Prophet. It's been 13 long years since GTA 5, but seeing the staggering advancements in visual detail, depth of interactivity, and overall scale in GTA 6, you'd think it's been even longer. And yet, CD Projekt Red says we'll see a similar technical leap in The Witcher 4 compared to The Witcher 3, which came out in 2015.\nDuring the Q&A portion of CDPR's latest earnings call, joint-studio CEO Michał Nowakowski fields a question about GTA 6 and whether The Witcher fans can expect a similar improvement from The Witcher 4. He says the team at CDPR \"did look at [GTA 6]\" and \"did see the differences,\" and \"we believe there's gonna be a comparable leap between Witcher 3 and Witcher 4.\"\n\"It's been 11 years, we are working on The Witcher 4 to make it significantly better looking and improved in terms of pretty much every possible facet of the game, so yes, you can expect us to make a much bigger jump between The Witcher 3 and The Witcher 4,\" says Nowakowski.\nThere aren't many (read: any) studios with GTA 6's budget, which of course is supplied by Rockstar parent company Take-Two Interactive, but CDPR definitely has the resources to craft huge, visually stunning worlds packed with detail and complex systems that rival today's most expansive AAA games. Cyberpunk 2077 is the most recent example, but even 11 years on, The Witcher 3 absolutely holds up to modern open-world standards.\nWe're still a couple of years out from The Witcher 4's estimated 2028 release, but there's every reason to believe it'll make The Witcher 3 look downright dated, even after its recent remaster. Whether it'll truly mark a leap comparable to what Rockstar managed from GTA 5 to GTA 6 is a very different question we'll have to wait to answer.\nCiri in The Witcher 4 is \"far more hot-headed\" than Geralt, CD Projekt Red lead says, and \"you are much more deeply involved in the story through her personal perspective\"\nWeekly digests, tales from the communities you love, and more\nAfter earning an English degree from ASU, I worked as a corporate copy editor while freelancing for places like SFX Magazine, Screen Rant, Game Revolution, and MMORPG on the side. I got my big break here in 2019 with a freelance news gig, and I was hired on as GamesRadar's west coast Staff Writer in 2021",
-    "extra": {
-     "image": "https://cdn.mos.cms.futurecdn.net/DGnMUzTLacm59A4tLG9vi-1920-80.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 6,
-    "post": "Ведьмак 4 будет на уровне GTA 6\n\nРазрабы из CDPR глянули на нашу любимую GTA 6 и решили, что их следующий «Ведьмак» совершит такой же лютый технический скачок по сравнению с третьей частью. Обещают, что графон и интерактивность будут просто пушка, ждем 2028 год.\n\n❤️ — Верим в поляков!\n👎 — Опять кормят завтраками",
-    "card_title": "ВЕДЬМАК 4 СРАВНЯЮТ С GTA 6",
-    "reason": "Официальное заявление разработчиков CD Projekt Red о сравнении технического прогресса с GTA 6.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.1-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-24T19:39:18.387407+00:00"
-  },
   {
    "item": {
     "title": "Exclusive: Sabii Garcia on the Drink Pose and Green Jersey in the GTA 6 Cover Art",
