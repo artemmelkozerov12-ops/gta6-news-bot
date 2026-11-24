@@ -3284,7 +3284,8 @@
   "1772d229eb7bd0db": "2026-11-24T04:10:57.048172+00:00",
   "4e1dff13b1c34b75": "2026-11-24T04:10:59.270496+00:00",
   "d5813fe442aa5660": "2026-11-24T04:11:00.662483+00:00",
-  "492c4bfa643e8c93": "2026-11-24T04:11:02.137636+00:00"
+  "492c4bfa643e8c93": "2026-11-24T04:11:02.137636+00:00",
+  "0f7bca1a9817790e": "2026-11-24T04:26:24.555128+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -5554,7 +5555,8 @@
   "0fe9c1899beafdb5": "2026-11-24T04:10:57.048172+00:00",
   "dfb1fb34353e636b": "2026-11-24T04:10:59.270496+00:00",
   "afbac53628688d24": "2026-11-24T04:11:00.662483+00:00",
-  "836a941751b16ad2": "2026-11-24T04:11:02.137636+00:00"
+  "836a941751b16ad2": "2026-11-24T04:11:02.137636+00:00",
+  "991e18dad9878d77": "2026-11-24T04:26:24.555128+00:00"
  },
  "recent": [
   {
@@ -12489,7 +12491,7 @@
    "title": "You Need to Watch GTA 6’s Telenovela Immediately",
    "source": "Polygon",
    "trust": "high",
-   "status": "queued",
+   "status": "published",
    "ts": "2026-11-23T20:11:03.461404+00:00",
    "card_title": "ТЕЛЕНОВЕЛЛА GTA 6"
   },
@@ -14140,6 +14142,38 @@
    "status": "skipped",
    "ts": "2026-11-24T04:11:02.137775+00:00",
    "card_title": ""
+  },
+  {
+   "title": "Sony Touts Nearly 40 Million GTA 6 Players on PS5",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-24T04:26:22.883745+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Sony: GTA 6 set record for 'highest number of concurrent players for any game on PlayStation' ever",
+   "source": "PC Gamer",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-24T04:26:22.883810+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Was Biggest Launch in PlayStation History",
+   "source": "IGN",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-24T04:26:22.883865+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Rob Run не сдаёт позиции. Бесплатная альтернатива GTA VI остаётся одной из самых прибыльных в Steam",
+   "source": "iXBT.games",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-24T04:26:24.555250+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -14405,37 +14439,6 @@
     "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
    },
    "queued_at": "2026-11-23T20:11:00.404270+00:00"
-  },
-  {
-   "item": {
-    "title": "You Need to Watch GTA 6’s Telenovela Immediately",
-    "link": "https://www.polygon.com/gta-6-telenovela-megamundo-el-destino-extiende-sus-alas/",
-    "summary": "GTA 6's Spanish-language TV channel features a soap opera called El Destino Extiende Sus Alas, and it should be considered required viewing",
-    "published": "2026-11-23T18:01:08+00:00",
-    "source": "Polygon",
-    "site_name": "Polygon",
-    "trust": "high",
-    "text": "There is a ton of stuff to do in Grand Theft Auto 6. You can rob jewelry stores and steal exotic supercars. You can go scuba diving and hunt for pirate treasure. On the other end of the spectrum, you can trawl yard sales and vintage stores to expand your in-game collection of novelty T-shirts. In addition to a comprehensive variety of radio stations and podcasts, there are also three basic TV channels to choose from: Visit Leonida, Megamundo, and Weazel. The Spanish-language Megamundo — a parody of the real-world Telemundo — is the best of the bunch, and that's all down to one show that sunk its claws into me the second I tuned in: El Destino Extiende Sus Alas, which translates to \"destiny spreads its wings.\"\nThis soap opera centers on the intense drama within a wealthy family. Patriarch Don Antonio de Ramos moves to rewrite his will to name the domestic worker Marisol as heir to his land, which sets off a war between his son and second wife as they all jostle for control over the lavish estate. El Destino Extiende Sus Alas is a parody of a well-known Colombian soap from the early 2000s called Pasión de Gavilanes, which you can watch free on Pluto TV.\nAfter watching a really hokey fight sequence in which Don Antonio defends Marisol's honor by very slowly punching a man and then setting him on fire by tossing his cigar, I was locked in. GTA 6 kept trying to subtly pull me away from the show by zooming out from Jason and Lucia's television, wordlessly suggesting I get up and move around, maybe eat a protein bar and do some squats. No way! I had to see what happened next.\nI didn't grow up speaking Spanish at home, but I studied it through middle school and high school. Watching telenovelas definitely helped me to learn the language, because I loved all the melodrama and wild twists. If you enjoy any of the following things, you should definitely watch El Destino Extiende Sus Alas:\nMan fighting a mountain lion that is clearly a dummy\nExtremely stilted fight choreography and glacially paced fistfights\nIf you're interested in checking out the show but don't want to wait for it to air on Megamundo, you can already find it on YouTube. The Stone Age Gaming Channel has the entire 40-minute storyline, with English subtitles as well.\nAs someone who had secretly hoped that GTA 6 would include some sort of dynamic \"chisme system\" where speaking Spanish unlocked unique rumors and missions, I'm loving discovering stuff like this. I'm sure there'll be thousands of social m",
-    "extra": {
-     "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/screenshot-2026-11-23-at-10-57-51-am.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "🗺 Гайд: Как посмотреть теленовеллу в GTA 6\n\n1️⃣ Включи любой телевизор в игре и переключи канал на Megamundo.\n2️⃣ Найди передачу «El Destino Extiende Sus Alas» – там драмы, огонь и даже бой с плюшевым львом 🔥.\n3️⃣ Смотри в игре или зайди на YouTube‑канал Stone Age Gaming, где уже выложено полное 40‑минутное видео с субтитрами.",
-    "card_title": "ТЕЛЕНОВЕЛЛА GTA 6",
-    "reason": "Обзор крутой внутриигровой пасхалки и ТВ-шоу в GTA 6,Confirmed по материалу крупного СМИ Polygon.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-23T20:11:03.461390+00:00",
-   "moderation": "pending",
-   "draft_msg_id": 118
   },
   {
    "item": {
@@ -14816,9 +14819,10 @@
   "2026-11-23T18:15:29.675198+00:00",
   "2026-11-23T18:31:04.220563+00:00",
   "2026-11-23T20:00:00.591069+00:00",
-  "2026-11-23T21:50:40.027944+00:00"
+  "2026-11-23T21:50:40.027944+00:00",
+  "2026-11-24T04:31:49.377232+00:00"
  ],
- "tg_offset": 387129072,
+ "tg_offset": 387129073,
  "channel": {
   "id": -1003986639147,
   "title": "GTA 6 | Горячие новости",
@@ -21353,6 +21357,13 @@
    "title": "Cyberleek выложил exe‑файл Xbox‑билда GTA 6",
    "importance": 9,
    "kind": "confirmed"
+  },
+  {
+   "ts": "2026-11-24T04:31:49.377247+00:00",
+   "msg_id": 76,
+   "title": "Как посмотреть теленовеллу в GTA 6",
+   "importance": 7,
+   "kind": "confirmed"
   }
  ],
  "extras": [],
@@ -21364,66 +21375,6 @@
   "digest-20261123": "2026-11-23T19:30:46.041576+00:00"
  },
  "rewrite_wait": [
-  {
-   "item": {
-    "title": "Sony Touts Nearly 40 Million GTA 6 Players on PS5",
-    "link": "https://insider-gaming.com/40-million-gta-6-players-ps5/",
-    "summary": "Four days removed from launch, Sony is already reporting insane player numbers for GTA 6. As is stands, nearly 40 million have jumped in. The post Sony Touts Nearly 40 Million GTA 6 Players on PS5 appeared first on Insider Gaming .",
-    "published": "2026-11-24T00:16:35+00:00",
-    "source": "Insider Gaming",
-    "site_name": "Insider Gaming",
-    "trust": "medium",
-    "text": "It’s already been a whirlwind for GTA 6 since it launched just last Thursday. Since then, Rockstar’s new masterpiece has been rated #1 all-time by critics, review-bombed by certain players, and everything in between.\nTurns out overall, however, the game seems to be doing incredibly well. New data shared by Sony shows that in the last four days, nearly 40 million unique players have decided to jump into GTA 6 on PS5.\nYou can purchase Grand Theft Auto 6 here if you want to see what all the hype is about.\nA few days ago, GTA 6 publisher Take-Two Interactive already claimed that the game had sold over 32 million units. Today, information provided by Sony shows that the actual current player base has moved several million beyond that number on PS5 consoles alone.\nIn a post on PlayStation Blog, Sony mentions that GTA 6 has been the largest single-game launch in the history of PlayStation across all generations. At the time of their story going live, over 39 million unique players had started the game. It’s important to note that the number of “unique players” does not directly correlate to the total number of sales, but it’s still an insane player count regardless.\nFurther fleshing out this staggering number of players, it’s also claimed that 683 million collective hours of GTA 6 have been played by these 39 million users on PS5, which averages out to about 17.4 hours per person since November 19.\nPS Blog also states that GTA 6 broke the record for the title with the most concurrent players at once on PlayStation, and 70% of new consoles purchased since the game came out booted up GTA 6 before anything else.\nWe’ve yet to see Xbox report on player count stats for GTA 6 since launch, but whatever the number of players on the Microsoft console is, combined with PS5’s 39 million+, is sure to be even more staggering.\nAre you one of the 40 million GTA 6 players on PS5? Let us know what you think so far in the Insider Gaming Discord server.\nHopped in already and need some tips? We’ve got plenty of guides and walkthroughs ready to go. For more, make sure to subscribe to the Insider Gaming weekly newsletter.\nNOTE: Insider Gaming may earn affiliate commission if you purchase items through links on Insider Gaming. Read more about affiliate commission here.\nEthan Krieger got started as a sports journalist covering the NBA, but video games have always been his main passion. Since then, he's edited and written for multiple gaming outlets,…\nGod of War’s Deborah Ann Woll Named ",
-    "extra": {
-     "image": "https://insider-gaming.com/wp-content/uploads/2026/11/IMG_9376.jpeg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "ПОЧТИ 40 МИЛЛИОНОВ игроков на PS5\n\nSony поделилась инфой: за первые дни в GTA 6 ворвалось почти 40 млн уникальных типов. Самый крупный запуск в истории PlayStation, вайб дикий.\n\n❤️ — Успех, база!\n👎 — Да у меня катка не грузит",
-    "card_title": "40 МИЛЛИОНОВ ИГРОКОВ НА PS5",
-    "reason": "Sony officially reported nearly 40 million players on PS5, breaking records.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "GTA 6 установила рекорд PS5: 39 млн игроков за 72 часа",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-24T00:22:40.257219+00:00"
-  },
-  {
-   "item": {
-    "title": "Sony: GTA 6 set record for 'highest number of concurrent players for any game on PlayStation' ever",
-    "link": "https://www.pcgamer.com/games/grand-theft-auto/sony-gta-6-set-record-for-highest-number-of-concurrent-players-for-any-game-on-playstation-ever/",
-    "summary": "The industry is finding new milestones to measure GTA 6's success.",
-    "published": "2026-11-24T00:14:36+00:00",
-    "source": "PC Gamer",
-    "site_name": "PC Gamer",
-    "trust": "high",
-    "text": "GTA 6 has been shattering records since before it came out, becoming the top-rated game in the history of Metacritic before it had the biggest entertainment launch (by dollars) in history. Sony is now joining in that victory lap by sharing GTA 6 milestones as they pertain to PlayStation.\n\"More than 39 million unique players have experienced Jason and Lucia's story in Grand Theft Auto 6 on PlayStation 5,\" Sony content communications manager Tim Turi wrote in a blog post today. That is a staggering number, especially considering GTA 6 also launched on Xbox and will (eventually) hit PC.\nBut that's not a sales record—Rockstar still has a ways to go to surpass GTA 5's 230 million lifetime sales. What is unprecedented, at least for PlayStation, is GTA 6's concurrents over launch weekend.\n\"GTA 6 set a new record for the highest number of concurrent players for any game on PlayStation, surpassing previous records across multiplayer, free-to-play, and single-player titles,\" Turi said.\nThat's the wild one to me, because that means more people were playing GTA 6 at the same time on the largest console platform than Call of Duty, GTA 5, or even Fortnite has ever achieved. Turi didn't share the concurrent figure itself, which is too bad—Steam remains the only platform that hands out exact player data. If the figure is theoretically higher than some of the biggest concurrent peaks we know about on Steam, then it could've been as high as 3-4 million players.\nOn average, those 39 million PS5 players logged 17.4 hours over four days. Let's just say my hour count represents the higher end of that average, and I'm still less than halfway through the main story.\nGTA 6 guide: One-stop info shopGTA 6 map: The full Vice City tourGTA 6 cheats: A complete listGTA 6 radio: All the songs and stationsGTA 6 romance: How to keep a strong bond\nKeep up to date with the most important stories and the best deals, as picked by the PC Gamer team.\nMorgan has been writing for PC Gamer since 2018, first as a freelancer and currently as a staff writer. He has also appeared on Polygon, Kotaku, Fanbyte, and PCGamesN. Before freelancing, he spent most of high school and all of college writing at small gaming sites that didn't pay him. He's very happy to have a real job now. Morgan is a beat writer following the latest and greatest shooters and the communities that play them. He also writes general news, reviews, features, the occasional guide, and bad jokes in Slack. Twist his arm, and he'll even w",
-    "extra": {
-     "image": "https://cdn.mos.cms.futurecdn.net/dMuVMfRwWo2raGaXFzDHHD-1920-80.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 9,
-    "post": "РЕКОРД ОНЛАЙНА НА PS5\n\nSony официально подтвердили: GTA 6 разнесла все рекорды и собрала абсолютный пик одновременных игроков в истории PlayStation. База лютая, даже Fortnite столько не вывозил.",
-    "card_title": "РЕКОРД ОНЛАЙНА В GTA 6 НА PS5",
-    "reason": "Official record-breaking player stats on PlayStation shared by Sony.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-24T00:22:51.384836+00:00"
-  },
   {
    "item": {
     "title": "GTA VI стала крупнейшим запуском в истории PlayStation: игру запустили более 39 млн пользователей PS5",
@@ -21453,36 +21404,6 @@
    },
    "corr": false,
    "since": "2026-11-24T00:55:00.049377+00:00"
-  },
-  {
-   "item": {
-    "title": "GTA 6 Was Biggest Launch in PlayStation History",
-    "link": "https://www.ign.com/articles/gta-6-was-biggest-launch-in-playstation-history",
-    "summary": "Now that the dust has somewhat settled after the avalanche that was the launch of GTA 6, PlayStation has revealed some of its stats from the game, revealing that this was the single largest game release in PlayStation history.",
-    "published": "2026-11-24T00:14:18+00:00",
-    "source": "IGN",
-    "site_name": "IGN",
-    "trust": "high",
-    "text": "Now that the dust has somewhat settled after the avalanche that was the launch of GTA 6, PlayStation has revealed some of its stats from the game, revealing that this was the single largest game release in PlayStation history.\nPlayStation’s November 23 blog post states that more than 39 million unique players have played the game on the PlayStation 5, setting a new record for the highest number of concurrent players for any PlayStation game. This beats out other records for multiplayer games, single-player games, and perhaps most astonishingly, even free-to-play titles.\nOn top of that, GTA 6 players logged a total of 683 million hours played in the game, with the average player spending an estimated 17.4 hours sticking up virtual pawn shops and stealing NPC’s cars during its first few days.\nWhat’s more impressive is the sheer amount of people who purchased PS5s specifically to play GTA 6. PlayStation’s blog says it saw the “largest number of newly-connected PS5 consoles on a single day” since the console’s launch in November 2020, not counting end-of-year holidays like Christmas. Since GTA 6’s launch, it was the first game played on 70% of these new consoles.\nGTA 6 has, perhaps unsurprisingly, broken a slew of big records. The most prominent of these is its status as the biggest entertainment launch of all time, with Rockstar reporting that the game earned $3.79 billion in its first 24 hours.\nOn top of this, internet provider Comcast said that GTA 6’s launch day was its highest-traffic day ever, with 24% of all its internet traffic during peak times coming from users downloading and playing Rockstar’s latest offering. Xbox had its own big records, too; Xfinity, which is under the Comcast umbrella, said GTA 6 increased the internet traffic on Xbox consoles by four times the normal amount this November.\nPeople are still making new discoveries in this game, and there’s bound to be many more that pop up over the next few months. GTA 6 is up for eight awards at The Game Awards and has enjoyed massive critical reception, with IGN scoring it a glowing 10 out of 10 — the title of ‘Masterpiece.’ Reviewer Luke Reilly praised the game for being “exquisitely detailed, endlessly ripe for experimentation, and uncompromisingly engineered,” saying “Grand Theft Auto 6 is the single most impressive video game I have ever played.”\nIt’s unlikely that we see a game release as big as this one, with such a massive cultural impact, ever again. Rockstar certainly set a new standar",
-    "extra": {
-     "image": "https://assets-prd.ignimgs.com/2026/11/23/gtavi-38-1795441920082.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "🚀 GTA 6 СЛОМАЛА PS5\n\n39 млн чел. зашли в игру, поставив рекорд по онлайну среди всех тайтлов PlayStation. Плюс 683 млн часов игрового времени за пару дней. Rockstar реально завезла: 70% новых PS5 включали именно ради шестёрки. Сочный рекорд, база.\n\n❤️ — Рокстар велика\n👎 — Серверы упали",
-    "card_title": "РЕКОРДЫ GTA 6 НА PS5",
-    "reason": "Официальные статистические данные от PlayStation о рекордах игры, подтверждённые IGN. Высокий интерес аудитории к масштабам успеха.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "groq:qwen/qwen3.8-27b"
-   },
-   "corr": false,
-   "since": "2026-11-24T00:55:19.541657+00:00"
   },
   {
    "item": {
