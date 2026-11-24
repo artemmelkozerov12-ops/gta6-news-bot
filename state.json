@@ -3622,7 +3622,22 @@
   "6f7220b33713d49f": "2026-11-24T14:46:11.103687+00:00",
   "c9f558c636a39f06": "2026-11-24T14:46:11.243033+00:00",
   "1474a73227991de4": "2026-11-24T14:46:11.246697+00:00",
-  "5781df600c6eb0e9": "2026-11-24T14:46:41.744256+00:00"
+  "5781df600c6eb0e9": "2026-11-24T14:46:41.744256+00:00",
+  "bd08a65e6010ae95": "2026-11-24T15:01:58.264164+00:00",
+  "dad352e52b112e30": "2026-11-24T15:02:47.546461+00:00",
+  "85383a5609e2f26d": "2026-11-24T15:02:48.508153+00:00",
+  "68a7d90f887bf9ed": "2026-11-24T15:02:50.116790+00:00",
+  "5f792891a600df19": "2026-11-24T15:02:51.028079+00:00",
+  "4609c91ee59c8e91": "2026-11-24T15:03:42.210100+00:00",
+  "658d4d448393fce1": "2026-11-24T15:03:43.080749+00:00",
+  "a033dfda08964e05": "2026-11-24T15:03:44.184572+00:00",
+  "580890552a1b0139": "2026-11-24T15:03:45.147810+00:00",
+  "2665ba64cd732346": "2026-11-24T15:18:09.703030+00:00",
+  "8d71b96476527847": "2026-11-24T15:18:09.932284+00:00",
+  "b8b548c1eee3be7d": "2026-11-24T15:20:08.007174+00:00",
+  "ea4cffa6c82de4b6": "2026-11-24T15:20:08.783849+00:00",
+  "fcfcedb5338a5fea": "2026-11-24T15:20:09.510779+00:00",
+  "53f8627e34fee60e": "2026-11-24T15:20:10.090867+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -6073,7 +6088,10 @@
   "d9b2b68228754c3d": "2026-11-24T14:30:09.459561+00:00",
   "fd2e8e2ab28c5fd2": "2026-11-24T14:46:11.103687+00:00",
   "8e783631d7d42e92": "2026-11-24T14:46:11.243033+00:00",
-  "6017bdc62cd9b36a": "2026-11-24T14:46:11.246697+00:00"
+  "6017bdc62cd9b36a": "2026-11-24T14:46:11.246697+00:00",
+  "aceb810319c5ba4b": "2026-11-24T15:01:58.264164+00:00",
+  "384b2475fcdbf0bf": "2026-11-24T15:18:09.703030+00:00",
+  "0c7ddbf30c043532": "2026-11-24T15:18:09.932284+00:00"
  },
  "recent": [
   {
@@ -14987,6 +15005,30 @@
    "status": "dup",
    "ts": "2026-11-24T14:46:11.246734+00:00",
    "card_title": ""
+  },
+  {
+   "title": "I Watched GTA 6's In-Game TV Shows For Hours, They're Absolutely Wild",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-24T15:01:58.264204+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Players Are Optimizing the Money Glitch to Within an Inch of Its Life to Make $100,000 in Just 10 Minutes",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-24T15:18:09.703081+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "“Cyberpunk 2 is Canceled” Jokes Creative Director After Playing GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-24T15:18:09.932355+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -22074,6 +22116,107 @@
    "title": "Mikkaa's EPIC ramp stunt",
    "drafted": false,
    "ts": "2026-11-24T14:46:41.744304+00:00",
+   "frames": []
+  },
+  {
+   "author": "youtube:rahul bhatia",
+   "vod": "",
+   "offset": -1,
+   "title": "That One GTA 6 Paglu Friend🎮🤣 #gta6 #relatable #comedy #trending #shorts",
+   "drafted": false,
+   "ts": "2026-11-24T15:02:47.546508+00:00"
+  },
+  {
+   "author": "youtube:jacobweeby",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 FILES ARE NOW ON PC #shorts",
+   "drafted": false,
+   "ts": "2026-11-24T15:02:48.508192+00:00"
+  },
+  {
+   "author": "youtube:dimucc",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA V vs GTA 6...",
+   "drafted": false,
+   "ts": "2026-11-24T15:02:50.116826+00:00"
+  },
+  {
+   "author": "youtube:spectrex gaming",
+   "vod": "",
+   "offset": -1,
+   "title": "Where to find the Scarface Easter egg & little friend unique weapon in GTA 6 👀",
+   "drafted": false,
+   "ts": "2026-11-24T15:02:51.028124+00:00"
+  },
+  {
+   "author": "youtube:edgarftw",
+   "vod": "",
+   "offset": -1,
+   "title": "EL FINAL DE JASON EN GTA 6!",
+   "drafted": false,
+   "ts": "2026-11-24T15:03:42.210139+00:00"
+  },
+  {
+   "author": "youtube:leanfijo1",
+   "vod": "",
+   "offset": -1,
+   "title": "JASON PUEDE VIAJAR EN EL TIEMPO EN GTA VI!! #gta6 #gtavi #vicecity #gta6gameplay #gtaviral",
+   "drafted": false,
+   "ts": "2026-11-24T15:03:43.080803+00:00"
+  },
+  {
+   "author": "twitch:哈耿",
+   "vod": "2939317723",
+   "offset": 4786.0,
+   "title": "公開道歉",
+   "drafted": false,
+   "ts": "2026-11-24T15:03:44.184621+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:mastersnakou",
+   "vod": "2938614628",
+   "offset": 4028.0,
+   "title": "MOM ? 😂",
+   "drafted": false,
+   "ts": "2026-11-24T15:03:45.147844+00:00",
+   "frames": []
+  },
+  {
+   "author": "youtube:edgarftw",
+   "vod": "",
+   "offset": -1,
+   "title": "DETENIENDO EL TREN EN GTA 6!",
+   "drafted": false,
+   "ts": "2026-11-24T15:20:08.007219+00:00"
+  },
+  {
+   "author": "twitch:staryuuki",
+   "vod": "2938941728",
+   "offset": 5257.0,
+   "title": "RESPETO",
+   "drafted": false,
+   "ts": "2026-11-24T15:20:08.783894+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:gotaga",
+   "vod": "2938725055",
+   "offset": 13158.0,
+   "title": "1",
+   "drafted": false,
+   "ts": "2026-11-24T15:20:09.510812+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:squeezie",
+   "vod": "2938523523",
+   "offset": 2016.0,
+   "title": "Voiture sur le toit",
+   "drafted": false,
+   "ts": "2026-11-24T15:20:10.090914+00:00",
    "frames": []
   }
  ],
