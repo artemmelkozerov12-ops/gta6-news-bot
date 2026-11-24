@@ -3268,7 +3268,12 @@
   "f3468bd420988a2f": "2026-11-24T03:09:07.185220+00:00",
   "ea2bc76e9df25e51": "2026-11-24T03:09:08.499601+00:00",
   "aaa0bae90ca04ede": "2026-11-24T03:09:09.966858+00:00",
-  "d3be5a6d3b82c629": "2026-11-24T03:09:18.419047+00:00"
+  "d3be5a6d3b82c629": "2026-11-24T03:09:18.419047+00:00",
+  "212dac0cd2cccdac": "2026-11-24T03:24:41.259758+00:00",
+  "2b8fc859b5b8e005": "2026-11-24T03:24:42.679109+00:00",
+  "bd2cb893ef2cb1c7": "2026-11-24T03:40:03.632994+00:00",
+  "077fc8473ef1e951": "2026-11-24T03:40:06.348764+00:00",
+  "f934e866e3fbd7c3": "2026-11-24T03:40:07.490814+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -5522,7 +5527,12 @@
   "522d4e66e82d3af5": "2026-11-24T03:09:07.185220+00:00",
   "98803cedae5d198b": "2026-11-24T03:09:08.499601+00:00",
   "c4dc1ded776e3e82": "2026-11-24T03:09:09.966858+00:00",
-  "bee5e533a8b43ac8": "2026-11-24T03:09:18.419047+00:00"
+  "bee5e533a8b43ac8": "2026-11-24T03:09:18.419047+00:00",
+  "28de39d3bea8faa4": "2026-11-24T03:24:41.259758+00:00",
+  "39c308033934a37a": "2026-11-24T03:24:42.679109+00:00",
+  "1c4d0f379df71131": "2026-11-24T03:40:03.632994+00:00",
+  "9ada86e5ae6b1551": "2026-11-24T03:40:06.348764+00:00",
+  "667f96e0a3ac7b0b": "2026-11-24T03:40:07.490814+00:00"
  },
  "recent": [
   {
@@ -13996,6 +14006,38 @@
    "status": "skipped",
    "ts": "2026-11-24T03:09:18.419201+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GTA 7 is already being teased by Rockstar Games in GTA 6 - I'm convinced",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T03:24:41.259888+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to Play Grand Theft Auto VI in the Cloud and with Remote Play",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T03:24:42.679232+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "«Мы получим GTA 6 на PC раньше официального релиза» — слив файлов Grand Theft Auto 6 продолжается",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T03:40:06.348906+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI Launch Weekend Sees Nearly 45 Million Copies Sold",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-24T03:40:07.490952+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -21459,6 +21501,34 @@
    },
    "corr": false,
    "since": "2026-11-24T02:37:48.716939+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA VI The Album Deluxe: Rockstar Adds 23 Songs",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9McEhOQllDdFNrNDhKVXpMZHNCeVhnLWw0MVB6cUJZSE9SX0RJQkVrWmZJR3ZRWHV3Z0FUR0hFLV9kUkMzR2xCUUZVbjVkR0FzTzdJWlhhVHQ0eTZXUF9zRU82OA?oc=5",
+    "summary": "GTA VI The Album Deluxe: Rockstar Adds 23 Songs Kazi Magazine",
+    "published": "2026-11-24T03:39:22+00:00",
+    "source": "Google News (EN)",
+    "site_name": "Kazi Magazine",
+    "trust": "rumor",
+    "text": "GTA VI The Album Deluxe: Rockstar Adds 23 Songs Kazi Magazine",
+    "extra": {}
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "🎵 АЛЬБОМ GTA 6 НА ВЫСОТЕ\n\nRockstar завезла в делюкс-издание саундтрека еще 23 трека. Самое то под новый плейлист для вечерних покатушек по вайбовому Вайс-Сити.\n\n❤️ — Уже в репите\n👎 — Жду кастомное радио",
+    "card_title": "АЛЬБОМ GTA 6 ПОПОЛНИЛСЯ",
+    "reason": "Rockstar добавила 23 новые песни в делюкс-альбом музыки из GTA 6",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": true,
+   "since": "2026-11-24T03:40:04.718482+00:00"
   }
  ]
 }
