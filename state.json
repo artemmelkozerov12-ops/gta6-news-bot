@@ -4195,7 +4195,33 @@
   "efb34c81aefcf195": "2026-11-25T15:14:34.609157+00:00",
   "e4f8d56adc3f48a2": "2026-11-25T15:15:04.928619+00:00",
   "edbe6269171e2045": "2026-11-25T15:15:48.456650+00:00",
-  "7eda75130b4ba9ac": "2026-11-25T15:31:44.155469+00:00"
+  "7eda75130b4ba9ac": "2026-11-25T15:31:44.155469+00:00",
+  "a315a55fa7597a51": "2026-11-25T15:48:24.414583+00:00",
+  "e4ccafaf5003597c": "2026-11-25T15:48:24.414683+00:00",
+  "405e7ad60ce5a8f7": "2026-11-25T15:48:33.580608+00:00",
+  "ae74177c621789dd": "2026-11-25T15:48:36.148125+00:00",
+  "4de9fba0fa8d3137": "2026-11-25T16:04:29.961742+00:00",
+  "920210cb4b30148f": "2026-11-25T16:04:30.166615+00:00",
+  "f36d2cd153936532": "2026-11-25T16:13:36.959969+00:00",
+  "11c30014f914a769": "2026-11-25T16:13:37.784537+00:00",
+  "712368833106ac78": "2026-11-25T16:13:38.691206+00:00",
+  "2bec2d591ec561e8": "2026-11-25T16:13:39.486817+00:00",
+  "820b33f2f5cbc7f2": "2026-11-25T16:14:30.517232+00:00",
+  "2efa831bf0f74666": "2026-11-25T16:14:31.337004+00:00",
+  "570d77f74b185f64": "2026-11-25T16:14:32.291314+00:00",
+  "f73d65d60749e002": "2026-11-25T16:14:33.086995+00:00",
+  "4041a9264282c8fa": "2026-11-25T16:15:24.114558+00:00",
+  "abe500b101e7f86d": "2026-11-25T16:15:25.146212+00:00",
+  "6da922083c1c162f": "2026-11-25T16:15:26.018786+00:00",
+  "5b5f7fb773775196": "2026-11-25T16:15:27.087383+00:00",
+  "7c959e8e02a0f1be": "2026-11-25T16:16:18.077379+00:00",
+  "b37b7fb1b5c926d7": "2026-11-25T16:16:18.952951+00:00",
+  "13ab0c922d9620ac": "2026-11-25T16:16:19.686001+00:00",
+  "44e9525824b9847b": "2026-11-25T16:16:20.019462+00:00",
+  "9bffbb1845df0dc4": "2026-11-25T16:17:10.491227+00:00",
+  "5b1c09024812af3a": "2026-11-25T16:17:10.794507+00:00",
+  "5347d5e59265a2b5": "2026-11-25T16:17:11.147857+00:00",
+  "84c689b28622550f": "2026-11-25T16:17:11.457902+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -7037,7 +7063,13 @@
   "9bc6b9a1888c9d41": "2026-11-25T15:14:34.609157+00:00",
   "080d7714e593a191": "2026-11-25T15:15:04.928619+00:00",
   "7a5763c87cd3624e": "2026-11-25T15:15:48.456650+00:00",
-  "3c058567209f8315": "2026-11-25T15:31:44.155469+00:00"
+  "3c058567209f8315": "2026-11-25T15:31:44.155469+00:00",
+  "fcb8e118dc7c46dd": "2026-11-25T15:48:24.414583+00:00",
+  "7208e6b9a5b48816": "2026-11-25T15:48:24.414683+00:00",
+  "3743a0898a85c791": "2026-11-25T15:48:33.580608+00:00",
+  "46215da018e860dc": "2026-11-25T15:48:36.148125+00:00",
+  "fdfc7f1feeedc4ef": "2026-11-25T16:04:29.961742+00:00",
+  "b95193d1b74f41dc": "2026-11-25T16:04:30.166615+00:00"
  },
  "recent": [
   {
@@ -15279,6 +15311,46 @@
    "status": "dup",
    "ts": "2026-11-25T15:31:44.155517+00:00",
    "card_title": ""
+  },
+  {
+   "title": "Seven Improvements We'd Still Love To See In GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-25T15:48:24.414639+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 May Actually Play Better on Xbox After All",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-25T15:48:24.414747+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Where To Find Granforma Tsunami Zorrusso In GTA 6—Fastest Cars Location & Stats",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-25T15:48:37.054003+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6: 10 Things You Shouldn’t Miss in Chapter 1",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-25T16:04:29.961792+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Max Verstappen says he played 40 hours of GTA 6 during victorious Las Vegas GP weekend",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-25T16:04:30.166681+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -15431,7 +15503,9 @@
     "guide": false,
     "model": "groq:openai/gpt-oss-120b → groq:openai/gpt-oss-120b"
    },
-   "queued_at": "2026-11-25T14:17:52.277933+00:00"
+   "queued_at": "2026-11-25T14:17:52.277933+00:00",
+   "moderation": "pending",
+   "draft_msg_id": 163
   },
   {
    "item": {
@@ -15554,35 +15628,6 @@
    "queued_at": "2026-11-25T11:42:40.662207+00:00",
    "moderation": "pending",
    "draft_msg_id": 156
-  },
-  {
-   "item": {
-    "title": "Почти 340 000 реальных игроков оценили GTA VI. Результат резко отличается от Metacritic",
-    "link": "https://ixbt.games/news/2026/11/25/pocti-340-000-realnyx-igrokov-ocenili-gta-vi-rezultat-rezko-otlicaetsia-ot-metacritic.html",
-    "summary": "Покупатели GTA VI в PlayStation Store поставили игре среднюю оценку 4,79 из 5 звёзд, что соответствует 9,6 балла из 10 и резко контрастирует с рейтингом на Metacritic.",
-    "published": "2026-11-25T03:42:00+00:00",
-    "source": "iXBT.games",
-    "site_name": "iXBT.games",
-    "trust": "medium",
-    "text": "Покупатели GTA VI в PlayStation Store поставили игре среднюю оценку 4,79 из 5 звёзд, что соответствует 9,6 балла из 10 и резко контрастирует с рейтингом на Metacritic.\nЕсли судить о GTA VI исключительно по пользовательским оценкам на Metacritic, можно решить, что Rockstar Games выпустила провальную игру. Интернет-тролли и недовольные фанаты конкурирующих проектов быстро опустили средний балл ниже половины возможной шкалы.\nВ PlayStation Store ситуация совершенно иная. Оценки здесь могут оставлять только проверенные владельцы игры, которые действительно приобрели её и запускали. 340 000 пользователей поставили новому приключению в Вайс-Сити в среднем 4,79 из 5 звёзд.\nОсобенно впечатляет распределение оценок: 93% покупателей выставили GTA VI максимальные пять звёзд, ещё 2% ограничились четвёркой. На тройки и двойки пришлось всего по 1% голосов, а минимальную оценку поставили лишь 3% игроков. Разница между реальными покупателями и пользователями открытых площадок, массово выставляющими игре нули, оказалась заметной.\nВ положительных отзывах часто хвалят огромный шаг вперёд по сравнению с GTA V. Игроки отмечают графику, физику, обилие деталей, развитие главного героя, разнообразие побочных занятий и естественные диалоги между Джейсоном и Люсией.\nИгра понравилась даже ветеранам серии, которые считали San Andreas вершиной франшизы. Некоторые признаются, что ограничение в 30 кадров в секунду временами мешает, однако не портит общего впечатления.\nОтрицательные отзывы выглядят содержательнее обычного троллинга. Недовольные покупатели указывают на конкретные решения Rockstar. Одним не нравится реализм, который, по их мнению, лишает игру прежней беззаботности: например, система расхода топлива и необходимость постоянно доставать оружие из багажника вместо привычного ношения целого арсенала. Другие критикуют начало сюжета, сложные отношения главных героев, неудобное управление во время стрельбы и ошибки.\nНе пропускайте наши новостиДобавьте сайт в предпочитаемые источники, чтобы видеть нас чащеДобавить в Google",
-    "extra": {
-     "image": "https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1746076/4848b9a0-3531-4445-b289-9b11cbecc311.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 6,
-    "post": "🎮 Реальные игроки ставят GTA VI 4.79/5\n\n340k владельцев в PS Store дали шедевру почти 5 звёзд — имба‑рейтинг, а Metacritic в шоке. 93% поставили пять, так что игра реально топчик. 🎯",
-    "card_title": "РЕАЛЬНЫЕ ОЦЕНКИ GTA VI",
-    "reason": "Подтверждённые данные о пользовательских оценках, интересны фанатам",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "groq:openai/gpt-oss-120b → groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-25T03:56:01.588565+00:00"
   }
  ],
  "posts": [
@@ -15656,7 +15701,8 @@
   "2026-11-25T12:03:09.950533+00:00",
   "2026-11-25T13:03:19.234874+00:00",
   "2026-11-25T14:03:34.684152+00:00",
-  "2026-11-25T15:03:40.761643+00:00"
+  "2026-11-25T15:03:40.761643+00:00",
+  "2026-11-25T16:11:56.509162+00:00"
  ],
  "slots_sent": {
   "2026-11-24:guide:1": "2026-11-24T14:08:00.473378+00:00",
@@ -21641,6 +21687,172 @@
    "ts": "2026-11-25T12:24:26.140881+00:00",
    "frames": [],
    "caption": "Сбил бабулю на электроскутере и сразу пошёл её облутать 💀 В Леониду завезли персональные коляски для пенсионеров — ору с"
+  },
+  {
+   "author": "youtube:windah basudara",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA VI MENUJU 100% APA YANG AKAN TERJADI KEPADA JASON DAN LUCIA.... GTA 6 GAMEPLAY #11",
+   "drafted": false,
+   "ts": "2026-11-25T16:13:36.960016+00:00"
+  },
+  {
+   "author": "youtube:ben esherick",
+   "vod": "",
+   "offset": -1,
+   "title": "Original GTA 6 Leaker IS FREE",
+   "drafted": false,
+   "ts": "2026-11-25T16:13:37.784576+00:00"
+  },
+  {
+   "author": "youtube:mrdiego",
+   "vod": "",
+   "offset": -1,
+   "title": "Lucía se glitcheaba 🗣️🔥 #memes #humor #meme #game #gta #gta6 #fail #bug",
+   "drafted": false,
+   "ts": "2026-11-25T16:13:38.691252+00:00"
+  },
+  {
+   "author": "youtube:cr1tikally online",
+   "vod": "",
+   "offset": -1,
+   "title": "IS GTA 6 A 10/10?  #moistcritikal #penguinz0 #gta6",
+   "drafted": false,
+   "ts": "2026-11-25T16:13:39.486866+00:00"
+  },
+  {
+   "author": "youtube:live insaan",
+   "vod": "",
+   "offset": -1,
+   "title": "Stealing Supercars and Masti in GTA 6🛑",
+   "drafted": false,
+   "ts": "2026-11-25T16:14:30.517278+00:00"
+  },
+  {
+   "author": "youtube:felipe panettoni",
+   "vod": "",
+   "offset": -1,
+   "title": "Acidente em GTA 6 deu muito dinheiro #gta #gta6 #gtavi",
+   "drafted": false,
+   "ts": "2026-11-25T16:14:31.337048+00:00"
+  },
+  {
+   "author": "youtube:wynnsanity",
+   "vod": "",
+   "offset": -1,
+   "title": "Secret Bugatti GLITCH in GTA 6",
+   "drafted": false,
+   "ts": "2026-11-25T16:14:32.291363+00:00"
+  },
+  {
+   "author": "youtube:retarda marques",
+   "vod": "",
+   "offset": -1,
+   "title": "COMO TER O GTA 6 #shorts",
+   "drafted": false,
+   "ts": "2026-11-25T16:14:33.087042+00:00"
+  },
+  {
+   "author": "youtube:filhote o gênio! 🧞‍♂️",
+   "vod": "",
+   "offset": -1,
+   "title": "POV: O GTA 6 não coube no seu PS5... 💾😭",
+   "drafted": false,
+   "ts": "2026-11-25T16:15:24.114605+00:00"
+  },
+  {
+   "author": "youtube:deankt",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA VI 60 FPS - JASON & LUCIA MERAMPOK BANK TERBESAR DI VICE CITY - EP. 10",
+   "drafted": false,
+   "ts": "2026-11-25T16:15:25.146258+00:00"
+  },
+  {
+   "author": "youtube:ranking moments in videogames",
+   "vod": "",
+   "offset": -1,
+   "title": "Ranking the best funny moments in GTA VI (part 5) 😂 #gta6 #funny #gaming",
+   "drafted": false,
+   "ts": "2026-11-25T16:15:26.018833+00:00"
+  },
+  {
+   "author": "youtube:زيـــد || 𝐙𝐀𝐈𝐃",
+   "vod": "",
+   "offset": -1,
+   "title": "زوجة تدمر لعبة GTA 6 الخاصة بزوجها لإزعاجه.. وشاهد المفاجأة التي أخرجها من الخزانة! 💔🥺 #shorts",
+   "drafted": false,
+   "ts": "2026-11-25T16:15:27.087433+00:00"
+  },
+  {
+   "author": "youtube:tui tên bô",
+   "vod": "",
+   "offset": -1,
+   "title": "🔴[GTA6]  CHAPTER III 51% , SUPERCAR",
+   "drafted": false,
+   "ts": "2026-11-25T16:16:18.077423+00:00"
+  },
+  {
+   "author": "youtube:whizly ae",
+   "vod": "",
+   "offset": -1,
+   "title": "\"The Best Ending🥹❤️‍🩹\" | GTA 6 Ending Edit | Love Me Not(Slowed) #shorts #gta6",
+   "drafted": false,
+   "ts": "2026-11-25T16:16:18.952990+00:00"
+  },
+  {
+   "author": "twitch:vinesauce",
+   "vod": "",
+   "offset": -1,
+   "title": "the dog incident",
+   "drafted": false,
+   "ts": "2026-11-25T16:16:19.686044+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:thegrefg",
+   "vod": "2939605097",
+   "offset": 3992.0,
+   "title": "un dia tranquilo",
+   "drafted": false,
+   "ts": "2026-11-25T16:16:20.019517+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:missmikkaa",
+   "vod": "2939364350",
+   "offset": 20945.0,
+   "title": "Mikkaa jumpscared!",
+   "drafted": false,
+   "ts": "2026-11-25T16:17:10.491281+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:cohhcarnage",
+   "vod": "2939838008",
+   "offset": 2928.0,
+   "title": "Cohhs GTA Racing Experience",
+   "drafted": false,
+   "ts": "2026-11-25T16:17:10.794561+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:delt4forc3",
+   "vod": "2939900839",
+   "offset": 9171.0,
+   "title": "DROPS GTA 6 CAMPAÑA Y EXPLORANDO #7 GTAVI !redes",
+   "drafted": false,
+   "ts": "2026-11-25T16:17:11.147909+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:egorkreed",
+   "vod": "2939607514",
+   "offset": 7134.0,
+   "title": "винм",
+   "drafted": false,
+   "ts": "2026-11-25T16:17:11.457950+00:00",
+   "frames": []
   }
  ],
  "published": [
@@ -22146,6 +22358,36 @@
    },
    "corr": false,
    "since": "2026-11-25T14:54:42.329855+00:00"
+  },
+  {
+   "item": {
+    "title": "Rob Nelson explains why Tennis & Theatres was removed from GTA 6",
+    "link": "https://rockstarintel.com/rob-nelson-explains-why-tennis-theatres-was-removed-from-gta-6/",
+    "summary": "In a recent Interview, Rob Nelson the Head Of Development at Rockstar North explained to PC Games why certain activities such as playing Tennis & going to the Cinema didn’t make it to the final version GTA6. Its been a week since Grand Theft Auto VI released, and we’ve been absolutely loving it, we cant [...] The post Rob Nelson explains why Tennis & Theatres was removed from GTA 6 appeared first on RockstarINTEL .",
+    "published": "2026-11-25T15:44:57+00:00",
+    "source": "Rockstar Intel",
+    "site_name": "Rockstar Intel",
+    "trust": "medium",
+    "text": "In a recent Interview, Rob Nelson the Head Of Development at Rockstar North explained to PC Games why certain activities such as playing Tennis & going to the Cinema didn’t make it to the final version GTA6.\nIts been a week since Grand Theft Auto VI released, and we’ve been absolutely loving it, we cant put down the controller, there has been so much to do and see its almost impossible to get bored of this game. One thing people have noticed though is that certain popular activities in past GTA Games haven’t made it into GTA6. From visiting Cinemas and Theatres, playing Tennis and Darts and even doing Taxi Missions which have been in every Grand Theft Auto game since GTA III back in 2001.\nPC Games had an interview with Rob Nelson who explained why some of these activities haven’t made it into the final version of Grand Theft Auto VI\nWhen PCGames asked Rob Nelson and Scott Mitchell about cut content, they asked why Tennis wasnt in the game, which was a popular minigame in Grand Theft Auto V (Personally my favourite sport minigame) and they confirmed Tennis was actually planned to be in GTA6 but they weren’t satisfied with the implementation. So the Minigame got removed and scarpped.\nAnother feature of being able to visit Cinemas and Theatres was also removed from the final version of GTA6, another feature that’s been in past GTAS and even in the Red Dead Series. Personally, this one doesn’t really bother me as i never used them but i do understand why so many people are annoyed by this one.\nRob Nelson and Scott Mitchell said in the interview that Rockstar Games deemed Cinema & Theatre visits not interactive enough. Which i dont personally think that’s a good enough reason as sometimes its good to not do much interaction.\nThey also confirmed other features were considered and didn’t end up making it to the game, one feature was for Jason and Lucia to crawl across the ground, Craft Items and Furnish their homes. These were scrapped due to not fitting the story.\nThey asked Rob Nelson which feature in GTA6 is Rockstar Games most proud of, and the answer was ‘the dynamic of Jason and Lucia’s relationship.’ A lot of passion went into creating the characters.\nYou can read the full interview here from PCGames.de. To keep up to date with news regarding Grand Theft Auto VI, Grand Theft Auto: Online, Red Dead Redemption and more then make sure to check back to RockstarINTEL. You can also subscribe to our Newsletter which is sent out weekly, its called…… Rockstar Weekl",
+    "extra": {
+     "image": "https://rockstarintel.com/wp-content/uploads/2026/11/Vice_City_03-1024x576.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "Куда пропали теннис и кинотеатры?\n\nРазработчики из Rockstar признались, что теннис и походы в кино вырезали из релиза, потому что они не дотянули до нужного качества или показались скучными. Зато отношения Джейсона и Люции — абсолютная база, в них вложили всю душу.",
+    "card_title": "ПОЧЕМУ ВЫРЕЗАЛИ ТЕННИС И КИНО",
+    "reason": "Разработчики из Rockstar официально рассказали о вырезанном контенте вроде тенниса и кинотеатров, это интересно фанатам.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-25T15:48:34.565429+00:00"
   }
  ]
 }
