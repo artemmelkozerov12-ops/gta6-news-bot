@@ -3951,7 +3951,9 @@
   "f0ffec97cd0658fe": "2026-11-25T00:58:38.696817+00:00",
   "7a16a345b309979c": "2026-11-25T00:58:40.364491+00:00",
   "7ea79253d248b590": "2026-11-25T01:34:06.340587+00:00",
-  "8b2e816e75418d0e": "2026-11-25T01:34:08.750051+00:00"
+  "8b2e816e75418d0e": "2026-11-25T01:34:08.750051+00:00",
+  "fdf020ebd433a1d6": "2026-11-25T01:51:53.381219+00:00",
+  "c76fc418aec1bea4": "2026-11-25T02:09:28.224026+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -6620,7 +6622,9 @@
   "52fd07a4310be612": "2026-11-25T00:58:38.696817+00:00",
   "d2a8eb57c0ac06e4": "2026-11-25T00:58:40.364491+00:00",
   "dcd258b305285f59": "2026-11-25T01:34:06.340587+00:00",
-  "f9871fc6439d4bd6": "2026-11-25T01:34:08.750051+00:00"
+  "f9871fc6439d4bd6": "2026-11-25T01:34:08.750051+00:00",
+  "473a32a856f30512": "2026-11-25T01:51:53.381219+00:00",
+  "541887373c03c5da": "2026-11-25T02:09:28.224026+00:00"
  },
  "recent": [
   {
@@ -15030,6 +15034,14 @@
    "status": "skipped",
    "ts": "2026-11-25T01:34:07.230311+00:00",
    "card_title": ""
+  },
+  {
+   "title": "Real-Life GTA 6 Trading Cards Are About to Get Scalped",
+   "source": "Push Square",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-25T02:09:29.257288+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -22117,6 +22129,36 @@
    },
    "corr": false,
    "since": "2026-11-25T01:34:09.414476+00:00"
+  },
+  {
+   "item": {
+    "title": "Obbe Vermeij Says the GTA 6 Headphones Feature Goes Back to Vice City in 2002",
+    "link": "https://www.gtaboom.com/obbe-vermeij-says-the-gta-6-headphones-feature-goes-back-to-vice-city-in-2002",
+    "summary": "Obbe Vermeij shared the unused pickup icon for the headphones feature planned for Grand Theft Auto: Vice City in 2002, long before GTA 6.",
+    "published": "2026-11-25T01:34:44+00:00",
+    "source": "GTA BOOM",
+    "site_name": "GTA BOOM",
+    "trust": "medium",
+    "text": "The headphones feature in Grand Theft Auto 6, the one that lets you walk around Leonida with your own soundtrack instead of climbing into a car for the radio, was first planned for Grand Theft Auto: Vice City back in 2002. We know because the man who would have built it just said so.\nFor 24 years the deal was simple. If you want the radio in a Grand Theft Auto game, get in a car. GTA 6 broke that, letting you take music with you on foot through a phone and a pair of headphones. Players have raved about how much it adds, with @videotech posting on X that it is \"the most immersive game I've ever played with the headphones feature, this game is insanity.\"\nObbe Vermeij, the former Rockstar Games technical director who ran the engine side of Rockstar North's 3D-era games, replied to that post on X with a surprise, that the team wanted the exact same feature in 2002. \"We planned a headphones feature in Vice City (2002),\" he wrote. \"It didn't happen for some technical reason I can't remember. This was the pick-up icon for it.\" He attached the unused icon, a scrap of cut content from the Vice City era seeing daylight for the first time.\nOn-foot music is something other open-world games handled long ago. Ironically, a GTA rival, Saints Row, let you take a soundtrack out of the car. Rockstar wanted the same thing in 2002, but Vermeij couldn’t remember the technical reason it was dropped. More than twenty years later, GTA 6 has on-foot music.\nIt makes you wonder what else in GTA 6 started life as an older idea. Vermeij has a habit of sharing this kind of cut history from his years at the studio. The headphones icon is a reminder that a Rockstar game is as much layers of abandoned plans as finished ones. The flip side is the fun part. If a 2002 feature only shipped in 2026, some of what did not make it in GTA 6 could still make the cut for whatever comes next.\nWalking through Vice City at night with the radio in your ears is the kind of detail that turns up in every immersion thread about the game, right next to the record-breaking launch and a 99 on Metacritic.\nA headphones icon drawn in 2002 is a small thing to get excited about. Still, it is the whole history of this series in one image, a good idea that had to wait more than twenty years for the machines to be ready for it. GTA 6 is full of those. Vermeij just handed us the receipt for one.\nWhat is your favorite bit of GTA 6 immersion, the headphones or something else?\nOnce a post receives 3 qualifying Helpful mar",
+    "extra": {
+     "image": "https://media.gtaboom.com/variants/1920/media/images/29/6e/obbe-vermeij-says-the-gta-6-headphones-feature-goes-back-to-vice-city.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "🎧 НАУШНИКИ в GTA 6 хотели сделать еще в 2002 году!\n\nБывший техдиректор Rockstar Оббе Вермей рассказал, что фичу с музыкой на ходу планировали завезти еще в Vice City, но тогда не хватило железа. База же!\n\n❤️ — Ждем вырезанный контент\n👎 — Раньше было лучше",
+    "card_title": "НАУШНИКИ В GTA 6 ИЗ 2002 ГОДА",
+    "reason": "Бывший техдиректор Rockstar рассказал, что фишку с наушниками планировали еще для Vice City в 2002 году.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-25T01:51:54.182813+00:00"
   }
  ]
 }
