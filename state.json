@@ -4470,7 +4470,24 @@
   "cc376baf734f3c76": "2026-11-25T20:48:31.301239+00:00",
   "8427db54da2f3dd9": "2026-11-25T20:48:32.542638+00:00",
   "238a4f1ef4ace002": "2026-11-25T20:48:40.959477+00:00",
-  "a0e9b0182336100c": "2026-11-25T20:48:44.383571+00:00"
+  "a0e9b0182336100c": "2026-11-25T20:48:44.383571+00:00",
+  "74108d88c608d82f": "2026-11-25T21:04:06.328212+00:00",
+  "3057c6c022d3a089": "2026-11-25T21:04:12.494809+00:00",
+  "379a24ce2d8a3c0c": "2026-11-25T21:04:24.140813+00:00",
+  "5a1bdff27557ae03": "2026-11-25T21:04:25.347699+00:00",
+  "12ddc0cd62e31ba4": "2026-11-25T21:04:26.621731+00:00",
+  "5c79cae2b20435bb": "2026-11-25T21:04:27.824832+00:00",
+  "7e6aa811a21deffd": "2026-11-25T21:04:34.925044+00:00",
+  "a0e8c8d680b63bae": "2026-11-25T21:04:44.384667+00:00",
+  "64d41ff184d05fa1": "2026-11-25T21:05:21.841793+00:00",
+  "327c0e124c59a551": "2026-11-25T21:20:44.514740+00:00",
+  "dfc37de13883f16f": "2026-11-25T21:20:49.474037+00:00",
+  "e356a04ab55d166f": "2026-11-25T21:20:55.071718+00:00",
+  "66ae2d24d5da7c7d": "2026-11-25T21:21:08.381264+00:00",
+  "8b1bedaa84fcd8e7": "2026-11-25T21:21:09.660594+00:00",
+  "6b566c3cbf853144": "2026-11-25T21:21:11.045351+00:00",
+  "4ddaf6837c39c87c": "2026-11-25T21:21:16.115157+00:00",
+  "f7ed54d2b7151dcf": "2026-11-25T21:21:19.510299+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -7439,7 +7456,23 @@
   "74f6099372b0ae07": "2026-11-25T20:48:31.301239+00:00",
   "22a2bfedcdd13a8a": "2026-11-25T20:48:32.542638+00:00",
   "b1594af40e717895": "2026-11-25T20:48:40.959477+00:00",
-  "b20842243e5c466c": "2026-11-25T20:48:44.383571+00:00"
+  "b20842243e5c466c": "2026-11-25T20:48:44.383571+00:00",
+  "dea27453811f965c": "2026-11-25T21:04:12.494809+00:00",
+  "5cde84b35d204587": "2026-11-25T21:04:24.140813+00:00",
+  "ff69e1241d2e9a08": "2026-11-25T21:04:25.347699+00:00",
+  "3b5d138d7214f1fc": "2026-11-25T21:04:26.621731+00:00",
+  "54ac55bb21c3715c": "2026-11-25T21:04:27.824832+00:00",
+  "9499e26872b9441f": "2026-11-25T21:04:34.925044+00:00",
+  "1ab2cd236787dc3e": "2026-11-25T21:04:44.384667+00:00",
+  "40ca0df49530e1d6": "2026-11-25T21:05:21.841793+00:00",
+  "ca61dc18c75a813c": "2026-11-25T21:20:44.514740+00:00",
+  "3e948ab78abc3492": "2026-11-25T21:20:49.474037+00:00",
+  "69b3077884b475cd": "2026-11-25T21:20:55.071718+00:00",
+  "a310e0e33e4407d5": "2026-11-25T21:21:08.381264+00:00",
+  "d510e2ee5f816f13": "2026-11-25T21:21:09.660594+00:00",
+  "55da5c0a9a69ee95": "2026-11-25T21:21:11.045351+00:00",
+  "8a7f88b398d1d65b": "2026-11-25T21:21:16.115157+00:00",
+  "36e14903feadab8f": "2026-11-25T21:21:19.510299+00:00"
  },
  "recent": [
   {
@@ -15321,6 +15354,150 @@
    "status": "skipped",
    "ts": "2026-11-25T20:48:44.383697+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GTA 6 Doesn't Let You Replay Missions, and Rockstar Says There's a Good Reason for That",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-25T21:04:06.328242+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Doesn't Let You Replay Missions, and Rockstar Says There's a Good Reason for That",
+   "source": "IGN",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-25T21:04:22.550672+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Японский стример сбросил \"невозможные\" шесть звёзд розыска в GTA 6 через портал в старую Vice City",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T21:04:24.140939+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI Is A Smash Hit. Its Stock Is Another Story.",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T21:04:25.347838+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI marks a triumphant return to Vice City",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T21:04:26.621862+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6's Dirty South Classics Radio Station Shows Love for the Southern Rap Game, Representing Its Setting Perfectly",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T21:04:27.824945+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Netflix Extended Look: 27 Minutes After Leaks",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T21:04:34.925150+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "7 underrated GTA 6 changes no one is talking about",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T21:04:44.384783+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 vice president of music says working with Justice was ‘the ideal opportunity’ and helped ‘bridge’ the classic Vice City ’80s aesthetic ‘with contemporary electronic production to create the perfect backdrop for Jason and Lucia’s story in the game’",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T21:05:21.841910+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6: Breaking Down The Cleanest Bank Robbery We've Seen So Far",
+   "source": "IGN",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-25T21:20:39.763703+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Here’s Some Video Game Conversation Starters That’s Not About GTA 6",
+   "source": "Kotaku",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-25T21:20:44.514870+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Карточки из GTA 6 сделают настоящими коллекционными предметами",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T21:20:49.474160+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Сценаристку GTA 6 обвинили в «манипуляции мужчинами» и затравили в сети",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T21:20:55.071864+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Rockstar Games закрыла Leonida, фанатский порт GTA 6",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T21:21:08.381376+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 смогли ускорить на Xbox Series: функция консоли разблокировала частоту кадров, но есть нюанс",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T21:21:09.660710+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Нативная версия GTA 6 с Xbox Series на ПК может достичь 60 FPS на Ryzen 7 9800X3D в течение 4 недель",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T21:21:11.045485+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Digital Foundry проверили баг GTA 6 на Xbox Series X – FPS действительно вырос, но ненамного",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T21:21:16.115289+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Rockstar рассказала, какие механики вырезала из GTA 6",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T21:21:19.510412+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -15383,37 +15560,6 @@
     "model": "gemini:gemini-3.1-flash-lite → groq:openai/gpt-oss-120b"
    },
    "queued_at": "2026-11-25T20:15:30.446332+00:00"
-  },
-  {
-   "item": {
-    "title": "Yes, There Was One Thing Cut from GTA 6 for Australia, NZ",
-    "link": "https://www.ign.com/articles/yes-there-was-one-thing-cut-from-gta-6-for-australia-nz",
-    "summary": "Rockstar chopped out a temporary stat buff from GTA 6, although players down under may not ever really notice it.",
-    "published": "2026-11-25T06:55:24+00:00",
-    "source": "IGN",
-    "site_name": "IGN",
-    "trust": "high",
-    "text": "Although it’s so minor you actually may not notice it.\nThe Australian version of Grand Theft Auto 6 does differ from the international version in one small way; players down under are not able to use cocaine from their personal inventory to briefly overpower their stamina bar. NZ reportedly has the same version.\nIn GTA 6, baggies of cocaine can be collected (or skimmed from full bricks) and show up as a consumable on the item wheel in the same section as cigarettes, cigars, and joints. Using one triggers a buff that puts stamina in an overpowered state, albeit only for about 30 seconds. This function was never included in the Australian-specific version of the game, as it would have prevented GTA 6 from being classified in the country until it was removed. Australia’s classification laws allow illicit drug use in games, but using them can’t provide the player with gameplay benefits.\nOverpowering your stamina (and everything else) is still possible via the use of adrenaline in the Australian version of GTA 6, and it’s also still possible to drink and smoke whenever you want. The general use of cocaine in story moments also still remains in the Australian version of GTA 6, because these instances aren’t associated with any in-game buffs.\nWhile the caveat that forbids rewards for illicit drug use is bespoke to Australia – and doesn’t apply to NZ – NZ’s rating system (which does piggyback on some Australian and UK classification decisions for unrestricted content) has its own idiosyncrasies. These recently caught out IllFonic’s recent Halloween multiplayer game, which was refused classification in Australia for illicit drug use linked to an incentive or reward (that is, that use of the drug provides a gameplay advantage to the player). Halloween since made its way to NZ, but not Australia. Since this is not Rockstar’s first rodeo, it knew exactly the tweak GTA 6 would require to skirt this continuing quirk in Australian video game ratings and avoid multiple submissions.\nGTA 6 arrived late last week, crushing records and becoming the biggest entertainment launch of all time, with retail sales soaring to $3.79 billion in its first 24 hours. In my review for IGN I called it “the single most impressive video game I have ever played,” a sentiment shared by developers similarly stunned by how radically advanced it is.\nJust getting started in GTA 6, or wondering what to do next? You can get stuck into the Official Grand Theft Auto 6 guide right here on IGN, consult o",
-    "extra": {
-     "image": "https://assets-prd.ignimgs.com/2026/11/23/gta-6-secret-blogroll-1795445757736.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "🦘 В Австралии из GTA 6 вырезали баффы от кокса\n\nАвстралийские цензоры прижали Rockstar: давать игроку бесконечную стамину от пакетика запретили законами страны, ведь запрещенка не должна приносить «игровую пользу». Так что австралийцы юзают обычный адреналин, а вот в сюжете все вещества остались на месте. Законы — полнейший кринж, но разработчики быстро увернулись от бана.\n\n❤️ — Жаль добряков из Австралии\n👎 — Зато адреналин здоровее!",
-    "card_title": "GTA 6 ЦЕНЗУРИРОВАЛИ В АВСТРАЛИИ",
-    "reason": "Интересный факт о цензуре и вырезанной фиче с кокаином в австралийской версии GTA 6.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-3.5-flash"
-   },
-   "queued_at": "2026-11-25T08:54:11.443789+00:00",
-   "moderation": "pending",
-   "draft_msg_id": 152
   },
   {
    "item": {
@@ -15593,37 +15739,6 @@
   },
   {
    "item": {
-    "title": "Everyone’s Getting Trolled By GTA 6’s Looney Toons Tunnel",
-    "link": "https://kotaku.com/everyones-getting-trolled-by-gta-6s-looney-toons-tunnel-2001000177",
-    "summary": "Congrats on landing the job at Rockstar, Wil E. Coyote",
-    "published": "2026-11-25T09:00:08+00:00",
-    "source": "Kotaku",
-    "site_name": "Kotaku",
-    "trust": "high",
-    "text": "Imagine this: You’re out for a drive in sunny Leonida, speeding down a Vice City neighborhood street at a speed that’s probably a liiiiittle too fast. Maybe you’re escaping with a stolen car, or maybe you’re just going on a nice ride with Jason and Lucia. Either way, you keep heading forward into a tunnel that looks just a little paler than its surroundings, and—\nThat’s what keeps happening to most players who encounter what’s been lovingly dubbed GTA 6’s Looney Tunes Tunnel. It’s a really realistic mural of a tunnel that players keep mistakenly driving into (and getting into horrific, gruesome accidents because of). Either a talented Rockstar artist was having a really fun day at work, or Wil E. Coyote himself took a trip to Leonida to do some painting. See for yourself:\nthe dev that put that in is probably clapping like a seal watching all these videos come out https://t.co/vEYV5CaEf0 — GMC Sierra (@SapphicDecay) November 23, 2026\nAre you serious Rockstar? 😐 by u/F1REFLY_ in GTA6unmoderated\nJ’viens de faire à l’instant un p’tit braco tout propre tout ça, j’commence à bombarder, guetter j’me suis manger la plus grosse douille du siècle… @RockstarGames ???? #GTAVI #GTA6 pic.twitter.com/WayzaBIqYf —  シ✪ (@ZizouYouuu) November 23, 2026\nIf you’re eager to visit the Looney Tunes tunnel for yourself, or if you’re looking to avoid it, it’s located in Vice City’s Decor District near Stockyard. That’s a pretty fitting spot for it considering how much other art is in the area, which makes me curious to know if the crafty culprit might be an actual NPC who’s tucked away somewhere nearby. You never know! Either way, this is one of my favorite things to come out of GTA 6, other than the banger that is “Starting From Zero” along with everyone filming clips and painting fanart of Jason holding two apples. I’m still unfortunately early on in the game due to some technical difficulties that plagued me at launch, but I’m excited to pay the beloved Tunnel a visit (perhaps unexpectedly?) in an attempt to find out which Leonidan is responsible whenever I finally make it to Vice City for good.\nDon’t miss the latest reviews, news and tips. Sign up for our free newsletter.\nCultureNews The Actor Behind GTA 6′s Viral NPC Mandy Reacts To All Of The Attention: ‘It’s Sort Of Bittersweet’ Lexie Shoaibi recently guested on Hasan Piker's Twitch channel By Ethan Gach Published November 24, 2026\nCulture Fursuit Bans, Furry Hunters, And A Chaotic Rescue: What’s Actually Going On With Furr",
-    "extra": {
-     "image": "https://kotaku.com/app/uploads/2026/11/jason-gta-6-1280x800.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 6,
-    "post": "Разрабы GTA 6 жестко ЗАВЕЛИСЬ и затроллили игроков 🎨\n\nВ районе Decor District в Вайс-Сити нашли рисунок тоннеля прямо на стене в стиле «Looney Tunes». Нарисовано настолько сочно, что геймеры на полной скорости влетают прямо в бетон, устраивая лютый замес.\n\nРазработчик, который это придумал — гений, ору! 💀",
-    "card_title": "ТОННЕЛЬ-ТРОЛЛЬ В GTA 6",
-    "reason": "Подтверждённый источник, интересный факт о локации, гайд по её поиску.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": true,
-    "model": "groq:openai/gpt-oss-120b → gemini:gemini-3.5-flash"
-   },
-   "queued_at": "2026-11-25T09:13:26.612168+00:00",
-   "moderation": "pending",
-   "draft_msg_id": 154
-  },
-  {
-   "item": {
     "title": "GTA 6 Caught Slipping walkthrough: How to catch both thieves",
     "link": "https://www.videogameschronicle.com/guide/gta-6-caught-slipping-walkthrough/",
     "summary": "Here's how to complete Caught Slipping in GTA 6",
@@ -15681,37 +15796,6 @@
     "model": "groq:qwen/qwen3.8-27b → groq:openai/gpt-oss-120b"
    },
    "queued_at": "2026-11-25T20:14:09.703903+00:00"
-  },
-  {
-   "item": {
-    "title": "GTA VI перегревает PS5 и приводит к отключению. Специалист заявил о «блэкауте PlayStation»",
-    "link": "https://ixbt.games/news/2026/11/25/gta-vi-peregrevaet-ps5-i-privodit-k-otkliuceniiu-specialist-zaiavil-o-blekaute-playstation.html",
-    "summary": "Игроки сообщают о перегреве PS5 во время игры в GTA VI: на экране появляются графические артефакты, после чего консоль может внезапно выключиться.",
-    "published": "2026-11-25T08:16:00+00:00",
-    "source": "iXBT.games",
-    "site_name": "iXBT.games",
-    "trust": "medium",
-    "text": "Игроки сообщают о перегреве PS5 во время игры в GTA VI: на экране появляются графические артефакты, после чего консоль может внезапно выключиться.\nВладельцы PS5 всё чаще жалуются на серьёзные проблемы во время игры. По их словам, сначала на экране возникают графические искажения, а затем приставка полностью отключается. Некоторым помогает ожидание, пока устройство остынет, однако есть случаи, когда консоль не удаётся запустить даже после продолжительного перерыва.\nTHE PS5 BLACKOUT HAS STARTED. I called it back in early August. First came error reports and sudden shutdowns. Now we’re seeing graphics artifacts live on stream and reports of consoles dying. GTA 6 is the toughest real-world PS5 stress test I’ve seen. In the clip, I’m standing\n#GTA6 tonight fried my PS5. The GPU is done and the console is gone 🫩 rip\n#GTA6 tonight fried my PS5. The GPU is done and the console is gone 🫩 rip\nНа ситуацию обратил внимание специалист Modyfikator89, который ещё в начале августа предупреждал о возможных проблемах с PlayStation 5. Теперь он опубликовал новые материалы, указав на появление записей с графическими артефактами во время трансляций и сообщений о полностью вышедших из строя приставках.\nБЛЭКАУТ PS5 НАЧАЛСЯ. Я предсказал это ещё в начале августа. Сначала появились сообщения об ошибках и внезапных отключениях. Теперь мы видим графические артефакты во время прямых трансляций и сообщения о консолях, которые перестали работать.\nОсобый интерес представляют замеры энергопотребления. По данным специалиста, даже в относительно спокойной сцене, когда герой просто стоит возле автомобиля, PS5 потребляет около 220 Вт из розетки. После закрытия игры показатель падает до 67 Вт. В отдельном тесте максимальной нагрузки устройство достигло 274,2 Вт. Автор назвал GTA VI самым серьёзным реальным стресс-тестом для PS5 из всех, с которыми ему доводилось сталкиваться.\nOkay this is for the 🫩 saying I didn’t look after my console. It was kept in open space and I showed on stream it was in good condition and very minor dust. Stop being brain dead and claiming it’s full of dust 🐰 it’s not.\nПо мнению некоторых пользователей, причина заключается не в скоплении пыли, а в жидком металле, который якобы необходимо регулярно менять.\nСитуация вызывает беспокойство с учётом популярности GTA VI и продолжительных игровых сессий в Леониде. Впрочем, пока неизвестно, связаны ли проблемы с отдельными моделями PS5, ухудшением системы охлаждения конкретных экземпляров или имеют более массовый характер.\nНе",
-    "extra": {
-     "image": "https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1746155/0481b72e-6fe7-44fb-a5a6-67971c0430fb.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "⚡️ GTA 6 буквально УБИВАЕТ консоли PS5\n\nУ геймеров лютый тильт: приставка перегревается, сыплет артефактами и отключается навсегда. Специалисты замерили жор до 274 Вт — игра стала самым жестким стресс-тестом для консоли.\n\nКак ваша «плойка» чувствует себя?\n❤️ — Пошел чистить от пыли\n👎 — Моя держит удар",
-    "card_title": "GTA 6 УБИВАЕТ PS5",
-    "reason": "Сообщения о перегреве PS5 из-за GTA 6 и замеры энергопотребления — важная и актуальная техническая новость для игроков.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-3.5-flash"
-   },
-   "queued_at": "2026-11-25T08:54:04.115060+00:00",
-   "moderation": "pending",
-   "draft_msg_id": 150
   },
   {
    "item": {
@@ -23241,36 +23325,6 @@
    },
    "corr": false,
    "since": "2026-11-25T18:32:02.319750+00:00"
-  },
-  {
-   "item": {
-    "title": "GTA 6: Breaking Down The Cleanest Bank Robbery We've Seen So Far",
-    "link": "https://www.ign.com/articles/gta-6-breaking-down-the-cleanest-bank-robbery-weve-seen-so-far",
-    "summary": "One GTA 6 player has robbed $160,000 in just one minute in the cleanest bank robbery we’ve seen yet. Here's how they did it.",
-    "published": "2026-11-25T17:08:42+00:00",
-    "source": "IGN",
-    "site_name": "IGN",
-    "trust": "high",
-    "text": "Warning: This article talks about gameplay mechanics from chapter four of GTA 6, but contains no story spoilers.\nGTA 6 is a game all about making money. One of the quickest and most profitable ways of doing that is by robbing one of Vice City’s biggest banks. It’s also one of the riskiest, though; we’ve a legion of law enforcement destined to descend upon you once that alarm is triggered. That doesn’t mean a clean escape isn’t possible, though, and that’s just what one streamer has showcased, in perhaps the most impressive manner we’ve seen so far.\nVideo game streamer Sway set about his mission to the downtown Lombank for all its worth via a popular method – tailing a security van. These are the green and white vans you sometimes see driving around the map, which, if you follow for long enough, will lead you to a bank where the vault will be left wide open for you to enter. You can also make the locations of these trucks visible by paying Yasmani a hefty $10,000 tip for the info.\nIt’s worth noting that this option isn’t available until chapter four, with banks not being able to be successfully robbed at all until partway through GTA 6’s third chapter, once you gain the ability to cash in on marked bills. Otherwise, you’ll end up as Lucia can in the prologue, with a whole load of coloured dye all over you.\nAnyway, back to Sway’s attempted heist, and just because the security guard has opened the vault doesn’t mean you can simply walk in and out of the building carrying a load of cash. There are numerous options you can take, including blasting your way in and getting in and out as quickly and violently as possible, or entering through the back rooms to sneak past everyone. The latter is the way that Sway mostly went with.\nFirst, he shot out a security camera in the rear alley with a silenced pistol, before cracking open a garage door and quickly knocking out a guard with a quick pistol whip. Another couple of security members fell unconscious thanks to the blunt end of a gun as he made his way swiftly into the vault. Just noting the excellent choice of “old person” mask from Jason here, too.\nCleanest Bank Robbery you'll see in GTA 6.$150k in 1 minute. simple and clean. https://t.co/Y8GqDuydvd— sway (@swaywtw) November 25, 2026\nNext come the stacks of marked bills, which are hurriedly bundled into stash bags by Lucia. This action triggers the bank’s alarm systems, and always will, as far as I know. The cloud-based security camera system can’t be overrun and ",
-    "extra": {
-     "image": "https://assets-prd.ignimgs.com/2026/11/25/bank-blog-1795626263101.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "🏦 Чистейшее ограбление банка\n\nСтример залутал 150к баксов всего за минуту, тихо вырубив охрану в Lombank. Вот это имба, надо затестить в катке.\n\n❤️ — Красавчик, мастер стэлса\n👎 — Слишком легко, где хардкор",
-    "card_title": "ИДЕАЛЬНОЕ ОГРАБЛЕНИЕ БАНКА ЗА МИНУТУ",
-    "reason": "Стример показал идеальное ограбление банка в GTA 6 за минуту, что подтверждает реальный геймплей механик из игры.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "GTA 6 Player Gets $160,000 in One Minute In The Cleanest Bank Robbery We’ve Seen Yet",
-    "corroborated_by": "GTA 6 Player Gets $160,000 in One Minute In The Cleanest Bank Robbery We’ve Seen Yet",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-25T18:32:43.196226+00:00"
   },
   {
    "item": {
