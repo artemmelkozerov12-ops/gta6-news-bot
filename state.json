@@ -4317,7 +4317,15 @@
   "418b087bb7cc6b1e": "2026-11-25T17:04:28.304637+00:00",
   "7ae339830f768823": "2026-11-25T17:04:50.930198+00:00",
   "3b89d70937895525": "2026-11-25T17:05:02.393597+00:00",
-  "a6779fd306db4c46": "2026-11-25T17:05:19.254526+00:00"
+  "a6779fd306db4c46": "2026-11-25T17:05:19.254526+00:00",
+  "303c713001015201": "2026-11-25T17:21:01.011021+00:00",
+  "b1e7524f1252b32d": "2026-11-25T17:21:01.011089+00:00",
+  "6e7723a556e380de": "2026-11-25T17:21:01.011130+00:00",
+  "476877a9a1ba35da": "2026-11-25T17:21:04.104070+00:00",
+  "db59c647dafa62aa": "2026-11-25T17:21:05.588774+00:00",
+  "f498cea14277d10a": "2026-11-25T17:21:26.724157+00:00",
+  "873bb860a6701a46": "2026-11-25T17:37:08.849475+00:00",
+  "0516745811c995eb": "2026-11-25T17:38:42.038354+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -7187,7 +7195,13 @@
   "624ee0468a552043": "2026-11-25T17:03:44.279716+00:00",
   "a714cfdbdcba6466": "2026-11-25T17:04:13.621889+00:00",
   "1316404c8eccd66e": "2026-11-25T17:04:28.304637+00:00",
-  "32b7ca6e93619c2b": "2026-11-25T17:04:50.930198+00:00"
+  "32b7ca6e93619c2b": "2026-11-25T17:04:50.930198+00:00",
+  "40458fbc71645dc3": "2026-11-25T17:21:01.011021+00:00",
+  "13ba8544ac37882a": "2026-11-25T17:21:01.011089+00:00",
+  "06e58856fcddc820": "2026-11-25T17:21:01.011130+00:00",
+  "3a3ce608b4d200b5": "2026-11-25T17:21:04.104070+00:00",
+  "d9793e3cdd98dae5": "2026-11-25T17:21:05.588774+00:00",
+  "e541bcc4aabaada5": "2026-11-25T17:37:08.849475+00:00"
  },
  "recent": [
   {
@@ -13794,7 +13808,7 @@
    "title": "GTA 6 Causes PS5 Consoles to Sell Out in US Before Black Friday",
    "source": "Push Square",
    "trust": "high",
-   "status": "queued",
+   "status": "published",
    "ts": "2026-11-25T14:16:31.639497+00:00",
    "card_title": "ДЕФИЦИТ PS5 ИЗ-ЗА GTA 6"
   },
@@ -13802,7 +13816,7 @@
    "title": "Unable to buy gas, I feel broke in GTA 6 – for the first time, money matters",
    "source": "GamesRadar+",
    "trust": "high",
-   "status": "queued",
+   "status": "published",
    "ts": "2026-11-25T14:17:52.277947+00:00",
    "card_title": "НЕ ХВАТАЕТ ДЕНЕГ НА ЗАПРАВКУ"
   },
@@ -14301,40 +14315,57 @@
    "status": "error",
    "ts": "2026-11-25T17:04:28.304696+00:00",
    "card_title": ""
+  },
+  {
+   "title": "How to disable advanced trackers in GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-25T17:21:01.011061+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Можно ли купить дом в GTA 6? Недвижимость, гаражи и убежища в Леониде",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-25T17:21:01.011112+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to Use a Parachute in GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-25T17:21:01.011147+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6-Like Partnership With Playstation Announced by Witcher Developer",
+   "source": "Polygon",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-25T17:21:04.104190+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6: Auntie’s Place location in LaPerle",
+   "source": "VGC",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-25T17:21:06.377081+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Where To Find Invetero Vice Vinyl Coquette In GTA 6—Fastest Cars Location & Stats",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "dup",
+   "ts": "2026-11-25T17:37:08.849506+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
-  {
-   "item": {
-    "title": "GTA 6 Causes PS5 Consoles to Sell Out in US Before Black Friday",
-    "link": "https://www.pushsquare.com/news/2026/11/gta-6-causes-ps5-consoles-to-sell-out-in-us-before-black-friday",
-    "summary": "Good luck getting one. Sony’s struggling to meet demand for the PS5 following last week’s release of GTA 6 . Many major retailers in the US, including PS Direct , are currently completely sold out of the system – although you may find isolated instances of stock in stores. Read the full article on pushsquare.com",
-    "published": "2026-11-25T14:30:00+00:00",
-    "source": "Push Square",
-    "site_name": "Push Square",
-    "trust": "high",
-    "text": "Sony’s struggling to meet demand for the PS5 following last week’s release of GTA 6.\nMany major retailers in the US, including PS Direct, are currently completely sold out of the system – although you may find isolated instances of stock in stores.\nThe platform holder has no promotions on hardware this Black Friday, presumably because it can’t meet demand at full-price. Remember, the console is significantly more expensive than it was at launch right now, due to spiralling global memory costs.\nWriting on Bluesky, Circana analyst Mat Piscatella said that PS5 hardware purchases increased 2.4x year-over-year in America through the week ending 14th November, just prior to the release of Rockstar’s open world.\nSony says GTA 6 is the biggest launch in its history, and it observed “the largest number of newly connected PS5 consoles on a single day since the console’s launch, outside of end-of-year holidays” on 19th November.\nIt added that for 70% of those newly connected consoles, GTA 6 was the first game played.\nI imagine Sony is trying to get as many systems onto store shelves as it possibly can to meet this unprecedented demand, and I suspect demand will remain high through the holidays now.\nIn response to the situation, GameStop recently raised the price of used PS5 Pro consoles way beyond their already-sizeable MSRP.\nAre you one of those who’s been looking to buy a new PS5 – either for yourself or family? Tell us about your search in the comments section below.\nPlease note that some external links on this page are affiliate links, which means if you click them and make a purchase we may receive a small percentage of the sale. Please read our FTC Disclosure for more information.\nI was finally able to order a pro from PlayStation Direct!\nIt shipped via UPS, it was supposed to be here today. Since Monday it has said Delivery on Wednesday between 10am and 1pm.\nLast night it arrived at my local UPS warehouse.This morning at 830am the status changed to delayed and now will be delivered on Friday.\nI can't even go and pick it up. The foreign based live customer service representative said that it is loaded on a truck so I can't go get it.\nEVERY time UPS or FedEx delays a package, it winds up either lost or damaged!\n@Spider-Kev Hope you get it soon, man! Congrats on getting an order in, though!",
-    "extra": {
-     "image": "https://images.pushsquare.com/d512d5d904f3f/large.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "🎮 ПЛОТНЫЙ ДЕФИЦИТ: GTA 6 СМЕЛА ВСЕ PS5 В США\n\nSony не успевает штамповать плойки — из-за релиза GTA 6 консоли полностью раскупили во всех крупных магазинах Америки перед Чёрной пятницей. Наплыв настолько лютый, что для 70% новых пользователей ГТА стала первой же запущенной игрой!\n\nА перекупщики в GameStop уже взвинтили цены на б/у PS5 Pro. Ору, вот это прогрев на железо.\n\n❤️ — Забрал консоль заранее / 👎 — Сижу на ПК и жду порт",
-    "card_title": "ДЕФИЦИТ PS5 ИЗ-ЗА GTA 6",
-    "reason": "Подтверждённый источник high, важная новость о дефиците консоли из‑за релиза",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "groq:openai/gpt-oss-120b → gemini:gemini-3.5-flash"
-   },
-   "queued_at": "2026-11-25T14:16:31.639487+00:00",
-   "moderation": "pending",
-   "draft_msg_id": 162
-  },
   {
    "item": {
     "title": "Yes, There Was One Thing Cut from GTA 6 for Australia, NZ",
@@ -14425,37 +14456,6 @@
     "model": "groq:qwen/qwen3.8-27b → gemini:gemini-3.5-flash"
    },
    "queued_at": "2026-11-25T13:59:25.556964+00:00"
-  },
-  {
-   "item": {
-    "title": "Unable to buy gas, I feel broke in GTA 6 – for the first time, money matters",
-    "link": "https://www.gamesradar.com/games/grand-theft-auto/unable-to-buy-gas-i-feel-broke-in-gta-6-for-the-first-time-money-matters/",
-    "summary": "And yet, the game is gas",
-    "published": "2026-11-25T14:00:00+00:00",
-    "source": "GamesRadar+",
-    "site_name": "GamesRadar+",
-    "trust": "high",
-    "text": "Managing my car's gas and its engine health is new for GTA 6 – part of a swathe of delightfully tactile mechanics that add to the immersion of Vice City and Leonida as true spaces. Which is my excuse for running so low on fuel I genuinely worry that I might grind to a halt when I'm meant to be picking up my 'it's complicated' girlfriend from her prison release program trash-cleaning job, um, (checks watch) by 4pm! What I don't have an excuse for is being clear out of cash, and not being able to pay to fill it up. Lucia, I'm sorry!\nFor a guy in the drug trade, Jason really doesn't have a lot of dough – and I really feel it in GTA 6's early hours across Chapter One. Living rent free in a half-rotting house, any maintenance will have to be handled myself (while shirtless, sweat glistening in the Leonidan sun, of course). Having spent years post-military with no bank account, off the grid, I collect my illicit money from a mailbox, then stash it under the floorboards, weighing up how much to stow safely and how much actual cash to keep on my person – where it'll be easier to lose.\nAfter Lucia gets out of prison, we end up setting up a joint BuckMe account as well – a tenuous digital wallet that's our only option when we're rejected from getting a proper bank account. I can pay into our joint saving goals but can't withdraw from it, giving me a third money tracker on the UI that can only be used for certain other payments, with some jobs paying me directly into funds I can access via an ATM. What could feel annoying in other games is thematically and mechanically effective here – at least in the opening – as Jason is constantly reminded he's at the bottom of the food chain.\nWith a more nuanced police wanted system, money can be more important than ever to simply surviving in a system looking to chew up Jason and Lucia at every turn. At one point, I attract too much heat in a neighborhood after a police cruiser zooms into my way across an intersection and I can't brake in time. And, yes, I kind of, sort of, then ran over several people.\nWith my face, appearance, and car popping up as elements now known by the police until the heat dies down, I have to ditch my ride and stick to alleys before I duck into a shop to hastily buy new clothes before I boost another car to escape. Except, after one fancy hat too many I realize I'm down to ten bucks and can't buy new clothes. Shamefully, I buy a one-dollar chocolate bar and skulk back into the night.\nAs the plot acceler",
-    "extra": {
-     "image": "https://cdn.mos.cms.futurecdn.net/MKUkdiRfSFxmTuRKJJUcpW-1920-80.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "⛽️ Не можешь заправить тачку? GTA 6 заставляет платить\n\nНовый уровень выживания – в GTA 6 топливо реально кончает, а деньги в начале почти ноль. Тебе придётся гонять по аллеям, искать банкоматы и планировать каждую заправку, иначе вмиг останешься без бензина и без шмоток. Реалка в Vice City – лютый вайб!",
-    "card_title": "НЕ ХВАТАЕТ ДЕНЕГ НА ЗАПРАВКУ",
-    "reason": "подтверждённый материал о новой механике денег и топлива",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "groq:openai/gpt-oss-120b → groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-25T14:17:52.277933+00:00",
-   "moderation": "pending",
-   "draft_msg_id": 163
   },
   {
    "item": {
@@ -14607,8 +14607,9 @@
     "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
    },
    "queued_at": "2026-11-25T16:44:03.368946+00:00",
-   "moderation": "pending",
-   "draft_msg_id": 164
+   "moderation": "approved",
+   "draft_msg_id": 164,
+   "waiting_logged": true
   },
   {
    "item": {
@@ -14665,9 +14666,11 @@
   "2026-11-25T09:53:45.288321+00:00",
   "2026-11-25T10:09:18.910066+00:00",
   "2026-11-25T10:25:04.845119+00:00",
-  "2026-11-25T13:11:20.337917+00:00"
+  "2026-11-25T13:11:20.337917+00:00",
+  "2026-11-25T17:21:45.937168+00:00",
+  "2026-11-25T17:38:45.051199+00:00"
  ],
- "tg_offset": 387129101,
+ "tg_offset": 387129104,
  "channel": {
   "id": -1003986639147,
   "title": "GTA 6 | Горячие новости",
@@ -21072,6 +21075,24 @@
    "drafted": false,
    "ts": "2026-11-25T17:05:19.254565+00:00",
    "frames": []
+  },
+  {
+   "author": "twitch:montanablack88",
+   "vod": "2940172505",
+   "offset": 1266.0,
+   "title": "01",
+   "drafted": false,
+   "ts": "2026-11-25T17:21:26.724193+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:missmikkaa",
+   "vod": "2939364350",
+   "offset": 17304.0,
+   "title": "Who scared Lucia??",
+   "drafted": false,
+   "ts": "2026-11-25T17:38:42.038396+00:00",
+   "frames": []
   }
  ],
  "published": [
@@ -21535,6 +21556,20 @@
    "msg_id": 96,
    "title": "В GTA 6 нашли БОЛЬШЕ 1500 зданий с открытым интерьером!",
    "importance": 8,
+   "kind": "confirmed"
+  },
+  {
+   "ts": "2026-11-25T17:21:45.937184+00:00",
+   "msg_id": 97,
+   "title": "ПЛОТНЫЙ ДЕФИЦИТ: GTA 6 СМЕЛА ВСЕ PS5 В США",
+   "importance": 8,
+   "kind": "confirmed"
+  },
+  {
+   "ts": "2026-11-25T17:38:45.051217+00:00",
+   "msg_id": 98,
+   "title": "Не можешь заправить тачку? GTA 6 заставляет платить",
+   "importance": 7,
    "kind": "confirmed"
   }
  ],
