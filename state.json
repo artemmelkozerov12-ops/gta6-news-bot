@@ -14738,35 +14738,6 @@
   },
   {
    "item": {
-    "title": "Thursday Night Football Had Lowest Viewership All Season On GTA 6 Launch Day",
-    "link": "https://www.gamespot.com/articles/thursday-night-football-had-lowest-viewership-all-season-on-gta-6-launch-day/",
-    "summary": "The Thursday Night Football matchup on November 19, the day that GTA 6 came out, had the lowest viewership of the entire season so far for a TNF game, but the low ratings might not be due entirely to competition with GTA 6. The data shows that 12.23 million people, on average, watched the November 19 matchup between the Indianapolis Colts and Houston Texans on Prime Video. That was a 9% slide from the Week 11 Thursday Night Football matchup in 2025 featuring the New England Patriots and New York Jets. https://www.youtube.com/watch?v=dJDf76QVv70 Looking at week-over-week, the November 12 matchup this year between the Washington Commanders and New York Giants drew 16.27 million viewers , and was up 17% compared to the Week 10 matchup in 2025 featuring the Las Vegas Raiders and Denver Broncos. Due to the poor ratings of the November 19 TNF game, the full-season average now for TNF games this season sank to 16.62 million on per game. One expert told GameSpot that live sports like football probably won't be too heavily impacted by GTA 6 because people want to watch in real time. The low ratings for the November 19 matchup could be partially attributable to competition with GTA 6, but a likelier scenario is that people tuned out because it was a boring game in which the heavily favored Texans throttled the Colts by a score of 26-3. The Texans were up 17-3 at the half, and the game only had nine more points total scored in the second half--all by the Texans. Not exactly thrilling stuff that people would stay glued to. Ahead of GTA 6's launch, people also wondered how The Hunger Games: Sunrise on the Reaping, which released on November 20, might be impacted. It may have been, but the film still put up massive numbers at the box office that exceeded expectations. GTA 6 sold 32.5 million copies via pre-purchases alone and generated close to $4 billion on day one. The game will continue to sell, and it should get another jolt of sales when the PC edition arrives in 2027 , as rumored. If you're just getting started, be sure to check out GameSpot's rundown of the five best things to do first and our guide for how to make money fast .",
-    "published": "2026-11-24T15:46:40+00:00",
-    "source": "GameSpot",
-    "site_name": "GameSpot",
-    "trust": "high",
-    "text": "The Thursday Night Football matchup on November 19, the day that GTA 6 came out, had the lowest viewership of the entire season so far for a TNF game, but the low ratings might not be due entirely to competition with GTA 6. The data shows that 12.23 million people, on average, watched the November 19 matchup between the Indianapolis Colts and Houston Texans on Prime Video. That was a 9% slide from the Week 11 Thursday Night Football matchup in 2025 featuring the New England Patriots and New York Jets. https://www.youtube.com/watch?v=dJDf76QVv70 Looking at week-over-week, the November 12 matchup this year between the Washington Commanders and New York Giants drew 16.27 million viewers , and was up 17% compared to the Week 10 matchup in 2025 featuring the Las Vegas Raiders and Denver Broncos. Due to the poor ratings of the November 19 TNF game, the full-season average now for TNF games this season sank to 16.62 million on per game. One expert told GameSpot that live sports like football probably won't be too heavily impacted by GTA 6 because people want to watch in real time. The low ratings for the November 19 matchup could be partially attributable to competition with GTA 6, but a likelier scenario is that people tuned out because it was a boring game in which the heavily favored Texans throttled the Colts by a score of 26-3. The Texans were up 17-3 at the half, and the game only had nine more points total scored in the second half--all by the Texans. Not exactly thrilling stuff that people would stay glued to. Ahead of GTA 6's launch, people also wondered how The Hunger Games: Sunrise on the Reaping, which released on November 20, might be impacted. It may have been, but the film still put up massive numbers at the box office that exceeded expectations. GTA 6 sold 32.5 million copies via pre-purchases alone and generated close to $4 billion on day one. The game will continue to sell, and it should get another jolt of sales when the PC edition arrives in 2027 , as rumored. If you're just getting started, be sure to check out GameSpot's rundown of the five best things to do first and our guide for how to make money fast .",
-    "extra": {
-     "image": "https://www.gamespot.com/wp-content/uploads/2026/11/Grand-Theft-Auto-VI_20261030130806_.jpg?w=300"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "🏈 GTA 6 УРОНИЛА рейтинги американского футбола\n\nТрансляция четвергового матча NFL в день релиза игры собрала худшие просмотры за весь сезон — всего 12,2 млн человек. Накладывать катку в Вайс-Сити оказалось куражней, чем смотреть унылый матч 26:3. Зачем вообще включать ТВ, когда в игре такой разнос?",
-    "card_title": "GTA 6 УРОНИЛА ТЕЛЕРЕЙТИНГИ",
-    "reason": "Потребительские данные о снижении аудитории на фоне релиза — интересная статистика и мемный контекст для аудитории.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "groq:qwen/qwen3.8-27b → gemini:gemini-3.5-flash"
-   },
-   "queued_at": "2026-11-24T18:25:31.899314+00:00"
-  },
-  {
-   "item": {
     "title": "GTA 6 Data Reveals Only 40% of Players Have Cleared Chapter 2",
     "link": "https://www.polygon.com/gta-6-player-data-taking-it-slow-progress/",
     "summary": "Grand Theft Auto 6 achievement data shows that only 40% of players have reached Chapter 3.",
@@ -14938,35 +14909,6 @@
     "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
    },
    "queued_at": "2026-11-25T03:19:56.237844+00:00"
-  },
-  {
-   "item": {
-    "title": "GTA 6 is great because of all its murderous NPCs, not in spite of them",
-    "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-is-great-because-of-all-its-murderous-npcs-not-in-spite-of-them/",
-    "summary": "Nobody wants to work for their crimes anymore, smh.",
-    "published": "2026-11-24T16:40:04+00:00",
-    "source": "PC Gamer",
-    "site_name": "PC Gamer",
-    "trust": "high",
-    "text": "It's come to my attention that some of us aren't having a very fun time with the NPCs in Grand Theft Auto 6. I've seen videos and threads of players complaining about not being able to steal cars because of crack head drivers, getting hunted down by killer NPCs, and just generally having a harder time traversing Leonida because who knows what bloodthirsty beast hides behind each corner? And to this I say, your steak is too buttery? Your lobster too juicy?\nMy first interaction with one of the unfriendly residents of Leonida started when I accidentally bumped into their car. Because I am wholly unaware of my surroundings, I didn't even notice that anyone was mad at me as I listened to my pop songs and carried on driving towards my mission. Little did I know that right behind me was a four-wheeler with a driver who had steam coming out of her ears.\nSo I pull up to the side of the road, ready to head in and start my mission, when seemingly out of nowhere the four-wheeler comes barreling in, almost taking me out completely. The driver gets out and starts screaming about payback. I have no idea what I've done, but this is GTA 6, I'm not taking this slander. So I start swinging.\nThe fight ends with me knocking this lady out, but she doesn't go down without a fight. At one point, I actually thought that was it for me—taken out on the pavement by a soccer mum, what a way to go.\nBut even if I had taken a long sleep on the sidewalk, that would've been OK, because it's all part of the beautiful package that GTA 6 offers.\nI don't want vapid NPCs that buckle at the first sight of a handgun, or have the object permanence of a goldfish. Filling Leonida with some actually competent, and dare I say dangerous NPCs makes this game infinitely more interesting. I like not knowing how one small action will ruin my whole day, or having to be a little wary of the people around me lest I want to incur a murderous chase across the city streets.\nI have a theory as to why players are pushing back against aggressive NPCs: they just don't like having to put in the effort after years of being able to do whatever they want in GTA Online. There's certainly some that will look back on the mostly timid NPCs of Los Santos and miss when all they had to do to steal a car was swing open its door and throw the limp driver out. Aside from shouting, there wasn't really anything a regular NPC could do to pose a threat to you back then.\nKeep up to date with the most important stories and the best dea",
-    "extra": {
-     "image": "https://cdn.mos.cms.futurecdn.net/mGAbwHEYqU99h2xFrdszPL-1920-80.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 6,
-    "post": "🔫 Агрессивные NPC в GTA 6: они реально могут тебя убить\n\nНовые уличные мобы в Леониде — не просто фон, а настоящие охотники. Теперь каждый поворот может превратиться в лут‑батл, так что держи прицел и не залипай в одну машину.",
-    "card_title": "АГРЕССИВНЫЕ НПС В GTA6",
-    "reason": "Авторская колонка от PC Gamer про агрессивных NPC в GTA 6 и реакцию игроков",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-24T18:26:07.925516+00:00"
   },
   {
    "item": {
