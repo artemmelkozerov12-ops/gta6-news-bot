@@ -4520,7 +4520,16 @@
   "bfa4665f459fd07f": "2026-11-25T21:54:31.541066+00:00",
   "923e270526379550": "2026-11-25T21:54:32.593130+00:00",
   "b4d75024dd195e59": "2026-11-25T21:54:35.728540+00:00",
-  "137a9392ec1cd1b1": "2026-11-25T21:54:41.101912+00:00"
+  "137a9392ec1cd1b1": "2026-11-25T21:54:41.101912+00:00",
+  "f4db9c13cb0ba8e6": "2026-11-25T22:10:04.480929+00:00",
+  "dad127aaf723685c": "2026-11-25T22:10:09.498904+00:00",
+  "adcfe5de487f51bb": "2026-11-25T22:10:19.670240+00:00",
+  "ae019b663e47aadc": "2026-11-25T22:10:26.723794+00:00",
+  "af430f2eadc316f6": "2026-11-25T22:10:32.054643+00:00",
+  "71351c6ee667af05": "2026-11-25T22:10:39.478767+00:00",
+  "1697f0d44d25b562": "2026-11-25T22:10:50.087344+00:00",
+  "36e77880f66c8f74": "2026-11-25T22:10:57.000699+00:00",
+  "8ebb0bfef3f7d18c": "2026-11-25T22:11:02.439556+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -7521,7 +7530,16 @@
   "05528630a2fc8cc9": "2026-11-25T21:54:31.541066+00:00",
   "2f89dd989fc899ae": "2026-11-25T21:54:32.593130+00:00",
   "ff68dc4453329dbb": "2026-11-25T21:54:35.728540+00:00",
-  "6fa447048c2dbfaa": "2026-11-25T21:54:41.101912+00:00"
+  "6fa447048c2dbfaa": "2026-11-25T21:54:41.101912+00:00",
+  "e25f7488d74603c0": "2026-11-25T22:10:04.480929+00:00",
+  "e7caa3271fdf5bbe": "2026-11-25T22:10:09.498904+00:00",
+  "50449eea3e52b86d": "2026-11-25T22:10:19.670240+00:00",
+  "14c846e735486685": "2026-11-25T22:10:26.723794+00:00",
+  "f4cc5f271b175ae6": "2026-11-25T22:10:32.054643+00:00",
+  "a8b44f54003e58ad": "2026-11-25T22:10:39.478767+00:00",
+  "cae2e522f2306e83": "2026-11-25T22:10:50.087344+00:00",
+  "092c0ea0a6e1bd1a": "2026-11-25T22:10:57.000699+00:00",
+  "6e4531b61fae1764": "2026-11-25T22:11:02.439556+00:00"
  },
  "recent": [
   {
@@ -15683,6 +15701,54 @@
    "status": "skipped",
    "ts": "2026-11-25T21:54:41.101979+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GTA VI leaker released from prison by sympathetic London judge",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-25T22:10:04.480962+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Можно ли работать таксистом в ГТА 6. Как стать «бомбилой» в GTA 6",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T22:10:26.723867+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 hair and beauty salons: Every hairstyle, nails and makeup option for Jason and Lucia",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T22:10:39.478841+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Real Central FL landmarks, attractions hidden in GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T22:10:50.087412+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "В GTA 6 можно ограбить магазин пивными бутылками",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T22:10:57.000817+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Digital Foundry сравнили GTA 6 на консолях: PS5 Pro впереди, а Series S слабее всех, но держится достойно",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T22:11:02.439630+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -15926,37 +15992,6 @@
   },
   {
    "item": {
-    "title": "GTA 6 Caught Slipping walkthrough: How to catch both thieves",
-    "link": "https://www.videogameschronicle.com/guide/gta-6-caught-slipping-walkthrough/",
-    "summary": "Here's how to complete Caught Slipping in GTA 6",
-    "published": "2026-11-25T09:58:00+00:00",
-    "source": "VGC",
-    "site_name": "VGC",
-    "trust": "high",
-    "text": "This guide explains how to complete the mission Caught Slipping in GTA 6.\nThe mission features separate chase sequences with Jason and Lucia, before sending the pair to Big House Storage to secure an important item.\nHere’s everything you need to know about completing Caught Slipping in GTA 6.\nYou can now explore our GTA 6 Guides Hub for dozens of guides laying out everything you need to know about Rockstar‘s latest epic. We’ve also got a complete GTA 6 walkthrough-in-progress, which you can bookmark and return to as you progress through the game.\nGuides: If you're playing Grand Theft Auto 6, make sure to check out our complete walkthrough hub, featuring beginner tips, navigation experience explained, GTA 6 cheats, and more.\nCaught Slipping becomes available in Chapter 3 after completing the missions Boobie Time & First Impressions.Once you’ve completed both missions, return to Jason and Lucia’s Bayside apartment.\nWhen you attempt to enter the apartment, you’ll discover that something is wrong. The door has been jammed, and two thieves have broken into the property. This automatically triggers the mission Caught Slipping.\nAfter discovering the break-in, you’ll take control of Lucia and need to chase the first thief through the construction site next to the apartment.\nThe thief will attempt to escape on foot, so follow them through the site and use Focus to make stopping them easier.\nThe easiest way to catch the first thief is to activate Focus and aim for their legs.On a standard controller, press L3 and R3 together to activate Focus. Aim low and fire to stop the fleeing thief.\nYou don’t need to kill them. The objective is simply to stop their escape. If you do kill them, you’ll take a hit to your criminal profile, but the mission won’t fail.\nOnce the thief has been stopped, approach them and search the bag they’ve dropped.\nThis completes the first chase sequence and moves the mission forward.\nYou’ll now switch characters and take control of Lucia, who needs to catch the second thief.\nThe objective is essentially the same as Lucia chase.\nFollow the thief and use Focus to help line up a shot at their legs. Once they’ve been stopped, approach the dropped bag and search it. If you don’t manage to catch the theif, he will run into a pawn shop in an attempt to ambush Jason. You’ll fight him here, at which point he’ll drop the bag.\nWith both bags recovered, Jason and Lucia will regroup outside their apartment.\nYour next objective is to drive south to Big House St",
-    "extra": {
-     "image": "https://www.videogameschronicle.com/files/2026/11/gta-6-caught-slipping-walkthrough-9.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 6,
-    "post": "🗺 Гайд: как пройти миссию Caught Slipping\n\n1. Квест стартует в 3 главе возле квартиры Джейсона и Люсии в Bayside.\n2. В погоне за ворами прожимай Focus (L3+R3) и стреляй ровно по ногам, чтобы быстро их уронить без лишних фрагов.\n3. Если один из грабителей сбежит, забирай его в ломбарде, обыскивай сумки и жми на склад Big House Storage.",
-    "card_title": "ПРОХОЖДЕНИЕ CAUGHT SLIPPING",
-    "reason": "Подтверждённый гайд от VGC, полезен игрокам для прохождения миссии.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": true,
-    "model": "groq:openai/gpt-oss-120b → gemini:gemini-3.5-flash"
-   },
-   "queued_at": "2026-11-25T10:06:43.016991+00:00",
-   "moderation": "pending",
-   "draft_msg_id": 166
-  },
-  {
-   "item": {
     "title": "Why did Rockstar Games make empathy a key mechanic in GTA 6? \"Because it's fun\" says head of development Rob Nelson",
     "link": "https://www.eurogamer.net/gta-6-empathy-criminal-profile-why-rockstar-added-it-rob-nelson",
     "summary": "There's been plenty of chatter about Grand Theft Auto 6 's 'honour system', so to speak, implemented here via what the game calls your Criminal Profile. Read more",
@@ -16132,36 +16167,6 @@
   "2026-11-23T20:15:05.441047+00:00"
  ],
  "clips": [
-  {
-   "clip": {
-    "source": "twitch",
-    "url": "https://www.twitch.tv/nickeh30/clip/BlindingNeighborlyOxChocolateRain-ALweatmVZn5Z-rVQ",
-    "title": "EHHHMAZING!!!!",
-    "author": "NickEh30",
-    "views": 300,
-    "duration": 20.1,
-    "created": "2026-11-24T16:56:40+00:00",
-    "lang": "en",
-    "description": "",
-    "vod_id": "2939401420",
-    "vod_offset": 5193.0
-   },
-   "caption": "🔞 На пляже в Вайс-Сити лучше никого не трогать — NPC в GTA 6 не прощают агрессию, это просто лютый разнос 💀 Физика крови и реакция прохожих — имба!",
-   "interest": 9,
-   "spoiler": false,
-   "nsfw": true,
-   "watched": true,
-   "model": "gemini:gemini-3.1-flash-lite",
-   "media": {
-    "width": null,
-    "height": 720,
-    "duration": 20
-   },
-   "queued_at": "2026-11-24T21:55:04.463549+00:00",
-   "file_id": "BAACAgIAAxkDAAOQawYHuUhdzjgLu3oSJupXe9iBMV4AAke7AAImETBIumHcPcg9LnA9BA",
-   "moderation": "pending",
-   "draft_msg_id": 144
-  },
   {
    "clip": {
     "source": "twitch",
@@ -23847,6 +23852,94 @@
    },
    "corr": false,
    "since": "2026-11-25T21:36:43.243722+00:00"
+  },
+  {
+   "item": {
+    "title": "30 Things You Might Have Missed in GTA 6",
+    "link": "https://insider-gaming.com/30-things-you-might-have-missed-in-gta-6/",
+    "summary": "From secret locations to hidden controller settings, here are 30 things that you might have missed in GTA 6 so far. The post 30 Things You Might Have Missed in GTA 6 appeared first on Insider Gaming .",
+    "published": "2026-11-25T21:55:38+00:00",
+    "source": "Insider Gaming",
+    "site_name": "Insider Gaming",
+    "trust": "medium",
+    "text": "Grand Theft Auto 6 is a gargantuan game in every sense of the word. From an enormous map to an expansive story, and from stacks of side content to a mountainous plethora of collectibles, this is a game that will hold your attention for easily over 100 hours. As you can imagine, a game this granular almost definitely has elements and features you might have missed.\nIf you’re a good few hours into Grand Theft Auto 6, there might still be things you’ve not noticed or had a chance to discover. In this snapshot breakdown, I’m going to highlight 30 things that you might have missed in GTA 6.\nStop by the comments to add things that I’ve forgotten to include! Share your top tips.\nHere’s the most comprehensive list I could create of things you might have skipped over or not noticed in Grand Theft Auto 6!\nI’ve put together a guide that details the best GTA 6 locations for easy money right at the start of the game. You might not have hit all these spots just yet, so take a look!\nIf you roll your car over, you don’t need to worry about paying Scooter Bros to recover the vehicle. Push into the rolled vehicle, and when prompted, hold X or SQUARE to give the car an almighty push to flip it back over.\nBe careful, as it can roll back again and crush you!\nIf you want to listen to music while you’re walking around or visiting the gym in GTA 6, you’ll first need to head to a gadget store to buy a set of earbuds or headphones. These stores are indicated by a headphones symbol on the map. The first one you find will be in Hamlet.\nIf you’re struggling with various aspects of robberies, simply progress through the story, and you’ll unlock some extremely handy tools. For instance, you get a lockpick gun, a dye pack blocker, and a key cloner tool that allows you to steal higher-tier cars.\nYou might not know these things exist in GTA 6 if you haven’t reached this part of the game, but trust me, they’re coming.\nGTA 6’s fences, like Brian, Dunk, Tyrone, and Yasmine, will buy certain things for more than other fences will. This means it pays to shop around. But you can get even more money out of these people by improving your relationship with them.\nFor instance, completing the ‘Kitty Litter’ miscellaneous missions for Tyrone results in him offering more for narcotics than any other fence.\nIf you take a peek at the map, you’ll see buildings are either dark blue or light blue. If the building is dark blue, that means it can be entered in some way. That might be a single room, but it’s r",
+    "extra": {
+     "image": "https://insider-gaming.com/wp-content/uploads/2026/11/4a565871-d47b-4c90-bf90-e90f3c0aae7f-1-1024x576.png"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "🗺 Гайд: Скрытые фишки GTA 6, которые вы могли пропустить\n\nПеревернули тачку? Не спешите платить Эвакуатору — просто подойдите и зажмите клавишу взаимодействия, чтобы поставить её на колеса. А наушники для музыки на ходу придется купить в гаджет-магазине с символом наушников в Гамлете.",
+    "card_title": "СЕКРЕТЫ И МЕХАНИКИ GTA 6",
+    "reason": "Полезная подборка секретов и механик из игры от крупного издания",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": true,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-25T22:10:15.333914+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA 6 Animation Director Reveals Rockstar Made 3 Animations for Each Item Interaction",
+    "link": "https://www.ign.com/articles/gta-6-animation-director-reveals-rockstar-made-3-animations-for-each-item-interaction",
+    "summary": "Mike Jones, the director of gameplay animation for GTA 6, revealed that the team at Rockstar created three separate animations for each item interaction in the game.",
+    "published": "2026-11-25T21:08:54+00:00",
+    "source": "IGN",
+    "site_name": "IGN",
+    "trust": "high",
+    "text": "Mike Jones, the director of gameplay animation for GTA 6, revealed that the team at Rockstar created three separate animations for each item interaction in the game.\nIf you’ve been playing GTA 6 at all, you’ve probably picked up on the fact that characters can now hold an item in each hand. This has made for some especially funny clips on social media, where users have wasted no time making Jason recreate the ‘six-seven’ meme while holding various objects.\nThis is a big change from previous Rockstar games; in titles like GTA 5 and Red Dead Redemption 2, players could only carry one thing at a time, though you could dual wield certain guns in GTA: San Andreas. (You could also hold longarms at your side while shooting a pistol in RDR 2 and Max Payne 3.) Now, you can hold a sandwich in one hand and a drink in the other — or a bag and a gun, if you’re sticking up a pawn shop, for instance. This isn’t just an aesthetic feature, either, as it serves the important function of letting players take care of two tasks at once, making robberies or transporting items a bit smoother.\nPlayers have praised GTA 6 for its jaw-dropping attention to detail, and this particular tidbit wasn’t lost on them. A thread on Bluesky discussing the feature caught the attention of Mike Jones, the director of gameplay on Rockstar’s latest title, who revealed the extent of the studio’s efforts in making sure every single item interaction had a single-handed, two-handed, and hands-free animations.\n“FYI, we made three versions for all item interactions; one if both hands are free, one if just your right hand is free and again for the left,” he wrote. “It was a massive pain, but once you knew every interaction could ‘cope,’ it made the game logic much easier. That was then sometimes replicated for crouch, too…”\nThat being said, the devs at Rockstar aren’t superheroes, and they had to cut corners somewhere during development. Jones admitted this fact in response to another comment in this thread, where a user wrote, “Honestly, the level of polish is so absurd that when I see how cheated the ‘putting gas in the car’ sequence is, I'm like, relieved. ‘Oh, okay, they're human, they bleed.’ You all did SO well.”\n“Thanks, everyone would really appreciate your comments! And yes, shortcuts were definitely made, too,” Jones replied.\nGTA 6 is a game like no other. Its world is so massive and detailed that some players are avoiding progressing the story in favor of chilling out in Key Lento and diving f",
+    "extra": {
+     "image": "https://assets-prd.ignimgs.com/2026/11/25/gta-6-item-animations-1795640541926.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "ТРИ АНИМАЦИИ для каждого предмета\n\nРазработчики из Rockstar сделали по три версии анимаций для каждого взаимодействия с вещами: когда свободна одна рука или обе сразу. Вот это лютый пот ради деталей, база от перфекционистов!\n\n❤️ — Ждем в новой части\n👎 — Опять перенос?",
+    "card_title": "ТРИ АНИМАЦИИ ДЛЯ КАЖДОГО ПРЕДМЕТА",
+    "reason": "Официальные подробности от директора анимации Rockstar о проработке предметов в GTA 6.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-25T22:10:24.616589+00:00"
+  },
+  {
+   "item": {
+    "title": "Buckingham Jubilee GTA 6 Location – Where to Find the Rolls-Royce SUV",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE53UUozUUp0LXF4bE42VTA4NXVQYzFlaEZHVjFjOWYxODZuemM5STVBdXZuWXlaM3RQU0d4U3M4aGo5X3QtSW5USVgtMm9ZbGgtejBQZWZ0ejJ4d2NJcV9LU2R5S3FqZkQ2dmFpQ1ExazlrdFFZ?oc=5",
+    "summary": "Buckingham Jubilee GTA 6 Location – Where to Find the Rolls-Royce SUV VICE",
+    "published": "2026-11-25T22:01:39+00:00",
+    "source": "Google News (EN)",
+    "site_name": "VICE",
+    "trust": "rumor",
+    "text": "Buckingham Jubilee GTA 6 Location – Where to Find the Rolls-Royce SUV VICE",
+    "extra": {}
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "🗺 Гайд: Ищем Rolls-Royce\n\nBUCKINGHAM JUBILEE В ДЕЛЕ\n\nЗавезли гайд, где отыскать этот сочный британский внедорожник в Вайс-Сити. Чекайте точку на карте, забирайте тачку и флексите по району без спавна.",
+    "card_title": "ГДЕ НАЙТИ BUCKINGHAM JUBILEE",
+    "reason": "Гайд по поиску крутого внедорожника Buckingham Jubilee в игре, полезно для игроков.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": true,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": true,
+   "since": "2026-11-25T22:10:32.811016+00:00"
   }
  ]
 }
