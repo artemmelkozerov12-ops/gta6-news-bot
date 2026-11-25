@@ -4063,7 +4063,24 @@
   "a333b78d997e4567": "2026-11-25T11:26:41.567654+00:00",
   "65271a9bf5fccabf": "2026-11-25T11:26:43.951518+00:00",
   "76cced87e9742b87": "2026-11-25T11:26:45.593801+00:00",
-  "2127cef401d2538d": "2026-11-25T11:26:47.026255+00:00"
+  "2127cef401d2538d": "2026-11-25T11:26:47.026255+00:00",
+  "0118a0e72fb8ee43": "2026-11-25T11:42:21.578706+00:00",
+  "cceb59cec8fd74cb": "2026-11-25T11:42:25.258580+00:00",
+  "f91852962fc1441f": "2026-11-25T11:42:44.857039+00:00",
+  "7078c07506ac3533": "2026-11-25T11:42:52.759176+00:00",
+  "0b4ce8013509e115": "2026-11-25T11:42:56.830465+00:00",
+  "cbad8e46510ff462": "2026-11-25T11:42:58.499349+00:00",
+  "af5b3aeb04d83f5a": "2026-11-25T11:43:00.119824+00:00",
+  "1490709feb398122": "2026-11-25T11:43:01.242117+00:00",
+  "34bb9b597374ee7b": "2026-11-25T11:58:21.361252+00:00",
+  "93bd70682b2e1037": "2026-11-25T11:58:24.303276+00:00",
+  "606ff2b152ed46d0": "2026-11-25T11:58:26.693638+00:00",
+  "4b341d32c6fa92b5": "2026-11-25T11:58:28.247509+00:00",
+  "0e335e21b456cde0": "2026-11-25T11:58:40.918797+00:00",
+  "8d1070b74626d00f": "2026-11-25T11:58:42.241941+00:00",
+  "37cbbc10e6142a2e": "2026-11-25T11:58:45.443392+00:00",
+  "80c3d5f84d0a50a5": "2026-11-25T11:58:50.699443+00:00",
+  "d34b2d155e5635ce": "2026-11-25T11:58:52.225287+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -6786,7 +6803,24 @@
   "b5473db0d7ef8096": "2026-11-25T11:26:41.567654+00:00",
   "4fbf6577f57977b8": "2026-11-25T11:26:43.951518+00:00",
   "27bde9a9e0abab59": "2026-11-25T11:26:45.593801+00:00",
-  "b41394f48eb2cc69": "2026-11-25T11:26:47.026255+00:00"
+  "b41394f48eb2cc69": "2026-11-25T11:26:47.026255+00:00",
+  "0ca8d5c122166186": "2026-11-25T11:42:21.578706+00:00",
+  "d7ac47412b127281": "2026-11-25T11:42:25.258580+00:00",
+  "3275dcb7c6ce9959": "2026-11-25T11:42:44.857039+00:00",
+  "2ea3b2539e25ca8b": "2026-11-25T11:42:52.759176+00:00",
+  "4fd5499336a5b94c": "2026-11-25T11:42:56.830465+00:00",
+  "6ee037c09dc2abf4": "2026-11-25T11:42:58.499349+00:00",
+  "6ae013f7128a6c00": "2026-11-25T11:43:00.119824+00:00",
+  "4ff1c0c1447095aa": "2026-11-25T11:43:01.242117+00:00",
+  "df06b307efd58dfa": "2026-11-25T11:58:21.361252+00:00",
+  "1d873bcddd1a9afd": "2026-11-25T11:58:24.303276+00:00",
+  "24438fcd6dd3ae1c": "2026-11-25T11:58:26.693638+00:00",
+  "29150efec53e29e2": "2026-11-25T11:58:28.247509+00:00",
+  "6cea4a6ad3d506c6": "2026-11-25T11:58:40.918797+00:00",
+  "8c9d97fc1f3bae92": "2026-11-25T11:58:42.241941+00:00",
+  "e1e801fe67e697a7": "2026-11-25T11:58:45.443392+00:00",
+  "816d4f029fd9c27d": "2026-11-25T11:58:50.699443+00:00",
+  "34c7f6274df2d913": "2026-11-25T11:58:52.225287+00:00"
  },
  "recent": [
   {
@@ -14052,6 +14086,142 @@
    "status": "skipped",
    "ts": "2026-11-25T11:26:47.026404+00:00",
    "card_title": ""
+  },
+  {
+   "title": "Cyberpunk 2 Development Ramps Up At CD Projekt Red, But Ambitions For The Project Are ‘Not Changed’ By GTA 6′s Success",
+   "source": "Kotaku",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-25T11:42:21.578842+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Ведущую сценаристку GTA VI затравили и она удалилась из соцсетей — её обвинили в обучении женщин «манипулировать мужчинами».",
+   "source": "iXBT.games",
+   "trust": "medium",
+   "status": "queued",
+   "ts": "2026-11-25T11:42:40.662218+00:00",
+   "card_title": "СЦЕНАРИСТКУ GTA 6 ЗАТРАВИЛИ ИЗ-ЗА СЮЖЕТА"
+  },
+  {
+   "title": "GTA VI publisher has launched a DMCA campaign against videos of the PC version of the game.",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T11:42:44.857203+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 'blackouts begin' on PS5 as consoles shut down, Sony and Rockstar issue statements",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T11:42:52.759327+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Ла Йорона в GTA 6 — где найти призрака плачущей женщины",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T11:42:56.830619+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Rockstar Takes Legal Action Against Popular GTA 6 PC Port",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T11:42:58.499507+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6: Can You Cook Fish?",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T11:43:00.119972+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Polish Game Developer Says GTA VI Has Not Hurt PC Sales or Engagement",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T11:43:01.242265+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Max Verstappen admits to 40-hour GTA VI spree as he won Las Vegas GP",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-25T11:58:21.361333+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6: All Criminal Profiles explained",
+   "source": "VGC",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-25T11:58:25.056867+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "В Rockstar призвали не проходить GTA 6 по гайдам и чек-листам — так мир Леониды раскрывается почти бесконечно",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T11:58:26.693805+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "'Will Take a While but I Will Finish This Game' — Raul Bautista Actor Manny Perez Bought a PS5 So He Could Play GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T11:58:28.247657+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 PS5 vs Xbox Series X Performance in the UAE",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T11:58:40.918943+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Slideshow: Vehicles in GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T11:58:42.242083+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 seems to be making some PS5 consoles catch fire, with multiple streamers experiencing smoking and failed GPUs — ‘PS5 started just smoking out its a**, and now I need to get a replacement’",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T11:58:45.443536+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "The 24-Hour GTA 6 PC Port Is a Warning Shot, Not a Product",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T11:58:50.699595+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 — пропавшие туристы: где найти тела и серийного убийцу",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T11:58:52.225436+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -14440,6 +14610,37 @@
   },
   {
    "item": {
+    "title": "Ведущую сценаристку GTA VI затравили и она удалилась из соцсетей — её обвинили в обучении женщин «манипулировать мужчинами».",
+    "link": "https://ixbt.games/news/2026/11/25/vedushhuiu-scenaristku-gta-vi-zatravili-i-ona-udalilas-iz-socsetei.html",
+    "summary": "К образу Джейсона и другим сценарным решениям возникло много претензий.",
+    "published": "2026-11-25T11:20:00+00:00",
+    "source": "iXBT.games",
+    "site_name": "iXBT.games",
+    "trust": "medium",
+    "text": "К образу Джейсона и другим сценарным решениям возникло много претензий.\nНедавно состоялся релиз Grand Theft Auto VI и подтвердились опасения некоторых игроков. Недовольные персоны считают, что Джейсона выставили «подкаблучником» и их чувства задели опциональные действия, вроде похода в магазин или покупки девушке цветов.\nВскоре после запуска игры такие люди стали искать в социальных сетях разработчиков Grand Theft Auto VI, чтобы высказать им претензии за «неправильный» сценарий. Пользователи обратили внимание на то, что одна из ведущих сценаристок игры Алекса Д’Агостино (Alexa D’Agostino) в итоге деактивировала свою страницу в социальной сети.\nЗаметному количеству игроков не нравится, каким образом в Grand Theft Auto VI выстроили романтические отношения между главными героями. В дуэте Лусия-Джейсон мужской персонаж, как считают критики, выставляется во многих сценах «клоуном». Дополнительно недовольство подогревает отсутствие в игре продажных женщин, которые были в прошлых играх франшизы, а также выявленые «особенности» биографии сценаристки.\nИгроки «пробили» Алексу и нашли её рассказ о том, что её мама иммигрантка и она учила её «ничего не терпеть». Теперь для людей, вроде bratricek, паззл сложился: «Итак... эта игра представляет собой фантазию женщины-иммигрантки о том, чтобы иметь белого мужчину в качестве раба, чтобы ей не приходилось ни о ребенке, ни о доме, ни о своей жизни вообще заботиться».\nПомимо этого, они рассказали про блог, в котором Алекса «давала женщинам советы о том, как манипулировать мужчинами, извлекать из них выгоду и \"играть\" с ними».\nЭто далеко не первый случай, когда актёрам и разработчикам поступают угрозы от игроков из-за того, что им не понравился определённый контент или сценарные решения. Например, такое было во времена The Last of Us Part II (а некоторые и сегодня высказывают претензии из-за определённых сценарных решений).\nСейчас Grand Theft Auto VI официально доступна только на консолях PlayStation 5 и Xbox Series X|S. Однако в сеть слили билд игры с exe-файлом и сейчас техно-энтузиасты работают над запуском игры на ПК — есть определённые успехи, но до полноценной играбельной версии пока далеко.\nНе пропускайте наши новостиДобавьте сайт в предпочитаемые источники, чтобы видеть нас чащеДобавить в Google",
+    "extra": {
+     "image": "https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1746272/media-7135f6fb461ad673e1e9b0168959e5b9a36e0ceefdab9070290a510d35b99293.png"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "🚨 СЦЕНАРИСТКУ GTA 6 затравили из-за Джейсона-подкаблучника\n\nНекоторым игрокам не зашло, что Джейсону надо дарить цветы Лусии и водить её по магазинам. Ведущая сценаристка Алекса Д’Агостино после волны хейта просто удалила свои соцсети. Рил лютый кринж и драма.\n\n❤️ — Норм тема, романтика в кассу\n👎 — Джейсона реально занизили скотски",
+    "card_title": "СЦЕНАРИСТКУ GTA 6 ЗАТРАВИЛИ ИЗ-ЗА СЮЖЕТА",
+    "reason": "Скандал с травлей сценаристки из-за сюжета GTA 6, громкий инфоповод с высоким интересом аудитории.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-3.5-flash"
+   },
+   "queued_at": "2026-11-25T11:42:40.662207+00:00",
+   "moderation": "pending",
+   "draft_msg_id": 156
+  },
+  {
+   "item": {
     "title": "Exclusive: Sabii Garcia on the Drink Pose and Green Jersey in the GTA 6 Cover Art",
     "link": "https://www.gtaboom.com/sabii-garcia-gta-6-cover-girl-reference-shoot-835d",
     "summary": "Sabii Garcia says she held the drink pose for hours before switching hands and recognized it on the GTA 6 cover despite the green No. 6 jersey.",
@@ -14679,7 +14880,8 @@
   "2026-11-25T08:00:54.269176+00:00",
   "2026-11-25T09:00:58.703418+00:00",
   "2026-11-25T10:01:25.681255+00:00",
-  "2026-11-25T11:02:35.662533+00:00"
+  "2026-11-25T11:02:35.662533+00:00",
+  "2026-11-25T12:03:09.950533+00:00"
  ],
  "slots_sent": {
   "2026-11-24:guide:1": "2026-11-24T14:08:00.473378+00:00",
@@ -14690,36 +14892,6 @@
   "2026-11-23T20:15:05.441047+00:00"
  ],
  "clips": [
-  {
-   "clip": {
-    "source": "twitch",
-    "url": "https://www.twitch.tv/lru_rose/clip/PoisedLittleJalapenoOptimizePrime-buJM7mdPGqX2R6T_",
-    "title": "где бабки???",
-    "author": "LRU_ROSE",
-    "views": 678,
-    "duration": 30.0,
-    "created": "2026-11-23T20:24:17+00:00",
-    "lang": "ru",
-    "description": "",
-    "vod_id": "2938409183",
-    "vod_offset": 18054.0
-   },
-   "caption": "Главное, что упаковка пива в кузове Vapid на месте 🍺 Мелочи и физика предметов — просто база",
-   "interest": 7,
-   "spoiler": false,
-   "nsfw": false,
-   "watched": true,
-   "model": "gemini:gemini-3.5-flash",
-   "media": {
-    "width": null,
-    "height": 720,
-    "duration": 30
-   },
-   "queued_at": "2026-11-24T11:38:38.373886+00:00",
-   "file_id": "BAACAgIAAxkDAAOCawV3P2aj7Z1UmBAv-WeHK3es-7YAAl2sAAKTDTFISK7mmhGPw4o9BA",
-   "moderation": "pending",
-   "draft_msg_id": 130
-  },
   {
    "clip": {
     "source": "twitch",
