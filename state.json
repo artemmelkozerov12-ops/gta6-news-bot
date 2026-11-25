@@ -3949,7 +3949,9 @@
   "2ee390bd4f7e3c90": "2026-11-25T00:23:18.346071+00:00",
   "10debd4a2a2d867d": "2026-11-25T00:40:55.856499+00:00",
   "f0ffec97cd0658fe": "2026-11-25T00:58:38.696817+00:00",
-  "7a16a345b309979c": "2026-11-25T00:58:40.364491+00:00"
+  "7a16a345b309979c": "2026-11-25T00:58:40.364491+00:00",
+  "7ea79253d248b590": "2026-11-25T01:34:06.340587+00:00",
+  "8b2e816e75418d0e": "2026-11-25T01:34:08.750051+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -6616,7 +6618,9 @@
   "36b641abfc51197d": "2026-11-25T00:23:18.346071+00:00",
   "0f014bc4a44162cb": "2026-11-25T00:40:55.856499+00:00",
   "52fd07a4310be612": "2026-11-25T00:58:38.696817+00:00",
-  "d2a8eb57c0ac06e4": "2026-11-25T00:58:40.364491+00:00"
+  "d2a8eb57c0ac06e4": "2026-11-25T00:58:40.364491+00:00",
+  "dcd258b305285f59": "2026-11-25T01:34:06.340587+00:00",
+  "f9871fc6439d4bd6": "2026-11-25T01:34:08.750051+00:00"
  },
  "recent": [
   {
@@ -15018,6 +15022,14 @@
    "status": "skipped",
    "ts": "2026-11-25T00:58:41.456725+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GTA 6's coolest Easter egg so far is so intricate that only real Vice City sickos would ever find it",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-25T01:34:07.230311+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -22075,6 +22087,36 @@
    },
    "corr": false,
    "since": "2026-11-25T00:40:56.841805+00:00"
+  },
+  {
+   "item": {
+    "title": "Max Verstappen Spent 40 Hours Playing GTA 6 and Still Won the Las Vegas Grand Prix",
+    "link": "https://www.ign.com/articles/max-verstappen-spent-40-hours-playing-gta-6-and-still-won-the-las-vegas-grand-prix",
+    "summary": "Famous Dutch-Belgian race driver Max Verstappen revealed that he’d spent the weekend of the Las Vegas Grand Prix locked in to GTA 6, saying he played over 40 hours of the game.",
+    "published": "2026-11-24T23:49:50+00:00",
+    "source": "IGN",
+    "site_name": "IGN",
+    "trust": "high",
+    "text": "Famous Dutch-Belgian race driver Max Verstappen revealed that he’d spent the weekend of the Las Vegas Grand Prix locked in to GTA 6, saying he played over 40 hours of the game.\nEveryone’s got GTA 6 fever, including Max Verstappen. Not even the Las Vegas Grand Prix could stop him from causing virtual chaos in Vice City, which he says he spent more than 40 hours doing during the weekend of the race.\nVerstappen nonchalantly dropped this nugget of information during a live stream the following week, saying he would play the game in the mornings and evenings in between his duties on the track.\n“I played a lot in the evening and in the morning in Vegas,” Verstappen explained. “I mean, I can’t go out anyways and walk around.”\nThe driver also revealed that he’s been so focused on GTA 6 and driving real-life race cars that he’s “completely forgotten” how to play Minecraft, despite having a scheduled stream for it.\n“I’m so bad when I play too many games at the same time. I can’t, I just can’t!” he joked.\n🤯Max Verstappen played GTA VI for FORTY HOURS while in Las VegasOn top of that, he also won the race https://t.co/jwuxQnHxyS— Pablo Martinez (Holiness) (@F1BigData) November 24, 2026\nThe Las Vegas Grand Prix took place on November 19 - 21. Verstappen took first place in the prestigious Formula 1 race, beating out Britain’s Lando Norris and Australia’s Oscar Piastri. The race is around 50 laps long with a total race distance of 192.6 miles (309.96 kilometers), generally lasting around one and a half hours.\nAs revealed by the name, Grand Theft Auto is a game series that involves a lot of vehicles, and not just for carjacking; the latest entry in the franchise even features drag racing and mudding, a hobby common in the American countryside that involves the use of off-road vehicles racing through mud-covered areas or even specially-made racetracks.\nIt’s quite likely that Verstappen dabbled a bit in these side missions, though he says that he’s already beaten 80% of GTA 6’s story. In fact, the driver admitted that he has skipped most of the main cutscenes, calling them “too boring.”\nVerstappen’s style of playing GTA 6 is one of several that we’ve seen over the weekend. In fact, many players are avoiding progressing the story in favor of spending time in Chapter 1, which sees Jason living the average life of a drug runner in Rockstar’s fictionalized version of the Florida Keys. Oddly, it’s a slow-paced, slice-of-life section of the game that some players haven’t left ye",
+    "extra": {
+     "image": "https://assets-prd.ignimgs.com/2026/11/24/max-verstappen-gta-6-1795564044448.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "🏎️ 40 ЧАСОВ в GTA 6 ради победы в F1\n\nМакс Ферстаппен перед Гран-при Лас-Вегаса зарубился в GTA 6 на 40 часов, скипнул все кат-сцены и... взял первое место. База для настоящих киберспортсменов.\n\n❤️ — Тоже катал в катку перед работой\n👎 — Душно, надо было тренироваться",
+    "card_title": "МАКС ФЕРСТАППЕН ИГРАЛ В GTA 6",
+    "reason": "F1 driver Max Verstappen played 40 hours of GTA 6 and won the Las Vegas Grand Prix, hilarious and high engagement.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-25T01:34:09.414476+00:00"
   }
  ]
 }
