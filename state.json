@@ -4432,7 +4432,23 @@
   "78eb8ba7a26edc57": "2026-11-25T19:41:51.830065+00:00",
   "ab428c1f611af79b": "2026-11-25T19:41:53.429033+00:00",
   "1c6b41e6c4eebc10": "2026-11-25T19:41:59.509506+00:00",
-  "ca6aca058081d756": "2026-11-25T19:42:00.800114+00:00"
+  "ca6aca058081d756": "2026-11-25T19:42:00.800114+00:00",
+  "6cab74237bc2776d": "2026-11-25T19:57:41.344693+00:00",
+  "cbf0d8f2e642789a": "2026-11-25T19:57:52.412353+00:00",
+  "973c1f3223284d81": "2026-11-25T19:57:53.877353+00:00",
+  "8b5b095c2739f7cd": "2026-11-25T19:57:57.002025+00:00",
+  "948c5f7845ae59d7": "2026-11-25T19:57:58.125472+00:00",
+  "d06d5e4e1d23cdf5": "2026-11-25T19:57:59.262344+00:00",
+  "0e9a1288f0cb9fd8": "2026-11-25T19:58:04.414848+00:00",
+  "365a2d4145c4ed93": "2026-11-25T19:58:08.928641+00:00",
+  "fc8762dfbaca35e6": "2026-11-25T20:16:11.043878+00:00",
+  "f5a092a3288d5575": "2026-11-25T20:16:17.513619+00:00",
+  "cb05e58c1322ca50": "2026-11-25T20:16:24.212234+00:00",
+  "cf45acd29091be5f": "2026-11-25T20:16:29.381984+00:00",
+  "50420d809380881e": "2026-11-25T20:16:34.798418+00:00",
+  "ec438c2b0c570536": "2026-11-25T20:16:37.554573+00:00",
+  "3ff3b98ae03cbf87": "2026-11-25T20:16:42.465221+00:00",
+  "b30151374e2c3a68": "2026-11-25T20:16:48.013661+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -7368,7 +7384,23 @@
   "58a576ca45986d65": "2026-11-25T19:41:49.684653+00:00",
   "fe092468ea567668": "2026-11-25T19:41:51.830065+00:00",
   "51d29babdb60bfb3": "2026-11-25T19:41:53.429033+00:00",
-  "eab090e4014c5be0": "2026-11-25T19:41:59.509506+00:00"
+  "eab090e4014c5be0": "2026-11-25T19:41:59.509506+00:00",
+  "457fe9df252d1cb5": "2026-11-25T19:57:41.344693+00:00",
+  "f898bfe5dc9f238a": "2026-11-25T19:57:52.412353+00:00",
+  "e5ab6db7e88d4f18": "2026-11-25T19:57:53.877353+00:00",
+  "e1246a0993c92717": "2026-11-25T19:57:57.002025+00:00",
+  "252e51aada6913ee": "2026-11-25T19:57:58.125472+00:00",
+  "4d6f5e8e7a5a233c": "2026-11-25T19:57:59.262344+00:00",
+  "4f00cb3143202c91": "2026-11-25T19:58:04.414848+00:00",
+  "dd9228d1424fe64b": "2026-11-25T19:58:08.928641+00:00",
+  "5643701ca42a4ec0": "2026-11-25T20:16:11.043878+00:00",
+  "9ae24bdb89fa9a02": "2026-11-25T20:16:17.513619+00:00",
+  "9e288205729693d5": "2026-11-25T20:16:24.212234+00:00",
+  "14d4c9ad9ac3b365": "2026-11-25T20:16:29.381984+00:00",
+  "1982a76c03e62f7a": "2026-11-25T20:16:34.798418+00:00",
+  "fb964d56c0f87aae": "2026-11-25T20:16:37.554573+00:00",
+  "697e7519147500d0": "2026-11-25T20:16:42.465221+00:00",
+  "b7e6c6039dbd5cb0": "2026-11-25T20:16:48.013661+00:00"
  },
  "recent": [
   {
@@ -14946,9 +14978,235 @@
    "status": "skipped",
    "ts": "2026-11-25T19:41:59.509640+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GTA 6 PC Port Project Wiped Out On GitHub As Take-Two Nukes 3,007 Repos",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T19:57:52.412477+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6: 10 Things You Shouldn’t Miss in Chapter 2",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T19:57:53.877476+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Skip the $1,400+ PS5 Pro Price Tag: How to Play GTA 6 for $250",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T19:57:57.002135+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "‘Landman’ Enters Top 10 as GTA VI, ‘Avengers: Doomsday’ Remain Dominant | Chart",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T19:57:58.125596+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Grand Theft Auto VI: The Album review – even GTA sceptics will warm to this zeitgeisty, star-packed soundtrack",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T19:57:59.262448+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Intergalactiс может выйти в конце 2027 года – игра вряд ли совершит технологический прорыв уровня GTA 6 или TES 6",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T19:58:04.414976+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "The First GTA 6 DLC is Now Live for All Players",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T19:58:08.928775+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Ditched Mission Replay Because It ‘Felt At Odds With The Story’",
+   "source": "Kotaku",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-25T20:13:40.945569+00:00",
+   "card_title": "МИССИИ ТОЛЬКО ОДИН РАЗ"
+  },
+  {
+   "title": "New GTA 6 money farm involves winning a fist fight against a viral NPC fans once thought invincible",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-25T20:13:43.851223+00:00",
+   "card_title": "ФЕРМА НА $2К"
+  },
+  {
+   "title": "Why did Rockstar Games make empathy a key mechanic in GTA 6? \"Because it's fun\" says head of development Rob Nelson",
+   "source": "Eurogamer",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-25T20:14:09.703918+00:00",
+   "card_title": "ЭМПАТИЯ И CRIMINAL PROFILE"
+  },
+  {
+   "title": "GTA 6 backlash to menial tasks comes from players stuck in \"moral yellow paint,\" former Valve writer says",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-25T20:14:44.706900+00:00",
+   "card_title": "ГТА6 СВОБОДА И ПРАВДА"
+  },
+  {
+   "title": "New 'GTA 6' Leak Is Great News For PC Gamers, But There's A Catch",
+   "source": "Polygon",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-25T20:15:08.325280+00:00",
+   "card_title": "ГТА 6 СЕКРЕТНЫЕ НАСТРОЙКИ"
+  },
+  {
+   "title": "Attempts To Vibe-Code PC Ports Of GTA 6 Are Being Shut Down, But It Might Be Too Late To Put The Genie Back In The Bottle",
+   "source": "Kotaku",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-25T20:15:30.446349+00:00",
+   "card_title": "TAKE‑TWO ЗАКРЫВАЕТ ПОРТЫ"
+  },
+  {
+   "title": "Why GTA 6 Doesn’t Let You Replay Missions–It Felt “Alien And Disconnected”",
+   "source": "GameSpot",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-25T20:16:02.402193+00:00",
+   "card_title": "МИССИИ БЕЗ ПЕРЕИГРЫВАНИЯ"
+  },
+  {
+   "title": "GTA 6 rewards empathy because being a \"demigod stomping through the world\" is only fun for so long",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-25T20:16:11.044005+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Авторы проекта Portheon заявили о полностью играбельной сборке GTA 6 на ПК при 30 FPS",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T20:16:24.212364+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Every Sneaker We’ve Seen in GTA 6 So Far",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T20:16:29.382108+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Boss Talks About That Big Cameo Near The End",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T20:16:34.798534+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 isn’t on PC yet, but the open-source community could have it running before December ends",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T20:16:37.554692+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Fort Valley State alum joins GTA 6 as Vice City voice character 'Lil Gunna'",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T20:16:42.465342+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "I’ve tested 7 gaming headsets while playing GTA 6 for 130 hours, from budget bangers to premium planars, and I'd recommend any one of them this Black Friday",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T20:16:48.013796+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
+  {
+   "item": {
+    "title": "New GTA 6 money farm involves winning a fist fight against a viral NPC fans once thought invincible",
+    "link": "https://www.gamesradar.com/games/grand-theft-auto/the-latest-gta-6-money-farm-involves-winning-a-fist-fight-against-a-viral-npc-that-fans-once-thought-was-invincible/",
+    "summary": "Put 'em up?",
+    "published": "2026-11-25T16:45:39+00:00",
+    "source": "GamesRadar+",
+    "site_name": "GamesRadar+",
+    "trust": "high",
+    "text": "If you go about wielding your sniper rifle indiscriminately in GTA 6, you'd best beware of the side effects. Some NPCs don't take you scoping them out lightly, but if you can handle the reaction, you can make a pretty penny.\nA strange but hilarious behavior has regular people on the street reacting to you zooming in on them if you have your sniper out. Doing so can eventually lead them to notice you, even if you're hundreds of meters away, and draw their thumb across their neck in a threat towards you.\nThen comes the scary bit: they run full tilt towards wherever you are. Like the creature in the film It Follows or the T-1000. Unstoppable and inescapable. Eventually, they will find you, and when they do, you'd best be ready because they're now practically invincible.\nSome resourceful players have managed to record themselves taking on these sudden arch-nemeses. Killing them grants you $2,000, making it a decent way to fatten up your wallet in a hurry.\nThe streamer CausticCorro has a perfect example. In their clip, you can see the NPC tracks them from across Leonida at night, and they've become impervious to guns. Only a fist fight sorts them out.\nAnother common method is to bait them into a high vantage point and then throw them over a wall to their doom. Messier, but more satisfying, in my view. Either way, the $2,000 per go is there for the taking.\nThis is definitely the kind of thing Rockstar will patch out quickly, so enjoy it while you can. Just be careful while you do.\nWeekly digests, tales from the communities you love, and more\nGTA 6 features something Rockstar tried to pull off in Grand Theft Auto: Vice City 24 years ago, former tech lead says\nAnthony is an Irish entertainment and games journalist, now based in Glasgow. He previously served as Senior Anime Writer at Dexerto and News Editor at The Digital Fix, on top of providing work for Variety, IGN, Den of Geek, PC Gamer, and many more. Besides Studio Ghibli, horror movies, and The Muppets, he enjoys action-RPGs, heavy metal, and pro-wrestling. He interviewed Animal once, not that he won’t stop going on about it or anything.\nYou must confirm your public display name before commenting\nPlease logout and then login again, you will then be prompted to enter your display name.\n1 New GTA 6 money farm involves winning a fist fight against a viral NPC fans once thought invincible\n2 Devil May Cry creator Hideki Kamiya wants to make a Castlevania game, urges Konami to reach out\n3 GTA 6 is \"pure sorcery,\" ",
+    "extra": {
+     "image": "https://cdn.mos.cms.futurecdn.net/QkVrvYdazxdPY89GYg4nYm-1920-80.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "💰 Ферма на $2k: битва кулаками с невидимым NPC\n\n🗺 Гайд: 1️⃣ Зацени NPC, который начинает тебя преследовать, когда ты держишь снайпер. 2️⃣ Скинь оружие, дай ему подойти — только кулак работает. 3️⃣ Убей его в рукопашку, получи $2 000. Делай ночью в Леонида, это имба‑фарм. 🎮",
+    "card_title": "ФЕРМА НА $2К",
+    "reason": "Подтвержденный игроками баг-механика из вышедшей игры, интересный для заработка и фана.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "groq:qwen/qwen3.8-27b → groq:openai/gpt-oss-120b"
+   },
+   "queued_at": "2026-11-25T20:13:43.851211+00:00"
+  },
+  {
+   "item": {
+    "title": "Attempts To Vibe-Code PC Ports Of GTA 6 Are Being Shut Down, But It Might Be Too Late To Put The Genie Back In The Bottle",
+    "link": "https://kotaku.com/attempts-to-vibe-code-pc-ports-of-gta-6-are-being-shut-down-but-it-might-be-too-late-to-put-the-genie-back-in-the-bottle-2001000396",
+    "summary": "Take-Two is already going after projects but may not be able to stop the flood",
+    "published": "2026-11-25T18:00:14+00:00",
+    "source": "Kotaku",
+    "site_name": "Kotaku",
+    "trust": "high",
+    "text": "Grand Theft Auto 6 is the closest thing we’ve had to a modern monoculture moment in video games in a long time, but you can only play it if you own a PlayStation 5 or Xbox Series X/S. If you lack either of those consoles and find the increasingly high prices to be off-putting, you might feel a little left out, especially as Rockstar refuses to talk about whatever plans it has for an inevitable PC release. That feeling of missing out is likely a big part of the motivation driving people to tug at Claude’s apron to get GTA 6 ported to PC ASAP, before any official port is announced.\nLike other recent recompilations of games, both those created by AI and those that weren’t, efforts to port GTA VI to PC were supposed to take the code of the console game and make it playable on a different platform than originally intended. This, in theory, skirts legal issues by requiring a copy of the game already in storage to fill in everything that is owned by Rockstar and Take-Two—like assets, voice acting, and so forth. This legal gray area was further complicated this week when Cyberleek, the rogue person or group that released numerous leaks of GTA 6 beginning in August, released the Xbox Series X executable online, bypassing the need for any recompilation project to have a legitimate copy of the game. That release, combined with ubiquitously available AI coding tools and a lot of motivated teenagers, served as a starting pistol for a major effort to get the port done before the end of the year.\nOn PortWatch VI, a website created to track the progress of community efforts to port GTA 6, a counter at the top proudly counts up the time since the executable was released. The site uses progress bars to show how far along each recompilation is getting, with pinned posts celebrating how far it has come in a short period of time. Currently the recomp is described as playable at sub-5 frames per second.\nFor whatever reason, a lot of these vibe coders are streaming their attempts to have Anthropic’s Claude port the game to PC for them. While Twitch pretty explicitly does not allow this, right-wing corollaries like Kick and Rumble do with little to no moderation. Bluesky account amithero.bot posted a thread on the site about watching one of these attempts in which the person behind it was largely just tell Claude or Google Antigravity to press A at the title screen and to code faster.\nThe thing about publicly streaming these things, though, is that Take-Two’s lawyers are also wat",
+    "extra": {
+     "image": "https://kotaku.com/app/uploads/2026/08/GTA6art_0001_Raul_Bautista_landscape-2-1280x720.jpg"
+    }
+   },
+   "verdict": {
+    "type": "rumor",
+    "importance": 8,
+    "post": "🚫 Take‑Two закрывает коммьюнити‑порты GTA 6\n\nТут уже не шутка — юзеры, которые пытались слепить GTA 6 на ПК, получили от Take‑Two юридический гудок. Плюс, всё это стримят на Kick, а Twitch уже в шоке. Жиза, если ты ждал PC‑версию, готовься к долгой ждать. 🎮",
+    "card_title": "TAKE‑TWO ЗАКРЫВАЕТ ПОРТЫ",
+    "reason": "Информация о попытках фанатов портировать игру на ПК и реакции юристов Take-Two.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.1-flash-lite → groq:openai/gpt-oss-120b"
+   },
+   "queued_at": "2026-11-25T20:15:30.446332+00:00"
+  },
   {
    "item": {
     "title": "Yes, There Was One Thing Cut from GTA 6 for Australia, NZ",
@@ -15042,6 +15300,122 @@
   },
   {
    "item": {
+    "title": "GTA 6 Ditched Mission Replay Because It ‘Felt At Odds With The Story’",
+    "link": "https://kotaku.com/gta-6-ditched-mission-replay-because-it-felt-at-odds-with-the-story-2001000335",
+    "summary": "The GTA 5 feature is missing this time around",
+    "published": "2026-11-25T16:30:19+00:00",
+    "source": "Kotaku",
+    "site_name": "Kotaku",
+    "trust": "high",
+    "text": "Story missions in Grand Theft Auto 6 are one and done. This means no going back and experiencing some of its biggest set pieces and most memorable moments, and no second chances to complete them perfectly. Rockstar Games has a good reason for dropping the feature, but the decision will probably still leave some players disappointed.\n“Mission replay was certainly something we looked at early on in development, and we do not currently support it,” senior design director Scott Butchard told Kotaku in an email prior to the game’s launch. “As the game came together it felt at odds with the story we were trying to tell and felt a bit alien and disconnected. Sitting outside of the game as it were and replaying missions really diminished the choices you had made.”\nMission replay wasn’t always available in Grand Theft Auto. Earlier entries didn’t have it either. Rockstar added the option starting with the Ballad of Gay Tony expansion pack for GTA 4. Replayable story missions returned in GTA 5. A medal system showed how well players had completed secondary objectives, with many going back until they’d achieved a mission’s highest rating.\nGTA 6 is a different kind of GTA game, though. It has a lot of Red Dead Redemption 2‘s DNA in it, with an emphasis on immersive storytelling and realistically simulating elements of an open-world experience. At times, story missions in GTA 6 feel more like quests in an RPG like The Witcher 3 where getting a perfect outcome is less important than how the outcome you do get tells the larger story of a player’s time in the world.\nIt doesn’t sound like Rockstar has any plans to add a mission replay feature down the road, but once the game comes to PC I’m sure one will get modded in anyway.\nDon’t miss the latest reviews, news and tips. Sign up for our free newsletter.\nCultureNews The Normal Person’s Guide To Understanding Grand Theft Auto 6 What even is this big game that everyone around you is suddenly talking and post about? By Zack Zwiezen Published November 25, 2026\nCultureNews Wait, What? GTA 6 Runs Better On Xbox Series X Than PS5 The techperts at Digital Foundry have all the nerdy details By John Walker Published November 25, 2026\nCultureNews Cyberpunk 2 Development Ramps Up At CD Projekt Red, But Ambitions For The Project Are ‘Not Changed’ By GTA 6′s Success CDPR proclaims GTA 6 an 'inspiration' as it credits the various TV adaptations of The Witcher and Cyberpunk for helping keep those properties popular By Alicia Haddick Publis",
+    "extra": {
+     "image": "https://kotaku.com/app/uploads/2026/11/gta-6-1-1280x720.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "🚫 Миссии в GTA 6 – только один раз\n\nRockstar официально сказали, что повтор миссий в новой GTA просто не впишется в сюжет, так что каждый чил будет только один раз. Жиза для тех, кто хотел фармить медали – теперь придётся ловить их в первый заход, иначе лут будет пропущен.",
+    "card_title": "МИССИИ ТОЛЬКО ОДИН РАЗ",
+    "reason": "Официальное заявление разработчика (Kotaku) о важном геймдизайн-решении, вызывающем споры у игроков.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "groq:qwen/qwen3.8-27b → groq:openai/gpt-oss-120b"
+   },
+   "queued_at": "2026-11-25T20:13:40.945554+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA 6 backlash to menial tasks comes from players stuck in \"moral yellow paint,\" former Valve writer says",
+    "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-backlash-to-menial-tasks-comes-from-players-stuck-in-moral-yellow-paint-former-valve-writer-says-you-dont-have-to-do-any-of-them/",
+    "summary": "\"This is Grand Theft Auto,\" after all",
+    "published": "2026-11-25T17:45:04+00:00",
+    "source": "GamesRadar+",
+    "site_name": "GamesRadar+",
+    "trust": "high",
+    "text": "Former Valve writer Chet Faliszek – the one behind the likes of Half-Life 2, Portal and its sequel, Team Fortress 2, Left 4 Dead, and even Counter-Strike: Global Offensive – thinks GTA 6 is great… because you choose how to play. A fact that's lost on players complaining about optional missions.\nThe new Grand Theft Auto is smashing records left, right, and center as the highest-rated game of all time on Metacritic and, as per Sony, the \"biggest launch in PlayStation history\" to date. However, there's still a vocal (minority, I'd like to think) group of players dismissing it as a game that forces some sort of agenda upon you. Faliszek covers this in his YouTube video on the \"moral yellow paint,\" so to speak, of GTA 6.\nAccording to the Valve veteran, there's no real reason for folks to complain about menial tasks like painting the house as Jason or buying flowers, even if \"the game says you're getting some kind of points or… gives you this list.\"\nWhile other games use yellow paint to give you set boundaries to stay within, in GTA 6 you can stray in whatever direction you'd like and play how you wish.\nIn Faliszek's case, that means, uh, \"bringing back bodies\" and filling the house with corpses. It's all just GTA, after all.\n\"Now, would I do that in normal life? Does that make me a horrible person? Maybe. Does that make me a psycho in the game? Who cares?\" As he says, \"This is Grand Theft Auto.\" So, go on and ditch the chores to commit mass murder (if you please, of course). The writer notes that, again, it's all part of the game's sandbox elements – and, on that point, part of what makes Grand Theft Auto 6 such a stand-out release.\nIn a separate short, Faliszek dubs GTA 6 \"a masterpiece,\" saying, \"it may be the greatest game ever made.\" He references other devs' criticism of Rockstar's new title – such as Warren Spector's, which argues he'd \"rather have hundreds of games and full employment\" – and dismisses it, reiterating that \"it's an amazing game\" and \"incredible.\" I'm sure the freedom (to collect bodies, apparently) is a big reason why.\nWeekly digests, tales from the communities you love, and more\nSo, share in Faliszek's sentiment here and don't box yourself in with any preconceived \"yellow paint\" in GTA 6 when you don't have to. Clean the house, shower, buy gifts… or wreak havoc in Vice City and kill everyone in sight. The choice is yours.\nCheck out our GTA 6 review to see how we feel about one of the biggest new games this year, or read through our GTA 6",
+    "extra": {
+     "image": "https://cdn.mos.cms.futurecdn.net/YStK3kAiQWgxho33L4VjMA-1920-80.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "⚡️ Фетч: бывший Valve‑писатель качает GTA 6 за свободу\n\nЧет Фалисзек в ютубе разгоняет, что нытики, которые жалуются на покраску дома и покупку цветов, просто застряли в «желтой краске». В GTA 6 можно делать всё, от чистки квартиры до массовых убийств – выбирай свой вайб, чел! 🎮",
+    "card_title": "ГТА6 СВОБОДА И ПРАВДА",
+    "reason": "Мнение экс-разработчика Valve о свободе выбора в GTA 6 и абсурдности жалоб на рутину",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
+   },
+   "queued_at": "2026-11-25T20:14:44.706886+00:00"
+  },
+  {
+   "item": {
+    "title": "New 'GTA 6' Leak Is Great News For PC Gamers, But There's A Catch",
+    "link": "https://www.polygon.com/gta-6-leak-pc-port-settings-ps5-pro-ultra-medium-graphics-cards-price/",
+    "summary": "A new leak gives PC players a sense of what to expect from Grand Theft Auto 6 with souped-up settings that aren't possible on PS5 Pro or Xbox",
+    "published": "2026-11-25T18:10:10+00:00",
+    "source": "Polygon",
+    "site_name": "Polygon",
+    "trust": "high",
+    "text": "Much has been said about the differences between Grand Theft Auto 6 on PlayStation 5 and Xbox, but how will Rockstar Games' open-world game fare on PC? An official port has yet to be announced, but a recent leak of the Xbox build of the game has kicked off a race to recompile the game and make it unofficially available on more platforms. As that work continues, yet another leak offers PC players some perspective on what might be possible in GTA 6 when the game isn't held down by console constraints.\nOn Wednesday, known GTA leaker Tex2 shared a Pastebin that lists GTA 6's apparent console settings shipped by Rockstar. These are tunable options that exist to help the game shine on platforms with varying capacities, like the less-powerful Xbox Series S. The text dump has since been pulled by Pastebin, but Polygon viewed the document before the platform made it unavailable.\nSome aspects of the game, like Global Illumination Quality, Ray Traced Directional Shadows, and Texture Quality are already set to high on PlayStation 5. The same aspects are sometimes lower or altogether absent on Xbox, though reports suggest the platforms have more parity than Sony's marketing would like you to believe.\nThere are even a couple of settings that Rockstar has already set to Ultra, such as Vehicle Max Texture Quality and Bounding Volume Hierarchy. A surprising number of settings — 18 to be exact — are set to medium or low on PS5 and Xbox Series X​​​​​​​. That number jumps to 38 settings on Xbox Series X that are set to low or medium.​​​​​​​\nWhat GTA 6 settings will be better on PC than PS5 and Xbox?\nThe conservative presets are of significance for PC gamers. Settings such as Tree, Terrain, Impostor, and Grass Shadows are set to medium and affect draw distance and pop-in.​​​​​​​ Lighting and Ambient Lighting, which influence​​​​​​​ how the game renders background lights such as streetlights and neon signs, are also set to medium across platforms.\nVolumetric Lighting​​​​​​​, another setting currently on medium, determines how light is depicted in conditions such as fog and crepuscular rays​​​​​​​. On consoles, aspects like 'god rays' can appear grainy or blocky — especially​​​​​​​ while the camera is in motion.\nEven elements that might sound small on paper, like Weapon Textures, could meaningfully change the experience. There's a lot of shooting in this game, even if you play non-lethally; players will stare down the barrel of a gun for much of the game.\nPlayers experiencing GT",
+    "extra": {
+     "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/jason2.JPG"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "⚙️ GTA 6: Секретные графические настройки для ПК\n\nТекс2 выложил пастебин с консолными параметрами, а Polygon успел их заскринить. Теперь знаем, какие опции уже на ультра, а где можно прокачать графику на ПК — реальный шанс выжать фреймы! 🎮",
+    "card_title": "ГТА 6 СЕКРЕТНЫЕ НАСТРОЙКИ",
+    "reason": "Утечка настроек графики консольных версий от инсайдера и Polygon, важные детали для ПК-игроков",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
+   },
+   "queued_at": "2026-11-25T20:15:08.325266+00:00"
+  },
+  {
+   "item": {
+    "title": "Why GTA 6 Doesn’t Let You Replay Missions–It Felt “Alien And Disconnected”",
+    "link": "https://www.gamespot.com/articles/why-gta-6-doesnt-let-you-replay-missions-it-felt-alien-and-disconnected/",
+    "summary": "One of the first things people noticed with Grand Theft Auto 6 is that you cannot replay missions , at least not in a simple, straightforward way. GTA 5 had a mission replay option, as did Red Dead Redemption II, so why doesn't GTA 6? Senior design director Scott Butchard told Kotaku that Rockstar \"certainly\" considered a mission replay feature \"early on in development.\" However, Butchard said, \"As the game came together, it felt at odds with the story we were trying to tell and felt a bit alien and disconnected.\" He went on to say replaying missions \"really diminished the choices you had made.\" https://www.youtube.com/watch?v=qQdxbUZqRZ4 While GTA 6 doesn't make it easy to replay missions, you still can do so by reloading an earlier GTA 6 save. Something else to know is that if you're in the middle of a mission and it's not going to plan, you can open the game menu and select retry, quit, or restart. GTA 6 blasted off with 32.5 million sales via prepurchases alone and around $4 billion in revenue on day one . The game is only going to get bigger and sell more copies over time, and it's helping drive new PlayStation and Xbox hardware sales . In other GTA 6 news, the actor who plays the character Mandy has reacted to people being weird online . Rockstar has also reacted to the sentiment that GTA 6 is too easy .",
+    "published": "2026-11-25T17:57:36+00:00",
+    "source": "GameSpot",
+    "site_name": "GameSpot",
+    "trust": "high",
+    "text": "One of the first things people noticed with Grand Theft Auto 6 is that you cannot replay missions , at least not in a simple, straightforward way. GTA 5 had a mission replay option, as did Red Dead Redemption II, so why doesn't GTA 6? Senior design director Scott Butchard told Kotaku that Rockstar \"certainly\" considered a mission replay feature \"early on in development.\" However, Butchard said, \"As the game came together, it felt at odds with the story we were trying to tell and felt a bit alien and disconnected.\" He went on to say replaying missions \"really diminished the choices you had made.\" https://www.youtube.com/watch?v=qQdxbUZqRZ4 While GTA 6 doesn't make it easy to replay missions, you still can do so by reloading an earlier GTA 6 save. Something else to know is that if you're in the middle of a mission and it's not going to plan, you can open the game menu and select retry, quit, or restart. GTA 6 blasted off with 32.5 million sales via prepurchases alone and around $4 billion in revenue on day one . The game is only going to get bigger and sell more copies over time, and it's helping drive new PlayStation and Xbox hardware sales . In other GTA 6 news, the actor who plays the character Mandy has reacted to people being weird online . Rockstar has also reacted to the sentiment that GTA 6 is too easy .",
+    "extra": {
+     "image": "https://www.gamespot.com/wp-content/uploads/2026/11/Lucia_Caminos_13_242d72.jpg?w=300"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "🚫 GTA 6: миссии без реплея – почему так?\n\nРокстар сказал, что реплей ломал сюжет и делал выборы бессмысленными, так что единственный способ – откатить сохранение или нажать «Retry». База, но флекс – теперь придётся проходить всё заново, если провалился. 🔄",
+    "card_title": "МИССИИ БЕЗ ПЕРЕИГРЫВАНИЯ",
+    "reason": "Разработчики объяснили отсутствие выбора миссий в меню, это официальная информация от Rockstar.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
+   },
+   "queued_at": "2026-11-25T20:16:02.402180+00:00"
+  },
+  {
+   "item": {
     "title": "Everyone’s Getting Trolled By GTA 6’s Looney Toons Tunnel",
     "link": "https://kotaku.com/everyones-getting-trolled-by-gta-6s-looney-toons-tunnel-2001000177",
     "summary": "Congrats on landing the job at Rockstar, Wil E. Coyote",
@@ -15101,6 +15475,35 @@
    "queued_at": "2026-11-25T10:06:43.016991+00:00",
    "moderation": "pending",
    "draft_msg_id": 166
+  },
+  {
+   "item": {
+    "title": "Why did Rockstar Games make empathy a key mechanic in GTA 6? \"Because it's fun\" says head of development Rob Nelson",
+    "link": "https://www.eurogamer.net/gta-6-empathy-criminal-profile-why-rockstar-added-it-rob-nelson",
+    "summary": "There's been plenty of chatter about Grand Theft Auto 6 's 'honour system', so to speak, implemented here via what the game calls your Criminal Profile. Read more",
+    "published": "2026-11-25T16:42:30+00:00",
+    "source": "Eurogamer",
+    "site_name": "Eurogamer",
+    "trust": "high",
+    "text": "There's been plenty of chatter about Grand Theft Auto 6's 'honour system', so to speak, implemented here via what the game calls your Criminal Profile.\nOur own Dom just wrote that they prefer to turn its notifications off, for instance, in favour of fully soaking into the immersion. Personally I quite like the pop-ups - I find the act of figuring out systems and how they're manipulated almost as fun as the games they're a part of. And pop-ups or no, the fact that GTA 6 can arguably be portrayed as 'rewarding' empathy and 'discouraging' the series' famous rampages of mass violence has sparked a fair bit of debate.\nSome of that is genuinely interesting - I'm dubious as to whether that's really what this system is doing, for a start. Is it incentivising and disincentivising certain in-game behaviour, or just putting a label on it? And then, actually: does the act of labelling \"psycho\" behaviour alone actually become a disincentivising factor in itself?\nEither way, until now Rockstar hasn't said a great deal about why, exactly, this system - seen by some as one that builds empathy into GTA's chaotic world - was implemented in the first place. But during an interview I had with Rob Nelson, Rockstar Games' head of development, just before GTA 6's launch earlier this month, a little more on that came to light.\nA little context is necessary here: Nelson's response was actually following a question I had about the overall approach to design that Rockstar took, and how its wider themes and intentions came about. As a part of that, he turned to this system - and how, in a way, it exists here because of the work the studio simply didn't want to leave behind after Red Dead Redemption 2.\nNelson explained that this all began when the team was in the early phase of exploring what type of game GTA 6 would be, in 2015 and 2016, while much of the studio was still working full-tilt on RDR2 - a game which itself didn't release until late 2018. The team was looking to \"build up the sophistication of the NPC population, and also allow for more player choice than we had [before], and more options in terms of the way you interact with the world beyond just violence,\" Nelson told me.\nThe idea would be that \"it's still a world of violence - but you could threaten somebody by aiming a gun at them and just robbing them, and they have a chance to comply. So you don't have to beat them to death to get their money.\" Ideas that were \"simple things\" in principle, he said, \"but they create ",
+    "extra": {
+     "image": "https://assetsio.gnwcdn.com/GTA-6-review-14.jpg?width=690&quality=85&format=jpg&auto=webp"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "🤝 Эмпатия в GTA 6: новый Criminal Profile\n\nRockstar наконец открыли, зачем в игре есть система «Criminal Profile» – она подталкивает к сочувствию, а не к бесконечным разборкам. По словам Роб Нельсона, теперь можно угрожать, а NPC могут сдаться, вместо того чтобы крутить кровавый квест. Топчик для тех, кто любит мутить не только в лоб.",
+    "card_title": "ЭМПАТИЯ И CRIMINAL PROFILE",
+    "reason": "Официальное интервью директора разработки о геймдизайне, интересная деталь, но не топ-новость.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "groq:qwen/qwen3.8-27b → groq:openai/gpt-oss-120b"
+   },
+   "queued_at": "2026-11-25T20:14:09.703903+00:00"
   },
   {
    "item": {
@@ -15224,9 +15627,10 @@
   "2026-11-25T13:11:20.337917+00:00",
   "2026-11-25T17:21:45.937168+00:00",
   "2026-11-25T17:38:45.051199+00:00",
-  "2026-11-25T17:55:29.278716+00:00"
+  "2026-11-25T17:55:29.278716+00:00",
+  "2026-11-25T20:00:53.556249+00:00"
  ],
- "tg_offset": 387129104,
+ "tg_offset": 387129105,
  "channel": {
   "id": -1003986639147,
   "title": "GTA 6 | Горячие новости",
@@ -22537,19 +22941,7 @@
    "kind": "confirmed"
   }
  ],
- "extras": [
-  {
-   "key": "digest-20261125",
-   "kind": "Итоги дня",
-   "payload": {
-    "text": "🌙 <b>Итоги дня</b> · 25 ноября\n\n📰 <a href=\"https://t.me/gta6_hotnews/90\">Larian хвалит GTA 6 за человечность</a>\n📰 <a href=\"https://t.me/gta6_hotnews/91\">Xbox Series X обгоняет базовый PS5 в GTA 6</a>\n📰 <a href=\"https://t.me/gta6_hotnews/92\">GTA 6 ОТПРАВИЛА Call of Duty в нокаут</a>\n🎥 <a href=\"https://t.me/gta6_hotnews/95\">СПОЙЛЕР. 🔞 Сюжетка в GTA 6 радует необычными ракурсами: Джейсон оценивает пикантные фото…</a>\n📰 <a href=\"https://t.me/gta6_hotnews/96\">В GTA 6 нашли БОЛЬШЕ 1500 зданий с открытым интерьером!</a>\n📰 <a href=\"https://t.me/gta6_hotnews/97\">ПЛОТНЫЙ ДЕФИЦИТ: GTA 6 СМЕЛА ВСЕ PS5 В США</a>\n\nЧто из этого зашло больше всего? Пиши в комменты 👇",
-    "publish_at": "2026-11-25T20:00:00+00:00"
-   },
-   "moderation": "pending",
-   "draft_msg_id": 167,
-   "queued_at": "2026-11-25T19:30:50.081153+00:00"
-  }
- ],
+ "extras": [],
  "extras_sent": {
   "poll-2026-W47": "2026-11-21T16:00:25.901739+00:00",
   "weekly-20261121": "2026-11-21T17:30:42.606074+00:00",
@@ -22560,216 +22952,6 @@
   "digest-20261125": "2026-11-25T19:30:50.081169+00:00"
  },
  "rewrite_wait": [
-  {
-   "item": {
-    "title": "GTA 6 Ditched Mission Replay Because It ‘Felt At Odds With The Story’",
-    "link": "https://kotaku.com/gta-6-ditched-mission-replay-because-it-felt-at-odds-with-the-story-2001000335",
-    "summary": "The GTA 5 feature is missing this time around",
-    "published": "2026-11-25T16:30:19+00:00",
-    "source": "Kotaku",
-    "site_name": "Kotaku",
-    "trust": "high",
-    "text": "Story missions in Grand Theft Auto 6 are one and done. This means no going back and experiencing some of its biggest set pieces and most memorable moments, and no second chances to complete them perfectly. Rockstar Games has a good reason for dropping the feature, but the decision will probably still leave some players disappointed.\n“Mission replay was certainly something we looked at early on in development, and we do not currently support it,” senior design director Scott Butchard told Kotaku in an email prior to the game’s launch. “As the game came together it felt at odds with the story we were trying to tell and felt a bit alien and disconnected. Sitting outside of the game as it were and replaying missions really diminished the choices you had made.”\nMission replay wasn’t always available in Grand Theft Auto. Earlier entries didn’t have it either. Rockstar added the option starting with the Ballad of Gay Tony expansion pack for GTA 4. Replayable story missions returned in GTA 5. A medal system showed how well players had completed secondary objectives, with many going back until they’d achieved a mission’s highest rating.\nGTA 6 is a different kind of GTA game, though. It has a lot of Red Dead Redemption 2‘s DNA in it, with an emphasis on immersive storytelling and realistically simulating elements of an open-world experience. At times, story missions in GTA 6 feel more like quests in an RPG like The Witcher 3 where getting a perfect outcome is less important than how the outcome you do get tells the larger story of a player’s time in the world.\nIt doesn’t sound like Rockstar has any plans to add a mission replay feature down the road, but once the game comes to PC I’m sure one will get modded in anyway.\nDon’t miss the latest reviews, news and tips. Sign up for our free newsletter.\nCultureNews The Normal Person’s Guide To Understanding Grand Theft Auto 6 What even is this big game that everyone around you is suddenly talking and post about? By Zack Zwiezen Published November 25, 2026\nCultureNews Wait, What? GTA 6 Runs Better On Xbox Series X Than PS5 The techperts at Digital Foundry have all the nerdy details By John Walker Published November 25, 2026\nCultureNews Cyberpunk 2 Development Ramps Up At CD Projekt Red, But Ambitions For The Project Are ‘Not Changed’ By GTA 6′s Success CDPR proclaims GTA 6 an 'inspiration' as it credits the various TV adaptations of The Witcher and Cyberpunk for helping keep those properties popular By Alicia Haddick Publis",
-    "extra": {
-     "image": "https://kotaku.com/app/uploads/2026/11/gta-6-1-1280x720.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "🚫 GTA 6 УБИЛА ПОВТОР МИССИЙ\n\nRockstar честно объяснила: реиграбельность сюжетных квестов ломала иммерсию и выбивала из вайба истории. Каждый выбор теперь уникальный и бесценный. Ну, или просто лень портить игру. ПЦР на ПК всё равно всё починит.\n\n❤️ — Доверяю Рокстарам\n👎 — Хочется перепройти",
-    "card_title": "НЕТ ПОВТОРА МИССИЙ",
-    "reason": "Официальное заявление разработчика (Kotaku) о важном геймдизайн-решении, вызывающем споры у игроков.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "groq:qwen/qwen3.8-27b"
-   },
-   "corr": false,
-   "since": "2026-11-25T16:45:19.069256+00:00"
-  },
-  {
-   "item": {
-    "title": "New GTA 6 money farm involves winning a fist fight against a viral NPC fans once thought invincible",
-    "link": "https://www.gamesradar.com/games/grand-theft-auto/the-latest-gta-6-money-farm-involves-winning-a-fist-fight-against-a-viral-npc-that-fans-once-thought-was-invincible/",
-    "summary": "Put 'em up?",
-    "published": "2026-11-25T16:45:39+00:00",
-    "source": "GamesRadar+",
-    "site_name": "GamesRadar+",
-    "trust": "high",
-    "text": "If you go about wielding your sniper rifle indiscriminately in GTA 6, you'd best beware of the side effects. Some NPCs don't take you scoping them out lightly, but if you can handle the reaction, you can make a pretty penny.\nA strange but hilarious behavior has regular people on the street reacting to you zooming in on them if you have your sniper out. Doing so can eventually lead them to notice you, even if you're hundreds of meters away, and draw their thumb across their neck in a threat towards you.\nThen comes the scary bit: they run full tilt towards wherever you are. Like the creature in the film It Follows or the T-1000. Unstoppable and inescapable. Eventually, they will find you, and when they do, you'd best be ready because they're now practically invincible.\nSome resourceful players have managed to record themselves taking on these sudden arch-nemeses. Killing them grants you $2,000, making it a decent way to fatten up your wallet in a hurry.\nThe streamer CausticCorro has a perfect example. In their clip, you can see the NPC tracks them from across Leonida at night, and they've become impervious to guns. Only a fist fight sorts them out.\nAnother common method is to bait them into a high vantage point and then throw them over a wall to their doom. Messier, but more satisfying, in my view. Either way, the $2,000 per go is there for the taking.\nThis is definitely the kind of thing Rockstar will patch out quickly, so enjoy it while you can. Just be careful while you do.\nWeekly digests, tales from the communities you love, and more\nGTA 6 features something Rockstar tried to pull off in Grand Theft Auto: Vice City 24 years ago, former tech lead says\nAnthony is an Irish entertainment and games journalist, now based in Glasgow. He previously served as Senior Anime Writer at Dexerto and News Editor at The Digital Fix, on top of providing work for Variety, IGN, Den of Geek, PC Gamer, and many more. Besides Studio Ghibli, horror movies, and The Muppets, he enjoys action-RPGs, heavy metal, and pro-wrestling. He interviewed Animal once, not that he won’t stop going on about it or anything.\nYou must confirm your public display name before commenting\nPlease logout and then login again, you will then be prompted to enter your display name.\n1 New GTA 6 money farm involves winning a fist fight against a viral NPC fans once thought invincible\n2 Devil May Cry creator Hideki Kamiya wants to make a Castlevania game, urges Konami to reach out\n3 GTA 6 is \"pure sorcery,\" ",
-    "extra": {
-     "image": "https://cdn.mos.cms.futurecdn.net/QkVrvYdazxdPY89GYg4nYm-1920-80.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "👊 NPC-убийцы за $2000\n\nЗавезли баг: стреляй из снайпа в прохожих, и они бросятся на тебя как T-1000. Стрелка их не берет, зато кулаки работают. Один килл — $2000 в карман. Рофл и профит, пока Рокстар не заделала дыру.",
-    "card_title": "ФАРМ ДЕНЕГ В GTA 6",
-    "reason": "Подтвержденный игроками баг-механика из вышедшей игры, интересный для заработка и фана.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "groq:qwen/qwen3.8-27b"
-   },
-   "corr": false,
-   "since": "2026-11-25T17:03:18.394529+00:00"
-  },
-  {
-   "item": {
-    "title": "Why did Rockstar Games make empathy a key mechanic in GTA 6? \"Because it's fun\" says head of development Rob Nelson",
-    "link": "https://www.eurogamer.net/gta-6-empathy-criminal-profile-why-rockstar-added-it-rob-nelson",
-    "summary": "There's been plenty of chatter about Grand Theft Auto 6 's 'honour system', so to speak, implemented here via what the game calls your Criminal Profile. Read more",
-    "published": "2026-11-25T16:42:30+00:00",
-    "source": "Eurogamer",
-    "site_name": "Eurogamer",
-    "trust": "high",
-    "text": "There's been plenty of chatter about Grand Theft Auto 6's 'honour system', so to speak, implemented here via what the game calls your Criminal Profile.\nOur own Dom just wrote that they prefer to turn its notifications off, for instance, in favour of fully soaking into the immersion. Personally I quite like the pop-ups - I find the act of figuring out systems and how they're manipulated almost as fun as the games they're a part of. And pop-ups or no, the fact that GTA 6 can arguably be portrayed as 'rewarding' empathy and 'discouraging' the series' famous rampages of mass violence has sparked a fair bit of debate.\nSome of that is genuinely interesting - I'm dubious as to whether that's really what this system is doing, for a start. Is it incentivising and disincentivising certain in-game behaviour, or just putting a label on it? And then, actually: does the act of labelling \"psycho\" behaviour alone actually become a disincentivising factor in itself?\nEither way, until now Rockstar hasn't said a great deal about why, exactly, this system - seen by some as one that builds empathy into GTA's chaotic world - was implemented in the first place. But during an interview I had with Rob Nelson, Rockstar Games' head of development, just before GTA 6's launch earlier this month, a little more on that came to light.\nA little context is necessary here: Nelson's response was actually following a question I had about the overall approach to design that Rockstar took, and how its wider themes and intentions came about. As a part of that, he turned to this system - and how, in a way, it exists here because of the work the studio simply didn't want to leave behind after Red Dead Redemption 2.\nNelson explained that this all began when the team was in the early phase of exploring what type of game GTA 6 would be, in 2015 and 2016, while much of the studio was still working full-tilt on RDR2 - a game which itself didn't release until late 2018. The team was looking to \"build up the sophistication of the NPC population, and also allow for more player choice than we had [before], and more options in terms of the way you interact with the world beyond just violence,\" Nelson told me.\nThe idea would be that \"it's still a world of violence - but you could threaten somebody by aiming a gun at them and just robbing them, and they have a chance to comply. So you don't have to beat them to death to get their money.\" Ideas that were \"simple things\" in principle, he said, \"but they create ",
-    "extra": {
-     "image": "https://assetsio.gnwcdn.com/GTA-6-review-14.jpg?width=690&quality=85&format=jpg&auto=webp"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 6,
-    "post": "🧠 ЭМПАТИЯ В GTA 6\n\nРоб Нельсон из Rockstar раскрыл, зачем в игре Criminal Profile и почему можно не убивать всех подряд. Оказывается, механика выросла из идей для RDR2, и делать это было просто «весело». Теперь можно угрожать оружием и требовать бабки без крови. Зашло? Погнали тестить.\n\n❤️ — Да, люблю думать головой\n👎 — Нет, я тут ради крови",
-    "card_title": "ЭМПАТИЯ В GTA 6",
-    "reason": "Официальное интервью директора разработки о геймдизайне, интересная деталь, но не топ-новость.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "groq:qwen/qwen3.8-27b"
-   },
-   "corr": false,
-   "since": "2026-11-25T17:03:52.701854+00:00"
-  },
-  {
-   "item": {
-    "title": "GTA 6 backlash to menial tasks comes from players stuck in \"moral yellow paint,\" former Valve writer says",
-    "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-backlash-to-menial-tasks-comes-from-players-stuck-in-moral-yellow-paint-former-valve-writer-says-you-dont-have-to-do-any-of-them/",
-    "summary": "\"This is Grand Theft Auto,\" after all",
-    "published": "2026-11-25T17:45:04+00:00",
-    "source": "GamesRadar+",
-    "site_name": "GamesRadar+",
-    "trust": "high",
-    "text": "Former Valve writer Chet Faliszek – the one behind the likes of Half-Life 2, Portal and its sequel, Team Fortress 2, Left 4 Dead, and even Counter-Strike: Global Offensive – thinks GTA 6 is great… because you choose how to play. A fact that's lost on players complaining about optional missions.\nThe new Grand Theft Auto is smashing records left, right, and center as the highest-rated game of all time on Metacritic and, as per Sony, the \"biggest launch in PlayStation history\" to date. However, there's still a vocal (minority, I'd like to think) group of players dismissing it as a game that forces some sort of agenda upon you. Faliszek covers this in his YouTube video on the \"moral yellow paint,\" so to speak, of GTA 6.\nAccording to the Valve veteran, there's no real reason for folks to complain about menial tasks like painting the house as Jason or buying flowers, even if \"the game says you're getting some kind of points or… gives you this list.\"\nWhile other games use yellow paint to give you set boundaries to stay within, in GTA 6 you can stray in whatever direction you'd like and play how you wish.\nIn Faliszek's case, that means, uh, \"bringing back bodies\" and filling the house with corpses. It's all just GTA, after all.\n\"Now, would I do that in normal life? Does that make me a horrible person? Maybe. Does that make me a psycho in the game? Who cares?\" As he says, \"This is Grand Theft Auto.\" So, go on and ditch the chores to commit mass murder (if you please, of course). The writer notes that, again, it's all part of the game's sandbox elements – and, on that point, part of what makes Grand Theft Auto 6 such a stand-out release.\nIn a separate short, Faliszek dubs GTA 6 \"a masterpiece,\" saying, \"it may be the greatest game ever made.\" He references other devs' criticism of Rockstar's new title – such as Warren Spector's, which argues he'd \"rather have hundreds of games and full employment\" – and dismisses it, reiterating that \"it's an amazing game\" and \"incredible.\" I'm sure the freedom (to collect bodies, apparently) is a big reason why.\nWeekly digests, tales from the communities you love, and more\nSo, share in Faliszek's sentiment here and don't box yourself in with any preconceived \"yellow paint\" in GTA 6 when you don't have to. Clean the house, shower, buy gifts… or wreak havoc in Vice City and kill everyone in sight. The choice is yours.\nCheck out our GTA 6 review to see how we feel about one of the biggest new games this year, or read through our GTA 6",
-    "extra": {
-     "image": "https://cdn.mos.cms.futurecdn.net/YStK3kAiQWgxho33L4VjMA-1920-80.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "ЭКС-РАЗРАБОТЧИК заступился за GTA 6\n\nБывший сценарист Valve Чет Фалижек порвал шаблон тем, кто ныт из-за рутины в игре. Чел напомнил, что никто не заставляет красить дома или покупать цветы — можно просто забить и устроить полный разнос в стиле старой школы.",
-    "card_title": "ЭКС-РАЗРАБОТЧИК VALVE О СВОБОДЕ В GTA 6",
-    "reason": "Мнение экс-разработчика Valve о свободе выбора в GTA 6 и абсурдности жалоб на рутину",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-25T17:54:27.544703+00:00"
-  },
-  {
-   "item": {
-    "title": "New 'GTA 6' Leak Is Great News For PC Gamers, But There's A Catch",
-    "link": "https://www.polygon.com/gta-6-leak-pc-port-settings-ps5-pro-ultra-medium-graphics-cards-price/",
-    "summary": "A new leak gives PC players a sense of what to expect from Grand Theft Auto 6 with souped-up settings that aren't possible on PS5 Pro or Xbox",
-    "published": "2026-11-25T18:10:10+00:00",
-    "source": "Polygon",
-    "site_name": "Polygon",
-    "trust": "high",
-    "text": "Much has been said about the differences between Grand Theft Auto 6 on PlayStation 5 and Xbox, but how will Rockstar Games' open-world game fare on PC? An official port has yet to be announced, but a recent leak of the Xbox build of the game has kicked off a race to recompile the game and make it unofficially available on more platforms. As that work continues, yet another leak offers PC players some perspective on what might be possible in GTA 6 when the game isn't held down by console constraints.\nOn Wednesday, known GTA leaker Tex2 shared a Pastebin that lists GTA 6's apparent console settings shipped by Rockstar. These are tunable options that exist to help the game shine on platforms with varying capacities, like the less-powerful Xbox Series S. The text dump has since been pulled by Pastebin, but Polygon viewed the document before the platform made it unavailable.\nSome aspects of the game, like Global Illumination Quality, Ray Traced Directional Shadows, and Texture Quality are already set to high on PlayStation 5. The same aspects are sometimes lower or altogether absent on Xbox, though reports suggest the platforms have more parity than Sony's marketing would like you to believe.\nThere are even a couple of settings that Rockstar has already set to Ultra, such as Vehicle Max Texture Quality and Bounding Volume Hierarchy. A surprising number of settings — 18 to be exact — are set to medium or low on PS5 and Xbox Series X​​​​​​​. That number jumps to 38 settings on Xbox Series X that are set to low or medium.​​​​​​​\nWhat GTA 6 settings will be better on PC than PS5 and Xbox?\nThe conservative presets are of significance for PC gamers. Settings such as Tree, Terrain, Impostor, and Grass Shadows are set to medium and affect draw distance and pop-in.​​​​​​​ Lighting and Ambient Lighting, which influence​​​​​​​ how the game renders background lights such as streetlights and neon signs, are also set to medium across platforms.\nVolumetric Lighting​​​​​​​, another setting currently on medium, determines how light is depicted in conditions such as fog and crepuscular rays​​​​​​​. On consoles, aspects like 'god rays' can appear grainy or blocky — especially​​​​​​​ while the camera is in motion.\nEven elements that might sound small on paper, like Weapon Textures, could meaningfully change the experience. There's a lot of shooting in this game, even if you play non-lethally; players will stare down the barrel of a gun for much of the game.\nPlayers experiencing GT",
-    "extra": {
-     "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/jason2.JPG"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "Консольные настройки графики\n\nИнсайдеры слили консольные пресеты графики из файлов игры, и там много интересного для будущей ПК-версии. Оказывается, куча параметров вроде теней от травы и объемного света на консолях стоят на средних значениях. Ждем ультра-графон на ПК, лишь бы железо не поплохело.\n\n❤️ — Жду на ПК\n👎 — Консолей хватит",
-    "card_title": "НАСТРОЙКИ ГРАФИКИ GTA 6",
-    "reason": "Утечка настроек графики консольных версий от инсайдера и Polygon, важные детали для ПК-игроков",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-25T18:11:30.428141+00:00"
-  },
-  {
-   "item": {
-    "title": "Attempts To Vibe-Code PC Ports Of GTA 6 Are Being Shut Down, But It Might Be Too Late To Put The Genie Back In The Bottle",
-    "link": "https://kotaku.com/attempts-to-vibe-code-pc-ports-of-gta-6-are-being-shut-down-but-it-might-be-too-late-to-put-the-genie-back-in-the-bottle-2001000396",
-    "summary": "Take-Two is already going after projects but may not be able to stop the flood",
-    "published": "2026-11-25T18:00:14+00:00",
-    "source": "Kotaku",
-    "site_name": "Kotaku",
-    "trust": "high",
-    "text": "Grand Theft Auto 6 is the closest thing we’ve had to a modern monoculture moment in video games in a long time, but you can only play it if you own a PlayStation 5 or Xbox Series X/S. If you lack either of those consoles and find the increasingly high prices to be off-putting, you might feel a little left out, especially as Rockstar refuses to talk about whatever plans it has for an inevitable PC release. That feeling of missing out is likely a big part of the motivation driving people to tug at Claude’s apron to get GTA 6 ported to PC ASAP, before any official port is announced.\nLike other recent recompilations of games, both those created by AI and those that weren’t, efforts to port GTA VI to PC were supposed to take the code of the console game and make it playable on a different platform than originally intended. This, in theory, skirts legal issues by requiring a copy of the game already in storage to fill in everything that is owned by Rockstar and Take-Two—like assets, voice acting, and so forth. This legal gray area was further complicated this week when Cyberleek, the rogue person or group that released numerous leaks of GTA 6 beginning in August, released the Xbox Series X executable online, bypassing the need for any recompilation project to have a legitimate copy of the game. That release, combined with ubiquitously available AI coding tools and a lot of motivated teenagers, served as a starting pistol for a major effort to get the port done before the end of the year.\nOn PortWatch VI, a website created to track the progress of community efforts to port GTA 6, a counter at the top proudly counts up the time since the executable was released. The site uses progress bars to show how far along each recompilation is getting, with pinned posts celebrating how far it has come in a short period of time. Currently the recomp is described as playable at sub-5 frames per second.\nFor whatever reason, a lot of these vibe coders are streaming their attempts to have Anthropic’s Claude port the game to PC for them. While Twitch pretty explicitly does not allow this, right-wing corollaries like Kick and Rumble do with little to no moderation. Bluesky account amithero.bot posted a thread on the site about watching one of these attempts in which the person behind it was largely just tell Claude or Google Antigravity to press A at the title screen and to code faster.\nThe thing about publicly streaming these things, though, is that Take-Two’s lawyers are also wat",
-    "extra": {
-     "image": "https://kotaku.com/app/uploads/2026/08/GTA6art_0001_Raul_Bautista_landscape-2-1280x720.jpg"
-    }
-   },
-   "verdict": {
-    "type": "rumor",
-    "importance": 8,
-    "post": "🔥 Слух, не подтверждено: Kotaku\n\nФанаты пытаются портировать GTA 6 на ПК\n\nПока Rockstar молчит про релиз на компах, энтузиасты вовсю ковыряют код и пытаются запустить игру через ИИ. Юристы Take-Two уже начали разнос, закрывая проекты, но джинн из бутылки уже вылетел — народ не остановить. Пока что всё это работает на 5 кадрах в секунду, так что играбельность — лютая боль.\n\n❤️ — Жду на ПК, консоль не хочу\n👎 — Консольный эксклюзив — это база",
-    "card_title": "ФАНАТСКИЙ ПОРТ GTA 6 НА ПК",
-    "reason": "Информация о попытках фанатов портировать игру на ПК и реакции юристов Take-Two.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.1-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-25T18:14:13.495754+00:00"
-  },
-  {
-   "item": {
-    "title": "Why GTA 6 Doesn’t Let You Replay Missions–It Felt “Alien And Disconnected”",
-    "link": "https://www.gamespot.com/articles/why-gta-6-doesnt-let-you-replay-missions-it-felt-alien-and-disconnected/",
-    "summary": "One of the first things people noticed with Grand Theft Auto 6 is that you cannot replay missions , at least not in a simple, straightforward way. GTA 5 had a mission replay option, as did Red Dead Redemption II, so why doesn't GTA 6? Senior design director Scott Butchard told Kotaku that Rockstar \"certainly\" considered a mission replay feature \"early on in development.\" However, Butchard said, \"As the game came together, it felt at odds with the story we were trying to tell and felt a bit alien and disconnected.\" He went on to say replaying missions \"really diminished the choices you had made.\" https://www.youtube.com/watch?v=qQdxbUZqRZ4 While GTA 6 doesn't make it easy to replay missions, you still can do so by reloading an earlier GTA 6 save. Something else to know is that if you're in the middle of a mission and it's not going to plan, you can open the game menu and select retry, quit, or restart. GTA 6 blasted off with 32.5 million sales via prepurchases alone and around $4 billion in revenue on day one . The game is only going to get bigger and sell more copies over time, and it's helping drive new PlayStation and Xbox hardware sales . In other GTA 6 news, the actor who plays the character Mandy has reacted to people being weird online . Rockstar has also reacted to the sentiment that GTA 6 is too easy .",
-    "published": "2026-11-25T17:57:36+00:00",
-    "source": "GameSpot",
-    "site_name": "GameSpot",
-    "trust": "high",
-    "text": "One of the first things people noticed with Grand Theft Auto 6 is that you cannot replay missions , at least not in a simple, straightforward way. GTA 5 had a mission replay option, as did Red Dead Redemption II, so why doesn't GTA 6? Senior design director Scott Butchard told Kotaku that Rockstar \"certainly\" considered a mission replay feature \"early on in development.\" However, Butchard said, \"As the game came together, it felt at odds with the story we were trying to tell and felt a bit alien and disconnected.\" He went on to say replaying missions \"really diminished the choices you had made.\" https://www.youtube.com/watch?v=qQdxbUZqRZ4 While GTA 6 doesn't make it easy to replay missions, you still can do so by reloading an earlier GTA 6 save. Something else to know is that if you're in the middle of a mission and it's not going to plan, you can open the game menu and select retry, quit, or restart. GTA 6 blasted off with 32.5 million sales via prepurchases alone and around $4 billion in revenue on day one . The game is only going to get bigger and sell more copies over time, and it's helping drive new PlayStation and Xbox hardware sales . In other GTA 6 news, the actor who plays the character Mandy has reacted to people being weird online . Rockstar has also reacted to the sentiment that GTA 6 is too easy .",
-    "extra": {
-     "image": "https://www.gamespot.com/wp-content/uploads/2026/11/Lucia_Caminos_13_242d72.jpg?w=300"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "ПОЧЕМУ нет повтора миссий в GTA 6?\n\nРазработчики из Rockstar признались, что вырезали привычную кнопку реплея заданий. Говорят, это ломало вайб сюжета и обесценивало выборы игрока. Ладно хоть через старые сейвы можно перепройти, база.",
-    "card_title": "ПОЧЕМУ НЕТ ПОВТОРА МИССИЙ",
-    "reason": "Разработчики объяснили отсутствие выбора миссий в меню, это официальная информация от Rockstar.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-25T18:31:41.666816+00:00"
-  },
   {
    "item": {
     "title": "Похоже, теперь слили полный билд GTA VI для PlayStation 5",
@@ -22979,6 +23161,66 @@
    },
    "corr": false,
    "since": "2026-11-25T19:41:10.814605+00:00"
+  },
+  {
+   "item": {
+    "title": "A GTA 6 Purchase on a Shared Xbox Account Ended in a 911 Call",
+    "link": "https://www.gtaboom.com/a-gta-6-purchase-on-a-shared-xbox-account-ended-in-a-911-call-e22e",
+    "summary": "Ciara Benson says her ex called 911 after she changed the password on her Xbox account, which kept the copy of GTA 6 he bought.",
+    "published": "2026-11-25T19:51:00+00:00",
+    "source": "GTA BOOM",
+    "site_name": "GTA BOOM",
+    "trust": "medium",
+    "text": "The Grand Theft Auto VI launch has turned up in a lot of strange places, but a police report tops the list so far. A woman in Washington State says she took back her own Microsoft account from an ex she had shared it with for six years, after he bought GTA 6 on it. She changed the password and pulled his payment methods. In response, he called the police and reported credit card fraud.\nThe account was hers the whole time though. Ciara Benson had owned the Microsoft login for years and simply let him use it, so changing the password and removing devices was basic account security. Purchases stay tied to the account they were bought on, which means the GTA 6 copy her ex paid for is now attached to her login. Police worked that out fast. They reviewed her TikTok, found no evidence of fraud and handed her an incident report, then asked about the game and her kid.\nShe laid the whole thing out on TikTok, where the clip ran past a million views. By her account, the last straw was him buying the game while allegedly behind on child support. She has said she is not much of a gamer and does not let her young son play it. We only have her side, since the story traces entirely to her videos, so the child-support claim and the call details are hers alone. Benson says police gave her an incident report.\nThe funny part and the sad part is that someone dialed 911, an emergency line, over a password change on a login shared the way people share a streaming subscription.\nWhat makes this a GTA 6 story at all is the timing. The game didn’t cause the dispute. It just turned up in the middle of it. It is the biggest in entertainment history, after all, the one pulling in people who do not even call themselves gamers, the one turning up in offices and retirement homes and now a police incident report.\nThe numbers behind the mania are just as unreal. Take-Two Interactive and Rockstar Games moved a reported $3.79 billion of the game on day one and most of those sales ended with someone having a great week. A few, like this one, ended with a very strange phone call.\nThe account is hers again. The game is still installed. Somewhere in Washington State a police incident report now has Grand Theft Auto written on it, literally, which might be the most 2026 sentence anyone can write.\nHave you ever lost games or a whole library to a shared account after a breakup?\nOnce a post receives 3 qualifying Helpful marks\nHow to Get Lucia's Prologue Gun in GTA 6: The Low Point Nipper .38\n\"Missing\"",
+    "extra": {
+     "image": "https://media.gtaboom.com/variants/1920/media/images/19/e9/a-gta-6-purchase-on-a-shared-xbox-account-ended-in-a-911-call.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "🚨 Вызов 911 из-за GTA 6\n\nБывший парень вызвал копчиков из-за того, что девчонка забрала свой аккаунт с купленной игрой.\n\nВот это лютый рофл, чел реально обиделся на катку.\n\n❤️ — Жаль пацана\n👎 — База, сама заслужила",
+    "card_title": "ЗАКУПКА GTA 6 ЗАКОНЧИЛАСЬ 911",
+    "reason": "Dramatichnaya istoriya s vyzovom politsii iz-za igry, vysokiy hayp i realnyy otchet.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-25T19:57:46.483242+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA 6 Boss Reveals How That Very Surprising Cameo Happened And What It Means For The Character",
+    "link": "https://kotaku.com/gta-6-boss-reveals-how-that-very-surprising-cameo-happened-and-what-it-means-for-the-character-2000758616",
+    "summary": "A certain someone from the franchise's past makes a fun, brief, and important appearance near the end of GTA 6",
+    "published": "2026-11-25T20:00:22+00:00",
+    "source": "Kotaku",
+    "site_name": "Kotaku",
+    "trust": "high",
+    "text": "Grand Theft Auto 6GTA 6Rob NelsonRockstar Games\nGrand Theft Auto 6 contains a surprising but cool cameo hidden near the very end of the game’s main story. So when I got a chance to chat with Rockstar’s head of production, Rob Nelson, about GTA 6 ahead of the game’s launch, I had to ask about this moment, how it came about, and what it means for the character.\nBut uh… major spoilers. Seriously, if you’re a big GTA nerd and love to be surprised, turn around right now and stop reading. You’ll thank me later when you reach this point and get to experience it unspoiled. For those who don’t care or who can’t resist the siren’s call of secrets being revealed, keep scrolling past the warning. Just don’t yell at me later!\nAs you approach the final missions in the game, Jason and Lucia start working with Giorgio, a very rich shipping magnate who works with Eastern European criminals to smuggle drugs across the ocean on his big ships. And things aren’t going well, forcing Giorgio to work with Jason, Lucia, and others on a big, ambitious plan to steal back all the cocaine confiscated by the Coast Guard as part of a large heist. But before they can pull off the heist, a higher-up from the big Balkan cartel Giorgio has been working with arrives to kill him for screwing up, but gives him one more chance to get back the coke. That badass hitman? Niko Bellic, the playable protagonist of 2008’s Grand Theft Auto IV.\nHere’s the scene from GTA 6 in which he appears:\nI asked Nelson if they’d planned to include Niko from the start, and he tells me that they hadn’t. Instead, he told me that the cameo came about “very organically.”\n“[Early in development], we had Giorgio and we had him working with a sort of Balkan cartel,” explained Nelson. The GTA 6 boss further explained that this whole storyline was based on research they’d done about actual Italian shipping companies that allegedly smuggled drugs for various gangs in South America. Apparently, a boat run by such a company was carrying 20 tons of coke when it was raided by U.S. officials. That number should sound familiar to anyone who has played the later missions of GTA 6, as that’s the amount of coke seized by the Coast Guard in the game.\n“Giorgio is not really a criminal. He’s a sort of wealthy shipping magnate who’s in league with these criminals,” said Nelson.\n“But it was sort of that same [real-world] idea. And then we needed someone from the Balkan cartel to show up. It just grew very organically, and it’s like, well, ",
+    "extra": {
+     "image": "https://kotaku.com/app/uploads/2026/11/GTa-6-cameo-blur-1280x720.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 9,
+    "post": "НИКО БЕЛЛИК вернулся в сюжетке GTA 6\n\nРазработчики подтвердили, что легендарный протагонист из GTA 4 неожиданно залетает в финальных миссиях. Вот это база, фанаты точно в шоке от такого камбэка.",
+    "card_title": "НИКО БЕЛЛИК В GTA 6",
+    "reason": "Разработчики подтвердили появление Нико Беллика из GTA 4 в сюжетке GTA 6, это лютый кайф для фанатов.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-25T20:16:18.915307+00:00"
   }
  ]
 }
