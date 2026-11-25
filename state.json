@@ -3995,7 +3995,10 @@
   "b54552ab6e4aa4e2": "2026-11-25T08:10:12.304847+00:00",
   "fd7f4ff75ba1e86e": "2026-11-25T08:10:13.001841+00:00",
   "51a8297baf668b7c": "2026-11-25T08:10:18.143835+00:00",
-  "7d28060d4182a3a6": "2026-11-25T08:10:28.752331+00:00"
+  "7d28060d4182a3a6": "2026-11-25T08:10:28.752331+00:00",
+  "e5a5d0b63dd823a8": "2026-11-25T08:18:51.526626+00:00",
+  "ca060b88bd4636d6": "2026-11-25T08:36:23.541612+00:00",
+  "2ee16d8698795c2c": "2026-11-25T08:36:31.725827+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -6673,7 +6676,10 @@
   "d0f1332070a1aa42": "2026-11-25T04:31:42.775731+00:00",
   "e3315e41b633379b": "2026-11-25T04:31:45.044987+00:00",
   "acd8f7136f586eed": "2026-11-25T05:39:04.203788+00:00",
-  "d39dcfe80c5f4158": "2026-11-25T08:00:41.898509+00:00"
+  "d39dcfe80c5f4158": "2026-11-25T08:00:41.898509+00:00",
+  "81689ba80e0d6bba": "2026-11-25T08:18:51.526626+00:00",
+  "5b8d09bf7e45ed11": "2026-11-25T08:36:23.541612+00:00",
+  "8045e9f7e79db40c": "2026-11-25T08:36:31.725827+00:00"
  },
  "recent": [
   {
@@ -14691,6 +14697,14 @@
    "status": "skipped",
    "ts": "2026-11-25T08:00:47.521872+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GTA VI на PS5 работает хуже, чем на Xbox Series X: результаты сравнения консолей",
+   "source": "iXBT.games",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-25T08:18:52.462407+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -15451,36 +15465,6 @@
   "2026-11-23T20:15:05.441047+00:00"
  ],
  "clips": [
-  {
-   "clip": {
-    "source": "twitch",
-    "url": "https://www.twitch.tv/blackufa/clip/SpookyRealSharkCopyThis-EJqunFJp6ZstyLay",
-    "title": "Полет 10 из 10",
-    "author": "BlackUFA",
-    "views": 421,
-    "duration": 30.0,
-    "created": "2026-11-23T14:02:48+00:00",
-    "lang": "ru",
-    "description": "",
-    "vod_id": "2938242406",
-    "vod_offset": 14008.0
-   },
-   "caption": "Полет Лусии с байка — это просто ЛЮТЫЙ разнос. Физика в GTA 6 реально имба, такого приземления я еще не видел 💀",
-   "interest": 8,
-   "spoiler": false,
-   "nsfw": false,
-   "watched": true,
-   "model": "gemini:gemini-3.1-flash-lite",
-   "media": {
-    "width": null,
-    "height": 720,
-    "duration": 30
-   },
-   "queued_at": "2026-11-24T08:24:51.061571+00:00",
-   "file_id": "BAACAgIAAxkDAAN8awVJ1PMlBvXOQBABFDubQO3r-NsAAkeqAAKTDTFIWEGoBDsYmmA9BA",
-   "moderation": "pending",
-   "draft_msg_id": 124
-  },
   {
    "clip": {
     "source": "twitch",
@@ -22077,5 +22061,66 @@
   "digest-20261123": "2026-11-23T19:30:46.041576+00:00",
   "digest-20261124": "2026-11-24T19:30:13.623703+00:00"
  },
- "rewrite_wait": []
+ "rewrite_wait": [
+  {
+   "item": {
+    "title": "GTA VI перегревает PS5 и приводит к отключению. Специалист заявил о «блэкауте PlayStation»",
+    "link": "https://ixbt.games/news/2026/11/25/gta-vi-peregrevaet-ps5-i-privodit-k-otkliuceniiu-specialist-zaiavil-o-blekaute-playstation.html",
+    "summary": "Игроки сообщают о перегреве PS5 во время игры в GTA VI: на экране появляются графические артефакты, после чего консоль может внезапно выключиться.",
+    "published": "2026-11-25T08:16:00+00:00",
+    "source": "iXBT.games",
+    "site_name": "iXBT.games",
+    "trust": "medium",
+    "text": "Игроки сообщают о перегреве PS5 во время игры в GTA VI: на экране появляются графические артефакты, после чего консоль может внезапно выключиться.\nВладельцы PS5 всё чаще жалуются на серьёзные проблемы во время игры. По их словам, сначала на экране возникают графические искажения, а затем приставка полностью отключается. Некоторым помогает ожидание, пока устройство остынет, однако есть случаи, когда консоль не удаётся запустить даже после продолжительного перерыва.\nTHE PS5 BLACKOUT HAS STARTED. I called it back in early August. First came error reports and sudden shutdowns. Now we’re seeing graphics artifacts live on stream and reports of consoles dying. GTA 6 is the toughest real-world PS5 stress test I’ve seen. In the clip, I’m standing\n#GTA6 tonight fried my PS5. The GPU is done and the console is gone 🫩 rip\n#GTA6 tonight fried my PS5. The GPU is done and the console is gone 🫩 rip\nНа ситуацию обратил внимание специалист Modyfikator89, который ещё в начале августа предупреждал о возможных проблемах с PlayStation 5. Теперь он опубликовал новые материалы, указав на появление записей с графическими артефактами во время трансляций и сообщений о полностью вышедших из строя приставках.\nБЛЭКАУТ PS5 НАЧАЛСЯ. Я предсказал это ещё в начале августа. Сначала появились сообщения об ошибках и внезапных отключениях. Теперь мы видим графические артефакты во время прямых трансляций и сообщения о консолях, которые перестали работать.\nОсобый интерес представляют замеры энергопотребления. По данным специалиста, даже в относительно спокойной сцене, когда герой просто стоит возле автомобиля, PS5 потребляет около 220 Вт из розетки. После закрытия игры показатель падает до 67 Вт. В отдельном тесте максимальной нагрузки устройство достигло 274,2 Вт. Автор назвал GTA VI самым серьёзным реальным стресс-тестом для PS5 из всех, с которыми ему доводилось сталкиваться.\nOkay this is for the 🫩 saying I didn’t look after my console. It was kept in open space and I showed on stream it was in good condition and very minor dust. Stop being brain dead and claiming it’s full of dust 🐰 it’s not.\nПо мнению некоторых пользователей, причина заключается не в скоплении пыли, а в жидком металле, который якобы необходимо регулярно менять.\nСитуация вызывает беспокойство с учётом популярности GTA VI и продолжительных игровых сессий в Леониде. Впрочем, пока неизвестно, связаны ли проблемы с отдельными моделями PS5, ухудшением системы охлаждения конкретных экземпляров или имеют более массовый характер.\nНе",
+    "extra": {
+     "image": "https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1746155/0481b72e-6fe7-44fb-a5a6-67971c0430fb.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "GTA 6 ТАК ЖАРИТ ПРИСТАВКИ\n\nИгроки жалуются, что игра буквально плавит железо: консоли вырубаются от перегрева, а на экранах лезут артефакты. Такой вот лютый стресс-тест для графического чипа.\n\n❤️ — Моя сонька пока жива\n👎 — Ожидаю блэкаут",
+    "card_title": "ПЕРЕГРЕВ PS5 ИЗ-ЗА GTA 6",
+    "reason": "Сообщения о перегреве PS5 из-за GTA 6 и замеры энергопотребления — важная и актуальная техническая новость для игроков.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-25T08:36:24.599039+00:00"
+  },
+  {
+   "item": {
+    "title": "Yes, There Was One Thing Cut from GTA 6 for Australia, NZ",
+    "link": "https://www.ign.com/articles/yes-there-was-one-thing-cut-from-gta-6-for-australia-nz",
+    "summary": "Rockstar chopped out a temporary stat buff from GTA 6, although players down under may not ever really notice it.",
+    "published": "2026-11-25T06:55:24+00:00",
+    "source": "IGN",
+    "site_name": "IGN",
+    "trust": "high",
+    "text": "Although it’s so minor you actually may not notice it.\nThe Australian version of Grand Theft Auto 6 does differ from the international version in one small way; players down under are not able to use cocaine from their personal inventory to briefly overpower their stamina bar. NZ reportedly has the same version.\nIn GTA 6, baggies of cocaine can be collected (or skimmed from full bricks) and show up as a consumable on the item wheel in the same section as cigarettes, cigars, and joints. Using one triggers a buff that puts stamina in an overpowered state, albeit only for about 30 seconds. This function was never included in the Australian-specific version of the game, as it would have prevented GTA 6 from being classified in the country until it was removed. Australia’s classification laws allow illicit drug use in games, but using them can’t provide the player with gameplay benefits.\nOverpowering your stamina (and everything else) is still possible via the use of adrenaline in the Australian version of GTA 6, and it’s also still possible to drink and smoke whenever you want. The general use of cocaine in story moments also still remains in the Australian version of GTA 6, because these instances aren’t associated with any in-game buffs.\nWhile the caveat that forbids rewards for illicit drug use is bespoke to Australia – and doesn’t apply to NZ – NZ’s rating system (which does piggyback on some Australian and UK classification decisions for unrestricted content) has its own idiosyncrasies. These recently caught out IllFonic’s recent Halloween multiplayer game, which was refused classification in Australia for illicit drug use linked to an incentive or reward (that is, that use of the drug provides a gameplay advantage to the player). Halloween since made its way to NZ, but not Australia. Since this is not Rockstar’s first rodeo, it knew exactly the tweak GTA 6 would require to skirt this continuing quirk in Australian video game ratings and avoid multiple submissions.\nGTA 6 arrived late last week, crushing records and becoming the biggest entertainment launch of all time, with retail sales soaring to $3.79 billion in its first 24 hours. In my review for IGN I called it “the single most impressive video game I have ever played,” a sentiment shared by developers similarly stunned by how radically advanced it is.\nJust getting started in GTA 6, or wondering what to do next? You can get stuck into the Official Grand Theft Auto 6 guide right here on IGN, consult o",
+    "extra": {
+     "image": "https://assets-prd.ignimgs.com/2026/11/23/gta-6-secret-blogroll-1795445757736.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "ЦЕНЗУРА В GTA 6: что вырезали в Австралии\n\nАвстралийским игрокам завезли особую версию: там нельзя жрать кокаин из инвентаря ради буста выносливости из-за местных законов.\n\n❤️ — Жаль челов\n👎 — Адреналин остался, база",
+    "card_title": "ЦЕНЗУРА В АВСТРАЛИИ",
+    "reason": "Интересный факт о цензуре и вырезанной фиче с кокаином в австралийской версии GTA 6.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-25T08:36:33.237240+00:00"
+  }
+ ]
 }
