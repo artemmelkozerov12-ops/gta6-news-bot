@@ -3946,7 +3946,10 @@
   "3054e3745ca86d42": "2026-11-24T23:44:36.792174+00:00",
   "53fcc5c786065b3e": "2026-11-25T00:05:42.971774+00:00",
   "2a506c75a6a6b157": "2026-11-25T00:05:45.450610+00:00",
-  "2ee390bd4f7e3c90": "2026-11-25T00:23:18.346071+00:00"
+  "2ee390bd4f7e3c90": "2026-11-25T00:23:18.346071+00:00",
+  "10debd4a2a2d867d": "2026-11-25T00:40:55.856499+00:00",
+  "f0ffec97cd0658fe": "2026-11-25T00:58:38.696817+00:00",
+  "7a16a345b309979c": "2026-11-25T00:58:40.364491+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -6610,7 +6613,10 @@
   "c39fca5d034a3a87": "2026-11-24T23:44:36.792174+00:00",
   "bebd5657d254792b": "2026-11-25T00:05:42.971774+00:00",
   "5bcefdb231bba172": "2026-11-25T00:05:45.450610+00:00",
-  "36b641abfc51197d": "2026-11-25T00:23:18.346071+00:00"
+  "36b641abfc51197d": "2026-11-25T00:23:18.346071+00:00",
+  "0f014bc4a44162cb": "2026-11-25T00:40:55.856499+00:00",
+  "52fd07a4310be612": "2026-11-25T00:58:38.696817+00:00",
+  "d2a8eb57c0ac06e4": "2026-11-25T00:58:40.364491+00:00"
  },
  "recent": [
   {
@@ -14996,6 +15002,22 @@
    "status": "queued",
    "ts": "2026-11-25T00:05:15.464686+00:00",
    "card_title": "ФУРРИ МИССИЯ В GTA6"
+  },
+  {
+   "title": "Feature: We Travelled Across GTA 6's Map Using Only Public Transport",
+   "source": "Push Square",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-25T00:58:38.696923+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Serial Killer Walkthrough for Gellhorn’s Missing Tourists and Both Endings",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-25T00:58:41.456725+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -22023,6 +22045,36 @@
    },
    "corr": false,
    "since": "2026-11-25T00:23:19.046319+00:00"
+  },
+  {
+   "item": {
+    "title": "The Actor Behind GTA 6′s Viral NPC Mandy Reacts To All Of The Attention: ‘It’s Sort Of Bittersweet’",
+    "link": "https://kotaku.com/the-actor-behind-gta-6s-viral-npc-mandy-reacts-to-all-of-the-attention-its-sort-of-bittersweet-2001000149",
+    "summary": "Lexie Shoaibi recently guested on Hasan Piker's Twitch channel",
+    "published": "2026-11-25T00:30:53+00:00",
+    "source": "Kotaku",
+    "site_name": "Kotaku",
+    "trust": "high",
+    "text": "Grand Theft Auto VIGTA 6MandyRockstar Games\nMandy is one of the first NPCs players run into in Grand Theft Auto 6. Jason is sent to collect rent from her and she tries to come onto him despite his Mr. Freeze levels of cold disinterest. At one point he’s trying to unscrew the bolt for the sink trap when she comes back wearing nothing but a pink-trimmed leopard-print string bikini. Clips of the early encounter quickly went viral. Actor Lexie Shoaibi, who voices Mandy, said the instant internet fame has been “bittersweet.”\nLike many video game characters, Mandy is modeled after one person but voiced by another. The model is Miami-based influencer Marissa DuBois. The voice belongs to Shoaibi, an actor and model who also promotes herself through Meta’s engagement-driven algorithm. She told Vulture that she auditioned for the role back around 2023, but it was never explicitly confirmed to her that it was for GTA 6.\nThe context-less gig came with tons of NDAs, but Shoaibi found the performance part surprisingly inviting. She performed opposite Jason’s actor, Dylan Rourke, and said the whole experience felt a bit like an “off-Broadway theater production.” It wasn’t until years later, when she saw clips of streamers playing the game on November 18, that she realized what she’d appeared in and got to see the finished performance. Within 24 hours, Mandy was a thirst trap on every GTA subreddit.\n“I think because I have some experience with online attention as a content creator, I’ve developed a pretty effective lens for seeing more good than bad,” Shoaibi said when asked about having the Gooner Eye of Sauron laser in on her. “There are weirdos out there, and they’re going to try to bring you down, so it’s important to stay around the people and the places that aren’t doing that. It’s easy enough to do, which I’m very grateful for. There’s enough support in my real-life community and online that I can say, ‘I could just hang out over here. I don’t actually need to go to the scary place.’ I’m living in the positive, for sure.”\nThe actor recently appeared on a Twitch charity stream with Hasan Piker, who she was put in contact with by a mutual friend. The 15 minutes of video game fame has led to a bunch of people impersonating her online as people try to chase clout in Mandy’s wake. “I don’t know how that happened,” Shoaibi told Piker (via IGN). “People pretending to be me? It’s thrilling. Please stop, but it’s also so exciting. It’s sort of bittersweet.” She had previous",
+    "extra": {
+     "image": "https://kotaku.com/app/uploads/2026/11/mandy-1280x699.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "Актриса МЭНДИ в шоке от славы\n\nЛекси Шоаби, подарившая голос вирусной NPC из самого начала игры, призналась, что её внезапная популярность — это лютый кринж и радость одновременно. Чел даже не знала, что озвучивает GTA 6, пока не увидела стримеров на реличе!\n\n❤️ — Тоже заценил её сцену\n👎 — Душно от этой темы",
+    "card_title": "АКТРИСА МЭНДИ В ШОКЕ ОТ СЛАВЫ",
+    "reason": "Интервью с актрисой озвучки вирусной NPC Мэнди из GTA 6, реакция на славу и фейки.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-25T00:40:56.841805+00:00"
   }
  ]
 }
