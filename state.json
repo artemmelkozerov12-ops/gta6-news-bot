@@ -4003,7 +4003,9 @@
   "9011510cd2d390f0": "2026-11-25T09:13:29.901936+00:00",
   "2730620d86fb37f9": "2026-11-25T09:13:30.957764+00:00",
   "01928b00e1e3ef6f": "2026-11-25T09:13:32.002473+00:00",
-  "08442fe74f196cef": "2026-11-25T09:13:33.078784+00:00"
+  "08442fe74f196cef": "2026-11-25T09:13:33.078784+00:00",
+  "8c29f56329ee807f": "2026-11-25T09:14:26.784665+00:00",
+  "54089dc853394b42": "2026-11-25T09:30:55.538827+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -6685,7 +6687,8 @@
   "81689ba80e0d6bba": "2026-11-25T08:18:51.526626+00:00",
   "5b8d09bf7e45ed11": "2026-11-25T08:36:23.541612+00:00",
   "8045e9f7e79db40c": "2026-11-25T08:36:31.725827+00:00",
-  "05bccec775812afe": "2026-11-25T09:13:18.613473+00:00"
+  "05bccec775812afe": "2026-11-25T09:13:18.613473+00:00",
+  "495af128039b6c2f": "2026-11-25T09:30:55.538827+00:00"
  },
  "recent": [
   {
@@ -14735,6 +14738,14 @@
    "status": "queued",
    "ts": "2026-11-25T09:13:26.612179+00:00",
    "card_title": "ТОННЕЛЬ-ТРОЛЛЬ В GTA 6"
+  },
+  {
+   "title": "Performance analysis reveals GTA 6 has a more stable frame-rate on Xbox Series X compared to PlayStation 5",
+   "source": "Eurogamer",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-25T09:30:55.961799+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -15588,36 +15599,6 @@
   {
    "clip": {
     "source": "twitch",
-    "url": "https://www.twitch.tv/ohnepixel/clip/CredulousConcernedDuckAliens-KXzr7E3q5t55CkrC",
-    "title": "WE CANT BE DEADASS",
-    "author": "ohnePixel",
-    "views": 1586,
-    "duration": 39.8,
-    "created": "2026-11-23T15:53:12+00:00",
-    "lang": "en",
-    "description": "",
-    "vod_id": "2938342600",
-    "vod_offset": 8040.0
-   },
-   "caption": "Тачка застряла на камнях прямо над водой, но Лусия не паникует — просто достала смартфон и починила её через приложение Scooter Bros 💀 Удобно завезли!",
-   "interest": 8,
-   "spoiler": false,
-   "nsfw": false,
-   "watched": true,
-   "model": "gemini:gemini-3.5-flash",
-   "media": {
-    "width": null,
-    "height": 720,
-    "duration": 39
-   },
-   "queued_at": "2026-11-24T09:28:34.013161+00:00",
-   "file_id": "BAACAgIAAxkDAAN-awVYw5k7kLYwQiT3ZhZpbUXYMnsAAuKqAAKTDTFIQXVcu0XOlB09BA",
-   "moderation": "pending",
-   "draft_msg_id": 126
-  },
-  {
-   "clip": {
-    "source": "twitch",
     "url": "https://www.twitch.tv/caseoh_/clip/SpeedyOilyClipzWOOP-SYHCWnkVXwnYbUaP",
     "title": "OMG STRAIGHT CHEEKS ACTION LMAO",
     "author": "caseoh_",
@@ -15824,6 +15805,36 @@
    "file_id": "BAACAgIAAxkDAAOVawaX-kDnfCZFHP0GoeKd9r-14hAAAr6wAAImEThImR6vRZFm3Vc9BA",
    "moderation": "pending",
    "draft_msg_id": 149
+  },
+  {
+   "clip": {
+    "source": "twitch",
+    "url": "https://www.twitch.tv/theburntpeanut/clip/GloriousShortRamenANELE-1Bn-506RuvLm-UJb",
+    "title": "Did Lucia Get In?",
+    "author": "TheBurntPeanut",
+    "views": 470,
+    "duration": 22.9,
+    "created": "2026-11-25T06:49:56+00:00",
+    "lang": "en",
+    "description": "",
+    "vod_id": "2939866004",
+    "vod_offset": 23595.0
+   },
+   "caption": "Побег на джете под лютым обстрелом копов — взлетать прямо сквозь патрульки чистая имба 💀",
+   "interest": 7,
+   "spoiler": false,
+   "nsfw": false,
+   "watched": true,
+   "model": "gemini:gemini-3.8-flash",
+   "media": {
+    "width": null,
+    "height": 720,
+    "duration": 22
+   },
+   "queued_at": "2026-11-25T09:15:13.033916+00:00",
+   "file_id": "BAACAgIAAxkDAAOXawanIt_rHGx2D2pHKBJaHkC4gXkAAkKxAAImEThITbSPOuyfP_w9BA",
+   "moderation": "pending",
+   "draft_msg_id": 151
   }
  ],
  "clip_drafts": [
@@ -15845,7 +15856,8 @@
   "2026-11-24T20:29:37.383213+00:00",
   "2026-11-24T21:55:06.434149+00:00",
   "2026-11-25T07:08:00.412145+00:00",
-  "2026-11-25T08:10:34.794245+00:00"
+  "2026-11-25T08:10:34.794245+00:00",
+  "2026-11-25T09:15:15.249708+00:00"
  ],
  "clip_history": [
   {
@@ -21766,6 +21778,25 @@
    "title": "GTA 6 - Jason Reveals His Tragic Past & How He Ended Up in Prison",
    "drafted": false,
    "ts": "2026-11-25T09:13:33.078823+00:00"
+  },
+  {
+   "author": "twitch:theburntpeanut",
+   "vod": "2939866004",
+   "offset": 23595.0,
+   "title": "Did Lucia Get In?",
+   "drafted": false,
+   "ts": "2026-11-25T09:14:26.784706+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:theburntpeanut",
+   "vod": "2939866004",
+   "offset": 23595.0,
+   "title": "Did Lucia Get In?",
+   "drafted": true,
+   "ts": "2026-11-25T09:15:15.249727+00:00",
+   "frames": [],
+   "caption": "Побег на джете под лютым обстрелом копов — взлетать прямо сквозь патрульки чистая имба 💀"
   }
  ],
  "published": [
