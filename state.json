@@ -4129,7 +4129,25 @@
   "0d6113b1c5636b5b": "2026-11-25T13:07:40.042013+00:00",
   "a8e484b841a5ade6": "2026-11-25T13:07:59.816011+00:00",
   "36ef7e4e91d6bac6": "2026-11-25T13:08:22.497625+00:00",
-  "3ed734b6b545d5d0": "2026-11-25T13:08:36.799019+00:00"
+  "3ed734b6b545d5d0": "2026-11-25T13:08:36.799019+00:00",
+  "f1b8077aa46f6990": "2026-11-25T13:24:09.453912+00:00",
+  "544dabf2a13cd259": "2026-11-25T13:24:09.460075+00:00",
+  "a0d89810523adaf2": "2026-11-25T13:24:24.876675+00:00",
+  "7ec0d43b3929b1dc": "2026-11-25T13:24:32.283084+00:00",
+  "51dd18f7e7db0d3d": "2026-11-25T13:24:40.864249+00:00",
+  "86f7a5467f7f9389": "2026-11-25T13:24:41.563422+00:00",
+  "78f3d4977c148e50": "2026-11-25T13:24:48.716516+00:00",
+  "c76b0efc0ef582b6": "2026-11-25T13:25:01.531249+00:00",
+  "6ad1186bc9bd2d1d": "2026-11-25T13:25:24.681343+00:00",
+  "bdcbc45eee8cc63b": "2026-11-25T13:25:38.992948+00:00",
+  "f8f1c68e1c5c76fd": "2026-11-25T13:41:53.567527+00:00",
+  "02d14de6e05dfb92": "2026-11-25T13:41:54.229566+00:00",
+  "5d40b98da88b06a1": "2026-11-25T13:42:03.919886+00:00",
+  "6797f5383efbafd1": "2026-11-25T13:42:26.096974+00:00",
+  "7a9b865da4f02280": "2026-11-25T13:42:49.180569+00:00",
+  "fc29238c0505bcab": "2026-11-25T13:43:12.365306+00:00",
+  "a2953aff2c3393d4": "2026-11-25T13:43:26.104433+00:00",
+  "145c2c2f61d0bd8c": "2026-11-25T13:43:47.718496+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -6907,7 +6925,25 @@
   "d03b03b43af04105": "2026-11-25T13:07:40.042013+00:00",
   "e853a337b44df542": "2026-11-25T13:07:59.816011+00:00",
   "346b976a814b86a4": "2026-11-25T13:08:22.497625+00:00",
-  "b5dc02287b40e707": "2026-11-25T13:08:36.799019+00:00"
+  "b5dc02287b40e707": "2026-11-25T13:08:36.799019+00:00",
+  "26e766dcfb10a96f": "2026-11-25T13:24:09.453912+00:00",
+  "889137db8fc84ad2": "2026-11-25T13:24:09.460075+00:00",
+  "732df78fe6d8ee45": "2026-11-25T13:24:24.876675+00:00",
+  "daa08f0e4863c76b": "2026-11-25T13:24:32.283084+00:00",
+  "862cf9bc30abf59b": "2026-11-25T13:24:40.864249+00:00",
+  "2ab26d5768511861": "2026-11-25T13:24:41.563422+00:00",
+  "1db1c3aa97751991": "2026-11-25T13:24:48.716516+00:00",
+  "379afd15b7ed20d0": "2026-11-25T13:25:01.531249+00:00",
+  "906a4926203fd769": "2026-11-25T13:25:24.681343+00:00",
+  "87a2942c32c870dd": "2026-11-25T13:25:38.992948+00:00",
+  "c4c10b556f483d27": "2026-11-25T13:41:53.567527+00:00",
+  "64d740fc49d1dfad": "2026-11-25T13:41:54.229566+00:00",
+  "0538c7f169e0c133": "2026-11-25T13:42:03.919886+00:00",
+  "c1ea19b03724f4da": "2026-11-25T13:42:26.096974+00:00",
+  "8b001005bb0632e5": "2026-11-25T13:42:49.180569+00:00",
+  "e4a37c6ed8c05b1f": "2026-11-25T13:43:12.365306+00:00",
+  "af29eb312c3c112c": "2026-11-25T13:43:26.104433+00:00",
+  "861bcbaf78eee180": "2026-11-25T13:43:47.718496+00:00"
  },
  "recent": [
   {
@@ -14628,6 +14664,150 @@
    "trust": "rumor",
    "status": "skipped",
    "ts": "2026-11-25T13:08:36.799174+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to get abducted and find aliens in GTA 6",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-25T13:24:09.453968+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to get the fastest cars in GTA 6",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-25T13:24:09.460117+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Top 10 GTA VI Mods That Fans Are Requesting",
+   "source": "Rockstar Intel",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-25T13:24:24.876834+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Макс Ферстаппен провёл 40 часов за GTA VI во время уикенда Гран-при Лас-Вегаса",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T13:24:32.283236+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Digital Foundry сравнила производительность GTA 6 на консолях — PS5 Pro в лидерах, а Xbox Series X стабильнее базовой PS5",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T13:24:40.864405+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "The Tampa Bay Times went birding in ‘GTA VI’",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T13:24:41.563569+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Where I’d Buy Sony After GTA VI’s $3 Billion Debut",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T13:24:48.716671+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Is Taylor Swift in GTA 6? What the official soundtrack reveals",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T13:25:01.531403+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Classics Such as Soulcalibur and Zelda: Ocarina of Time Are Being Review-Bombed on Metacritic to Drive Up GTA VI Scores",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T13:25:24.681497+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Игроки GTA 6 заметили, что макияж Лусии со временем размазывается, если его не обновлять",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T13:25:38.993102+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Where To Find the Piccia Dragon Gate Furia In GTA 6—Fastest Cars Location & Stats",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-25T13:41:53.567660+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "‘Grand Theft Auto VI’ Made Nearly $4 Billion Doing What Movies Can’t",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T13:41:54.229724+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "10 Games That Will Feel Better To Play After GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T13:42:03.920030+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to Get the Little Friend SMG in GTA 6 – Scarface Easter Egg",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T13:42:26.097123+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "CD Projekt RED уверяет, что разница между The Witcher 3 и The Witcher 4 будет такой же, как между GTA 5 и GTA 6",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T13:42:49.180730+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Rockstar начала отдельно продавать набор Vintage Vice City Pack для GTA 6 за $4,99 — ранее он шел бонусом за предзаказ",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T13:43:12.365458+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Only 28 % of the buildings on the GTA VI map can be explored",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T13:43:26.104577+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Getting prepped for the GTA 6 PC release? These top-rated gaming accessories are up to 41% off for Black Friday",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T13:43:47.718642+00:00",
    "card_title": ""
   }
  ],
