@@ -4194,7 +4194,8 @@
   "f4fcf48cff7e99cb": "2026-11-25T15:13:51.703590+00:00",
   "efb34c81aefcf195": "2026-11-25T15:14:34.609157+00:00",
   "e4f8d56adc3f48a2": "2026-11-25T15:15:04.928619+00:00",
-  "edbe6269171e2045": "2026-11-25T15:15:48.456650+00:00"
+  "edbe6269171e2045": "2026-11-25T15:15:48.456650+00:00",
+  "7eda75130b4ba9ac": "2026-11-25T15:31:44.155469+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -7035,7 +7036,8 @@
   "00cc5a815b2542ab": "2026-11-25T15:13:51.703590+00:00",
   "9bc6b9a1888c9d41": "2026-11-25T15:14:34.609157+00:00",
   "080d7714e593a191": "2026-11-25T15:15:04.928619+00:00",
-  "7a5763c87cd3624e": "2026-11-25T15:15:48.456650+00:00"
+  "7a5763c87cd3624e": "2026-11-25T15:15:48.456650+00:00",
+  "3c058567209f8315": "2026-11-25T15:31:44.155469+00:00"
  },
  "recent": [
   {
@@ -15269,38 +15271,17 @@
    "status": "skipped",
    "ts": "2026-11-25T15:15:48.456792+00:00",
    "card_title": ""
+  },
+  {
+   "title": "Every GTA 6 fence location and where to find them",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-25T15:31:44.155517+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
-  {
-   "item": {
-    "title": "Max Verstappen Spent 40 Hours Playing GTA 6 and Still Won the Las Vegas Grand Prix",
-    "link": "https://www.ign.com/articles/max-verstappen-spent-40-hours-playing-gta-6-and-still-won-the-las-vegas-grand-prix",
-    "summary": "Famous Dutch-Belgian race driver Max Verstappen revealed that he’d spent the weekend of the Las Vegas Grand Prix locked in to GTA 6, saying he played over 40 hours of the game.",
-    "published": "2026-11-24T23:49:50+00:00",
-    "source": "IGN",
-    "site_name": "IGN",
-    "trust": "high",
-    "text": "Famous Dutch-Belgian race driver Max Verstappen revealed that he’d spent the weekend of the Las Vegas Grand Prix locked in to GTA 6, saying he played over 40 hours of the game.\nEveryone’s got GTA 6 fever, including Max Verstappen. Not even the Las Vegas Grand Prix could stop him from causing virtual chaos in Vice City, which he says he spent more than 40 hours doing during the weekend of the race.\nVerstappen nonchalantly dropped this nugget of information during a live stream the following week, saying he would play the game in the mornings and evenings in between his duties on the track.\n“I played a lot in the evening and in the morning in Vegas,” Verstappen explained. “I mean, I can’t go out anyways and walk around.”\nThe driver also revealed that he’s been so focused on GTA 6 and driving real-life race cars that he’s “completely forgotten” how to play Minecraft, despite having a scheduled stream for it.\n“I’m so bad when I play too many games at the same time. I can’t, I just can’t!” he joked.\n🤯Max Verstappen played GTA VI for FORTY HOURS while in Las VegasOn top of that, he also won the race https://t.co/jwuxQnHxyS— Pablo Martinez (Holiness) (@F1BigData) November 24, 2026\nThe Las Vegas Grand Prix took place on November 19 - 21. Verstappen took first place in the prestigious Formula 1 race, beating out Britain’s Lando Norris and Australia’s Oscar Piastri. The race is around 50 laps long with a total race distance of 192.6 miles (309.96 kilometers), generally lasting around one and a half hours.\nAs revealed by the name, Grand Theft Auto is a game series that involves a lot of vehicles, and not just for carjacking; the latest entry in the franchise even features drag racing and mudding, a hobby common in the American countryside that involves the use of off-road vehicles racing through mud-covered areas or even specially-made racetracks.\nIt’s quite likely that Verstappen dabbled a bit in these side missions, though he says that he’s already beaten 80% of GTA 6’s story. In fact, the driver admitted that he has skipped most of the main cutscenes, calling them “too boring.”\nVerstappen’s style of playing GTA 6 is one of several that we’ve seen over the weekend. In fact, many players are avoiding progressing the story in favor of spending time in Chapter 1, which sees Jason living the average life of a drug runner in Rockstar’s fictionalized version of the Florida Keys. Oddly, it’s a slow-paced, slice-of-life section of the game that some players haven’t left ye",
-    "extra": {
-     "image": "https://assets-prd.ignimgs.com/2026/11/24/max-verstappen-gta-6-1795564044448.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "🏎️ Верстаппен отжёг 40 часов в GTA 6\n\nЧел в стриме признался, что за уикенд в Вегасе оттянул Vice City на полную, а потом ещё и выиграл Гран‑При. Плюс, забыл, как играть в Minecraft — лул 🤯",
-    "card_title": "ВЕРСТАППЕН И GTA 6",
-    "reason": "F1 driver Max Verstappen played 40 hours of GTA 6 and won the Las Vegas Grand Prix, hilarious and high engagement.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-25T03:20:21.139125+00:00"
-  },
   {
    "item": {
     "title": "GTA 6 Causes PS5 Consoles to Sell Out in US Before Black Friday",
@@ -15331,35 +15312,6 @@
    "queued_at": "2026-11-25T14:16:31.639487+00:00",
    "moderation": "pending",
    "draft_msg_id": 162
-  },
-  {
-   "item": {
-    "title": "The Actor Behind GTA 6′s Viral NPC Mandy Reacts To All Of The Attention: ‘It’s Sort Of Bittersweet’",
-    "link": "https://kotaku.com/the-actor-behind-gta-6s-viral-npc-mandy-reacts-to-all-of-the-attention-its-sort-of-bittersweet-2001000149",
-    "summary": "Lexie Shoaibi recently guested on Hasan Piker's Twitch channel",
-    "published": "2026-11-25T00:30:53+00:00",
-    "source": "Kotaku",
-    "site_name": "Kotaku",
-    "trust": "high",
-    "text": "Grand Theft Auto VIGTA 6MandyRockstar Games\nMandy is one of the first NPCs players run into in Grand Theft Auto 6. Jason is sent to collect rent from her and she tries to come onto him despite his Mr. Freeze levels of cold disinterest. At one point he’s trying to unscrew the bolt for the sink trap when she comes back wearing nothing but a pink-trimmed leopard-print string bikini. Clips of the early encounter quickly went viral. Actor Lexie Shoaibi, who voices Mandy, said the instant internet fame has been “bittersweet.”\nLike many video game characters, Mandy is modeled after one person but voiced by another. The model is Miami-based influencer Marissa DuBois. The voice belongs to Shoaibi, an actor and model who also promotes herself through Meta’s engagement-driven algorithm. She told Vulture that she auditioned for the role back around 2023, but it was never explicitly confirmed to her that it was for GTA 6.\nThe context-less gig came with tons of NDAs, but Shoaibi found the performance part surprisingly inviting. She performed opposite Jason’s actor, Dylan Rourke, and said the whole experience felt a bit like an “off-Broadway theater production.” It wasn’t until years later, when she saw clips of streamers playing the game on November 18, that she realized what she’d appeared in and got to see the finished performance. Within 24 hours, Mandy was a thirst trap on every GTA subreddit.\n“I think because I have some experience with online attention as a content creator, I’ve developed a pretty effective lens for seeing more good than bad,” Shoaibi said when asked about having the Gooner Eye of Sauron laser in on her. “There are weirdos out there, and they’re going to try to bring you down, so it’s important to stay around the people and the places that aren’t doing that. It’s easy enough to do, which I’m very grateful for. There’s enough support in my real-life community and online that I can say, ‘I could just hang out over here. I don’t actually need to go to the scary place.’ I’m living in the positive, for sure.”\nThe actor recently appeared on a Twitch charity stream with Hasan Piker, who she was put in contact with by a mutual friend. The 15 minutes of video game fame has led to a bunch of people impersonating her online as people try to chase clout in Mandy’s wake. “I don’t know how that happened,” Shoaibi told Piker (via IGN). “People pretending to be me? It’s thrilling. Please stop, but it’s also so exciting. It’s sort of bittersweet.” She had previous",
-    "extra": {
-     "image": "https://kotaku.com/app/uploads/2026/11/mandy-1280x699.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "🎬 Актриса, озвучившая Мэнди, о вирусной славе\n\nLexie Shoaibi, голос Мэнди, призналась, что её мгновенный хайп — одновременно лютый и биттерсвит. Смотрел, как её персонаж стал мемом за 24 часа, и теперь в чатах про GTA её называют «треш‑модель». 🤯",
-    "card_title": "АКТРИСА МЭНДИ ОТКРЫЛА",
-    "reason": "Интервью с актрисой озвучки вирусной NPC Мэнди из GTA 6, реакция на славу и фейки.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-25T03:19:56.237844+00:00"
   },
   {
    "item": {
@@ -15483,35 +15435,6 @@
   },
   {
    "item": {
-    "title": "GTA 6's Most Heartbreaking Scene Is Exactly Why You Had To Do All Those Chores",
-    "link": "https://www.polygon.com/gta-6-chapter-1-tragic-ending-home-sweet-home/",
-    "summary": "Grand Theft Auto 6 features an exhilarating and heartbreaking sequence to end its first chapter as Lucia and Jason start a life on the run.",
-    "published": "2026-11-25T00:00:17+00:00",
-    "source": "Polygon",
-    "site_name": "Polygon",
-    "trust": "high",
-    "text": "Grand Theft Auto 6 features as much shootin’, stealin’, and drug runnin’ as you’d expect from the latest entry in a series named after a felony. However, some players have been caught off-guard by just how much the early game is all about the more mundane parts of life. Namely, you gotta do a bunch of chores around the house. In many ways, GTA 6 is as much of an everyday life sim as it is a game about committing crimes.\nJason repairs the steps leading up to his and Lucia’s home, fixes a railing, buys groceries, orders flowers, paints the walls of their bedroom, and more to prepare for Lucia’s arrival from prison. All those chores might seem less thrilling than the opening hours you’d expect in a big-budget action game. But it turns out they set up a tragic heartbreak I simply did not see coming.\n[Ed. note: Spoilers for the ending of Chapter 1 follow.]\nChapter 1 involves Jason and Lucia trying to get work from Mattia, the shady boyfriend of Kat, a mother-to-be whom Lucia befriended in prison. Part of that involves a standout sequence set to a Carly Rae Jepsen banger before Lucia gets lost in orgy central. (Vice City, y’all!) Bro, Mattia promises a job that could pay ten grand, bro. They just have to grab a bag from a locker and deliver it, bro.\nRed flags abound, but Jason and Lucia go along for the ride, which quickly results in their arrest. Crooked cops show up, the couple gets into a shootout, and Jason gets grievously wounded while the couple struggle to keep hold over a bag containing who knows what.\nGTA 6 does a great job of showing how various systems, both governmental and societal, are against Jason and Lucia, and that shines through here. In Jason and Lucia, Mattia sees a pair of not prospective partners, but a down-on-their-luck couple he can easily exploit — and they’re all too willing to play into his hands. Mattia leverages their desperation, even making them play dress up with Lucia in a platinum blonde wig and Jason in one of Mattia’s gaudy shirts, so they’d take the fall for whatever shady shit Mattia is up to. Clearly, he knew the danger surrounding this bag with shady cops and an organized outfit after it and gladly fed Jason and Lucia to the wolves.\nThey escape, but their horrible night has only just begun. Lucia takes Jason to his friend Cal, who brings Jason — and the mysterious bag — to the hospital. (Lucia later learns the hospital took everything from the couple’s BuckMe checking account as payment. America!) Lucia heads home to rec",
-    "extra": {
-     "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/jason_and_lucia_08.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 6,
-    "post": "💔 Трагический финал Чаптера 1: бытовые квесты = смерть\n\nГеймеры в шоке — в GTA 6 вам придётся делать кучу дел: чинить лестницу, покупать цветы, готовить ужин. И всё это подводит к кровавой развязке, где Джейсон получает серьёзные травмы, а пара попадает в перестрелку. Кто бы мог подумать, что обычные chores могут стать причиной такой драмы? Жиза, имба сюжетный поворот!",
-    "card_title": "ТРАГИЧНЫЙ ФИНАЛ ЧАПТЕРА 1",
-    "reason": "Статья от Polygon с высоким уровнем доверия, подтверждает детали сюжета, важность средняя",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "groq:openai/gpt-oss-120b → groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-25T03:19:25.036689+00:00"
-  },
-  {
-   "item": {
     "title": "Everyone’s Getting Trolled By GTA 6’s Looney Toons Tunnel",
     "link": "https://kotaku.com/everyones-getting-trolled-by-gta-6s-looney-toons-tunnel-2001000177",
     "summary": "Congrats on landing the job at Rockstar, Wil E. Coyote",
@@ -15631,64 +15554,6 @@
    "queued_at": "2026-11-25T11:42:40.662207+00:00",
    "moderation": "pending",
    "draft_msg_id": 156
-  },
-  {
-   "item": {
-    "title": "GTA 6 Nude Glitch and Money Exploit Survives First Patch",
-    "link": "https://www.gtaboom.com/gta-6-nude-glitch-and-money-exploit-survives-first-patch-cd3d",
-    "summary": "In GTA 6, the Apollo Aggregates robbery still pays $8,000 to $10,000 per run after the first patch if you save and reload to respawn the loot.",
-    "published": "2026-11-24T23:56:48+00:00",
-    "source": "GTA BOOM",
-    "site_name": "GTA BOOM",
-    "trust": "medium",
-    "text": "The first post-launch patch for Grand Theft Auto VI fixed stability and progression bugs, but the Apollo Aggregates money glitch and Lucia’s outfit glitch still work. Rockstar Games shipped update 01.002.002 on November 23, a stability and progression fix that cleared up crashes, stuck weather, broken autosaves and missing story calls. What it did not touch is the money glitch or the clothing exploit players have consistently run for their own benefit and amusement.\nPlayers near Hamlet have and continue to farm the Apollo Aggregates robbery, saving and reloading to respawn the loot for $8,000 to $10,000 a run. The patch left it alone. We can confirm the trick still works and it remains one of the better early money makers in the game.\nThe official notes run through the fixes, which includes fixing everything from several crash causes to the weather that would not change, autosaves failing, story and mission-unlocking phone calls not firing, a Wanted Level you could not shake, the gym deadlift bar and so on and so fo rth. The download ran about 604 MB on PlayStation 5 and around 1.6 GB on Xbox Series X and S.\nNowhere in that list is a word about clothing, outfits or loot respawns.\nThe other survivor is the clothing exploit. By layering a jacket over a bare top and a bulletproof vest, then destroying the vest, players have used this to intentionally leave Lucia topless in free roam. It is a quirk of the same outfit and armor systems, temporary and impossible to save as a permanent look. The patch did not close it either. Again, we can confirm that you can still leave Lucia topless in GTA 6 using this exploit.\nIn Grand Theft Auto Online, a glitch like this rarely lasts. Rockstar kills money glitches, god-mode exploits and car dupes server-side, often with no download and no patch notes, so players just notice the trick stop working after a maintenance window or an event week.\nGTA 6 appears to be a different case, at least for now As a single-player game with no online component, there is no live server policing a multi-million strong palyerbase. An exploit survives until Rockstar ships a client patch that targets it and the first patch did not.\nGTA 6 opened to the biggest launch the industry has seen and a 99 on Metacritic. A few free-roam exploits are the kind of thing a single-player game can carry. The money farmers get a head start on their bank and the clothing glitch gets its laugh.\nAre you farming the Apollo Aggregates money glitch before Rockstar patc",
-    "extra": {
-     "image": "https://media.gtaboom.com/variants/1920/media/images/4c/34/gta-6-nude-glitch-and-money-exploit-survives-first-patch-1.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "💰 Глитч с деньгами и нюд‑лук всё ещё жив\n\nАпдейт 01.002.002 не тронул Apollo Aggregates кэш и нюд‑трип Луции. Фермеры уже тащат по $8‑10k за спуск, а боссы в шоке — эксплойт в деле, так что можно и дальше качать банк и устраивать топлес‑шоу. 🎮",
-    "card_title": "ГЛИТЧ ДЕНЬГИ И НЮД",
-    "reason": "Первый патч GTA 6 не пофиксил популярные баги на деньги и одежду, этоconfirmed новость с высоким интересом для игроков.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-25T03:19:26.859434+00:00"
-  },
-  {
-   "item": {
-    "title": "Obbe Vermeij Says the GTA 6 Headphones Feature Goes Back to Vice City in 2002",
-    "link": "https://www.gtaboom.com/obbe-vermeij-says-the-gta-6-headphones-feature-goes-back-to-vice-city-in-2002",
-    "summary": "Obbe Vermeij shared the unused pickup icon for the headphones feature planned for Grand Theft Auto: Vice City in 2002, long before GTA 6.",
-    "published": "2026-11-25T01:34:44+00:00",
-    "source": "GTA BOOM",
-    "site_name": "GTA BOOM",
-    "trust": "medium",
-    "text": "The headphones feature in Grand Theft Auto 6, the one that lets you walk around Leonida with your own soundtrack instead of climbing into a car for the radio, was first planned for Grand Theft Auto: Vice City back in 2002. We know because the man who would have built it just said so.\nFor 24 years the deal was simple. If you want the radio in a Grand Theft Auto game, get in a car. GTA 6 broke that, letting you take music with you on foot through a phone and a pair of headphones. Players have raved about how much it adds, with @videotech posting on X that it is \"the most immersive game I've ever played with the headphones feature, this game is insanity.\"\nObbe Vermeij, the former Rockstar Games technical director who ran the engine side of Rockstar North's 3D-era games, replied to that post on X with a surprise, that the team wanted the exact same feature in 2002. \"We planned a headphones feature in Vice City (2002),\" he wrote. \"It didn't happen for some technical reason I can't remember. This was the pick-up icon for it.\" He attached the unused icon, a scrap of cut content from the Vice City era seeing daylight for the first time.\nOn-foot music is something other open-world games handled long ago. Ironically, a GTA rival, Saints Row, let you take a soundtrack out of the car. Rockstar wanted the same thing in 2002, but Vermeij couldn’t remember the technical reason it was dropped. More than twenty years later, GTA 6 has on-foot music.\nIt makes you wonder what else in GTA 6 started life as an older idea. Vermeij has a habit of sharing this kind of cut history from his years at the studio. The headphones icon is a reminder that a Rockstar game is as much layers of abandoned plans as finished ones. The flip side is the fun part. If a 2002 feature only shipped in 2026, some of what did not make it in GTA 6 could still make the cut for whatever comes next.\nWalking through Vice City at night with the radio in your ears is the kind of detail that turns up in every immersion thread about the game, right next to the record-breaking launch and a 99 on Metacritic.\nA headphones icon drawn in 2002 is a small thing to get excited about. Still, it is the whole history of this series in one image, a good idea that had to wait more than twenty years for the machines to be ready for it. GTA 6 is full of those. Vermeij just handed us the receipt for one.\nWhat is your favorite bit of GTA 6 immersion, the headphones or something else?\nOnce a post receives 3 qualifying Helpful mar",
-    "extra": {
-     "image": "https://media.gtaboom.com/variants/1920/media/images/29/6e/obbe-vermeij-says-the-gta-6-headphones-feature-goes-back-to-vice-city.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "🎧 На‑фонариках из Vice City: идея 2002 ожила в GTA 6\n\nОббе Вермей подтвердил, что задумывали наушники ещё в Vice City 2002, но техничка их убила. Теперь в GTA 6 ты можешь крутить свой плейлист на ходу – имба иммерсивность! 🎮",
-    "card_title": "НАУШНИКИ ИЗ VICE CITY",
-    "reason": "Бывший техдиректор Rockstar рассказал, что фишку с наушниками планировали еще для Vice City в 2002 году.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-25T03:20:53.874179+00:00"
   },
   {
    "item": {
