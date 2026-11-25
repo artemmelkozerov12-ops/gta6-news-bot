@@ -4389,7 +4389,26 @@
   "b1860c7711dc6e1f": "2026-11-25T18:51:56.821182+00:00",
   "20a317a3f539de2d": "2026-11-25T18:52:29.416264+00:00",
   "552763e503da4890": "2026-11-25T18:52:51.170615+00:00",
-  "f3640c255bdde68b": "2026-11-25T18:53:10.939637+00:00"
+  "f3640c255bdde68b": "2026-11-25T18:53:10.939637+00:00",
+  "1d915e98dd574b69": "2026-11-25T19:08:30.533281+00:00",
+  "736e29b5ffa599fa": "2026-11-25T19:08:38.794014+00:00",
+  "ea23abf82b57b5cc": "2026-11-25T19:08:45.583968+00:00",
+  "a705e54f2d614d37": "2026-11-25T19:08:46.970583+00:00",
+  "fa24123ea0082d33": "2026-11-25T19:08:48.417631+00:00",
+  "beb40c79ce5cda47": "2026-11-25T19:08:49.357837+00:00",
+  "033b1b4e0c43daee": "2026-11-25T19:08:50.265900+00:00",
+  "3c15f2c01ed78dee": "2026-11-25T19:08:52.035153+00:00",
+  "569e5ce0a0d8cafb": "2026-11-25T19:08:54.607068+00:00",
+  "7879a58254231bfb": "2026-11-25T19:08:55.535776+00:00",
+  "adcb1573c65523e0": "2026-11-25T19:08:56.622527+00:00",
+  "d1e4eb31ccdc145c": "2026-11-25T19:08:57.459709+00:00",
+  "802325f6dcd454d2": "2026-11-25T19:09:48.759921+00:00",
+  "ecc02259de7ccb70": "2026-11-25T19:09:49.602049+00:00",
+  "0b900a2c444192ff": "2026-11-25T19:09:50.505402+00:00",
+  "de9c851ea27ba069": "2026-11-25T19:09:51.441004+00:00",
+  "be75bcd813e6780b": "2026-11-25T19:10:42.387656+00:00",
+  "802957cc096600c5": "2026-11-25T19:10:43.200410+00:00",
+  "172be8e9f17fbce2": "2026-11-25T19:10:43.927367+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -7300,7 +7319,15 @@
   "846e442642cd69a4": "2026-11-25T18:49:27.376063+00:00",
   "96375c3e3bea90d7": "2026-11-25T18:50:34.393695+00:00",
   "9abb86f7285b0c6b": "2026-11-25T18:51:56.821182+00:00",
-  "43f3e2a7cb2773fd": "2026-11-25T18:52:29.416264+00:00"
+  "43f3e2a7cb2773fd": "2026-11-25T18:52:29.416264+00:00",
+  "2202d6e770cb4542": "2026-11-25T19:08:30.533281+00:00",
+  "76e42878ba860d0b": "2026-11-25T19:08:38.794014+00:00",
+  "7fc191108219076d": "2026-11-25T19:08:45.583968+00:00",
+  "e59d73c5767377f9": "2026-11-25T19:08:46.970583+00:00",
+  "e0454d1e39ea2f45": "2026-11-25T19:08:48.417631+00:00",
+  "b94fc3c802397a72": "2026-11-25T19:08:49.357837+00:00",
+  "850af68ad100bf4c": "2026-11-25T19:08:50.265900+00:00",
+  "582d1dfaaf67f733": "2026-11-25T19:08:52.035153+00:00"
  },
  "recent": [
   {
@@ -14678,6 +14705,54 @@
    "status": "skipped",
    "ts": "2026-11-25T18:52:50.090350+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GTA 6 Gave Me Guns, Cars, and Cash. All I Wanted Was to Take Pictures",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T19:08:45.584099+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Guide – How To Play In First Person Camera Mode",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T19:08:46.970695+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to Find GTA 6 TMNT Easter Egg – Teenage Mutant Ninja Turtles Location",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T19:08:48.417774+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Why Isn’t GTA 6 Clicking With Some Gamers?",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T19:08:49.357950+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Почему скандалы вокруг GTA 6 это прекрасно. Или шум как часть партитуры",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T19:08:50.266028+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Should Christians play GTA VI? Christian leaders, creators weigh in",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T19:08:52.035282+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -21624,6 +21699,95 @@
    "drafted": false,
    "ts": "2026-11-25T18:53:10.939684+00:00",
    "frames": []
+  },
+  {
+   "author": "youtube:los salchi hermanos",
+   "vod": "",
+   "offset": -1,
+   "title": "Será la Canción de GTA 6 ?🚗🚨😱 #gta6 #gta",
+   "drafted": false,
+   "ts": "2026-11-25T19:08:54.607110+00:00"
+  },
+  {
+   "author": "youtube:bistecone",
+   "vod": "",
+   "offset": -1,
+   "title": "CHEGOU A HORA DE ZERAR O GTA 6!!! DIA 07 | BISTECONE AO VIVO 🔴",
+   "drafted": false,
+   "ts": "2026-11-25T19:08:55.535808+00:00"
+  },
+  {
+   "author": "youtube:nishu jeet aarya",
+   "vod": "",
+   "offset": -1,
+   "title": "Gta VI Aagya Hai 😱 #shorts #ytshorts #viralvideo #gta6 #gtaonline",
+   "drafted": false,
+   "ts": "2026-11-25T19:08:56.622566+00:00"
+  },
+  {
+   "author": "youtube:hoàng acc",
+   "vod": "",
+   "offset": -1,
+   "title": "Khi Tôi Chơi GTA 6 Quên Luôn Cả Thời Gian 🤣 #shorts",
+   "drafted": false,
+   "ts": "2026-11-25T19:08:57.459745+00:00"
+  },
+  {
+   "author": "youtube:el stan18",
+   "vod": "",
+   "offset": -1,
+   "title": "¿Rockstar cierra el GTA 6 para PC?😔😔🎮🎮#videojuegos #playstation #xbox #gta6 #memes #parodia",
+   "drafted": false,
+   "ts": "2026-11-25T19:09:48.759971+00:00"
+  },
+  {
+   "author": "youtube:ピンシー　",
+   "vod": "",
+   "offset": -1,
+   "title": "マンディの本音 #gta #gta6 #グラセフ",
+   "drafted": false,
+   "ts": "2026-11-25T19:09:49.602088+00:00"
+  },
+  {
+   "author": "youtube:shreeman legend live",
+   "vod": "",
+   "offset": -1,
+   "title": "Today's Grind - Get Rich & Get Wheels | GTA 6 | Day 6",
+   "drafted": false,
+   "ts": "2026-11-25T19:09:50.505445+00:00"
+  },
+  {
+   "author": "youtube:vekt0",
+   "vod": "",
+   "offset": -1,
+   "title": "Где сейчас ВСЕ герои GTA после выхода GTA 6? 🔥 #shorts  #gta",
+   "drafted": false,
+   "ts": "2026-11-25T19:09:51.441057+00:00"
+  },
+  {
+   "author": "youtube:zyro flux",
+   "vod": "",
+   "offset": -1,
+   "title": "He Saved His Son To Win A PS5 & GTA 6! 😱🔥 #youtubeshorts",
+   "drafted": false,
+   "ts": "2026-11-25T19:10:42.387695+00:00"
+  },
+  {
+   "author": "youtube:willy shorts",
+   "vod": "",
+   "offset": -1,
+   "title": "Willyrex enseña cómo ganar 100.000$ fácil en GTA 6 😳🏦 #Willyrex #GTA6 #Gameplay",
+   "drafted": false,
+   "ts": "2026-11-25T19:10:43.200452+00:00"
+  },
+  {
+   "author": "twitch:kaicenat",
+   "vod": "2939504732",
+   "offset": 17420.0,
+   "title": "ron and marlon?",
+   "drafted": false,
+   "ts": "2026-11-25T19:10:43.927411+00:00",
+   "frames": []
   }
  ],
  "published": [
@@ -22510,6 +22674,66 @@
    },
    "corr": false,
    "since": "2026-11-25T18:52:06.142421+00:00"
+  },
+  {
+   "item": {
+    "title": "\"Missing\" GTA 6 Prostitutes Explained WIth In-Game PeekHole News Story",
+    "link": "https://www.gtaboom.com/missing-gta-6-prostitutes-explained-with-in-game-peekhole-news-story-94db",
+    "summary": "Grand Theft Auto VI drops street encounters that restored health, and its Daily Globe credits OnlyFans parody Peekhole with curbing street sex work.",
+    "published": "2026-11-25T18:51:00+00:00",
+    "source": "GTA BOOM",
+    "site_name": "GTA BOOM",
+    "trust": "medium",
+    "text": "Rockstar has a habit of removing a familiar Grand Theft Auto feature and then writing the reason into the world itself and Grand Theft Auto VI just pulled the same trick trick again.\nIn case you haven't played the game yet or didn't notice it at all, the game ships without hireable street sex workers, making it the first in the mainline franchise to drop the controversial mechanic. Instead of leaving it at a design choice, Rockstar Games planted a fake news story in the game to explain where everyone went.\nThe mechanic goes back to Grand Theft Auto III in 2001 and survived every mainline game through Grand Theft Auto V. In GTA 6, it is gone. Strip clubs and private dances are still part of the game, but you cannot pick anyone up off the street for a health top-up anymore. What you can do is read though is read about it. A Daily Globe story on the in-game phone, headlined that Peekhole has cut the number of sex workers in the capital and credited to one Oliver Fairfax, plays it as a civic crisis, with the government rattled by the lowest street numbers on record.\nPeekhole is the game's OnlyFans parody, the subscription platform plastered on posters around the Jack of Hearts and pushed on the radio.\nThe story doesn't appear on every phone though. We learned about the Peekhole item from @jevolutionCL on X. We instead got a news story titled \"The sexy struggles of the Port Gellhorn strip club,\" the same place you danced at as part of The Afternoon Delight mission.\nRockstar did also give the straight answer. The studio told the press that GTA 6 is built around Jason and Lucia as a couple on the run, so it kept only the systems that served their story. Hiring strangers for a health boost did not fit two lovers trying to make it out together. The real-world design reason is clean and on the record.\nThe in-world explanation is something Rockstar has pulled before. Grand Theft Auto IV shipped with no Ammu-Nation stores in Liberty City. Rockstar never explained why, but it did give an in-universe explanation, with Mayor Julio Ochoa runing strict gun-control laws and shutting the chain down, a detail you picked up from Dimitri Rascalov's dialogue and the odd Liberty Tree article.\nIronically, this isn't the only link between GTA IV and GTA VI.\nGTA 6 goes one better. Rockstar gave the design reason out loud and still bothered to write the in-world one. A throwaway story treats a decline in street sex work as a Peekhole success. Nobody needed it. The interview already c",
+    "extra": {
+     "image": "https://media.gtaboom.com/variants/1920/media/images/36/9a/missing-gta-6-prostitutes-explained-with-in-game-peekhole-news-story-2.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "Куда пропали уличные жрицы\n\nВ шестерке убрали классическую механику, но Rockstar гениально объяснили это в лоре через пародию на OnlyFans под названием Peekhole.\n\n❤️ — Логично, база\n👎 — Верните старое",
+    "card_title": "КУДА ДЕЛИСЬ УЛИЧНЫЕ ЖРИЦЫ",
+    "reason": "Interesting in-game detail and lore about cut features explained via parody platform Peekhole in GTA 6.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-25T19:08:31.353060+00:00"
+  },
+  {
+   "item": {
+    "title": "Геймерша лишила бывшего парня доступа к аккаунту Xbox с GTA VI и стала играть сама — он пожаловался в полицию",
+    "link": "https://ixbt.games/news/2026/11/25/geimersa-lisila-byvsego-parnia-dostupa-k-akkauntu-xbox-s-gta-vi-i-stala-igrat-sama-on-pozalovalsia-v-policiiu.html",
+    "summary": "Мужчина не оценил происходящее и решил обвинить её в мошенничестве.",
+    "published": "2026-11-25T18:13:00+00:00",
+    "source": "iXBT.games",
+    "site_name": "iXBT.games",
+    "trust": "medium",
+    "text": "Мужчина не оценил происходящее и решил обвинить её в мошенничестве.\nНа фоне релиза Grand Theft Auto VI в полицию поступило необычное обращение от мужчины. Он вызвал стражей правопорядка после того, как его бывшая девушка заблокировала доступ к своему аккаунту на Xbox.\nЖительница штата Вашингтон Сиара Бенсон (Ciara Benson), известная как ciarabenson99, рассказала о случившемся. Бывший партнёр использовал её Xbox-аккаунт несколько лет. Она заметила, что он купил на него GTA VI и после выхода игры девушка решила вернуть себе аккаунт:\nЯ зашла в свой аккаунт, удалила все устройства и вышла из всех учётных записей, поменяла пароль и добавила ограничение, теперь он мой. Не хочешь платить за сына? Хорошо — у меня появилась новая игра, ****.\nВ итоге её бывший позвонил 911 и обвинил девушку в «мошенничестве с кредитной картой». Вскоре с ней связались полицейские и провели опрос:\nВ субботу утром мне позвонили из [полиции] и задавали вопросы по этому поводу. Они сказали, что должны заполнить отчёт об инциденте. Я сообщила им, что сменила пароли в своём аккаунте и удалила оттуда всю платёжную информацию, потому что ни одна из привязанных карт не была моей.\nПравоохранители сообщили, что не обнаружили признаков преступления. В ходе беседы полицейские, рассказывает блогерша, интересовались, понравилась ли ей GTA VI. По словам Бенсон, она не очень увлекается видеоиграми и «немного» прошла, а её 7-летнему сыну играть в такое нельзя.\nНе пропускайте наши новостиДобавьте сайт в предпочитаемые источники, чтобы видеть нас чащеДобавить в Google",
+    "extra": {
+     "image": "https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1746402/media-a42fd623632e8f9cadf676bcc001f3d7ddec4b536d177f7872f7bf4f364e8f57.png"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "ЭКС-ДЕВУШКА УКРАЛА АККАУНТ С GTA 6\n\nЖительница США отжала у бывшего доступ к своему аккаунту Xbox, на который он купил GTA 6, и оставила игру себе. Чел знатно сгорел и вызвал полицию, но копы состава преступления не нашли и заодно сами поинтересовались, как ей новинка. Вот это база.\n\n❤️ — Тоже отобрал бы аккаунт\n👎 — Жалко пацана",
+    "card_title": "ПОЛИЦИЯ ИЗ-ЗА GTA 6",
+    "reason": "Забавная криминальная история из-за GTA 6 с полицией",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-25T19:08:44.516602+00:00"
   }
  ]
 }
