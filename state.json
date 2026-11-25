@@ -4287,7 +4287,37 @@
   "cc97f496a80a813c": "2026-11-25T16:38:32.319102+00:00",
   "28ea5c381c38affc": "2026-11-25T16:38:32.632396+00:00",
   "64c01873ac162835": "2026-11-25T16:38:32.942497+00:00",
-  "09b7cf7a079e9484": "2026-11-25T16:38:33.247587+00:00"
+  "09b7cf7a079e9484": "2026-11-25T16:38:33.247587+00:00",
+  "2714573ff56a7a8b": "2026-11-25T16:43:44.706756+00:00",
+  "b1fece8c6068a22d": "2026-11-25T16:44:55.819619+00:00",
+  "9f02dda418d3e6dd": "2026-11-25T16:44:58.121114+00:00",
+  "1731c2f6a32f854f": "2026-11-25T16:45:18.528739+00:00",
+  "9d302fab89e79bb2": "2026-11-25T16:45:20.475629+00:00",
+  "89e214683f95f517": "2026-11-25T16:46:40.384256+00:00",
+  "ba66eb0217ab3444": "2026-11-25T16:46:41.143332+00:00",
+  "9d801df9cbcafff9": "2026-11-25T16:47:01.016736+00:00",
+  "51259bfb6c058618": "2026-11-25T16:47:03.388065+00:00",
+  "d7f556395d0ae32e": "2026-11-25T16:47:06.537006+00:00",
+  "2cdeedf7e52095dd": "2026-11-25T16:47:07.864383+00:00",
+  "c464cb0598b6dfa4": "2026-11-25T16:47:08.585172+00:00",
+  "38a4372a810dfa5d": "2026-11-25T16:47:09.389118+00:00",
+  "73517a86c929271b": "2026-11-25T16:48:00.389555+00:00",
+  "c844ded21d3ea8a5": "2026-11-25T16:48:01.233222+00:00",
+  "d12c7cf57b203635": "2026-11-25T16:48:02.054213+00:00",
+  "29c44a337803570f": "2026-11-25T16:48:02.983978+00:00",
+  "475d008fe0b67426": "2026-11-25T16:48:54.390924+00:00",
+  "4af6faf8c818c895": "2026-11-25T17:02:31.101901+00:00",
+  "3df0ba94d641a346": "2026-11-25T17:02:31.101954+00:00",
+  "9da15fcad3e615d3": "2026-11-25T17:02:38.224476+00:00",
+  "2de0abdd350490bc": "2026-11-25T17:02:52.802191+00:00",
+  "01bca2f1cac5857f": "2026-11-25T17:02:54.268158+00:00",
+  "a1b5ede6458a447e": "2026-11-25T17:03:10.128217+00:00",
+  "9cb488c024474d6a": "2026-11-25T17:03:44.279716+00:00",
+  "2294648cb13e1135": "2026-11-25T17:04:13.621889+00:00",
+  "418b087bb7cc6b1e": "2026-11-25T17:04:28.304637+00:00",
+  "7ae339830f768823": "2026-11-25T17:04:50.930198+00:00",
+  "3b89d70937895525": "2026-11-25T17:05:02.393597+00:00",
+  "a6779fd306db4c46": "2026-11-25T17:05:19.254526+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -7138,1337 +7168,28 @@
   "b95193d1b74f41dc": "2026-11-25T16:04:30.166615+00:00",
   "5b9f36dddb91bae5": "2026-11-25T16:21:29.058331+00:00",
   "786dca1ae3226054": "2026-11-25T16:37:05.636746+00:00",
-  "b8449540226c61f2": "2026-11-25T16:37:05.993742+00:00"
+  "b8449540226c61f2": "2026-11-25T16:37:05.993742+00:00",
+  "cf3c1f1bba0e0f63": "2026-11-25T16:43:44.706756+00:00",
+  "aafda48bc1dd5d2a": "2026-11-25T16:44:55.819619+00:00",
+  "75bffd65c05d8555": "2026-11-25T16:44:58.121114+00:00",
+  "6b830bb4f8f411c4": "2026-11-25T16:45:18.528739+00:00",
+  "7383f605af8b0dff": "2026-11-25T16:45:20.475629+00:00",
+  "4185101dd0616745": "2026-11-25T16:46:40.384256+00:00",
+  "e38bddf1b46cc4d7": "2026-11-25T16:46:41.143332+00:00",
+  "9413144efa21a6c5": "2026-11-25T16:47:01.016736+00:00",
+  "350575d1c5747336": "2026-11-25T16:47:03.388065+00:00",
+  "2c74d698cdf171f5": "2026-11-25T17:02:31.101901+00:00",
+  "30c5ed6590d3a4a2": "2026-11-25T17:02:31.101954+00:00",
+  "34732c55cea26820": "2026-11-25T17:02:38.224476+00:00",
+  "51c12b1c22574786": "2026-11-25T17:02:52.802191+00:00",
+  "a408425e7e4adeb7": "2026-11-25T17:02:54.268158+00:00",
+  "b64e0dda682e301d": "2026-11-25T17:03:10.128217+00:00",
+  "624ee0468a552043": "2026-11-25T17:03:44.279716+00:00",
+  "a714cfdbdcba6466": "2026-11-25T17:04:13.621889+00:00",
+  "1316404c8eccd66e": "2026-11-25T17:04:28.304637+00:00",
+  "32b7ca6e93619c2b": "2026-11-25T17:04:50.930198+00:00"
  },
  "recent": [
-  {
-   "title": "GTA 6 Streams Hit With Indiscriminate Copyright Claims by Reggaeton Artist",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-23T11:16:43.555229+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Over half of console players in the US played GTA 6 on launch day, according to Circana",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-23T11:16:43.906659+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 \"girlfriend simulator\" complaints \"are real\" at first, ex-Rockstar lead says",
-   "source": "GamesRadar+",
-   "trust": "high",
-   "status": "published",
-   "ts": "2026-11-23T11:17:13.224854+00:00",
-   "card_title": "ОЦЕНКА ЭКС-РАЗРАБОТЧИКА ROCKSTAR"
-  },
-  {
-   "title": "GTA 6 review bomb somehow sees Zelda: Ocarina of Time catch strays",
-   "source": "GamesRadar+",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-23T11:17:15.928463+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Грудастые девушки раскритиковали GTA VI — у «горячих» женщин большие попы, но маленькая грудь",
-   "source": "iXBT.games",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-23T11:21:07.987575+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "«Не сдавайтесь»: GTA VI раскрывается не сразу — ветеран Rockstar объяснил, через сколько часов «начинается магия»",
-   "source": "iXBT.games",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-23T11:21:21.979564+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 actor told developers put stop to anti-trans violence in game",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-23T11:21:23.333213+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 players spot uncanny lookalike of WWE's Rhea Ripley hiding in Vice City",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-23T11:21:24.779706+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 PS5 Update 1.002.002 Rolling Out Now",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-23T11:37:17.667393+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6: Find and break into Freddie Gibbs’ doomsday compound in Grand Theft Auto 6",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-23T11:37:17.667473+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Chapter 3 Mission List: Every Mission in Order & Point of No Return",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-23T11:37:17.667555+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "As GTA 6 gets review-bombed on Metacritic, GTA fans have started review-bombing Ocarina of Time in response",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-23T11:37:17.667629+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Kit Car - Wild Hog Point",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-23T11:37:17.667693+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Kit Car - Casanova Island",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-23T11:37:17.667754+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Kit Car locations: How to restore the fourth car for Wyman",
-   "source": "PC Gamer",
-   "trust": "high",
-   "status": "dup",
-   "ts": "2026-11-23T11:37:17.695108+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 generates $3.79bn in day one sales to become the biggest entertainment launch in history",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-23T11:37:18.301868+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Streams Hit With Indiscriminate Copyright Claims by Reggaeton Artist",
-   "source": "Polygon",
-   "trust": "high",
-   "status": "published",
-   "ts": "2026-11-23T11:37:31.359300+00:00",
-   "card_title": "СТРАЙКИ ЗА СТРИМЫ GTA 6"
-  },
-  {
-   "title": "GTA 6’s Free Pre-Order Bonus Now Being Offered as Paid Store Purchase",
-   "source": "Insider Gaming",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-23T11:38:23.326123+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Chapter 3 Mission List: Every Mission in Order & Point of No Return",
-   "source": "VGC",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-23T11:38:28.101087+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "As GTA 6 gets review-bombed on Metacritic, GTA fans have started review-bombing Ocarina of Time in response",
-   "source": "VGC",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-23T11:38:30.817402+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "How to rob ATMs in GTA 6 explained: Get the car upgrade you need",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-23T11:38:35.575663+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 First Update 1.002.002 Released on November 23",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-23T11:38:36.796016+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Update 01.002.002 for GTA VI is currenty being rolled out",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-23T11:38:37.990900+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Update 01.002.002—All Changes & Download Size",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-23T11:54:03.672870+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "How To Get A Key Cloner In GTA 6",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-23T11:54:03.710153+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "I Play Rocky is the spiritual antithesis of GTA VI",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-23T11:54:45.146440+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Где найти подводную станцию в GTA 6",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-23T11:54:46.324729+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "WoW Forever Breaks Records While PC Players Wait for GTA 6",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-23T11:54:50.025297+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "В GTA VI убрали проституток из-за фокуса на сюжете",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-23T11:54:51.750348+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 sells 44.9M copies, makes $4.0B+",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-23T11:54:55.262464+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6's Billboard Takes Aim at Anti-Trans Panic",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-23T11:54:56.507786+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "How to Flip Cars in GTA 6: Step-By-Step Guide",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-23T12:11:10.724312+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Kit Car - Watson Bay",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-23T12:11:10.724394+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Where to Find the Hulk in GTA 6",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-23T12:11:10.918492+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Россияне лишились доступа к GTA Online и RDR — возникли проблемы с лаунчером Rockstar Games",
-   "source": "iXBT.games",
-   "trust": "medium",
-   "status": "queued",
-   "ts": "2026-11-23T12:11:43.834604+00:00",
-   "card_title": "ОТКЛЮЧЕНИЕ GTA ONLINE"
-  },
-  {
-   "title": "GTA 6: Find and break into Freddie Gibbs’ doomsday compound in Grand Theft Auto 6",
-   "source": "VGC",
-   "trust": "high",
-   "status": "queued",
-   "ts": "2026-11-23T12:11:46.101677+00:00",
-   "card_title": "ФРЕДДИ ГИББС: БУНКЕР"
-  },
-  {
-   "title": "Пенсионерам дали попробовать GTA VI — им так понравилось, что теперь они просят её в подарок на Рождество",
-   "source": "iXBT.games",
-   "trust": "medium",
-   "status": "queued",
-   "ts": "2026-11-23T12:12:03.057420+00:00",
-   "card_title": "ПЕНСИОНЕРЫ И GTA VI"
-  },
-  {
-   "title": "First GTA VI Patch Release Time Revealed, Download Size Confirmed",
-   "source": "Rockstar Intel",
-   "trust": "medium",
-   "status": "queued",
-   "ts": "2026-11-23T12:12:30.085468+00:00",
-   "card_title": "ПАТЧ GTA VI: РАЗМЕР И ВРЕМЯ"
-  },
-  {
-   "title": "GTA 6 Update 01.002.002—All Changes & Download Size",
-   "source": "Insider Gaming",
-   "trust": "medium",
-   "status": "queued",
-   "ts": "2026-11-23T12:13:00.786167+00:00",
-   "card_title": "ОБНОВЛЕНИЕ GTA 6 01.002.002"
-  },
-  {
-   "title": "Ocean View Hotel GTA 6 Location Guide: Where to find the Vapid ’55 Stainer",
-   "source": "VGC",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-23T12:13:40.145783+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "How to Flip Cars in GTA 6: Step-By-Step Guide",
-   "source": "Insider Gaming",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-23T12:14:15.588574+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 PS5 Players Suffering Game Crashes – With Some Consoles Even Dying On Players",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-23T12:14:17.137666+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 выйдет на ПК 23 ноября? Всё об утечке Cyberleek",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-23T12:14:25.102401+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Can You Replay Missions in GTA 6? When to Save and How to Get Missables",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-23T12:14:47.408555+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 раскрыла измену: девушка вычислила неверного бойфренда благодаря игре",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-23T12:15:08.622489+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "How smart network planning helped Clemson handle the GTA 6 launch",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-23T12:15:28.428930+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 is already the most preordered game ever on PlayStation and Xbox — and launch day hasn't even arrived",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-23T12:15:51.043454+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "First GTA 6 PS5 Patch Live Now, Get All the Details Here",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-23T12:31:08.585422+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Here's how to get Vanessa's laptop password and find Auntie's Place in La Perle in GTA 6",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-23T12:31:08.585511+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Patch Update 01.002.002 Is Live on PS5 and Xbox Series X – Patch Notes",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-23T12:31:08.585599+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "First GTA 6 PS5 Patch Live Now, Get All the Details Here",
-   "source": "Push Square",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-23T12:31:11.414071+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6: Recover Jason’s stash from Key Lento in Grand Theft Auto 6",
-   "source": "VGC",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-23T12:31:13.932800+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA's treatment of women 'has not been good', says Rockstar vet delighted by 'long overdue' female protagonist in GTA 6",
-   "source": "PC Gamer",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-23T12:31:28.067638+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 laptop password and where to find Auntie's Place in La Perle",
-   "source": "PC Gamer",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-23T12:31:35.912117+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "🇺🇸 I thought GTA VI had gone woke. This bit changed my mind way too fast! 🤣 Writer: Mhedi",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-23T12:31:37.154689+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Big pharmas ride GTA VI’s promotional coattails in tribute to global phenomenon",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-23T12:31:38.169858+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Credits 2 Sikkim Artists in Characters Team",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-23T12:31:39.328377+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Rockstar спрятала в GTA 6 девушку из первого трейлера и подшутила над фанатскими теориями",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-23T12:31:40.741277+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Has Already Sold 45 Million Copies, Says Research Firm",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-23T12:47:59.270154+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Has Already Sold 45 Million Copies, Says Research Firm",
-   "source": "Insider Gaming",
-   "trust": "medium",
-   "status": "queued",
-   "ts": "2026-11-23T12:48:28.674136+00:00",
-   "card_title": "ПОЧТИ 45 МИЛЛИОНОВ КОПИЙ"
-  },
-  {
-   "title": "GTA 6 Has Given Carly Rae Jepsen's Most Underrated Song Another Shot in the Charts",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-23T12:48:31.383059+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "US Education Department uses GTA 6 and Google Gemini to argue against trans kids in sports",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-23T12:48:32.532247+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Бесплатный DLC для GTA 6 за предзаказ теперь доступен для отдельной покупки на Xbox за $4,99",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-23T12:48:34.623030+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 для ПК: GTA 5 набирает популярность в Steam, энтузиасты работают над неофициальным портом",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-23T12:48:36.434685+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Take Two Can Retest $265 in 2026 With This December GTA VI Announcement",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-23T12:48:37.799264+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "В Ингушетии бойкотировали GTA 6",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-23T12:48:38.978598+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GameStop CEO Ryan Cohen Criticizes GTA 6 Skipping Physical Discs: ‘When Buying a Game, Players Should Be Able to Sell It, Trade It, or Lend It’",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-23T12:48:40.537427+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "'GTA 6' on PC update: What we know about when it releases",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-23T13:05:11.739285+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "DAta: GTA VI the biggest entertainment release ever",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-23T13:05:11.885870+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Where To Find Cut-Off Tool in GTA 6 To Open Containers",
-   "source": "Insider Gaming",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-23T13:05:15.347863+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Metacritic's user review problem worsens, as GTA 6's launch prompts review-bombing for completely unrelated games like Soul Calibur and The Ocarina of Time",
-   "source": "Eurogamer",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-23T13:05:17.888272+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6: Don’t Finish Chapter 2 Before Doing These Things",
-   "source": "GameSpot",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-23T13:05:20.043721+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 cast: Every confirmed voice actor and character",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-23T13:05:26.496902+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Rockstar пришлось приложить кучу усилий, чтобы проработать интимную близость между Джейсоном и Лусией в зависимости от уровня их отношений",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-23T13:05:28.758358+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 First Major Update Officially Released",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-23T13:05:33.942467+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Makes $3.79 Billion in One Day as Its Soundtrack Takes Over Spotify",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-23T13:05:56.147460+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Building a Life guide: how to assemble the coffee table with Lucia",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-23T13:06:18.652632+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "'GTA 6' sales left every 2026 entertainment release in the dust. Here's how much.",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-23T13:22:16.091718+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Here's how to steal the Schafter V12 in GTA 6",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-23T13:22:16.091805+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "How to steal the Schafter V12 in GTA 6",
-   "source": "PC Gamer",
-   "trust": "high",
-   "status": "dup",
-   "ts": "2026-11-23T13:22:16.095275+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Where to Find The Invetero Coquette D10 Supercar in GTA 6—Randy’s Wishlist Car Locations",
-   "source": "Insider Gaming",
-   "trust": "medium",
-   "status": "dup",
-   "ts": "2026-11-23T13:22:16.188748+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA VI has reportedly already sold about 45 million copies",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-23T13:22:16.363018+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Where To Find the Snap Gun in GTA 6—Lockpick Doors and Avoid Alarms During Robberies",
-   "source": "Insider Gaming",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-23T13:22:19.752600+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "How to Play GTA 6 in First Person With the Camera Glitch",
-   "source": "GTA BOOM",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-23T13:22:27.524782+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "\"Cyberpunk 2 is cancelled,\" says the RPG's director after entering a \"GTA 6-induced\" depression",
-   "source": "GamesRadar+",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-23T13:23:04.434866+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 revenue \"roughly equal\" to Spider-Man: Brand New Day and The Odyssey combined, analyst says",
-   "source": "GamesRadar+",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-23T13:23:13.701350+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Didn’t Include Darts Because It Needed “A Lot of Work” to “Get It Tuned Right”",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-23T13:23:38.991050+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "'GTA 6' sales left every 2026 entertainment release in the dust. Here's how much.",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-23T13:24:01.934149+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "'This community will have it emulated inside a week': Cyberleek is set to release the final piece of their GTA 6 leak today — here's what that means for the PC version",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-23T13:24:25.289266+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Update 01.002.002 Rolling Out Now, Although There Are No Patch Notes Yet",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-23T13:40:37.013351+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Даже Тэйлор Свифт с ее турами такое не снилось: GTA VI заработала более $4 млрд за первые четыре дня после релиза и разошлась тиражом почти 45 млн копий, подсчитали аналитики",
-   "source": "iXBT.games",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-23T13:41:28.421719+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Update 01.002.002 Rolling Out Now, Although There Are No Patch Notes Yet",
-   "source": "IGN",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-23T13:42:09.322798+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "У каждого NPC в GTA 6 есть своя история",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-23T13:42:30.377588+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Motion Capture Actor Has No Idea Who He Is in the Game, Sparks Social Media Hunt to Find His Character",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-23T13:42:54.302839+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Sony and Microsoft are blocking public access to GTA 6 and demanding $70 to launch it on another profile.",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-23T13:43:16.954336+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Sony и Microsoft блокируют общий доступ к GTA 6 и требуют $70 за запуск на другом профиле",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-23T13:43:40.564305+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA VI inspires Arapahoe County game mashups",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-23T13:44:01.539627+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 gets a 603MB PS5 update, but Rockstar has not explained what it changes",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-23T13:59:30.539949+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Is Approaching An Absurd New Sales Milestone, Report Says",
-   "source": "GameSpot",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-23T13:59:50.576788+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6’s First Patch Is Rolling Out, But Rockstar Hasn’t Said What It Does (Yet)",
-   "source": "GameSpot",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-23T13:59:52.032696+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Маркетинг на $150 млн за два месяца до старта: чему релиз GTA 6 учит B2B и e-commerce",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-23T14:00:43.872726+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "‘GTA VI’ success causes spike in flight searches to Miami",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-23T14:01:07.390907+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6’s Podcasts Include A Clever Nod To Its Predecessors’ Lead Trio",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-23T14:01:29.419239+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 brings back Niko Bellic’s actor, but Rockstar’s credits use a different name",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-23T14:01:52.541586+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Every NPC in GTA 6 has a story of their own",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-23T14:02:13.842453+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "How to Unlock Tommy Vercetti’s Shirt in GTA 6 – Vice City Easter Egg Explained",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-23T14:17:49.308314+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "How to Get Tommy Vercetti Outfit & Bike in GTA 6—Vice City Easter Egg & Location, Explained",
-   "source": "Insider Gaming",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-23T14:18:01.693398+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Where To Find Armored Trucks in GTA 6—A Classic Blitz Play Trophy Guide",
-   "source": "Insider Gaming",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-23T14:18:19.391038+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Doja Cat Angry After Her Music Is Left Out of GTA 6",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-23T14:19:52.681127+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 для ПК: даты нет, но эмулятор уже в разработке",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-23T14:20:14.191636+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "How Old Are Jason and Lucia in GTA 6? Driver’s Licenses Reveal Their Ages",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-23T14:20:36.593065+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Why You Probably Shouldn't Steal a Tesla in GTA 6",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-23T14:35:17.348675+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Rockstar обвинили в плагиате из-за оружия в GTA VI",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-23T14:35:17.348768+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 заработала $4 млрд за выходные — больше Spider-Man и The Odyssey",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "published",
-   "ts": "2026-11-23T14:35:32.497252+00:00",
-   "card_title": "GTA 6 — $4 МЛРД ПРОДАЖ"
-  },
-  {
-   "title": "'The System Is Not Good Vs. Evil': Why GTA 6's Criminal Profile Mechanic Is Dividing Fans",
-   "source": "IGN",
-   "trust": "high",
-   "status": "queued",
-   "ts": "2026-11-23T14:35:34.745906+00:00",
-   "card_title": "CRIMINAL PROFILE МЕХАНИКА"
-  },
-  {
-   "title": "Best Funny GTA 6 Clips—Glitches, NPC Encounters, and Accidents",
-   "source": "Insider Gaming",
-   "trust": "medium",
-   "status": "queued",
-   "ts": "2026-11-23T14:35:54.095454+00:00",
-   "card_title": "ЛУЧШИЕ ГЛИТЧИ GTA 6"
-  },
-  {
-   "title": "GTA 6 can run at 60fps on Xbox Series X if you use a glitch, but there's a catch",
-   "source": "Eurogamer",
-   "trust": "high",
-   "status": "queued",
-   "ts": "2026-11-23T14:36:21.716522+00:00",
-   "card_title": "ГЛИЧТ 90FPS НА XBOX"
-  },
-  {
-   "title": "Rumour: LA Noire 2 Is Rockstar's Next Game",
-   "source": "Push Square",
-   "trust": "high",
-   "status": "queued",
-   "ts": "2026-11-23T14:36:54.224967+00:00",
-   "card_title": "LA NOIRE 2 — НОВАЯ ИГРА"
-  },
-  {
-   "title": "Shang-Chi star Simu Liu says GTA 6's Lucia will appreciate you buying Avengers: Doomsday tickets",
-   "source": "GamesRadar+",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-23T14:37:24.622567+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Missing Persons: Every Missing Person Location and How to Find Them",
-   "source": "VGC",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-23T14:37:26.802717+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Every Easter Egg In GTA 6—Locations & How To Find Them",
-   "source": "Insider Gaming",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-23T14:37:40.247396+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "How to find Jet Ski Dog in GTA 6 and get rescued at sea",
-   "source": "GamesRadar+",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-23T14:38:13.886366+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Why You Probably Shouldn't Steal a Tesla in GTA 6",
-   "source": "IGN",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-23T14:38:48.041625+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Как угнать танк в GTA 6 и получить почти неуязвимую машину разрушения",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-23T14:39:10.198215+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6: All 35 requirements to unlock the ‘A Long Road’ trophy",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-23T14:39:31.125591+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6's First Official Post-Release Update Has A Catch",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-23T14:55:14.140469+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Update Now Live On Xbox Series X|S, Players Share Their First Impressions",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-23T14:55:14.140529+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Grand Theft Auto 6 has received a new update which fixes autosaving",
-   "source": "VGC",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-23T14:55:43.860284+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6's First Official Post-Release Update Has A Catch",
-   "source": "Polygon",
-   "trust": "high",
-   "status": "error",
-   "ts": "2026-11-23T14:57:11.654792+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 goth girl Vicki already has thirsty fans forgetting about possible serial killer Mandy",
-   "source": "GamesRadar+",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-23T14:57:12.449825+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Update Now Live On Xbox Series X|S, Players Share Their First Impressions",
-   "source": "Pure Xbox",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-23T14:57:28.658843+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "How Old Are GTA 6's Jason & Lucia? Now We Officially Know",
-   "source": "Push Square",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-23T14:57:51.973120+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Фанат получил платиновый трофей в GTA 6 за 50–70 часов",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-23T14:58:12.773518+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 — где находится военная база Mile Zero и как на неё проникнуть",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-23T14:58:34.812894+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "I benched my gaming PC for Grand Theft Auto 6 on Xbox Series S. Here's the 30 FPS reality.",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-23T14:58:56.693580+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "How To Get The ‘Best’ Ending In ‘GTA 6’",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-23T15:14:27.815976+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "New Hunger Games Movie Blows Past Expectations After Some Feared GTA 6 Could Limit Its Reach",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-23T15:14:27.816068+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Update Now Live On Xbox Series X|S, Includes Seven Official Fixes",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-23T15:14:27.816147+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Теперь дело за умельцами: хакеры слили exe-файл Xbox-версии Grand Theft Auto VI",
-   "source": "iXBT.games",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-23T15:14:45.294370+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Should you choose the cut or pure drugs in GTA 6?",
-   "source": "PC Gamer",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-23T15:15:30.607411+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "New Hunger Games Movie Blows Past Expectations After Some Feared GTA 6 Could Limit Its Reach",
-   "source": "GameSpot",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-23T15:15:43.290036+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Для GTA 6 вышел первый патч — со сменой погоды и устранением багов",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-23T15:16:38.767636+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 получила обновление, исправляющее проблемы с вылетами и автосохранениями",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-23T15:17:00.637179+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Update Fixes Phone Call Bugs That Blocked Story Progress",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-23T15:17:22.635298+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "The Secret Controls GTA 6 Doesn't Tell You About — How To Flip Your Car, Flip the Bird, and Much More",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-23T15:33:29.076160+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA VI Update 01.002.002 Patch Notes Released",
-   "source": "Rockstar Intel",
-   "trust": "medium",
-   "status": "dup",
-   "ts": "2026-11-23T15:33:29.192778+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 just got a patch that fixed a progression bug on PS5 and Xbox Series X/S",
-   "source": "Eurogamer",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-23T15:33:58.881062+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 update gives players losing progress to crashes a lifeline",
-   "source": "GamesRadar+",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-23T15:34:00.222242+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "The Secret Controls GTA 6 Doesn't Tell You About — How To Flip Your Car, Flip the Bird, and Much More",
-   "source": "IGN",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-23T15:34:31.639133+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 players urged to avoid major glitch which softlocks your save",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-23T15:34:52.696120+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "You Don't Need a PS5 Pro. GTA 6 Still Stuns on the Xbox Series S",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-23T15:35:14.676684+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Sees First Post-Launch Patch - but Don't Expect Big Changes",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-23T15:35:25.737528+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Фанаты GTA 6 начали ревью-бомбить SoulCalibur из-за рейтинга на Metacritic",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-23T15:35:49.468649+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "A ‘GTA 6’ Player Finds Tommy Vercetti’s Shirt, Portal To Original Vice City",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-23T15:51:57.474499+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Дожди в Леониде, звонки по сюжету и баг с розыском: что изменил первый патч GTA 6 после релиза",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-23T15:52:02.445480+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Хейтеры GTA 6 уже не знают, куда лицо спрятать: игра продалась тиражом в 45 миллионов копий за выходные",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-23T15:52:04.010102+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "До появления GTA 6 на ПК осталось... Cyberleek слила exe-файл в Сеть",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-23T15:52:50.417701+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "An Absurd Little Immersion-Breaking Hiccup That Reminded Me GTA 6 Isn’t Perfect",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-23T16:08:46.691421+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6's First Big Patch Finally Fixes A Major Fan Complaint",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-23T16:08:46.691503+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Power Trip's \"Mutual Death Warrant\" From GTA 6 Now Streaming Everywhere",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-23T16:08:46.691591+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Atlantic, Rockstar Drop Deluxe \"GTA VI\" LP With 23 More Tracks",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-23T16:08:46.691670+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6’s Preorder DLC Is Now Available By Itself For $5",
-   "source": "GameSpot",
-   "trust": "high",
-   "status": "dup",
-   "ts": "2026-11-23T16:08:46.759582+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Первый уик-энд GTA 6: продажи, рекорды, отзывы и главные итоги",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-23T16:25:17.475402+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "60 hours in GTA 6 has me yearning for an online Leonida",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-23T16:25:17.475491+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "How to find golden Lamborghini Huracan and Urus in GTA 6",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-23T16:25:17.475563+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "How to find Paul Walker's Fast and Furious car in GTA 6",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-23T16:25:17.786135+00:00",
-   "card_title": ""
-  },
   {
    "title": "GTA 6's First Patch Fixes Some Crashes And Bugs",
    "source": "Google News (EN)",
@@ -15444,6 +14165,142 @@
    "status": "dup",
    "ts": "2026-11-25T16:37:05.993808+00:00",
    "card_title": ""
+  },
+  {
+   "title": "Where To Find Pegassi Gold Rope Infernus In GTA 6—Fastest Cars Location & Stats",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "dup",
+   "ts": "2026-11-25T16:43:44.706790+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "All GTA 6 Nude Scenes—Every Sex Scene in GTA 6",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "queued",
+   "ts": "2026-11-25T16:44:03.368961+00:00",
+   "card_title": "НЮ СЦЕНЫ GTA 6"
+  },
+  {
+   "title": "Rob Nelson explains why Tennis & Theatres was removed from GTA 6",
+   "source": "Rockstar Intel",
+   "trust": "medium",
+   "status": "queued",
+   "ts": "2026-11-25T16:44:05.332462+00:00",
+   "card_title": "ТЕННИС И КИНО УДАЛЕНЫ"
+  },
+  {
+   "title": "Where To Find Progen Purple Drank Emerus In GTA 6—Fastest Cars Location & Stats",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-25T16:44:56.515890+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Is Reportedly Frying Some PS5 Consoles",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-25T16:46:39.462901+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Grand Theft Auto 6 writer leaves social media following online harassment",
+   "source": "VGC",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-25T16:46:40.384379+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "PS5 And Xbox Series X|S Console Sales Surged Just Before GTA 6 Came Out",
+   "source": "GameSpot",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-25T16:46:41.143440+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Everything you should do before the final mission of Chapter 2 in GTA 6",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-25T16:47:01.016850+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "«Божечки мои, вы это видели?»: GTA VI «убила» консоль стримерши в прямом эфире",
+   "source": "iXBT.games",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-25T16:47:03.388178+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 - Pegassi Infernus",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-25T17:02:31.101936+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Теннис, кино и крафт — что вырезали из GTA 6",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-25T17:02:31.101971+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 is \"pure sorcery,\" Skyrim and Fallout lead says",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-25T17:02:34.871187+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Owes Everything to The Legend of Zelda: Ocarina of Time",
+   "source": "Polygon",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-25T17:02:38.224576+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Where To Find Bravado Devil’s Rope Gauntlet In GTA 6—Fastest Cars Location & Stats",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-25T17:02:52.802286+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 still has the \"gritty patina\" of more controversial Rockstar games, former Take-Two boss says",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-25T17:02:54.268265+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Разработчики The Witcher 4 не боятся GTA VI — пока игра Rockstar не вышла на ПК",
+   "source": "iXBT.games",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-25T17:04:13.622001+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Grand Theft Auto 6 Patch Notes: Latest Update and Full Patch History (November 2026)",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "error",
+   "ts": "2026-11-25T17:04:28.304696+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -15721,12 +14578,69 @@
    "queued_at": "2026-11-25T11:42:40.662207+00:00",
    "moderation": "pending",
    "draft_msg_id": 156
+  },
+  {
+   "item": {
+    "title": "All GTA 6 Nude Scenes—Every Sex Scene in GTA 6",
+    "link": "https://insider-gaming.com/gta-6-nude-sex-scenes/",
+    "summary": "GTA 6 has an assortment of nude scenes and interactions, and we've put together a hub of all the videos you were going to find anyway. The post All GTA 6 Nude Scenes—Every Sex Scene in GTA 6 appeared first on Insider Gaming .",
+    "published": "2026-11-25T14:47:39+00:00",
+    "source": "Insider Gaming",
+    "site_name": "Insider Gaming",
+    "trust": "medium",
+    "text": "GTA 6 has nude scenes and content throughout the game. They’re split between intimate scenes featuring Jason and Lucia and other wild interactions in the open world.\nThis is a mature, adult game not meant for younger eyes. As such, Rockstar doesn’t insult your intelligence and includes various sex scenes throughout GTA 6. Here are all the ones we’ve seen so far.\nYou can buy Grand Theft Auto 6 here if you haven’t already!\n* Potential spoilers below, depending on where you are in the game.*\nDay Release in Chapter 1 sees Lucia and Jason go out into the world to explore, and during a wild night, Lucia ends up walking into various hotel rooms, featuring some NSFW scenes.\nMore Insider Gaming: All GTA 6 Guides, Walkthroughs, Best Tips & Tricks\nMax Relationship Level Jason & Lucia Scenes\nFirstly, find out how to get Jason & Lucia’s relationship to max level in GTA 6. Once you do, the lovebirds can’t keep their hands off of each other, and you can trigger sex scenes quite regularly when the two are cooped up at home together.\nAgain, your relationship level needs to be in a good spot for this to happen. But Jason and Lucia can be taking a shower, and the other one will knock on the door and interrupt your cleansing to get down and dirty under the shower head.\nMore Insider Gaming: Best Legendary Weapon Variants in GTA 6: All Locations Walkthrough\nAs Jason and Lucia’s lives start to improve, so can the chemistry between them. Why wouldn’t they move into a new place and not celebrate this?\nHave you found any other nude videos or scenes that take place throughout GTA 6 that you think we’ve missed in this guide? Let us know your thoughts about the game via the free Insider Gaming Discord server.\nFor more Insider Gaming content, read ‘All GTA 6 Casinos & Map Locations—Gambling, Explained.’ Don’t forget to sign up for our free weekly newsletter.\nNOTE: Insider Gaming may earn affiliate commission if you purchase items through links on Insider Gaming. Read more about affiliate commission here.\nAndy is Insider Gaming's Senior Evergreen Editor and has been in the games journalism sphere in one way or another for over 7 years. His video game taste is as…\nWhere To Find Grotti Dolce Vita RSX In GTA 6—Fastest Cars Location & Stats\nWhere To Find Transgressors for Wyman in GTA 6—All Locations, Explained\nWhere To Find Dante’s Pegassi Vitello In GTA 6—Fastest Cars Location & Stats\nHow to Listen to the Radio While Walking in GTA 6",
+    "extra": {
+     "image": "https://insider-gaming.com/wp-content/uploads/2026/11/gta-6-4.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "🔞 GTA 6: Полные ню сцены в игре\n\nВ GTA 6 полно откровенных моментов — от имба‑сцен Джейсона и Люсии до случайных ню в открытом мире. Прокачай их отношения до макса, и в ванной будет разнос, так что готовься к реальному луту! 🔥",
+    "card_title": "НЮ СЦЕНЫ GTA 6",
+    "reason": "Обзор интимных сцен в игре от крупного издания, интересная деталь для игроков.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
+   },
+   "queued_at": "2026-11-25T16:44:03.368946+00:00",
+   "moderation": "pending",
+   "draft_msg_id": 164
+  },
+  {
+   "item": {
+    "title": "Rob Nelson explains why Tennis & Theatres was removed from GTA 6",
+    "link": "https://rockstarintel.com/rob-nelson-explains-why-tennis-theatres-was-removed-from-gta-6/",
+    "summary": "In a recent Interview, Rob Nelson the Head Of Development at Rockstar North explained to PC Games why certain activities such as playing Tennis & going to the Cinema didn’t make it to the final version GTA6. Its been a week since Grand Theft Auto VI released, and we’ve been absolutely loving it, we cant [...] The post Rob Nelson explains why Tennis & Theatres was removed from GTA 6 appeared first on RockstarINTEL .",
+    "published": "2026-11-25T15:44:57+00:00",
+    "source": "Rockstar Intel",
+    "site_name": "Rockstar Intel",
+    "trust": "medium",
+    "text": "In a recent Interview, Rob Nelson the Head Of Development at Rockstar North explained to PC Games why certain activities such as playing Tennis & going to the Cinema didn’t make it to the final version GTA6.\nIts been a week since Grand Theft Auto VI released, and we’ve been absolutely loving it, we cant put down the controller, there has been so much to do and see its almost impossible to get bored of this game. One thing people have noticed though is that certain popular activities in past GTA Games haven’t made it into GTA6. From visiting Cinemas and Theatres, playing Tennis and Darts and even doing Taxi Missions which have been in every Grand Theft Auto game since GTA III back in 2001.\nPC Games had an interview with Rob Nelson who explained why some of these activities haven’t made it into the final version of Grand Theft Auto VI\nWhen PCGames asked Rob Nelson and Scott Mitchell about cut content, they asked why Tennis wasnt in the game, which was a popular minigame in Grand Theft Auto V (Personally my favourite sport minigame) and they confirmed Tennis was actually planned to be in GTA6 but they weren’t satisfied with the implementation. So the Minigame got removed and scarpped.\nAnother feature of being able to visit Cinemas and Theatres was also removed from the final version of GTA6, another feature that’s been in past GTAS and even in the Red Dead Series. Personally, this one doesn’t really bother me as i never used them but i do understand why so many people are annoyed by this one.\nRob Nelson and Scott Mitchell said in the interview that Rockstar Games deemed Cinema & Theatre visits not interactive enough. Which i dont personally think that’s a good enough reason as sometimes its good to not do much interaction.\nThey also confirmed other features were considered and didn’t end up making it to the game, one feature was for Jason and Lucia to crawl across the ground, Craft Items and Furnish their homes. These were scrapped due to not fitting the story.\nThey asked Rob Nelson which feature in GTA6 is Rockstar Games most proud of, and the answer was ‘the dynamic of Jason and Lucia’s relationship.’ A lot of passion went into creating the characters.\nYou can read the full interview here from PCGames.de. To keep up to date with news regarding Grand Theft Auto VI, Grand Theft Auto: Online, Red Dead Redemption and more then make sure to check back to RockstarINTEL. You can also subscribe to our Newsletter which is sent out weekly, its called…… Rockstar Weekl",
+    "extra": {
+     "image": "https://rockstarintel.com/wp-content/uploads/2026/11/Vice_City_03-1024x576.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "🎾 Теннис и кино вырезаны из GTA 6\n\nРоб Нельсон подтвердил, что теннис и походы в киношки не прошли проверку – их просто вычеркнули. Фанаты в шоке, но теперь знаем, почему в игре нет этих имба‑минегей. Так что ищите новые способы развлечений, а не мяч и попкорн.",
+    "card_title": "ТЕННИС И КИНО УДАЛЕНЫ",
+    "reason": "Разработчики из Rockstar официально рассказали о вырезанном контенте вроде тенниса и кинотеатров, это интересно фанатам.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
+   },
+   "queued_at": "2026-11-25T16:44:05.332447+00:00"
   }
  ],
  "posts": [
-  "2026-11-23T11:56:22.914930+00:00",
-  "2026-11-23T12:26:40.287506+00:00",
-  "2026-11-23T14:20:44.184745+00:00",
   "2026-11-23T18:15:29.675198+00:00",
   "2026-11-23T18:31:04.220563+00:00",
   "2026-11-23T20:00:00.591069+00:00",
@@ -15760,11 +14674,6 @@
   "username": "gta6_hotnews"
  },
  "drafts": [
-  "2026-11-23T12:04:48.730690+00:00",
-  "2026-11-23T13:06:25.145699+00:00",
-  "2026-11-23T14:06:31.773180+00:00",
-  "2026-11-23T15:06:34.422085+00:00",
-  "2026-11-23T16:07:11.944353+00:00",
   "2026-11-23T17:07:48.137370+00:00",
   "2026-11-23T18:12:28.283664+00:00",
   "2026-11-23T19:12:46.915605+00:00",
@@ -15795,7 +14704,8 @@
   "2026-11-25T13:03:19.234874+00:00",
   "2026-11-25T14:03:34.684152+00:00",
   "2026-11-25T15:03:40.761643+00:00",
-  "2026-11-25T16:11:56.509162+00:00"
+  "2026-11-25T16:11:56.509162+00:00",
+  "2026-11-25T17:12:22.400219+00:00"
  ],
  "slots_sent": {
   "2026-11-24:guide:1": "2026-11-24T14:08:00.473378+00:00",
@@ -16048,8 +14958,6 @@
   }
  ],
  "clip_drafts": [
-  "2026-11-23T11:31:47.510995+00:00",
-  "2026-11-23T13:00:09.458629+00:00",
   "2026-11-23T20:17:12.002269+00:00",
   "2026-11-23T21:20:57.697562+00:00",
   "2026-11-24T07:09:52.275827+00:00",
@@ -16069,447 +14977,6 @@
   "2026-11-25T12:24:26.140864+00:00"
  ],
  "clip_history": [
-  {
-   "author": "youtube:terrorzoka",
-   "vod": "",
-   "offset": -1,
-   "title": "Vocês ligam pra isso? Jogo: GTA 6 #alanzoka",
-   "drafted": false,
-   "ts": "2026-11-22T11:18:01.434640+00:00"
-  },
-  {
-   "author": "youtube:schlayer",
-   "vod": "",
-   "offset": -1,
-   "title": "Found the secret Satan boss in GTA 6! 😱 #gta6 #gaming",
-   "drafted": false,
-   "ts": "2026-11-22T11:18:02.570852+00:00"
-  },
-  {
-   "author": "youtube:witchella",
-   "vod": "",
-   "offset": -1,
-   "title": "Mandy's from GTA 6 IRL! 🤯",
-   "drafted": false,
-   "ts": "2026-11-22T11:18:03.403090+00:00"
-  },
-  {
-   "author": "youtube:snax gaming",
-   "vod": "",
-   "offset": -1,
-   "title": "9999+ Aura Moment! 😎🏍️ #shorts #gta6",
-   "drafted": false,
-   "ts": "2026-11-22T11:18:04.269173+00:00"
-  },
-  {
-   "author": "youtube:gamclix",
-   "vod": "",
-   "offset": -1,
-   "title": "Psycho Era vs Lover Era 💀❤️ #gta6 #gta",
-   "drafted": false,
-   "ts": "2026-11-22T11:18:55.267492+00:00"
-  },
-  {
-   "author": "youtube:afif yulistian",
-   "vod": "",
-   "offset": -1,
-   "title": "Mencari Rejeki $100K [60 FPS] ! - Grand Theft Auto VI Part 5",
-   "drafted": false,
-   "ts": "2026-11-22T11:18:56.232380+00:00"
-  },
-  {
-   "author": "youtube:made in mars",
-   "vod": "",
-   "offset": -1,
-   "title": "No Wonder Gators Are Treated Like Puppies In Vice City... #GTA6 #GTAVI",
-   "drafted": false,
-   "ts": "2026-11-22T11:18:57.144131+00:00"
-  },
-  {
-   "author": "youtube:rj raunac",
-   "vod": "",
-   "offset": -1,
-   "title": "GTA 6 🔥#gta6 #shorts #short",
-   "drafted": false,
-   "ts": "2026-11-22T11:18:57.826580+00:00"
-  },
-  {
-   "author": "twitch:donatchottv",
-   "vod": "2936476456",
-   "offset": 30125.0,
-   "title": "au bout de la troisieme fois ca craque mdrrrr",
-   "drafted": false,
-   "ts": "2026-11-22T11:19:51.845162+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:theburntpeanut",
-   "vod": "2936706130",
-   "offset": 1521.0,
-   "title": "Peanut Escalates a Situation",
-   "drafted": false,
-   "ts": "2026-11-22T11:20:48.359638+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:gilticus",
-   "vod": "2936145175",
-   "offset": 336.0,
-   "title": "Вот это роверы",
-   "drafted": false,
-   "ts": "2026-11-22T11:20:57.825064+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:t2x2",
-   "vod": "2936052672",
-   "offset": 8289.0,
-   "title": "на этот раз повезло",
-   "drafted": false,
-   "ts": "2026-11-22T11:21:19.239725+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:dunc",
-   "vod": "2935766853",
-   "offset": 8596.0,
-   "title": "\"Oops! I did it again.\"",
-   "drafted": false,
-   "ts": "2026-11-22T11:24:15.455199+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:quin69",
-   "vod": "2936181330",
-   "offset": 18329.0,
-   "title": "Need for Quin69",
-   "drafted": false,
-   "ts": "2026-11-22T11:27:31.942882+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:vanosscrew",
-   "vod": "",
-   "offset": -1,
-   "title": "THE VANOSS CREW PLAYS GTA 6 BUT THERES NO VANOSS CREW (ignore Nogla, we appreciate every sub/dono)",
-   "drafted": false,
-   "ts": "2026-11-22T11:28:02.447615+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:jshrobz",
-   "vod": "2936031209",
-   "offset": 13241.0,
-   "title": "I can't even explain what's happening...",
-   "drafted": false,
-   "ts": "2026-11-22T11:28:08.894356+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:anyme023",
-   "vod": "2933870102",
-   "offset": 18458.0,
-   "title": "REV 1",
-   "drafted": false,
-   "ts": "2026-11-22T11:29:10.942363+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:frametamer666",
-   "vod": "2934472461",
-   "offset": 155013.0,
-   "title": "60",
-   "drafted": false,
-   "ts": "2026-11-22T11:29:19.032573+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:alanzoka",
-   "vod": "2936272189",
-   "offset": 3389.0,
-   "title": "MEU DEUS O BAGOS",
-   "drafted": false,
-   "ts": "2026-11-22T11:29:30.568153+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:rostislav_999",
-   "vod": "2936140043",
-   "offset": 13797.0,
-   "title": "поня ультует",
-   "drafted": false,
-   "ts": "2026-11-22T11:29:38.840646+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:clix",
-   "vod": "2936385310",
-   "offset": 25038.0,
-   "title": "sssssssssssss",
-   "drafted": false,
-   "ts": "2026-11-22T11:30:37.199678+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:t2x2",
-   "vod": "2936052672",
-   "offset": 13325.0,
-   "title": "не увидел 🤭",
-   "drafted": false,
-   "ts": "2026-11-22T11:30:46.776329+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:t2x2",
-   "vod": "2936052672",
-   "offset": 13325.0,
-   "title": "не увидел 🤭",
-   "drafted": true,
-   "ts": "2026-11-22T11:30:53.650869+00:00",
-   "frames": [],
-   "caption": "Лусия — просто имба: вынесла всех обидчиков у заправки, пока Джейсон извинялся. Вот это я понимаю, женская поддержка! 💀"
-  },
-  {
-   "author": "youtube:mrbeast gaming",
-   "vod": "",
-   "offset": -1,
-   "title": "Walking Across The Entire Map In GTA 6!",
-   "drafted": false,
-   "ts": "2026-11-22T12:48:35.605393+00:00"
-  },
-  {
-   "author": "youtube:gta2025",
-   "vod": "",
-   "offset": -1,
-   "title": "todos los cortes de pelo de cada personaje de #gta6",
-   "drafted": false,
-   "ts": "2026-11-22T12:48:36.511421+00:00"
-  },
-  {
-   "author": "youtube:void darc",
-   "vod": "",
-   "offset": -1,
-   "title": "Can’t catch a break… 😂🔥 #gta6 #videogames #comedy #skit",
-   "drafted": false,
-   "ts": "2026-11-22T12:48:37.538132+00:00"
-  },
-  {
-   "author": "youtube:kriss k3b",
-   "vod": "",
-   "offset": -1,
-   "title": "GTA 6 Restaurants vs Real Life!",
-   "drafted": false,
-   "ts": "2026-11-22T12:48:38.358666+00:00"
-  },
-  {
-   "author": "youtube:el vikingo news",
-   "vod": "",
-   "offset": -1,
-   "title": "El GTA 6 ya fue EMULADO💀 #gta6   #gaming   #ps5",
-   "drafted": false,
-   "ts": "2026-11-22T12:49:29.242075+00:00"
-  },
-  {
-   "author": "youtube:xr gaming",
-   "vod": "",
-   "offset": -1,
-   "title": "GTA launch वाले din सत्यानाश 🧐🤦‍♂️ #viral #trending #gta #gta6 #gtalive #gaming #new #ps5crash #ps",
-   "drafted": false,
-   "ts": "2026-11-22T12:49:30.181424+00:00"
-  },
-  {
-   "author": "youtube:will kleman",
-   "vod": "",
-   "offset": -1,
-   "title": "A jolly good game that GTA 6🎮🏴‍☠️",
-   "drafted": false,
-   "ts": "2026-11-22T12:49:31.028867+00:00"
-  },
-  {
-   "author": "youtube:brunelviss games",
-   "vod": "",
-   "offset": -1,
-   "title": "Ele perseguiu uma NPC no GTA 6 pra ver se ela percebia… e ela fez algo BIZARRO",
-   "drafted": false,
-   "ts": "2026-11-22T12:49:31.859547+00:00"
-  },
-  {
-   "author": "youtube:schlayer",
-   "vod": "",
-   "offset": -1,
-   "title": "Don't Miss This FREE Garage in Chapter 3 in GTA 6!",
-   "drafted": false,
-   "ts": "2026-11-22T12:52:05.798561+00:00"
-  },
-  {
-   "author": "youtube:cruffin india",
-   "vod": "",
-   "offset": -1,
-   "title": "GTA 6 mein Cruffin ? 😱 #cake #food #foodie #gta #gta6 #minivlog",
-   "drafted": false,
-   "ts": "2026-11-22T12:52:06.751606+00:00"
-  },
-  {
-   "author": "youtube:местар",
-   "vod": "",
-   "offset": -1,
-   "title": "😳 Это Лучшая Пасхалка в GTA 6!",
-   "drafted": false,
-   "ts": "2026-11-22T12:52:07.456293+00:00"
-  },
-  {
-   "author": "youtube:team rowdy ",
-   "vod": "",
-   "offset": -1,
-   "title": "Presented by \"GTA 6 Launch Core\"-Next-generation Vice City Era",
-   "drafted": false,
-   "ts": "2026-11-22T12:52:08.186732+00:00"
-  },
-  {
-   "author": "twitch:tusoved",
-   "vod": "2937117399",
-   "offset": 8424.0,
-   "title": "копы не стреляют а звезды растут",
-   "drafted": false,
-   "ts": "2026-11-22T12:52:09.876388+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:theburntpeanut",
-   "vod": "2936706130",
-   "offset": 41602.0,
-   "title": "ANOTHA ONE",
-   "drafted": false,
-   "ts": "2026-11-22T12:52:17.398886+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:carola",
-   "vod": "2936112169",
-   "offset": 11588.0,
-   "title": "timing",
-   "drafted": false,
-   "ts": "2026-11-22T12:52:23.860568+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:dmitry_lixxx",
-   "vod": "2935815647",
-   "offset": 55599.0,
-   "title": "Бедный Лёва",
-   "drafted": false,
-   "ts": "2026-11-22T12:52:27.071388+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:baupenner",
-   "vod": "2935109383",
-   "offset": 19450.0,
-   "title": "DEMO in GTA ?? Boom 😂",
-   "drafted": false,
-   "ts": "2026-11-22T12:53:32.896667+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:frametamer666",
-   "vod": "2934472461",
-   "offset": 162824.0,
-   "title": "1",
-   "drafted": false,
-   "ts": "2026-11-22T12:53:53.635161+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:thegrefg",
-   "vod": "2936395995",
-   "offset": 22315.0,
-   "title": "a qué huele greg?",
-   "drafted": false,
-   "ts": "2026-11-22T12:53:56.492960+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:djmariio",
-   "vod": "2936216605",
-   "offset": 689.0,
-   "title": "DUCHITA DIA 4",
-   "drafted": false,
-   "ts": "2026-11-22T12:54:04.960722+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:jeanobean0",
-   "vod": "2934997674",
-   "offset": 6375.0,
-   "title": "lucia..",
-   "drafted": false,
-   "ts": "2026-11-22T12:55:33.073920+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:derzko69",
-   "vod": "2936003788",
-   "offset": 14800.0,
-   "title": "ИНТЕГРАШКА АВИТО АВТО",
-   "drafted": false,
-   "ts": "2026-11-22T12:55:37.804281+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:hiltonerika",
-   "vod": "2936487576",
-   "offset": 5299.0,
-   "title": "Voltei.vamos  ver se vai",
-   "drafted": false,
-   "ts": "2026-11-22T12:55:50.796912+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:mirwana",
-   "vod": "2936298738",
-   "offset": 14231.0,
-   "title": "МОТО ВИТЯ haha",
-   "drafted": false,
-   "ts": "2026-11-22T12:55:55.816345+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:steel",
-   "vod": "2934772009",
-   "offset": 127890.0,
-   "title": "МАРАФОН ГТА 6 😱120FPS😱 24/7 СТРИМЫ !розыгрыш пс5 и гта 6  !bb и !ggsell",
-   "drafted": false,
-   "ts": "2026-11-22T12:56:56.091916+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:stableronaldo",
-   "vod": "2936324446",
-   "offset": 19560.0,
-   "title": "ron chill",
-   "drafted": false,
-   "ts": "2026-11-22T12:57:02.189848+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:blexinfinity",
-   "vod": "2936086580",
-   "offset": 14036.0,
-   "title": "ВАНГА",
-   "drafted": false,
-   "ts": "2026-11-22T12:57:06.048642+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:blexinfinity",
-   "vod": "2936086580",
-   "offset": 14036.0,
-   "title": "ВАНГА",
-   "drafted": true,
-   "ts": "2026-11-22T12:57:11.614130+00:00",
-   "frames": [],
-   "caption": "Приземление машины прямо на байк в гонке — это какой-то лютый рандом и разнос 💀 Физика в GTA 6 просто пушка!"
-  },
   {
    "author": "youtube:gleb pov",
    "vod": "",
@@ -22513,6 +20980,98 @@
    "drafted": false,
    "ts": "2026-11-25T16:38:33.247650+00:00",
    "frames": []
+  },
+  {
+   "author": "youtube:jagriti pahwa",
+   "vod": "",
+   "offset": -1,
+   "title": "Gifting PS 5 Gone Wrong😭 #playstation #gta6 #techiela #jagritipahwa #gamingvideos #gameplay",
+   "drafted": false,
+   "ts": "2026-11-25T16:47:06.537053+00:00"
+  },
+  {
+   "author": "youtube:whistrey",
+   "vod": "",
+   "offset": -1,
+   "title": "Ps5 is really struggling with GTA 6 #gta6 #grandtheftauto6 #grandfheftauto6 #xbox #ps5",
+   "drafted": false,
+   "ts": "2026-11-25T16:47:07.864435+00:00"
+  },
+  {
+   "author": "youtube:gta6-猎魔都市",
+   "vod": "",
+   "offset": -1,
+   "title": "鲁米竟然！#gta  #gta6  #shorts",
+   "drafted": false,
+   "ts": "2026-11-25T16:47:08.585210+00:00"
+  },
+  {
+   "author": "youtube:gamerawi - وسيم",
+   "vod": "",
+   "offset": -1,
+   "title": "وجدت افضل طريقة.. نلعب فيها GTA 6!",
+   "drafted": false,
+   "ts": "2026-11-25T16:47:09.389158+00:00"
+  },
+  {
+   "author": "youtube:gema show indo",
+   "vod": "",
+   "offset": -1,
+   "title": "AKH INI GAME INDAH DAN BYUTIPUL - GTA 6 SUBATHON INDONESIA PART 16",
+   "drafted": false,
+   "ts": "2026-11-25T16:48:00.389597+00:00"
+  },
+  {
+   "author": "youtube:senior anime new",
+   "vod": "",
+   "offset": -1,
+   "title": "Trik Windah Endstream Loh ya?? #windahbasudara #gta6 #game #gtavi #shorts #explained",
+   "drafted": false,
+   "ts": "2026-11-25T16:48:01.233267+00:00"
+  },
+  {
+   "author": "youtube:ultimate survival",
+   "vod": "",
+   "offset": -1,
+   "title": "INSANE HIDDEN Toilet Paper Loot Room in GTA 6",
+   "drafted": false,
+   "ts": "2026-11-25T16:48:02.054257+00:00"
+  },
+  {
+   "author": "twitch:montanablack88",
+   "vod": "2940172505",
+   "offset": 14278.0,
+   "title": "Krabbe greift Monte an",
+   "drafted": false,
+   "ts": "2026-11-25T16:48:02.984023+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:ohnepixel",
+   "vod": "2939324211",
+   "offset": 14792.0,
+   "title": "ohnepixel is hammered",
+   "drafted": false,
+   "ts": "2026-11-25T16:48:54.390976+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:vinesauce",
+   "vod": "",
+   "offset": -1,
+   "title": "Vinny witnesses unholy freaks",
+   "drafted": false,
+   "ts": "2026-11-25T17:05:02.393638+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:godless92live",
+   "vod": "2939687886",
+   "offset": 1134.0,
+   "title": "dont f**k with Godless!",
+   "drafted": false,
+   "ts": "2026-11-25T17:05:19.254565+00:00",
+   "frames": []
   }
  ],
  "published": [
@@ -22991,63 +21550,123 @@
  "rewrite_wait": [
   {
    "item": {
-    "title": "All GTA 6 Nude Scenes—Every Sex Scene in GTA 6",
-    "link": "https://insider-gaming.com/gta-6-nude-sex-scenes/",
-    "summary": "GTA 6 has an assortment of nude scenes and interactions, and we've put together a hub of all the videos you were going to find anyway. The post All GTA 6 Nude Scenes—Every Sex Scene in GTA 6 appeared first on Insider Gaming .",
-    "published": "2026-11-25T14:47:39+00:00",
-    "source": "Insider Gaming",
-    "site_name": "Insider Gaming",
-    "trust": "medium",
-    "text": "GTA 6 has nude scenes and content throughout the game. They’re split between intimate scenes featuring Jason and Lucia and other wild interactions in the open world.\nThis is a mature, adult game not meant for younger eyes. As such, Rockstar doesn’t insult your intelligence and includes various sex scenes throughout GTA 6. Here are all the ones we’ve seen so far.\nYou can buy Grand Theft Auto 6 here if you haven’t already!\n* Potential spoilers below, depending on where you are in the game.*\nDay Release in Chapter 1 sees Lucia and Jason go out into the world to explore, and during a wild night, Lucia ends up walking into various hotel rooms, featuring some NSFW scenes.\nMore Insider Gaming: All GTA 6 Guides, Walkthroughs, Best Tips & Tricks\nMax Relationship Level Jason & Lucia Scenes\nFirstly, find out how to get Jason & Lucia’s relationship to max level in GTA 6. Once you do, the lovebirds can’t keep their hands off of each other, and you can trigger sex scenes quite regularly when the two are cooped up at home together.\nAgain, your relationship level needs to be in a good spot for this to happen. But Jason and Lucia can be taking a shower, and the other one will knock on the door and interrupt your cleansing to get down and dirty under the shower head.\nMore Insider Gaming: Best Legendary Weapon Variants in GTA 6: All Locations Walkthrough\nAs Jason and Lucia’s lives start to improve, so can the chemistry between them. Why wouldn’t they move into a new place and not celebrate this?\nHave you found any other nude videos or scenes that take place throughout GTA 6 that you think we’ve missed in this guide? Let us know your thoughts about the game via the free Insider Gaming Discord server.\nFor more Insider Gaming content, read ‘All GTA 6 Casinos & Map Locations—Gambling, Explained.’ Don’t forget to sign up for our free weekly newsletter.\nNOTE: Insider Gaming may earn affiliate commission if you purchase items through links on Insider Gaming. Read more about affiliate commission here.\nAndy is Insider Gaming's Senior Evergreen Editor and has been in the games journalism sphere in one way or another for over 7 years. His video game taste is as…\nWhere To Find Grotti Dolce Vita RSX In GTA 6—Fastest Cars Location & Stats\nWhere To Find Transgressors for Wyman in GTA 6—All Locations, Explained\nWhere To Find Dante’s Pegassi Vitello In GTA 6—Fastest Cars Location & Stats\nHow to Listen to the Radio While Walking in GTA 6",
+    "title": "GTA 6 Ditched Mission Replay Because It ‘Felt At Odds With The Story’",
+    "link": "https://kotaku.com/gta-6-ditched-mission-replay-because-it-felt-at-odds-with-the-story-2001000335",
+    "summary": "The GTA 5 feature is missing this time around",
+    "published": "2026-11-25T16:30:19+00:00",
+    "source": "Kotaku",
+    "site_name": "Kotaku",
+    "trust": "high",
+    "text": "Story missions in Grand Theft Auto 6 are one and done. This means no going back and experiencing some of its biggest set pieces and most memorable moments, and no second chances to complete them perfectly. Rockstar Games has a good reason for dropping the feature, but the decision will probably still leave some players disappointed.\n“Mission replay was certainly something we looked at early on in development, and we do not currently support it,” senior design director Scott Butchard told Kotaku in an email prior to the game’s launch. “As the game came together it felt at odds with the story we were trying to tell and felt a bit alien and disconnected. Sitting outside of the game as it were and replaying missions really diminished the choices you had made.”\nMission replay wasn’t always available in Grand Theft Auto. Earlier entries didn’t have it either. Rockstar added the option starting with the Ballad of Gay Tony expansion pack for GTA 4. Replayable story missions returned in GTA 5. A medal system showed how well players had completed secondary objectives, with many going back until they’d achieved a mission’s highest rating.\nGTA 6 is a different kind of GTA game, though. It has a lot of Red Dead Redemption 2‘s DNA in it, with an emphasis on immersive storytelling and realistically simulating elements of an open-world experience. At times, story missions in GTA 6 feel more like quests in an RPG like The Witcher 3 where getting a perfect outcome is less important than how the outcome you do get tells the larger story of a player’s time in the world.\nIt doesn’t sound like Rockstar has any plans to add a mission replay feature down the road, but once the game comes to PC I’m sure one will get modded in anyway.\nDon’t miss the latest reviews, news and tips. Sign up for our free newsletter.\nCultureNews The Normal Person’s Guide To Understanding Grand Theft Auto 6 What even is this big game that everyone around you is suddenly talking and post about? By Zack Zwiezen Published November 25, 2026\nCultureNews Wait, What? GTA 6 Runs Better On Xbox Series X Than PS5 The techperts at Digital Foundry have all the nerdy details By John Walker Published November 25, 2026\nCultureNews Cyberpunk 2 Development Ramps Up At CD Projekt Red, But Ambitions For The Project Are ‘Not Changed’ By GTA 6′s Success CDPR proclaims GTA 6 an 'inspiration' as it credits the various TV adaptations of The Witcher and Cyberpunk for helping keep those properties popular By Alicia Haddick Publis",
     "extra": {
-     "image": "https://insider-gaming.com/wp-content/uploads/2026/11/gta-6-4.jpg"
+     "image": "https://kotaku.com/app/uploads/2026/11/gta-6-1-1280x720.jpg"
     }
    },
    "verdict": {
     "type": "confirmed",
     "importance": 7,
-    "post": "Клубничка завезлена 🔥\n\nВ игре полно пикантных моментов с Джейсоном и Люсией. Если прокачать отношения на максимум, можно ловить лютый вайб прямо дома — например, во время совместного душа.\n\n❤️ — Ждем мод на ПК\n👎 — База, отвлекает от ограблений",
-    "card_title": "ИНТИМНЫЕ СЦЕНЫ В GTA 6",
-    "reason": "Обзор интимных сцен в игре от крупного издания, интересная деталь для игроков.",
+    "post": "🚫 GTA 6 УБИЛА ПОВТОР МИССИЙ\n\nRockstar честно объяснила: реиграбельность сюжетных квестов ломала иммерсию и выбивала из вайба истории. Каждый выбор теперь уникальный и бесценный. Ну, или просто лень портить игру. ПЦР на ПК всё равно всё починит.\n\n❤️ — Доверяю Рокстарам\n👎 — Хочется перепройти",
+    "card_title": "НЕТ ПОВТОРА МИССИЙ",
+    "reason": "Официальное заявление разработчика (Kotaku) о важном геймдизайн-решении, вызывающем споры у игроков.",
     "duplicate": false,
     "corroborated": false,
     "duplicate_of": "",
     "corroborated_by": "",
     "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
+    "model": "groq:qwen/qwen3.8-27b"
    },
    "corr": false,
-   "since": "2026-11-25T14:54:42.329855+00:00"
+   "since": "2026-11-25T16:45:19.069256+00:00"
   },
   {
    "item": {
-    "title": "Rob Nelson explains why Tennis & Theatres was removed from GTA 6",
-    "link": "https://rockstarintel.com/rob-nelson-explains-why-tennis-theatres-was-removed-from-gta-6/",
-    "summary": "In a recent Interview, Rob Nelson the Head Of Development at Rockstar North explained to PC Games why certain activities such as playing Tennis & going to the Cinema didn’t make it to the final version GTA6. Its been a week since Grand Theft Auto VI released, and we’ve been absolutely loving it, we cant [...] The post Rob Nelson explains why Tennis & Theatres was removed from GTA 6 appeared first on RockstarINTEL .",
-    "published": "2026-11-25T15:44:57+00:00",
-    "source": "Rockstar Intel",
-    "site_name": "Rockstar Intel",
-    "trust": "medium",
-    "text": "In a recent Interview, Rob Nelson the Head Of Development at Rockstar North explained to PC Games why certain activities such as playing Tennis & going to the Cinema didn’t make it to the final version GTA6.\nIts been a week since Grand Theft Auto VI released, and we’ve been absolutely loving it, we cant put down the controller, there has been so much to do and see its almost impossible to get bored of this game. One thing people have noticed though is that certain popular activities in past GTA Games haven’t made it into GTA6. From visiting Cinemas and Theatres, playing Tennis and Darts and even doing Taxi Missions which have been in every Grand Theft Auto game since GTA III back in 2001.\nPC Games had an interview with Rob Nelson who explained why some of these activities haven’t made it into the final version of Grand Theft Auto VI\nWhen PCGames asked Rob Nelson and Scott Mitchell about cut content, they asked why Tennis wasnt in the game, which was a popular minigame in Grand Theft Auto V (Personally my favourite sport minigame) and they confirmed Tennis was actually planned to be in GTA6 but they weren’t satisfied with the implementation. So the Minigame got removed and scarpped.\nAnother feature of being able to visit Cinemas and Theatres was also removed from the final version of GTA6, another feature that’s been in past GTAS and even in the Red Dead Series. Personally, this one doesn’t really bother me as i never used them but i do understand why so many people are annoyed by this one.\nRob Nelson and Scott Mitchell said in the interview that Rockstar Games deemed Cinema & Theatre visits not interactive enough. Which i dont personally think that’s a good enough reason as sometimes its good to not do much interaction.\nThey also confirmed other features were considered and didn’t end up making it to the game, one feature was for Jason and Lucia to crawl across the ground, Craft Items and Furnish their homes. These were scrapped due to not fitting the story.\nThey asked Rob Nelson which feature in GTA6 is Rockstar Games most proud of, and the answer was ‘the dynamic of Jason and Lucia’s relationship.’ A lot of passion went into creating the characters.\nYou can read the full interview here from PCGames.de. To keep up to date with news regarding Grand Theft Auto VI, Grand Theft Auto: Online, Red Dead Redemption and more then make sure to check back to RockstarINTEL. You can also subscribe to our Newsletter which is sent out weekly, its called…… Rockstar Weekl",
+    "title": "New GTA 6 money farm involves winning a fist fight against a viral NPC fans once thought invincible",
+    "link": "https://www.gamesradar.com/games/grand-theft-auto/the-latest-gta-6-money-farm-involves-winning-a-fist-fight-against-a-viral-npc-that-fans-once-thought-was-invincible/",
+    "summary": "Put 'em up?",
+    "published": "2026-11-25T16:45:39+00:00",
+    "source": "GamesRadar+",
+    "site_name": "GamesRadar+",
+    "trust": "high",
+    "text": "If you go about wielding your sniper rifle indiscriminately in GTA 6, you'd best beware of the side effects. Some NPCs don't take you scoping them out lightly, but if you can handle the reaction, you can make a pretty penny.\nA strange but hilarious behavior has regular people on the street reacting to you zooming in on them if you have your sniper out. Doing so can eventually lead them to notice you, even if you're hundreds of meters away, and draw their thumb across their neck in a threat towards you.\nThen comes the scary bit: they run full tilt towards wherever you are. Like the creature in the film It Follows or the T-1000. Unstoppable and inescapable. Eventually, they will find you, and when they do, you'd best be ready because they're now practically invincible.\nSome resourceful players have managed to record themselves taking on these sudden arch-nemeses. Killing them grants you $2,000, making it a decent way to fatten up your wallet in a hurry.\nThe streamer CausticCorro has a perfect example. In their clip, you can see the NPC tracks them from across Leonida at night, and they've become impervious to guns. Only a fist fight sorts them out.\nAnother common method is to bait them into a high vantage point and then throw them over a wall to their doom. Messier, but more satisfying, in my view. Either way, the $2,000 per go is there for the taking.\nThis is definitely the kind of thing Rockstar will patch out quickly, so enjoy it while you can. Just be careful while you do.\nWeekly digests, tales from the communities you love, and more\nGTA 6 features something Rockstar tried to pull off in Grand Theft Auto: Vice City 24 years ago, former tech lead says\nAnthony is an Irish entertainment and games journalist, now based in Glasgow. He previously served as Senior Anime Writer at Dexerto and News Editor at The Digital Fix, on top of providing work for Variety, IGN, Den of Geek, PC Gamer, and many more. Besides Studio Ghibli, horror movies, and The Muppets, he enjoys action-RPGs, heavy metal, and pro-wrestling. He interviewed Animal once, not that he won’t stop going on about it or anything.\nYou must confirm your public display name before commenting\nPlease logout and then login again, you will then be prompted to enter your display name.\n1 New GTA 6 money farm involves winning a fist fight against a viral NPC fans once thought invincible\n2 Devil May Cry creator Hideki Kamiya wants to make a Castlevania game, urges Konami to reach out\n3 GTA 6 is \"pure sorcery,\" ",
     "extra": {
-     "image": "https://rockstarintel.com/wp-content/uploads/2026/11/Vice_City_03-1024x576.jpg"
+     "image": "https://cdn.mos.cms.futurecdn.net/QkVrvYdazxdPY89GYg4nYm-1920-80.jpg"
     }
    },
    "verdict": {
     "type": "confirmed",
-    "importance": 7,
-    "post": "Куда пропали теннис и кинотеатры?\n\nРазработчики из Rockstar признались, что теннис и походы в кино вырезали из релиза, потому что они не дотянули до нужного качества или показались скучными. Зато отношения Джейсона и Люции — абсолютная база, в них вложили всю душу.",
-    "card_title": "ПОЧЕМУ ВЫРЕЗАЛИ ТЕННИС И КИНО",
-    "reason": "Разработчики из Rockstar официально рассказали о вырезанном контенте вроде тенниса и кинотеатров, это интересно фанатам.",
+    "importance": 8,
+    "post": "👊 NPC-убийцы за $2000\n\nЗавезли баг: стреляй из снайпа в прохожих, и они бросятся на тебя как T-1000. Стрелка их не берет, зато кулаки работают. Один килл — $2000 в карман. Рофл и профит, пока Рокстар не заделала дыру.",
+    "card_title": "ФАРМ ДЕНЕГ В GTA 6",
+    "reason": "Подтвержденный игроками баг-механика из вышедшей игры, интересный для заработка и фана.",
     "duplicate": false,
     "corroborated": false,
     "duplicate_of": "",
     "corroborated_by": "",
     "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
+    "model": "groq:qwen/qwen3.8-27b"
    },
    "corr": false,
-   "since": "2026-11-25T15:48:34.565429+00:00"
+   "since": "2026-11-25T17:03:18.394529+00:00"
+  },
+  {
+   "item": {
+    "title": "Why did Rockstar Games make empathy a key mechanic in GTA 6? \"Because it's fun\" says head of development Rob Nelson",
+    "link": "https://www.eurogamer.net/gta-6-empathy-criminal-profile-why-rockstar-added-it-rob-nelson",
+    "summary": "There's been plenty of chatter about Grand Theft Auto 6 's 'honour system', so to speak, implemented here via what the game calls your Criminal Profile. Read more",
+    "published": "2026-11-25T16:42:30+00:00",
+    "source": "Eurogamer",
+    "site_name": "Eurogamer",
+    "trust": "high",
+    "text": "There's been plenty of chatter about Grand Theft Auto 6's 'honour system', so to speak, implemented here via what the game calls your Criminal Profile.\nOur own Dom just wrote that they prefer to turn its notifications off, for instance, in favour of fully soaking into the immersion. Personally I quite like the pop-ups - I find the act of figuring out systems and how they're manipulated almost as fun as the games they're a part of. And pop-ups or no, the fact that GTA 6 can arguably be portrayed as 'rewarding' empathy and 'discouraging' the series' famous rampages of mass violence has sparked a fair bit of debate.\nSome of that is genuinely interesting - I'm dubious as to whether that's really what this system is doing, for a start. Is it incentivising and disincentivising certain in-game behaviour, or just putting a label on it? And then, actually: does the act of labelling \"psycho\" behaviour alone actually become a disincentivising factor in itself?\nEither way, until now Rockstar hasn't said a great deal about why, exactly, this system - seen by some as one that builds empathy into GTA's chaotic world - was implemented in the first place. But during an interview I had with Rob Nelson, Rockstar Games' head of development, just before GTA 6's launch earlier this month, a little more on that came to light.\nA little context is necessary here: Nelson's response was actually following a question I had about the overall approach to design that Rockstar took, and how its wider themes and intentions came about. As a part of that, he turned to this system - and how, in a way, it exists here because of the work the studio simply didn't want to leave behind after Red Dead Redemption 2.\nNelson explained that this all began when the team was in the early phase of exploring what type of game GTA 6 would be, in 2015 and 2016, while much of the studio was still working full-tilt on RDR2 - a game which itself didn't release until late 2018. The team was looking to \"build up the sophistication of the NPC population, and also allow for more player choice than we had [before], and more options in terms of the way you interact with the world beyond just violence,\" Nelson told me.\nThe idea would be that \"it's still a world of violence - but you could threaten somebody by aiming a gun at them and just robbing them, and they have a chance to comply. So you don't have to beat them to death to get their money.\" Ideas that were \"simple things\" in principle, he said, \"but they create ",
+    "extra": {
+     "image": "https://assetsio.gnwcdn.com/GTA-6-review-14.jpg?width=690&quality=85&format=jpg&auto=webp"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "🧠 ЭМПАТИЯ В GTA 6\n\nРоб Нельсон из Rockstar раскрыл, зачем в игре Criminal Profile и почему можно не убивать всех подряд. Оказывается, механика выросла из идей для RDR2, и делать это было просто «весело». Теперь можно угрожать оружием и требовать бабки без крови. Зашло? Погнали тестить.\n\n❤️ — Да, люблю думать головой\n👎 — Нет, я тут ради крови",
+    "card_title": "ЭМПАТИЯ В GTA 6",
+    "reason": "Официальное интервью директора разработки о геймдизайне, интересная деталь, но не топ-новость.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "groq:qwen/qwen3.8-27b"
+   },
+   "corr": false,
+   "since": "2026-11-25T17:03:52.701854+00:00"
+  },
+  {
+   "item": {
+    "title": "Is GTA 6 Too Easy? Rockstar Weighs In",
+    "link": "https://www.gamespot.com/articles/is-gta-6-too-easy-rockstar-weighs-in/",
+    "summary": "Grand Theft Auto 6 is finally here, and one of the things people are talking about is the game's difficulty level . Some are saying it's too easy. Rockstar boss Rob Nelson has now entered the conversation, telling Destructoid that Rockstar's data showed that GTA 4 was \"a little too punishing in places\" and GTA 5 was \"perhaps too easy.\" So with GTA 6, the team trying to \"land somewhere in the middle.\" GTA 6 has no defined difficulty levels , which is in keeping with the franchise's tradition. That said, players can adjust things like aiming controls, while players can unlock cheat codes to make the game easier or harder. https://www.youtube.com/watch?v=dJDf76QVv70 Design producer Scott Mitchell, meanwhile, said the fail states in GTA 6 were designed to feel \"appropriate.\" “We wanted to keep things open and not limit the players’ use of mechanics, such as stealth, but we did also want to make sure we retained the cinematic, high production value, explosive sequences that we’re known for, and people expect. It feels like we’ve managed to strike a good balance,\" he explained. Also in the interview, Nelson said figuring out the difficulty level for GTA 6 is itself challenging because the designers themselves know enemy positions better than anyone after playing and testing the game so much. \"There’s a real process in unpicking some of that to create an experience most players will be able to enjoy, rather than endure,\" Nelson said. \"The game is so big, and has such a wide range of content that we can really lean into that, making certain open-world content--compounds and fronts for example---more difficult, to give players seeking a challenge something to sink their teeth into as well.” GTA 6 launched on November 19 and had a gigantic debut, selling 32.5 million copies by launch and generating around $4 billion on day one. For more, check out GameSpot's GTA 6 review and our rundown of five things to do first.",
+    "published": "2026-11-25T15:36:59+00:00",
+    "source": "GameSpot",
+    "site_name": "GameSpot",
+    "trust": "high",
+    "text": "Grand Theft Auto 6 is finally here, and one of the things people are talking about is the game's difficulty level . Some are saying it's too easy. Rockstar boss Rob Nelson has now entered the conversation, telling Destructoid that Rockstar's data showed that GTA 4 was \"a little too punishing in places\" and GTA 5 was \"perhaps too easy.\" So with GTA 6, the team trying to \"land somewhere in the middle.\" GTA 6 has no defined difficulty levels , which is in keeping with the franchise's tradition. That said, players can adjust things like aiming controls, while players can unlock cheat codes to make the game easier or harder. https://www.youtube.com/watch?v=dJDf76QVv70 Design producer Scott Mitchell, meanwhile, said the fail states in GTA 6 were designed to feel \"appropriate.\" “We wanted to keep things open and not limit the players’ use of mechanics, such as stealth, but we did also want to make sure we retained the cinematic, high production value, explosive sequences that we’re known for, and people expect. It feels like we’ve managed to strike a good balance,\" he explained. Also in the interview, Nelson said figuring out the difficulty level for GTA 6 is itself challenging because the designers themselves know enemy positions better than anyone after playing and testing the game so much. \"There’s a real process in unpicking some of that to create an experience most players will be able to enjoy, rather than endure,\" Nelson said. \"The game is so big, and has such a wide range of content that we can really lean into that, making certain open-world content--compounds and fronts for example---more difficult, to give players seeking a challenge something to sink their teeth into as well.” GTA 6 launched on November 19 and had a gigantic debut, selling 32.5 million copies by launch and generating around $4 billion on day one. For more, check out GameSpot's GTA 6 review and our rundown of five things to do first.",
+    "extra": {
+     "image": "https://www.gamespot.com/wp-content/uploads/2026/11/GTAVintage-3.png?w=300"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "🚗 GTA 6: Сложность в балансе\n\nRockstar заявляет, что в новой игре они нашли золотую середину между «слишком лёгким» GTA 5 и «слишком жёстким» GTA 4. Без уровней сложности, но с настройками и чит‑кодами, чтобы игроки сами решали, насколько им хочется тянуться к вызовам. И, кстати, в открытом мире есть места, где боссов поджидают серьёзные испытания – для тех, кто любит настоящую головоломку.",
+    "card_title": "ГТА 6: СЛОЖНОСТЬ В БАЛАНСЕ",
+    "reason": "официальное заявление Rockstar о балансе сложности",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "groq:openai/gpt-oss-20b"
+   },
+   "corr": false,
+   "since": "2026-11-25T17:05:01.289553+00:00"
   }
  ]
 }
