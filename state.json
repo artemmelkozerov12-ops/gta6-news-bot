@@ -3982,7 +3982,20 @@
   "e369b6783d130254": "2026-11-25T07:04:19.794742+00:00",
   "812928d4b9603d96": "2026-11-25T07:07:39.426170+00:00",
   "8ba0f22b364ee457": "2026-11-25T07:07:40.188696+00:00",
-  "98311746151e3c03": "2026-11-25T07:07:41.078526+00:00"
+  "98311746151e3c03": "2026-11-25T07:07:41.078526+00:00",
+  "a8337fc4c564b9da": "2026-11-25T08:00:41.898509+00:00",
+  "02a49e06a5c58e19": "2026-11-25T08:08:25.847836+00:00",
+  "900782d20bbbe2f9": "2026-11-25T08:08:26.604662+00:00",
+  "e9d22c498076f6ce": "2026-11-25T08:08:27.387850+00:00",
+  "5b8b203ce2ccd929": "2026-11-25T08:08:28.090176+00:00",
+  "8ab3c9ec00e8b368": "2026-11-25T08:09:19.035034+00:00",
+  "b6c529001b123ea7": "2026-11-25T08:09:19.794840+00:00",
+  "c8bc86bcd18f545b": "2026-11-25T08:09:20.491542+00:00",
+  "d11961458f2c4e62": "2026-11-25T08:09:21.304699+00:00",
+  "b54552ab6e4aa4e2": "2026-11-25T08:10:12.304847+00:00",
+  "fd7f4ff75ba1e86e": "2026-11-25T08:10:13.001841+00:00",
+  "51a8297baf668b7c": "2026-11-25T08:10:18.143835+00:00",
+  "7d28060d4182a3a6": "2026-11-25T08:10:28.752331+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -6659,7 +6672,8 @@
   "549504ca8ce36d6f": "2026-11-25T04:14:09.207640+00:00",
   "d0f1332070a1aa42": "2026-11-25T04:31:42.775731+00:00",
   "e3315e41b633379b": "2026-11-25T04:31:45.044987+00:00",
-  "acd8f7136f586eed": "2026-11-25T05:39:04.203788+00:00"
+  "acd8f7136f586eed": "2026-11-25T05:39:04.203788+00:00",
+  "d39dcfe80c5f4158": "2026-11-25T08:00:41.898509+00:00"
  },
  "recent": [
   {
@@ -14669,6 +14683,14 @@
    "status": "skipped",
    "ts": "2026-11-25T05:39:17.565396+00:00",
    "card_title": ""
+  },
+  {
+   "title": "«Это не симпинг»: руководитель Larian Studios вступился за GTA VI и её главного героя",
+   "source": "iXBT.games",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-25T08:00:47.521872+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -15281,7 +15303,9 @@
     "guide": false,
     "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
    },
-   "queued_at": "2026-11-25T05:38:44.063095+00:00"
+   "queued_at": "2026-11-25T05:38:44.063095+00:00",
+   "moderation": "pending",
+   "draft_msg_id": 148
   },
   {
    "item": {
@@ -15414,7 +15438,8 @@
   "2026-11-24T20:30:28.952858+00:00",
   "2026-11-24T21:36:11.909030+00:00",
   "2026-11-25T06:00:21.448854+00:00",
-  "2026-11-25T07:00:39.447209+00:00"
+  "2026-11-25T07:00:39.447209+00:00",
+  "2026-11-25T08:00:54.269176+00:00"
  ],
  "slots_sent": {
   "2026-11-23:guide:1": "2026-11-23T07:01:27.603496+00:00",
@@ -15665,6 +15690,36 @@
    "file_id": "BAACAgIAAxkDAAOTawaJTx5BR32V2s1silJCQM3GbyoAAiKwAAImEThI3ewE5yFgm-89BA",
    "moderation": "pending",
    "draft_msg_id": 147
+  },
+  {
+   "clip": {
+    "source": "twitch",
+    "url": "https://www.twitch.tv/rubius/clip/SquarePhilanthropicGarbageOSsloth-Cc0LdBQc6lRbz2B8",
+    "title": "LA COBRA SODOMIZAD4",
+    "author": "Rubius",
+    "views": 2231,
+    "duration": 17.0,
+    "created": "2026-11-25T01:36:15+00:00",
+    "lang": "es",
+    "description": "",
+    "vod_id": "2939504674",
+    "vod_offset": 28702.0
+   },
+   "caption": "СПОЙЛЕР. 🔞 Сюжетка в GTA 6 радует необычными ракурсами: Джейсон оценивает пикантные фото на фотоаппарате — просто разнос 💀",
+   "interest": 9,
+   "spoiler": true,
+   "nsfw": true,
+   "watched": true,
+   "model": "gemini:gemini-3.5-flash-lite",
+   "media": {
+    "width": null,
+    "height": 720,
+    "duration": 17
+   },
+   "queued_at": "2026-11-25T08:10:32.745677+00:00",
+   "file_id": "BAACAgIAAxkDAAOVawaX-kDnfCZFHP0GoeKd9r-14hAAAr6wAAImEThImR6vRZFm3Vc9BA",
+   "moderation": "pending",
+   "draft_msg_id": 149
   }
  ],
  "clip_drafts": [
@@ -15685,7 +15740,8 @@
   "2026-11-24T19:23:29.579276+00:00",
   "2026-11-24T20:29:37.383213+00:00",
   "2026-11-24T21:55:06.434149+00:00",
-  "2026-11-25T07:08:00.412145+00:00"
+  "2026-11-25T07:08:00.412145+00:00",
+  "2026-11-25T08:10:34.794245+00:00"
  ],
  "clip_history": [
   {
@@ -21465,6 +21521,115 @@
    "ts": "2026-11-25T07:08:00.412164+00:00",
    "frames": [],
    "caption": "Погоня в стиле GTA 6: копы тут реально душные, не дают спокойно покататься. Физика повреждений — чистый разнос, машина в"
+  },
+  {
+   "author": "youtube:togitoon ",
+   "vod": "",
+   "offset": -1,
+   "title": "Togi plays GTA6 🎮 #togi",
+   "drafted": false,
+   "ts": "2026-11-25T08:08:25.847872+00:00"
+  },
+  {
+   "author": "youtube:seputar nguawur 🦏",
+   "vod": "",
+   "offset": -1,
+   "title": "Cuking Fomo GTA 6 Malah Beli PC  #gta6  #seputarnguawur",
+   "drafted": false,
+   "ts": "2026-11-25T08:08:26.604702+00:00"
+  },
+  {
+   "author": "youtube:georgitocraft",
+   "vod": "",
+   "offset": -1,
+   "title": "GOHAN QUIERE EL GTA 6 #shorts #gta6  #minecraft #roblox #pocoyo",
+   "drafted": false,
+   "ts": "2026-11-25T08:08:27.387892+00:00"
+  },
+  {
+   "author": "youtube:wbx",
+   "vod": "",
+   "offset": -1,
+   "title": "NEVER FEED THIS GATOR IN GTA 6 😨 #shorts #gta6",
+   "drafted": false,
+   "ts": "2026-11-25T08:08:28.090215+00:00"
+  },
+  {
+   "author": "youtube:gta günlükleri",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6'da Sizi Boğulmaktan Kurtaran KÖPEK!",
+   "drafted": false,
+   "ts": "2026-11-25T08:09:19.035071+00:00"
+  },
+  {
+   "author": "youtube:diem archive",
+   "vod": "",
+   "offset": -1,
+   "title": "Gta 6 Mandy | @DIEMARCHIVE #gta6 #gameplay #glitch",
+   "drafted": false,
+   "ts": "2026-11-25T08:09:19.794874+00:00"
+  },
+  {
+   "author": "youtube:maryana lokel",
+   "vod": "",
+   "offset": -1,
+   "title": "эээ🤨 #game #gta6",
+   "drafted": false,
+   "ts": "2026-11-25T08:09:20.491575+00:00"
+  },
+  {
+   "author": "youtube:caderaa",
+   "vod": "",
+   "offset": -1,
+   "title": "CHAPTER III DENGAN 55% PROGRESS GTA VI Part 7",
+   "drafted": false,
+   "ts": "2026-11-25T08:09:21.304739+00:00"
+  },
+  {
+   "author": "youtube:sanstube",
+   "vod": "",
+   "offset": -1,
+   "title": "Nobody Was Ready for Mandy in GTA 6 #gta6 #shorts #rockstar",
+   "drafted": false,
+   "ts": "2026-11-25T08:10:12.304895+00:00"
+  },
+  {
+   "author": "twitch:lilypichu",
+   "vod": "2939767299",
+   "offset": 19028.0,
+   "title": "Hold Square",
+   "drafted": false,
+   "ts": "2026-11-25T08:10:13.001887+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:caseoh_",
+   "vod": "2938655753",
+   "offset": 10009.0,
+   "title": "slight scratch",
+   "drafted": false,
+   "ts": "2026-11-25T08:10:18.143883+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:rubius",
+   "vod": "2939504674",
+   "offset": 28702.0,
+   "title": "LA COBRA SODOMIZAD4",
+   "drafted": false,
+   "ts": "2026-11-25T08:10:28.752379+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:rubius",
+   "vod": "2939504674",
+   "offset": 28702.0,
+   "title": "LA COBRA SODOMIZAD4",
+   "drafted": true,
+   "ts": "2026-11-25T08:10:34.794264+00:00",
+   "frames": [],
+   "caption": "СПОЙЛЕР. 🔞 Сюжетка в GTA 6 радует необычными ракурсами: Джейсон оценивает пикантные фото на фотоаппарате — просто разнос"
   }
  ],
  "published": [
