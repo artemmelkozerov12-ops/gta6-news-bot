@@ -4555,7 +4555,16 @@
   "49433f5174163f09": "2026-11-25T23:07:46.144553+00:00",
   "19cf794b7fffd44b": "2026-11-25T23:07:52.041455+00:00",
   "6367cbb34e254b91": "2026-11-25T23:07:53.261924+00:00",
-  "61bb780b43a9e434": "2026-11-25T23:07:58.483153+00:00"
+  "61bb780b43a9e434": "2026-11-25T23:07:58.483153+00:00",
+  "9632d7bfc8fc4ec0": "2026-11-25T23:23:20.753797+00:00",
+  "ffe6dda9a46bc7af": "2026-11-25T23:23:24.214446+00:00",
+  "f5ee5705238b069e": "2026-11-25T23:23:27.040654+00:00",
+  "41c0ba9c2c365cf3": "2026-11-25T23:23:30.562723+00:00",
+  "1245a388b7aaeda4": "2026-11-25T23:38:51.232772+00:00",
+  "f37447bd980c4251": "2026-11-25T23:38:52.717805+00:00",
+  "13c53bae94b88609": "2026-11-25T23:38:57.287470+00:00",
+  "2615320064e6adb9": "2026-11-25T23:38:59.497501+00:00",
+  "24986e94e8c92744": "2026-11-25T23:39:11.832506+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -7590,7 +7599,16 @@
   "f5f1589563457d5f": "2026-11-25T23:07:46.144553+00:00",
   "e764cce68165a1d4": "2026-11-25T23:07:52.041455+00:00",
   "adecb0e399e69849": "2026-11-25T23:07:53.261924+00:00",
-  "b3f6e2b9af8e0cf2": "2026-11-25T23:07:58.483153+00:00"
+  "b3f6e2b9af8e0cf2": "2026-11-25T23:07:58.483153+00:00",
+  "6b3c64ec890b2915": "2026-11-25T23:23:20.753797+00:00",
+  "50a337a0fc50eed6": "2026-11-25T23:23:24.214446+00:00",
+  "5bd6a879cc732082": "2026-11-25T23:23:27.040654+00:00",
+  "0a955d313b906303": "2026-11-25T23:23:30.562723+00:00",
+  "363d312bcc5a87ed": "2026-11-25T23:38:51.232772+00:00",
+  "8fc29ce9d33ae032": "2026-11-25T23:38:52.717805+00:00",
+  "5014027da9344e5b": "2026-11-25T23:38:57.287470+00:00",
+  "4266c7623cc5369a": "2026-11-25T23:38:59.497501+00:00",
+  "24ee53d8cdc50b6e": "2026-11-25T23:39:11.832506+00:00"
  },
  "recent": [
   {
@@ -14976,6 +14994,70 @@
    "status": "skipped",
    "ts": "2026-11-25T23:07:58.483281+00:00",
    "card_title": ""
+  },
+  {
+   "title": "Rockstar is handing out 100 of these gorgeous limited-edition GTA 6 PS5 consoles, and you can't buy one",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T23:23:20.753937+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "5 Best GTA 6 Weapons, Ranked",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T23:23:24.214568+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 is causing technical glitches on PlayStation 5 and Xbox Series X.",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T23:23:27.040778+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 вызывает технические сбои на PlayStation 5 и Xbox Series",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T23:23:30.562878+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Spotify Reveals Massive Spike in Streams for Music Featured in GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T23:38:51.232901+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Scranton native voices character in newly released GTA VI video game",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T23:38:52.717958+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Kevin Durant delivers update everybody wanted to hear – his GTA 6 progress",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T23:38:57.287591+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "HISTORY: In Only 4 Days 'GTA VI' Sold 45 Million Copies For A Revenue Of $4 BILLION And Players Keep Finding INSANE Easter Eggs That Prove It's Already The Greatest Video Game Ever Made",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T23:39:11.832653+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -15098,37 +15180,6 @@
     "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
    },
    "queued_at": "2026-11-25T22:19:38.962789+00:00"
-  },
-  {
-   "item": {
-    "title": "GTA 6's best lore drops happen when you're chilling with your partner, so stop leaving them at home all the time",
-    "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6s-best-lore-drops-happen-when-youre-chilling-with-your-partner-so-stop-leaving-them-at-home-all-the-time/",
-    "summary": "Learning things about your partner by spending time with them? Say it ain't so.",
-    "published": "2026-11-25T11:14:42+00:00",
-    "source": "PC Gamer",
-    "site_name": "PC Gamer",
-    "trust": "high",
-    "text": "My real relationship be damned, this last week has been all about playing cupid in Grand Theft Auto 6. I've become utterly invested in keeping Jason and Lucia in love, which means a lot of my time in the game has been spent doing things with my partner in tow. Hitting the gym, inviting them out for a late-night bite, robbing a few jewellery stores. You know, couple things. Things couples do.\nAnd, as people tend to do when they're spending a lot of time together, Jason and Lucia talk. A lot. And you know what? Some of the best nuggets of information about their lives—both their time spent together before the events of the game, and their own individual lives before meeting one another—are tucked away in these interactions that fill the game's quieter moments.\nSometimes the interactions are simply fluffy, or funny. Lucia poking fun at Jason for his deep voice and monosyllabic responses, or them reminiscing about little moments that happened in their relationship before the whole \"Lucia ghosting Jason and ending up in jail\" thing. Sometimes it's Lucia getting a spam call and giving the bot (and eventual human) on the other end of the phone an absolute earful.\nBut then, occasionally, beyond all the comedic conversations and flavour dialogue that give these characters so much life, the game'll drop some proper good lore. I'll do my best not to spoil stuff here, but for almost every complaint I've seen on social media about why certain protagonists did certain things, there's an answer tucked away in these interactions. The kind of things you'd really want to know about these characters? Your best chance of finding it all out is when you bring them together.\nI've really enjoyed having lore drops unfold in mundane conversations while walking around, driving, or eating a burger, rather than hamfisted into the main story. They feel like natural breathing moments for the couple to recount the past, or get into the stuff that was happening in the time that they were apart. You know, the exact kind of times actual couples and friends would find the time to dig into these things in real life, too.\nThat doesn't mean you have to keep them together all the time. Some of their exclusive missions also provide a great bit of insight into their backstories—like Jason's side stuff with ex-army pal Bret Vogel, or the missions that have Lucia in some all-too-real situations with her mother.\nI've played plenty of the game flying solo as both protagonists too, and you'll occasiona",
-    "extra": {
-     "image": "https://cdn.mos.cms.futurecdn.net/MybRDJeCE4mrHokyi4PpA5-1920-80.png"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "🗺 Гайд: Как раскрыть секреты и лор Джейсона и Люсии\n\nНе гуляй по Вайс-Сити в соло. Самый сочный лор и ответы на вопросы по сюжету раскрываются в обычных бытовых разговорах, когда берешь напарника с собой в заведения, на ограбления или просто катаешься по городу.",
-    "card_title": "НЕ ОСТАВЛЯЙ ПАРТНЕРА ДОМА",
-    "reason": "Статья описывает игровую механикy и сюжетные диалоги в вышедшей GTA 6, это подтвержденный контент от крупного СМИ.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "GTA 6's best lore drops happen when you're chilling with your partner, so stop leaving them at home all the time",
-    "corroborated_by": "GTA 6's best lore drops happen when you're chilling with your partner, so stop leaving them at home all the time",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-3.5-flash"
-   },
-   "queued_at": "2026-11-25T11:26:22.394727+00:00",
-   "moderation": "pending",
-   "draft_msg_id": 159
   },
   {
    "item": {
@@ -22790,6 +22841,34 @@
    },
    "corr": false,
    "since": "2026-11-25T22:51:56.226577+00:00"
+  },
+  {
+   "item": {
+    "title": "Here’s How to Find Rick Ross’ Mansion in ‘Grand Theft Auto VI’",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSGtzQmt4ZWZ3aEZMR0lUNVBKd3o5ZmViY2M5UUxYY0QtQWFXSEZJOXBBel9MLVhIUHN1YnVZeDZkeUtRM2NtRUFSeDV2Y0U2UWZCdjlIRFBDSEpKajFheVc2MDQxT2JpZXJiWnpWR2pnTXNicTNyVklyZkZCUlJNUThOZlo3dERuYkx2LXphdkRhQTl6VVdEdUt5TVdMV2JnLWlF?oc=5",
+    "summary": "Here’s How to Find Rick Ross’ Mansion in ‘Grand Theft Auto VI’ Billboard",
+    "published": "2026-11-25T20:31:33+00:00",
+    "source": "Google News (EN)",
+    "site_name": "Billboard",
+    "trust": "rumor",
+    "text": "Here’s How to Find Rick Ross’ Mansion in ‘Grand Theft Auto VI’ Billboard",
+    "extra": {}
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "🗺 Гайд: ОСОБНЯК Рика Росса\n\nИщем хату рэпера в игре.\n\nЧекнули, где стоит та самая вилла Рика Росса. Карта огромная, но этот особняк того стоит, чисто лютый вайб для скринов.\n\n❤️ — Уже нашел\n👎 — Заблудился",
+    "card_title": "ОСОБНЯК РИКА РОССА",
+    "reason": "Гайд по поиску реального особняка Рика Росса в GTA 6, полезный секрет для игроков.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": true,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": true,
+   "since": "2026-11-25T23:39:08.088997+00:00"
   }
  ]
 }
