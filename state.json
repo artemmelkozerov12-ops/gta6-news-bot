@@ -4448,7 +4448,29 @@
   "50420d809380881e": "2026-11-25T20:16:34.798418+00:00",
   "ec438c2b0c570536": "2026-11-25T20:16:37.554573+00:00",
   "3ff3b98ae03cbf87": "2026-11-25T20:16:42.465221+00:00",
-  "b30151374e2c3a68": "2026-11-25T20:16:48.013661+00:00"
+  "b30151374e2c3a68": "2026-11-25T20:16:48.013661+00:00",
+  "9703200ba55679f9": "2026-11-25T20:32:13.846198+00:00",
+  "a43bc545824b65c2": "2026-11-25T20:32:14.959036+00:00",
+  "198190719fb45db5": "2026-11-25T20:32:16.372087+00:00",
+  "9358cbb78f30e261": "2026-11-25T20:32:25.510393+00:00",
+  "76f0fedbdb7b406c": "2026-11-25T20:32:26.437290+00:00",
+  "983437005f7f2c08": "2026-11-25T20:32:33.324513+00:00",
+  "9dab67572fdab69c": "2026-11-25T20:32:34.716616+00:00",
+  "1705cb306ece1209": "2026-11-25T20:32:41.222375+00:00",
+  "612caf1eb75d6f13": "2026-11-25T20:42:45.647858+00:00",
+  "5d3a5833cdc09524": "2026-11-25T20:42:46.548793+00:00",
+  "80f83fb78747299d": "2026-11-25T20:42:47.312360+00:00",
+  "65c12beaff0d001a": "2026-11-25T20:42:48.144773+00:00",
+  "ceafd1d1f4b60b77": "2026-11-25T20:43:39.192878+00:00",
+  "2dfccb9d27d6bc88": "2026-11-25T20:48:12.434866+00:00",
+  "dd788465e25e3002": "2026-11-25T20:48:17.386449+00:00",
+  "f8f1ace9fc04bd96": "2026-11-25T20:48:20.528940+00:00",
+  "ab896394d6e33f15": "2026-11-25T20:48:21.684388+00:00",
+  "2690d614d1276e92": "2026-11-25T20:48:28.308645+00:00",
+  "cc376baf734f3c76": "2026-11-25T20:48:31.301239+00:00",
+  "8427db54da2f3dd9": "2026-11-25T20:48:32.542638+00:00",
+  "238a4f1ef4ace002": "2026-11-25T20:48:40.959477+00:00",
+  "a0e9b0182336100c": "2026-11-25T20:48:44.383571+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -7400,7 +7422,24 @@
   "1982a76c03e62f7a": "2026-11-25T20:16:34.798418+00:00",
   "fb964d56c0f87aae": "2026-11-25T20:16:37.554573+00:00",
   "697e7519147500d0": "2026-11-25T20:16:42.465221+00:00",
-  "b7e6c6039dbd5cb0": "2026-11-25T20:16:48.013661+00:00"
+  "b7e6c6039dbd5cb0": "2026-11-25T20:16:48.013661+00:00",
+  "97aeb62f101def4a": "2026-11-25T20:32:13.846198+00:00",
+  "57fa6785f0d6d677": "2026-11-25T20:32:14.959036+00:00",
+  "06f5029995f6e8fa": "2026-11-25T20:32:16.372087+00:00",
+  "63acfb1be4fd650c": "2026-11-25T20:32:25.510393+00:00",
+  "60f572c19734a788": "2026-11-25T20:32:26.437290+00:00",
+  "5e197d1926fbba30": "2026-11-25T20:32:33.324513+00:00",
+  "860703f3a8e79af1": "2026-11-25T20:32:34.716616+00:00",
+  "09e918dd860bc549": "2026-11-25T20:32:41.222375+00:00",
+  "5db757136cb0da33": "2026-11-25T20:48:12.434866+00:00",
+  "be5ebd1e892b5a0d": "2026-11-25T20:48:17.386449+00:00",
+  "4e3e4e336a61e241": "2026-11-25T20:48:20.528940+00:00",
+  "a754407930f04a42": "2026-11-25T20:48:21.684388+00:00",
+  "b4c59b9ebfb310a5": "2026-11-25T20:48:28.308645+00:00",
+  "74f6099372b0ae07": "2026-11-25T20:48:31.301239+00:00",
+  "22a2bfedcdd13a8a": "2026-11-25T20:48:32.542638+00:00",
+  "b1594af40e717895": "2026-11-25T20:48:40.959477+00:00",
+  "b20842243e5c466c": "2026-11-25T20:48:44.383571+00:00"
  },
  "recent": [
   {
@@ -15146,6 +15185,142 @@
    "status": "skipped",
    "ts": "2026-11-25T20:16:48.013796+00:00",
    "card_title": ""
+  },
+  {
+   "title": "‘GTA VI’ Just Might Turn Carly Rae Jepsen Into A “Late in Life Gamer”",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T20:32:13.846273+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Breaking Up Over GTA VI?! + Thanksgiving Sports Etiquette, MACtion \"Big Man\" Fumbles | Valenti Show",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T20:32:14.959109+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Психолог объяснила, как GTA 6 помогает справляться со стрессом",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T20:32:16.372153+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6’s Trading Cards Are Becoming Real & Fans Can Collect Them Soon",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T20:32:25.510462+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "В сеть слили графические настройки GTA 6 на PS5 и Xbox",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T20:32:26.437356+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "This hidden side mission in GTA 6 gives you a permanent stamina increase",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T20:32:33.324584+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI Arrives Ahead of Black Friday Boys Town Nevada Offers a Parent’s Guide to Holiday Gaming",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T20:32:34.716688+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI на MacBook Pro работает лучше, чем на Windows-ПК. Смотрите сами",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T20:32:41.222444+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "10 of the Best 'GTA 6' Cheat Codes, and How to Use Them",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-25T20:48:12.434903+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Rick Ross Mansion: How to Find It on Starfish Island",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-25T20:48:18.956145+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Did GTA 6 really recreate Charlie Kirk's assassination? - Truth or Fake",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T20:48:20.529077+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Rockstar and Panini announce GTA VI: Sports Trading Card Collection",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T20:48:21.684502+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Путешествие героев GTA 6 по зимней Москве: мемы с Лусией и Джейсоном",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T20:48:28.308785+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Amazon Offloads the TV Backlight Built for GTA VI Nights, 34% Off and It Works With PS5, Xbox and PC",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T20:48:31.301369+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Консоли \"потянули\" GTA 6 только на средних настройках — датамайнеры раскопали файлы проекта",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T20:48:32.542788+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "What Indie Musicians Can Learn From GTA 6's Record-Breaking Rollout And $3.79 Billion Launch",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T20:48:40.959606+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "The best things to do in GTA 6 after beating the main story",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T20:48:44.383697+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -15176,7 +15351,9 @@
     "guide": false,
     "model": "groq:qwen/qwen3.8-27b → groq:openai/gpt-oss-120b"
    },
-   "queued_at": "2026-11-25T20:13:43.851211+00:00"
+   "queued_at": "2026-11-25T20:13:43.851211+00:00",
+   "moderation": "pending",
+   "draft_msg_id": 169
   },
   {
    "item": {
@@ -15670,7 +15847,8 @@
   "2026-11-25T16:11:56.509162+00:00",
   "2026-11-25T17:12:22.400219+00:00",
   "2026-11-25T18:30:22.933992+00:00",
-  "2026-11-25T19:30:49.885794+00:00"
+  "2026-11-25T19:30:49.885794+00:00",
+  "2026-11-25T20:31:08.281051+00:00"
  ],
  "slots_sent": {
   "2026-11-24:guide:1": "2026-11-24T14:08:00.473378+00:00",
@@ -15682,36 +15860,6 @@
   "2026-11-23T20:15:05.441047+00:00"
  ],
  "clips": [
-  {
-   "clip": {
-    "source": "twitch",
-    "url": "https://www.twitch.tv/vinesauce/clip/EasyDreamyConsoleMrDestructoid-oa-E_Ucl8j-vVaO9",
-    "title": "He belongs to Monke now",
-    "author": "Vinesauce",
-    "views": 335,
-    "duration": 30.0,
-    "created": "2026-11-24T05:27:51+00:00",
-    "lang": "en",
-    "description": "",
-    "vod_id": "",
-    "vod_offset": -1
-   },
-   "caption": "Чел решил, что обезьяны в клетке — отличная компания для ночных фоток, но получил разнос. Жиза, не стоило их вообще трогать 💀",
-   "interest": 9,
-   "spoiler": false,
-   "nsfw": false,
-   "watched": true,
-   "model": "gemini:gemini-3.1-flash-lite",
-   "media": {
-    "width": null,
-    "height": 720,
-    "duration": 30
-   },
-   "queued_at": "2026-11-24T20:29:35.321376+00:00",
-   "file_id": "BAACAgIAAxkDAAONawXzsFLL19wFfGUj50gqEf5-4n8AAtW6AAImETBIpQgiGfNjQvc9BA",
-   "moderation": "pending",
-   "draft_msg_id": 141
-  },
   {
    "clip": {
     "source": "twitch",
@@ -15921,6 +16069,36 @@
    "file_id": "BAACAgIAAxkDAAOoawc6FDXmq5sEjJjYp--PN538b1AAAkG6AAImEThIPX2Y-2sC8XQ9BA",
    "moderation": "pending",
    "draft_msg_id": 168
+  },
+  {
+   "clip": {
+    "source": "twitch",
+    "url": "https://www.twitch.tv/rubius/clip/KnottyClumsyPepperPogChamp-yMfYotTaJGHSMpt5",
+    "title": "aplastado",
+    "author": "Rubius",
+    "views": 318,
+    "duration": 24.0,
+    "created": "2026-11-25T18:49:50+00:00",
+    "lang": "es",
+    "description": "",
+    "vod_id": "2940532060",
+    "vod_offset": 2278.0
+   },
+   "caption": "Грузовик просто раскатал Лусию на переходе — вот это физика, лютый разнос 💀",
+   "interest": 8,
+   "spoiler": false,
+   "nsfw": false,
+   "watched": true,
+   "model": "gemini:gemini-3.5-flash-lite",
+   "media": {
+    "width": null,
+    "height": 720,
+    "duration": 24
+   },
+   "queued_at": "2026-11-25T20:43:43.864941+00:00",
+   "file_id": "BAACAgIAAxkDAAOqawdIgXsgz_uy9C2qo0ztILQVMZ8AAr66AAImEThIA8lJ65K35R89BA",
+   "moderation": "pending",
+   "draft_msg_id": 170
   }
  ],
  "clip_drafts": [
@@ -15941,7 +16119,8 @@
   "2026-11-25T10:16:44.959566+00:00",
   "2026-11-25T11:20:56.153105+00:00",
   "2026-11-25T12:24:26.140864+00:00",
-  "2026-11-25T19:42:13.345058+00:00"
+  "2026-11-25T19:42:13.345058+00:00",
+  "2026-11-25T20:43:45.856460+00:00"
  ],
  "clip_history": [
   {
@@ -22454,6 +22633,57 @@
    "ts": "2026-11-25T19:42:13.345076+00:00",
    "frames": [],
    "caption": "🔞 В GTA 6 завезли мини-игру с массажем и съёмками на пляже — чисто лютый разнос 💀"
+  },
+  {
+   "author": "youtube:shehzadgaming4k",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 | DAY  8 | UFO SIGHTING 😮",
+   "drafted": false,
+   "ts": "2026-11-25T20:42:45.647894+00:00"
+  },
+  {
+   "author": "youtube:ryckreys",
+   "vod": "",
+   "offset": -1,
+   "title": "o TRISTE destino FINAL do HULK VERMELHO no GTA 6",
+   "drafted": false,
+   "ts": "2026-11-25T20:42:46.548827+00:00"
+  },
+  {
+   "author": "youtube:gelnox",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6: 2 types of Players Edit",
+   "drafted": false,
+   "ts": "2026-11-25T20:42:47.312395+00:00"
+  },
+  {
+   "author": "youtube:ben esherick",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 INFINITE MONEY GLITCH😭",
+   "drafted": false,
+   "ts": "2026-11-25T20:42:48.144807+00:00"
+  },
+  {
+   "author": "twitch:rubius",
+   "vod": "2940532060",
+   "offset": 2278.0,
+   "title": "aplastado",
+   "drafted": false,
+   "ts": "2026-11-25T20:43:39.192912+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:rubius",
+   "vod": "2940532060",
+   "offset": 2278.0,
+   "title": "aplastado",
+   "drafted": true,
+   "ts": "2026-11-25T20:43:45.856479+00:00",
+   "frames": [],
+   "caption": "Грузовик просто раскатал Лусию на переходе — вот это физика, лютый разнос 💀"
   }
  ],
  "published": [
