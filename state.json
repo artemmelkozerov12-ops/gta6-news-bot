@@ -4487,7 +4487,40 @@
   "8b1bedaa84fcd8e7": "2026-11-25T21:21:09.660594+00:00",
   "6b566c3cbf853144": "2026-11-25T21:21:11.045351+00:00",
   "4ddaf6837c39c87c": "2026-11-25T21:21:16.115157+00:00",
-  "f7ed54d2b7151dcf": "2026-11-25T21:21:19.510299+00:00"
+  "f7ed54d2b7151dcf": "2026-11-25T21:21:19.510299+00:00",
+  "9d262c3d2c1f97e1": "2026-11-25T21:36:41.592983+00:00",
+  "ad2be95cfff89ddd": "2026-11-25T21:36:53.091215+00:00",
+  "3fbe8631dd15ba0d": "2026-11-25T21:36:54.551735+00:00",
+  "ce0d73cd1f15ef91": "2026-11-25T21:37:03.458240+00:00",
+  "9d307a24c3bc2538": "2026-11-25T21:37:24.993933+00:00",
+  "2383841cb9b31089": "2026-11-25T21:37:47.724792+00:00",
+  "ee13d7b151ffeb69": "2026-11-25T21:38:09.527495+00:00",
+  "b73aef74462ab532": "2026-11-25T21:38:31.145864+00:00",
+  "f64d4501b6d17fef": "2026-11-25T21:44:27.512540+00:00",
+  "97082c7e2877596a": "2026-11-25T21:44:28.728176+00:00",
+  "556f1627f785c479": "2026-11-25T21:44:29.925313+00:00",
+  "5058f678915ce6b2": "2026-11-25T21:44:31.156384+00:00",
+  "6ada9487833d2104": "2026-11-25T21:45:23.425577+00:00",
+  "fa301472ab6cf4d5": "2026-11-25T21:45:24.579662+00:00",
+  "3bb98d511763a54c": "2026-11-25T21:45:25.912798+00:00",
+  "d0f002df2ac99739": "2026-11-25T21:45:27.242621+00:00",
+  "ce34864e6f376a92": "2026-11-25T21:46:18.395660+00:00",
+  "cc740ed36f05ce45": "2026-11-25T21:46:19.396793+00:00",
+  "bb66a508090b3fef": "2026-11-25T21:46:20.735165+00:00",
+  "e7d3eb27872e9fc2": "2026-11-25T21:46:33.104219+00:00",
+  "0beb705bd88143cc": "2026-11-25T21:47:28.343330+00:00",
+  "5a2237451b6471fc": "2026-11-25T21:47:34.175423+00:00",
+  "2ed128fee65bb2f7": "2026-11-25T21:47:42.140495+00:00",
+  "b95efa017d5bf908": "2026-11-25T21:47:51.283577+00:00",
+  "b9dd06b814da108e": "2026-11-25T21:48:47.568971+00:00",
+  "96d3a975ac5957bd": "2026-11-25T21:54:15.136248+00:00",
+  "13ff3c7d74d79133": "2026-11-25T21:54:16.281082+00:00",
+  "8df09e5db81af3fe": "2026-11-25T21:54:19.410447+00:00",
+  "e560be51b8dcaabd": "2026-11-25T21:54:21.079592+00:00",
+  "bfa4665f459fd07f": "2026-11-25T21:54:31.541066+00:00",
+  "923e270526379550": "2026-11-25T21:54:32.593130+00:00",
+  "b4d75024dd195e59": "2026-11-25T21:54:35.728540+00:00",
+  "137a9392ec1cd1b1": "2026-11-25T21:54:41.101912+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -7472,7 +7505,23 @@
   "d510e2ee5f816f13": "2026-11-25T21:21:09.660594+00:00",
   "55da5c0a9a69ee95": "2026-11-25T21:21:11.045351+00:00",
   "8a7f88b398d1d65b": "2026-11-25T21:21:16.115157+00:00",
-  "36e14903feadab8f": "2026-11-25T21:21:19.510299+00:00"
+  "36e14903feadab8f": "2026-11-25T21:21:19.510299+00:00",
+  "ef26686df9b0ec45": "2026-11-25T21:36:41.592983+00:00",
+  "44d7e2b55f8c9544": "2026-11-25T21:36:53.091215+00:00",
+  "15f35118e18ff19b": "2026-11-25T21:36:54.551735+00:00",
+  "92ddb4d4daae4e5d": "2026-11-25T21:37:03.458240+00:00",
+  "eda1873afa4a1a18": "2026-11-25T21:37:24.993933+00:00",
+  "474fc8575127557f": "2026-11-25T21:37:47.724792+00:00",
+  "9a3d6c0f6dbf09ed": "2026-11-25T21:38:09.527495+00:00",
+  "6d336ef917c2b499": "2026-11-25T21:38:31.145864+00:00",
+  "0277b1d6c6b5e4a8": "2026-11-25T21:54:15.136248+00:00",
+  "db783c2a12487794": "2026-11-25T21:54:16.281082+00:00",
+  "bb1f8a0f282d093e": "2026-11-25T21:54:19.410447+00:00",
+  "fa05587771cc98c6": "2026-11-25T21:54:21.079592+00:00",
+  "05528630a2fc8cc9": "2026-11-25T21:54:31.541066+00:00",
+  "2f89dd989fc899ae": "2026-11-25T21:54:32.593130+00:00",
+  "ff68dc4453329dbb": "2026-11-25T21:54:35.728540+00:00",
+  "6fa447048c2dbfaa": "2026-11-25T21:54:41.101912+00:00"
  },
  "recent": [
   {
@@ -15498,6 +15547,142 @@
    "status": "skipped",
    "ts": "2026-11-25T21:21:19.510412+00:00",
    "card_title": ""
+  },
+  {
+   "title": "How to Find and Complete Kingpin Bowling Alley in GTA 6—All Key Valuables",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-25T21:36:53.091323+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Hell yeah, there's a zoo in GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T21:36:54.551859+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "The Wildlife in GTA 6 Is Unreal, and You Need to See It Up Close",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T21:37:03.458363+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Будет ли DLC для GTA 6. Когда выйдет дополнение для ГТА 6",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T21:37:24.994062+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6: Meet Lexie Shoaibi, the Actress Behind Mandy",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T21:37:47.724908+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Publisher Furious as Reverse Engineers Get It Running on PC",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T21:38:09.527624+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI Soundtrack Vinyl: Buy The Album With Poster On Complex",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T21:38:31.145974+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Похоже, теперь слили полный билд GTA VI для PlayStation 5",
+   "source": "iXBT.games",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-25T21:54:12.276670+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Руки из ****: крыша дома Джейсона из GTA VI всегда будет протекать — польский геймер указал на системную ошибку Rockstar Games",
+   "source": "iXBT.games",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-25T21:54:12.276730+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "'It Felt at Odds With the Story We Were Trying to Tell' - GTA 6 Developer Explains Why There's No Way to Replay Missions",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T21:54:15.136365+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Review: Is ‘GTA VI’ Actually Woke?",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T21:54:16.281189+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Welcome to Vice City: 15 GTA 6 Tips to Rule the Underworld Fast",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T21:54:19.410557+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Can You Replay GTA 6 Story Missions? Rockstar Explains Why Not",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T21:54:21.079687+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "‘GTA 6’ Has At Least 9 Distinct Endings",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T21:54:31.541149+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "The Top 25 Craziest Things That Have Happened To Me In ‘GTA 6’",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T21:54:32.593205+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6: There Are a Few Very Good Reasons to Go Back to Jason’s House After Chapter 1",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T21:54:35.728610+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Как красть банкоматы в GTA 6: гайд",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T21:54:41.101979+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -15559,7 +15744,9 @@
     "guide": false,
     "model": "gemini:gemini-3.1-flash-lite → groq:openai/gpt-oss-120b"
    },
-   "queued_at": "2026-11-25T20:15:30.446332+00:00"
+   "queued_at": "2026-11-25T20:15:30.446332+00:00",
+   "moderation": "pending",
+   "draft_msg_id": 171
   },
   {
    "item": {
@@ -15932,7 +16119,8 @@
   "2026-11-25T17:12:22.400219+00:00",
   "2026-11-25T18:30:22.933992+00:00",
   "2026-11-25T19:30:49.885794+00:00",
-  "2026-11-25T20:31:08.281051+00:00"
+  "2026-11-25T20:31:08.281051+00:00",
+  "2026-11-25T21:38:36.246061+00:00"
  ],
  "slots_sent": {
   "2026-11-24:guide:1": "2026-11-24T14:08:00.473378+00:00",
@@ -16183,6 +16371,36 @@
    "file_id": "BAACAgIAAxkDAAOqawdIgXsgz_uy9C2qo0ztILQVMZ8AAr66AAImEThIA8lJ65K35R89BA",
    "moderation": "pending",
    "draft_msg_id": 170
+  },
+  {
+   "clip": {
+    "source": "twitch",
+    "url": "https://www.twitch.tv/nickeh30/clip/HeartlessSolidJalapenoKappaWealth-BqLPL7JBp3dcH7Ig",
+    "title": "EvilEh30",
+    "author": "NickEh30",
+    "views": 461,
+    "duration": 15.0,
+    "created": "2026-11-25T02:50:15+00:00",
+    "lang": "en",
+    "description": "",
+    "vod_id": "2939401420",
+    "vod_offset": 40809.0
+   },
+   "caption": "Пожарка в GTA 6 — это лютая имба, разносит всё на пути как не в себя. Чел просто устроил настоящий хаос на пляже, ору 💀",
+   "interest": 8,
+   "spoiler": false,
+   "nsfw": false,
+   "watched": true,
+   "model": "gemini:gemini-3.1-flash-lite",
+   "media": {
+    "width": null,
+    "height": 720,
+    "duration": 15
+   },
+   "queued_at": "2026-11-25T21:48:55.259063+00:00",
+   "file_id": "BAACAgIAAxkDAAOsawdXycJHQsPAZhAbFdwgDa8RGG4AAgi7AAImEThIiYYLfRuyZqs9BA",
+   "moderation": "pending",
+   "draft_msg_id": 172
   }
  ],
  "clip_drafts": [
@@ -16204,7 +16422,8 @@
   "2026-11-25T11:20:56.153105+00:00",
   "2026-11-25T12:24:26.140864+00:00",
   "2026-11-25T19:42:13.345058+00:00",
-  "2026-11-25T20:43:45.856460+00:00"
+  "2026-11-25T20:43:45.856460+00:00",
+  "2026-11-25T21:48:57.940422+00:00"
  ],
  "clip_history": [
   {
@@ -22768,6 +22987,159 @@
    "ts": "2026-11-25T20:43:45.856479+00:00",
    "frames": [],
    "caption": "Грузовик просто раскатал Лусию на переходе — вот это физика, лютый разнос 💀"
+  },
+  {
+   "author": "youtube:yerrikillerxd",
+   "vod": "",
+   "offset": -1,
+   "title": "Cuando Juegas Demasiado GTA 6😳⚠️#comedia",
+   "drafted": false,
+   "ts": "2026-11-25T21:44:27.512573+00:00"
+  },
+  {
+   "author": "youtube:not your life",
+   "vod": "",
+   "offset": -1,
+   "title": "САМЫЕ БЫСТРЫЕ $40 000 В GTA 6🤯 #shorts",
+   "drafted": false,
+   "ts": "2026-11-25T21:44:28.728210+00:00"
+  },
+  {
+   "author": "youtube:xshowtime",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 AUF DEM PC WURDE GELEAKT! #shorts",
+   "drafted": false,
+   "ts": "2026-11-25T21:44:29.925341+00:00"
+  },
+  {
+   "author": "youtube:terlalupintarr",
+   "vod": "",
+   "offset": -1,
+   "title": "Pria Ini Berteriak GTA 6 Tengah Malam! 😂",
+   "drafted": false,
+   "ts": "2026-11-25T21:44:31.156414+00:00"
+  },
+  {
+   "author": "youtube:snlper",
+   "vod": "",
+   "offset": -1,
+   "title": "Top 3 Best GTA 6 Edits",
+   "drafted": false,
+   "ts": "2026-11-25T21:45:23.425608+00:00"
+  },
+  {
+   "author": "youtube:luthfi halimawan",
+   "vod": "",
+   "offset": -1,
+   "title": "JASON DENGAN 1000 HOBINYA! - GTA VI #8",
+   "drafted": false,
+   "ts": "2026-11-25T21:45:24.579693+00:00"
+  },
+  {
+   "author": "youtube:shooteo",
+   "vod": "",
+   "offset": -1,
+   "title": "Can't Say Before GTA 6 Anymore! #shorts",
+   "drafted": false,
+   "ts": "2026-11-25T21:45:25.912829+00:00"
+  },
+  {
+   "author": "youtube:loochy",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 Rednecks Are Insane 🤣",
+   "drafted": false,
+   "ts": "2026-11-25T21:45:27.242656+00:00"
+  },
+  {
+   "author": "youtube:edgarftw",
+   "vod": "",
+   "offset": -1,
+   "title": "MANDY SE FUE DE GTA 6!",
+   "drafted": false,
+   "ts": "2026-11-25T21:46:18.395690+00:00"
+  },
+  {
+   "author": "youtube:remsua",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA VI 240 FPS 8K GAMEPLAY 🔥",
+   "drafted": false,
+   "ts": "2026-11-25T21:46:19.396823+00:00"
+  },
+  {
+   "author": "twitch:kiilanie",
+   "vod": "2940206210",
+   "offset": 13882.0,
+   "title": "DROPS🌴 PS5 🌴 DAY 5 Chap. 2 🌴Florida Man 🌴 Crime in 30FPS🦩 5 SUBS = TEMP TATTOO ON ME 🦩 @kiilanie !socials",
+   "drafted": false,
+   "ts": "2026-11-25T21:46:20.735203+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:illojuan",
+   "vod": "2940424560",
+   "offset": 6800.0,
+   "title": "sitcom",
+   "drafted": false,
+   "ts": "2026-11-25T21:46:33.104264+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:domingo",
+   "vod": "2940268995",
+   "offset": 3287.0,
+   "title": "crash 1",
+   "drafted": false,
+   "ts": "2026-11-25T21:47:28.343373+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:chowh1",
+   "vod": "2940195267",
+   "offset": 12066.0,
+   "title": "[DROP]🌴 FULL EXPLORATION 6 ETOILES 240FPS🌴 !secretlab !promo",
+   "drafted": false,
+   "ts": "2026-11-25T21:47:34.175468+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:tminnzy",
+   "vod": "2940095593",
+   "offset": 6991.0,
+   "title": "I TRIED TO HELP AN OLD LADY AND SHE KIDNAPPED ME?! 👵🏼🫨",
+   "drafted": false,
+   "ts": "2026-11-25T21:47:42.140534+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:montanablack88",
+   "vod": "2940172505",
+   "offset": 1622.0,
+   "title": "deswegen keine 250 bzw 330 ml dosen",
+   "drafted": false,
+   "ts": "2026-11-25T21:47:51.283611+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:nickeh30",
+   "vod": "2939401420",
+   "offset": 40809.0,
+   "title": "EvilEh30",
+   "drafted": false,
+   "ts": "2026-11-25T21:48:47.569005+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:nickeh30",
+   "vod": "2939401420",
+   "offset": 40809.0,
+   "title": "EvilEh30",
+   "drafted": true,
+   "ts": "2026-11-25T21:48:57.940430+00:00",
+   "frames": [],
+   "caption": "Пожарка в GTA 6 — это лютая имба, разносит всё на пути как не в себя. Чел просто устроил настоящий хаос на пляже, ору 💀"
   }
  ],
  "published": [
@@ -23268,66 +23640,6 @@
  "rewrite_wait": [
   {
    "item": {
-    "title": "Похоже, теперь слили полный билд GTA VI для PlayStation 5",
-    "link": "https://ixbt.games/news/2026/11/25/poxoze-teper-slili-polnyi-bild-gta-vi-dlia-playstation-5.html",
-    "summary": "Ранее игроки уже получили Xbox-версию.",
-    "published": "2026-11-25T17:54:00+00:00",
-    "source": "iXBT.games",
-    "site_name": "iXBT.games",
-    "trust": "medium",
-    "text": "Недавно хакер (или группировка) Cyberleek порадовал игроков сливом билда Grand Theft Auto VI и exe-файла. Это уже дало первые плоды: игроки запускают новую часть франшизы на ПК (но пока всё это выглядит очень плохо и с малым FPS, но прогресс есть).\nТеперь от Sventek поступила информация о новой утечке. Он утверждает, что ему удалось получить полноценную сборку GTA VI для PlayStation 5 — расшифрованную и с исполняемым файлом.\nПо сообществу, специализирующемся на утечках GTA VI, начало распространять следующее сообщение Sventek:\nУже соскучились по мне? Уверен, что да. Вот торрент с версией [GTA VI] для PS5. Примечания: сборка сделана на скорую руку, чтобы быстрее выложить, некоторые файлы в папке sce_sys могут отсутствовать, но вся игра скопирована, а [исполняемый файл] eboot расшифрован :)\nТеперь техно-энтузиасты будут исследовать этот дамп — архив весит порядка 191 ГБ, а в распакованном виде «вес» превышает 500 ГБ. В этом году эмуляторы PlayStation 5 и проекты по нативному запуску PS5-игр уже далеко продвинулись, поэтому если данные файлы удастся использовать, то играбельная «GTA VI на ПК» может появиться в обозримом будущем.\nНе пропускайте наши новостиДобавьте сайт в предпочитаемые источники, чтобы видеть нас чащеДобавить в Google",
-    "extra": {
-     "image": "https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1746383/media-e5f4d6ede8a32b8edb97c9eec0f54f0c9bd67101c43ddaf1df72a6c47f591cf7.png"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "Слили СБОРКУ GTA 6 для PS5\n\nИнсайдеры выкатили в сеть расшифрованный билд весом почти 200 гигов. Техно-гики уже ковыряются в файлах, так что ждем норм эмуляторы на ПК.",
-    "card_title": "СЛИВ БИЛДА PS5",
-    "reason": "Новость о масштабной утечке билда PS5 от крупного СМИ, хайповая тема для комьюнити.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-25T18:31:53.561596+00:00"
-  },
-  {
-   "item": {
-    "title": "Руки из ****: крыша дома Джейсона из GTA VI всегда будет протекать — польский геймер указал на системную ошибку Rockstar Games",
-    "link": "https://ixbt.games/news/2026/11/25/ruki-iz-krysa-doma-dzeisona-iz-gta-vi-vsegda-budet-protekat-polskii-geimer-ukazal-na-sistemnuiu-osibku-rockstar-games.html",
-    "summary": "Ремонт крыши был выполнен неправильно.",
-    "published": "2026-11-25T17:40:00+00:00",
-    "source": "iXBT.games",
-    "site_name": "iXBT.games",
-    "trust": "medium",
-    "text": "Недавно состоялся релиз Grand Theft Auto VI и игроки постепенно осваивают контент. В игре есть не только криминал, но и другие активности, в том числе связанные с ремонтом.\nВнимание Даниэля Томашевски (Daniel Tomaszewski) привлекла мини-игра с починкой крыши. Внешне может показаться, что главный герой Джейсон Дюваль легко справляется с задачей, однако, объясняет Даниэль, на самом деле он совершает большую ошибку и при следующем дожде кровля протечёт:\nКогда меня спрашивают о самом большом недостатке GTA VI после 25 часов игры, я отвечаю на это так: в необязательной мини-игре про ремонт крыши Джейсон кладёт черепицу (гонт) не по правилам.\nGdy ktoś mnie pyta o największą wadę #GTAVI po 25 godzinach rozgrywki odpowiadam: w opcjonalnej minigierce o naprawie dachu Jason montuje gonty wbrew sztuce, źle je układa i mocuje, będzie mu ten dach nadal ciekł. Rockstar się nie przyłożył.\nИз-за неправильного крепления «что крыша у него всё равно будет протекать». По мнению Даниэля, команда Rockstar Games в этом случае «не приложила усилий».\nВ этом ролике видно, что Джейсон прибивает слои (чёрного цвета) по отдельности — они расположены слишком свободно, а для правильного крепления гвоздь должен пройти через свой слой и через тот, что находится под ним (пример реального монтажа на третьей картинке):\nИгроки, вроде BaranElektryk, связывают это с тем, что в команде за сценарий отвечали женщины и разработчики никогда не работали на «реальной» работе и поэтому не знали о том, как правильно чинят крыши: «Игра, созданная женщинами, и практически все работы по ремонту сделаны неправильно — ремонт крыши, стен, раковины и т. д.».\nНе пропускайте наши новостиДобавьте сайт в предпочитаемые источники, чтобы видеть нас чащеДобавить в Google",
-    "extra": {
-     "image": "https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1746378/media-28d465f36db5f11060fea8835dbbf4f5ffff7fc437143cf10365da60df8e8ca8.png"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "КРЫША Джейсона потечет\n\nФанаты заметили кринж в мини-игре с ремонтом: Джейсон укладывает черепицу неправильно, так что дом снова затопит при первом же дожде. Рокстары явно не шарят за стройку.\n\n❤️ — Ждем патч для крыши\n👎 — Сам починит",
-    "card_title": "КРЫША ДЖЕЙСОНА ПРОТЕЧЕТ",
-    "reason": "Забавный баг/недочет с крышей в игре вызвал бурные обсуждения игроков.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-25T18:32:02.319750+00:00"
-  },
-  {
-   "item": {
     "title": "GTA 6 Players Are Running Into a Game-Breaking Bug",
     "link": "https://www.polygon.com/gta-6-soft-lock-bug-chapter-3-game-breaking/",
     "summary": "GTA 6 players are running into a game-breaking bug that makes it impossible to progress the story.",
@@ -23505,6 +23817,36 @@
    },
    "corr": false,
    "since": "2026-11-25T20:16:18.915307+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA 6 vault: How to open them during big bank jobs",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-vault-how-to-open/",
+    "summary": "You can make well over $100,000 in a single crime if you open the bank vault and safe deposit boxes.",
+    "published": "2026-11-25T21:31:26+00:00",
+    "source": "PC Gamer",
+    "site_name": "PC Gamer",
+    "trust": "high",
+    "text": "Opening a GTA 6 bank vault is one of the best ways to make off with a big score during a robbery, with potentially $100,000 or more in bills and valuables from a single heist.\nBut those huge bank vault doors are completely impenetrable, and confusingly, even after you've learned how to drill into a vault as part of a Chapter 3 story mission, you still won't be able to open vault doors in open world bank robberies.\nHere's the trick: you've got to get someone to open bank vault doors for you. Only then can you steal all that sweet cash.\nYour GTA 6 fence, Yasmani, will begin offering you tips once you start selling him stolen goods in Chapter 3: jewelry store heists targeting specific items and which ATM jobs have the most cash, for example. These are worth doing anyway as they get you the snap gun.\nComplete every job Yasmani has and keep asking for more, and in Chapter 4 he'll offer you a tip for $10,000. Pay it, and he'll give you the locations of two security vans (armored cars) in Vice City. They'll show up on your map as pink icons.\nOr, search Vice City for armored cars on your own\nThere are multiple banks with vaults that armored cars visit. While driving around the areas near these banks and keeping your eyes peeled, you may spot an armored car without Yasmani's tip. It could take quite a while, though!\nYou can see which banks have vaults by looking under \"Big Bank Jobs\" in the \"Robberies\" category on your map. There are four big banks in Ocean Beach, two downtown, one in Tequesta, and one at Vice City International Airport.\nFollow the armored car until it parks outside a bank. Watch as one of the drivers gets out and walks into the bank. You can follow him to see where he goes, though bank layouts differ and he may take different routes. He may walk through the front doors, or he may go in a side entrance or a roll-up door in the back.\nOnce he's all the way inside—not just inside the front doors, but deep into the bank—he'll head to the vault and open it.\nYou can't open that vault yourself! Only the armored car driver can. That's the trick.\nOnce the guard is in the back of the bank, begin the robbery. Search for the vault in the back. You may need to use explosives to open the door the guard went through, or you can look for a door you can open with the snap gun. You'll find the vault door open with the armored car driver nearby. Subdue him and grab all the cash off the cart inside the vault.\nThere are several safe deposit boxes in the vault you can o",
+    "extra": {
+     "image": "https://cdn.mos.cms.futurecdn.net/he79YK28p3viRdnY2Hduej-1920-80.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "🗺 Гайд: Как вскрыть банк\n\nСамим хранилище не открыть. Жди тачку инкассаторов у банка, следи за водителем до самого хранилища, вырубай его и забирай кэш.",
+    "card_title": "КАК ОТКРЫТЬ БАНКОВСКИЙ ВАУЛТ",
+    "reason": "Гайд по открытию банковских хранилищ в GTA 6",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": true,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-25T21:36:43.243722+00:00"
   }
  ]
 }
