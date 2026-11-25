@@ -4544,7 +4544,18 @@
   "511833167de0e45e": "2026-11-25T22:35:58.867796+00:00",
   "eb0e0404b12ec331": "2026-11-25T22:36:04.928962+00:00",
   "073634e1c426cb54": "2026-11-25T22:36:15.005388+00:00",
-  "13c14b65ce670761": "2026-11-25T22:36:19.963891+00:00"
+  "13c14b65ce670761": "2026-11-25T22:36:19.963891+00:00",
+  "d349e573722390a0": "2026-11-25T22:51:46.456625+00:00",
+  "cde0becd4ef98f07": "2026-11-25T22:51:55.499741+00:00",
+  "6a3db3be1aaefcbe": "2026-11-25T22:52:00.187856+00:00",
+  "78a70fe16bde3510": "2026-11-25T22:52:10.466528+00:00",
+  "69fd24ec4220b500": "2026-11-25T22:52:11.944890+00:00",
+  "8696726f6587f127": "2026-11-25T22:52:16.760112+00:00",
+  "c501a8ee97cd52c2": "2026-11-25T22:52:20.273002+00:00",
+  "49433f5174163f09": "2026-11-25T23:07:46.144553+00:00",
+  "19cf794b7fffd44b": "2026-11-25T23:07:52.041455+00:00",
+  "6367cbb34e254b91": "2026-11-25T23:07:53.261924+00:00",
+  "61bb780b43a9e434": "2026-11-25T23:07:58.483153+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -7568,7 +7579,18 @@
   "160e48b368df370a": "2026-11-25T22:35:58.867796+00:00",
   "671a168db2766fe7": "2026-11-25T22:36:04.928962+00:00",
   "670e0998a5d1eea6": "2026-11-25T22:36:15.005388+00:00",
-  "f04a60b2a812cab2": "2026-11-25T22:36:19.963891+00:00"
+  "f04a60b2a812cab2": "2026-11-25T22:36:19.963891+00:00",
+  "b3bda962e62bb589": "2026-11-25T22:51:46.456625+00:00",
+  "d24bc9b909eba163": "2026-11-25T22:51:55.499741+00:00",
+  "ad1cab7b912000ec": "2026-11-25T22:52:00.187856+00:00",
+  "c7357f9c8df640ec": "2026-11-25T22:52:10.466528+00:00",
+  "b6d2197c49d44e64": "2026-11-25T22:52:11.944890+00:00",
+  "3608180b3adaf398": "2026-11-25T22:52:16.760112+00:00",
+  "90e86726ed703c27": "2026-11-25T22:52:20.273002+00:00",
+  "f5f1589563457d5f": "2026-11-25T23:07:46.144553+00:00",
+  "e764cce68165a1d4": "2026-11-25T23:07:52.041455+00:00",
+  "adecb0e399e69849": "2026-11-25T23:07:53.261924+00:00",
+  "b3f6e2b9af8e0cf2": "2026-11-25T23:07:58.483153+00:00"
  },
  "recent": [
   {
@@ -14881,6 +14903,78 @@
    "trust": "rumor",
    "status": "skipped",
    "ts": "2026-11-25T22:36:19.964034+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Why do GTA 6 streetlights look like that?",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T22:52:00.187989+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to play GTA 6 with 60fps and DLSS 5",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T22:52:10.466677+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "'GTA VI': 19 Insanely Specific Details We've Noticed So Far",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T22:52:11.945036+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6: полный пересказ сюжета — все главы и концовки",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T22:52:16.760245+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Весь сюжет GTA 6: полный пересказ игры по главам",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T22:52:20.273127+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to get adrenaline in GTA 6",
+   "source": "Polygon",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-25T23:07:46.144575+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "With Grand Theft Auto 6, The Series Has Outgrown Some Of Its Joke Brand Names",
+   "source": "Kotaku",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-25T23:07:52.041564+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 for Xbox Series X may receive FSR 4.1 support in future patches",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T23:07:53.262050+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 для Xbox Series X может получить поддержку FSR 4.1 в будущих патчах",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T23:07:58.483281+00:00",
    "card_title": ""
   }
  ],
@@ -22636,6 +22730,66 @@
    },
    "corr": true,
    "since": "2026-11-25T22:35:57.367195+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA 6 Capri Corrupt Cops Walkthrough: Both Starts and the CPD Moreland 850",
+    "link": "https://www.gtaboom.com/gta-6-capri-corrupt-cops-walkthrough-b26b",
+    "summary": "In Capri, surrender if stopped or bump the performer, talk to cops and get arrested later, then escape and grab the CPD Moreland 850 from the trunk.",
+    "published": "2026-11-25T22:41:35+00:00",
+    "source": "GTA BOOM",
+    "site_name": "GTA BOOM",
+    "trust": "medium",
+    "text": "The corrupt cops near Capri's commercial pavilion can stop you while you're walking around, or you can draw them over by bumping into the gold-painted street performer. If an officer stops you first, you can surrender there.\nIf you go through the performer, talk to the officers first, then get arrested separately. Once you break out, take back your gear and grab the CPD Moreland 850 from the same trunk. The cage keys are on a different pickup: loot the officer who comes back to the garage.\nGo to the pavilion on Beacon Circle in Capri. Look for the gold-painted performer outside Bean Machine.\nIf a cop approaches you: Stay in the conversation and interrupt him until he tells you you're under arrest. Don't resist when he moves in.\nIf no one stops you: Bump into the performer. Stay nearby when the officers arrive. Talk to them after she runs away and let the conversation finish. That conversation puts you on their list but doesn't start the arrest. Afterward, commit an offense in Capri and surrender when the police come for you.\nYou'll know you've started the right encounter when the arrest leads into a cutscene and you wake up in a cage.\nWait until an officer takes the street performer outside. Follow the cage prompt: tap Square on PlayStation or X on Xbox to break out. We got out on the third attempt. Go through the door he used and get out of sight before he comes back.\nWhen the officer stops outside the garage door, approach from behind and take him down. Search him for the cage keys. Move him out of sight if you're trying to stay quiet; another officer comes back to check on him.\nContinue past the garage door to the car with its trunk open. Reclaim your gear, then use the shotgun pickup prompt (L1 on PlayStation or LB on Xbox). The CPD Moreland 850 is in the trunk, not an automatic reward at the end.\nThe officers near the grill and garage don't stay together. Let the next officer head back toward the garage, then deal with him before approaching the officer at the grill. The others may go back to investigate. Watch the house and the gate as you clear the rest of the compound.\nIn our run, one officer asked to be let go. Once we'd dealt with the officers, we used the keys to open both remaining cages. Free those two prisoners before leaving. We didn't rescue the street performer after the officer took her outside.\nHow to Unlock and Enter All 4 Kitty Litter Labs in GTA 6\nGTA 6 Send More Money to Lorena Walkthrough",
+    "extra": {
+     "image": "https://media.gtaboom.com/variants/1920/media/images/89/1e/capri-street-performer-cbc3583aa88c9437.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "🗺 Гайд: Как пройти квест с продажными копами в Капри\n\nСдаемся легавым возле золотого мима в Bean Machine, просыпаемся в клетке и сбегаем.\n\nКлючи падают с копа-возвращеннца, а тачка CPD Moreland 850 ждет в открытом багажнике.\n\n❤️ — Ууу, сбежали\n👎 — Снова КПЗ",
+    "card_title": "ПРОХОЖДЕНИЕ МИССИИ ПРОДАЖНЫЕ КОПЫ",
+    "reason": "Гайд по прохождению миссии с продажными копами и получению тачки CPD Moreland 850.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": true,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-25T22:51:50.030231+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA 6 has weird purple streetlights because actual Florida screwed up its streetlights",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-has-weird-purple-streetlights-because-actual-florida-screwed-up-its-streetlights/",
+    "summary": "Rockstar recreated an embarrassing mishap in Florida infrastructure.",
+    "published": "2026-11-25T22:36:12+00:00",
+    "source": "PC Gamer",
+    "site_name": "PC Gamer",
+    "trust": "high",
+    "text": "When you're exploring a world as realistic and well-observed as GTA 6's Leonida, it's rare for a piece of benign infrastructure to stick out. But on night one of my playthrough, I clocked some weird streetlights.\nA stylistic choice by Rockstar? Maybe, but it's awfully specific, and I had a feeling there was a deeper intention behind it. So I DMed my buddy Henry, an honest-to-god Floridian who was also playing GTA 6, and asked what's up. At first he thought strange streetlights in the Key Lento area of the map were special lights meant to not disorient turtles, but those are typically red, so probably not. And that doesn't explain the purple ones.\nSo Henry reached out to friends in south Florida, the region that Leonida's biggest cities are based on, and they cracked the case wide open.\n\"The purple [lights] are definitely real. We have a ton of them down here because whoever is in charge of that in the government bought a bunch of defective lights,\" the anonymous Floridian responded.\nYes, actual Florida cities are lit by these dubiously dim, yet undeniably cool purple lamps. According to ClickOrlando, residents first started reporting the purple streetlights in 2023. They put up hundreds of these things across the state before they started malfunctioning—it was such a kerfuffle that the government eventually released a statement saying their vendor really screwed the pooch.\nKeep up to date with the most important stories and the best deals, as picked by the PC Gamer team.\nApparently the cause was a \"spectral shift caused by phosphor displacement,\" which essentially means the LED lights were always blue, but the coating that was supposed to make appear yellow or white or whatever didn't work. The powers that be said the malfunctioning lights would be replaced, but judging by our own sources in the state, they haven't gotten them all.\nSo that's fun. If you already heard about this somewhere (other than your Floridian friend), it's probably because YouTuber AnyAustin also clocked these lights in his video published yesterday. Glad I'm not the only one who couldn't resist this rabbit hole.\nI like how Rockstar didn't go overboard with these lights—just like the genuine article, they're in and around parts of Leonida, but not everywhere. I'm still not sure how to explain the turquoise ones, though. A lot of local news, Reddit, and YouTube skimming did not produce a clear answer, other than other cities in America that do have green streetlights sometimes. Perhaps",
+    "extra": {
+     "image": "https://cdn.mos.cms.futurecdn.net/qP2t3NgyYc4YTtxyNnMSoK-1920-80.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "ФИОЛЕТОВЫЕ фонари в игре\n\nRockstar добавили в Леониду те самые фиолетовые фонари из реальной Флориды, которые появились из-за бракованных LED-ламп. Жутко, но вайб свой.\n\n❤️ — Тоже заметил эту дичь\n👎 — Обычный баг",
+    "card_title": "ФИОЛЕТОВЫЕ ФОНАРИ В GTA 6",
+    "reason": "Интересная пасхалка и реальный баг Флориды, перенесенный в игру.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-25T22:51:56.226577+00:00"
   }
  ]
 }
