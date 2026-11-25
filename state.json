@@ -3959,7 +3959,30 @@
   "cc433d86ef6a0094": "2026-11-25T04:14:09.207640+00:00",
   "3e7070a91a067de3": "2026-11-25T04:31:42.775731+00:00",
   "0e509cec8489190f": "2026-11-25T04:31:45.044987+00:00",
-  "6f79bce877c64d98": "2026-11-25T05:39:04.203788+00:00"
+  "6f79bce877c64d98": "2026-11-25T05:39:04.203788+00:00",
+  "5a076d94093bc5df": "2026-11-25T07:00:39.479708+00:00",
+  "2edb207170492504": "2026-11-25T07:00:40.743071+00:00",
+  "8cbd9cadb0c4e724": "2026-11-25T07:00:41.732396+00:00",
+  "49f5982a4bf4a81a": "2026-11-25T07:00:43.049821+00:00",
+  "d1259503b22169c8": "2026-11-25T07:01:34.264925+00:00",
+  "7d8c1246a5f6e42e": "2026-11-25T07:01:35.405555+00:00",
+  "e5232024d04c2ea2": "2026-11-25T07:01:36.346566+00:00",
+  "dabf9111f7224783": "2026-11-25T07:01:37.442488+00:00",
+  "178e1000bffe834e": "2026-11-25T07:02:28.737876+00:00",
+  "706ef33f5419362c": "2026-11-25T07:02:29.965899+00:00",
+  "010cc8401c29aaa6": "2026-11-25T07:02:31.032879+00:00",
+  "bd372fd3760c1f7d": "2026-11-25T07:02:32.208614+00:00",
+  "c5bb1d5bee7f2f6f": "2026-11-25T07:03:23.356900+00:00",
+  "725065b7a0c14445": "2026-11-25T07:03:24.231615+00:00",
+  "91530a12685d88aa": "2026-11-25T07:03:25.132901+00:00",
+  "eb1c05aa0c20d72f": "2026-11-25T07:03:26.026025+00:00",
+  "4ab4476b969ad4ab": "2026-11-25T07:04:17.113598+00:00",
+  "90a884d8a6ec2347": "2026-11-25T07:04:18.046067+00:00",
+  "6b70cc634203040e": "2026-11-25T07:04:18.999589+00:00",
+  "e369b6783d130254": "2026-11-25T07:04:19.794742+00:00",
+  "812928d4b9603d96": "2026-11-25T07:07:39.426170+00:00",
+  "8ba0f22b364ee457": "2026-11-25T07:07:40.188696+00:00",
+  "98311746151e3c03": "2026-11-25T07:07:41.078526+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -15227,7 +15250,9 @@
     "guide": false,
     "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
    },
-   "queued_at": "2026-11-25T05:38:42.343957+00:00"
+   "queued_at": "2026-11-25T05:38:42.343957+00:00",
+   "moderation": "pending",
+   "draft_msg_id": 146
   },
   {
    "item": {
@@ -15388,7 +15413,8 @@
   "2026-11-24T19:30:13.442978+00:00",
   "2026-11-24T20:30:28.952858+00:00",
   "2026-11-24T21:36:11.909030+00:00",
-  "2026-11-25T06:00:21.448854+00:00"
+  "2026-11-25T06:00:21.448854+00:00",
+  "2026-11-25T07:00:39.447209+00:00"
  ],
  "slots_sent": {
   "2026-11-23:guide:1": "2026-11-23T07:01:27.603496+00:00",
@@ -15609,6 +15635,36 @@
    "file_id": "BAACAgIAAxkDAAOQawYHuUhdzjgLu3oSJupXe9iBMV4AAke7AAImETBIumHcPcg9LnA9BA",
    "moderation": "pending",
    "draft_msg_id": 144
+  },
+  {
+   "clip": {
+    "source": "twitch",
+    "url": "https://www.twitch.tv/kaicenat/clip/MistyFastChickpeaBatChest-1l50Cnz_nbghKxmh",
+    "title": "lol",
+    "author": "KaiCenat",
+    "views": 7329,
+    "duration": 19.4,
+    "created": "2026-11-24T20:37:40+00:00",
+    "lang": "en",
+    "description": "",
+    "vod_id": "2939504732",
+    "vod_offset": 10835.0
+   },
+   "caption": "Погоня в стиле GTA 6: копы тут реально душные, не дают спокойно покататься. Физика повреждений — чистый разнос, машина в хлам после пары ударов 💀",
+   "interest": 9,
+   "spoiler": false,
+   "nsfw": false,
+   "watched": true,
+   "model": "gemini:gemini-3.1-flash-lite",
+   "media": {
+    "width": null,
+    "height": 720,
+    "duration": 19
+   },
+   "queued_at": "2026-11-25T07:07:57.763607+00:00",
+   "file_id": "BAACAgIAAxkDAAOTawaJTx5BR32V2s1silJCQM3GbyoAAiKwAAImEThI3ewE5yFgm-89BA",
+   "moderation": "pending",
+   "draft_msg_id": 147
   }
  ],
  "clip_drafts": [
@@ -15628,7 +15684,8 @@
   "2026-11-24T16:12:54.165650+00:00",
   "2026-11-24T19:23:29.579276+00:00",
   "2026-11-24T20:29:37.383213+00:00",
-  "2026-11-24T21:55:06.434149+00:00"
+  "2026-11-24T21:55:06.434149+00:00",
+  "2026-11-25T07:08:00.412145+00:00"
  ],
  "clip_history": [
   {
@@ -21213,6 +21270,201 @@
    "ts": "2026-11-24T21:55:06.434165+00:00",
    "frames": [],
    "caption": "🔞 На пляже в Вайс-Сити лучше никого не трогать — NPC в GTA 6 не прощают агрессию, это просто лютый разнос 💀 Физика крови"
+  },
+  {
+   "author": "youtube:edgarftw",
+   "vod": "",
+   "offset": -1,
+   "title": "NUNCA MOLESTES A LUCIA EN GTA 6!",
+   "drafted": false,
+   "ts": "2026-11-25T07:00:39.479755+00:00"
+  },
+  {
+   "author": "youtube:tio bit",
+   "vod": "",
+   "offset": -1,
+   "title": "This GTA 6 Portal Takes You Back to Vice City 2002",
+   "drafted": false,
+   "ts": "2026-11-25T07:00:40.743132+00:00"
+  },
+  {
+   "author": "youtube:tentinpants_",
+   "vod": "",
+   "offset": -1,
+   "title": "CaseOh's timing is crazy in GTA 6 😭✌",
+   "drafted": false,
+   "ts": "2026-11-25T07:00:41.732452+00:00"
+  },
+  {
+   "author": "youtube:studio ci",
+   "vod": "",
+   "offset": -1,
+   "title": "Você Tá Jogando GTA 6 Errado",
+   "drafted": false,
+   "ts": "2026-11-25T07:00:43.049867+00:00"
+  },
+  {
+   "author": "youtube:flayhq",
+   "vod": "",
+   "offset": -1,
+   "title": "How to Permanently BUFF All Stats in GTA 6!",
+   "drafted": false,
+   "ts": "2026-11-25T07:01:34.264973+00:00"
+  },
+  {
+   "author": "youtube:stinkyguyyt",
+   "vod": "",
+   "offset": -1,
+   "title": "Get Stranded at Sea in GTA 6 and a Dog on a Jet Ski Saves You 💀 #gta6 #gaming #shorts",
+   "drafted": false,
+   "ts": "2026-11-25T07:01:35.405604+00:00"
+  },
+  {
+   "author": "youtube:markpaystore",
+   "vod": "",
+   "offset": -1,
+   "title": "Девушки после выхода GTA 6 😂",
+   "drafted": false,
+   "ts": "2026-11-25T07:01:36.346609+00:00"
+  },
+  {
+   "author": "youtube:eosenna",
+   "vod": "",
+   "offset": -1,
+   "title": "Quando Você ZERA GTA 6 e Finalmente Sai Do Seu QUARTO",
+   "drafted": false,
+   "ts": "2026-11-25T07:01:37.442538+00:00"
+  },
+  {
+   "author": "youtube:kektar",
+   "vod": "",
+   "offset": -1,
+   "title": "Девушки раскаялись из-за GTA 6 😮",
+   "drafted": false,
+   "ts": "2026-11-25T07:02:28.737913+00:00"
+  },
+  {
+   "author": "youtube:ash vlogss",
+   "vod": "",
+   "offset": -1,
+   "title": "LYNA CREE QUE ESTA EN GTA 6 #gameplay #lynaticos #gta #gta6 #gameplay",
+   "drafted": false,
+   "ts": "2026-11-25T07:02:29.965952+00:00"
+  },
+  {
+   "author": "youtube:redeye.mp4",
+   "vod": "",
+   "offset": -1,
+   "title": "КАК БУДЕТ ВЫГЛЯДЕТЬ ТОЛСТАЯ ЛЮСИЯ В GTA 6? #gta6 #gta",
+   "drafted": false,
+   "ts": "2026-11-25T07:02:31.032927+00:00"
+  },
+  {
+   "author": "youtube:mr kunnu",
+   "vod": "",
+   "offset": -1,
+   "title": "Le liya GTA 6 😍 #shorts #gta6 #ps5",
+   "drafted": false,
+   "ts": "2026-11-25T07:02:32.208665+00:00"
+  },
+  {
+   "author": "youtube:шорты стэна",
+   "vod": "",
+   "offset": -1,
+   "title": "Эту концовку GTA 6 видели ЕДИНИЦЫ! 😱",
+   "drafted": false,
+   "ts": "2026-11-25T07:03:23.356939+00:00"
+  },
+  {
+   "author": "youtube:vicevi",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 vs. GTA 5 Water Entry Animation! #gta #gtav #gta5 #gta6 #shorts",
+   "drafted": false,
+   "ts": "2026-11-25T07:03:24.231673+00:00"
+  },
+  {
+   "author": "youtube:drx gaming",
+   "vod": "",
+   "offset": -1,
+   "title": "CAR MIRROR DAMAGE LOGIC: GTA 6 vs. GTA 5! #gta #gta6 #gta5 #gaming #gtavi #gtav #shorts",
+   "drafted": false,
+   "ts": "2026-11-25T07:03:25.132955+00:00"
+  },
+  {
+   "author": "youtube:sid gta",
+   "vod": "",
+   "offset": -1,
+   "title": "MOST EXPENSIVE SUPERCAR in GTA 6 so far 😍",
+   "drafted": false,
+   "ts": "2026-11-25T07:03:26.026073+00:00"
+  },
+  {
+   "author": "youtube:yuryago",
+   "vod": "",
+   "offset": -1,
+   "title": "Tudo encenado, o GTA 6 já estava comprado e ninguém ficou bravo!#shorts #viral #fyp #gta6 #video",
+   "drafted": false,
+   "ts": "2026-11-25T07:04:17.113673+00:00"
+  },
+  {
+   "author": "youtube:thai devil gamer",
+   "vod": "",
+   "offset": -1,
+   "title": "Game of the year 2026 is...? #gta6",
+   "drafted": false,
+   "ts": "2026-11-25T07:04:18.046133+00:00"
+  },
+  {
+   "author": "youtube:ma_in_action",
+   "vod": "",
+   "offset": -1,
+   "title": "Trevor Got Scammed for GTA 6 | Michael Exposes the Fake Game | GTA 5 Shorts #gta5 #gta6 #gta #shorts",
+   "drafted": false,
+   "ts": "2026-11-25T07:04:18.999662+00:00"
+  },
+  {
+   "author": "youtube:jelly",
+   "vod": "",
+   "offset": -1,
+   "title": "Can I Derail The Train In GTA 6? 🚂 #GTA6 #GTAVI",
+   "drafted": false,
+   "ts": "2026-11-25T07:04:19.794801+00:00"
+  },
+  {
+   "author": "youtube:kể lể gaming",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 CỰC KỲ THỰC TẾ Với COOL DOG Y Như Paw Pawtrol ?! | #youtubeshorts #gaming #gamestory #gta6",
+   "drafted": false,
+   "ts": "2026-11-25T07:07:39.426218+00:00"
+  },
+  {
+   "author": "youtube:stevethegamer55",
+   "vod": "",
+   "offset": -1,
+   "title": "🔴 GTA VI LIVE – Back on the Streets of Vice City | Part 8 | PS5 Pro 60 FPS",
+   "drafted": false,
+   "ts": "2026-11-25T07:07:40.188756+00:00"
+  },
+  {
+   "author": "twitch:kaicenat",
+   "vod": "2939504732",
+   "offset": 10835.0,
+   "title": "lol",
+   "drafted": false,
+   "ts": "2026-11-25T07:07:41.078573+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:kaicenat",
+   "vod": "2939504732",
+   "offset": 10835.0,
+   "title": "lol",
+   "drafted": true,
+   "ts": "2026-11-25T07:08:00.412164+00:00",
+   "frames": [],
+   "caption": "Погоня в стиле GTA 6: копы тут реально душные, не дают спокойно покататься. Физика повреждений — чистый разнос, машина в"
   }
  ],
  "published": [
