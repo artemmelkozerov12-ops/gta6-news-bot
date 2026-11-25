@@ -4325,7 +4325,41 @@
   "db59c647dafa62aa": "2026-11-25T17:21:05.588774+00:00",
   "f498cea14277d10a": "2026-11-25T17:21:26.724157+00:00",
   "873bb860a6701a46": "2026-11-25T17:37:08.849475+00:00",
-  "0516745811c995eb": "2026-11-25T17:38:42.038354+00:00"
+  "0516745811c995eb": "2026-11-25T17:38:42.038354+00:00",
+  "eaa3d4dbe0bfbb07": "2026-11-25T17:54:02.034814+00:00",
+  "e13446a7e3beb5f7": "2026-11-25T17:54:02.034880+00:00",
+  "e90bfb575ec74fe3": "2026-11-25T17:54:02.034917+00:00",
+  "21a721f6e4a91a46": "2026-11-25T17:54:02.034947+00:00",
+  "1d25ec0efee46509": "2026-11-25T17:54:02.034973+00:00",
+  "073d9b416f3496d4": "2026-11-25T17:54:02.035005+00:00",
+  "af0729113c64b552": "2026-11-25T17:54:02.070847+00:00",
+  "c2da218760870578": "2026-11-25T17:54:09.762170+00:00",
+  "b58af9f0c9b17481": "2026-11-25T17:54:11.469683+00:00",
+  "eab69b57f21c8fa4": "2026-11-25T17:54:12.937080+00:00",
+  "bc9f9125c25ecf2b": "2026-11-25T17:54:26.370021+00:00",
+  "b1b4db39875c5681": "2026-11-25T17:55:23.312461+00:00",
+  "811a0aebe1d0a7a7": "2026-11-25T17:55:24.216737+00:00",
+  "0971992282034d31": "2026-11-25T17:55:25.026957+00:00",
+  "6cacd06dffada47c": "2026-11-25T17:55:25.809570+00:00",
+  "72113fe1c7b45332": "2026-11-25T17:56:19.720399+00:00",
+  "0a06eba7cb9a1776": "2026-11-25T17:56:20.455167+00:00",
+  "c740107e8a499488": "2026-11-25T17:56:21.316161+00:00",
+  "04745c73df0f3cb1": "2026-11-25T17:56:22.129282+00:00",
+  "98492b5ba3e400e9": "2026-11-25T17:57:13.106389+00:00",
+  "26a0891ac19a8ede": "2026-11-25T17:57:13.465952+00:00",
+  "e85089b33d09eba1": "2026-11-25T18:10:48.377916+00:00",
+  "05adec3633f228fd": "2026-11-25T18:10:48.377970+00:00",
+  "0d7f9c019b00dbab": "2026-11-25T18:10:48.580908+00:00",
+  "b327cc5965681b0f": "2026-11-25T18:10:51.466229+00:00",
+  "4f4a9bc7a241de77": "2026-11-25T18:12:24.691451+00:00",
+  "896935785e04620b": "2026-11-25T18:14:32.093934+00:00",
+  "da18f32b8121bc55": "2026-11-25T18:16:01.182126+00:00",
+  "0e265e8785f9a619": "2026-11-25T18:16:01.532030+00:00",
+  "d23c13041f6193bd": "2026-11-25T18:16:01.829397+00:00",
+  "909ad7ba98fbb8ad": "2026-11-25T18:16:02.153098+00:00",
+  "347d1410b54c5a59": "2026-11-25T18:16:52.963694+00:00",
+  "15ae48c712747088": "2026-11-25T18:16:53.304670+00:00",
+  "4e9b0a74c693cfe3": "2026-11-25T18:16:53.655515+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -7201,7 +7235,24 @@
   "06e58856fcddc820": "2026-11-25T17:21:01.011130+00:00",
   "3a3ce608b4d200b5": "2026-11-25T17:21:04.104070+00:00",
   "d9793e3cdd98dae5": "2026-11-25T17:21:05.588774+00:00",
-  "e541bcc4aabaada5": "2026-11-25T17:37:08.849475+00:00"
+  "e541bcc4aabaada5": "2026-11-25T17:37:08.849475+00:00",
+  "a9521fd192c7543f": "2026-11-25T17:54:02.034814+00:00",
+  "85c641aba98f118d": "2026-11-25T17:54:02.034880+00:00",
+  "121ec47cf029ea4d": "2026-11-25T17:54:02.034917+00:00",
+  "6d4406af4af43829": "2026-11-25T17:54:02.034947+00:00",
+  "0a62d7b41559e9e1": "2026-11-25T17:54:02.034973+00:00",
+  "660791fe26d8652d": "2026-11-25T17:54:02.035005+00:00",
+  "0c3ff4750ca3e5ac": "2026-11-25T17:54:02.070847+00:00",
+  "7eeea55dbeb3d772": "2026-11-25T17:54:09.762170+00:00",
+  "f624a623b6e324ae": "2026-11-25T17:54:11.469683+00:00",
+  "b4c0dd0f49f0442c": "2026-11-25T17:54:12.937080+00:00",
+  "3b430b755198ae0a": "2026-11-25T17:54:26.370021+00:00",
+  "52664a3a119df361": "2026-11-25T18:10:48.377916+00:00",
+  "e1fab61104b501ae": "2026-11-25T18:10:48.377970+00:00",
+  "fadc8cfc114a89bd": "2026-11-25T18:10:48.580908+00:00",
+  "83809658e329d9e5": "2026-11-25T18:10:51.466229+00:00",
+  "488c23dc57583fb1": "2026-11-25T18:12:24.691451+00:00",
+  "ed8fc470c7b0f9b9": "2026-11-25T18:14:32.093934+00:00"
  },
  "recent": [
   {
@@ -14192,7 +14243,7 @@
    "title": "All GTA 6 Nude Scenes—Every Sex Scene in GTA 6",
    "source": "Insider Gaming",
    "trust": "medium",
-   "status": "queued",
+   "status": "published",
    "ts": "2026-11-25T16:44:03.368961+00:00",
    "card_title": "НЮ СЦЕНЫ GTA 6"
   },
@@ -14362,6 +14413,118 @@
    "trust": "medium",
    "status": "dup",
    "ts": "2026-11-25T17:37:08.849506+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "This GTA 6 Radio Station Represents Its Florida-Inspired Setting Perfectly",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-25T17:54:02.034850+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Player Gets $160,000 in One Minute In The Cleanest Bank Robbery We’ve Seen Yet",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-25T17:54:02.034903+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Grand Theft Auto 6 Is Out, and There Are Already Black Friday GTA 6 Deals",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-25T17:54:02.034933+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6: Here's Why You Should Go Back to Jason's House After Chapter 1",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-25T17:54:02.034961+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Save $600 On The XGIMI HORIZON 30 Pro This Black Friday So You Can Play GTA 6 In Style",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-25T17:54:02.034991+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "The Outrage Over Jason Buying Lucia Flowers Is GTA 6's Dumbest Controversy",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-25T17:54:02.035021+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Hidden Charges walkthrough: How to plant all three explosives",
+   "source": "VGC",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-25T17:54:02.070888+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Hidden Charges: Ask for Help or Go Solo?",
+   "source": "VGC",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-25T17:54:09.762290+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "All GTA 6 Guides, Walkthroughs, Best Tips & Tricks",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-25T17:54:11.469810+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Every Feature and Activity Rockstar Cut From GTA 6",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-25T17:54:19.157335+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Fans Are Hissing Mad About Dolores the Snake",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-25T18:10:48.377950+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Take-Two Hits GTA 6 PC Port Leonida With DMCA, Taking Down 3,007 GitHub Repos",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-25T18:10:48.377987+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Streams to PlayStation Portal With PS Plus Premium, No PS5 Needed",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-25T18:10:48.580966+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to Find and Complete Sunrise RV Park Illegal Operation in GTA 6—All Key Valuables",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-25T18:15:03.330137+00:00",
    "card_title": ""
   }
  ],
@@ -14581,38 +14744,6 @@
   },
   {
    "item": {
-    "title": "All GTA 6 Nude Scenes—Every Sex Scene in GTA 6",
-    "link": "https://insider-gaming.com/gta-6-nude-sex-scenes/",
-    "summary": "GTA 6 has an assortment of nude scenes and interactions, and we've put together a hub of all the videos you were going to find anyway. The post All GTA 6 Nude Scenes—Every Sex Scene in GTA 6 appeared first on Insider Gaming .",
-    "published": "2026-11-25T14:47:39+00:00",
-    "source": "Insider Gaming",
-    "site_name": "Insider Gaming",
-    "trust": "medium",
-    "text": "GTA 6 has nude scenes and content throughout the game. They’re split between intimate scenes featuring Jason and Lucia and other wild interactions in the open world.\nThis is a mature, adult game not meant for younger eyes. As such, Rockstar doesn’t insult your intelligence and includes various sex scenes throughout GTA 6. Here are all the ones we’ve seen so far.\nYou can buy Grand Theft Auto 6 here if you haven’t already!\n* Potential spoilers below, depending on where you are in the game.*\nDay Release in Chapter 1 sees Lucia and Jason go out into the world to explore, and during a wild night, Lucia ends up walking into various hotel rooms, featuring some NSFW scenes.\nMore Insider Gaming: All GTA 6 Guides, Walkthroughs, Best Tips & Tricks\nMax Relationship Level Jason & Lucia Scenes\nFirstly, find out how to get Jason & Lucia’s relationship to max level in GTA 6. Once you do, the lovebirds can’t keep their hands off of each other, and you can trigger sex scenes quite regularly when the two are cooped up at home together.\nAgain, your relationship level needs to be in a good spot for this to happen. But Jason and Lucia can be taking a shower, and the other one will knock on the door and interrupt your cleansing to get down and dirty under the shower head.\nMore Insider Gaming: Best Legendary Weapon Variants in GTA 6: All Locations Walkthrough\nAs Jason and Lucia’s lives start to improve, so can the chemistry between them. Why wouldn’t they move into a new place and not celebrate this?\nHave you found any other nude videos or scenes that take place throughout GTA 6 that you think we’ve missed in this guide? Let us know your thoughts about the game via the free Insider Gaming Discord server.\nFor more Insider Gaming content, read ‘All GTA 6 Casinos & Map Locations—Gambling, Explained.’ Don’t forget to sign up for our free weekly newsletter.\nNOTE: Insider Gaming may earn affiliate commission if you purchase items through links on Insider Gaming. Read more about affiliate commission here.\nAndy is Insider Gaming's Senior Evergreen Editor and has been in the games journalism sphere in one way or another for over 7 years. His video game taste is as…\nWhere To Find Grotti Dolce Vita RSX In GTA 6—Fastest Cars Location & Stats\nWhere To Find Transgressors for Wyman in GTA 6—All Locations, Explained\nWhere To Find Dante’s Pegassi Vitello In GTA 6—Fastest Cars Location & Stats\nHow to Listen to the Radio While Walking in GTA 6",
-    "extra": {
-     "image": "https://insider-gaming.com/wp-content/uploads/2026/11/gta-6-4.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "🔞 GTA 6: Полные ню сцены в игре\n\nВ GTA 6 полно откровенных моментов — от имба‑сцен Джейсона и Люсии до случайных ню в открытом мире. Прокачай их отношения до макса, и в ванной будет разнос, так что готовься к реальному луту! 🔥",
-    "card_title": "НЮ СЦЕНЫ GTA 6",
-    "reason": "Обзор интимных сцен в игре от крупного издания, интересная деталь для игроков.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-25T16:44:03.368946+00:00",
-   "moderation": "approved",
-   "draft_msg_id": 164,
-   "waiting_logged": true
-  },
-  {
-   "item": {
     "title": "Rob Nelson explains why Tennis & Theatres was removed from GTA 6",
     "link": "https://rockstarintel.com/rob-nelson-explains-why-tennis-theatres-was-removed-from-gta-6/",
     "summary": "In a recent Interview, Rob Nelson the Head Of Development at Rockstar North explained to PC Games why certain activities such as playing Tennis & going to the Cinema didn’t make it to the final version GTA6. Its been a week since Grand Theft Auto VI released, and we’ve been absolutely loving it, we cant [...] The post Rob Nelson explains why Tennis & Theatres was removed from GTA 6 appeared first on RockstarINTEL .",
@@ -14668,7 +14799,8 @@
   "2026-11-25T10:25:04.845119+00:00",
   "2026-11-25T13:11:20.337917+00:00",
   "2026-11-25T17:21:45.937168+00:00",
-  "2026-11-25T17:38:45.051199+00:00"
+  "2026-11-25T17:38:45.051199+00:00",
+  "2026-11-25T17:55:29.278716+00:00"
  ],
  "tg_offset": 387129104,
  "channel": {
@@ -21093,6 +21225,151 @@
    "drafted": false,
    "ts": "2026-11-25T17:38:42.038396+00:00",
    "frames": []
+  },
+  {
+   "author": "youtube:empty tab",
+   "vod": "",
+   "offset": -1,
+   "title": "NPC GTA 6 INI UDAH TAU SEGALANYA!!",
+   "drafted": false,
+   "ts": "2026-11-25T17:55:23.312501+00:00"
+  },
+  {
+   "author": "youtube:tarell",
+   "vod": "",
+   "offset": -1,
+   "title": "This GTA 6 Glitch Breaks Lucia's Outfit #shorts",
+   "drafted": false,
+   "ts": "2026-11-25T17:55:24.216785+00:00"
+  },
+  {
+   "author": "youtube:litsu",
+   "vod": "",
+   "offset": -1,
+   "title": "POV les policiers dans GTA 6",
+   "drafted": false,
+   "ts": "2026-11-25T17:55:25.027002+00:00"
+  },
+  {
+   "author": "youtube:angel ob",
+   "vod": "",
+   "offset": -1,
+   "title": "EASTER EGGS DE GTA 6 🤯",
+   "drafted": false,
+   "ts": "2026-11-25T17:55:25.809611+00:00"
+  },
+  {
+   "author": "youtube:𝑪𝒍𝒊𝒑𝒛𝒚",
+   "vod": "",
+   "offset": -1,
+   "title": "Bro thought we wouldn't notice that😂✌️#gta #gta5 #gta6 #gaming #shorts #viral #meme #gameplay #fyp",
+   "drafted": false,
+   "ts": "2026-11-25T17:56:19.720448+00:00"
+  },
+  {
+   "author": "youtube:jwulen",
+   "vod": "",
+   "offset": -1,
+   "title": "💀EL DETALLE DE GTA 6 QUE NUNCA VISTE #gta6 #gtavi",
+   "drafted": false,
+   "ts": "2026-11-25T17:56:20.455209+00:00"
+  },
+  {
+   "author": "youtube:jokerkihaveli",
+   "vod": "",
+   "offset": -1,
+   "title": "THE FINAL DAY in GTA 6 VICE CITY #Jokerkihaveli",
+   "drafted": false,
+   "ts": "2026-11-25T17:56:21.316206+00:00"
+  },
+  {
+   "author": "youtube:schlayer",
+   "vod": "",
+   "offset": -1,
+   "title": "The Secret Way to Sell Cars Without Driving Them in GTA 6! 🤫 #gta6 #gta6tips",
+   "drafted": false,
+   "ts": "2026-11-25T17:56:22.129329+00:00"
+  },
+  {
+   "author": "twitch:frametamer666",
+   "vod": "2938915006",
+   "offset": 146329.0,
+   "title": "коллизия",
+   "drafted": false,
+   "ts": "2026-11-25T17:57:13.106435+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:patstaresat",
+   "vod": "2940010632",
+   "offset": 11081.0,
+   "title": "In which it was time sensitive.",
+   "drafted": false,
+   "ts": "2026-11-25T17:57:13.466003+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:zloyn",
+   "vod": "2940225214",
+   "offset": 6348.0,
+   "title": "забил шар",
+   "drafted": false,
+   "ts": "2026-11-25T18:16:01.182162+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:hasanabi",
+   "vod": "2939580472",
+   "offset": 33207.0,
+   "title": "gotta do my mom",
+   "drafted": false,
+   "ts": "2026-11-25T18:16:01.532070+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:zarbex",
+   "vod": "2939354041",
+   "offset": 19518.0,
+   "title": "küsschen",
+   "drafted": false,
+   "ts": "2026-11-25T18:16:01.829432+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:missmikkaa",
+   "vod": "2939364350",
+   "offset": 17540.0,
+   "title": "Found Ramzilla's house in game!",
+   "drafted": false,
+   "ts": "2026-11-25T18:16:02.153138+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:alanzoka",
+   "vod": "2939491300",
+   "offset": 6224.0,
+   "title": "só um carinho da lucia",
+   "drafted": false,
+   "ts": "2026-11-25T18:16:52.963746+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:peereira7",
+   "vod": "2938439263",
+   "offset": 97635.0,
+   "title": "CLIP DEL AÑO",
+   "drafted": false,
+   "ts": "2026-11-25T18:16:53.304721+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:ohnepixel",
+   "vod": "2939324211",
+   "offset": 17554.0,
+   "title": "photo for later",
+   "drafted": false,
+   "ts": "2026-11-25T18:16:53.655567+00:00",
+   "frames": []
   }
  ],
  "published": [
@@ -21571,6 +21848,13 @@
    "title": "Не можешь заправить тачку? GTA 6 заставляет платить",
    "importance": 7,
    "kind": "confirmed"
+  },
+  {
+   "ts": "2026-11-25T17:55:29.278731+00:00",
+   "msg_id": 99,
+   "title": "GTA 6: Полные ню сцены в игре",
+   "importance": 7,
+   "kind": "confirmed"
   }
  ],
  "extras": [],
@@ -21702,6 +21986,96 @@
    },
    "corr": false,
    "since": "2026-11-25T17:05:01.289553+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA 6 backlash to menial tasks comes from players stuck in \"moral yellow paint,\" former Valve writer says",
+    "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-backlash-to-menial-tasks-comes-from-players-stuck-in-moral-yellow-paint-former-valve-writer-says-you-dont-have-to-do-any-of-them/",
+    "summary": "\"This is Grand Theft Auto,\" after all",
+    "published": "2026-11-25T17:45:04+00:00",
+    "source": "GamesRadar+",
+    "site_name": "GamesRadar+",
+    "trust": "high",
+    "text": "Former Valve writer Chet Faliszek – the one behind the likes of Half-Life 2, Portal and its sequel, Team Fortress 2, Left 4 Dead, and even Counter-Strike: Global Offensive – thinks GTA 6 is great… because you choose how to play. A fact that's lost on players complaining about optional missions.\nThe new Grand Theft Auto is smashing records left, right, and center as the highest-rated game of all time on Metacritic and, as per Sony, the \"biggest launch in PlayStation history\" to date. However, there's still a vocal (minority, I'd like to think) group of players dismissing it as a game that forces some sort of agenda upon you. Faliszek covers this in his YouTube video on the \"moral yellow paint,\" so to speak, of GTA 6.\nAccording to the Valve veteran, there's no real reason for folks to complain about menial tasks like painting the house as Jason or buying flowers, even if \"the game says you're getting some kind of points or… gives you this list.\"\nWhile other games use yellow paint to give you set boundaries to stay within, in GTA 6 you can stray in whatever direction you'd like and play how you wish.\nIn Faliszek's case, that means, uh, \"bringing back bodies\" and filling the house with corpses. It's all just GTA, after all.\n\"Now, would I do that in normal life? Does that make me a horrible person? Maybe. Does that make me a psycho in the game? Who cares?\" As he says, \"This is Grand Theft Auto.\" So, go on and ditch the chores to commit mass murder (if you please, of course). The writer notes that, again, it's all part of the game's sandbox elements – and, on that point, part of what makes Grand Theft Auto 6 such a stand-out release.\nIn a separate short, Faliszek dubs GTA 6 \"a masterpiece,\" saying, \"it may be the greatest game ever made.\" He references other devs' criticism of Rockstar's new title – such as Warren Spector's, which argues he'd \"rather have hundreds of games and full employment\" – and dismisses it, reiterating that \"it's an amazing game\" and \"incredible.\" I'm sure the freedom (to collect bodies, apparently) is a big reason why.\nWeekly digests, tales from the communities you love, and more\nSo, share in Faliszek's sentiment here and don't box yourself in with any preconceived \"yellow paint\" in GTA 6 when you don't have to. Clean the house, shower, buy gifts… or wreak havoc in Vice City and kill everyone in sight. The choice is yours.\nCheck out our GTA 6 review to see how we feel about one of the biggest new games this year, or read through our GTA 6",
+    "extra": {
+     "image": "https://cdn.mos.cms.futurecdn.net/YStK3kAiQWgxho33L4VjMA-1920-80.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "ЭКС-РАЗРАБОТЧИК заступился за GTA 6\n\nБывший сценарист Valve Чет Фалижек порвал шаблон тем, кто ныт из-за рутины в игре. Чел напомнил, что никто не заставляет красить дома или покупать цветы — можно просто забить и устроить полный разнос в стиле старой школы.",
+    "card_title": "ЭКС-РАЗРАБОТЧИК VALVE О СВОБОДЕ В GTA 6",
+    "reason": "Мнение экс-разработчика Valve о свободе выбора в GTA 6 и абсурдности жалоб на рутину",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-25T17:54:27.544703+00:00"
+  },
+  {
+   "item": {
+    "title": "New 'GTA 6' Leak Is Great News For PC Gamers, But There's A Catch",
+    "link": "https://www.polygon.com/gta-6-leak-pc-port-settings-ps5-pro-ultra-medium-graphics-cards-price/",
+    "summary": "A new leak gives PC players a sense of what to expect from Grand Theft Auto 6 with souped-up settings that aren't possible on PS5 Pro or Xbox",
+    "published": "2026-11-25T18:10:10+00:00",
+    "source": "Polygon",
+    "site_name": "Polygon",
+    "trust": "high",
+    "text": "Much has been said about the differences between Grand Theft Auto 6 on PlayStation 5 and Xbox, but how will Rockstar Games' open-world game fare on PC? An official port has yet to be announced, but a recent leak of the Xbox build of the game has kicked off a race to recompile the game and make it unofficially available on more platforms. As that work continues, yet another leak offers PC players some perspective on what might be possible in GTA 6 when the game isn't held down by console constraints.\nOn Wednesday, known GTA leaker Tex2 shared a Pastebin that lists GTA 6's apparent console settings shipped by Rockstar. These are tunable options that exist to help the game shine on platforms with varying capacities, like the less-powerful Xbox Series S. The text dump has since been pulled by Pastebin, but Polygon viewed the document before the platform made it unavailable.\nSome aspects of the game, like Global Illumination Quality, Ray Traced Directional Shadows, and Texture Quality are already set to high on PlayStation 5. The same aspects are sometimes lower or altogether absent on Xbox, though reports suggest the platforms have more parity than Sony's marketing would like you to believe.\nThere are even a couple of settings that Rockstar has already set to Ultra, such as Vehicle Max Texture Quality and Bounding Volume Hierarchy. A surprising number of settings — 18 to be exact — are set to medium or low on PS5 and Xbox Series X​​​​​​​. That number jumps to 38 settings on Xbox Series X that are set to low or medium.​​​​​​​\nWhat GTA 6 settings will be better on PC than PS5 and Xbox?\nThe conservative presets are of significance for PC gamers. Settings such as Tree, Terrain, Impostor, and Grass Shadows are set to medium and affect draw distance and pop-in.​​​​​​​ Lighting and Ambient Lighting, which influence​​​​​​​ how the game renders background lights such as streetlights and neon signs, are also set to medium across platforms.\nVolumetric Lighting​​​​​​​, another setting currently on medium, determines how light is depicted in conditions such as fog and crepuscular rays​​​​​​​. On consoles, aspects like 'god rays' can appear grainy or blocky — especially​​​​​​​ while the camera is in motion.\nEven elements that might sound small on paper, like Weapon Textures, could meaningfully change the experience. There's a lot of shooting in this game, even if you play non-lethally; players will stare down the barrel of a gun for much of the game.\nPlayers experiencing GT",
+    "extra": {
+     "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/jason2.JPG"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "Консольные настройки графики\n\nИнсайдеры слили консольные пресеты графики из файлов игры, и там много интересного для будущей ПК-версии. Оказывается, куча параметров вроде теней от травы и объемного света на консолях стоят на средних значениях. Ждем ультра-графон на ПК, лишь бы железо не поплохело.\n\n❤️ — Жду на ПК\n👎 — Консолей хватит",
+    "card_title": "НАСТРОЙКИ ГРАФИКИ GTA 6",
+    "reason": "Утечка настроек графики консольных версий от инсайдера и Polygon, важные детали для ПК-игроков",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-25T18:11:30.428141+00:00"
+  },
+  {
+   "item": {
+    "title": "Attempts To Vibe-Code PC Ports Of GTA 6 Are Being Shut Down, But It Might Be Too Late To Put The Genie Back In The Bottle",
+    "link": "https://kotaku.com/attempts-to-vibe-code-pc-ports-of-gta-6-are-being-shut-down-but-it-might-be-too-late-to-put-the-genie-back-in-the-bottle-2001000396",
+    "summary": "Take-Two is already going after projects but may not be able to stop the flood",
+    "published": "2026-11-25T18:00:14+00:00",
+    "source": "Kotaku",
+    "site_name": "Kotaku",
+    "trust": "high",
+    "text": "Grand Theft Auto 6 is the closest thing we’ve had to a modern monoculture moment in video games in a long time, but you can only play it if you own a PlayStation 5 or Xbox Series X/S. If you lack either of those consoles and find the increasingly high prices to be off-putting, you might feel a little left out, especially as Rockstar refuses to talk about whatever plans it has for an inevitable PC release. That feeling of missing out is likely a big part of the motivation driving people to tug at Claude’s apron to get GTA 6 ported to PC ASAP, before any official port is announced.\nLike other recent recompilations of games, both those created by AI and those that weren’t, efforts to port GTA VI to PC were supposed to take the code of the console game and make it playable on a different platform than originally intended. This, in theory, skirts legal issues by requiring a copy of the game already in storage to fill in everything that is owned by Rockstar and Take-Two—like assets, voice acting, and so forth. This legal gray area was further complicated this week when Cyberleek, the rogue person or group that released numerous leaks of GTA 6 beginning in August, released the Xbox Series X executable online, bypassing the need for any recompilation project to have a legitimate copy of the game. That release, combined with ubiquitously available AI coding tools and a lot of motivated teenagers, served as a starting pistol for a major effort to get the port done before the end of the year.\nOn PortWatch VI, a website created to track the progress of community efforts to port GTA 6, a counter at the top proudly counts up the time since the executable was released. The site uses progress bars to show how far along each recompilation is getting, with pinned posts celebrating how far it has come in a short period of time. Currently the recomp is described as playable at sub-5 frames per second.\nFor whatever reason, a lot of these vibe coders are streaming their attempts to have Anthropic’s Claude port the game to PC for them. While Twitch pretty explicitly does not allow this, right-wing corollaries like Kick and Rumble do with little to no moderation. Bluesky account amithero.bot posted a thread on the site about watching one of these attempts in which the person behind it was largely just tell Claude or Google Antigravity to press A at the title screen and to code faster.\nThe thing about publicly streaming these things, though, is that Take-Two’s lawyers are also wat",
+    "extra": {
+     "image": "https://kotaku.com/app/uploads/2026/08/GTA6art_0001_Raul_Bautista_landscape-2-1280x720.jpg"
+    }
+   },
+   "verdict": {
+    "type": "rumor",
+    "importance": 8,
+    "post": "🔥 Слух, не подтверждено: Kotaku\n\nФанаты пытаются портировать GTA 6 на ПК\n\nПока Rockstar молчит про релиз на компах, энтузиасты вовсю ковыряют код и пытаются запустить игру через ИИ. Юристы Take-Two уже начали разнос, закрывая проекты, но джинн из бутылки уже вылетел — народ не остановить. Пока что всё это работает на 5 кадрах в секунду, так что играбельность — лютая боль.\n\n❤️ — Жду на ПК, консоль не хочу\n👎 — Консольный эксклюзив — это база",
+    "card_title": "ФАНАТСКИЙ ПОРТ GTA 6 НА ПК",
+    "reason": "Информация о попытках фанатов портировать игру на ПК и реакции юристов Take-Two.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.1-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-25T18:14:13.495754+00:00"
   }
  ]
 }
