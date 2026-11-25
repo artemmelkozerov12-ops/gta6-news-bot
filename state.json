@@ -4359,7 +4359,37 @@
   "909ad7ba98fbb8ad": "2026-11-25T18:16:02.153098+00:00",
   "347d1410b54c5a59": "2026-11-25T18:16:52.963694+00:00",
   "15ae48c712747088": "2026-11-25T18:16:53.304670+00:00",
-  "4e9b0a74c693cfe3": "2026-11-25T18:16:53.655515+00:00"
+  "4e9b0a74c693cfe3": "2026-11-25T18:16:53.655515+00:00",
+  "e9720993947a754b": "2026-11-25T18:31:27.560995+00:00",
+  "db8b0b1a47a20f34": "2026-11-25T18:31:38.116787+00:00",
+  "ec580f10a6129240": "2026-11-25T18:31:49.534641+00:00",
+  "5ba0fbdcbbaac9d3": "2026-11-25T18:32:01.626925+00:00",
+  "320da38f8ca374a4": "2026-11-25T18:32:03.937669+00:00",
+  "16c7728688341471": "2026-11-25T18:32:10.585694+00:00",
+  "d61c8caa6cb00621": "2026-11-25T18:32:14.936552+00:00",
+  "c5e35324b2d46d00": "2026-11-25T18:32:19.926806+00:00",
+  "9015c27609267781": "2026-11-25T18:33:03.804584+00:00",
+  "5eecc77a416ecc7d": "2026-11-25T18:33:04.176283+00:00",
+  "957700f12cb6c325": "2026-11-25T18:33:04.495655+00:00",
+  "aa88417e4e8e316c": "2026-11-25T18:33:04.838988+00:00",
+  "361825c8574f0d0f": "2026-11-25T18:33:55.654559+00:00",
+  "9c595f9a57794716": "2026-11-25T18:33:55.986245+00:00",
+  "6d7743225e1ea2b0": "2026-11-25T18:33:56.300396+00:00",
+  "7a4b6e5d7a352e85": "2026-11-25T18:33:56.686291+00:00",
+  "5cbd17127d958f4a": "2026-11-25T18:34:47.162977+00:00",
+  "7739260abe37c2d3": "2026-11-25T18:48:35.099891+00:00",
+  "8c50253e83aa261e": "2026-11-25T18:48:35.099960+00:00",
+  "dc7095ec8cd648f5": "2026-11-25T18:48:35.101564+00:00",
+  "b39f89f3ab9394e4": "2026-11-25T18:48:43.766606+00:00",
+  "a0f69cfaeb4cb634": "2026-11-25T18:48:51.348359+00:00",
+  "f61992f5f587c0e6": "2026-11-25T18:49:03.336667+00:00",
+  "2d0c73dd7bbfb574": "2026-11-25T18:49:10.767941+00:00",
+  "6fb919266e21513b": "2026-11-25T18:49:27.376063+00:00",
+  "cebe38cc788eac0c": "2026-11-25T18:50:34.393695+00:00",
+  "b1860c7711dc6e1f": "2026-11-25T18:51:56.821182+00:00",
+  "20a317a3f539de2d": "2026-11-25T18:52:29.416264+00:00",
+  "552763e503da4890": "2026-11-25T18:52:51.170615+00:00",
+  "f3640c255bdde68b": "2026-11-25T18:53:10.939637+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -7252,7 +7282,25 @@
   "fadc8cfc114a89bd": "2026-11-25T18:10:48.580908+00:00",
   "83809658e329d9e5": "2026-11-25T18:10:51.466229+00:00",
   "488c23dc57583fb1": "2026-11-25T18:12:24.691451+00:00",
-  "ed8fc470c7b0f9b9": "2026-11-25T18:14:32.093934+00:00"
+  "ed8fc470c7b0f9b9": "2026-11-25T18:14:32.093934+00:00",
+  "3ff379eca70aa739": "2026-11-25T18:31:27.560995+00:00",
+  "d9d77044d14f004d": "2026-11-25T18:31:38.116787+00:00",
+  "9e7fd7a8cd7c525a": "2026-11-25T18:31:49.534641+00:00",
+  "ffcb55d5b2d14111": "2026-11-25T18:32:01.626925+00:00",
+  "b26ec7c21e2bc989": "2026-11-25T18:32:03.937669+00:00",
+  "81c4ae3bd4e07b6b": "2026-11-25T18:32:10.585694+00:00",
+  "88beae656e7c49a0": "2026-11-25T18:32:14.936552+00:00",
+  "94cf76e31b6165a0": "2026-11-25T18:32:19.926806+00:00",
+  "f55f093d484c4443": "2026-11-25T18:48:43.766606+00:00",
+  "7719352a8047b857": "2026-11-25T18:48:35.099960+00:00",
+  "eb0f13a75f374d43": "2026-11-25T18:48:35.101564+00:00",
+  "b88ef8a7496a6020": "2026-11-25T18:48:51.348359+00:00",
+  "3500ee9b7e13e040": "2026-11-25T18:49:03.336667+00:00",
+  "eca26519df6bb569": "2026-11-25T18:49:10.767941+00:00",
+  "846e442642cd69a4": "2026-11-25T18:49:27.376063+00:00",
+  "96375c3e3bea90d7": "2026-11-25T18:50:34.393695+00:00",
+  "9abb86f7285b0c6b": "2026-11-25T18:51:56.821182+00:00",
+  "43f3e2a7cb2773fd": "2026-11-25T18:52:29.416264+00:00"
  },
  "recent": [
   {
@@ -14526,6 +14574,110 @@
    "status": "skipped",
    "ts": "2026-11-25T18:15:03.330137+00:00",
    "card_title": ""
+  },
+  {
+   "title": "DJ Stevie J To Host 'GTA VI' Takeover On Black Friday",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-25T18:31:27.561031+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to Win Drone Races in GTA 6—All Locations & Tips to Win",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-25T18:32:06.797613+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Where To Find Pegassi Mojito Tempesta In GTA 6—Fastest Cars Location & Stats",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-25T18:32:12.478731+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Мужчины начали искать женщин, повторяющих танцы из GTA VI — бизнес отреагировал на запрос",
+   "source": "iXBT.games",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-25T18:32:16.655115+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to whistle to distract enemies in GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-25T18:48:35.099935+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Couples Are Being So Weird About ‘GTA 6’—Can We Please Just Be Normal?",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-25T18:48:35.099978+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Cooties Mission Walkthrough",
+   "source": "VGC",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-25T18:48:35.101583+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to whistle to distract enemies in GTA 6",
+   "source": "Polygon",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-25T18:48:44.551183+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Marbelle Hotel location and safe code: How to find the Silent Hill Easter egg",
+   "source": "VGC",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-25T18:48:57.745146+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6’s Mandy Actor Reacts To The Online “Weirdos”",
+   "source": "GameSpot",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-25T18:49:16.862560+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Pegassi Infernus location",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-25T18:49:27.376179+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Feature: Seven Improvements We'd Still Love To See In GTA 6",
+   "source": "Pure Xbox",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-25T18:50:34.393817+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6’s Fake Tunnel Is A Great Way To Turn Your Muscle Car Into Scrap Metal",
+   "source": "GameSpot",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-25T18:52:50.090350+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -14769,7 +14921,9 @@
     "guide": false,
     "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
    },
-   "queued_at": "2026-11-25T16:44:05.332447+00:00"
+   "queued_at": "2026-11-25T16:44:05.332447+00:00",
+   "moderation": "pending",
+   "draft_msg_id": 165
   }
  ],
  "posts": [
@@ -14840,7 +14994,8 @@
   "2026-11-25T14:03:34.684152+00:00",
   "2026-11-25T15:03:40.761643+00:00",
   "2026-11-25T16:11:56.509162+00:00",
-  "2026-11-25T17:12:22.400219+00:00"
+  "2026-11-25T17:12:22.400219+00:00",
+  "2026-11-25T18:30:22.933992+00:00"
  ],
  "slots_sent": {
   "2026-11-24:guide:1": "2026-11-24T14:08:00.473378+00:00",
@@ -21370,6 +21525,105 @@
    "drafted": false,
    "ts": "2026-11-25T18:16:53.655567+00:00",
    "frames": []
+  },
+  {
+   "author": "twitch:squeezie",
+   "vod": "2940304898",
+   "offset": 12851.0,
+   "title": "GTA 6 BRAQUAGE DAY LIVE 676h NON-STOP!!",
+   "drafted": false,
+   "ts": "2026-11-25T18:33:03.804627+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:xxrebellioxx",
+   "vod": "2938330995",
+   "offset": 2907.0,
+   "title": "Der Bauchplatscher des Todes 💀",
+   "drafted": false,
+   "ts": "2026-11-25T18:33:04.176333+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:salmmus",
+   "vod": "2940096774",
+   "offset": 9346.0,
+   "title": "yoooo",
+   "drafted": false,
+   "ts": "2026-11-25T18:33:04.495695+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:ironmouse",
+   "vod": "2935731348",
+   "offset": 30343.0,
+   "title": "1",
+   "drafted": false,
+   "ts": "2026-11-25T18:33:04.839025+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:lilypichu",
+   "vod": "2939767299",
+   "offset": 3579.0,
+   "title": "Lily is a pro im dying LMAO",
+   "drafted": false,
+   "ts": "2026-11-25T18:33:55.654602+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:deadp47_",
+   "vod": "2939592087",
+   "offset": 9289.0,
+   "title": "Нормальный такой",
+   "drafted": false,
+   "ts": "2026-11-25T18:33:55.986297+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:jynxzi",
+   "vod": "2939550825",
+   "offset": 8963.0,
+   "title": "lol",
+   "drafted": false,
+   "ts": "2026-11-25T18:33:56.300443+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:mooda",
+   "vod": "2939560900",
+   "offset": 5919.0,
+   "title": "🦩 GRAND THEFT AUTO 6 PLAYTHROUGH 🦩 DAY 6 OR 7 🦩 SICK STREAM 🦩 90% DONE 🦩 HUNTING FOR SKYLINE 🦩",
+   "drafted": false,
+   "ts": "2026-11-25T18:33:56.686366+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:frametamer666",
+   "vod": "2938915006",
+   "offset": 67477.0,
+   "title": "ff[[f[f",
+   "drafted": false,
+   "ts": "2026-11-25T18:34:47.163024+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:lilypichu",
+   "vod": "2939767299",
+   "offset": 10891.0,
+   "title": "lilypichu - Highlight bd6690 Part 02",
+   "drafted": false,
+   "ts": "2026-11-25T18:52:51.170653+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:pow3r",
+   "vod": "2939326122",
+   "offset": 24819.0,
+   "title": "[DROP GTA VI] GTA VI Ep. 7 RAPINE & SOLDI !cuffie !mousepad",
+   "drafted": false,
+   "ts": "2026-11-25T18:53:10.939684+00:00",
+   "frames": []
   }
  ],
  "published": [
@@ -22076,6 +22330,186 @@
    },
    "corr": false,
    "since": "2026-11-25T18:14:13.495754+00:00"
+  },
+  {
+   "item": {
+    "title": "Why GTA 6 Doesn’t Let You Replay Missions–It Felt “Alien And Disconnected”",
+    "link": "https://www.gamespot.com/articles/why-gta-6-doesnt-let-you-replay-missions-it-felt-alien-and-disconnected/",
+    "summary": "One of the first things people noticed with Grand Theft Auto 6 is that you cannot replay missions , at least not in a simple, straightforward way. GTA 5 had a mission replay option, as did Red Dead Redemption II, so why doesn't GTA 6? Senior design director Scott Butchard told Kotaku that Rockstar \"certainly\" considered a mission replay feature \"early on in development.\" However, Butchard said, \"As the game came together, it felt at odds with the story we were trying to tell and felt a bit alien and disconnected.\" He went on to say replaying missions \"really diminished the choices you had made.\" https://www.youtube.com/watch?v=qQdxbUZqRZ4 While GTA 6 doesn't make it easy to replay missions, you still can do so by reloading an earlier GTA 6 save. Something else to know is that if you're in the middle of a mission and it's not going to plan, you can open the game menu and select retry, quit, or restart. GTA 6 blasted off with 32.5 million sales via prepurchases alone and around $4 billion in revenue on day one . The game is only going to get bigger and sell more copies over time, and it's helping drive new PlayStation and Xbox hardware sales . In other GTA 6 news, the actor who plays the character Mandy has reacted to people being weird online . Rockstar has also reacted to the sentiment that GTA 6 is too easy .",
+    "published": "2026-11-25T17:57:36+00:00",
+    "source": "GameSpot",
+    "site_name": "GameSpot",
+    "trust": "high",
+    "text": "One of the first things people noticed with Grand Theft Auto 6 is that you cannot replay missions , at least not in a simple, straightforward way. GTA 5 had a mission replay option, as did Red Dead Redemption II, so why doesn't GTA 6? Senior design director Scott Butchard told Kotaku that Rockstar \"certainly\" considered a mission replay feature \"early on in development.\" However, Butchard said, \"As the game came together, it felt at odds with the story we were trying to tell and felt a bit alien and disconnected.\" He went on to say replaying missions \"really diminished the choices you had made.\" https://www.youtube.com/watch?v=qQdxbUZqRZ4 While GTA 6 doesn't make it easy to replay missions, you still can do so by reloading an earlier GTA 6 save. Something else to know is that if you're in the middle of a mission and it's not going to plan, you can open the game menu and select retry, quit, or restart. GTA 6 blasted off with 32.5 million sales via prepurchases alone and around $4 billion in revenue on day one . The game is only going to get bigger and sell more copies over time, and it's helping drive new PlayStation and Xbox hardware sales . In other GTA 6 news, the actor who plays the character Mandy has reacted to people being weird online . Rockstar has also reacted to the sentiment that GTA 6 is too easy .",
+    "extra": {
+     "image": "https://www.gamespot.com/wp-content/uploads/2026/11/Lucia_Caminos_13_242d72.jpg?w=300"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "ПОЧЕМУ нет повтора миссий в GTA 6?\n\nРазработчики из Rockstar признались, что вырезали привычную кнопку реплея заданий. Говорят, это ломало вайб сюжета и обесценивало выборы игрока. Ладно хоть через старые сейвы можно перепройти, база.",
+    "card_title": "ПОЧЕМУ НЕТ ПОВТОРА МИССИЙ",
+    "reason": "Разработчики объяснили отсутствие выбора миссий в меню, это официальная информация от Rockstar.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-25T18:31:41.666816+00:00"
+  },
+  {
+   "item": {
+    "title": "Похоже, теперь слили полный билд GTA VI для PlayStation 5",
+    "link": "https://ixbt.games/news/2026/11/25/poxoze-teper-slili-polnyi-bild-gta-vi-dlia-playstation-5.html",
+    "summary": "Ранее игроки уже получили Xbox-версию.",
+    "published": "2026-11-25T17:54:00+00:00",
+    "source": "iXBT.games",
+    "site_name": "iXBT.games",
+    "trust": "medium",
+    "text": "Недавно хакер (или группировка) Cyberleek порадовал игроков сливом билда Grand Theft Auto VI и exe-файла. Это уже дало первые плоды: игроки запускают новую часть франшизы на ПК (но пока всё это выглядит очень плохо и с малым FPS, но прогресс есть).\nТеперь от Sventek поступила информация о новой утечке. Он утверждает, что ему удалось получить полноценную сборку GTA VI для PlayStation 5 — расшифрованную и с исполняемым файлом.\nПо сообществу, специализирующемся на утечках GTA VI, начало распространять следующее сообщение Sventek:\nУже соскучились по мне? Уверен, что да. Вот торрент с версией [GTA VI] для PS5. Примечания: сборка сделана на скорую руку, чтобы быстрее выложить, некоторые файлы в папке sce_sys могут отсутствовать, но вся игра скопирована, а [исполняемый файл] eboot расшифрован :)\nТеперь техно-энтузиасты будут исследовать этот дамп — архив весит порядка 191 ГБ, а в распакованном виде «вес» превышает 500 ГБ. В этом году эмуляторы PlayStation 5 и проекты по нативному запуску PS5-игр уже далеко продвинулись, поэтому если данные файлы удастся использовать, то играбельная «GTA VI на ПК» может появиться в обозримом будущем.\nНе пропускайте наши новостиДобавьте сайт в предпочитаемые источники, чтобы видеть нас чащеДобавить в Google",
+    "extra": {
+     "image": "https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1746383/media-e5f4d6ede8a32b8edb97c9eec0f54f0c9bd67101c43ddaf1df72a6c47f591cf7.png"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "Слили СБОРКУ GTA 6 для PS5\n\nИнсайдеры выкатили в сеть расшифрованный билд весом почти 200 гигов. Техно-гики уже ковыряются в файлах, так что ждем норм эмуляторы на ПК.",
+    "card_title": "СЛИВ БИЛДА PS5",
+    "reason": "Новость о масштабной утечке билда PS5 от крупного СМИ, хайповая тема для комьюнити.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-25T18:31:53.561596+00:00"
+  },
+  {
+   "item": {
+    "title": "Руки из ****: крыша дома Джейсона из GTA VI всегда будет протекать — польский геймер указал на системную ошибку Rockstar Games",
+    "link": "https://ixbt.games/news/2026/11/25/ruki-iz-krysa-doma-dzeisona-iz-gta-vi-vsegda-budet-protekat-polskii-geimer-ukazal-na-sistemnuiu-osibku-rockstar-games.html",
+    "summary": "Ремонт крыши был выполнен неправильно.",
+    "published": "2026-11-25T17:40:00+00:00",
+    "source": "iXBT.games",
+    "site_name": "iXBT.games",
+    "trust": "medium",
+    "text": "Недавно состоялся релиз Grand Theft Auto VI и игроки постепенно осваивают контент. В игре есть не только криминал, но и другие активности, в том числе связанные с ремонтом.\nВнимание Даниэля Томашевски (Daniel Tomaszewski) привлекла мини-игра с починкой крыши. Внешне может показаться, что главный герой Джейсон Дюваль легко справляется с задачей, однако, объясняет Даниэль, на самом деле он совершает большую ошибку и при следующем дожде кровля протечёт:\nКогда меня спрашивают о самом большом недостатке GTA VI после 25 часов игры, я отвечаю на это так: в необязательной мини-игре про ремонт крыши Джейсон кладёт черепицу (гонт) не по правилам.\nGdy ktoś mnie pyta o największą wadę #GTAVI po 25 godzinach rozgrywki odpowiadam: w opcjonalnej minigierce o naprawie dachu Jason montuje gonty wbrew sztuce, źle je układa i mocuje, będzie mu ten dach nadal ciekł. Rockstar się nie przyłożył.\nИз-за неправильного крепления «что крыша у него всё равно будет протекать». По мнению Даниэля, команда Rockstar Games в этом случае «не приложила усилий».\nВ этом ролике видно, что Джейсон прибивает слои (чёрного цвета) по отдельности — они расположены слишком свободно, а для правильного крепления гвоздь должен пройти через свой слой и через тот, что находится под ним (пример реального монтажа на третьей картинке):\nИгроки, вроде BaranElektryk, связывают это с тем, что в команде за сценарий отвечали женщины и разработчики никогда не работали на «реальной» работе и поэтому не знали о том, как правильно чинят крыши: «Игра, созданная женщинами, и практически все работы по ремонту сделаны неправильно — ремонт крыши, стен, раковины и т. д.».\nНе пропускайте наши новостиДобавьте сайт в предпочитаемые источники, чтобы видеть нас чащеДобавить в Google",
+    "extra": {
+     "image": "https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1746378/media-28d465f36db5f11060fea8835dbbf4f5ffff7fc437143cf10365da60df8e8ca8.png"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "КРЫША Джейсона потечет\n\nФанаты заметили кринж в мини-игре с ремонтом: Джейсон укладывает черепицу неправильно, так что дом снова затопит при первом же дожде. Рокстары явно не шарят за стройку.\n\n❤️ — Ждем патч для крыши\n👎 — Сам починит",
+    "card_title": "КРЫША ДЖЕЙСОНА ПРОТЕЧЕТ",
+    "reason": "Забавный баг/недочет с крышей в игре вызвал бурные обсуждения игроков.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-25T18:32:02.319750+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA 6: Breaking Down The Cleanest Bank Robbery We've Seen So Far",
+    "link": "https://www.ign.com/articles/gta-6-breaking-down-the-cleanest-bank-robbery-weve-seen-so-far",
+    "summary": "One GTA 6 player has robbed $160,000 in just one minute in the cleanest bank robbery we’ve seen yet. Here's how they did it.",
+    "published": "2026-11-25T17:08:42+00:00",
+    "source": "IGN",
+    "site_name": "IGN",
+    "trust": "high",
+    "text": "Warning: This article talks about gameplay mechanics from chapter four of GTA 6, but contains no story spoilers.\nGTA 6 is a game all about making money. One of the quickest and most profitable ways of doing that is by robbing one of Vice City’s biggest banks. It’s also one of the riskiest, though; we’ve a legion of law enforcement destined to descend upon you once that alarm is triggered. That doesn’t mean a clean escape isn’t possible, though, and that’s just what one streamer has showcased, in perhaps the most impressive manner we’ve seen so far.\nVideo game streamer Sway set about his mission to the downtown Lombank for all its worth via a popular method – tailing a security van. These are the green and white vans you sometimes see driving around the map, which, if you follow for long enough, will lead you to a bank where the vault will be left wide open for you to enter. You can also make the locations of these trucks visible by paying Yasmani a hefty $10,000 tip for the info.\nIt’s worth noting that this option isn’t available until chapter four, with banks not being able to be successfully robbed at all until partway through GTA 6’s third chapter, once you gain the ability to cash in on marked bills. Otherwise, you’ll end up as Lucia can in the prologue, with a whole load of coloured dye all over you.\nAnyway, back to Sway’s attempted heist, and just because the security guard has opened the vault doesn’t mean you can simply walk in and out of the building carrying a load of cash. There are numerous options you can take, including blasting your way in and getting in and out as quickly and violently as possible, or entering through the back rooms to sneak past everyone. The latter is the way that Sway mostly went with.\nFirst, he shot out a security camera in the rear alley with a silenced pistol, before cracking open a garage door and quickly knocking out a guard with a quick pistol whip. Another couple of security members fell unconscious thanks to the blunt end of a gun as he made his way swiftly into the vault. Just noting the excellent choice of “old person” mask from Jason here, too.\nCleanest Bank Robbery you'll see in GTA 6.$150k in 1 minute. simple and clean. https://t.co/Y8GqDuydvd— sway (@swaywtw) November 25, 2026\nNext come the stacks of marked bills, which are hurriedly bundled into stash bags by Lucia. This action triggers the bank’s alarm systems, and always will, as far as I know. The cloud-based security camera system can’t be overrun and ",
+    "extra": {
+     "image": "https://assets-prd.ignimgs.com/2026/11/25/bank-blog-1795626263101.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "🏦 Чистейшее ограбление банка\n\nСтример залутал 150к баксов всего за минуту, тихо вырубив охрану в Lombank. Вот это имба, надо затестить в катке.\n\n❤️ — Красавчик, мастер стэлса\n👎 — Слишком легко, где хардкор",
+    "card_title": "ИДЕАЛЬНОЕ ОГРАБЛЕНИЕ БАНКА ЗА МИНУТУ",
+    "reason": "Стример показал идеальное ограбление банка в GTA 6 за минуту, что подтверждает реальный геймплей механик из игры.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "GTA 6 Player Gets $160,000 in One Minute In The Cleanest Bank Robbery We’ve Seen Yet",
+    "corroborated_by": "GTA 6 Player Gets $160,000 in One Minute In The Cleanest Bank Robbery We’ve Seen Yet",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-25T18:32:43.196226+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA 6 Players Are Running Into a Game-Breaking Bug",
+    "link": "https://www.polygon.com/gta-6-soft-lock-bug-chapter-3-game-breaking/",
+    "summary": "GTA 6 players are running into a game-breaking bug that makes it impossible to progress the story.",
+    "published": "2026-11-25T18:32:07+00:00",
+    "source": "Polygon",
+    "site_name": "Polygon",
+    "trust": "high",
+    "text": "Grand Theft Auto 6’s Leonida is full of dangers: murderous wildlife, over-eager cops, unhinged backwoods drug dealers, terrible drivers, and much more. However, all these threats pale in comparison to a particularly deadly foe. GTA 6 has a game-breaking soft lock bug that makes it impossible to progress.\nThe X user @SirGrotti posted a clip of the glitch, showing how they can no longer switch from Lucia to Jason, with the option permanently grayed out. The glitch can occur in Chapter 3 after the Missing Persons mission, and it’s game-breaking because the next story segment requires Jason. Comments on the post suggest several solutions, including leaving their house and then switching characters, saving and reloading, asking to meet up with Jason, sleeping, and more, but apparently, none of these worked for SirGrotti.\nUnfortunately, SirGrotti isn't alone. The website GTA6Bugs tracks user-reported cases of crashes, softlocks, and other problems. Of the dozens of bugs logged on the site, the Chapter 3 softlock has the most views. While there are a few fixes that worked for some players, not everyone has been so lucky.\nWhat fixes can you try if you run into the bug?\nThe first fix is to load a manual save from before you drove to the warehouse in Port Gellhorn for the final Missing Persons meeting. Then switch to Jason and play through the Dealer’s Choice mission until you can switch to Lucia freely. Make a manual save in a new slot and finish Missing Persons.\nBeyond this fix, other potential workarounds include playing another Lucia or duo mission if one is available, calling Dunk from Lucia’s phone, and robbing a store as a pair before starting Raul’s job as Lucia. GTA 6’s 01.002.002 update didn’t seem to fix this problem, but considering this seems to be one of the most reported game-breaking issues, ideally Rockstar will address it soon. Beyond these softlocks, another common issue for GTA 6 players is a mysterious PS5 crash, which both Rockstar and Sony customer support have blamed on the other party.\nThings can always be much worse, though: some GTA 6 players have uploaded videos of the game’s demanding graphics seemingly frying their PS5s. One clip from shivjam shows the console dying in real time, while another has a streamer's PlayStation billowing smoke. Console and controller technician Modyfikator89 described GTA 6 as \"the toughest real-world PS5 stress test\" he had ever seen. With the ongoing chip crisis driving game console prices higher than ever,",
+    "extra": {
+     "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/gta-6-release-time-header.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "ЛЮТЫЙ БАГ ЛОМАЕТ ПРОХОЖДЕНИЕ\n\nВ третьей главе после миссии Missing Persons игра может зависнуть так, что переключение на Джейсона станет недоступно. Некоторые умельцы жалуются, что графический движок даже жарит плойки до дыма — вот это настоящий хардкорный стресс-тест для консолей.",
+    "card_title": "КРИТИЧЕСКИЙ БАГ И ПЕРЕГРЕВ PS5",
+    "reason": "Критический баг в 3 главе ломает прохождение у многих игроков, а графика игры якобы даже жжет консоли.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-25T18:49:09.400792+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA 6 recompilers and vibe-coders implore AI chatbots to 'work faster' and 'make no mistakes' as they race to get the game running on PC",
+    "link": "https://www.eurogamer.net/grand-theft-auto-6-gen-ai-chatbots-work-faster-prompts",
+    "summary": "Things continue to get messy in the community of players working on getting Grand Theft Auto 6 working on PC. The previous frontrunner, Project Leonida, got their Discord server and GitHub repository taken down by Rockstar , but others have seemingly stepped in to finish the job. Read more",
+    "published": "2026-11-25T15:19:10+00:00",
+    "source": "Eurogamer",
+    "site_name": "Eurogamer",
+    "trust": "high",
+    "text": "Things continue to get messy in the community of players working on getting Grand Theft Auto 6 working on PC. The previous frontrunner, Project Leonida, got their Discord server and GitHub repository taken down by Rockstar, but others have seemingly stepped in to finish the job.\nThe most up-to-date build of GTA 6 was allegedly leaked earlier this week by notorious leaker CyberLeek. This is a supposedly near-final build of the game's Xbox version, and it's seemingly being used as the basis for the recent work to port the game to PC.\nUnsurprisingly, most of these communities of modders rely almost exclusively on generative-AI tools like Claude and Antigravity to decompile and recompile the console version of GTA 6. That has always been the case, but the CyberLeek build only invited even more to ask AI chatbots to make the PC port for them.\nX user chasm has been following developments in the GTA 6 decompile and recompile communities, and recently shared some of the prompts the so-called vibe-coders are using - a few of whom livestreamed the process.\n\"Make no mistakes,\" one modder prompted the AI chatbot. \"Keep finding more stuff and working and pushing,\" another eloquently asked. \"Work faster,\" asked another. \"There has to be a faster way to iterate than this,\" they continued.\nRockstar, which successfully managed to DMCA take down Project Leonida - including all of its 3,006 forks on lead author NotRexed's GitHub - is seemingly also going after people online discussing the community's progress. The X user in question later revealed they may no longer be able to share these updates, as their posts have also been removed \"in response to a report by the copyright owner\".\nAs for how far some of the remaining communities have managed to get, this video allegedly shows the game running on PC. This goes beyond the boot-up screen, which modders were able to reach within hours of CyberLeek's build alleged leaking.\nThe footage runs at sub-5fps, but the visuals look to have rendered normally. Assuming Rockstar doesn't also shut down the modders who remain active, we may see another progress update.\nIf you're already playing Rockstar's latest on consoles, the Eurogamer GTA 6 walkthrough offers comprehensive guides on relationship mechanics, how the new Criminal Profile system works, a list of all safe codes and more.",
+    "extra": {
+     "image": "https://assetsio.gnwcdn.com/gta-6-vice-city-car-interior-1.jpeg?width=690&quality=85&format=jpg&auto=webp"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "🔥 Слух, не подтверждено: Eurogamer\n\nПК-ПОРТ GTA 6 И ИИ\n\nМоддеры пытаются запустить GTA 6 на ПК с помощью ИИ-чат-ботов, умоляя их «работать быстрее» и «не косячить». Выглядит это пока как лютый рофл: игра запускается, но выдает меньше 5 кадров в секунду. Rockstar уже активно сносит репозитории и банит всех причастных, так что ждем развязку этого цирка.\n\n❤️ — Жду ПК-версию, пофиг на ИИ\n👎 — Консольщики на коне, хватит страдать",
+    "card_title": "ПК-ПОРТ GTA 6 И ИИ",
+    "reason": "История про попытки запустить игру на ПК через ИИ и борьбу Rockstar с модерами — это хайповый скандал.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.1-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-25T18:52:06.142421+00:00"
   }
  ]
 }
