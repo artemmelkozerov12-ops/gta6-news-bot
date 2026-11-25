@@ -4147,7 +4147,15 @@
   "7a9b865da4f02280": "2026-11-25T13:42:49.180569+00:00",
   "fc29238c0505bcab": "2026-11-25T13:43:12.365306+00:00",
   "a2953aff2c3393d4": "2026-11-25T13:43:26.104433+00:00",
-  "145c2c2f61d0bd8c": "2026-11-25T13:43:47.718496+00:00"
+  "145c2c2f61d0bd8c": "2026-11-25T13:43:47.718496+00:00",
+  "46796ff4d3341045": "2026-11-25T13:59:19.805069+00:00",
+  "bada24042ace85ec": "2026-11-25T13:59:20.771762+00:00",
+  "cebb479cea160189": "2026-11-25T13:59:32.781253+00:00",
+  "1ce100c5d85a2ef6": "2026-11-25T13:59:45.631011+00:00",
+  "859fd601339a6c42": "2026-11-25T14:00:11.003751+00:00",
+  "2cab1a37f1dfa0e3": "2026-11-25T14:00:31.686062+00:00",
+  "752a3102b936d2c5": "2026-11-25T14:00:43.581588+00:00",
+  "350465bb28853c85": "2026-11-25T14:00:56.484932+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -6943,7 +6951,15 @@
   "8b001005bb0632e5": "2026-11-25T13:42:49.180569+00:00",
   "e4a37c6ed8c05b1f": "2026-11-25T13:43:12.365306+00:00",
   "af29eb312c3c112c": "2026-11-25T13:43:26.104433+00:00",
-  "861bcbaf78eee180": "2026-11-25T13:43:47.718496+00:00"
+  "861bcbaf78eee180": "2026-11-25T13:43:47.718496+00:00",
+  "acc4b47028491be7": "2026-11-25T13:59:19.805069+00:00",
+  "6d405e957e45340c": "2026-11-25T13:59:20.771762+00:00",
+  "2e8e833a41689106": "2026-11-25T13:59:32.781253+00:00",
+  "3b59094db6a58a2a": "2026-11-25T13:59:45.631011+00:00",
+  "946fac2afc1c11de": "2026-11-25T14:00:11.003751+00:00",
+  "a53bd1939507d0a2": "2026-11-25T14:00:31.686062+00:00",
+  "e0dcd2d1c15bd143": "2026-11-25T14:00:43.581588+00:00",
+  "e8812753c328e863": "2026-11-25T14:00:56.484932+00:00"
  },
  "recent": [
   {
@@ -14809,6 +14825,70 @@
    "status": "skipped",
    "ts": "2026-11-25T13:43:47.718642+00:00",
    "card_title": ""
+  },
+  {
+   "title": "How to Listen to the Radio While Walking in GTA 6",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-25T13:59:19.805190+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Raul Bautista Actor Manny Perez Bought a PS5 So He Could Play GTA 6",
+   "source": "IGN",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-25T13:59:25.556975+00:00",
+   "card_title": "АКТЁР КУПИЛ PS5 РАДИ ГТА 6"
+  },
+  {
+   "title": "Почему весь мир сходит с ума по GTA-6?",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T13:59:32.781402+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 players report PS5 consoles failing as tests reveal unusually high power consumption",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T13:59:45.631158+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Digital Foundry сравнила версии GTA VI на консолях",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T14:00:11.003895+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Just Introduced a New Generation to a 70s Rock Star, and His Streaming Numbers Are Exploding",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T14:00:31.686217+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Meet the Cincinnati voice actor featured in GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T14:00:43.581743+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "I Can't Stop Watching GTA 6's Fake TV",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T14:00:56.485079+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -14928,7 +15008,38 @@
     "guide": false,
     "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-3.5-flash"
    },
-   "queued_at": "2026-11-25T11:26:22.394727+00:00"
+   "queued_at": "2026-11-25T11:26:22.394727+00:00",
+   "moderation": "pending",
+   "draft_msg_id": 159
+  },
+  {
+   "item": {
+    "title": "Raul Bautista Actor Manny Perez Bought a PS5 So He Could Play GTA 6",
+    "link": "https://www.ign.com/articles/raul-bautista-actor-manny-perez-playing-gta-6",
+    "summary": "The actor behind one of the best GTA characters of all time has started working his way through GTA 6. Manny Perez, who plays Raul Bautista, bought a PS5 just so he could play.",
+    "published": "2026-11-25T11:51:09+00:00",
+    "source": "IGN",
+    "site_name": "IGN",
+    "trust": "high",
+    "text": "The actor behind one of the best GTA characters of all time has started working his way through GTA 6. Manny Perez, who plays Raul Bautista, bought a PS5 just so he could play.\n“Guy, I’m playing and this s**t is crazy!” he said in a video posted to social media. “Look how real that looks. I’m learning, I’m loving this, it’s crazy.”\nAccording to Perez, the biggest issue as a non-gamer has been getting used to the DualSense controller, which he called “the stick,” but he’s “getting there.”\nThe actor sent a follow-up tweet after a fan shared the video. “Will take a while but I will finish this game,” he said. “Thank you all for the support. I’m loving the comments and appreciations.”\nRaul Batista is a big character in GTA 6 from Chapter 3 onwards, and one of the highlights of the game in terms of performance. Batista steals the show in some really cool scenes, which I won’t spoil, but I can see him becoming a fan favorite as people work their way through the story.\nPerez has also been touring Miami and recreating iconic scenes from GTA 6, including his in-car introduction from the Extended Look. Here’s a post showing some of the photos:\nIt’s kind of killing me how Raul Bautista’s actor (Manny Perez) is already out here touring Miami and recreating scenes from the game LMAOI love this guy, GOAT @MannyPerez1 https://t.co/KyMhGco8su— GameRoll (@GameRoll_) November 23, 2026\nPerez isn't the only GTA 6 actor who's started to talk about their work on the game and fan reaction to their character. For example, Lexie Shoaibi has spoken out about her \"bittersweet\" newfound fame after her character, Mandy, went viral online. And Issa Lopez, who plays a radio host on GTA 6’s fictional Cocoteo FM radio station, described the wild non-disclosure agreement she had to sign before working on the game, calling the project “crazy secretive.”\nJust getting started in GTA 6 or wondering what to do next? Check out the Official Grand Theft Auto 6 guide right here on IGN. If you're still getting your bearings, discover GTA's new systems with the Beginner's Guide - 67 Tips and Tricks, or get all the details on the first chapters with the Chapter 1 Guide and Tips, Chapter 2 Guide and Tips, and Chapter 3 Guide and Tips. If you're already driving all around Leonida and want to know everything there is to find and do, see the Leonida interactive map.\nKirk McKeand is a Contributor on IGN News. Find him on Twitter @MckKirk",
+    "extra": {
+     "image": "https://assets-prd.ignimgs.com/2026/11/25/gta6-raul-1795606407135.jfif"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "🎮 АКТЁР GTA 6 КУПИЛ PS5 РАДИ ИГРЫ\n\nМанни Перес, сыгравший Рауля Баутисту, взял себе плойку чисто ради ГТА 6! Чел вообще не геймер и пока осваивает стики на геймпаде, но уже орущий в кайфе от графона. А еще он гоняет по Майами и воссоздает сцены со своим персонажем. Наш чел!",
+    "card_title": "АКТЁР КУПИЛ PS5 РАДИ ГТА 6",
+    "reason": "Интересная человеческая история от актёра главной роли, подтверждённая IGN.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "groq:qwen/qwen3.8-27b → gemini:gemini-3.5-flash"
+   },
+   "queued_at": "2026-11-25T13:59:25.556964+00:00"
   },
   {
    "item": {
@@ -15238,7 +15349,8 @@
   "2026-11-25T10:01:25.681255+00:00",
   "2026-11-25T11:02:35.662533+00:00",
   "2026-11-25T12:03:09.950533+00:00",
-  "2026-11-25T13:03:19.234874+00:00"
+  "2026-11-25T13:03:19.234874+00:00",
+  "2026-11-25T14:03:34.684152+00:00"
  ],
  "slots_sent": {
   "2026-11-24:guide:1": "2026-11-24T14:08:00.473378+00:00",
