@@ -3953,7 +3953,10 @@
   "7ea79253d248b590": "2026-11-25T01:34:06.340587+00:00",
   "8b2e816e75418d0e": "2026-11-25T01:34:08.750051+00:00",
   "fdf020ebd433a1d6": "2026-11-25T01:51:53.381219+00:00",
-  "c76fc418aec1bea4": "2026-11-25T02:09:28.224026+00:00"
+  "c76fc418aec1bea4": "2026-11-25T02:09:28.224026+00:00",
+  "6b2a3b5c7affb879": "2026-11-25T03:55:58.752399+00:00",
+  "4e3917c2e30a77a9": "2026-11-25T03:56:33.809887+00:00",
+  "cc433d86ef6a0094": "2026-11-25T04:14:09.207640+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -6624,7 +6627,10 @@
   "dcd258b305285f59": "2026-11-25T01:34:06.340587+00:00",
   "f9871fc6439d4bd6": "2026-11-25T01:34:08.750051+00:00",
   "473a32a856f30512": "2026-11-25T01:51:53.381219+00:00",
-  "541887373c03c5da": "2026-11-25T02:09:28.224026+00:00"
+  "541887373c03c5da": "2026-11-25T02:09:28.224026+00:00",
+  "f777cc8ef183dd0f": "2026-11-25T03:55:58.752399+00:00",
+  "62d190d0c9fa366b": "2026-11-25T03:56:33.809887+00:00",
+  "549504ca8ce36d6f": "2026-11-25T04:14:09.207640+00:00"
  },
  "recent": [
   {
@@ -15090,6 +15096,14 @@
    "status": "queued",
    "ts": "2026-11-25T03:20:53.874192+00:00",
    "card_title": "НАУШНИКИ ИЗ VICE CITY"
+  },
+  {
+   "title": "Почти 340 000 реальных игроков оценили GTA VI. Результат резко отличается от Metacritic",
+   "source": "iXBT.games",
+   "trust": "medium",
+   "status": "queued",
+   "ts": "2026-11-25T03:56:01.588581+00:00",
+   "card_title": "РЕАЛЬНЫЕ ОЦЕНКИ GTA VI"
   }
  ],
  "queue": [
@@ -15447,37 +15461,6 @@
   },
   {
    "item": {
-    "title": "Where To Get The Car Key Cloner In GTA 6",
-    "link": "https://www.videogameschronicle.com/guide/where-to-get-the-car-key-cloner-in-gta-6/",
-    "summary": "Here's where to get the Car Key Cloner in GTA 6",
-    "published": "2026-11-24T15:59:08+00:00",
-    "source": "VGC",
-    "site_name": "VGC",
-    "trust": "high",
-    "text": "Where do you get the Car Key Cloner in GTA 6?\nIf you’re looking to steal some of GTA 6’s most flashy vehicles, then you need the Car Key Cloner. Here’s how to unlock the tool and where to find it in Vice City.\nCheck out our GTA 6 Guides Hub for dozens of guides laying out everything you need to know about Rockstar‘s latest epic.\nGuides: If you're playing Grand Theft Auto 6, make sure to check out our complete walkthrough hub, featuring beginner tips, navigation experience explained, GTA 6 cheats, and more.\nHow To Unlock The Car Key Cloner In GTA 6\nTo get the Car Key Cloner, you’ll need to progress through the main story until Chapter 3.\nFirst, complete the Crosstown Traffic mission. You’ll then receive a job from Randy, who asks you to steal a Granforma Zorrusso from Hathaway Apartments in Ocean Beach.\nDuring the Clonin’ Keys, Makin’ GS mission, you’ll be prompted to install the Key Cloner software, labelled key_cloner_v3.6.9, on your in-game phone.\nOnce installed, the tool becomes available for both Jason and Lucia.\nUsing the Car Key Cloner is relatively straightforward:\nYou can find out if a car is keyless via the WAiNK app.\nPress Triangle button to select Clone Key.\nFollow the on-screen instructions to complete the cloning process.\nIt’s absolutely worth getting the Car Key Cloner. The Car Key Cloner is the only way you’ll get access to parked supercars.\nIt also helps unlock further vehicle theft opportunities through Randy’s Wish List, most of which are supercars that require the car key cloner, lest you smash the window and cause a police response.\nJust remember that cloning a vehicle’s key doesn’t automatically remove its tracking device. You’ll still need to deal with trackers before making a stolen vehicle your own. You can do that at a Pay N Spray or at Randy’s.",
-    "extra": {
-     "image": "https://www.videogameschronicle.com/files/2026/11/GTA-6-key-cloner-5.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 6,
-    "post": "🗺 Гайд: Как раздобыть Car Key Cloner\n\n1️⃣ Пройди сюжет до 3‑й главы и заверши миссию «Crosstown Traffic».\n2️⃣ Получи заказ от Рэнди — украсть Granforma Zorrusso в Ocean Beach.\n3️⃣ В миссии «Clonin’ Keys, Makin’ GS» установи софт key_cloner_v3.6.9 на телефон.\n4️⃣ Открой WAiNK, нажми Triangle → Clone Key и получи клон ключа.",
-    "card_title": "КЛОНЕР КЛЮЧЕЙ: ГАЙД",
-    "reason": "Подтверждённый гайд от VGC, полезен для кражи суперкаров",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": true,
-    "model": "groq:openai/gpt-oss-120b → groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-24T16:08:30.890550+00:00",
-   "moderation": "pending",
-   "draft_msg_id": 136
-  },
-  {
-   "item": {
     "title": "GTA 6 is great because of all its murderous NPCs, not in spite of them",
     "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-is-great-because-of-all-its-murderous-npcs-not-in-spite-of-them/",
     "summary": "Nobody wants to work for their crimes anymore, smh.",
@@ -15797,35 +15780,6 @@
   },
   {
    "item": {
-    "title": "How to Find & Complete Tractor Revenge Encounter in GTA 6",
-    "link": "https://insider-gaming.com/how-to-find-complete-tractor-revenge-encounter-in-gta-6/",
-    "summary": "Here's a detailed guide on how to find and complete GTA 6's Tractor Revenge encounter where you spray manure over a house. The post How to Find & Complete Tractor Revenge Encounter in GTA 6 appeared first on Insider Gaming .",
-    "published": "2026-11-24T15:58:53+00:00",
-    "source": "Insider Gaming",
-    "site_name": "Insider Gaming",
-    "trust": "medium",
-    "text": "Did you know there’s a Tractor Revenge encounter in GTA 6 where you have to spread manure over someone’s house? Here’s a guide that explains how to do it.\nIn a game like GTA 6, players always need to keep their ears and eyes open, because you never know what weird, absurd adventure you’ll suddenly become part of while calmly cruising down the road. One such event is Caleb’s revenge story against his mistreating ex-boss, Stacey, and this guide explains how to find the encounter and what you need to do.\nYou can also buy Grand Theft Auto 6 here if you haven’t already!\nGTA 6 Tractor Revenge Encounter Map Location\nThe Tractor Revenge Encounter in GTA 6 can be found on a highway while driving towards Frogswater.\nWhile driving from the motel to Frogswater in Chapter 2, players will encounter an erratic tractor on the highway (the exact location is marked with a blue star in the screenshot above).\nMore Insider Gaming: All GTA 6 Guides, Walkthroughs, Best Tips & Tricks\nThe tractor is being operated by an NPC named Caleb, who is heavily under the influence of alcohol and is causing a disturbance with his reckless driving, leading to traffic congestion on the road. To initiate this encounter, players should approach the tractor and press and hold up on the D-Pad to Taunt/Question Caleb.\nGTA 6 Tractor Revenge Encounter Mission Walkthrough\nHere are the steps on how to find and complete the tractor revenge encounter in GTA 6 and how to spread manure over Stacey’s house:\nOnce you interact with Caleb, he will park the tractor, attached to a trailer filled with manure, on the side of the road and ask Lucia to drive it instead.\nOn the way, he explains that you are going to Stacey’s house, who is an ex-boss who was making intimate videos of him and also earning money off of him. She didn’t give him a penny from the earnings and left him high and dry when the earnings from his videos stopped.\nCaleb’s recipe for revenge includes spraying manure over Stacey’s house, and when you reach the location, you will see a pristine white house ready to be smeared with shit.\nOnce you are at the house, hold down R1/RB to spray the manure; it sprays from the right side of the carrier.\nThe areas that need to be covered by manure are highlighted in pink; they include the entire house, the back door, the swimming pool, Stacey’s car, and the front door.\nStacey eventually comes out because of the commotion, and Caleb asks you to spray the manure over her too while she’s talking.\nYour cue to exit",
-    "extra": {
-     "image": "https://insider-gaming.com/wp-content/uploads/2026/11/GTA-6-Tractor-Revenge-2-scaled.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 6,
-    "post": "🗺 Гайд: Тракторная месть — как заспреить навоз на дом Стейси 🚜\n\n1️⃣ По пути от мотеля к Фрогсуотеру в Главе 2 ищи трактор с синим маркером на шоссе.\n2️⃣ Подъезжай, держи ↑ на D‑Pad, чтобы вызвать Калеба.\n3️⃣ Садись в трактор‑прицеп, едем к дому Стейси (белый дом с бассейном).\n4️⃣ Держи R1/RB, чтобы спрейнуть навоз на отмеченные розовые зоны и на саму Стейси.",
-    "card_title": "ТРАКТОРНАЯ МЕСТЬ В GTA 6",
-    "reason": "Подтверждённый гайд от Insider Gaming, интересный и полезный контент",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": true,
-    "model": "groq:openai/gpt-oss-120b → groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-24T16:09:40.140827+00:00"
-  },
-  {
-   "item": {
     "title": "Скачок между The Witcher 3 и The Witcher 4 будет похож на переход от GTA V к GTA VI, заверила CDPR",
     "link": "https://ixbt.games/news/2026/11/24/skacok-mezdu-the-witcher-3-i-the-witcher-4-budet-poxoz-na-perexod-ot-gta-v-k-gta-vi-zaverila-cdpr.html",
     "summary": "Студия рассчитывает выпустить игру в 2028 году.",
@@ -15852,6 +15806,35 @@
     "model": "gemini:gemini-3.1-flash-lite → gemini:gemini-3.5-flash"
    },
    "queued_at": "2026-11-25T00:02:44.774216+00:00"
+  },
+  {
+   "item": {
+    "title": "Почти 340 000 реальных игроков оценили GTA VI. Результат резко отличается от Metacritic",
+    "link": "https://ixbt.games/news/2026/11/25/pocti-340-000-realnyx-igrokov-ocenili-gta-vi-rezultat-rezko-otlicaetsia-ot-metacritic.html",
+    "summary": "Покупатели GTA VI в PlayStation Store поставили игре среднюю оценку 4,79 из 5 звёзд, что соответствует 9,6 балла из 10 и резко контрастирует с рейтингом на Metacritic.",
+    "published": "2026-11-25T03:42:00+00:00",
+    "source": "iXBT.games",
+    "site_name": "iXBT.games",
+    "trust": "medium",
+    "text": "Покупатели GTA VI в PlayStation Store поставили игре среднюю оценку 4,79 из 5 звёзд, что соответствует 9,6 балла из 10 и резко контрастирует с рейтингом на Metacritic.\nЕсли судить о GTA VI исключительно по пользовательским оценкам на Metacritic, можно решить, что Rockstar Games выпустила провальную игру. Интернет-тролли и недовольные фанаты конкурирующих проектов быстро опустили средний балл ниже половины возможной шкалы.\nВ PlayStation Store ситуация совершенно иная. Оценки здесь могут оставлять только проверенные владельцы игры, которые действительно приобрели её и запускали. 340 000 пользователей поставили новому приключению в Вайс-Сити в среднем 4,79 из 5 звёзд.\nОсобенно впечатляет распределение оценок: 93% покупателей выставили GTA VI максимальные пять звёзд, ещё 2% ограничились четвёркой. На тройки и двойки пришлось всего по 1% голосов, а минимальную оценку поставили лишь 3% игроков. Разница между реальными покупателями и пользователями открытых площадок, массово выставляющими игре нули, оказалась заметной.\nВ положительных отзывах часто хвалят огромный шаг вперёд по сравнению с GTA V. Игроки отмечают графику, физику, обилие деталей, развитие главного героя, разнообразие побочных занятий и естественные диалоги между Джейсоном и Люсией.\nИгра понравилась даже ветеранам серии, которые считали San Andreas вершиной франшизы. Некоторые признаются, что ограничение в 30 кадров в секунду временами мешает, однако не портит общего впечатления.\nОтрицательные отзывы выглядят содержательнее обычного троллинга. Недовольные покупатели указывают на конкретные решения Rockstar. Одним не нравится реализм, который, по их мнению, лишает игру прежней беззаботности: например, система расхода топлива и необходимость постоянно доставать оружие из багажника вместо привычного ношения целого арсенала. Другие критикуют начало сюжета, сложные отношения главных героев, неудобное управление во время стрельбы и ошибки.\nНе пропускайте наши новостиДобавьте сайт в предпочитаемые источники, чтобы видеть нас чащеДобавить в Google",
+    "extra": {
+     "image": "https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1746076/4848b9a0-3531-4445-b289-9b11cbecc311.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "🎮 Реальные игроки ставят GTA VI 4.79/5\n\n340k владельцев в PS Store дали шедевру почти 5 звёзд — имба‑рейтинг, а Metacritic в шоке. 93% поставили пять, так что игра реально топчик. 🎯",
+    "card_title": "РЕАЛЬНЫЕ ОЦЕНКИ GTA VI",
+    "reason": "Подтверждённые данные о пользовательских оценках, интересны фанатам",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "groq:openai/gpt-oss-120b → groq:openai/gpt-oss-120b"
+   },
+   "queued_at": "2026-11-25T03:56:01.588565+00:00"
   }
  ],
  "posts": [
@@ -22172,5 +22155,66 @@
   "digest-20261123": "2026-11-23T19:30:46.041576+00:00",
   "digest-20261124": "2026-11-24T19:30:13.623703+00:00"
  },
- "rewrite_wait": []
+ "rewrite_wait": [
+  {
+   "item": {
+    "title": "Analyst estimates Call of Duty lost 44% of its players when GTA 6 came out, and unlike fans of its live-service competitors they've been slow to come back",
+    "link": "https://www.pcgamer.com/gaming-industry/analyst-says-call-of-duty-lost-an-estimated-44-percent-of-its-players-when-gta-6-came-out-and-unlike-fans-of-its-live-service-competitors-theyve-been-slow-to-come-back/",
+    "summary": "Turns out Fortnite players are more loyal.",
+    "published": "2026-11-25T03:34:01+00:00",
+    "source": "PC Gamer",
+    "site_name": "PC Gamer",
+    "trust": "high",
+    "text": "Sony has been crowing about Grand Theft Auto 6 setting a new record for concurrent PlayStation players, which isn't bad for a game that's currently only singleplayer. It isn't just beating the records set by the giants of multiplayer gaming back when they released, though. It's also eating their lunch right now.\nAlinea Analytics reports that Call of Duty, Fortnite, and EA Sports FC 27 all saw their number of daily active users drop when GTA 6 released. \"Call of Duty got it the worst of the three,\" Alinea's head of market analysis Rhys Elliott wrote, \"dropping 42% from an average of 7.5M DAUs to 4.4M\" according to the company's estimates.\nFortnite only lost 28% of its players, the firm claims, with an estimated five million of them choosing to buy groceries and fix the stairs instead of parachuting out of a bus over the weekend, and EA Sports FC 27 suffered a similar loss. \"FC 27's DAUs dropped by about 27% when GTA 6 launched,\" according to Elliott, \"from 5.9M to 4.3M.\"\nBut where player numbers for both of those games were trending back up four days after GTA 6's release, Call of Duty has struggled to win its players back, Elliott says: \"Sadly, CoD has barely bounced back after four days. It's still down 41% from its baseline.\"\nDuring that time Call of Duty had a Thanksgiving-themed event, while FC 27 had a Black Friday discount and in-game \"Thunderstruck\" promotion, and Fortnite's ongoing Treasure Hunters event is adding a bunch of One Piece stuff. If you're going up against a cultural juggernaut like GTA, I guess crossing over with something as massive as One Piece is the way to do it.\nAs Elliott concludes, this is only part one of the story. When Rockstar comes back for the second bite of this apple its rivals might have an even harder fight on their hands: \"When the online component and PC port of GTA 6 hits (some time next year simultaneously, I'd imagine), then the bounce back will not be so obtainable.\"\nGTA 6 guide: One-stop info shopGTA 6 map: The full Vice City tourGTA 6 cheats: A complete listGTA 6 radio: All the songs and stationsGTA 6 romance: How to keep a strong bond\nFrom the creators of Edge: A free weekly videogame industry newsletter, featuring in-depth news, expert analysis and exclusive interviews\nJody's first computer was a Commodore 64, so he remembers having to use a code wheel to play Pool of Radiance. A former music journalist who interviewed everyone from Giorgio Moroder to Trent Reznor, Jody also co-hosted Australia's first radio ",
+    "extra": {
+     "image": "https://cdn.mos.cms.futurecdn.net/5EWnGC9pvFVHwRsPbdM4uV-1920-80.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "🚀 GTA 6 вытянула кучу игроков из CoD!\n\nКогда в ноябре вышла GTA 6, Daily Active Users Call of Duty упали почти на половину – с 7,5 млн до 4,4 млн. Fortnite и FC 27 тоже потеряли толпу, но CoD пока не успевает вернуться. Готовьте свои контроллеры, конкуренция реально накаляется!\n\n❤️ — Готовы к битве за игроков\n👎 — Считаю, что CoD всё равно вернётся",
+    "card_title": "GTA 6 СТРАХ ОТ COD",
+    "reason": "Подтверждённый аналитический материал от PC Gamer, важен для фанатов из‑за влияния GTA 6 на конкурентов",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "groq:openai/gpt-oss-120b"
+   },
+   "corr": false,
+   "since": "2026-11-25T03:56:35.087147+00:00"
+  },
+  {
+   "item": {
+    "title": "Создатель GTA признал главную проблему серии. В GTA VI всё изменила Люсия",
+    "link": "https://ixbt.games/news/2026/11/25/sozdatel-gta-priznal-glavnuiu-problemu-serii-v-gta-vi-vse-izmenila-liusiia.html",
+    "summary": "Люсия из GTA VI меняет традиции Rockstar Games: один из создателей оригинальной Grand Theft Auto признал, что серия долгие годы плохо изображала женщин.",
+    "published": "2026-11-25T03:59:00+00:00",
+    "source": "iXBT.games",
+    "site_name": "iXBT.games",
+    "trust": "medium",
+    "text": "Люсия из GTA VI меняет традиции Rockstar Games: один из создателей оригинальной Grand Theft Auto признал, что серия долгие годы плохо изображала женщин.\nНа протяжении многих лет женщины в Grand Theft Auto оставались преимущественно персонажами второго плана, стереотипными образами или частью окружения. Главные роли неизменно доставались мужчинам. С выходом GTA VI ситуация наконец изменится.\nОб этом заявил Брайан Бэглоу, работавший над сценарием первой GTA в студии DMA Design (сейчас Rockstar North). В интервью радиопрограмме As It Happens на канадском CBC он признал, что изображение женщин в серии никогда не было удачным. Сам Бэглоу рад появлению полноценной главной героини Люсии Каминос, к тому же латиноамериканского происхождения. По его мнению, такие перемены должны были произойти гораздо раньше. Теперь он с нетерпением ждёт возможности познакомиться с историей персонажа.\nПри этом Люсия не первая женщина, которой можно управлять в GTA. В оригинальной игре из восьми доступных персонажей четверо были женщинами. В портативной версии GTA 2 для Game Boy Color также можно было выбрать Кэнди или Гретхен. Однако это были лишь пиксельные фигурки без проработанного характера. Люсия станет первой полноценной героиней серии в её современном понимании.\nБэглоу также вспомнил хаотичную разработку первой части. Изначально у команды не было сценария: сначала создали техническую демоверсию с городом для свободного перемещения, затем построили уровни и только после этого пригласили сценариста. В итоге сюжет придумывали на ходу, вдохновляясь гангстерскими фильмами, историями об ограблениях и криминальными сериалами.\nНе пропускайте наши новостиДобавьте сайт в предпочитаемые источники, чтобы видеть нас чащеДобавить в Google",
+    "extra": {
+     "image": "https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1746081/1065e935-4a07-4e49-b69f-2a39cca4e1f8.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "ЛЮСИЯ меняет всё\n\nОдин из создателей первой GTA признал, что раньше разработчики делали женских персонажей так себе. Теперь база полностью обновилась, и Люсия наконец-то затащит сюжет на новый уровень.\n\n❤️ — Ждем историю Люсии\n👎 — Раньше было лучше",
+    "card_title": "ЛЮСИЯ И ПРОБЛЕМЫ СЕРИИ",
+    "reason": "Создатель оригинальной GTA признал проблемы серии с женскими персонажами и оценил Люсию.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-25T04:14:09.989426+00:00"
+  }
+ ]
 }
