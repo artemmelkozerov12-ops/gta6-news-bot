@@ -4408,7 +4408,31 @@
   "de9c851ea27ba069": "2026-11-25T19:09:51.441004+00:00",
   "be75bcd813e6780b": "2026-11-25T19:10:42.387656+00:00",
   "802957cc096600c5": "2026-11-25T19:10:43.200410+00:00",
-  "172be8e9f17fbce2": "2026-11-25T19:10:43.927367+00:00"
+  "172be8e9f17fbce2": "2026-11-25T19:10:43.927367+00:00",
+  "65a58779b8c561db": "2026-11-25T19:24:26.008460+00:00",
+  "59ce07272f037c6a": "2026-11-25T19:24:26.104362+00:00",
+  "3c965092375c8d1c": "2026-11-25T19:24:26.138266+00:00",
+  "f3f3c77bc122eb74": "2026-11-25T19:24:28.294218+00:00",
+  "9a44dd669c9edb96": "2026-11-25T19:24:30.858782+00:00",
+  "52617b7ecb92f6e4": "2026-11-25T19:24:32.475124+00:00",
+  "138657956996f1bc": "2026-11-25T19:24:38.100462+00:00",
+  "8aafa6768d483c33": "2026-11-25T19:24:39.187195+00:00",
+  "ab31ccf2ffd8a5e1": "2026-11-25T19:24:40.538049+00:00",
+  "67487b3b1d1eb093": "2026-11-25T19:24:41.886931+00:00",
+  "94f6c66ee3446fe9": "2026-11-25T19:25:44.270119+00:00",
+  "20d280f3e6701f35": "2026-11-25T19:25:44.615631+00:00",
+  "d24564b76c7e2a3e": "2026-11-25T19:25:44.980496+00:00",
+  "d3cebc47d370403d": "2026-11-25T19:25:45.404186+00:00",
+  "9311f2b2efc234de": "2026-11-25T19:26:35.913135+00:00",
+  "0e271095b1cdba75": "2026-11-25T19:41:08.294957+00:00",
+  "9116ffd5e46ead44": "2026-11-25T19:41:20.591119+00:00",
+  "07b5a02a46cb0458": "2026-11-25T19:41:36.300618+00:00",
+  "555c859d2519ab01": "2026-11-25T19:41:42.937574+00:00",
+  "a1a513acbdc3f54c": "2026-11-25T19:41:49.684653+00:00",
+  "78eb8ba7a26edc57": "2026-11-25T19:41:51.830065+00:00",
+  "ab428c1f611af79b": "2026-11-25T19:41:53.429033+00:00",
+  "1c6b41e6c4eebc10": "2026-11-25T19:41:59.509506+00:00",
+  "ca6aca058081d756": "2026-11-25T19:42:00.800114+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -7327,7 +7351,24 @@
   "e0454d1e39ea2f45": "2026-11-25T19:08:48.417631+00:00",
   "b94fc3c802397a72": "2026-11-25T19:08:49.357837+00:00",
   "850af68ad100bf4c": "2026-11-25T19:08:50.265900+00:00",
-  "582d1dfaaf67f733": "2026-11-25T19:08:52.035153+00:00"
+  "582d1dfaaf67f733": "2026-11-25T19:08:52.035153+00:00",
+  "4f295991e0ee3802": "2026-11-25T19:24:30.858782+00:00",
+  "e1aed00b1c1f1940": "2026-11-25T19:24:26.104362+00:00",
+  "af68bf8f45242cae": "2026-11-25T19:24:26.138266+00:00",
+  "4f4fdf6e2946807a": "2026-11-25T19:24:28.294218+00:00",
+  "c418c36a17249429": "2026-11-25T19:24:32.475124+00:00",
+  "929d28a158c9eb29": "2026-11-25T19:24:38.100462+00:00",
+  "5f57a5ec049cc0a4": "2026-11-25T19:24:39.187195+00:00",
+  "bf85bcd9ae0e49de": "2026-11-25T19:24:40.538049+00:00",
+  "1001f03d706d54ac": "2026-11-25T19:24:41.886931+00:00",
+  "2fb78d57ff1919a6": "2026-11-25T19:41:08.294957+00:00",
+  "b4cd1da668e59615": "2026-11-25T19:41:20.591119+00:00",
+  "d79582ae7906e04b": "2026-11-25T19:41:36.300618+00:00",
+  "6fb91722c837d60c": "2026-11-25T19:41:42.937574+00:00",
+  "58a576ca45986d65": "2026-11-25T19:41:49.684653+00:00",
+  "fe092468ea567668": "2026-11-25T19:41:51.830065+00:00",
+  "51d29babdb60bfb3": "2026-11-25T19:41:53.429033+00:00",
+  "eab090e4014c5be0": "2026-11-25T19:41:59.509506+00:00"
  },
  "recent": [
   {
@@ -14753,6 +14794,158 @@
    "status": "skipped",
    "ts": "2026-11-25T19:08:52.035282+00:00",
    "card_title": ""
+  },
+  {
+   "title": "All Key Lento standout vehicles in GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-25T19:24:26.008496+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 actor Manny Perez bought a PS5 just to play the game he's part of",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-25T19:24:26.104418+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "One of GTA 6's Best Features Has Been Over 20 Years in the Making",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-25T19:24:26.138316+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 recompilers and vibe-coders implore AI chatbots to 'work faster' and 'make no mistakes' as they race to get the game running on PC",
+   "source": "Eurogamer",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-25T19:24:26.759663+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to Get Lucia's Prologue Gun in GTA 6: The Low Point Nipper .38",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-25T19:24:29.224783+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "All Key Lento standout vehicles in GTA 6",
+   "source": "Polygon",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-25T19:24:30.858897+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "One of GTA 6's Best Features Was Actually Planned for GTA: Vice City, Reveals Ex-Rockstar Dev",
+   "source": "IGN",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-25T19:24:33.200390+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "First he played GTA VI, then won the F1 Grand Prix – Verstappen spent 40 hours playing the game between races in Las Vegas",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T19:24:38.100594+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Why Does GTA VI Use Fake Brands but Real Songs?",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T19:24:39.187343+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 работает на Xbox Series X лучше, чем на PS5",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T19:24:40.538184+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI drew 39 million unique PS5 players in four days and generated $3.79 billion on launch day",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T19:24:41.887073+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Is GTA 6 Too Easy? Rockstar Weighs In",
+   "source": "GameSpot",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-25T19:41:05.625170+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Appears To Be Causing Issues On A Small Number Of Xbox (& PS5) Consoles",
+   "source": "Pure Xbox",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-25T19:41:34.720279+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "28% of GTA 6 buildings can be entered according to player findings",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T19:41:36.300742+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Is Carly Rae Jepsen’s ‘Run Away With Me’ About to Hit the Hot 100 for the First Time After Its ‘GTA VI’ Bump?",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T19:41:42.937698+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "PS5 загораются при запуске GTA 6 — проблема с перегревом",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T19:41:49.684784+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI Console Graphics Settings Revealed: Higher Framerate Theoretically Possible on PS5 Pro",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T19:41:51.830187+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "All Fishing Shack Robbery Key Valuables Locations - GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T19:41:53.429165+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "11 Secret GTA 6 Controls To Unlock Even More Chaos In Vice City",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T19:41:59.509640+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -14905,7 +15098,9 @@
     "guide": true,
     "model": "groq:openai/gpt-oss-120b → gemini:gemini-3.5-flash"
    },
-   "queued_at": "2026-11-25T10:06:43.016991+00:00"
+   "queued_at": "2026-11-25T10:06:43.016991+00:00",
+   "moderation": "pending",
+   "draft_msg_id": 166
   },
   {
    "item": {
@@ -15070,47 +15265,19 @@
   "2026-11-25T15:03:40.761643+00:00",
   "2026-11-25T16:11:56.509162+00:00",
   "2026-11-25T17:12:22.400219+00:00",
-  "2026-11-25T18:30:22.933992+00:00"
+  "2026-11-25T18:30:22.933992+00:00",
+  "2026-11-25T19:30:49.885794+00:00"
  ],
  "slots_sent": {
   "2026-11-24:guide:1": "2026-11-24T14:08:00.473378+00:00",
   "2026-11-24:guide:2": "2026-11-24T17:12:17.478516+00:00",
-  "2026-11-25:guide:1": "2026-11-25T11:02:35.662625+00:00"
+  "2026-11-25:guide:1": "2026-11-25T11:02:35.662625+00:00",
+  "2026-11-25:guide:2": "2026-11-25T19:30:49.885888+00:00"
  },
  "urgent": [
   "2026-11-23T20:15:05.441047+00:00"
  ],
  "clips": [
-  {
-   "clip": {
-    "source": "twitch",
-    "url": "https://www.twitch.tv/staryuuki/clip/UninterestedPerfectWaspDxCat-jbJG-PYz2TXEx9aI",
-    "title": "Y ESE BUG?",
-    "author": "Staryuuki",
-    "views": 390,
-    "duration": 10.6,
-    "created": "2026-11-24T05:16:59+00:00",
-    "lang": "es",
-    "description": "",
-    "vod_id": "2938941728",
-    "vod_offset": 14137.0
-   },
-   "caption": "Чел на трассе буквально проглотил грузовик, а потом просто поехал дальше — физика в GTA 6 это просто лютый разнос 💀",
-   "interest": 9,
-   "spoiler": false,
-   "nsfw": false,
-   "watched": true,
-   "model": "gemini:gemini-3.1-flash-lite",
-   "media": {
-    "width": null,
-    "height": 720,
-    "duration": 10
-   },
-   "queued_at": "2026-11-24T19:23:27.984954+00:00",
-   "file_id": "BAACAgIAAxkDAAOKawXkMdBjc9Y1ytvO5kGtCgYyENsAAmO6AAImETBIAaZdSnH0WxI9BA",
-   "moderation": "pending",
-   "draft_msg_id": 138
-  },
   {
    "clip": {
     "source": "twitch",
@@ -15320,6 +15487,36 @@
    "file_id": "BAACAgIAAxkDAAOdawbTeTd8R-KrTta3xD2l9FJ0PhcAAgi0AAImEThIuIkqihz-A-Y9BA",
    "moderation": "pending",
    "draft_msg_id": 157
+  },
+  {
+   "clip": {
+    "source": "twitch",
+    "url": "https://www.twitch.tv/moistcr1tikal/clip/BreakableDignifiedOwlNononoCat-9DqFo8SETPO5BY7C",
+    "title": "Charlie Getting Handsy",
+    "author": "moistcr1tikal",
+    "views": 292,
+    "duration": 60.0,
+    "created": "2026-11-25T05:09:55+00:00",
+    "lang": "en",
+    "description": "",
+    "vod_id": "2940077001",
+    "vod_offset": 2266.0
+   },
+   "caption": "🔞 В GTA 6 завезли мини-игру с массажем и съёмками на пляже — чисто лютый разнос 💀",
+   "interest": 8,
+   "spoiler": false,
+   "nsfw": true,
+   "watched": true,
+   "model": "gemini:gemini-3.5-flash-lite",
+   "media": {
+    "width": null,
+    "height": 720,
+    "duration": 60
+   },
+   "queued_at": "2026-11-25T19:42:10.873462+00:00",
+   "file_id": "BAACAgIAAxkDAAOoawc6FDXmq5sEjJjYp--PN538b1AAAkG6AAImEThIPX2Y-2sC8XQ9BA",
+   "moderation": "pending",
+   "draft_msg_id": 168
   }
  ],
  "clip_drafts": [
@@ -15339,7 +15536,8 @@
   "2026-11-25T09:15:15.249708+00:00",
   "2026-11-25T10:16:44.959566+00:00",
   "2026-11-25T11:20:56.153105+00:00",
-  "2026-11-25T12:24:26.140864+00:00"
+  "2026-11-25T12:24:26.140864+00:00",
+  "2026-11-25T19:42:13.345058+00:00"
  ],
  "clip_history": [
   {
@@ -21788,6 +21986,70 @@
    "drafted": false,
    "ts": "2026-11-25T19:10:43.927411+00:00",
    "frames": []
+  },
+  {
+   "author": "twitch:plexooh",
+   "vod": "2940175890",
+   "offset": 8187.0,
+   "title": "Une bouteille de Coca sous le bureau de Moman ! tiens tiens tiens !",
+   "drafted": false,
+   "ts": "2026-11-25T19:25:44.270164+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:typicalgamer",
+   "vod": "2939917221",
+   "offset": 5134.0,
+   "title": "LMFAOOO",
+   "drafted": false,
+   "ts": "2026-11-25T19:25:44.615663+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:missmikkaa",
+   "vod": "2939364350",
+   "offset": 20506.0,
+   "title": "Just how does she always do this?",
+   "drafted": false,
+   "ts": "2026-11-25T19:25:44.980544+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:yayahuz",
+   "vod": "2939502151",
+   "offset": 13698.0,
+   "title": "Que isso??!!",
+   "drafted": false,
+   "ts": "2026-11-25T19:25:45.404223+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:adm1tr1pow",
+   "vod": "2939481639",
+   "offset": 9169.0,
+   "title": "минус машинка",
+   "drafted": false,
+   "ts": "2026-11-25T19:26:35.913173+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:moistcr1tikal",
+   "vod": "2940077001",
+   "offset": 2266.0,
+   "title": "Charlie Getting Handsy",
+   "drafted": false,
+   "ts": "2026-11-25T19:42:00.800151+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:moistcr1tikal",
+   "vod": "2940077001",
+   "offset": 2266.0,
+   "title": "Charlie Getting Handsy",
+   "drafted": true,
+   "ts": "2026-11-25T19:42:13.345076+00:00",
+   "frames": [],
+   "caption": "🔞 В GTA 6 завезли мини-игру с массажем и съёмками на пляже — чисто лютый разнос 💀"
   }
  ],
  "published": [
@@ -22275,14 +22537,27 @@
    "kind": "confirmed"
   }
  ],
- "extras": [],
+ "extras": [
+  {
+   "key": "digest-20261125",
+   "kind": "Итоги дня",
+   "payload": {
+    "text": "🌙 <b>Итоги дня</b> · 25 ноября\n\n📰 <a href=\"https://t.me/gta6_hotnews/90\">Larian хвалит GTA 6 за человечность</a>\n📰 <a href=\"https://t.me/gta6_hotnews/91\">Xbox Series X обгоняет базовый PS5 в GTA 6</a>\n📰 <a href=\"https://t.me/gta6_hotnews/92\">GTA 6 ОТПРАВИЛА Call of Duty в нокаут</a>\n🎥 <a href=\"https://t.me/gta6_hotnews/95\">СПОЙЛЕР. 🔞 Сюжетка в GTA 6 радует необычными ракурсами: Джейсон оценивает пикантные фото…</a>\n📰 <a href=\"https://t.me/gta6_hotnews/96\">В GTA 6 нашли БОЛЬШЕ 1500 зданий с открытым интерьером!</a>\n📰 <a href=\"https://t.me/gta6_hotnews/97\">ПЛОТНЫЙ ДЕФИЦИТ: GTA 6 СМЕЛА ВСЕ PS5 В США</a>\n\nЧто из этого зашло больше всего? Пиши в комменты 👇",
+    "publish_at": "2026-11-25T20:00:00+00:00"
+   },
+   "moderation": "pending",
+   "draft_msg_id": 167,
+   "queued_at": "2026-11-25T19:30:50.081153+00:00"
+  }
+ ],
  "extras_sent": {
   "poll-2026-W47": "2026-11-21T16:00:25.901739+00:00",
   "weekly-20261121": "2026-11-21T17:30:42.606074+00:00",
   "digest-20261121": "2026-11-21T19:30:10.993120+00:00",
   "digest-20261122": "2026-11-22T19:31:01.015194+00:00",
   "digest-20261123": "2026-11-23T19:30:46.041576+00:00",
-  "digest-20261124": "2026-11-24T19:30:13.623703+00:00"
+  "digest-20261124": "2026-11-24T19:30:13.623703+00:00",
+  "digest-20261125": "2026-11-25T19:30:50.081169+00:00"
  },
  "rewrite_wait": [
   {
@@ -22374,36 +22649,6 @@
    },
    "corr": false,
    "since": "2026-11-25T17:03:52.701854+00:00"
-  },
-  {
-   "item": {
-    "title": "Is GTA 6 Too Easy? Rockstar Weighs In",
-    "link": "https://www.gamespot.com/articles/is-gta-6-too-easy-rockstar-weighs-in/",
-    "summary": "Grand Theft Auto 6 is finally here, and one of the things people are talking about is the game's difficulty level . Some are saying it's too easy. Rockstar boss Rob Nelson has now entered the conversation, telling Destructoid that Rockstar's data showed that GTA 4 was \"a little too punishing in places\" and GTA 5 was \"perhaps too easy.\" So with GTA 6, the team trying to \"land somewhere in the middle.\" GTA 6 has no defined difficulty levels , which is in keeping with the franchise's tradition. That said, players can adjust things like aiming controls, while players can unlock cheat codes to make the game easier or harder. https://www.youtube.com/watch?v=dJDf76QVv70 Design producer Scott Mitchell, meanwhile, said the fail states in GTA 6 were designed to feel \"appropriate.\" “We wanted to keep things open and not limit the players’ use of mechanics, such as stealth, but we did also want to make sure we retained the cinematic, high production value, explosive sequences that we’re known for, and people expect. It feels like we’ve managed to strike a good balance,\" he explained. Also in the interview, Nelson said figuring out the difficulty level for GTA 6 is itself challenging because the designers themselves know enemy positions better than anyone after playing and testing the game so much. \"There’s a real process in unpicking some of that to create an experience most players will be able to enjoy, rather than endure,\" Nelson said. \"The game is so big, and has such a wide range of content that we can really lean into that, making certain open-world content--compounds and fronts for example---more difficult, to give players seeking a challenge something to sink their teeth into as well.” GTA 6 launched on November 19 and had a gigantic debut, selling 32.5 million copies by launch and generating around $4 billion on day one. For more, check out GameSpot's GTA 6 review and our rundown of five things to do first.",
-    "published": "2026-11-25T15:36:59+00:00",
-    "source": "GameSpot",
-    "site_name": "GameSpot",
-    "trust": "high",
-    "text": "Grand Theft Auto 6 is finally here, and one of the things people are talking about is the game's difficulty level . Some are saying it's too easy. Rockstar boss Rob Nelson has now entered the conversation, telling Destructoid that Rockstar's data showed that GTA 4 was \"a little too punishing in places\" and GTA 5 was \"perhaps too easy.\" So with GTA 6, the team trying to \"land somewhere in the middle.\" GTA 6 has no defined difficulty levels , which is in keeping with the franchise's tradition. That said, players can adjust things like aiming controls, while players can unlock cheat codes to make the game easier or harder. https://www.youtube.com/watch?v=dJDf76QVv70 Design producer Scott Mitchell, meanwhile, said the fail states in GTA 6 were designed to feel \"appropriate.\" “We wanted to keep things open and not limit the players’ use of mechanics, such as stealth, but we did also want to make sure we retained the cinematic, high production value, explosive sequences that we’re known for, and people expect. It feels like we’ve managed to strike a good balance,\" he explained. Also in the interview, Nelson said figuring out the difficulty level for GTA 6 is itself challenging because the designers themselves know enemy positions better than anyone after playing and testing the game so much. \"There’s a real process in unpicking some of that to create an experience most players will be able to enjoy, rather than endure,\" Nelson said. \"The game is so big, and has such a wide range of content that we can really lean into that, making certain open-world content--compounds and fronts for example---more difficult, to give players seeking a challenge something to sink their teeth into as well.” GTA 6 launched on November 19 and had a gigantic debut, selling 32.5 million copies by launch and generating around $4 billion on day one. For more, check out GameSpot's GTA 6 review and our rundown of five things to do first.",
-    "extra": {
-     "image": "https://www.gamespot.com/wp-content/uploads/2026/11/GTAVintage-3.png?w=300"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 6,
-    "post": "🚗 GTA 6: Сложность в балансе\n\nRockstar заявляет, что в новой игре они нашли золотую середину между «слишком лёгким» GTA 5 и «слишком жёстким» GTA 4. Без уровней сложности, но с настройками и чит‑кодами, чтобы игроки сами решали, насколько им хочется тянуться к вызовам. И, кстати, в открытом мире есть места, где боссов поджидают серьёзные испытания – для тех, кто любит настоящую головоломку.",
-    "card_title": "ГТА 6: СЛОЖНОСТЬ В БАЛАНСЕ",
-    "reason": "официальное заявление Rockstar о балансе сложности",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "groq:openai/gpt-oss-20b"
-   },
-   "corr": false,
-   "since": "2026-11-25T17:05:01.289553+00:00"
   },
   {
    "item": {
@@ -22647,36 +22892,6 @@
   },
   {
    "item": {
-    "title": "GTA 6 recompilers and vibe-coders implore AI chatbots to 'work faster' and 'make no mistakes' as they race to get the game running on PC",
-    "link": "https://www.eurogamer.net/grand-theft-auto-6-gen-ai-chatbots-work-faster-prompts",
-    "summary": "Things continue to get messy in the community of players working on getting Grand Theft Auto 6 working on PC. The previous frontrunner, Project Leonida, got their Discord server and GitHub repository taken down by Rockstar , but others have seemingly stepped in to finish the job. Read more",
-    "published": "2026-11-25T15:19:10+00:00",
-    "source": "Eurogamer",
-    "site_name": "Eurogamer",
-    "trust": "high",
-    "text": "Things continue to get messy in the community of players working on getting Grand Theft Auto 6 working on PC. The previous frontrunner, Project Leonida, got their Discord server and GitHub repository taken down by Rockstar, but others have seemingly stepped in to finish the job.\nThe most up-to-date build of GTA 6 was allegedly leaked earlier this week by notorious leaker CyberLeek. This is a supposedly near-final build of the game's Xbox version, and it's seemingly being used as the basis for the recent work to port the game to PC.\nUnsurprisingly, most of these communities of modders rely almost exclusively on generative-AI tools like Claude and Antigravity to decompile and recompile the console version of GTA 6. That has always been the case, but the CyberLeek build only invited even more to ask AI chatbots to make the PC port for them.\nX user chasm has been following developments in the GTA 6 decompile and recompile communities, and recently shared some of the prompts the so-called vibe-coders are using - a few of whom livestreamed the process.\n\"Make no mistakes,\" one modder prompted the AI chatbot. \"Keep finding more stuff and working and pushing,\" another eloquently asked. \"Work faster,\" asked another. \"There has to be a faster way to iterate than this,\" they continued.\nRockstar, which successfully managed to DMCA take down Project Leonida - including all of its 3,006 forks on lead author NotRexed's GitHub - is seemingly also going after people online discussing the community's progress. The X user in question later revealed they may no longer be able to share these updates, as their posts have also been removed \"in response to a report by the copyright owner\".\nAs for how far some of the remaining communities have managed to get, this video allegedly shows the game running on PC. This goes beyond the boot-up screen, which modders were able to reach within hours of CyberLeek's build alleged leaking.\nThe footage runs at sub-5fps, but the visuals look to have rendered normally. Assuming Rockstar doesn't also shut down the modders who remain active, we may see another progress update.\nIf you're already playing Rockstar's latest on consoles, the Eurogamer GTA 6 walkthrough offers comprehensive guides on relationship mechanics, how the new Criminal Profile system works, a list of all safe codes and more.",
-    "extra": {
-     "image": "https://assetsio.gnwcdn.com/gta-6-vice-city-car-interior-1.jpeg?width=690&quality=85&format=jpg&auto=webp"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "🔥 Слух, не подтверждено: Eurogamer\n\nПК-ПОРТ GTA 6 И ИИ\n\nМоддеры пытаются запустить GTA 6 на ПК с помощью ИИ-чат-ботов, умоляя их «работать быстрее» и «не косячить». Выглядит это пока как лютый рофл: игра запускается, но выдает меньше 5 кадров в секунду. Rockstar уже активно сносит репозитории и банит всех причастных, так что ждем развязку этого цирка.\n\n❤️ — Жду ПК-версию, пофиг на ИИ\n👎 — Консольщики на коне, хватит страдать",
-    "card_title": "ПК-ПОРТ GTA 6 И ИИ",
-    "reason": "История про попытки запустить игру на ПК через ИИ и борьбу Rockstar с модерами — это хайповый скандал.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.1-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-25T18:52:06.142421+00:00"
-  },
-  {
-   "item": {
     "title": "\"Missing\" GTA 6 Prostitutes Explained WIth In-Game PeekHole News Story",
     "link": "https://www.gtaboom.com/missing-gta-6-prostitutes-explained-with-in-game-peekhole-news-story-94db",
     "summary": "Grand Theft Auto VI drops street encounters that restored health, and its Daily Globe credits OnlyFans parody Peekhole with curbing street sex work.",
@@ -22734,6 +22949,36 @@
    },
    "corr": false,
    "since": "2026-11-25T19:08:44.516602+00:00"
+  },
+  {
+   "item": {
+    "title": "Grand Theft Auto 6 Roasts Naughty Dog For Constantly Repackaging The Last Of Us",
+    "link": "https://kotaku.com/grand-theft-auto-6-last-of-us-reference-easter-egg-2001000427",
+    "summary": "Throwing stones in glass houses, aren’t we?",
+    "published": "2026-11-25T19:30:51+00:00",
+    "source": "Kotaku",
+    "site_name": "Kotaku",
+    "trust": "high",
+    "text": "I suppose nothing is immune from Grand Theft Auto 6’s satire, and that includes other game developers. There are plenty of pop culture references throughout Rockstar’s open-world crime drama, some of them inescapable and others you have to go looking for. That latter group includes a hidden roast of Naughty Dog for its incessant need to repackage the Last of Us games.\nIn an electronics store called Game Horde in Port Gellhorn, there’s a shelf of video games that are pretty obvious homages to real series. There’s Righteous Slaughter, which is a parody of Call of Duty; a game called Glory Souls III, both a play on “glory holes” and the Dark Souls series; and there’s a game called We Came Together which, based on the big bold letters of the logo, is pretty easy to identify as a spoof of The Last of Us. However, the more revealing part of it is that the specific collection of We Came Together games Jason and Lucia can find is labeled Remasters of the Remakes.\nAlmost all of Naughty Dog’s output during the PS5 generation has been repackaged versions of the first two Last of Us games, with the studio remaking the first game for the PS5, remastering the second for the same system, and then putting both of those together in a “Complete” edition. If you want to extrapolate that further, the god-awful HBO series is another way of milking the post-apocalyptic series’ name without Naughty Dog actually putting out anything “new” from the Last of Us universe since 2020’s The Last of Us Part II. Though the developer has repeatedly teased the possibility of a third game at this point, it won’t be coming until well after the release of Intergalactic: The Heretic Prophet at least, if it comes at all.\nThat said, this particular playful jab coming from Rockstar is pretty rich considering how many times the company has ported Grand Theft Auto V to new platforms in the 13-year wait between it and Grand Theft Auto 6, though I suppose those weren’t constantly positioned as new, definitive editions of that game but rather were more straightforward ports.\nWhile you can’t play We Came Together in GTA 6, you can play some in-universe video games which are also taking the piss out of real developers.\nDon’t miss the latest reviews, news and tips. Sign up for our free newsletter.\nCultureNews Attempts To Vibe-Code PC Ports Of GTA 6 Are Being Shut Down, But It Might Be Too Late To Put The Genie Back In The Bottle Take-Two is already going after projects but may not be able to stop the floo",
+    "extra": {
+     "image": "https://kotaku.com/app/uploads/2026/11/gtajasoncal-1280x720.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "🎮 Rockstar прожарили Naughty Dog за ремастеры\n\nВ магазине техники Game Horde отыскали игру We Came Together — это чистой воды рофл над The Last of Us с подзаголовком «Ремастеры ремейков». Имба-сатира, учитывая, сколько раз Sony перепродавали одни и те же приключения Элли.\n\n❤️ — База, они задолбали с ремастерами\n👎 — Сами GTA V на все платформы портировали",
+    "card_title": "ПАСХАЛКА НА THE LAST OF US",
+    "reason": "Крутая и забавная пасхалка-стеб над Naughty Dog в игре, фанатам зайдет.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-25T19:41:10.814605+00:00"
   }
  ]
 }
