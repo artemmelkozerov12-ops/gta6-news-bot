@@ -4006,7 +4006,21 @@
   "08442fe74f196cef": "2026-11-25T09:13:33.078784+00:00",
   "8c29f56329ee807f": "2026-11-25T09:14:26.784665+00:00",
   "54089dc853394b42": "2026-11-25T09:30:55.538827+00:00",
-  "b5fbae954868a2e3": "2026-11-25T10:06:12.877530+00:00"
+  "b5fbae954868a2e3": "2026-11-25T10:06:12.877530+00:00",
+  "2884de4f6d8e7596": "2026-11-25T10:16:02.565060+00:00",
+  "3513644258d0a30c": "2026-11-25T10:24:22.923965+00:00",
+  "0dee7c402e96db77": "2026-11-25T10:24:50.173215+00:00",
+  "be5b03318e7ae7fa": "2026-11-25T10:42:32.625848+00:00",
+  "67e5be7cdc2f78d2": "2026-11-25T10:42:32.625891+00:00",
+  "710a291a79910847": "2026-11-25T10:42:32.629797+00:00",
+  "c699a4f33cfe4ab8": "2026-11-25T10:42:35.635150+00:00",
+  "980776edc2aaa3bd": "2026-11-25T10:42:38.833441+00:00",
+  "b58958addce06af0": "2026-11-25T10:43:08.570605+00:00",
+  "e2b7756c14ded690": "2026-11-25T10:43:42.844586+00:00",
+  "91ce99e1752c36dd": "2026-11-25T10:43:45.705549+00:00",
+  "4b00d077a5b5c97d": "2026-11-25T10:43:58.782997+00:00",
+  "9365f71642dd72d5": "2026-11-25T10:44:07.974219+00:00",
+  "1d35cdf3ee460e6c": "2026-11-25T10:44:16.253262+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -6690,7 +6704,20 @@
   "8045e9f7e79db40c": "2026-11-25T08:36:31.725827+00:00",
   "05bccec775812afe": "2026-11-25T09:13:18.613473+00:00",
   "495af128039b6c2f": "2026-11-25T09:30:55.538827+00:00",
-  "42905984e4cc0ea4": "2026-11-25T10:06:12.877530+00:00"
+  "42905984e4cc0ea4": "2026-11-25T10:06:12.877530+00:00",
+  "4265618d60c2b24c": "2026-11-25T10:24:22.923965+00:00",
+  "36394cddd014d3a1": "2026-11-25T10:24:50.173215+00:00",
+  "3d42575747f80cea": "2026-11-25T10:42:32.625848+00:00",
+  "256bcd24ddc573b9": "2026-11-25T10:42:32.625891+00:00",
+  "000c413aa34e82fa": "2026-11-25T10:42:32.629797+00:00",
+  "22f5c3c2a6dd1d80": "2026-11-25T10:42:35.635150+00:00",
+  "a1fa03e82589861e": "2026-11-25T10:42:38.833441+00:00",
+  "2fa0d2c885bb5a6b": "2026-11-25T10:43:08.570605+00:00",
+  "becaa2064076c698": "2026-11-25T10:43:42.844586+00:00",
+  "e39428ee0000dbd9": "2026-11-25T10:43:45.705549+00:00",
+  "9ee1a4966c75de9c": "2026-11-25T10:43:58.782997+00:00",
+  "c6659cf9beac6af0": "2026-11-25T10:44:07.974219+00:00",
+  "df69d4f3588c615f": "2026-11-25T10:44:16.253262+00:00"
  },
  "recent": [
   {
@@ -14756,6 +14783,110 @@
    "status": "queued",
    "ts": "2026-11-25T10:06:43.017002+00:00",
    "card_title": "ПРОХОЖДЕНИЕ CAUGHT SLIPPING"
+  },
+  {
+   "title": "GTA 6 Kamar Devon Community Center Robbery: Where to Find the Pistol and Watch",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-25T10:24:25.761785+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Janjak's Garage Robbery Guide to the Safe Code, Rifle and Car",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-25T10:25:00.576383+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Send More Money to Lorena Walkthrough",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "dup",
+   "ts": "2026-11-25T10:42:32.625871+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Top Billing Walkthrough to Find Roxy and Cut the Power",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "dup",
+   "ts": "2026-11-25T10:42:32.625904+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Send Money to Lorena Walkthrough",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "dup",
+   "ts": "2026-11-25T10:42:32.629818+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Tyrone Walkthrough and How to Start Here, Kitty Kitty",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-25T10:42:36.036829+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Here, Kitty Kitty Walkthrough for Finding Charles and the Kitty Litter",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-25T10:42:45.348844+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Boobie Time Walkthrough to Recover the Cash and Unlock Yasmani",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-25T10:43:17.054847+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to Save Mia and Finish Mami Knows Best in GTA 6",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-25T10:43:43.325693+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to Complete Meet the Heders and Keep the SCOOP Tool in GTA 6",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-25T10:43:57.236656+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Dubious Provenance Walkthrough for All Three Parts",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-25T10:44:04.092891+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Car Service Walkthrough for Getting the Schafter V12 Out of the Chop Shop",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-25T10:44:07.974325+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Yasmani’s Jewelry Jobs Guide With All 3 Safe Codes and the Snap Gun",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-25T10:44:26.166728+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -15319,7 +15450,8 @@
   "2026-11-25T05:34:57.797276+00:00",
   "2026-11-25T06:00:35.727611+00:00",
   "2026-11-25T09:53:45.288321+00:00",
-  "2026-11-25T10:09:18.910066+00:00"
+  "2026-11-25T10:09:18.910066+00:00",
+  "2026-11-25T10:25:04.845119+00:00"
  ],
  "tg_offset": 387129098,
  "channel": {
@@ -15375,36 +15507,6 @@
   "2026-11-23T20:15:05.441047+00:00"
  ],
  "clips": [
-  {
-   "clip": {
-    "source": "twitch",
-    "url": "https://www.twitch.tv/caseoh_/clip/SpeedyOilyClipzWOOP-SYHCWnkVXwnYbUaP",
-    "title": "OMG STRAIGHT CHEEKS ACTION LMAO",
-    "author": "caseoh_",
-    "views": 528,
-    "duration": 60.0,
-    "created": "2026-11-23T22:23:30+00:00",
-    "lang": "en",
-    "description": "",
-    "vod_id": "2938655753",
-    "vod_offset": 8412.0
-   },
-   "caption": "СПОЙЛЕР. 🔞 Вот это отсылка! Нико из GTA 4 решил заглянуть в Леониду, но пришел в чем мать родила. Разнос 💀",
-   "interest": 9,
-   "spoiler": true,
-   "nsfw": true,
-   "watched": true,
-   "model": "gemini:gemini-3.1-flash-lite",
-   "media": {
-    "width": null,
-    "height": 720,
-    "duration": 60
-   },
-   "queued_at": "2026-11-24T10:35:40.364402+00:00",
-   "file_id": "BAACAgIAAxkDAAOAawVofXEWY4bRYWc1Lyy1MNxaQZEAAp-rAAKTDTFI2UUr2c087Jc9BA",
-   "moderation": "pending",
-   "draft_msg_id": 128
-  },
   {
    "clip": {
     "source": "twitch",
@@ -15558,37 +15660,6 @@
   {
    "clip": {
     "source": "twitch",
-    "url": "https://www.twitch.tv/rubius/clip/SquarePhilanthropicGarbageOSsloth-Cc0LdBQc6lRbz2B8",
-    "title": "LA COBRA SODOMIZAD4",
-    "author": "Rubius",
-    "views": 2231,
-    "duration": 17.0,
-    "created": "2026-11-25T01:36:15+00:00",
-    "lang": "es",
-    "description": "",
-    "vod_id": "2939504674",
-    "vod_offset": 28702.0
-   },
-   "caption": "СПОЙЛЕР. 🔞 Сюжетка в GTA 6 радует необычными ракурсами: Джейсон оценивает пикантные фото на фотоаппарате — просто разнос 💀",
-   "interest": 9,
-   "spoiler": true,
-   "nsfw": true,
-   "watched": true,
-   "model": "gemini:gemini-3.5-flash-lite",
-   "media": {
-    "width": null,
-    "height": 720,
-    "duration": 17
-   },
-   "queued_at": "2026-11-25T08:10:32.745677+00:00",
-   "file_id": "BAACAgIAAxkDAAOVawaX-kDnfCZFHP0GoeKd9r-14hAAAr6wAAImEThImR6vRZFm3Vc9BA",
-   "moderation": "approved",
-   "draft_msg_id": 149,
-   "waiting_logged": true
-  },
-  {
-   "clip": {
-    "source": "twitch",
     "url": "https://www.twitch.tv/theburntpeanut/clip/GloriousShortRamenANELE-1Bn-506RuvLm-UJb",
     "title": "Did Lucia Get In?",
     "author": "TheBurntPeanut",
@@ -15615,6 +15686,36 @@
    "file_id": "BAACAgIAAxkDAAOXawanIt_rHGx2D2pHKBJaHkC4gXkAAkKxAAImEThITbSPOuyfP_w9BA",
    "moderation": "pending",
    "draft_msg_id": 151
+  },
+  {
+   "clip": {
+    "source": "twitch",
+    "url": "https://www.twitch.tv/ramez05/clip/TangibleBumblingDogeNomNom-EUJ2XEuUn3_fltsp",
+    "title": "SURVIVE",
+    "author": "Ramez05",
+    "views": 1563,
+    "duration": 60.0,
+    "created": "2026-11-24T21:21:31+00:00",
+    "lang": "en",
+    "description": "",
+    "vod_id": "2938843913",
+    "vod_offset": 4238.0
+   },
+   "caption": "СПОЙЛЕР. Решила помочь незнакомцу загрузить диван в пикап — и очнулась запертой в контейнере 💀 Побочки в GTA 6 — чисто хоррор-вайб!",
+   "interest": 9,
+   "spoiler": true,
+   "nsfw": false,
+   "watched": true,
+   "model": "gemini:gemini-3.5-flash",
+   "media": {
+    "width": null,
+    "height": 720,
+    "duration": 60
+   },
+   "queued_at": "2026-11-25T10:16:42.289052+00:00",
+   "file_id": "BAACAgIAAxkDAAOZawa1jF1VF9caXFfNkPJmjsT3_J0AAvOxAAImEThIbC7yVufxu-c9BA",
+   "moderation": "pending",
+   "draft_msg_id": 153
   }
  ],
  "clip_drafts": [
@@ -15637,7 +15738,8 @@
   "2026-11-24T21:55:06.434149+00:00",
   "2026-11-25T07:08:00.412145+00:00",
   "2026-11-25T08:10:34.794245+00:00",
-  "2026-11-25T09:15:15.249708+00:00"
+  "2026-11-25T09:15:15.249708+00:00",
+  "2026-11-25T10:16:44.959566+00:00"
  ],
  "clip_history": [
   {
@@ -21577,6 +21679,25 @@
    "ts": "2026-11-25T09:15:15.249727+00:00",
    "frames": [],
    "caption": "Побег на джете под лютым обстрелом копов — взлетать прямо сквозь патрульки чистая имба 💀"
+  },
+  {
+   "author": "twitch:ramez05",
+   "vod": "2938843913",
+   "offset": 4238.0,
+   "title": "SURVIVE",
+   "drafted": false,
+   "ts": "2026-11-25T10:16:02.565100+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:ramez05",
+   "vod": "2938843913",
+   "offset": 4238.0,
+   "title": "SURVIVE",
+   "drafted": true,
+   "ts": "2026-11-25T10:16:44.959583+00:00",
+   "frames": [],
+   "caption": "СПОЙЛЕР. Решила помочь незнакомцу загрузить диван в пикап — и очнулась запертой в контейнере 💀 Побочки в GTA 6 — чисто х"
   }
  ],
  "published": [
@@ -22027,6 +22148,13 @@
    "title": "Физические копии GTA VI почти исчезли",
    "importance": 7,
    "kind": "confirmed"
+  },
+  {
+   "ts": "2026-11-25T10:25:04.845146+00:00",
+   "msg_id": 95,
+   "title": "СПОЙЛЕР. 🔞 Сюжетка в GTA 6 радует необычными ракурсами: Джейсон оценивает пикантные фото…",
+   "importance": 9,
+   "kind": "video"
   }
  ],
  "extras": [],
