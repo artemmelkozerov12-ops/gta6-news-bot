@@ -4221,7 +4221,73 @@
   "9bffbb1845df0dc4": "2026-11-25T16:17:10.491227+00:00",
   "5b1c09024812af3a": "2026-11-25T16:17:10.794507+00:00",
   "5347d5e59265a2b5": "2026-11-25T16:17:11.147857+00:00",
-  "84c689b28622550f": "2026-11-25T16:17:11.457902+00:00"
+  "84c689b28622550f": "2026-11-25T16:17:11.457902+00:00",
+  "c427d01de7d4d4ae": "2026-11-25T16:18:03.971423+00:00",
+  "8c659dcaa5e4c1c8": "2026-11-25T16:18:04.326185+00:00",
+  "d0052a8534631fd2": "2026-11-25T16:18:04.589454+00:00",
+  "8089bcee7df56c4a": "2026-11-25T16:18:05.036718+00:00",
+  "95d8d1d82cdc2cca": "2026-11-25T16:18:55.494173+00:00",
+  "445a28d128abdb0c": "2026-11-25T16:18:55.803604+00:00",
+  "10432ca62ce880d5": "2026-11-25T16:18:56.105638+00:00",
+  "c5c23ccf01d5922f": "2026-11-25T16:18:56.414874+00:00",
+  "f6b44ff980b80fd2": "2026-11-25T16:19:46.939588+00:00",
+  "f6d6ba5bd1e5f993": "2026-11-25T16:20:01.651536+00:00",
+  "27cdd8e6c1642c11": "2026-11-25T16:20:25.263962+00:00",
+  "32587fb78215f83a": "2026-11-25T16:20:25.555047+00:00",
+  "12ea3ac75ea5c0f1": "2026-11-25T16:21:29.058331+00:00",
+  "4af67cfd3cffed68": "2026-11-25T16:21:34.032460+00:00",
+  "19f02b7d7d1631ff": "2026-11-25T16:21:34.327015+00:00",
+  "7741bafe8d6492d6": "2026-11-25T16:21:34.599816+00:00",
+  "94dc9e534e6c3590": "2026-11-25T16:21:34.906561+00:00",
+  "3855559fd8e9a72c": "2026-11-25T16:22:25.704897+00:00",
+  "f8a0f4da9f8b8572": "2026-11-25T16:22:26.213258+00:00",
+  "12d7aad2d433c3c4": "2026-11-25T16:22:26.536860+00:00",
+  "33ba31c1781cf749": "2026-11-25T16:22:26.851555+00:00",
+  "dff63b62ee23a53f": "2026-11-25T16:23:17.349336+00:00",
+  "c8ad84ccd929f742": "2026-11-25T16:23:17.659619+00:00",
+  "7bd554bc702b4467": "2026-11-25T16:23:18.000952+00:00",
+  "a2a2324a72a7f589": "2026-11-25T16:23:18.294239+00:00",
+  "555b7264b5a1c5ef": "2026-11-25T16:24:08.786346+00:00",
+  "260856acb36bbd4b": "2026-11-25T16:24:09.156614+00:00",
+  "42f8804cadde7acd": "2026-11-25T16:24:09.438625+00:00",
+  "eec933332b413b2c": "2026-11-25T16:24:09.800623+00:00",
+  "1dc9be9d0580cf58": "2026-11-25T16:25:00.261755+00:00",
+  "0d2e91597853e399": "2026-11-25T16:25:00.557275+00:00",
+  "ddbdeb9bbd90e4b1": "2026-11-25T16:25:00.884440+00:00",
+  "29bd103275d7dbff": "2026-11-25T16:25:01.191505+00:00",
+  "8c334033b11b4efd": "2026-11-25T16:25:51.672808+00:00",
+  "7ca7d389b74a35c5": "2026-11-25T16:25:51.983334+00:00",
+  "fc4edcfb8b1decbf": "2026-11-25T16:25:52.290583+00:00",
+  "d21fbfd68ecefd07": "2026-11-25T16:25:52.640626+00:00",
+  "72609e5e1fcc830b": "2026-11-25T16:26:43.150627+00:00",
+  "38bd2a937a54e8a7": "2026-11-25T16:26:43.447153+00:00",
+  "d6eb4fbf8bbc4f0b": "2026-11-25T16:26:43.852279+00:00",
+  "a83e0d02fec4c86c": "2026-11-25T16:26:44.134676+00:00",
+  "39da048b84bc00ab": "2026-11-25T16:27:34.596467+00:00",
+  "deb2323633c39ed4": "2026-11-25T16:27:34.893650+00:00",
+  "d45b2792ec1536f4": "2026-11-25T16:27:35.178315+00:00",
+  "11adf473f03c46be": "2026-11-25T16:27:35.516369+00:00",
+  "5fc8b5a28c74c156": "2026-11-25T16:28:25.970169+00:00",
+  "5412d0e50e0419cd": "2026-11-25T16:28:26.297956+00:00",
+  "5c05dca7d924c9c3": "2026-11-25T16:28:26.645796+00:00",
+  "3a9fd9b6cf2a91d8": "2026-11-25T16:28:27.021934+00:00",
+  "17147dcf9ac2d71b": "2026-11-25T16:29:17.535494+00:00",
+  "cdb958d00538fc50": "2026-11-25T16:29:17.867994+00:00",
+  "5541e29925802d97": "2026-11-25T16:29:18.192227+00:00",
+  "ab56a879623c11cb": "2026-11-25T16:29:18.492871+00:00",
+  "e0fa3e0cae4dc4fa": "2026-11-25T16:30:09.016637+00:00",
+  "9088aa40ac7bbbe5": "2026-11-25T16:30:09.343148+00:00",
+  "03a16e76787dc95d": "2026-11-25T16:30:09.697852+00:00",
+  "fea8f8366f96ff97": "2026-11-25T16:37:05.636746+00:00",
+  "39033367677c4e34": "2026-11-25T16:37:05.993742+00:00",
+  "0a5bbdac88b42271": "2026-11-25T16:37:40.482401+00:00",
+  "840d26dd0408d77c": "2026-11-25T16:37:40.853624+00:00",
+  "96c14efb5a602714": "2026-11-25T16:37:41.148353+00:00",
+  "03d78c7bc9a0d277": "2026-11-25T16:37:41.449983+00:00",
+  "cc97f496a80a813c": "2026-11-25T16:38:32.319102+00:00",
+  "28ea5c381c38affc": "2026-11-25T16:38:32.632396+00:00",
+  "64c01873ac162835": "2026-11-25T16:38:32.942497+00:00",
+  "09b7cf7a079e9484": "2026-11-25T16:38:33.247587+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -7069,7 +7135,10 @@
   "3743a0898a85c791": "2026-11-25T15:48:33.580608+00:00",
   "46215da018e860dc": "2026-11-25T15:48:36.148125+00:00",
   "fdfc7f1feeedc4ef": "2026-11-25T16:04:29.961742+00:00",
-  "b95193d1b74f41dc": "2026-11-25T16:04:30.166615+00:00"
+  "b95193d1b74f41dc": "2026-11-25T16:04:30.166615+00:00",
+  "5b9f36dddb91bae5": "2026-11-25T16:21:29.058331+00:00",
+  "786dca1ae3226054": "2026-11-25T16:37:05.636746+00:00",
+  "b8449540226c61f2": "2026-11-25T16:37:05.993742+00:00"
  },
  "recent": [
   {
@@ -15351,6 +15420,30 @@
    "status": "dup",
    "ts": "2026-11-25T16:04:30.166681+00:00",
    "card_title": ""
+  },
+  {
+   "title": "How to steal the Pegassi Infernus in GTA 6",
+   "source": "PC Gamer",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-25T16:21:29.058378+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Someone counted all 5,588 buildings in GTA 6, and it turns out you can go inside 28% of them",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-25T16:37:05.636800+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Max Verstappen played an obscene amount of 'GTA VI' and still won the Las Vegas Grand Prix",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-25T16:37:05.993808+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -21852,6 +21945,573 @@
    "title": "винм",
    "drafted": false,
    "ts": "2026-11-25T16:17:11.457950+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:symfuhny",
+   "vod": "2939290232",
+   "offset": 15464.0,
+   "title": "W",
+   "drafted": false,
+   "ts": "2026-11-25T16:18:03.971468+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:alanzoka",
+   "vod": "2939491300",
+   "offset": 19522.0,
+   "title": "ai",
+   "drafted": false,
+   "ts": "2026-11-25T16:18:04.326231+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:かしわねこ",
+   "vod": "2939948074",
+   "offset": 10770.0,
+   "title": "ほんとに見せられないよ！",
+   "drafted": false,
+   "ts": "2026-11-25T16:18:04.589497+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:maximilian_dood",
+   "vod": "2940085270",
+   "offset": 14785.0,
+   "title": "It was such as good idea!",
+   "drafted": false,
+   "ts": "2026-11-25T16:18:05.036773+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:hutchmf",
+   "vod": "2939344770",
+   "offset": 15064.0,
+   "title": "WHIFFLE",
+   "drafted": false,
+   "ts": "2026-11-25T16:18:55.494219+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:tumblurr",
+   "vod": "2939591520",
+   "offset": 24778.0,
+   "title": "gioco folle per una morte folle",
+   "drafted": false,
+   "ts": "2026-11-25T16:18:55.803653+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:samueletienne",
+   "vod": "2938420112",
+   "offset": 100212.0,
+   "title": "Oh m****",
+   "drafted": false,
+   "ts": "2026-11-25T16:18:56.105703+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:squeezie",
+   "vod": "2939595957",
+   "offset": 4510.0,
+   "title": "Pool boy😂😂",
+   "drafted": false,
+   "ts": "2026-11-25T16:18:56.414928+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:hasanabi",
+   "vod": "2939580472",
+   "offset": 27276.0,
+   "title": "Parachute WASTED",
+   "drafted": false,
+   "ts": "2026-11-25T16:19:46.939635+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:ohnepixel",
+   "vod": "2939324211",
+   "offset": 3372.0,
+   "title": "locked in",
+   "drafted": false,
+   "ts": "2026-11-25T16:20:01.651593+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:youngmulti",
+   "vod": "2939474012",
+   "offset": 17549.0,
+   "title": "zawialo lekkim gejem",
+   "drafted": false,
+   "ts": "2026-11-25T16:20:25.264011+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:lirik",
+   "vod": "2939478678",
+   "offset": 3400.0,
+   "title": "what happened",
+   "drafted": false,
+   "ts": "2026-11-25T16:20:25.555100+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:ohnepixel",
+   "vod": "2940322036",
+   "offset": 3658.0,
+   "title": "paid actor",
+   "drafted": false,
+   "ts": "2026-11-25T16:21:34.032498+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:terablade",
+   "vod": "2940024961",
+   "offset": 25936.0,
+   "title": "УПС",
+   "drafted": false,
+   "ts": "2026-11-25T16:21:34.327049+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:rejiboi",
+   "vod": "2938563485",
+   "offset": 6530.0,
+   "title": "аудитория",
+   "drafted": false,
+   "ts": "2026-11-25T16:21:34.599848+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:kyedae",
+   "vod": "2939770213",
+   "offset": 19827.0,
+   "title": "GTAVI time (live on YT)",
+   "drafted": false,
+   "ts": "2026-11-25T16:21:34.906606+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:crystalmolly",
+   "vod": "2939889136",
+   "offset": 15000.0,
+   "title": "aaah le está mamand* el",
+   "drafted": false,
+   "ts": "2026-11-25T16:22:25.704949+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:snapscube",
+   "vod": "2939373030",
+   "offset": 20571.0,
+   "title": "lucia please",
+   "drafted": false,
+   "ts": "2026-11-25T16:22:26.213322+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:vanillamace",
+   "vod": "2939894724",
+   "offset": 4002.0,
+   "title": "Schlatt’s opinion",
+   "drafted": false,
+   "ts": "2026-11-25T16:22:26.536911+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:acie",
+   "vod": "2939589835",
+   "offset": 9124.0,
+   "title": "Taking a shower",
+   "drafted": false,
+   "ts": "2026-11-25T16:22:26.851613+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:djmariio",
+   "vod": "2939368890",
+   "offset": 11658.0,
+   "title": "Grand Theft Auto VI clip at 3h14m18s",
+   "drafted": false,
+   "ts": "2026-11-25T16:23:17.349393+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:egorkreed",
+   "vod": "2939607514",
+   "offset": 9305.0,
+   "title": "лаг",
+   "drafted": false,
+   "ts": "2026-11-25T16:23:17.659668+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:gotaga",
+   "vod": "2939403450",
+   "offset": 7888.0,
+   "title": "🌴 (76%) On finit le jeu avant la keynote de demain ? #PourLUCIA",
+   "drafted": false,
+   "ts": "2026-11-25T16:23:18.001014+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:recrent",
+   "vod": "2939359842",
+   "offset": 27017.0,
+   "title": "чввввв)))))))",
+   "drafted": false,
+   "ts": "2026-11-25T16:23:18.294287+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:borcovski",
+   "vod": "2939387217",
+   "offset": 4888.0,
+   "title": "ТАЙЗЕР? ИПУГАЛСЯ? ОБОСРАЛСЯ! - GTA 6",
+   "drafted": false,
+   "ts": "2026-11-25T16:24:08.786410+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:snowboy_gameboss",
+   "vod": "2939538590",
+   "offset": 25789.0,
+   "title": "Сногсшибательная поездка)))",
+   "drafted": false,
+   "ts": "2026-11-25T16:24:09.156672+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:xagepa",
+   "vod": "2939490472",
+   "offset": 22817.0,
+   "title": "xD",
+   "drafted": false,
+   "ts": "2026-11-25T16:24:09.438671+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:cellbit",
+   "vod": "2939657006",
+   "offset": 16447.0,
+   "title": "Barulho estranho no rádio",
+   "drafted": false,
+   "ts": "2026-11-25T16:24:09.800701+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:therealknossi",
+   "vod": "2939436519",
+   "offset": 24816.0,
+   "title": "treffer",
+   "drafted": false,
+   "ts": "2026-11-25T16:25:00.261810+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:domingo",
+   "vod": "2939284981",
+   "offset": 17952.0,
+   "title": "flow",
+   "drafted": false,
+   "ts": "2026-11-25T16:25:00.557334+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:samueletienne",
+   "vod": "2938420112",
+   "offset": 105883.0,
+   "title": "Atterrissage en finesse",
+   "drafted": false,
+   "ts": "2026-11-25T16:25:00.884503+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:jynxzi",
+   "vod": "2939550825",
+   "offset": 749.0,
+   "title": "baaaaaaaah",
+   "drafted": false,
+   "ts": "2026-11-25T16:25:01.191562+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:loya",
+   "vod": "2939185136",
+   "offset": 13144.0,
+   "title": "HIS D**G IS TOUCHING ME",
+   "drafted": false,
+   "ts": "2026-11-25T16:25:51.672865+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:dansgaming",
+   "vod": "2939476058",
+   "offset": 10308.0,
+   "title": "GTA6 Becomes Horror",
+   "drafted": false,
+   "ts": "2026-11-25T16:25:51.983388+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:afoninje",
+   "vod": "2939539316",
+   "offset": 2788.0,
+   "title": "кто удивлен что с ним такое случилось?",
+   "drafted": false,
+   "ts": "2026-11-25T16:25:52.290647+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:zerkaa",
+   "vod": "2939255332",
+   "offset": 854.0,
+   "title": "Welcome back today to some more GTA 6 playthrough",
+   "drafted": false,
+   "ts": "2026-11-25T16:25:52.640709+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:youngmulti",
+   "vod": "2939474012",
+   "offset": 8130.0,
+   "title": "tutaj beda fajne dupy",
+   "drafted": false,
+   "ts": "2026-11-25T16:26:43.150702+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:bigpuffer",
+   "vod": "2939833324",
+   "offset": 9806.0,
+   "title": "WTF",
+   "drafted": false,
+   "ts": "2026-11-25T16:26:43.447207+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:shroud",
+   "vod": "2939600059",
+   "offset": 19648.0,
+   "title": "Jason jumping on the bed",
+   "drafted": false,
+   "ts": "2026-11-25T16:26:43.852343+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:seogaaaa",
+   "vod": "2939639737",
+   "offset": 1549.0,
+   "title": "ЗАЛЕТЕЛ К ЛЮСИИ",
+   "drafted": false,
+   "ts": "2026-11-25T16:26:44.134754+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:missmikkaa",
+   "vod": "2939364350",
+   "offset": 12200.0,
+   "title": "Mods",
+   "drafted": false,
+   "ts": "2026-11-25T16:27:34.596521+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:nickmercs",
+   "vod": "2939308400",
+   "offset": 33849.0,
+   "title": "Nicks having too much fun",
+   "drafted": false,
+   "ts": "2026-11-25T16:27:34.893726+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:itachi",
+   "vod": "2939420349",
+   "offset": 12891.0,
+   "title": "0",
+   "drafted": false,
+   "ts": "2026-11-25T16:27:35.178372+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:darkviperau",
+   "vod": "2939403293",
+   "offset": 16103.0,
+   "title": "buhflip",
+   "drafted": false,
+   "ts": "2026-11-25T16:27:35.516424+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:aryssa614",
+   "vod": "2939356764",
+   "offset": 9112.0,
+   "title": "Make it rain",
+   "drafted": false,
+   "ts": "2026-11-25T16:28:25.970225+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:stormfall33",
+   "vod": "2939634441",
+   "offset": 6448.0,
+   "title": "POWERLINE JASON!!!!",
+   "drafted": false,
+   "ts": "2026-11-25T16:28:26.298011+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:isthisemmiep",
+   "vod": "2939683655",
+   "offset": 34.0,
+   "title": "mandy pls i'll do anything?!?! !socials",
+   "drafted": false,
+   "ts": "2026-11-25T16:28:26.645857+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:thegrefg",
+   "vod": "2939605097",
+   "offset": 5394.0,
+   "title": "Grefg no a pasado el primer capitulo y no sabe subirse a un barco",
+   "drafted": false,
+   "ts": "2026-11-25T16:28:27.021998+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:hutchmf",
+   "vod": "2939344770",
+   "offset": 8876.0,
+   "title": "Caught with wet hand!!!",
+   "drafted": false,
+   "ts": "2026-11-25T16:29:17.535553+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:juansguarnizo",
+   "vod": "2939508437",
+   "offset": 5202.0,
+   "title": "GTA VI, GARTIC PHONE Y OTRA VEZ GTA VI :D",
+   "drafted": false,
+   "ts": "2026-11-25T16:29:17.868056+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:alanzoka",
+   "vod": "2939491300",
+   "offset": 7391.0,
+   "title": "Corrida inacreditável KKKKKKKK",
+   "drafted": false,
+   "ts": "2026-11-25T16:29:18.192290+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:welovegames",
+   "vod": "2939363532",
+   "offset": 14047.0,
+   "title": "ВЛЕТЕЛ В #0ПУ",
+   "drafted": false,
+   "ts": "2026-11-25T16:29:18.492931+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:chowh1",
+   "vod": "2939468359",
+   "offset": 1708.0,
+   "title": "pas la meilleure idée de taser un crocodile",
+   "drafted": false,
+   "ts": "2026-11-25T16:30:09.016717+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:iaaras2",
+   "vod": "2939494867",
+   "offset": 5730.0,
+   "title": "RIP",
+   "drafted": false,
+   "ts": "2026-11-25T16:30:09.343214+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:mistermv",
+   "vod": "2939396857",
+   "offset": 6950.0,
+   "title": "J'adore faire vape mon enfant",
+   "drafted": false,
+   "ts": "2026-11-25T16:30:09.697916+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:xagepa",
+   "vod": "2939490472",
+   "offset": 15031.0,
+   "title": "ATROPELLAO",
+   "drafted": false,
+   "ts": "2026-11-25T16:37:40.482438+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:therealknossi",
+   "vod": "2939436519",
+   "offset": 26494.0,
+   "title": "ah ich falle",
+   "drafted": false,
+   "ts": "2026-11-25T16:37:40.853668+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:ohnepixel",
+   "vod": "2939324211",
+   "offset": 4180.0,
+   "title": "eyetracker",
+   "drafted": false,
+   "ts": "2026-11-25T16:37:41.148386+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:domingo",
+   "vod": "2939284981",
+   "offset": 21883.0,
+   "title": "avion",
+   "drafted": false,
+   "ts": "2026-11-25T16:37:41.450032+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:acie",
+   "vod": "2939589835",
+   "offset": 13052.0,
+   "title": "Gooncie meeting Mandy",
+   "drafted": false,
+   "ts": "2026-11-25T16:38:32.319165+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:missmikkaa",
+   "vod": "2939364350",
+   "offset": 17030.0,
+   "title": "Walking Sim of the Year",
+   "drafted": false,
+   "ts": "2026-11-25T16:38:32.632460+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:afoninje",
+   "vod": "2939539316",
+   "offset": 3004.0,
+   "title": "качалка не работает вс афони",
+   "drafted": false,
+   "ts": "2026-11-25T16:38:32.942560+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:darkviperau",
+   "vod": "2939403293",
+   "offset": 14929.0,
+   "title": "He's a GOOOD",
+   "drafted": false,
+   "ts": "2026-11-25T16:38:33.247650+00:00",
    "frames": []
   }
  ],
