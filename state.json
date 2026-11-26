@@ -5044,7 +5044,25 @@
   "204850f3f8eb804a": "2026-11-26T18:45:12.163036+00:00",
   "7760ddd7deb56dc2": "2026-11-26T18:45:14.265110+00:00",
   "26e5f0d73f853a48": "2026-11-26T18:45:17.105907+00:00",
-  "2ece3a7283f337cb": "2026-11-26T18:45:23.066806+00:00"
+  "2ece3a7283f337cb": "2026-11-26T18:45:23.066806+00:00",
+  "ccc5dab851341a7a": "2026-11-26T19:00:52.476130+00:00",
+  "ae25830d366dc6f5": "2026-11-26T19:00:53.838783+00:00",
+  "26968316b1a9a05e": "2026-11-26T19:00:56.574724+00:00",
+  "59e27bc92a78e70f": "2026-11-26T19:00:58.884752+00:00",
+  "39e27e04c7b1366f": "2026-11-26T19:01:02.339657+00:00",
+  "59f0ab52d872dd60": "2026-11-26T19:01:04.966541+00:00",
+  "0078ca6ea169953f": "2026-11-26T19:01:07.108353+00:00",
+  "04391f418e561ccc": "2026-11-26T19:01:09.213000+00:00",
+  "7d7a98a544718449": "2026-11-26T19:16:28.872193+00:00",
+  "5c86a17abff660f0": "2026-11-26T19:16:28.872243+00:00",
+  "38a954e208cbea21": "2026-11-26T19:16:32.667258+00:00",
+  "2750493691d297ca": "2026-11-26T19:16:34.662550+00:00",
+  "26940b5dfa03305f": "2026-11-26T19:16:43.189864+00:00",
+  "35177b437e36fb42": "2026-11-26T19:16:47.787333+00:00",
+  "3f185260c600023b": "2026-11-26T19:16:52.433292+00:00",
+  "aadbbab8bca3dcd4": "2026-11-26T19:16:55.341101+00:00",
+  "901084832e27536c": "2026-11-26T19:16:59.331118+00:00",
+  "b2c3da1894b7f79d": "2026-11-26T19:17:02.376249+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -8474,7 +8492,23 @@
   "aae8809b8f22b03e": "2026-11-26T18:45:12.163036+00:00",
   "33071b44d84fd5fe": "2026-11-26T18:45:14.265110+00:00",
   "4bc2a56ccb404d37": "2026-11-26T18:45:17.105907+00:00",
-  "9c448741c9e102f5": "2026-11-26T18:45:23.066806+00:00"
+  "9c448741c9e102f5": "2026-11-26T18:45:23.066806+00:00",
+  "2e5f72aaaa84f39a": "2026-11-26T19:00:52.476130+00:00",
+  "c684f731ccd732c7": "2026-11-26T19:00:53.838783+00:00",
+  "76a392a854ac83b5": "2026-11-26T19:00:56.574724+00:00",
+  "d6292ddf669d1542": "2026-11-26T19:00:58.884752+00:00",
+  "e1d70b45ddce6ddb": "2026-11-26T19:01:02.339657+00:00",
+  "69b428efa8da4ae0": "2026-11-26T19:01:04.966541+00:00",
+  "c36c75c71c56854a": "2026-11-26T19:01:07.108353+00:00",
+  "b59fccaeb57bc36c": "2026-11-26T19:01:09.213000+00:00",
+  "1ffa3fd7669def21": "2026-11-26T19:16:32.667258+00:00",
+  "5123a7f6ccd883db": "2026-11-26T19:16:34.662550+00:00",
+  "f4a8f50c10a10e55": "2026-11-26T19:16:43.189864+00:00",
+  "8a68b58943c567b9": "2026-11-26T19:16:47.787333+00:00",
+  "0c44893c79472a9a": "2026-11-26T19:16:52.433292+00:00",
+  "0fb00263c492a6bb": "2026-11-26T19:16:55.341101+00:00",
+  "8ff55ec032b80278": "2026-11-26T19:16:59.331118+00:00",
+  "20e4b12090e568ed": "2026-11-26T19:17:02.376249+00:00"
  },
  "recent": [
   {
@@ -16452,6 +16486,142 @@
    "status": "skipped",
    "ts": "2026-11-26T18:45:23.066940+00:00",
    "card_title": ""
+  },
+  {
+   "title": "В GTA 6 игроки наряжают Люсию как в Animal Crossing",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T19:00:52.476257+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "A Slovak MP shot up an LGBT flag in GTA VI — opposition forces reported her to the police",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T19:00:53.838925+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GitHub поддержал проект AnyPS5 по запуску игр с PS5 на ПК после выхода GTA 6",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T19:00:56.574852+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "While gamers wait for GTA 6's PC port, modders have already bypassed its 30 FPS limit on jailbroken PS5 consoles",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T19:00:58.884899+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI launch sparks 400% surge in UK sales of physical games, data shows",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T19:01:02.339788+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Here's where to steal the Bravado Banshee for Randy in GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T19:01:04.966671+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Неофициальный порт GTA 6 на ПК преодолел отметку в 40 FPS благодаря FSR",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T19:01:07.108491+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 показала отличный старт на европейских рынках и привела к сокращению игроков Call of Duty, Fortnite и других игр",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T19:01:09.213135+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Is A Tragedy Because You Cannot Sit Down And Eat Spaghetti",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-26T19:16:28.872223+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "'The Results Are Very, Very Impressive' - Digital Foundry Praises GTA 6 On Xbox One",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-26T19:16:28.872265+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Is A Tragedy Because You Cannot Sit Down And Eat Spaghetti",
+   "source": "Kotaku",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-26T19:16:32.667378+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to Do the Advanced Tracker Removal Glitch in GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T19:16:43.189996+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "NBA players would 'cause chaos' in GTA 6, According to Kevin Durant",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T19:16:47.787462+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "The unofficial GTA 6 PC port has surpassed 40 FPS thanks to FSR.",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T19:16:52.433419+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 и GTA 5: 7 главных отличий, которые видно с первого часа",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T19:16:55.341229+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Players Discover Cheeky New Strat for Stealing ATMs Before the Cops Can Even Respond",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T19:16:59.331253+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "«Мальчик проходит GTA 6, мужчина пытается пройти KYC»: как в соцсетях шутят про массовые блокировки россиян в Claude",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T19:17:02.376381+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -16667,35 +16837,6 @@
    "queued_at": "2026-11-26T09:23:46.966761+00:00",
    "moderation": "pending",
    "draft_msg_id": 179
-  },
-  {
-   "item": {
-    "title": "Сколько лет Люсии и Джейсону из GTA VI? Игроки нашли ответы в водительских правах",
-    "link": "https://ixbt.games/news/2026/11/26/skolko-let-liusii-i-dzeisonu-iz-gta-vi-igroki-nasli-otvety-v-voditelskix-pravax.html",
-    "summary": "Благодаря документам, спрятанным в мире игры, фанаты GTA VI узнали, когда родились Джейсон Дюваль и Люсия Каминос, насколько они разнятся в росте и сколько лет персонажам второго плана.",
-    "published": "2026-11-26T03:48:00+00:00",
-    "source": "iXBT.games",
-    "site_name": "iXBT.games",
-    "trust": "medium",
-    "text": "Благодаря документам, спрятанным в мире игры, фанаты GTA VI узнали, когда родились Джейсон Дюваль и Люсия Каминос, насколько они разнятся в росте и сколько лет персонажам второго плана.\nИгроки GTA VI выяснили точный возраст Люсии и Джейсона, обнаружив виртуальные водительские права персонажей. Заодно игроки узнали их рост и возраст нескольких второстепенных героев.\nСтаршим из главной пары оказался Джейсон Дюваль. Согласно документам, ему ровно 30 лет: он родился 1 мая 1996 года. Рост персонажа составляет 190 сантиметров.\nЕго спутница Люсия Каминос на четыре года младше – ей 26 лет. В водительских правах указана дата рождения 20 ноября 2000 года. Примечательно, что девушка отметила день рождения всего несколько дней назад, уже после выхода игры, однако большинство игроков, занятых исследованием Вайс-Сити, пропустили это событие.\nРазница в росте между героями тоже оказалась заметной. Люсия достигает всего 160 сантиметров, поэтому Джейсон выше на 30 сантиметров.\nI don't know if this already got shared, but these are the birthdates/infos of some characters in GTA VI: Lucia Caminos - 11/20/2000 - 5'3\" (~1,60m) Jason Duval - 01/05/1996 - 6'3\" (~1,90m) Andy Lee-Scott - 04/17/2001 - 5'5\" (~1,65m)\nПокопавшись в документах, игроки обнаружили сведения и о других персонажах. Например, Энди Ли-Скотту 25 лет при росте 165 сантиметров, а Дональду Картеру уже исполнилось 48 лет.\nНе пропускайте наши новостиДобавьте сайт в предпочитаемые источники, чтобы видеть нас чащеДобавить в Google",
-    "extra": {
-     "image": "https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1746452/663bc3c3-1117-4b58-b2b7-1cc6a1ebe4b6.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "🕵️‍♂️ Возраст Джейсона и Люсии раскрыт\n\nИгроки врубились в скрытые водительские права и вытащили точные даты рождения: Джейсон — 1 мая 1996 (30 лет), Люсия — 20 ноября 2000 (26 лет). Рост: 190 см vs 160 см. Факт, который многие пропустили после релиза. 🎂🤯",
-    "card_title": "ВОЗРАСТЫ ДЖЕЙСОНА И ЛЮСИИ",
-    "reason": "Подтверждённые игровые документы, интересны фанатам лора",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "groq:openai/gpt-oss-120b → groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-26T07:16:10.069003+00:00"
   },
   {
    "item": {
@@ -23793,7 +23934,19 @@
    "kind": "rumor"
   }
  ],
- "extras": [],
+ "extras": [
+  {
+   "key": "digest-20261126",
+   "kind": "Итоги дня",
+   "payload": {
+    "text": "🌙 <b>Итоги дня</b> · 26 ноября\n\n🎥 <a href=\"https://t.me/gta6_hotnews/101\">В GTA 6 завезли мини-игру с массажем и съёмками на пляже — чисто лютый разнос 💀</a>\n📰 <a href=\"https://t.me/gta6_hotnews/102\">Ферма на $2k: битва кулаками с невидимым NPC</a>\n🔥 <a href=\"https://t.me/gta6_hotnews/103\">Take‑Two закрывает коммьюнити‑порты GTA 6</a>\n\nЧто из этого зашло больше всего? Пиши в комменты 👇",
+    "publish_at": "2026-11-26T20:00:00+00:00"
+   },
+   "moderation": "pending",
+   "draft_msg_id": 188,
+   "queued_at": "2026-11-26T19:30:31.000073+00:00"
+  }
+ ],
  "extras_sent": {
   "poll-2026-W47": "2026-11-21T16:00:25.901739+00:00",
   "weekly-20261121": "2026-11-21T17:30:42.606074+00:00",
@@ -23801,7 +23954,8 @@
   "digest-20261122": "2026-11-22T19:31:01.015194+00:00",
   "digest-20261123": "2026-11-23T19:30:46.041576+00:00",
   "digest-20261124": "2026-11-24T19:30:13.623703+00:00",
-  "digest-20261125": "2026-11-25T19:30:50.081169+00:00"
+  "digest-20261125": "2026-11-25T19:30:50.081169+00:00",
+  "digest-20261126": "2026-11-26T19:30:31.000089+00:00"
  },
  "rewrite_wait": [
   {
@@ -24369,6 +24523,36 @@
    },
    "corr": false,
    "since": "2026-11-26T18:12:21.530719+00:00"
+  },
+  {
+   "item": {
+    "title": "'The Results Are Very, Very Impressive' - Digital Foundry Praises GTA 6 On Xbox One",
+    "link": "https://www.purexbox.com/news/2026/11/the-results-are-very-very-impressive-digital-foundry-praises-gta-6-on-xbox-one",
+    "summary": "\"﻿Latency is also exceptional - at least in context.\". The smartypants over at Digital Foundry are still putting in the work, this time going deep into the nitty gritty of how well GTA 6 performs when streamed through the Xbox Cloud Gaming app on Xbox One. Following their rigorous testing on Xbox Series X and Series S, PS5 and PS5 Pro, the boffin boys have now spent a good week putting streamed performance, latency and image quality under the cosh. Read the full article on purexbox.com",
+    "published": "2026-11-26T19:00:00+00:00",
+    "source": "Pure Xbox",
+    "site_name": "Pure Xbox",
+    "trust": "high",
+    "text": "The smartypants over at Digital Foundry are still putting in the work, this time going deep into the nitty gritty of how well GTA 6 performs when streamed through the Xbox Cloud Gaming app on Xbox One.\nFollowing their rigorous testing on Xbox Series X and Series S, PS5 and PS5 Pro, the boffin boys have now spent a good week putting streamed performance, latency and image quality under the cosh.\nXbox Cloud Gaming is streamed from Microsoft servers which means the version of GTA 6 you'll be playing is the Xbox Series S version. Of course, this means the drawbacks present on the Series S version are also present in the Xbox Cloud streamed one.\n\"Let's start with nuts and bolts of the experience. As with other Xbox Cloud Gaming titles, which are streamed from Microsoft servers rather than your own console, the version of GTA 6 you're getting here is the Xbox Series S version. That means a few things just by the nature of the Series S port itself - slightly ropey performance, quality setting cutbacks across the board and a 720p base image upscaled to 1080p using FSR 4.1. However, you do at least get all of the game's major effects intact, including ray-traced lighting, ray-traced reflections and strand-based hair.\"\nPerformance begins where you'd expect on Xbox Series S, clocking around 20-30FPS. However, Digital Foundry notes that \"frame pacing is significantly worse than the real deal, with quicker 16.7ms frames and slower 50.0ms frames surrounding the expected 33.3ms ones.\"\nFrom their Xbox One Cloud tests, they used an ethernet connection, and were genuinely impressed with GTA 6's image quality. They mentioned the game isn't \"significantly degraded by the streaming process\", with little visible compression or artefacting when in motion. Stood still, it's hardly noticeable too.\nStreaming GTA 6 at 1440p (via Xbox Game Pass Ultimate on One S or X) also appears to benefit from a higher bitrate than usual, with DF stating it gets a \"higher bitrate than that afforded to other games\". For context, GTA 6 streamed at about 37mbps, compared to the recently released Control: Resonant, which only got 15-27mbps.\nLatency also looks to be the big winner in testing. Digital Foundry tested GTA 6 running natively on Xbox Series S with the streamed version on Xbox One, finding the latter only added a mere 9ms to latency. Barely noticeable.\n\"Latency is also exceptional - at least in context. We measured around an extra 9ms of added latency compared to running GTA 6 locally on Ser",
+    "extra": {
+     "image": "https://images.purexbox.com/29d839fd208da/large.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "GTA 6 на Xbox One\n\nDigital Foundry затестили облачный гейминг GTA 6 на старом добром Xbox One через хмару. Результаты прям сочные: задержка минимальная, а картинка пушка, хоть железо и выдает версию с Series S с лучами!",
+    "card_title": "GTA 6 НА XBOX ONE",
+    "reason": "Digital Foundry tested GTA 6 via cloud on Xbox One and praised the impressive results.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "'The Results Are Very, Very Impressive' - Digital Foundry Praises GTA 6 On Xbox One — Google News (EN)",
+    "corroborated_by": "'The Results Are Very, Very Impressive' - Digital Foundry Praises GTA 6 On Xbox One — Google News (EN)",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-26T19:16:37.631150+00:00"
   }
  ]
 }
