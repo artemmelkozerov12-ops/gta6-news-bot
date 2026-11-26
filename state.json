@@ -4606,7 +4606,15 @@
   "fc9b9ce7eb5adcba": "2026-11-26T04:06:50.028866+00:00",
   "142303a46e05846a": "2026-11-26T04:07:19.868116+00:00",
   "6b92befb674c63f8": "2026-11-26T04:08:47.147487+00:00",
-  "4dfeae109109a9e1": "2026-11-26T04:08:56.197416+00:00"
+  "4dfeae109109a9e1": "2026-11-26T04:08:56.197416+00:00",
+  "cbafa50fadfcfc1a": "2026-11-26T04:24:34.105736+00:00",
+  "9b34997d7eb70f9a": "2026-11-26T04:24:47.419533+00:00",
+  "13779f71800102c4": "2026-11-26T04:24:50.704176+00:00",
+  "5e166b4dd5226aa6": "2026-11-26T04:40:15.370494+00:00",
+  "6c1313667ea5ec42": "2026-11-26T04:40:15.389903+00:00",
+  "edde960977a02d55": "2026-11-26T04:40:23.061648+00:00",
+  "f1f2682e7ce4252a": "2026-11-26T04:40:31.119190+00:00",
+  "ae7bbaef99a8091d": "2026-11-26T04:40:33.141693+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -7691,7 +7699,15 @@
   "07bceadaf6e4c27d": "2026-11-26T04:06:50.028866+00:00",
   "97778d1df39b0252": "2026-11-26T04:07:19.868116+00:00",
   "55c175c211aa0c87": "2026-11-26T04:08:47.147487+00:00",
-  "4b41f0111412fbe3": "2026-11-26T04:08:56.197416+00:00"
+  "4b41f0111412fbe3": "2026-11-26T04:08:56.197416+00:00",
+  "9eb54c15ec02e9d8": "2026-11-26T04:24:34.105736+00:00",
+  "ef26dd091b2249df": "2026-11-26T04:24:47.419533+00:00",
+  "843bb623efee3566": "2026-11-26T04:24:50.704176+00:00",
+  "1762a300b2e63421": "2026-11-26T04:40:15.370494+00:00",
+  "bf87b2c74f2bdd78": "2026-11-26T04:40:15.389903+00:00",
+  "5c5f1d63143a5369": "2026-11-26T04:40:23.061648+00:00",
+  "7d647543973d3be3": "2026-11-26T04:40:31.119190+00:00",
+  "2acbc94ee4595c55": "2026-11-26T04:40:33.141693+00:00"
  },
  "recent": [
   {
@@ -14548,6 +14564,70 @@
    "trust": "rumor",
    "status": "skipped",
    "ts": "2026-11-26T04:08:56.197556+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Cooties Walkthrough for Starting the Mission, Filming and Escaping DWNPLY’s Crew",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-26T04:24:34.105860+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Where to Find Jason's '70 Vapid Ganado (Again) in GTA 6",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-26T04:24:48.334776+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Больше половины ПК-геймеров не интересуется GTA VI. Опрос показал неожиданные результаты",
+   "source": "iXBT.games",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-26T04:24:50.704295+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Crosstown Traffic Walkthrough for Both Starts and Missed Jumps",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "dup",
+   "ts": "2026-11-26T04:40:15.370518+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Caught Slipping Walkthrough for Both Chases and the Bag Stash",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "dup",
+   "ts": "2026-11-26T04:40:15.389930+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Hidden Charges Walkthrough for All Three Cell Tower Routes",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-26T04:40:23.061758+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "В GTA VI нельзя завести роман на стороне. Игроки вспомнили любовные похождения в The Witcher 3",
+   "source": "iXBT.games",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-26T04:40:31.944271+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Rockstar назвали 6 механик Grand Theft Auto VI, которые вырезали или не реализовали",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T04:40:33.141826+00:00",
    "card_title": ""
   }
  ],
