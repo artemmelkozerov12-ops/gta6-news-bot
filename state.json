@@ -4624,7 +4624,17 @@
   "379c8237733676e6": "2026-11-26T05:58:06.171488+00:00",
   "01909cf7b66fd143": "2026-11-26T06:13:34.174859+00:00",
   "477529ff75016370": "2026-11-26T06:13:35.500933+00:00",
-  "5e68052bd7d96eb9": "2026-11-26T06:13:36.680794+00:00"
+  "5e68052bd7d96eb9": "2026-11-26T06:13:36.680794+00:00",
+  "70f3572c48fef435": "2026-11-26T06:29:04.633430+00:00",
+  "42d8db1be74492ff": "2026-11-26T06:29:05.701048+00:00",
+  "b6731c22fb6af93f": "2026-11-26T06:29:06.849024+00:00",
+  "e6c1229b346287b6": "2026-11-26T06:29:08.147988+00:00",
+  "458f1b5cfe503916": "2026-11-26T06:29:09.385898+00:00",
+  "171fc87f53b4cf74": "2026-11-26T06:44:34.050420+00:00",
+  "198363738eeb498d": "2026-11-26T06:44:39.077500+00:00",
+  "e3dd109550ec2e86": "2026-11-26T06:44:40.225839+00:00",
+  "140db9439b00d4c9": "2026-11-26T06:44:41.514875+00:00",
+  "4d0b75136597bfa1": "2026-11-26T06:44:46.208934+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -7727,7 +7737,17 @@
   "2d0ec72108d5e484": "2026-11-26T05:58:06.171488+00:00",
   "157e4cd055a29084": "2026-11-26T06:13:34.174859+00:00",
   "e6340c1148475651": "2026-11-26T06:13:35.500933+00:00",
-  "d4012287f4549303": "2026-11-26T06:13:36.680794+00:00"
+  "d4012287f4549303": "2026-11-26T06:13:36.680794+00:00",
+  "bd9d9734e13e69d7": "2026-11-26T06:29:04.633430+00:00",
+  "cbc1e4351732062c": "2026-11-26T06:29:05.701048+00:00",
+  "c16ea9e4e4eaef16": "2026-11-26T06:29:06.849024+00:00",
+  "48d8210bf9c0e3d0": "2026-11-26T06:29:08.147988+00:00",
+  "16c497422ad8aef3": "2026-11-26T06:29:09.385898+00:00",
+  "db53f9334d557f56": "2026-11-26T06:44:34.050420+00:00",
+  "8f44a4521ef90882": "2026-11-26T06:44:39.077500+00:00",
+  "993f92f0b7ceb9d2": "2026-11-26T06:44:40.225839+00:00",
+  "c59742e57c26ed84": "2026-11-26T06:44:41.514875+00:00",
+  "b142238c427fca41": "2026-11-26T06:44:46.208934+00:00"
  },
  "recent": [
   {
@@ -14728,6 +14748,86 @@
    "trust": "rumor",
    "status": "skipped",
    "ts": "2026-11-26T06:13:36.680945+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Фанаты GTA 6 устроили перепись зданий",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T06:29:04.633556+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Где найти Status Auto Imports в GTA 6 — гайд",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T06:29:05.701192+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "На какой консоли GTA 6 работает лучше: PS5, PS5 Pro или Xbox Series X",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T06:29:06.849166+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Авторы проекта Belobug сумели запустить Grand Theft Auto VI на ПК при 5–7 fps",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T06:29:08.148129+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Cyberleek released the missing executable for its leaked 209GB GTA 6 Xbox build, and an open source project says the game now boots on Windows but runs at about 1 frame per second in the world, not playable",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T06:29:09.386062+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Стриптиз-клуб нанял хореографа ради танцев из GTA 6, а трафик Pornhub после релиза игры упал",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T06:44:34.050555+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "‘South Park’ Lampoons ‘GTA VI,’ AI and Chinese Spies in Latest Episode",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T06:44:39.077630+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Мизулина не прошла GTA 6, потому что ей стало скучно",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T06:44:40.225962+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Leonida DMCA: 1 Repo, 2,900+ Forks, No GTA 6 PC Date",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T06:44:41.514996+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Lana Del Rey Rocks Custom Crystal 'GTA VI' Birkin at Launch Party",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T06:44:46.209062+00:00",
    "card_title": ""
   }
  ],
