@@ -4572,7 +4572,15 @@
   "51fe21ec67d52678": "2026-11-26T00:10:16.131741+00:00",
   "7aa842b1760603a1": "2026-11-26T00:10:22.145383+00:00",
   "44515e1e489842a6": "2026-11-26T00:10:25.990384+00:00",
-  "814242dc08df9368": "2026-11-26T00:10:30.959554+00:00"
+  "814242dc08df9368": "2026-11-26T00:10:30.959554+00:00",
+  "e767c61a7b1157ef": "2026-11-26T00:25:52.859414+00:00",
+  "83d9156c142af542": "2026-11-26T00:25:58.619126+00:00",
+  "f285d0196b798a4f": "2026-11-26T00:26:04.015737+00:00",
+  "1c52010fd52ba0cb": "2026-11-26T00:41:25.420688+00:00",
+  "5bcbc4f04c06c0b7": "2026-11-26T00:41:26.822151+00:00",
+  "d92198ef44a285b7": "2026-11-26T00:41:28.193404+00:00",
+  "15654e220793ce3d": "2026-11-26T00:41:29.579590+00:00",
+  "9bcd6f93dc9c57a6": "2026-11-26T00:41:30.954266+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -7624,7 +7632,14 @@
   "48c755cef291ee9e": "2026-11-26T00:10:16.131741+00:00",
   "ace582f3f79beea1": "2026-11-26T00:10:22.145383+00:00",
   "e941cc4712f1c2d7": "2026-11-26T00:10:25.990384+00:00",
-  "047b768a388f1dc3": "2026-11-26T00:10:30.959554+00:00"
+  "047b768a388f1dc3": "2026-11-26T00:10:30.959554+00:00",
+  "bc936add85269b79": "2026-11-26T00:25:58.619126+00:00",
+  "7d43a9a428a571c8": "2026-11-26T00:26:04.015737+00:00",
+  "b6e2413a678b47b3": "2026-11-26T00:41:25.420688+00:00",
+  "9583872d4644a999": "2026-11-26T00:41:26.822151+00:00",
+  "a91eda4d0dc7ef4d": "2026-11-26T00:41:28.193404+00:00",
+  "6dbad8416dccc316": "2026-11-26T00:41:29.579590+00:00",
+  "24ff89995fff643a": "2026-11-26T00:41:30.954266+00:00"
  },
  "recent": [
   {
@@ -15145,6 +15160,78 @@
    "trust": "rumor",
    "status": "skipped",
    "ts": "2026-11-26T00:10:30.959686+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "[Видео] NVIDIA тонет без Хуанга / В GTA 6 играют иди*ты / Steam в белые списки / DDR кончится в 2027",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-26T00:25:52.859459+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "[Видео] NVIDIA тонет без Хуанга / В GTA 6 играют иди*ты / Steam в белые списки / DDR кончится в 2027",
+   "source": "iXBT.games",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-26T00:25:58.619241+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Justice Enlist Michael McDonald for GTA VI Track ‘Starting From Zero’",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T00:26:04.015870+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Here’s How to Find Rick Ross’ Mansion in ‘Grand Theft Auto VI’",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T00:41:23.842093+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Rockstar Added GTA 6's New Morality System in Response to Crime Lacking Substance in Previous Games",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T00:41:25.420824+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "В GTA 6 нашли инопланетянина на горе Чилиад из GTA 5 — но есть нюанс",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T00:41:26.822279+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Does GTA 6 Really \"Play Best\" On PS5? - IGN Daily Fix",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T00:41:28.193529+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Главное за день: GTA 6 ломает консоли, сроки выхода Intergalactic",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T00:41:29.579713+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Сценарист Half-Life назвал GTA 6 шедевром и ответил хейтерам бытовухи",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T00:41:30.954392+00:00",
    "card_title": ""
   }
  ],
@@ -22838,34 +22925,6 @@
    },
    "corr": false,
    "since": "2026-11-25T22:51:56.226577+00:00"
-  },
-  {
-   "item": {
-    "title": "Here’s How to Find Rick Ross’ Mansion in ‘Grand Theft Auto VI’",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSGtzQmt4ZWZ3aEZMR0lUNVBKd3o5ZmViY2M5UUxYY0QtQWFXSEZJOXBBel9MLVhIUHN1YnVZeDZkeUtRM2NtRUFSeDV2Y0U2UWZCdjlIRFBDSEpKajFheVc2MDQxT2JpZXJiWnpWR2pnTXNicTNyVklyZkZCUlJNUThOZlo3dERuYkx2LXphdkRhQTl6VVdEdUt5TVdMV2JnLWlF?oc=5",
-    "summary": "Here’s How to Find Rick Ross’ Mansion in ‘Grand Theft Auto VI’ Billboard",
-    "published": "2026-11-25T20:31:33+00:00",
-    "source": "Google News (EN)",
-    "site_name": "Billboard",
-    "trust": "rumor",
-    "text": "Here’s How to Find Rick Ross’ Mansion in ‘Grand Theft Auto VI’ Billboard",
-    "extra": {}
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 6,
-    "post": "🗺 Гайд: ОСОБНЯК Рика Росса\n\nИщем хату рэпера в игре.\n\nЧекнули, где стоит та самая вилла Рика Росса. Карта огромная, но этот особняк того стоит, чисто лютый вайб для скринов.\n\n❤️ — Уже нашел\n👎 — Заблудился",
-    "card_title": "ОСОБНЯК РИКА РОССА",
-    "reason": "Гайд по поиску реального особняка Рика Росса в GTA 6, полезный секрет для игроков.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": true,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": true,
-   "since": "2026-11-25T23:39:08.088997+00:00"
   },
   {
    "item": {
