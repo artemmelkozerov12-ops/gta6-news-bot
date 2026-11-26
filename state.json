@@ -4601,7 +4601,12 @@
   "e47f2164db68a7b3": "2026-11-26T03:19:03.120321+00:00",
   "53a64b984b3a4ed0": "2026-11-26T03:19:04.086726+00:00",
   "f4c8483e4dc771de": "2026-11-26T03:19:05.339034+00:00",
-  "b735a4ba14041275": "2026-11-26T03:19:06.604498+00:00"
+  "b735a4ba14041275": "2026-11-26T03:19:06.604498+00:00",
+  "247d28e7d88bcece": "2026-11-26T03:51:15.984254+00:00",
+  "fc9b9ce7eb5adcba": "2026-11-26T04:06:50.028866+00:00",
+  "142303a46e05846a": "2026-11-26T04:07:19.868116+00:00",
+  "6b92befb674c63f8": "2026-11-26T04:08:47.147487+00:00",
+  "4dfeae109109a9e1": "2026-11-26T04:08:56.197416+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -7681,1049 +7686,14 @@
   "ef7c89615534552c": "2026-11-26T03:19:03.120321+00:00",
   "dd85d72f82b080c7": "2026-11-26T03:19:04.086726+00:00",
   "093107ffc7bfb0ba": "2026-11-26T03:19:05.339034+00:00",
-  "1bb5fc9e8154684d": "2026-11-26T03:19:06.604498+00:00"
+  "1bb5fc9e8154684d": "2026-11-26T03:19:06.604498+00:00",
+  "9a241fdc7859e226": "2026-11-26T03:51:15.984254+00:00",
+  "07bceadaf6e4c27d": "2026-11-26T04:06:50.028866+00:00",
+  "97778d1df39b0252": "2026-11-26T04:07:19.868116+00:00",
+  "55c175c211aa0c87": "2026-11-26T04:08:47.147487+00:00",
+  "4b41f0111412fbe3": "2026-11-26T04:08:56.197416+00:00"
  },
  "recent": [
-  {
-   "title": "GTA 6 update fixes crashes, autosaving and story-progress bugs",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-23T22:20:12.527611+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Актёр GTA VI попросил игроков о помощи — он забыл о своей роли и не может найти себя в игре",
-   "source": "iXBT.games",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-23T22:20:13.808489+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Update 1.002.002 Fixes Failed Autosaves and Missing Story Calls",
-   "source": "GTA BOOM",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-23T22:20:45.953128+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Players Figure Out A Way To Remove Its Framerate Cap, But 60FPS Ain’t Happening Anytime Soon",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-23T22:37:08.530087+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "10 Hacks Every 'GTA 6' Player Should Know",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-23T22:37:08.530143+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "The Race Is On To Unofficially Port GTA 6 To PC After Cyberleek Drops .Exe File",
-   "source": "Kotaku",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-23T22:37:09.792484+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA VI can hit 60 FPS on Xbox Series X thanks to a Quick Resume bug, though with a few catches",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-23T22:54:05.591616+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "The 6 Most Outrageous GTA 6 Myths, Debunked",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-23T23:10:14.167923+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "It’s Hard To Be A Pacifist In GTA 6",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-23T23:10:14.167973+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Introduces The Series’ First Nonbinary Character, And They Have A Really Cool Name",
-   "source": "Kotaku",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-23T23:10:15.441544+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "From scoffing chips to Snapmatic sh*tposts, GTA 6 is filled with brilliant little details",
-   "source": "GamesRadar+",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-23T23:10:15.441633+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Family-Friendly Fortnite Streamer Goes Viral After Picking Up GTA 6 And Performing the Ultimate Heelturn, Including a Bloody Zoo Rampage",
-   "source": "IGN",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-23T23:10:15.441717+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "How to Get The Fastest Car in GTA 6 For Free—Truffade Andrew Node’s Thrax Car Location",
-   "source": "Insider Gaming",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-23T23:12:14.974967+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "The Last of Us 2 dev says \"GTA 6 is the great pyramids of game development\"",
-   "source": "GamesRadar+",
-   "trust": "high",
-   "status": "queued",
-   "ts": "2026-11-23T23:27:38.825056+00:00",
-   "card_title": "GTA 6 ПИРАМИДА ДЕВЕЛОПЕРА"
-  },
-  {
-   "title": "GTA 6 players swore the weather system was broken and the latest patch has confirmed those suspicions",
-   "source": "PC Gamer",
-   "trust": "high",
-   "status": "queued",
-   "ts": "2026-11-23T23:27:40.974978+00:00",
-   "card_title": "ПРАВКА ПОГОДЫ В GTA 6"
-  },
-  {
-   "title": "GTA 6’s Donnie Actor Underwent Brain Surgery While He Was Awake And Playing Guitar",
-   "source": "GameSpot",
-   "trust": "high",
-   "status": "queued",
-   "ts": "2026-11-23T23:28:07.826795+00:00",
-   "card_title": "ДОННИ И МОЗГОВАЯ ОПЕРАЦИЯ"
-  },
-  {
-   "title": "Every Playable Video Game in GTA 6, Ranked Worst to Best",
-   "source": "Polygon",
-   "trust": "high",
-   "status": "queued",
-   "ts": "2026-11-23T23:28:39.984903+00:00",
-   "card_title": "РЕЙТИНГ ИГР В GTA 6"
-  },
-  {
-   "title": "D'Angelo's Estate Speaks Out After Late Artist's Unreleased Song, Kamikaze, Discovered in GTA 6",
-   "source": "IGN",
-   "trust": "high",
-   "status": "queued",
-   "ts": "2026-11-23T23:29:12.455732+00:00",
-   "card_title": "ДЭНДЖЕЛО И ТРЕК KAMIKAZE"
-  },
-  {
-   "title": "Every GTA 6 ending and how to get them",
-   "source": "PC Gamer",
-   "trust": "high",
-   "status": "queued",
-   "ts": "2026-11-23T23:29:43.827217+00:00",
-   "card_title": "ВСЕ КОНЦОВКИ GTA 6"
-  },
-  {
-   "title": "Goodbye, Mandy: GTA 6 Players Are Already Obsessed With Someone Else",
-   "source": "Polygon",
-   "trust": "high",
-   "status": "queued",
-   "ts": "2026-11-23T23:30:13.860474+00:00",
-   "card_title": "VICKI — НОВАЯ ИКОНКА GTA6"
-  },
-  {
-   "title": "Where to find the Port Gellhorn serial killer in GTA 6",
-   "source": "Polygon",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-23T23:30:19.528811+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 players found a '60 fps glitch', but it’s too unstable to stop me from wishing it was on PC already",
-   "source": "PC Gamer",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-23T23:30:34.132194+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6's Waink App Can Unlock New Hairstyles and Makeup",
-   "source": "IGN",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-23T23:30:52.820546+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Is Giving an 80s New Wave Classic a Second Life, Four Decades After Its Original Release",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-23T23:31:04.857810+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "'GTA 6' breaks sales records across media, gets cars broadly right",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-23T23:31:07.973597+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6: What Grady Judd, Ashley Moody and more have to say",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-23T23:31:10.209885+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Crosstown Traffic walkthrough",
-   "source": "VGC",
-   "trust": "high",
-   "status": "queued",
-   "ts": "2026-11-23T23:46:31.066358+00:00",
-   "card_title": "ПРОХОЖДЕНИЕ CROSSTOWN TRAFFIC"
-  },
-  {
-   "title": "GTA 6 Looks So Good That Real Photos and Videos Are Being Mistaken as Screenshots From the Game",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-23T23:47:37.489801+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "This GTA 6 infinite money 'glitch' got me $50,000 in 15 minutes",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-23T23:47:38.503637+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Can't Wait to Live Stream GTA 6? This Trick Lets You Play It On Your PC Now",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-23T23:47:45.159394+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "How to increase your Bond in GTA 6 (Jason & Lucia Romance)",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-23T23:48:04.894175+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "10 Hidden Controls Every 'GTA 6' Player Should Know",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-23T23:48:26.571494+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Do GTA 6 and Red Dead Redemption Take Place in the Same Universe? The Fan Theory Explained.",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-23T23:48:50.570806+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "‘Grand Theft Auto VI’ Players Are Learning That No Good Screenshot Goes Unpunished",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-23T23:48:58.191004+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "5 Embarrassingly Stupid Ways GTA 6 Players Have Gotten Themselves Killed",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-23T23:49:29.626787+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "‘GTA 6’ Boss Strauss Zelnick Among First Raft of SXSW London 2027 Speakers",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T00:05:50.449867+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 установила рекорд PS5: 39 млн игроков за 72 часа",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T00:06:58.528361+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "В GTA 6 нашли портал в GTA Vice City – как открыть",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T00:06:59.844470+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "The hacker behind early GTA VI leaks has been sentenced — and released",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T00:07:00.906104+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "D’Angelo’s Estate Releases Posthumous Song ‘Kamikazi’ for ‘GTA 6’: Singer ‘Approved This Track’ Before His Death",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-24T00:22:21.049989+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "D’Angelo’s posthumous song “Kamikazi” for GTA VI is released",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T00:23:09.402069+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 has a hidden Mario and Luigi Easter egg that lets Jason and Lucia dress like Nintendo's iconic plumbers",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T00:23:16.825257+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Call of Duty's Player Count Dropped by Over 40% Following GTA 6's Release, According to Analysts",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T00:23:21.941049+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6, Zelda and Resident Evil fans caught up in bizarre Metacritic ratings war",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T00:23:37.697828+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "All the 'GTA VI' Merch Drops You Need to Know About",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T00:23:43.223725+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "What Happens If You Go Back to Jason’s House in GTA 6?",
-   "source": "Insider Gaming",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-24T00:39:04.129411+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 привлекла 39 млн пользователей PS5 за первые дни",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T00:39:05.519799+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "‘GTA VI’ radio stations: Every celebrity DJ and host",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T00:39:06.659574+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Does GTA 6 Have a 60 FPS Mode? PS5, PS5 Pro and Xbox Explained",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T00:39:07.829881+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "'GTA 6 Online' rumors say you'll need to complete the game to play. Don't believe them.",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T00:39:09.584753+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "The first 'GTA 6' patch is live: 7 fixes address fan complaints",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T00:39:11.489003+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA VI Does What Most Video Games With Choice And Morality Systems Don't",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T00:39:12.354837+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "There’s an NPC in GTA 6 Who Knows He’s in a Video Game. Here’s How to Find His House.",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T00:39:14.177423+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Marks Biggest Launch in PlayStation History",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-24T00:54:34.373318+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Lets Players Revisit the Original Vice City, Here’s How",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-24T00:54:34.373360+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Easter Egg Opens a Portal to the Original 2002 Vice City",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T00:55:25.042208+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Just Gave a 50-Year-Old Country Classic an Unexpected Second Life With a New Generation",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T00:55:39.238274+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6's Jason Actor Had A Small Role On Modern Family",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T00:56:00.912969+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Should Christians Play GTA 6? Ruslan Warns About Nudity, Violence and Wasting Time",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T00:56:03.511024+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Power Trip is releasing new music… in GTA VI.",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T00:56:05.161498+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Sales Record, Miley Cyrus’ Wedding and a New ‘Home Alone’ Sequel Lead Entertainment News",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T00:56:24.111915+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "How to Get Tommy Vercetti's Shirt and Bike in GTA 6",
-   "source": "GTA BOOM",
-   "trust": "medium",
-   "status": "dup",
-   "ts": "2026-11-24T01:11:43.662910+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "How To Break Into The Mile Zero Military Base In GTA 6",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-24T01:11:43.715788+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Car Service walkthrough: How to steal the Schafter V12",
-   "source": "VGC",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-24T01:11:49.148850+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 had 39 million players on PS5 with high penetration rate, Sony confirms",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T01:11:53.035566+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Gilbert Arenas is latest NBA star to weigh in on GTA 6",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T01:11:54.445130+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "9 Ways 'GTA 6' Actually Got Worse After 13 Years (Rockstar Needs To Fix #3 ASAP)",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T01:12:07.663788+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA VI hacker released despite being sentenced to 7 years in UK prison",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T01:12:09.300366+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GameStop CEO says digital-only games hurt consumers as GTA VI ships without a disc",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T01:12:16.728389+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6's Criminal Profiles Explained",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T01:12:22.569070+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "This GTA 6 Glitch (Almost) Ruined The Game’s Most Iconic Scene",
-   "source": "GameSpot",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-24T01:27:43.887284+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "See the Biggest Stars Who Made Cameos in ‘GTA 6’",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T01:27:49.032969+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Player Gets Social Ban On PSN After Sending A Photo Of In-Game Nudity",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T01:27:56.105327+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "How GTA 6 made $3.79 billion on launch day",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T01:28:00.120887+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "17 часов в GTA 6 и всего 19% сюжета – игроки не спешат на миссии и просто изучают мир",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T01:28:01.439445+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Вылеты GTA 6 на PS5 помешали игрокам пройти первые сюжетные сцены",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T01:28:07.793508+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "How a Surprise D’Angelo Song Landed in GTA VI",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T01:28:09.200630+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Resident Evil Requiem засыпали нулями на Metacritic из-за GTA 6",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T01:28:11.060873+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6's First Post-Launch Patch Fixes Crashes, Stuck Weather, and Autosaves",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T01:28:31.883901+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Players Figure Out A Way To Remove Its Framerate Cap, But 60FPS Ain’t Happening Anytime Soon",
-   "source": "Kotaku",
-   "trust": "high",
-   "status": "queued",
-   "ts": "2026-11-24T01:47:34.714455+00:00",
-   "card_title": "СНЯТЬ ФПС-ЛИМИТ В GTA6"
-  },
-  {
-   "title": "One of GTA 6’s most elaborate Easter eggs has been solved",
-   "source": "VGC",
-   "trust": "high",
-   "status": "queued",
-   "ts": "2026-11-24T01:47:53.413888+00:00",
-   "card_title": "ЭЛИТНАЯ ПАССХАЛКА ПОРТАЛ 80‑Х"
-  },
-  {
-   "title": "GTA 6 Players Are Upset Its New Train Can Actually Be Stopped After Spending 13 Years With the Unstoppable GTA 5 Train",
-   "source": "IGN",
-   "trust": "high",
-   "status": "queued",
-   "ts": "2026-11-24T01:47:59.471224+00:00",
-   "card_title": "ОСТАНОВЛЕННЫЙ ТРЕН GTA 6"
-  },
-  {
-   "title": "GTA 6 Is So Unstoppable It's Even Made Nickelback Go Viral",
-   "source": "Polygon",
-   "trust": "high",
-   "status": "queued",
-   "ts": "2026-11-24T01:48:31.469829+00:00",
-   "card_title": "НИКЕЛБЭК В GTA 6"
-  },
-  {
-   "title": "Here Are All of the Best Clips From the World's First Weekend With GTA 6",
-   "source": "IGN",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-24T01:48:54.288835+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "How to Play GTA 6 at 60 FPS on PS5 and Xbox: Methods and Workarounds Explained",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T01:49:01.528406+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "D’Angelo’s Unheard ‘GTA VI’ Song Hits Streaming",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T01:49:11.315663+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Британского хакера приговорили к семи годам за утечку материалов GTA 6",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T01:49:12.075673+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Пользовательские оценки GTA 6 на Metacritic, повторяющие судьбу The Last of Us Part II, только дискредитируют платформу и сам формат таких ревью",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T01:49:17.794146+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "The 'GTA 6' cast has been revealed: Meet the voice actors behind Lucia, Jason and more",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T01:49:19.760766+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Все коды и пароли от дверей, сейфов и компьютеров в GTA 6",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T01:49:21.791788+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 leaker reportedly releases file needed to run leaked Xbox build",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T01:49:22.981592+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 was the ‘biggest launch in PlayStation history’ with over 39 million players",
-   "source": "VGC",
-   "trust": "high",
-   "status": "queued",
-   "ts": "2026-11-24T02:04:50.224898+00:00",
-   "card_title": "РЕКОРД НА PLAYSTATION"
-  },
-  {
-   "title": "GTA VI PS5 Ban Claim: 1 Report, 0 Sony Confirmations",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T02:05:11.130008+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Analyst upgrades GTA VI sales estimates from 39M to 48M by March 31 — will it be enough?",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T02:05:20.630552+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6: Telegram CEO Says Game’s ‘Least Realistic Thing’ Isn’t Bigfoot or Aliens, It’s This",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T02:05:22.000656+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Players Discover Fan-Favorite Character Is Actually This Beloved Netflix Show Star",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T02:05:23.801843+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "The Infamous GTA 6 Hacker Has Been Released After Pleading Guilty",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T02:05:26.858717+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Главное за день: порт GTA 6 на ПК, возвращение Хуанга и подешевение памяти",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T02:05:30.264653+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6's Lucia Actress Had A Role On Law & Order: Special Victims Unit",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T02:05:33.102433+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Was the Biggest Game Launch in PlayStation History With Over 39 Million Unique Players",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-24T02:20:53.837919+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Сможет ли GTA 6 легко выиграть звание «Игра года 2026»?",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T02:21:16.501108+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA VI Broke Every Record in 24 Hours, So Why Did Take-Two Shareholders Sell?",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T02:21:23.529409+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Использование FSR 4.1.2 в GTA 6 на Xbox Series X может снизить частоту кадров ниже 30 FPS",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T02:21:39.129726+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Jake Paul Responds After Paul vs Tyson Easter Egg Discovered in GTA 6",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T02:21:40.661464+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Моддеры запустили GTA VI для Xbox на ПК",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T02:21:53.647030+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Пользователь, который еще в 2023 году опубликовал верные утечки GTA 6, утверждает, что следующая игра Rockstar – L.A. Noire 2 о Зодиаке в Сан-Франциско",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T02:21:56.726956+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Энтузиасты запустили пролог GTA 6 на ПК спустя несколько часов после утечки EXE файла",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T02:21:58.746336+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA VI’s pretentious puzzler makes indie developers feel ‘part of larger culture’",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T02:22:00.668002+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Praised for Its Accurate Portrayal of Felon Rehabilitation",
-   "source": "IGN",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-24T02:37:17.888683+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Results in Call of Duty Losing Nearly Half of Its Player Base During Launch Weekend",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T02:37:50.264333+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Производительности PlayStation 6 не хватит для стабильных 60 fps в GTA VI — Kepler_L2",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T02:38:01.920370+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "PlayStation 5 Pro может вскоре получить патч с поддержкой 40 FPS для GTA 6",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T02:38:04.433165+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "В сети опубликовали геймплей GTA 6 от первого лица с активным фильтром DLSS 5",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T02:38:05.951000+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Стартовые продажи GTA 6 в несколько раз превзошли результат GTA 5",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T02:38:07.569395+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 PC Rumors: What's Real and What's Just Hype",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T02:38:09.086117+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "«Крупнейший релиз для PlayStation» — количество уникальных игроков GTA 6 на PS5 превысило 39 млн",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T02:53:30.855505+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "BRO…GTA 6 NPCs ARE ACTUALLY TERRIFYING 😭 They’ll just TELEPORT behind you out of nowhere and delete you… Rockstar cooked too hard with these demons 💀 Writer: Bri",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T02:53:32.699136+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Nick Eh 30 Unleashes Chaos in GTA VI Streams",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T02:53:33.815356+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA VI Hacker Forbidden From Using Telegram As Telegram Boss Declares Game Unrealistic For Not Using App In Crimes",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T02:53:42.903365+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA VI sets a record for launch revenue, according to Alinea Analytics.",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T02:53:45.019346+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 has been out less than a week, and a full PC port is already on its way",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T02:53:46.662696+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Players Are Convinced Rockstar Painted a Fake Tunnel Just to Trick Them Into a Looney Tunes-Style Crash",
-   "source": "IGN",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-24T03:09:05.706496+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "KFC Offers a Fried Chicken 'GTA 6' Replacement Disc",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T03:09:07.185367+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA VI Songs: Pulse Music's Got Game",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T03:09:08.499740+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "How to Get the Hellspawn Shotgun in GTA 6 – Satan Easter Egg Guide",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T03:09:09.966995+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Энтузиасты приступили к портированию GTA VI с Xbox на Windows",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T03:09:18.419201+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 7 is already being teased by Rockstar Games in GTA 6 - I'm convinced",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T03:24:41.259888+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "How to Play Grand Theft Auto VI in the Cloud and with Remote Play",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T03:24:42.679232+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "«Мы получим GTA 6 на PC раньше официального релиза» — слив файлов Grand Theft Auto 6 продолжается",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T03:40:06.348906+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA VI Launch Weekend Sees Nearly 45 Million Copies Sold",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T03:40:07.490952+00:00",
-   "card_title": ""
-  },
   {
    "title": "GTA 6 Was the Biggest Launch in PlayStation History With Over 39 Million Unique Players",
    "source": "Google News (EN)",
@@ -15531,6 +14501,54 @@
    "status": "skipped",
    "ts": "2026-11-26T03:19:06.604632+00:00",
    "card_title": ""
+  },
+  {
+   "title": "Никаких крайностей: Rockstar рассказала о балансе сложности в Grand Theft Auto",
+   "source": "iXBT.games",
+   "trust": "medium",
+   "status": "queued",
+   "ts": "2026-11-26T03:50:48.359053+00:00",
+   "card_title": "БАЛАНС СЛОЖНОСТИ GTA 6"
+  },
+  {
+   "title": "GTA 6's Map Has a Useful Feature I've Only Just Noticed",
+   "source": "Push Square",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-26T03:50:50.778584+00:00",
+   "card_title": "КАРТА ТЁМНЫЕ ЗДАНИЯ ВХОД"
+  },
+  {
+   "title": "How to Meet Cool Dog in GTA 6 and Ride to Dog Island",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-26T03:51:25.415992+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI удивила игроков погодой после обновления. Таких дождей в серии ещё не было",
+   "source": "iXBT.games",
+   "trust": "medium",
+   "status": "queued",
+   "ts": "2026-11-26T04:06:52.078418+00:00",
+   "card_title": "ГРЗА И ЛОКАЛЬНЫЙ ДОЖДЬ"
+  },
+  {
+   "title": "'South Park' Season 29 Finale: 'GTA 6,' Data Centers and Billionares",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T04:08:47.147610+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "‘South Park’ Celebrates ‘GTA VI’ But Outages, AI Data Centers & Zombie Kenny Stand In The Way In Season 29 Finale",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T04:08:56.197556+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -15859,6 +14877,64 @@
   },
   {
    "item": {
+    "title": "GTA 6's Map Has a Useful Feature I've Only Just Noticed",
+    "link": "https://www.pushsquare.com/news/2026/11/gta-6s-map-has-a-useful-feature-ive-only-just-noticed",
+    "summary": "You learn something new every day. I’ve tallied over 300 hours in GTA 6 so far, and today I learned something new. Forgive me if you already knew it, but I figured I’d share anyway as it never occurred to me in all my sessions so far. Read the full article on pushsquare.com",
+    "published": "2026-11-26T01:00:00+00:00",
+    "source": "Push Square",
+    "site_name": "Push Square",
+    "trust": "high",
+    "text": "I’ve tallied over 300 hours in GTA 6 so far, and today I learned something new.\nForgive me if you already knew it, but I figured I’d share anyway as it never occurred to me in all my sessions so far.\nOne of the big things about this new game is that you can go inside a lot of buildings. Each is uniquely furnished, and it’s all pretty unprecedented for an open world game, to be honest.\nHowever, not all houses can be entered, obviously.\nFor example, this house in Key Lento with the gnomes outside – I can’t go in:\nWell, today I learned that the map actually acknowledges this.\nThere are light grey buildings and dark grey buildings, as shown in screenshot below:\nSo let’s go to that dark grey building next door and see if we can go inside, shall we? It turns out we can:\nAnd it seems like the family living here are big sports fans:\nWhat’s the learning, then? Well, it’s simple: light grey buildings on the map can’t be entered and dark grey buildings can. I literally had no idea about this until a few hours ago.\nAs for that house I just broke into – well, they’ve got a cool car:\nI realised this within the first couple of hours, but I don't think the game tells you this so it's good for people who don't. 👍",
+    "extra": {
+     "image": "https://images.pushsquare.com/28170b445230c/large.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "🟪 Тёмные здания – входные, светлые – нет\n\nНаконец понял, почему часть домов в Key Lento закрыты – на карте они серые, но темные значит можно зайти. Фишка простая, но спасает кучу времени, так что проверяй цвета и врывайся в любой тёмный дом. 🤙",
+    "card_title": "КАРТА ТЁМНЫЕ ЗДАНИЯ ВХОД",
+    "reason": "Полезный секрет о механике карты в GTA 6, обнаруженный игроком после 300 часов.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": true,
+    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
+   },
+   "queued_at": "2026-11-26T03:50:50.778566+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA VI удивила игроков погодой после обновления. Таких дождей в серии ещё не было",
+    "link": "https://ixbt.games/news/2026/11/26/gta-vi-udivila-igrokov-pogodoi-posle-obnovleniia-takix-dozdei-v-serii-eshhe-ne-bylo.html",
+    "summary": "После первого обновления GTA VI игроки наконец увидели мощные грозы, густой туман и проливные дожди, а заодно оценили необычную систему погоды Rockstar, которая позволяет штормам накрывать лишь отдельные участки карты.",
+    "published": "2026-11-26T04:04:00+00:00",
+    "source": "iXBT.games",
+    "site_name": "iXBT.games",
+    "trust": "medium",
+    "text": "После первого обновления GTA VI игроки наконец увидели мощные грозы, густой туман и проливные дожди, а заодно оценили необычную систему погоды Rockstar, которая позволяет штормам накрывать лишь отдельные участки карты.\nВ первые дни после релиза пользователи Reddit и X жаловались, что в солнечной Леониде совершенно не бывает дождей, хотя Rockstar обещала впечатляющие погодные эффекты. Ситуация изменилась в понедельник, когда разработчики выпустили первое обновление и исправили ошибку, блокировавшую смену погоды.\nВпрочем, даже после установки патча некоторые игроки продолжают удивляться отсутствию осадков. Дело в том, что система погоды GTA VI устроена гораздо сложнее, чем в предыдущих частях серии и большинстве других игр с открытым миром. Если раньше дождь обычно накрывал всю карту одновременно, то теперь грозы, ливни и туман возникают локально.\nОсобенно хорошо это заметно во время полётов на самолёте. Игрок может лететь под ясным небом, увидеть впереди огромную стену тёмных грозовых облаков и внезапно оказаться внутри ливня с молниями. Стоит пересечь границу фронта и дождь так же быстро исчезает.\nTHIS ISN'T JUST RAIN. THIS IS ENVIRONMENTAL ARTISTRY AT AN ABSURD LEVEL! 🤯 Just look at the rain dripping off the sides of the bridge, the incredibly atmospheric overcast skies and the way the entire scene comes together. GTA 6 genuinely looks like a work of art! I'm quite\nИгроки также предполагают, что Rockstar намеренно ограничила количество непогоды в начале приключения, чтобы сохранить атмосферу отпуска. Пользователи, добравшиеся примерно до третьей главы, рассказывают, что у них дождь порой идёт несколько игровых дней подряд. Некоторые признаются, что в итоге начинают скучать по солнцу.\nНе пропускайте наши новостиДобавьте сайт в предпочитаемые источники, чтобы видеть нас чащеДобавить в Google",
+    "extra": {
+     "image": "https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1746458/a669e0d5-a414-4be4-a24b-dd30c63649b8.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "⚡️ Гроза в GTA 6: локальный дождь после патча\n\nНаконец в игре появились настоящие штормы – дождь теперь падает только в зоне фронта, а не по всей карте. Летай на самолёте, влетаешь в тёмную стену облаков и получаешь ливень в реальном времени. Это реально лютый апдейт, который делает мир живее 🌧",
+    "card_title": "ГРЗА И ЛОКАЛЬНЫЙ ДОЖДЬ",
+    "reason": "Официальное обновление добавило новые погодные эффекты, интересный контент для игроков",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "groq:openai/gpt-oss-120b → groq:openai/gpt-oss-120b"
+   },
+   "queued_at": "2026-11-26T04:06:52.078405+00:00"
+  },
+  {
+   "item": {
     "title": "Rob Nelson explains why Tennis & Theatres was removed from GTA 6",
     "link": "https://rockstarintel.com/rob-nelson-explains-why-tennis-theatres-was-removed-from-gta-6/",
     "summary": "In a recent Interview, Rob Nelson the Head Of Development at Rockstar North explained to PC Games why certain activities such as playing Tennis & going to the Cinema didn’t make it to the final version GTA6. Its been a week since Grand Theft Auto VI released, and we’ve been absolutely loving it, we cant [...] The post Rob Nelson explains why Tennis & Theatres was removed from GTA 6 appeared first on RockstarINTEL .",
@@ -15974,6 +15050,35 @@
     "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
    },
    "queued_at": "2026-11-26T01:30:12.579996+00:00"
+  },
+  {
+   "item": {
+    "title": "Никаких крайностей: Rockstar рассказала о балансе сложности в Grand Theft Auto",
+    "link": "https://ixbt.games/news/2026/11/26/nikakix-krainostei-rockstar-rasskazala-o-balanse-sloznosti-v-grand-theft-auto.html",
+    "summary": "Rockstar не хотела сделать игру слишком легкой.",
+    "published": "2026-11-26T00:04:00+00:00",
+    "source": "iXBT.games",
+    "site_name": "iXBT.games",
+    "trust": "medium",
+    "text": "Rockstar не хотела сделать игру слишком легкой.\nРазработчики Grand Theft Auto VI стремились найти золотую середину между сложностью GTA IV и доступностью GTA V. Об этом рассказал руководитель Rockstar North Роб Нельсон в интервью Destructoid, посвященном различным аспектам разработки долгожданной игры.\nПо словам Нельсона, команда прекрасно понимала, что сложность предыдущих частей серии не всегда была сбалансированной. В частности, GTA IV временами могла оказаться чрезмерно суровой по отношению к игрокам, тогда как GTA V, напротив, порой казалась слишком легкой. При создании шестой части Rockstar хотела избежать обеих крайностей.\nПродюсер по дизайну Скотт Митчелл добавил, что разработчики уделили особое внимание тому, чтобы игровые провалы и неудачи ощущались оправданными. Команда стремилась предоставить игрокам свободу в использовании доступных механик, включая скрытное прохождение, вместо того чтобы постоянно ограничивать их выбор.\nПри этом Rockstar не собиралась отказываться от характерной для серии кинематографичности, масштабных постановочных сцен и зрелищных перестрелок.\nМы сознательно старались сделать так, чтобы неудачи в GTA 6 были уместными и не использовались чрезмерно часто при проектировании миссий. Мы хотели сохранить свободу действий и не ограничивать использование игроками таких механик, как скрытность. Однако нам также было важно сохранить кинематографичность, высокую постановочную ценность и взрывные эпизоды, которыми известна наша серия и которых ожидают поклонники. Думаю, нам удалось найти хороший баланс.\nНельсон также объяснил, как именно команда подходила к настройке сложности. По его словам, дизайнеры обычно начинают с того, что делают свои игровые эпизоды слишком трудными, после чего постепенно корректируют их, добиваясь более комфортного прохождения.\nНе пропускайте наши новостиДобавьте сайт в предпочитаемые источники, чтобы видеть нас чащеДобавить в Google",
+    "extra": {
+     "image": "https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1746442/4588e36b-beab-447b-a9e3-9b64fd9c2868.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "🎮 Баланс сложности в GTA 6: Rockstar раскрыла детали\n\nРокстар сказал, что в новой GTA они нашли золотую середину между суровым GTA IV и лёгким GTA V. 🚀 Теперь провалы в миссиях будут уместными, а скрытность не будет подводить – лутим имбу без лишнего тильта!",
+    "card_title": "БАЛАНС СЛОЖНОСТИ GTA 6",
+    "reason": "Разработчики рассказали о балансе сложности между GTA 4 и GTA 5.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
+   },
+   "queued_at": "2026-11-26T03:50:48.359035+00:00"
   }
  ],
  "posts": [
@@ -22955,63 +22060,33 @@
  "rewrite_wait": [
   {
    "item": {
-    "title": "Никаких крайностей: Rockstar рассказала о балансе сложности в Grand Theft Auto",
-    "link": "https://ixbt.games/news/2026/11/26/nikakix-krainostei-rockstar-rasskazala-o-balanse-sloznosti-v-grand-theft-auto.html",
-    "summary": "Rockstar не хотела сделать игру слишком легкой.",
-    "published": "2026-11-26T00:04:00+00:00",
+    "title": "Сколько лет Люсии и Джейсону из GTA VI? Игроки нашли ответы в водительских правах",
+    "link": "https://ixbt.games/news/2026/11/26/skolko-let-liusii-i-dzeisonu-iz-gta-vi-igroki-nasli-otvety-v-voditelskix-pravax.html",
+    "summary": "Благодаря документам, спрятанным в мире игры, фанаты GTA VI узнали, когда родились Джейсон Дюваль и Люсия Каминос, насколько они разнятся в росте и сколько лет персонажам второго плана.",
+    "published": "2026-11-26T03:48:00+00:00",
     "source": "iXBT.games",
     "site_name": "iXBT.games",
     "trust": "medium",
-    "text": "Rockstar не хотела сделать игру слишком легкой.\nРазработчики Grand Theft Auto VI стремились найти золотую середину между сложностью GTA IV и доступностью GTA V. Об этом рассказал руководитель Rockstar North Роб Нельсон в интервью Destructoid, посвященном различным аспектам разработки долгожданной игры.\nПо словам Нельсона, команда прекрасно понимала, что сложность предыдущих частей серии не всегда была сбалансированной. В частности, GTA IV временами могла оказаться чрезмерно суровой по отношению к игрокам, тогда как GTA V, напротив, порой казалась слишком легкой. При создании шестой части Rockstar хотела избежать обеих крайностей.\nПродюсер по дизайну Скотт Митчелл добавил, что разработчики уделили особое внимание тому, чтобы игровые провалы и неудачи ощущались оправданными. Команда стремилась предоставить игрокам свободу в использовании доступных механик, включая скрытное прохождение, вместо того чтобы постоянно ограничивать их выбор.\nПри этом Rockstar не собиралась отказываться от характерной для серии кинематографичности, масштабных постановочных сцен и зрелищных перестрелок.\nМы сознательно старались сделать так, чтобы неудачи в GTA 6 были уместными и не использовались чрезмерно часто при проектировании миссий. Мы хотели сохранить свободу действий и не ограничивать использование игроками таких механик, как скрытность. Однако нам также было важно сохранить кинематографичность, высокую постановочную ценность и взрывные эпизоды, которыми известна наша серия и которых ожидают поклонники. Думаю, нам удалось найти хороший баланс.\nНельсон также объяснил, как именно команда подходила к настройке сложности. По его словам, дизайнеры обычно начинают с того, что делают свои игровые эпизоды слишком трудными, после чего постепенно корректируют их, добиваясь более комфортного прохождения.\nНе пропускайте наши новостиДобавьте сайт в предпочитаемые источники, чтобы видеть нас чащеДобавить в Google",
+    "text": "Благодаря документам, спрятанным в мире игры, фанаты GTA VI узнали, когда родились Джейсон Дюваль и Люсия Каминос, насколько они разнятся в росте и сколько лет персонажам второго плана.\nИгроки GTA VI выяснили точный возраст Люсии и Джейсона, обнаружив виртуальные водительские права персонажей. Заодно игроки узнали их рост и возраст нескольких второстепенных героев.\nСтаршим из главной пары оказался Джейсон Дюваль. Согласно документам, ему ровно 30 лет: он родился 1 мая 1996 года. Рост персонажа составляет 190 сантиметров.\nЕго спутница Люсия Каминос на четыре года младше – ей 26 лет. В водительских правах указана дата рождения 20 ноября 2000 года. Примечательно, что девушка отметила день рождения всего несколько дней назад, уже после выхода игры, однако большинство игроков, занятых исследованием Вайс-Сити, пропустили это событие.\nРазница в росте между героями тоже оказалась заметной. Люсия достигает всего 160 сантиметров, поэтому Джейсон выше на 30 сантиметров.\nI don't know if this already got shared, but these are the birthdates/infos of some characters in GTA VI: Lucia Caminos - 11/20/2000 - 5'3\" (~1,60m) Jason Duval - 01/05/1996 - 6'3\" (~1,90m) Andy Lee-Scott - 04/17/2001 - 5'5\" (~1,65m)\nПокопавшись в документах, игроки обнаружили сведения и о других персонажах. Например, Энди Ли-Скотту 25 лет при росте 165 сантиметров, а Дональду Картеру уже исполнилось 48 лет.\nНе пропускайте наши новостиДобавьте сайт в предпочитаемые источники, чтобы видеть нас чащеДобавить в Google",
     "extra": {
-     "image": "https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1746442/4588e36b-beab-447b-a9e3-9b64fd9c2868.jpg"
+     "image": "https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1746452/663bc3c3-1117-4b58-b2b7-1cc6a1ebe4b6.jpg"
     }
    },
    "verdict": {
     "type": "confirmed",
-    "importance": 6,
-    "post": "БАЛАНС сложности в GTA 6\n\nРазработчики признались, что хотели найти золотую середину между хардкорной четверкой и легкой пятеркой. Теперь фейлы в миссиях кажутся оправданными, а стелс наконец-то реально полезен, а не для галочки. Самое то для катки без лишней духоты.",
-    "card_title": "БАЛАНС СЛОЖНОСТИ В GTA 6",
-    "reason": "Разработчики рассказали о балансе сложности между GTA 4 и GTA 5.",
+    "importance": 7,
+    "post": "🗂 Возраст Джейсона и Люсии раскрыт!\n\nФанаты вытащили их водительские права и теперь знаем: Джейсон — 30 лет, 190 см, а Люсия — 26 лет, 160 см. Лайт‑рейд в Вайс‑Сити, теперь можно точнее обсуждать их диалоги и ростовые батлы. 🚗",
+    "card_title": "ВОЗРАСТ ДЖЕЙСОНА И ЛЮСИИ",
+    "reason": "Подтверждённые игровые документы, интересны фанатам лора",
     "duplicate": false,
     "corroborated": false,
     "duplicate_of": "",
     "corroborated_by": "",
     "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
+    "model": "groq:openai/gpt-oss-120b"
    },
    "corr": false,
-   "since": "2026-11-26T00:10:17.964020+00:00"
-  },
-  {
-   "item": {
-    "title": "GTA 6's Map Has a Useful Feature I've Only Just Noticed",
-    "link": "https://www.pushsquare.com/news/2026/11/gta-6s-map-has-a-useful-feature-ive-only-just-noticed",
-    "summary": "You learn something new every day. I’ve tallied over 300 hours in GTA 6 so far, and today I learned something new. Forgive me if you already knew it, but I figured I’d share anyway as it never occurred to me in all my sessions so far. Read the full article on pushsquare.com",
-    "published": "2026-11-26T01:00:00+00:00",
-    "source": "Push Square",
-    "site_name": "Push Square",
-    "trust": "high",
-    "text": "I’ve tallied over 300 hours in GTA 6 so far, and today I learned something new.\nForgive me if you already knew it, but I figured I’d share anyway as it never occurred to me in all my sessions so far.\nOne of the big things about this new game is that you can go inside a lot of buildings. Each is uniquely furnished, and it’s all pretty unprecedented for an open world game, to be honest.\nHowever, not all houses can be entered, obviously.\nFor example, this house in Key Lento with the gnomes outside – I can’t go in:\nWell, today I learned that the map actually acknowledges this.\nThere are light grey buildings and dark grey buildings, as shown in screenshot below:\nSo let’s go to that dark grey building next door and see if we can go inside, shall we? It turns out we can:\nAnd it seems like the family living here are big sports fans:\nWhat’s the learning, then? Well, it’s simple: light grey buildings on the map can’t be entered and dark grey buildings can. I literally had no idea about this until a few hours ago.\nAs for that house I just broke into – well, they’ve got a cool car:\nI realised this within the first couple of hours, but I don't think the game tells you this so it's good for people who don't. 👍",
-    "extra": {
-     "image": "https://images.pushsquare.com/28170b445230c/large.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 6,
-    "post": "🗺 Гайд: как понять, в какие дома можно зайти\n\nСветлые и темные здания\n\nНе все двери открыты, чел. Смотри на карту: светло-серые здания глухие, а темно-серые — имба для грабежа и поиска крутых тачек. Затестим в катке!",
-    "card_title": "КАК ОТЛИЧИТЬ ДОМА В GTA 6",
-    "reason": "Полезный секрет о механике карты в GTA 6, обнаруженный игроком после 300 часов.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": true,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-26T00:56:53.688555+00:00"
+   "since": "2026-11-26T04:08:11.718388+00:00"
   }
  ]
 }
