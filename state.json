@@ -4596,7 +4596,12 @@
   "9403aabaad2dbdf3": "2026-11-26T02:32:19.288596+00:00",
   "a1a54616f05bcaec": "2026-11-26T02:47:45.118331+00:00",
   "85c56c0230ba8863": "2026-11-26T02:47:49.566181+00:00",
-  "5df9647ec06abe91": "2026-11-26T02:47:55.129678+00:00"
+  "5df9647ec06abe91": "2026-11-26T02:47:55.129678+00:00",
+  "46d728286d6ec42b": "2026-11-26T03:03:39.534155+00:00",
+  "e47f2164db68a7b3": "2026-11-26T03:19:03.120321+00:00",
+  "53a64b984b3a4ed0": "2026-11-26T03:19:04.086726+00:00",
+  "f4c8483e4dc771de": "2026-11-26T03:19:05.339034+00:00",
+  "b735a4ba14041275": "2026-11-26T03:19:06.604498+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -7671,7 +7676,12 @@
   "a13b25896e5a0e48": "2026-11-26T02:32:19.288596+00:00",
   "5fb1d46f276dee35": "2026-11-26T02:47:45.118331+00:00",
   "611252a5c12c439d": "2026-11-26T02:47:49.566181+00:00",
-  "c6877455c147a093": "2026-11-26T02:47:55.129678+00:00"
+  "c6877455c147a093": "2026-11-26T02:47:55.129678+00:00",
+  "8b66d00ce2699b3d": "2026-11-26T03:03:39.534155+00:00",
+  "ef7c89615534552c": "2026-11-26T03:19:03.120321+00:00",
+  "dd85d72f82b080c7": "2026-11-26T03:19:04.086726+00:00",
+  "093107ffc7bfb0ba": "2026-11-26T03:19:05.339034+00:00",
+  "1bb5fc9e8154684d": "2026-11-26T03:19:06.604498+00:00"
  },
  "recent": [
   {
@@ -15480,6 +15490,46 @@
    "trust": "rumor",
    "status": "skipped",
    "ts": "2026-11-26T02:47:59.775193+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 PC Leak: 1 Xbox Build, 0 Official PC Dates",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T03:03:39.534275+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "The Weeknd’s ‘GTA VI’ Song Was Called Game-Exclusive. Here’s What Justice Actually Said",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T03:19:03.120451+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Site lets gamers play GTA 6 for free, as alternative to PS5 or Xbox cloud gaming",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T03:19:04.086867+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Rockstar Hired a Gran Turismo World Finalist to Work on GTA 6’s Car Physics",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T03:19:05.339171+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "«Зачем её проходить, если сюжетка унылая?» Korb3n не видит смысла в стримах по GTA 6",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T03:19:06.604632+00:00",
    "card_title": ""
   }
  ],
