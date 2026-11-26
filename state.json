@@ -4983,7 +4983,25 @@
   "e01c21e2b64f3b68": "2026-11-26T16:49:26.071628+00:00",
   "f6b3e8ac252d596e": "2026-11-26T16:49:29.795851+00:00",
   "0c42952e39458d59": "2026-11-26T16:49:34.627907+00:00",
-  "5d57a23aa708d6d2": "2026-11-26T16:49:40.621578+00:00"
+  "5d57a23aa708d6d2": "2026-11-26T16:49:40.621578+00:00",
+  "9fec5944e7419a10": "2026-11-26T17:05:01.974327+00:00",
+  "108baee074564fee": "2026-11-26T17:05:07.649174+00:00",
+  "ddaa206be70c3d98": "2026-11-26T17:05:10.646198+00:00",
+  "30f0dcbdf84eb08d": "2026-11-26T17:05:14.599573+00:00",
+  "986b1360a7528dc5": "2026-11-26T17:05:16.804215+00:00",
+  "cd0ee7dd218e7daa": "2026-11-26T17:05:19.055931+00:00",
+  "1df06fc3e2c12500": "2026-11-26T17:05:21.197924+00:00",
+  "b5a8af42c7309c64": "2026-11-26T17:05:24.763945+00:00",
+  "a7bb6544010bc681": "2026-11-26T17:05:26.574460+00:00",
+  "3bceda071b0c10ab": "2026-11-26T17:20:48.822650+00:00",
+  "65a9f3d3f597d64d": "2026-11-26T17:20:54.111575+00:00",
+  "bd72968340c3f699": "2026-11-26T17:21:02.212917+00:00",
+  "43f2509977913c6e": "2026-11-26T17:21:20.570365+00:00",
+  "ed47adfecbf5f156": "2026-11-26T17:21:29.841892+00:00",
+  "1c15f73abb7723dd": "2026-11-26T17:21:35.506395+00:00",
+  "b047f31d9cb263d4": "2026-11-26T17:21:41.384414+00:00",
+  "094c368164f5520c": "2026-11-26T17:21:45.382198+00:00",
+  "8fc396257754fe5e": "2026-11-26T17:21:49.497311+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -8354,7 +8372,25 @@
   "2f5e15b1af27af0a": "2026-11-26T16:49:26.071628+00:00",
   "f9d666f09468b636": "2026-11-26T16:49:29.795851+00:00",
   "4162389f858e82b8": "2026-11-26T16:49:34.627907+00:00",
-  "254b3e198178dff9": "2026-11-26T16:49:40.621578+00:00"
+  "254b3e198178dff9": "2026-11-26T16:49:40.621578+00:00",
+  "f521f4ba9843b213": "2026-11-26T17:05:01.974327+00:00",
+  "27150b608f860945": "2026-11-26T17:05:07.649174+00:00",
+  "7538d7e00cfd69c5": "2026-11-26T17:05:10.646198+00:00",
+  "d57a6bdb3fb79035": "2026-11-26T17:05:14.599573+00:00",
+  "f74c58f55630181d": "2026-11-26T17:05:16.804215+00:00",
+  "8d74de2b0502ffca": "2026-11-26T17:05:19.055931+00:00",
+  "3715cdc216439001": "2026-11-26T17:05:21.197924+00:00",
+  "0a3071a80952fa39": "2026-11-26T17:05:24.763945+00:00",
+  "398582871f4f0f94": "2026-11-26T17:05:26.574460+00:00",
+  "2400e2cb320b4cc3": "2026-11-26T17:20:48.822650+00:00",
+  "bc96e2ea2644a571": "2026-11-26T17:20:54.111575+00:00",
+  "ad0376a73b0ff33a": "2026-11-26T17:21:02.212917+00:00",
+  "6ab501fd1f8faf88": "2026-11-26T17:21:20.570365+00:00",
+  "3c5cce8fec3a561d": "2026-11-26T17:21:29.841892+00:00",
+  "3607a82b96714a3d": "2026-11-26T17:21:35.506395+00:00",
+  "2cf5209293652cf6": "2026-11-26T17:21:41.384414+00:00",
+  "979940e81ee59217": "2026-11-26T17:21:45.382198+00:00",
+  "773ba1b3676373af": "2026-11-26T17:21:49.497311+00:00"
  },
  "recent": [
   {
@@ -15827,6 +15863,126 @@
    "trust": "rumor",
    "status": "skipped",
    "ts": "2026-11-26T16:49:40.621713+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 через Xbox Cloud Gaming показала задержку 184,5 мс на Xbox One",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-26T17:05:01.974375+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Grand Theft Auto VI: Прохождение всех миссий — Глава 4 «Вайс-Сити, детка»",
+   "source": "StopGame",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-26T17:05:07.649292+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GitHub удалила 3007 репозиториев с портами GTA 6 после жалобы Take-Two",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T17:05:10.646342+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Workers At GTA 6 Studio Rockstar Games Vote Overwhelmingly Against Union Recognition",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T17:05:14.599698+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "\"This was unlike anything else we've ever seen before\" - but GTA 6's success is limited by the console install base, and its future rests on PC",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T17:05:16.804363+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 via Xbox Cloud Gaming showed a latency of 184,5 ms on Xbox One",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T17:05:19.056060+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Rockstar Games Justifies One of GTA 6’s Most Controversial Decisions and Explains Why It Removed a Feature Fans Loved",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T17:05:21.198067+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Chainsaws 'Would Have Been Too Much' Even for GTA 6, as Rockstar Explains Why Some Extra Violent Weapons Are Missing",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T17:05:24.764088+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Why The GTA 6 Team Photo Became A Flashpoint For The Gaming Industry's Diversity Problem",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T17:05:26.574606+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Where to find the Ocelot Jugular's location in GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-26T17:20:48.822697+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 вышла на ПК — фанаты выпустили неофициальный порт с PS5",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T17:21:29.842015+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6's Billy Motorcycle Crew Side Quests Explained",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T17:21:35.506520+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Отношения Джейсона и Лусии в GTA 6 — почему о них спорят игроки",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T17:21:41.384540+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Rockstar Explains Why Some Extra Violent Weapons Like Chainsaws and Katanas Are Missing From GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T17:21:45.382332+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Owners Radeon RX 9070 XT Optimal frame generation settings for GTA 6 revealed",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T17:21:49.497438+00:00",
    "card_title": ""
   }
  ],
@@ -23594,6 +23750,96 @@
    },
    "corr": true,
    "since": "2026-11-26T16:49:33.184002+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA 6 Developers Have Voted Against Unionization by 75% to 25%",
+    "link": "https://www.polygon.com/rockstar-game-workers-union-vote-gta-6/",
+    "summary": "Rockstar Games workers have rejected a union deal with the IWGB as Grand Theft Auto 6 breaks records",
+    "published": "2026-11-26T17:16:26+00:00",
+    "source": "Polygon",
+    "site_name": "Polygon",
+    "trust": "high",
+    "text": "Rockstar Games' UK workforce has voted firmly against unionization the week after the studio's latest game, Grand Theft Auto 6, demolished sales records.\nThe vote was 25% in favor of and 75% against a recognition agreement with the IWGB Game Workers Union. It's a decisive result, especially considering a 93.2% turnout for the vote, with 1,544 employees from Rockstar's offices in Edinburgh, Leeds, Lincoln, Dundee, and London participating.\nThe two-week ballot coincided not just with GTA 6's launch, but with an employment tribunal hearing over the firing of 31 Rockstar workers in 2025. Rockstar argued the workers had leaked company secrets, while the IWGB characterized the action as union-busting. A judgment in the case is pending.\nThe union can continue to represent individual members, and Rockstar staff remain free to organize over pay, overtime, and other issues, but Rockstar management will not be formally required to meet or negotiate with union reps.\nRockstar Games head of publishing Jennifer Kolbe said in a statement that the company was \"extraordinarily proud of our team, the culture we've built together and the launch of GTA 6.\"\n\"This result reflects our team's strong support for continuing the direct relationships, collaboration and open dialogue that have helped make Rockstar Games so innovative and strong,\" Kolbe said. \"As we look ahead, we're excited to build on all we've accomplished together.\"\nIn its own statement, the IWGB vowed to fight on. \"For anyone at Rockstar who believes in a fairer workplace, a fairer sector and a fairer society - this isn’t a sign to retreat, it’s a sign to double down on what we stand for,\" the union said. \"Hundreds of our coworkers voted in favour of our union at Rockstar, yet sadly we recognise we have more work to do to build understanding and win the trust of more of our colleagues. We’re ready to put in the effort to make that happen.\"",
+    "extra": {
+     "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/jason_and_lucia_15-1.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "РАБОТНИКИ Rockstar против профсоюза\n\nСотрудники студии в Британии проголосовали против официального признания профсоюза IWGB — против высказались 75% при огромной явке.\n\n❤️ — База, сами разберутся\n👎 — Зря они так",
+    "card_title": "РАБОТНИКИ ROCKSTAR ПРОТИВ ПРОФСОЮЗА",
+    "reason": "Официальная новость от Polygon о том, что сотрудники Rockstar проголосовали против профсоюза.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "Workers At GTA 6 Studio Rockstar Games Vote Overwhelmingly Against Union Recognition",
+    "corroborated_by": "Workers At GTA 6 Studio Rockstar Games Vote Overwhelmingly Against Union Recognition",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": true,
+   "since": "2026-11-26T17:20:58.362282+00:00"
+  },
+  {
+   "item": {
+    "title": "\"Where's the ding?!!\" - I asked the PowerWash Simulator 2 team what they thought of Jason's nozzle work in GTA 6",
+    "link": "https://www.eurogamer.net/gta-6-powerwashing-powerwash-simultor-futurlab",
+    "summary": "Among the many, many side activities you can do in GTA 6 , there's powerwashing. Relatively early on, as part of Chapter 1's Down to Earth mission , Jason whips out his nozzle and blasts Brian's boat to a gleaming sheen. Disappointingly for powerwashing fans, though, it's a bit of a one-and-done gag, never to return. But powerwashing is powerwashing, and we immediately wondered what the experts made of it all. Had Rockstar, with its legendary attention to detail, accurately captured the intricacies of powerwashing in those leisurely moments of carefree squirting? Read more",
+    "published": "2026-11-26T17:07:50+00:00",
+    "source": "Eurogamer",
+    "site_name": "Eurogamer",
+    "trust": "high",
+    "text": "Among the many, many side activities you can do in GTA 6, there's powerwashing. Relatively early on, as part of Chapter 1's Down to Earth mission, Jason whips out his nozzle and blasts Brian's boat to a gleaming sheen. Disappointingly for powerwashing fans, though, it's a bit of a one-and-done gag, never to return. But powerwashing is powerwashing, and we immediately wondered what the experts made of it all. Had Rockstar, with its legendary attention to detail, accurately captured the intricacies of powerwashing in those leisurely moments of carefree squirting?\nA question had been asked and an answer was required. So who better to cast judgement on the authenticity of Jason's sway-and-spraying than FuturLab, the studio behind the delightfully zen PowerWash Simulator series? Thus, in a moment of whimsy, I asked if it might like to 'review' GTA 6's hosiest activity. At best, I was hoping for a cheeky little statement; I certainly wasn't expecting a big chunk of the PowerWash Simulator 2 team to join in the fun. \"Fair to say,\" the intermediary PR noted, \"the Futurlab team was excited about this one!\"\nSo what's the verdict? Let us turn to the pros. \"They've got the sounds and satisfaction of clearly a nice shiny flat surface just right,\" PowerWash Simulator 2 lead game designer Nick McCarthy opined, \"but where's the ding!? 0/10, needs 200 percent more layers of muck and 20 percent more parkour.\" And quickly a trend emerged. \"Great visuals, satisfying feel, but lacks the crucial ding and went by too quickly to listen to a podcast,\" senior programmer Will Dyball wrote. Then still more sadness for the lack of PowerWash Simulator's most motivating sound: \"Didn't hear a ding,\" associate publishing producer Jess Crosby added. \"Must have missed a bit.\"\nA few team members spotted some powerwashing faux pas. \"No soap?\" wrote 3D artist Eilidh Norris. \"Rookie mistake, Jason.\" Programmer Jordan Lewis also reckoned Jason was making things unnecessarily hard for himself: \"[He'd] have had an easier time had he taken the time to upgrade his washer and purchased some more nozzles,\" they wrote. \"PS. Soap would have gotten that off in a flash.\" Others had safety concerns: \"I find Jason's lack of protective overalls disturbing,\" said 3D artist Rory Peace, and data principal Russell Young agreed. \"Clean speedboat, ruined clothes. Don't want to bring them 'Down to Earth', but we need to talk about PPE.\" People advisor Sarah Robshaw, meanwhile, spotted a more heinous omission: \"Wher",
+    "extra": {
+     "image": "https://assetsio.gnwcdn.com/gta-powerwash-header.png?width=690&quality=85&format=jpg&auto=webp"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "Эксперты оценили мойку лодки\n\nСоздатели PowerWash Simulator затестили миссию с мойкой катера в GTA 6 и выдали вердикт. Звуки топ, но где легендарный ДИНГ и мыло, Джейсон? 0/10, рофл.\n\n❤️ — Ждем колобу с PowerWash\n👎 — Душно, верните перестрелки",
+    "card_title": "ОЦЕНКА POWERWASH SIMULATOR",
+    "reason": "Разработчики PowerWash Simulator оценили миссию с мойкой лодки в GTA 6",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-26T17:21:06.488940+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA VI получила патч с 60 FPS для PS5 — без помощи Rockstar Games",
+    "link": "https://ixbt.games/news/2026/11/26/gta-vi-polucila-patc-s-60-fps-dlia-ps5-bez-pomoshhi-rockstar-games.html",
+    "summary": "Моддеры нашли способ убрать ограничение.",
+    "published": "2026-11-26T16:48:00+00:00",
+    "source": "iXBT.games",
+    "site_name": "iXBT.games",
+    "trust": "medium",
+    "text": "Grand Theft Auto VI пока официально вышла только на консолях PlayStation 5 и Xbox Series X|S. Игрокам, в том числе и на PlayStation 5 Pro, доступен режим с 30 FPS, но некоторые хотели бы получить более высокую частоту кадров.\nВозможность поиграть в режиме «60 FPS» теперь появилась: для Grand Theft Auto VI вышел специальный патч, который снимает ограничение 30 FPS, но есть нюанс. Это неофициальный релиз: данный патч выпустили моддеры для взломанных консолей PlayStation 5.\nПользователь под ником a_Criminai опубликовал на форуме, посвящённом взлому PlayStation 5, специальный патч. По его словам, он не просто разблокирует в Grand Theft Auto VI частоту кадров, но и устраняет сбои анимации и физики, ранее наблюдавшиеся при запуске игры на Xbox Series X|S с высокой частотой кадров.\nПо словам моддера, проблема заключается в том, что Rockstar Games в Grand Theft Auto VI привязала дельта-время к частоте кадров. По его словам, эта проблема легко устраняется.\nОжидается, что наибольшую выгоду от патча получат игроки на PlayStation 5 Pro. Патч лишь снимает ограничение частоты кадров: на практике вместо желанных «60 FPS» игроки наблюдают в среднем порядка 45 FPS.\nНе пропускайте наши новостиДобавьте сайт в предпочитаемые источники, чтобы видеть нас чащеДобавить в Google",
+    "extra": {
+     "image": "https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1746742/media-59af20088fb4c92b102417cfe7a65e8465ee31f258d4ce27cf6d68b6315e9f65.png"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "МОДДЕРЫ ЗАВЕЗЛИ 60 FPS\n\nЭнтузиасты сделали то, чего ждали все: выпустили неофициальный патч для взломанных PS5, который снимает лок в 30 кадров. Правда, вместо стабильных 60 выдает около 45, но лиха беда начало, катка станет плавне.\n\n❤️ — Ждем официал\n👎 — Страх сломать консоль",
+    "card_title": "ПАТЧ НА 60 FPS ДЛЯ PS5",
+    "reason": "Modders released an unofficial 60 FPS patch for PS5, highly interesting for tech-savvy gamers.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "Моддеры выпустили неофициальный патч для запуска GTA 6 с частотой до 60 кадров на взломанной PS5 Pro",
+    "corroborated_by": "Моддеры выпустили неофициальный патч для запуска GTA 6 с частотой до 60 кадров на взломанной PS5 Pro",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-26T17:21:25.136384+00:00"
   }
  ]
 }
