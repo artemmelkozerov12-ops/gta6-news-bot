@@ -5167,7 +5167,11 @@
   "bad472e6550ca67a": "2026-11-26T22:35:52.518471+00:00",
   "6e5f08865918af52": "2026-11-26T22:51:08.836532+00:00",
   "ce418f0364b4c64f": "2026-11-26T22:51:10.185336+00:00",
-  "d520d2955d14a207": "2026-11-26T22:51:16.689766+00:00"
+  "d520d2955d14a207": "2026-11-26T22:51:16.689766+00:00",
+  "f27d58d22a236dfc": "2026-11-26T23:06:37.348332+00:00",
+  "c428d1c86e2ab849": "2026-11-26T23:21:54.376593+00:00",
+  "8d5c4b06272ec0b2": "2026-11-26T23:21:57.894200+00:00",
+  "cda8a58cf1209582": "2026-11-26T23:22:05.893900+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -8669,7 +8673,11 @@
   "c824493f6529e4d3": "2026-11-26T22:35:52.518471+00:00",
   "64329058c86e8e3a": "2026-11-26T22:51:08.836532+00:00",
   "1735ccd4c62e0b0a": "2026-11-26T22:51:10.185336+00:00",
-  "4efb22baf99e44ee": "2026-11-26T22:51:16.689766+00:00"
+  "4efb22baf99e44ee": "2026-11-26T22:51:16.689766+00:00",
+  "66512c433284b393": "2026-11-26T23:06:37.348332+00:00",
+  "fc57d50a6a5ccec9": "2026-11-26T23:21:54.376593+00:00",
+  "05a4ae2b86ae15bb": "2026-11-26T23:21:57.894200+00:00",
+  "9aa635bf2b580c97": "2026-11-26T23:22:05.893900+00:00"
  },
  "recent": [
   {
@@ -16559,6 +16567,38 @@
    "status": "skipped",
    "ts": "2026-11-26T22:51:16.689911+00:00",
    "card_title": ""
+  },
+  {
+   "title": "'The Results Are Very, Very Impressive' - Digital Foundry Praises GTA 6 On Xbox One",
+   "source": "Pure Xbox",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-26T23:06:36.308841+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Игроки обнаружили в GTA 6 на PS5 пасхалки к фильмам Челюсти, Оно и Пила",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T23:06:37.348455+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How Many Endings Does GTA 6 Have? Everything We Know So Far",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T23:21:57.894331+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Features Unreleased D'Angelo Song 'Kamikazi'",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T23:22:05.894021+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -23499,36 +23539,6 @@
  "rewrite_wait": [
   {
    "item": {
-    "title": "'The Results Are Very, Very Impressive' - Digital Foundry Praises GTA 6 On Xbox One",
-    "link": "https://www.purexbox.com/news/2026/11/the-results-are-very-very-impressive-digital-foundry-praises-gta-6-on-xbox-one",
-    "summary": "\"﻿Latency is also exceptional - at least in context.\". The smartypants over at Digital Foundry are still putting in the work, this time going deep into the nitty gritty of how well GTA 6 performs when streamed through the Xbox Cloud Gaming app on Xbox One. Following their rigorous testing on Xbox Series X and Series S, PS5 and PS5 Pro, the boffin boys have now spent a good week putting streamed performance, latency and image quality under the cosh. Read the full article on purexbox.com",
-    "published": "2026-11-26T19:00:00+00:00",
-    "source": "Pure Xbox",
-    "site_name": "Pure Xbox",
-    "trust": "high",
-    "text": "The smartypants over at Digital Foundry are still putting in the work, this time going deep into the nitty gritty of how well GTA 6 performs when streamed through the Xbox Cloud Gaming app on Xbox One.\nFollowing their rigorous testing on Xbox Series X and Series S, PS5 and PS5 Pro, the boffin boys have now spent a good week putting streamed performance, latency and image quality under the cosh.\nXbox Cloud Gaming is streamed from Microsoft servers which means the version of GTA 6 you'll be playing is the Xbox Series S version. Of course, this means the drawbacks present on the Series S version are also present in the Xbox Cloud streamed one.\n\"Let's start with nuts and bolts of the experience. As with other Xbox Cloud Gaming titles, which are streamed from Microsoft servers rather than your own console, the version of GTA 6 you're getting here is the Xbox Series S version. That means a few things just by the nature of the Series S port itself - slightly ropey performance, quality setting cutbacks across the board and a 720p base image upscaled to 1080p using FSR 4.1. However, you do at least get all of the game's major effects intact, including ray-traced lighting, ray-traced reflections and strand-based hair.\"\nPerformance begins where you'd expect on Xbox Series S, clocking around 20-30FPS. However, Digital Foundry notes that \"frame pacing is significantly worse than the real deal, with quicker 16.7ms frames and slower 50.0ms frames surrounding the expected 33.3ms ones.\"\nFrom their Xbox One Cloud tests, they used an ethernet connection, and were genuinely impressed with GTA 6's image quality. They mentioned the game isn't \"significantly degraded by the streaming process\", with little visible compression or artefacting when in motion. Stood still, it's hardly noticeable too.\nStreaming GTA 6 at 1440p (via Xbox Game Pass Ultimate on One S or X) also appears to benefit from a higher bitrate than usual, with DF stating it gets a \"higher bitrate than that afforded to other games\". For context, GTA 6 streamed at about 37mbps, compared to the recently released Control: Resonant, which only got 15-27mbps.\nLatency also looks to be the big winner in testing. Digital Foundry tested GTA 6 running natively on Xbox Series S with the streamed version on Xbox One, finding the latter only added a mere 9ms to latency. Barely noticeable.\n\"Latency is also exceptional - at least in context. We measured around an extra 9ms of added latency compared to running GTA 6 locally on Ser",
-    "extra": {
-     "image": "https://images.purexbox.com/29d839fd208da/large.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "GTA 6 на Xbox One\n\nDigital Foundry затестили облачный гейминг GTA 6 на старом добром Xbox One через хмару. Результаты прям сочные: задержка минимальная, а картинка пушка, хоть железо и выдает версию с Series S с лучами!",
-    "card_title": "GTA 6 НА XBOX ONE",
-    "reason": "Digital Foundry tested GTA 6 via cloud on Xbox One and praised the impressive results.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "'The Results Are Very, Very Impressive' - Digital Foundry Praises GTA 6 On Xbox One — Google News (EN)",
-    "corroborated_by": "'The Results Are Very, Very Impressive' - Digital Foundry Praises GTA 6 On Xbox One — Google News (EN)",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-26T19:16:37.631150+00:00"
-  },
-  {
-   "item": {
     "title": "Rockstar boss was \"praying\" that GTA 6's early plot twist wouldn't leak \"given everything that we've gone through\"",
     "link": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-boss-was-praying-that-gta-6s-early-plot-twist-wouldnt-leak-given-everything-that-weve-gone-through/",
     "summary": "\"It's meant to shock,\" says Rob Nelson",
@@ -23736,6 +23746,36 @@
    },
    "corr": false,
    "since": "2026-11-26T22:35:49.876037+00:00"
+  },
+  {
+   "item": {
+    "title": "The GTA 6 Soundtrack Took Over Spotify and Revived a Decade-Old Song",
+    "link": "https://www.gtaboom.com/the-gta-6-soundtrack-took-over-spotify-and-revived-a-decade-old-song-8f22",
+    "summary": "US streams of Carly Rae Jepsen’s 2015 song Run Away With Me jumped 940% the day after it played in an early Grand Theft Auto VI scene.",
+    "published": "2026-11-26T23:13:44+00:00",
+    "source": "GTA BOOM",
+    "site_name": "GTA BOOM",
+    "trust": "medium",
+    "text": "Justice's \"Flower in A Hurricane\" topped Spotify’s global daily chart on November 23. The Grand Theft Auto 6 artist page has climbed past 43 million monthly listeners and Spotify has handed the game its own corner of the app.\nThe centerpiece is a dedicated GTA 6 soundtrack destination Spotify opened across 33 markets on November 20, a day after the game arrived. It gathers the Official Playlist of new originals from Dua Lipa, Playboi Carti and Lana Del Rey, more than 20 playlists pulled from Leonida's in-game radio stations and a GTA Series Museum that picks one iconic track from each past game. Flash FM even returns from Vice City with Robyn hosting. The scale is real, with Spotify telling IGN that Official Playlist streams rose 275% worldwide and 355% in the United States the week of launch.\nSpotify's own account posted that \"Flower in A Hurricane\" pulled 10 million US streams. The track also topped Spotify’s US daily chart on November 23.\nThe new songs are only half the story. The series' real trick is the one it has pulled since the Grand Theft Auto: San Andreas days, dragging old records back into rotation. Carly Rae Jepsen's 2015 \"Run Away With Me\" jumped 940% in US streams the day after a pivotal early scene put it in players' ears.\nWhat sets this stretch apart from past Grand Theft Auto music moments is permanence. A trailer used to spike a song for a week. The hub turns the whole soundtrack into a standing destination that keeps filling as players unlock radio stations and Rockstar Games adds music, which is how an album that did 41 million streams in a day could feed months of listening instead of one chart cycle.\nOff the back of the biggest launch in entertainment history, the soundtrack is not spiking. It is settling in.\nThe one number everyone will quote is Spotify's 10 million. The quieter headline is the bigger one, GTA 6 has turned its radio dial into the most powerful playlist in music.\nSpeaking of radio, did you know that the ability to listen to music on foot was a feature Rockstar had considered since Grand Theft Auto: Vice City in 2002? Also, this in-game podcast just hinted at the future of the Grand Theft Auto V trio.\nHave you even opened the Spotify hub or are you just letting the radio play?\nOnce a post receives 3 qualifying Helpful marks\nCarly Rae Jepsen going up 940% after a decade because GTA 6 put her in one cutscene is just nothing short of amazing. No other game on earth moves music like this.\nTake-Two Is Rebuilding Vice City",
+    "extra": {
+     "image": "https://media.gtaboom.com/variants/1920/media/images/a0/4b/the-gta-6-soundtrack-took-over-spotify-and-revived-a-decade-old-song.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "МУЗЫКА ИЗ GTA 6 РАЗРЫВАЕТ CHаРТЫ\n\nСаундтрек игры захватил Spotify: трек Justice взлетел на вершину, а старый хит Карли Рэй Джепсен прибавил почти 1000% прослушиваний после одной кат-сценки. Имба-радиостанции Leonida работают на все сто.\n\n❤️ — Уже добавил в плейлист\n👎 — Гоняю со стандартным радио",
+    "card_title": "САУНДТРЕК GTA 6 ВЗОРВАЛ SPOTIFY",
+    "reason": "Саундтрек GTA 6 порвал Spotify и оживил старые треки, официальные данные от сервиса.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "GTA VI causes major surge in Spotify streams of a Carly Rae Jepsen classic",
+    "corroborated_by": "GTA VI causes major surge in Spotify streams of a Carly Rae Jepsen classic",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-26T23:21:56.324008+00:00"
   }
  ]
 }
