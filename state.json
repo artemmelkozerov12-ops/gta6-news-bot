@@ -4620,7 +4620,11 @@
   "5ea76bb38cc0a14b": "2026-11-26T05:11:25.701614+00:00",
   "823a2d331ccfb301": "2026-11-26T05:26:51.677654+00:00",
   "ddbf550d2c37cec2": "2026-11-26T05:26:56.606253+00:00",
-  "78d1ba2c5922dfe5": "2026-11-26T05:42:21.097074+00:00"
+  "78d1ba2c5922dfe5": "2026-11-26T05:42:21.097074+00:00",
+  "379c8237733676e6": "2026-11-26T05:58:06.171488+00:00",
+  "01909cf7b66fd143": "2026-11-26T06:13:34.174859+00:00",
+  "477529ff75016370": "2026-11-26T06:13:35.500933+00:00",
+  "5e68052bd7d96eb9": "2026-11-26T06:13:36.680794+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -7719,7 +7723,11 @@
   "b4af7efc06bb4b10": "2026-11-26T05:11:25.701614+00:00",
   "722d667df9f3e192": "2026-11-26T05:26:51.677654+00:00",
   "8a4e185be9d6a2de": "2026-11-26T05:26:56.606253+00:00",
-  "411caeda9fdafdc7": "2026-11-26T05:42:21.097074+00:00"
+  "411caeda9fdafdc7": "2026-11-26T05:42:21.097074+00:00",
+  "2d0ec72108d5e484": "2026-11-26T05:58:06.171488+00:00",
+  "157e4cd055a29084": "2026-11-26T06:13:34.174859+00:00",
+  "e6340c1148475651": "2026-11-26T06:13:35.500933+00:00",
+  "d4012287f4549303": "2026-11-26T06:13:36.680794+00:00"
  },
  "recent": [
   {
@@ -14689,6 +14697,38 @@
    "status": "skipped",
    "ts": "2026-11-26T05:42:28.098528+00:00",
    "card_title": ""
+  },
+  {
+   "title": "Witcher 4 vs Witcher 3: CD Projekt RED обещает скачок, сравнимый с GTA 6",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T05:58:06.171616+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Лусия из GTA 6 настолько сильная, что ставит обратно на колёса целый самосвал",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T06:13:34.174981+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Cyberpunk 2 director calls GTA 6 a “creative miracle” and says his own sequel will have a different flavour",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T06:13:35.501065+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "‘We built an entirely new system for this game to capture dialogue dynamic range and model how it propagates through space’ — GTA 6 dev explains the intricacies of Leonida’s sound design that creates a ‘sense of deep immersion’",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T06:13:36.680945+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -15071,7 +15111,9 @@
     "guide": false,
     "model": "groq:openai/gpt-oss-120b → groq:openai/gpt-oss-120b"
    },
-   "queued_at": "2026-11-26T04:06:52.078405+00:00"
+   "queued_at": "2026-11-26T04:06:52.078405+00:00",
+   "moderation": "pending",
+   "draft_msg_id": 173
   },
   {
    "item": {
@@ -15254,7 +15296,8 @@
   "2026-11-25T18:30:22.933992+00:00",
   "2026-11-25T19:30:49.885794+00:00",
   "2026-11-25T20:31:08.281051+00:00",
-  "2026-11-25T21:38:36.246061+00:00"
+  "2026-11-25T21:38:36.246061+00:00",
+  "2026-11-26T06:00:44.673199+00:00"
  ],
  "slots_sent": {
   "2026-11-24:guide:1": "2026-11-24T14:08:00.473378+00:00",
