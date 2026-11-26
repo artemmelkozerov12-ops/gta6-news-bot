@@ -5138,7 +5138,22 @@
   "8429793e2d6a99be": "2026-11-26T21:02:37.631743+00:00",
   "8b9528b128767801": "2026-11-26T21:02:38.810130+00:00",
   "324290f6bbd912c8": "2026-11-26T21:17:53.504759+00:00",
-  "38334811d21e23c6": "2026-11-26T21:17:54.365958+00:00"
+  "38334811d21e23c6": "2026-11-26T21:17:54.365958+00:00",
+  "26e82627964bbb93": "2026-11-26T21:33:12.893911+00:00",
+  "a4836666c84f7f8f": "2026-11-26T21:33:24.465695+00:00",
+  "e8d7b98e80ff1689": "2026-11-26T21:33:26.349351+00:00",
+  "2359b602d597f4a8": "2026-11-26T21:33:31.927790+00:00",
+  "c1f726bb0e77b2bb": "2026-11-26T21:33:52.012795+00:00",
+  "916064560d663aa7": "2026-11-26T21:49:08.419608+00:00",
+  "5b8a5521668aa595": "2026-11-26T21:51:41.955057+00:00",
+  "7f89ff3c492c53d6": "2026-11-26T21:51:42.887428+00:00",
+  "c94c35be8d0c156f": "2026-11-26T21:51:43.782830+00:00",
+  "73054ab07f9d6944": "2026-11-26T21:51:44.803961+00:00",
+  "de27d156ec9c7961": "2026-11-26T21:52:35.988442+00:00",
+  "6bed11ec8098473d": "2026-11-26T21:52:36.791947+00:00",
+  "4618bc5d80035163": "2026-11-26T21:52:54.181772+00:00",
+  "69114c904063f9c7": "2026-11-26T21:52:59.511041+00:00",
+  "1170b36315303bd1": "2026-11-26T21:53:54.043839+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -8620,7 +8635,13 @@
   "4636ba8c984fbac3": "2026-11-26T21:02:37.631743+00:00",
   "0a03cf084347c63b": "2026-11-26T21:02:38.810130+00:00",
   "3f342a382e7f8707": "2026-11-26T21:17:53.504759+00:00",
-  "99db2a83ea1071f0": "2026-11-26T21:17:54.365958+00:00"
+  "99db2a83ea1071f0": "2026-11-26T21:17:54.365958+00:00",
+  "aed994eb73f27252": "2026-11-26T21:33:12.893911+00:00",
+  "dc04e8d2927e0edb": "2026-11-26T21:33:24.465695+00:00",
+  "1f9b268c5bd548c5": "2026-11-26T21:33:26.349351+00:00",
+  "cbee06660d6434b0": "2026-11-26T21:33:31.927790+00:00",
+  "b7677fc442d99b44": "2026-11-26T21:33:52.012795+00:00",
+  "f17750a6fce56f5e": "2026-11-26T21:49:08.419608+00:00"
  },
  "recent": [
   {
@@ -16342,6 +16363,54 @@
    "status": "skipped",
    "ts": "2026-11-26T21:17:54.366088+00:00",
    "card_title": ""
+  },
+  {
+   "title": "Никакого тенниса, крафта и кинотеатров: какие механики вырезали из GTA 6 при разработке",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T21:33:24.465842+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Increases physical game and console sales in the UK.",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T21:33:26.349490+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 останавливает игрока встречным транспортом для подгрузки карты",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T21:33:31.927939+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Доминиканец в селе скачал 92% GTA 6 за неделю из-за медленного интернета",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T21:33:52.012925+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Top 10 Fastest Motorcycles In GTA 6—All Locations & How To Get Them",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-26T21:49:07.645251+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "After removing GTA 6 PC ports, GitHub celebrates app popular in PS5 piracy groups",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T21:49:08.419736+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -16705,37 +16774,6 @@
   },
   {
    "item": {
-    "title": "Мужчина вызвал полицию на бывшую девушку из-за GTA VI: она лишила его доступа к Xbox",
-    "link": "https://ixbt.games/news/2026/11/26/muzcina-vyzval-policiiu-na-byvsuiu-devusku-iz-za-gta-vi-ona-lisila-ego-dostupa-k-xbox.html",
-    "summary": "Американка отвязала своего бывшего мужчину от своего Xbox-аккаунта в дни релиза GTA VI. Обиженный геймер попытался обвинить её в краже через полицию.",
-    "published": "2026-11-26T07:30:00+00:00",
-    "source": "iXBT.games",
-    "site_name": "iXBT.games",
-    "trust": "medium",
-    "text": "Американка отвязала своего бывшего мужчину от своего Xbox-аккаунта в дни релиза GTA VI. Обиженный геймер попытался обвинить её в краже через полицию.\nВыход GTA VI обернулся необычным семейным конфликтом в США: жительница штата Вашингтон отключила бывшего партнёра от своей учётной записи Xbox, после чего тот обратился в полицию, обвинив женщину в мошенничестве с банковской картой.\nСиара Бенсон рассказала эту историю в TikTok. По её словам, бывший возлюбленный по имени Джон на протяжении шести лет пользовался её аккаунтом Xbox. Женщина решила вернуть себе полный контроль над профилем: удалила привязанные устройства, завершила все сеансы, сменила пароль и установила дополнительные ограничения. Неудачно для Джона это совпало с покупкой новой GTA, из-за чего он лишился возможности нормально встретить релиз.\nСиара объяснила, что решение связано и с конфликтом из-за их общего сына. По её словам, бывший партнёр отказывался участвовать в содержании ребёнка, поэтому она больше не хотела делиться с ним аккаунтом. Первое видео набрало почти миллион просмотров, но на этом история не закончилась: Джон обратился в полицию, заявив о мошенничестве с банковской картой.\nВ следующем ролике женщина рассказала о разговоре с правоохранителями. Она пояснила, что удалила из аккаунта все способы оплаты, которые ей не принадлежали. Полицейские также посмотрели её предыдущую публикацию и, по словам Сиары, не обнаружили признаков преступления. В итоге женщине просто передали копию отчёта о вызове.\nИстория закончилась неожиданно: один из полицейских даже поинтересовался, нравится ли ей GTA VI и успел ли поиграть её сын. Пользователи TikTok активно обсуждали произошедшее и делились похожими историями. Одна из комментаторов рассказала, что её бывший муж пытался включить персонажа из World of Warcraft в условия развода.\nНе пропускайте наши новостиДобавьте сайт в предпочитаемые источники, чтобы видеть нас чащеДобавить в Google",
-    "extra": {
-     "image": "https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1746535/07fb2f79-34f5-4098-8cc5-4ea6305c397d.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "🚔 Бывшая отрезала от GTA 6 — чел вызвал КОПОВ\n\nАмериканка отвязала экс-бойфренда от своего Xbox-аккаунта прямо на релизе игры, потому что он отказывался помогать с сыном. Парень словил лютый тильт и заявил в полицию о мошенничестве с картой, но копы криминала не нашли — один даже спросил, как ей игра.\n\n❤️ — Права, нефиг халявить\n👎 — Отбирать GTA 6 — слишком жестоко",
-    "card_title": "ВЫЗВАЛ КОПОВ ИЗ-ЗА GTA 6",
-    "reason": "Забавная и скандальная история про полицию из-за релиза GTA 6",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-4-hydrogen"
-   },
-   "queued_at": "2026-11-26T09:23:46.966761+00:00",
-   "moderation": "pending",
-   "draft_msg_id": 179
-  },
-  {
-   "item": {
     "title": "How to Find and Complete the Biker Hideout Illegal Operation in GTA 6—All Key Valuables",
     "link": "https://insider-gaming.com/gta-6-biker-hideout-all-key-valuables/",
     "summary": "Here’s a guide on how to find the Biker Hideout Alley illegal operation in GTA 6 and grabbing all it’s key valuables. The post How to Find and Complete the Biker Hideout Illegal Operation in GTA 6—All Key Valuables appeared first on Insider Gaming .",
@@ -16910,36 +16948,6 @@
   "2026-11-26T18:29:20.883321+00:00"
  ],
  "clips": [
-  {
-   "clip": {
-    "source": "twitch",
-    "url": "https://www.twitch.tv/nickeh30/clip/HeartlessSolidJalapenoKappaWealth-BqLPL7JBp3dcH7Ig",
-    "title": "EvilEh30",
-    "author": "NickEh30",
-    "views": 461,
-    "duration": 15.0,
-    "created": "2026-11-25T02:50:15+00:00",
-    "lang": "en",
-    "description": "",
-    "vod_id": "2939401420",
-    "vod_offset": 40809.0
-   },
-   "caption": "Пожарка в GTA 6 — это лютая имба, разносит всё на пути как не в себя. Чел просто устроил настоящий хаос на пляже, ору 💀",
-   "interest": 8,
-   "spoiler": false,
-   "nsfw": false,
-   "watched": true,
-   "model": "gemini:gemini-3.1-flash-lite",
-   "media": {
-    "width": null,
-    "height": 720,
-    "duration": 15
-   },
-   "queued_at": "2026-11-25T21:48:55.259063+00:00",
-   "file_id": "BAACAgIAAxkDAAOsawdXycJHQsPAZhAbFdwgDa8RGG4AAgi7AAImEThIiYYLfRuyZqs9BA",
-   "moderation": "pending",
-   "draft_msg_id": 172
-  },
   {
    "clip": {
     "source": "twitch",
@@ -17209,6 +17217,36 @@
    "file_id": "BAACAgIAAxkDAAO_awib0CRZeLdWzSYOEP_pw0IMls4AAru3AAJzy0FIZxuYWiZZH249BA",
    "moderation": "pending",
    "draft_msg_id": 191
+  },
+  {
+   "clip": {
+    "source": "twitch",
+    "url": "https://www.twitch.tv/lru_rose/clip/AmazingFamousPheasantCoolCat-HGI4pmHPJny7793y",
+    "title": "Обезьяна бекон",
+    "author": "LRU_ROSE",
+    "views": 300,
+    "duration": 27.4,
+    "created": "2026-11-26T17:23:34+00:00",
+    "lang": "ru",
+    "description": "",
+    "vod_id": "2941377523",
+    "vod_offset": 7007.0
+   },
+   "caption": "Чел решил ночью заглянуть в лес и встретил люто агрессивного кабана. Жиза, в Леониде лучше не гулять после закатов 💀",
+   "interest": 9,
+   "spoiler": false,
+   "nsfw": false,
+   "watched": true,
+   "model": "gemini:gemini-3.5-flash-lite",
+   "media": {
+    "width": null,
+    "height": 720,
+    "duration": 27
+   },
+   "queued_at": "2026-11-26T21:53:58.811335+00:00",
+   "file_id": "BAACAgIAAxkDAAPAawiqd9Wz7LH6N_wXnSklwMcIavAAAui3AAJzy0FIjN6YaNF5cb89BA",
+   "moderation": "pending",
+   "draft_msg_id": 192
   }
  ],
  "clip_drafts": [
@@ -17231,7 +17269,8 @@
   "2026-11-26T12:33:49.935242+00:00",
   "2026-11-26T13:38:03.020667+00:00",
   "2026-11-26T19:47:30.183798+00:00",
-  "2026-11-26T20:51:28.947882+00:00"
+  "2026-11-26T20:51:28.947882+00:00",
+  "2026-11-26T21:54:00.092981+00:00"
  ],
  "clip_history": [
   {
@@ -22692,6 +22731,92 @@
    "ts": "2026-11-26T20:51:28.947898+00:00",
    "frames": [],
    "caption": "СПОЙЛЕР. Лусия застала Джейсона в неловкой ситуации — сюжетка в GTA 6 это чистый рофл 💀"
+  },
+  {
+   "author": "youtube:shehzadgaming4k",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 | DAY  9 | JET HEiST 😶‍🌫️",
+   "drafted": false,
+   "ts": "2026-11-26T21:51:41.955091+00:00"
+  },
+  {
+   "author": "youtube:bucketjosh",
+   "vod": "",
+   "offset": -1,
+   "title": "Bro is LONG gone 😭 #GTA6",
+   "drafted": false,
+   "ts": "2026-11-26T21:51:42.887462+00:00"
+  },
+  {
+   "author": "youtube:cano",
+   "vod": "",
+   "offset": -1,
+   "title": "REALMENTE EL AUTOBUS FUNCIONA EN GTA 6?",
+   "drafted": false,
+   "ts": "2026-11-26T21:51:43.782874+00:00"
+  },
+  {
+   "author": "youtube:coolestzeglnayt",
+   "vod": "",
+   "offset": -1,
+   "title": "When Every Youtuber QUIT ROBLOX FOR GTA 6... #caylus #steak #gta6 #edit #ishowspeed",
+   "drafted": false,
+   "ts": "2026-11-26T21:51:44.804008+00:00"
+  },
+  {
+   "author": "youtube:brunelviss games",
+   "vod": "",
+   "offset": -1,
+   "title": "Se ele não fugir da polícia no GTA 6, a polícia REAL vai ser chamada!",
+   "drafted": false,
+   "ts": "2026-11-26T21:52:35.988487+00:00"
+  },
+  {
+   "author": "twitch:dinicetea",
+   "vod": "2941627224",
+   "offset": 2997.0,
+   "title": "гг",
+   "drafted": false,
+   "ts": "2026-11-26T21:52:36.791992+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:illojuan",
+   "vod": "2941530066",
+   "offset": 9476.0,
+   "title": "AIM",
+   "drafted": false,
+   "ts": "2026-11-26T21:52:54.181810+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:adm1tr1pow",
+   "vod": "2941509019",
+   "offset": 6037.0,
+   "title": "нейрослоп гайд xdd",
+   "drafted": false,
+   "ts": "2026-11-26T21:52:59.511085+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:lru_rose",
+   "vod": "2941377523",
+   "offset": 7007.0,
+   "title": "Обезьяна бекон",
+   "drafted": false,
+   "ts": "2026-11-26T21:53:54.043882+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:lru_rose",
+   "vod": "2941377523",
+   "offset": 7007.0,
+   "title": "Обезьяна бекон",
+   "drafted": true,
+   "ts": "2026-11-26T21:54:00.093000+00:00",
+   "frames": [],
+   "caption": "Чел решил ночью заглянуть в лес и встретил люто агрессивного кабана. Жиза, в Леониде лучше не гулять после закатов 💀"
   }
  ],
  "published": [
@@ -23226,36 +23351,6 @@
  "rewrite_wait": [
   {
    "item": {
-    "title": "Top 10 Fastest Motorcycles In GTA 6—All Locations & How To Get Them",
-    "link": "https://insider-gaming.com/top-10-fastest-motorcycles-gta-6-all-locations/",
-    "summary": "Here's the top 10 fastest motorcycles in Grand Theft Auto 6, as well as where you can find each one scattered across Leonida. The post Top 10 Fastest Motorcycles In GTA 6—All Locations & How To Get Them appeared first on Insider Gaming .",
-    "published": "2026-11-26T17:39:22+00:00",
-    "source": "Insider Gaming",
-    "site_name": "Insider Gaming",
-    "trust": "medium",
-    "text": "Grand Theft Auto 6 features over 500 vehicles for you to get behind the wheel of, and whilst most of them are cars, there’s an incredible selection of motorcycles to pick from as well, and a ton of them know how to test the speed limits.\nWhether you’re racing through the streets of Vice City or simply looking for the perfect getaway vehicle, speed is always going to come in handy. Thankfully, of the nearly 80 motorcycles in the game, a lot of them are incredibly high-performance, though finding them can be a bit tricky.\nWith that in mind, here are the 10 fastest motorcycles in GTA 6, as well as how you can get your hands on each one.\nYou can buy Grand Theft Auto 6 here if you haven’t already!\nThe fastest motorcycle in Grand Theft Auto 6 is the Principe Burnished Alvino.\nThis is one of the many Standout Vehicles in GTA 6, with the Principe Alvino being the base model of the motorcycle. But if you’re looking for speed on two wheels, you’ll find no better than the Principe Burnished Alvino.\nRelated: Top 20 Fastest Cars In GTA 6—All Locations & How To Get Them\nThe best part about this motorcycle, though, is that it’s pretty easy to get a hold of, with no Trackers to deal with or Key Cloners necessary to take control. Better yet, it’s pretty cheap to register, too! But where do you find it? Find out further below.\nOf all the 77 motorcycles to be found in Grand Theft Auto 6, the ones listed below are the 10 fastest, strictly according to the in-game Speed stat.\nAnd of these 10 vehicles, five of them are Standouts, meaning you’ll have to go hunting in specific locations if you want to get your hands on them—but more on that later.\nRelated: Where to Find All of Randy’s Wishlist Supercars in GTA 6—Car Locations & Tips\nFor now, check out the complete table for the 10 fastest motorcycles in GTA 6:\nWhere To Find The 10 Fastest Motorcycles In GTA 6\nIt’s all well and good knowing what the 10 fastest motorcycles are in Grand Theft Auto 6, but the real question is: how do you get your hands on them for yourself?\nLuckily for you, we have all of the answers. Below you’ll find the locations for all 10 of the motorcycles mentioned in the table above.\nYou’ll find the Principe Burnished Alvino parked on Starfish Island. Head to the exact location marked on the maps above, and it’ll be there tucked away in a garage on the property—just beware of the security on the island.\nGetting a hold of Emilio’s Lectro is as easy as going to the location marked on the maps above and breaking",
-    "extra": {
-     "image": "https://insider-gaming.com/wp-content/uploads/2026/11/Grand-Theft-Auto-VI_20261126163915-scaled.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 6,
-    "post": "🗺 Гайд: Где искать топ-мотоциклы\n\nСобрали инфу, где найти самые быстрые байки в игре для лютых гонок по Вайс-Сити.\n\nPrincipe Burnished Alvino ждет на Старфиш-Айленд — ищи в гараже на районе, только палитра охранников.\n\n❤️ — Ууу, летим!\n👎 — Душно, пешком быстрее",
-    "card_title": "САМЫЕ БЫСТРЫЕ МОТОЦИКЛЫ В GTA 6",
-    "reason": "Гайд по поиску самых быстрых мотоциклов в игре",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": true,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-26T17:53:17.459547+00:00"
-  },
-  {
-   "item": {
     "title": "Rockstar boss knew some GTA 6 players would \"reject\" the criminal profile system",
     "link": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-boss-knew-some-gta-6-players-would-reject-the-criminal-profile-system-but-assures-you-can-still-do-whatever-you-wanted-to-do-before/",
     "summary": "Grand Theft Auto 6 \"opens a new range of choices and decisions\"",
@@ -23493,6 +23588,36 @@
    },
    "corr": false,
    "since": "2026-11-26T21:02:34.371920+00:00"
+  },
+  {
+   "item": {
+    "title": "Lucia Actress Manni L. Perez Issues First Statement Since GTA 6 Launch",
+    "link": "https://www.ign.com/articles/lucia-actress-manni-l-perez-issues-first-statement-since-gta-6-launch",
+    "summary": "Manni L. Perez, the actress who plays Lucia in GTA 6, has issued her first statement since the game came out.",
+    "published": "2026-11-26T21:02:21+00:00",
+    "source": "IGN",
+    "site_name": "IGN",
+    "trust": "high",
+    "text": "\"Life has been such a whirlwind these past couple of days...\"\nManni L. Perez, the actress who plays Lucia in GTA 6, has issued her first statement since the game came out.\nPerez’s role as Lucia Caminos was confirmed when she was nominated in the Best Performance category for this year’s The Game Awards, a day before GTA 6 launched on November 19. She’s now considered the favorite following the game’s critically acclaimed, record-breaking launch.\nNow, a week later, Perez took to social media to thank fans for the reception to GTA 6.\n“Life has been such a whirlwind these past couple of days and I just want to take a moment to say thank you,” an Instagram Stories post began.\n“Thank you to all the new followers, to all the beautiful messages, and the positive reception the game and my character have received.\n“I've dedicated almost a decade bringing Lucia to life. She's been such a significant part of mine and I am beyond grateful she now gets to be a small part of yours.”\nPerez is an actress with a smattering of credits to her acting resume, including TV guest roles in Jessica Jones, Chicago P.D., and Law & Order: Special Victims Unit. While she hasn't been up to much else over the past few years, it's easy to know why — GTA 6 sounds like it was a pretty involved project. Indeed, Lucia isn’t Perez's first GTA role. In GTA 5, she plays the background character of \"Clubber #2,\" while in GTA Online she voices a blackjack dealer.\nMeanwhile, Jason actor Dylan Rourke also posted a message of gratitude on Instagram Stories, saying: “Thankful for this wild ride. Gratitude won’t cut it. Make today about the ones you love.”\nManni L. Perez shouldn't be confused with Manny Perez, who plays Raul Bautista in GTA 6. This week, Manny Perez bought a PS5 just so he could play the game, saying in a video posted to social media: “Guy, I’m playing and this s**t is crazy! Look how real that looks. I’m learning, I’m loving this, it’s crazy.”\nOther GTA 6 actors who've started to talk about their work on the game include Lexie Shoaibi, who recently spoke out about her \"bittersweet\" newfound fame after her character, Mandy, went viral online, and Cocoteo FM radio host Issa Lopez, who described the wild non-disclosure agreement she had to sign before working on the game.\nLast month, the actors behind GTA 5's Franklin, Michael, and Trevor shared their advice for GTA 6's cast in a bid to ready them for the kind of fame few video game actors achieve.\nJust getting started in GTA 6 or wonde",
+    "extra": {
+     "image": "https://assets-prd.ignimgs.com/2026/11/26/gtavi-38-1795726955205.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "ЛЮСИЯ РИЛ ЗАВЕЗЛА БАЗУ\n\nМанни Л. Перес, подарившая голос и образ Люсии, впервые высказалась после релиза. Актриса почти 10 лет пилила эту роль и теперь кайфует от вайба и поддержки фанатов в катке.\n\n❤️ — Ждем от нее оскар\n👎 — Ждем патч на ПК",
+    "card_title": "АКТРИСА ЛЮСИИ ВЫШЕЛА НА СВЯЗЬ",
+    "reason": "Официальное обращение актрисы озвучки Люсии после рекордового запуска игры.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "I've Dedicated Almost a Decade Bringing Lucia to Life — GTA 6 Actress Manni L. Perez Breaks Silence in First Statement Since Launch — Google News (EN)",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-26T21:33:18.110073+00:00"
   }
  ]
 }
