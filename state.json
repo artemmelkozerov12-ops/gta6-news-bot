@@ -5094,7 +5094,17 @@
   "155a6c0c01932ab5": "2026-11-26T19:47:01.795149+00:00",
   "373912920ac203e7": "2026-11-26T19:47:08.570290+00:00",
   "03d8cdfc27122397": "2026-11-26T19:47:20.329502+00:00",
-  "436d8c87cd47d2a1": "2026-11-26T19:48:32.818673+00:00"
+  "436d8c87cd47d2a1": "2026-11-26T19:48:32.818673+00:00",
+  "95d7dd68cdc10283": "2026-11-26T20:03:54.932433+00:00",
+  "4e00d38baedbac5d": "2026-11-26T20:03:56.898281+00:00",
+  "8c695e5bb28d85af": "2026-11-26T20:03:59.006992+00:00",
+  "250564bf7b78b74f": "2026-11-26T20:04:01.111588+00:00",
+  "c6a637baf60370ce": "2026-11-26T20:04:02.093563+00:00",
+  "808bce4a3941a9ae": "2026-11-26T20:04:03.139545+00:00",
+  "03829427ca4f2f6e": "2026-11-26T20:04:04.276155+00:00",
+  "2500591ac638f3d5": "2026-11-26T20:04:05.621935+00:00",
+  "6005d526f6212329": "2026-11-26T20:19:26.861810+00:00",
+  "537cf2c9a23ee815": "2026-11-26T20:19:27.867430+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -8549,7 +8559,17 @@
   "34b4d56512af0745": "2026-11-26T19:32:42.717503+00:00",
   "980183d08ecb43b4": "2026-11-26T19:32:43.862980+00:00",
   "b371b1fe7b12024e": "2026-11-26T19:33:17.534298+00:00",
-  "7a9f91c09435b785": "2026-11-26T19:48:32.818673+00:00"
+  "7a9f91c09435b785": "2026-11-26T19:48:32.818673+00:00",
+  "e37357cee8b24287": "2026-11-26T20:03:54.932433+00:00",
+  "d75d6cb4d10afdfd": "2026-11-26T20:03:56.898281+00:00",
+  "92fb40dcf979ae34": "2026-11-26T20:03:59.006992+00:00",
+  "c17ceeb93f11ace5": "2026-11-26T20:04:01.111588+00:00",
+  "263c880312cc3568": "2026-11-26T20:04:02.093563+00:00",
+  "24bca2b83b67b703": "2026-11-26T20:04:03.139545+00:00",
+  "b49c02df14c896e0": "2026-11-26T20:04:04.276155+00:00",
+  "029db5a5928de666": "2026-11-26T20:04:05.621935+00:00",
+  "82cdce7b11189fc6": "2026-11-26T20:19:26.861810+00:00",
+  "c45d1cf16a049bd1": "2026-11-26T20:19:27.867430+00:00"
  },
  "recent": [
   {
@@ -16775,6 +16795,94 @@
    "status": "skipped",
    "ts": "2026-11-26T19:48:32.818796+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GTA 6 is Reportedly the Biggest Physical Launch in the UK Since 2019",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-26T20:03:53.395557+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to steal the Bravado Banshee in GTA 6",
+   "source": "PC Gamer",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-26T20:03:53.395637+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "All 61 GTA 6 Cheat Codes Have Been Found",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-26T20:03:57.553477+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "What’s the Easiest Bank to Rob in GTA 6—Easiest $200,000 Bank Heist Location",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-26T20:03:59.705266+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to Unlock Hurricanes in GTA 6 (And Score a Pretty Sweet Car in the Process)",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T20:04:01.111729+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "This Black Friday shopping hack could help you save $15 on 'GTA 6' for PS5",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T20:04:02.093693+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "As GTA 6 PC port projects make significant progress, its first unofficial mod menu and launcher have surfaced",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T20:04:03.139695+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6’s violence has consequences, and Rockstar’s Rob Nelson explains why",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T20:04:04.276298+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Ограбление трейлер-парка «Восход» в ГТА 6. Код от сейфа и все важные ценности",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T20:04:05.622084+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "PlayStation and Xbox sales more than double as GTA 6 gives consoles a much-needed boost",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T20:19:26.861972+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "In Graphic Detail: The GTA 6 creator industrial complex",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T20:19:27.867584+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -24341,66 +24449,6 @@
  "rewrite_wait": [
   {
    "item": {
-    "title": "GTA 6 is Reportedly the Biggest Physical Launch in the UK Since 2019",
-    "link": "https://insider-gaming.com/gta-6-biggest-physical-launch-uk/",
-    "summary": "A new report reveals that GTA 6 is the biggest physical launch in the UK since 2019, generating £32 million in revenue within three days. The post GTA 6 is Reportedly the Biggest Physical Launch in the UK Since 2019 appeared first on Insider Gaming .",
-    "published": "2026-11-26T15:52:29+00:00",
-    "source": "Insider Gaming",
-    "site_name": "Insider Gaming",
-    "trust": "medium",
-    "text": "GTA 6 has ended up becoming the biggest physical launch in the UK since 2019 with its code-in-the-box copies.\nRockstar’s latest installment has been constantly breaking records since launch day. PlayStation has already announced that since its release, GTA 6 has been able to pull in close to 40 million players to the title. Interestingly, it’s not even been a week since the game launched, and it could break even more records along the way.\nGTA 6’s Physical Launch Generates £32 Million in Revenue in the UK in Three Days\nA report by The Game Business reveals that GTA 6 is the biggest physical launch in the UK since FIFA 20 in 2019. The game has generated £32 million in revenue in just three days and ranks 17th among the top 20 biggest physical launches since the UK started recording them in 1995. Moreover, the game sold over one million boxed copies in France within three days and has become Spain’s biggest physical retail launch.\nThe impact of GTA 6 has extended to console sales in the UK as well, with PS5 sales rising by 46% in the launch week and XBOX experiencing the biggest boost since 2024, with sales rising by 75%. Overall console sales in the UK during GTA 6’s launch week were up 38%.\nFurthermore, it seems GTA 5 is still faring pretty well in the market, with player activity rising after the launch of GTA 6. GTA 5 had 73.6% more players, and the user numbers increased by 19.4% week-on-week. Additionally, the game’s launch has impacted many other live games, including Call of Duty, Fortnite,, and EA Sports FC 27.\nWhat are your thoughts on GTA 6 becoming the UK’s biggest physical launch since 2019? Leave your thoughts down in the comments, and join the official Insider Gaming Discord server.\nFor more from Insider Gaming, read about Delta Force X Metal Gear Solid event going live in two days. Don’t forget to sign up for our weekly newsletter.\nHow to Find and Complete the Farm Fix Meth Lab Illegal Operation in GTA 6—All Key Valuables\nHow Many Buildings Can You Enter in GTA 6? Enterable Buildings Walkthrough\nHow to Find and Complete the Biker Hideout Illegal Operation in GTA 6—All Key Valuables\nEvery Snapmatic Animal Location In GTA 6—Hunting Legendary Animals",
-    "extra": {
-     "image": "https://insider-gaming.com/wp-content/uploads/2026/11/GTA-6-Things-You-Can-Do-in-Your-Car-scaled.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "РЕКОРДЫ по коробочным версиям\n\nGTA 6 порвала рынок Британии и стала самым успешным физическим релизом с 2019 года. Плойка и ящик улетают с полкóв как горячие пирожки, а продажи консолей взлетели до небес.\n\n❤️ — База, все за дисками\n👎 — Цифра давно рулит",
-    "card_title": "РЕКОРДНЫЕ ПРОДАЖИ GTA 6 В УК",
-    "reason": "Официальные данные о рекордных физических продажах GTA 6 в Великобритании и Европе.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "GTA 6 Had Biggest Physical Launch Since 2019 in the UK",
-    "corroborated_by": "GTA VI Causes Console Sales Surge, Physical Copies Dominate UK Charts",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-26T16:01:13.760832+00:00"
-  },
-  {
-   "item": {
-    "title": "How to steal the Bravado Banshee in GTA 6",
-    "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-bravado-banshee-location/",
-    "summary": "Grab this striped sports car for Randy.",
-    "published": "2026-11-26T16:02:38+00:00",
-    "source": "PC Gamer",
-    "site_name": "PC Gamer",
-    "trust": "high",
-    "text": "The Bravado Banshee is another one of the cars you'll need to track down for Randy in GTA 6, but unlike the Pegassi Infernus, this one doesn't involve anything as dodgy as robbing a police lockup.\nYou can find this car inside the Sunrise Premium Autos showroom at the north tip of Southside, southwest of Pay 'N' Spray - Salton or east across the road from Ron Gas - Southside. This region is to the northeast of Hamlet.\nThere are two showrooms here, so make sure you have the right one, though the other does contain Pfister Growlers, in case you haven't gotten that car for Randy yet, either. Head inside to find the car—if you've played previous GTAs, you'll recognise it as a convertible with a white stripe down the middle. Hop inside, use the key cloner, and drive it through the glass.\nThis might damage it a bit, but you can always repair it at Ron Gas nearby, or at the gas station near Randy's shop. Just remember to drive fast, and if the tracker starts to beep, speed up to stop it pinging your location to the cops. Delivering this one gets you 6,500k and a 5k condition bonus as usual if it's in good nick.\nGTA 6 guide: One-stop info shopGTA 6 cars: The garage lineupGTA 6 characters: Your anti-hero castGTA 6 map: Confirmed Vice City localesGTA 6 PC release: When's it going to happen?\nKeep up to date with the most important stories and the best deals, as picked by the PC Gamer team.\nSean's first PC games were Full Throttle and Total Annihilation and his taste has stayed much the same since. When not scouring games for secrets or bashing his head against puzzles, you'll find him revisiting old Total War campaigns, agonizing over his Destiny 2 fit, or still trying to finish the Horus Heresy. Sean has also written for EDGE, Eurogamer, PCGamesN, Wireframe, EGMNOW, and Inverse.\nYou must confirm your public display name before commenting\nPlease logout and then login again, you will then be prompted to enter your display name.\n1 The best VPN for gaming in 2026: These privacy-protecting virtual networks keep your games lag-free\n2 Best graphics cards in 2026: These are the GPUs worth spending money in right now\n3 Best gaming PC builds: Shop all our recommended system builds as we ride out the RAMpocalypse\n4 The best fish tank PC case in 2026: I've tested heaps of stylish chassis but only a few have earned my recommendation\n5 Best Hall effect keyboards in 2026: the fastest, most customizable keyboards for competitive gaming\n1 World of Warcraft: Forever review: The first ",
-    "extra": {
-     "image": "https://cdn.mos.cms.futurecdn.net/oPRrJ8oDBSPTpwsNqTZvrj-1920-80.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 6,
-    "post": "🗺 Гайд: Угоняем Banshee\n\nНужно спереть классический тачан для Рэнди без лишнего геморроя с копами? Катите в шоурум Sunrise Premium Autos на севере Southside.\n\nЗалетайте внутрь, юзайте клонер ключей и выбивайте стекло на волю. Тачку потом лучше подлатать на ближайшей заправке Ron Gas, чтобы срубить бонус за целостность.\n\n❤️ — Ууу, изи мани!\n👎 — Опять эти тачки искать",
-    "card_title": "КАК УГНАТЬ BRAMADO BANSHEE",
-    "reason": "Гайд по угону машины для Рэнди в GTA 6",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": true,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": true,
-   "since": "2026-11-26T16:17:35.021806+00:00"
-  },
-  {
-   "item": {
     "title": "Aspects of GTA 6 are inspired by Red Dead Redemption 2's honor system because its player agency 'was a hard thing to ignore and walk away from'",
     "link": "https://www.pcgamer.com/games/grand-theft-auto/aspects-of-gta-6-are-inspired-by-red-dead-redemption-2s-honor-system-because-its-player-agency-was-a-hard-thing-to-ignore-and-walk-away-from/",
     "summary": "\"As the resolution goes up, you want the sophistication of the experience to go up.\"",
@@ -24786,6 +24834,36 @@
    },
    "corr": false,
    "since": "2026-11-26T19:16:37.631150+00:00"
+  },
+  {
+   "item": {
+    "title": "Rockstar boss was \"praying\" that GTA 6's early plot twist wouldn't leak \"given everything that we've gone through\"",
+    "link": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-boss-was-praying-that-gta-6s-early-plot-twist-wouldnt-leak-given-everything-that-weve-gone-through/",
+    "summary": "\"It's meant to shock,\" says Rob Nelson",
+    "published": "2026-11-26T20:00:00+00:00",
+    "source": "GamesRadar+",
+    "site_name": "GamesRadar+",
+    "trust": "high",
+    "text": "GTA 6 was subject to more than a few leaks in the run-up to its eventual launch, but despite it all, one big early-game twist was kept a total secret until release – something Rockstar Games boss Rob Nelson was \"praying\" for.\nBefore we get into it, we're obviously about to discuss some spoilers for GTA 6 Chapter 1. It's an early moment – one you'll have seen if you've played the first hour of the game – but if you're yet to dive in, you might want to bookmark this to come back to later. Or, of course, feel free to carry on if you don't care about a spoiler-free experience.\nEveryone still here who wants to be? Great. As you probably guessed, the twist in question is the existence of Jason and Lucia's son, Tomás.\nAfter being moved to her aunt's care following her arrest, as shown in the game's prologue, Lucia's primary motivation is to get Tomás back and give him a good life alongside Jason, but none of this was revealed prior to launch – officially or otherwise. This was something that co-studio head of Rockstar North, Rob Nelson, had his \"fingers crossed\" for.\nIn an interview with VGC a few days before GTA 6's launch, Nelson confirmed that Rockstar was \"never\" planning to reveal the twist and, at the time, was still praying no one would spill the beans ahead of schedule. \"I am still holding on,\" he said. \"Fingers crossed, how many more days? I'm praying it stays under wraps. Given everything that we've gone through, every day I'm just like, 'please, please don't do that, please don't do that.'\"\nWhile VGC notes that there was a small amount of chatter on forums about Jason and Lucia having a son, these whispers generally didn't stick, and, notably, none of the Cyberleek videos that appeared online before launch showed Tomás. Honestly, that feels somewhat miraculous given how early he's revealed and how frequently he comes up in the story and dialogue.\nCyberleek wasn't the only hacker to target Rockstar, either – there was also an enormous wave of GTA 6 leaks in 2022 – but even so, no baby boy and the driving force of the plot were plastered all over the internet as a result.\nWeekly digests, tales from the communities you love, and more\nAnyway, however the bullet was dodged, it made for an excellent twist, and let Rockstar have the story moment it was hoping for. \"It's meant to shock,\" Nelson explained. \"We were watching everyone speculate about the nature of their relationship and Jason's character, and that takes it in a completely different context. You h",
+    "extra": {
+     "image": "https://cdn.mos.cms.futurecdn.net/7GKLvfHyNh9cXxWFVLB7Zg-1920-80.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "🤫 Твист с сыном Джейсона и Люсии чуть не слили\n\nБосс Rockstar Роб Нельсон признался, что молился о том, чтобы утечки не затронули главного сюжетного малыша Томаса в первой главе. Имба, что этот секрет дожил до релиза и реально шокировал игроков в катках!\n\n❤️ — Красавчики, удержали интригу\n👎 — Слили бы, не страшно",
+    "card_title": "ТВИСТ С РЕБЕНКОМ УДАЛОСЬ СКРЫТЬ",
+    "reason": "Официальное интервью босса Rockstar о том, как они боялись слива главного сюжетного твиста с сыном Джейсона и Люсии.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-26T20:03:55.616980+00:00"
   }
  ]
 }
