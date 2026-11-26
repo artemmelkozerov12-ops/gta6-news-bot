@@ -4863,7 +4863,22 @@
   "d2ec0d70a85544dd": "2026-11-26T13:29:09.778798+00:00",
   "cde0d749eebc9111": "2026-11-26T13:29:16.769644+00:00",
   "e3b05f3d95f4a45c": "2026-11-26T13:29:24.296585+00:00",
-  "3d6f46154a401c92": "2026-11-26T13:29:25.645842+00:00"
+  "3d6f46154a401c92": "2026-11-26T13:29:25.645842+00:00",
+  "ef3b306662e3acd4": "2026-11-26T13:34:32.215514+00:00",
+  "d5cab88d4912c1e3": "2026-11-26T13:34:33.167545+00:00",
+  "bcaf643d887d114b": "2026-11-26T13:34:34.007398+00:00",
+  "161b39231b4c70d3": "2026-11-26T13:34:34.994092+00:00",
+  "1779afd61f6d424a": "2026-11-26T13:35:26.130119+00:00",
+  "c6e759a81c0bc777": "2026-11-26T13:35:27.064678+00:00",
+  "5d28f7f1cf28c291": "2026-11-26T13:46:18.912265+00:00",
+  "4ab0f6e904ed7535": "2026-11-26T13:46:23.031717+00:00",
+  "4f800286e89b033c": "2026-11-26T13:47:19.385782+00:00",
+  "51c3a675f5b4b933": "2026-11-26T13:47:26.558481+00:00",
+  "92b649128ee50d65": "2026-11-26T13:47:34.213294+00:00",
+  "19ef463a99ca8cfd": "2026-11-26T13:47:41.888428+00:00",
+  "7c3e03e21e400307": "2026-11-26T13:47:44.717248+00:00",
+  "19029e2a74a9cbaf": "2026-11-26T13:47:46.509163+00:00",
+  "44d303935a61a8f9": "2026-11-26T13:47:49.507254+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -8130,7 +8145,16 @@
   "5de802078065c62d": "2026-11-26T13:29:09.778798+00:00",
   "c6ae791cfccb32c8": "2026-11-26T13:29:16.769644+00:00",
   "5c530a4437a5e4fd": "2026-11-26T13:29:24.296585+00:00",
-  "1905f3c7815b7262": "2026-11-26T13:29:25.645842+00:00"
+  "1905f3c7815b7262": "2026-11-26T13:29:25.645842+00:00",
+  "3b4f9bc7ea881a86": "2026-11-26T13:46:18.912265+00:00",
+  "2debcdf6c465122b": "2026-11-26T13:46:23.031717+00:00",
+  "3fc7906cef5a5795": "2026-11-26T13:47:19.385782+00:00",
+  "857eab4fd854febf": "2026-11-26T13:47:26.558481+00:00",
+  "8c7c38bcb95c2ca9": "2026-11-26T13:47:34.213294+00:00",
+  "21f84b4e44e98c7b": "2026-11-26T13:47:41.888428+00:00",
+  "57c04b423e263016": "2026-11-26T13:47:44.717248+00:00",
+  "372764343689eb5b": "2026-11-26T13:47:46.509163+00:00",
+  "701cdcfd6da4d11a": "2026-11-26T13:47:49.507254+00:00"
  },
  "recent": [
   {
@@ -15652,40 +15676,81 @@
    "status": "skipped",
    "ts": "2026-11-26T13:29:25.646000+00:00",
    "card_title": ""
+  },
+  {
+   "title": "How to get abducted by aliens in GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-26T13:46:18.912341+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "The GTA 6 Spoiler Interview Pt. 1: Rockstar on that Chapter 1 twist, cut content, and more",
+   "source": "VGC",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-26T13:47:17.229544+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Every Snapmatic Animal Location In GTA 6—Hunting Legendary Animals",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-26T13:47:24.010965+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Bricked Up walkthrough: How to get the bonus reward in Bricked Up",
+   "source": "VGC",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-26T13:47:33.157212+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to Easily Get Gold Medals in GTA 6 Shooting Range Challenges",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-26T13:47:39.571739+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 has reportedly sold more copies on PS5 than Xbox has sold Series X/S consoles",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T13:47:41.888583+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6’s Criminal Profiles Are Meant to Encourage Choices “Beyond Just Violence”",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T13:47:44.717402+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "10 Reasons You Will Be Playing GTA 6 For More Than a Decade",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T13:47:46.509305+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI Switch 2 Port: Digital Foundry on 30 FPS Cuts",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T13:47:49.507406+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
-  {
-   "item": {
-    "title": "Guide: GTA 6: Secret Controls the Game Doesn't Tell You",
-    "link": "https://www.pushsquare.com/guides/gta-6-secret-controls-the-game-doesnt-tell-you",
-    "summary": "Pro tips. GTA 6 has a complicated control scheme that allows you to interact with the game in a variety of different ways. And while Rockstar does a good job introducing almost all of the title's mechanics, several useful features and commands are never mentioned by the game. In this GTA 6 guide , we're going to tell you about some of its secret controls. <blocks> Read the full article on pushsquare.com",
-    "published": "2026-11-25T22:00:00+00:00",
-    "source": "Push Square",
-    "site_name": "Push Square",
-    "trust": "high",
-    "text": "GTA 6 has a complicated control scheme that allows you to interact with the game in a variety of different ways. And while Rockstar does a good job introducing almost all of the title's mechanics, several useful features and commands are never mentioned at all. In this GTA 6 guide, we're going to tell you about some of its secret controls.\nBest Secret Controls GTA 6 Doesn't Tell You\nBelow are 12 secret controls in GTA 6 the game doesn't tell you about.\nPlease note, these apply to the Default control scheme, which you can enable by pressing Options > Settings > Control Scheme.\nDouble tap Triangle to get out of your car while the engine's still running:\nThis can be useful for when you need to make a swift getaway, as you want waste time needing to start the engine.\nOne other quick tip here: if you're with a partner and need to quickly get into the back seat, hold Triangle so your character doesn't waste time running around to the passenger side.\nIf the police know your identity but not necessarily your car, one way you can avoid being detected is by hiding behind the wheel.\nJust park up somewhere discreet, and hold Circle to hide from any pursuing police:\nYou can rest and lean on any surface by standing close to it and holding the Circle button, like shown:\nThis can be useful if you're casing a joint, or just want to watch the world pass you by.\nYou don't always need words to get your point across. There are situations where a middle finger will do.\nFortunately, GTA 6 has a solution for scenarios just like that.\nWhile on foot, hold L2 and press R1 to give someone the finger:\nYou can also do this while driving by simply pressing R1 while behind the wheel:\nTapping Left and Right while driving will turn on your indicators, allowing you to signal to other motorists which way you're going:\nThis can actually be useful when you're trying to drive safely, as oncoming cars will understand which way you're going and react accordingly. It can also help when you're merging lanes on motorways.\nWhile more complex radio controls can be accessed by holding Left, did you know you can also quickly turn the radio on and off by double-tapping Left?\nThis works both in a car and when you're out and about using your earbuds.\nIf you press Square while driving, you can quickly attack with your car door, as shown:\nThis is really useful when you're being flanked by unsuspecting bikers — or you just want to show cyclists who's king the road!\nMuch like the above car door attack, you can",
-    "extra": {
-     "image": "https://images.pushsquare.com/4749a3e33b334/large.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 6,
-    "post": "🗺 Гайд: Секретные управления в GTA 6 🚗\n\n1️⃣ Двойной тап ▲ — слезть из тачки, пока мотор крутится, идеальный побег.\n2️⃣ Удержи ▲, чтобы сразу зайти на заднее сиденье без пробежки.\n3️⃣ Держи ○, стоя у машины — прячешься от копов, можно отдохнуть.\n4️⃣ Нажми L2+R1, чтобы показать среднему пальцу, а R1 в машине — быстрый «фингер».",
-    "card_title": "СЕКРЕТНЫЕ УПРАВЛЕНИЯ GTA 6",
-    "reason": "Гайд по секретным управлениям и фишкам в игре",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": true,
-    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-26T01:29:40.520501+00:00",
-   "moderation": "pending",
-   "draft_msg_id": 176
-  },
   {
    "item": {
     "title": "GTA 6's Map Has a Useful Feature I've Only Just Noticed",
@@ -15805,35 +15870,6 @@
     "model": "groq:openai/gpt-oss-120b → groq:openai/gpt-oss-120b"
    },
    "queued_at": "2026-11-26T07:16:10.069003+00:00"
-  },
-  {
-   "item": {
-    "title": "GTA 6 Leonida Carrier Warehouse: Safe Code, GRX-556 and Gunrunner Camacho",
-    "link": "https://www.gtaboom.com/gta-6-leonida-carrier-warehouse-robbery-guide-f258",
-    "summary": "Take the rear ladder into Leonida Carrier Warehouse, grab the watch, safe cash and scoped rifle, then drive out in the Gunrunner Camacho.",
-    "published": "2026-11-25T22:29:18+00:00",
-    "source": "GTA BOOM",
-    "site_name": "GTA BOOM",
-    "trust": "medium",
-    "text": "Leonida Carrier Warehouse has four key valuables: a luxury watch, safe cash, a scoped GRX-556 and a Gunrunner Camacho. The rear ladder gets you past the front gate and into the offices. Collect the three indoor valuables before opening the garage for the truck.\nTake the rear ladder past the front guards\nLook south of the bridge from Balsero to Rockridge. Duke marked the warehouse after we did lab jobs for Tyrone. At the back of the building, find the ladder to the roof and go through the open door on your right. Descend the ladder inside. The door labeled Office is straight ahead.\nWait for the two men inside to finish talking. One comes out into the corridor, giving you a chance to take him down before dealing with the other in the office. Look behind the cash-covered desk for the safe, but go into the adjoining office for the code first.\nWatch for the guard leaning against the table in the adjoining office. Take the luxury watch and inspect the laptop. It showed 9256 as the safe code in our run. Go back to the tall safe behind the first office desk, use the code from the laptop and take the cash inside.\nAs you leave the office, use the button by the roller door on your right. The scoped GRX-556 is in the open hard case just inside that room. It's separate from the guns lying around the warehouse. Pick it up before heading to the Camacho.\nClear the garage where the Gunrunner Camacho is parked. Use the button by the door to open the vehicle exit, then get in. Drive straight out and check the map for All key valuables found. Remember, that confirms the warehouse pickups, not permanent ownership of the truck.\nGTA 6 Chatfield Storage Guide to the Suppressed ES9, Safe Code and Supercar\nGTA 6 Yasmani’s Jewelry Jobs Guide With All 3 Safe Codes and the Snap Gun\nGTA 6 Kamar Devon Community Center Robbery: Where to Find the Pistol and Watch",
-    "extra": {
-     "image": "https://media.gtaboom.com/variants/1920/media/images/e2/91/carrier-camacho-773b71abbd4f2935.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 6,
-    "post": "🔐 Сейф и GRX‑556 в складе Леонида\n\n🗺 Гайд:\n1️⃣ Прокрался к задней лестнице за воротами, спустился в офис.\n2️⃣ Подождал, пока охранники болтают, убил одного, в ноутбуке код 9256.\n3️⃣ Открыл сейф, схватил кэш и часы.\n4️⃣ Забрал GRX‑556 из кейса, открыл гараж и уехал на Camacho. Всё имба‑лагер!",
-    "card_title": "СЕКРЕТЫ СКЛАДА ЛЕОНИДА",
-    "reason": "Это гайд по ограблению склада в вышедшей GTA 6, полезный совет для игроков.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": true,
-    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-26T01:30:12.579996+00:00"
   },
   {
    "item": {
@@ -16178,6 +16214,36 @@
    "file_id": "BAACAgIAAxkDAAO2awgnLV0Py4qS6xiKmoI02DvnLjoAAuivAAJzy0FITc5tOM1BEDQ9BA",
    "moderation": "pending",
    "draft_msg_id": 182
+  },
+  {
+   "clip": {
+    "source": "twitch",
+    "url": "https://www.twitch.tv/bratishkinoff/clip/FurryInquisitiveSwordBrokeBack-5SIOik-M_5vJpDsB",
+    "title": "призрак",
+    "author": "bratishkinOFF",
+    "views": 738,
+    "duration": 40.1,
+    "created": "2026-11-25T15:42:16+00:00",
+    "lang": "ru",
+    "description": "",
+    "vod_id": "2940292392",
+    "vod_offset": 10530.0
+   },
+   "caption": "В GTA 6 завезли лютый хоррор: едешь ночью по трассе, налетает туман, тачка глохнет и на капот с диким криком прыгает призрак 💀 От такой встречи реально можно словить инфаркт",
+   "interest": 9,
+   "spoiler": false,
+   "nsfw": false,
+   "watched": true,
+   "model": "gemini:gemini-4-hydrogen",
+   "media": {
+    "width": null,
+    "height": 720,
+    "duration": 40
+   },
+   "queued_at": "2026-11-26T13:38:01.398794+00:00",
+   "file_id": "BAACAgIAAxkDAAO3awg2Og6JAfCRsfLWnvm9RlIvgC8AAtGwAAJzy0FI9xwKbLZQkeg9BA",
+   "moderation": "pending",
+   "draft_msg_id": 183
   }
  ],
  "clip_drafts": [
@@ -16202,7 +16268,8 @@
   "2026-11-26T09:08:12.581306+00:00",
   "2026-11-26T10:13:16.179800+00:00",
   "2026-11-26T11:18:49.888213+00:00",
-  "2026-11-26T12:33:49.935242+00:00"
+  "2026-11-26T12:33:49.935242+00:00",
+  "2026-11-26T13:38:03.020667+00:00"
  ],
  "clip_history": [
   {
@@ -22552,6 +22619,65 @@
    "ts": "2026-11-26T12:33:49.935259+00:00",
    "frames": [],
    "caption": "СПОЙЛЕР. Финальная погоня в кабриолете — это чистая пушка. Джейсон и Лусия решают уйти красиво под пулями, такой вайб в "
+  },
+  {
+   "author": "youtube:cheri's world",
+   "vod": "",
+   "offset": -1,
+   "title": "Ps5 tod diya😭| Gta 6 gameplay | kanjoos dad | #chetanmonga #comedy #shorts",
+   "drafted": false,
+   "ts": "2026-11-26T13:34:32.215585+00:00"
+  },
+  {
+   "author": "youtube:painzeiro",
+   "vod": "",
+   "offset": -1,
+   "title": "Dicas idiotas GTA 6",
+   "drafted": false,
+   "ts": "2026-11-26T13:34:33.167591+00:00"
+  },
+  {
+   "author": "youtube:linus tech tips",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 with DLSS 5",
+   "drafted": false,
+   "ts": "2026-11-26T13:34:34.007444+00:00"
+  },
+  {
+   "author": "youtube:kuza's moves",
+   "vod": "",
+   "offset": -1,
+   "title": "I Tested Lucia’s Patience in GTA 6 😭",
+   "drafted": false,
+   "ts": "2026-11-26T13:34:34.994145+00:00"
+  },
+  {
+   "author": "youtube:jeje adriel",
+   "vod": "",
+   "offset": -1,
+   "title": "JASON DAN LUCIA KERJA BANYAK HARI INI | Grand Theft Auto VI Part 9",
+   "drafted": false,
+   "ts": "2026-11-26T13:35:26.130167+00:00"
+  },
+  {
+   "author": "twitch:bratishkinoff",
+   "vod": "2940292392",
+   "offset": 10530.0,
+   "title": "призрак",
+   "drafted": false,
+   "ts": "2026-11-26T13:35:27.064727+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:bratishkinoff",
+   "vod": "2940292392",
+   "offset": 10530.0,
+   "title": "призрак",
+   "drafted": true,
+   "ts": "2026-11-26T13:38:03.020682+00:00",
+   "frames": [],
+   "caption": "В GTA 6 завезли лютый хоррор: едешь ночью по трассе, налетает туман, тачка глохнет и на капот с диким криком прыгает при"
   }
  ],
  "published": [
