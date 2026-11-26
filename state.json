@@ -4845,7 +4845,25 @@
   "b70ef75267bb798d": "2026-11-26T12:51:52.739186+00:00",
   "db71a1f03d186d5e": "2026-11-26T12:52:15.187708+00:00",
   "1328bf577a67d890": "2026-11-26T12:52:38.303476+00:00",
-  "2b0f4439c999d46a": "2026-11-26T12:52:49.695821+00:00"
+  "2b0f4439c999d46a": "2026-11-26T12:52:49.695821+00:00",
+  "0c04ccfcd1c8081d": "2026-11-26T13:09:13.994434+00:00",
+  "bea82e4feff1065e": "2026-11-26T13:09:17.288255+00:00",
+  "195a134d04523383": "2026-11-26T13:11:37.172482+00:00",
+  "374f0d38070d0371": "2026-11-26T13:11:45.838678+00:00",
+  "753f44b83b5bb332": "2026-11-26T13:11:47.636726+00:00",
+  "eb2adca16b9a5e3f": "2026-11-26T13:11:58.690004+00:00",
+  "2b90912270b10975": "2026-11-26T13:12:03.126861+00:00",
+  "bfe0b8a5d243fc37": "2026-11-26T13:12:06.931725+00:00",
+  "5b62ee10b523ab59": "2026-11-26T13:28:44.175256+00:00",
+  "1a795ee44330a808": "2026-11-26T13:28:44.287226+00:00",
+  "a2f7006c10eff08f": "2026-11-26T13:28:49.638364+00:00",
+  "7de5a22c48b89c55": "2026-11-26T13:28:55.784553+00:00",
+  "a03799b5e08a8dd5": "2026-11-26T13:29:00.131208+00:00",
+  "dfebb17b2d651231": "2026-11-26T13:29:04.964499+00:00",
+  "d2ec0d70a85544dd": "2026-11-26T13:29:09.778798+00:00",
+  "cde0d749eebc9111": "2026-11-26T13:29:16.769644+00:00",
+  "e3b05f3d95f4a45c": "2026-11-26T13:29:24.296585+00:00",
+  "3d6f46154a401c92": "2026-11-26T13:29:25.645842+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -8095,7 +8113,24 @@
   "e881215d00a5f7df": "2026-11-26T12:51:52.739186+00:00",
   "b7300b159094a909": "2026-11-26T12:52:15.187708+00:00",
   "21bd2de093dc3f2c": "2026-11-26T12:52:38.303476+00:00",
-  "e8dd9ccd4ff7143e": "2026-11-26T12:52:49.695821+00:00"
+  "e8dd9ccd4ff7143e": "2026-11-26T12:52:49.695821+00:00",
+  "1106f426dd4d2d49": "2026-11-26T13:09:13.994434+00:00",
+  "96b528336fcec2f7": "2026-11-26T13:09:17.288255+00:00",
+  "c6cc9509983385f0": "2026-11-26T13:11:37.172482+00:00",
+  "d5561a138893633f": "2026-11-26T13:11:45.838678+00:00",
+  "bb5441ce5dc5b51f": "2026-11-26T13:11:47.636726+00:00",
+  "0c85428e6b42aa0f": "2026-11-26T13:11:58.690004+00:00",
+  "6ec8bd3573260793": "2026-11-26T13:12:03.126861+00:00",
+  "94a6d3d35f3ab6e2": "2026-11-26T13:12:06.931725+00:00",
+  "2ef9456b52860366": "2026-11-26T13:28:49.638364+00:00",
+  "15e4a8401f8518c8": "2026-11-26T13:28:44.287226+00:00",
+  "696b145a609c94a1": "2026-11-26T13:28:55.784553+00:00",
+  "78a04327493c7c99": "2026-11-26T13:29:00.131208+00:00",
+  "09e4aedb7a309159": "2026-11-26T13:29:04.964499+00:00",
+  "5de802078065c62d": "2026-11-26T13:29:09.778798+00:00",
+  "c6ae791cfccb32c8": "2026-11-26T13:29:16.769644+00:00",
+  "5c530a4437a5e4fd": "2026-11-26T13:29:24.296585+00:00",
+  "1905f3c7815b7262": "2026-11-26T13:29:25.645842+00:00"
  },
  "recent": [
   {
@@ -15473,40 +15508,153 @@
    "status": "skipped",
    "ts": "2026-11-26T12:52:49.695964+00:00",
    "card_title": ""
+  },
+  {
+   "title": "Should you participate in GTA 6's Safe Word mission?",
+   "source": "PC Gamer",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-26T13:09:14.319224+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 is \"like looking at a skyscraper, but I'm from the 1800s,\" says veteran Last of Us 2 artist",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-26T13:11:35.125264+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Secret Mission in Capri: How to Find and Complete the Hidden Mission",
+   "source": "VGC",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-26T13:11:37.899327+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Chapter 4 Mission List – Every Mission in GTA 6 Chapter 4 in Order",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-26T13:11:45.838824+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How To Register Advanced Tracker Cars in GTA 6—Keep Stolen Cars & Remove All Trackers",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-26T13:11:53.314269+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to steal GTA 6 ATMs and get a winched vehicle",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-26T13:11:59.408058+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 — как угнать Pegassi Infernus со штрафстоянки полиции",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T13:12:03.127012+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI racks up 420 million hours watched in first week across streaming platforms",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T13:12:06.931895+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Weather Still Not Varied Even After the Patch? PS5 Players Are Sharing a Method That May Help Rain and Thunderstorms Kick In",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-26T13:28:44.175316+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Lacks Mission Replay Because “It Felt At Odds With the Story,” Says Rockstar",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-26T13:28:44.287315+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Weather Still Not Varied Even After the Patch? PS5 Players Are Sharing a Method That May Help Rain and Thunderstorms Kick In",
+   "source": "IGN",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-26T13:28:50.308163+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6, игроки сообщают о блокировках в Xbox и PSN из-за клипов и фото",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T13:28:55.784706+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Порт GTA 6 на ПК, Take-Two добилась отключения 3007 репозиториев на GitHub",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T13:29:00.131354+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI Launch Glitches: 5 Issues Rockstar Logged",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T13:29:04.964648+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI can run at around 60 FPS on jailbroken PS5s",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T13:29:09.778954+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6: All Missables In Chapter 1",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T13:29:16.769793+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6: Watch how two players actually escape six-star wanted level",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T13:29:24.296739+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6’s Interactions Have 3 Different Animations Depending on Number of Items Being Carried",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T13:29:25.646000+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
-  {
-   "item": {
-    "title": "GTA 6 vault: How to open them during big bank jobs",
-    "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-vault-how-to-open/",
-    "summary": "You can make well over $100,000 in a single crime if you open the bank vault and safe deposit boxes.",
-    "published": "2026-11-25T21:31:26+00:00",
-    "source": "PC Gamer",
-    "site_name": "PC Gamer",
-    "trust": "high",
-    "text": "Opening a GTA 6 bank vault is one of the best ways to make off with a big score during a robbery, with potentially $100,000 or more in bills and valuables from a single heist.\nBut those huge bank vault doors are completely impenetrable, and confusingly, even after you've learned how to drill into a vault as part of a Chapter 3 story mission, you still won't be able to open vault doors in open world bank robberies.\nHere's the trick: you've got to get someone to open bank vault doors for you. Only then can you steal all that sweet cash.\nYour GTA 6 fence, Yasmani, will begin offering you tips once you start selling him stolen goods in Chapter 3: jewelry store heists targeting specific items and which ATM jobs have the most cash, for example. These are worth doing anyway as they get you the snap gun.\nComplete every job Yasmani has and keep asking for more, and in Chapter 4 he'll offer you a tip for $10,000. Pay it, and he'll give you the locations of two security vans (armored cars) in Vice City. They'll show up on your map as pink icons.\nOr, search Vice City for armored cars on your own\nThere are multiple banks with vaults that armored cars visit. While driving around the areas near these banks and keeping your eyes peeled, you may spot an armored car without Yasmani's tip. It could take quite a while, though!\nYou can see which banks have vaults by looking under \"Big Bank Jobs\" in the \"Robberies\" category on your map. There are four big banks in Ocean Beach, two downtown, one in Tequesta, and one at Vice City International Airport.\nFollow the armored car until it parks outside a bank. Watch as one of the drivers gets out and walks into the bank. You can follow him to see where he goes, though bank layouts differ and he may take different routes. He may walk through the front doors, or he may go in a side entrance or a roll-up door in the back.\nOnce he's all the way inside—not just inside the front doors, but deep into the bank—he'll head to the vault and open it.\nYou can't open that vault yourself! Only the armored car driver can. That's the trick.\nOnce the guard is in the back of the bank, begin the robbery. Search for the vault in the back. You may need to use explosives to open the door the guard went through, or you can look for a door you can open with the snap gun. You'll find the vault door open with the armored car driver nearby. Subdue him and grab all the cash off the cart inside the vault.\nThere are several safe deposit boxes in the vault you can o",
-    "extra": {
-     "image": "https://cdn.mos.cms.futurecdn.net/he79YK28p3viRdnY2Hduej-1920-80.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 6,
-    "post": "🗺 Гайд: Как открыть банковские хранилища в GTA 6 💰\n\n1. Выполняй все задания у Ясмани, получи совет за $10 000 в Чаптер 3‑4.\n2. Купи подсказку — он покажет две бронеавтомобили в Вайс Сити (розовые иконки) 🚗.\n3. Слежи за машиной, пока она паркуется у банка, и жди, пока водитель зайдёт в хранилище 🔥.\n4. Когда откроет дверь, начни ограбление, подожми драйвера и схвати кучу налички 🤑.",
-    "card_title": "БАНКОВЫЕ ХРАНИЛИЩА GTA6",
-    "reason": "Гайд по открытию банковских хранилищ в GTA 6",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": true,
-    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-26T01:27:58.459003+00:00",
-   "moderation": "pending",
-   "draft_msg_id": 174
-  },
   {
    "item": {
     "title": "Guide: GTA 6: Secret Controls the Game Doesn't Tell You",
@@ -15657,35 +15805,6 @@
     "model": "groq:openai/gpt-oss-120b → groq:openai/gpt-oss-120b"
    },
    "queued_at": "2026-11-26T07:16:10.069003+00:00"
-  },
-  {
-   "item": {
-    "title": "30 Things You Might Have Missed in GTA 6",
-    "link": "https://insider-gaming.com/30-things-you-might-have-missed-in-gta-6/",
-    "summary": "From secret locations to hidden controller settings, here are 30 things that you might have missed in GTA 6 so far. The post 30 Things You Might Have Missed in GTA 6 appeared first on Insider Gaming .",
-    "published": "2026-11-25T21:55:38+00:00",
-    "source": "Insider Gaming",
-    "site_name": "Insider Gaming",
-    "trust": "medium",
-    "text": "Grand Theft Auto 6 is a gargantuan game in every sense of the word. From an enormous map to an expansive story, and from stacks of side content to a mountainous plethora of collectibles, this is a game that will hold your attention for easily over 100 hours. As you can imagine, a game this granular almost definitely has elements and features you might have missed.\nIf you’re a good few hours into Grand Theft Auto 6, there might still be things you’ve not noticed or had a chance to discover. In this snapshot breakdown, I’m going to highlight 30 things that you might have missed in GTA 6.\nStop by the comments to add things that I’ve forgotten to include! Share your top tips.\nHere’s the most comprehensive list I could create of things you might have skipped over or not noticed in Grand Theft Auto 6!\nI’ve put together a guide that details the best GTA 6 locations for easy money right at the start of the game. You might not have hit all these spots just yet, so take a look!\nIf you roll your car over, you don’t need to worry about paying Scooter Bros to recover the vehicle. Push into the rolled vehicle, and when prompted, hold X or SQUARE to give the car an almighty push to flip it back over.\nBe careful, as it can roll back again and crush you!\nIf you want to listen to music while you’re walking around or visiting the gym in GTA 6, you’ll first need to head to a gadget store to buy a set of earbuds or headphones. These stores are indicated by a headphones symbol on the map. The first one you find will be in Hamlet.\nIf you’re struggling with various aspects of robberies, simply progress through the story, and you’ll unlock some extremely handy tools. For instance, you get a lockpick gun, a dye pack blocker, and a key cloner tool that allows you to steal higher-tier cars.\nYou might not know these things exist in GTA 6 if you haven’t reached this part of the game, but trust me, they’re coming.\nGTA 6’s fences, like Brian, Dunk, Tyrone, and Yasmine, will buy certain things for more than other fences will. This means it pays to shop around. But you can get even more money out of these people by improving your relationship with them.\nFor instance, completing the ‘Kitty Litter’ miscellaneous missions for Tyrone results in him offering more for narcotics than any other fence.\nIf you take a peek at the map, you’ll see buildings are either dark blue or light blue. If the building is dark blue, that means it can be entered in some way. That might be a single room, but it’s r",
-    "extra": {
-     "image": "https://insider-gaming.com/wp-content/uploads/2026/11/4a565871-d47b-4c90-bf90-e90f3c0aae7f-1-1024x576.png"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 6,
-    "post": "🚗 Секреты, которые ты мог пропустить в GTA 6\n\n🗺 Гайд:\n1️⃣ Сломай авто: подойди к перевернутой машине, удержи X/□ — мгновенно её поднимет, имба.\n2️⃣ Наушники: зайди в gadget‑store (значок наушников), первый в Hamlet.\n3️⃣ Инструменты грабежей: после сюжетных миссий откроются lockpick‑gun, dye‑pack blocker и key‑cloner.\n4️⃣ Фенсы: сравнивай цены у Brian, Dunk, Tyrone, Yasmine, улучшай репутацию для лучшего кэша.\n5️⃣ Синие здания = входные.",
-    "card_title": "СЕКРЕТЫ GTA 6, КОТОРЫЕ ПРОПУСТИЛИ",
-    "reason": "Полезная подборка секретов и механик из игры от крупного издания",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": true,
-    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-26T01:28:02.705337+00:00"
   },
   {
    "item": {
