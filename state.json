@@ -4564,7 +4564,15 @@
   "f37447bd980c4251": "2026-11-25T23:38:52.717805+00:00",
   "13c53bae94b88609": "2026-11-25T23:38:57.287470+00:00",
   "2615320064e6adb9": "2026-11-25T23:38:59.497501+00:00",
-  "24986e94e8c92744": "2026-11-25T23:39:11.832506+00:00"
+  "24986e94e8c92744": "2026-11-25T23:39:11.832506+00:00",
+  "a3fa161c32e7ee30": "2026-11-25T23:54:36.716540+00:00",
+  "51ef0798845cd792": "2026-11-25T23:54:37.901251+00:00",
+  "fdd2e3b1bbf22468": "2026-11-25T23:54:43.154491+00:00",
+  "f7fda79f166d5e2e": "2026-11-25T23:54:48.216614+00:00",
+  "51fe21ec67d52678": "2026-11-26T00:10:16.131741+00:00",
+  "7aa842b1760603a1": "2026-11-26T00:10:22.145383+00:00",
+  "44515e1e489842a6": "2026-11-26T00:10:25.990384+00:00",
+  "814242dc08df9368": "2026-11-26T00:10:30.959554+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -7608,7 +7616,15 @@
   "8fc29ce9d33ae032": "2026-11-25T23:38:52.717805+00:00",
   "5014027da9344e5b": "2026-11-25T23:38:57.287470+00:00",
   "4266c7623cc5369a": "2026-11-25T23:38:59.497501+00:00",
-  "24ee53d8cdc50b6e": "2026-11-25T23:39:11.832506+00:00"
+  "24ee53d8cdc50b6e": "2026-11-25T23:39:11.832506+00:00",
+  "917f548bed681eec": "2026-11-25T23:54:36.716540+00:00",
+  "a51e437a51bd21f3": "2026-11-25T23:54:37.901251+00:00",
+  "2dcb41f9bee69da8": "2026-11-25T23:54:43.154491+00:00",
+  "b3c0beefe35ffa15": "2026-11-25T23:54:48.216614+00:00",
+  "48c755cef291ee9e": "2026-11-26T00:10:16.131741+00:00",
+  "ace582f3f79beea1": "2026-11-26T00:10:22.145383+00:00",
+  "e941cc4712f1c2d7": "2026-11-26T00:10:25.990384+00:00",
+  "047b768a388f1dc3": "2026-11-26T00:10:30.959554+00:00"
  },
  "recent": [
   {
@@ -15058,6 +15074,78 @@
    "status": "skipped",
    "ts": "2026-11-25T23:39:11.832653+00:00",
    "card_title": ""
+  },
+  {
+   "title": "A GTA 6 Purchase on a Shared Xbox Account Ended in a 911 Call",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-25T23:54:32.494636+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Макс Ферстаппен потратил 40 часов на GTA 6",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T23:54:36.716653+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "The state of GTA 6 on PC: Everything you need to know",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T23:54:37.901373+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Spotify Reveals Carly Rae Jepsen's GTA 6 Song Has Blown Up Within the Last Week",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T23:54:43.154625+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Is Reportedly Killing People's PS5's",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-25T23:54:53.835594+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Boss Reveals How That Very Surprising Cameo Happened And What It Means For The Character",
+   "source": "Kotaku",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-26T00:10:13.593460+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Players have discovered a famous Easter egg in GTA 6 featuring the chainsaw scene from the movie Scarface.",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T00:10:22.145521+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Игроки обнаружили в GTA 6 знаменитую пасхалку со сценой с бензопилой из фильма Лицо со шрамом",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T00:10:25.990526+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Animation Director Reveals Just How Far Rockstar Went to Make Holding Items More Immersive",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T00:10:30.959686+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -15354,37 +15442,6 @@
     "model": "groq:qwen/qwen3.8-27b → groq:openai/gpt-oss-120b"
    },
    "queued_at": "2026-11-25T20:14:09.703903+00:00"
-  },
-  {
-   "item": {
-    "title": "Ведущую сценаристку GTA VI затравили и она удалилась из соцсетей — её обвинили в обучении женщин «манипулировать мужчинами».",
-    "link": "https://ixbt.games/news/2026/11/25/vedushhuiu-scenaristku-gta-vi-zatravili-i-ona-udalilas-iz-socsetei.html",
-    "summary": "К образу Джейсона и другим сценарным решениям возникло много претензий.",
-    "published": "2026-11-25T11:20:00+00:00",
-    "source": "iXBT.games",
-    "site_name": "iXBT.games",
-    "trust": "medium",
-    "text": "К образу Джейсона и другим сценарным решениям возникло много претензий.\nНедавно состоялся релиз Grand Theft Auto VI и подтвердились опасения некоторых игроков. Недовольные персоны считают, что Джейсона выставили «подкаблучником» и их чувства задели опциональные действия, вроде похода в магазин или покупки девушке цветов.\nВскоре после запуска игры такие люди стали искать в социальных сетях разработчиков Grand Theft Auto VI, чтобы высказать им претензии за «неправильный» сценарий. Пользователи обратили внимание на то, что одна из ведущих сценаристок игры Алекса Д’Агостино (Alexa D’Agostino) в итоге деактивировала свою страницу в социальной сети.\nЗаметному количеству игроков не нравится, каким образом в Grand Theft Auto VI выстроили романтические отношения между главными героями. В дуэте Лусия-Джейсон мужской персонаж, как считают критики, выставляется во многих сценах «клоуном». Дополнительно недовольство подогревает отсутствие в игре продажных женщин, которые были в прошлых играх франшизы, а также выявленые «особенности» биографии сценаристки.\nИгроки «пробили» Алексу и нашли её рассказ о том, что её мама иммигрантка и она учила её «ничего не терпеть». Теперь для людей, вроде bratricek, паззл сложился: «Итак... эта игра представляет собой фантазию женщины-иммигрантки о том, чтобы иметь белого мужчину в качестве раба, чтобы ей не приходилось ни о ребенке, ни о доме, ни о своей жизни вообще заботиться».\nПомимо этого, они рассказали про блог, в котором Алекса «давала женщинам советы о том, как манипулировать мужчинами, извлекать из них выгоду и \"играть\" с ними».\nЭто далеко не первый случай, когда актёрам и разработчикам поступают угрозы от игроков из-за того, что им не понравился определённый контент или сценарные решения. Например, такое было во времена The Last of Us Part II (а некоторые и сегодня высказывают претензии из-за определённых сценарных решений).\nСейчас Grand Theft Auto VI официально доступна только на консолях PlayStation 5 и Xbox Series X|S. Однако в сеть слили билд игры с exe-файлом и сейчас техно-энтузиасты работают над запуском игры на ПК — есть определённые успехи, но до полноценной играбельной версии пока далеко.\nНе пропускайте наши новостиДобавьте сайт в предпочитаемые источники, чтобы видеть нас чащеДобавить в Google",
-    "extra": {
-     "image": "https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1746272/media-7135f6fb461ad673e1e9b0168959e5b9a36e0ceefdab9070290a510d35b99293.png"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "🚨 СЦЕНАРИСТКУ GTA 6 затравили из-за Джейсона-подкаблучника\n\nНекоторым игрокам не зашло, что Джейсону надо дарить цветы Лусии и водить её по магазинам. Ведущая сценаристка Алекса Д’Агостино после волны хейта просто удалила свои соцсети. Рил лютый кринж и драма.\n\n❤️ — Норм тема, романтика в кассу\n👎 — Джейсона реально занизили скотски",
-    "card_title": "СЦЕНАРИСТКУ GTA 6 ЗАТРАВИЛИ ИЗ-ЗА СЮЖЕТА",
-    "reason": "Скандал с травлей сценаристки из-за сюжета GTA 6, громкий инфоповод с высоким интересом аудитории.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-3.5-flash"
-   },
-   "queued_at": "2026-11-25T11:42:40.662207+00:00",
-   "moderation": "pending",
-   "draft_msg_id": 156
   },
   {
    "item": {
@@ -22426,66 +22483,6 @@
  "rewrite_wait": [
   {
    "item": {
-    "title": "A GTA 6 Purchase on a Shared Xbox Account Ended in a 911 Call",
-    "link": "https://www.gtaboom.com/a-gta-6-purchase-on-a-shared-xbox-account-ended-in-a-911-call-e22e",
-    "summary": "Ciara Benson says her ex called 911 after she changed the password on her Xbox account, which kept the copy of GTA 6 he bought.",
-    "published": "2026-11-25T19:51:00+00:00",
-    "source": "GTA BOOM",
-    "site_name": "GTA BOOM",
-    "trust": "medium",
-    "text": "The Grand Theft Auto VI launch has turned up in a lot of strange places, but a police report tops the list so far. A woman in Washington State says she took back her own Microsoft account from an ex she had shared it with for six years, after he bought GTA 6 on it. She changed the password and pulled his payment methods. In response, he called the police and reported credit card fraud.\nThe account was hers the whole time though. Ciara Benson had owned the Microsoft login for years and simply let him use it, so changing the password and removing devices was basic account security. Purchases stay tied to the account they were bought on, which means the GTA 6 copy her ex paid for is now attached to her login. Police worked that out fast. They reviewed her TikTok, found no evidence of fraud and handed her an incident report, then asked about the game and her kid.\nShe laid the whole thing out on TikTok, where the clip ran past a million views. By her account, the last straw was him buying the game while allegedly behind on child support. She has said she is not much of a gamer and does not let her young son play it. We only have her side, since the story traces entirely to her videos, so the child-support claim and the call details are hers alone. Benson says police gave her an incident report.\nThe funny part and the sad part is that someone dialed 911, an emergency line, over a password change on a login shared the way people share a streaming subscription.\nWhat makes this a GTA 6 story at all is the timing. The game didn’t cause the dispute. It just turned up in the middle of it. It is the biggest in entertainment history, after all, the one pulling in people who do not even call themselves gamers, the one turning up in offices and retirement homes and now a police incident report.\nThe numbers behind the mania are just as unreal. Take-Two Interactive and Rockstar Games moved a reported $3.79 billion of the game on day one and most of those sales ended with someone having a great week. A few, like this one, ended with a very strange phone call.\nThe account is hers again. The game is still installed. Somewhere in Washington State a police incident report now has Grand Theft Auto written on it, literally, which might be the most 2026 sentence anyone can write.\nHave you ever lost games or a whole library to a shared account after a breakup?\nOnce a post receives 3 qualifying Helpful marks\nHow to Get Lucia's Prologue Gun in GTA 6: The Low Point Nipper .38\n\"Missing\"",
-    "extra": {
-     "image": "https://media.gtaboom.com/variants/1920/media/images/19/e9/a-gta-6-purchase-on-a-shared-xbox-account-ended-in-a-911-call.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "🚨 Вызов 911 из-за GTA 6\n\nБывший парень вызвал копчиков из-за того, что девчонка забрала свой аккаунт с купленной игрой.\n\nВот это лютый рофл, чел реально обиделся на катку.\n\n❤️ — Жаль пацана\n👎 — База, сама заслужила",
-    "card_title": "ЗАКУПКА GTA 6 ЗАКОНЧИЛАСЬ 911",
-    "reason": "Dramatichnaya istoriya s vyzovom politsii iz-za igry, vysokiy hayp i realnyy otchet.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-25T19:57:46.483242+00:00"
-  },
-  {
-   "item": {
-    "title": "GTA 6 Boss Reveals How That Very Surprising Cameo Happened And What It Means For The Character",
-    "link": "https://kotaku.com/gta-6-boss-reveals-how-that-very-surprising-cameo-happened-and-what-it-means-for-the-character-2000758616",
-    "summary": "A certain someone from the franchise's past makes a fun, brief, and important appearance near the end of GTA 6",
-    "published": "2026-11-25T20:00:22+00:00",
-    "source": "Kotaku",
-    "site_name": "Kotaku",
-    "trust": "high",
-    "text": "Grand Theft Auto 6GTA 6Rob NelsonRockstar Games\nGrand Theft Auto 6 contains a surprising but cool cameo hidden near the very end of the game’s main story. So when I got a chance to chat with Rockstar’s head of production, Rob Nelson, about GTA 6 ahead of the game’s launch, I had to ask about this moment, how it came about, and what it means for the character.\nBut uh… major spoilers. Seriously, if you’re a big GTA nerd and love to be surprised, turn around right now and stop reading. You’ll thank me later when you reach this point and get to experience it unspoiled. For those who don’t care or who can’t resist the siren’s call of secrets being revealed, keep scrolling past the warning. Just don’t yell at me later!\nAs you approach the final missions in the game, Jason and Lucia start working with Giorgio, a very rich shipping magnate who works with Eastern European criminals to smuggle drugs across the ocean on his big ships. And things aren’t going well, forcing Giorgio to work with Jason, Lucia, and others on a big, ambitious plan to steal back all the cocaine confiscated by the Coast Guard as part of a large heist. But before they can pull off the heist, a higher-up from the big Balkan cartel Giorgio has been working with arrives to kill him for screwing up, but gives him one more chance to get back the coke. That badass hitman? Niko Bellic, the playable protagonist of 2008’s Grand Theft Auto IV.\nHere’s the scene from GTA 6 in which he appears:\nI asked Nelson if they’d planned to include Niko from the start, and he tells me that they hadn’t. Instead, he told me that the cameo came about “very organically.”\n“[Early in development], we had Giorgio and we had him working with a sort of Balkan cartel,” explained Nelson. The GTA 6 boss further explained that this whole storyline was based on research they’d done about actual Italian shipping companies that allegedly smuggled drugs for various gangs in South America. Apparently, a boat run by such a company was carrying 20 tons of coke when it was raided by U.S. officials. That number should sound familiar to anyone who has played the later missions of GTA 6, as that’s the amount of coke seized by the Coast Guard in the game.\n“Giorgio is not really a criminal. He’s a sort of wealthy shipping magnate who’s in league with these criminals,” said Nelson.\n“But it was sort of that same [real-world] idea. And then we needed someone from the Balkan cartel to show up. It just grew very organically, and it’s like, well, ",
-    "extra": {
-     "image": "https://kotaku.com/app/uploads/2026/11/GTa-6-cameo-blur-1280x720.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 9,
-    "post": "НИКО БЕЛЛИК вернулся в сюжетке GTA 6\n\nРазработчики подтвердили, что легендарный протагонист из GTA 4 неожиданно залетает в финальных миссиях. Вот это база, фанаты точно в шоке от такого камбэка.",
-    "card_title": "НИКО БЕЛЛИК В GTA 6",
-    "reason": "Разработчики подтвердили появление Нико Беллика из GTA 4 в сюжетке GTA 6, это лютый кайф для фанатов.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-25T20:16:18.915307+00:00"
-  },
-  {
-   "item": {
     "title": "GTA 6 vault: How to open them during big bank jobs",
     "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-vault-how-to-open/",
     "summary": "You can make well over $100,000 in a single crime if you open the bank vault and safe deposit boxes.",
@@ -22869,6 +22866,36 @@
    },
    "corr": true,
    "since": "2026-11-25T23:39:08.088997+00:00"
+  },
+  {
+   "item": {
+    "title": "Никаких крайностей: Rockstar рассказала о балансе сложности в Grand Theft Auto",
+    "link": "https://ixbt.games/news/2026/11/26/nikakix-krainostei-rockstar-rasskazala-o-balanse-sloznosti-v-grand-theft-auto.html",
+    "summary": "Rockstar не хотела сделать игру слишком легкой.",
+    "published": "2026-11-26T00:04:00+00:00",
+    "source": "iXBT.games",
+    "site_name": "iXBT.games",
+    "trust": "medium",
+    "text": "Rockstar не хотела сделать игру слишком легкой.\nРазработчики Grand Theft Auto VI стремились найти золотую середину между сложностью GTA IV и доступностью GTA V. Об этом рассказал руководитель Rockstar North Роб Нельсон в интервью Destructoid, посвященном различным аспектам разработки долгожданной игры.\nПо словам Нельсона, команда прекрасно понимала, что сложность предыдущих частей серии не всегда была сбалансированной. В частности, GTA IV временами могла оказаться чрезмерно суровой по отношению к игрокам, тогда как GTA V, напротив, порой казалась слишком легкой. При создании шестой части Rockstar хотела избежать обеих крайностей.\nПродюсер по дизайну Скотт Митчелл добавил, что разработчики уделили особое внимание тому, чтобы игровые провалы и неудачи ощущались оправданными. Команда стремилась предоставить игрокам свободу в использовании доступных механик, включая скрытное прохождение, вместо того чтобы постоянно ограничивать их выбор.\nПри этом Rockstar не собиралась отказываться от характерной для серии кинематографичности, масштабных постановочных сцен и зрелищных перестрелок.\nМы сознательно старались сделать так, чтобы неудачи в GTA 6 были уместными и не использовались чрезмерно часто при проектировании миссий. Мы хотели сохранить свободу действий и не ограничивать использование игроками таких механик, как скрытность. Однако нам также было важно сохранить кинематографичность, высокую постановочную ценность и взрывные эпизоды, которыми известна наша серия и которых ожидают поклонники. Думаю, нам удалось найти хороший баланс.\nНельсон также объяснил, как именно команда подходила к настройке сложности. По его словам, дизайнеры обычно начинают с того, что делают свои игровые эпизоды слишком трудными, после чего постепенно корректируют их, добиваясь более комфортного прохождения.\nНе пропускайте наши новостиДобавьте сайт в предпочитаемые источники, чтобы видеть нас чащеДобавить в Google",
+    "extra": {
+     "image": "https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1746442/4588e36b-beab-447b-a9e3-9b64fd9c2868.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "БАЛАНС сложности в GTA 6\n\nРазработчики признались, что хотели найти золотую середину между хардкорной четверкой и легкой пятеркой. Теперь фейлы в миссиях кажутся оправданными, а стелс наконец-то реально полезен, а не для галочки. Самое то для катки без лишней духоты.",
+    "card_title": "БАЛАНС СЛОЖНОСТИ В GTA 6",
+    "reason": "Разработчики рассказали о балансе сложности между GTA 4 и GTA 5.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-26T00:10:17.964020+00:00"
   }
  ]
 }
