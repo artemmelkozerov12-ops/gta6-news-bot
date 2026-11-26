@@ -5161,7 +5161,13 @@
   "cf50cef888e0a004": "2026-11-26T22:05:14.061412+00:00",
   "e45fe4e83090f83e": "2026-11-26T22:05:15.320689+00:00",
   "bea996b0ab3eb4fb": "2026-11-26T22:20:30.333676+00:00",
-  "6eb8261f5127a385": "2026-11-26T22:20:31.592494+00:00"
+  "6eb8261f5127a385": "2026-11-26T22:20:31.592494+00:00",
+  "873a0878a8c73b6e": "2026-11-26T22:35:49.284881+00:00",
+  "b1848a811b7823b5": "2026-11-26T22:35:51.391388+00:00",
+  "bad472e6550ca67a": "2026-11-26T22:35:52.518471+00:00",
+  "6e5f08865918af52": "2026-11-26T22:51:08.836532+00:00",
+  "ce418f0364b4c64f": "2026-11-26T22:51:10.185336+00:00",
+  "d520d2955d14a207": "2026-11-26T22:51:16.689766+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -8657,7 +8663,13 @@
   "66cb33246c10537e": "2026-11-26T22:05:14.061412+00:00",
   "b1752528d19bb397": "2026-11-26T22:05:15.320689+00:00",
   "b424f6a540c49f43": "2026-11-26T22:20:30.333676+00:00",
-  "aad44112358b44c6": "2026-11-26T22:20:31.592494+00:00"
+  "aad44112358b44c6": "2026-11-26T22:20:31.592494+00:00",
+  "cf57e5fed057fa0f": "2026-11-26T22:35:49.284881+00:00",
+  "d2d38b53285532b1": "2026-11-26T22:35:51.391388+00:00",
+  "c824493f6529e4d3": "2026-11-26T22:35:52.518471+00:00",
+  "64329058c86e8e3a": "2026-11-26T22:51:08.836532+00:00",
+  "1735ccd4c62e0b0a": "2026-11-26T22:51:10.185336+00:00",
+  "4efb22baf99e44ee": "2026-11-26T22:51:16.689766+00:00"
  },
  "recent": [
   {
@@ -16507,6 +16519,46 @@
    "status": "skipped",
    "ts": "2026-11-26T22:20:31.592630+00:00",
    "card_title": ""
+  },
+  {
+   "title": "December 11 is Suddenly an Exciting Day for GTA 6 Players",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T22:35:51.391519+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "PS5 Pro может выдавать 40–50 fps в GTA VI — энтузиасты разблокировали фреймрейт на взломанных консолях",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T22:35:52.518607+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI: 5 Small Details That Make a Big Difference",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T22:51:08.836660+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6’s Gold-Wheeled Custom Breaks Miami’s First Rule Of Donks",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T22:51:10.185470+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6's Physical Launch Has Been An Astronomical Success, Despite No Discs",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T22:51:16.689911+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -23654,6 +23706,36 @@
    },
    "corr": false,
    "since": "2026-11-26T21:33:18.110073+00:00"
+  },
+  {
+   "item": {
+    "title": "Microsoft's Github posts message celebrating efforts to port PlayStation 5 version of Grand Theft Auto 6 to PC, then quickly deletes it",
+    "link": "https://www.pcgamer.com/games/microsofts-github-posts-message-celebrating-efforts-to-port-playstation-5-version-of-grand-theft-auto-6-to-pc-then-quickly-deletes-it/",
+    "summary": "Guess who just got yelled at?",
+    "published": "2026-11-26T22:29:06+00:00",
+    "source": "PC Gamer",
+    "site_name": "PC Gamer",
+    "trust": "high",
+    "text": "Microsoft-owned developer platform Github stepped in it earlier today when it posted a message on X celebrating the success of AnyPS5, an open source project that aims to let users port PS5 executables to PC, and then linked that success directly to efforts to port Grand Theft Auto 6 to PC. The message was deleted shortly after it was posted, but not before it was widely noticed and called out for being a very bad idea.\n\"GTA 6 is finally here, sparking one of the biggest weeks in gaming and open source on Github,\" the message stated (via Kotaku).\n\"The repo AnyPS5 has passed 58K stars since its August launch, rewriting PS5 executables to run on Windows and Linux. Does changing where games run cross a legal line? Share your take. Happy GTA VImas!\"\nLest there be any misunderstanding, a video that accompanied the post made the GTA 6 connection explicit: \"The project rewrites a game's executable so Windows and Linux can run it directly. Performance seems to be the main issue for users wanting to run GTA 6, with one contributor telling the project's community to 'lock in and get your agents to help' if they need to.\"\nThe question of whether or not this sort of thing crosses a legal line has, predictably, sparked debate among those who think they have a clear understanding of the answer. What caught most by surprise, though, is that Github—which is owned by Microsoft—would put forth the question in the first place, implicitly suggesting that it might not. GTA 6 publisher Take-Two Interactive has been pretty aggressive with its efforts to keep recompiled versions of GTA 6 from landing on PC, and I can't imagine it would too thrilled with Github—which, I must emphasize, is owned by Microsoft—telling the world that it might actually be okay to go ahead and vibe-code it up.\nThat point wasn't missed by redditors, one of whom described it as Github \"openly taunting Sony and Rockstar.\" Even the AnyPS5 subreddit seemed baffled: Redditor superkickstart asked, \"Do they have AI running their socials? Lol\"\nThere's also a little bit of irony in the fact that, until earlier this week, the leading effort to get GTA 6 running on PC was based on an Xbox build of the game posted by GTA 6 leaker Cyberleeks. Beyond that, there are also some very obvious questions about how Github (owned by Microsoft) would react to AI-powered ports of, say, other software:\nKeep up to date with the most important stories and the best deals, as picked by the PC Gamer team.\nThe whole thing is weird, re",
+    "extra": {
+     "image": "https://cdn.mos.cms.futurecdn.net/fcoJMA24BgZGj8SXahRBLF-1920-80.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "GITHUB ЗАЛЕТЕЛ В СКАНДАЛ\n\nMicrosoft-owned GitHub случайно респектанул проект AnyPS5, который пилит порт GTA 6 на ПК, а потом быстро потёр твит. Вот это поворот, Take-Two точно в тильте от такого пранка.\n\n❤️ — Мелкомягкие троллят Сони\n👎 — Опять баг в соцсетях",
+    "card_title": "GITHUB ЗАТВИТЕРИЛ ПРО ПОРТ GTA 6",
+    "reason": "Microsoft's GitHub posted and deleted a tweet celebrating a tool used to port PS5 GTA 6 to PC, causing massive drama.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-26T22:35:49.876037+00:00"
   }
  ]
 }
