@@ -4696,7 +4696,11 @@
   "5ce3a69a4a6a052c": "2026-11-26T08:37:51.005199+00:00",
   "72c3dc5a5a510b7b": "2026-11-26T08:53:30.243518+00:00",
   "433c2d27fa45c1f2": "2026-11-26T08:53:32.648662+00:00",
-  "e36f314b7413e0fa": "2026-11-26T08:53:39.563767+00:00"
+  "e36f314b7413e0fa": "2026-11-26T08:53:39.563767+00:00",
+  "1b864ec839132fd5": "2026-11-26T09:07:57.922582+00:00",
+  "02987bf22340f59c": "2026-11-26T09:09:59.296223+00:00",
+  "0bde5fbe0c17a4af": "2026-11-26T09:10:03.542696+00:00",
+  "913b6d2f5c5c3ac3": "2026-11-26T09:10:05.929613+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -7841,7 +7845,10 @@
   "5f3b48d1be6c1248": "2026-11-26T08:37:49.216714+00:00",
   "18fcc19bf4bfad92": "2026-11-26T08:37:51.005199+00:00",
   "a4e9d15a91b4dea4": "2026-11-26T08:53:39.563767+00:00",
-  "c5a9441fb2cbf34d": "2026-11-26T08:53:32.648662+00:00"
+  "c5a9441fb2cbf34d": "2026-11-26T08:53:32.648662+00:00",
+  "250e0d6b171fe366": "2026-11-26T09:09:59.296223+00:00",
+  "2e781cd6c44913ab": "2026-11-26T09:10:03.542696+00:00",
+  "ddfa6d76872f7442": "2026-11-26T09:10:05.929613+00:00"
  },
  "recent": [
   {
@@ -15187,6 +15194,30 @@
    "status": "skipped",
    "ts": "2026-11-26T08:53:39.563894+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GTA 6 holds up a mirror to the gaming industry – thousands of gamers agree",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T09:09:59.296353+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Rockstar Explains Why GTA VI Makes Players Face the Consequences of Their Crimes",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T09:10:03.542826+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "‘South Park’ Season 29 Finale: ‘GTA 6’ Inspires Stan, Kyle and Cartman to Get to the Bottom of South America’s Power Outages",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T09:10:05.929753+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -15837,6 +15868,36 @@
    "file_id": "BAACAgIAAxkDAAOxawfo1rHf2uhvmYyuTT_MEMiWd6EAApS1AAJzyzlI5U1SntUnFLE9BA",
    "moderation": "pending",
    "draft_msg_id": 177
+  },
+  {
+   "clip": {
+    "source": "twitch",
+    "url": "https://www.twitch.tv/illojuan/clip/ProudLuckyAxeOhMyDog-nVG0HtPeeu1mT614",
+    "title": "Viva el Nudismo!!!",
+    "author": "IlloJuan",
+    "views": 1305,
+    "duration": 45.4,
+    "created": "2026-11-25T23:55:37+00:00",
+    "lang": "es",
+    "description": "",
+    "vod_id": "2940424560",
+    "vod_offset": 28064.0
+   },
+   "caption": "🔞 Нудистский пляж в Леониде — база. NPC буквально не стесняются вообще ничего, полный рофл 💀",
+   "interest": 7,
+   "spoiler": false,
+   "nsfw": true,
+   "watched": true,
+   "model": "gemini:gemini-3.5-flash-lite",
+   "media": {
+    "width": null,
+    "height": 720,
+    "duration": 45
+   },
+   "queued_at": "2026-11-26T09:08:09.556153+00:00",
+   "file_id": "BAACAgIAAxkDAAOyawf2_LR6NcyGBckSP3fw-cv7awkAAvCsAAJzy0FIr124GWzX1GI9BA",
+   "moderation": "pending",
+   "draft_msg_id": 178
   }
  ],
  "clip_drafts": [
@@ -15859,7 +15920,8 @@
   "2026-11-25T20:43:45.856460+00:00",
   "2026-11-25T21:48:57.940422+00:00",
   "2026-11-26T07:04:22.411410+00:00",
-  "2026-11-26T08:07:51.586512+00:00"
+  "2026-11-26T08:07:51.586512+00:00",
+  "2026-11-26T09:08:12.581306+00:00"
  ],
  "clip_history": [
   {
@@ -22260,6 +22322,25 @@
    "ts": "2026-11-26T08:07:51.586530+00:00",
    "frames": [],
    "caption": "Имба: угнал танк прямо с военной базы — копы теперь точно не догонят 💀"
+  },
+  {
+   "author": "twitch:illojuan",
+   "vod": "2940424560",
+   "offset": 28064.0,
+   "title": "Viva el Nudismo!!!",
+   "drafted": false,
+   "ts": "2026-11-26T09:07:57.922634+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:illojuan",
+   "vod": "2940424560",
+   "offset": 28064.0,
+   "title": "Viva el Nudismo!!!",
+   "drafted": true,
+   "ts": "2026-11-26T09:08:12.581324+00:00",
+   "frames": [],
+   "caption": "🔞 Нудистский пляж в Леониде — база. NPC буквально не стесняются вообще ничего, полный рофл 💀"
   }
  ],
  "published": [
