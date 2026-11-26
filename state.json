@@ -4634,7 +4634,32 @@
   "198363738eeb498d": "2026-11-26T06:44:39.077500+00:00",
   "e3dd109550ec2e86": "2026-11-26T06:44:40.225839+00:00",
   "140db9439b00d4c9": "2026-11-26T06:44:41.514875+00:00",
-  "4d0b75136597bfa1": "2026-11-26T06:44:46.208934+00:00"
+  "4d0b75136597bfa1": "2026-11-26T06:44:46.208934+00:00",
+  "ee2434bc07a4ec6f": "2026-11-26T07:00:20.306212+00:00",
+  "b5c76e30d90ed045": "2026-11-26T07:00:22.164902+00:00",
+  "c45d4f54422537af": "2026-11-26T07:00:26.251738+00:00",
+  "c721c403760d96a1": "2026-11-26T07:00:29.743761+00:00",
+  "9f057eb2f070a05e": "2026-11-26T07:00:34.819109+00:00",
+  "bba33bcab75d3923": "2026-11-26T07:00:36.043766+00:00",
+  "e7d46badc3fa3bf8": "2026-11-26T07:00:36.766517+00:00",
+  "5d23cacd4f882484": "2026-11-26T07:00:37.578538+00:00",
+  "74af4c3f2ae24952": "2026-11-26T07:01:31.354207+00:00",
+  "8b703b743c3e3eec": "2026-11-26T07:01:32.254161+00:00",
+  "53c75afddc4b736d": "2026-11-26T07:01:32.987436+00:00",
+  "632e5e6fb722e453": "2026-11-26T07:01:33.766727+00:00",
+  "dd9cdd1317560259": "2026-11-26T07:02:24.798612+00:00",
+  "79bb9a78924b02f3": "2026-11-26T07:02:25.750734+00:00",
+  "77f70ab3ed5ba32e": "2026-11-26T07:02:26.614271+00:00",
+  "155b954dd1bd452d": "2026-11-26T07:02:27.370073+00:00",
+  "e032f6e01a76798c": "2026-11-26T07:03:18.252756+00:00",
+  "69f2a5e247311622": "2026-11-26T07:03:19.134604+00:00",
+  "08d888b3637b80b5": "2026-11-26T07:03:19.997867+00:00",
+  "b887ba1f2bf6a20d": "2026-11-26T07:03:20.776916+00:00",
+  "9a4d076a550516fc": "2026-11-26T07:04:11.719151+00:00",
+  "78fb90aef74154c4": "2026-11-26T07:16:11.654548+00:00",
+  "dd064aa34e31d395": "2026-11-26T07:16:43.249920+00:00",
+  "4dba4f25277eeafc": "2026-11-26T07:17:04.299749+00:00",
+  "fa36ad8bd32eb204": "2026-11-26T07:17:31.578488+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -7747,7 +7772,15 @@
   "8f44a4521ef90882": "2026-11-26T06:44:39.077500+00:00",
   "993f92f0b7ceb9d2": "2026-11-26T06:44:40.225839+00:00",
   "c59742e57c26ed84": "2026-11-26T06:44:41.514875+00:00",
-  "b142238c427fca41": "2026-11-26T06:44:46.208934+00:00"
+  "b142238c427fca41": "2026-11-26T06:44:46.208934+00:00",
+  "3c3c34ec52c2c2cd": "2026-11-26T07:00:20.306212+00:00",
+  "74c10c639a702bd2": "2026-11-26T07:00:22.164902+00:00",
+  "c6f032e32131a5d3": "2026-11-26T07:00:26.251738+00:00",
+  "3b8aa30de5577faa": "2026-11-26T07:00:29.743761+00:00",
+  "080c6ee616bb7fd1": "2026-11-26T07:16:11.654548+00:00",
+  "e08138dcc58316ea": "2026-11-26T07:16:43.249920+00:00",
+  "80b90e8b6f3e5622": "2026-11-26T07:17:04.299749+00:00",
+  "b374b2043cd27272": "2026-11-26T07:17:31.578488+00:00"
  },
  "recent": [
   {
@@ -13354,7 +13387,7 @@
    "title": "New GTA 6 money farm involves winning a fist fight against a viral NPC fans once thought invincible",
    "source": "GamesRadar+",
    "trust": "high",
-   "status": "queued",
+   "status": "published",
    "ts": "2026-11-25T20:13:43.851223+00:00",
    "card_title": "ФЕРМА НА $2К"
   },
@@ -14829,40 +14862,81 @@
    "status": "skipped",
    "ts": "2026-11-26T06:44:46.209062+00:00",
    "card_title": ""
+  },
+  {
+   "title": "Утечка раскрыла графические настройки GTA VI на PS5 и Xbox: PS5 Pro получила заметное преимущество",
+   "source": "iXBT.games",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-26T07:00:20.306338+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Sidetracked with Annie and Nick | Taylor Swift Conspiracies, GTA VI Music and the Best and Worst Christmas Songs",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T07:00:22.165034+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Эти фильмы вдохновили создателей GTA VI: «Бонни и Клайд» и еще шесть картин",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T07:00:26.251866+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "This LEGO GTA VI diorama puts an entire speedboat getaway on your shelf",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T07:00:29.743891+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Сколько лет Люсии и Джейсону из GTA VI? Игроки нашли ответы в водительских правах",
+   "source": "iXBT.games",
+   "trust": "medium",
+   "status": "queued",
+   "ts": "2026-11-26T07:16:10.069016+00:00",
+   "card_title": "ВОЗРАСТЫ ДЖЕЙСОНА И ЛЮСИИ"
+  },
+  {
+   "title": "GTA 6 The Cartel Heist Walkthrough: Full Guide & Max Payout Tips",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-26T07:16:18.151338+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Разработчики GTA 6 подталкивают игроков к уходу от преступности через игровые механики",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T07:16:43.250047+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Новосибирец рассказал о своей жизни после того, как променял работу на GTA 6",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T07:17:04.299876+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Davy Jones распаковал на видео редкую PS5 Pro в стиле GTA 6 — таких консолей всего 100",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T07:17:31.578617+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
-  {
-   "item": {
-    "title": "New GTA 6 money farm involves winning a fist fight against a viral NPC fans once thought invincible",
-    "link": "https://www.gamesradar.com/games/grand-theft-auto/the-latest-gta-6-money-farm-involves-winning-a-fist-fight-against-a-viral-npc-that-fans-once-thought-was-invincible/",
-    "summary": "Put 'em up?",
-    "published": "2026-11-25T16:45:39+00:00",
-    "source": "GamesRadar+",
-    "site_name": "GamesRadar+",
-    "trust": "high",
-    "text": "If you go about wielding your sniper rifle indiscriminately in GTA 6, you'd best beware of the side effects. Some NPCs don't take you scoping them out lightly, but if you can handle the reaction, you can make a pretty penny.\nA strange but hilarious behavior has regular people on the street reacting to you zooming in on them if you have your sniper out. Doing so can eventually lead them to notice you, even if you're hundreds of meters away, and draw their thumb across their neck in a threat towards you.\nThen comes the scary bit: they run full tilt towards wherever you are. Like the creature in the film It Follows or the T-1000. Unstoppable and inescapable. Eventually, they will find you, and when they do, you'd best be ready because they're now practically invincible.\nSome resourceful players have managed to record themselves taking on these sudden arch-nemeses. Killing them grants you $2,000, making it a decent way to fatten up your wallet in a hurry.\nThe streamer CausticCorro has a perfect example. In their clip, you can see the NPC tracks them from across Leonida at night, and they've become impervious to guns. Only a fist fight sorts them out.\nAnother common method is to bait them into a high vantage point and then throw them over a wall to their doom. Messier, but more satisfying, in my view. Either way, the $2,000 per go is there for the taking.\nThis is definitely the kind of thing Rockstar will patch out quickly, so enjoy it while you can. Just be careful while you do.\nWeekly digests, tales from the communities you love, and more\nGTA 6 features something Rockstar tried to pull off in Grand Theft Auto: Vice City 24 years ago, former tech lead says\nAnthony is an Irish entertainment and games journalist, now based in Glasgow. He previously served as Senior Anime Writer at Dexerto and News Editor at The Digital Fix, on top of providing work for Variety, IGN, Den of Geek, PC Gamer, and many more. Besides Studio Ghibli, horror movies, and The Muppets, he enjoys action-RPGs, heavy metal, and pro-wrestling. He interviewed Animal once, not that he won’t stop going on about it or anything.\nYou must confirm your public display name before commenting\nPlease logout and then login again, you will then be prompted to enter your display name.\n1 New GTA 6 money farm involves winning a fist fight against a viral NPC fans once thought invincible\n2 Devil May Cry creator Hideki Kamiya wants to make a Castlevania game, urges Konami to reach out\n3 GTA 6 is \"pure sorcery,\" ",
-    "extra": {
-     "image": "https://cdn.mos.cms.futurecdn.net/QkVrvYdazxdPY89GYg4nYm-1920-80.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "💰 Ферма на $2k: битва кулаками с невидимым NPC\n\n🗺 Гайд: 1️⃣ Зацени NPC, который начинает тебя преследовать, когда ты держишь снайпер. 2️⃣ Скинь оружие, дай ему подойти — только кулак работает. 3️⃣ Убей его в рукопашку, получи $2 000. Делай ночью в Леонида, это имба‑фарм. 🎮",
-    "card_title": "ФЕРМА НА $2К",
-    "reason": "Подтвержденный игроками баг-механика из вышедшей игры, интересный для заработка и фана.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "groq:qwen/qwen3.8-27b → groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-25T20:13:43.851211+00:00",
-   "moderation": "pending",
-   "draft_msg_id": 169
-  },
   {
    "item": {
     "title": "Attempts To Vibe-Code PC Ports Of GTA 6 Are Being Shut Down, But It Might Be Too Late To Put The Genie Back In The Bottle",
@@ -14891,8 +14965,9 @@
     "model": "gemini:gemini-3.1-flash-lite → groq:openai/gpt-oss-120b"
    },
    "queued_at": "2026-11-25T20:15:30.446332+00:00",
-   "moderation": "pending",
-   "draft_msg_id": 171
+   "moderation": "approved",
+   "draft_msg_id": 171,
+   "waiting_logged": true
   },
   {
    "item": {
@@ -15124,7 +15199,9 @@
     "guide": true,
     "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
    },
-   "queued_at": "2026-11-26T01:27:58.459003+00:00"
+   "queued_at": "2026-11-26T01:27:58.459003+00:00",
+   "moderation": "pending",
+   "draft_msg_id": 174
   },
   {
    "item": {
@@ -15246,6 +15323,35 @@
   },
   {
    "item": {
+    "title": "Сколько лет Люсии и Джейсону из GTA VI? Игроки нашли ответы в водительских правах",
+    "link": "https://ixbt.games/news/2026/11/26/skolko-let-liusii-i-dzeisonu-iz-gta-vi-igroki-nasli-otvety-v-voditelskix-pravax.html",
+    "summary": "Благодаря документам, спрятанным в мире игры, фанаты GTA VI узнали, когда родились Джейсон Дюваль и Люсия Каминос, насколько они разнятся в росте и сколько лет персонажам второго плана.",
+    "published": "2026-11-26T03:48:00+00:00",
+    "source": "iXBT.games",
+    "site_name": "iXBT.games",
+    "trust": "medium",
+    "text": "Благодаря документам, спрятанным в мире игры, фанаты GTA VI узнали, когда родились Джейсон Дюваль и Люсия Каминос, насколько они разнятся в росте и сколько лет персонажам второго плана.\nИгроки GTA VI выяснили точный возраст Люсии и Джейсона, обнаружив виртуальные водительские права персонажей. Заодно игроки узнали их рост и возраст нескольких второстепенных героев.\nСтаршим из главной пары оказался Джейсон Дюваль. Согласно документам, ему ровно 30 лет: он родился 1 мая 1996 года. Рост персонажа составляет 190 сантиметров.\nЕго спутница Люсия Каминос на четыре года младше – ей 26 лет. В водительских правах указана дата рождения 20 ноября 2000 года. Примечательно, что девушка отметила день рождения всего несколько дней назад, уже после выхода игры, однако большинство игроков, занятых исследованием Вайс-Сити, пропустили это событие.\nРазница в росте между героями тоже оказалась заметной. Люсия достигает всего 160 сантиметров, поэтому Джейсон выше на 30 сантиметров.\nI don't know if this already got shared, but these are the birthdates/infos of some characters in GTA VI: Lucia Caminos - 11/20/2000 - 5'3\" (~1,60m) Jason Duval - 01/05/1996 - 6'3\" (~1,90m) Andy Lee-Scott - 04/17/2001 - 5'5\" (~1,65m)\nПокопавшись в документах, игроки обнаружили сведения и о других персонажах. Например, Энди Ли-Скотту 25 лет при росте 165 сантиметров, а Дональду Картеру уже исполнилось 48 лет.\nНе пропускайте наши новостиДобавьте сайт в предпочитаемые источники, чтобы видеть нас чащеДобавить в Google",
+    "extra": {
+     "image": "https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1746452/663bc3c3-1117-4b58-b2b7-1cc6a1ebe4b6.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "🕵️‍♂️ Возраст Джейсона и Люсии раскрыт\n\nИгроки врубились в скрытые водительские права и вытащили точные даты рождения: Джейсон — 1 мая 1996 (30 лет), Люсия — 20 ноября 2000 (26 лет). Рост: 190 см vs 160 см. Факт, который многие пропустили после релиза. 🎂🤯",
+    "card_title": "ВОЗРАСТЫ ДЖЕЙСОНА И ЛЮСИИ",
+    "reason": "Подтверждённые игровые документы, интересны фанатам лора",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "groq:openai/gpt-oss-120b → groq:openai/gpt-oss-120b"
+   },
+   "queued_at": "2026-11-26T07:16:10.069003+00:00"
+  },
+  {
+   "item": {
     "title": "30 Things You Might Have Missed in GTA 6",
     "link": "https://insider-gaming.com/30-things-you-might-have-missed-in-gta-6/",
     "summary": "From secret locations to hidden controller settings, here are 30 things that you might have missed in GTA 6 so far. The post 30 Things You Might Have Missed in GTA 6 appeared first on Insider Gaming .",
@@ -15357,9 +15463,11 @@
   "2026-11-25T17:21:45.937168+00:00",
   "2026-11-25T17:38:45.051199+00:00",
   "2026-11-25T17:55:29.278716+00:00",
-  "2026-11-25T20:00:53.556249+00:00"
+  "2026-11-25T20:00:53.556249+00:00",
+  "2026-11-26T07:05:06.630939+00:00",
+  "2026-11-26T07:20:58.761582+00:00"
  ],
- "tg_offset": 387129105,
+ "tg_offset": 387129108,
  "channel": {
   "id": -1003986639147,
   "title": "GTA 6 | Горячие новости",
@@ -15397,46 +15505,18 @@
   "2026-11-25T19:30:49.885794+00:00",
   "2026-11-25T20:31:08.281051+00:00",
   "2026-11-25T21:38:36.246061+00:00",
-  "2026-11-26T06:00:44.673199+00:00"
+  "2026-11-26T06:00:44.673199+00:00",
+  "2026-11-26T07:01:31.326672+00:00"
  ],
  "slots_sent": {
   "2026-11-24:guide:1": "2026-11-24T14:08:00.473378+00:00",
   "2026-11-24:guide:2": "2026-11-24T17:12:17.478516+00:00",
   "2026-11-25:guide:1": "2026-11-25T11:02:35.662625+00:00",
-  "2026-11-25:guide:2": "2026-11-25T19:30:49.885888+00:00"
+  "2026-11-25:guide:2": "2026-11-25T19:30:49.885888+00:00",
+  "2026-11-26:guide:1": "2026-11-26T07:01:31.326765+00:00"
  },
  "urgent": [],
  "clips": [
-  {
-   "clip": {
-    "source": "twitch",
-    "url": "https://www.twitch.tv/kaicenat/clip/MistyFastChickpeaBatChest-1l50Cnz_nbghKxmh",
-    "title": "lol",
-    "author": "KaiCenat",
-    "views": 7329,
-    "duration": 19.4,
-    "created": "2026-11-24T20:37:40+00:00",
-    "lang": "en",
-    "description": "",
-    "vod_id": "2939504732",
-    "vod_offset": 10835.0
-   },
-   "caption": "Погоня в стиле GTA 6: копы тут реально душные, не дают спокойно покататься. Физика повреждений — чистый разнос, машина в хлам после пары ударов 💀",
-   "interest": 9,
-   "spoiler": false,
-   "nsfw": false,
-   "watched": true,
-   "model": "gemini:gemini-3.1-flash-lite",
-   "media": {
-    "width": null,
-    "height": 720,
-    "duration": 19
-   },
-   "queued_at": "2026-11-25T07:07:57.763607+00:00",
-   "file_id": "BAACAgIAAxkDAAOTawaJTx5BR32V2s1silJCQM3GbyoAAiKwAAImEThI3ewE5yFgm-89BA",
-   "moderation": "pending",
-   "draft_msg_id": 147
-  },
   {
    "clip": {
     "source": "twitch",
@@ -15560,36 +15640,6 @@
   {
    "clip": {
     "source": "twitch",
-    "url": "https://www.twitch.tv/moistcr1tikal/clip/BreakableDignifiedOwlNononoCat-9DqFo8SETPO5BY7C",
-    "title": "Charlie Getting Handsy",
-    "author": "moistcr1tikal",
-    "views": 292,
-    "duration": 60.0,
-    "created": "2026-11-25T05:09:55+00:00",
-    "lang": "en",
-    "description": "",
-    "vod_id": "2940077001",
-    "vod_offset": 2266.0
-   },
-   "caption": "🔞 В GTA 6 завезли мини-игру с массажем и съёмками на пляже — чисто лютый разнос 💀",
-   "interest": 8,
-   "spoiler": false,
-   "nsfw": true,
-   "watched": true,
-   "model": "gemini:gemini-3.5-flash-lite",
-   "media": {
-    "width": null,
-    "height": 720,
-    "duration": 60
-   },
-   "queued_at": "2026-11-25T19:42:10.873462+00:00",
-   "file_id": "BAACAgIAAxkDAAOoawc6FDXmq5sEjJjYp--PN538b1AAAkG6AAImEThIPX2Y-2sC8XQ9BA",
-   "moderation": "pending",
-   "draft_msg_id": 168
-  },
-  {
-   "clip": {
-    "source": "twitch",
     "url": "https://www.twitch.tv/rubius/clip/KnottyClumsyPepperPogChamp-yMfYotTaJGHSMpt5",
     "title": "aplastado",
     "author": "Rubius",
@@ -15646,6 +15696,36 @@
    "file_id": "BAACAgIAAxkDAAOsawdXycJHQsPAZhAbFdwgDa8RGG4AAgi7AAImEThIiYYLfRuyZqs9BA",
    "moderation": "pending",
    "draft_msg_id": 172
+  },
+  {
+   "clip": {
+    "source": "twitch",
+    "url": "https://www.twitch.tv/tminnzy/clip/HardVictoriousPeafowlTwitchRPG-j8Q8j8GsgrudaSJH",
+    "title": "I STOLE THEIR LAMBO AND TOLD THEM TO BUY ANOTHER ONE 🤣🏎️",
+    "author": "Tminnzy",
+    "views": 95018,
+    "duration": 29.8,
+    "created": "2026-11-25T11:19:41+00:00",
+    "lang": "en",
+    "description": "",
+    "vod_id": "2940095593",
+    "vod_offset": 8036.0
+   },
+   "caption": "Угнал тачку у местных, а они еще и догоняют со словами «купи новую». NPC в GTA 6 реально душные 💀",
+   "interest": 8,
+   "spoiler": false,
+   "nsfw": false,
+   "watched": true,
+   "model": "gemini:gemini-3.5-flash-lite",
+   "media": {
+    "width": null,
+    "height": 720,
+    "duration": 29
+   },
+   "queued_at": "2026-11-26T07:04:19.731595+00:00",
+   "file_id": "BAACAgIAAxkDAAOvawfZ9nc_0Z2t-OIUjmEG1kgQX-8AAuS0AAJzyzlIf5fIBO6UnvI9BA",
+   "moderation": "pending",
+   "draft_msg_id": 175
   }
  ],
  "clip_drafts": [
@@ -15666,7 +15746,8 @@
   "2026-11-25T12:24:26.140864+00:00",
   "2026-11-25T19:42:13.345058+00:00",
   "2026-11-25T20:43:45.856460+00:00",
-  "2026-11-25T21:48:57.940422+00:00"
+  "2026-11-25T21:48:57.940422+00:00",
+  "2026-11-26T07:04:22.411410+00:00"
  ],
  "clip_history": [
   {
@@ -21812,6 +21893,153 @@
    "ts": "2026-11-25T21:48:57.940430+00:00",
    "frames": [],
    "caption": "Пожарка в GTA 6 — это лютая имба, разносит всё на пути как не в себя. Чел просто устроил настоящий хаос на пляже, ору 💀"
+  },
+  {
+   "author": "youtube:vertygoose",
+   "vod": "",
+   "offset": -1,
+   "title": "POV: One Of The Best Side Missions (GTA 6) 💀 | #shorts #gta6",
+   "drafted": false,
+   "ts": "2026-11-26T07:00:34.819164+00:00"
+  },
+  {
+   "author": "youtube:spinfactz",
+   "vod": "",
+   "offset": -1,
+   "title": "When Your Own Dad Is In GTA 6 😱🎮",
+   "drafted": false,
+   "ts": "2026-11-26T07:00:36.043805+00:00"
+  },
+  {
+   "author": "youtube:vanillas vault",
+   "vod": "",
+   "offset": -1,
+   "title": "#gta6 #vanillamace #twitch #vanilla #funny #gta #trending",
+   "drafted": false,
+   "ts": "2026-11-26T07:00:36.766556+00:00"
+  },
+  {
+   "author": "youtube:qasi",
+   "vod": "",
+   "offset": -1,
+   "title": "¡Guardó Un Nugget Hasta Que Saliera GTA 6! 🍗",
+   "drafted": false,
+   "ts": "2026-11-26T07:00:37.578575+00:00"
+  },
+  {
+   "author": "youtube:gta6 stories",
+   "vod": "",
+   "offset": -1,
+   "title": "#gta  #gta6  #gta6stories",
+   "drafted": false,
+   "ts": "2026-11-26T07:01:31.354251+00:00"
+  },
+  {
+   "author": "youtube:typical gamer",
+   "vod": "",
+   "offset": -1,
+   "title": "🔴 LIVE! - GTA 6 FREE ROAM and EASTER EGGS! (PS5 PRO)",
+   "drafted": false,
+   "ts": "2026-11-26T07:01:32.254200+00:00"
+  },
+  {
+   "author": "youtube:gta6‑狂野世界",
+   "vod": "",
+   "offset": -1,
+   "title": "露西亚好想逃#gta  #gta6  #shorts",
+   "drafted": false,
+   "ts": "2026-11-26T07:01:32.987470+00:00"
+  },
+  {
+   "author": "youtube:jaum brow",
+   "vod": "",
+   "offset": -1,
+   "title": "TÁ TODO MUNDO VICIADO EM GTA 6!",
+   "drafted": false,
+   "ts": "2026-11-26T07:01:33.766764+00:00"
+  },
+  {
+   "author": "youtube:pixeliplier",
+   "vod": "",
+   "offset": -1,
+   "title": "CaseOh Turned GTA 6 Into A CONCERT",
+   "drafted": false,
+   "ts": "2026-11-26T07:02:24.798650+00:00"
+  },
+  {
+   "author": "youtube:naj b fit",
+   "vod": "",
+   "offset": -1,
+   "title": "Tout le monde est amoureux de Mandy dans GTA6",
+   "drafted": false,
+   "ts": "2026-11-26T07:02:25.750778+00:00"
+  },
+  {
+   "author": "youtube:history rewritten",
+   "vod": "",
+   "offset": -1,
+   "title": "Is GTA 6's Map Too Small? 😱 3 Rockstar Maps Fit Inside Leonida! #gta6",
+   "drafted": false,
+   "ts": "2026-11-26T07:02:26.614315+00:00"
+  },
+  {
+   "author": "youtube:bytetalkyt",
+   "vod": "",
+   "offset": -1,
+   "title": "There's A PlayStation Inside GTA 6 But No Xbox",
+   "drafted": false,
+   "ts": "2026-11-26T07:02:27.370114+00:00"
+  },
+  {
+   "author": "youtube:maruf hasan milu",
+   "vod": "",
+   "offset": -1,
+   "title": "Gangnam Style Trend in GTA 6 Vice City 😂🔥 #shorts",
+   "drafted": false,
+   "ts": "2026-11-26T07:03:18.252799+00:00"
+  },
+  {
+   "author": "youtube:flayhq",
+   "vod": "",
+   "offset": -1,
+   "title": "Get a FREE TANK From the President’s Secret Bunker in GTA 6!",
+   "drafted": false,
+   "ts": "2026-11-26T07:03:19.134647+00:00"
+  },
+  {
+   "author": "youtube:schlayer",
+   "vod": "",
+   "offset": -1,
+   "title": "Something is WRONG with Jason and Lucia in GTA 6! #gta6 #gaming #shorts",
+   "drafted": false,
+   "ts": "2026-11-26T07:03:19.997913+00:00"
+  },
+  {
+   "author": "youtube:ben-gun",
+   "vod": "",
+   "offset": -1,
+   "title": "This is why GTA 6 sold 45 million copies 😂",
+   "drafted": false,
+   "ts": "2026-11-26T07:03:20.776964+00:00"
+  },
+  {
+   "author": "twitch:tminnzy",
+   "vod": "2940095593",
+   "offset": 8036.0,
+   "title": "I STOLE THEIR LAMBO AND TOLD THEM TO BUY ANOTHER ONE 🤣🏎️",
+   "drafted": false,
+   "ts": "2026-11-26T07:04:11.719219+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:tminnzy",
+   "vod": "2940095593",
+   "offset": 8036.0,
+   "title": "I STOLE THEIR LAMBO AND TOLD THEM TO BUY ANOTHER ONE 🤣🏎️",
+   "drafted": true,
+   "ts": "2026-11-26T07:04:22.411428+00:00",
+   "frames": [],
+   "caption": "Угнал тачку у местных, а они еще и догоняют со словами «купи новую». NPC в GTA 6 реально душные 💀"
   }
  ],
  "published": [
@@ -22297,6 +22525,20 @@
    "title": "GTA 6: Полные ню сцены в игре",
    "importance": 7,
    "kind": "confirmed"
+  },
+  {
+   "ts": "2026-11-26T07:05:06.630961+00:00",
+   "msg_id": 101,
+   "title": "В GTA 6 завезли мини-игру с массажем и съёмками на пляже — чисто лютый разнос 💀",
+   "importance": 8,
+   "kind": "video"
+  },
+  {
+   "ts": "2026-11-26T07:20:58.761598+00:00",
+   "msg_id": 102,
+   "title": "Ферма на $2k: битва кулаками с невидимым NPC",
+   "importance": 8,
+   "kind": "confirmed"
   }
  ],
  "extras": [],
@@ -22309,36 +22551,5 @@
   "digest-20261124": "2026-11-24T19:30:13.623703+00:00",
   "digest-20261125": "2026-11-25T19:30:50.081169+00:00"
  },
- "rewrite_wait": [
-  {
-   "item": {
-    "title": "Сколько лет Люсии и Джейсону из GTA VI? Игроки нашли ответы в водительских правах",
-    "link": "https://ixbt.games/news/2026/11/26/skolko-let-liusii-i-dzeisonu-iz-gta-vi-igroki-nasli-otvety-v-voditelskix-pravax.html",
-    "summary": "Благодаря документам, спрятанным в мире игры, фанаты GTA VI узнали, когда родились Джейсон Дюваль и Люсия Каминос, насколько они разнятся в росте и сколько лет персонажам второго плана.",
-    "published": "2026-11-26T03:48:00+00:00",
-    "source": "iXBT.games",
-    "site_name": "iXBT.games",
-    "trust": "medium",
-    "text": "Благодаря документам, спрятанным в мире игры, фанаты GTA VI узнали, когда родились Джейсон Дюваль и Люсия Каминос, насколько они разнятся в росте и сколько лет персонажам второго плана.\nИгроки GTA VI выяснили точный возраст Люсии и Джейсона, обнаружив виртуальные водительские права персонажей. Заодно игроки узнали их рост и возраст нескольких второстепенных героев.\nСтаршим из главной пары оказался Джейсон Дюваль. Согласно документам, ему ровно 30 лет: он родился 1 мая 1996 года. Рост персонажа составляет 190 сантиметров.\nЕго спутница Люсия Каминос на четыре года младше – ей 26 лет. В водительских правах указана дата рождения 20 ноября 2000 года. Примечательно, что девушка отметила день рождения всего несколько дней назад, уже после выхода игры, однако большинство игроков, занятых исследованием Вайс-Сити, пропустили это событие.\nРазница в росте между героями тоже оказалась заметной. Люсия достигает всего 160 сантиметров, поэтому Джейсон выше на 30 сантиметров.\nI don't know if this already got shared, but these are the birthdates/infos of some characters in GTA VI: Lucia Caminos - 11/20/2000 - 5'3\" (~1,60m) Jason Duval - 01/05/1996 - 6'3\" (~1,90m) Andy Lee-Scott - 04/17/2001 - 5'5\" (~1,65m)\nПокопавшись в документах, игроки обнаружили сведения и о других персонажах. Например, Энди Ли-Скотту 25 лет при росте 165 сантиметров, а Дональду Картеру уже исполнилось 48 лет.\nНе пропускайте наши новостиДобавьте сайт в предпочитаемые источники, чтобы видеть нас чащеДобавить в Google",
-    "extra": {
-     "image": "https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1746452/663bc3c3-1117-4b58-b2b7-1cc6a1ebe4b6.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "🗂 Возраст Джейсона и Люсии раскрыт!\n\nФанаты вытащили их водительские права и теперь знаем: Джейсон — 30 лет, 190 см, а Люсия — 26 лет, 160 см. Лайт‑рейд в Вайс‑Сити, теперь можно точнее обсуждать их диалоги и ростовые батлы. 🚗",
-    "card_title": "ВОЗРАСТ ДЖЕЙСОНА И ЛЮСИИ",
-    "reason": "Подтверждённые игровые документы, интересны фанатам лора",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "groq:openai/gpt-oss-120b"
-   },
-   "corr": false,
-   "since": "2026-11-26T04:08:11.718388+00:00"
-  }
- ]
+ "rewrite_wait": []
 }
