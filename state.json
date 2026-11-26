@@ -4614,7 +4614,10 @@
   "6c1313667ea5ec42": "2026-11-26T04:40:15.389903+00:00",
   "edde960977a02d55": "2026-11-26T04:40:23.061648+00:00",
   "f1f2682e7ce4252a": "2026-11-26T04:40:31.119190+00:00",
-  "ae7bbaef99a8091d": "2026-11-26T04:40:33.141693+00:00"
+  "ae7bbaef99a8091d": "2026-11-26T04:40:33.141693+00:00",
+  "41074f94c9f14066": "2026-11-26T04:55:53.303154+00:00",
+  "ee3e2f5a3f483d81": "2026-11-26T05:11:24.309616+00:00",
+  "5ea76bb38cc0a14b": "2026-11-26T05:11:25.701614+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -7707,7 +7710,10 @@
   "bf87b2c74f2bdd78": "2026-11-26T04:40:15.389903+00:00",
   "5c5f1d63143a5369": "2026-11-26T04:40:23.061648+00:00",
   "7d647543973d3be3": "2026-11-26T04:40:31.119190+00:00",
-  "2acbc94ee4595c55": "2026-11-26T04:40:33.141693+00:00"
+  "2acbc94ee4595c55": "2026-11-26T04:40:33.141693+00:00",
+  "66a7b37c452789ff": "2026-11-26T04:55:53.303154+00:00",
+  "041acbe0c0bd1ddc": "2026-11-26T05:11:24.309616+00:00",
+  "b4af7efc06bb4b10": "2026-11-26T05:11:25.701614+00:00"
  },
  "recent": [
   {
@@ -14629,6 +14635,30 @@
    "status": "skipped",
    "ts": "2026-11-26T04:40:33.141826+00:00",
    "card_title": ""
+  },
+  {
+   "title": "How to Get the Free Anime Car in GTA 6",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "dup",
+   "ts": "2026-11-26T04:55:53.303185+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Sexyy Red Honors Late Tay Keith After “Pound Town” Appears in 'GTA VI'",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T05:11:24.309743+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "All Unique Animal Map Locations in Grand Theft Auto 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T05:11:26.294573+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -15012,37 +15042,6 @@
     "model": "groq:openai/gpt-oss-120b → groq:openai/gpt-oss-120b"
    },
    "queued_at": "2026-11-26T04:06:52.078405+00:00"
-  },
-  {
-   "item": {
-    "title": "Rob Nelson explains why Tennis & Theatres was removed from GTA 6",
-    "link": "https://rockstarintel.com/rob-nelson-explains-why-tennis-theatres-was-removed-from-gta-6/",
-    "summary": "In a recent Interview, Rob Nelson the Head Of Development at Rockstar North explained to PC Games why certain activities such as playing Tennis & going to the Cinema didn’t make it to the final version GTA6. Its been a week since Grand Theft Auto VI released, and we’ve been absolutely loving it, we cant [...] The post Rob Nelson explains why Tennis & Theatres was removed from GTA 6 appeared first on RockstarINTEL .",
-    "published": "2026-11-25T15:44:57+00:00",
-    "source": "Rockstar Intel",
-    "site_name": "Rockstar Intel",
-    "trust": "medium",
-    "text": "In a recent Interview, Rob Nelson the Head Of Development at Rockstar North explained to PC Games why certain activities such as playing Tennis & going to the Cinema didn’t make it to the final version GTA6.\nIts been a week since Grand Theft Auto VI released, and we’ve been absolutely loving it, we cant put down the controller, there has been so much to do and see its almost impossible to get bored of this game. One thing people have noticed though is that certain popular activities in past GTA Games haven’t made it into GTA6. From visiting Cinemas and Theatres, playing Tennis and Darts and even doing Taxi Missions which have been in every Grand Theft Auto game since GTA III back in 2001.\nPC Games had an interview with Rob Nelson who explained why some of these activities haven’t made it into the final version of Grand Theft Auto VI\nWhen PCGames asked Rob Nelson and Scott Mitchell about cut content, they asked why Tennis wasnt in the game, which was a popular minigame in Grand Theft Auto V (Personally my favourite sport minigame) and they confirmed Tennis was actually planned to be in GTA6 but they weren’t satisfied with the implementation. So the Minigame got removed and scarpped.\nAnother feature of being able to visit Cinemas and Theatres was also removed from the final version of GTA6, another feature that’s been in past GTAS and even in the Red Dead Series. Personally, this one doesn’t really bother me as i never used them but i do understand why so many people are annoyed by this one.\nRob Nelson and Scott Mitchell said in the interview that Rockstar Games deemed Cinema & Theatre visits not interactive enough. Which i dont personally think that’s a good enough reason as sometimes its good to not do much interaction.\nThey also confirmed other features were considered and didn’t end up making it to the game, one feature was for Jason and Lucia to crawl across the ground, Craft Items and Furnish their homes. These were scrapped due to not fitting the story.\nThey asked Rob Nelson which feature in GTA6 is Rockstar Games most proud of, and the answer was ‘the dynamic of Jason and Lucia’s relationship.’ A lot of passion went into creating the characters.\nYou can read the full interview here from PCGames.de. To keep up to date with news regarding Grand Theft Auto VI, Grand Theft Auto: Online, Red Dead Redemption and more then make sure to check back to RockstarINTEL. You can also subscribe to our Newsletter which is sent out weekly, its called…… Rockstar Weekl",
-    "extra": {
-     "image": "https://rockstarintel.com/wp-content/uploads/2026/11/Vice_City_03-1024x576.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "🎾 Теннис и кино вырезаны из GTA 6\n\nРоб Нельсон подтвердил, что теннис и походы в киношки не прошли проверку – их просто вычеркнули. Фанаты в шоке, но теперь знаем, почему в игре нет этих имба‑минегей. Так что ищите новые способы развлечений, а не мяч и попкорн.",
-    "card_title": "ТЕННИС И КИНО УДАЛЕНЫ",
-    "reason": "Разработчики из Rockstar официально рассказали о вырезанном контенте вроде тенниса и кинотеатров, это интересно фанатам.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-25T16:44:05.332447+00:00",
-   "moderation": "pending",
-   "draft_msg_id": 165
   },
   {
    "item": {
