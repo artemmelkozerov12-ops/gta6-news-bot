@@ -5131,7 +5131,14 @@
   "897074b35ab838e4": "2026-11-26T20:51:06.614362+00:00",
   "a339891abc003704": "2026-11-26T20:51:10.421310+00:00",
   "60e7e29df2e7d640": "2026-11-26T20:51:17.325400+00:00",
-  "a8f605ab18179c4f": "2026-11-26T20:51:22.511828+00:00"
+  "a8f605ab18179c4f": "2026-11-26T20:51:22.511828+00:00",
+  "906f9a8fdc057664": "2026-11-26T21:02:33.717660+00:00",
+  "d4971276331e8f85": "2026-11-26T21:02:35.385564+00:00",
+  "f6f57e5cd430de32": "2026-11-26T21:02:36.499056+00:00",
+  "8429793e2d6a99be": "2026-11-26T21:02:37.631743+00:00",
+  "8b9528b128767801": "2026-11-26T21:02:38.810130+00:00",
+  "324290f6bbd912c8": "2026-11-26T21:17:53.504759+00:00",
+  "38334811d21e23c6": "2026-11-26T21:17:54.365958+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -8606,7 +8613,14 @@
   "c62bbfaebba75876": "2026-11-26T20:47:05.023004+00:00",
   "593cc3d3a1a38f4d": "2026-11-26T20:47:05.820154+00:00",
   "19b4fab57f2b8b0b": "2026-11-26T20:47:07.116476+00:00",
-  "26b05b5eb8a4435f": "2026-11-26T20:47:08.378310+00:00"
+  "26b05b5eb8a4435f": "2026-11-26T20:47:08.378310+00:00",
+  "b5c51b88a0693831": "2026-11-26T21:02:33.717660+00:00",
+  "1d4bcf37ce8d3945": "2026-11-26T21:02:35.385564+00:00",
+  "bcd941ec2d1acfcc": "2026-11-26T21:02:36.499056+00:00",
+  "4636ba8c984fbac3": "2026-11-26T21:02:37.631743+00:00",
+  "0a03cf084347c63b": "2026-11-26T21:02:38.810130+00:00",
+  "3f342a382e7f8707": "2026-11-26T21:17:53.504759+00:00",
+  "99db2a83ea1071f0": "2026-11-26T21:17:54.365958+00:00"
  },
  "recent": [
   {
@@ -16264,6 +16278,70 @@
    "status": "skipped",
    "ts": "2026-11-26T20:47:08.378441+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GTA VI получила патч с 60 FPS для PS5 — без помощи Rockstar Games",
+   "source": "iXBT.games",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-26T21:02:32.261925+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "В GTA 6 хотели добавить теннис, крафт предметов и возможность украшать дома, но от идей быстро отказались",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T21:02:35.385710+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Has a Lot Going On. Here Are Some Tips for Your First Time in Vice City.",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T21:02:36.499193+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 reportedly steals the launch-week streaming crown with 420 million hours watched",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T21:02:37.631870+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 запустили на ПК с частотой до 44 FPS",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T21:02:38.810267+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "\"Where's the ding?!!\" - I asked the PowerWash Simulator 2 team what they thought of Jason's nozzle work in GTA 6",
+   "source": "Eurogamer",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-26T21:17:52.320401+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "'I've Dedicated Almost a Decade Bringing Lucia to Life' — GTA 6 Actress Manni L. Perez Breaks Silence in First Statement Since Launch",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T21:17:53.504896+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Is Your DualSense Running Low Playing GTA VI?",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T21:17:54.366088+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -23148,66 +23226,6 @@
  "rewrite_wait": [
   {
    "item": {
-    "title": "\"Where's the ding?!!\" - I asked the PowerWash Simulator 2 team what they thought of Jason's nozzle work in GTA 6",
-    "link": "https://www.eurogamer.net/gta-6-powerwashing-powerwash-simultor-futurlab",
-    "summary": "Among the many, many side activities you can do in GTA 6 , there's powerwashing. Relatively early on, as part of Chapter 1's Down to Earth mission , Jason whips out his nozzle and blasts Brian's boat to a gleaming sheen. Disappointingly for powerwashing fans, though, it's a bit of a one-and-done gag, never to return. But powerwashing is powerwashing, and we immediately wondered what the experts made of it all. Had Rockstar, with its legendary attention to detail, accurately captured the intricacies of powerwashing in those leisurely moments of carefree squirting? Read more",
-    "published": "2026-11-26T17:07:50+00:00",
-    "source": "Eurogamer",
-    "site_name": "Eurogamer",
-    "trust": "high",
-    "text": "Among the many, many side activities you can do in GTA 6, there's powerwashing. Relatively early on, as part of Chapter 1's Down to Earth mission, Jason whips out his nozzle and blasts Brian's boat to a gleaming sheen. Disappointingly for powerwashing fans, though, it's a bit of a one-and-done gag, never to return. But powerwashing is powerwashing, and we immediately wondered what the experts made of it all. Had Rockstar, with its legendary attention to detail, accurately captured the intricacies of powerwashing in those leisurely moments of carefree squirting?\nA question had been asked and an answer was required. So who better to cast judgement on the authenticity of Jason's sway-and-spraying than FuturLab, the studio behind the delightfully zen PowerWash Simulator series? Thus, in a moment of whimsy, I asked if it might like to 'review' GTA 6's hosiest activity. At best, I was hoping for a cheeky little statement; I certainly wasn't expecting a big chunk of the PowerWash Simulator 2 team to join in the fun. \"Fair to say,\" the intermediary PR noted, \"the Futurlab team was excited about this one!\"\nSo what's the verdict? Let us turn to the pros. \"They've got the sounds and satisfaction of clearly a nice shiny flat surface just right,\" PowerWash Simulator 2 lead game designer Nick McCarthy opined, \"but where's the ding!? 0/10, needs 200 percent more layers of muck and 20 percent more parkour.\" And quickly a trend emerged. \"Great visuals, satisfying feel, but lacks the crucial ding and went by too quickly to listen to a podcast,\" senior programmer Will Dyball wrote. Then still more sadness for the lack of PowerWash Simulator's most motivating sound: \"Didn't hear a ding,\" associate publishing producer Jess Crosby added. \"Must have missed a bit.\"\nA few team members spotted some powerwashing faux pas. \"No soap?\" wrote 3D artist Eilidh Norris. \"Rookie mistake, Jason.\" Programmer Jordan Lewis also reckoned Jason was making things unnecessarily hard for himself: \"[He'd] have had an easier time had he taken the time to upgrade his washer and purchased some more nozzles,\" they wrote. \"PS. Soap would have gotten that off in a flash.\" Others had safety concerns: \"I find Jason's lack of protective overalls disturbing,\" said 3D artist Rory Peace, and data principal Russell Young agreed. \"Clean speedboat, ruined clothes. Don't want to bring them 'Down to Earth', but we need to talk about PPE.\" People advisor Sarah Robshaw, meanwhile, spotted a more heinous omission: \"Wher",
-    "extra": {
-     "image": "https://assetsio.gnwcdn.com/gta-powerwash-header.png?width=690&quality=85&format=jpg&auto=webp"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "Эксперты оценили мойку лодки\n\nСоздатели PowerWash Simulator затестили миссию с мойкой катера в GTA 6 и выдали вердикт. Звуки топ, но где легендарный ДИНГ и мыло, Джейсон? 0/10, рофл.\n\n❤️ — Ждем колобу с PowerWash\n👎 — Душно, верните перестрелки",
-    "card_title": "ОЦЕНКА POWERWASH SIMULATOR",
-    "reason": "Разработчики PowerWash Simulator оценили миссию с мойкой лодки в GTA 6",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-26T17:21:06.488940+00:00"
-  },
-  {
-   "item": {
-    "title": "GTA VI получила патч с 60 FPS для PS5 — без помощи Rockstar Games",
-    "link": "https://ixbt.games/news/2026/11/26/gta-vi-polucila-patc-s-60-fps-dlia-ps5-bez-pomoshhi-rockstar-games.html",
-    "summary": "Моддеры нашли способ убрать ограничение.",
-    "published": "2026-11-26T16:48:00+00:00",
-    "source": "iXBT.games",
-    "site_name": "iXBT.games",
-    "trust": "medium",
-    "text": "Grand Theft Auto VI пока официально вышла только на консолях PlayStation 5 и Xbox Series X|S. Игрокам, в том числе и на PlayStation 5 Pro, доступен режим с 30 FPS, но некоторые хотели бы получить более высокую частоту кадров.\nВозможность поиграть в режиме «60 FPS» теперь появилась: для Grand Theft Auto VI вышел специальный патч, который снимает ограничение 30 FPS, но есть нюанс. Это неофициальный релиз: данный патч выпустили моддеры для взломанных консолей PlayStation 5.\nПользователь под ником a_Criminai опубликовал на форуме, посвящённом взлому PlayStation 5, специальный патч. По его словам, он не просто разблокирует в Grand Theft Auto VI частоту кадров, но и устраняет сбои анимации и физики, ранее наблюдавшиеся при запуске игры на Xbox Series X|S с высокой частотой кадров.\nПо словам моддера, проблема заключается в том, что Rockstar Games в Grand Theft Auto VI привязала дельта-время к частоте кадров. По его словам, эта проблема легко устраняется.\nОжидается, что наибольшую выгоду от патча получат игроки на PlayStation 5 Pro. Патч лишь снимает ограничение частоты кадров: на практике вместо желанных «60 FPS» игроки наблюдают в среднем порядка 45 FPS.\nНе пропускайте наши новостиДобавьте сайт в предпочитаемые источники, чтобы видеть нас чащеДобавить в Google",
-    "extra": {
-     "image": "https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1746742/media-59af20088fb4c92b102417cfe7a65e8465ee31f258d4ce27cf6d68b6315e9f65.png"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "МОДДЕРЫ ЗАВЕЗЛИ 60 FPS\n\nЭнтузиасты сделали то, чего ждали все: выпустили неофициальный патч для взломанных PS5, который снимает лок в 30 кадров. Правда, вместо стабильных 60 выдает около 45, но лиха беда начало, катка станет плавне.\n\n❤️ — Ждем официал\n👎 — Страх сломать консоль",
-    "card_title": "ПАТЧ НА 60 FPS ДЛЯ PS5",
-    "reason": "Modders released an unofficial 60 FPS patch for PS5, highly interesting for tech-savvy gamers.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "Моддеры выпустили неофициальный патч для запуска GTA 6 с частотой до 60 кадров на взломанной PS5 Pro",
-    "corroborated_by": "Моддеры выпустили неофициальный патч для запуска GTA 6 с частотой до 60 кадров на взломанной PS5 Pro",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-26T17:21:25.136384+00:00"
-  },
-  {
-   "item": {
     "title": "Top 10 Fastest Motorcycles In GTA 6—All Locations & How To Get Them",
     "link": "https://insider-gaming.com/top-10-fastest-motorcycles-gta-6-all-locations/",
     "summary": "Here's the top 10 fastest motorcycles in Grand Theft Auto 6, as well as where you can find each one scattered across Leonida. The post Top 10 Fastest Motorcycles In GTA 6—All Locations & How To Get Them appeared first on Insider Gaming .",
@@ -23445,6 +23463,36 @@
    },
    "corr": false,
    "since": "2026-11-26T20:47:01.466945+00:00"
+  },
+  {
+   "item": {
+    "title": "Lucia actress Manni L. Perez claims she worked on GTA 6 for ‘almost a decade’",
+    "link": "https://www.videogameschronicle.com/news/lucia-actress-manni-l-perez-claims-she-worked-on-gta-6-for-almost-a-decade/",
+    "summary": "Manni L. Perez thanks GTA 6 fans for their response to Lucia",
+    "published": "2026-11-26T20:52:29+00:00",
+    "source": "VGC",
+    "site_name": "VGC",
+    "trust": "high",
+    "text": "Actress Manni L. Perez has responded to Grand Theft Auto 6 fans after its “whirlwind” launch week.\nPerez, who played Lucia in GTA 6, also gives us a better idea of when she started working with Rockstar. She says claims has been playing Lucia for “almost a decade” now, suggesting she was cast very early on in development.\n“Life has been such a whirlwind these past couple of days, and I just want to take a moment to say thank you,” Perez says on an Instagram story.\n“Thank you to all the new followers, to all the beautiful messages, and the positive reception the game and my character have received.\n“I’ve dedicated almost a decade bringing Lucia to life. She’s been such a significant part of mine and I am beyond grateful she now gets to be a small part of yours.”\nPerez’s involvement in GTA 6 was deduced by fans shortly after the first trailer was released in 2023. However, all of the actors in GTA 6 were under an NDA throughout its development, so she was unable to confirm that she was playing Lucia until launch day.\nUltimately, the first official confirmation that Perez was playing Lucia did come before launch, as she was nominated for Best Performance at The Game Awards.\nWhat’s interesting to note is that Perez appeared to be playing Lucia as early as the 2022 gameplay leaks, whereas Jason’s voice was completely different. It’s unclear if Jason’s voice at this time was a placeholder, or if he was recast when his character underwent changes. Either way, Perez clearly had to keep her involvement under wraps for some time.\nPerez and Jason’s actor, Dylan Rourke, issued a joint statement on GTA 6’s launch day, finally acknowledging that they are in the game.\n“We are truly honored to collaborate on this worldwide testament to human creativity, ingenuity, and sheer willpower,” the pair said at the time. “So much learned and so much to learn, keep fighting for what you love, stay humble. See y’all in Leonida.”",
+    "extra": {
+     "image": "https://www.videogameschronicle.com/files/2026/11/Lucia-actor-GTA-6.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "ЛУСИЯ отдала РОЛИ почти 10 лет\n\nАктриса Манни Л. Перес поделилась эмоциями после релиза и призналась, что оживляла Люсию почти целое десятилетие. Вот это имба, столько лет молчать под NDA ради релиза века.",
+    "card_title": "ЛУСИЯ ПИСАЛА ЕЁ ПОЧТИ 10 ЛЕТ",
+    "reason": "Манни Л. Перес рассказала, что потратила почти десятилетие на роль Люсии в GTA 6.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-26T21:02:34.371920+00:00"
   }
  ]
 }
