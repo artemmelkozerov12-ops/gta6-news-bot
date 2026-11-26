@@ -4894,7 +4894,15 @@
   "3570d636816f08f6": "2026-11-26T14:20:28.167141+00:00",
   "e66ff10f723d2504": "2026-11-26T14:20:32.134620+00:00",
   "86966708563c7f13": "2026-11-26T14:20:34.108894+00:00",
-  "b11ce9e7ba418e05": "2026-11-26T14:20:43.274556+00:00"
+  "b11ce9e7ba418e05": "2026-11-26T14:20:43.274556+00:00",
+  "a414d9dbf092e61d": "2026-11-26T14:36:12.653460+00:00",
+  "b1c6c518e3f78903": "2026-11-26T14:37:16.202200+00:00",
+  "79faa1c7f83772b5": "2026-11-26T14:37:20.517782+00:00",
+  "6bd0c110edb11873": "2026-11-26T14:37:25.141158+00:00",
+  "a8ce2eb063cc9b6e": "2026-11-26T14:37:27.186310+00:00",
+  "94816c917c09c239": "2026-11-26T14:37:40.982223+00:00",
+  "eb502b940080a4d6": "2026-11-26T14:37:51.707797+00:00",
+  "9adf50e8bfb936c1": "2026-11-26T14:38:04.186925+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -8186,7 +8194,15 @@
   "181b571c1fcc6a1d": "2026-11-26T14:20:28.167141+00:00",
   "009322673ad9b2b9": "2026-11-26T14:20:32.134620+00:00",
   "5c6bf6200af50f85": "2026-11-26T14:20:34.108894+00:00",
-  "be4a8037e3412683": "2026-11-26T14:20:43.274556+00:00"
+  "be4a8037e3412683": "2026-11-26T14:20:43.274556+00:00",
+  "8674032aa4d537df": "2026-11-26T14:36:12.653460+00:00",
+  "19170520768a1447": "2026-11-26T14:37:16.202200+00:00",
+  "a6c501586b9e7aad": "2026-11-26T14:37:20.517782+00:00",
+  "c5d667f409da46c6": "2026-11-26T14:37:25.141158+00:00",
+  "ce173c420b97d37a": "2026-11-26T14:37:27.186310+00:00",
+  "5862eafc72551313": "2026-11-26T14:37:40.982223+00:00",
+  "9e44d339946b3ba4": "2026-11-26T14:37:51.707797+00:00",
+  "981e83bce57db821": "2026-11-26T14:38:04.186925+00:00"
  },
  "recent": [
   {
@@ -15907,6 +15923,70 @@
    "trust": "rumor",
    "status": "skipped",
    "ts": "2026-11-26T14:20:43.274707+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6: Find the Cursed Knife and Ghost Ship easter egg walkthrough",
+   "source": "VGC",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-26T14:37:04.875293+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Black Friday GTA 6 deals LIVE: I'm finding the best ways to enhance your adventure in Leonida using 2026's end-of-year discounts",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-26T14:37:16.202340+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 runs at 25 FPS on PC",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T14:37:20.517938+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 вышла на ПК в 25 FPS",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T14:37:25.141294+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "I love that Creating Fresh Looks Is More Important in GTA 6 Than Any Game Before",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T14:37:27.186459+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 на ПК: фанатские порты, FPS и ответ Take-Two",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T14:37:40.982367+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI's McLaren Senna Lookalike Costs Nothing But A Fight With Armed Guards",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T14:37:51.707936+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Hidden Control Options In GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T14:38:04.187052+00:00",
    "card_title": ""
   }
  ],
