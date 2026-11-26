@@ -4740,7 +4740,23 @@
   "0f212c2a5e7afb6f": "2026-11-26T10:14:38.541038+00:00",
   "fc58ab657e1c625d": "2026-11-26T10:14:39.786046+00:00",
   "7da4bcb0b3b58bf0": "2026-11-26T10:14:41.335452+00:00",
-  "ad19e14bb8265ed2": "2026-11-26T10:14:54.186150+00:00"
+  "ad19e14bb8265ed2": "2026-11-26T10:14:54.186150+00:00",
+  "7e75f6defd818132": "2026-11-26T10:30:31.424678+00:00",
+  "379e0fa01f4c3ece": "2026-11-26T10:30:33.598032+00:00",
+  "d98d87788e69e033": "2026-11-26T10:30:40.259125+00:00",
+  "dc2e907be6232e26": "2026-11-26T10:30:41.445466+00:00",
+  "8e3d0676d76600b7": "2026-11-26T10:30:49.075440+00:00",
+  "7f749fb789b63365": "2026-11-26T10:30:50.460266+00:00",
+  "4141f60f0e61840c": "2026-11-26T10:30:51.929101+00:00",
+  "c1812c551d63321a": "2026-11-26T10:30:53.459002+00:00",
+  "0d01419e1f87a18e": "2026-11-26T10:47:12.766662+00:00",
+  "f17aa8050550ff73": "2026-11-26T10:47:21.875214+00:00",
+  "24d690b939b22c53": "2026-11-26T10:47:24.632970+00:00",
+  "a8c7a3b40998d724": "2026-11-26T10:47:26.028686+00:00",
+  "4378194d16ec6961": "2026-11-26T10:47:27.169968+00:00",
+  "569e3c4375447c5b": "2026-11-26T10:47:35.445249+00:00",
+  "cbaac577dcdc1c61": "2026-11-26T10:47:45.809407+00:00",
+  "1ffef479320ca62e": "2026-11-26T10:47:50.901797+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -7916,7 +7932,23 @@
   "3bd3f0b8d6d75723": "2026-11-26T10:14:38.541038+00:00",
   "fd20dc7c9b29e05c": "2026-11-26T10:14:39.786046+00:00",
   "f944f3c5b196db9e": "2026-11-26T10:14:41.335452+00:00",
-  "2146a14a43c42f4d": "2026-11-26T10:14:54.186150+00:00"
+  "2146a14a43c42f4d": "2026-11-26T10:14:54.186150+00:00",
+  "2a165e24abac24ad": "2026-11-26T10:30:31.424678+00:00",
+  "46d801426d5482c2": "2026-11-26T10:30:33.598032+00:00",
+  "c5228555b4acb9c2": "2026-11-26T10:30:40.259125+00:00",
+  "d927eb5d374b6a00": "2026-11-26T10:30:41.445466+00:00",
+  "c80957fa2d893aaa": "2026-11-26T10:30:49.075440+00:00",
+  "5852730fff79b8c1": "2026-11-26T10:30:50.460266+00:00",
+  "487b58745c72ab3d": "2026-11-26T10:30:51.929101+00:00",
+  "2b01c3110414193c": "2026-11-26T10:30:53.459002+00:00",
+  "bf50b805f877cb35": "2026-11-26T10:47:12.766662+00:00",
+  "761083f4b4d9a532": "2026-11-26T10:47:21.875214+00:00",
+  "bb2a089614b68046": "2026-11-26T10:47:24.632970+00:00",
+  "9a43d63a079d784f": "2026-11-26T10:47:26.028686+00:00",
+  "34ff7323a7b33005": "2026-11-26T10:47:27.169968+00:00",
+  "79493d816c7effc8": "2026-11-26T10:47:35.445249+00:00",
+  "85110d8a939968ea": "2026-11-26T10:47:45.809407+00:00",
+  "df05a47022413dd3": "2026-11-26T10:47:50.901797+00:00"
  },
  "recent": [
   {
@@ -14686,67 +14718,137 @@
    "status": "skipped",
    "ts": "2026-11-26T10:14:54.186356+00:00",
    "card_title": ""
+  },
+  {
+   "title": "11 Hottest GTA 6 Characters—From Mandy to Andy and Beyond",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-26T10:30:31.424819+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Почти 3,8 млрд долл. за сутки и мир без генеративного ИИ: чем поражает новая GTA 6 (ВИДЕО)",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T10:30:33.598180+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI launched with DLSS 4.5 and DLSS 5 on Xbox Series S in 4K and 120 FPS on RTX 5080",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T10:30:40.259262+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 First Post-Launch Release Officially Confirmed For December 2026",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T10:30:41.445644+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Сценаристка GTA 6 удалила аккаунт в социальной сети после волны травли из-за Лусии",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T10:30:49.075593+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "The release of GTA VI has boosted console sales in the U.S.",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T10:30:50.460417+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to turn your selfie into GTA 6-inspired cover art with ChatGPT, The prompt to preserve your facial features",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T10:30:51.929239+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 launch drives combined 2.3m downloads of franchise's mobile ports, according to AppMagic",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T10:30:53.459146+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 electricity cost analysis shows how much HDR adds to the bill",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T10:47:12.766811+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Protective Custody: Should you proceed or postpone?",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T10:47:21.875351+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Rockstar не смогла остановить попытки перенести GTA 6 на ПК. Игра уже выдает 22 FPS, но радоваться рано",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T10:47:24.633131+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Сообщество ПК-порта GTA 6 шутит о росте FPS с 4 до 60 за часы",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T10:47:26.028830+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Код ПК-порта GTA 6 с заявленными 25 fps исчез с GitHub, зато энтузиасты продемонстрировали лаунчер",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T10:47:27.170135+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 apparently features a reference to the infamous Luka Doncic trade from Mavericks to Lakers",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T10:47:35.445393+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 запустили на взломанной PS5 — в сеть утек билд на 540 ГБ",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T10:47:45.809576+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "You Don't Need to Finish GTA 6 Mini-Games for 100% Completion",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T10:47:50.901955+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
-  {
-   "item": {
-    "title": "GTA 6 Players Are Running Into a Game-Breaking Bug",
-    "link": "https://www.polygon.com/gta-6-soft-lock-bug-chapter-3-game-breaking/",
-    "summary": "GTA 6 players are running into a game-breaking bug that makes it impossible to progress the story.",
-    "published": "2026-11-25T18:32:07+00:00",
-    "source": "Polygon",
-    "site_name": "Polygon",
-    "trust": "high",
-    "text": "Grand Theft Auto 6’s Leonida is full of dangers: murderous wildlife, over-eager cops, unhinged backwoods drug dealers, terrible drivers, and much more. However, all these threats pale in comparison to a particularly deadly foe. GTA 6 has a game-breaking soft lock bug that makes it impossible to progress.\nThe X user @SirGrotti posted a clip of the glitch, showing how they can no longer switch from Lucia to Jason, with the option permanently grayed out. The glitch can occur in Chapter 3 after the Missing Persons mission, and it’s game-breaking because the next story segment requires Jason. Comments on the post suggest several solutions, including leaving their house and then switching characters, saving and reloading, asking to meet up with Jason, sleeping, and more, but apparently, none of these worked for SirGrotti.\nUnfortunately, SirGrotti isn't alone. The website GTA6Bugs tracks user-reported cases of crashes, softlocks, and other problems. Of the dozens of bugs logged on the site, the Chapter 3 softlock has the most views. While there are a few fixes that worked for some players, not everyone has been so lucky.\nWhat fixes can you try if you run into the bug?\nThe first fix is to load a manual save from before you drove to the warehouse in Port Gellhorn for the final Missing Persons meeting. Then switch to Jason and play through the Dealer’s Choice mission until you can switch to Lucia freely. Make a manual save in a new slot and finish Missing Persons.\nBeyond this fix, other potential workarounds include playing another Lucia or duo mission if one is available, calling Dunk from Lucia’s phone, and robbing a store as a pair before starting Raul’s job as Lucia. GTA 6’s 01.002.002 update didn’t seem to fix this problem, but considering this seems to be one of the most reported game-breaking issues, ideally Rockstar will address it soon. Beyond these softlocks, another common issue for GTA 6 players is a mysterious PS5 crash, which both Rockstar and Sony customer support have blamed on the other party.\nThings can always be much worse, though: some GTA 6 players have uploaded videos of the game’s demanding graphics seemingly frying their PS5s. One clip from shivjam shows the console dying in real time, while another has a streamer's PlayStation billowing smoke. Console and controller technician Modyfikator89 described GTA 6 as \"the toughest real-world PS5 stress test\" he had ever seen. With the ongoing chip crisis driving game console prices higher than ever,",
-    "extra": {
-     "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/gta-6-release-time-header.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "🚨 Сломанный софт‑лок в главе 3: нельзя переключить персонажей\n\nТут реально кринж — после миссии «Missing Persons» опция переключения на Джейсона просто серая, и дальше катка стопится. Папаша, если застряли, пробуйте загрузить старый сейв до склада в Порт Геллхорн и пройти «Dealer’s Choice», а потом снова переключайтесь. Пока Rockstar не запилит фикс, держитесь. 🔧",
-    "card_title": "СОФТ‑ЛОК В ГЛАВЕ 3",
-    "reason": "Критический баг в 3 главе ломает прохождение у многих игроков, а графика игры якобы даже жжет консоли.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-25T22:18:36.376691+00:00"
-  },
-  {
-   "item": {
-    "title": "Grand Theft Auto 6 Roasts Naughty Dog For Constantly Repackaging The Last Of Us",
-    "link": "https://kotaku.com/grand-theft-auto-6-last-of-us-reference-easter-egg-2001000427",
-    "summary": "Throwing stones in glass houses, aren’t we?",
-    "published": "2026-11-25T19:30:51+00:00",
-    "source": "Kotaku",
-    "site_name": "Kotaku",
-    "trust": "high",
-    "text": "I suppose nothing is immune from Grand Theft Auto 6’s satire, and that includes other game developers. There are plenty of pop culture references throughout Rockstar’s open-world crime drama, some of them inescapable and others you have to go looking for. That latter group includes a hidden roast of Naughty Dog for its incessant need to repackage the Last of Us games.\nIn an electronics store called Game Horde in Port Gellhorn, there’s a shelf of video games that are pretty obvious homages to real series. There’s Righteous Slaughter, which is a parody of Call of Duty; a game called Glory Souls III, both a play on “glory holes” and the Dark Souls series; and there’s a game called We Came Together which, based on the big bold letters of the logo, is pretty easy to identify as a spoof of The Last of Us. However, the more revealing part of it is that the specific collection of We Came Together games Jason and Lucia can find is labeled Remasters of the Remakes.\nAlmost all of Naughty Dog’s output during the PS5 generation has been repackaged versions of the first two Last of Us games, with the studio remaking the first game for the PS5, remastering the second for the same system, and then putting both of those together in a “Complete” edition. If you want to extrapolate that further, the god-awful HBO series is another way of milking the post-apocalyptic series’ name without Naughty Dog actually putting out anything “new” from the Last of Us universe since 2020’s The Last of Us Part II. Though the developer has repeatedly teased the possibility of a third game at this point, it won’t be coming until well after the release of Intergalactic: The Heretic Prophet at least, if it comes at all.\nThat said, this particular playful jab coming from Rockstar is pretty rich considering how many times the company has ported Grand Theft Auto V to new platforms in the 13-year wait between it and Grand Theft Auto 6, though I suppose those weren’t constantly positioned as new, definitive editions of that game but rather were more straightforward ports.\nWhile you can’t play We Came Together in GTA 6, you can play some in-universe video games which are also taking the piss out of real developers.\nDon’t miss the latest reviews, news and tips. Sign up for our free newsletter.\nCultureNews Attempts To Vibe-Code PC Ports Of GTA 6 Are Being Shut Down, But It Might Be Too Late To Put The Genie Back In The Bottle Take-Two is already going after projects but may not be able to stop the floo",
-    "extra": {
-     "image": "https://kotaku.com/app/uploads/2026/11/gtajasoncal-1280x720.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "🎮 GTA 6 поджёг Naughty Dog в Game Horde\n\nНайдено скрытое издевательство над Naughty Dog – на полке в магазине Game Horde лежит игра «We Came Together» с подписью «Remasters of the Remakes». Это лулз‑подсказка про их бесконечные ремастеры Last of Us, просто жиза для геймеров 😆. Залипните и посмейтесь, имба!",
-    "card_title": "РОСТ НАУТИ ДОГ",
-    "reason": "Крутая и забавная пасхалка-стеб над Naughty Dog в игре, фанатам зайдет.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-25T22:19:38.962789+00:00"
-  },
   {
    "item": {
     "title": "GTA 6 vault: How to open them during big bank jobs",
@@ -14899,35 +15001,6 @@
    "queued_at": "2026-11-26T09:23:46.966761+00:00",
    "moderation": "pending",
    "draft_msg_id": 179
-  },
-  {
-   "item": {
-    "title": "\"Missing\" GTA 6 Prostitutes Explained WIth In-Game PeekHole News Story",
-    "link": "https://www.gtaboom.com/missing-gta-6-prostitutes-explained-with-in-game-peekhole-news-story-94db",
-    "summary": "Grand Theft Auto VI drops street encounters that restored health, and its Daily Globe credits OnlyFans parody Peekhole with curbing street sex work.",
-    "published": "2026-11-25T18:51:00+00:00",
-    "source": "GTA BOOM",
-    "site_name": "GTA BOOM",
-    "trust": "medium",
-    "text": "Rockstar has a habit of removing a familiar Grand Theft Auto feature and then writing the reason into the world itself and Grand Theft Auto VI just pulled the same trick trick again.\nIn case you haven't played the game yet or didn't notice it at all, the game ships without hireable street sex workers, making it the first in the mainline franchise to drop the controversial mechanic. Instead of leaving it at a design choice, Rockstar Games planted a fake news story in the game to explain where everyone went.\nThe mechanic goes back to Grand Theft Auto III in 2001 and survived every mainline game through Grand Theft Auto V. In GTA 6, it is gone. Strip clubs and private dances are still part of the game, but you cannot pick anyone up off the street for a health top-up anymore. What you can do is read though is read about it. A Daily Globe story on the in-game phone, headlined that Peekhole has cut the number of sex workers in the capital and credited to one Oliver Fairfax, plays it as a civic crisis, with the government rattled by the lowest street numbers on record.\nPeekhole is the game's OnlyFans parody, the subscription platform plastered on posters around the Jack of Hearts and pushed on the radio.\nThe story doesn't appear on every phone though. We learned about the Peekhole item from @jevolutionCL on X. We instead got a news story titled \"The sexy struggles of the Port Gellhorn strip club,\" the same place you danced at as part of The Afternoon Delight mission.\nRockstar did also give the straight answer. The studio told the press that GTA 6 is built around Jason and Lucia as a couple on the run, so it kept only the systems that served their story. Hiring strangers for a health boost did not fit two lovers trying to make it out together. The real-world design reason is clean and on the record.\nThe in-world explanation is something Rockstar has pulled before. Grand Theft Auto IV shipped with no Ammu-Nation stores in Liberty City. Rockstar never explained why, but it did give an in-universe explanation, with Mayor Julio Ochoa runing strict gun-control laws and shutting the chain down, a detail you picked up from Dimitri Rascalov's dialogue and the odd Liberty Tree article.\nIronically, this isn't the only link between GTA IV and GTA VI.\nGTA 6 goes one better. Rockstar gave the design reason out loud and still bothered to write the in-world one. A throwaway story treats a decline in street sex work as a Peekhole success. Nobody needed it. The interview already c",
-    "extra": {
-     "image": "https://media.gtaboom.com/variants/1920/media/images/36/9a/missing-gta-6-prostitutes-explained-with-in-game-peekhole-news-story-2.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "🚫 Убирают уличных проституток в GTA 6\n\nГеймплей без найма случайных девок — первый в серии. Rockstar даже зашили фейковую новость в Peekhole, чтоб объяснить, почему их нет. Теперь в клубах только танцы, а не «подкачка» здоровья. Жиза, имба для тех, кто любил быстрый хил.",
-    "card_title": "УБРАНЫ УЛИЧНЫЕ ПРОСТИТУТКИ",
-    "reason": "Interesting in-game detail and lore about cut features explained via parody platform Peekhole in GTA 6.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-25T22:18:38.498480+00:00"
   },
   {
    "item": {
@@ -15120,36 +15193,6 @@
  },
  "urgent": [],
  "clips": [
-  {
-   "clip": {
-    "source": "twitch",
-    "url": "https://www.twitch.tv/ramez05/clip/TangibleBumblingDogeNomNom-EUJ2XEuUn3_fltsp",
-    "title": "SURVIVE",
-    "author": "Ramez05",
-    "views": 1563,
-    "duration": 60.0,
-    "created": "2026-11-24T21:21:31+00:00",
-    "lang": "en",
-    "description": "",
-    "vod_id": "2938843913",
-    "vod_offset": 4238.0
-   },
-   "caption": "СПОЙЛЕР. Решила помочь незнакомцу загрузить диван в пикап — и очнулась запертой в контейнере 💀 Побочки в GTA 6 — чисто хоррор-вайб!",
-   "interest": 9,
-   "spoiler": true,
-   "nsfw": false,
-   "watched": true,
-   "model": "gemini:gemini-3.5-flash",
-   "media": {
-    "width": null,
-    "height": 720,
-    "duration": 60
-   },
-   "queued_at": "2026-11-25T10:16:42.289052+00:00",
-   "file_id": "BAACAgIAAxkDAAOZawa1jF1VF9caXFfNkPJmjsT3_J0AAvOxAAImEThIbC7yVufxu-c9BA",
-   "moderation": "pending",
-   "draft_msg_id": 153
-  },
   {
    "clip": {
     "source": "twitch",
