@@ -4756,7 +4756,36 @@
   "4378194d16ec6961": "2026-11-26T10:47:27.169968+00:00",
   "569e3c4375447c5b": "2026-11-26T10:47:35.445249+00:00",
   "cbaac577dcdc1c61": "2026-11-26T10:47:45.809407+00:00",
-  "1ffef479320ca62e": "2026-11-26T10:47:50.901797+00:00"
+  "1ffef479320ca62e": "2026-11-26T10:47:50.901797+00:00",
+  "96776bd2a10796d6": "2026-11-26T11:03:39.335274+00:00",
+  "3d63b080654744ce": "2026-11-26T11:03:41.564678+00:00",
+  "a1546feb8ca2465f": "2026-11-26T11:03:42.592601+00:00",
+  "5be414f985d2a602": "2026-11-26T11:03:43.764198+00:00",
+  "cf3705b917980e7a": "2026-11-26T11:03:45.087165+00:00",
+  "b9f0c9fa3b742b95": "2026-11-26T11:03:46.521291+00:00",
+  "52fea96167edfeab": "2026-11-26T11:03:47.594430+00:00",
+  "9eb54e5446eb4154": "2026-11-26T11:03:55.035651+00:00",
+  "c1bf7c99a3e50430": "2026-11-26T11:04:14.304377+00:00",
+  "b65a5740ac85a440": "2026-11-26T11:13:30.155178+00:00",
+  "9a60c0c139edacd3": "2026-11-26T11:13:30.880252+00:00",
+  "46901de5223b3fdb": "2026-11-26T11:13:31.789485+00:00",
+  "90322dbae859df49": "2026-11-26T11:13:32.683827+00:00",
+  "e029d607a8385264": "2026-11-26T11:14:23.685160+00:00",
+  "5547a939ac39c224": "2026-11-26T11:14:24.511833+00:00",
+  "000b2781c23055d5": "2026-11-26T11:14:25.441648+00:00",
+  "34f7c77196b5b8db": "2026-11-26T11:14:26.286476+00:00",
+  "99f018543e3afea5": "2026-11-26T11:16:30.174325+00:00",
+  "735625a19fa58deb": "2026-11-26T11:20:31.942383+00:00",
+  "ffb2aad755ca9920": "2026-11-26T11:20:31.942480+00:00",
+  "144200b213a172e2": "2026-11-26T11:20:31.942596+00:00",
+  "a0fd3bb72a5574ba": "2026-11-26T11:20:53.925759+00:00",
+  "261c4caa569f8584": "2026-11-26T11:20:58.390093+00:00",
+  "d01779d7661818bc": "2026-11-26T11:21:05.837145+00:00",
+  "fe0623476c6cf94e": "2026-11-26T11:21:12.476260+00:00",
+  "b1995e17001033e2": "2026-11-26T11:21:13.752738+00:00",
+  "7614a644bcb43cef": "2026-11-26T11:21:20.946876+00:00",
+  "8097edd70fb01265": "2026-11-26T11:21:22.255076+00:00",
+  "b3bc82eeffcac49e": "2026-11-26T11:21:28.969864+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -7948,7 +7977,25 @@
   "34ff7323a7b33005": "2026-11-26T10:47:27.169968+00:00",
   "79493d816c7effc8": "2026-11-26T10:47:35.445249+00:00",
   "85110d8a939968ea": "2026-11-26T10:47:45.809407+00:00",
-  "df05a47022413dd3": "2026-11-26T10:47:50.901797+00:00"
+  "df05a47022413dd3": "2026-11-26T10:47:50.901797+00:00",
+  "c085a96de0b26204": "2026-11-26T11:03:39.335274+00:00",
+  "4d28a0be364707c2": "2026-11-26T11:03:41.564678+00:00",
+  "52714d7c512d1063": "2026-11-26T11:03:42.592601+00:00",
+  "772fe52fd1821c47": "2026-11-26T11:03:43.764198+00:00",
+  "de21cd7e91f92c4c": "2026-11-26T11:03:45.087165+00:00",
+  "8a4485eebc2943e9": "2026-11-26T11:03:46.521291+00:00",
+  "1f60da85937da2f2": "2026-11-26T11:03:47.594430+00:00",
+  "66d6b8fad9181cd7": "2026-11-26T11:03:55.035651+00:00",
+  "8f1bfbb8a5d66259": "2026-11-26T11:04:14.304377+00:00",
+  "6ef8bf4cbf2b5c27": "2026-11-26T11:20:31.942596+00:00",
+  "d628719561819649": "2026-11-26T11:20:53.925759+00:00",
+  "b478791f6cb8e2c1": "2026-11-26T11:20:58.390093+00:00",
+  "0e9c771e7908f9fa": "2026-11-26T11:21:05.837145+00:00",
+  "f6b9962eb50b7b3d": "2026-11-26T11:21:12.476260+00:00",
+  "e3512f602397cfd7": "2026-11-26T11:21:13.752738+00:00",
+  "b05d65a9c757c4aa": "2026-11-26T11:21:20.946876+00:00",
+  "2181760cd0a61c9f": "2026-11-26T11:21:22.255076+00:00",
+  "bd06d3082efc7ade": "2026-11-26T11:21:28.969864+00:00"
  },
  "recent": [
   {
@@ -14846,6 +14893,166 @@
    "status": "skipped",
    "ts": "2026-11-26T10:47:50.901955+00:00",
    "card_title": ""
+  },
+  {
+   "title": "Мужчина вызвал полицию на бывшую девушку, которая забрала свой аккаунт Xbox ради GTA 6",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-26T11:03:39.335356+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "20 Years Ago, The Sopranos PS2 Game Sank So GTA 6 Could Swim",
+   "source": "Polygon",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-26T11:03:41.564782+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6: Is the Vintage Vice City Pack Worth It?",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T11:03:42.592723+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "What the success of ‘GTA VI’ means for the gaming industry’s future",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T11:03:43.764315+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Экс-глава департамента культуры ХМАО Латыпов оказался поклонником компьютерной игры GTA 6",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T11:03:45.087300+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6: Money Guide & How to Get Rich Fast (WIP)",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T11:03:46.521413+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "A data miner has revealed the exact graphics settings for GTA VI on all PS5 and Xbox Series X devices.",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T11:03:47.594605+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Is GTA 6 coming to PC?",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T11:03:55.035794+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Is XXXTentacion in GTA 6? Tribute rumours explained",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T11:04:14.304556+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How To Fix Weather Bug In GTA 6—Rain, Storms & More",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "dup",
+   "ts": "2026-11-26T11:20:31.942430+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How To Fix The GTA VI Weather Bug And Make It Rain",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-26T11:20:31.942547+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How To Fix Weather Bug In GTA 6—Rain, Storms & More",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-26T11:20:31.942635+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How To Fix The GTA VI Weather Bug And Make It Rain",
+   "source": "Rockstar Intel",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-26T11:20:57.316514+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Релиз GTA 6 увеличил количество скачиваний мобильных игр серии, заявили аналитики",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T11:20:58.390248+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Кенни оказался в мире GTA 6 — в финале 29-го сезона «Южного парка»",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T11:21:05.837302+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Bird-watching in 'GTA 6' has the seal of approval from America's top birders",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T11:21:12.476423+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6's Most Exciting DLC Possibility Is Hiding In Plain Sight",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T11:21:13.752890+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 collectible cards are getting physical versions \"coming soon\" in official collab with Rockstar Games",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T11:21:20.947023+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Rockstar vice president of audio says the studio ‘spent years iterating on reverb technology’ to emulate realistic audio in GTA 6 — ‘If you’re wandering the streets of Gellhorn, it’s acoustically a very different vibe than the high-rise centre of Vice City, where the s",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T11:21:22.255233+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Call of Duty потеряла три миллиона ежедневных игроков после выхода GTA 6. Вернуть аудиторию не помогли даже выходные",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T11:21:28.970014+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -15196,36 +15403,6 @@
   {
    "clip": {
     "source": "twitch",
-    "url": "https://www.twitch.tv/orkpod/clip/ColdbloodedAntsyPidgeonOpieOP-4W_OaqBuKwPGb8au",
-    "title": "Да кто так паркуется?",
-    "author": "orkpod",
-    "views": 1268,
-    "duration": 44.3,
-    "created": "2026-11-24T18:16:22+00:00",
-    "lang": "ru",
-    "description": "",
-    "vod_id": "2939382377",
-    "vod_offset": 11689.0
-   },
-   "caption": "Тачка взлетела на воздух просто от прикосновения к другой машине 💀 Физика коллизий — чисто лютый разнос!",
-   "interest": 9,
-   "spoiler": false,
-   "nsfw": false,
-   "watched": true,
-   "model": "gemini:gemini-3.5-flash",
-   "media": {
-    "width": null,
-    "height": 720,
-    "duration": 44
-   },
-   "queued_at": "2026-11-25T11:20:53.636715+00:00",
-   "file_id": "BAACAgIAAxkDAAObawbEl-DwskOodG2fyocRgXdb6Z0AAveyAAImEThIi6DhKVIR2nk9BA",
-   "moderation": "pending",
-   "draft_msg_id": 155
-  },
-  {
-   "clip": {
-    "source": "twitch",
     "url": "https://www.twitch.tv/baupenner/clip/SavageAntediluvianGullTBTacoRight-Qs0aggL7mLjspke-",
     "title": "Ommmaaaaaaaa  🤣🤣",
     "author": "BauPenner",
@@ -15432,6 +15609,36 @@
    "file_id": "BAACAgIAAxkDAAO0awgGOxWn9ltfqmyuZoCA8gVfmHIAApStAAJzy0FIUeHT7RrB3jI9BA",
    "moderation": "pending",
    "draft_msg_id": 180
+  },
+  {
+   "clip": {
+    "source": "twitch",
+    "url": "https://www.twitch.tv/vinesauce/clip/MoralFastPenguinUWot-LG0z7lwE4TPs24CW",
+    "title": "HOW? HOW?",
+    "author": "Vinesauce",
+    "views": 328,
+    "duration": 25.2,
+    "created": "2026-11-26T05:26:20+00:00",
+    "lang": "en",
+    "description": "",
+    "vod_id": "",
+    "vod_offset": -1
+   },
+   "caption": "Джейсон уходит от копов по сухой дороге на каяке, и по рации реально кричат «КАК?!» 💀 Вот это имба-транспорт",
+   "interest": 8,
+   "spoiler": false,
+   "nsfw": false,
+   "watched": true,
+   "model": "gemini:gemini-4-hydrogen",
+   "media": {
+    "width": null,
+    "height": 720,
+    "duration": 25
+   },
+   "queued_at": "2026-11-26T11:18:47.787304+00:00",
+   "file_id": "BAACAgIAAxkDAAO1awgVmSI9DnfZ8kZnIb7mecnKivQAApKuAAJzy0FIe_2Tz5ERv789BA",
+   "moderation": "pending",
+   "draft_msg_id": 181
   }
  ],
  "clip_drafts": [
@@ -15454,7 +15661,8 @@
   "2026-11-26T07:04:22.411410+00:00",
   "2026-11-26T08:07:51.586512+00:00",
   "2026-11-26T09:08:12.581306+00:00",
-  "2026-11-26T10:13:16.179800+00:00"
+  "2026-11-26T10:13:16.179800+00:00",
+  "2026-11-26T11:18:49.888213+00:00"
  ],
  "clip_history": [
   {
@@ -21538,6 +21746,90 @@
    "ts": "2026-11-26T10:13:16.179817+00:00",
    "frames": [],
    "caption": "Имба: копы в лифте решили докопаться до Лусии — такой перестрелки в замкнутом пространстве мы еще не видели 💀"
+  },
+  {
+   "author": "youtube:john casterline",
+   "vod": "",
+   "offset": -1,
+   "title": "Absolute MENACE in GTA 6 😭",
+   "drafted": false,
+   "ts": "2026-11-26T11:13:30.155224+00:00"
+  },
+  {
+   "author": "youtube:gta2025",
+   "vod": "",
+   "offset": -1,
+   "title": "nunca subas a lo alto de esta torre en #gta6",
+   "drafted": false,
+   "ts": "2026-11-26T11:13:30.880312+00:00"
+  },
+  {
+   "author": "youtube:conzo zx",
+   "vod": "",
+   "offset": -1,
+   "title": "\" YOU FINALLY FINISHED GTA 6 \"",
+   "drafted": false,
+   "ts": "2026-11-26T11:13:31.789546+00:00"
+  },
+  {
+   "author": "youtube:games cortes tv",
+   "vod": "",
+   "offset": -1,
+   "title": "O PS5 PRO DO GTA 6 ULTRA RARO! 😱 #games #gta6 #ps5 #gta #ps5pro #playstation",
+   "drafted": false,
+   "ts": "2026-11-26T11:13:32.683879+00:00"
+  },
+  {
+   "author": "youtube:streetturn",
+   "vod": "",
+   "offset": -1,
+   "title": "Biker Buys GTA 6… And Gets Completely Addicted! 😂🎮Credit: @aaaa.mau",
+   "drafted": false,
+   "ts": "2026-11-26T11:14:23.685207+00:00"
+  },
+  {
+   "author": "youtube:hikakingames",
+   "vod": "",
+   "offset": -1,
+   "title": "【GTA6】善良な市民 ヒカキンのグラセフ6実況生配信 【Day2】死んだらアマギフ1万円",
+   "drafted": false,
+   "ts": "2026-11-26T11:14:24.511884+00:00"
+  },
+  {
+   "author": "youtube:igr",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 VS GTA 5 - Jumping a monster truck off the highest mountain Comparison",
+   "drafted": false,
+   "ts": "2026-11-26T11:14:25.441699+00:00"
+  },
+  {
+   "author": "twitch:frametamer666",
+   "vod": "2938915006",
+   "offset": 145703.0,
+   "title": "не получилось",
+   "drafted": false,
+   "ts": "2026-11-26T11:14:26.286550+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:vinesauce",
+   "vod": "",
+   "offset": -1,
+   "title": "HOW? HOW?",
+   "drafted": false,
+   "ts": "2026-11-26T11:16:30.174377+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:vinesauce",
+   "vod": "",
+   "offset": -1,
+   "title": "HOW? HOW?",
+   "drafted": true,
+   "ts": "2026-11-26T11:18:49.888230+00:00",
+   "frames": [],
+   "caption": "Джейсон уходит от копов по сухой дороге на каяке, и по рации реально кричат «КАК?!» 💀 Вот это имба-транспорт"
   }
  ],
  "published": [
