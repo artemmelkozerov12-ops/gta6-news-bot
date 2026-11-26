@@ -5153,7 +5153,15 @@
   "6bed11ec8098473d": "2026-11-26T21:52:36.791947+00:00",
   "4618bc5d80035163": "2026-11-26T21:52:54.181772+00:00",
   "69114c904063f9c7": "2026-11-26T21:52:59.511041+00:00",
-  "1170b36315303bd1": "2026-11-26T21:53:54.043839+00:00"
+  "1170b36315303bd1": "2026-11-26T21:53:54.043839+00:00",
+  "151f50278f1bec2a": "2026-11-26T22:05:04.218368+00:00",
+  "80e83490a0b2e016": "2026-11-26T22:05:07.296745+00:00",
+  "b982d2de0c574903": "2026-11-26T22:05:08.728166+00:00",
+  "dd1474639839d3cf": "2026-11-26T22:05:11.400737+00:00",
+  "cf50cef888e0a004": "2026-11-26T22:05:14.061412+00:00",
+  "e45fe4e83090f83e": "2026-11-26T22:05:15.320689+00:00",
+  "bea996b0ab3eb4fb": "2026-11-26T22:20:30.333676+00:00",
+  "6eb8261f5127a385": "2026-11-26T22:20:31.592494+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -8641,7 +8649,15 @@
   "1f9b268c5bd548c5": "2026-11-26T21:33:26.349351+00:00",
   "cbee06660d6434b0": "2026-11-26T21:33:31.927790+00:00",
   "b7677fc442d99b44": "2026-11-26T21:33:52.012795+00:00",
-  "f17750a6fce56f5e": "2026-11-26T21:49:08.419608+00:00"
+  "f17750a6fce56f5e": "2026-11-26T21:49:08.419608+00:00",
+  "836839709824e3e4": "2026-11-26T22:05:04.218368+00:00",
+  "a77aae42df862a41": "2026-11-26T22:05:07.296745+00:00",
+  "dd3387b15409c239": "2026-11-26T22:05:08.728166+00:00",
+  "c96d8185a64fe8fb": "2026-11-26T22:05:11.400737+00:00",
+  "66cb33246c10537e": "2026-11-26T22:05:14.061412+00:00",
+  "b1752528d19bb397": "2026-11-26T22:05:15.320689+00:00",
+  "b424f6a540c49f43": "2026-11-26T22:20:30.333676+00:00",
+  "aad44112358b44c6": "2026-11-26T22:20:31.592494+00:00"
  },
  "recent": [
   {
@@ -16411,6 +16427,86 @@
    "status": "skipped",
    "ts": "2026-11-26T21:49:08.419736+00:00",
    "card_title": ""
+  },
+  {
+   "title": "Rockstar boss knew some GTA 6 players would \"reject\" the criminal profile system",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-26T22:05:02.638778+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Фиолетовые фонари из GTA VI оказались не художественным решением, а отсылкой к реальной проблеме Флориды",
+   "source": "iXBT.games",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-26T22:05:02.638851+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6's huge success is bad news for anyone hoping to buy a PS5 this Black Friday",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T22:05:04.218498+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI causes major surge in Spotify streams of a Carly Rae Jepsen classic",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T22:05:07.296879+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Take-Two’s (TTWO) GTA 6 Could Be a Cash Cow for the Next Decade",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T22:05:08.728317+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Unofficial GTA 6 PC Ports Keep Advancing After Take-Two Clears Thousands of GitHub Repositories",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T22:05:11.400871+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6: как быстро перемотать время — сон и такси",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T22:05:14.061531+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Как снять трусы с Лусии в ГТА 6",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T22:05:15.320804+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 стала крупнейшим физическим стартом в Британии после FIFA 20",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T22:20:30.333808+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Vibecoded GTA 6 PC Ports Are Now Rendering In-Game Graphics Despite Take-Two Crackdown",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T22:20:31.592630+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -23349,66 +23445,6 @@
   "digest-20261126": "2026-11-26T19:30:31.000089+00:00"
  },
  "rewrite_wait": [
-  {
-   "item": {
-    "title": "Rockstar boss knew some GTA 6 players would \"reject\" the criminal profile system",
-    "link": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-boss-knew-some-gta-6-players-would-reject-the-criminal-profile-system-but-assures-you-can-still-do-whatever-you-wanted-to-do-before/",
-    "summary": "Grand Theft Auto 6 \"opens a new range of choices and decisions\"",
-    "published": "2026-11-26T18:00:00+00:00",
-    "source": "GamesRadar+",
-    "site_name": "GamesRadar+",
-    "trust": "high",
-    "text": "Rockstar knows GTA 6's criminal profile system isn't for everyone, but is keen to stress you're still free to play the new Grand Theft Auto game however you like.\nAs our handy GTA 6 criminal profiles guide explains, the new system riffs on Red Dead Redemption 2's Honor mechanic by tracking your actions to build an overall picture of your behavior and playstyle. It's a system that holds a mirror up to you, but not one that punishes you for how you play. Rather, depending on how you navigate Leonida, the world may react differently to your presence.\nAt the time of writing, feelings among players are mixed. Plenty enjoy what it adds to the role-playing aspect of GTA 6, whereas others don't like the suggestion that their Vice City rampage is being judged.\nNone of this is a surprise to Rockstar North co-studio head Rob Nelson. Speaking to VGC ahead of the game's launch, he says the honor system is designed to enhance the experience rather than detract from it. Regardless, developers knew some players would \"reject this new stuff we're offering.\"\n\"I think it opens a new range of choices and decisions for the player to make,\" he says. \"You can still do whatever you wanted to do before, but now you have other options.\"\nNelson goes on to say he hopes the system \"changes the way players who want to engage with it play the game.\n\"In GTA 5 you started with a bank robbery in North Yankton, and you’re murdering like 40 cops off the rip, and you're setting these guys up as what they are,\" he says.\nWeekly digests, tales from the communities you love, and more\n\"We were conscious of that. Lucia takes the bullets out of the gun at the start of the game. She goes in, and it's not like you can kill a bunch of people. So we wanted to start them off with a bit less baggage. They're trying to make a go of this semi-legitimate life.\"\nNelson then says that Jason is the same. He's still \"getting in trouble with Donnie and all that,\" but has still been enjoying a \"relatively criminal-adjacent existence.\"\nI suppose the element of choice kicks off from there. Do the pair lean into a life of crime for all the fortune it brings, or are they victims of circumstance? The answer depends on what's right for how you want to play the game.\nAt least, that's how I've been viewing it. The response to GTA 6's criminal profiles has been interesting, and so has the reaction to other optional content. A Valve veteran with credits on Half-Life 2 and more likened players struggling with it to being stu",
-    "extra": {
-     "image": "https://cdn.mos.cms.futurecdn.net/qrbcWpiXwQczg2ARoHrCDA-1920-80.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "РОКСТАР ЗНАЛИ\n\nШеф Rockstar признался, что они ожидали хейта на систему криминального профиля. Но расслабьтесь, никто не заставляет играть по правилам — база осталась прежней, лютый выбор за вами.",
-    "card_title": "СИСТЕМА ПРОФИЛЕЙ В GTA 6",
-    "reason": "Официальный комментарий босса Rockstar о новой системе профилей и свободе выбора.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-26T18:12:12.386979+00:00"
-  },
-  {
-   "item": {
-    "title": "Фиолетовые фонари из GTA VI оказались не художественным решением, а отсылкой к реальной проблеме Флориды",
-    "link": "https://ixbt.games/news/2026/11/26/fioletovye-fonari-iz-gta-vi-okazalis-ne-xudozestvennym-reseniem-a-otsylkoi-k-realnoi-probleme-floridy.html",
-    "summary": "Разработчики обратили внимание на реальные события в штате Флорида.",
-    "published": "2026-11-26T17:50:00+00:00",
-    "source": "iXBT.games",
-    "site_name": "iXBT.games",
-    "trust": "medium",
-    "text": "Разработчики обратили внимание на реальные события в штате Флорида.\nВ процессе исследования штата Леонида игроки в Grand Theft Auto VI обратили внимание на необычные фонари. Некоторые из них светятся фиолетовым. К новинке Rockstar Games приобщились люди из других регионов и стран, которые не знают про особенности реального штата Флорида, поэтому в сети стали высказываться разные предположения.\nНекоторым казалось, что это просто художественное решение, а кто-то видел за этими фиолетовыми фонарями некий «подтекст». Журналист обратился к «настоящему флордицу» Генри — он тоже играл в GTA VI и высказал предположение, что это такие специальные фонари, предназначенные для того, чтобы не дезориентировать черепах. Однако такие фонари обычно красные, поэтому «фиолетовое свечение» данная версия всё же не объясняет.\nЗатем уже сам Генри решил обратиться к друзьям, которые живут на юге Флориды — в регионе, где расположены прототипы населённых пунктов из штата Леонида (места действия GTA VI). Оказалось, что фиолетовые фонари это не художественное решение и они не являются «специальными фонарями» — это отсылка к инциденту с закупкой бракованных ламп:\nФиолетовые фонари действительно существуют. У нас тут куча таких, потому что тот, кто отвечал за это в правительстве, закупил много бракованных ламп.\nМестные жители начали сообщать о фиолетовых уличных фонарях в 2023 году. В штате были «сотни» таких фонарей: предполагается, что причиной стал «спектральный сдвиг, вызванный смещением люминофора» — светодиоды всегда светили синим, а покрытие, которое должно было придать им другой цвет, например жёлтый, не работало.\nПолучается, что авторы Grand Theft Auto VI сделали отсылку к реальному инциденту.\nНе пропускайте наши новостиДобавьте сайт в предпочитаемые источники, чтобы видеть нас чащеДобавить в Google",
-    "extra": {
-     "image": "https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1746749/media-05860c015b8ae81716c910d75bfc3f5eee58731ac5c48f2d729aee41fb58de48.png"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "ФИОЛЕТОВЫЕ фонари — не стиль, а баг\n\nВ Леониде заметили странные светящиеся лампы. Оказалось, это не глубокий замысел разработчиков, а реальный косяк властей Флориды с закупкой брака.\n\n❤️ — Ждем патч на свет\n👎 — Имба, оставляем",
-    "card_title": "ФИОЛЕТОВЫЕ ФОНАРИ ИЗ ФЛОРИДЫ",
-    "reason": "Крутая реальная пасхалка про бракованные фонари во Флориде, которую перенесли в игру.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-26T18:12:21.530719+00:00"
-  },
   {
    "item": {
     "title": "'The Results Are Very, Very Impressive' - Digital Foundry Praises GTA 6 On Xbox One",
