@@ -4580,7 +4580,11 @@
   "5bcbc4f04c06c0b7": "2026-11-26T00:41:26.822151+00:00",
   "d92198ef44a285b7": "2026-11-26T00:41:28.193404+00:00",
   "15654e220793ce3d": "2026-11-26T00:41:29.579590+00:00",
-  "9bcd6f93dc9c57a6": "2026-11-26T00:41:30.954266+00:00"
+  "9bcd6f93dc9c57a6": "2026-11-26T00:41:30.954266+00:00",
+  "12ec99ddbd7c43a4": "2026-11-26T00:56:52.922433+00:00",
+  "4f0b93843576834c": "2026-11-26T00:56:55.116666+00:00",
+  "f4af955b05f93294": "2026-11-26T00:56:56.476497+00:00",
+  "d07437a350d3ed3d": "2026-11-26T01:12:21.899316+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -7639,7 +7643,11 @@
   "9583872d4644a999": "2026-11-26T00:41:26.822151+00:00",
   "a91eda4d0dc7ef4d": "2026-11-26T00:41:28.193404+00:00",
   "6dbad8416dccc316": "2026-11-26T00:41:29.579590+00:00",
-  "24ff89995fff643a": "2026-11-26T00:41:30.954266+00:00"
+  "24ff89995fff643a": "2026-11-26T00:41:30.954266+00:00",
+  "4f25e68d106b6fae": "2026-11-26T00:56:52.922433+00:00",
+  "31c54b2ce53d6802": "2026-11-26T00:56:55.116666+00:00",
+  "547ccc4426d8f86b": "2026-11-26T00:56:56.476497+00:00",
+  "80943c314c132944": "2026-11-26T01:12:21.899316+00:00"
  },
  "recent": [
   {
@@ -15233,6 +15241,38 @@
    "status": "skipped",
    "ts": "2026-11-26T00:41:30.954392+00:00",
    "card_title": ""
+  },
+  {
+   "title": "Rockstar Explains Why it Added Consequences to GTA 6's Violence and Crimes",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T00:56:55.116793+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "'GTA 6' fake brands and the real companies they parody",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T00:56:56.476616+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Animation Director Reveals Rockstar Made 3 Animations for Each Item Interaction",
+   "source": "IGN",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-26T01:12:19.700262+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Here Are Some Video Game Conversation Starters That Aren’t About GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T01:12:21.899442+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -22630,36 +22670,6 @@
   },
   {
    "item": {
-    "title": "GTA 6 Animation Director Reveals Rockstar Made 3 Animations for Each Item Interaction",
-    "link": "https://www.ign.com/articles/gta-6-animation-director-reveals-rockstar-made-3-animations-for-each-item-interaction",
-    "summary": "Mike Jones, the director of gameplay animation for GTA 6, revealed that the team at Rockstar created three separate animations for each item interaction in the game.",
-    "published": "2026-11-25T21:08:54+00:00",
-    "source": "IGN",
-    "site_name": "IGN",
-    "trust": "high",
-    "text": "Mike Jones, the director of gameplay animation for GTA 6, revealed that the team at Rockstar created three separate animations for each item interaction in the game.\nIf you’ve been playing GTA 6 at all, you’ve probably picked up on the fact that characters can now hold an item in each hand. This has made for some especially funny clips on social media, where users have wasted no time making Jason recreate the ‘six-seven’ meme while holding various objects.\nThis is a big change from previous Rockstar games; in titles like GTA 5 and Red Dead Redemption 2, players could only carry one thing at a time, though you could dual wield certain guns in GTA: San Andreas. (You could also hold longarms at your side while shooting a pistol in RDR 2 and Max Payne 3.) Now, you can hold a sandwich in one hand and a drink in the other — or a bag and a gun, if you’re sticking up a pawn shop, for instance. This isn’t just an aesthetic feature, either, as it serves the important function of letting players take care of two tasks at once, making robberies or transporting items a bit smoother.\nPlayers have praised GTA 6 for its jaw-dropping attention to detail, and this particular tidbit wasn’t lost on them. A thread on Bluesky discussing the feature caught the attention of Mike Jones, the director of gameplay on Rockstar’s latest title, who revealed the extent of the studio’s efforts in making sure every single item interaction had a single-handed, two-handed, and hands-free animations.\n“FYI, we made three versions for all item interactions; one if both hands are free, one if just your right hand is free and again for the left,” he wrote. “It was a massive pain, but once you knew every interaction could ‘cope,’ it made the game logic much easier. That was then sometimes replicated for crouch, too…”\nThat being said, the devs at Rockstar aren’t superheroes, and they had to cut corners somewhere during development. Jones admitted this fact in response to another comment in this thread, where a user wrote, “Honestly, the level of polish is so absurd that when I see how cheated the ‘putting gas in the car’ sequence is, I'm like, relieved. ‘Oh, okay, they're human, they bleed.’ You all did SO well.”\n“Thanks, everyone would really appreciate your comments! And yes, shortcuts were definitely made, too,” Jones replied.\nGTA 6 is a game like no other. Its world is so massive and detailed that some players are avoiding progressing the story in favor of chilling out in Key Lento and diving f",
-    "extra": {
-     "image": "https://assets-prd.ignimgs.com/2026/11/25/gta-6-item-animations-1795640541926.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "ТРИ АНИМАЦИИ для каждого предмета\n\nРазработчики из Rockstar сделали по три версии анимаций для каждого взаимодействия с вещами: когда свободна одна рука или обе сразу. Вот это лютый пот ради деталей, база от перфекционистов!\n\n❤️ — Ждем в новой части\n👎 — Опять перенос?",
-    "card_title": "ТРИ АНИМАЦИИ ДЛЯ КАЖДОГО ПРЕДМЕТА",
-    "reason": "Официальные подробности от директора анимации Rockstar о проработке предметов в GTA 6.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-25T22:10:24.616589+00:00"
-  },
-  {
-   "item": {
     "title": "Buckingham Jubilee GTA 6 Location – Where to Find the Rolls-Royce SUV",
     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE53UUozUUp0LXF4bE42VTA4NXVQYzFlaEZHVjFjOWYxODZuemM5STVBdXZuWXlaM3RQU0d4U3M4aGo5X3QtSW5USVgtMm9ZbGgtejBQZWZ0ejJ4d2NJcV9LU2R5S3FqZkQ2dmFpQ1ExazlrdFFZ?oc=5",
     "summary": "Buckingham Jubilee GTA 6 Location – Where to Find the Rolls-Royce SUV VICE",
@@ -22955,6 +22965,36 @@
    },
    "corr": false,
    "since": "2026-11-26T00:10:17.964020+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA 6's Map Has a Useful Feature I've Only Just Noticed",
+    "link": "https://www.pushsquare.com/news/2026/11/gta-6s-map-has-a-useful-feature-ive-only-just-noticed",
+    "summary": "You learn something new every day. I’ve tallied over 300 hours in GTA 6 so far, and today I learned something new. Forgive me if you already knew it, but I figured I’d share anyway as it never occurred to me in all my sessions so far. Read the full article on pushsquare.com",
+    "published": "2026-11-26T01:00:00+00:00",
+    "source": "Push Square",
+    "site_name": "Push Square",
+    "trust": "high",
+    "text": "I’ve tallied over 300 hours in GTA 6 so far, and today I learned something new.\nForgive me if you already knew it, but I figured I’d share anyway as it never occurred to me in all my sessions so far.\nOne of the big things about this new game is that you can go inside a lot of buildings. Each is uniquely furnished, and it’s all pretty unprecedented for an open world game, to be honest.\nHowever, not all houses can be entered, obviously.\nFor example, this house in Key Lento with the gnomes outside – I can’t go in:\nWell, today I learned that the map actually acknowledges this.\nThere are light grey buildings and dark grey buildings, as shown in screenshot below:\nSo let’s go to that dark grey building next door and see if we can go inside, shall we? It turns out we can:\nAnd it seems like the family living here are big sports fans:\nWhat’s the learning, then? Well, it’s simple: light grey buildings on the map can’t be entered and dark grey buildings can. I literally had no idea about this until a few hours ago.\nAs for that house I just broke into – well, they’ve got a cool car:\nI realised this within the first couple of hours, but I don't think the game tells you this so it's good for people who don't. 👍",
+    "extra": {
+     "image": "https://images.pushsquare.com/28170b445230c/large.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "🗺 Гайд: как понять, в какие дома можно зайти\n\nСветлые и темные здания\n\nНе все двери открыты, чел. Смотри на карту: светло-серые здания глухие, а темно-серые — имба для грабежа и поиска крутых тачек. Затестим в катке!",
+    "card_title": "КАК ОТЛИЧИТЬ ДОМА В GTA 6",
+    "reason": "Полезный секрет о механике карты в GTA 6, обнаруженный игроком после 300 часов.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": true,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-26T00:56:53.688555+00:00"
   }
  ]
 }
