@@ -4590,7 +4590,13 @@
   "c0a3c6a7a2265c12": "2026-11-26T02:01:06.737068+00:00",
   "c80322f45ff5976d": "2026-11-26T02:01:09.645704+00:00",
   "9ac5c75ce0d0db9a": "2026-11-26T02:01:14.039973+00:00",
-  "a37395a383a59d32": "2026-11-26T02:16:38.016672+00:00"
+  "a37395a383a59d32": "2026-11-26T02:16:38.016672+00:00",
+  "0ebb2cb19a8a7c2c": "2026-11-26T02:32:11.438405+00:00",
+  "a36b256b1a5f9f7e": "2026-11-26T02:32:15.151621+00:00",
+  "9403aabaad2dbdf3": "2026-11-26T02:32:19.288596+00:00",
+  "a1a54616f05bcaec": "2026-11-26T02:47:45.118331+00:00",
+  "85c56c0230ba8863": "2026-11-26T02:47:49.566181+00:00",
+  "5df9647ec06abe91": "2026-11-26T02:47:55.129678+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -7659,7 +7665,13 @@
   "959c8fae11528907": "2026-11-26T02:01:06.737068+00:00",
   "25faa2a54353914b": "2026-11-26T02:01:09.645704+00:00",
   "84eb6ac8bb47b37b": "2026-11-26T02:01:14.039973+00:00",
-  "5d46e5131098655f": "2026-11-26T02:16:38.016672+00:00"
+  "5d46e5131098655f": "2026-11-26T02:16:38.016672+00:00",
+  "631585abf2990b1c": "2026-11-26T02:32:11.438405+00:00",
+  "c3ab4308b8da46b6": "2026-11-26T02:32:15.151621+00:00",
+  "a13b25896e5a0e48": "2026-11-26T02:32:19.288596+00:00",
+  "5fb1d46f276dee35": "2026-11-26T02:47:45.118331+00:00",
+  "611252a5c12c439d": "2026-11-26T02:47:49.566181+00:00",
+  "c6877455c147a093": "2026-11-26T02:47:55.129678+00:00"
  },
  "recent": [
   {
@@ -15381,6 +15393,94 @@
    "status": "skipped",
    "ts": "2026-11-26T02:16:38.016793+00:00",
    "card_title": ""
+  },
+  {
+   "title": "How to Unlock and Enter All 4 Kitty Litter Labs in GTA 6",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-26T02:32:07.876482+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Chatfield Storage Guide to the Suppressed ES9, Safe Code and Supercar",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-26T02:32:07.876571+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "All Peewees Billboard locations in GTA 6",
+   "source": "Polygon",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-26T02:32:07.876596+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "«Вырезанный» контент GTA 6 включает теннис, посещение кинотеатров, декорирование дома и не только",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T02:32:11.438557+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Headset Test: 7 Headsets, 130 Hours (TechRadar)",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T02:32:15.151766+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Как спасти Яго в миссии «Брат за брата» в ГТА 6. Бросить Яго или спасти его: последствия выбора",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T02:32:19.288743+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Capri Corrupt Cops Walkthrough: Both Starts and the CPD Moreland 850",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-26T02:47:40.029925+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 has weird purple streetlights because actual Florida screwed up its streetlights",
+   "source": "PC Gamer",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-26T02:47:40.029992+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6’s Lucia Writer Quit X. The Abuse Then Hit Another Woman With Her Name",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T02:47:45.118455+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6’s in-game sports cards are becoming real collectibles, with Panini packs arriving in December",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T02:47:49.566315+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How To Unlock The Alien Questline in GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T02:47:59.775193+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -22803,156 +22903,6 @@
   "digest-20261125": "2026-11-25T19:30:50.081169+00:00"
  },
  "rewrite_wait": [
-  {
-   "item": {
-    "title": "How to Unlock and Enter All 4 Kitty Litter Labs in GTA 6",
-    "link": "https://www.gtaboom.com/gta-6-tyrone-kitty-litter-labs-guide-dcaa",
-    "summary": "Start at the trailer park with Jason, then climb Balsero’s fence and enter Salton’s broken window to unlock Vice Dale’s lab behind the Gas Mart.",
-    "published": "2026-11-25T22:28:16+00:00",
-    "source": "GTA BOOM",
-    "site_name": "GTA BOOM",
-    "trust": "medium",
-    "text": "In GTA 6, once you finish Here, Kitty Kitty, Tyrone and Duke send you after four Kitty Litter labs. The first is in a trailer park north of Tyrone's place. Clearing it opens up Balsero and Salton, and Vice-Dale follows after both are done. Tyrone pays GTA$2,000 per lab in the recorded route. The entrances and the tools you need differ at each stop.\nAfter Here, Kitty Kitty, watch for Duke's message. The map marks Destroy Synthetics Lab as Jason only. Go into the trailer park north of Tyrone's place and take the path on the right at the blue house. Look for a brown house with a car under its shelter. Across from that car is the green building with pink bottles outside.\nClear the guard at the entrance and the person inside. Take the gas can near the seating and use it around the lab. You can take the cash from the counter before leaving, but don't linger in the fumes. Back out before igniting it. Once the objective changes to Leave the Area, get clear and avoid the police. Once you're clear, Jason calls Duke to report that the lab is destroyed.\nFind the Balsero lab behind the graffiti-covered fence\nStart by EM Hosiery in South Balsero. Follow the alley and the graffiti along the right wall. At the painted dumpster by the garage, climb onto the dumpster and over the fence. Pink litter on the ground tells you you're in the right yard.\nStay crouched around the corner and clear the guards, including the men inside the garage. If you want to keep the takedowns nonlethal, move people clear of the garage before setting it off. Check the paperwork on the small table to the left of the garage entrance before leaving. From outside the garage, shoot the propane tank on the left and get clear. Lucia messages the group with Duke and Tyrone after the blast.\nReach the Salton lab through the broken window\nAt the Salton Lab job marker, look for the building with pink smoke coming out of its chimney. The doors won't get you in. Go around the back, climb onto the dumpster beneath the broken upper window and climb inside. Stay crouched. There's one person at the lab and another to your right, so don't approach the first without accounting for the second.\nMove the propane tank from the kitchen next to the lab equipment. Get back out of danger, shoot the tank from a distance and leave the area. Lucia messages the group as she heads out, and the GTA$2,000 payout appeared as we reached the car.\nAfter both Balsero and Salton are clear, look for Tyrone's follow-up. The Vice-Dale lab i",
-    "extra": {
-     "image": "https://media.gtaboom.com/variants/1920/media/images/13/73/labs-first-lab-approach-0fc71e1d32668a1f.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 6,
-    "post": "🗺 Гайд: Лаборатории Тайрона\n\nКак зачистить все 4 точки и забрать бабки без лишних проблем.\n\nПервая лаба в трейлерном парке: ищем зелёное здание с розовыми бутылками, используем канистру с бензином и валим до взрыва.\nДля Balsero лезем через забор по мусорке около гаража, а в Salton пробираемся через разбитое окно сзади дома. Стреляем по пропан-баллонам издалека и лутаем по 2к зелени за точку.\n\n❤️ — Изи кэш\n👎 — Душный стелс",
-    "card_title": "КАК ПРОЙТИ ЛАБОРАТОРИИ ТАЙРОНА",
-    "reason": "Гайд по прохождению миссий с лабораториями Тайрона в GTA 6",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": true,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": true,
-   "since": "2026-11-25T22:35:48.782463+00:00"
-  },
-  {
-   "item": {
-    "title": "GTA 6 Chatfield Storage Guide to the Suppressed ES9, Safe Code and Supercar",
-    "link": "https://www.gtaboom.com/gta-6-chatfield-storage-logistics-robbery-guide-d532",
-    "summary": "Climb over from the neighboring yard on Waxman Island, then collect the suppressed pistol and safe cash before driving the car out.",
-    "published": "2026-11-25T22:27:36+00:00",
-    "source": "GTA BOOM",
-    "site_name": "GTA BOOM",
-    "trust": "medium",
-    "text": "Chatfield Storage & Logistics is the yard north of the spray shop on Waxman Island. You can take a suppressed Quarter Mile ES9, safe cash and a purple supercar in one visit. The pistol and safe are in the office by the main gate, but the code is on a laptop in a shipping container. Open the gate on foot before taking the car.\nApproach the yard from the neighboring compound. Climb the stacked containers where the wall has no fence on top, then drop inside. Use the containers along the wall to get close to the guards. We were spotted and finished the fight in the yard, so this route gets you inside without using the front gate but doesn't guarantee a quiet robbery.\nGo to the office by the main gate and watch for the guard with a shotgun inside. The suppressed Quarter Mile ES9 is just to the left as you enter. The safe is farther back on the left. Take any cash you want from the center table, then go down the stairs.\nWalk past the purple supercar toward the north wall. Look inside the container at the edge of the yard for the laptop. We got 5800 as our code from it. Go back upstairs, enter the code shown in your run and collect the safe cash.\nTo spot the right container from the yard, look just left of the green canopy. There is a blue barrel outside the doorway and another just inside.\nFind the tiny gate office. The control to open the gate is on the left of its doorway. Use it, then take the purple supercar and drive out through the main gate. We drove it out of the yard, but didn't test whether it stayed registered to us.\nGTA 6 Leonida Carrier Warehouse: Safe Code, GRX-556 and Gunrunner Camacho\nGTA 6 Yasmani’s Jewelry Jobs Guide With All 3 Safe Codes and the Snap Gun\nGTA 6 Kamar Devon Community Center Robbery: Where to Find the Pistol and Watch",
-    "extra": {
-     "image": "https://media.gtaboom.com/variants/1920/media/images/84/8b/storage-purple-car-bf3dbed19df1f9f2.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 6,
-    "post": "🗺 Гайд: Лутаем Chatfield Storage\n\nЗалетаем на склад Chatfield Storage & Logistics на Waxman Island за пушкой ES9, бабками из сейфа и фиолетовым суперкаром.\n\n1. Перелазь через контейнеры у стены возле покрасочной, чтобы тихо зайти на территорию.\n2. В офисе у ворот ищи бесшумный пистолет ES9 и сейф (код от него — на ноутбуке в синем контейнере у северной стены).\n3. Открой ворота с помощью пульта в будке и уезжай на суперкаре.",
-    "card_title": "ОГРАБЛЕНИЕ CHATFIELD STORAGE",
-    "reason": "Гайд по ограблению Chatfield Storage в GTA 6 с полезными локациями лута.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": true,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-25T22:35:53.384921+00:00"
-  },
-  {
-   "item": {
-    "title": "All Peewees Billboard locations in GTA 6",
-    "link": "https://www.polygon.com/gta-6-peewees-billboard-location-challenge-waink/",
-    "summary": "Peewees Billboards will lead you to a grand prize in GTA 6. Here's where you can find them all, how to solve the puzzle, and how to claim the reward.",
-    "published": "2026-11-25T22:18:47+00:00",
-    "source": "Polygon",
-    "site_name": "Polygon",
-    "trust": "high",
-    "text": "Peewees Billboards are one of the many scannable WAiNK collectibles in Grand Theft Auto 6, but they're also part of the Mr. Enigma X Peewees scavenger hunt. Mr. Enigma, a play on Dr. Pepper, and the Peewees, a play on Popeyes, have teamed up to create a challenge where you must find four Peewees billboards, and you'll earn a valuable reward.\nAll the info you're given is that there is a billboard in the following areas: Vice-Dale, Mariana County, Lummox County, and Leonard County. As these areas are fairly large, it can take a long time to find them.\nTo save you some time, we've listed where you can find every Peewees Billboard in GTA 6 below.\nHow to start the Mr. Enigma X Peewees scavenger hunt in GTA 6\nTo start the Mr. Enigma X Peewees scavenger hunt, look out for a Peewees post on Snapmatic, or you can look for one of the four Peewees billboards. After you start, you'll get a text from Chicken Challenge, telling you that you've entered the scavenger hunt. They'll also send you a clue that points you toward another billboard when you start the challenge and every time you find one.\nThere are four Peewees Billboards in GTA 6, with one in Vice-Dale, Mariana County, Lummox County, and Leonard County. To mark them off the list, head to their location and scan them using WAiNK (hold Up on your D-pad).\nBelow, we explain where you can find each billboard in detail.\nThe Vice-Dale Peewees Billboard is on the west side of Balsero, which is the northwest corner of Vice-Dale County. The billboard itself is between Route US-10 and US-35, which is just northwest of Randy's shop.\nPeewees Billboard location in Mariana County\nThe Mariana County Peewees Billboard is technically in Big Pine in Grassrivers, but it's very close to the border between Grassrivers and North Mariana County. Along the border, you'll find three dome-shaped buildings and Route US-82. Head northeast of the dome-shaped buildings, and look in the median strip to find this Peewee Billboard.\nPeewees Billboard location in Lummox County\nThe Lummox County Peewees Billboard is located on the border between South West Lummox County and Mount Kalaga National Park. The billboard is just west of Route US-628. Head north from the junction that connects US-628 to SR-73, and you'll find the billboard on your left.\nPeewees Billboard location in Leonard County\nThe Leonard County Peewees Billboard is located in the northwest corner of Waning Sands. The billboard is just next to SR-27, which is between Lake Leonida and",
-    "extra": {
-     "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/peewees-billboard_gta6.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 6,
-    "post": "🗺 Гайд: Где искать билборды Peewees\n\nИщем все 4 рекламных щита для квеста с Mr. Enigma, чтобы забрать имбовую награду.\n\nЩиты спрятаны в Вайс-Дейле, округах Мариана, Ламмокс и Леонард. Просто сканируйте их через WAiNK, зажав стрелочку вверх на крестовине.",
-    "card_title": "БИЛБОРДЫ PEEWEES В GTA 6",
-    "reason": "Гайд по поиску секретных билбордов и началу челленджа в игре.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "All Peewees Billboard locations in GTA 6",
-    "guide": true,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": true,
-   "since": "2026-11-25T22:35:57.367195+00:00"
-  },
-  {
-   "item": {
-    "title": "GTA 6 Capri Corrupt Cops Walkthrough: Both Starts and the CPD Moreland 850",
-    "link": "https://www.gtaboom.com/gta-6-capri-corrupt-cops-walkthrough-b26b",
-    "summary": "In Capri, surrender if stopped or bump the performer, talk to cops and get arrested later, then escape and grab the CPD Moreland 850 from the trunk.",
-    "published": "2026-11-25T22:41:35+00:00",
-    "source": "GTA BOOM",
-    "site_name": "GTA BOOM",
-    "trust": "medium",
-    "text": "The corrupt cops near Capri's commercial pavilion can stop you while you're walking around, or you can draw them over by bumping into the gold-painted street performer. If an officer stops you first, you can surrender there.\nIf you go through the performer, talk to the officers first, then get arrested separately. Once you break out, take back your gear and grab the CPD Moreland 850 from the same trunk. The cage keys are on a different pickup: loot the officer who comes back to the garage.\nGo to the pavilion on Beacon Circle in Capri. Look for the gold-painted performer outside Bean Machine.\nIf a cop approaches you: Stay in the conversation and interrupt him until he tells you you're under arrest. Don't resist when he moves in.\nIf no one stops you: Bump into the performer. Stay nearby when the officers arrive. Talk to them after she runs away and let the conversation finish. That conversation puts you on their list but doesn't start the arrest. Afterward, commit an offense in Capri and surrender when the police come for you.\nYou'll know you've started the right encounter when the arrest leads into a cutscene and you wake up in a cage.\nWait until an officer takes the street performer outside. Follow the cage prompt: tap Square on PlayStation or X on Xbox to break out. We got out on the third attempt. Go through the door he used and get out of sight before he comes back.\nWhen the officer stops outside the garage door, approach from behind and take him down. Search him for the cage keys. Move him out of sight if you're trying to stay quiet; another officer comes back to check on him.\nContinue past the garage door to the car with its trunk open. Reclaim your gear, then use the shotgun pickup prompt (L1 on PlayStation or LB on Xbox). The CPD Moreland 850 is in the trunk, not an automatic reward at the end.\nThe officers near the grill and garage don't stay together. Let the next officer head back toward the garage, then deal with him before approaching the officer at the grill. The others may go back to investigate. Watch the house and the gate as you clear the rest of the compound.\nIn our run, one officer asked to be let go. Once we'd dealt with the officers, we used the keys to open both remaining cages. Free those two prisoners before leaving. We didn't rescue the street performer after the officer took her outside.\nHow to Unlock and Enter All 4 Kitty Litter Labs in GTA 6\nGTA 6 Send More Money to Lorena Walkthrough",
-    "extra": {
-     "image": "https://media.gtaboom.com/variants/1920/media/images/89/1e/capri-street-performer-cbc3583aa88c9437.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 6,
-    "post": "🗺 Гайд: Как пройти квест с продажными копами в Капри\n\nСдаемся легавым возле золотого мима в Bean Machine, просыпаемся в клетке и сбегаем.\n\nКлючи падают с копа-возвращеннца, а тачка CPD Moreland 850 ждет в открытом багажнике.\n\n❤️ — Ууу, сбежали\n👎 — Снова КПЗ",
-    "card_title": "ПРОХОЖДЕНИЕ МИССИИ ПРОДАЖНЫЕ КОПЫ",
-    "reason": "Гайд по прохождению миссии с продажными копами и получению тачки CPD Moreland 850.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": true,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-25T22:51:50.030231+00:00"
-  },
-  {
-   "item": {
-    "title": "GTA 6 has weird purple streetlights because actual Florida screwed up its streetlights",
-    "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-has-weird-purple-streetlights-because-actual-florida-screwed-up-its-streetlights/",
-    "summary": "Rockstar recreated an embarrassing mishap in Florida infrastructure.",
-    "published": "2026-11-25T22:36:12+00:00",
-    "source": "PC Gamer",
-    "site_name": "PC Gamer",
-    "trust": "high",
-    "text": "When you're exploring a world as realistic and well-observed as GTA 6's Leonida, it's rare for a piece of benign infrastructure to stick out. But on night one of my playthrough, I clocked some weird streetlights.\nA stylistic choice by Rockstar? Maybe, but it's awfully specific, and I had a feeling there was a deeper intention behind it. So I DMed my buddy Henry, an honest-to-god Floridian who was also playing GTA 6, and asked what's up. At first he thought strange streetlights in the Key Lento area of the map were special lights meant to not disorient turtles, but those are typically red, so probably not. And that doesn't explain the purple ones.\nSo Henry reached out to friends in south Florida, the region that Leonida's biggest cities are based on, and they cracked the case wide open.\n\"The purple [lights] are definitely real. We have a ton of them down here because whoever is in charge of that in the government bought a bunch of defective lights,\" the anonymous Floridian responded.\nYes, actual Florida cities are lit by these dubiously dim, yet undeniably cool purple lamps. According to ClickOrlando, residents first started reporting the purple streetlights in 2023. They put up hundreds of these things across the state before they started malfunctioning—it was such a kerfuffle that the government eventually released a statement saying their vendor really screwed the pooch.\nKeep up to date with the most important stories and the best deals, as picked by the PC Gamer team.\nApparently the cause was a \"spectral shift caused by phosphor displacement,\" which essentially means the LED lights were always blue, but the coating that was supposed to make appear yellow or white or whatever didn't work. The powers that be said the malfunctioning lights would be replaced, but judging by our own sources in the state, they haven't gotten them all.\nSo that's fun. If you already heard about this somewhere (other than your Floridian friend), it's probably because YouTuber AnyAustin also clocked these lights in his video published yesterday. Glad I'm not the only one who couldn't resist this rabbit hole.\nI like how Rockstar didn't go overboard with these lights—just like the genuine article, they're in and around parts of Leonida, but not everywhere. I'm still not sure how to explain the turquoise ones, though. A lot of local news, Reddit, and YouTube skimming did not produce a clear answer, other than other cities in America that do have green streetlights sometimes. Perhaps",
-    "extra": {
-     "image": "https://cdn.mos.cms.futurecdn.net/qP2t3NgyYc4YTtxyNnMSoK-1920-80.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "ФИОЛЕТОВЫЕ фонари в игре\n\nRockstar добавили в Леониду те самые фиолетовые фонари из реальной Флориды, которые появились из-за бракованных LED-ламп. Жутко, но вайб свой.\n\n❤️ — Тоже заметил эту дичь\n👎 — Обычный баг",
-    "card_title": "ФИОЛЕТОВЫЕ ФОНАРИ В GTA 6",
-    "reason": "Интересная пасхалка и реальный баг Флориды, перенесенный в игру.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-25T22:51:56.226577+00:00"
-  },
   {
    "item": {
     "title": "Никаких крайностей: Rockstar рассказала о балансе сложности в Grand Theft Auto",
