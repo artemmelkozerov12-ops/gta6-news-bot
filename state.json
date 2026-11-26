@@ -4922,7 +4922,28 @@
   "da40fc7812d9965b": "2026-11-26T15:13:19.056962+00:00",
   "80c8564398efa85f": "2026-11-26T15:13:31.441921+00:00",
   "db4ad531202edb9f": "2026-11-26T15:13:33.039138+00:00",
-  "1187522f277c920f": "2026-11-26T15:13:35.720870+00:00"
+  "1187522f277c920f": "2026-11-26T15:13:35.720870+00:00",
+  "ab0e269a1632ea55": "2026-11-26T15:28:59.314268+00:00",
+  "9e09d33a8c80e611": "2026-11-26T15:28:59.314328+00:00",
+  "9ac90658dcb281c7": "2026-11-26T15:29:03.368787+00:00",
+  "72fcae9be11595fd": "2026-11-26T15:29:08.459270+00:00",
+  "ab95969fdc26bd1f": "2026-11-26T15:29:16.103214+00:00",
+  "2a57f6f0b9c2626d": "2026-11-26T15:29:21.666295+00:00",
+  "9743cdb1a9428572": "2026-11-26T15:29:31.744526+00:00",
+  "cf6c406c8af2cdb3": "2026-11-26T15:29:36.796621+00:00",
+  "a68c5f87b24f78c8": "2026-11-26T15:29:38.994369+00:00",
+  "56b4dd28ba687602": "2026-11-26T15:29:41.639990+00:00",
+  "430a2cc234137891": "2026-11-26T15:44:59.560602+00:00",
+  "0e103a31e6035f3d": "2026-11-26T15:44:59.560659+00:00",
+  "5820e4e5e3c046a7": "2026-11-26T15:44:59.560714+00:00",
+  "f4f045e2afb67efc": "2026-11-26T15:45:06.271677+00:00",
+  "a76458223c9c7da0": "2026-11-26T15:45:10.885691+00:00",
+  "e95e9d74e4f12567": "2026-11-26T15:45:16.939085+00:00",
+  "b9e807d3ec6bfc37": "2026-11-26T15:45:23.186117+00:00",
+  "ce10cdf43d273421": "2026-11-26T15:45:29.525106+00:00",
+  "6d0e1e3738b4f6e9": "2026-11-26T15:45:34.881736+00:00",
+  "5cca8045d700a5d0": "2026-11-26T15:45:36.898584+00:00",
+  "12d073b41f857f8c": "2026-11-26T15:45:41.816202+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -8240,7 +8261,24 @@
   "5b727d6ec97a4957": "2026-11-26T15:13:19.056962+00:00",
   "f395fe8767d33f11": "2026-11-26T15:13:31.441921+00:00",
   "feb7d8aaa8f0a10b": "2026-11-26T15:13:33.039138+00:00",
-  "a7e68c1efee205ea": "2026-11-26T15:13:35.720870+00:00"
+  "a7e68c1efee205ea": "2026-11-26T15:13:35.720870+00:00",
+  "a8683a5b696cff01": "2026-11-26T15:29:21.666295+00:00",
+  "c2dc68b6cc45532a": "2026-11-26T15:29:31.744526+00:00",
+  "027443a61648315d": "2026-11-26T15:29:03.368787+00:00",
+  "fb72786d921cf63f": "2026-11-26T15:29:08.459270+00:00",
+  "09655b7b848d752b": "2026-11-26T15:29:16.103214+00:00",
+  "f5db2304cc41d9b0": "2026-11-26T15:29:36.796621+00:00",
+  "1bca820d2a5a986a": "2026-11-26T15:29:38.994369+00:00",
+  "900b36118efb539f": "2026-11-26T15:29:41.639990+00:00",
+  "e40015e097987bf4": "2026-11-26T15:45:06.271677+00:00",
+  "a04155711b44be4a": "2026-11-26T15:45:29.525106+00:00",
+  "a7bdbbcc2d3663a8": "2026-11-26T15:44:59.560714+00:00",
+  "6128ebdab63acb74": "2026-11-26T15:45:10.885691+00:00",
+  "ac18d592809c49c5": "2026-11-26T15:45:16.939085+00:00",
+  "41c343ae1f4590e7": "2026-11-26T15:45:23.186117+00:00",
+  "37ef599732eff632": "2026-11-26T15:45:34.881736+00:00",
+  "5818ce395f28be89": "2026-11-26T15:45:36.898584+00:00",
+  "6db8d6e9550d8310": "2026-11-26T15:45:41.816202+00:00"
  },
  "recent": [
   {
@@ -15377,6 +15415,110 @@
    "trust": "rumor",
    "status": "skipped",
    "ts": "2026-11-26T15:13:35.721006+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Union Vote Fails In Landslide At GTA 6 Studio Rockstar Games As 75 Percent Of Devs Vote No",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-26T15:28:59.314307+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Players Have Found a Cheeky Method to Quickly Steal ATMs",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-26T15:28:59.314356+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI Developers Vote Against Unionization Following Battle With Rockstar",
+   "source": "Rockstar Intel",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-26T15:29:03.368905+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to Find and Complete the Farm Fix Meth Lab Illegal Operation in GTA 6—All Key Valuables",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-26T15:29:08.459386+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "The GTA VI physical edition has broken sales records in Europe",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T15:29:36.796760+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 on Xbox One Tested: The Power of the Cloud Delivers - Save for One Big Issue",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T15:29:38.994507+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Can you free-roam in GTA 6 after finishing the story?",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T15:29:41.640114+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI Causes Console Sales Surge, Physical Copies Dominate UK Charts",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-26T15:44:59.560637+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Xbox Console Sales Get A Huge Boost In The UK, While GTA 6 Breaks Records For Physical Games",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-26T15:44:59.560690+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to get Cut-Off Tool in GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-26T15:44:59.560734+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI Causes Console Sales Surge, Physical Copies Dominate UK Charts",
+   "source": "Rockstar Intel",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-26T15:45:08.038168+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Rockstar Games employees vote against union recognition",
+   "source": "Eurogamer",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-26T15:45:34.881843+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Slideshow: GTA 6 Fashion Gallery",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T15:45:41.816322+00:00",
    "card_title": ""
   }
  ],
@@ -22667,6 +22809,244 @@
    },
    "corr": false,
    "since": "2026-11-26T15:13:09.600575+00:00"
+  },
+  {
+   "item": {
+    "title": "All GTA 6 Endings Explained & How to Get The Best Ending",
+    "link": "https://insider-gaming.com/all-gta-6-endings-explained-how-to-get-best-ending/",
+    "summary": "Grand Theft Auto 6 is enormous, and that means it has many endings. In this guide, learn how many endings there are and what they contain. The post All GTA 6 Endings Explained & How to Get The Best Ending appeared first on Insider Gaming .",
+    "published": "2026-11-26T15:21:15+00:00",
+    "source": "Insider Gaming",
+    "site_name": "Insider Gaming",
+    "trust": "medium",
+    "text": "HUGE WARNING! THIS GUIDE CONTAINS THE MOST INTRICATE ENDGAME SPOILERS IMAGINABLE! DO NOT GO PAST THIS POINT IF YOU HAVEN’T COMPLETED GTA 6!\nGrand Theft Auto 6 is one of the most diverse and granular open-world games Rockstar has ever made, and naturally, that concept extends to the endings. From what we know so far, there are almost ten endings (and potentially as many as 23) to GTA 6, and each one is based on specific actions and how you’ve played the game up until that point.\nIn this guide, I’ll break down all the GTA 6 endings, how to get them, and what you need to do to unlock the ‘best’ ending. It all begins much further in the base game than you might think, and everything from your relationship with Lucia to snapshot endgame decisions matters.\nLet’s get into it, but final warning: I am about to spoil every GTA 6 ending for you.\nLet’s start on a high with the best GTA 6 ending.\nBest GTA 6 Ending: Everyone Survives and Thrives\nIf you want the best ending possible in GTA 6, recognized as the ‘true ending’ by many, you’ll need to tick a lot of boxes, but it’s well worth it.\nIn this ending, Jason and Lucia decide to jump off the bridge together in the closing mission, but Jason hangs back and is arrested by pursuing police officers. We flash forward two years, and Lucia has managed to use the bulk of the $2 million players had accrued in the base game to get Jason out of prison.\nThis ending sees Jason meet Lucia and Tomas outside the prison and quite literally drive off into the sunset, finally reunited as a happy family. It’s the best ending for multiple reasons, but the most obvious one is that it validates everything you did to get to this point. You know that all the trials and tribulations weren’t ‘for nothing’.\nIt’s the same as picking Option C in GTA 5 – everyone wins (except the bad guys).\nMaximize your relationship and have a 4/4 rating by the end of the game: ‘Hot Together’\nHave the cleanest criminal profile possible and be regarded as ‘Professional’ (both characters)\nSave $2 million in your BuckMe family savings account before you start ‘Protective Custody’\nShoot Mendez when the option presents itself during Protective Custody\nChoose ‘Swim For It’ and ‘Exit’ on the ending bridge sequence\nYou must have the strongest relationship possible by this point, or Jason and Lucia won’t make it to the bridge.\nThe ‘second-best’ ending in GTA 6 is a bittersweet one. It sees Lucia get away by swimming off the bridge, but Jason is apprehended by the police a",
+    "extra": {
+     "image": "https://insider-gaming.com/wp-content/uploads/2026/11/868aa57f-3b1b-4b77-bd99-e650cdfed217-1024x576.png"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "🗺 Гайд: Как выйти на тру-финал в GTA 6\n\nЧтобы Джейсон и Люция выжили и затащили хэппи-энд, придется попотеть. Качая отношения до максимума «Hot Together», копите на счете два ляма зелени и не косячьте с выбором в миссиях — это база для хэппи-энда.\n\n❤️ — Успел пройти на этот финал?\n👎 — Да ну, спойлеры раньше времени",
+    "card_title": "КАК ПОЛУЧИТЬ ЛУЧШУЮ КОНЦОВКУ В GTA 6",
+    "reason": "Гайд по получению лучшей концовки игры",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": true,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-26T15:29:19.133031+00:00"
+  },
+  {
+   "item": {
+    "title": "Union Vote Fails In Landslide At GTA 6 Studio Rockstar Games As 75 Percent Of Devs Vote No",
+    "link": "https://kotaku.com/rockstar-games-union-vote-fails-as-75-percent-of-devs-vote-no-2001000621",
+    "summary": "The GTA 6 studio will not formally recognize union members",
+    "published": "2026-11-26T15:15:14+00:00",
+    "source": "Kotaku",
+    "site_name": "Kotaku",
+    "trust": "high",
+    "text": "Grand Theft Auto VIGTA 6Rockstar GamesUnion\nRockstar Games will not be forced to formally recognize a union at the Grand Theft Auto 6 studio after its developers based in the UK voted overwhelmingly against the initiative. The weeks-long voting process played out as Rockstar launched the open-world hit to over 30 million sales in its first day.\nVoting began on November 12 and concluded today on November 26. Workers at Rockstar Games voted 75 percent against the recognition agreement with the IWGB Game Workers Union. The initiate would have formalized collective bargaining efforts around things like overtime, bonuses, layoffs, and AI. Developers in favor of unionizing can still work with the IGWB, but there will be no regular meetings with management to hash out new policies.\nThe IWGB Game Workers Union pushing the vote released the following statement:\nFor anyone at Rockstar who believes in a fairer workplace, a fairer sector and a fairer society – this isn’t a sign to retreat, it’s a sign to double down on what we stand for. Hundreds of our coworkers voted in favor of our union at Rockstar, yet sadly we recognize we have more work to do to build understanding and win the trust of more of our colleagues. We’re ready to put in the effort to make that happen. Whilst we haven’t emerged with a recognition deal, this ballot has put our union on the radar of every worker, and opened the door for new kinds of conversation to start happening. People entirely unfamiliar with unions were for the first time debating employment conditions, collective bargaining rights, and our contracts. We heard from many more colleagues about what mattered to them, and we hope people will continue to engage so that we can see where these new discussions can lead us. A recognition agreement would have marked a path towards greater workplace democracy. But it’s one route of many. At Rockstar we have already won, and will continue to win, tangible changes that improve our everyday lives. We’ll keep fighting for a say. For pay transparency, contractual overtime pay, and protections against AI and layoffs. The power to shape our working lives has always been, and will always be, in our hands.\nThe vote comes roughly a year after Rockstar fired dozens of developers it accused of gross misconduct and breaking confidentiality rules around the development of GTA 6. The fired workers accused the studio of union busting, which it has denied, and a legal fight has been ongoing over the last 12 m",
+    "extra": {
+     "image": "https://kotaku.com/app/uploads/2026/11/GTA-6-couple-1280x720.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "ПРОФСОЮЗ НЕ ПРОШЕЛ\n\nРазработчики из Rockstar в Британии забанили создание профсоюза — 75% челов проголосовали ПРОТИВ. Видимо, кранчи их не так сильно пугают, когда игра бьет все рекорды.\n\n❤️ — Правильно, меньше душноты\n👎 — Жалко работяг",
+    "card_title": "ПРОФСОЮЗ В ROCKSTAR ПРОЛЕТЕЛ",
+    "reason": "Официальная новость про провал голосования профсоюза в Rockstar, важное событие для студии.",
+    "duplicate": false,
+    "corroborated": true,
+    "duplicate_of": "",
+    "corroborated_by": "75% of Rockstar’s workers have voted against unionizing",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-26T15:29:26.494600+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA 6 Players Have Found a Cheeky Method to Quickly Steal ATMs",
+    "link": "https://www.ign.com/articles/robbing-gta-6-atms-quickly",
+    "summary": "Somewhere around the middle of GTA 6 you unlock the ability to rob ATMs. Any ATM marked green can be pulled out of the wall and cracked open.",
+    "published": "2026-11-26T14:16:47+00:00",
+    "source": "IGN",
+    "site_name": "IGN",
+    "trust": "high",
+    "text": "Warning! Potential spoilers for GTA 6 follow.\nSomewhere around the middle of GTA 6 you unlock the ability to rob ATMs. Any ATM marked green can be pulled out of the wall and cracked open (check out IGN's guide to all ATM locations in GTA 6 if you need help finding one).\nFirst, though, you need to be able to deal with marked bills through a fence called Yasmini, otherwise the money inside the ATM is worthless and a dye pack will explode in your face. When I got to snatching ATMs, I thought it was cool, but the juice didn’t seem worth the squeeze.\nIt’s kinda hard to keep things on the downlow when you’re backing a truck up to an ATM, ripping it out of a wall, and tearing down the street with the thing still attached, hoping it’ll burst open and spill its contents onto the street. And when it finally does break open, you have to shoot the money drawers open to get to the goods inside — all for a payout between $6,000-$10,000.\nIt wasn’t worth the effort, honestly. But there’s a new trick players have discovered to crack those eggs immediately and move onto the next before the cops even know you’re there. I’ve tried it, and like Todd Howard famously once said: it just works.\nHere’s what you do. First, you need a truck or other heavy vehicle with a winch attachment at the back. You reverse up to the ATM like normal, and the winch connects to the machine. Now drive forward until the line is taut.\nFrom there, get out of your vehicle and walk up to the ATM with a C4 charge. Hold down aim, and a prompt to place it on the ATM should show up, allowing you to set it on the front with Circle/B. Or throw it at the front of the machine — whatever works.\nOnce it’s in place, you want to get back in your car and accelerate hard. When it pulls out of the wall, keep dragging it but immediately press unhook, followed by the same button to detonate your charge. It’s important these two actions happen immediately after each other, because the ATM needs to be moving when the explosion happens or the drawers can stay inside the machine.\nDone correctly, you can walk over and scoop up the cash and escape before the cops even arrive at the scene. They’ll still be figuring out what happened while you’re hooking up to the next machine, pulling, and sparking up a Cuban. If you need more C4, there’s a free stash of the stuff in the back of Yasmani’s. You can also top up at any Ammunation.\nA Simple Trick for Faster ATM Robberies GTA 6 https://t.co/lo6aWdupew— LUCKY (@Badboy1B) November 25,",
+    "extra": {
+     "image": "https://assets-prd.ignimgs.com/2026/11/26/gtavi-12-1795702599377.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "🗺 Гайд: ИМБА-способ грабить банкоматы за секунды без копов\n\nЗацепи банкомат лебедкой пикапа, налепи C4, трогайся с места и сразу отцепляй трос с одновременным подрывом. Изи бабки в кармане до того, как приедут менты.\n\n❤️ — Тестируем в катке\n👎 — Слишком душно",
+    "card_title": "КАК БЫСТРО ГРАБИТЬ БАНКОМАТЫ",
+    "reason": "Это полезный секрет-гайд по ограблению банкоматов в вышедшей GTA 6 от надежного источника IGN.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "GTA 6 Players Have Found a Cheeky Method to Quickly Steal ATMs — Google News (EN)",
+    "guide": true,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-26T15:29:34.087159+00:00"
+  },
+  {
+   "item": {
+    "title": "Does GTA 6 Have a Point of No Return? GTA 6 Ending Mission, Explained",
+    "link": "https://insider-gaming.com/is-there-point-no-return-in-gta-6/",
+    "summary": "Does GTA 6 let you know when you're about to finish the game with a 'point of no return' prompt? Find out here. The post Does GTA 6 Have a Point of No Return? GTA 6 Ending Mission, Explained appeared first on Insider Gaming .",
+    "published": "2026-11-26T15:33:28+00:00",
+    "source": "Insider Gaming",
+    "site_name": "Insider Gaming",
+    "trust": "medium",
+    "text": "When you’re approaching the end of Grand Theft Auto 6, you might feel a natural crescendo drawing near, but is it obvious? Many people are wondering if there’s some kind of marker that indicates when you’re about to embark on the game’s final mission, and for good reason.\nYou might have spent 100+ hours getting to the end of GTA 6, but are you told when the last mission is about to start? Is there a clear point of no return in GTA 6? In this guide, I’m going to explain exactly how it works without spoiling the game for you.\nIt has been said by some that as many as two dozen GTA 6 endings exist. There are so many because all of the game’s intricate mechanics feed into how the conclusion comes around, and everything you do matters. That leaves a lot of room for variation, as you can imagine.\nBut before you reach one of those endings, are you informed that you’re about to get there? If you want to spend time in the open world of Leonida making cash, winning races, robbing banks, and doing whatever else you might want to do before ending the game, are you instructed that you can do that?\nYour final mission in Grand Theft Auto 6 is preceded by a clear message informing you that you’re about to go ahead with a final deal and that there’s ‘no going back’ once you engage that last mission. If you’ve met a guy called Abe and started collaborating with him, then you’re close.\nBefore you head on that ultimate mission, there are a few things I’d highly recommend doing:\nStack cash in your BuckMe account to hit that $2 million mark\nLove it up with Jason and Lucia to get their relationship as strong as possible\nGo on some clean raids and kneecap a few people to get your criminal profile down to Professional\nThat’s effectively all I can advocate for you doing before you go on that final GTA 6 mission.\nIf you need to know anything else about Grand Theft Auto 6, make sure you stop by our full guides hub. It contains everything you could need to learn about the most important game release of all time!\nAlso, you can buy Grand Theft Auto 6 here if you haven’t already!\nLet us know if you’re enjoying GTA 6 on the Insider Gaming Discord server.\nFor more Insider Gaming coverage, check out the best locations for early cash in GTA 6, and don’t forget to sign up for our free weekly newsletter\nGrant has been gaming for 30+ years and in the industry for 10+. You'll probably find him playing a post-apocalyptic game or an extraction shooter somewhere.\nHow to Find and Complete the Farm Fi",
+    "extra": {
+     "image": "https://insider-gaming.com/wp-content/uploads/2026/11/Jason_and_Lucia_08-1-scaled.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "🗺 Гайд: Как понять, что это финал\n\nВ игре перед последней миссией всегда вылезает плашка «нет пути назад». Перед тем как идти к Абе и рушить всё, советуем поднять бабла на счету BuckMe до двух лимонов и прокачать отношения Джейсона с Люсией.\n\n❤️ — Уже прошли игру?\n👎 — Только качаем",
+    "card_title": "ТОЧКА НЕВОЗВРАТА В GTA 6",
+    "reason": "Гайд по финальной миссии и точке невозврата в вышедшей GTA 6.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": true,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-26T15:45:14.045222+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA 6 reportedly sets massive livestreaming record, watched more in its first week than Elden Ring, Diablo 4, Valorant, and Lost Ark combined",
+    "link": "https://www.eurogamer.net/grand-theft-auto-6-first-week-hours-watched-record",
+    "summary": "Grand Theft Auto 6 has broken another livestreaming record. After attracting more viewers across livestreaming platforms than any game ever on its launch day, Rockstar's open-world crime sim has reportedly continued to dominate on platforms like Twitch , YouTube, and Kick. Read more",
+    "published": "2026-11-26T15:32:20+00:00",
+    "source": "Eurogamer",
+    "site_name": "Eurogamer",
+    "trust": "high",
+    "text": "Grand Theft Auto 6 has broken another livestreaming record. After attracting more viewers across livestreaming platforms than any game ever on its launch day, Rockstar's open-world crime sim has reportedly continued to dominate on platforms like Twitch, YouTube, and Kick.\nOver its first seven days on sale, GTA 6 has amassed over 420m hours watched, according to Streams Charts. That's nearly three times more than the previous record, held by Valorant's closed beta in April 2020. In fact, that 420m hours tally is more than the first-week watch time achieved by Valorant, Elden Ring, Diablo 4, and Lost Ark combined.\nAs for the livestreaming platforms that saw the largest audiences for GTA 6, YouTube reportedly had the lead in average audience numbers during the first six hours of launch, but Twitch took over in content volume in the days that followed. In fact, Twitch's GTA 6 watch time was higher at launch than any other game in its history.\nStreams Charts also noted 1,056 channels reached new all-time peak viewership numbers while streaming GTA 6, in some cases multiplying their previous record tenfold. Major content creators like IShowSpeed, IlloJuan, and TheBurntPeanut stole the spotlight, but GTA 6 also helped many other channels set new viewership records.\nLivestreaming, of course, isn't the only area where GTA 6 has set new records. Publisher Take-Two called it the biggest entertainment launch in history, generating $3.79bn (£2.89bn) in revenue from 32.5m copies sold on day one. Other parts of the industry have benefited, too. Anticipation for GTA 6 boosted US hardware sales for both PlayStation and Xbox, just as GTA 6 became each console brand's most pre-ordered title ever. At launch, more than 39 million people played GTA 6 on PS5, according to Sony. The game also had the highest number of concurrent players ever on any PlayStation console, beating even the most popular free-to-play titles.\nYou can check out Eurogamer's GTA 6 walkthrough if you're in need of assistance, which we just updated today with a guide on how to whistle in GTA 6 - something I didn't know you could do. The walkthrough also covers other lesser-known mechanics such as how to steal ATMs in GTA 6, and much more besides.",
+    "extra": {
+     "image": "https://assetsio.gnwcdn.com/gta-6-vice-city-characters-gold-ak-1.jpg?width=690&quality=85&format=jpg&auto=webp"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 9,
+    "post": "РЕКОРДЫ стримов побиты\n\nGTA 6 собрала 420 млн часов просмотра за первую неделю — это больше, чем у Valorant, Elden Ring, Diablo 4 и Lost Ark вместе взятых. Вот это лютый разнос от фанатов на Twitch и YouTube.",
+    "card_title": "РЕКОРДЫ СТРИМОВ GTA 6",
+    "reason": "Official massive livestreaming record for GTA 6 in its first week, confirmed by Eurogamer.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-26T15:45:20.680262+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA 6 Gives PS5 a Very Rare Win Over Switch 2 in Japan",
+    "link": "https://www.pushsquare.com/news/2026/11/gta-6-gives-ps5-a-very-rare-win-over-switch-2-in-japan",
+    "summary": "Score. At this point, it’s well known that Switch 2 is by far the market leader in Japan. While the PS5 still commands some marketshare, it gets dominated by the Nintendo machine on a weekly basis. Read the full article on pushsquare.com",
+    "published": "2026-11-26T15:30:00+00:00",
+    "source": "Push Square",
+    "site_name": "Push Square",
+    "trust": "high",
+    "text": "At this point, it’s well known that Switch 2 is by far the market leader in Japan.\nWhile the PS5 still commands some marketshare, it gets dominated by the Nintendo machine on a weekly basis.\nGTA 6’s launch is significant, then, because for the first time in a while it’s pushed Sony’s console in front of the Switch 2 – albeit only by a few thousand units.\nAccording to Famitsu’s latest report, the PS5 sold 41,472 units through the week ending 22nd November, while the Switch 2 managed 36,817 units.\nThis is an incredibly rare scenario, and likely won’t be repeated again (if ever). But it shows that with the right software, Sony can put up a fight domestically against Nintendo.\nThe company’s been taking the region a lot more seriously under Japanese CEO Hideaki Nishino, launching more affordable region locked units to try and stimulate interest.\nThis week saw the release of the new Midnight Black model, which certainly helped contribute to the sales.\nBut PS5’s success was primarily motivated by GTA 6, which sold a very respectable 200,759 units at retail for the week.\nThat’s slightly less than GTA 5’s 304,752 units opening in 2013, although remember digital buying habits have changed dramatically in the last 13 years, and GTA 6’s physical release was not particularly compelling as it doesn’t include a disc.\nA good week for Sony in its home region, then – one that’s unlikely to be replicated, but should be taken as a sign it can compete with the right lineup and pricing model.\n[SW2] The Legend of Zelda: Ocarina of Time: 35,295 (658,433)\n[SW2] Nintendo Switch Sports Resort:10,486 (126,291)\n[NSW] Rhythm Heaven Groove: 7,830 (1,136,253)\n[NSW] Tomodachi Life: Living the Dream: 4,570 (1,654,904)\n[SW2] Splatoon Raiders (Nintendo, 07/23/26): 3,077 (700,755)\n[NSW] Momotaro Dentetsu 2: Anata no Machi mo Kitto Aru: 2,969 (390,053)\n[SW2] Metaphor: ReFantazio: 2,426 (13,593)\n[SW2] Momotaro Dentetsu 2: Anata no Machi mo Kitto Aru: 2,385 (331,659)\nI think the far bigger story here is the 750 consoles collectively shipped and sold that were Series X/S. Ouch.\nHowever, still no surprise given as you have stated in the article, the Switch/2 has been dominating in Japan for years.\nI guess on a personal level I just forget how small some of these numbers are in Japan.\nI mean Switch 1 selling literal thousands more than Microsoft's offering is interesting alone.\nBut yes, rare win for Sony in Japan of late, and as you mention, doubt this shall happen again any time soon.\nDo really lo",
+    "extra": {
+     "image": "https://images.pushsquare.com/9d5530aadf314/large.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "PS5 ОБОШЛА Switch 2\n\nGTA 6 наделала шухеру в Японии и впервые за долгое время подкинула PS5 на первое место по продажам консолей, обогнав Nintendo. Сочный буст продаж!\n\n❤️ — Ждем в топ-1 мира\n👎 — Локальный хайп",
+    "card_title": "GTA 6 ОБОШЛА NINTENDO",
+    "reason": "Официальная статистика Famitsu о победе PS5 над Switch 2 в Японии благодаря релизу GTA 6.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-26T15:45:25.584411+00:00"
+  },
+  {
+   "item": {
+    "title": "Xbox Console Sales Get A Huge Boost In The UK, While GTA 6 Breaks Records For Physical Games",
+    "link": "https://www.purexbox.com/news/2026/11/xbox-console-sales-get-a-huge-boost-in-the-uk-while-gta-6-breaks-records-for-physical-games",
+    "summary": "Series X and S sales received their biggest jump since 2024. We've got some new data coming out about the UK games market in November 2026 today, and unsurprisingly, it's a market that's been absolutely dominated by the launch of GTA 6 last week. According to the folks at The Game Business , sales of the Xbox Series X and Xbox Series S rose by a whopping 75% during GTA 6's launch week, which represents the biggest jump for Xbox hardware since 2024. Read the full article on purexbox.com",
+    "published": "2026-11-26T15:30:00+00:00",
+    "source": "Pure Xbox",
+    "site_name": "Pure Xbox",
+    "trust": "high",
+    "text": "We've got some new data coming out about the UK games market in November 2026 today, and unsurprisingly, it's a market that's been absolutely dominated by the launch of GTA 6 last week.\nAccording to the folks at The Game Business, sales of the Xbox Series X and Xbox Series S rose by a whopping 75% during GTA 6's launch week, which represents the biggest jump for Xbox hardware since 2024.\nThe PS5 was close behind at 46%, and console sales were up 38% overall (after a 29% increase the week before).\nIn terms of UK console sales, PS5 sales rose 46% during the week GTA 6 came out, while Xbox Series S and X sales jumped 75%. It’s the biggest jump for Xbox since 2024. Overall, UK console sales last week were up 38%, which comes on the back of a 29% increase the week prior.\nMeanwhile, the controversial \"physical\" edition of GTA 6 broke numerous records in Europe, serving as the biggest physical launch in Spain's history according to their charts, and selling over 1m physical copies in France in three days.\nIt was also the biggest physical launch in the UK since FIFA 20 in September 2019, and is the 17th biggest physical launch since records began there in 1995. This is according to data provided by UK data tracker Nielsen IQ.\n\"GTA 6 is the biggest physical game launch since 2019, reveals UK data tracker Nielsen IQ. It generated £32 million in revenue in just three days.\"\nJust last week, on the day of GTA 6's release, we mentioned how Xbox hardware spending in the U.S. was up 42% YoY in October, attributed to the likes of Gears of War: E-Day and GTA 6.\nIt's going to be fascinating to see how the rest of the world stacks up in terms of Xbox sales data from November (which should be revealed over the coming days and weeks), and indeed whether GTA 6's physical edition is also setting records in even more regions. It most likely is - this is a ridiculously popular game after all.\nWhat are your thoughts on this? Let us know down in the comments section below.\nNow if only they could restock all the countries where it's sold out, they would keep selling consoles elsewhere.\nI’m pretty sure GTA6 broke no records for physical games.. Doesn’t it require a disc to be categorised as that?",
+    "extra": {
+     "image": "https://images.purexbox.com/b9f46e643ff43/large.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "РЕКОРДЫ ПРОДАЖ\n\nGTA 6 порвала чарты: физические копии бьют рекорды в Европе, а продажи консолей взлетели на десятки процентов. Имба-старт, который просто взорвал рынок.\n\n❤️ — Ждём цифру на ПК\n👎 — Только цифра, только хардкор",
+    "card_title": "РЕКОРДЫ ПРОДАЖ GTA 6",
+    "reason": "Official sales data from UK and Europe showing record physical copies and console boosts.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "Xbox Console Sales Get A Huge Boost In The UK, While GTA 6 Breaks Records For Physical Games — Google News (EN)",
+    "corroborated_by": "Xbox Console Sales Get A Huge Boost In The UK, While GTA 6 Breaks Records For Physical Games — Google News (EN)",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-26T15:45:31.409712+00:00"
+  },
+  {
+   "item": {
+    "title": "How to get the BF Bandito in GTA 6 explained",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOXdxSDJjY0czUnRySVQxeXdnMWk1dU9scmE4VUlGME9HN1NWa0I0N2pCdllCdUI4ZjdwNXRIVVpJcnUzWjlIRjd3eng4QU84bmNIclVQbFN1b2hwa3c2NTRQaDRVcFlqODh2TkNfei12TEtITnJaVTFmdGh5QkhucVNHaTBIRk9URk1YWkhUcVhWTk9X?oc=5",
+    "summary": "How to get the BF Bandito in GTA 6 explained Radio Times",
+    "published": "2026-11-26T15:40:02+00:00",
+    "source": "Google News (EN)",
+    "site_name": "Radio Times",
+    "trust": "rumor",
+    "text": "How to get the BF Bandito in GTA 6 explained Radio Times",
+    "extra": {}
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "🗺 Гайд: Где искать тачку BF Bandito\n\nЗахотели покатать на этой имбе? Ловите точку, где тачка часто спавнится в Леониде.\n\nЧекните побережье и грунтовые дороги за городом. Тачка лютая, для гонок по песку самое то, го затестим в катке.",
+    "card_title": "КАК НАЙТИ BF BANDITO",
+    "reason": "Гайд по поиску машины BF Bandito в вышедшей игре",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": true,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": true,
+   "since": "2026-11-26T15:45:39.860736+00:00"
   }
  ]
 }
