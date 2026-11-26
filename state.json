@@ -4964,7 +4964,26 @@
   "9cf7063463fd4a27": "2026-11-26T16:17:46.685792+00:00",
   "39c4d94052418da6": "2026-11-26T16:17:49.871516+00:00",
   "d4860a0e15d236ce": "2026-11-26T16:17:51.084978+00:00",
-  "1a171a9d5d6baf58": "2026-11-26T16:17:52.273641+00:00"
+  "1a171a9d5d6baf58": "2026-11-26T16:17:52.273641+00:00",
+  "355a1b5838d3b7dd": "2026-11-26T16:33:13.270547+00:00",
+  "380053b523430619": "2026-11-26T16:33:13.270643+00:00",
+  "6726a5dd480f9cbf": "2026-11-26T16:33:15.874917+00:00",
+  "5a05ec76aa05397a": "2026-11-26T16:33:22.386198+00:00",
+  "73e7c5c84ff6d192": "2026-11-26T16:33:25.056924+00:00",
+  "2a802f82ba96a3fd": "2026-11-26T16:33:26.766755+00:00",
+  "a7543a67a2c3d238": "2026-11-26T16:33:29.061343+00:00",
+  "47bcf0bdb1e46db0": "2026-11-26T16:33:38.031125+00:00",
+  "4865a0c4a5e7393f": "2026-11-26T16:33:39.763312+00:00",
+  "d05be572f59b3933": "2026-11-26T16:33:41.221352+00:00",
+  "4dbab320570175c8": "2026-11-26T16:49:00.256697+00:00",
+  "9634404e75a03940": "2026-11-26T16:49:02.810640+00:00",
+  "1b423e56b6189888": "2026-11-26T16:49:05.892040+00:00",
+  "6fb368f38692ae13": "2026-11-26T16:49:13.711869+00:00",
+  "436f5e4197480c56": "2026-11-26T16:49:22.367009+00:00",
+  "e01c21e2b64f3b68": "2026-11-26T16:49:26.071628+00:00",
+  "f6b3e8ac252d596e": "2026-11-26T16:49:29.795851+00:00",
+  "0c42952e39458d59": "2026-11-26T16:49:34.627907+00:00",
+  "5d57a23aa708d6d2": "2026-11-26T16:49:40.621578+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -8318,7 +8337,24 @@
   "2b0caf5a8d22ce28": "2026-11-26T16:17:46.685792+00:00",
   "78ebd50dec357614": "2026-11-26T16:17:49.871516+00:00",
   "adb6c9c58f4e0dbd": "2026-11-26T16:17:51.084978+00:00",
-  "e42725e162d622a3": "2026-11-26T16:17:52.273641+00:00"
+  "e42725e162d622a3": "2026-11-26T16:17:52.273641+00:00",
+  "59ed90b70bf659f7": "2026-11-26T16:33:15.874917+00:00",
+  "863a6122536f2540": "2026-11-26T16:33:22.386198+00:00",
+  "671b648b761264c1": "2026-11-26T16:33:25.056924+00:00",
+  "5897228260331716": "2026-11-26T16:33:26.766755+00:00",
+  "566b415a12f8da60": "2026-11-26T16:33:29.061343+00:00",
+  "074f002a626b1696": "2026-11-26T16:33:38.031125+00:00",
+  "2468fec115f20ed3": "2026-11-26T16:33:39.763312+00:00",
+  "7ac99aa65965053b": "2026-11-26T16:33:41.221352+00:00",
+  "23ad237857c9c4e8": "2026-11-26T16:49:00.256697+00:00",
+  "5123630a62bcffe8": "2026-11-26T16:49:02.810640+00:00",
+  "28c80da18ee54cff": "2026-11-26T16:49:05.892040+00:00",
+  "c31e2edc2d268a31": "2026-11-26T16:49:13.711869+00:00",
+  "5b59419812ae4d62": "2026-11-26T16:49:22.367009+00:00",
+  "2f5e15b1af27af0a": "2026-11-26T16:49:26.071628+00:00",
+  "f9d666f09468b636": "2026-11-26T16:49:29.795851+00:00",
+  "4162389f858e82b8": "2026-11-26T16:49:34.627907+00:00",
+  "254b3e198178dff9": "2026-11-26T16:49:40.621578+00:00"
  },
  "recent": [
   {
@@ -15687,6 +15723,110 @@
    "trust": "rumor",
    "status": "skipped",
    "ts": "2026-11-26T16:17:52.273761+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Aspects of GTA 6 are inspired by Red Dead Redemption 2's honor system because its player agency 'was a hard thing to ignore and walk away from'",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-26T16:33:13.270597+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Where to find GTA 6's UFO and alien",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-26T16:33:13.270668+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Modders have released an unofficial patch for running GTA 6 at up to 60 frames per second on a hacked PS5 Pro.",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T16:33:25.057054+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Моддеры выпустили неофициальный патч для запуска GTA 6 с частотой до 60 кадров на взломанной PS5 Pro",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T16:33:26.766891+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "9 games under $15 in Xbox's Black Friday sale if GTA 6 is out of your price range",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T16:33:29.061470+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Jorge Martin reveals marathon GTA 6 play time after Portuguese MotoGP podium",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T16:33:38.031250+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "I’d love a PlayStation Portal to play GTA 6 anywhere – but where are the Black Friday deals?",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T16:33:39.763437+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 radio gives a massive boost to artists' Spotify streams, up to more than 100x versus pre-launch",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T16:33:41.221482+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "All Mandy Scenes & Interactions in GTA 6",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "dup",
+   "ts": "2026-11-26T16:49:00.256732+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Hobbyists and AI vibe coders have GTA 6 running on Windows PC days after launch — How is it possible, and what comes next?",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T16:49:22.367156+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Игроки обнаружили в GTA 6 секретный розовый спорткар и бесплатный гараж в районе Ла Перла",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T16:49:26.071796+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6: все радиостанции и песни — полный список треков",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T16:49:34.628034+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Cast: Who Plays Jason and Lucia, and Who Else Is In It",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T16:49:40.621713+00:00",
    "card_title": ""
   }
  ],
@@ -23276,6 +23416,184 @@
    },
    "corr": false,
    "since": "2026-11-26T16:17:43.120245+00:00"
+  },
+  {
+   "item": {
+    "title": "Aspects of GTA 6 are inspired by Red Dead Redemption 2's honor system because its player agency 'was a hard thing to ignore and walk away from'",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/aspects-of-gta-6-are-inspired-by-red-dead-redemption-2s-honor-system-because-its-player-agency-was-a-hard-thing-to-ignore-and-walk-away-from/",
+    "summary": "\"As the resolution goes up, you want the sophistication of the experience to go up.\"",
+    "published": "2026-11-26T16:28:37+00:00",
+    "source": "PC Gamer",
+    "site_name": "PC Gamer",
+    "trust": "high",
+    "text": "Grand Theft Auto 6 doesn't just mark a huge, and at times unbelievable, step forward for graphics; it's also at the forefront of what an open world game can be, just look at the existential crisis it's given Cyberpunk 2's creative director. With thousands of enterable buildings, unpredictable and slightly scary NPCs, and systems that help you determine what kind of criminal you want to be. It all really does feel like a milestone for what videogames can do.\n\"As the resolution goes up, you want the sophistication of the experience to go up, and obviously the sophistication of the mechanics,\" Rob Nelson, Rockstar's head of development, says in an interview with Eurogamer. \"So it just naturally flowed that we give players choices to interact with the world beyond just violence, beyond just 'down the barrel of a gun', because it's fun.\"\nThe sophisticated mechanics that Nelson is talking about here pertains to GTA 6's Criminal Profile, a system that evaluates your escapades across Leonida and gives you a rating. There's Professional, Hardened, Violent, Psycho, and Irredeemable. The more stealthy and non-lethal you are, the higher your profile will be. It's similar to Red Dead Redemption 2's Honor System.\n\"There was maybe more emotional resonance in the story of RDR2 than we had, certainly in a GTA before,\" Nelson says. \"So we liked that idea. We didn't necessarily come to GTA 6 going: 'We must have emotional resonance,' but all of those things combine. It's more that those systems and that element of player choice and agency, and the way that affected the narrative, was a hard thing to ignore and walk away from.\"\nNelson explains that most of the groundwork started as \"simple things\" in principle, \"but they create a lot more work in terms of development of the sophistication of the systems.\" It's all about choice in GTA 6. You choose whether you want to be a criminal with a conscience or a loose cannon.\n\"It's still a world of violence, but you could threaten somebody by aiming a gun at them and just robbing them, and they have a chance to comply. So you don't have to beat them to death to get their money.\"\nThe part that sticks out the most is that you \"don't have to\" approach crimes in a certain way, there's still the option to go into every encounter guns blazing because redemption only works from a storytelling perspective when it's the player's choice, and not as Nelson puts it, something that is \"foisted upon you\".\nKeep up to date with the most important sto",
+    "extra": {
+     "image": "https://cdn.mos.cms.futurecdn.net/pgTwJvucXFLqqu5Xn4TNQV-1920-80.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "🎯 В GTA 6 прокачивают выбор роли\n\nВ игре работает система Criminal Profile, похожая на честь из RDR2. Можно быть как скрытным профи, так и полным психом, а грабить копов теперь разрешено без лишней пальбы — база для любителей рп.\n\n❤️ — Стану тихоней\n👎 — Только хардкор и пальба",
+    "card_title": "СИСТЕМА КРИМИНАЛЬНОГО ПРОФИЛЯ",
+    "reason": "Разработчики из Rockstar официально рассказали о новой системе Criminal Profile, вдохновленной RDR2.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "Aspects of GTA 6 are inspired by Red Dead Redemption 2's honor system because its player agency 'was a hard thing to ignore and walk away from' — Google News (EN), доверие: rumor",
+    "corroborated_by": "Aspects of GTA 6 are inspired by Red Dead Redemption 2's honor system because its player agency 'was a hard thing to ignore and walk away from' — Google News (EN), доверие: rumor",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-26T16:33:17.564524+00:00"
+  },
+  {
+   "item": {
+    "title": "Where to find GTA 6's UFO and alien",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto-6/gta-6-alien-ufo-location/",
+    "summary": "Get down with the extraterrestrial.",
+    "published": "2026-11-26T16:28:36+00:00",
+    "source": "PC Gamer",
+    "site_name": "PC Gamer",
+    "trust": "high",
+    "text": "Grand Theft Auto 6 might feel more grounded compared to its predecessors, but that doesn't mean Leonida isn't full of weird and supernatural ongoings. One such paranormal activity is GTA 6's aliens—if you know where to look, you'll be able to find a UFO which'll eventually lead you down a strange road of cows, radiation, and the aliens themselves.\nAnd if you don't know where to look, here's where I can help you. If you want to find GTA 6's UFO and a weird little alien guy, here's exactly where you need to go and what you need to do.\nThe alien abduction is actually a three-parter mission, and to get started you'll first need to locate the abandoned car. You'll need to look for it at nighttime, and it can spawn in a number of locations. For me, it was a little ways east of Port Gellhorn in Kelly County. For our own Chris Livingston, he discovered the car somewhere north of Capri, also in Kelly County. You know it's the one if the car is pointed toward a forest and the doors are open.\nOnce you've found it, you'll need to follow the path it's parked along. You'll know you're going the right way by the clothes strewn along the path. If it's a bit too dark or you're stuck, you can press L3 + R3 to activate your focus and see the clothes more easily or equip your flashlight. Eventually you'll see the lights of the UFO and a very naked lady amongst it all. Head over until a cutscene plays out.\nOnce that's over, you'll get into a light scuffle with the woman before she instructs you to go get her car. Head back to where you first found the vehicle, where one more cutscene will play out and you'll be done… for now.\nYou'll need to wait for some time to pass. Make sure you're heading home and going to sleep each night, preferably as whichever character you discovered the UFO on. Eventually, you'll trigger a cutscene that'll bring you to a white room.\nFind the dark oval which signals the way to a corridor and run through it. You'll be met with a terrifying maze of eggs. Get close to them and they'll start glowing blue. Get too close and they'll turn yellow, eventually cracking and causing your character to be yoinked back to the start by tentacles.\nKeep up to date with the most important stories and the best deals, as picked by the PC Gamer team.\nCarefully make your way through the eggs, finding large gaps where you won't cause them to break. Once you've made it to the other side, you'll be met with another room containing the solar system. Take a look at earth—this is",
+    "extra": {
+     "image": "https://cdn.mos.cms.futurecdn.net/F6NfiFhTdSZ9LHZd57UqmV-1920-80.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "🗺 Гайд: Как найти НЛО и пришельцев\n\nИмба-пасхалка с пришельцами в Леониде запрятана люто. Затестим секретный квест.\n\n1. Ночью ищите брошенную тачку к востоку от Порт-Геллхорна или северу от Капри, ориентируйтесь по разбросанной одежде.\n2. Включите фокус (L3+R3) и идите на свет НЛО до кат-сцены.\n3. Переждите пару дней дома, чтобы попасть в кошмарный лабиринт с яйцами и инопланетянами.\n\n❤️ — уже нашёл тарелку\n👎 — ещё не чекал",
+    "card_title": "ГДЕ НАЙТИ НЛО И ИНОПЛАНЕТЯН",
+    "reason": "Гайд по поиску секретного НЛО и инопланетян в вышедшей GTA 6",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "Where to find GTA 6's UFO and alien",
+    "guide": true,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-26T16:33:23.618185+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA 6: All Secret Radio Stations and how to unlock them",
+    "link": "https://www.videogameschronicle.com/guide/gta-6-secret-radio-stations-unlock/",
+    "summary": "Unlock the secret radio and on-demand services in Grand Theft Auto 6",
+    "published": "2026-11-26T16:42:23+00:00",
+    "source": "VGC",
+    "site_name": "VGC",
+    "trust": "high",
+    "text": "Grand Theft Auto 6 is hiding not just one, but two radio stations that you can easily play the whole game without finding.\nThe Vault and The Sniper of LaPerle are two exclusive music playlists you can only listen to if you scan carefully placed posters around the world of GTA 6, and one of them even belongs to Kodak Black.\nFor everything you need to unlock all secret radio stations in Grand Theft Auto 6, read through the guide below.\nGuides: If you're playing Grand Theft Auto 6, make sure to check out our complete walkthrough hub, featuring beginner tips, navigation experience explained, GTA 6 cheats, and more.\nHow to unlock The Vault Radio Station – GTA 6\nTo unlock The Vault as a radio station you can listen to pretty much anywhere, you need to visit the club, also called The Vault. It’s in the center of Vice City, a block West of Nine1Nine. It has a unique icon, so it’s hard to miss.\nAs you enter and go up the first flight of stairs, you’ll see two posters in front of you. Scan the The Vault poster with the WAiNK App, and once complete, you’ll unlock The Vault as a radio station you can listen to in your car. It plays the same kind of club and dance music you’ll hear inside the club.\nHow to unlock The Sniper of LaPerle, Kodak Black’s Radio Station – GTA 6\nThe Sniper of LaPerle radio station is unlocked similarly to The Vault, but instead of scanning just one poster, you need to find four scattered around the LaPerle district of Vice City. This on-demand radio playlist is from the real-world’s Kodak Black.\nA poster can be found inside the Drip Drops clothing store on the front desk. This location also serves as a front for San4San.\nAnother can be found inside Twa Ponya Tattoo, just on the right as you walk in, on a small table next to the door.\nHead to Aunt Zola’s Soul Food, Southwest of Tyrone’s place, and you can find a poster on the left wall inside.\nThe last isn’t in LaPerle; it’s inside Boobie’s strip club, the Jack of Hearts. You’ll need to progress to Chapter 3 in order to be let upstairs into the club’s recording booth, where you’ll usually find Dre’Quan. The poster is on a case here.\nOnce you’ve found and scanned all four posters, you’ll be able to listen to The Sniper of LaPerle’s on-demand mixtape from most in-game radios.",
+    "extra": {
+     "image": "https://www.videogameschronicle.com/files/2026/11/GTA-6-All-Secret-Radio-Stations-and-how-to-unlock-them-11.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "🗺 Гайд: Секретные радиостанции\n\nВ игре прячутся две секретные волны — The Vault и радио Kodak Black. Залетаем в клубы, ищем плакаты и сканируем их через приложение WAiNK.\n\n❤️ — уже нашли\n👎 — слушаем стандартные",
+    "card_title": "СЕКРЕТНЫЕ РАДИОСТАНЦИИ В GTA 6",
+    "reason": "Гайд по поиску секретных радиостанций в GTA 6, полезно для игроков",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": true,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-26T16:49:03.636103+00:00"
+  },
+  {
+   "item": {
+    "title": "Where to steal a GTA 6 Pegassi Vitello",
+    "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-pegassi-vitello/",
+    "summary": "There are four key GTA 6 Pegassi Vitello locations you can head to either for yourself or for Randy's client",
+    "published": "2026-11-26T16:34:44+00:00",
+    "source": "GamesRadar+",
+    "site_name": "GamesRadar+",
+    "trust": "high",
+    "text": "The GTA 6 Pegassi Vitello is one of the expensive sports cars on the list of cars Randy's trying to collect for his prominent client. As ever, you can look around in affluent areas and outside nightclubs, but there are four easy Vitello locations you can hit which make this challenge much easier.\nThree of these are different variants of the GTA 6 car, while the fourth base model is at a location recommended by Randy himself if you wait long enough. Luckily, Randy only needs one, so it's well worth taking the base model to him, then returning to grab one of the other GTA 6 Pegassi Vitello variants for yourself when you can afford the registration fee. If, like me, you end up totalling the first one, it won't respawn, so at least you can head to one of the others locations to finish the job before locking in your own.\nWhere to steal a Pegassi Vitello in GTA 6\nThese are the four guaranteed GTA 6 Pegassi Vitello locations I've found - one regular Vitello and three special variants:\nThe Splattered Vitello variant can be found outside a paint-covered house on this peninsula in Capri.\nYou'll find a base model on Flamingo Parkway in Waning Sands, and Randy will send the pin for this location once you've checked a couple of other cars off his list.\nThe Lipstick Vitello variant is located inside a car rental lot in Vice City. Since it's open for business, you can walk right in and just steal this Vitello from under the renters noses.\nDante's Vitello variant is found in a garage on the west of Starfish Island. This area is well-protected by security guards and police, but it's nothing you can't fend off.\nPersonally, I'm saving up for either the Lipstick or Splattered variants, so I took Dante's Vitello to Randy after I totalled the base model. Fortunately, none of them are any harder than your usual car heist, you might face a few security guards or cops, but grabbing them all is easy, and they all make a fairly decent price when sold on.\nHow to use the GTA 6 Index to find your next objective\nHow to unlock GTA 6 Ultimate Edition Content and when you can use each item\nHow to get classic GTA 5 controls in GTA 6\nWhere is GTA 6 Online and GTA 6 multiplayer?\nThe complete GTA 6 Trophy and Achievement list\nHow to find Bigfoot in GTA 6 and complete all Skunk Ape side quests\nHow to complete The Final Flush in GTA 6 and increase your maximum stamina\nGTA 6 Wanted Levels and Heat system explained\nHow to get a Six-Star Wanted Level in GTA 6\nHow to get into the GTA 6 Bowling Alley",
+    "extra": {
+     "image": "https://cdn.mos.cms.futurecdn.net/g8ddocAR2gqZ2niE8KJbti-1920-80.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "🗺 Гайд: Где угнать Pegassi Vitello\n\nИзи тачки для чела по имени Рэнд. Забираем редкие ванильные версии на районе.\n\nБазовая модель ждет на Flamingo Parkway в Waning Sands. А кастомные вариации ищите на полуострове в Капри, в прокате в Вайс-Сити и в гараже на Starfish Island.\n\n❤️ — Уже угнал\n👎 — Пешком быстрее",
+    "card_title": "ГДЕ НАЙТИ PEGASSI VITELLO",
+    "reason": "Гайд по поиску спорткара Pegassi Vitello для задания Рэнданди в GTA 6.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": true,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-26T16:49:09.254273+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA 6 on Xbox One is a ‘remarkable feat’, according to analysis",
+    "link": "https://www.videogameschronicle.com/news/gta-6-on-xbox-one-is-a-remarkable-feat-according-to-analysis/",
+    "summary": "Analysis of GTA 6 on Xbox One shows that it can handle streaming the Series S port",
+    "published": "2026-11-26T16:34:00+00:00",
+    "source": "VGC",
+    "site_name": "VGC",
+    "trust": "high",
+    "text": "Grand Theft Auto 6’s Xbox One release has been described as a “remarkable feat” in a new performance analysis.\nThis comes from Digital Foundry’s testing of the Xbox One release of GTA 6, which works by streaming the Xbox Series S release of the game.\nTheir findings suggest that Xbox has allocated additional resources to GTA 6 streaming, as the quality was found to be “significantly” better than other games available via streaming.\n“I don’t think there’s any argument that this is the cheapest entry point to playing the game,” says Thomas Morgan from Digital Foundry. “So, the question is whether it’s good enough for most people to just jump in.\n“It’s a remarkable feat what Microsoft has achieved here in terms of the architecture they’ve set up server-side to make this possible, and to mitigate the issues in latency and compression to such a point that actually I wasn’t as bothered by either of those issues as much as I thought I would be going in.”\nIn side-by-side shots, we see that while the image is blurrier on Xbox One than on Xbox Series S, you usually have to look very carefully to notice the differences. They also find that the motion blur does a good job of hiding these differences.\n“There wasn’t really any perceptible loss in playing the game [on Xbox One],” Morgan says. “Obviously, I’ve got it set to 1440p and that’s not the native resolution being beamed over via Series S, but it gives it the best possible opportunity to give us the highest bit rate and bandwidth.”\nDigital Foundry also praised Xbox’s work in reducing input delays, with Morgan saying it was easy to forget he was streaming the game, rather than playing it natively.\nFurthermore, the frame rate from Xbox One and Series S is described as “one to one”, without many differences in terms of performance. They did, however, find frame pacing issues on Xbox One, so it won’t be quite as smooth as Series S, even when it does reach 30fps.\nAll in all, most of the issues outside of frame pacing are ones that you would find on Xbox Series S. Digital Foundry’s analysis of the Series S found that it was a strong effort, but noted that there were more frame rate drops than on other platforms. Still, these releases make for a much cheaper entry point for anyone looking to pick up GTA 6.",
+    "extra": {
+     "image": "https://www.videogameschronicle.com/files/2026/11/GTA-6-Xbox-One-vs-Series-S.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "GTA 6 НА XBOX ONE — ИМБА\n\nDigital Foundry протестили облачный запуск игры на пастгене и назвали это лютым достижением. Картинка мыльнее, но задержка минимальная, а фреймрейт почти 1 к 1 с Series S. Самый дешевый вход в катку для тех, кто еще не обновился.",
+    "card_title": "GTA 6 НА XBOX ONE ЧЕРЕЗ СТРИМИНГ",
+    "reason": "Digital Foundry оценили запуск GTA 6 на Xbox One через облако, это официальный технический разбор",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-26T16:49:17.536830+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA 6 Pegassi Infernus location and how to get it for Randy",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAtaFU1MlA3Q0FFM3BlY0ltd0pqYVoyV2tvWnlheXFlT3Y4MGVIWjNMX01seWZ6aXNtd3htUlV2TUE3WGNnRlJyaW5GT1Y0QjBib1BaTHV2V2VaNklsTFdJZVlKek9ITm1wUnNzV25NRXlQQQ?oc=5",
+    "summary": "GTA 6 Pegassi Infernus location and how to get it for Randy Rock Paper Shotgun",
+    "published": "2026-11-26T16:34:00+00:00",
+    "source": "Google News (EN)",
+    "site_name": "Rock Paper Shotgun",
+    "trust": "rumor",
+    "text": "GTA 6 Pegassi Infernus location and how to get it for Randy Rock Paper Shotgun",
+    "extra": {}
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "🗺 Гайд: Как забрать Pegassi Infernus для Рэнди\n\nЛегендарная тачка снова в деле, чел. Го забирать!\n\n❤️ — уже катаю на ней\n👎 — ищу пешком",
+    "card_title": "ГДЕ НАЙТИ ПЕГАССИ ИНФЕРНУС ДЛЯ РЭНДИ",
+    "reason": "Гайд по поиску тачки Pegassi Infernus для Рэнди в GTA 6",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": true,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": true,
+   "since": "2026-11-26T16:49:33.184002+00:00"
   }
  ]
 }
