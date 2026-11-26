@@ -4659,7 +4659,18 @@
   "78fb90aef74154c4": "2026-11-26T07:16:11.654548+00:00",
   "dd064aa34e31d395": "2026-11-26T07:16:43.249920+00:00",
   "4dba4f25277eeafc": "2026-11-26T07:17:04.299749+00:00",
-  "fa36ad8bd32eb204": "2026-11-26T07:17:31.578488+00:00"
+  "fa36ad8bd32eb204": "2026-11-26T07:17:31.578488+00:00",
+  "2e641298cc2c56b8": "2026-11-26T07:33:03.859490+00:00",
+  "72d00970db9903c2": "2026-11-26T07:33:04.863292+00:00",
+  "e848ebbbe8b807fa": "2026-11-26T07:33:16.015851+00:00",
+  "2cba11de92ed8902": "2026-11-26T07:48:45.680810+00:00",
+  "f436904e010ba7e9": "2026-11-26T07:48:50.419670+00:00",
+  "cf5d8b893245cee6": "2026-11-26T07:48:52.570037+00:00",
+  "e5d6b43240ba4d03": "2026-11-26T07:48:56.675236+00:00",
+  "ed09c1c960aeb3c9": "2026-11-26T07:48:59.820783+00:00",
+  "aa1b3c26e4ff8898": "2026-11-26T07:49:03.701459+00:00",
+  "be85f8ab83b608e9": "2026-11-26T07:49:05.402492+00:00",
+  "07b7c30a81a17dc5": "2026-11-26T07:49:09.221249+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -7780,7 +7791,18 @@
   "080c6ee616bb7fd1": "2026-11-26T07:16:11.654548+00:00",
   "e08138dcc58316ea": "2026-11-26T07:16:43.249920+00:00",
   "80b90e8b6f3e5622": "2026-11-26T07:17:04.299749+00:00",
-  "b374b2043cd27272": "2026-11-26T07:17:31.578488+00:00"
+  "b374b2043cd27272": "2026-11-26T07:17:31.578488+00:00",
+  "985d7c58038bc962": "2026-11-26T07:33:03.859490+00:00",
+  "27897cd098ac3abc": "2026-11-26T07:33:04.863292+00:00",
+  "8b159b02527f8fe1": "2026-11-26T07:33:16.015851+00:00",
+  "3567ffd6188b76ca": "2026-11-26T07:48:45.680810+00:00",
+  "4ccb2e2ed6cf0d7a": "2026-11-26T07:48:50.419670+00:00",
+  "27ee40057cf22cfc": "2026-11-26T07:48:52.570037+00:00",
+  "08aee0478c6f5a6c": "2026-11-26T07:48:56.675236+00:00",
+  "2913e8a92f04dfb0": "2026-11-26T07:48:59.820783+00:00",
+  "63e811ebb04eb65c": "2026-11-26T07:49:03.701459+00:00",
+  "34c63472b4c576bb": "2026-11-26T07:49:05.402492+00:00",
+  "62405168e136ed9a": "2026-11-26T07:49:09.221249+00:00"
  },
  "recent": [
   {
@@ -13419,7 +13441,7 @@
    "title": "Attempts To Vibe-Code PC Ports Of GTA 6 Are Being Shut Down, But It Might Be Too Late To Put The Genie Back In The Bottle",
    "source": "Kotaku",
    "trust": "high",
-   "status": "queued",
+   "status": "published",
    "ts": "2026-11-25T20:15:30.446349+00:00",
    "card_title": "TAKE‑TWO ЗАКРЫВАЕТ ПОРТЫ"
   },
@@ -14934,41 +14956,89 @@
    "status": "skipped",
    "ts": "2026-11-26T07:17:31.578617+00:00",
    "card_title": ""
+  },
+  {
+   "title": "«Grand Theft Auto 6 сожгла мою PS5» — в сети жалуются, что GTA 6 выводит из строя некоторые консоли",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T07:33:03.859615+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "When to Sell Audacity Coin in GTA 6: Elevator Cash-Out",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T07:33:04.863412+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "В Rockstar рассказали, какие функции вырезали из GTA VI",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T07:33:16.015979+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Что вырезали из GTA VI? Список длинный",
+   "source": "iXBT.games",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-26T07:48:46.055833+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "An enthusiast launched the GTA 6 loading screen on the Steam Deck portable console at 30 FPS.",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T07:48:52.570170+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Энтузиаст запустил экран загрузки GTA 6 на портативной консоли Steam Deck с 30 FPS",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T07:48:56.675363+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "The unofficial PC port of GTA 6 has received PS5 Pro-level night lighting and reflections.",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T07:48:59.820915+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Неофициальный ПК порт GTA 6 получил ночное освещение и отражения уровня PS5 Pro",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T07:49:03.701585+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "'GTA 6' Fans Claim Game Is Bricking PS5 Consoles—Are Xbox Series X Owners Affected Too?",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T07:49:05.402625+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Игроки жалуются, что GTA 6 перегревает PS5 вплоть до дыма из консоли",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T07:49:09.221380+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
-  {
-   "item": {
-    "title": "Attempts To Vibe-Code PC Ports Of GTA 6 Are Being Shut Down, But It Might Be Too Late To Put The Genie Back In The Bottle",
-    "link": "https://kotaku.com/attempts-to-vibe-code-pc-ports-of-gta-6-are-being-shut-down-but-it-might-be-too-late-to-put-the-genie-back-in-the-bottle-2001000396",
-    "summary": "Take-Two is already going after projects but may not be able to stop the flood",
-    "published": "2026-11-25T18:00:14+00:00",
-    "source": "Kotaku",
-    "site_name": "Kotaku",
-    "trust": "high",
-    "text": "Grand Theft Auto 6 is the closest thing we’ve had to a modern monoculture moment in video games in a long time, but you can only play it if you own a PlayStation 5 or Xbox Series X/S. If you lack either of those consoles and find the increasingly high prices to be off-putting, you might feel a little left out, especially as Rockstar refuses to talk about whatever plans it has for an inevitable PC release. That feeling of missing out is likely a big part of the motivation driving people to tug at Claude’s apron to get GTA 6 ported to PC ASAP, before any official port is announced.\nLike other recent recompilations of games, both those created by AI and those that weren’t, efforts to port GTA VI to PC were supposed to take the code of the console game and make it playable on a different platform than originally intended. This, in theory, skirts legal issues by requiring a copy of the game already in storage to fill in everything that is owned by Rockstar and Take-Two—like assets, voice acting, and so forth. This legal gray area was further complicated this week when Cyberleek, the rogue person or group that released numerous leaks of GTA 6 beginning in August, released the Xbox Series X executable online, bypassing the need for any recompilation project to have a legitimate copy of the game. That release, combined with ubiquitously available AI coding tools and a lot of motivated teenagers, served as a starting pistol for a major effort to get the port done before the end of the year.\nOn PortWatch VI, a website created to track the progress of community efforts to port GTA 6, a counter at the top proudly counts up the time since the executable was released. The site uses progress bars to show how far along each recompilation is getting, with pinned posts celebrating how far it has come in a short period of time. Currently the recomp is described as playable at sub-5 frames per second.\nFor whatever reason, a lot of these vibe coders are streaming their attempts to have Anthropic’s Claude port the game to PC for them. While Twitch pretty explicitly does not allow this, right-wing corollaries like Kick and Rumble do with little to no moderation. Bluesky account amithero.bot posted a thread on the site about watching one of these attempts in which the person behind it was largely just tell Claude or Google Antigravity to press A at the title screen and to code faster.\nThe thing about publicly streaming these things, though, is that Take-Two’s lawyers are also wat",
-    "extra": {
-     "image": "https://kotaku.com/app/uploads/2026/08/GTA6art_0001_Raul_Bautista_landscape-2-1280x720.jpg"
-    }
-   },
-   "verdict": {
-    "type": "rumor",
-    "importance": 8,
-    "post": "🚫 Take‑Two закрывает коммьюнити‑порты GTA 6\n\nТут уже не шутка — юзеры, которые пытались слепить GTA 6 на ПК, получили от Take‑Two юридический гудок. Плюс, всё это стримят на Kick, а Twitch уже в шоке. Жиза, если ты ждал PC‑версию, готовься к долгой ждать. 🎮",
-    "card_title": "TAKE‑TWO ЗАКРЫВАЕТ ПОРТЫ",
-    "reason": "Информация о попытках фанатов портировать игру на ПК и реакции юристов Take-Two.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.1-flash-lite → groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-25T20:15:30.446332+00:00",
-   "moderation": "approved",
-   "draft_msg_id": 171,
-   "waiting_logged": true
-  },
   {
    "item": {
     "title": "GTA 6 Players Are Running Into a Game-Breaking Bug",
@@ -15465,7 +15535,8 @@
   "2026-11-25T17:55:29.278716+00:00",
   "2026-11-25T20:00:53.556249+00:00",
   "2026-11-26T07:05:06.630939+00:00",
-  "2026-11-26T07:20:58.761582+00:00"
+  "2026-11-26T07:20:58.761582+00:00",
+  "2026-11-26T07:36:42.663776+00:00"
  ],
  "tg_offset": 387129108,
  "channel": {
@@ -22539,6 +22610,13 @@
    "title": "Ферма на $2k: битва кулаками с невидимым NPC",
    "importance": 8,
    "kind": "confirmed"
+  },
+  {
+   "ts": "2026-11-26T07:36:42.663793+00:00",
+   "msg_id": 103,
+   "title": "Take‑Two закрывает коммьюнити‑порты GTA 6",
+   "importance": 8,
+   "kind": "rumor"
   }
  ],
  "extras": [],
@@ -22551,5 +22629,36 @@
   "digest-20261124": "2026-11-24T19:30:13.623703+00:00",
   "digest-20261125": "2026-11-25T19:30:50.081169+00:00"
  },
- "rewrite_wait": []
+ "rewrite_wait": [
+  {
+   "item": {
+    "title": "Мужчина вызвал полицию на бывшую девушку из-за GTA VI: она лишила его доступа к Xbox",
+    "link": "https://ixbt.games/news/2026/11/26/muzcina-vyzval-policiiu-na-byvsuiu-devusku-iz-za-gta-vi-ona-lisila-ego-dostupa-k-xbox.html",
+    "summary": "Американка отвязала своего бывшего мужчину от своего Xbox-аккаунта в дни релиза GTA VI. Обиженный геймер попытался обвинить её в краже через полицию.",
+    "published": "2026-11-26T07:30:00+00:00",
+    "source": "iXBT.games",
+    "site_name": "iXBT.games",
+    "trust": "medium",
+    "text": "Американка отвязала своего бывшего мужчину от своего Xbox-аккаунта в дни релиза GTA VI. Обиженный геймер попытался обвинить её в краже через полицию.\nВыход GTA VI обернулся необычным семейным конфликтом в США: жительница штата Вашингтон отключила бывшего партнёра от своей учётной записи Xbox, после чего тот обратился в полицию, обвинив женщину в мошенничестве с банковской картой.\nСиара Бенсон рассказала эту историю в TikTok. По её словам, бывший возлюбленный по имени Джон на протяжении шести лет пользовался её аккаунтом Xbox. Женщина решила вернуть себе полный контроль над профилем: удалила привязанные устройства, завершила все сеансы, сменила пароль и установила дополнительные ограничения. Неудачно для Джона это совпало с покупкой новой GTA, из-за чего он лишился возможности нормально встретить релиз.\nСиара объяснила, что решение связано и с конфликтом из-за их общего сына. По её словам, бывший партнёр отказывался участвовать в содержании ребёнка, поэтому она больше не хотела делиться с ним аккаунтом. Первое видео набрало почти миллион просмотров, но на этом история не закончилась: Джон обратился в полицию, заявив о мошенничестве с банковской картой.\nВ следующем ролике женщина рассказала о разговоре с правоохранителями. Она пояснила, что удалила из аккаунта все способы оплаты, которые ей не принадлежали. Полицейские также посмотрели её предыдущую публикацию и, по словам Сиары, не обнаружили признаков преступления. В итоге женщине просто передали копию отчёта о вызове.\nИстория закончилась неожиданно: один из полицейских даже поинтересовался, нравится ли ей GTA VI и успел ли поиграть её сын. Пользователи TikTok активно обсуждали произошедшее и делились похожими историями. Одна из комментаторов рассказала, что её бывший муж пытался включить персонажа из World of Warcraft в условия развода.\nНе пропускайте наши новостиДобавьте сайт в предпочитаемые источники, чтобы видеть нас чащеДобавить в Google",
+    "extra": {
+     "image": "https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1746535/07fb2f79-34f5-4098-8cc5-4ea6305c397d.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "Коп вызвал полицию из-за аккаунта Xbox\n\nЧел так хотел поиграть на релизе, что накатал заяву на бывшую, когда та сменила пароль из-за алиментов. Копы даже оценили катку.\n\n❤️ — Жаль бедолагу\n👎 — База, сам виноват",
+    "card_title": "ПОЛИЦИЯ ИЗ-ЗА GTA 6",
+    "reason": "Забавная и скандальная история про полицию из-за релиза GTA 6",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-26T07:48:51.242921+00:00"
+  }
+ ]
 }
