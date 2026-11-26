@@ -4785,7 +4785,23 @@
   "b1995e17001033e2": "2026-11-26T11:21:13.752738+00:00",
   "7614a644bcb43cef": "2026-11-26T11:21:20.946876+00:00",
   "8097edd70fb01265": "2026-11-26T11:21:22.255076+00:00",
-  "b3bc82eeffcac49e": "2026-11-26T11:21:28.969864+00:00"
+  "b3bc82eeffcac49e": "2026-11-26T11:21:28.969864+00:00",
+  "703d781dc74bb9fb": "2026-11-26T11:38:14.254869+00:00",
+  "015060588e3693bc": "2026-11-26T11:38:15.526921+00:00",
+  "9e147fc5293ea27f": "2026-11-26T11:38:16.901791+00:00",
+  "891799ff517e53ea": "2026-11-26T11:38:17.784145+00:00",
+  "8270d0238dd13a5f": "2026-11-26T11:38:18.995425+00:00",
+  "d76b6a26dab8cc1b": "2026-11-26T11:38:20.096126+00:00",
+  "81b66bd849fa3ac9": "2026-11-26T11:38:27.414223+00:00",
+  "772b1b19ed714d46": "2026-11-26T11:38:28.283481+00:00",
+  "0c4ed6f67c07013d": "2026-11-26T11:55:35.706374+00:00",
+  "c68554ebb1fa8824": "2026-11-26T11:55:47.300957+00:00",
+  "e747dfd4e9c89697": "2026-11-26T11:55:49.142029+00:00",
+  "ddb64bb04eff1632": "2026-11-26T11:55:54.881688+00:00",
+  "672f3873b1c2c0c5": "2026-11-26T11:55:59.286046+00:00",
+  "6db5c4382f526947": "2026-11-26T11:56:00.609106+00:00",
+  "23208e29386bc88d": "2026-11-26T11:56:05.799002+00:00",
+  "394be3d539a037e0": "2026-11-26T11:56:09.365568+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -7995,7 +8011,23 @@
   "e3512f602397cfd7": "2026-11-26T11:21:13.752738+00:00",
   "b05d65a9c757c4aa": "2026-11-26T11:21:20.946876+00:00",
   "2181760cd0a61c9f": "2026-11-26T11:21:22.255076+00:00",
-  "bd06d3082efc7ade": "2026-11-26T11:21:28.969864+00:00"
+  "bd06d3082efc7ade": "2026-11-26T11:21:28.969864+00:00",
+  "9e9b5f48aba4eec7": "2026-11-26T11:38:14.254869+00:00",
+  "e20c41fd45252513": "2026-11-26T11:38:15.526921+00:00",
+  "cafc32e258cf9281": "2026-11-26T11:38:16.901791+00:00",
+  "72490077d57f1a16": "2026-11-26T11:38:17.784145+00:00",
+  "5bd24be678bd2d69": "2026-11-26T11:38:18.995425+00:00",
+  "36c8b52d8b469589": "2026-11-26T11:38:20.096126+00:00",
+  "42f3b3fb0ac4e95d": "2026-11-26T11:38:27.414223+00:00",
+  "0393ec7ec1dec660": "2026-11-26T11:38:28.283481+00:00",
+  "784051c8ba4e0f11": "2026-11-26T11:55:35.706374+00:00",
+  "bf14dbc267c8cd7a": "2026-11-26T11:55:47.300957+00:00",
+  "7f2cdbfdd933ad41": "2026-11-26T11:55:49.142029+00:00",
+  "cf978c4ed65bc731": "2026-11-26T11:55:54.881688+00:00",
+  "22deb5819e55c56a": "2026-11-26T11:55:59.286046+00:00",
+  "7fc06a9660936eac": "2026-11-26T11:56:00.609106+00:00",
+  "efdf819b5d3966ef": "2026-11-26T11:56:05.799002+00:00",
+  "c9e4e04b9ccdf033": "2026-11-26T11:56:09.365568+00:00"
  },
  "recent": [
   {
@@ -15052,6 +15084,134 @@
    "trust": "rumor",
    "status": "skipped",
    "ts": "2026-11-26T11:21:28.970014+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Игроки прошли GTA 6 и обнаружили неприятный сюрприз. Деньги есть, а купить собственный дом нельзя",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T11:38:14.255035+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Young Americans agree with GTA VI: Bring back simp culture",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T11:38:15.527049+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Take-Two wipes out 3,007 GTA 6 PC port repos from GitHub in massive DMCA crackdown — as AI tools fuel wave of unofficial builds",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T11:38:16.901935+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 launched on a jailbroken PS5",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T11:38:17.784259+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 запустили на взломанной PS5",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T11:38:18.995567+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Is GTA 6 in Roblox? Fan project explained",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T11:38:20.096240+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Dubious Provenance: Give Halifax the statue?",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T11:38:27.414366+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Play GTA 6 For Free On Any Device: Fan-Made Cloud Platform Makes It Possible",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T11:38:28.283658+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 could've had tennis, Sims 4-style house decorating, crafting, and more – but Rockstar cut it",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-26T11:55:43.125009+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to unlock hurricanes in GTA 6 explained",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T11:55:48.131739+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "UAE parents warned over adult content as children are exposed to GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T11:55:49.142176+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "ПК-порт GTA 6 от CGBJ добрался до стабильных 25 FPS и 90%+ готовности, и Rockstar это очень сильно задело",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T11:55:54.881867+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Покупатели PS5 не на то рассчитывали. GTA 6 оказалась стабильнее на Xbox Series X",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T11:55:59.286200+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Геймеры негодуют: GTA 6 прогнулась под либеральную повестку и феминисток",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T11:56:00.609249+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Криминальный профиль в GTA 6: можно ли пройти игру без убийств",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T11:56:05.799146+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "UK PlayStation downloads hit 8.6 times normal as GTA VI launched",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T11:56:09.365711+00:00",
    "card_title": ""
   }
  ],
