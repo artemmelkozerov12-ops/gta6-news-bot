@@ -5001,7 +5001,24 @@
   "1c15f73abb7723dd": "2026-11-26T17:21:35.506395+00:00",
   "b047f31d9cb263d4": "2026-11-26T17:21:41.384414+00:00",
   "094c368164f5520c": "2026-11-26T17:21:45.382198+00:00",
-  "8fc396257754fe5e": "2026-11-26T17:21:49.497311+00:00"
+  "8fc396257754fe5e": "2026-11-26T17:21:49.497311+00:00",
+  "cda1c7aafd8b22bb": "2026-11-26T17:37:11.624171+00:00",
+  "18987e038f5e4a32": "2026-11-26T17:37:15.613817+00:00",
+  "6cea3109ae99d338": "2026-11-26T17:37:23.799713+00:00",
+  "9e88c89674d2bc9d": "2026-11-26T17:37:31.982119+00:00",
+  "3e21fa6ab758a8cb": "2026-11-26T17:37:36.421065+00:00",
+  "60440b6d1ce333dd": "2026-11-26T17:37:42.475676+00:00",
+  "23299dfe8ab9da7d": "2026-11-26T17:37:46.246506+00:00",
+  "8d852ac7225a92b4": "2026-11-26T17:37:50.768033+00:00",
+  "b50ba2c7f9c67257": "2026-11-26T17:37:54.792085+00:00",
+  "f8cecd55d6c7f11c": "2026-11-26T17:53:15.839121+00:00",
+  "093d5a05b4ffd658": "2026-11-26T17:53:20.151593+00:00",
+  "4c968ee6184ce3d5": "2026-11-26T17:53:22.641916+00:00",
+  "786809c2889a2f77": "2026-11-26T17:53:25.033596+00:00",
+  "b7f80216bd599cd0": "2026-11-26T17:53:27.704750+00:00",
+  "f5967bfaf5facc7c": "2026-11-26T17:53:29.732141+00:00",
+  "5cf09523ba52932e": "2026-11-26T17:53:31.438067+00:00",
+  "46a437fcee572d0f": "2026-11-26T17:53:35.745193+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -8390,7 +8407,24 @@
   "3607a82b96714a3d": "2026-11-26T17:21:35.506395+00:00",
   "2cf5209293652cf6": "2026-11-26T17:21:41.384414+00:00",
   "979940e81ee59217": "2026-11-26T17:21:45.382198+00:00",
-  "773ba1b3676373af": "2026-11-26T17:21:49.497311+00:00"
+  "773ba1b3676373af": "2026-11-26T17:21:49.497311+00:00",
+  "13bbfd0d8d70af4c": "2026-11-26T17:37:11.624171+00:00",
+  "387987646801a69b": "2026-11-26T17:37:15.613817+00:00",
+  "218f17bb21e79170": "2026-11-26T17:37:23.799713+00:00",
+  "6d8dba6b58683be0": "2026-11-26T17:37:31.982119+00:00",
+  "36524d68cf8c2428": "2026-11-26T17:37:36.421065+00:00",
+  "165c0004a972ceb8": "2026-11-26T17:37:42.475676+00:00",
+  "06bc19fe18304092": "2026-11-26T17:37:46.246506+00:00",
+  "6d231162b4a9a6c7": "2026-11-26T17:37:50.768033+00:00",
+  "36d7e49d63b91663": "2026-11-26T17:37:54.792085+00:00",
+  "e72c6672be331152": "2026-11-26T17:53:15.839121+00:00",
+  "0d39aeadd33e7ab6": "2026-11-26T17:53:20.151593+00:00",
+  "423d78d12840804d": "2026-11-26T17:53:22.641916+00:00",
+  "419ec1a676952daa": "2026-11-26T17:53:25.033596+00:00",
+  "2e9e090fd7683a14": "2026-11-26T17:53:27.704750+00:00",
+  "c64f1513d391a4f7": "2026-11-26T17:53:29.732141+00:00",
+  "b5704d23b40064dd": "2026-11-26T17:53:31.438067+00:00",
+  "0e55234874d6469c": "2026-11-26T17:53:35.745193+00:00"
  },
  "recent": [
   {
@@ -15983,6 +16017,134 @@
    "trust": "rumor",
    "status": "skipped",
    "ts": "2026-11-26T17:21:49.497438+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Rockstar Games Issues Statement as Union Vote Fails",
+   "source": "IGN",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-26T17:37:11.624198+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 players fix the weather system themselves after Rockstar's latest patch left them hanging",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-26T17:37:22.291158+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 causes surge in UK physical game sales, despite there being no disc in the box",
+   "source": "Eurogamer",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-26T17:37:27.604148+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Rockstar Games Has A GTA 6 Hit On Its Hands, But Its Union Vote Is A Loss",
+   "source": "GameSpot",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-26T17:37:31.982231+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Neptune заявила о 30 FPS в GTA 6 на ПК с RTX 4090 и 40 ГБ ОЗУ",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T17:37:42.475800+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Digital Foundry не исключают порт GTA 6 на Nintendo Switch 2, но придется идти на серьезные жертвы",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T17:37:46.246636+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Владельцы Radeon RX 9070 XT раскрыли оптимальные настройки генерации кадров для GTA 6",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T17:37:50.768155+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Specs for unofficial GTA 6 port are worrying some PC gamers — but this is nothing to panic about",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T17:37:54.792216+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6's Chapter 3 Heist Might Be Rockstar's Best Ever Mission, But Only If You Do It Badly",
+   "source": "IGN",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-26T17:53:14.191867+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Fast and Furious car: How to get Paul Walker's Maibatsu Penumbra explained",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T17:53:20.151722+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Rockstar UK staff reject union recognition by three to one after GTA 6 launch",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T17:53:22.642041+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "The staggering surge in physical video game sales following GTA 6 launch",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T17:53:25.845960+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI PC port hype is a gift to ClickFix attackers",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T17:53:27.704889+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Fresh Evidence puzzle: Which dildo to choose for the mural explained",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T17:53:29.732268+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "US PS5 and Xbox Series Sales More Than Doubled Before GTA 6 Launched",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T17:53:32.654398+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "5 GTA 6 Side Quests You Probably Missed",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T17:53:35.745313+00:00",
    "card_title": ""
   }
  ],
@@ -23840,6 +24002,36 @@
    },
    "corr": false,
    "since": "2026-11-26T17:21:25.136384+00:00"
+  },
+  {
+   "item": {
+    "title": "Top 10 Fastest Motorcycles In GTA 6—All Locations & How To Get Them",
+    "link": "https://insider-gaming.com/top-10-fastest-motorcycles-gta-6-all-locations/",
+    "summary": "Here's the top 10 fastest motorcycles in Grand Theft Auto 6, as well as where you can find each one scattered across Leonida. The post Top 10 Fastest Motorcycles In GTA 6—All Locations & How To Get Them appeared first on Insider Gaming .",
+    "published": "2026-11-26T17:39:22+00:00",
+    "source": "Insider Gaming",
+    "site_name": "Insider Gaming",
+    "trust": "medium",
+    "text": "Grand Theft Auto 6 features over 500 vehicles for you to get behind the wheel of, and whilst most of them are cars, there’s an incredible selection of motorcycles to pick from as well, and a ton of them know how to test the speed limits.\nWhether you’re racing through the streets of Vice City or simply looking for the perfect getaway vehicle, speed is always going to come in handy. Thankfully, of the nearly 80 motorcycles in the game, a lot of them are incredibly high-performance, though finding them can be a bit tricky.\nWith that in mind, here are the 10 fastest motorcycles in GTA 6, as well as how you can get your hands on each one.\nYou can buy Grand Theft Auto 6 here if you haven’t already!\nThe fastest motorcycle in Grand Theft Auto 6 is the Principe Burnished Alvino.\nThis is one of the many Standout Vehicles in GTA 6, with the Principe Alvino being the base model of the motorcycle. But if you’re looking for speed on two wheels, you’ll find no better than the Principe Burnished Alvino.\nRelated: Top 20 Fastest Cars In GTA 6—All Locations & How To Get Them\nThe best part about this motorcycle, though, is that it’s pretty easy to get a hold of, with no Trackers to deal with or Key Cloners necessary to take control. Better yet, it’s pretty cheap to register, too! But where do you find it? Find out further below.\nOf all the 77 motorcycles to be found in Grand Theft Auto 6, the ones listed below are the 10 fastest, strictly according to the in-game Speed stat.\nAnd of these 10 vehicles, five of them are Standouts, meaning you’ll have to go hunting in specific locations if you want to get your hands on them—but more on that later.\nRelated: Where to Find All of Randy’s Wishlist Supercars in GTA 6—Car Locations & Tips\nFor now, check out the complete table for the 10 fastest motorcycles in GTA 6:\nWhere To Find The 10 Fastest Motorcycles In GTA 6\nIt’s all well and good knowing what the 10 fastest motorcycles are in Grand Theft Auto 6, but the real question is: how do you get your hands on them for yourself?\nLuckily for you, we have all of the answers. Below you’ll find the locations for all 10 of the motorcycles mentioned in the table above.\nYou’ll find the Principe Burnished Alvino parked on Starfish Island. Head to the exact location marked on the maps above, and it’ll be there tucked away in a garage on the property—just beware of the security on the island.\nGetting a hold of Emilio’s Lectro is as easy as going to the location marked on the maps above and breaking",
+    "extra": {
+     "image": "https://insider-gaming.com/wp-content/uploads/2026/11/Grand-Theft-Auto-VI_20261126163915-scaled.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "🗺 Гайд: Где искать топ-мотоциклы\n\nСобрали инфу, где найти самые быстрые байки в игре для лютых гонок по Вайс-Сити.\n\nPrincipe Burnished Alvino ждет на Старфиш-Айленд — ищи в гараже на районе, только палитра охранников.\n\n❤️ — Ууу, летим!\n👎 — Душно, пешком быстрее",
+    "card_title": "САМЫЕ БЫСТРЫЕ МОТОЦИКЛЫ В GTA 6",
+    "reason": "Гайд по поиску самых быстрых мотоциклов в игре",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": true,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-26T17:53:17.459547+00:00"
   }
  ]
 }
