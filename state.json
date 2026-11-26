@@ -4943,7 +4943,28 @@
   "ce10cdf43d273421": "2026-11-26T15:45:29.525106+00:00",
   "6d0e1e3738b4f6e9": "2026-11-26T15:45:34.881736+00:00",
   "5cca8045d700a5d0": "2026-11-26T15:45:36.898584+00:00",
-  "12d073b41f857f8c": "2026-11-26T15:45:41.816202+00:00"
+  "12d073b41f857f8c": "2026-11-26T15:45:41.816202+00:00",
+  "0c984995dbc72ad5": "2026-11-26T16:01:05.929844+00:00",
+  "feb1714c78987e6a": "2026-11-26T16:01:05.929943+00:00",
+  "b50647ebcab2a061": "2026-11-26T16:01:10.217139+00:00",
+  "0f737707b9146b82": "2026-11-26T16:01:16.533460+00:00",
+  "7897ae8a4796e9ad": "2026-11-26T16:01:19.945292+00:00",
+  "e3c939754971cfc4": "2026-11-26T16:01:28.610599+00:00",
+  "5ce3f4fcfd07f042": "2026-11-26T16:01:36.996853+00:00",
+  "ce66e4436846db02": "2026-11-26T16:01:42.578865+00:00",
+  "5f8d0f3e301824ce": "2026-11-26T16:01:46.941977+00:00",
+  "10880c1d2eca7a9e": "2026-11-26T16:01:49.792138+00:00",
+  "986cb8928ba7d63b": "2026-11-26T16:17:11.083177+00:00",
+  "8103ff514b4aff7e": "2026-11-26T16:17:11.083228+00:00",
+  "66357bafb2b7cb5e": "2026-11-26T16:17:11.083285+00:00",
+  "c2b57231ab09e042": "2026-11-26T16:17:20.956567+00:00",
+  "4109b804c55e5f5d": "2026-11-26T16:17:24.721225+00:00",
+  "92e0af3f17b4140a": "2026-11-26T16:17:29.880656+00:00",
+  "0209490d814539f9": "2026-11-26T16:17:40.041770+00:00",
+  "9cf7063463fd4a27": "2026-11-26T16:17:46.685792+00:00",
+  "39c4d94052418da6": "2026-11-26T16:17:49.871516+00:00",
+  "d4860a0e15d236ce": "2026-11-26T16:17:51.084978+00:00",
+  "1a171a9d5d6baf58": "2026-11-26T16:17:52.273641+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -8278,7 +8299,26 @@
   "41c343ae1f4590e7": "2026-11-26T15:45:23.186117+00:00",
   "37ef599732eff632": "2026-11-26T15:45:34.881736+00:00",
   "5818ce395f28be89": "2026-11-26T15:45:36.898584+00:00",
-  "6db8d6e9550d8310": "2026-11-26T15:45:41.816202+00:00"
+  "6db8d6e9550d8310": "2026-11-26T15:45:41.816202+00:00",
+  "4cb56764344a927d": "2026-11-26T16:01:28.610599+00:00",
+  "07a56e8ac010e92a": "2026-11-26T16:01:05.929943+00:00",
+  "7f66aa156ce98d61": "2026-11-26T16:01:10.217139+00:00",
+  "40ffbfd75e615a27": "2026-11-26T16:01:16.533460+00:00",
+  "0e378e616153985d": "2026-11-26T16:01:19.945292+00:00",
+  "af6fdded94235da0": "2026-11-26T16:01:36.996853+00:00",
+  "b3dd97a3c7cc02bd": "2026-11-26T16:01:42.578865+00:00",
+  "3884adfd23f0e699": "2026-11-26T16:01:46.941977+00:00",
+  "c3b23937df1a26f3": "2026-11-26T16:01:49.792138+00:00",
+  "75f64f5987c0d54a": "2026-11-26T16:17:11.083177+00:00",
+  "8687ce3513279555": "2026-11-26T16:17:40.041770+00:00",
+  "5a47dd1ca85649f4": "2026-11-26T16:17:11.083285+00:00",
+  "4a080119b5f259f5": "2026-11-26T16:17:20.956567+00:00",
+  "057a395b6492e4e3": "2026-11-26T16:17:24.721225+00:00",
+  "f6cafbd8d9c17222": "2026-11-26T16:17:29.880656+00:00",
+  "2b0caf5a8d22ce28": "2026-11-26T16:17:46.685792+00:00",
+  "78ebd50dec357614": "2026-11-26T16:17:49.871516+00:00",
+  "adb6c9c58f4e0dbd": "2026-11-26T16:17:51.084978+00:00",
+  "e42725e162d622a3": "2026-11-26T16:17:52.273641+00:00"
  },
  "recent": [
   {
@@ -15520,6 +15560,134 @@
    "status": "skipped",
    "ts": "2026-11-26T15:45:41.816322+00:00",
    "card_title": ""
+  },
+  {
+   "title": "Microsoft-Owned Github Deletes Unhinged Post Celebrating PlayStation 5 Emulator's Success Following Launch Of GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-26T16:01:05.929909+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Had Biggest Physical Launch Since 2019 in the UK",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-26T16:01:05.929967+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Following GTA 6 release, Rockstar workers vote against union recognition deal",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-26T16:01:16.533588+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Неофициальная ПК-версия GTA 6 уже запускается",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T16:01:36.996986+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "From Rolex to Travis Scott: GTA VI storms Chinese social media",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T16:01:42.579005+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Buckingham Windsor Drop GTA 6 Location – Where to Find the Rolls-Royce Convertible",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T16:01:46.942114+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Владельцы PS5 запустили бесплатный стриминг GTA 6 в браузере",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T16:01:49.792271+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Majority of Rockstar Workers Vote Against Unionization",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "dup",
+   "ts": "2026-11-26T16:17:11.083206+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Rockstar North Chief Was Praying GTA 6's Big Story Reveal Stayed Under Wraps Ahead of Launch",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-26T16:17:11.083261+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 walkthrough",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-26T16:17:11.083304+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Rockstar workers vote overwhelmingly against union recognition",
+   "source": "PC Gamer",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-26T16:17:20.956695+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 The Missing Link Walkthrough",
+   "source": "VGC",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-26T16:17:24.721330+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI’s launch causes 26% drop in live-service game attention",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T16:17:46.685931+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "'GTA VI: The Album' (Deluxe Edition) Adds 23 New Tracks From Travis Scott, Slayyyter and More",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T16:17:49.871646+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 ‘Jason & Lucia’ actors stun in new photos",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T16:17:51.085104+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI developers vote against unionization",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T16:17:52.273761+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -15587,66 +15755,6 @@
   },
   {
    "item": {
-    "title": "GTA 6's Map Has a Useful Feature I've Only Just Noticed",
-    "link": "https://www.pushsquare.com/news/2026/11/gta-6s-map-has-a-useful-feature-ive-only-just-noticed",
-    "summary": "You learn something new every day. I’ve tallied over 300 hours in GTA 6 so far, and today I learned something new. Forgive me if you already knew it, but I figured I’d share anyway as it never occurred to me in all my sessions so far. Read the full article on pushsquare.com",
-    "published": "2026-11-26T01:00:00+00:00",
-    "source": "Push Square",
-    "site_name": "Push Square",
-    "trust": "high",
-    "text": "I’ve tallied over 300 hours in GTA 6 so far, and today I learned something new.\nForgive me if you already knew it, but I figured I’d share anyway as it never occurred to me in all my sessions so far.\nOne of the big things about this new game is that you can go inside a lot of buildings. Each is uniquely furnished, and it’s all pretty unprecedented for an open world game, to be honest.\nHowever, not all houses can be entered, obviously.\nFor example, this house in Key Lento with the gnomes outside – I can’t go in:\nWell, today I learned that the map actually acknowledges this.\nThere are light grey buildings and dark grey buildings, as shown in screenshot below:\nSo let’s go to that dark grey building next door and see if we can go inside, shall we? It turns out we can:\nAnd it seems like the family living here are big sports fans:\nWhat’s the learning, then? Well, it’s simple: light grey buildings on the map can’t be entered and dark grey buildings can. I literally had no idea about this until a few hours ago.\nAs for that house I just broke into – well, they’ve got a cool car:\nI realised this within the first couple of hours, but I don't think the game tells you this so it's good for people who don't. 👍",
-    "extra": {
-     "image": "https://images.pushsquare.com/28170b445230c/large.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 6,
-    "post": "🟪 Тёмные здания – входные, светлые – нет\n\nНаконец понял, почему часть домов в Key Lento закрыты – на карте они серые, но темные значит можно зайти. Фишка простая, но спасает кучу времени, так что проверяй цвета и врывайся в любой тёмный дом. 🤙",
-    "card_title": "КАРТА ТЁМНЫЕ ЗДАНИЯ ВХОД",
-    "reason": "Полезный секрет о механике карты в GTA 6, обнаруженный игроком после 300 часов.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": true,
-    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-26T03:50:50.778566+00:00"
-  },
-  {
-   "item": {
-    "title": "GTA VI удивила игроков погодой после обновления. Таких дождей в серии ещё не было",
-    "link": "https://ixbt.games/news/2026/11/26/gta-vi-udivila-igrokov-pogodoi-posle-obnovleniia-takix-dozdei-v-serii-eshhe-ne-bylo.html",
-    "summary": "После первого обновления GTA VI игроки наконец увидели мощные грозы, густой туман и проливные дожди, а заодно оценили необычную систему погоды Rockstar, которая позволяет штормам накрывать лишь отдельные участки карты.",
-    "published": "2026-11-26T04:04:00+00:00",
-    "source": "iXBT.games",
-    "site_name": "iXBT.games",
-    "trust": "medium",
-    "text": "После первого обновления GTA VI игроки наконец увидели мощные грозы, густой туман и проливные дожди, а заодно оценили необычную систему погоды Rockstar, которая позволяет штормам накрывать лишь отдельные участки карты.\nВ первые дни после релиза пользователи Reddit и X жаловались, что в солнечной Леониде совершенно не бывает дождей, хотя Rockstar обещала впечатляющие погодные эффекты. Ситуация изменилась в понедельник, когда разработчики выпустили первое обновление и исправили ошибку, блокировавшую смену погоды.\nВпрочем, даже после установки патча некоторые игроки продолжают удивляться отсутствию осадков. Дело в том, что система погоды GTA VI устроена гораздо сложнее, чем в предыдущих частях серии и большинстве других игр с открытым миром. Если раньше дождь обычно накрывал всю карту одновременно, то теперь грозы, ливни и туман возникают локально.\nОсобенно хорошо это заметно во время полётов на самолёте. Игрок может лететь под ясным небом, увидеть впереди огромную стену тёмных грозовых облаков и внезапно оказаться внутри ливня с молниями. Стоит пересечь границу фронта и дождь так же быстро исчезает.\nTHIS ISN'T JUST RAIN. THIS IS ENVIRONMENTAL ARTISTRY AT AN ABSURD LEVEL! 🤯 Just look at the rain dripping off the sides of the bridge, the incredibly atmospheric overcast skies and the way the entire scene comes together. GTA 6 genuinely looks like a work of art! I'm quite\nИгроки также предполагают, что Rockstar намеренно ограничила количество непогоды в начале приключения, чтобы сохранить атмосферу отпуска. Пользователи, добравшиеся примерно до третьей главы, рассказывают, что у них дождь порой идёт несколько игровых дней подряд. Некоторые признаются, что в итоге начинают скучать по солнцу.\nНе пропускайте наши новостиДобавьте сайт в предпочитаемые источники, чтобы видеть нас чащеДобавить в Google",
-    "extra": {
-     "image": "https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1746458/a669e0d5-a414-4be4-a24b-dd30c63649b8.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "⚡️ Гроза в GTA 6: локальный дождь после патча\n\nНаконец в игре появились настоящие штормы – дождь теперь падает только в зоне фронта, а не по всей карте. Летай на самолёте, влетаешь в тёмную стену облаков и получаешь ливень в реальном времени. Это реально лютый апдейт, который делает мир живее 🌧",
-    "card_title": "ГРЗА И ЛОКАЛЬНЫЙ ДОЖДЬ",
-    "reason": "Официальное обновление добавило новые погодные эффекты, интересный контент для игроков",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "groq:openai/gpt-oss-120b → groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-26T04:06:52.078405+00:00",
-   "moderation": "pending",
-   "draft_msg_id": 173
-  },
-  {
-   "item": {
     "title": "Мужчина вызвал полицию на бывшую девушку из-за GTA VI: она лишила его доступа к Xbox",
     "link": "https://ixbt.games/news/2026/11/26/muzcina-vyzval-policiiu-na-byvsuiu-devusku-iz-za-gta-vi-ona-lisila-ego-dostupa-k-xbox.html",
     "summary": "Американка отвязала своего бывшего мужчину от своего Xbox-аккаунта в дни релиза GTA VI. Обиженный геймер попытался обвинить её в краже через полицию.",
@@ -15704,35 +15812,6 @@
     "model": "groq:openai/gpt-oss-120b → groq:openai/gpt-oss-120b"
    },
    "queued_at": "2026-11-26T07:16:10.069003+00:00"
-  },
-  {
-   "item": {
-    "title": "Никаких крайностей: Rockstar рассказала о балансе сложности в Grand Theft Auto",
-    "link": "https://ixbt.games/news/2026/11/26/nikakix-krainostei-rockstar-rasskazala-o-balanse-sloznosti-v-grand-theft-auto.html",
-    "summary": "Rockstar не хотела сделать игру слишком легкой.",
-    "published": "2026-11-26T00:04:00+00:00",
-    "source": "iXBT.games",
-    "site_name": "iXBT.games",
-    "trust": "medium",
-    "text": "Rockstar не хотела сделать игру слишком легкой.\nРазработчики Grand Theft Auto VI стремились найти золотую середину между сложностью GTA IV и доступностью GTA V. Об этом рассказал руководитель Rockstar North Роб Нельсон в интервью Destructoid, посвященном различным аспектам разработки долгожданной игры.\nПо словам Нельсона, команда прекрасно понимала, что сложность предыдущих частей серии не всегда была сбалансированной. В частности, GTA IV временами могла оказаться чрезмерно суровой по отношению к игрокам, тогда как GTA V, напротив, порой казалась слишком легкой. При создании шестой части Rockstar хотела избежать обеих крайностей.\nПродюсер по дизайну Скотт Митчелл добавил, что разработчики уделили особое внимание тому, чтобы игровые провалы и неудачи ощущались оправданными. Команда стремилась предоставить игрокам свободу в использовании доступных механик, включая скрытное прохождение, вместо того чтобы постоянно ограничивать их выбор.\nПри этом Rockstar не собиралась отказываться от характерной для серии кинематографичности, масштабных постановочных сцен и зрелищных перестрелок.\nМы сознательно старались сделать так, чтобы неудачи в GTA 6 были уместными и не использовались чрезмерно часто при проектировании миссий. Мы хотели сохранить свободу действий и не ограничивать использование игроками таких механик, как скрытность. Однако нам также было важно сохранить кинематографичность, высокую постановочную ценность и взрывные эпизоды, которыми известна наша серия и которых ожидают поклонники. Думаю, нам удалось найти хороший баланс.\nНельсон также объяснил, как именно команда подходила к настройке сложности. По его словам, дизайнеры обычно начинают с того, что делают свои игровые эпизоды слишком трудными, после чего постепенно корректируют их, добиваясь более комфортного прохождения.\nНе пропускайте наши новостиДобавьте сайт в предпочитаемые источники, чтобы видеть нас чащеДобавить в Google",
-    "extra": {
-     "image": "https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1746442/4588e36b-beab-447b-a9e3-9b64fd9c2868.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 6,
-    "post": "🎮 Баланс сложности в GTA 6: Rockstar раскрыла детали\n\nРокстар сказал, что в новой GTA они нашли золотую середину между суровым GTA IV и лёгким GTA V. 🚀 Теперь провалы в миссиях будут уместными, а скрытность не будет подводить – лутим имбу без лишнего тильта!",
-    "card_title": "БАЛАНС СЛОЖНОСТИ GTA 6",
-    "reason": "Разработчики рассказали о балансе сложности между GTA 4 и GTA 5.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-26T03:50:48.359035+00:00"
   }
  ],
  "posts": [
@@ -23047,6 +23126,156 @@
    },
    "corr": true,
    "since": "2026-11-26T15:45:39.860736+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA 6 is Reportedly the Biggest Physical Launch in the UK Since 2019",
+    "link": "https://insider-gaming.com/gta-6-biggest-physical-launch-uk/",
+    "summary": "A new report reveals that GTA 6 is the biggest physical launch in the UK since 2019, generating £32 million in revenue within three days. The post GTA 6 is Reportedly the Biggest Physical Launch in the UK Since 2019 appeared first on Insider Gaming .",
+    "published": "2026-11-26T15:52:29+00:00",
+    "source": "Insider Gaming",
+    "site_name": "Insider Gaming",
+    "trust": "medium",
+    "text": "GTA 6 has ended up becoming the biggest physical launch in the UK since 2019 with its code-in-the-box copies.\nRockstar’s latest installment has been constantly breaking records since launch day. PlayStation has already announced that since its release, GTA 6 has been able to pull in close to 40 million players to the title. Interestingly, it’s not even been a week since the game launched, and it could break even more records along the way.\nGTA 6’s Physical Launch Generates £32 Million in Revenue in the UK in Three Days\nA report by The Game Business reveals that GTA 6 is the biggest physical launch in the UK since FIFA 20 in 2019. The game has generated £32 million in revenue in just three days and ranks 17th among the top 20 biggest physical launches since the UK started recording them in 1995. Moreover, the game sold over one million boxed copies in France within three days and has become Spain’s biggest physical retail launch.\nThe impact of GTA 6 has extended to console sales in the UK as well, with PS5 sales rising by 46% in the launch week and XBOX experiencing the biggest boost since 2024, with sales rising by 75%. Overall console sales in the UK during GTA 6’s launch week were up 38%.\nFurthermore, it seems GTA 5 is still faring pretty well in the market, with player activity rising after the launch of GTA 6. GTA 5 had 73.6% more players, and the user numbers increased by 19.4% week-on-week. Additionally, the game’s launch has impacted many other live games, including Call of Duty, Fortnite,, and EA Sports FC 27.\nWhat are your thoughts on GTA 6 becoming the UK’s biggest physical launch since 2019? Leave your thoughts down in the comments, and join the official Insider Gaming Discord server.\nFor more from Insider Gaming, read about Delta Force X Metal Gear Solid event going live in two days. Don’t forget to sign up for our weekly newsletter.\nHow to Find and Complete the Farm Fix Meth Lab Illegal Operation in GTA 6—All Key Valuables\nHow Many Buildings Can You Enter in GTA 6? Enterable Buildings Walkthrough\nHow to Find and Complete the Biker Hideout Illegal Operation in GTA 6—All Key Valuables\nEvery Snapmatic Animal Location In GTA 6—Hunting Legendary Animals",
+    "extra": {
+     "image": "https://insider-gaming.com/wp-content/uploads/2026/11/GTA-6-Things-You-Can-Do-in-Your-Car-scaled.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "РЕКОРДЫ по коробочным версиям\n\nGTA 6 порвала рынок Британии и стала самым успешным физическим релизом с 2019 года. Плойка и ящик улетают с полкóв как горячие пирожки, а продажи консолей взлетели до небес.\n\n❤️ — База, все за дисками\n👎 — Цифра давно рулит",
+    "card_title": "РЕКОРДНЫЕ ПРОДАЖИ GTA 6 В УК",
+    "reason": "Официальные данные о рекордных физических продажах GTA 6 в Великобритании и Европе.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "GTA 6 Had Biggest Physical Launch Since 2019 in the UK",
+    "corroborated_by": "GTA VI Causes Console Sales Surge, Physical Copies Dominate UK Charts",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-26T16:01:13.760832+00:00"
+  },
+  {
+   "item": {
+    "title": "Can You Continue Playing GTA 6 After The Ending?",
+    "link": "https://insider-gaming.com/can-you-play-gta-6-after-finishing-it/",
+    "summary": "Are you wondering if you can play GTA 6 once you've completed the story? Find out how the endgame works here. The post Can You Continue Playing GTA 6 After The Ending? appeared first on Insider Gaming .",
+    "published": "2026-11-26T15:47:51+00:00",
+    "source": "Insider Gaming",
+    "site_name": "Insider Gaming",
+    "trust": "medium",
+    "text": "Grand Theft Auto 6 has as many as two dozen endings. It’s pretty insane, but then again, the entire game is bonkers. There’s so much to see and do, and the choices you make set up for that ending quite nicely. You really do get whatever you deserve in this game.\nThat said, is there a facility that allows you to continue playing once you’ve completed GTA 6? When you hit your GTA 6 ending, are you free to go about Leonida finishing all the content you missed?\nThere is no way to play GTA 6 after completing the story. It’s not like Red Dead Redemption 2, where you get to play as John Marston, and it’s not like Grand Theft Auto 5, where life just kind of goes on.\nWhen you hit the final mission of Grand Theft Auto 6, you’ll get whatever ending you’ve lined yourself up to receive; the credits will roll, and then you’ll be reverted to a point before you embarked on the final mission.\nThat’s otherwise known as the ‘point of no return’ in GTA 6.\nThis is where you’re given the opportunity to complete as much of the game as possible. But it’s not a ‘true’ endgame state where the story has ended, everyone recognizes that, and some paradigm shift happens to alter the world. It’s a time reversal that puts you back before that ultimate delivery.\nIf you need to know anything else about Grand Theft Auto 6, make sure you stop by our full guides hub. It contains everything you could need to learn about the most important game release of all time!\nAlso, you can buy Grand Theft Auto 6 here if you haven’t already!\nLet us know if you’re enjoying GTA 6 on the Insider Gaming Discord server.\nFor more Insider Gaming coverage, check out the best locations for early cash in GTA 6, and don’t forget to sign up for our free weekly newsletter\nGrant has been gaming for 30+ years and in the industry for 10+. You'll probably find him playing a post-apocalyptic game or an extraction shooter somewhere.\nDoes GTA 6 Have a Point of No Return? GTA 6 Ending Mission, Explained\nHow to Find and Complete the Farm Fix Meth Lab Illegal Operation in GTA 6—All Key Valuables\nAll GTA 6 Endings Explained & How to Get The Best Ending\nHow Many Buildings Can You Enter in GTA 6? Enterable Buildings Walkthrough",
+    "extra": {
+     "image": "https://insider-gaming.com/wp-content/uploads/2026/11/Jason_and_Lucia_13-scaled.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "ЧТО БУДЕТ ПОСЛЕ ФИНАЛА GTA 6\n\nВ игре нет привычного постгейма, как в прошлых частях. После титров вас просто откатывает к сейву перед последней миссией, так что затестим всё пропущенное до финала.",
+    "card_title": "ФИНАЛ GTA 6 И ТОЧКА НЕЗВРВАТА",
+    "reason": "Важная механика финала игры и отсутствие свободного режима после титров подтверждены СМИ.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-26T16:01:23.591890+00:00"
+  },
+  {
+   "item": {
+    "title": "Microsoft-Owned Github Deletes Unhinged Post Celebrating PlayStation 5 Emulator’s Success Following Launch Of GTA 6",
+    "link": "https://kotaku.com/github-microsoft-ps5-anyps5-emulation-sony-grand-theft-auto-gta6-2001000617",
+    "summary": "In a now-deleted post on X, GitHub's post referenced GTA 6 and then brazenly celebrated the AnyPS5 emulator 'passing 58K stars' on the platform",
+    "published": "2026-11-26T15:44:01+00:00",
+    "source": "Kotaku",
+    "site_name": "Kotaku",
+    "trust": "high",
+    "text": "The official social media team behind GitHub, the Microsoft-owned collaborative coding platform, has published and subsequently deleted a bizarrely brazen post on X celebrating the fact that Grand Theft Auto 6’s release has caused AnyPS5, a PlayStation 5 emulator, to pass “58K stars since its August launch.” It then asked the question, “Does changing where games run cross a legal line?”\nTo be clear, we’re not crowbarring GTA 6 into this story. GitHub’s post about the popularity of its PS5 emu opened with the line “GTA 6 is finally here, sparking one of the biggest weeks in gaming and open source on GitHub.”\nLikewise, the video that was contained within GitHub’s post highlighted that users’ efforts to improve the AnyPS5 emulator were primarily driven by the release of GTA 6. The video specifically mentions a comment from one AnyPS5 coder which states, “We have 3 days until GTA 6 everyone[…]get your agents or deevs[sic] and work.”\nAgain, it’s important to note here that GitHub is owned by Microsoft, which purchased the company for “$7.5 billion in stock” in 2018. That makes it all the more confusing that GitHub’s own post posits the Sony-baiting question, “Does changing where games run cross a legal line?”\nWell, uh, I’d wager that the publishers of Grand Theft Auto 6, Take-Two, would probably say that the answer to that question is a firm “Yes,” considering that its been actively shooting down all of the GitHub repositories attempting to vibe-code a PC port of GTA 6 over the past week.\nIt’s probably pretty obvious why they opted to delete the post, but I can’t help but wonder what compelled GitHub’s social media team to ask the question in the first place.\nDon’t miss the latest reviews, news and tips. Sign up for our free newsletter.\nCultureNews Union Vote Fails In Landslide At GTA 6 Studio Rockstar Games As 75 Percent Of Devs Vote No The GTA 6 studio will not formally recognize union members By Ethan Gach Published November 26, 2026\nOpinionCommentary With Grand Theft Auto 6, The Series Has Outgrown Some Of Its Joke Brand Names The mature storytelling is at odds with dumb product names like Zombix Imran Khan Published November 25, 2026\nCultureKotaku Game Diary Here Are Some Video Game Conversation Starters That Aren’t About GTA 6 How to win friends and influence your Thanksgiving gaming discussion By Ash Parrish Published November 25, 2026\nCultureNews GTA 6 Boss Reveals How That Very Surprising Cameo Happened And What It Means For The Character A certain som",
+    "extra": {
+     "image": "https://kotaku.com/app/uploads/2026/11/GTa-666-1280x720.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "GITHUB сгорел на работе\n\nМелкомягкие умудрились удалить пост своего же GitHub, где они радовались успеху эмулятора PS5 на волне релиза шестерки. Вот это база, разнос и кринж в одном флаконе от гиганта индустрии.\n\n❤️ — Корпорастия в тильте\n👎 — Обычный рофл",
+    "card_title": "GITHUB СЛИЛ ПОСТ ПРО ЭМУЛЯТОР",
+    "reason": "Официальный твиттер GitHub от Microsoft спалили на посте про эмулятор PS5 из-за GTA 6, вышло очень смешно и скандально",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "Microsoft-Owned Github Deletes Unhinged Post Celebrating PlayStation 5 Emulator's Success Following Launch Of GTA 6",
+    "corroborated_by": "Microsoft-Owned Github Deletes Unhinged Post Celebrating PlayStation 5 Emulator's Success Following Launch Of GTA 6",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-26T16:01:32.577491+00:00"
+  },
+  {
+   "item": {
+    "title": "How to steal the Bravado Banshee in GTA 6",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-bravado-banshee-location/",
+    "summary": "Grab this striped sports car for Randy.",
+    "published": "2026-11-26T16:02:38+00:00",
+    "source": "PC Gamer",
+    "site_name": "PC Gamer",
+    "trust": "high",
+    "text": "The Bravado Banshee is another one of the cars you'll need to track down for Randy in GTA 6, but unlike the Pegassi Infernus, this one doesn't involve anything as dodgy as robbing a police lockup.\nYou can find this car inside the Sunrise Premium Autos showroom at the north tip of Southside, southwest of Pay 'N' Spray - Salton or east across the road from Ron Gas - Southside. This region is to the northeast of Hamlet.\nThere are two showrooms here, so make sure you have the right one, though the other does contain Pfister Growlers, in case you haven't gotten that car for Randy yet, either. Head inside to find the car—if you've played previous GTAs, you'll recognise it as a convertible with a white stripe down the middle. Hop inside, use the key cloner, and drive it through the glass.\nThis might damage it a bit, but you can always repair it at Ron Gas nearby, or at the gas station near Randy's shop. Just remember to drive fast, and if the tracker starts to beep, speed up to stop it pinging your location to the cops. Delivering this one gets you 6,500k and a 5k condition bonus as usual if it's in good nick.\nGTA 6 guide: One-stop info shopGTA 6 cars: The garage lineupGTA 6 characters: Your anti-hero castGTA 6 map: Confirmed Vice City localesGTA 6 PC release: When's it going to happen?\nKeep up to date with the most important stories and the best deals, as picked by the PC Gamer team.\nSean's first PC games were Full Throttle and Total Annihilation and his taste has stayed much the same since. When not scouring games for secrets or bashing his head against puzzles, you'll find him revisiting old Total War campaigns, agonizing over his Destiny 2 fit, or still trying to finish the Horus Heresy. Sean has also written for EDGE, Eurogamer, PCGamesN, Wireframe, EGMNOW, and Inverse.\nYou must confirm your public display name before commenting\nPlease logout and then login again, you will then be prompted to enter your display name.\n1 The best VPN for gaming in 2026: These privacy-protecting virtual networks keep your games lag-free\n2 Best graphics cards in 2026: These are the GPUs worth spending money in right now\n3 Best gaming PC builds: Shop all our recommended system builds as we ride out the RAMpocalypse\n4 The best fish tank PC case in 2026: I've tested heaps of stylish chassis but only a few have earned my recommendation\n5 Best Hall effect keyboards in 2026: the fastest, most customizable keyboards for competitive gaming\n1 World of Warcraft: Forever review: The first ",
+    "extra": {
+     "image": "https://cdn.mos.cms.futurecdn.net/oPRrJ8oDBSPTpwsNqTZvrj-1920-80.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "🗺 Гайд: Угоняем Banshee\n\nНужно спереть классический тачан для Рэнди без лишнего геморроя с копами? Катите в шоурум Sunrise Premium Autos на севере Southside.\n\nЗалетайте внутрь, юзайте клонер ключей и выбивайте стекло на волю. Тачку потом лучше подлатать на ближайшей заправке Ron Gas, чтобы срубить бонус за целостность.\n\n❤️ — Ууу, изи мани!\n👎 — Опять эти тачки искать",
+    "card_title": "КАК УГНАТЬ BRAMADO BANSHEE",
+    "reason": "Гайд по угону машины для Рэнди в GTA 6",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": true,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": true,
+   "since": "2026-11-26T16:17:35.021806+00:00"
+  },
+  {
+   "item": {
+    "title": "Rockstar North Chief Was Praying GTA 6's Big Story Reveal Stayed Under Wraps Ahead of Launch",
+    "link": "https://www.ign.com/articles/rockstar-north-chief-was-praying-gta-6s-big-story-reveal-stayed-under-wraps-ahead-of-launch",
+    "summary": "Rockstar North has explained why it was so important that GTA 6's big early story reveal stayed under wraps before the game came out.",
+    "published": "2026-11-26T14:40:51+00:00",
+    "source": "IGN",
+    "site_name": "IGN",
+    "trust": "high",
+    "text": "Warning! This article contains spoilers for the prologue of GTA 6.\nGTA 6’s prologue hides a surprise that somehow managed to stay a secret all the way up to players finding out for themselves. And Rockstar North, it turns out, was praying for it not to leak ahead of launch.\nDuring the game’s opening stretch, the story of how Lucia ends up in a Leonida prison is told. This isn’t the surprising part — ever since GTA 6 Trailer 1 we’ve known she’d end up behind bars at some point — but the person she was at a diner moments before her arrest is. Tomás, a few-month-old baby and son of Lucia and Jason, is left behind by his mother in GTA 6’s first truly shocking reveal.\nGiven the history of leaks associated with GTA 6, it feels like a minor miracle that Tommy’s existence remained a complete unknown until launch. This was something that Rob Nelson, co-studio head at Rockstar North, was keenly aware of.\n“No, we never were going to [reveal it],\" he told VGC in an interview that took place just before GTA 6 came out last week. \"I am still holding on. Fingers crossed, how many more days? I’m praying it stays under wraps. Given everything that we’ve gone through, every day I’m just like, ‘Please, please don’t do that, please don’t do that.'”\nAs we’ve written about at IGN, the existence of Tomás in GTA 6 is the key to its whole design. It’s what powers Jason and Lucia’s tale, and encourages the player to strive to make more and more money as those family savings goals get higher and higher. It connects us to the characters, and creates a shared objective between us and them. We aren’t simply committing crime for crime’s sake, but doing so with the prospect of being reunited with their son at the end of it.\nYou can see why such a powerful and surprising narrative device would want to have been kept under wraps by Rockstar. It’s the first, and by no means the only, shocking revelation of GTA 6, all the more effective when witnessed firsthand.\n“We never were going to [reveal it],” Nelson explained. “It’s meant to shock. We were watching everyone speculate about the nature of their relationship and Jason’s character, and that takes it in a completely different context. You have something to strive for beyond a huge bank account at the end.”\nWe’ve got the Official Grand Theft Auto 6 guide here on IGN, complete with comprehensive walkthroughs up to Chapter 4, guides for the Optional Missions and Illegal Operations you’ll find in Leonida, and much more. Just getting started in",
+    "extra": {
+     "image": "https://assets-prd.ignimgs.com/2026/11/26/gtavi-16-1795703303348.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "Босс Rockstar молился о ТАЙНЕ\n\nРоб Нельсон признался, что люто переживал перед релизом, чтобы главный сюжетный твист с ребенком Джейсона и Люсии не слили в сеть. Имба-задумка удалась, и игроки испытали настоящий шок в прологе. \n\n❤️ — Уважение за конспирацию\n👎 — Все равно спойлернули",
+    "card_title": "КАК ROCKSTAR МОЛИЛАСЬ О СЕКРЕТЕ",
+    "reason": "Официальная интересная закулисная история от главы Rockstar North о том, как они боялись слива главного сюжетного твиста про ребенка Джейсона и Люсии.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "Rockstar North Chief Was Praying GTA 6's Big Story Reveal Stayed Under Wraps Ahead of Launch — Google News (EN)",
+    "corroborated_by": "Rockstar North Chief Was Praying GTA 6's Big Story Reveal Stayed Under Wraps Ahead of Launch — Google News (EN)",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-26T16:17:43.120245+00:00"
   }
  ]
 }
