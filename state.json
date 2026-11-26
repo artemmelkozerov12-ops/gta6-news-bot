@@ -5062,7 +5062,39 @@
   "3f185260c600023b": "2026-11-26T19:16:52.433292+00:00",
   "aadbbab8bca3dcd4": "2026-11-26T19:16:55.341101+00:00",
   "901084832e27536c": "2026-11-26T19:16:59.331118+00:00",
-  "b2c3da1894b7f79d": "2026-11-26T19:17:02.376249+00:00"
+  "b2c3da1894b7f79d": "2026-11-26T19:17:02.376249+00:00",
+  "56d4ab5a5a1afcc9": "2026-11-26T19:32:29.017769+00:00",
+  "e4d3c27a628b541c": "2026-11-26T19:32:34.379270+00:00",
+  "a7b0b2b105dda262": "2026-11-26T19:32:38.633268+00:00",
+  "5950f82251d045a0": "2026-11-26T19:32:39.677002+00:00",
+  "bf5466da331a18b8": "2026-11-26T19:32:41.061288+00:00",
+  "13e487bde8b0257b": "2026-11-26T19:32:42.717503+00:00",
+  "c8fa66be8dc31872": "2026-11-26T19:32:43.862980+00:00",
+  "a0f2d65272cdfe5a": "2026-11-26T19:33:17.534298+00:00",
+  "2860e0264a4d40c7": "2026-11-26T19:42:34.076471+00:00",
+  "7fddcadfcc374ad3": "2026-11-26T19:42:35.077557+00:00",
+  "959d9acab94e91d2": "2026-11-26T19:42:35.905456+00:00",
+  "7339d254b0321ce9": "2026-11-26T19:42:36.728470+00:00",
+  "67e7aabfa216d28b": "2026-11-26T19:43:27.698530+00:00",
+  "fb92a1c862865914": "2026-11-26T19:43:28.550259+00:00",
+  "dcf87e76861bdb4e": "2026-11-26T19:43:29.471653+00:00",
+  "112775897a61ad4c": "2026-11-26T19:43:30.295979+00:00",
+  "4255a0accae88a66": "2026-11-26T19:44:21.281372+00:00",
+  "08b038950f9b660d": "2026-11-26T19:44:22.071080+00:00",
+  "3a46e2dd62719928": "2026-11-26T19:44:22.885199+00:00",
+  "cd8668e7f4925dd5": "2026-11-26T19:44:23.685881+00:00",
+  "3dea3ca9462e6b9e": "2026-11-26T19:45:14.669588+00:00",
+  "c64be8763eeb96c5": "2026-11-26T19:45:15.496649+00:00",
+  "e68d6ba38445c904": "2026-11-26T19:45:16.301081+00:00",
+  "f483c2cd6e89ea3f": "2026-11-26T19:45:17.042221+00:00",
+  "bab9f16db07d690a": "2026-11-26T19:46:08.060984+00:00",
+  "ac2bc70c2406ef12": "2026-11-26T19:46:08.996603+00:00",
+  "aded44278e6ea2cc": "2026-11-26T19:46:09.846392+00:00",
+  "83be88f8a092e522": "2026-11-26T19:46:10.845242+00:00",
+  "155a6c0c01932ab5": "2026-11-26T19:47:01.795149+00:00",
+  "373912920ac203e7": "2026-11-26T19:47:08.570290+00:00",
+  "03d8cdfc27122397": "2026-11-26T19:47:20.329502+00:00",
+  "436d8c87cd47d2a1": "2026-11-26T19:48:32.818673+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -8508,7 +8540,16 @@
   "0c44893c79472a9a": "2026-11-26T19:16:52.433292+00:00",
   "0fb00263c492a6bb": "2026-11-26T19:16:55.341101+00:00",
   "8ff55ec032b80278": "2026-11-26T19:16:59.331118+00:00",
-  "20e4b12090e568ed": "2026-11-26T19:17:02.376249+00:00"
+  "20e4b12090e568ed": "2026-11-26T19:17:02.376249+00:00",
+  "0f1fb477f412198b": "2026-11-26T19:32:29.017769+00:00",
+  "5f730445862ca302": "2026-11-26T19:32:34.379270+00:00",
+  "ded7768b44cd2b3b": "2026-11-26T19:32:38.633268+00:00",
+  "c68e9b31f8b05afb": "2026-11-26T19:32:39.677002+00:00",
+  "3f5035aebbf5f3fd": "2026-11-26T19:32:41.061288+00:00",
+  "34b4d56512af0745": "2026-11-26T19:32:42.717503+00:00",
+  "980183d08ecb43b4": "2026-11-26T19:32:43.862980+00:00",
+  "b371b1fe7b12024e": "2026-11-26T19:33:17.534298+00:00",
+  "7a9f91c09435b785": "2026-11-26T19:48:32.818673+00:00"
  },
  "recent": [
   {
@@ -16622,6 +16663,118 @@
    "status": "skipped",
    "ts": "2026-11-26T19:17:02.376381+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GTA 6 Gives PS5 a Very Rare Win Over Switch 2 in Japan",
+   "source": "Push Square",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-26T19:32:25.875490+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Xbox Console Sales Get A Huge Boost In The UK, While GTA 6 Breaks Records For Physical Games",
+   "source": "Pure Xbox",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-26T19:32:25.875570+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "For A Game Known For Stealing Cars, GTA 6's Transit System Is Actually Useable And Unbelievably On Time",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T19:32:29.017904+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 scores the UK’s biggest boxed launch since 2019. Disc not included.",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T19:32:36.454621+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI launch sparks 400% surge in UK sales of physical games",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T19:32:38.633388+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "«Реалистичные фишки соседствуют с игровыми условностями»: минусы GTA 6",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T19:32:39.677127+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Игроки GTA 6 сравнили игру с Red Dead Redemption 2 и нашли пару даунгрейдов",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T19:32:41.061415+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Как получить Ocelot Jugular для задания «Список желаний Рэнди» в ГТА 6. Где найти машину Jugular «Бескровный» и как оставить её себе",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T19:32:42.717643+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Первая рекомпиляция GTA 6 для ПК появилась на торрентах после утечки",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T19:32:43.863106+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "На торренты слили GTA VI для ПК",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T19:33:17.534414+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to get the BF Bandito in GTA 6 explained",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T19:48:31.879985+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Can You Continue Playing GTA 6 After The Ending?",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-26T19:48:31.880070+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Microsoft-Owned Github Deletes Unhinged Post Celebrating PlayStation 5 Emulator’s Success Following Launch Of GTA 6",
+   "source": "Kotaku",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-26T19:48:31.880111+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Guide: All Guides & Collectibles",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T19:48:32.818796+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -17265,6 +17418,36 @@
    "file_id": "BAACAgIAAxkDAAO3awg2Og6JAfCRsfLWnvm9RlIvgC8AAtGwAAJzy0FI9xwKbLZQkeg9BA",
    "moderation": "pending",
    "draft_msg_id": 183
+  },
+  {
+   "clip": {
+    "source": "twitch",
+    "url": "https://www.twitch.tv/loserfruit/clip/BlushingAltruisticSalamanderRickroll-fHc0i9TEGcdHBWUf",
+    "title": "lucia is a baddie",
+    "author": "Loserfruit",
+    "views": 347,
+    "duration": 60.0,
+    "created": "2026-11-26T13:35:49+00:00",
+    "lang": "en",
+    "description": "",
+    "vod_id": "2941203551",
+    "vod_offset": 3078.0
+   },
+   "caption": "СПОЙЛЕР. Лусия устраивает допрос прямо в метро и заставляет заложника звонить по телефону — сюжетка в GTA 6 это чистый разнос 💀",
+   "interest": 9,
+   "spoiler": true,
+   "nsfw": false,
+   "watched": true,
+   "model": "gemini:gemini-3.5-flash-lite",
+   "media": {
+    "width": null,
+    "height": 720,
+    "duration": 60
+   },
+   "queued_at": "2026-11-26T19:47:27.124483+00:00",
+   "file_id": "BAACAgIAAxkDAAO9awiM0XGbY9JTI_isl7aFxZV_E0sAAmq3AAJzy0FIUbqcdxq4_7U9BA",
+   "moderation": "pending",
+   "draft_msg_id": 189
   }
  ],
  "clip_drafts": [
@@ -17287,7 +17470,8 @@
   "2026-11-26T10:13:16.179800+00:00",
   "2026-11-26T11:18:49.888213+00:00",
   "2026-11-26T12:33:49.935242+00:00",
-  "2026-11-26T13:38:03.020667+00:00"
+  "2026-11-26T13:38:03.020667+00:00",
+  "2026-11-26T19:47:30.183798+00:00"
  ],
  "clip_history": [
   {
@@ -23426,6 +23610,203 @@
    "ts": "2026-11-26T13:38:03.020682+00:00",
    "frames": [],
    "caption": "В GTA 6 завезли лютый хоррор: едешь ночью по трассе, налетает туман, тачка глохнет и на капот с диким криком прыгает при"
+  },
+  {
+   "author": "youtube:kabir singh",
+   "vod": "",
+   "offset": -1,
+   "title": "Gta 6 ka bhoot chadd gaya 🤣😝 #shorts #gta6 #ps5 #funny #relatable #childhood",
+   "drafted": false,
+   "ts": "2026-11-26T19:42:34.076528+00:00"
+  },
+  {
+   "author": "youtube:koushal monga",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 Gameplay gone wrong😭😂#funny #comedy #gta6 #shorts #koushalmonga",
+   "drafted": false,
+   "ts": "2026-11-26T19:42:35.077619+00:00"
+  },
+  {
+   "author": "youtube:baccha mat bolna",
+   "vod": "",
+   "offset": -1,
+   "title": "RIYU VEDU AS GTA 6 COUPLE #shorts #couple #love #gta6 #comedy #funny #fun #explore #relationship",
+   "drafted": false,
+   "ts": "2026-11-26T19:42:35.905508+00:00"
+  },
+  {
+   "author": "youtube:alex vice rush",
+   "vod": "",
+   "offset": -1,
+   "title": "❤️🥏 SAVE GTA 6 CHARACTERS FROM DIFFERENT CHAMBERS | WHO WILL WIN? #gta6 #shortvideo",
+   "drafted": false,
+   "ts": "2026-11-26T19:42:36.728524+00:00"
+  },
+  {
+   "author": "youtube:carryislive",
+   "vod": "",
+   "offset": -1,
+   "title": "ESCAPE FROM THE POLICE | NO PROMOTIONS",
+   "drafted": false,
+   "ts": "2026-11-26T19:43:27.698576+00:00"
+  },
+  {
+   "author": "youtube:ross",
+   "vod": "",
+   "offset": -1,
+   "title": "I Found A SECRET DOG In GTA 6! 😱",
+   "drafted": false,
+   "ts": "2026-11-26T19:43:28.550309+00:00"
+  },
+  {
+   "author": "youtube:sudha l stories",
+   "vod": "",
+   "offset": -1,
+   "title": "Father Gifted Her Daughter Gta 6 By Watching Her Drawing 😂 ~ #gta6 #gta #grandtheftauto6",
+   "drafted": false,
+   "ts": "2026-11-26T19:43:29.471705+00:00"
+  },
+  {
+   "author": "youtube:golu008",
+   "vod": "",
+   "offset": -1,
+   "title": "Real life GTA 6 😎 #funny #gta6 #golu008 #youtubeshorts #viral #shorts",
+   "drafted": false,
+   "ts": "2026-11-26T19:43:30.296031+00:00"
+  },
+  {
+   "author": "youtube:fantiz gaming",
+   "vod": "",
+   "offset": -1,
+   "title": "I Found Franklin's Dog Chop on Secret Island in GTA 6!",
+   "drafted": false,
+   "ts": "2026-11-26T19:44:21.281423+00:00"
+  },
+  {
+   "author": "youtube:kanotexp",
+   "vod": "",
+   "offset": -1,
+   "title": "Ele Já Está Pronto pro GTA 6 😭",
+   "drafted": false,
+   "ts": "2026-11-26T19:44:22.071118+00:00"
+  },
+  {
+   "author": "youtube:syinite gaming",
+   "vod": "",
+   "offset": -1,
+   "title": "How to REMOVE Trackers in GTA 6 🤯",
+   "drafted": false,
+   "ts": "2026-11-26T19:44:22.885251+00:00"
+  },
+  {
+   "author": "youtube:sixtiegaming",
+   "vod": "",
+   "offset": -1,
+   "title": "The Most Useful GTA 6 Hack!",
+   "drafted": false,
+   "ts": "2026-11-26T19:44:23.685926+00:00"
+  },
+  {
+   "author": "youtube:small spinale",
+   "vod": "",
+   "offset": -1,
+   "title": "Are you nick 😳 #gta6 #gaming #nickeh30 #trending #smallspinale",
+   "drafted": false,
+   "ts": "2026-11-26T19:45:14.669630+00:00"
+  },
+  {
+   "author": "youtube:unknown smug",
+   "vod": "",
+   "offset": -1,
+   "title": "POV: Different Types Of GTA 6 Players...",
+   "drafted": false,
+   "ts": "2026-11-26T19:45:15.496690+00:00"
+  },
+  {
+   "author": "youtube:vicente ochoa",
+   "vod": "",
+   "offset": -1,
+   "title": "SOLO QUIERE JUGAR GTA 6",
+   "drafted": false,
+   "ts": "2026-11-26T19:45:16.301119+00:00"
+  },
+  {
+   "author": "youtube:drifty",
+   "vod": "",
+   "offset": -1,
+   "title": "If you see this cup in GTA 6, DRINK IT.",
+   "drafted": false,
+   "ts": "2026-11-26T19:45:17.042264+00:00"
+  },
+  {
+   "author": "youtube:tamil gaming தமிழ் கேமிங்",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 Part 9 Free Roam + Story Live Tamil Gaming",
+   "drafted": false,
+   "ts": "2026-11-26T19:46:08.061033+00:00"
+  },
+  {
+   "author": "youtube:the comedy #hub",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 में आ रहा हूँ😄 #shorts #gta6 #ps5",
+   "drafted": false,
+   "ts": "2026-11-26T19:46:08.996654+00:00"
+  },
+  {
+   "author": "youtube:roly poly",
+   "vod": "",
+   "offset": -1,
+   "title": "They Added Spies In GTA 6",
+   "drafted": false,
+   "ts": "2026-11-26T19:46:09.846443+00:00"
+  },
+  {
+   "author": "youtube:ign",
+   "vod": "",
+   "offset": -1,
+   "title": "This is the GTA 6 video you've been waiting for. #gta6 #sex #romance #relationship #ign #gameplay",
+   "drafted": false,
+   "ts": "2026-11-26T19:46:10.845304+00:00"
+  },
+  {
+   "author": "twitch:tusoved",
+   "vod": "2941257284",
+   "offset": 9455.0,
+   "title": "как врётся в единственный столб в поле",
+   "drafted": false,
+   "ts": "2026-11-26T19:47:01.795213+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:montanablack88",
+   "vod": "2941161789",
+   "offset": 23412.0,
+   "title": "Monte schafft es in den Bunker",
+   "drafted": false,
+   "ts": "2026-11-26T19:47:08.570360+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:loserfruit",
+   "vod": "2941203551",
+   "offset": 3078.0,
+   "title": "lucia is a baddie",
+   "drafted": false,
+   "ts": "2026-11-26T19:47:20.329560+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:loserfruit",
+   "vod": "2941203551",
+   "offset": 3078.0,
+   "title": "lucia is a baddie",
+   "drafted": true,
+   "ts": "2026-11-26T19:47:30.183815+00:00",
+   "frames": [],
+   "caption": "СПОЙЛЕР. Лусия устраивает допрос прямо в метро и заставляет заложника звонить по телефону — сюжетка в GTA 6 это чистый р"
   }
  ],
  "published": [
@@ -23960,94 +24341,6 @@
  "rewrite_wait": [
   {
    "item": {
-    "title": "GTA 6 Gives PS5 a Very Rare Win Over Switch 2 in Japan",
-    "link": "https://www.pushsquare.com/news/2026/11/gta-6-gives-ps5-a-very-rare-win-over-switch-2-in-japan",
-    "summary": "Score. At this point, it’s well known that Switch 2 is by far the market leader in Japan. While the PS5 still commands some marketshare, it gets dominated by the Nintendo machine on a weekly basis. Read the full article on pushsquare.com",
-    "published": "2026-11-26T15:30:00+00:00",
-    "source": "Push Square",
-    "site_name": "Push Square",
-    "trust": "high",
-    "text": "At this point, it’s well known that Switch 2 is by far the market leader in Japan.\nWhile the PS5 still commands some marketshare, it gets dominated by the Nintendo machine on a weekly basis.\nGTA 6’s launch is significant, then, because for the first time in a while it’s pushed Sony’s console in front of the Switch 2 – albeit only by a few thousand units.\nAccording to Famitsu’s latest report, the PS5 sold 41,472 units through the week ending 22nd November, while the Switch 2 managed 36,817 units.\nThis is an incredibly rare scenario, and likely won’t be repeated again (if ever). But it shows that with the right software, Sony can put up a fight domestically against Nintendo.\nThe company’s been taking the region a lot more seriously under Japanese CEO Hideaki Nishino, launching more affordable region locked units to try and stimulate interest.\nThis week saw the release of the new Midnight Black model, which certainly helped contribute to the sales.\nBut PS5’s success was primarily motivated by GTA 6, which sold a very respectable 200,759 units at retail for the week.\nThat’s slightly less than GTA 5’s 304,752 units opening in 2013, although remember digital buying habits have changed dramatically in the last 13 years, and GTA 6’s physical release was not particularly compelling as it doesn’t include a disc.\nA good week for Sony in its home region, then – one that’s unlikely to be replicated, but should be taken as a sign it can compete with the right lineup and pricing model.\n[SW2] The Legend of Zelda: Ocarina of Time: 35,295 (658,433)\n[SW2] Nintendo Switch Sports Resort:10,486 (126,291)\n[NSW] Rhythm Heaven Groove: 7,830 (1,136,253)\n[NSW] Tomodachi Life: Living the Dream: 4,570 (1,654,904)\n[SW2] Splatoon Raiders (Nintendo, 07/23/26): 3,077 (700,755)\n[NSW] Momotaro Dentetsu 2: Anata no Machi mo Kitto Aru: 2,969 (390,053)\n[SW2] Metaphor: ReFantazio: 2,426 (13,593)\n[SW2] Momotaro Dentetsu 2: Anata no Machi mo Kitto Aru: 2,385 (331,659)\nI think the far bigger story here is the 750 consoles collectively shipped and sold that were Series X/S. Ouch.\nHowever, still no surprise given as you have stated in the article, the Switch/2 has been dominating in Japan for years.\nI guess on a personal level I just forget how small some of these numbers are in Japan.\nI mean Switch 1 selling literal thousands more than Microsoft's offering is interesting alone.\nBut yes, rare win for Sony in Japan of late, and as you mention, doubt this shall happen again any time soon.\nDo really lo",
-    "extra": {
-     "image": "https://images.pushsquare.com/9d5530aadf314/large.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "PS5 ОБОШЛА Switch 2\n\nGTA 6 наделала шухеру в Японии и впервые за долгое время подкинула PS5 на первое место по продажам консолей, обогнав Nintendo. Сочный буст продаж!\n\n❤️ — Ждем в топ-1 мира\n👎 — Локальный хайп",
-    "card_title": "GTA 6 ОБОШЛА NINTENDO",
-    "reason": "Официальная статистика Famitsu о победе PS5 над Switch 2 в Японии благодаря релизу GTA 6.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-26T15:45:25.584411+00:00"
-  },
-  {
-   "item": {
-    "title": "Xbox Console Sales Get A Huge Boost In The UK, While GTA 6 Breaks Records For Physical Games",
-    "link": "https://www.purexbox.com/news/2026/11/xbox-console-sales-get-a-huge-boost-in-the-uk-while-gta-6-breaks-records-for-physical-games",
-    "summary": "Series X and S sales received their biggest jump since 2024. We've got some new data coming out about the UK games market in November 2026 today, and unsurprisingly, it's a market that's been absolutely dominated by the launch of GTA 6 last week. According to the folks at The Game Business , sales of the Xbox Series X and Xbox Series S rose by a whopping 75% during GTA 6's launch week, which represents the biggest jump for Xbox hardware since 2024. Read the full article on purexbox.com",
-    "published": "2026-11-26T15:30:00+00:00",
-    "source": "Pure Xbox",
-    "site_name": "Pure Xbox",
-    "trust": "high",
-    "text": "We've got some new data coming out about the UK games market in November 2026 today, and unsurprisingly, it's a market that's been absolutely dominated by the launch of GTA 6 last week.\nAccording to the folks at The Game Business, sales of the Xbox Series X and Xbox Series S rose by a whopping 75% during GTA 6's launch week, which represents the biggest jump for Xbox hardware since 2024.\nThe PS5 was close behind at 46%, and console sales were up 38% overall (after a 29% increase the week before).\nIn terms of UK console sales, PS5 sales rose 46% during the week GTA 6 came out, while Xbox Series S and X sales jumped 75%. It’s the biggest jump for Xbox since 2024. Overall, UK console sales last week were up 38%, which comes on the back of a 29% increase the week prior.\nMeanwhile, the controversial \"physical\" edition of GTA 6 broke numerous records in Europe, serving as the biggest physical launch in Spain's history according to their charts, and selling over 1m physical copies in France in three days.\nIt was also the biggest physical launch in the UK since FIFA 20 in September 2019, and is the 17th biggest physical launch since records began there in 1995. This is according to data provided by UK data tracker Nielsen IQ.\n\"GTA 6 is the biggest physical game launch since 2019, reveals UK data tracker Nielsen IQ. It generated £32 million in revenue in just three days.\"\nJust last week, on the day of GTA 6's release, we mentioned how Xbox hardware spending in the U.S. was up 42% YoY in October, attributed to the likes of Gears of War: E-Day and GTA 6.\nIt's going to be fascinating to see how the rest of the world stacks up in terms of Xbox sales data from November (which should be revealed over the coming days and weeks), and indeed whether GTA 6's physical edition is also setting records in even more regions. It most likely is - this is a ridiculously popular game after all.\nWhat are your thoughts on this? Let us know down in the comments section below.\nNow if only they could restock all the countries where it's sold out, they would keep selling consoles elsewhere.\nI’m pretty sure GTA6 broke no records for physical games.. Doesn’t it require a disc to be categorised as that?",
-    "extra": {
-     "image": "https://images.purexbox.com/b9f46e643ff43/large.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "РЕКОРДЫ ПРОДАЖ\n\nGTA 6 порвала чарты: физические копии бьют рекорды в Европе, а продажи консолей взлетели на десятки процентов. Имба-старт, который просто взорвал рынок.\n\n❤️ — Ждём цифру на ПК\n👎 — Только цифра, только хардкор",
-    "card_title": "РЕКОРДЫ ПРОДАЖ GTA 6",
-    "reason": "Official sales data from UK and Europe showing record physical copies and console boosts.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "Xbox Console Sales Get A Huge Boost In The UK, While GTA 6 Breaks Records For Physical Games — Google News (EN)",
-    "corroborated_by": "Xbox Console Sales Get A Huge Boost In The UK, While GTA 6 Breaks Records For Physical Games — Google News (EN)",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-26T15:45:31.409712+00:00"
-  },
-  {
-   "item": {
-    "title": "How to get the BF Bandito in GTA 6 explained",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOXdxSDJjY0czUnRySVQxeXdnMWk1dU9scmE4VUlGME9HN1NWa0I0N2pCdllCdUI4ZjdwNXRIVVpJcnUzWjlIRjd3eng4QU84bmNIclVQbFN1b2hwa3c2NTRQaDRVcFlqODh2TkNfei12TEtITnJaVTFmdGh5QkhucVNHaTBIRk9URk1YWkhUcVhWTk9X?oc=5",
-    "summary": "How to get the BF Bandito in GTA 6 explained Radio Times",
-    "published": "2026-11-26T15:40:02+00:00",
-    "source": "Google News (EN)",
-    "site_name": "Radio Times",
-    "trust": "rumor",
-    "text": "How to get the BF Bandito in GTA 6 explained Radio Times",
-    "extra": {}
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 6,
-    "post": "🗺 Гайд: Где искать тачку BF Bandito\n\nЗахотели покатать на этой имбе? Ловите точку, где тачка часто спавнится в Леониде.\n\nЧекните побережье и грунтовые дороги за городом. Тачка лютая, для гонок по песку самое то, го затестим в катке.",
-    "card_title": "КАК НАЙТИ BF BANDITO",
-    "reason": "Гайд по поиску машины BF Bandito в вышедшей игре",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": true,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": true,
-   "since": "2026-11-26T15:45:39.860736+00:00"
-  },
-  {
-   "item": {
     "title": "GTA 6 is Reportedly the Biggest Physical Launch in the UK Since 2019",
     "link": "https://insider-gaming.com/gta-6-biggest-physical-launch-uk/",
     "summary": "A new report reveals that GTA 6 is the biggest physical launch in the UK since 2019, generating £32 million in revenue within three days. The post GTA 6 is Reportedly the Biggest Physical Launch in the UK Since 2019 appeared first on Insider Gaming .",
@@ -24075,66 +24368,6 @@
    },
    "corr": false,
    "since": "2026-11-26T16:01:13.760832+00:00"
-  },
-  {
-   "item": {
-    "title": "Can You Continue Playing GTA 6 After The Ending?",
-    "link": "https://insider-gaming.com/can-you-play-gta-6-after-finishing-it/",
-    "summary": "Are you wondering if you can play GTA 6 once you've completed the story? Find out how the endgame works here. The post Can You Continue Playing GTA 6 After The Ending? appeared first on Insider Gaming .",
-    "published": "2026-11-26T15:47:51+00:00",
-    "source": "Insider Gaming",
-    "site_name": "Insider Gaming",
-    "trust": "medium",
-    "text": "Grand Theft Auto 6 has as many as two dozen endings. It’s pretty insane, but then again, the entire game is bonkers. There’s so much to see and do, and the choices you make set up for that ending quite nicely. You really do get whatever you deserve in this game.\nThat said, is there a facility that allows you to continue playing once you’ve completed GTA 6? When you hit your GTA 6 ending, are you free to go about Leonida finishing all the content you missed?\nThere is no way to play GTA 6 after completing the story. It’s not like Red Dead Redemption 2, where you get to play as John Marston, and it’s not like Grand Theft Auto 5, where life just kind of goes on.\nWhen you hit the final mission of Grand Theft Auto 6, you’ll get whatever ending you’ve lined yourself up to receive; the credits will roll, and then you’ll be reverted to a point before you embarked on the final mission.\nThat’s otherwise known as the ‘point of no return’ in GTA 6.\nThis is where you’re given the opportunity to complete as much of the game as possible. But it’s not a ‘true’ endgame state where the story has ended, everyone recognizes that, and some paradigm shift happens to alter the world. It’s a time reversal that puts you back before that ultimate delivery.\nIf you need to know anything else about Grand Theft Auto 6, make sure you stop by our full guides hub. It contains everything you could need to learn about the most important game release of all time!\nAlso, you can buy Grand Theft Auto 6 here if you haven’t already!\nLet us know if you’re enjoying GTA 6 on the Insider Gaming Discord server.\nFor more Insider Gaming coverage, check out the best locations for early cash in GTA 6, and don’t forget to sign up for our free weekly newsletter\nGrant has been gaming for 30+ years and in the industry for 10+. You'll probably find him playing a post-apocalyptic game or an extraction shooter somewhere.\nDoes GTA 6 Have a Point of No Return? GTA 6 Ending Mission, Explained\nHow to Find and Complete the Farm Fix Meth Lab Illegal Operation in GTA 6—All Key Valuables\nAll GTA 6 Endings Explained & How to Get The Best Ending\nHow Many Buildings Can You Enter in GTA 6? Enterable Buildings Walkthrough",
-    "extra": {
-     "image": "https://insider-gaming.com/wp-content/uploads/2026/11/Jason_and_Lucia_13-scaled.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "ЧТО БУДЕТ ПОСЛЕ ФИНАЛА GTA 6\n\nВ игре нет привычного постгейма, как в прошлых частях. После титров вас просто откатывает к сейву перед последней миссией, так что затестим всё пропущенное до финала.",
-    "card_title": "ФИНАЛ GTA 6 И ТОЧКА НЕЗВРВАТА",
-    "reason": "Важная механика финала игры и отсутствие свободного режима после титров подтверждены СМИ.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-26T16:01:23.591890+00:00"
-  },
-  {
-   "item": {
-    "title": "Microsoft-Owned Github Deletes Unhinged Post Celebrating PlayStation 5 Emulator’s Success Following Launch Of GTA 6",
-    "link": "https://kotaku.com/github-microsoft-ps5-anyps5-emulation-sony-grand-theft-auto-gta6-2001000617",
-    "summary": "In a now-deleted post on X, GitHub's post referenced GTA 6 and then brazenly celebrated the AnyPS5 emulator 'passing 58K stars' on the platform",
-    "published": "2026-11-26T15:44:01+00:00",
-    "source": "Kotaku",
-    "site_name": "Kotaku",
-    "trust": "high",
-    "text": "The official social media team behind GitHub, the Microsoft-owned collaborative coding platform, has published and subsequently deleted a bizarrely brazen post on X celebrating the fact that Grand Theft Auto 6’s release has caused AnyPS5, a PlayStation 5 emulator, to pass “58K stars since its August launch.” It then asked the question, “Does changing where games run cross a legal line?”\nTo be clear, we’re not crowbarring GTA 6 into this story. GitHub’s post about the popularity of its PS5 emu opened with the line “GTA 6 is finally here, sparking one of the biggest weeks in gaming and open source on GitHub.”\nLikewise, the video that was contained within GitHub’s post highlighted that users’ efforts to improve the AnyPS5 emulator were primarily driven by the release of GTA 6. The video specifically mentions a comment from one AnyPS5 coder which states, “We have 3 days until GTA 6 everyone[…]get your agents or deevs[sic] and work.”\nAgain, it’s important to note here that GitHub is owned by Microsoft, which purchased the company for “$7.5 billion in stock” in 2018. That makes it all the more confusing that GitHub’s own post posits the Sony-baiting question, “Does changing where games run cross a legal line?”\nWell, uh, I’d wager that the publishers of Grand Theft Auto 6, Take-Two, would probably say that the answer to that question is a firm “Yes,” considering that its been actively shooting down all of the GitHub repositories attempting to vibe-code a PC port of GTA 6 over the past week.\nIt’s probably pretty obvious why they opted to delete the post, but I can’t help but wonder what compelled GitHub’s social media team to ask the question in the first place.\nDon’t miss the latest reviews, news and tips. Sign up for our free newsletter.\nCultureNews Union Vote Fails In Landslide At GTA 6 Studio Rockstar Games As 75 Percent Of Devs Vote No The GTA 6 studio will not formally recognize union members By Ethan Gach Published November 26, 2026\nOpinionCommentary With Grand Theft Auto 6, The Series Has Outgrown Some Of Its Joke Brand Names The mature storytelling is at odds with dumb product names like Zombix Imran Khan Published November 25, 2026\nCultureKotaku Game Diary Here Are Some Video Game Conversation Starters That Aren’t About GTA 6 How to win friends and influence your Thanksgiving gaming discussion By Ash Parrish Published November 25, 2026\nCultureNews GTA 6 Boss Reveals How That Very Surprising Cameo Happened And What It Means For The Character A certain som",
-    "extra": {
-     "image": "https://kotaku.com/app/uploads/2026/11/GTa-666-1280x720.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "GITHUB сгорел на работе\n\nМелкомягкие умудрились удалить пост своего же GitHub, где они радовались успеху эмулятора PS5 на волне релиза шестерки. Вот это база, разнос и кринж в одном флаконе от гиганта индустрии.\n\n❤️ — Корпорастия в тильте\n👎 — Обычный рофл",
-    "card_title": "GITHUB СЛИЛ ПОСТ ПРО ЭМУЛЯТОР",
-    "reason": "Официальный твиттер GitHub от Microsoft спалили на посте про эмулятор PS5 из-за GTA 6, вышло очень смешно и скандально",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "Microsoft-Owned Github Deletes Unhinged Post Celebrating PlayStation 5 Emulator's Success Following Launch Of GTA 6",
-    "corroborated_by": "Microsoft-Owned Github Deletes Unhinged Post Celebrating PlayStation 5 Emulator's Success Following Launch Of GTA 6",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-26T16:01:32.577491+00:00"
   },
   {
    "item": {
