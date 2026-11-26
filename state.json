@@ -4878,7 +4878,23 @@
   "19ef463a99ca8cfd": "2026-11-26T13:47:41.888428+00:00",
   "7c3e03e21e400307": "2026-11-26T13:47:44.717248+00:00",
   "19029e2a74a9cbaf": "2026-11-26T13:47:46.509163+00:00",
-  "44d303935a61a8f9": "2026-11-26T13:47:49.507254+00:00"
+  "44d303935a61a8f9": "2026-11-26T13:47:49.507254+00:00",
+  "fad76a07b32aacb7": "2026-11-26T14:03:16.855678+00:00",
+  "797234ca99d5c327": "2026-11-26T14:03:19.227892+00:00",
+  "4776877d1798757c": "2026-11-26T14:03:20.512985+00:00",
+  "7c2234a931868fa3": "2026-11-26T14:03:23.321931+00:00",
+  "9f896a5b6bcf78ea": "2026-11-26T14:03:31.040178+00:00",
+  "7a47645a974a538d": "2026-11-26T14:03:45.333453+00:00",
+  "7167f4a26e5a22f3": "2026-11-26T14:03:52.854974+00:00",
+  "0f25ba9670245ff4": "2026-11-26T14:03:55.040834+00:00",
+  "245241ae54478fdf": "2026-11-26T14:19:18.110019+00:00",
+  "479aa937fccce310": "2026-11-26T14:20:11.950651+00:00",
+  "2142e32d93693b3a": "2026-11-26T14:20:15.727048+00:00",
+  "7b31116cb7401475": "2026-11-26T14:20:20.885179+00:00",
+  "3570d636816f08f6": "2026-11-26T14:20:28.167141+00:00",
+  "e66ff10f723d2504": "2026-11-26T14:20:32.134620+00:00",
+  "86966708563c7f13": "2026-11-26T14:20:34.108894+00:00",
+  "b11ce9e7ba418e05": "2026-11-26T14:20:43.274556+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -8154,7 +8170,23 @@
   "21f84b4e44e98c7b": "2026-11-26T13:47:41.888428+00:00",
   "57c04b423e263016": "2026-11-26T13:47:44.717248+00:00",
   "372764343689eb5b": "2026-11-26T13:47:46.509163+00:00",
-  "701cdcfd6da4d11a": "2026-11-26T13:47:49.507254+00:00"
+  "701cdcfd6da4d11a": "2026-11-26T13:47:49.507254+00:00",
+  "8977d447178094de": "2026-11-26T14:03:16.855678+00:00",
+  "86b0dd0f949d08e8": "2026-11-26T14:03:19.227892+00:00",
+  "22775389fe2e907a": "2026-11-26T14:03:20.512985+00:00",
+  "a44efb90f09bc027": "2026-11-26T14:03:23.321931+00:00",
+  "dd14308283beb59f": "2026-11-26T14:03:31.040178+00:00",
+  "210d4b64b9e28d68": "2026-11-26T14:03:45.333453+00:00",
+  "81c478ea75a06d61": "2026-11-26T14:03:52.854974+00:00",
+  "0c50f18aaf4239b5": "2026-11-26T14:03:55.040834+00:00",
+  "3093db886238ed22": "2026-11-26T14:19:18.110019+00:00",
+  "a11178b8fd7bb8ed": "2026-11-26T14:20:11.950651+00:00",
+  "d32d9652dd9bb1f9": "2026-11-26T14:20:15.727048+00:00",
+  "f09c6f2a1547f354": "2026-11-26T14:20:20.885179+00:00",
+  "181b571c1fcc6a1d": "2026-11-26T14:20:28.167141+00:00",
+  "009322673ad9b2b9": "2026-11-26T14:20:32.134620+00:00",
+  "5c6bf6200af50f85": "2026-11-26T14:20:34.108894+00:00",
+  "be4a8037e3412683": "2026-11-26T14:20:43.274556+00:00"
  },
  "recent": [
   {
@@ -15748,9 +15780,168 @@
    "status": "skipped",
    "ts": "2026-11-26T13:47:49.507406+00:00",
    "card_title": ""
+  },
+  {
+   "title": "Get Ready for GTA 6 on PC With These Black Friday Monitor Deals From Just $75",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T14:03:16.855831+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "CD Projekt Red says The Witcher 4 upgrade over The Witcher 3 will be just as big as GTA 6 over GTA 5",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T14:03:19.228044+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6's Cartel Heist Might Be Rockstar's Best Ever Mission, But Only If You Do It Badly",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T14:03:20.513130+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "10 героев GTA 6 в реальной жизни: сможете узнать актёров без игровых костюмов?",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T14:03:23.322079+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Как получить шикарный розовый порше в самом начале 3 главы в GTA 6",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T14:03:31.040333+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 PC port hits 20 FPS just days after drawing one frame every two seconds",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T14:03:45.333619+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "I’ve completed GTA 6 – this is what the driving physics are really like",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T14:03:52.855114+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Моддеры разблокировали до 60 FPS в GTA 6 на взломанных PS5 и PS5 Pro без генерации кадров — если консоли \"умирали\" при 30 кадрах, то так будут вообще плавиться?",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T14:03:55.041006+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "After playing the game, 30% of polled GTA 6 players want to buy flowers for a loved one, 9% accidentally punched cats",
+   "source": "Eurogamer",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-26T14:20:10.318213+00:00",
+   "card_title": "УДАРЫ КОТАМ И ЦВЕТЫ БЛИЗКИМ"
+  },
+  {
+   "title": "GTA 6 PC project \"not dead,\" lead clarifies after quitting over Rockstar's apparent Discord takedown",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-26T14:20:11.950791+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "10 Legendary Racing Anime to Watch After Playing GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T14:20:15.727209+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Watching TV in GTA 6 Is More Depressing Than Fun, Except for One Show",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T14:20:20.885333+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Here's How To Build A Shelby Cobra In GTA VI",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T14:20:28.167293+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "This GTA 6 player is turning Vice City into a fashion lookbook",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T14:20:32.134781+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "No disc no problem: GTA 6 is the biggest physical game launch since 2019",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T14:20:34.109047+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI Takes Capitalism Seriously",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T14:20:43.274707+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
+  {
+   "item": {
+    "title": "After playing the game, 30% of polled GTA 6 players want to buy flowers for a loved one, 9% accidentally punched cats",
+    "link": "https://www.eurogamer.net/gta-6-30-percent-buy-flowers-punch-cats",
+    "summary": "A new survey of Grand Theft Auto 6 players has found some particularly interesting results. 30 percent came away from the game with the desire to buy someone special flowers. Nine percent punched cats. Read more",
+    "published": "2026-11-26T14:09:10+00:00",
+    "source": "Eurogamer",
+    "site_name": "Eurogamer",
+    "trust": "high",
+    "text": "A new survey of Grand Theft Auto 6 players has found some particularly interesting results. 30 percent came away from the game with the desire to buy someone special flowers. Nine percent punched cats.\nPer Games User Research's director Steve Bromley, 303 players from across the UK and US were polled on their experiences. They had to have at least two hours of playtime to contribute, which led to an informed sample of how folks are finding the game.\nThose polled gave the game an 8.4/10 (that's 4.2/5 Eurogamer readers), which is glowing praise. 42 percent loved the narrative, as well as Jason and Lucia's relationship. 38 dug the lifelike and believable world, while 35 percent were keen on the freedom to explore and the variety of activities.\nAs for what they didn't like, 28 percent weren't a fan of the slow pacing and long cutscenes, 19 percent didn't like the difficulty in stealing cars and losing a wanted level, while 18 percent were put off by the game's technical performance.\nNow for some fun findings: 41 percent expressed an interest in improving their real life after playing the game, with 30 percent of those looking to buy a loved one some flowers. Nice! 14 percent were at least once confused or stuck, due to confusion with the stealth, identifying time-sensitive missions, or experiencing control issues.\nThere's some bad news for the cats out there, too. Nine percent accidentally punched a cat while trying to pet it, while 61 percent had the same experience with human NPCs. At least it wasn't intentional, that has to count for something. Right?",
+    "extra": {
+     "image": "https://assetsio.gnwcdn.com/cat-gta-6.jpg?width=690&quality=85&format=jpg&auto=webp"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "🐱 9% игроков в GTA 6 случайно УДАРИЛИ кота вместо ласки\n\nВ опросе среди 303 геймеров выяснилось, что 61% вообще случайно врезали обычным NPC. Зато 41% после игры захотели прокачать реальную жизнь, а 30% из них — подарить близким цветы. Ору с этого вайба: одной рукой дарим букеты, другой — путаем кнопки.",
+    "card_title": "УДАРЫ КОТАМ И ЦВЕТЫ БЛИЗКИМ",
+    "reason": "Интересный опрос игроков о GTA 6 с забавными результатами про котиков и цветы.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-4-hydrogen"
+   },
+   "queued_at": "2026-11-26T14:20:10.318198+00:00",
+   "moderation": "pending",
+   "draft_msg_id": 184
+  },
   {
    "item": {
     "title": "GTA 6's Map Has a Useful Feature I've Only Just Noticed",
@@ -15963,7 +16154,8 @@
   "2026-11-26T06:00:44.673199+00:00",
   "2026-11-26T07:01:31.326672+00:00",
   "2026-11-26T08:01:50.799842+00:00",
-  "2026-11-26T09:23:58.474308+00:00"
+  "2026-11-26T09:23:58.474308+00:00",
+  "2026-11-26T14:20:50.131195+00:00"
  ],
  "slots_sent": {
   "2026-11-24:guide:1": "2026-11-24T14:08:00.473378+00:00",
