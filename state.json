@@ -4712,7 +4712,35 @@
   "594901c2177d4d3f": "2026-11-26T09:39:51.216935+00:00",
   "ab14e1487a2509fa": "2026-11-26T09:40:05.633967+00:00",
   "435512070d855b80": "2026-11-26T09:40:07.870685+00:00",
-  "9cfeb708d22f9b0f": "2026-11-26T09:40:09.355109+00:00"
+  "9cfeb708d22f9b0f": "2026-11-26T09:40:09.355109+00:00",
+  "429b81f8f3e1bf05": "2026-11-26T09:55:42.314117+00:00",
+  "6611b9f52a326bf8": "2026-11-26T09:55:43.732743+00:00",
+  "ae2c84579d01bd8d": "2026-11-26T09:56:02.252812+00:00",
+  "4ab47e9bfa1c8254": "2026-11-26T09:56:14.212795+00:00",
+  "235cdb41d1f86d9b": "2026-11-26T09:56:44.208765+00:00",
+  "34785264b8e6ee37": "2026-11-26T09:57:07.352293+00:00",
+  "fdd5aa4dc8340052": "2026-11-26T09:57:19.176766+00:00",
+  "2d493472cf57b1a2": "2026-11-26T09:57:50.127195+00:00",
+  "340ad32ce2a51b70": "2026-11-26T10:08:46.082740+00:00",
+  "06ce478f4bf2fbbb": "2026-11-26T10:08:47.212642+00:00",
+  "a4828c4b8747db0f": "2026-11-26T10:08:48.040835+00:00",
+  "22eab1b3b64e47f7": "2026-11-26T10:08:48.895761+00:00",
+  "69afa0f53bf8738e": "2026-11-26T10:09:39.766589+00:00",
+  "ae8e06c89b7a0ae4": "2026-11-26T10:09:40.520945+00:00",
+  "54e8ab10058fce59": "2026-11-26T10:09:41.273092+00:00",
+  "b50a153a6f9a429e": "2026-11-26T10:09:42.049645+00:00",
+  "7a47cdd117c1b909": "2026-11-26T10:10:33.095904+00:00",
+  "bec90283ad4fe6c9": "2026-11-26T10:13:02.487682+00:00",
+  "a9b0503a6e47eeb6": "2026-11-26T10:13:05.232690+00:00",
+  "0785283091476a09": "2026-11-26T10:13:11.186210+00:00",
+  "d227869ea05b6217": "2026-11-26T10:14:26.230726+00:00",
+  "32e50dcf9e526458": "2026-11-26T10:14:28.062872+00:00",
+  "5bd5e7957c04d826": "2026-11-26T10:14:29.225819+00:00",
+  "4cfe15221298d1c6": "2026-11-26T10:14:37.352876+00:00",
+  "0f212c2a5e7afb6f": "2026-11-26T10:14:38.541038+00:00",
+  "fc58ab657e1c625d": "2026-11-26T10:14:39.786046+00:00",
+  "7da4bcb0b3b58bf0": "2026-11-26T10:14:41.335452+00:00",
+  "ad19e14bb8265ed2": "2026-11-26T10:14:54.186150+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -7872,7 +7900,23 @@
   "990e928225102e47": "2026-11-26T09:39:51.216935+00:00",
   "c939ee40d07c2b55": "2026-11-26T09:40:05.633967+00:00",
   "68a6656a49037902": "2026-11-26T09:40:07.870685+00:00",
-  "a8ec2d7bd95c9428": "2026-11-26T09:40:09.355109+00:00"
+  "a8ec2d7bd95c9428": "2026-11-26T09:40:09.355109+00:00",
+  "1a05a73d75557bfe": "2026-11-26T09:55:42.314117+00:00",
+  "d61d95bb6a419dbc": "2026-11-26T09:55:43.732743+00:00",
+  "1c202c4af7db96c4": "2026-11-26T09:56:02.252812+00:00",
+  "90bc3b2e74f5b2af": "2026-11-26T09:56:14.212795+00:00",
+  "bff752577be5d8c2": "2026-11-26T09:56:44.208765+00:00",
+  "0103449049a36fc5": "2026-11-26T09:57:07.352293+00:00",
+  "18899e22af567c6e": "2026-11-26T09:57:19.176766+00:00",
+  "2a5f499ad553435a": "2026-11-26T09:57:50.127195+00:00",
+  "d2144cd740d88091": "2026-11-26T10:14:26.230726+00:00",
+  "58b2c6ecfb942a95": "2026-11-26T10:14:28.062872+00:00",
+  "394d9f2a553ca2ff": "2026-11-26T10:14:29.225819+00:00",
+  "1bec7db807cfdae3": "2026-11-26T10:14:37.352876+00:00",
+  "3bd3f0b8d6d75723": "2026-11-26T10:14:38.541038+00:00",
+  "fd20dc7c9b29e05c": "2026-11-26T10:14:39.786046+00:00",
+  "f944f3c5b196db9e": "2026-11-26T10:14:41.335452+00:00",
+  "2146a14a43c42f4d": "2026-11-26T10:14:54.186150+00:00"
  },
  "recent": [
   {
@@ -14514,6 +14558,134 @@
    "status": "skipped",
    "ts": "2026-11-26T09:40:09.355217+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GTA 6 reinvigorates PlayStation 5 and Xbox Series S/X console sales in the US, even at their inflated prices",
+   "source": "Eurogamer",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-26T09:55:42.694743+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Security Expert Walkthrough and Nicole Park Location",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-26T09:55:43.732861+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "A GTA 6 Sneaker Ad Seems To Be Referencing Final Fantasy 7",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T09:56:02.252951+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "US PS5 and Xbox sales surged ahead of GTA 6 launch despite higher prices",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T09:56:21.823017+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "[Industry news] GTA VI sends UK games retail sales soaring 99% to £142m in launch week",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T09:56:44.208904+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Сыграть в GTA 6 бесплатно теперь можно прямо в браузере, но есть один нюанс",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T09:57:07.352438+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "В GTA VI поиграют только богачи: цены на консоли PlayStation 5 взлетели до 200 тысяч",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T09:57:26.610849+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Героям GTA 6 создали по 3 варианта анимации для каждого взаимодействия с предметами",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T09:57:50.127353+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "PS5 users report 'increased sudden shutdowns' while playing GTA 6, three major errors noted",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T10:14:26.230887+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Как найти пропавших туристов в GTA VI — прохождение секретного квеста про маньяка в Порт-Геллхорне",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T10:14:28.063034+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Rockstar объяснила, почему в GTA 6 выгоднее быть добрым",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T10:14:29.225965+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Бывший сценарист Valve считает GTA 6 \"возможно величайшей игрой в истории\" и не понимает геймеров, которые возмущаются побочными заданиями в духе ремонта дома",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T10:14:37.353026+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Seven beautiful places to visit in GTA VI, from mountains trails to an afternoon at the zoo",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T10:14:38.541179+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 recomp hits 90% progress – and here's what that means",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T10:14:39.786185+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Игрок подсчитал здания в GTA 6 и нашёл 1563 доступных для входа",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T10:14:41.335608+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6’s fastest cars revealed – and how to unlock them",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T10:14:54.186356+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -15187,6 +15359,36 @@
    "file_id": "BAACAgIAAxkDAAOyawf2_LR6NcyGBckSP3fw-cv7awkAAvCsAAJzy0FIr124GWzX1GI9BA",
    "moderation": "pending",
    "draft_msg_id": 178
+  },
+  {
+   "clip": {
+    "source": "twitch",
+    "url": "https://www.twitch.tv/theburntpeanut/clip/IronicAntsyMeerkatHotPokket-Px5KXcpo886zO19J",
+    "title": "LMFAOOOOO",
+    "author": "TheBurntPeanut",
+    "views": 344,
+    "duration": 30.0,
+    "created": "2026-11-26T05:56:33+00:00",
+    "lang": "en",
+    "description": "",
+    "vod_id": "2940864084",
+    "vod_offset": 19836.0
+   },
+   "caption": "Имба: копы в лифте решили докопаться до Лусии — такой перестрелки в замкнутом пространстве мы еще не видели 💀",
+   "interest": 8,
+   "spoiler": false,
+   "nsfw": false,
+   "watched": true,
+   "model": "gemini:gemini-3.5-flash-lite",
+   "media": {
+    "width": null,
+    "height": 720,
+    "duration": 30
+   },
+   "queued_at": "2026-11-26T10:13:14.747804+00:00",
+   "file_id": "BAACAgIAAxkDAAO0awgGOxWn9ltfqmyuZoCA8gVfmHIAApStAAJzy0FIUeHT7RrB3jI9BA",
+   "moderation": "pending",
+   "draft_msg_id": 180
   }
  ],
  "clip_drafts": [
@@ -15208,7 +15410,8 @@
   "2026-11-25T21:48:57.940422+00:00",
   "2026-11-26T07:04:22.411410+00:00",
   "2026-11-26T08:07:51.586512+00:00",
-  "2026-11-26T09:08:12.581306+00:00"
+  "2026-11-26T09:08:12.581306+00:00",
+  "2026-11-26T10:13:16.179800+00:00"
  ],
  "clip_history": [
   {
@@ -21182,6 +21385,116 @@
    "ts": "2026-11-26T09:08:12.581324+00:00",
    "frames": [],
    "caption": "🔞 Нудистский пляж в Леониде — база. NPC буквально не стесняются вообще ничего, полный рофл 💀"
+  },
+  {
+   "author": "youtube:carterpcs",
+   "vod": "",
+   "offset": -1,
+   "title": "The new cheapest way to play GTA 6",
+   "drafted": false,
+   "ts": "2026-11-26T10:08:46.082792+00:00"
+  },
+  {
+   "author": "youtube:abdullah reviews",
+   "vod": "",
+   "offset": -1,
+   "title": "مو مصدق الموقف اللي صارلي في GTA 6!",
+   "drafted": false,
+   "ts": "2026-11-26T10:08:47.212698+00:00"
+  },
+  {
+   "author": "youtube:krelonx",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 Jason & Lucia Meet Old GTA Legends 😂",
+   "drafted": false,
+   "ts": "2026-11-26T10:08:48.040884+00:00"
+  },
+  {
+   "author": "youtube:poketito_yt",
+   "vod": "",
+   "offset": -1,
+   "title": "pobre hombre #ias #ia #iamemes #meme #memes #humor #funny #gta6 #India #gaming #gameplay",
+   "drafted": false,
+   "ts": "2026-11-26T10:08:48.895809+00:00"
+  },
+  {
+   "author": "youtube:redeye.mp4",
+   "vod": "",
+   "offset": -1,
+   "title": "ПРОВЕРКА МИФОВ В GTA 6! #gta6 #gta",
+   "drafted": false,
+   "ts": "2026-11-26T10:09:39.766639+00:00"
+  },
+  {
+   "author": "youtube:final choice",
+   "vod": "",
+   "offset": -1,
+   "title": "Don't Refuse Mattia In GTA 6 #gaming",
+   "drafted": false,
+   "ts": "2026-11-26T10:09:40.520993+00:00"
+  },
+  {
+   "author": "youtube:bytetalkyt",
+   "vod": "",
+   "offset": -1,
+   "title": "Your PS Portal Can Play GTA 6 Without A PS5 Now",
+   "drafted": false,
+   "ts": "2026-11-26T10:09:41.273142+00:00"
+  },
+  {
+   "author": "youtube:techzilla",
+   "vod": "",
+   "offset": -1,
+   "title": "ROCKSTAR A ASCUNS UN SECRET ÎNFRICOȘĂTOR ÎN GTA 6! 🤡",
+   "drafted": false,
+   "ts": "2026-11-26T10:09:42.049696+00:00"
+  },
+  {
+   "author": "twitch:shroud",
+   "vod": "2940500640",
+   "offset": 20304.0,
+   "title": "Putaaaaaaaaaa",
+   "drafted": false,
+   "ts": "2026-11-26T10:10:33.095982+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:rubius",
+   "vod": "2940532060",
+   "offset": 15232.0,
+   "title": "pero como?",
+   "drafted": false,
+   "ts": "2026-11-26T10:13:02.487741+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:lru_rose",
+   "vod": "2940385615",
+   "offset": 22174.0,
+   "title": "Отлынивает",
+   "drafted": false,
+   "ts": "2026-11-26T10:13:05.232753+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:theburntpeanut",
+   "vod": "2940864084",
+   "offset": 19836.0,
+   "title": "LMFAOOOOO",
+   "drafted": false,
+   "ts": "2026-11-26T10:13:11.186268+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:theburntpeanut",
+   "vod": "2940864084",
+   "offset": 19836.0,
+   "title": "LMFAOOOOO",
+   "drafted": true,
+   "ts": "2026-11-26T10:13:16.179817+00:00",
+   "frames": [],
+   "caption": "Имба: копы в лифте решили докопаться до Лусии — такой перестрелки в замкнутом пространстве мы еще не видели 💀"
   }
  ],
  "published": [
