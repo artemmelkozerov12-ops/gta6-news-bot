@@ -4801,7 +4801,31 @@
   "672f3873b1c2c0c5": "2026-11-26T11:55:59.286046+00:00",
   "6db5c4382f526947": "2026-11-26T11:56:00.609106+00:00",
   "23208e29386bc88d": "2026-11-26T11:56:05.799002+00:00",
-  "394be3d539a037e0": "2026-11-26T11:56:09.365568+00:00"
+  "394be3d539a037e0": "2026-11-26T11:56:09.365568+00:00",
+  "8d8e4e91726cc2d3": "2026-11-26T12:12:16.177419+00:00",
+  "79016e6398491dea": "2026-11-26T12:12:17.570808+00:00",
+  "15903757b62219a5": "2026-11-26T12:12:20.701061+00:00",
+  "1946bb8b3a9c0357": "2026-11-26T12:12:21.730491+00:00",
+  "04a3a8dddad35994": "2026-11-26T12:12:22.958054+00:00",
+  "3c0654a9c37d6acb": "2026-11-26T12:12:24.181848+00:00",
+  "70a59056e1a83137": "2026-11-26T12:12:25.401263+00:00",
+  "02c975dc3dc28b26": "2026-11-26T12:12:26.511203+00:00",
+  "01fc19f59890216a": "2026-11-26T12:19:11.913295+00:00",
+  "e29b7a331fef1026": "2026-11-26T12:19:12.654405+00:00",
+  "87f37824ea9fa132": "2026-11-26T12:19:13.446118+00:00",
+  "5a436039a2092059": "2026-11-26T12:19:14.348810+00:00",
+  "f7b5a568ea0bdde3": "2026-11-26T12:20:05.350250+00:00",
+  "f1fb07bbec64c14c": "2026-11-26T12:20:06.145550+00:00",
+  "24a7d2213ee8bd02": "2026-11-26T12:20:07.071356+00:00",
+  "3de5508d74eef829": "2026-11-26T12:20:07.945873+00:00",
+  "5f06e050e3cf730e": "2026-11-26T12:20:58.903563+00:00",
+  "fb1a5a437b96dbda": "2026-11-26T12:21:24.362685+00:00",
+  "c8c5612c37585caa": "2026-11-26T12:21:32.029632+00:00",
+  "ecea0b37a0131bcc": "2026-11-26T12:24:49.955143+00:00",
+  "5a67ba1bf629a9fe": "2026-11-26T12:25:48.537228+00:00",
+  "7df99e37bb35ea38": "2026-11-26T12:25:55.315880+00:00",
+  "b93229624fadce28": "2026-11-26T12:25:59.025757+00:00",
+  "3645adc49227246c": "2026-11-26T12:28:56.177241+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -8027,7 +8051,15 @@
   "22deb5819e55c56a": "2026-11-26T11:55:59.286046+00:00",
   "7fc06a9660936eac": "2026-11-26T11:56:00.609106+00:00",
   "efdf819b5d3966ef": "2026-11-26T11:56:05.799002+00:00",
-  "c9e4e04b9ccdf033": "2026-11-26T11:56:09.365568+00:00"
+  "c9e4e04b9ccdf033": "2026-11-26T11:56:09.365568+00:00",
+  "a2856f546f5a33e6": "2026-11-26T12:12:16.177419+00:00",
+  "ae76db3b06f484bc": "2026-11-26T12:12:17.570808+00:00",
+  "6618ba67b29eaacf": "2026-11-26T12:12:20.701061+00:00",
+  "f1f701f8f63ef08b": "2026-11-26T12:12:21.730491+00:00",
+  "dbc20c078aab6a67": "2026-11-26T12:12:22.958054+00:00",
+  "044d55dbc31b12a5": "2026-11-26T12:12:24.181848+00:00",
+  "97524781ef1bbec3": "2026-11-26T12:12:25.401263+00:00",
+  "4bbcb012b4ef6d62": "2026-11-26T12:12:26.511203+00:00"
  },
  "recent": [
   {
@@ -15213,6 +15245,70 @@
    "status": "skipped",
    "ts": "2026-11-26T11:56:09.365711+00:00",
    "card_title": ""
+  },
+  {
+   "title": "Pass the Controller: How Single Console Households Split 'GTA VI'",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T12:12:16.177595+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to push your car in GTA 6 explained",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T12:12:19.617783+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Сценарист Skyrim и Fallout от Bethesda назвал GTA 6 \"чистым колдовством\"",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T12:12:20.701207+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Players Urged To Change One Setting For A Much Better Experience",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T12:12:21.730663+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "NielsenIQ: GTA 6 boosts UK games retail revenue by 99% to £142m during launch period",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T12:12:22.958203+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Rockstar removed CGBJ's 25 FPS GTA 6 PC port from GitHub in minutes.",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T12:12:24.181987+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Rockstar за считаные минуты удалила с GitHub репозиторий ПК-порта GTA 6 от CGBJ с 25 FPS",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T12:12:25.401417+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Panini Turns ‘GTA VI's’ In-Game Collectibles Into a Real Sports Trading Card Collection",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T12:12:26.511349+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -21990,6 +22086,142 @@
    "ts": "2026-11-26T11:18:49.888230+00:00",
    "frames": [],
    "caption": "Джейсон уходит от копов по сухой дороге на каяке, и по рации реально кричат «КАК?!» 💀 Вот это имба-транспорт"
+  },
+  {
+   "author": "youtube:knock clips",
+   "vod": "",
+   "offset": -1,
+   "title": "His Neighbors Think He's in Trouble Because of GTA 6",
+   "drafted": false,
+   "ts": "2026-11-26T12:19:11.913339+00:00"
+  },
+  {
+   "author": "youtube:kriss k3b",
+   "vod": "",
+   "offset": -1,
+   "title": "I Found a GTA 6 Cafe in Real Life!",
+   "drafted": false,
+   "ts": "2026-11-26T12:19:12.654448+00:00"
+  },
+  {
+   "author": "youtube:местар",
+   "vod": "",
+   "offset": -1,
+   "title": "🤔 Как НАВСЕГДА Прокачать Все Характеристики в GTA 6?",
+   "drafted": false,
+   "ts": "2026-11-26T12:19:13.446167+00:00"
+  },
+  {
+   "author": "youtube:tony statovci",
+   "vod": "",
+   "offset": -1,
+   "title": "These GTA 6 graphics are too realistic",
+   "drafted": false,
+   "ts": "2026-11-26T12:19:14.348860+00:00"
+  },
+  {
+   "author": "youtube:sixth star",
+   "vod": "",
+   "offset": -1,
+   "title": "🔴 NEW #1: CGBJ at 89.8%! GTA 6 on PC Race LIVE: NotNozy, darkworldhm, Doomsday chasing | 24/7",
+   "drafted": false,
+   "ts": "2026-11-26T12:20:05.350301+00:00"
+  },
+  {
+   "author": "youtube:yonside",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 Hate #shorts",
+   "drafted": false,
+   "ts": "2026-11-26T12:20:06.145600+00:00"
+  },
+  {
+   "author": "youtube:itscronx",
+   "vod": "",
+   "offset": -1,
+   "title": "Jason Didn't Even Need To Fight Back 😭🙏 #gta6 #lucia #shorts",
+   "drafted": false,
+   "ts": "2026-11-26T12:20:07.071404+00:00"
+  },
+  {
+   "author": "youtube:ta5teem gaming - تختيم جيمنج",
+   "vod": "",
+   "offset": -1,
+   "title": "اكبر صدمة في قراند 6 (مايكل موجود في اللعبة) ؟!! 💀🔥",
+   "drafted": false,
+   "ts": "2026-11-26T12:20:07.945921+00:00"
+  },
+  {
+   "author": "twitch:bratishkinoff",
+   "vod": "2938328156",
+   "offset": 10528.0,
+   "title": "для левы",
+   "drafted": false,
+   "ts": "2026-11-26T12:20:58.903611+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:cohhcarnage",
+   "vod": "",
+   "offset": -1,
+   "title": "really nice car",
+   "drafted": false,
+   "ts": "2026-11-26T12:21:24.362746+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:alanzoka",
+   "vod": "2940381916",
+   "offset": 11907.0,
+   "title": "Black no Kabum",
+   "drafted": false,
+   "ts": "2026-11-26T12:21:32.029694+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:lru_rose",
+   "vod": "2940385615",
+   "offset": 11790.0,
+   "title": "ориг трек",
+   "drafted": false,
+   "ts": "2026-11-26T12:24:49.955204+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:yoon_froggy",
+   "vod": "",
+   "offset": -1,
+   "title": "gas sniffa",
+   "drafted": false,
+   "ts": "2026-11-26T12:25:48.537278+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:kamet0",
+   "vod": "2940361121",
+   "offset": 3215.0,
+   "title": "fail",
+   "drafted": false,
+   "ts": "2026-11-26T12:25:55.315943+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:rijom",
+   "vod": "2940445061",
+   "offset": 24479.0,
+   "title": "13 лет игра делалась(2)",
+   "drafted": false,
+   "ts": "2026-11-26T12:25:59.025822+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:jerma985",
+   "vod": "2940574635",
+   "offset": 1418.0,
+   "title": "I'M NOT A C**K",
+   "drafted": false,
+   "ts": "2026-11-26T12:28:56.177305+00:00",
+   "frames": []
   }
  ],
  "published": [
