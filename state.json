@@ -5753,7 +5753,16 @@
   "7368e180c9004ef4": "2026-11-27T23:06:51.997209+00:00",
   "1baa3f3bca0aaea2": "2026-11-27T23:06:52.807679+00:00",
   "0ae4fd736f356cd4": "2026-11-27T23:06:54.215185+00:00",
-  "ee9bac887a480763": "2026-11-27T23:06:55.482235+00:00"
+  "ee9bac887a480763": "2026-11-27T23:06:55.482235+00:00",
+  "8740bf2b42eec09a": "2026-11-27T23:22:58.188086+00:00",
+  "8c34789414466090": "2026-11-27T23:22:59.547034+00:00",
+  "30bc4f9e5f0c68d6": "2026-11-27T23:23:00.724015+00:00",
+  "21933b6803327ae2": "2026-11-27T23:23:02.240357+00:00",
+  "afded8a7ab867960": "2026-11-27T23:38:21.175760+00:00",
+  "7c14a28e9212e61b": "2026-11-27T23:38:23.104535+00:00",
+  "09a20cb4bf59ee45": "2026-11-27T23:38:24.027370+00:00",
+  "434ca5817a39ab56": "2026-11-27T23:38:25.461345+00:00",
+  "73b2179cb0128df0": "2026-11-27T23:38:26.748562+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -9717,7 +9726,16 @@
   "8931a6cbb86ab745": "2026-11-27T23:06:51.997209+00:00",
   "6bb4456d0436ce75": "2026-11-27T23:06:52.807679+00:00",
   "34c151046170851a": "2026-11-27T23:06:54.215185+00:00",
-  "f67637f800445da1": "2026-11-27T23:06:55.482235+00:00"
+  "f67637f800445da1": "2026-11-27T23:06:55.482235+00:00",
+  "950fa46d4988f47e": "2026-11-27T23:22:58.188086+00:00",
+  "9463da8e0fc119d2": "2026-11-27T23:22:59.547034+00:00",
+  "ff067f1ed01965c6": "2026-11-27T23:23:00.724015+00:00",
+  "02fbe5c2eb6d3e9c": "2026-11-27T23:23:02.240357+00:00",
+  "e834edf62691f45f": "2026-11-27T23:38:21.175760+00:00",
+  "e240b26fe125a378": "2026-11-27T23:38:23.104535+00:00",
+  "e3e8ef49fb7d354a": "2026-11-27T23:38:24.027370+00:00",
+  "558d10973a44048d": "2026-11-27T23:38:25.461345+00:00",
+  "4a597991e126561b": "2026-11-27T23:38:26.748562+00:00"
  },
  "recent": [
   {
@@ -18607,6 +18625,62 @@
    "status": "skipped",
    "ts": "2026-11-27T23:06:55.482358+00:00",
    "card_title": ""
+  },
+  {
+   "title": "[Видео] Я не понял GTA VI — устал",
+   "source": "iXBT.games",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-27T23:22:58.188185+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "🎮🇺🇸 GTA VI exploring Jason's mysterious Army past? He joined the military to escape a troubled upbringing but left under mysterious circumstances. Now Jason is living a life of crime. Will the game finally reveal what happened? Source: Military (.com) / Write",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T23:22:59.547186+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Employees at GTA 6 develop Rockstar Games reject union",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T23:23:02.240480+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Comparison of GTA 6 with early trailers revealed significant differences in graphics",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T23:38:23.104686+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Главное за день: моды GTA 6, системные требования Exodus, вышел «МурЗавод»",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T23:38:24.027517+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Российская «Лада» и Си-Джей: для GTA 6 на ПК уже появились первые моды",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T23:38:25.461472+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Порт GTA 6 на ПК получил первые моды — с Си-Джеем и «Ладой»",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T23:38:26.748687+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -19033,64 +19107,6 @@
     "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
    },
    "queued_at": "2026-11-27T21:49:08.654817+00:00"
-  },
-  {
-   "item": {
-    "title": "GTA VI x GTA+ Screenshots Gallery",
-    "link": "https://rockstarintel.com/gta-vi-x-gta-screenshots-gallery/",
-    "summary": "GTA+ members get exclusive GTA VI content and when we were first to break the news on launch day, we found the images within the game’s store. However, these images were not in full 4K resolution nor where they clean of UI. The game’s store interface covered parts of the images. I was wondering if [...] The post GTA VI x GTA+ Screenshots Gallery appeared first on RockstarINTEL .",
-    "published": "2026-11-27T11:06:53+00:00",
-    "source": "Rockstar Intel",
-    "site_name": "Rockstar Intel",
-    "trust": "medium",
-    "text": "GTA+ members get exclusive GTA VI content and when we were first to break the news on launch day, we found the images within the game’s store. However, these images were not in full 4K resolution nor where they clean of UI. The game’s store interface covered parts of the images. I was wondering if we’d have to wait for the PC version to extract all of the images cleanly from the files.\nAt RockstarINTEL, we like to have all Grand Theft Auto screenshots in their highest possible resolution and that means finding them sometimes. Thankfully, Rockstar Games have actually uploaded the GTA VI GTA+ content screenshots onto their GTA+ subsite with a new webpage in recent days. All of the GTA+ bonuses we covered previously can be found there along with 4K screenshots of the content. We’ve put them altogether for you below including the main promotional image:\nIf you want to know what else is included in GTA+ for the rest of November, check out our full breakdown here. For those that pre-ordered GTA VI digitally, you will have gotten a free month of GTA+ so if you have not used that up yet now is a perfect time and here’s how to claim it.\nIn other Grand Theft Auto VI news, there’s a working multiplayer mod for the game already. Plus, here’s everything included in GTA+ this month aside from this content. A new month begins in a couple of weeks so be sure to claim all of your bonuses!\nYou can order your PS5 or XBOX copy of GTA VI with this link. Using the link to order the game will help support this website as we’ll earn a small commission. Thank you!\nFor more news on GTA VI, stay tuned to RockstarINTEL and sign up to our newsletter for a weekly round-up of all things Rockstar Games delivered straight to your inbox.",
-    "extra": {
-     "image": "https://rockstarintel.com/wp-content/uploads/2026/11/hero-desktop.0efzw_xttlnm7.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 6,
-    "post": "📸 4K-СКРИНШОТЫ ДЛЯ ПОДПИСЧИКОВ GTA+\n\nRockstar выкатили на сайт подписки чистые кадры контента GTA 6 в максимальном разрешении. Если забирали бесплатный месяц за предзаказ, не забудьте залутать все бонусы — обновка уже ждет в игре.",
-    "card_title": "4K СКРИНЫ GTA+",
-    "reason": "Подтверждённый источник, полезный гайд по получению контента",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": true,
-    "model": "groq:openai/gpt-oss-120b → gemini:gemini-3.5-flash"
-   },
-   "queued_at": "2026-11-27T11:12:38.971522+00:00"
-  },
-  {
-   "item": {
-    "title": "Where To Find Principe Burnished Alvino In GTA 6—Fastest Motorcycles Location & Stats",
-    "link": "https://insider-gaming.com/principe-burnished-alvino-gta-6/",
-    "summary": "Here's where to find the Principe Burnished Alvino in Grand Theft Auto 6, as well as a detailed look at the motorcycle's stats. The post Where To Find Principe Burnished Alvino In GTA 6—Fastest Motorcycles Location & Stats appeared first on Insider Gaming .",
-    "published": "2026-11-27T10:57:17+00:00",
-    "source": "Insider Gaming",
-    "site_name": "Insider Gaming",
-    "trust": "medium",
-    "text": "Of the almost 600 vehicles in Grand Theft Auto 6, 77 are motorcycles, and none of them is as fast as the Principe Burnished Alvino.\nIn fact, this Standout Vehicle tops the list of the 10 fastest motorcycles in the game, so if speed on two wheels is what matters most to you—as well as a bit of style—then you’ll want to get your hands on the Principe Burnished Alvino as soon as possible.\nWith that in mind, check out where you can find the bike for yourself below, as well as a complete rundown of all of its important stats.\nYou can buy Grand Theft Auto 6 here if you haven’t already!\nPrincipe Burnished Alvino Location In GTA 6\nIf you want to find the Principe Burnished Alvino in Grand Theft Auto 6, you’ll need to head to Starfish Island in Vice City.\nYour best means of entry is probably by water, as the island is quite heavily guarded. With this method, simply climb up onto the right property’s garden as marked in the images above, and make your way to the front of the house. There might be some security guards on the scene, so feel free to take them out before they call for backup.\nRelated: All GTA 6 Cheats—Best Grand Theft Auto 6 Cheat Codes\nOnce you’ve got the place to yourself, simply break into the garage, and you’ll find the Principe Burnished Alvino ready for the taking. It doesn’t need a Key Cloner, nor does it have a Tracker to contend with. Just hop on board, and use it as the perfect getaway vehicle to escape the island.\nGiven that it’s the fastest motorcycle in the game, it’s well worth the hassle. Not convinced? Check out the vehicle’s stats below.\nEvery important statistic about the Principe Burnished Alvino in Grand Theft Auto 6 can be found in the table below.\nRelated: GTA 6 Sex & Romance—How To Have Sex In GTA 6\nThe motorcycle obviously excels at speed, but its Acceleration and Handling make it an absolute dream to drive. Better yet, compared to the 20 fastest cars in GTA 6, the bikes are generally far cheaper to register, too.\nIf you’re looking for more vehicle locations, check out where to find all of Randy’s Wishlist Supercars, and if you need to know anything else about Grand Theft Auto 6, make sure you stop by our full guides hub. It contains everything you could need to learn about the most important game release of all time!\nWill you be adding this bike to your collection? Let us know your thoughts about the game via the free Insider Gaming Discord server.\nFor more Insider Gaming content, read ‘GTA 6 100% Completion Walkthrough.’ Don’t ",
-    "extra": {
-     "image": "https://insider-gaming.com/wp-content/uploads/2026/11/Grand-Theft-Auto-VI_20261126163823-scaled.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 6,
-    "post": "🗺 Гайд: как угонять САМЫЙ БЫСТРЫЙ мотоцикл Principe Burnished Alvino в GTA 6\n\nЗатестим пушку на двух колесах — байк разгоняется быстрее всех в игре и рулится как имба.\n\n1. Го на остров Starfish Island в Вайс-Сити. Пробираться лучше с воды, там полно охраны.\n2. Вылезай в сад нужного особняка справа и пробирайся к гаражу.\n3. Вскрывай гараж: клонер ключей и взлом трекера не понадобятся, просто садись и улетай от копов.",
-    "card_title": "ГДЕ НАЙТИ САМЫЙ БЫСТРЫЙ БАЙК",
-    "reason": "Это гайд по поиску самого быстрого мотоцикла в игре, полезная находка для игроков.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "Where To Find Principe Burnished Alvino In GTA 6—Fastest Motorcycles Location & Stats",
-    "corroborated_by": "Where To Find Principe Burnished Alvino In GTA 6—Fastest Motorcycles Location & Stats",
-    "guide": true,
-    "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-3.5-flash"
-   },
-   "queued_at": "2026-11-27T11:12:57.863008+00:00"
   },
   {
    "item": {
@@ -24739,6 +24755,62 @@
    },
    "corr": false,
    "since": "2026-11-27T22:05:02.463508+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA 6's headphone feature was originally planned for GTA: Vice City back in 2002, former Rockstar developer reveals",
+    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPME5KRE4zbWVZS011Q1pncExwRXJlSzBnT1VLT09SMU9zRVJJM0N5SkZtSjViM0pvV2VRVWhHaTg0VkxzV3Y2ckRDS1RjNjAzT1JqX1U1ZDN2dFJBbDFrcHByZ1d4YW1fYUZlbXBseGlVZnVpZjZkU0VobU55aEVXcmVQdlFpQVJ6a3VNeFo4YWl4ellNd3ZHRUVJMUdOY2hJckxGVjNlUXZwNi1ONTZyT25XenZNNm12dWN4ZlJMMFgyMDRoSFNDSjhRMUZlT21WNFhEdWRrXzducGEtZUZNR3VWTmI4azh0QU80Nk9NaFhHQzQ?oc=5",
+    "summary": "GTA 6's headphone feature was originally planned for GTA: Vice City back in 2002, former Rockstar developer reveals TweakTown",
+    "published": "2026-11-27T23:04:01+00:00",
+    "source": "Google News (EN)",
+    "site_name": "TweakTown",
+    "trust": "rumor",
+    "text": "GTA 6's headphone feature was originally planned for GTA: Vice City back in 2002, former Rockstar developer reveals TweakTown",
+    "extra": {}
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "🎵 НАУШНИКИ в GTA 6 планировали еще в 2002 году\n\nБывший разраб из Rockstar поделился инсайдом: фичу с прослушиванием музыки через наушники хотели запихнуть еще в легендарный Vice City. База же, рофл, что идея ждала своего часа больше 20 лет!",
+    "card_title": "ФИЧА ИЗ VICE CITY",
+    "reason": "Интересный факт от бывшего разработчика о фиче из Vice City, подходит под confirmed историю из интервью.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": true,
+   "since": "2026-11-27T23:23:01.236105+00:00"
+  },
+  {
+   "item": {
+    "title": "How to Unlock the 1010 Murals Snapmatic Post in GTA 6",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUHF2dzRZUTMtRENNaEJEdGJsMWxHNS1lNHZER01fVEVxX0hFQVZ4MWZ6M2xQcUtSVU9ueVRMaVE3T3Brd1ExZmNaTUZKVy1NOHIyX25McElZSjZHanpZNW1FaEVPbjl1QkNaODdYcVNFbDRFRkJuLUU1T0V6c0l2Q1l4SXRjZw?oc=5",
+    "summary": "How to Unlock the 1010 Murals Snapmatic Post in GTA 6 Mobalytics",
+    "published": "2026-11-27T23:34:09+00:00",
+    "source": "Google News (EN)",
+    "site_name": "Mobalytics",
+    "trust": "rumor",
+    "text": "How to Unlock the 1010 Murals Snapmatic Post in GTA 6 Mobalytics",
+    "extra": {}
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "🗺 Гайд: Как открыть пост Snapmatic с муралами 1010 в GTA 6\n\nИзи способ залутать новый контент для фотика. Чекайте локацию и фоткайте муралы, чтобы забрать имбу в коллекцию.",
+    "card_title": "КАК ОТКРЫТЬ МУРАЛЫ 1010",
+    "reason": "Гайд по разблокировке контента в игре, высокий интерес для игроков.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": true,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": true,
+   "since": "2026-11-27T23:38:21.828963+00:00"
   }
  ]
 }
