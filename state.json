@@ -5514,7 +5514,26 @@
   "8586b5b067182c63": "2026-11-27T14:42:01.438217+00:00",
   "65e641d53169e4e9": "2026-11-27T14:42:02.695159+00:00",
   "3eba03a3f0204c68": "2026-11-27T14:42:03.892404+00:00",
-  "cf7aaa0c23a84f4e": "2026-11-27T14:42:05.244988+00:00"
+  "cf7aaa0c23a84f4e": "2026-11-27T14:42:05.244988+00:00",
+  "b369f4c2ba5ae6b7": "2026-11-27T14:57:24.420053+00:00",
+  "baae50c2688aa6fa": "2026-11-27T14:57:25.913629+00:00",
+  "02e610a13e5a848a": "2026-11-27T14:57:27.220772+00:00",
+  "4e9246c59cabd8d0": "2026-11-27T14:57:28.294799+00:00",
+  "67e5caca64b9771e": "2026-11-27T14:57:29.544297+00:00",
+  "1b1606d614992302": "2026-11-27T14:57:30.925653+00:00",
+  "8858a7d2ad2271d3": "2026-11-27T14:57:32.182032+00:00",
+  "19931113b39acbf4": "2026-11-27T14:57:33.198188+00:00",
+  "a1f1591f6eb30bc3": "2026-11-27T14:57:34.329370+00:00",
+  "76f807b7cebd5225": "2026-11-27T15:12:53.301556+00:00",
+  "8fb0353eb57e4d97": "2026-11-27T15:12:53.301609+00:00",
+  "575f43a47e97bb97": "2026-11-27T15:12:54.814101+00:00",
+  "c938f0eca441c08f": "2026-11-27T15:12:56.029519+00:00",
+  "e6e091d23bc64615": "2026-11-27T15:12:57.305125+00:00",
+  "03f12843cfd975db": "2026-11-27T15:12:58.616921+00:00",
+  "6f83be3e8e6a0dc8": "2026-11-27T15:13:00.006652+00:00",
+  "272ad62087bf9514": "2026-11-27T15:13:00.896945+00:00",
+  "e1e12d3d91d7a3d1": "2026-11-27T15:13:01.880170+00:00",
+  "cb1c44a20f9b4d50": "2026-11-27T15:13:03.964951+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -9274,7 +9293,25 @@
   "56b2fbddf467c209": "2026-11-27T14:42:01.438217+00:00",
   "db7dca46d1d6f377": "2026-11-27T14:42:02.695159+00:00",
   "a4a829c362f6c976": "2026-11-27T14:42:03.892404+00:00",
-  "338ee6419025163f": "2026-11-27T14:42:05.244988+00:00"
+  "338ee6419025163f": "2026-11-27T14:42:05.244988+00:00",
+  "f752fd39f1185fa0": "2026-11-27T14:57:24.420053+00:00",
+  "6898079848a62b45": "2026-11-27T14:57:25.913629+00:00",
+  "7a896a2ae7e00bd5": "2026-11-27T14:57:27.220772+00:00",
+  "ebad56950f07f5c7": "2026-11-27T14:57:28.294799+00:00",
+  "4e4e310bfe82370c": "2026-11-27T14:57:29.544297+00:00",
+  "8a80a1baa127a0b6": "2026-11-27T14:57:30.925653+00:00",
+  "938aaab2df275578": "2026-11-27T14:57:32.182032+00:00",
+  "ded63b891cd8b9c0": "2026-11-27T14:57:33.198188+00:00",
+  "554f434ae3cea0a8": "2026-11-27T14:57:34.329370+00:00",
+  "070f8b1b5a2bd44c": "2026-11-27T15:12:54.814101+00:00",
+  "1f44898be07401f5": "2026-11-27T15:12:53.301609+00:00",
+  "8a1e4b678c1efe97": "2026-11-27T15:12:56.029519+00:00",
+  "8b93f56281682b02": "2026-11-27T15:12:57.305125+00:00",
+  "146d50e634a21bf7": "2026-11-27T15:12:58.616921+00:00",
+  "7711ff03dd50c7ac": "2026-11-27T15:13:00.006652+00:00",
+  "a79073eb782e7514": "2026-11-27T15:13:00.896945+00:00",
+  "395df17547048634": "2026-11-27T15:13:01.880170+00:00",
+  "5ef3721d4d31985a": "2026-11-27T15:13:03.964951+00:00"
  },
  "recent": [
   {
@@ -17476,6 +17513,158 @@
    "status": "skipped",
    "ts": "2026-11-27T14:42:05.245135+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GTA 6 Fighter Jet location explained: Where to get military planes",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-27T14:57:24.420090+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to unlock Hurricanes in GTA 6",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-27T14:57:26.409025+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6's pirate PC ports: new tools, old problem | Opinion",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T14:57:27.220915+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "If you're not using Auto Drive and Cinematic Camera in GTA 6, you're missing out on some of the best experiences in the game (and a cheeky, free 'fast travel' alternative, too)",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T14:57:28.294944+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI Sparks Major Streaming Surge for Carly Rae Jepsen and Other Artists on Spotify",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T14:57:29.544453+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "В 14 раз больше, чем у GTA 5: во сколько зданий на самом деле можно зайти в GTA 6",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T14:57:30.925823+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6: Leakers clash about speculated PS6 and XBOX Project Helix performance",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T14:57:32.182193+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Zuckerberg Lets Meta's Muse Smoke the Turkey While He Plays 'GTA 6'",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T14:57:33.198341+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Мэддисон изменил мнение о GTA 6 и оценил игру на 8 из 10",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T14:57:34.329524+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "11 Gifts To Buy For The GTA 6 Fan In Your Life",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-27T15:12:53.301585+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Where to find the Bravado Banshee's location in GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-27T15:12:53.301627+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "11 Gifts To Buy For The GTA 6 Fan In Your Life",
+   "source": "Kotaku",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-27T15:12:54.814210+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "On Top of Everything Else, GTA 6 Is a Solid Stealth Sandbox",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T15:12:56.029652+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Fishing in GTA 6: Tips and tricks for catching every fish",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T15:12:57.305270+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Вы можете прямо сейчас купить настоящий дом Джейсона из GTA 6 всего за 739 000 баксов",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T15:12:58.617054+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Продажи GTA 6 превысили 53 миллиона копий — аналитики",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T15:13:00.006784+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6: Should You Kill Or Spare Felipe?",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T15:13:00.897086+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Where to find the Progen Purple Drank Emerus location in GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T15:13:02.462789+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Major GTA 6 Glitch Is Locking Players Out Of Finishing The Story",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T15:13:03.965097+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -17537,7 +17726,9 @@
     "guide": false,
     "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-4-hydrogen"
    },
-   "queued_at": "2026-11-27T14:11:04.049226+00:00"
+   "queued_at": "2026-11-27T14:11:04.049226+00:00",
+   "moderation": "pending",
+   "draft_msg_id": 206
   },
   {
    "item": {
@@ -17759,7 +17950,8 @@
   "2026-11-27T08:01:39.075785+00:00",
   "2026-11-27T12:03:16.488889+00:00",
   "2026-11-27T13:03:29.525284+00:00",
-  "2026-11-27T14:04:19.748863+00:00"
+  "2026-11-27T14:04:19.748863+00:00",
+  "2026-11-27T15:05:09.715486+00:00"
  ],
  "slots_sent": {
   "2026-11-25:guide:2": "2026-11-25T19:30:49.885888+00:00",
