@@ -5549,7 +5549,24 @@
   "3b1203aaca32966a": "2026-11-27T15:44:00.759576+00:00",
   "9f76288b9163be6b": "2026-11-27T15:44:01.902261+00:00",
   "dc0276d8dd70b4f7": "2026-11-27T15:44:02.995091+00:00",
-  "c7d0ba42ff92af0a": "2026-11-27T15:44:03.858747+00:00"
+  "c7d0ba42ff92af0a": "2026-11-27T15:44:03.858747+00:00",
+  "39a2772688a31e9f": "2026-11-27T15:59:22.483744+00:00",
+  "0c996303a7181fcc": "2026-11-27T15:59:23.517018+00:00",
+  "2bd3bff4c59481b8": "2026-11-27T15:59:24.677985+00:00",
+  "6af27acc5bacb429": "2026-11-27T15:59:26.037056+00:00",
+  "75621b5b35634fcd": "2026-11-27T15:59:27.263062+00:00",
+  "3990f0cfbdcbdce3": "2026-11-27T15:59:28.522515+00:00",
+  "bf7c73f13a6e2164": "2026-11-27T15:59:29.945147+00:00",
+  "80f034c1837b7dc7": "2026-11-27T15:59:30.649622+00:00",
+  "6281ea9f2e93da47": "2026-11-27T16:14:49.524054+00:00",
+  "2e0899c97fbe18e1": "2026-11-27T16:14:54.664738+00:00",
+  "e0f853e91372a321": "2026-11-27T16:15:25.310962+00:00",
+  "5c47973af65def07": "2026-11-27T16:15:56.413171+00:00",
+  "bcefbe9f6ee29446": "2026-11-27T16:16:22.857517+00:00",
+  "b6864fe0f5da2fa6": "2026-11-27T16:16:48.591382+00:00",
+  "84c9dedad68b8946": "2026-11-27T16:17:15.777669+00:00",
+  "ca1a9773a93080ca": "2026-11-27T16:17:17.207875+00:00",
+  "3ec3794c0c81e420": "2026-11-27T16:17:18.628884+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -9343,7 +9360,24 @@
   "ef2cb1caaa0b28ff": "2026-11-27T15:44:00.759576+00:00",
   "4eca4ba39cf6402a": "2026-11-27T15:44:01.902261+00:00",
   "f49393a07e55e186": "2026-11-27T15:44:02.995091+00:00",
-  "fcca01ebe70d1b87": "2026-11-27T15:44:03.858747+00:00"
+  "fcca01ebe70d1b87": "2026-11-27T15:44:03.858747+00:00",
+  "8bc3f3d0abc37e5d": "2026-11-27T15:59:22.483744+00:00",
+  "1d62815639762453": "2026-11-27T15:59:23.517018+00:00",
+  "3c4b86928650e7ef": "2026-11-27T15:59:24.677985+00:00",
+  "92e267d19de65b43": "2026-11-27T15:59:26.037056+00:00",
+  "fb043daef87c538a": "2026-11-27T15:59:27.263062+00:00",
+  "2b56c6f8a539e0e6": "2026-11-27T15:59:28.522515+00:00",
+  "c310c5d12704d6e9": "2026-11-27T15:59:29.945147+00:00",
+  "85d8a5fb1d3f9f91": "2026-11-27T15:59:30.649622+00:00",
+  "f9634616a749fa65": "2026-11-27T16:14:49.524054+00:00",
+  "74938ef70485831b": "2026-11-27T16:14:54.664738+00:00",
+  "61f9808a0ada8774": "2026-11-27T16:15:25.310962+00:00",
+  "14b443924e14093f": "2026-11-27T16:15:56.413171+00:00",
+  "3b13ff52ed96b009": "2026-11-27T16:16:22.857517+00:00",
+  "f3d118c239680517": "2026-11-27T16:16:48.591382+00:00",
+  "a4087dd847e5ba66": "2026-11-27T16:17:15.777669+00:00",
+  "d10807ee8e55bfbf": "2026-11-27T16:17:17.207875+00:00",
+  "ef53196d28a33d64": "2026-11-27T16:17:18.628884+00:00"
  },
  "recent": [
   {
@@ -17817,6 +17851,150 @@
    "status": "skipped",
    "ts": "2026-11-27T15:44:03.858880+00:00",
    "card_title": ""
+  },
+  {
+   "title": "Культовая певица Карли Рэй Джепсен вернулась в чарты благодаря GTA 6",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T15:59:22.483879+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI “overclocked” to 40 fps on PS5",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T15:59:23.517134+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI Now (Barely) Running on Apple Silicon Macs",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T15:59:24.678099+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to Lower Your Criminal Profile in GTA 6 and Get the Best Ending",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T15:59:26.037187+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 разряжает DualSense за 4,5 часа, а DualSense Edge еще быстрее",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T15:59:27.263197+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 может получить официальный режим 60 FPS на PS5 Pro в 2027 году",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T15:59:28.522640+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Studio Scrapped Crafting, Home Decoration Systems Because They Didn’t Fit the Game",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T15:59:29.945284+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Обзор GTA VI: первые впечатления от криминальной эпопеи после 13 лет ожидания",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T15:59:30.649748+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to Find and Complete Casa Guardia Illegal Operation in GTA 6—All Key Valuables",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "dup",
+   "ts": "2026-11-27T16:14:49.524105+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Losing Six Stars in GTA 6 Is Meant to Be Impossible, but Players Are Trying Everything From Interdimensional Portals to Hidden Bunkers",
+   "source": "IGN",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-27T16:14:52.978187+00:00",
+   "card_title": "СБИТЬ ШЕСТЬ ЗВЁЗД"
+  },
+  {
+   "title": "Ten Pin Trophy & Achievement Walkthrough in GTA 6—Bowl ’em Over With A Melee Drive-By Solution",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-27T16:15:07.142100+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 dev defends Rockstar after vote against union deal, says it's \"best place I've ever worked\"",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-27T16:15:25.311065+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Forget Vice City – I wish GTA 6 had let me spend the entire game as a Key Lento himbo",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-27T16:15:56.413294+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How To Find The Best GTA 6 Outfits—GTA 6 Fits Site, Explained",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-27T16:16:32.301436+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Carly Rae Jepsen Returns to the Charts Thanks to GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T16:16:48.591537+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Here Is How To Build The Ultimate Drag Built In GTA VI",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T16:17:15.777793+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI Boss Says ‘Good Is the New Bad’ After $3.79 Billion Launch",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T16:17:17.208014+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Мультиплеер GTA 6 заработал на ПК благодаря неофициальному порту фанатов",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T16:17:18.629044+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -17850,6 +18028,35 @@
    "queued_at": "2026-11-27T12:03:01.295414+00:00",
    "moderation": "pending",
    "draft_msg_id": 201
+  },
+  {
+   "item": {
+    "title": "Losing Six Stars in GTA 6 Is Meant to Be Impossible, but Players Are Trying Everything From Interdimensional Portals to Hidden Bunkers",
+    "link": "https://www.ign.com/articles/losing-six-stars-in-gta-6",
+    "summary": "Losing six stars in GTA 6 is meant to be impossible, but players are trying everything from interdimensional portals to hidden bunkers to escape the cops.",
+    "published": "2026-11-27T14:01:09+00:00",
+    "source": "IGN",
+    "site_name": "IGN",
+    "trust": "high",
+    "text": "GTA 6's new police system is one of the most interesting things about the game. Instead of omnipresent cops, the police have have various levels of awareness, and you can use guile and cunning to outsmart them and escape.\nThere are still wanted stars, which represent how much of the police force is dedicated to hunting you down, but a well-considered escape plan can get you out of most kinds of trouble. Just escape the search zone, lose line of sight, and change how you look to get away.\nThat is unless you cause too much carnage. If you go off the deep end and cause real mayhem, you’ll eventually reach six stars. Six stars in GTA 6 sees almost the entire map become a search zone, and the cops will never stop tracking you down, according to Rockstar. If you need a pointer, here's how to get a six-star wanted level in GTA 6.\nIf you hide indoors, the army comes along with a tank. If you jump in a plane, jets are scrambled to shoot you down. If you try to escape by car, attack helicopters perform a strafing run to blow you off the road. Eventually, no matter how hard you try, you will succumb to the pressure. Six stars, it is thought, amounts to a death sentence.\nBut is that guaranteed? Since GTA 6 came out, players have been looking for creative ways of breaking the rule around the highest wanted level. Using clever tricks, some are exploring ways to escape a six-star police hunt and return to regular gameplay — which should technically only be possible two ways: you die or get busted.\nHow to lose six-star wanted level in GTA 6\nOne player used a series of secret bunkers that you can open up to get access to a GTA 6 tank. Here’s the clip:\n⭐️ LE PREMIER JOUEUR AU MONDE A RÉUSSIR À SEMER LES 6 ETOILES SUR GTA 6 ! Il est allé dans un sous sol rempli de bunkers pour réussir à semer la police. https://t.co/8Q0nd27eOn— La Twitchance (@LaTwitchance) November 25, 2026\nAnother player in the comments said they managed to replicate this by swimming. “Bro, I actually did it yesterday. I managed to escape the 6-star wanted level,” they said. “Just keep diving underwater, and when your oxygen is almost depleted, swim back to the surface. Keep repeating this until you find a jet ski. Then ride it beyond the 6-star search area, and boom! You're free.”\nSome players think the underwater cave system in Emerald Springs could be another prime candidate, since cops can’t send diving teams after you. If you head to Emerald Spring and look for signs for the Selkie Hole, there’s divin",
+    "extra": {
+     "image": "https://assets-prd.ignimgs.com/2026/11/27/gtavi-37-1795788130773.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "🗺 Гайд: Как сбить 6‑звёздный розыск\n\n1️⃣ Скинь в подводный «Селки Хоул» в Emerald Springs, держи дыхание до предела, всплывай, ищи джет‑ски.\n2️⃣ Плыви за пределы зоны 6‑звёзд, пока копы не успеют догнать.\n3️⃣ Зайди в тайный бункер у Бэй‑Эйр, схвати имба‑танк и врежь в армию — они отступят.",
+    "card_title": "СБИТЬ ШЕСТЬ ЗВЁЗД",
+    "reason": "Игроки нашли способ сбросить 6 звезд розыска, хотя разработчики заявляли это невозможным.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
+   },
+   "queued_at": "2026-11-27T16:14:52.978174+00:00"
   },
   {
    "item": {
@@ -17971,7 +18178,9 @@
     "guide": false,
     "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-3.5-flash"
    },
-   "queued_at": "2026-11-27T13:24:02.415189+00:00"
+   "queued_at": "2026-11-27T13:24:02.415189+00:00",
+   "moderation": "pending",
+   "draft_msg_id": 207
   },
   {
    "item": {
@@ -18103,7 +18312,8 @@
   "2026-11-27T12:03:16.488889+00:00",
   "2026-11-27T13:03:29.525284+00:00",
   "2026-11-27T14:04:19.748863+00:00",
-  "2026-11-27T15:05:09.715486+00:00"
+  "2026-11-27T15:05:09.715486+00:00",
+  "2026-11-27T16:05:26.773812+00:00"
  ],
  "slots_sent": {
   "2026-11-25:guide:2": "2026-11-25T19:30:49.885888+00:00",
@@ -23934,36 +24144,5 @@
   "digest-20261125": "2026-11-25T19:30:50.081169+00:00",
   "digest-20261126": "2026-11-26T19:30:31.000089+00:00"
  },
- "rewrite_wait": [
-  {
-   "item": {
-    "title": "Losing Six Stars in GTA 6 Is Meant to Be Impossible, but Players Are Trying Everything From Interdimensional Portals to Hidden Bunkers",
-    "link": "https://www.ign.com/articles/losing-six-stars-in-gta-6",
-    "summary": "Losing six stars in GTA 6 is meant to be impossible, but players are trying everything from interdimensional portals to hidden bunkers to escape the cops.",
-    "published": "2026-11-27T14:01:09+00:00",
-    "source": "IGN",
-    "site_name": "IGN",
-    "trust": "high",
-    "text": "GTA 6's new police system is one of the most interesting things about the game. Instead of omnipresent cops, the police have have various levels of awareness, and you can use guile and cunning to outsmart them and escape.\nThere are still wanted stars, which represent how much of the police force is dedicated to hunting you down, but a well-considered escape plan can get you out of most kinds of trouble. Just escape the search zone, lose line of sight, and change how you look to get away.\nThat is unless you cause too much carnage. If you go off the deep end and cause real mayhem, you’ll eventually reach six stars. Six stars in GTA 6 sees almost the entire map become a search zone, and the cops will never stop tracking you down, according to Rockstar. If you need a pointer, here's how to get a six-star wanted level in GTA 6.\nIf you hide indoors, the army comes along with a tank. If you jump in a plane, jets are scrambled to shoot you down. If you try to escape by car, attack helicopters perform a strafing run to blow you off the road. Eventually, no matter how hard you try, you will succumb to the pressure. Six stars, it is thought, amounts to a death sentence.\nBut is that guaranteed? Since GTA 6 came out, players have been looking for creative ways of breaking the rule around the highest wanted level. Using clever tricks, some are exploring ways to escape a six-star police hunt and return to regular gameplay — which should technically only be possible two ways: you die or get busted.\nHow to lose six-star wanted level in GTA 6\nOne player used a series of secret bunkers that you can open up to get access to a GTA 6 tank. Here’s the clip:\n⭐️ LE PREMIER JOUEUR AU MONDE A RÉUSSIR À SEMER LES 6 ETOILES SUR GTA 6 ! Il est allé dans un sous sol rempli de bunkers pour réussir à semer la police. https://t.co/8Q0nd27eOn— La Twitchance (@LaTwitchance) November 25, 2026\nAnother player in the comments said they managed to replicate this by swimming. “Bro, I actually did it yesterday. I managed to escape the 6-star wanted level,” they said. “Just keep diving underwater, and when your oxygen is almost depleted, swim back to the surface. Keep repeating this until you find a jet ski. Then ride it beyond the 6-star search area, and boom! You're free.”\nSome players think the underwater cave system in Emerald Springs could be another prime candidate, since cops can’t send diving teams after you. If you head to Emerald Spring and look for signs for the Selkie Hole, there’s divin",
-    "extra": {
-     "image": "https://assets-prd.ignimgs.com/2026/11/27/gtavi-37-1795788130773.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "КАК сбросить 6 звезд\n\nРазрабы говорили, что отбиться от шести звезд анрил, но геймеры уже находят лазейки через секретные бункеры и подводные заплывы. Лютый вайб, чел, система копов трещит по швам.",
-    "card_title": "КАК СБРОСИТЬ 6 ЗВЕЗД",
-    "reason": "Игроки нашли способ сбросить 6 звезд розыска, хотя разработчики заявляли это невозможным.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-27T15:43:56.206175+00:00"
-  }
- ]
+ "rewrite_wait": []
 }
