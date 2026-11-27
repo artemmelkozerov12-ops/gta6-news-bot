@@ -5241,7 +5241,27 @@
   "dcea868fc74c05e4": "2026-11-27T06:32:06.821646+00:00",
   "0f2dcaf063f2259b": "2026-11-27T06:32:25.907859+00:00",
   "90410697973d3cb5": "2026-11-27T06:32:38.061215+00:00",
-  "d22622b74d9c9c3e": "2026-11-27T06:32:39.186998+00:00"
+  "d22622b74d9c9c3e": "2026-11-27T06:32:39.186998+00:00",
+  "384b03b0a72b0433": "2026-11-27T06:48:18.931937+00:00",
+  "7b2651a269017820": "2026-11-27T06:48:38.468451+00:00",
+  "d16297c794595247": "2026-11-27T06:48:51.615689+00:00",
+  "0b8c28b7fe147736": "2026-11-27T07:05:00.160157+00:00",
+  "b2a121a40d1c5975": "2026-11-27T07:05:01.220645+00:00",
+  "30b1a0b10ae9898b": "2026-11-27T07:05:02.000356+00:00",
+  "5021cb0e73e212ce": "2026-11-27T07:05:02.839520+00:00",
+  "129698d6c9a9cc89": "2026-11-27T07:05:54.048211+00:00",
+  "43832a0de1e2d45d": "2026-11-27T07:05:54.893611+00:00",
+  "f61051a16b3e6947": "2026-11-27T07:05:55.741956+00:00",
+  "087552ac50b9b25e": "2026-11-27T07:05:56.567631+00:00",
+  "5207b11ccd1531a3": "2026-11-27T07:06:47.219558+00:00",
+  "ff4eee90b4761ffc": "2026-11-27T07:06:48.058046+00:00",
+  "4eb8cb9ff1c751ae": "2026-11-27T07:06:48.902427+00:00",
+  "6db2c443b8622582": "2026-11-27T07:06:49.820374+00:00",
+  "a1c4ac5362b4558f": "2026-11-27T07:07:40.763234+00:00",
+  "6791ef2fd9f812e9": "2026-11-27T07:07:41.569738+00:00",
+  "47e2f9e69760969c": "2026-11-27T07:07:42.412182+00:00",
+  "8032dac6c6ac619f": "2026-11-27T07:07:43.193038+00:00",
+  "e09dadf43f14d3c6": "2026-11-27T07:09:10.985506+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -8816,7 +8836,10 @@
   "ea642038b0712b4d": "2026-11-27T06:32:06.821646+00:00",
   "8d386e359abb99bc": "2026-11-27T06:32:25.907859+00:00",
   "1357e0757b71c4cc": "2026-11-27T06:32:38.061215+00:00",
-  "a746e6567e7186dc": "2026-11-27T06:32:39.186998+00:00"
+  "a746e6567e7186dc": "2026-11-27T06:32:39.186998+00:00",
+  "55c18a4e608ff5b8": "2026-11-27T06:48:18.931937+00:00",
+  "e8695335483cbc6d": "2026-11-27T06:48:38.468451+00:00",
+  "23955f36bda4c057": "2026-11-27T06:48:51.615689+00:00"
  },
  "recent": [
   {
@@ -16354,6 +16377,22 @@
    "status": "skipped",
    "ts": "2026-11-27T06:32:39.187190+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GTA VI перегревает Xbox Series X|S? Мастерская сообщила о резком росте поломок",
+   "source": "iXBT.games",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-27T06:48:36.493069+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Austin based band featured in GTA VI",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T06:48:51.615827+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -16560,7 +16599,9 @@
     "guide": true,
     "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-4-hydrogen"
    },
-   "queued_at": "2026-11-26T20:29:34.606251+00:00"
+   "queued_at": "2026-11-26T20:29:34.606251+00:00",
+   "moderation": "pending",
+   "draft_msg_id": 194
   },
   {
    "item": {
@@ -16870,49 +16911,21 @@
   "2026-11-26T18:12:49.599247+00:00",
   "2026-11-26T18:29:20.883226+00:00",
   "2026-11-26T20:31:02.370496+00:00",
-  "2026-11-27T06:00:52.250220+00:00"
+  "2026-11-27T06:00:52.250220+00:00",
+  "2026-11-27T07:01:30.279870+00:00"
  ],
  "slots_sent": {
   "2026-11-25:guide:1": "2026-11-25T11:02:35.662625+00:00",
   "2026-11-25:guide:2": "2026-11-25T19:30:49.885888+00:00",
   "2026-11-26:guide:1": "2026-11-26T07:01:31.326765+00:00",
   "2026-11-26:guide:2": "2026-11-26T08:01:50.799942+00:00",
-  "2026-11-27:guide:1": "2026-11-27T06:00:52.250312+00:00"
+  "2026-11-27:guide:1": "2026-11-27T06:00:52.250312+00:00",
+  "2026-11-27:guide:2": "2026-11-27T07:01:30.279964+00:00"
  },
  "urgent": [
   "2026-11-26T18:29:20.883321+00:00"
  ],
  "clips": [
-  {
-   "clip": {
-    "source": "twitch",
-    "url": "https://www.twitch.tv/tminnzy/clip/HardVictoriousPeafowlTwitchRPG-j8Q8j8GsgrudaSJH",
-    "title": "I STOLE THEIR LAMBO AND TOLD THEM TO BUY ANOTHER ONE 🤣🏎️",
-    "author": "Tminnzy",
-    "views": 95018,
-    "duration": 29.8,
-    "created": "2026-11-25T11:19:41+00:00",
-    "lang": "en",
-    "description": "",
-    "vod_id": "2940095593",
-    "vod_offset": 8036.0
-   },
-   "caption": "Угнал тачку у местных, а они еще и догоняют со словами «купи новую». NPC в GTA 6 реально душные 💀",
-   "interest": 8,
-   "spoiler": false,
-   "nsfw": false,
-   "watched": true,
-   "model": "gemini:gemini-3.5-flash-lite",
-   "media": {
-    "width": null,
-    "height": 720,
-    "duration": 29
-   },
-   "queued_at": "2026-11-26T07:04:19.731595+00:00",
-   "file_id": "BAACAgIAAxkDAAOvawfZ9nc_0Z2t-OIUjmEG1kgQX-8AAuS0AAJzyzlIf5fIBO6UnvI9BA",
-   "moderation": "pending",
-   "draft_msg_id": 175
-  },
   {
    "clip": {
     "source": "twitch",
@@ -17182,6 +17195,36 @@
    "file_id": "BAACAgIAAxkDAAPAawiqd9Wz7LH6N_wXnSklwMcIavAAAui3AAJzy0FIjN6YaNF5cb89BA",
    "moderation": "pending",
    "draft_msg_id": 192
+  },
+  {
+   "clip": {
+    "source": "twitch",
+    "url": "https://www.twitch.tv/joe_bartolozzi/clip/CloudyBeautifulSageAliens-lPvnP92e3db1_lR1",
+    "title": "hard r",
+    "author": "Joe_Bartolozzi",
+    "views": 2100,
+    "duration": 30.0,
+    "created": "2026-11-26T19:58:44+00:00",
+    "lang": "en",
+    "description": "",
+    "vod_id": "2941461420",
+    "vod_offset": 10127.0
+   },
+   "caption": "СПОЙЛЕР. Чел просто «попросил» ключи от тачки в стиле GTA, а в итоге устроил эпичный побег от охраны. Вот это вайб, чисто пушка 💀",
+   "interest": 8,
+   "spoiler": true,
+   "nsfw": false,
+   "watched": true,
+   "model": "gemini:gemini-3.1-flash-lite",
+   "media": {
+    "width": null,
+    "height": 720,
+    "duration": 30
+   },
+   "queued_at": "2026-11-27T07:09:16.033828+00:00",
+   "file_id": "BAACAgIAAxkDAAPDawksndjKlFPM0cVK7nssseoSIJwAAn-vAAJzy0lIeP2oRATL5Aw9BA",
+   "moderation": "pending",
+   "draft_msg_id": 195
   }
  ],
  "clip_drafts": [
@@ -17203,7 +17246,8 @@
   "2026-11-26T13:38:03.020667+00:00",
   "2026-11-26T19:47:30.183798+00:00",
   "2026-11-26T20:51:28.947882+00:00",
-  "2026-11-26T21:54:00.092981+00:00"
+  "2026-11-26T21:54:00.092981+00:00",
+  "2026-11-27T07:09:18.469703+00:00"
  ],
  "clip_history": [
   {
@@ -22659,6 +22703,154 @@
    "ts": "2026-11-26T21:54:00.093000+00:00",
    "frames": [],
    "caption": "Чел решил ночью заглянуть в лес и встретил люто агрессивного кабана. Жиза, в Леониде лучше не гулять после закатов 💀"
+  },
+  {
+   "author": "youtube:бенни",
+   "vod": "",
+   "offset": -1,
+   "title": "Рокстар вырезала погоду из ГТА 6",
+   "drafted": false,
+   "ts": "2026-11-27T07:05:00.160202+00:00"
+  },
+  {
+   "author": "youtube:rj 04 vikash ",
+   "vod": "",
+   "offset": -1,
+   "title": "🛑😳GrandTheft Auto VI (GTA 6) is one of the most remarkable open-world games ever created #gtaworld",
+   "drafted": false,
+   "ts": "2026-11-27T07:05:01.220695+00:00"
+  },
+  {
+   "author": "youtube:o victor magalhães",
+   "vod": "",
+   "offset": -1,
+   "title": "O GTA 6 \"EDUCATIVO\"",
+   "drafted": false,
+   "ts": "2026-11-27T07:05:02.000391+00:00"
+  },
+  {
+   "author": "youtube:naggi",
+   "vod": "",
+   "offset": -1,
+   "title": "É POR ISSO QUE O GTA 6 TA INJOGÁVEL!",
+   "drafted": false,
+   "ts": "2026-11-27T07:05:02.839558+00:00"
+  },
+  {
+   "author": "youtube:lilychirp",
+   "vod": "",
+   "offset": -1,
+   "title": "Flower In A Hurricane – GTA 6 | lyrics | aesthetic | WhatsApp Status | English songs | slowed",
+   "drafted": false,
+   "ts": "2026-11-27T07:05:54.048259+00:00"
+  },
+  {
+   "author": "youtube:bros boy",
+   "vod": "",
+   "offset": -1,
+   "title": "2013 Vs New Jason Vs Franklin! 🔥 GTA 6  #GTA6 #JasonDuval #FranklinClinton #OldVsNew #Gaming #Shorts",
+   "drafted": false,
+   "ts": "2026-11-27T07:05:54.893660+00:00"
+  },
+  {
+   "author": "youtube:mu mu life diary",
+   "vod": "",
+   "offset": -1,
+   "title": "找不到爸爸妈妈，快帮帮她吧 #gta  #gta6  #shorts #kpop",
+   "drafted": false,
+   "ts": "2026-11-27T07:05:55.741993+00:00"
+  },
+  {
+   "author": "youtube:typical gamer",
+   "vod": "",
+   "offset": -1,
+   "title": "🔴 LIVE! - LAST GTA 6 STREAM before PIRATE TOKEN 10 DAY MARATHON!",
+   "drafted": false,
+   "ts": "2026-11-27T07:05:56.567680+00:00"
+  },
+  {
+   "author": "youtube:gta6‑狂野世界",
+   "vod": "",
+   "offset": -1,
+   "title": "大家最后选择了一条更加安全的道路#gta  #gta6  #shorts",
+   "drafted": false,
+   "ts": "2026-11-27T07:06:47.219594+00:00"
+  },
+  {
+   "author": "youtube:yuukrp",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 'da 6 YILDIZI ATLATTIM!",
+   "drafted": false,
+   "ts": "2026-11-27T07:06:48.058092+00:00"
+  },
+  {
+   "author": "youtube:perkovic",
+   "vod": "",
+   "offset": -1,
+   "title": "RDR2 vs GTA 6 – Which Game Has Better Mud Physics?",
+   "drafted": false,
+   "ts": "2026-11-27T07:06:48.902476+00:00"
+  },
+  {
+   "author": "youtube:all-around player gaming",
+   "vod": "",
+   "offset": -1,
+   "title": "5 Times That LUCIA Doing JASON'S Voice in GTA 6 ... !",
+   "drafted": false,
+   "ts": "2026-11-27T07:06:49.820421+00:00"
+  },
+  {
+   "author": "youtube:sdpgamerzz",
+   "vod": "",
+   "offset": -1,
+   "title": "Good ending of gta 6 ❤️ #gta #gta5 #gta6X #gta6leaks #gta6shorts #gta6clips #viral #trending #games",
+   "drafted": false,
+   "ts": "2026-11-27T07:07:40.763286+00:00"
+  },
+  {
+   "author": "youtube:flayhq",
+   "vod": "",
+   "offset": -1,
+   "title": "Where to Find the FASTEST Sport Bikes in GTA 6 for FREE!",
+   "drafted": false,
+   "ts": "2026-11-27T07:07:41.569788+00:00"
+  },
+  {
+   "author": "youtube:pedro gameplays",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 NO PC: SERA QUE HOJE VAI?? CLAUDE SENDO OPRIMIDO",
+   "drafted": false,
+   "ts": "2026-11-27T07:07:42.412228+00:00"
+  },
+  {
+   "author": "twitch:banksatkin",
+   "vod": "2941383016",
+   "offset": 8836.0,
+   "title": "Crazy GTA6 Car Glitch",
+   "drafted": false,
+   "ts": "2026-11-27T07:07:43.193104+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:joe_bartolozzi",
+   "vod": "2941461420",
+   "offset": 10127.0,
+   "title": "hard r",
+   "drafted": false,
+   "ts": "2026-11-27T07:09:10.985561+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:joe_bartolozzi",
+   "vod": "2941461420",
+   "offset": 10127.0,
+   "title": "hard r",
+   "drafted": true,
+   "ts": "2026-11-27T07:09:18.469720+00:00",
+   "frames": [],
+   "caption": "СПОЙЛЕР. Чел просто «попросил» ключи от тачки в стиле GTA, а в итоге устроил эпичный побег от охраны. Вот это вайб, чист"
   }
  ],
  "published": [
@@ -23178,5 +23370,36 @@
   "digest-20261125": "2026-11-25T19:30:50.081169+00:00",
   "digest-20261126": "2026-11-26T19:30:31.000089+00:00"
  },
- "rewrite_wait": []
+ "rewrite_wait": [
+  {
+   "item": {
+    "title": "40 часов в GTA VI между гонками. Макс Ферстаппен рассказал, чем занимался в Лас-Вегасе",
+    "link": "https://ixbt.games/news/2026/11/27/40-casov-v-gta-vi-mezdu-gonkami-maks-ferstappen-rasskazal-cem-zanimalsia-v-las-vegase.html",
+    "summary": "Макс Ферстаппен провёл 40 часов за GTA VI между тренировками и этапами Формулы-1, а затем выиграл Гран-при Лас-Вегаса.",
+    "published": "2026-11-27T06:31:00+00:00",
+    "source": "iXBT.games",
+    "site_name": "iXBT.games",
+    "trust": "medium",
+    "text": "Макс Ферстаппен провёл 40 часов за GTA VI между тренировками и этапами Формулы-1, а затем выиграл Гран-при Лас-Вегаса.\nЧетырёхкратный чемпион мира Формулы-1 оказался среди фанатов новой игры Rockstar Games. О своём увлечении гонщик рассказал во время интернет-трансляции, объяснив, когда именно находил время для игры. Вопреки появившимся предположениям, Ферстаппен не провёл весь обратный перелёт за GTA VI. Вместо этого он запускал игру в свободные часы перед очередными мероприятиями Гран-при.\nЯ много играл по вечерам и утром в Вегасе. Всё равно я не мог тогда выходить на улицу и гулять.\nГонщик подтвердил, что практически каждую свободную минуту между заездами в Лас-Вегасе посвящал GTA VI. Разумеется, у него были тренировки и другие обязательства на трассе, однако при первой возможности он возвращался к консоли. В общей сложности Ферстаппен наиграл 40 часов, после чего выиграл Гран-при Лас-Вегаса.\nF1 star Max Verstappen says he played over 40 hours of GTA 6 and still won the Las Vegas Grand Prix \"I can’t go out anyways and walk around.”\nУвлечение новой игрой Rockstar повлияло и на планы спортсмена относительно других проектов. Изначально голландец собирался в ближайшее время проводить трансляции по Minecraft, однако GTA VI перетянула всё его внимание. Ферстаппен не скрывает, что ему сложно одновременно уделять время нескольким играм.\nНе пропускайте наши новостиДобавьте сайт в предпочитаемые источники, чтобы видеть нас чащеДобавить в Google",
+    "extra": {
+     "image": "https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1746865/de4f867a-1751-402d-9330-444f0b87206a.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "🏎️ ФЕРСТАППЕН: 40 ЧАСОВ В GTA 6\n\nЧетырёхкратный чемпион Ф1 признался, что в Вегасе залип в нашу игру на 40 часов между заездами. Говорит, гулять всё равно не выходил, так что лучше катать в Лост-Сантосе. Итог: выиграл Гран-при. Лютый вайб, когда гонщик выбирает виртуальный драйв вместо прогулок по казино. Завезли!\n\n❤️ — Ферстаппен, топ-игрок\n👎 — 40 часов? Это боль",
+    "card_title": "ФЕРСТАППЕН И GTA 6",
+    "reason": "Цитата знаменитости о геймплее в свежей игре — высокий хайп и интересное для фанатов.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "groq:qwen/qwen3.8-27b"
+   },
+   "corr": false,
+   "since": "2026-11-27T06:48:43.705443+00:00"
+  }
+ ]
 }
