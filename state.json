@@ -5472,7 +5472,32 @@
   "d8ae7e1f61905644": "2026-11-27T13:39:32.632960+00:00",
   "4ecfac752def31d5": "2026-11-27T13:39:33.991321+00:00",
   "cfa7e71df274a862": "2026-11-27T13:39:35.286067+00:00",
-  "1cb3c70171a3296f": "2026-11-27T13:39:36.512275+00:00"
+  "1cb3c70171a3296f": "2026-11-27T13:39:36.512275+00:00",
+  "4847452ea89c8bff": "2026-11-27T13:49:43.672002+00:00",
+  "e67d85eabb0e71ef": "2026-11-27T13:49:44.702566+00:00",
+  "b672ab498467508e": "2026-11-27T13:49:45.564369+00:00",
+  "cc694339cb970247": "2026-11-27T13:49:46.512815+00:00",
+  "2ad80df96f379453": "2026-11-27T13:50:37.513816+00:00",
+  "ec65988d792d9069": "2026-11-27T13:50:38.456676+00:00",
+  "131832b1c870582e": "2026-11-27T13:50:39.589123+00:00",
+  "6fae40eb66e1b90a": "2026-11-27T13:54:47.954154+00:00",
+  "f6e334da44f78f85": "2026-11-27T13:54:49.651660+00:00",
+  "9de0ef20b2654af2": "2026-11-27T13:54:53.306152+00:00",
+  "66a3149b060ab077": "2026-11-27T13:54:55.306803+00:00",
+  "2c8bb6f1007b10a4": "2026-11-27T13:54:57.576798+00:00",
+  "a369be566bf91df9": "2026-11-27T13:54:58.570606+00:00",
+  "6f3c598350cfe7ed": "2026-11-27T13:54:59.890793+00:00",
+  "ea49fc0e9801621d": "2026-11-27T13:55:02.198257+00:00",
+  "941b0f74a77a5c96": "2026-11-27T13:55:03.470217+00:00",
+  "d4130f77b61a6a5f": "2026-11-27T14:10:21.103146+00:00",
+  "36a2532c7b5041ae": "2026-11-27T14:10:23.063126+00:00",
+  "082c1d5c2f57e202": "2026-11-27T14:10:25.113234+00:00",
+  "3431a1dd42ffc480": "2026-11-27T14:11:05.617389+00:00",
+  "3927c31a9a77913c": "2026-11-27T14:11:06.893695+00:00",
+  "da7796429c4519ed": "2026-11-27T14:11:07.953012+00:00",
+  "d7b9aabbf7968769": "2026-11-27T14:11:08.722939+00:00",
+  "1f2912fa174ae418": "2026-11-27T14:11:09.790417+00:00",
+  "1043a9d4cacc9e21": "2026-11-27T14:11:11.236504+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -9199,7 +9224,23 @@
   "3def24c66d908462": "2026-11-27T13:39:32.632960+00:00",
   "3fd32888d6458cab": "2026-11-27T13:39:33.991321+00:00",
   "1e57445721002e06": "2026-11-27T13:39:35.286067+00:00",
-  "dc635876f7ad367c": "2026-11-27T13:39:36.512275+00:00"
+  "dc635876f7ad367c": "2026-11-27T13:39:36.512275+00:00",
+  "034734763a9574cb": "2026-11-27T13:54:53.306152+00:00",
+  "a5ff9786fcbe81da": "2026-11-27T13:54:49.651660+00:00",
+  "440e97167a965f9d": "2026-11-27T13:54:55.306803+00:00",
+  "5d00f2b882a6c20f": "2026-11-27T13:54:57.576798+00:00",
+  "3a9b951abe576d1c": "2026-11-27T13:54:58.570606+00:00",
+  "23b236f4f7be9417": "2026-11-27T13:54:59.890793+00:00",
+  "ccbaf1227a780703": "2026-11-27T13:55:02.198257+00:00",
+  "457fda4fe4bcc685": "2026-11-27T13:55:03.470217+00:00",
+  "d18b2901e7856e97": "2026-11-27T14:11:05.617389+00:00",
+  "c56f5299822fedf6": "2026-11-27T14:10:23.063126+00:00",
+  "6f1f7515df1440a0": "2026-11-27T14:10:25.113234+00:00",
+  "1308d68f27f27b48": "2026-11-27T14:11:06.893695+00:00",
+  "a5756e7f832d2fec": "2026-11-27T14:11:07.953012+00:00",
+  "bc4b1a51aeb63ccb": "2026-11-27T14:11:08.722939+00:00",
+  "9fec34b7ca2e1b64": "2026-11-27T14:11:09.790417+00:00",
+  "5480fa03ab963481": "2026-11-27T14:11:11.236504+00:00"
  },
  "recent": [
   {
@@ -17121,6 +17162,150 @@
    "status": "skipped",
    "ts": "2026-11-27T13:39:36.512431+00:00",
    "card_title": ""
+  },
+  {
+   "title": "'Life Has Been a Whirlwind': GTA 6's Lucia Actress Says Thank You to Fans",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-27T13:54:47.954180+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 President’s Bunker questline walkthrough: All Locations, Codes, Puzzles and Rewards",
+   "source": "VGC",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-27T13:54:50.337650+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "'Life Has Been a Whirlwind': GTA 6's Lucia Actress Says Thank You to Fans",
+   "source": "Push Square",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-27T13:54:53.927358+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Sneakthief Trophy & Achievement Walkthrough in GTA 6—How to Rob Stores Without Being Detected",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-27T13:54:56.420092+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "The best vehicles for every situation in GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T13:54:57.576924+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Unofficial port of GTA VI delivered 12 FPS on PC with Ryzen 5 4500 and RX 6600",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T13:54:58.570736+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Where to find the Buckingham Jubilee in GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T13:54:59.890905+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Scooter Bros: Have Cars Delivered, Repaired and Brought Back",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T13:55:02.198383+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Xbox Series X and S consoles are failing after GTA 6 sessions too, after a wave of PS5 shutdowns",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T13:55:03.470353+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Poll: How Many Hours Have You Put Into GTA 6 So Far?",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-27T14:10:21.103172+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Hell Mission Guide: How to get a permanent health boost",
+   "source": "VGC",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-27T14:10:23.608793+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "I got eaten by a gator in GTA 6 because I exploded too many motorbikes to make a clean getaway",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-27T14:11:04.049237+00:00",
+   "card_title": "ВЗОРВАЛ БАЙКИ — СЪЕЛ АЛЛИГАТОР"
+  },
+  {
+   "title": "Poll: How Many Hours Have You Put Into GTA 6 So Far?",
+   "source": "Pure Xbox",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-27T14:11:05.617495+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 multiplayer shown off in an unofficial PC port with characters, vehicles, and proximity chat",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T14:11:06.893819+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Interdimensional Portals and Hidden Bunkers — the Extreme Lengths GTA 6 Players Are Taking to Lose 6 Star Wanted Levels",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T14:11:07.953136+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI Cultural Moment: $79.99 Game, Wrong Art Question",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T14:11:08.723059+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "I Was Wrong About GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T14:11:09.790532+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Большинство игроков наконец-то добрались до второй главы GTA 6 и убедились, что вся критика поведения Джейсона и Лусии разбивается вдребезги",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T14:11:11.236634+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -17157,6 +17342,35 @@
   },
   {
    "item": {
+    "title": "I got eaten by a gator in GTA 6 because I exploded too many motorbikes to make a clean getaway",
+    "link": "https://www.gamesradar.com/games/grand-theft-auto/i-got-eaten-by-a-gator-in-gta-6-because-i-exploded-too-many-motorbikes-to-make-a-clean-getaway/",
+    "summary": "Ah yes, the Florida experience",
+    "published": "2026-11-27T14:00:00+00:00",
+    "source": "GamesRadar+",
+    "site_name": "GamesRadar+",
+    "trust": "high",
+    "text": "I love making stuff go boom in GTA 6. I've always loved the cover shooter antics of Rockstar's action-adventure series, but sometimes you need a nice big explosion to clear up the crowd. Since the vast GTA 6 map of Leonida is a veritable powder keg just waiting for me to pop a bullet into its many, many car engines, I thought it would be cool to try out some action hero stunts early on in the process.\nOne main GTA 6 mission saw me defending \"work colleague\" Donnie from waves of biker gang enemies, ducking behind cover and holding them off while my partner brought the plane around so we could make a grand escape. But indulging my desire for big explosions left me with one ill-fated choice: do a cardio workout or die trying.\nIn a departure from past entries, GTA 6 is all about due restraint. I bear this in mind as I pop shots into the gang members, aiming for kneecaps, torsos, and limbs over vitals. A few more bikers arrive, screeching to a halt in a nice little cluster. There's too many of them, and I'm quickly becoming overwhelmed. I enter Focus Mode to zero in on the engine tanks and do what I do best: fire off an entire clip into one of them. A cataclysmic boom clears the crowd in a satisfying blast of fire, smoke, and biker boy chunks.\nDonnie, of course, chooses that exact moment to tell me to grab a bike and hop on the plane with him. The only problem is that there are no motorbikes before me, but a heap of smoldering chassis.\nI panic and run up to one that looks more intact than the others. To my horror, the engine is completely dead. I race to another, and the tank is out of fuel. I turn and watch Donnie soar into the skies, telling me to meet him on the road, right as I hear another wave of enemies roar onto the scene. I don't think – I just run off toward the nearest body of water.\nI have no plan. Maybe I can lose my pursuers in the bushes, I wonder, or maybe some kind NPC will have left me a speedboat or canoe or set of flotation devices – anything, anything to get me out onto the water and away from the bikers as fast as possible – but of course there is nothing but open water. I open the map to check Donnie's whereabouts. Wherever he is doesn't look that far off, so I leap into the water without a second thought\nMy frantic front-crawl is the last bastion of hope I cling to as bullets continue to fly overhead. Each one pierces the water's surface with delicate precision, yet further evidence of the game's painstaking realism. But as the bullets s",
+    "extra": {
+     "image": "https://cdn.mos.cms.futurecdn.net/t3XyQ2pSrC2inpvMbBDgdW-1920-80.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "🐊 В GTA 6 аллигатор СОЖРАЛ игрока из-за любви к взрывам\n\nАвтор GamesRadar+ в миссии с Донни так увлёкся взрывами байков через Focus Mode, что уцелевшие мотики заглохли или остались без топлива. Пришлось удирать вплавь — жиза, когда зрелищный экшен заканчивается тильтом в пасти рептилии.",
+    "card_title": "ВЗОРВАЛ БАЙКИ — СЪЕЛ АЛЛИГАТОР",
+    "reason": "Забавная игровая ситуация и механика с аллигаторами в открытом мире GTA 6",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-4-hydrogen"
+   },
+   "queued_at": "2026-11-27T14:11:04.049226+00:00"
+  },
+  {
+   "item": {
     "title": "40 часов в GTA VI между гонками. Макс Ферстаппен рассказал, чем занимался в Лас-Вегасе",
     "link": "https://ixbt.games/news/2026/11/27/40-casov-v-gta-vi-mezdu-gonkami-maks-ferstappen-rasskazal-cem-zanimalsia-v-las-vegase.html",
     "summary": "Макс Ферстаппен провёл 40 часов за GTA VI между тренировками и этапами Формулы-1, а затем выиграл Гран-при Лас-Вегаса.",
@@ -17188,35 +17402,6 @@
   },
   {
    "item": {
-    "title": "South Park Finale Puts Kenny Inside GTA 6",
-    "link": "https://www.gtaboom.com/south-park-finale-puts-kenny-inside-gta-6-a029",
-    "summary": "Kenny crawls out of the boys’ TV while they play GTA 6 in the South Park finale, giving the season’s running gag a horror movie punchline.",
-    "published": "2026-11-27T00:47:50+00:00",
-    "source": "GTA BOOM",
-    "site_name": "GTA BOOM",
-    "trust": "medium",
-    "text": "South Park spent its entire 29th season joking about Grand Theft Auto VI and the finale paid it off with Kenny crawling out of the game. In \"City Endings,\" which aired November 25 on Comedy Central, the boys sit down to play GTA 6, spot Kenny lying on a sidewalk and realize they forgot about him, right before he drags himself toward the screen and bursts out of the TV like something out of The Ring.\nJust to be clear, Kenny is not in GTA 6 as an Easter Egg, whatever the viral clip's caption suggests. The sequence is South Park dropping its own dead kid into gameplay it shows on screen.\nAs we've mentioned, this was the payoff for a season that started with a town that kept insisting things would get better in November, the show's stand-in for the release date. Episode 2 turned a blackout into a GTA 6 save-data crisis. By Episode 4 the show was airing real GTA 6 footage straight from Rockstar Games, Jason on the beach and all, confirmed in the credits. \"City Endings\" is the last beat of a joke built across the whole season.\nThe plot around it is pure South Park. With the whole town glued to GTA 6, rolling outages hit. The boys trace them to Mayor McDaniels' secret deal with the \"billionaire weenies\" whose AI data centers are draining the grid, while the town's politicians hunt for a scapegoat, pointing to GTA VI instead. Kenny's spirit cannot rest until the corruption comes out, so his horror-show breakout is what pushes the kids to act. By the end the power is back and Kenny is too.\nThe joke works because it is barely a joke. GTA 6 is the kind of event South Park used to save for elections. The show treated its launch in the same way, a date the whole country counted down to and a blackout when it arrived. The game's record-breaking launch gave the writers the perfect thing to unplug.\nSouth Park is only the latest corner of pop culture to rebuild itself around GTA 6 this month. NBA 2K27 turned its online hub into a neon Vice City, the soundtrack took over Spotify and the boxed edition set physical sales records across Europe without a disc inside. A cartoon town losing power while everyone is playing it is the most honest version of that story yet.\nKenny always comes back. This time he had to crawl out of GTA 6 to get anyone to look up from the controller.\nOnce a post receives 3 qualifying Helpful marks\nGTA 6 Set Physical Launch Records Across Europe Without a Disc\nThe GTA 6 Soundtrack Took Over Spotify and Revived a Decade-Old Song",
-    "extra": {
-     "image": "https://media.gtaboom.com/variants/1920/media/images/f6/a6/south-park-finale-puts-kenny-inside-gta-6.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "📺 Кенни ВЫЛЕЗ из GTA 6 в финале «Южного парка»\n\nВ новой серии пацаны сели рубиться, заметили на тротуаре забытого Кенни, и чел полез прямо из телика в стиле «Звонка». Ору, что даже отключения света в городе сериал свалил на релиз, но не ведитесь на байты: в самой игре такой пасхалки нет.",
-    "card_title": "КЕННИ ВЫЛЕЗ ИЗ GTA 6",
-    "reason": "South Park featured GTA 6 in its season finale, showing real game footage and making it a central plot point.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-4-hydrogen"
-   },
-   "queued_at": "2026-11-27T02:03:58.243974+00:00"
-  },
-  {
-   "item": {
     "title": "Энтузиасты разгоняют GTA VI на PlayStation 5 до 40 fps",
     "link": "https://ixbt.games/news/2026/11/27/entuziasty-razgoniaiut-gta-vi-na-playstation-5-do-40-fps.html",
     "summary": "Но есть риск перегрева.",
@@ -17242,7 +17427,9 @@
     "guide": false,
     "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-3.5-flash"
    },
-   "queued_at": "2026-11-27T13:07:26.586122+00:00"
+   "queued_at": "2026-11-27T13:07:26.586122+00:00",
+   "moderation": "pending",
+   "draft_msg_id": 205
   },
   {
    "item": {
@@ -17401,7 +17588,8 @@
   "2026-11-27T07:01:30.279870+00:00",
   "2026-11-27T08:01:39.075785+00:00",
   "2026-11-27T12:03:16.488889+00:00",
-  "2026-11-27T13:03:29.525284+00:00"
+  "2026-11-27T13:03:29.525284+00:00",
+  "2026-11-27T14:04:19.748863+00:00"
  ],
  "slots_sent": {
   "2026-11-25:guide:2": "2026-11-25T19:30:49.885888+00:00",
@@ -17683,6 +17871,36 @@
    "file_id": "BAACAgIAAxkDAAPKawl8YgLcuC3Mdrb9XXQh5f3pd8oAAlq0AAJzy0lI8gvNHKmrSaI9BA",
    "moderation": "pending",
    "draft_msg_id": 202
+  },
+  {
+   "clip": {
+    "source": "twitch",
+    "url": "https://www.twitch.tv/ohnepixel/clip/GoldenWildPepperoniTwitchRaid-dJPNN-6ZwFtouU7s",
+    "title": "gta 6 fastest hands standoff",
+    "author": "ohnePixel",
+    "views": 545,
+    "duration": 23.2,
+    "created": "2026-11-26T21:32:51+00:00",
+    "lang": "en",
+    "description": "",
+    "vod_id": "2941322278",
+    "vod_offset": 19429.0
+   },
+   "caption": "СПОЙЛЕР. Сюжетка в GTA 6: Лусия держит заложницу на прицеле, а потом спасает её — чистый разнос 💀",
+   "interest": 9,
+   "spoiler": true,
+   "nsfw": false,
+   "watched": true,
+   "model": "gemini:gemini-3.5-flash-lite",
+   "media": {
+    "width": null,
+    "height": 720,
+    "duration": 23
+   },
+   "queued_at": "2026-11-27T13:51:15.680285+00:00",
+   "file_id": "BAACAgIAAxkDAAPMawmK1Hq8H5G9H7dUvTB9JmRQ1nAAAjO1AAJzy0lIsrOO7nnhEHg9BA",
+   "moderation": "pending",
+   "draft_msg_id": 204
   }
  ],
  "clip_drafts": [
@@ -17704,7 +17922,8 @@
   "2026-11-27T09:26:51.485186+00:00",
   "2026-11-27T10:35:37.153355+00:00",
   "2026-11-27T11:44:48.601743+00:00",
-  "2026-11-27T12:49:39.078273+00:00"
+  "2026-11-27T12:49:39.078273+00:00",
+  "2026-11-27T13:51:17.116374+00:00"
  ],
  "clip_history": [
   {
@@ -22615,6 +22834,73 @@
    "ts": "2026-11-27T12:49:39.078290+00:00",
    "frames": [],
    "caption": "Поездка на байке с Джейсоном превратилась в лютый разнос из-за бага с физикой. Иллуху знатно поджало под грузовик, прост"
+  },
+  {
+   "author": "youtube:i11ushenka",
+   "vod": "",
+   "offset": -1,
+   "title": "Великая Твиттер-битва за GTA 6 (ft. Арсения Маркарян)",
+   "drafted": false,
+   "ts": "2026-11-27T13:49:43.672044+00:00"
+  },
+  {
+   "author": "youtube:verrtv",
+   "vod": "",
+   "offset": -1,
+   "title": "Christmas Glitch 🎄For Free GTA 6 😂✌️#YouTubeShorts #Target #GTA",
+   "drafted": false,
+   "ts": "2026-11-27T13:49:44.702606+00:00"
+  },
+  {
+   "author": "youtube:straighttalk gaming",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 - I WENT BACK WHERE LUCIA HID THE GUN BACK IN THE PROLOGUE 🤯",
+   "drafted": false,
+   "ts": "2026-11-27T13:49:45.564405+00:00"
+  },
+  {
+   "author": "youtube:windah basudara",
+   "vod": "",
+   "offset": -1,
+   "title": "MISI PALING EPIC MERAMPOK BANK TERBESAR.... GTA 6 GAMEPLAY #13",
+   "drafted": false,
+   "ts": "2026-11-27T13:49:46.512855+00:00"
+  },
+  {
+   "author": "youtube:maphuntergta",
+   "vod": "",
+   "offset": -1,
+   "title": "Secrets You Missed in GTA 6 Part 1 🤫",
+   "drafted": false,
+   "ts": "2026-11-27T13:50:37.513854+00:00"
+  },
+  {
+   "author": "youtube:schlayer",
+   "vod": "",
+   "offset": -1,
+   "title": "Why the SUPER BIKES are the BEST Vehicles in GTA 6!",
+   "drafted": false,
+   "ts": "2026-11-27T13:50:38.456730+00:00"
+  },
+  {
+   "author": "twitch:ohnepixel",
+   "vod": "2941322278",
+   "offset": 19429.0,
+   "title": "gta 6 fastest hands standoff",
+   "drafted": false,
+   "ts": "2026-11-27T13:50:39.589172+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:ohnepixel",
+   "vod": "2941322278",
+   "offset": 19429.0,
+   "title": "gta 6 fastest hands standoff",
+   "drafted": true,
+   "ts": "2026-11-27T13:51:17.116393+00:00",
+   "frames": [],
+   "caption": "СПОЙЛЕР. Сюжетка в GTA 6: Лусия держит заложницу на прицеле, а потом спасает её — чистый разнос 💀"
   }
  ],
  "published": [
