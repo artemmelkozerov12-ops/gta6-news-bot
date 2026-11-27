@@ -5719,7 +5719,11 @@
   "93f27127395680ba": "2026-11-27T21:00:53.782711+00:00",
   "d3ba4a08f250ef91": "2026-11-27T21:16:15.198816+00:00",
   "0f1bd4b7622297ef": "2026-11-27T21:16:17.138097+00:00",
-  "141df34759e87694": "2026-11-27T21:16:18.263383+00:00"
+  "141df34759e87694": "2026-11-27T21:16:18.263383+00:00",
+  "b120753f2712c5e5": "2026-11-27T21:31:48.216377+00:00",
+  "a3c2d34117ac7381": "2026-11-27T21:31:49.155409+00:00",
+  "fb0b83f598cd56b1": "2026-11-27T21:31:50.060566+00:00",
+  "7aacfbec4cc76b2a": "2026-11-27T21:49:10.091136+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -9659,7 +9663,11 @@
   "c0ca34be0ab5da1b": "2026-11-27T21:00:53.782711+00:00",
   "bf4255e577b7786c": "2026-11-27T21:16:15.198816+00:00",
   "070260850c8cb835": "2026-11-27T21:16:17.138097+00:00",
-  "b5accffcfce659c5": "2026-11-27T21:16:18.263383+00:00"
+  "b5accffcfce659c5": "2026-11-27T21:16:18.263383+00:00",
+  "fec40bce82dac9a9": "2026-11-27T21:31:48.216377+00:00",
+  "d29b001bb7f08ee0": "2026-11-27T21:31:49.155409+00:00",
+  "1903e22760876e9a": "2026-11-27T21:31:50.060566+00:00",
+  "a972b940790dcbc1": "2026-11-27T21:49:10.091136+00:00"
  },
  "recent": [
   {
@@ -18317,6 +18325,86 @@
    "status": "skipped",
    "ts": "2026-11-27T21:16:17.138224+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GTA 6 review: a near-perfect masterpiece with one frustrating flaw",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T21:31:48.216504+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "After GTA 6, why not revisit Rockstar's other epics with these Black Friday discounts",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T21:31:49.155531+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Собрал корзину для покупки GTA 6 в Петербурге. На одну деталь чуть не ушли лишние деньги",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T21:31:50.060694+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Для GTA VI уже делают русскую озвучку — показали геймплей с полной локализацией",
+   "source": "iXBT.games",
+   "trust": "medium",
+   "status": "queued",
+   "ts": "2026-11-27T21:47:14.702940+00:00",
+   "card_title": "ПОЛНАЯ РУССКАЯ ОЗВУЧКА GTA VI"
+  },
+  {
+   "title": "'GTA 6' Fans Are Pulling Off Perfect Robberies With Only A Six Pack of Beer",
+   "source": "Polygon",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-27T21:47:16.875168+00:00",
+   "card_title": "РОББЕРЫ С ПИВОМ"
+  },
+  {
+   "title": "«Дом Джейсона» из GTA VI продают за 60 миллионов рублей, но исследователи карты считают, что он находится в другом месте",
+   "source": "iXBT.games",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-27T21:47:36.449287+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Оказывается, у GTA VI есть кое-что общее с Metal Gear и сериалом «Гриффины»",
+   "source": "iXBT.games",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-27T21:48:08.834890+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "What’s on the Hard Drive in GTA 6? GTA 6 Ending Explained",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-27T21:48:38.208720+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Rockstar Explains Why GTA VI Left Some Classic Features Behind",
+   "source": "Rockstar Intel",
+   "trust": "medium",
+   "status": "queued",
+   "ts": "2026-11-27T21:49:08.654830+00:00",
+   "card_title": "ОТКРЫТЫ ПРИЧИНЫ ОТКЛЮЧЕНИЙ"
+  },
+  {
+   "title": "Как улучшить отношения между Джейсоном и Лусией в GTA 6",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T21:49:10.091284+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -18415,6 +18503,35 @@
   },
   {
    "item": {
+    "title": "'GTA 6' Fans Are Pulling Off Perfect Robberies With Only A Six Pack of Beer",
+    "link": "https://www.polygon.com/gta-6-bank-robbery-beer-weapon-how-to-facebook-youtube-videos/",
+    "summary": "These GTA 6 fans only need liquid courage to pull off professional heists with no casualties in Rockstar's open-world game",
+    "published": "2026-11-27T18:27:39+00:00",
+    "source": "Polygon",
+    "site_name": "Polygon",
+    "trust": "high",
+    "text": "If you're like me, then you approach Grand Theft Auto 6's heists with anxiety. You case the joint inside and out. You plan meticulously, leaving the getaway car running nearby with the trunk open. You know exactly where all the cameras are, and have a plan for what to do if anyone tries anything funny. Well, what if I told you that you didn't need to do any of that to steal everything from a store in a way that inches your criminal profile closer to professional status?\nGTA 6 gives fans a lot of flexibility in how they approach their Bonnie and Clyde story with Jason and Lucia. Where some people pull off robberies as if they were playing a stealth game like Hitman, others just go in guns blazing. Some people are using this freedom to get creative with their heists, and the results are as hilarious as they are impressive.\nRight now, social media is filling up with videos of people waltzing into jewelry stores, six-pack of beer in hand — and walking away with every single valuable in the establishment. Often, these GTA 6 fans don't even bother wearing a mask or pulling out a gun.\nIn this example uploaded by a meme account on Facebook, for example, Jason pulls off a beer-bottle robbery with the nonchalance of someone picking up a prescription at the pharmacy. Jason even stops to eat an apple before actually breaking any displays. Later, he smokes a cigarette while walking out with bags full of loot in front of nearby NPCs.\nThe trend is catching on, judging from other viral videos showing similar shenanigans. In this video by 1-Up Gaming, the alarm does go off — but Jason turns it off within seconds. The guards almost seem confused by what's going on, since Jason technically doesn't have a weapon drawn​​​​​​​.\nSome variations show Jason actively drinking during the robbery.​​​​​​​ In this case, the player does pull out a gun to threaten an employee, but no shots are fired.\nTo be fair, the videos do seem to involve at least some planning​​​​​​​. In the Reddit video, the player knows exactly where a guard will come out before he appears​​​​​​​. Still, it's a jewelry caper taking place in a medium-security facility​​​​​​​ with two floors of gems. I tried hitting up that same target with the help of Lucia and couldn't even get half of what the player stole before I was in the middle of a two-star police chase. The damage to my car was higher than what I actually stole!\nHere's an example of how YouTuber​​​​​​​ RandomWeirdThings 248 buys a six-pack and enters a bank",
+    "extra": {
+     "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/jason_and_lucia_04.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "🍺 Пивные грабежи: как выкачать всё без оружия\n\nЧелы нашли лютый способ грабить ювелирки, держа в руке лишь шесть пакетов пива — без маски, без пушек, чистый имба‑стайл. Залетай в магазин, откуси яблочко, а охрана уже в шоке, пока ты уже везёшь мешки с добычей.",
+    "card_title": "РОББЕРЫ С ПИВОМ",
+    "reason": "Funny emerging gameplay trend in GTA 6 with players robbing stores using just a beer pack, highly engaging for fans.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "'GTA 6' Fans Are Pulling Off Perfect Robberies With Only A Six Pack of Beer — Google News (EN)",
+    "corroborated_by": "'GTA 6' Fans Are Pulling Off Perfect Robberies With Only A Six Pack of Beer — Google News (EN)",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
+   },
+   "queued_at": "2026-11-27T21:47:16.875158+00:00"
+  },
+  {
+   "item": {
     "title": "I got eaten by a gator in GTA 6 because I exploded too many motorbikes to make a clean getaway",
     "link": "https://www.gamesradar.com/games/grand-theft-auto/i-got-eaten-by-a-gator-in-gta-6-because-i-exploded-too-many-motorbikes-to-make-a-clean-getaway/",
     "summary": "Ah yes, the Florida experience",
@@ -18500,7 +18617,9 @@
     "guide": false,
     "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
    },
-   "queued_at": "2026-11-27T18:41:17.203774+00:00"
+   "queued_at": "2026-11-27T18:41:17.203774+00:00",
+   "moderation": "pending",
+   "draft_msg_id": 214
   },
   {
    "item": {
@@ -18563,6 +18682,35 @@
    "queued_at": "2026-11-27T18:40:15.849983+00:00",
    "moderation": "pending",
    "draft_msg_id": 212
+  },
+  {
+   "item": {
+    "title": "Для GTA VI уже делают русскую озвучку — показали геймплей с полной локализацией",
+    "link": "https://ixbt.games/news/2026/11/27/dlia-gta-vi-uze-delaiut-russkuiu-ozvucku-pokazali-geimplei-s-polnoi-lokalizaciei.html",
+    "summary": "Демонстрация получилась специфической в силу технических особенностей используемой версии GTA VI.",
+    "published": "2026-11-27T18:09:00+00:00",
+    "source": "iXBT.games",
+    "site_name": "iXBT.games",
+    "trust": "medium",
+    "text": "Демонстрация получилась специфической в силу технических особенностей используемой версии GTA VI.\nНедавно состоялся релиз Grand Theft Auto VI на консолях PlayStation 5 и Xbox Series X|S. Вскоре в сеть слили билд и техно-энтузиасты начали собирать различные ПК-версии игры.\nУже появились первые публичные «играбельные» ПК-версии Grand Theft Auto VI — графика в них сильно глючит, а производительность не очень хорошая: иногда игра выдаёт всего несколько FPS, но есть и более удачные примеры.\nВ MGV-Dubbing обратили внимание на Grand Theft Auto VI и решили сделать полную русскую локализацию с помощью искусственного интеллекта. Недавно провели первую демонстрацию озвучки:\nОсталось совсем немного до первой публичной версии русской озвучки GTA VI. На видео демонстрация текущего этапа, к сожалению текущий этап порта GTA VI на пк не позволяет показать качественную картинку, но оценить качество дубляжа уже более менее можно.\nСейчас юристы Take-Two активно блокируют на GitHub репозитории проектов-рекомпиляций Grand Theft Auto VI, однако этот поток пока не удалось остановить. Официальную ПК-версию пока не анонсировали: игроки считают, что ситуация с портами вынудит Rockstar Games ускорить работу.\nНе пропускайте наши новостиДобавьте сайт в предпочитаемые источники, чтобы видеть нас чащеДобавить в Google",
+    "extra": {
+     "image": "https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1747116/media-5bdeb2d747d03435d40035f9c9549270f3e49109a9a0bcd4f46fee85dfcf2301.png"
+    }
+   },
+   "verdict": {
+    "type": "rumor",
+    "importance": 8,
+    "post": "🔥 Слух, не подтверждено iXBT.games\n🎙 Русская озвучка GTA VI уже в деле\n\nMGV‑Dubbing уже запустил демо полной русской озвучки — звучит почти лутово. Если всё ок, скоро будем слышать квесты на родном языке, так что держим пальцы скрещенными!",
+    "card_title": "ПОЛНАЯ РУССКАЯ ОЗВУЧКА GTA VI",
+    "reason": "Студия озвучки показала русскую локализацию для GTA 6, это подтвержденная новость",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
+   },
+   "queued_at": "2026-11-27T21:47:14.702906+00:00"
   },
   {
    "item": {
@@ -18654,6 +18802,35 @@
     "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
    },
    "queued_at": "2026-11-27T18:40:45.728965+00:00"
+  },
+  {
+   "item": {
+    "title": "Rockstar Explains Why GTA VI Left Some Classic Features Behind",
+    "link": "https://rockstarintel.com/rockstar-explains-why-gta-vi-left-some-classic-features-behind/",
+    "summary": "SPOILER ALERT: This article discusses a major early-game twist and the events of GTA VI’s Chapter 1 finale. If you haven’t completed the first chapter yet, we recommend coming back to this article later! Rockstar Games has made several changes to the Grand Theft Auto formula in GTA VI. While some players have been asking [...] The post Rockstar Explains Why GTA VI Left Some Classic Features Behind appeared first on RockstarINTEL .",
+    "published": "2026-11-27T20:58:54+00:00",
+    "source": "Rockstar Intel",
+    "site_name": "Rockstar Intel",
+    "trust": "medium",
+    "text": "SPOILER ALERT: This article discusses a major early-game twist and the events of GTA VI’s Chapter 1 finale. If you haven’t completed the first chapter yet, we recommend coming back to this article later!Rockstar Games has made several changes to the Grand Theft Auto formula in GTA VI. While some players have been asking about missing features from previous games, the studio has now explained why certain decisions were made.\nIn a new interview with Video Games Chronicle, Rockstar North co-head and GTA VI producer Rob Nelson discussed some of the game’s biggest design choices, including cut content, the new Criminal Profile system, and the freedom players have during missions.\nWhy Some Features Didn’t Make It Into GTA VI\nOne of the biggest changes is the new Criminal Profile system. Some players have welcomed it as a new role-playing element, while others would rather cause chaos in Vice City without worrying about the consequences. Nelson said Rockstar expected these different reactions and explained that the system was designed to give players more choices rather than completely change how GTA works.\nHe also explained why some classic weapons are missing. For example, chainsaws can be found in the game world, but players cannot pick them up. According to Nelson, the weapon did not really fit Jason and Lucia’s characters or the tone Rockstar wanted to create for GTA VI.\nOther familiar activities were also considered during development. Nelson mentioned golf, tennis, volleyball, and darts, explaining that the team would have liked to make more activities fully playable if they had unlimited time. However, Rockstar had to decide which features were important enough to include.\nThe same thinking applied to a possible parody of Disney World. Nelson confirmed that Rockstar considered the idea but decided against creating a fully functioning theme park. The team did not have a strong enough narrative reason to send Jason and Lucia there, and building such a location would have required a lot of work.\nNelson also discussed Rockstar’s approach to mission design. The studio wanted to reduce unnecessary fail conditions and give players more freedom to complete objectives in different ways. He explained that allowing missions to unfold differently creates more work for the developers, but the team believes that freedom is worth the effort.\nThe interview offers an interesting look at the decisions behind GTA VI and shows how Rockstar wanted to move the series forward w",
+    "extra": {
+     "image": "https://rockstarintel.com/wp-content/uploads/2026/10/jason-lucia-bloomeberg-2-1024x576.webp"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "🔍 Почему в GTA VI нет некоторых классических фич\n\nРоб Нельсон из Rockstar объяснил, почему в игре нет цепных пил, гольфа и даже парка в стиле Диснея 🚫. Оказалось, они не вписывались в персонажей и сюжет, а разработчики хотели больше свободы в миссиях. Теперь знаете, за что кринжить, а за что флексить!",
+    "card_title": "ОТКРЫТЫ ПРИЧИНЫ ОТКЛЮЧЕНИЙ",
+    "reason": "Official interview with Rockstar producer explaining cut content, features, and design choices in GTA 6.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
+   },
+   "queued_at": "2026-11-27T21:49:08.654817+00:00"
   },
   {
    "item": {
@@ -18781,7 +18958,8 @@
   "2026-11-27T17:05:40.855067+00:00",
   "2026-11-27T18:41:33.664807+00:00",
   "2026-11-27T19:42:09.193381+00:00",
-  "2026-11-27T20:42:24.846714+00:00"
+  "2026-11-27T20:42:24.846714+00:00",
+  "2026-11-27T21:42:48.504030+00:00"
  ],
  "slots_sent": {
   "2026-11-25:guide:2": "2026-11-25T19:30:49.885888+00:00",
@@ -24175,186 +24353,6 @@
   "digest-20261127": "2026-11-27T19:30:25.546809+00:00"
  },
  "rewrite_wait": [
-  {
-   "item": {
-    "title": "Для GTA VI уже делают русскую озвучку — показали геймплей с полной локализацией",
-    "link": "https://ixbt.games/news/2026/11/27/dlia-gta-vi-uze-delaiut-russkuiu-ozvucku-pokazali-geimplei-s-polnoi-lokalizaciei.html",
-    "summary": "Демонстрация получилась специфической в силу технических особенностей используемой версии GTA VI.",
-    "published": "2026-11-27T18:09:00+00:00",
-    "source": "iXBT.games",
-    "site_name": "iXBT.games",
-    "trust": "medium",
-    "text": "Демонстрация получилась специфической в силу технических особенностей используемой версии GTA VI.\nНедавно состоялся релиз Grand Theft Auto VI на консолях PlayStation 5 и Xbox Series X|S. Вскоре в сеть слили билд и техно-энтузиасты начали собирать различные ПК-версии игры.\nУже появились первые публичные «играбельные» ПК-версии Grand Theft Auto VI — графика в них сильно глючит, а производительность не очень хорошая: иногда игра выдаёт всего несколько FPS, но есть и более удачные примеры.\nВ MGV-Dubbing обратили внимание на Grand Theft Auto VI и решили сделать полную русскую локализацию с помощью искусственного интеллекта. Недавно провели первую демонстрацию озвучки:\nОсталось совсем немного до первой публичной версии русской озвучки GTA VI. На видео демонстрация текущего этапа, к сожалению текущий этап порта GTA VI на пк не позволяет показать качественную картинку, но оценить качество дубляжа уже более менее можно.\nСейчас юристы Take-Two активно блокируют на GitHub репозитории проектов-рекомпиляций Grand Theft Auto VI, однако этот поток пока не удалось остановить. Официальную ПК-версию пока не анонсировали: игроки считают, что ситуация с портами вынудит Rockstar Games ускорить работу.\nНе пропускайте наши новостиДобавьте сайт в предпочитаемые источники, чтобы видеть нас чащеДобавить в Google",
-    "extra": {
-     "image": "https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1747116/media-5bdeb2d747d03435d40035f9c9549270f3e49109a9a0bcd4f46fee85dfcf2301.png"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "РУССКАЯ озвучка уже в разработке\n\nСтудия MGV-Dubbing запилила демонстрацию полной локализации для GTA 6 с помощью ИИ. Картина на кадрах мыльная из-за кривых сливов на ПК, но послушать голоса уже можно. Ждем релиз, чел?\n\n❤️ — Заценим этот дубляж\n👎 — Только оригинал, кринж",
-    "card_title": "РУССКАЯ ОЗВУЧКА GTA 6",
-    "reason": "Студия озвучки показала русскую локализацию для GTA 6, это подтвержденная новость",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-27T18:21:12.490600+00:00"
-  },
-  {
-   "item": {
-    "title": "'GTA 6' Fans Are Pulling Off Perfect Robberies With Only A Six Pack of Beer",
-    "link": "https://www.polygon.com/gta-6-bank-robbery-beer-weapon-how-to-facebook-youtube-videos/",
-    "summary": "These GTA 6 fans only need liquid courage to pull off professional heists with no casualties in Rockstar's open-world game",
-    "published": "2026-11-27T18:27:39+00:00",
-    "source": "Polygon",
-    "site_name": "Polygon",
-    "trust": "high",
-    "text": "If you're like me, then you approach Grand Theft Auto 6's heists with anxiety. You case the joint inside and out. You plan meticulously, leaving the getaway car running nearby with the trunk open. You know exactly where all the cameras are, and have a plan for what to do if anyone tries anything funny. Well, what if I told you that you didn't need to do any of that to steal everything from a store in a way that inches your criminal profile closer to professional status?\nGTA 6 gives fans a lot of flexibility in how they approach their Bonnie and Clyde story with Jason and Lucia. Where some people pull off robberies as if they were playing a stealth game like Hitman, others just go in guns blazing. Some people are using this freedom to get creative with their heists, and the results are as hilarious as they are impressive.\nRight now, social media is filling up with videos of people waltzing into jewelry stores, six-pack of beer in hand — and walking away with every single valuable in the establishment. Often, these GTA 6 fans don't even bother wearing a mask or pulling out a gun.\nIn this example uploaded by a meme account on Facebook, for example, Jason pulls off a beer-bottle robbery with the nonchalance of someone picking up a prescription at the pharmacy. Jason even stops to eat an apple before actually breaking any displays. Later, he smokes a cigarette while walking out with bags full of loot in front of nearby NPCs.\nThe trend is catching on, judging from other viral videos showing similar shenanigans. In this video by 1-Up Gaming, the alarm does go off — but Jason turns it off within seconds. The guards almost seem confused by what's going on, since Jason technically doesn't have a weapon drawn​​​​​​​.\nSome variations show Jason actively drinking during the robbery.​​​​​​​ In this case, the player does pull out a gun to threaten an employee, but no shots are fired.\nTo be fair, the videos do seem to involve at least some planning​​​​​​​. In the Reddit video, the player knows exactly where a guard will come out before he appears​​​​​​​. Still, it's a jewelry caper taking place in a medium-security facility​​​​​​​ with two floors of gems. I tried hitting up that same target with the help of Lucia and couldn't even get half of what the player stole before I was in the middle of a two-star police chase. The damage to my car was higher than what I actually stole!\nHere's an example of how YouTuber​​​​​​​ RandomWeirdThings 248 buys a six-pack and enters a bank",
-    "extra": {
-     "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/jason_and_lucia_04.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "ИМБА-ОБКРАДЫВАНИЕ\n\nИгроки в GTA 6 начали грабить ювелирки и банки вообще без оружия, просто с упаковкой пива в руках. Чистый рофл, охранники в шоке, а Джейсон спокойно выносит лут под яблочки и сигареты.\n\n❤️ — Гениальная тактика\n👎 — Охрана просто в доле",
-    "card_title": "ГРАБЕЖ С ПИВОМ",
-    "reason": "Funny emerging gameplay trend in GTA 6 with players robbing stores using just a beer pack, highly engaging for fans.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "'GTA 6' Fans Are Pulling Off Perfect Robberies With Only A Six Pack of Beer — Google News (EN)",
-    "corroborated_by": "'GTA 6' Fans Are Pulling Off Perfect Robberies With Only A Six Pack of Beer — Google News (EN)",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-27T18:37:29.155593+00:00"
-  },
-  {
-   "item": {
-    "title": "«Дом Джейсона» из GTA VI продают за 60 миллионов рублей, но исследователи карты считают, что он находится в другом месте",
-    "link": "https://ixbt.games/news/2026/11/27/dom-dzeisona-iz-gta-vi-prodaiut-za-60-millionov-rublei-no-issledovateli-karty-scitaiut-cto-on-naxoditsia-v-drugom-meste.html",
-    "summary": "Предполагается, что прототипом стала иная локация.",
-    "published": "2026-11-27T18:04:00+00:00",
-    "source": "iXBT.games",
-    "site_name": "iXBT.games",
-    "trust": "medium",
-    "text": "Предполагается, что прототипом стала иная локация.\nНедавно вышла Grand Theft Auto VI и игроки постепенно начали изучать контент. Виртуальный штат Леонида вдохновлён реальной Флоридой, поэтому поклонники стали искать похожие объекты.\nВнимание многих привлекло объявление о продаже дома. Оно очень напоминает стартовое жилище главного героя Джейсона (из первой главы). Дом на сваях располагается во Флориде в Ки-Ларго, его оценили в ~739 тысяч долларов (порядка 60 миллионов рублей). Он был построен в 1971 году, есть балкон, две спальни и одна ванная комната.\nОднако некоторые исследователи карты Grand Theft Auto VI усомнились, что именно этим домом вдохновлялись разработчики. Они читают, что источником вдохновления всё же мог послужить «старый дом на сваях в Сидар-Ки на побережье Мексиканского залива во Флориде, в сотнях миль от Ки-Ларго». Он был построен ещё в 1940 году и не продаётся, его оценочная стоимость 257 тысяч долларов.\nСейчас Grand Theft Auto VI официально доступна на консолях PlayStation 5 и Xbox Series X|S. Но недавно в сеть слили билд и техно-энтузиасты его разобрали: теперь появляются различные неофициальные ПК-версии новой игры Rockstar Games.\nНе пропускайте наши новостиДобавьте сайт в предпочитаемые источники, чтобы видеть нас чащеДобавить в Google",
-    "extra": {
-     "image": "https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1747119/media-335ceb45b9ca40d007dc6531f35a05d533c3612738635a9578c81142c1784b20.png"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "ДОМ Джейсона продают за 60 лямов\n\nИгроки нашли хату героя из первой главы во Флориде и знатно офигели с ценника. Правда, картоделы спорят — то ли это самое место, то ли разработчики вдохновлялись другой лачугой.",
-    "card_title": "ДОМ ДЖЕЙСОНА ЗА 60 МИЛЛИОНОВ",
-    "reason": "Интересная фанатская находка и спор о реальном прототипе дома Джейсона",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-27T18:37:32.272698+00:00"
-  },
-  {
-   "item": {
-    "title": "Оказывается, у GTA VI есть кое-что общее с Metal Gear и сериалом «Гриффины»",
-    "link": "https://ixbt.games/news/2026/11/27/okazyvaetsia-u-gta-vi-est-koe-cto-obshhee-s-metal-gear-i-serialom-griffiny.html",
-    "summary": "Игроки начали проводить своеобразные параллели.",
-    "published": "2026-11-27T17:57:00+00:00",
-    "source": "iXBT.games",
-    "site_name": "iXBT.games",
-    "trust": "medium",
-    "text": "Игроки начали проводить своеобразные параллели.\nИгроки постепенно исследуют мир У. Пока одни рассматривают различные детали мира, пользователь под ником Minstura обратил внимание на общий план карты.\nСхема виртуального штата Леонида напомнила ему образ персонажа Питера Гриффина из мультсериала «Гриффины». Внешне карта действительно очень похожа на Питера в его характерной позе:\nO mapa do GTA 6 parece com o Peter Griffin? by u/Minstura in r/perguntas\nСначала это сходство было не очевидным, но теперь некоторые игроки «не могут развидеть» этот образ.\nGUIBERNARODW решил удостовериться и наложил Питера Гриффина на карту GTA VI:\nУчастники сообщества Grand Theft Auto VI обратили внимание и на другой элемент, который знаком многим геймерам. В геймплее усмотрели механику в духе Metal Gear Solid V: The Phantom Pain.\nИгроки могут совершать налёты на базы бандитов. Внимательные пользователи заметили, что если попытаться проникнуть несколько раз на одну и ту же территорию тем же путём, то противники начинают пересматривать стратегию обороны. Например, подготовить дополнительное препятствие на определённом участке, установить колючую проволоку там, где персонаж ранее смог пролезть.\nNever seen this in a game before: I kept trying, and failing, to rob this gang base by sneaking in through a gap in the fence. I’ve died about three times trying. Just came back again… and they’ve boarded up the gap in the fence LOL\nАдаптивное поведение противников не уникальная механика, но многие знют её именно по игре Хидео Кодзимы.\nНе пропускайте наши новостиДобавьте сайт в предпочитаемые источники, чтобы видеть нас чащеДобавить в Google",
-    "extra": {
-     "image": "https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1747123/media-7603629122bfb6abc0e55b2d483d659e4bfe7f70aa3b16a756abae7d8ac23964.png"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "КАРТА GTA 6 — ЭТО ПИТЕР ГРИФФИН\n\nИгроки разглядели в контурах штата Леонида фигуру того самого персонажа из мультика. А еще враги на базах просекают фишку и заколачивают дыры в заборах, если часто ломиться в одну щель, как в Metal Gear Solid.\n\n❤️ — Топовая пасхалка\n👎 — Опять шиза фанатов",
-    "card_title": "КАРТА GTA 6 И ПИТЕР ГРИФФИН",
-    "reason": "Забавная пасхалка про карту в виде Питера Гриффина и умные враги из MGSV в GTA 6.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-27T18:56:50.104779+00:00"
-  },
-  {
-   "item": {
-    "title": "What’s on the Hard Drive in GTA 6? GTA 6 Ending Explained",
-    "link": "https://insider-gaming.com/gta-6-hard-drive-ending/",
-    "summary": "What's on the hard drive in GTA 6 and how does it explain the games ending? The post What’s on the Hard Drive in GTA 6? GTA 6 Ending Explained appeared first on Insider Gaming .",
-    "published": "2026-11-27T19:14:29+00:00",
-    "source": "Insider Gaming",
-    "site_name": "Insider Gaming",
-    "trust": "medium",
-    "text": "If you’ve clicked on this article, you almost certainly haven’t rolled the credits and completed the ending of GTA 6; however, if you haven’t, we strongly recommend stopping now if you don’t want spoilers, because they’re unavoidable in this article.\nAs you’ll know, throughout the GTA 6 story, the hard drive is central to most of it, especially in the later chapters. The hard drive also finally leads to a mystery ending to GTA 6, which could set the franchise up for the future.\nRELATED – All GTA 6 Endings Explained & How to Get The Best Ending\nIn the very last scene of GTA 6, despite the ending you get, Cal is sitting at his laptop, waiting for files to decrypt. After what seems like hours of decryption (Cal falls asleep), he’s awoken by the files being decrypted. The post-scene credits show Cal watching the files, and he’s noticeably shocked and says “No F**king Way”, then the screen goes to black.\nIt’s an intriguing tease for the end of GTA 6 that has left many players puzzled, and while we don’t see exactly what Cal saw, the game’s story gives us a few hints.\nSo what’s on the hard drive? Well, we don’t actually know; however, there are several hints and possibilities.\nIn Chapter 5, Giorgio Gallo says the hard drive’s contents could cause World War 3, suggesting they contain damning evidence against high-profile figures (also mentioned in Chapter 5).\nHowever, fans believe Cal’s reaction is more than that, possibly tied to his conspiracy theories. Perhaps the hard drive revealed that Cal has been right about everything, which is a conspiracy theorist’s dream, and frankly, would warrant a reason like that.\nNow this is a bit of an out-there theory, but it’s something that we think Rockstar Games could actually do.\nFans have been frothing at the mouth for GTA single-player DLC for a long time, and while we will undoubtedly get that in GTA 6 Online, the hard drive cliffhanger could leave fans with something more.\nAfter all, does a GTA 6 cliffhanger really matter for GTA 7 if it’s probably another 10 years away? It’s possible the hard drive could set up some form of DLC in the future, or it may have been a tease in GTA 6 Online.\nGTA 6 was originally planned to be a multi-island game (it’s why its codename was Americas), so it isn’t out of the realm of possibility that a future expansion or DLC is on the cards for GTA 6 single-player. Of course, we’re probably still a few years away from hearing anything like that, so for now, we’ll need to keep speculating.\nWh",
-    "extra": {
-     "image": "https://insider-gaming.com/wp-content/uploads/2026/11/whats-on-the-hard-drive-in-gta-6-ending-1024x576.png"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "ТАЙНА концовки GTA 6: что на том ж*стком диске?\n\nФинальный клиффхангер с расшифровкой файлов у Кэла знатно зафорсил теории. Фанатам зашло предполагать, что там компромат на всех подряд или подтверждение лютых конспирологических теорий.\n\n❤️ — Ждем сюжетное DLC\n👎 — Опять тизер для онлайна",
-    "card_title": "ТАЙНА ЖЕСТКОГО ДИСКА В GTA 6",
-    "reason": "Статья разбирает реальный финал уже вышедшей игры и теории о жестком диске",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "What's on the Hard Drive in GTA 6? GTA 6 Ending Explained",
-    "corroborated_by": "What's on the Hard Drive in GTA 6? GTA 6 Ending Explained",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-27T19:27:45.988100+00:00"
-  },
-  {
-   "item": {
-    "title": "Rockstar Explains Why GTA VI Left Some Classic Features Behind",
-    "link": "https://rockstarintel.com/rockstar-explains-why-gta-vi-left-some-classic-features-behind/",
-    "summary": "SPOILER ALERT: This article discusses a major early-game twist and the events of GTA VI’s Chapter 1 finale. If you haven’t completed the first chapter yet, we recommend coming back to this article later! Rockstar Games has made several changes to the Grand Theft Auto formula in GTA VI. While some players have been asking [...] The post Rockstar Explains Why GTA VI Left Some Classic Features Behind appeared first on RockstarINTEL .",
-    "published": "2026-11-27T20:58:54+00:00",
-    "source": "Rockstar Intel",
-    "site_name": "Rockstar Intel",
-    "trust": "medium",
-    "text": "SPOILER ALERT: This article discusses a major early-game twist and the events of GTA VI’s Chapter 1 finale. If you haven’t completed the first chapter yet, we recommend coming back to this article later!Rockstar Games has made several changes to the Grand Theft Auto formula in GTA VI. While some players have been asking about missing features from previous games, the studio has now explained why certain decisions were made.\nIn a new interview with Video Games Chronicle, Rockstar North co-head and GTA VI producer Rob Nelson discussed some of the game’s biggest design choices, including cut content, the new Criminal Profile system, and the freedom players have during missions.\nWhy Some Features Didn’t Make It Into GTA VI\nOne of the biggest changes is the new Criminal Profile system. Some players have welcomed it as a new role-playing element, while others would rather cause chaos in Vice City without worrying about the consequences. Nelson said Rockstar expected these different reactions and explained that the system was designed to give players more choices rather than completely change how GTA works.\nHe also explained why some classic weapons are missing. For example, chainsaws can be found in the game world, but players cannot pick them up. According to Nelson, the weapon did not really fit Jason and Lucia’s characters or the tone Rockstar wanted to create for GTA VI.\nOther familiar activities were also considered during development. Nelson mentioned golf, tennis, volleyball, and darts, explaining that the team would have liked to make more activities fully playable if they had unlimited time. However, Rockstar had to decide which features were important enough to include.\nThe same thinking applied to a possible parody of Disney World. Nelson confirmed that Rockstar considered the idea but decided against creating a fully functioning theme park. The team did not have a strong enough narrative reason to send Jason and Lucia there, and building such a location would have required a lot of work.\nNelson also discussed Rockstar’s approach to mission design. The studio wanted to reduce unnecessary fail conditions and give players more freedom to complete objectives in different ways. He explained that allowing missions to unfold differently creates more work for the developers, but the team believes that freedom is worth the effort.\nThe interview offers an interesting look at the decisions behind GTA VI and shows how Rockstar wanted to move the series forward w",
-    "extra": {
-     "image": "https://rockstarintel.com/wp-content/uploads/2026/10/jason-lucia-bloomeberg-2-1024x576.webp"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "ПОЧЕМУ разработчики вырезали фишки из GTA 6\n\nRockstar наконец-то пояснили, почему в игре нет бензопил в инвентаре и полноценного парка развлечений. Оказывается, старые механики просто не вписывались в вайб Джейсона и Люции.\n\n❤️ — Жаль бензопилу\n👎 — Да пофиг, и так пушка",
-    "card_title": "ПОЧЕМУ ВЫРЕЗАЛИ ФИШКИ ИЗ GTA 6",
-    "reason": "Official interview with Rockstar producer explaining cut content, features, and design choices in GTA 6.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-27T21:00:50.067113+00:00"
-  },
   {
    "item": {
     "title": "Florida Congresswoman Anna Paulina Luna Is Embracing Her GTA 6 Lookalike",
