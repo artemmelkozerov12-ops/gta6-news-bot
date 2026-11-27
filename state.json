@@ -5298,7 +5298,28 @@
   "b3f49167753cdb92": "2026-11-27T08:40:07.604905+00:00",
   "9b34ad3d3b3e695a": "2026-11-27T08:40:29.438140+00:00",
   "f63a1385bbe944d5": "2026-11-27T08:40:50.943146+00:00",
-  "666d8d8342a465c1": "2026-11-27T08:56:10.702372+00:00"
+  "666d8d8342a465c1": "2026-11-27T08:56:10.702372+00:00",
+  "2740d2bc51f76109": "2026-11-27T09:11:31.596190+00:00",
+  "8c2cb8d239d62881": "2026-11-27T09:15:46.003255+00:00",
+  "da0c91af939f10b0": "2026-11-27T09:15:46.903139+00:00",
+  "87581e1abe8dbe1f": "2026-11-27T09:15:47.626936+00:00",
+  "4c107698e7ec405e": "2026-11-27T09:15:48.374957+00:00",
+  "f5a8eb60e49224d6": "2026-11-27T09:16:39.348888+00:00",
+  "5ce35b97f487dc42": "2026-11-27T09:16:40.158803+00:00",
+  "c3ae41fe77b90c82": "2026-11-27T09:16:40.970489+00:00",
+  "23db34fe0974549a": "2026-11-27T09:16:42.005972+00:00",
+  "007ef637f41187be": "2026-11-27T09:17:37.999923+00:00",
+  "8584c3b7d2e0fad8": "2026-11-27T09:20:29.063497+00:00",
+  "b2e4e6297281d131": "2026-11-27T09:22:59.953051+00:00",
+  "4ddabd18e940ad39": "2026-11-27T09:27:52.717648+00:00",
+  "ceb6913f7732d3b3": "2026-11-27T09:27:53.672297+00:00",
+  "cbee9f850b4b5cda": "2026-11-27T09:28:01.280394+00:00",
+  "1d4353f769efa7bf": "2026-11-27T09:28:22.936233+00:00",
+  "2d2bc4ffce8cad40": "2026-11-27T09:28:44.663204+00:00",
+  "e668fed281454985": "2026-11-27T09:29:07.461522+00:00",
+  "1bd247ae3aa7b255": "2026-11-27T09:29:29.158718+00:00",
+  "943cfe1c4fa6f22a": "2026-11-27T09:29:52.355881+00:00",
+  "65face9abf08337a": "2026-11-27T09:30:13.307852+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -8902,7 +8923,17 @@
   "2091ca741f15d408": "2026-11-27T08:40:07.604905+00:00",
   "fe703e860a415b85": "2026-11-27T08:40:29.438140+00:00",
   "28f3510c9a1ce512": "2026-11-27T08:40:50.943146+00:00",
-  "4047c8daa68a5bd4": "2026-11-27T08:56:10.702372+00:00"
+  "4047c8daa68a5bd4": "2026-11-27T08:56:10.702372+00:00",
+  "2dd57af60fd8e2ac": "2026-11-27T09:11:31.596190+00:00",
+  "98a5bbf18d22588b": "2026-11-27T09:27:52.717648+00:00",
+  "5d803b946cf2e796": "2026-11-27T09:27:53.672297+00:00",
+  "bfe9e395993fcbc2": "2026-11-27T09:28:01.280394+00:00",
+  "a9d6b51f568b5006": "2026-11-27T09:28:22.936233+00:00",
+  "fd134f173e8a58dc": "2026-11-27T09:28:44.663204+00:00",
+  "f73a7b257677367f": "2026-11-27T09:29:07.461522+00:00",
+  "aba0b614fe0118e0": "2026-11-27T09:29:29.158718+00:00",
+  "501a760a7ebe0aa2": "2026-11-27T09:29:52.355881+00:00",
+  "2687203e37f45430": "2026-11-27T09:30:13.307852+00:00"
  },
  "recent": [
   {
@@ -16576,6 +16607,86 @@
    "status": "skipped",
    "ts": "2026-11-27T08:56:10.702513+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GTA VI вернула геймерам, считающим себя уже постаревшими, интерес к играм — Reddit",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T09:11:31.596336+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Прохождение GTA 6 — Глава 5. Миссия «Конец пути»",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-27T09:27:52.717703+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "🇺🇸 Ever wanted to live like Jason from GTA 6? Florida's got you covered for $739,000. A home that looks a lot like his stilt house in the game just hit the market. Nobody's confirmed Rockstar actually used it as inspiration, but the resemblance alone was enoug",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T09:27:53.672459+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Silent Hill Fans Have a Creepy Easter Egg to Discover in GTA VI",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T09:28:01.280527+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Полное прохождение GTA 6 — все главы, миссии, выборы и концовки",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T09:28:22.936376+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Убить Мендеса или принять сделку в GTA 6 — что выбрать и к чему это приведет",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T09:28:44.663345+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Можно ли переиграть финал GTA 6 и получить другую концовку",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T09:29:07.461675+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Что делать после прохождения GTA 6 — чем заняться после финала игры",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T09:29:29.158860+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Спасаться вплавь или не сдаваться в GTA 6 — что выбрать в финале игры",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T09:29:52.356024+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Прохождение GTA 6 — Глава 5. Миссия «Обеспечение безопасности»",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T09:30:13.307998+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -16934,36 +17045,6 @@
   {
    "clip": {
     "source": "twitch",
-    "url": "https://www.twitch.tv/illojuan/clip/ProudLuckyAxeOhMyDog-nVG0HtPeeu1mT614",
-    "title": "Viva el Nudismo!!!",
-    "author": "IlloJuan",
-    "views": 1305,
-    "duration": 45.4,
-    "created": "2026-11-25T23:55:37+00:00",
-    "lang": "es",
-    "description": "",
-    "vod_id": "2940424560",
-    "vod_offset": 28064.0
-   },
-   "caption": "🔞 Нудистский пляж в Леониде — база. NPC буквально не стесняются вообще ничего, полный рофл 💀",
-   "interest": 7,
-   "spoiler": false,
-   "nsfw": true,
-   "watched": true,
-   "model": "gemini:gemini-3.5-flash-lite",
-   "media": {
-    "width": null,
-    "height": 720,
-    "duration": 45
-   },
-   "queued_at": "2026-11-26T09:08:09.556153+00:00",
-   "file_id": "BAACAgIAAxkDAAOyawf2_LR6NcyGBckSP3fw-cv7awkAAvCsAAJzy0FIr124GWzX1GI9BA",
-   "moderation": "pending",
-   "draft_msg_id": 178
-  },
-  {
-   "clip": {
-    "source": "twitch",
     "url": "https://www.twitch.tv/theburntpeanut/clip/IronicAntsyMeerkatHotPokket-Px5KXcpo886zO19J",
     "title": "LMFAOOOOO",
     "author": "TheBurntPeanut",
@@ -17230,6 +17311,36 @@
    "file_id": "BAACAgIAAxkDAAPFawk8AgW3-TRRXimYlGDB20m0se0AAiewAAJzy0lIlMRU3wxdWKo9BA",
    "moderation": "pending",
    "draft_msg_id": 197
+  },
+  {
+   "clip": {
+    "source": "twitch",
+    "url": "https://www.twitch.tv/rubius/clip/CourageousRealClipsmomCoolStoryBob-g464sM3pq46lUQ-P",
+    "title": "sospechoso",
+    "author": "Rubius",
+    "views": 417,
+    "duration": 30.0,
+    "created": "2026-11-27T02:04:30+00:00",
+    "lang": "es",
+    "description": "",
+    "vod_id": "2941531941",
+    "vod_offset": 27176.0
+   },
+   "caption": "Чел решил, что он в фильме «Форсаж», но физика GTA 6 сказала «нет» — вылет из лобового стекла это просто лютый разнос 💀",
+   "interest": 8,
+   "spoiler": false,
+   "nsfw": false,
+   "watched": true,
+   "model": "gemini:gemini-3.1-flash-lite",
+   "media": {
+    "width": null,
+    "height": 720,
+    "duration": 30
+   },
+   "queued_at": "2026-11-27T09:26:48.836899+00:00",
+   "file_id": "BAACAgIAAxkDAAPGawlM2mg-Km01px7bIglQjc3QXGsAAhmxAAJzy0lIW3p45ypYSCU9BA",
+   "moderation": "pending",
+   "draft_msg_id": 198
   }
  ],
  "clip_drafts": [
@@ -17252,7 +17363,8 @@
   "2026-11-26T20:51:28.947882+00:00",
   "2026-11-26T21:54:00.092981+00:00",
   "2026-11-27T07:09:18.469703+00:00",
-  "2026-11-27T08:14:59.224574+00:00"
+  "2026-11-27T08:14:59.224574+00:00",
+  "2026-11-27T09:26:51.485186+00:00"
  ],
  "clip_history": [
   {
@@ -22699,6 +22811,108 @@
    "ts": "2026-11-27T08:14:59.224592+00:00",
    "frames": [],
    "caption": "🔞 В гардеробе GTA 6 при примерке отвалились текстуры одежды — Братишкин словил лютый тильт 💀"
+  },
+  {
+   "author": "youtube:dimfected",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 Has Hidden Car Controls You Should Know About! #gta6 #gaming",
+   "drafted": false,
+   "ts": "2026-11-27T09:15:46.003303+00:00"
+  },
+  {
+   "author": "youtube:superoops",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 VS GTA 5 Boss  Can Jason & Lucia GTA 6 Defeat Trevor GTA 5  Help GTA 6",
+   "drafted": false,
+   "ts": "2026-11-27T09:15:46.903179+00:00"
+  },
+  {
+   "author": "youtube:smile sj",
+   "vod": "",
+   "offset": -1,
+   "title": "Gangnam Style GTA 6 😱 |Voice City| GTA 6 gameplay#viralshorts #shorts #viral",
+   "drafted": false,
+   "ts": "2026-11-27T09:15:47.626979+00:00"
+  },
+  {
+   "author": "youtube:لحظات فايب بوب",
+   "vod": "",
+   "offset": -1,
+   "title": "تظاهر بالإصابة ليحصل على لعبة GTA 6، لكن انكشف أمره! 😂🎮🖍️",
+   "drafted": false,
+   "ts": "2026-11-27T09:15:48.375006+00:00"
+  },
+  {
+   "author": "youtube:ブルとチキンのゲームチャンネル",
+   "vod": "",
+   "offset": -1,
+   "title": "【GTA6】死体を放置すると… | 警察はどういう対応する？【グラセフ６】",
+   "drafted": false,
+   "ts": "2026-11-27T09:16:39.348927+00:00"
+  },
+  {
+   "author": "youtube:hentex",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 Actually Pays Tribute To Terminator 2 #gta6 #gtavi #grandtheftauto #grandtheftauto6 #shorts",
+   "drafted": false,
+   "ts": "2026-11-27T09:16:40.158855+00:00"
+  },
+  {
+   "author": "youtube:manguni gamer",
+   "vod": "",
+   "offset": -1,
+   "title": "Vimzz in Vice city🤩 Grand Theft Auto GTA 6 (60fps)| Epi 11 | Manguni Gamer",
+   "drafted": false,
+   "ts": "2026-11-27T09:16:40.970541+00:00"
+  },
+  {
+   "author": "twitch:baupenner",
+   "vod": "2940173967",
+   "offset": 3220.0,
+   "title": "Damit hätte ich nicht gerechnet 😂😂",
+   "drafted": false,
+   "ts": "2026-11-27T09:16:42.006038+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:nickeh30",
+   "vod": "2941376205",
+   "offset": 31694.0,
+   "title": "mayhem",
+   "drafted": false,
+   "ts": "2026-11-27T09:17:37.999982+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:ohnepixel",
+   "vod": "2941322278",
+   "offset": 738.0,
+   "title": "addicted",
+   "drafted": false,
+   "ts": "2026-11-27T09:20:29.063550+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:rubius",
+   "vod": "2941531941",
+   "offset": 27176.0,
+   "title": "sospechoso",
+   "drafted": false,
+   "ts": "2026-11-27T09:22:59.953119+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:rubius",
+   "vod": "2941531941",
+   "offset": 27176.0,
+   "title": "sospechoso",
+   "drafted": true,
+   "ts": "2026-11-27T09:26:51.485203+00:00",
+   "frames": [],
+   "caption": "Чел решил, что он в фильме «Форсаж», но физика GTA 6 сказала «нет» — вылет из лобового стекла это просто лютый разнос 💀"
   }
  ],
  "published": [
