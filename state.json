@@ -5216,7 +5216,14 @@
   "90de4094a6e83bd9": "2026-11-27T03:38:11.101164+00:00",
   "ad854c72ee25f608": "2026-11-27T03:38:11.828968+00:00",
   "2ceef30c8154d0a9": "2026-11-27T03:38:18.999538+00:00",
-  "0a93049142d7ed65": "2026-11-27T03:38:57.748150+00:00"
+  "0a93049142d7ed65": "2026-11-27T03:38:57.748150+00:00",
+  "28ab853b33793c1f": "2026-11-27T03:54:20.054264+00:00",
+  "1a8e01cc6133757f": "2026-11-27T03:54:46.088738+00:00",
+  "6406135086fd8748": "2026-11-27T03:54:46.880820+00:00",
+  "115b9bc5b3b30ed8": "2026-11-27T03:55:10.668722+00:00",
+  "b8a4495f890a8e5b": "2026-11-27T03:55:23.618039+00:00",
+  "ccf895a05c9d4978": "2026-11-27T03:55:46.452829+00:00",
+  "6a3da960e159f517": "2026-11-27T03:56:11.298286+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -8766,7 +8773,14 @@
   "87d76ba10c0892d5": "2026-11-27T03:38:11.101164+00:00",
   "0e07a0ba60a30e1c": "2026-11-27T03:38:11.828968+00:00",
   "4ee86e425c2bb21a": "2026-11-27T03:38:18.999538+00:00",
-  "76361ca55862ce7c": "2026-11-27T03:38:57.748150+00:00"
+  "76361ca55862ce7c": "2026-11-27T03:38:57.748150+00:00",
+  "81ccd536fcf2cb42": "2026-11-27T03:54:20.054264+00:00",
+  "92947254ee7605a6": "2026-11-27T03:54:46.088738+00:00",
+  "18d3b1a7d44ed37e": "2026-11-27T03:54:46.880820+00:00",
+  "d1e443914dbbb7d9": "2026-11-27T03:55:10.668722+00:00",
+  "e3a215d63ddde1cc": "2026-11-27T03:55:23.618039+00:00",
+  "ac404f38a05e7f1a": "2026-11-27T03:55:46.452829+00:00",
+  "232469a0b6d03e28": "2026-11-27T03:56:11.298286+00:00"
  },
  "recent": [
   {
@@ -16103,6 +16117,62 @@
    "trust": "rumor",
    "status": "skipped",
    "ts": "2026-11-27T03:38:57.748298+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Огромный скачок в The Witcher IV, Rockstar воюет с вайбкодерами, «Отец PlayStation» породил Xbox…",
+   "source": "StopGame",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-27T03:54:40.419124+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Developer Rockstar's UK Staff Vote Down Union Recognition Proposal",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T03:54:46.088867+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "🎮 GTA 6’s realism goes further than GTA 5, and an RPG vs. a train shows it 💀 The train reacts more physically, and the destruction feels closer to what you’d actually expect. Small detail, but it shows how much Rockstar pushed the physics this time. Writer: Luc",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T03:54:46.880970+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Enthusiasts reported achieving 4K and 120 FPS in the GTA 6 port using Claude",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T03:55:10.668850+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Энтузиасты сообщили о достижении 4K и 120 FPS в порте GTA 6 с помощью Claude",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T03:55:23.618170+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Энтузиасты впервые показали мультиплеер GTA VI на ПК с голосовым чатом",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T03:55:46.452954+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Miami Beach To Clewiston: Real-Life GTA 6 Locations You Can Easily Explore",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T03:56:11.298413+00:00",
    "card_title": ""
   }
  ],
