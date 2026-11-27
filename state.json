@@ -5362,7 +5362,36 @@
   "ec3d1206331b8fb7": "2026-11-27T10:41:11.058640+00:00",
   "6fd67684a36a0a4f": "2026-11-27T10:41:34.158667+00:00",
   "dc84a42bded2e9e6": "2026-11-27T10:41:56.022741+00:00",
-  "3b423489cb02fce4": "2026-11-27T10:57:14.232391+00:00"
+  "3b423489cb02fce4": "2026-11-27T10:57:14.232391+00:00",
+  "0ef8d7813cb332f7": "2026-11-27T11:12:35.052588+00:00",
+  "131e64703e1e26e9": "2026-11-27T11:12:36.673603+00:00",
+  "4fc077fedb6bc714": "2026-11-27T11:12:40.203625+00:00",
+  "2993e9a797bb6cf7": "2026-11-27T11:12:42.381998+00:00",
+  "36d9ecf0931fe61e": "2026-11-27T11:12:59.128406+00:00",
+  "ebfbbf305901ddc4": "2026-11-27T11:13:00.915347+00:00",
+  "ad6f9b29f5b68ade": "2026-11-27T11:13:02.725773+00:00",
+  "f161bf1494ffc4df": "2026-11-27T11:13:03.995870+00:00",
+  "af6cc22467da1842": "2026-11-27T11:13:05.316354+00:00",
+  "27d5697ae9abc8a9": "2026-11-27T11:28:23.722836+00:00",
+  "1253254ddbb4010f": "2026-11-27T11:28:23.733114+00:00",
+  "9eae68dcf8e9e4db": "2026-11-27T11:28:25.107254+00:00",
+  "b590523ac06d81f9": "2026-11-27T11:28:26.123892+00:00",
+  "3af45ed20a2e07f9": "2026-11-27T11:28:27.353216+00:00",
+  "1f60803bb48cd83a": "2026-11-27T11:28:28.673809+00:00",
+  "963c275b21a2b986": "2026-11-27T11:28:29.785258+00:00",
+  "58fe027e10df28f8": "2026-11-27T11:28:30.653591+00:00",
+  "416e6a6f9fb4021f": "2026-11-27T11:36:06.637505+00:00",
+  "da69473a17656c7c": "2026-11-27T11:36:07.508621+00:00",
+  "2f767914bbe19a28": "2026-11-27T11:36:08.289359+00:00",
+  "e89506be8a528ddf": "2026-11-27T11:36:09.112061+00:00",
+  "e7240777150fc7d3": "2026-11-27T11:36:59.979277+00:00",
+  "464400d3fe339e85": "2026-11-27T11:37:00.655819+00:00",
+  "d2d066fc13075023": "2026-11-27T11:37:01.430352+00:00",
+  "5b7a4da95f56def3": "2026-11-27T11:37:02.131779+00:00",
+  "ea72b71471c0cc2f": "2026-11-27T11:37:53.042652+00:00",
+  "ced349ed94844dcc": "2026-11-27T11:39:53.426328+00:00",
+  "8a7083c6a50f7cff": "2026-11-27T11:44:23.364664+00:00",
+  "97edc5b77cb80b02": "2026-11-27T11:44:34.401138+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -9006,7 +9035,22 @@
   "d4cd9b6598c6b62f": "2026-11-27T10:41:11.058640+00:00",
   "1f6521e93128b5e4": "2026-11-27T10:41:34.158667+00:00",
   "e253a262602b667a": "2026-11-27T10:41:56.022741+00:00",
-  "73ea42fccbdc0568": "2026-11-27T10:57:14.232391+00:00"
+  "73ea42fccbdc0568": "2026-11-27T10:57:14.232391+00:00",
+  "81d213d8539c9d6e": "2026-11-27T11:12:42.381998+00:00",
+  "189e4d6974f9dd56": "2026-11-27T11:12:36.673603+00:00",
+  "907c1f32f00850c2": "2026-11-27T11:12:40.203625+00:00",
+  "7aa39ddf14e672f1": "2026-11-27T11:12:59.128406+00:00",
+  "311d7913d22b46dc": "2026-11-27T11:13:00.915347+00:00",
+  "71f90addb5bb2831": "2026-11-27T11:13:02.725773+00:00",
+  "a612e5b66c0a7f0c": "2026-11-27T11:13:03.995870+00:00",
+  "6385cd196c09ed35": "2026-11-27T11:13:05.316354+00:00",
+  "c124d1da70ddfb23": "2026-11-27T11:28:23.733114+00:00",
+  "caefc3b7ec59f0b0": "2026-11-27T11:28:25.107254+00:00",
+  "0977761835252877": "2026-11-27T11:28:26.123892+00:00",
+  "f7db152df4450b2f": "2026-11-27T11:28:27.353216+00:00",
+  "cdb4e57a9b8579d1": "2026-11-27T11:28:28.673809+00:00",
+  "c4301541747f685d": "2026-11-27T11:28:29.785258+00:00",
+  "064c11205e92ac55": "2026-11-27T11:28:30.653591+00:00"
  },
  "recent": [
   {
@@ -17008,6 +17052,142 @@
    "status": "skipped",
    "ts": "2026-11-27T10:57:14.232521+00:00",
    "card_title": ""
+  },
+  {
+   "title": "Where To Find Principe Burnished Alvino In GTA 6—Fastest Motorcycles Location & Stats",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-27T11:12:35.052614+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI x GTA+ Screenshots Gallery",
+   "source": "Rockstar Intel",
+   "trust": "medium",
+   "status": "queued",
+   "ts": "2026-11-27T11:12:38.971533+00:00",
+   "card_title": "4K СКРИНЫ GTA+"
+  },
+  {
+   "title": "How to Fix Stuck Weather in GTA 6",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-27T11:12:41.071366+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Where To Find Principe Burnished Alvino In GTA 6—Fastest Motorcycles Location & Stats",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "queued",
+   "ts": "2026-11-27T11:12:57.863017+00:00",
+   "card_title": "ГДЕ НАЙТИ САМЫЙ БЫСТРЫЙ БАЙК"
+  },
+  {
+   "title": "All the GTA 6 stat boost missions we've found",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-27T11:12:59.774076+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Where is the Ghostbusters Ecto-1 Car in GTA 6?",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T11:13:01.631152+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6: Viral video reignites old Rockstar theory",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T11:13:02.725903+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Игроки находят все больше подтверждений, что Rockstar специально делает трафик в GTA 6 хаотичным, чтобы создавать больше странных ситуаций",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T11:13:03.996010+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 running on PC at 4K 120 FPS labeled a fake as modders rush to improve performance",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T11:13:05.316512+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Where To Find Principe Emilio's Lectro In GTA 6—Fastest Motorcycles Location & Stats",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-27T11:28:23.722872+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Where To Find Principe Emilio’s Lectro In GTA 6—Fastest Motorcycles Location & Stats",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "dup",
+   "ts": "2026-11-27T11:28:23.733146+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Grand Theft Inbox: How GTA VI Hype Turned QR Codes into a Phishing Weapon",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T11:28:25.107389+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "This week in music: Billie Eilish, GTA VI and a turning point for AI-generated songs",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T11:28:26.124035+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Как ограбить Meta Farm Fix в GTA 6. Какой код у сейфа фабрики",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T11:28:27.353357+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "В GTA 6 нашли агрессивных водителей — дело может быть в оптимизации из San Andreas",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T11:28:28.673959+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Rockstar North Co-Studio Head Discusses Pre-Launch GTA 6 Criminal Profile Concern",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T11:28:29.785392+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 5 Mods - Insane Ultra Photorealistic Graphics Mod With GTA 6 Natural Vision Evolved On RTX2060",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T11:28:30.653747+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -17302,6 +17482,64 @@
     "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-4-hydrogen"
    },
    "queued_at": "2026-11-26T23:38:16.593743+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA VI x GTA+ Screenshots Gallery",
+    "link": "https://rockstarintel.com/gta-vi-x-gta-screenshots-gallery/",
+    "summary": "GTA+ members get exclusive GTA VI content and when we were first to break the news on launch day, we found the images within the game’s store. However, these images were not in full 4K resolution nor where they clean of UI. The game’s store interface covered parts of the images. I was wondering if [...] The post GTA VI x GTA+ Screenshots Gallery appeared first on RockstarINTEL .",
+    "published": "2026-11-27T11:06:53+00:00",
+    "source": "Rockstar Intel",
+    "site_name": "Rockstar Intel",
+    "trust": "medium",
+    "text": "GTA+ members get exclusive GTA VI content and when we were first to break the news on launch day, we found the images within the game’s store. However, these images were not in full 4K resolution nor where they clean of UI. The game’s store interface covered parts of the images. I was wondering if we’d have to wait for the PC version to extract all of the images cleanly from the files.\nAt RockstarINTEL, we like to have all Grand Theft Auto screenshots in their highest possible resolution and that means finding them sometimes. Thankfully, Rockstar Games have actually uploaded the GTA VI GTA+ content screenshots onto their GTA+ subsite with a new webpage in recent days. All of the GTA+ bonuses we covered previously can be found there along with 4K screenshots of the content. We’ve put them altogether for you below including the main promotional image:\nIf you want to know what else is included in GTA+ for the rest of November, check out our full breakdown here. For those that pre-ordered GTA VI digitally, you will have gotten a free month of GTA+ so if you have not used that up yet now is a perfect time and here’s how to claim it.\nIn other Grand Theft Auto VI news, there’s a working multiplayer mod for the game already. Plus, here’s everything included in GTA+ this month aside from this content. A new month begins in a couple of weeks so be sure to claim all of your bonuses!\nYou can order your PS5 or XBOX copy of GTA VI with this link. Using the link to order the game will help support this website as we’ll earn a small commission. Thank you!\nFor more news on GTA VI, stay tuned to RockstarINTEL and sign up to our newsletter for a weekly round-up of all things Rockstar Games delivered straight to your inbox.",
+    "extra": {
+     "image": "https://rockstarintel.com/wp-content/uploads/2026/11/hero-desktop.0efzw_xttlnm7.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "📸 4K-СКРИНШОТЫ ДЛЯ ПОДПИСЧИКОВ GTA+\n\nRockstar выкатили на сайт подписки чистые кадры контента GTA 6 в максимальном разрешении. Если забирали бесплатный месяц за предзаказ, не забудьте залутать все бонусы — обновка уже ждет в игре.",
+    "card_title": "4K СКРИНЫ GTA+",
+    "reason": "Подтверждённый источник, полезный гайд по получению контента",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": true,
+    "model": "groq:openai/gpt-oss-120b → gemini:gemini-3.5-flash"
+   },
+   "queued_at": "2026-11-27T11:12:38.971522+00:00"
+  },
+  {
+   "item": {
+    "title": "Where To Find Principe Burnished Alvino In GTA 6—Fastest Motorcycles Location & Stats",
+    "link": "https://insider-gaming.com/principe-burnished-alvino-gta-6/",
+    "summary": "Here's where to find the Principe Burnished Alvino in Grand Theft Auto 6, as well as a detailed look at the motorcycle's stats. The post Where To Find Principe Burnished Alvino In GTA 6—Fastest Motorcycles Location & Stats appeared first on Insider Gaming .",
+    "published": "2026-11-27T10:57:17+00:00",
+    "source": "Insider Gaming",
+    "site_name": "Insider Gaming",
+    "trust": "medium",
+    "text": "Of the almost 600 vehicles in Grand Theft Auto 6, 77 are motorcycles, and none of them is as fast as the Principe Burnished Alvino.\nIn fact, this Standout Vehicle tops the list of the 10 fastest motorcycles in the game, so if speed on two wheels is what matters most to you—as well as a bit of style—then you’ll want to get your hands on the Principe Burnished Alvino as soon as possible.\nWith that in mind, check out where you can find the bike for yourself below, as well as a complete rundown of all of its important stats.\nYou can buy Grand Theft Auto 6 here if you haven’t already!\nPrincipe Burnished Alvino Location In GTA 6\nIf you want to find the Principe Burnished Alvino in Grand Theft Auto 6, you’ll need to head to Starfish Island in Vice City.\nYour best means of entry is probably by water, as the island is quite heavily guarded. With this method, simply climb up onto the right property’s garden as marked in the images above, and make your way to the front of the house. There might be some security guards on the scene, so feel free to take them out before they call for backup.\nRelated: All GTA 6 Cheats—Best Grand Theft Auto 6 Cheat Codes\nOnce you’ve got the place to yourself, simply break into the garage, and you’ll find the Principe Burnished Alvino ready for the taking. It doesn’t need a Key Cloner, nor does it have a Tracker to contend with. Just hop on board, and use it as the perfect getaway vehicle to escape the island.\nGiven that it’s the fastest motorcycle in the game, it’s well worth the hassle. Not convinced? Check out the vehicle’s stats below.\nEvery important statistic about the Principe Burnished Alvino in Grand Theft Auto 6 can be found in the table below.\nRelated: GTA 6 Sex & Romance—How To Have Sex In GTA 6\nThe motorcycle obviously excels at speed, but its Acceleration and Handling make it an absolute dream to drive. Better yet, compared to the 20 fastest cars in GTA 6, the bikes are generally far cheaper to register, too.\nIf you’re looking for more vehicle locations, check out where to find all of Randy’s Wishlist Supercars, and if you need to know anything else about Grand Theft Auto 6, make sure you stop by our full guides hub. It contains everything you could need to learn about the most important game release of all time!\nWill you be adding this bike to your collection? Let us know your thoughts about the game via the free Insider Gaming Discord server.\nFor more Insider Gaming content, read ‘GTA 6 100% Completion Walkthrough.’ Don’t ",
+    "extra": {
+     "image": "https://insider-gaming.com/wp-content/uploads/2026/11/Grand-Theft-Auto-VI_20261126163823-scaled.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "🗺 Гайд: как угонять САМЫЙ БЫСТРЫЙ мотоцикл Principe Burnished Alvino в GTA 6\n\nЗатестим пушку на двух колесах — байк разгоняется быстрее всех в игре и рулится как имба.\n\n1. Го на остров Starfish Island в Вайс-Сити. Пробираться лучше с воды, там полно охраны.\n2. Вылезай в сад нужного особняка справа и пробирайся к гаражу.\n3. Вскрывай гараж: клонер ключей и взлом трекера не понадобятся, просто садись и улетай от копов.",
+    "card_title": "ГДЕ НАЙТИ САМЫЙ БЫСТРЫЙ БАЙК",
+    "reason": "Это гайд по поиску самого быстрого мотоцикла в игре, полезная находка для игроков.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "Where To Find Principe Burnished Alvino In GTA 6—Fastest Motorcycles Location & Stats",
+    "corroborated_by": "Where To Find Principe Burnished Alvino In GTA 6—Fastest Motorcycles Location & Stats",
+    "guide": true,
+    "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-3.5-flash"
+   },
+   "queued_at": "2026-11-27T11:12:57.863008+00:00"
   }
  ],
  "posts": [
@@ -17363,36 +17601,6 @@
   "2026-11-26T18:29:20.883321+00:00"
  ],
  "clips": [
-  {
-   "clip": {
-    "source": "twitch",
-    "url": "https://www.twitch.tv/vinesauce/clip/MoralFastPenguinUWot-LG0z7lwE4TPs24CW",
-    "title": "HOW? HOW?",
-    "author": "Vinesauce",
-    "views": 328,
-    "duration": 25.2,
-    "created": "2026-11-26T05:26:20+00:00",
-    "lang": "en",
-    "description": "",
-    "vod_id": "",
-    "vod_offset": -1
-   },
-   "caption": "Джейсон уходит от копов по сухой дороге на каяке, и по рации реально кричат «КАК?!» 💀 Вот это имба-транспорт",
-   "interest": 8,
-   "spoiler": false,
-   "nsfw": false,
-   "watched": true,
-   "model": "gemini:gemini-4-hydrogen",
-   "media": {
-    "width": null,
-    "height": 720,
-    "duration": 25
-   },
-   "queued_at": "2026-11-26T11:18:47.787304+00:00",
-   "file_id": "BAACAgIAAxkDAAO1awgVmSI9DnfZ8kZnIb7mecnKivQAApKuAAJzy0FIe_2Tz5ERv789BA",
-   "moderation": "pending",
-   "draft_msg_id": 181
-  },
   {
    "clip": {
     "source": "twitch",
@@ -17662,6 +17870,36 @@
    "file_id": "BAACAgIAAxkDAAPHawlc-K6yHH7I0orKwjHmjAfbMSMAAluyAAJzy0lItVaI9jrZY4k9BA",
    "moderation": "pending",
    "draft_msg_id": 199
+  },
+  {
+   "clip": {
+    "source": "twitch",
+    "url": "https://www.twitch.tv/juansguarnizo/clip/SmellySpicyMetalNotLikeThis-EO5dqjlBSBdlzXV7",
+    "title": "salado quien? JAJAJS",
+    "author": "juansguarnizo",
+    "views": 499,
+    "duration": 28.0,
+    "created": "2026-11-26T22:42:50+00:00",
+    "lang": "es",
+    "description": "",
+    "vod_id": "2941483018",
+    "vod_offset": 18401.0
+   },
+   "caption": "NPC в GTA 6 злопамятнее моей бывшей — подрезал, и он гнал за тобой через пол-карты, пока не выкинул из тачки. Жесткий разнос 💀",
+   "interest": 8,
+   "spoiler": false,
+   "nsfw": false,
+   "watched": true,
+   "model": "gemini:gemini-3.1-flash-lite",
+   "media": {
+    "width": null,
+    "height": 720,
+    "duration": 28
+   },
+   "queued_at": "2026-11-27T11:44:46.395432+00:00",
+   "file_id": "BAACAgIAAxkDAAPIawltMLz1DbbXgmCQUyplPHzkGbkAAhSzAAJzy0lIyOe0Qf-AY2c9BA",
+   "moderation": "pending",
+   "draft_msg_id": 200
   }
  ],
  "clip_drafts": [
@@ -17686,7 +17924,8 @@
   "2026-11-27T07:09:18.469703+00:00",
   "2026-11-27T08:14:59.224574+00:00",
   "2026-11-27T09:26:51.485186+00:00",
-  "2026-11-27T10:35:37.153355+00:00"
+  "2026-11-27T10:35:37.153355+00:00",
+  "2026-11-27T11:44:48.601743+00:00"
  ],
  "clip_history": [
   {
@@ -23348,6 +23587,116 @@
    "ts": "2026-11-27T10:35:37.153371+00:00",
    "frames": [],
    "caption": "Случайно задел NPC на хайвее, вышел извиниться — а он просто сел в твою тачку и уехал 💀 NPC в GTA 6 вообще без комплексо"
+  },
+  {
+   "author": "youtube:lander art",
+   "vod": "",
+   "offset": -1,
+   "title": "PAINTING, BUT WITH NEGATIVE COLORS!   🤷‍♀️ #art #drawing #artchallenge #shorts #gta #gta6 #short",
+   "drafted": false,
+   "ts": "2026-11-27T11:36:06.637556+00:00"
+  },
+  {
+   "author": "youtube:mr warta gaming",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA6 نزلت للبيسي",
+   "drafted": false,
+   "ts": "2026-11-27T11:36:07.508669+00:00"
+  },
+  {
+   "author": "youtube:samet200",
+   "vod": "",
+   "offset": -1,
+   "title": "çöpten gta6 cd'si çıktı",
+   "drafted": false,
+   "ts": "2026-11-27T11:36:08.289410+00:00"
+  },
+  {
+   "author": "youtube:lolchunks",
+   "vod": "",
+   "offset": -1,
+   "title": "They Used Thousands of Dice for GTA 6 😳 (@diceideas/IG)",
+   "drafted": false,
+   "ts": "2026-11-27T11:36:09.112114+00:00"
+  },
+  {
+   "author": "youtube:surprisefact - curiosities ",
+   "vod": "",
+   "offset": -1,
+   "title": "THIS IS WHAT HAPPENS IF YOU RETURN TO JASON'S HOUSE IN GTA 6",
+   "drafted": false,
+   "ts": "2026-11-27T11:36:59.979328+00:00"
+  },
+  {
+   "author": "youtube:dudu",
+   "vod": "",
+   "offset": -1,
+   "title": "2 kişi GTA 6 oynuyorsundur 😅",
+   "drafted": false,
+   "ts": "2026-11-27T11:37:00.655863+00:00"
+  },
+  {
+   "author": "youtube:lutfi otaku and gaming",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 Ada Di Roblox ??",
+   "drafted": false,
+   "ts": "2026-11-27T11:37:01.430401+00:00"
+  },
+  {
+   "author": "youtube:actlikeanoob",
+   "vod": "",
+   "offset": -1,
+   "title": "Jason Unlocked Trevor Mode 😆",
+   "drafted": false,
+   "ts": "2026-11-27T11:37:02.131826+00:00"
+  },
+  {
+   "author": "twitch:baupenner",
+   "vod": "2940173967",
+   "offset": 612.0,
+   "title": "GTA zerstört mein Leben 😂😂",
+   "drafted": false,
+   "ts": "2026-11-27T11:37:53.042711+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:ohnepixel",
+   "vod": "2941322278",
+   "offset": 1720.0,
+   "title": "nickeh30",
+   "drafted": false,
+   "ts": "2026-11-27T11:39:53.426379+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:羅傑",
+   "vod": "",
+   "offset": -1,
+   "title": "不滿",
+   "drafted": false,
+   "ts": "2026-11-27T11:44:23.364721+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:juansguarnizo",
+   "vod": "2941483018",
+   "offset": 18401.0,
+   "title": "salado quien? JAJAJS",
+   "drafted": false,
+   "ts": "2026-11-27T11:44:34.401205+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:juansguarnizo",
+   "vod": "2941483018",
+   "offset": 18401.0,
+   "title": "salado quien? JAJAJS",
+   "drafted": true,
+   "ts": "2026-11-27T11:44:48.601760+00:00",
+   "frames": [],
+   "caption": "NPC в GTA 6 злопамятнее моей бывшей — подрезал, и он гнал за тобой через пол-карты, пока не выкинул из тачки. Жесткий ра"
   }
  ],
  "published": [
