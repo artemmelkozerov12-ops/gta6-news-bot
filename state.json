@@ -5737,7 +5737,16 @@
   "35992d8dc8591809": "2026-11-27T22:05:01.833647+00:00",
   "a2a5232ba75dbc65": "2026-11-27T22:05:03.735467+00:00",
   "80be6e58de712747": "2026-11-27T22:05:05.263650+00:00",
-  "6f3bd8855832b96a": "2026-11-27T22:05:06.103432+00:00"
+  "6f3bd8855832b96a": "2026-11-27T22:05:06.103432+00:00",
+  "3bf814c711e49bc6": "2026-11-27T22:35:45.369727+00:00",
+  "9ee4c0867297a5c3": "2026-11-27T22:35:46.648204+00:00",
+  "5a3908e0062d4044": "2026-11-27T22:35:50.208616+00:00",
+  "a56b2173871a476e": "2026-11-27T22:35:51.954760+00:00",
+  "cbc750c91be8982d": "2026-11-27T22:35:56.078048+00:00",
+  "7dca6073cb024b0a": "2026-11-27T22:36:00.284421+00:00",
+  "37432484abc54b15": "2026-11-27T22:36:04.156794+00:00",
+  "5b314945a353c2e9": "2026-11-27T22:36:05.686542+00:00",
+  "50440084a00fbd74": "2026-11-27T22:36:06.694651+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -9685,7 +9694,16 @@
   "ebea776c786363b1": "2026-11-27T22:05:01.833647+00:00",
   "b31085ad2b18d698": "2026-11-27T22:05:03.735467+00:00",
   "fcea037232d5e325": "2026-11-27T22:05:05.263650+00:00",
-  "c246ba0753b3039a": "2026-11-27T22:05:06.103432+00:00"
+  "c246ba0753b3039a": "2026-11-27T22:05:06.103432+00:00",
+  "b56f57c110131ab5": "2026-11-27T22:35:45.369727+00:00",
+  "39495d86093abc96": "2026-11-27T22:35:46.648204+00:00",
+  "351153f705168aef": "2026-11-27T22:35:50.208616+00:00",
+  "2ff15b26241e41d9": "2026-11-27T22:35:51.954760+00:00",
+  "53c86e72b1db1dbe": "2026-11-27T22:35:56.078048+00:00",
+  "2c8ffca8b4e342e9": "2026-11-27T22:36:00.284421+00:00",
+  "e7f03a288d99c071": "2026-11-27T22:36:04.156794+00:00",
+  "949447bbad599539": "2026-11-27T22:36:05.686542+00:00",
+  "31c581f1430e4c14": "2026-11-27T22:36:06.694651+00:00"
  },
  "recent": [
   {
@@ -18446,6 +18464,78 @@
    "trust": "rumor",
    "status": "skipped",
    "ts": "2026-11-27T22:05:06.103556+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Where to Find the Purple Principe Burnished Alvino in GTA 6",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "dup",
+   "ts": "2026-11-27T22:35:45.369760+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Chapter 5 Mission List – Every Mission in GTA 6 Chapter 5 in Order",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-27T22:35:46.648311+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to Trigger the GTA 6 Helicopter Prank at Big House Storage",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-27T22:35:50.958511+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to Find and Trigger the Killer Clown Easter Egg in GTA 6",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-27T22:35:52.632868+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Scarface Easter Egg: How to Get the Little Friend W-10",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-27T22:35:56.958833+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 The Unknown Stuntman Walkthrough and How to Unlock More Stunt Jobs",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-27T22:36:00.905030+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Veteran Hunted Walkthrough: Unlock Hunting and Keep Bret's Rifle",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-27T22:36:04.913396+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "TN Tech Esports: Prioritize Academics Over GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T22:36:05.686664+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 runs ‘better’ on a cheap AMD BC-250 mining board than PS5",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T22:36:06.694792+00:00",
    "card_title": ""
   }
  ],
