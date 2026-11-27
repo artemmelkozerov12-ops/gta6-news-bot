@@ -5333,7 +5333,27 @@
   "0c25719220e5a1b1": "2026-11-27T10:05:02.393153+00:00",
   "dc18006c4443e922": "2026-11-27T10:05:27.178504+00:00",
   "048a82ff6c260384": "2026-11-27T10:05:50.994079+00:00",
-  "a5a0683ac244942f": "2026-11-27T10:06:13.759607+00:00"
+  "a5a0683ac244942f": "2026-11-27T10:06:13.759607+00:00",
+  "d6f00616aef53024": "2026-11-27T10:22:49.292088+00:00",
+  "2344ba099d209a52": "2026-11-27T10:22:50.841250+00:00",
+  "95414fa7429d9fef": "2026-11-27T10:22:51.910876+00:00",
+  "0dc5d95a831c1577": "2026-11-27T10:23:08.760133+00:00",
+  "9f505d24e3061308": "2026-11-27T10:23:30.801576+00:00",
+  "b48cb3ab6e5aebf6": "2026-11-27T10:23:44.575256+00:00",
+  "a618f0b21307d167": "2026-11-27T10:24:08.357732+00:00",
+  "911fa989013643ec": "2026-11-27T10:24:29.834531+00:00",
+  "a1106e3a4acd44a1": "2026-11-27T10:27:03.783241+00:00",
+  "44691b48d09f31ca": "2026-11-27T10:27:04.473015+00:00",
+  "338e2bf940d2e0f8": "2026-11-27T10:27:05.250566+00:00",
+  "aeb8a22d432a4567": "2026-11-27T10:27:06.067170+00:00",
+  "548e0fbe722376d0": "2026-11-27T10:27:57.002742+00:00",
+  "a0cce715132f7dbc": "2026-11-27T10:27:57.839502+00:00",
+  "24e53d9158a6b36e": "2026-11-27T10:29:59.384829+00:00",
+  "aaccca720fabb6f5": "2026-11-27T10:30:41.073658+00:00",
+  "9f3a0a0e93575358": "2026-11-27T10:31:38.553939+00:00",
+  "8f0bf0b77f7721c6": "2026-11-27T10:31:45.502034+00:00",
+  "af6b87cc4f0d0044": "2026-11-27T10:32:28.136208+00:00",
+  "2bb186f7db6a5072": "2026-11-27T10:34:34.343727+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -8961,7 +8981,14 @@
   "125a015c4fe4f5b5": "2026-11-27T10:05:02.393153+00:00",
   "b94250179f64741a": "2026-11-27T10:05:27.178504+00:00",
   "05f2a20bfe574d45": "2026-11-27T10:05:50.994079+00:00",
-  "4fce5d7e6d58ce33": "2026-11-27T10:06:13.759607+00:00"
+  "4fce5d7e6d58ce33": "2026-11-27T10:06:13.759607+00:00",
+  "07eb700d9eb3bd1d": "2026-11-27T10:22:50.841250+00:00",
+  "d6cf40bf6e325066": "2026-11-27T10:22:51.910876+00:00",
+  "b9d075196d7a614c": "2026-11-27T10:23:08.760133+00:00",
+  "24b003d4c3772cef": "2026-11-27T10:23:30.801576+00:00",
+  "d5a4d6c9563e9635": "2026-11-27T10:23:44.575256+00:00",
+  "79416bda41faf9c9": "2026-11-27T10:24:08.357732+00:00",
+  "fa0e53b7027dfc75": "2026-11-27T10:24:29.834531+00:00"
  },
  "recent": [
   {
@@ -16827,6 +16854,70 @@
    "status": "skipped",
    "ts": "2026-11-27T10:06:13.759745+00:00",
    "card_title": ""
+  },
+  {
+   "title": "Working GTA VI Online Multiplayer Mod Even Includes Proximity Chat",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-27T10:22:49.292124+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Working GTA VI Online Multiplayer Mod Even Includes Proximity Chat",
+   "source": "Rockstar Intel",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-27T10:22:51.280263+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Save up to £120 on an Xbox Series S for GTA 6 this Christmas when you trade in your old console",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T10:22:51.911015+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Unofficial GTA 6 PC port shows multiplayer and proximity voice chat at 25–30 FPS",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T10:23:08.760273+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How Carly Rae Jepsen is using the moment around her GTA VI sync",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T10:23:30.801715+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "MotoGP, Martin's GTA 6 fever: \"I played it for 14 hours straight on Monday\"",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T10:23:44.575403+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "PCGH опасаются, что из-за примера GTA 6 и ИИ игры уйдут в облако, а игровые ПК станут не нужны",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T10:24:08.357876+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Postgame",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T10:24:29.834646+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -17185,36 +17276,6 @@
   {
    "clip": {
     "source": "twitch",
-    "url": "https://www.twitch.tv/theburntpeanut/clip/IronicAntsyMeerkatHotPokket-Px5KXcpo886zO19J",
-    "title": "LMFAOOOOO",
-    "author": "TheBurntPeanut",
-    "views": 344,
-    "duration": 30.0,
-    "created": "2026-11-26T05:56:33+00:00",
-    "lang": "en",
-    "description": "",
-    "vod_id": "2940864084",
-    "vod_offset": 19836.0
-   },
-   "caption": "Имба: копы в лифте решили докопаться до Лусии — такой перестрелки в замкнутом пространстве мы еще не видели 💀",
-   "interest": 8,
-   "spoiler": false,
-   "nsfw": false,
-   "watched": true,
-   "model": "gemini:gemini-3.5-flash-lite",
-   "media": {
-    "width": null,
-    "height": 720,
-    "duration": 30
-   },
-   "queued_at": "2026-11-26T10:13:14.747804+00:00",
-   "file_id": "BAACAgIAAxkDAAO0awgGOxWn9ltfqmyuZoCA8gVfmHIAApStAAJzy0FIUeHT7RrB3jI9BA",
-   "moderation": "pending",
-   "draft_msg_id": 180
-  },
-  {
-   "clip": {
-    "source": "twitch",
     "url": "https://www.twitch.tv/vinesauce/clip/MoralFastPenguinUWot-LG0z7lwE4TPs24CW",
     "title": "HOW? HOW?",
     "author": "Vinesauce",
@@ -17481,6 +17542,36 @@
    "file_id": "BAACAgIAAxkDAAPGawlM2mg-Km01px7bIglQjc3QXGsAAhmxAAJzy0lIW3p45ypYSCU9BA",
    "moderation": "pending",
    "draft_msg_id": 198
+  },
+  {
+   "clip": {
+    "source": "twitch",
+    "url": "https://www.twitch.tv/blexinfinity/clip/WimpyResoluteGalagoNotATK-heINgDRDo_gTjfMt",
+    "title": "Будни в Гта",
+    "author": "BlexInfinity",
+    "views": 809,
+    "duration": 45.1,
+    "created": "2026-11-26T16:51:46+00:00",
+    "lang": "ru",
+    "description": "",
+    "vod_id": "2941270452",
+    "vod_offset": 15696.0
+   },
+   "caption": "Случайно задел NPC на хайвее, вышел извиниться — а он просто сел в твою тачку и уехал 💀 NPC в GTA 6 вообще без комплексов, ору",
+   "interest": 7,
+   "spoiler": false,
+   "nsfw": false,
+   "watched": true,
+   "model": "gemini:gemini-3.5-flash",
+   "media": {
+    "width": null,
+    "height": 720,
+    "duration": 45
+   },
+   "queued_at": "2026-11-27T10:35:34.342127+00:00",
+   "file_id": "BAACAgIAAxkDAAPHawlc-K6yHH7I0orKwjHmjAfbMSMAAluyAAJzy0lItVaI9jrZY4k9BA",
+   "moderation": "pending",
+   "draft_msg_id": 199
   }
  ],
  "clip_drafts": [
@@ -17504,7 +17595,8 @@
   "2026-11-26T21:54:00.092981+00:00",
   "2026-11-27T07:09:18.469703+00:00",
   "2026-11-27T08:14:59.224574+00:00",
-  "2026-11-27T09:26:51.485186+00:00"
+  "2026-11-27T09:26:51.485186+00:00",
+  "2026-11-27T10:35:37.153355+00:00"
  ],
  "clip_history": [
   {
@@ -23053,6 +23145,119 @@
    "ts": "2026-11-27T09:26:51.485203+00:00",
    "frames": [],
    "caption": "Чел решил, что он в фильме «Форсаж», но физика GTA 6 сказала «нет» — вылет из лобового стекла это просто лютый разнос 💀"
+  },
+  {
+   "author": "youtube:kutipanx",
+   "vod": "",
+   "offset": -1,
+   "title": "Mister john mau main GTA 6 😭 #kutipanx",
+   "drafted": false,
+   "ts": "2026-11-27T10:27:03.783293+00:00"
+  },
+  {
+   "author": "youtube:maygoescrazy",
+   "vod": "",
+   "offset": -1,
+   "title": "POV: The Gaming Gods Creating GTA 6",
+   "drafted": false,
+   "ts": "2026-11-27T10:27:04.473063+00:00"
+  },
+  {
+   "author": "youtube:studio ci",
+   "vod": "",
+   "offset": -1,
+   "title": "Você Não Percebeu Isso No GTA 6!",
+   "drafted": false,
+   "ts": "2026-11-27T10:27:05.250608+00:00"
+  },
+  {
+   "author": "youtube:qazgta",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 vs GTA 5 - DETAIL Comparison #gta6 #gaming #shorts #gtavi #gta",
+   "drafted": false,
+   "ts": "2026-11-27T10:27:06.067219+00:00"
+  },
+  {
+   "author": "youtube:joystick wolf",
+   "vod": "",
+   "offset": -1,
+   "title": "Gta 5 vs GTA 6 bike Comparison 😱 #gta5 #gta6 #grandtheftauto #grandtheftauto6 #rockstar #ytshorts",
+   "drafted": false,
+   "ts": "2026-11-27T10:27:57.002788+00:00"
+  },
+  {
+   "author": "twitch:xalisa",
+   "vod": "2941183053",
+   "offset": 18404.0,
+   "title": "mama is cooked",
+   "drafted": false,
+   "ts": "2026-11-27T10:27:57.839560+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:baupenner",
+   "vod": "2940173967",
+   "offset": 4333.0,
+   "title": "Tiger VS BauPenner 😂😂",
+   "drafted": false,
+   "ts": "2026-11-27T10:29:59.384880+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:patstaresat",
+   "vod": "2941864269",
+   "offset": 18400.0,
+   "title": "\"Can you mod my car\"",
+   "drafted": false,
+   "ts": "2026-11-27T10:30:41.073720+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:lru_rose",
+   "vod": "2941377523",
+   "offset": 16697.0,
+   "title": "чанган?",
+   "drafted": false,
+   "ts": "2026-11-27T10:31:38.553984+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:youngmulti",
+   "vod": "2941453798",
+   "offset": 10550.0,
+   "title": "nie chce tej perspektywy",
+   "drafted": false,
+   "ts": "2026-11-27T10:31:45.502092+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:mrsavage",
+   "vod": "2941450500",
+   "offset": 14278.0,
+   "title": "Savage stream in GTA",
+   "drafted": false,
+   "ts": "2026-11-27T10:32:28.136262+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:blexinfinity",
+   "vod": "2941270452",
+   "offset": 15696.0,
+   "title": "Будни в Гта",
+   "drafted": false,
+   "ts": "2026-11-27T10:34:34.343780+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:blexinfinity",
+   "vod": "2941270452",
+   "offset": 15696.0,
+   "title": "Будни в Гта",
+   "drafted": true,
+   "ts": "2026-11-27T10:35:37.153371+00:00",
+   "frames": [],
+   "caption": "Случайно задел NPC на хайвее, вышел извиниться — а он просто сел в твою тачку и уехал 💀 NPC в GTA 6 вообще без комплексо"
   }
  ],
  "published": [
