@@ -5446,7 +5446,33 @@
   "429cb015906bfbc5": "2026-11-27T12:50:47.502889+00:00",
   "cd660cf05ee07835": "2026-11-27T12:50:48.525963+00:00",
   "28a4c624111a40b6": "2026-11-27T12:50:49.885049+00:00",
-  "dd006c71239bb82c": "2026-11-27T12:50:51.017670+00:00"
+  "dd006c71239bb82c": "2026-11-27T12:50:51.017670+00:00",
+  "7a86ceeabe12c2ae": "2026-11-27T13:07:27.840352+00:00",
+  "62738d39818a0068": "2026-11-27T13:07:28.894744+00:00",
+  "968fa7f598f2cec6": "2026-11-27T13:07:37.034589+00:00",
+  "b6e0c2e32617d104": "2026-11-27T13:08:01.225946+00:00",
+  "5ea14049a6ac211f": "2026-11-27T13:08:26.269112+00:00",
+  "c68cc48b88bc55b1": "2026-11-27T13:08:37.403524+00:00",
+  "0d8e9e74e18bd368": "2026-11-27T13:08:38.705290+00:00",
+  "518ff149b0ae348c": "2026-11-27T13:08:39.631443+00:00",
+  "4a9a46239e145419": "2026-11-27T13:23:55.108665+00:00",
+  "da2e9eb0f767a3f7": "2026-11-27T13:23:56.944151+00:00",
+  "5bcf0e2a15ca5f67": "2026-11-27T13:24:03.827215+00:00",
+  "4a455b856d4e58c2": "2026-11-27T13:24:05.537497+00:00",
+  "d82608908334607d": "2026-11-27T13:24:06.446385+00:00",
+  "8fdb5f4db85f2bfd": "2026-11-27T13:24:07.714095+00:00",
+  "48e1af9f11d8df2c": "2026-11-27T13:24:08.549356+00:00",
+  "fe714915a0b39968": "2026-11-27T13:24:09.729983+00:00",
+  "0cc703647204bcdc": "2026-11-27T13:24:10.770722+00:00",
+  "dbf6f10622239507": "2026-11-27T13:39:26.493280+00:00",
+  "011ed673c15d6495": "2026-11-27T13:39:27.684337+00:00",
+  "1a7a42e70dca7c68": "2026-11-27T13:39:29.266149+00:00",
+  "e74c63cd6b3c8213": "2026-11-27T13:39:30.472573+00:00",
+  "f3fe3b44b05e2e5b": "2026-11-27T13:39:31.474223+00:00",
+  "d8ae7e1f61905644": "2026-11-27T13:39:32.632960+00:00",
+  "4ecfac752def31d5": "2026-11-27T13:39:33.991321+00:00",
+  "cfa7e71df274a862": "2026-11-27T13:39:35.286067+00:00",
+  "1cb3c70171a3296f": "2026-11-27T13:39:36.512275+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -9148,785 +9174,34 @@
   "c1726b515328dac2": "2026-11-27T12:50:47.502889+00:00",
   "eed6420aa019f290": "2026-11-27T12:50:48.525963+00:00",
   "d8952d81fcdd2366": "2026-11-27T12:50:49.885049+00:00",
-  "783d8a46438042c4": "2026-11-27T12:50:51.017670+00:00"
+  "783d8a46438042c4": "2026-11-27T12:50:51.017670+00:00",
+  "a18c49b109d41760": "2026-11-27T13:07:27.840352+00:00",
+  "83daebeaad04ca67": "2026-11-27T13:07:28.894744+00:00",
+  "6b0b781fc87a7109": "2026-11-27T13:07:37.034589+00:00",
+  "862a9e2f281fe54b": "2026-11-27T13:08:01.225946+00:00",
+  "8517892a2946132a": "2026-11-27T13:08:26.269112+00:00",
+  "5c7f53cfebc43adb": "2026-11-27T13:08:37.403524+00:00",
+  "acd237707c5a3ac8": "2026-11-27T13:08:38.705290+00:00",
+  "6456d9a222027581": "2026-11-27T13:08:39.631443+00:00",
+  "d9dbbbf4e48a10ac": "2026-11-27T13:24:03.827215+00:00",
+  "2a7c0a6f2c7fa382": "2026-11-27T13:23:56.944151+00:00",
+  "5dd0e99cc2988c54": "2026-11-27T13:24:05.537497+00:00",
+  "b2a478ffe2f3a7cf": "2026-11-27T13:24:06.446385+00:00",
+  "fb99c631ef8f6f8a": "2026-11-27T13:24:07.714095+00:00",
+  "23e3c56b4b860e83": "2026-11-27T13:24:08.549356+00:00",
+  "fa2f26747aa94895": "2026-11-27T13:24:09.729983+00:00",
+  "68540df5adf7717e": "2026-11-27T13:24:10.770722+00:00",
+  "1384227abcf7edf7": "2026-11-27T13:39:26.493280+00:00",
+  "29a6968d882b75a6": "2026-11-27T13:39:27.684337+00:00",
+  "d2d574c8eae27f79": "2026-11-27T13:39:29.266149+00:00",
+  "21baa87a676ee812": "2026-11-27T13:39:30.472573+00:00",
+  "04398985755d0387": "2026-11-27T13:39:31.474223+00:00",
+  "3def24c66d908462": "2026-11-27T13:39:32.632960+00:00",
+  "3fd32888d6458cab": "2026-11-27T13:39:33.991321+00:00",
+  "1e57445721002e06": "2026-11-27T13:39:35.286067+00:00",
+  "dc635876f7ad367c": "2026-11-27T13:39:36.512275+00:00"
  },
  "recent": [
-  {
-   "title": "«Это не симпинг»: руководитель Larian Studios вступился за GTA VI и её главного героя",
-   "source": "iXBT.games",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-25T08:00:47.521872+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA VI на PS5 работает хуже, чем на Xbox Series X: результаты сравнения консолей",
-   "source": "iXBT.games",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-25T08:18:52.462407+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA VI перегревает PS5 и приводит к отключению. Специалист заявил о «блэкауте PlayStation»",
-   "source": "iXBT.games",
-   "trust": "medium",
-   "status": "queued",
-   "ts": "2026-11-25T08:54:04.115072+00:00",
-   "card_title": "GTA 6 УБИВАЕТ PS5"
-  },
-  {
-   "title": "Yes, There Was One Thing Cut from GTA 6 for Australia, NZ",
-   "source": "IGN",
-   "trust": "high",
-   "status": "queued",
-   "ts": "2026-11-25T08:54:11.443799+00:00",
-   "card_title": "GTA 6 ЦЕНЗУРИРОВАЛИ В АВСТРАЛИИ"
-  },
-  {
-   "title": "Everyone’s Getting Trolled By GTA 6’s Looney Toons Tunnel",
-   "source": "Kotaku",
-   "trust": "high",
-   "status": "queued",
-   "ts": "2026-11-25T09:13:26.612179+00:00",
-   "card_title": "ТОННЕЛЬ-ТРОЛЛЬ В GTA 6"
-  },
-  {
-   "title": "Performance analysis reveals GTA 6 has a more stable frame-rate on Xbox Series X compared to PlayStation 5",
-   "source": "Eurogamer",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-25T09:30:55.961799+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Caught Slipping walkthrough: How to catch both thieves",
-   "source": "VGC",
-   "trust": "high",
-   "status": "queued",
-   "ts": "2026-11-25T10:06:43.017002+00:00",
-   "card_title": "ПРОХОЖДЕНИЕ CAUGHT SLIPPING"
-  },
-  {
-   "title": "GTA 6 Kamar Devon Community Center Robbery: Where to Find the Pistol and Watch",
-   "source": "GTA BOOM",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-25T10:24:25.761785+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Janjak's Garage Robbery Guide to the Safe Code, Rifle and Car",
-   "source": "GTA BOOM",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-25T10:25:00.576383+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Send More Money to Lorena Walkthrough",
-   "source": "GTA BOOM",
-   "trust": "medium",
-   "status": "dup",
-   "ts": "2026-11-25T10:42:32.625871+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Top Billing Walkthrough to Find Roxy and Cut the Power",
-   "source": "GTA BOOM",
-   "trust": "medium",
-   "status": "dup",
-   "ts": "2026-11-25T10:42:32.625904+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Send Money to Lorena Walkthrough",
-   "source": "GTA BOOM",
-   "trust": "medium",
-   "status": "dup",
-   "ts": "2026-11-25T10:42:32.629818+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Tyrone Walkthrough and How to Start Here, Kitty Kitty",
-   "source": "GTA BOOM",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-25T10:42:36.036829+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Here, Kitty Kitty Walkthrough for Finding Charles and the Kitty Litter",
-   "source": "GTA BOOM",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-25T10:42:45.348844+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Boobie Time Walkthrough to Recover the Cash and Unlock Yasmani",
-   "source": "GTA BOOM",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-25T10:43:17.054847+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "How to Save Mia and Finish Mami Knows Best in GTA 6",
-   "source": "GTA BOOM",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-25T10:43:43.325693+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "How to Complete Meet the Heders and Keep the SCOOP Tool in GTA 6",
-   "source": "GTA BOOM",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-25T10:43:57.236656+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Dubious Provenance Walkthrough for All Three Parts",
-   "source": "GTA BOOM",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-25T10:44:04.092891+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Car Service Walkthrough for Getting the Schafter V12 Out of the Chop Shop",
-   "source": "GTA BOOM",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-25T10:44:07.974325+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Yasmani’s Jewelry Jobs Guide With All 3 Safe Codes and the Snap Gun",
-   "source": "GTA BOOM",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-25T10:44:26.166728+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6: How to flip a car in Grand Theft Auto 6",
-   "source": "VGC",
-   "trust": "high",
-   "status": "dup",
-   "ts": "2026-11-25T11:01:50.837839+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Rockstar не подпускает Голливуд к GTA, но готова уступить права на экранизацию Red Dead Redemption за $100 млн — СМИ",
-   "source": "iXBT.games",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-25T11:02:03.939241+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Company Property walkthrough: How to save the weapons cargo",
-   "source": "VGC",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-25T11:02:11.778248+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Max Payne Remake Development With Rockstar Is “Amazing” Says Remedy",
-   "source": "Rockstar Intel",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-25T11:02:30.155217+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "CD Projekt Red Expects GTA 5 to GTA 6-Like Upgrade in The Witcher 4",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-25T11:10:05.081822+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 First Official Paid DLC Released For All Players",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-25T11:10:05.081908+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "'I've Been F***ing Fooled' — GTA 6 Analysis Shows PS5 Version Suffers 'Substantially' More Frequent Frame Rate Drops Than Xbox Series X Version, Sparking Debate About Sony's 'Plays Best on PS5' Marketing",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-25T11:10:05.082006+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Becomes the Biggest Launch in PlayStation History",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-25T11:10:05.082092+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA VI runs better on XBOX Series X than on PS5",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-25T11:10:05.241468+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Grand Theft Auto VI is the “biggest game launch in PlayStation history” with over 39 million players",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-25T11:10:05.407262+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Max Verstappen played GTA 6 for 40 hours and still won the Las Vegas GP",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-25T11:10:05.672754+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "CD Projekt Red Expects GTA 5 to GTA 6-Like Upgrade in The Witcher 4",
-   "source": "Push Square",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-25T11:10:08.452832+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Analysis Shows PS5 Version Suffers 'Substantially' More Frequent Frame Rate Drops Than Xbox Series X Version, Sparking Debate About Sony's 'Plays Best on PS5' Marketing",
-   "source": "IGN",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-25T11:10:12.079314+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "All The Drama: Jensen, GTA VI, And The Thanksgiving Box Office Show",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-25T11:10:13.375937+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Психолог объяснил неприязнь мужчин к заботе на примере GTA 6 | ОТВ - Новости",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-25T11:10:14.536777+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "The best GTA 6 Easter eggs, from Mario hats to time travel",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-25T11:10:15.906838+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "The Witcher 4 will borrow from GTA 6 as it locks in exclusive 'plays best' partnership",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-25T11:10:17.135514+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Фанаты Bethesda шутят про движок GTA 6, в котором анимации и физика до сих пор привязаны к FPS",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-25T11:10:18.331138+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Leaker suggests GTA 6 could run at 120 FPS on Xbox Project Helix and Sony PS6",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-25T11:10:24.046942+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6's best lore drops happen when you're chilling with your partner, so stop leaving them at home all the time",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-25T11:26:08.849154+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6's best lore drops happen when you're chilling with your partner, so stop leaving them at home all the time",
-   "source": "PC Gamer",
-   "trust": "high",
-   "status": "queued",
-   "ts": "2026-11-25T11:26:22.394737+00:00",
-   "card_title": "НЕ ОСТАВЛЯЙ ПАРТНЕРА ДОМА"
-  },
-  {
-   "title": "GTA VI Launched With English-Only Voices, We Asked Experts Why",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-25T11:26:25.735496+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Сценарист первой GTA считает, что Лусия из GTA 6 исправила проблему репрезентации женщин в серии",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-25T11:26:27.359668+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "'GTA 6' or an Anthropic share? You can get both for about $80.",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-25T11:26:32.752276+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Streamer Perri Karyal hijacks a military jet in GTA VI with EEG, eye tracking, and head movements",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-25T11:26:41.567820+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Кто сыграл Джейсона и Лусию в GTA 6: все главные актеры и неожиданные знаменитости",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-25T11:26:43.951666+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 — как найти легендарный костюм Томми Версетти из GTA: Vice City",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-25T11:26:45.593947+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "YouTube's official 'GTA 6' release day numbers are staggering",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-25T11:26:47.026404+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Cyberpunk 2 Development Ramps Up At CD Projekt Red, But Ambitions For The Project Are ‘Not Changed’ By GTA 6′s Success",
-   "source": "Kotaku",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-25T11:42:21.578842+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Ведущую сценаристку GTA VI затравили и она удалилась из соцсетей — её обвинили в обучении женщин «манипулировать мужчинами».",
-   "source": "iXBT.games",
-   "trust": "medium",
-   "status": "queued",
-   "ts": "2026-11-25T11:42:40.662218+00:00",
-   "card_title": "СЦЕНАРИСТКУ GTA 6 ЗАТРАВИЛИ ИЗ-ЗА СЮЖЕТА"
-  },
-  {
-   "title": "GTA VI publisher has launched a DMCA campaign against videos of the PC version of the game.",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-25T11:42:44.857203+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 'blackouts begin' on PS5 as consoles shut down, Sony and Rockstar issue statements",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-25T11:42:52.759327+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Ла Йорона в GTA 6 — где найти призрака плачущей женщины",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-25T11:42:56.830619+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Rockstar Takes Legal Action Against Popular GTA 6 PC Port",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-25T11:42:58.499507+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6: Can You Cook Fish?",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-25T11:43:00.119972+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Polish Game Developer Says GTA VI Has Not Hurt PC Sales or Engagement",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-25T11:43:01.242265+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Max Verstappen admits to 40-hour GTA VI spree as he won Las Vegas GP",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-25T11:58:21.361333+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6: All Criminal Profiles explained",
-   "source": "VGC",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-25T11:58:25.056867+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "В Rockstar призвали не проходить GTA 6 по гайдам и чек-листам — так мир Леониды раскрывается почти бесконечно",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-25T11:58:26.693805+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "'Will Take a While but I Will Finish This Game' — Raul Bautista Actor Manny Perez Bought a PS5 So He Could Play GTA 6",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-25T11:58:28.247657+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 PS5 vs Xbox Series X Performance in the UAE",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-25T11:58:40.918943+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Slideshow: Vehicles in GTA 6",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-25T11:58:42.242083+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 seems to be making some PS5 consoles catch fire, with multiple streamers experiencing smoking and failed GPUs — ‘PS5 started just smoking out its a**, and now I need to get a replacement’",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-25T11:58:45.443536+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "The 24-Hour GTA 6 PC Port Is a Warning Shot, Not a Product",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-25T11:58:50.699595+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 — пропавшие туристы: где найти тела и серийного убийцу",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-25T11:58:52.225436+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Where To Find the Grotti Status RSX In GTA 6—Fastest Cars Location & Stats",
-   "source": "Insider Gaming",
-   "trust": "medium",
-   "status": "dup",
-   "ts": "2026-11-25T12:14:20.459371+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Max Verstappen clocks 40hrs on GTA 6 during Las Vegas GP weekend",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-25T12:14:20.528474+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "How to use NOS in GTA 6",
-   "source": "GamesRadar+",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-25T12:14:25.073356+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Where To Find Progen Seaspray Emerus In GTA 6—Fastest Cars Location & Stats",
-   "source": "Insider Gaming",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-25T12:14:38.761320+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "В GTA 6 нашли секретное задание: битва с Сатаной в аду",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-25T12:14:55.967180+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Орнитолог нашел всех 60 птиц в GTA 6 и оценил их реалистичность",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-25T12:14:56.656032+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "В Rockstar рассказали о настройках доступности и новом интерфейсе GTA 6: от размера шрифта до переключения спринта",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-25T12:15:02.565777+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Победа в классе на «24 часах Нюрбургринга» и полная переработка физики: как Rockstar создавала транспорт для GTA 6",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-25T12:15:15.304829+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Rockstar Games website 'seized by authorities' after players scan in-game GTA 6 QR code",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-25T12:15:38.475538+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "'GTA 6' Meets 'Pulp Fiction' in Quentin Tarantino’s Masterpiece Crime Thriller 'True Romance'",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-25T12:16:00.109798+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Создатели «Ведьмака 4» сравнили игру с GTA 6",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-25T12:31:22.061420+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "How to get the GTA 6 Ocelot Jugular",
-   "source": "GamesRadar+",
-   "trust": "high",
-   "status": "dup",
-   "ts": "2026-11-25T12:31:22.067548+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Please, GTA 6, Give Us More of Jason’s Favorite Gay Romantasy Series",
-   "source": "Polygon",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-25T12:31:33.224275+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Sony будет продвигать «Ведьмака 4» — CD Projekt RED сравнила игру с GTA 6",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-25T12:31:33.924612+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "До финала GTA 6 добрался меньше 1% игроков и лишь 40% прошло вторую главу — народ вообще не торопится",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-25T12:32:01.628407+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6: Should You Ask Cecilia For Cash Or The Vape Pen In \"Read The Label\"",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-25T12:32:06.917485+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Where to Buy a Bikini for Lucia in GTA 6",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-25T12:32:19.643988+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 without a PS5 on PlayStation Portal: Early cloud impressions reveal the catch",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-25T12:32:42.711613+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 console shootout concludes Xbox Series X has a 'higher performance level' than PS5 — but Xbox Series S lags behind and is 'harder to recommend'",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-25T12:33:06.770660+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 on Xbox Series X ‘Holds 30FPS Better Than PS5’ Says Digital Foundry",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-25T12:33:28.668228+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Where To Find the Progen Royal Ruby Emerus In GTA 6—Fastest Cars Location & Stats",
-   "source": "Insider Gaming",
-   "trust": "medium",
-   "status": "dup",
-   "ts": "2026-11-25T12:48:50.913077+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Wait, What? GTA 6 Runs Better On Xbox Series X Than PS5",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-25T12:48:50.913171+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "D’Angelo’s estate responds after his unreleased song is featured in GTA 6",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-25T12:48:51.101338+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Players discover over 1,500 individual buildings you can enter in GTA 6, nearly 28% of all buildings on the map",
-   "source": "Eurogamer",
-   "trust": "high",
-   "status": "published",
-   "ts": "2026-11-25T12:49:26.546461+00:00",
-   "card_title": "1500 ЗДАНИЙ С ИНТЕРЬЕРОМ"
-  },
-  {
-   "title": "GTA 6: When to sell AudaCity’s Dacity Coin for maximum profit",
-   "source": "VGC",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-25T12:49:41.073863+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Where To Find Progen Honeycomb Emerus In GTA 6—Fastest Cars Location & Stats",
-   "source": "Insider Gaming",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-25T12:49:41.957604+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Wait, What? GTA 6 Runs Better On Xbox Series X Than PS5",
-   "source": "Kotaku",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-25T12:50:07.662232+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Thrax Location – Where to Find the Blue Bugatti",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-25T12:50:29.359889+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Take-Two Battles Unofficial GTA 6 PC Port Work",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-25T12:50:52.252273+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "The first hour and a half of GTA 6 gameplay has been made available on PC via the ztrx compatibility layer.",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-25T12:51:15.437714+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Первые полтора часа геймплея GTA 6 стали доступны на ПК через слой совместимости ztrx",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-25T12:51:30.114753+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Барко: GTA 6 только вышла, но некоторые ребята в «Спартаке» уже скачали её",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-25T13:07:01.910380+00:00",
-   "card_title": ""
-  },
   {
    "title": "Where To Find Progen Black Widow Emerus In GTA 6—Fastest Cars Location & Stats",
    "source": "Insider Gaming",
@@ -17630,6 +16905,222 @@
    "status": "skipped",
    "ts": "2026-11-27T12:50:51.017822+00:00",
    "card_title": ""
+  },
+  {
+   "title": "Энтузиасты разгоняют GTA VI на PlayStation 5 до 40 fps",
+   "source": "iXBT.games",
+   "trust": "medium",
+   "status": "queued",
+   "ts": "2026-11-27T13:07:26.586134+00:00",
+   "card_title": "GTA 6 РАЗОГНАЛИ ДО 40 FPS"
+  },
+  {
+   "title": "Feature: Eight Rockstar Xbox Games That Are Still Playable With Backwards Compatibility",
+   "source": "Pure Xbox",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-27T13:07:27.840469+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "It Turns Out Jason Might Have a History With Mandy in GTA 6 After All",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T13:07:28.894891+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Should you shoot Mendez or take the deal in GTA 6? Choice explained",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T13:07:37.034713+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Enthusiasts have unveiled XSEmu and VILauncher launchers with support for GTA VI builds for AMD and NVIDIA.",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T13:08:01.226112+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Former Gran Turismo World Series Competitor Helped Tune GTA 6 Car Physics",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T13:08:26.269250+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Where to find all Brooks Boatworks Key Valuables in GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T13:08:37.403658+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Explained: Why GTA 6 doesn’t reference 2002's Vice City and Rockstar’s strict parallel universe rule",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T13:08:38.705446+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Indie puzzle adventure Rhell beats GTA 6 to win Best Game Made in The North at the Game Republic Awards",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T13:08:39.631590+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Catch Me If You Can Walkthrough in GTA 6—Trophy & Achievement Location & Solution, Explained",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-27T13:23:55.108698+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI Pushes Series To Nearly 1 Trillion YouTube Views With Record Breaking Launch",
+   "source": "Rockstar Intel",
+   "trust": "medium",
+   "status": "queued",
+   "ts": "2026-11-27T13:24:02.415204+00:00",
+   "card_title": "3,5 МИЛЛИАРДА ПРОСМОТРОВ НА YOUTUBE"
+  },
+  {
+   "title": "Catch Me If You Can Walkthrough in GTA 6—Trophy & Achievement Location & Solution, Explained",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-27T13:24:04.451265+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Where are the best tattoo shops in GTA 6? Locations explained",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T13:24:05.537615+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "What We Played – Football Manager 27, GTA 6 & things we can’t talk about",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T13:24:06.446499+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Игроки променяли спортзалы на GTA 6 и тренировки в Вайс-Сити",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T13:24:07.714209+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "I test TVs for a living and having played GTA 6, I know it needs a top-tier TV — here are my top 5 recommendations, all of which I’ve tested",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T13:24:08.549522+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 fits: Best clothing stores for Lucia and Jason",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T13:24:09.730101+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "В GTA 6 впервые избавились от шести звёзд розыска",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T13:24:10.770834+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 multiplayer reportedly running on PC as unofficial ports near completion, but it's certainly no Grand Theft Auto Online",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-27T13:39:26.493360+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Should you stay down or defend Jason in GTA 6?",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T13:39:28.356918+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Fresh Look Gives Thanks for the Wonderfully Detailed World of GTA VI",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T13:39:29.266275+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Danny Dyer makes surprise cameo in GTA 6 – but not all fans will find him",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T13:39:30.472723+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 will run more stably on PCs with 32GB of RAM thanks to new Victory Scarlett optimizations.",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T13:39:31.474402+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Запуск GTA 6 на ПК с 32 ГБ ОЗУ станет стабильнее благодаря новым оптимизациям Victory Scarlett",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T13:39:32.633116+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Sends PS5 and Xbox Series X|S Sales Soaring in the US",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T13:39:33.991465+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Video card Radeon RX 9070 XT Got 36,5 FPS in GTA 6 through the Victory Fast compatibility layer",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T13:39:35.286218+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Видеокарта Radeon RX 9070 XT выдала 36,5 FPS в GTA 6 через слой совместимости VIctory Fast",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T13:39:36.512431+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -17726,6 +17217,64 @@
   },
   {
    "item": {
+    "title": "Энтузиасты разгоняют GTA VI на PlayStation 5 до 40 fps",
+    "link": "https://ixbt.games/news/2026/11/27/entuziasty-razgoniaiut-gta-vi-na-playstation-5-do-40-fps.html",
+    "summary": "Но есть риск перегрева.",
+    "published": "2026-11-27T12:09:00+00:00",
+    "source": "iXBT.games",
+    "site_name": "iXBT.games",
+    "trust": "medium",
+    "text": "Неофициальный патч для взломанной PlayStation 5, снимающий ограничение частоты кадров в Grand Theft Auto VI, позволил провести новые эксперименты с производительностью игры. Согласно результатам тестирования, проект Rockstar Games вполне мог бы стабильно работать при 40 fps, если бы разработчики согласились пойти на компромисс в качестве изображения. Однако этому мешает еще одна проблема — высокая температура консоли.\nРанее энтузиасты выяснили, что даже более мощная PlayStation 5 Pro не способна обеспечить стабильные 60 fps в GTA 6 после снятия стандартного ограничения в 30 кадров в секунду. Теперь пользователь Reddit под ником gama224 провел дополнительные тесты, сосредоточившись на достижении отметки в 40 fps за счет снижения разрешения рендеринга.\nРезультаты оказались достаточно интересными:\n50% разрешения рендеринга: в насыщенных объектами локациях производительность выросла с 27–30 до 35–40 fps, а в районах с водой — с 30 до 45–50 fps\n60% разрешения рендеринга: в густонаселенных районах удалось получить 30–35 fps вместо 27–30 FPS, а в локациях с водой — около 40 fps\n55% разрешения рендеринга: оказалось оптимальным вариантом. Средняя частота кадров стабильно держалась на уровне 40 fps с колебаниями от 35 до 45 fps. По словам энтузиаста, игра при таких настройках ощущалась плавнее на протяжении перемещения по городу\nНе пропускайте наши новостиДобавьте сайт в предпочитаемые источники, чтобы видеть нас чащеДобавить в Google",
+    "extra": {
+     "image": "https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1747036/c4d7bac8-260a-4b08-8350-4b2b344a2f9e.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "🎮 GTA 6 РАЗОГНАЛИ до 40 FPS на PS5\n\nУмельцы запустили неофициальный патч на взломанной «плойке» и урезали разрешение рендеринга до 55%. Игра стала заметно плавнее, но есть нюанс: консоль от такого флекса греется как бешеная печка. Рокстар, занесите 40 FPS режим, мы готовы потерпеть мыло!\n\n❤️ — Ждём 40 кадров в патче\n👎 — Лучше 30, но с сочной картинкой",
+    "card_title": "GTA 6 РАЗОГНАЛИ ДО 40 FPS",
+    "reason": "Энтузиасты смогли запустить GTA 6 на обычной PS5 в 40 fps через неофициальный патч, что очень интересно для игроков",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-3.5-flash"
+   },
+   "queued_at": "2026-11-27T13:07:26.586122+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA VI Pushes Series To Nearly 1 Trillion YouTube Views With Record Breaking Launch",
+    "link": "https://rockstarintel.com/gta-vi-pushes-series-to-nearly-1-trillion-youtube-views-with-record-breaking-launch/",
+    "summary": "YouTube and Rockstar Games have teamed up to provide fans with new content on the platform and share some truly impressive stats around the game’s launch. Launch And Historical Data According to YouTube via a blog post and culture report, there was over 3.5 billion global views of videos with GTA VI in the title [...] The post GTA VI Pushes Series To Nearly 1 Trillion YouTube Views With Record Breaking Launch appeared first on RockstarINTEL .",
+    "published": "2026-11-27T13:22:23+00:00",
+    "source": "Rockstar Intel",
+    "site_name": "Rockstar Intel",
+    "trust": "medium",
+    "text": "YouTube and Rockstar Games have teamed up to provide fans with new content on the platform and share some truly impressive stats around the game’s launch.\nAccording to YouTube via a blog post and culture report, there was over 3.5 billion global views of videos with GTA VI in the title on the day of the game’s release, November 19th, 2026. Prior to launch, videos on the game garnered over 40 billion views. Combined with the other games in the franchise, there has now been over 900 billion views for the Grand Theft Auto series. Given the immense success of Rockstar’s latest project, 1 trillion will not be far away.\nSince 2013, Grand Theft Auto V has been within the top 10 most viewed video games on YouTube every single year. That goes to show it isn’t just people playing the game in the millions for over a decade but also consuming content on it. Story Mode and vanilla online isn’t the only thing continuing to be popular. GTA RP is in a league of its own. YouTube say roleplay content hit more than 8 billion all-time views and an all-time peak of 1.7 million uploads in 2025.\n82% of respondents to a recent NRG study in collaboration with YouTube ranked GTA higher than Hollywood celebrities (79%) and comparable to the Super Bowl (83%) in terms of topics perceived as widely recognized. Respondents were online people age 14–29 based in the US.\nYouTube Live has launched five limited-edition, GTA VI-themed gifts, including iconic animations like Wanted Stars that pop up directly on screen during streams. To kick things off, eligible viewers tuning into select creator live streams can claim and send a Grand Theft Auto VI gift courtesy of YouTube while they last. You can view all of them below.\nThe GTAVI: Visit Vice City Shorts Effect is now live. The feature includes multiple iconic backgrounds, making it easy for creators and fans to build their own launch-week videos.\nIn other Grand Theft Auto VI news, there’s a working multiplayer mod for the game already. Plus, physical copies of the game have been hugely successful according to new research.\nYou can order your PS5 or XBOX copy of GTA VI with this link. Using the link to order the game will help support this website as we’ll earn a small commission. Thank you!\nFor more news on GTA VI, stay tuned to RockstarINTEL and sign up to our newsletter for a weekly round-up of all things Rockstar Games delivered straight to your inbox.",
+    "extra": {
+     "image": "https://rockstarintel.com/wp-content/uploads/2026/11/Vice_City_14-0fu8u9jh5hkg7-1024x576.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "💥 3,5 МИЛЛИАРДА просмотров за день на YouTube!\n\nЮтуб отчитался, что в день релиза ролики по GTA 6 собрали космические цифры, а вся франшиза уже подбирается к 1 триллиону просмотров. В честь этого на стримах даже запустили гифты со звёздами розыска. Наш любимый симулятор хаоса разносит интернет в щепки, база.",
+    "card_title": "3,5 МИЛЛИАРДА ПРОСМОТРОВ НА YOUTUBE",
+    "reason": "Official stats from YouTube and Rockstar showing record-breaking views and cultural impact of GTA 6",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-3.5-flash"
+   },
+   "queued_at": "2026-11-27T13:24:02.415189+00:00"
+  },
+  {
+   "item": {
     "title": "GTA VI x GTA+ Screenshots Gallery",
     "link": "https://rockstarintel.com/gta-vi-x-gta-screenshots-gallery/",
     "summary": "GTA+ members get exclusive GTA VI content and when we were first to break the news on launch day, we found the images within the game’s store. However, these images were not in full 4K resolution nor where they clean of UI. The game’s store interface covered parts of the images. I was wondering if [...] The post GTA VI x GTA+ Screenshots Gallery appeared first on RockstarINTEL .",
@@ -17815,9 +17364,6 @@
   }
  ],
  "posts": [
-  "2026-11-25T09:53:45.288321+00:00",
-  "2026-11-25T10:09:18.910066+00:00",
-  "2026-11-25T10:25:04.845119+00:00",
   "2026-11-25T13:11:20.337917+00:00",
   "2026-11-25T17:21:45.937168+00:00",
   "2026-11-25T17:38:45.051199+00:00",
@@ -17834,12 +17380,6 @@
   "username": "gta6_hotnews"
  },
  "drafts": [
-  "2026-11-25T08:00:54.269176+00:00",
-  "2026-11-25T09:00:58.703418+00:00",
-  "2026-11-25T10:01:25.681255+00:00",
-  "2026-11-25T11:02:35.662533+00:00",
-  "2026-11-25T12:03:09.950533+00:00",
-  "2026-11-25T13:03:19.234874+00:00",
   "2026-11-25T14:03:34.684152+00:00",
   "2026-11-25T15:03:40.761643+00:00",
   "2026-11-25T16:11:56.509162+00:00",
@@ -17864,7 +17404,6 @@
   "2026-11-27T13:03:29.525284+00:00"
  ],
  "slots_sent": {
-  "2026-11-25:guide:1": "2026-11-25T11:02:35.662625+00:00",
   "2026-11-25:guide:2": "2026-11-25T19:30:49.885888+00:00",
   "2026-11-26:guide:1": "2026-11-26T07:01:31.326765+00:00",
   "2026-11-26:guide:2": "2026-11-26T08:01:50.799942+00:00",
@@ -17875,36 +17414,6 @@
   "2026-11-26T18:29:20.883321+00:00"
  ],
  "clips": [
-  {
-   "clip": {
-    "source": "twitch",
-    "url": "https://www.twitch.tv/bratishkinoff/clip/FurryInquisitiveSwordBrokeBack-5SIOik-M_5vJpDsB",
-    "title": "призрак",
-    "author": "bratishkinOFF",
-    "views": 738,
-    "duration": 40.1,
-    "created": "2026-11-25T15:42:16+00:00",
-    "lang": "ru",
-    "description": "",
-    "vod_id": "2940292392",
-    "vod_offset": 10530.0
-   },
-   "caption": "В GTA 6 завезли лютый хоррор: едешь ночью по трассе, налетает туман, тачка глохнет и на капот с диким криком прыгает призрак 💀 От такой встречи реально можно словить инфаркт",
-   "interest": 9,
-   "spoiler": false,
-   "nsfw": false,
-   "watched": true,
-   "model": "gemini:gemini-4-hydrogen",
-   "media": {
-    "width": null,
-    "height": 720,
-    "duration": 40
-   },
-   "queued_at": "2026-11-26T13:38:01.398794+00:00",
-   "file_id": "BAACAgIAAxkDAAO3awg2Og6JAfCRsfLWnvm9RlIvgC8AAtGwAAJzy0FI9xwKbLZQkeg9BA",
-   "moderation": "pending",
-   "draft_msg_id": 183
-  },
   {
    "clip": {
     "source": "twitch",
@@ -18177,11 +17686,6 @@
   }
  ],
  "clip_drafts": [
-  "2026-11-25T08:10:34.794245+00:00",
-  "2026-11-25T09:15:15.249708+00:00",
-  "2026-11-25T10:16:44.959566+00:00",
-  "2026-11-25T11:20:56.153105+00:00",
-  "2026-11-25T12:24:26.140864+00:00",
   "2026-11-25T19:42:13.345058+00:00",
   "2026-11-25T20:43:45.856460+00:00",
   "2026-11-25T21:48:57.940422+00:00",
@@ -18203,971 +17707,6 @@
   "2026-11-27T12:49:39.078273+00:00"
  ],
  "clip_history": [
-  {
-   "author": "youtube:typical gamer",
-   "vod": "",
-   "offset": -1,
-   "title": "🔴 LIVE! - PLAYING GTA 6 RIGHT NOW! (PS5 PRO)",
-   "drafted": false,
-   "ts": "2026-11-24T08:12:56.459101+00:00"
-  },
-  {
-   "author": "youtube:猎魔的契约",
-   "vod": "",
-   "offset": -1,
-   "title": "选择喜欢的交通工具吧#gta  #gta6  #shorts",
-   "drafted": false,
-   "ts": "2026-11-24T08:12:57.417836+00:00"
-  },
-  {
-   "author": "youtube:playstation",
-   "vod": "",
-   "offset": -1,
-   "title": "Grand Theft Auto VI - Features Trailer | PS5 Games",
-   "drafted": false,
-   "ts": "2026-11-24T08:12:58.221588+00:00"
-  },
-  {
-   "author": "youtube:gamexboi",
-   "vod": "",
-   "offset": -1,
-   "title": "Did GTA 6 Fixed Car Door Blocked Problem? 🤔",
-   "drafted": false,
-   "ts": "2026-11-24T08:12:59.128677+00:00"
-  },
-  {
-   "author": "twitch:eviemeowie",
-   "vod": "2938020682",
-   "offset": 20455.0,
-   "title": "Parked",
-   "drafted": false,
-   "ts": "2026-11-24T08:13:50.297465+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:avoidingthepuddle",
-   "vod": "2938781725",
-   "offset": 3738.0,
-   "title": "god damnnn",
-   "drafted": false,
-   "ts": "2026-11-24T08:14:44.892518+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:caseoh_",
-   "vod": "2938655753",
-   "offset": 28844.0,
-   "title": "Casoh's soft locked from completing the game by his chat and is now struggling to make money",
-   "drafted": false,
-   "ts": "2026-11-24T08:14:45.683671+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:baupenner",
-   "vod": "2938192582",
-   "offset": 18179.0,
-   "title": "Was ist das 🤣🤣",
-   "drafted": false,
-   "ts": "2026-11-24T08:14:56.550745+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:vinesauce",
-   "vod": "",
-   "offset": -1,
-   "title": "VAPORIZED",
-   "drafted": false,
-   "ts": "2026-11-24T08:16:05.065580+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:rubius",
-   "vod": "2938666621",
-   "offset": 1706.0,
-   "title": "🥵Lucia GTA6🔥",
-   "drafted": false,
-   "ts": "2026-11-24T08:16:06.100267+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:jynxzi",
-   "vod": "2938664561",
-   "offset": 20694.0,
-   "title": "jynxzi checks on nickeh30",
-   "drafted": false,
-   "ts": "2026-11-24T08:16:06.974389+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:illojuan",
-   "vod": "2938510132",
-   "offset": 19489.0,
-   "title": "Canción de mi país",
-   "drafted": false,
-   "ts": "2026-11-24T08:16:07.883445+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:promised_consort_abearbis",
-   "vod": "2935131803",
-   "offset": 14763.0,
-   "title": "\"Yeah me too\" #slag4jesus 🛐🙏🕊️ POINT",
-   "drafted": false,
-   "ts": "2026-11-24T08:17:11.111171+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:joe_bartolozzi",
-   "vod": "2938650249",
-   "offset": 9441.0,
-   "title": "timing",
-   "drafted": false,
-   "ts": "2026-11-24T08:17:12.091860+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:ギルくん",
-   "vod": "2938338541",
-   "offset": 1896.0,
-   "title": "足元何か横切る",
-   "drafted": false,
-   "ts": "2026-11-24T08:17:12.952340+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:auronplay",
-   "vod": "2938386346",
-   "offset": 15465.0,
-   "title": "Nueva funda 😭😂",
-   "drafted": false,
-   "ts": "2026-11-24T08:17:13.768811+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:patstaresat",
-   "vod": "2939024831",
-   "offset": 3636.0,
-   "title": "They better not be callin' the cops",
-   "drafted": false,
-   "ts": "2026-11-24T08:18:23.183955+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:raw_phil",
-   "vod": "",
-   "offset": -1,
-   "title": "dsp drives into water .-.",
-   "drafted": false,
-   "ts": "2026-11-24T08:18:24.204548+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:alanzoka",
-   "vod": "2938467977",
-   "offset": 26312.0,
-   "title": "COITADA DA LUCIA",
-   "drafted": false,
-   "ts": "2026-11-24T08:18:25.656614+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:xagepa",
-   "vod": "2938374630",
-   "offset": 31245.0,
-   "title": "wtf bro",
-   "drafted": false,
-   "ts": "2026-11-24T08:18:26.637984+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:youngmulti",
-   "vod": "2938437279",
-   "offset": 20394.0,
-   "title": "Multi odkrywca nagich zabaw",
-   "drafted": false,
-   "ts": "2026-11-24T08:19:21.980012+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:camy",
-   "vod": "2937570682",
-   "offset": 85595.0,
-   "title": "dwdwdwdawdwd",
-   "drafted": false,
-   "ts": "2026-11-24T08:19:22.848353+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:buster",
-   "vod": "2938532610",
-   "offset": 9687.0,
-   "title": "WW",
-   "drafted": false,
-   "ts": "2026-11-24T08:19:23.509776+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:t2x2",
-   "vod": "2938353942",
-   "offset": 24157.0,
-   "title": "тяжелая жизнь нефора",
-   "drafted": false,
-   "ts": "2026-11-24T08:19:28.380838+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:lru_rose",
-   "vod": "2938409183",
-   "offset": 15897.0,
-   "title": "сюда +яхта",
-   "drafted": false,
-   "ts": "2026-11-24T08:20:27.798714+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:orkpod",
-   "vod": "2938356384",
-   "offset": 16607.0,
-   "title": "Возвращение Хуанга в Nvidia (миниатюра)",
-   "drafted": false,
-   "ts": "2026-11-24T08:20:29.406475+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:jerma985",
-   "vod": "2938334131",
-   "offset": 3156.0,
-   "title": "???",
-   "drafted": false,
-   "ts": "2026-11-24T08:20:30.398416+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:sasavot",
-   "vod": "2938288604",
-   "offset": 9992.0,
-   "title": "ВСМ/ПОНЕДЕЛЬНИК ?",
-   "drafted": false,
-   "ts": "2026-11-24T08:20:41.697976+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:chloeyummyyy",
-   "vod": "2938227714",
-   "offset": 395.0,
-   "title": "fit check",
-   "drafted": false,
-   "ts": "2026-11-24T08:21:45.507530+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:zloyn",
-   "vod": "2938215294",
-   "offset": 12813.0,
-   "title": "WW",
-   "drafted": false,
-   "ts": "2026-11-24T08:21:47.041752+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:fanum",
-   "vod": "2938388445",
-   "offset": 5488.0,
-   "title": "Oh shoot",
-   "drafted": false,
-   "ts": "2026-11-24T08:21:47.833866+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:juansguarnizo",
-   "vod": "2938621669",
-   "offset": 4141.0,
-   "title": "juan choque",
-   "drafted": false,
-   "ts": "2026-11-24T08:21:49.162624+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:trymacs",
-   "vod": "2938528021",
-   "offset": 9353.0,
-   "title": "sber dann bin kch ein Psycho",
-   "drafted": false,
-   "ts": "2026-11-24T08:22:41.877380+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:cohhcarnage",
-   "vod": "2938310833",
-   "offset": 4368.0,
-   "title": "The GTA Radio",
-   "drafted": false,
-   "ts": "2026-11-24T08:22:43.013730+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:djmariio",
-   "vod": "2938378778",
-   "offset": 8017.0,
-   "title": "SE LE HA VISTO EL PEZON",
-   "drafted": false,
-   "ts": "2026-11-24T08:22:43.881727+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:symfuhny",
-   "vod": "2938298608",
-   "offset": 9250.0,
-   "title": "lmao",
-   "drafted": false,
-   "ts": "2026-11-24T08:22:45.850881+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:montanablack88",
-   "vod": "2938201590",
-   "offset": 694.0,
-   "title": "Monte über den Stefan Raab Clip",
-   "drafted": false,
-   "ts": "2026-11-24T08:23:36.957570+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:nickeh30",
-   "vod": "2938347685",
-   "offset": 4772.0,
-   "title": "\"Nick Eh 30 Classic\"",
-   "drafted": false,
-   "ts": "2026-11-24T08:23:38.066366+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:adm1tr1pow",
-   "vod": "2938462181",
-   "offset": 9131.0,
-   "title": "полет нормальный",
-   "drafted": false,
-   "ts": "2026-11-24T08:23:38.965362+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:frametamer666",
-   "vod": "2936786153",
-   "offset": 141014.0,
-   "title": "надо",
-   "drafted": false,
-   "ts": "2026-11-24T08:23:40.835796+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:blackufa",
-   "vod": "2938242406",
-   "offset": 14008.0,
-   "title": "Полет 10 из 10",
-   "drafted": false,
-   "ts": "2026-11-24T08:24:31.514297+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:blackufa",
-   "vod": "2938242406",
-   "offset": 14008.0,
-   "title": "Полет 10 из 10",
-   "drafted": true,
-   "ts": "2026-11-24T08:24:52.738638+00:00",
-   "frames": [],
-   "caption": "Полет Лусии с байка — это просто ЛЮТЫЙ разнос. Физика в GTA 6 реально имба, такого приземления я еще не видел 💀"
-  },
-  {
-   "author": "youtube:jamerjame",
-   "vod": "",
-   "offset": -1,
-   "title": "Michael Is Not Impressed With GTA 6 😭 #gta6 #gta5",
-   "drafted": false,
-   "ts": "2026-11-24T09:25:30.217620+00:00"
-  },
-  {
-   "author": "youtube:heisty",
-   "vod": "",
-   "offset": -1,
-   "title": "When GTA 6 drops but you only have a PC 😭✌ - PC vs Console | Montagem Valkaro | #gta6 #memes #edit",
-   "drafted": false,
-   "ts": "2026-11-24T09:25:31.127386+00:00"
-  },
-  {
-   "author": "youtube:aben",
-   "vod": "",
-   "offset": -1,
-   "title": "KÊNH NÀY CHỈ CHƠI GTA6...",
-   "drafted": false,
-   "ts": "2026-11-24T09:25:31.926553+00:00"
-  },
-  {
-   "author": "youtube:redeye.mp4",
-   "vod": "",
-   "offset": -1,
-   "title": "Я НАШЕЛ СЕКРЕТНЫЙ БУНКЕР И ТАНК В GTA 6! #gta6 #gta",
-   "drafted": false,
-   "ts": "2026-11-24T09:25:32.761509+00:00"
-  },
-  {
-   "author": "twitch:baupenner",
-   "vod": "2938192582",
-   "offset": 32324.0,
-   "title": "Entsorge den Helikopter 🤣🤣",
-   "drafted": false,
-   "ts": "2026-11-24T09:26:23.644548+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:rubius",
-   "vod": "2938666621",
-   "offset": 10134.0,
-   "title": "El compras",
-   "drafted": false,
-   "ts": "2026-11-24T09:26:57.545772+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:ohnepixel",
-   "vod": "2938342600",
-   "offset": 8040.0,
-   "title": "WE CANT BE DEADASS",
-   "drafted": false,
-   "ts": "2026-11-24T09:27:56.493943+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:ohnepixel",
-   "vod": "2938342600",
-   "offset": 8040.0,
-   "title": "WE CANT BE DEADASS",
-   "drafted": true,
-   "ts": "2026-11-24T09:28:35.874092+00:00",
-   "frames": [],
-   "caption": "Тачка застряла на камнях прямо над водой, но Лусия не паникует — просто достала смартфон и починила её через приложение "
-  },
-  {
-   "author": "youtube:verrtv",
-   "vod": "",
-   "offset": -1,
-   "title": "Cabinet Glitch 🗄️ For Free GTA 6 🎮 #GTA #GTA6 #YouTubeShorts",
-   "drafted": false,
-   "ts": "2026-11-24T10:28:56.921243+00:00"
-  },
-  {
-   "author": "youtube:coletheman gta",
-   "vod": "",
-   "offset": -1,
-   "title": "Fastest $40,000 I've Made In GTA 6 #gta6 #gta",
-   "drafted": false,
-   "ts": "2026-11-24T10:28:57.686228+00:00"
-  },
-  {
-   "author": "youtube:techno fun",
-   "vod": "",
-   "offset": -1,
-   "title": "🚤 GTA 6’DA YOLDAKİ YAT DENİZDE ÇALIŞIR MI ? 🤯",
-   "drafted": false,
-   "ts": "2026-11-24T10:28:58.496973+00:00"
-  },
-  {
-   "author": "youtube:tom magic",
-   "vod": "",
-   "offset": -1,
-   "title": "GTA 6: Jason & Lucia Vs Roblox, Minecraft, Lego 🚘🌳 #gta6 #roblox #grandtheftauto",
-   "drafted": false,
-   "ts": "2026-11-24T10:28:59.516358+00:00"
-  },
-  {
-   "author": "youtube:ign",
-   "vod": "",
-   "offset": -1,
-   "title": "GTA 6 - What's New In the First Patch?",
-   "drafted": false,
-   "ts": "2026-11-24T10:29:50.429626+00:00"
-  },
-  {
-   "author": "youtube:facttechz",
-   "vod": "",
-   "offset": -1,
-   "title": "Stop Playing GTA 6 Game! SHOCKING $1 Billion 'Productivity Loss' Explained! #shorts",
-   "drafted": false,
-   "ts": "2026-11-24T10:29:51.234794+00:00"
-  },
-  {
-   "author": "youtube:101leafy",
-   "vod": "",
-   "offset": -1,
-   "title": "GTA 6 PC Port Recomp Race — Live Progress Tracker XCL vs VIctory",
-   "drafted": false,
-   "ts": "2026-11-24T10:29:51.975530+00:00"
-  },
-  {
-   "author": "youtube:игротомия",
-   "vod": "",
-   "offset": -1,
-   "title": "5 настроек для плавности в GTA 6",
-   "drafted": false,
-   "ts": "2026-11-24T10:29:52.802336+00:00"
-  },
-  {
-   "author": "youtube:dhanush ff gamer",
-   "vod": "",
-   "offset": -1,
-   "title": "GTA 6 🌴 FINAL STREAM 🔴 100% GAME COMPLETION! 🏆 | TELUGU LIVE 🔥",
-   "drafted": false,
-   "ts": "2026-11-24T10:30:43.746801+00:00"
-  },
-  {
-   "author": "twitch:pokelawls",
-   "vod": "2938967116",
-   "offset": 20984.0,
-   "title": "GTA 6 issue",
-   "drafted": false,
-   "ts": "2026-11-24T10:30:44.557808+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:illojuan",
-   "vod": "2938510132",
-   "offset": 3936.0,
-   "title": "illojuan se enfada y borra gta6",
-   "drafted": false,
-   "ts": "2026-11-24T10:32:49.478561+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:theburntpeanut",
-   "vod": "2938886234",
-   "offset": 9927.0,
-   "title": "Peanut scared",
-   "drafted": false,
-   "ts": "2026-11-24T10:32:57.145250+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:alanzoka",
-   "vod": "2938467977",
-   "offset": 8415.0,
-   "title": "E quiser explosão",
-   "drafted": false,
-   "ts": "2026-11-24T10:34:03.263653+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:caseoh_",
-   "vod": "2938655753",
-   "offset": 8412.0,
-   "title": "OMG STRAIGHT CHEEKS ACTION LMAO",
-   "drafted": false,
-   "ts": "2026-11-24T10:34:36.877061+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:caseoh_",
-   "vod": "2938655753",
-   "offset": 8412.0,
-   "title": "OMG STRAIGHT CHEEKS ACTION LMAO",
-   "drafted": true,
-   "ts": "2026-11-24T10:35:41.949593+00:00",
-   "frames": [],
-   "caption": "СПОЙЛЕР. 🔞 Вот это отсылка! Нико из GTA 4 решил заглянуть в Леониду, но пришел в чем мать родила. Разнос 💀"
-  },
-  {
-   "author": "youtube:gta2025",
-   "vod": "",
-   "offset": -1,
-   "title": "se puede llenar la alberca de esta forma en #gta6",
-   "drafted": false,
-   "ts": "2026-11-24T11:35:58.677030+00:00"
-  },
-  {
-   "author": "youtube:auntie charli",
-   "vod": "",
-   "offset": -1,
-   "title": "That one friend who’s OBSESSED with GTA 6 #comedy #pov #gta #gta6",
-   "drafted": false,
-   "ts": "2026-11-24T11:35:59.431455+00:00"
-  },
-  {
-   "author": "youtube:tio bit",
-   "vod": "",
-   "offset": -1,
-   "title": "Can You Really Enter Every Building in GTA 6?",
-   "drafted": false,
-   "ts": "2026-11-24T11:36:00.314112+00:00"
-  },
-  {
-   "author": "youtube:shreeman legend live",
-   "vod": "",
-   "offset": -1,
-   "title": "Aaj Full Day Gta 6 | Day 5",
-   "drafted": false,
-   "ts": "2026-11-24T11:36:01.157472+00:00"
-  },
-  {
-   "author": "youtube:mo'din",
-   "vod": "",
-   "offset": -1,
-   "title": "🎮🍶 ON VA VÉRIFIER CE QUE VOUS AVEZ MIJOTÉ ROCKSTAR 😂  #gtavi #gta6",
-   "drafted": false,
-   "ts": "2026-11-24T11:36:52.074627+00:00"
-  },
-  {
-   "author": "youtube:nexiph",
-   "vod": "",
-   "offset": -1,
-   "title": "You DON'T want 6 stars in GTA 6... #GTA6 #GTA6CLIPS #GTAVI #GTATIPS #gta6gameplay",
-   "drafted": false,
-   "ts": "2026-11-24T11:36:52.808250+00:00"
-  },
-  {
-   "author": "twitch:illojuan",
-   "vod": "2938510132",
-   "offset": 16559.0,
-   "title": "GTA VI BUGAZO DE JUAN",
-   "drafted": false,
-   "ts": "2026-11-24T11:36:53.786455+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:lru_rose",
-   "vod": "2938409183",
-   "offset": 18054.0,
-   "title": "где бабки???",
-   "drafted": false,
-   "ts": "2026-11-24T11:38:06.395408+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:lru_rose",
-   "vod": "2938409183",
-   "offset": 18054.0,
-   "title": "где бабки???",
-   "drafted": true,
-   "ts": "2026-11-24T11:38:40.245772+00:00",
-   "frames": [],
-   "caption": "Главное, что упаковка пива в кузове Vapid на месте 🍺 Мелочи и физика предметов — просто база"
-  },
-  {
-   "author": "youtube:santy con y",
-   "vod": "",
-   "offset": -1,
-   "title": "GANE GTA 6 Y SE LO DIERON A OTRO",
-   "drafted": false,
-   "ts": "2026-11-24T12:39:08.493162+00:00"
-  },
-  {
-   "author": "youtube:peter",
-   "vod": "",
-   "offset": -1,
-   "title": "GTA 6 is SCHOOL HOMEWORK?! 😂",
-   "drafted": false,
-   "ts": "2026-11-24T12:39:09.245355+00:00"
-  },
-  {
-   "author": "youtube:shorts from brazuka",
-   "vod": "",
-   "offset": -1,
-   "title": "Ele parou a gameplay só pra falar isso JOGO: GTA 6 #alanzoka",
-   "drafted": false,
-   "ts": "2026-11-24T12:39:10.245691+00:00"
-  },
-  {
-   "author": "youtube:shreyas mendiratta",
-   "vod": "",
-   "offset": -1,
-   "title": "Everything Happened Before GTA 6…",
-   "drafted": false,
-   "ts": "2026-11-24T12:39:11.192348+00:00"
-  },
-  {
-   "author": "youtube:gourav slayz",
-   "vod": "",
-   "offset": -1,
-   "title": "I Asked A Kid To Play GTA 6 With Me!😱",
-   "drafted": false,
-   "ts": "2026-11-24T12:40:02.219338+00:00"
-  },
-  {
-   "author": "youtube:suraj vlogumentary",
-   "vod": "",
-   "offset": -1,
-   "title": "😱 GTA 6 Gameplay Experience PS5  Marshall Speaker Pe Sound Test |  Worth It Hai #minivlog #shorts",
-   "drafted": false,
-   "ts": "2026-11-24T12:40:03.100001+00:00"
-  },
-  {
-   "author": "twitch:jerma985",
-   "vod": "2938334131",
-   "offset": 5550.0,
-   "title": "Run Over?",
-   "drafted": false,
-   "ts": "2026-11-24T12:40:03.949995+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:theburntpeanut",
-   "vod": "2938886234",
-   "offset": 11571.0,
-   "title": "That's a whole lot of ASS!!!!",
-   "drafted": false,
-   "ts": "2026-11-24T12:40:04.675321+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:frametamer666",
-   "vod": "2936786153",
-   "offset": 172472.0,
-   "title": "жулька",
-   "drafted": false,
-   "ts": "2026-11-24T12:40:55.266529+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:illojuan",
-   "vod": "2938510132",
-   "offset": 6867.0,
-   "title": "ovni",
-   "drafted": false,
-   "ts": "2026-11-24T12:40:55.883161+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:chloeyummyyy",
-   "vod": "2938227714",
-   "offset": 14902.0,
-   "title": "Chloeyummyyy 0 The Chair +1",
-   "drafted": false,
-   "ts": "2026-11-24T12:40:56.482392+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:djmariio",
-   "vod": "2932168999",
-   "offset": 35589.0,
-   "title": "WOW",
-   "drafted": false,
-   "ts": "2026-11-24T12:40:56.999491+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:missmikkaa",
-   "vod": "2938373303",
-   "offset": 10903.0,
-   "title": "Snack time!",
-   "drafted": false,
-   "ts": "2026-11-24T12:41:47.661947+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:leb1ga",
-   "vod": "2938347376",
-   "offset": 24613.0,
-   "title": "криси мусорскі вонючі",
-   "drafted": false,
-   "ts": "2026-11-24T12:41:48.088129+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:bratishkinoff",
-   "vod": "2938328156",
-   "offset": 20220.0,
-   "title": "воришка",
-   "drafted": false,
-   "ts": "2026-11-24T12:41:48.485938+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:dahlia",
-   "vod": "2938462320",
-   "offset": 15071.0,
-   "title": "Crazy Drivers",
-   "drafted": false,
-   "ts": "2026-11-24T12:41:48.916675+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:quin69",
-   "vod": "2938394862",
-   "offset": 13569.0,
-   "title": "it worked better in my head",
-   "drafted": false,
-   "ts": "2026-11-24T12:42:39.414663+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:alanzoka",
-   "vod": "2938467977",
-   "offset": 15851.0,
-   "title": "jason, ta deitado por que pô",
-   "drafted": false,
-   "ts": "2026-11-24T12:42:39.859573+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:oskarwesterlin",
-   "vod": "2938487828",
-   "offset": 3287.0,
-   "title": "ook",
-   "drafted": false,
-   "ts": "2026-11-24T12:42:40.259324+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:meshael_mr",
-   "vod": "",
-   "offset": -1,
-   "title": "على أذنها",
-   "drafted": false,
-   "ts": "2026-11-24T12:42:40.837090+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:montanablack88",
-   "vod": "2938201590",
-   "offset": 18475.0,
-   "title": "Schradin & Zarbex am Start",
-   "drafted": false,
-   "ts": "2026-11-24T12:43:31.403279+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:welovegames",
-   "vod": "2938354240",
-   "offset": 10795.0,
-   "title": "Люсия наехала на Джейсона",
-   "drafted": false,
-   "ts": "2026-11-24T12:43:31.911734+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:aryssa614",
-   "vod": "2938311963",
-   "offset": 12149.0,
-   "title": "typical man",
-   "drafted": false,
-   "ts": "2026-11-24T12:43:32.676131+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:西南69",
-   "vod": "2938233418",
-   "offset": 16223.0,
-   "title": "我超大的",
-   "drafted": false,
-   "ts": "2026-11-24T12:43:33.018798+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:domingo",
-   "vod": "2938284759",
-   "offset": 6085.0,
-   "title": "DAB",
-   "drafted": false,
-   "ts": "2026-11-24T12:44:23.653860+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:nickeh30",
-   "vod": "2938347685",
-   "offset": 2458.0,
-   "title": "nick is going insane bro",
-   "drafted": false,
-   "ts": "2026-11-24T12:44:24.039349+00:00",
-   "frames": []
-  },
-  {
-   "author": "youtube:the gamer update",
-   "vod": "",
-   "offset": -1,
-   "title": "GTA knew exactly what they were doing #gta #gaming #gtaclips #gta6 #timthetatman",
-   "drafted": false,
-   "ts": "2026-11-24T12:54:26.185751+00:00"
-  },
-  {
-   "author": "youtube:caspahz",
-   "vod": "",
-   "offset": -1,
-   "title": "FREE Bugatti in GTA 6! Most Expensive Car, No Tracker 🔥",
-   "drafted": false,
-   "ts": "2026-11-24T12:54:27.229041+00:00"
-  },
-  {
-   "author": "youtube:cam",
-   "vod": "",
-   "offset": -1,
-   "title": "LES NOTES DE GTA 6 SONT RIDICULES  #gta",
-   "drafted": false,
-   "ts": "2026-11-24T12:54:27.991166+00:00"
-  },
-  {
-   "author": "youtube:imgoochy",
-   "vod": "",
-   "offset": -1,
-   "title": "Jason Pauses GTA 6 Just For a Chatter 😭❤️",
-   "drafted": false,
-   "ts": "2026-11-24T12:54:28.694699+00:00"
-  },
-  {
-   "author": "youtube:umang edits ",
-   "vod": "",
-   "offset": -1,
-   "title": "Jason's Last Sacrifice ❤️‍🩹🥺 | Gta 6 Edit | LOVE ME NOT | #shorts #gta5 #gta6",
-   "drafted": false,
-   "ts": "2026-11-24T12:55:19.570761+00:00"
-  },
-  {
-   "author": "youtube:atom guy",
-   "vod": "",
-   "offset": -1,
-   "title": "GTA 6 ന്റെ Map END!? 😱🔥 | #shorts #gta6 #funny #games #gta",
-   "drafted": false,
-   "ts": "2026-11-24T12:55:20.529684+00:00"
-  },
-  {
-   "author": "youtube:abtw",
-   "vod": "",
-   "offset": -1,
-   "title": "5 Things To Do BEFORE You Finish Chapter 2 in GTA 6 #gta6 #gta",
-   "drafted": false,
-   "ts": "2026-11-24T12:55:21.402357+00:00"
-  },
-  {
-   "author": "youtube:tamil ultimate gaming",
-   "vod": "",
-   "offset": -1,
-   "title": "GTA 6 Has a CRAZY Random Event! 😱",
-   "drafted": false,
-   "ts": "2026-11-24T12:55:22.184629+00:00"
-  },
-  {
-   "author": "youtube:brandin legacy",
-   "vod": "",
-   "offset": -1,
-   "title": "Npc try’s to rizz up Lucia 😂 #gta6 #gta6clips #lucia #gta6shorts #gameplay #shorts",
-   "drafted": false,
-   "ts": "2026-11-24T12:56:13.310439+00:00"
-  },
-  {
-   "author": "twitch:illojuan",
-   "vod": "2938510132",
-   "offset": 11477.0,
-   "title": "adió",
-   "drafted": false,
-   "ts": "2026-11-24T12:56:14.041206+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:jerma985",
-   "vod": "2938334131",
-   "offset": 29924.0,
-   "title": "Patrick Star Screaming",
-   "drafted": false,
-   "ts": "2026-11-24T12:56:26.235733+00:00",
-   "frames": []
-  },
   {
    "author": "twitch:jerma985",
    "vod": "2938334131",
@@ -24595,36 +23134,5 @@
   "digest-20261125": "2026-11-25T19:30:50.081169+00:00",
   "digest-20261126": "2026-11-26T19:30:31.000089+00:00"
  },
- "rewrite_wait": [
-  {
-   "item": {
-    "title": "Энтузиасты разгоняют GTA VI на PlayStation 5 до 40 fps",
-    "link": "https://ixbt.games/news/2026/11/27/entuziasty-razgoniaiut-gta-vi-na-playstation-5-do-40-fps.html",
-    "summary": "Но есть риск перегрева.",
-    "published": "2026-11-27T12:09:00+00:00",
-    "source": "iXBT.games",
-    "site_name": "iXBT.games",
-    "trust": "medium",
-    "text": "Неофициальный патч для взломанной PlayStation 5, снимающий ограничение частоты кадров в Grand Theft Auto VI, позволил провести новые эксперименты с производительностью игры. Согласно результатам тестирования, проект Rockstar Games вполне мог бы стабильно работать при 40 fps, если бы разработчики согласились пойти на компромисс в качестве изображения. Однако этому мешает еще одна проблема — высокая температура консоли.\nРанее энтузиасты выяснили, что даже более мощная PlayStation 5 Pro не способна обеспечить стабильные 60 fps в GTA 6 после снятия стандартного ограничения в 30 кадров в секунду. Теперь пользователь Reddit под ником gama224 провел дополнительные тесты, сосредоточившись на достижении отметки в 40 fps за счет снижения разрешения рендеринга.\nРезультаты оказались достаточно интересными:\n50% разрешения рендеринга: в насыщенных объектами локациях производительность выросла с 27–30 до 35–40 fps, а в районах с водой — с 30 до 45–50 fps\n60% разрешения рендеринга: в густонаселенных районах удалось получить 30–35 fps вместо 27–30 FPS, а в локациях с водой — около 40 fps\n55% разрешения рендеринга: оказалось оптимальным вариантом. Средняя частота кадров стабильно держалась на уровне 40 fps с колебаниями от 35 до 45 fps. По словам энтузиаста, игра при таких настройках ощущалась плавнее на протяжении перемещения по городу\nНе пропускайте наши новостиДобавьте сайт в предпочитаемые источники, чтобы видеть нас чащеДобавить в Google",
-    "extra": {
-     "image": "https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1747036/c4d7bac8-260a-4b08-8350-4b2b344a2f9e.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "ФПС НА ПАТЧЕ\n\nЭнтузиасты взломали консоль и разогнали GTA 6 на обычной PS5 до 40 кадров в секунду. Правда, ради плавной картинки пришлось знатно пожертвовать разрешением рендеринга, да и консоль греется как печка. Затестили бы такой мыльный имбовый режим?\n\n❤️ — Жертвую качеством ради плавной катки\n👎 — Мыло страшное, лучше в 30 fps",
-    "card_title": "GTA 6 НА PS5 В 40 FPS",
-    "reason": "Энтузиасты смогли запустить GTA 6 на обычной PS5 в 40 fps через неофициальный патч, что очень интересно для игроков",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-27T12:50:42.607219+00:00"
-  }
- ]
+ "rewrite_wait": []
 }
