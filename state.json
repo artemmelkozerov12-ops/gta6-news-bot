@@ -5682,7 +5682,25 @@
   "1d1e6f972ba84ff1": "2026-11-27T19:43:15.770580+00:00",
   "8181e89dfb2b1e9c": "2026-11-27T19:43:16.911398+00:00",
   "8a6392efa8ae26a5": "2026-11-27T19:43:18.198198+00:00",
-  "8db1c724d3ce74a2": "2026-11-27T19:43:19.446224+00:00"
+  "8db1c724d3ce74a2": "2026-11-27T19:43:19.446224+00:00",
+  "ea1a9eacc392ce00": "2026-11-27T19:47:36.780369+00:00",
+  "90b9001c2c8eb2bd": "2026-11-27T19:47:37.858476+00:00",
+  "006776ee1e198de7": "2026-11-27T19:47:38.826220+00:00",
+  "0aa612a0e6bcdf76": "2026-11-27T19:47:39.617283+00:00",
+  "1737a062b6755d08": "2026-11-27T19:48:30.650841+00:00",
+  "c08b7a617b86f798": "2026-11-27T19:48:31.517120+00:00",
+  "f1a8f140060546f7": "2026-11-27T19:48:32.464986+00:00",
+  "cd80aa99cc1bc9c2": "2026-11-27T19:48:33.287468+00:00",
+  "5c2507e44d36b795": "2026-11-27T19:49:24.268955+00:00",
+  "f76084c3a3718589": "2026-11-27T19:49:25.034866+00:00",
+  "c7701f05cd74fe5d": "2026-11-27T19:49:25.906682+00:00",
+  "84787028701b409f": "2026-11-27T19:49:26.890997+00:00",
+  "dfcb838e33dd77ab": "2026-11-27T19:50:17.877386+00:00",
+  "c5bae334204e1469": "2026-11-27T19:59:01.355516+00:00",
+  "91c594816122ad33": "2026-11-27T19:59:02.385770+00:00",
+  "e722718945862614": "2026-11-27T20:14:21.430818+00:00",
+  "23494ada95b2c2a6": "2026-11-27T20:14:22.949772+00:00",
+  "df4dd56f1ef17a7d": "2026-11-27T20:14:25.259203+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -9604,7 +9622,11 @@
   "a8816b18a47ea617": "2026-11-27T19:43:15.770580+00:00",
   "41f088ca8b1fe07f": "2026-11-27T19:43:16.911398+00:00",
   "62ee7806ff881f43": "2026-11-27T19:43:18.198198+00:00",
-  "94a6e8ec4cd0dace": "2026-11-27T19:43:19.446224+00:00"
+  "94a6e8ec4cd0dace": "2026-11-27T19:43:19.446224+00:00",
+  "e8f45312e04dc3f9": "2026-11-27T19:59:01.355516+00:00",
+  "72341b9f1c6be841": "2026-11-27T19:59:02.385770+00:00",
+  "5bf1b66c588b5b80": "2026-11-27T20:14:25.259203+00:00",
+  "d6573ae94510b126": "2026-11-27T20:14:22.949772+00:00"
  },
  "recent": [
   {
@@ -18134,6 +18156,46 @@
    "status": "skipped",
    "ts": "2026-11-27T19:43:19.446340+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GTA 6: Full Find Cars for Wyman mission walkthrough",
+   "source": "VGC",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-27T19:59:01.355616+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Онлайн Call of Duty и Fortnite рухнул из-за GTA 6",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T19:59:02.385893+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Brainwashing Easter egg walkthrough in GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-27T20:14:21.430853+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6: All Unique Snapmatic Animal locations for Bret",
+   "source": "VGC",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-27T20:14:23.541869+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Brainwashing Easter egg walkthrough in GTA 6",
+   "source": "Polygon",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-27T20:14:25.897320+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -18611,36 +18673,6 @@
   {
    "clip": {
     "source": "twitch",
-    "url": "https://www.twitch.tv/loserfruit/clip/BlushingAltruisticSalamanderRickroll-fHc0i9TEGcdHBWUf",
-    "title": "lucia is a baddie",
-    "author": "Loserfruit",
-    "views": 347,
-    "duration": 60.0,
-    "created": "2026-11-26T13:35:49+00:00",
-    "lang": "en",
-    "description": "",
-    "vod_id": "2941203551",
-    "vod_offset": 3078.0
-   },
-   "caption": "СПОЙЛЕР. Лусия устраивает допрос прямо в метро и заставляет заложника звонить по телефону — сюжетка в GTA 6 это чистый разнос 💀",
-   "interest": 9,
-   "spoiler": true,
-   "nsfw": false,
-   "watched": true,
-   "model": "gemini:gemini-3.5-flash-lite",
-   "media": {
-    "width": null,
-    "height": 720,
-    "duration": 60
-   },
-   "queued_at": "2026-11-26T19:47:27.124483+00:00",
-   "file_id": "BAACAgIAAxkDAAO9awiM0XGbY9JTI_isl7aFxZV_E0sAAmq3AAJzy0FIUbqcdxq4_7U9BA",
-   "moderation": "pending",
-   "draft_msg_id": 189
-  },
-  {
-   "clip": {
-    "source": "twitch",
     "url": "https://www.twitch.tv/sypherpk/clip/ArtsyNeighborlyMarrowJonCarnage-MWIXsfykGLE9nlGt",
     "title": "keep it family friendly",
     "author": "SypherPK",
@@ -18907,6 +18939,36 @@
    "file_id": "BAACAgIAAxkDAAPMawmK1Hq8H5G9H7dUvTB9JmRQ1nAAAjO1AAJzy0lIsrOO7nnhEHg9BA",
    "moderation": "pending",
    "draft_msg_id": 204
+  },
+  {
+   "clip": {
+    "source": "twitch",
+    "url": "https://www.twitch.tv/happydies/clip/ThoughtfulWittyMartenSwiftRage-PAbpCfYqKPxZKeLv",
+    "title": "Бигфут раскрыт",
+    "author": "HappyDies",
+    "views": 2105,
+    "duration": 31.2,
+    "created": "2026-11-27T15:59:27+00:00",
+    "lang": "ru",
+    "description": "",
+    "vod_id": "2939244497",
+    "vod_offset": 8828.0
+   },
+   "caption": "СПОЙЛЕР. Лусию вырубили в подвале и на грудь села огромная лягушка — сюжетка в GTA 6 это чистый рофл 💀",
+   "interest": 9,
+   "spoiler": true,
+   "nsfw": false,
+   "watched": true,
+   "model": "gemini:gemini-3.5-flash-lite",
+   "media": {
+    "width": null,
+    "height": 720,
+    "duration": 31
+   },
+   "queued_at": "2026-11-27T19:50:24.918724+00:00",
+   "file_id": "BAACAgIAAxkDAAPTawnfAvH43BmNrWfJeQK24Fz9BCkAAsO1AALiwFBIS9cmWaag-cM9BA",
+   "moderation": "pending",
+   "draft_msg_id": 211
   }
  ],
  "clip_drafts": [
@@ -18929,7 +18991,8 @@
   "2026-11-27T10:35:37.153355+00:00",
   "2026-11-27T11:44:48.601743+00:00",
   "2026-11-27T12:49:39.078273+00:00",
-  "2026-11-27T13:51:17.116374+00:00"
+  "2026-11-27T13:51:17.116374+00:00",
+  "2026-11-27T19:50:26.633361+00:00"
  ],
  "clip_history": [
   {
@@ -23300,6 +23363,121 @@
    "ts": "2026-11-27T13:51:17.116393+00:00",
    "frames": [],
    "caption": "СПОЙЛЕР. Сюжетка в GTA 6: Лусия держит заложницу на прицеле, а потом спасает её — чистый разнос 💀"
+  },
+  {
+   "author": "youtube:live insaan",
+   "vod": "",
+   "offset": -1,
+   "title": "Becoming a Millionaire by Stealing Supercars in GTA 6 Live🛑",
+   "drafted": false,
+   "ts": "2026-11-27T19:47:36.780405+00:00"
+  },
+  {
+   "author": "youtube:clipcurrent",
+   "vod": "",
+   "offset": -1,
+   "title": "NICKEH30 IS CRAZY IN GTA 6!! 😈💀",
+   "drafted": false,
+   "ts": "2026-11-27T19:47:37.858510+00:00"
+  },
+  {
+   "author": "youtube:carryislive",
+   "vod": "",
+   "offset": -1,
+   "title": "PERFECT BANK HEIST",
+   "drafted": false,
+   "ts": "2026-11-27T19:47:38.826254+00:00"
+  },
+  {
+   "author": "youtube:jred_03",
+   "vod": "",
+   "offset": -1,
+   "title": "LUCIA Y SU MALA SUERTE EN GTA 6 #gta6",
+   "drafted": false,
+   "ts": "2026-11-27T19:47:39.617315+00:00"
+  },
+  {
+   "author": "youtube:small live",
+   "vod": "",
+   "offset": -1,
+   "title": "I Went To SPACE In GTA 6",
+   "drafted": false,
+   "ts": "2026-11-27T19:48:30.650876+00:00"
+  },
+  {
+   "author": "youtube:zippy 3d",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6-Hulk Vs Spiderman Challenge 🤣 34 #hulk #spiderman #gta",
+   "drafted": false,
+   "ts": "2026-11-27T19:48:31.517151+00:00"
+  },
+  {
+   "author": "youtube:capybluh",
+   "vod": "",
+   "offset": -1,
+   "title": "When I play GTA 6",
+   "drafted": false,
+   "ts": "2026-11-27T19:48:32.465025+00:00"
+  },
+  {
+   "author": "youtube:léo conversas animadas",
+   "vod": "",
+   "offset": -1,
+   "title": "Minha mãe me pegou jogando GTA 6 - Conversas de WhatsApp",
+   "drafted": false,
+   "ts": "2026-11-27T19:48:33.287512+00:00"
+  },
+  {
+   "author": "youtube:unknown smug",
+   "vod": "",
+   "offset": -1,
+   "title": "If Different Things Got Removed From GTA 6...",
+   "drafted": false,
+   "ts": "2026-11-27T19:49:24.268990+00:00"
+  },
+  {
+   "author": "youtube:猎魔的契约",
+   "vod": "",
+   "offset": -1,
+   "title": "怎么全给她抢完了呀 #gta  #gta6  #shorts",
+   "drafted": false,
+   "ts": "2026-11-27T19:49:25.034902+00:00"
+  },
+  {
+   "author": "youtube:tasche",
+   "vod": "",
+   "offset": -1,
+   "title": "Acharam o easter egg mais engraçado do GTA 6!!",
+   "drafted": false,
+   "ts": "2026-11-27T19:49:25.906717+00:00"
+  },
+  {
+   "author": "youtube:jaywayygaming",
+   "vod": "",
+   "offset": -1,
+   "title": "3 Secret Golden Gun Locations in GTA 6",
+   "drafted": false,
+   "ts": "2026-11-27T19:49:26.891038+00:00"
+  },
+  {
+   "author": "twitch:happydies",
+   "vod": "2939244497",
+   "offset": 8828.0,
+   "title": "Бигфут раскрыт",
+   "drafted": false,
+   "ts": "2026-11-27T19:50:17.877430+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:happydies",
+   "vod": "2939244497",
+   "offset": 8828.0,
+   "title": "Бигфут раскрыт",
+   "drafted": true,
+   "ts": "2026-11-27T19:50:26.633379+00:00",
+   "frames": [],
+   "caption": "СПОЙЛЕР. Лусию вырубили в подвале и на грудь села огромная лягушка — сюжетка в GTA 6 это чистый рофл 💀"
   }
  ],
  "published": [
