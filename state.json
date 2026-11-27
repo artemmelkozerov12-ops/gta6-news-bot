@@ -5191,7 +5191,19 @@
   "31f75a4fa8d5711c": "2026-11-27T01:13:57.551435+00:00",
   "57828530cd1ba236": "2026-11-27T01:13:58.682417+00:00",
   "cef4e69176ae1997": "2026-11-27T01:29:14.908883+00:00",
-  "75761de52d3b138d": "2026-11-27T01:29:15.847947+00:00"
+  "75761de52d3b138d": "2026-11-27T01:29:15.847947+00:00",
+  "2c9dbf8c564c16cd": "2026-11-27T02:03:59.417391+00:00",
+  "2ae5b9c100e6646e": "2026-11-27T02:04:27.259967+00:00",
+  "7eb23fbf43fe2fae": "2026-11-27T02:04:56.060241+00:00",
+  "2bc9aaa45e5a417e": "2026-11-27T02:05:15.783172+00:00",
+  "925cdafe495e933c": "2026-11-27T02:05:23.364000+00:00",
+  "2d049803be7ae898": "2026-11-27T02:05:30.707371+00:00",
+  "6df44dbe3b7056d3": "2026-11-27T02:05:38.370981+00:00",
+  "453bb90cbe41fc63": "2026-11-27T02:05:40.362062+00:00",
+  "4c6a965d9303baa0": "2026-11-27T02:21:00.387650+00:00",
+  "1c1ada36ed68a954": "2026-11-27T02:36:20.246634+00:00",
+  "4394008471a5a525": "2026-11-27T02:36:21.290761+00:00",
+  "255a63e60a14fc39": "2026-11-27T02:36:22.729703+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -8716,1017 +8728,21 @@
   "0920e6710f5bf3cf": "2026-11-27T01:13:57.551435+00:00",
   "95e62d51151bdedf": "2026-11-27T01:13:58.682417+00:00",
   "8000348e4024a5ed": "2026-11-27T01:29:14.908883+00:00",
-  "9b5d25d90780a177": "2026-11-27T01:29:15.847947+00:00"
+  "9b5d25d90780a177": "2026-11-27T01:29:15.847947+00:00",
+  "21362618fb356144": "2026-11-27T02:03:59.417391+00:00",
+  "7990ea38394aa4e5": "2026-11-27T02:04:27.259967+00:00",
+  "1e291c92506eae67": "2026-11-27T02:04:56.060241+00:00",
+  "305cdb8b9161f841": "2026-11-27T02:05:15.783172+00:00",
+  "815d206a673d664f": "2026-11-27T02:05:23.364000+00:00",
+  "9e12d7111e0e60c8": "2026-11-27T02:05:30.707371+00:00",
+  "5819e195e52ca510": "2026-11-27T02:05:38.370981+00:00",
+  "4e752e783356f0dd": "2026-11-27T02:05:40.362062+00:00",
+  "a44afe8f25709f66": "2026-11-27T02:21:00.387650+00:00",
+  "f4bcf379b4654e1d": "2026-11-27T02:36:20.246634+00:00",
+  "a2167dec74979adf": "2026-11-27T02:36:21.290761+00:00",
+  "2209306e0682fd7f": "2026-11-27T02:36:22.729703+00:00"
  },
  "recent": [
-  {
-   "title": "Best unique weapons to grab early in GTA 6: Get yourself some silenced weapons without the price tag",
-   "source": "PC Gamer",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-24T20:28:24.498245+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Just Like GTA 6, The Witcher 4 Has A PlayStation Deal",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T20:28:30.367149+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "In 'GTA VI,' every stolen car is a music discovery machine",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T20:28:31.725193+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "The Witcher 4 will be a GTA 6-like leap forward, CD Projekt Red says",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T20:28:40.273867+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA VI Netflix trailer tripled the weekly sales pace, while launch week drove nearly three-quarters of campaign GMV",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T20:28:41.785633+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Bad Driver! guide: tracking down Felipe and deciding his fate",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T20:28:45.141354+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Woman Says Men Who Play GTA 6 Are Not High Value",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T20:28:59.825482+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Gets Officially Licensed Trading Cards Based on In-Game Collectibles",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T20:29:12.166668+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Here’s How To Get A Banshee In GTA 6 And Unlock A GTA 3 -Inspired Trophy",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-24T20:44:55.030064+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Should Christians Play GTA 6? Christian Rappers, Pastors, & Creators Weigh In",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-24T20:44:55.030113+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Is Giving Pornhub A Hard Time",
-   "source": "GameSpot",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-24T20:44:55.996690+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Here’s How To Get A Banshee In GTA 6 And Unlock A GTA 3-Inspired Trophy",
-   "source": "Kotaku",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-24T20:45:06.665775+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "How to Find and Complete the La Cascara Motel Illegal Operation in GTA 6—All Key Valuables",
-   "source": "Insider Gaming",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-24T20:45:21.666851+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Дартс и боулинг не попали в GTA 6 из-за нехватки ресурсов у Rockstar",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T20:45:34.189314+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "'Crazy Secretive' — GTA 6 Voice Actor Reveals Details of Rockstar's 'Humongous' NDA",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T20:45:38.550032+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Should Christians Play GTA 6? Christian YouTuber Ruslan KD Weighs In",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T20:45:41.484437+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "YouTube celebrates the launch and cultural impact of Grand Theft Auto VI",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T20:45:46.127465+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Has an Unkillable NPC Who Hunts You Through a Sniper Scope, Here Is How to Find Him",
-   "source": "GTA BOOM",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-24T21:01:09.603158+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "The Final Act Podcast in GTA 6 Tells You What Happened to Michael, Franklin and Trevor",
-   "source": "GTA BOOM",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-24T21:01:53.910556+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 - Mod Shop Locations, How to Customize Your Car and More",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T21:01:59.392329+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "‘Call of Duty’ And ‘Fortnite’ Engagement Plunges After ‘GTA VI’ Release, Report Says",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T21:02:01.531666+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Рекордный старт: игра GTA 6 заработала почти 4 млрд долларов в первые сутки",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T21:02:04.590854+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "‘GTA VI’ Just Achieved Something Completely Unexpected",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T21:02:07.303345+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Оно боится: Зельник с косой жнеца пробежался по GitHub и почистил все следы ПК-порта GTA 6 Project Leonida",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T21:02:10.003605+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Project Leonida, the GTA 6 PC Recompilation Effort, Goes Dark as Fake Builds Start Spreading Malware",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T21:02:11.692702+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Chapter 5 Mission List: Every Mission in Order & Point Of No Return",
-   "source": "VGC",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-24T21:17:33.610284+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "В GTA 6 нашли пасхалку с Томом Крузом из культового триллера \"Соучастник\"",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T21:17:51.896528+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Хороший мальчик. Почему GTA VI называют симулятором подкаблучника и чему пытаются учить мужчин создатели игры",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T21:18:04.387570+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA VI is steeped in Florida politics. These 5 moments show how",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T21:18:10.541713+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 players found a first-person camera glitch, but getting back takes another step",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T21:18:19.467150+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 player finds a hidden Vice City throwback after spending three days following power lines",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T21:18:22.328016+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "According To A Research Firm ‘GTA 6’ Has Accomplished Something It Took ‘GTA V’ A Whole Year To Do",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T21:18:24.246461+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA VI Official Trading Cards Announced by Panini",
-   "source": "Rockstar Intel",
-   "trust": "medium",
-   "status": "queued",
-   "ts": "2026-11-24T21:34:24.303268+00:00",
-   "card_title": "ОФИЦИАЛЬНЫЕ КАРТОЧКИ GTA VI"
-  },
-  {
-   "title": "Panini and Rockstar Announce Official GTA 6 Trading Cards, Out in December",
-   "source": "GTA BOOM",
-   "trust": "medium",
-   "status": "queued",
-   "ts": "2026-11-24T21:34:26.217639+00:00",
-   "card_title": "ОФИЦИАЛЬНЫЕ КАРТЫ GTA 6"
-  },
-  {
-   "title": "GTA 6 Has Recaptured the Beautifully Borked Energy of Skyrim",
-   "source": "Polygon",
-   "trust": "high",
-   "status": "queued",
-   "ts": "2026-11-24T21:34:48.494025+00:00",
-   "card_title": "БАГИ И СМЕХ В GTA6"
-  },
-  {
-   "title": "Quote of the Day from GTA 6 writer: \"We want players to be emotionally in step with Jason and Lucia\"",
-   "source": "GamesRadar+",
-   "trust": "high",
-   "status": "queued",
-   "ts": "2026-11-24T21:35:20.998335+00:00",
-   "card_title": "ЭМОЦИОНАЛЬНЫЙ СИНХРОН ДЖЕЙСОН ЛУИЗА"
-  },
-  {
-   "title": "GTA 6 Performs Better on Xbox Series X Than Base PS5, Despite All of Sony's Marketing",
-   "source": "Push Square",
-   "trust": "high",
-   "status": "published",
-   "ts": "2026-11-24T21:35:46.169689+00:00",
-   "card_title": "XBOX VS PS5 В GTA 6"
-  },
-  {
-   "title": "Official GTA 6 trading cards are coming next month",
-   "source": "VGC",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-24T21:35:46.211903+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "How to Get Jason & Lucia’s Relationship to Max Level in GTA 6",
-   "source": "Insider Gaming",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-24T21:35:48.741739+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "The Witcher 4 Will Have a Comparable Leap From GTA 5 to GTA 6, Says CD Projekt Red",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T21:35:49.667826+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "How GTA VI serves as a ‘developmental tool for incels’",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T21:35:50.815238+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 players have discovered iconic cars from famous films and TV series.",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T21:35:52.015463+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Игроки GTA 6 обнаружили культовые машины из известных фильмов и сериалов",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T21:35:58.434857+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA VI Launch Triggered a 10% Dip in Gym Workouts",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T21:35:59.626706+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Опубликован список видеокарт AMD для неофициального запуска GTA 6 на ПК",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T21:36:00.759798+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Even the Cyberpunk 2 director is shaken by GTA 6",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T21:36:07.998506+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Релиз GTA VI ударил по посещаемости порносайтов, но затем игроки начали искать видео про автомобили и Лусию",
-   "source": "iXBT.games",
-   "trust": "medium",
-   "status": "queued",
-   "ts": "2026-11-24T21:52:22.533910+00:00",
-   "card_title": "ГЕЙМЕРЫ ПРОМЕНЯЛИ 18+ НА GTA 6"
-  },
-  {
-   "title": "Catastrophic 'GTA 6' Leak Officially Kickstarts PC Port Race",
-   "source": "Polygon",
-   "trust": "high",
-   "status": "queued",
-   "ts": "2026-11-24T21:52:34.788928+00:00",
-   "card_title": "ХАКЕР СЛИЛ БИЛД GTA 6"
-  },
-  {
-   "title": "GTA 6 Data Reveals Only 40% of Players Have Cleared Chapter 2",
-   "source": "Polygon",
-   "trust": "high",
-   "status": "queued",
-   "ts": "2026-11-24T21:52:46.574554+00:00",
-   "card_title": "МЕНЬШЕ ПРОЦЕНТА ПРОШЛИ GTA 6"
-  },
-  {
-   "title": "Real Life Strip Club Says It's Had 'Hundreds of Inquiries' From GTA 6 Fans, as Pornhub Traffic Plummets",
-   "source": "IGN",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-24T21:52:46.574590+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 has more framerate drops on PS5 than Xbox Series X, according to analysis",
-   "source": "VGC",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-24T21:52:57.612460+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Best way to reveal the map in GTA 6",
-   "source": "Polygon",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-24T21:53:05.042999+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "The race to port GTA 6 to PC, explained",
-   "source": "PC Gamer",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-24T21:53:07.328806+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "CD Projekt RED сравнила графический прогресс The Witcher 4 с GTA 6",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T21:53:29.270885+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "All Red Dead Redemption references in GTA 6",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T21:53:39.973908+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 PC Port on GitHub Shut Down Following Take-Two DMCA Complaint",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T21:53:42.080369+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Tinashe Sings “Melatonin” Verse Mid-Shootout During Her ‘GTA VI’ Stream",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T21:53:43.861952+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Yes, Despite What Some Say Online, There Are Thunderstorms In GTA 6",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-24T22:09:32.056167+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6: Fastest Cars & Where To Find Them",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-24T22:09:32.056217+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 PC vibe-coders beg AI to \"make no mistakes,\" which will definitely work",
-   "source": "GamesRadar+",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-24T22:09:35.029406+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "How to get your car out of the impound in GTA 6",
-   "source": "Polygon",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-24T22:09:52.433285+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA VI is great on PlayStation 5, but it could be better on PC – 4 things I’m hoping for",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T22:10:04.008170+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Tom Petty, Stephen Root and Cedar Key: The local ties hidden in GTA VI",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T22:10:07.810820+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "All safe codes in GTA 6 and where to find them",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T22:10:14.635048+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 PC Port Officially Shut Down By Rockstar",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T22:10:18.023348+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Safe Word Mission Walkthrough: How to Steal the Practice Safe",
-   "source": "VGC",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-24T22:25:41.510696+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Should You Participate in the Safe Word Mission in GTA 6?",
-   "source": "VGC",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-24T22:25:43.521179+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Vice City portal Easter egg location in GTA 6",
-   "source": "Polygon",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-24T22:25:46.040796+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Experience retro Vice City after solving this GTA 6 puzzle",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T22:25:47.758544+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Epic 'GTA 6' scavenger hunt erupts after actor asks for help finding him in the game",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T22:25:48.983225+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "A Secret Portal in GTA VI Transports You Back to the PS2 Era",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T22:25:51.144060+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "The Travis Scott x Rockstar x Nike Air Force 1 Low GTA 6 Pack Raffle is Live",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T22:25:52.547584+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA VI PC recompilation project shut down by Take-Two",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T22:25:53.982087+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "How to flip your car in GTA 6",
-   "source": "Polygon",
-   "trust": "high",
-   "status": "dup",
-   "ts": "2026-11-24T22:41:11.201348+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Pushing The Witcher 4 to Improve “Every Possible Facet” of The Witcher 3",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T22:41:12.941919+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Easter Egg Has One NPC Work Out The Game’s Biggest Secret",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T22:41:14.037344+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Премьера Греции захейтили за шутку про GTA 6 для внуков",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T22:41:15.076402+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Where to find books, little libraries, and the book club in GTA 6",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T22:41:16.785972+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 cloud streaming hits PS5 and PlayStation Portal, sparing your hard drive a 212GB install",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T22:41:18.165078+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Here's where you can steal the Ocelot Bloodless Jugular for Randy in GTA 6",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T22:41:25.363108+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Desperate Gamers Are Trying Bring GTA 6 To PCs And Break Free Of Its 30 Fps Cap",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T22:41:26.616146+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA VI Has Wild Monkeys. The Real Florida Has Them Too — and There's a Bizarre Story Behind Them",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T22:41:33.566800+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Runs Better On Xbox Series X Than Base PS5",
-   "source": "Insider Gaming",
-   "trust": "medium",
-   "status": "dup",
-   "ts": "2026-11-24T22:56:50.537060+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Chapter 1 Is Hooking Players So Much With Its Slice of Life Content That They Aren't Even Doing Any Crime",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T22:56:52.343803+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Forget GTA 6, Rockstar’s Best Open-World Game Movie Adaptation Reportedly in Works for $100M+",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T22:56:53.522189+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "‘GTA 6’ Fans Will Soon Be Able to Collect Real-Life Versions of the Game’s Trading Cards—And Some Are One of a Kind",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T22:56:54.674950+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Richmond’s Bunny Machine on Keeping Her GTA 6 Secret",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T22:56:55.698182+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "A Month In, and I Thought I'd Seen All of GTA 6. I Was So Wrong",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T22:56:56.894304+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Трафик Pornhub резко упал в день выхода GTA 6",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T22:56:58.287188+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Photo/Shoot mission guide: helicopter photos, a car chase and Dre’Quan’s rescue",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T22:56:59.403449+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "To run GTA 6 on PC via Project Victory, you will need at least an RTX 2080 Ti or RX 6700 XT.",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T22:57:00.441567+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "The difference between The Witcher 3 and Witcher 4 will be 'comparable' to that of GTA 5 and GTA 6, CD Projekt boss says: 'I mean, it's been 11 years'",
-   "source": "PC Gamer",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-24T23:12:24.512103+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Rockstar reportedly kills Project Leonida, a 15-year-old's GTA 6 PC port effort, along with its 180,000-member Discord",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T23:12:27.021452+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Mandy Location Explained: How To Find Her House And See Her Again",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T23:12:28.135394+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Witcher 4's evolution similar to GTA 5's leap to GTA 6, CD Projekt says",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T23:12:29.458974+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Unauthorized 'GTA 6' PC port shut down by Rockstar Games' parent company",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T23:12:30.785357+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Для запуска GTA 6 на ПК через проект VIctory потребуется минимум RTX 2080 Ti или RX 6700 XT",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T23:12:32.021193+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Директор Larian Studios похвалил GTA 6 за отказ от «подкаблучника»",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T23:12:33.230743+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "CDPR: «Ведьмак 4» превзойдет «Ведьмака 3», как GTA 6 затмила GTA 5",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T23:12:34.082890+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "The leap from The Witcher 3 to The Witcher 4 will be \"comparable\" to GTA 5 and GTA 6, says CDPR",
-   "source": "GamesRadar+",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-24T23:27:52.521718+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 обещала 60 FPS из-за бага: проверка раскрыла неприятное",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T23:28:00.558321+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Rockstar Games kills unauthorized 'GTA 6' PC port, for obvious reasons",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T23:28:08.485171+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "We Tested GTA 6's Driving Physics And The Results Surprised Us",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T23:28:16.798771+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Как регистрировать больше машин в GTA 6. Как открыть больше слотов под тачки в ГТА 6",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T23:28:24.279099+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Запущен сайт слежения за неофициальными ПК-портами GTA 6 с прогрессом 72%",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T23:28:32.793298+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA V вернулась в топ-10 Steam на фоне выхода GTA 6 и скидки 56%",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T23:28:39.640342+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Змея Джейсона в GTA 6 довела до белого каления владелицу настоящих змей",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T23:28:48.950729+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "'GTA 6' is giving Carly Rae Jepsen's 'Run Away With Me' a second life",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T23:28:56.667217+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 - PlayStation 5 Pro Vs Base PlayStation 5 | Graphics Comparison",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T23:44:19.162823+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Highland man faces charges after GTA VI threats at Walmart",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T23:44:25.556402+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Творческий директор Cyberpunk 2 признался в «депрессии из-за GTA 6»",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T23:44:26.626194+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA VI: PS5 Pro держит 30 FPS, Xbox Series S падает ниже 20",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T23:44:33.295973+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Моддеры запустили GTA 6 на ПК со скоростью около 4 FPS",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T23:44:34.498596+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "PS5 раскупили: эффект GTA 6 опустошает полки",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T23:44:35.560044+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Carly Rae Jepsen's 'Run Away With Me' Sees 288 Percent Streaming Bump Thanks to 'GTA VI'",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-24T23:44:36.792312+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Exclusive: Sabii Garcia on the Drink Pose and Green Jersey in the GTA 6 Cover Art",
-   "source": "GTA BOOM",
-   "trust": "medium",
-   "status": "queued",
-   "ts": "2026-11-25T00:02:19.900337+00:00",
-   "card_title": "СЕКРЕТ ОБЛОЖКИ GTA 6"
-  },
-  {
-   "title": "Скачок между The Witcher 3 и The Witcher 4 будет похож на переход от GTA V к GTA VI, заверила CDPR",
-   "source": "iXBT.games",
-   "trust": "medium",
-   "status": "queued",
-   "ts": "2026-11-25T00:02:44.774226+00:00",
-   "card_title": "CDPR СРАВНИЛА ВЕДЬМАКА 4 С GTA 6"
-  },
-  {
-   "title": "GTA 6's Staggering Sales Still Might Never Catch GTA 5",
-   "source": "Polygon",
-   "trust": "high",
-   "status": "queued",
-   "ts": "2026-11-25T00:03:53.337795+00:00",
-   "card_title": "GTA 6 НЕ ДОГОНИТ ПЯТЁРКУ?"
-  },
-  {
-   "title": "Пастор запустил GTA VI прямо во время проповеди, чтобы научить прихожан терпению",
-   "source": "iXBT.games",
-   "trust": "medium",
-   "status": "queued",
-   "ts": "2026-11-25T00:03:55.653825+00:00",
-   "card_title": "ПАСТОР И GTA VI"
-  },
-  {
-   "title": "Real-Life Strip Club Spearmint Rhino Is Recreating Dances From GTA 6",
-   "source": "GTA BOOM",
-   "trust": "medium",
-   "status": "queued",
-   "ts": "2026-11-25T00:03:58.292063+00:00",
-   "card_title": "СПИРМИНТ РХИНО ТАНЦУЕТ GTA"
-  },
-  {
-   "title": "GTA 6 60fps glitch isn't all it's cracked up to be, tech analysis shows",
-   "source": "GamesRadar+",
-   "trust": "high",
-   "status": "queued",
-   "ts": "2026-11-25T00:04:26.597057+00:00",
-   "card_title": "ГЛИТЧ 60FPS В GTA6"
-  },
-  {
-   "title": "Yes, Despite What Some Say Online, There Are Thunderstorms In GTA 6",
-   "source": "Kotaku",
-   "trust": "high",
-   "status": "queued",
-   "ts": "2026-11-25T00:04:56.698027+00:00",
-   "card_title": "ШТОРМЫ В GTA 6"
-  },
-  {
-   "title": "Fursuit Bans, Furry Hunters, And A Chaotic Rescue: What’s Actually Going On With Furries In GTA 6",
-   "source": "Kotaku",
-   "trust": "high",
-   "status": "queued",
-   "ts": "2026-11-25T00:05:15.464686+00:00",
-   "card_title": "ФУРРИ МИССИЯ В GTA6"
-  },
-  {
-   "title": "Feature: We Travelled Across GTA 6's Map Using Only Public Transport",
-   "source": "Push Square",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-25T00:58:38.696923+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Serial Killer Walkthrough for Gellhorn’s Missing Tourists and Both Endings",
-   "source": "GTA BOOM",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-25T00:58:41.456725+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6's coolest Easter egg so far is so intricate that only real Vice City sickos would ever find it",
-   "source": "GamesRadar+",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-25T01:34:07.230311+00:00",
-   "card_title": ""
-  },
   {
    "title": "Real-Life GTA 6 Trading Cards Are About to Get Scalped",
    "source": "Push Square",
@@ -16854,6 +15870,110 @@
    "status": "skipped",
    "ts": "2026-11-27T01:29:15.848061+00:00",
    "card_title": ""
+  },
+  {
+   "title": "South Park Finale Puts Kenny Inside GTA 6",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "queued",
+   "ts": "2026-11-27T02:03:58.243986+00:00",
+   "card_title": "КЕННИ ВЫЛЕЗ ИЗ GTA 6"
+  },
+  {
+   "title": "How to Get Jason and Lucia’s J and L Caps in GTA 6",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-27T02:03:59.779110+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Ghost Lighthouse Guide to the Cursed Knife and Ghost Ship",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-27T02:04:36.699853+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Sunrise RV Park Robbery Guide: Scoped Revolver and Dock Safe",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-27T02:05:11.585442+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Sound4Sound Studio Robbery Guide for the K17 and Bourbon Windsor",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-27T02:05:16.557947+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Ocean Beach Lab Robbery Guide to the Zodiac Nipper.38 and Safe Loot",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-27T02:05:24.759054+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Tower Egg Easter Egg: Where to Throw It Near Hamlet",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-27T02:05:33.043414+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 had a Gran Turismo finalist working under the hood",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T02:05:38.371126+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Microsoft-owned GitHub spotlighted a PS5-to-PC translation layer amid GTA 6 DMCA strikes, then quietly deleted the post",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T02:05:40.362200+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "The unofficial GTA 6 PC port CGBJ posted a Windows launcher on 26 November and its GitHub repository now returns 404 for reasons unknown, with GitHub publishing no takedown notice naming it, while PortWatchVI relays a 25fps average in gameplay",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T02:21:00.387798+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 release produces rash of bricked Xbox consoles, joining failing PS5s",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T02:36:20.246764+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Why GTA 6 rewards empathy",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T02:36:21.290878+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Энтузиасты впервые запустили GTA VI на ПК с 60 FPS в катсцене",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T02:36:22.729829+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -16974,37 +16094,6 @@
     "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
    },
    "queued_at": "2026-11-26T23:40:56.462643+00:00"
-  },
-  {
-   "item": {
-    "title": "After playing the game, 30% of polled GTA 6 players want to buy flowers for a loved one, 9% accidentally punched cats",
-    "link": "https://www.eurogamer.net/gta-6-30-percent-buy-flowers-punch-cats",
-    "summary": "A new survey of Grand Theft Auto 6 players has found some particularly interesting results. 30 percent came away from the game with the desire to buy someone special flowers. Nine percent punched cats. Read more",
-    "published": "2026-11-26T14:09:10+00:00",
-    "source": "Eurogamer",
-    "site_name": "Eurogamer",
-    "trust": "high",
-    "text": "A new survey of Grand Theft Auto 6 players has found some particularly interesting results. 30 percent came away from the game with the desire to buy someone special flowers. Nine percent punched cats.\nPer Games User Research's director Steve Bromley, 303 players from across the UK and US were polled on their experiences. They had to have at least two hours of playtime to contribute, which led to an informed sample of how folks are finding the game.\nThose polled gave the game an 8.4/10 (that's 4.2/5 Eurogamer readers), which is glowing praise. 42 percent loved the narrative, as well as Jason and Lucia's relationship. 38 dug the lifelike and believable world, while 35 percent were keen on the freedom to explore and the variety of activities.\nAs for what they didn't like, 28 percent weren't a fan of the slow pacing and long cutscenes, 19 percent didn't like the difficulty in stealing cars and losing a wanted level, while 18 percent were put off by the game's technical performance.\nNow for some fun findings: 41 percent expressed an interest in improving their real life after playing the game, with 30 percent of those looking to buy a loved one some flowers. Nice! 14 percent were at least once confused or stuck, due to confusion with the stealth, identifying time-sensitive missions, or experiencing control issues.\nThere's some bad news for the cats out there, too. Nine percent accidentally punched a cat while trying to pet it, while 61 percent had the same experience with human NPCs. At least it wasn't intentional, that has to count for something. Right?",
-    "extra": {
-     "image": "https://assetsio.gnwcdn.com/cat-gta-6.jpg?width=690&quality=85&format=jpg&auto=webp"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "🐱 9% игроков в GTA 6 случайно УДАРИЛИ кота вместо ласки\n\nВ опросе среди 303 геймеров выяснилось, что 61% вообще случайно врезали обычным NPC. Зато 41% после игры захотели прокачать реальную жизнь, а 30% из них — подарить близким цветы. Ору с этого вайба: одной рукой дарим букеты, другой — путаем кнопки.",
-    "card_title": "УДАРЫ КОТАМ И ЦВЕТЫ БЛИЗКИМ",
-    "reason": "Интересный опрос игроков о GTA 6 с забавными результатами про котиков и цветы.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-4-hydrogen"
-   },
-   "queued_at": "2026-11-26T14:20:10.318198+00:00",
-   "moderation": "pending",
-   "draft_msg_id": 184
   },
   {
    "item": {
@@ -17420,6 +16509,35 @@
   },
   {
    "item": {
+    "title": "South Park Finale Puts Kenny Inside GTA 6",
+    "link": "https://www.gtaboom.com/south-park-finale-puts-kenny-inside-gta-6-a029",
+    "summary": "Kenny crawls out of the boys’ TV while they play GTA 6 in the South Park finale, giving the season’s running gag a horror movie punchline.",
+    "published": "2026-11-27T00:47:50+00:00",
+    "source": "GTA BOOM",
+    "site_name": "GTA BOOM",
+    "trust": "medium",
+    "text": "South Park spent its entire 29th season joking about Grand Theft Auto VI and the finale paid it off with Kenny crawling out of the game. In \"City Endings,\" which aired November 25 on Comedy Central, the boys sit down to play GTA 6, spot Kenny lying on a sidewalk and realize they forgot about him, right before he drags himself toward the screen and bursts out of the TV like something out of The Ring.\nJust to be clear, Kenny is not in GTA 6 as an Easter Egg, whatever the viral clip's caption suggests. The sequence is South Park dropping its own dead kid into gameplay it shows on screen.\nAs we've mentioned, this was the payoff for a season that started with a town that kept insisting things would get better in November, the show's stand-in for the release date. Episode 2 turned a blackout into a GTA 6 save-data crisis. By Episode 4 the show was airing real GTA 6 footage straight from Rockstar Games, Jason on the beach and all, confirmed in the credits. \"City Endings\" is the last beat of a joke built across the whole season.\nThe plot around it is pure South Park. With the whole town glued to GTA 6, rolling outages hit. The boys trace them to Mayor McDaniels' secret deal with the \"billionaire weenies\" whose AI data centers are draining the grid, while the town's politicians hunt for a scapegoat, pointing to GTA VI instead. Kenny's spirit cannot rest until the corruption comes out, so his horror-show breakout is what pushes the kids to act. By the end the power is back and Kenny is too.\nThe joke works because it is barely a joke. GTA 6 is the kind of event South Park used to save for elections. The show treated its launch in the same way, a date the whole country counted down to and a blackout when it arrived. The game's record-breaking launch gave the writers the perfect thing to unplug.\nSouth Park is only the latest corner of pop culture to rebuild itself around GTA 6 this month. NBA 2K27 turned its online hub into a neon Vice City, the soundtrack took over Spotify and the boxed edition set physical sales records across Europe without a disc inside. A cartoon town losing power while everyone is playing it is the most honest version of that story yet.\nKenny always comes back. This time he had to crawl out of GTA 6 to get anyone to look up from the controller.\nOnce a post receives 3 qualifying Helpful marks\nGTA 6 Set Physical Launch Records Across Europe Without a Disc\nThe GTA 6 Soundtrack Took Over Spotify and Revived a Decade-Old Song",
+    "extra": {
+     "image": "https://media.gtaboom.com/variants/1920/media/images/f6/a6/south-park-finale-puts-kenny-inside-gta-6.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "📺 Кенни ВЫЛЕЗ из GTA 6 в финале «Южного парка»\n\nВ новой серии пацаны сели рубиться, заметили на тротуаре забытого Кенни, и чел полез прямо из телика в стиле «Звонка». Ору, что даже отключения света в городе сериал свалил на релиз, но не ведитесь на байты: в самой игре такой пасхалки нет.",
+    "card_title": "КЕННИ ВЫЛЕЗ ИЗ GTA 6",
+    "reason": "South Park featured GTA 6 in its season finale, showing real game footage and making it a central plot point.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-4-hydrogen"
+   },
+   "queued_at": "2026-11-27T02:03:58.243974+00:00"
+  },
+  {
+   "item": {
     "title": "How to Find and Complete the Biker Hideout Illegal Operation in GTA 6—All Key Valuables",
     "link": "https://insider-gaming.com/gta-6-biker-hideout-all-key-valuables/",
     "summary": "Here’s a guide on how to find the Biker Hideout Alley illegal operation in GTA 6 and grabbing all it’s key valuables. The post How to Find and Complete the Biker Hideout Illegal Operation in GTA 6—All Key Valuables appeared first on Insider Gaming .",
@@ -17585,8 +16703,6 @@
   "username": "gta6_hotnews"
  },
  "drafts": [
-  "2026-11-24T20:30:28.952858+00:00",
-  "2026-11-24T21:36:11.909030+00:00",
   "2026-11-25T06:00:21.448854+00:00",
   "2026-11-25T07:00:39.447209+00:00",
   "2026-11-25T08:00:54.269176+00:00",
@@ -17925,8 +17041,6 @@
   }
  ],
  "clip_drafts": [
-  "2026-11-24T20:29:37.383213+00:00",
-  "2026-11-24T21:55:06.434149+00:00",
   "2026-11-25T07:08:00.412145+00:00",
   "2026-11-25T08:10:34.794245+00:00",
   "2026-11-25T09:15:15.249708+00:00",
@@ -17948,97 +17062,6 @@
   "2026-11-26T21:54:00.092981+00:00"
  ],
  "clip_history": [
-  {
-   "author": "twitch:michou",
-   "vod": "2937267270",
-   "offset": 26759.0,
-   "title": "stunt michou",
-   "drafted": false,
-   "ts": "2026-11-23T21:17:39.713886+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:montanablack88",
-   "vod": "2938201590",
-   "offset": 2992.0,
-   "title": "Tanzshow",
-   "drafted": false,
-   "ts": "2026-11-23T21:17:41.173393+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:bigpuffer",
-   "vod": "2937551178",
-   "offset": 28431.0,
-   "title": "Marty McFly moment",
-   "drafted": false,
-   "ts": "2026-11-23T21:17:42.499576+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:charborg",
-   "vod": "2937903732",
-   "offset": 4108.0,
-   "title": "Easiest kidnapping ever",
-   "drafted": false,
-   "ts": "2026-11-23T21:17:51.634013+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:dmitry_bale",
-   "vod": "2935987301",
-   "offset": 26164.0,
-   "title": "ГачиАкута№2",
-   "drafted": false,
-   "ts": "2026-11-23T21:18:54.169797+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:h2p_gucio",
-   "vod": "2937558490",
-   "offset": 16575.0,
-   "title": "xDDDDDDDD",
-   "drafted": false,
-   "ts": "2026-11-23T21:18:54.985845+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:zetfartv",
-   "vod": "2937772066",
-   "offset": 10718.0,
-   "title": "on est enfin au chapitre 2",
-   "drafted": false,
-   "ts": "2026-11-23T21:18:55.968028+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:missmikkaa",
-   "vod": "2937328007",
-   "offset": 25077.0,
-   "title": "that looked like it hurt",
-   "drafted": false,
-   "ts": "2026-11-23T21:19:55.430569+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:squeex",
-   "vod": "2937696340",
-   "offset": 5810.0,
-   "title": "before we go in....",
-   "drafted": false,
-   "ts": "2026-11-23T21:20:46.857724+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:squeex",
-   "vod": "2937696340",
-   "offset": 5810.0,
-   "title": "before we go in....",
-   "drafted": true,
-   "ts": "2026-11-23T21:20:57.697579+00:00",
-   "frames": [],
-   "caption": "Имба: Джейсон и Лусия обнимаются перед ограблением — чисто романтик-вайб посреди криминала 💀"
-  },
   {
    "author": "youtube:mrduarte xd",
    "vod": "",
@@ -24000,19 +23023,7 @@
    "kind": "rumor"
   }
  ],
- "extras": [
-  {
-   "key": "digest-20261126",
-   "kind": "Итоги дня",
-   "payload": {
-    "text": "🌙 <b>Итоги дня</b> · 26 ноября\n\n🎥 <a href=\"https://t.me/gta6_hotnews/101\">В GTA 6 завезли мини-игру с массажем и съёмками на пляже — чисто лютый разнос 💀</a>\n📰 <a href=\"https://t.me/gta6_hotnews/102\">Ферма на $2k: битва кулаками с невидимым NPC</a>\n🔥 <a href=\"https://t.me/gta6_hotnews/103\">Take‑Two закрывает коммьюнити‑порты GTA 6</a>\n\nЧто из этого зашло больше всего? Пиши в комменты 👇",
-    "publish_at": "2026-11-26T20:00:00+00:00"
-   },
-   "moderation": "pending",
-   "draft_msg_id": 188,
-   "queued_at": "2026-11-26T19:30:31.000073+00:00"
-  }
- ],
+ "extras": [],
  "extras_sent": {
   "poll-2026-W47": "2026-11-21T16:00:25.901739+00:00",
   "weekly-20261121": "2026-11-21T17:30:42.606074+00:00",
@@ -24023,36 +23034,5 @@
   "digest-20261125": "2026-11-25T19:30:50.081169+00:00",
   "digest-20261126": "2026-11-26T19:30:31.000089+00:00"
  },
- "rewrite_wait": [
-  {
-   "item": {
-    "title": "South Park Finale Puts Kenny Inside GTA 6",
-    "link": "https://www.gtaboom.com/south-park-finale-puts-kenny-inside-gta-6-a029",
-    "summary": "Kenny crawls out of the boys’ TV while they play GTA 6 in the South Park finale, giving the season’s running gag a horror movie punchline.",
-    "published": "2026-11-27T00:47:50+00:00",
-    "source": "GTA BOOM",
-    "site_name": "GTA BOOM",
-    "trust": "medium",
-    "text": "South Park spent its entire 29th season joking about Grand Theft Auto VI and the finale paid it off with Kenny crawling out of the game. In \"City Endings,\" which aired November 25 on Comedy Central, the boys sit down to play GTA 6, spot Kenny lying on a sidewalk and realize they forgot about him, right before he drags himself toward the screen and bursts out of the TV like something out of The Ring.\nJust to be clear, Kenny is not in GTA 6 as an Easter Egg, whatever the viral clip's caption suggests. The sequence is South Park dropping its own dead kid into gameplay it shows on screen.\nAs we've mentioned, this was the payoff for a season that started with a town that kept insisting things would get better in November, the show's stand-in for the release date. Episode 2 turned a blackout into a GTA 6 save-data crisis. By Episode 4 the show was airing real GTA 6 footage straight from Rockstar Games, Jason on the beach and all, confirmed in the credits. \"City Endings\" is the last beat of a joke built across the whole season.\nThe plot around it is pure South Park. With the whole town glued to GTA 6, rolling outages hit. The boys trace them to Mayor McDaniels' secret deal with the \"billionaire weenies\" whose AI data centers are draining the grid, while the town's politicians hunt for a scapegoat, pointing to GTA VI instead. Kenny's spirit cannot rest until the corruption comes out, so his horror-show breakout is what pushes the kids to act. By the end the power is back and Kenny is too.\nThe joke works because it is barely a joke. GTA 6 is the kind of event South Park used to save for elections. The show treated its launch in the same way, a date the whole country counted down to and a blackout when it arrived. The game's record-breaking launch gave the writers the perfect thing to unplug.\nSouth Park is only the latest corner of pop culture to rebuild itself around GTA 6 this month. NBA 2K27 turned its online hub into a neon Vice City, the soundtrack took over Spotify and the boxed edition set physical sales records across Europe without a disc inside. A cartoon town losing power while everyone is playing it is the most honest version of that story yet.\nKenny always comes back. This time he had to crawl out of GTA 6 to get anyone to look up from the controller.\nOnce a post receives 3 qualifying Helpful marks\nGTA 6 Set Physical Launch Records Across Europe Without a Disc\nThe GTA 6 Soundtrack Took Over Spotify and Revived a Decade-Old Song",
-    "extra": {
-     "image": "https://media.gtaboom.com/variants/1920/media/images/f6/a6/south-park-finale-puts-kenny-inside-gta-6.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "Кенни выполз из GTA 6\n\nВ финале 29-го сезона Южного Парка Кенни вылез прямо из экрана телевизора во время катсценки в игре. Создатели сериала весь сезон посвещали шуткам про релиз нашей любимой катки и даже использовали реальные кадры от Rockstar.\n\n❤️ — Ждем серию в озвучке\n👎 — Опять Кенни слили",
-    "card_title": "SOUTH PARK И GTA 6",
-    "reason": "South Park featured GTA 6 in its season finale, showing real game footage and making it a central plot point.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-27T00:58:35.872678+00:00"
-  }
- ]
+ "rewrite_wait": []
 }
