@@ -5319,7 +5319,21 @@
   "e668fed281454985": "2026-11-27T09:29:07.461522+00:00",
   "1bd247ae3aa7b255": "2026-11-27T09:29:29.158718+00:00",
   "943cfe1c4fa6f22a": "2026-11-27T09:29:52.355881+00:00",
-  "65face9abf08337a": "2026-11-27T09:30:13.307852+00:00"
+  "65face9abf08337a": "2026-11-27T09:30:13.307852+00:00",
+  "05f1ef87112f4575": "2026-11-27T09:45:34.141513+00:00",
+  "87b7b7c65c81cb36": "2026-11-27T09:45:34.994279+00:00",
+  "c76d7dfbb1d897cf": "2026-11-27T09:46:05.012707+00:00",
+  "6233e8e02fec7814": "2026-11-27T09:46:18.403848+00:00",
+  "668ae5c53862426e": "2026-11-27T09:49:23.674966+00:00",
+  "9c096dfefe84c781": "2026-11-27T09:49:24.280477+00:00",
+  "72e30472bd15d2eb": "2026-11-27T09:49:24.745218+00:00",
+  "e9b305fe7da9990b": "2026-11-27T09:49:31.420115+00:00",
+  "23398066c8aec91a": "2026-11-27T10:04:51.624854+00:00",
+  "e0a6b67f320132e7": "2026-11-27T10:04:52.403412+00:00",
+  "0c25719220e5a1b1": "2026-11-27T10:05:02.393153+00:00",
+  "dc18006c4443e922": "2026-11-27T10:05:27.178504+00:00",
+  "048a82ff6c260384": "2026-11-27T10:05:50.994079+00:00",
+  "a5a0683ac244942f": "2026-11-27T10:06:13.759607+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -8933,7 +8947,21 @@
   "f73a7b257677367f": "2026-11-27T09:29:07.461522+00:00",
   "aba0b614fe0118e0": "2026-11-27T09:29:29.158718+00:00",
   "501a760a7ebe0aa2": "2026-11-27T09:29:52.355881+00:00",
-  "2687203e37f45430": "2026-11-27T09:30:13.307852+00:00"
+  "2687203e37f45430": "2026-11-27T09:30:13.307852+00:00",
+  "af15a79eed7a955f": "2026-11-27T09:45:34.141513+00:00",
+  "6ea5451de051224c": "2026-11-27T09:45:34.994279+00:00",
+  "949bc4b92b9bafa2": "2026-11-27T09:46:05.012707+00:00",
+  "4ed6f3175a112540": "2026-11-27T09:46:18.403848+00:00",
+  "d589e698de42388d": "2026-11-27T09:49:23.674966+00:00",
+  "e37004dc28adc6b4": "2026-11-27T09:49:24.280477+00:00",
+  "5124f247a8299fcf": "2026-11-27T09:49:24.745218+00:00",
+  "753e7dc896b07989": "2026-11-27T09:49:31.420115+00:00",
+  "e60c02cbd7b684f0": "2026-11-27T10:04:51.624854+00:00",
+  "0fff06f646459c13": "2026-11-27T10:04:52.403412+00:00",
+  "125a015c4fe4f5b5": "2026-11-27T10:05:02.393153+00:00",
+  "b94250179f64741a": "2026-11-27T10:05:27.178504+00:00",
+  "05f2a20bfe574d45": "2026-11-27T10:05:50.994079+00:00",
+  "4fce5d7e6d58ce33": "2026-11-27T10:06:13.759607+00:00"
  },
  "recent": [
   {
@@ -16686,6 +16714,118 @@
    "trust": "rumor",
    "status": "skipped",
    "ts": "2026-11-27T09:30:13.307998+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 задрала планку так высоко, что 80 евро за ежегодные игры выглядят неловко",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T09:45:34.141661+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA Black Friday Deals 2026: Best GTA 6, GTA 5 and GTA Trilogy Discounts on PS5, Xbox, PC and Nintendo Switch",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T09:45:34.994430+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Study reveals how GTA 6’s release affected employee productivity in Latvia and worldwide",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T09:46:05.012857+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "The unofficial GTA VI PC port already has a multiplayer mod",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T09:46:18.403990+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6: Thousands of recomp repositories taken down – but what did it achieve?",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T09:49:23.675111+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Early Spending: What To Buy First With Tight Cash",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T09:49:24.280624+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Кто сыграл Вики в GTA 6",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T09:49:24.745359+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Точка невозврата в GTA 6 — начало финала и что будет после концовки",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T09:49:31.420260+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI, GTA VI, GTA VI, GTA VI, GTA VI, GTA VI, GTA VI... [Взвешенный Ответ]",
+   "source": "StopGame",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-27T10:04:51.624992+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 worries spread as Xbox joins PS5 in blackouts, tech expert explains console issue",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T10:04:52.403555+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Внимание к каждой детали: отсылки и секреты GTA 6, которые вы могли пропустить во время игры",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T10:05:02.393306+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Неофициальный ПК-порт GTA 6 протестировали на Ryzen 9 9950X3D с RTX 5090",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T10:05:27.178652+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "После выхода GTA 6 консоли Xbox массово превращаются в «кирпичи», пополняя ряды вышедших из строя PS5",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T10:05:50.994225+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "В неофициальном ПК-порте GTA VI заработал мультиплеер",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T10:06:13.759745+00:00",
    "card_title": ""
   }
  ],
