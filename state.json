@@ -5669,7 +5669,20 @@
   "05efee816a2ba206": "2026-11-27T19:12:21.382278+00:00",
   "96f3d647b5041553": "2026-11-27T19:12:22.461662+00:00",
   "ebc178f08abe7d90": "2026-11-27T19:12:23.265976+00:00",
-  "bdbbbb5361f41ae8": "2026-11-27T19:12:24.602949+00:00"
+  "bdbbbb5361f41ae8": "2026-11-27T19:12:24.602949+00:00",
+  "fdc375209c58919f": "2026-11-27T19:27:43.768558+00:00",
+  "3d7aea604f09c6ba": "2026-11-27T19:27:45.340187+00:00",
+  "ed12963a7b678864": "2026-11-27T19:27:47.262276+00:00",
+  "24b6d08591ddc909": "2026-11-27T19:27:47.984346+00:00",
+  "979ada031ae35a7b": "2026-11-27T19:27:49.243262+00:00",
+  "34530ee85191bf46": "2026-11-27T19:27:50.521436+00:00",
+  "fa90cca5b07b7710": "2026-11-27T19:27:51.543356+00:00",
+  "c04005a0b45eafdd": "2026-11-27T19:43:13.066188+00:00",
+  "08a02e295f92e425": "2026-11-27T19:43:14.432187+00:00",
+  "1d1e6f972ba84ff1": "2026-11-27T19:43:15.770580+00:00",
+  "8181e89dfb2b1e9c": "2026-11-27T19:43:16.911398+00:00",
+  "8a6392efa8ae26a5": "2026-11-27T19:43:18.198198+00:00",
+  "8db1c724d3ce74a2": "2026-11-27T19:43:19.446224+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -9579,7 +9592,19 @@
   "6d55f8f88022c27b": "2026-11-27T19:12:21.382278+00:00",
   "9be9c6a33d7b0018": "2026-11-27T19:12:22.461662+00:00",
   "1dda0c84f2bf69ef": "2026-11-27T19:12:23.265976+00:00",
-  "c07578ad3833a882": "2026-11-27T19:12:24.602949+00:00"
+  "c07578ad3833a882": "2026-11-27T19:12:24.602949+00:00",
+  "7b97b742706d09c6": "2026-11-27T19:27:45.340187+00:00",
+  "9a900ef57dec17b2": "2026-11-27T19:27:47.262276+00:00",
+  "8229f9c091967a8e": "2026-11-27T19:27:47.984346+00:00",
+  "30c9b74749d5c6f6": "2026-11-27T19:27:49.243262+00:00",
+  "55f0122def9b7eee": "2026-11-27T19:27:50.521436+00:00",
+  "0b2617b2e176aef3": "2026-11-27T19:27:51.543356+00:00",
+  "42d0b63fe0f6d354": "2026-11-27T19:43:13.066188+00:00",
+  "3aaf0fb1ba4d3056": "2026-11-27T19:43:14.432187+00:00",
+  "a8816b18a47ea617": "2026-11-27T19:43:15.770580+00:00",
+  "41f088ca8b1fe07f": "2026-11-27T19:43:16.911398+00:00",
+  "62ee7806ff881f43": "2026-11-27T19:43:18.198198+00:00",
+  "94a6e8ec4cd0dace": "2026-11-27T19:43:19.446224+00:00"
  },
  "recent": [
   {
@@ -18013,6 +18038,102 @@
    "status": "skipped",
    "ts": "2026-11-27T19:12:24.603080+00:00",
    "card_title": ""
+  },
+  {
+   "title": "What's on the Hard Drive in GTA 6? GTA 6 Ending Explained",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-27T19:27:43.768600+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 стала самым продаваемым физическим релизом десятилетия",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T19:27:47.262396+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "The Strange Backlash Against ‘GTA 6,’ Explained",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T19:27:47.984464+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Grotti Itali RSX GTA 6 Location – Where to Find It for Randy’s Wishlist",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T19:27:49.243385+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Someone already made a multiplayer mod for an unofficial GTA 6 PC port, and it seems to run surprisingly smoothly",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T19:27:50.521561+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Guide – Don’t Make These 20 Mistakes",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T19:27:51.543475+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "After falling in love with PS5 haptic feedback in GTA 6, I'm eyeing these Black Friday deals on DualSense controllers",
+   "source": "PC Gamer",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-27T19:43:13.066317+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Will GTA 6 Get a Story DLC? GTA 6 DLC Plans, Explained",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-27T19:43:14.432295+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GitHub deletes post promoting PS5-to-PC project AnyPS5 days after axing 3,000 GTA 6 PC port repos",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T19:43:15.770700+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Как угнать автомобиль Bravado Banshee в ГТА 6. Как получить трофей «Капитальный Ремонт» в GTA 6",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T19:43:16.911527+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Где найти самый быстрый автомобиль в ГТА 6 — Truffade Thrax. Как угнать машину для миссии «Список желаний Рэнди» в GTA 6",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T19:43:18.198330+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 runs ‘better’ on BC-250 than PS5",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T19:43:19.446340+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -18200,37 +18321,6 @@
   },
   {
    "item": {
-    "title": "40 часов в GTA VI между гонками. Макс Ферстаппен рассказал, чем занимался в Лас-Вегасе",
-    "link": "https://ixbt.games/news/2026/11/27/40-casov-v-gta-vi-mezdu-gonkami-maks-ferstappen-rasskazal-cem-zanimalsia-v-las-vegase.html",
-    "summary": "Макс Ферстаппен провёл 40 часов за GTA VI между тренировками и этапами Формулы-1, а затем выиграл Гран-при Лас-Вегаса.",
-    "published": "2026-11-27T06:31:00+00:00",
-    "source": "iXBT.games",
-    "site_name": "iXBT.games",
-    "trust": "medium",
-    "text": "Макс Ферстаппен провёл 40 часов за GTA VI между тренировками и этапами Формулы-1, а затем выиграл Гран-при Лас-Вегаса.\nЧетырёхкратный чемпион мира Формулы-1 оказался среди фанатов новой игры Rockstar Games. О своём увлечении гонщик рассказал во время интернет-трансляции, объяснив, когда именно находил время для игры. Вопреки появившимся предположениям, Ферстаппен не провёл весь обратный перелёт за GTA VI. Вместо этого он запускал игру в свободные часы перед очередными мероприятиями Гран-при.\nЯ много играл по вечерам и утром в Вегасе. Всё равно я не мог тогда выходить на улицу и гулять.\nГонщик подтвердил, что практически каждую свободную минуту между заездами в Лас-Вегасе посвящал GTA VI. Разумеется, у него были тренировки и другие обязательства на трассе, однако при первой возможности он возвращался к консоли. В общей сложности Ферстаппен наиграл 40 часов, после чего выиграл Гран-при Лас-Вегаса.\nF1 star Max Verstappen says he played over 40 hours of GTA 6 and still won the Las Vegas Grand Prix \"I can’t go out anyways and walk around.”\nУвлечение новой игрой Rockstar повлияло и на планы спортсмена относительно других проектов. Изначально голландец собирался в ближайшее время проводить трансляции по Minecraft, однако GTA VI перетянула всё его внимание. Ферстаппен не скрывает, что ему сложно одновременно уделять время нескольким играм.\nНе пропускайте наши новостиДобавьте сайт в предпочитаемые источники, чтобы видеть нас чащеДобавить в Google",
-    "extra": {
-     "image": "https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1746865/de4f867a-1751-402d-9330-444f0b87206a.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "🏎 Макс Ферстаппен наиграл 40 часов в GTA 6 и выиграл Гран-при\n\nЧетырёхкратный чемпион Ф1 задротил в Vice City по утрам и вечерам прямо в Вегасе между заездами, потому что всё равно не мог выходить на улицу. Зато раздал базы на трассе и забрал победу. Настоящий флекс!",
-    "card_title": "ФЕРСТАППЕН НАИГРАЛ 40 ЧАСОВ В GTA 6",
-    "reason": "Цитата знаменитости о геймплее в свежей игре — высокий хайп и интересное для фанатов.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "groq:qwen/qwen3.8-27b → gemini:gemini-3.5-flash"
-   },
-   "queued_at": "2026-11-27T07:36:31.933090+00:00",
-   "moderation": "pending",
-   "draft_msg_id": 196
-  },
-  {
-   "item": {
     "title": "GTA VI Hits 53 Million Copies Sold in Just 1 Week, Generating $4.7 Billion",
     "link": "https://rockstarintel.com/gta-vi-hits-53-million-copies-sold-in-just-1-week-generating-4-7-billion/",
     "summary": "GTA VI has been out for a week and new sales estimates are in following that record breaking launch several days ago. According to new research by Alinea Analytics, GTA VI has sold through 53 million copies. That’s up about 10 million in 4 days. If true, it is now the 3rd best selling video [...] The post GTA VI Hits 53 Million Copies Sold in Just 1 Week, Generating $4.7 Billion appeared first on RockstarINTEL .",
@@ -18256,7 +18346,9 @@
     "guide": false,
     "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
    },
-   "queued_at": "2026-11-27T18:39:29.386692+00:00"
+   "queued_at": "2026-11-27T18:39:29.386692+00:00",
+   "moderation": "pending",
+   "draft_msg_id": 210
   },
   {
    "item": {
@@ -18502,7 +18594,8 @@
   "2026-11-27T15:05:09.715486+00:00",
   "2026-11-27T16:05:26.773812+00:00",
   "2026-11-27T17:05:40.855067+00:00",
-  "2026-11-27T18:41:33.664807+00:00"
+  "2026-11-27T18:41:33.664807+00:00",
+  "2026-11-27T19:42:09.193381+00:00"
  ],
  "slots_sent": {
   "2026-11-25:guide:2": "2026-11-25T19:30:49.885888+00:00",
@@ -23724,7 +23817,8 @@
   "digest-20261123": "2026-11-23T19:30:46.041576+00:00",
   "digest-20261124": "2026-11-24T19:30:13.623703+00:00",
   "digest-20261125": "2026-11-25T19:30:50.081169+00:00",
-  "digest-20261126": "2026-11-26T19:30:31.000089+00:00"
+  "digest-20261126": "2026-11-26T19:30:31.000089+00:00",
+  "digest-20261127": "2026-11-27T19:30:25.546809+00:00"
  },
  "rewrite_wait": [
   {
@@ -23846,6 +23940,36 @@
    },
    "corr": false,
    "since": "2026-11-27T18:56:50.104779+00:00"
+  },
+  {
+   "item": {
+    "title": "What’s on the Hard Drive in GTA 6? GTA 6 Ending Explained",
+    "link": "https://insider-gaming.com/gta-6-hard-drive-ending/",
+    "summary": "What's on the hard drive in GTA 6 and how does it explain the games ending? The post What’s on the Hard Drive in GTA 6? GTA 6 Ending Explained appeared first on Insider Gaming .",
+    "published": "2026-11-27T19:14:29+00:00",
+    "source": "Insider Gaming",
+    "site_name": "Insider Gaming",
+    "trust": "medium",
+    "text": "If you’ve clicked on this article, you almost certainly haven’t rolled the credits and completed the ending of GTA 6; however, if you haven’t, we strongly recommend stopping now if you don’t want spoilers, because they’re unavoidable in this article.\nAs you’ll know, throughout the GTA 6 story, the hard drive is central to most of it, especially in the later chapters. The hard drive also finally leads to a mystery ending to GTA 6, which could set the franchise up for the future.\nRELATED – All GTA 6 Endings Explained & How to Get The Best Ending\nIn the very last scene of GTA 6, despite the ending you get, Cal is sitting at his laptop, waiting for files to decrypt. After what seems like hours of decryption (Cal falls asleep), he’s awoken by the files being decrypted. The post-scene credits show Cal watching the files, and he’s noticeably shocked and says “No F**king Way”, then the screen goes to black.\nIt’s an intriguing tease for the end of GTA 6 that has left many players puzzled, and while we don’t see exactly what Cal saw, the game’s story gives us a few hints.\nSo what’s on the hard drive? Well, we don’t actually know; however, there are several hints and possibilities.\nIn Chapter 5, Giorgio Gallo says the hard drive’s contents could cause World War 3, suggesting they contain damning evidence against high-profile figures (also mentioned in Chapter 5).\nHowever, fans believe Cal’s reaction is more than that, possibly tied to his conspiracy theories. Perhaps the hard drive revealed that Cal has been right about everything, which is a conspiracy theorist’s dream, and frankly, would warrant a reason like that.\nNow this is a bit of an out-there theory, but it’s something that we think Rockstar Games could actually do.\nFans have been frothing at the mouth for GTA single-player DLC for a long time, and while we will undoubtedly get that in GTA 6 Online, the hard drive cliffhanger could leave fans with something more.\nAfter all, does a GTA 6 cliffhanger really matter for GTA 7 if it’s probably another 10 years away? It’s possible the hard drive could set up some form of DLC in the future, or it may have been a tease in GTA 6 Online.\nGTA 6 was originally planned to be a multi-island game (it’s why its codename was Americas), so it isn’t out of the realm of possibility that a future expansion or DLC is on the cards for GTA 6 single-player. Of course, we’re probably still a few years away from hearing anything like that, so for now, we’ll need to keep speculating.\nWh",
+    "extra": {
+     "image": "https://insider-gaming.com/wp-content/uploads/2026/11/whats-on-the-hard-drive-in-gta-6-ending-1024x576.png"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "ТАЙНА концовки GTA 6: что на том ж*стком диске?\n\nФинальный клиффхангер с расшифровкой файлов у Кэла знатно зафорсил теории. Фанатам зашло предполагать, что там компромат на всех подряд или подтверждение лютых конспирологических теорий.\n\n❤️ — Ждем сюжетное DLC\n👎 — Опять тизер для онлайна",
+    "card_title": "ТАЙНА ЖЕСТКОГО ДИСКА В GTA 6",
+    "reason": "Статья разбирает реальный финал уже вышедшей игры и теории о жестком диске",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "What's on the Hard Drive in GTA 6? GTA 6 Ending Explained",
+    "corroborated_by": "What's on the Hard Drive in GTA 6? GTA 6 Ending Explained",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-27T19:27:45.988100+00:00"
   }
  ]
 }
