@@ -5409,7 +5409,28 @@
   "489e3d2a465e290a": "2026-11-27T12:03:06.093277+00:00",
   "459974cb3511f355": "2026-11-27T12:03:07.411031+00:00",
   "d7dcdfb3814f75b4": "2026-11-27T12:03:08.247414+00:00",
-  "eb8d85a130710526": "2026-11-27T12:03:09.384642+00:00"
+  "eb8d85a130710526": "2026-11-27T12:03:09.384642+00:00",
+  "55e8b163ac6f46e7": "2026-11-27T12:18:33.079744+00:00",
+  "b937c5f8ab00fec6": "2026-11-27T12:18:40.469859+00:00",
+  "ed1a10b353dbc34b": "2026-11-27T12:18:49.554076+00:00",
+  "41ea8874dc2b36b6": "2026-11-27T12:18:58.669039+00:00",
+  "4a65e4503ecef4cf": "2026-11-27T12:19:07.300006+00:00",
+  "91f39f9ab40d726b": "2026-11-27T12:19:13.701589+00:00",
+  "cbb264e3aed7c430": "2026-11-27T12:19:26.255494+00:00",
+  "7d640865b00e038f": "2026-11-27T12:19:32.888279+00:00",
+  "84e6250685eab154": "2026-11-27T12:19:34.099286+00:00",
+  "3430a4ec8364b2c7": "2026-11-27T12:34:53.962671+00:00",
+  "63b4336c53c9a88c": "2026-11-27T12:34:55.724602+00:00",
+  "a00f50198c41ded4": "2026-11-27T12:34:56.987526+00:00",
+  "978bdccf14bbe48e": "2026-11-27T12:34:58.150970+00:00",
+  "a9c3ac019159ed68": "2026-11-27T12:34:59.271987+00:00",
+  "41c16b94fd20c034": "2026-11-27T12:35:00.721232+00:00",
+  "65c3c17aa8163f63": "2026-11-27T12:35:01.984747+00:00",
+  "64765927f72892e1": "2026-11-27T12:35:02.969854+00:00",
+  "406cb93dedbb55c5": "2026-11-27T12:45:08.395273+00:00",
+  "75b3867a896bcc4b": "2026-11-27T12:45:09.099349+00:00",
+  "36882c5b8b7524d8": "2026-11-27T12:45:09.910242+00:00",
+  "a7adaa95297bcadf": "2026-11-27T12:45:10.684227+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -9086,7 +9107,23 @@
   "7eb3ef1022e701bc": "2026-11-27T12:03:06.093277+00:00",
   "dd771dfd2ec641fa": "2026-11-27T12:03:07.411031+00:00",
   "e216e6263e72e898": "2026-11-27T12:03:08.247414+00:00",
-  "6647cfe412a892c8": "2026-11-27T12:03:09.384642+00:00"
+  "6647cfe412a892c8": "2026-11-27T12:03:09.384642+00:00",
+  "d3b329b47ec05250": "2026-11-27T12:19:07.300006+00:00",
+  "af2fb47ee62d1147": "2026-11-27T12:18:40.469859+00:00",
+  "bfe4abe46451c2cd": "2026-11-27T12:18:49.554076+00:00",
+  "a333a25205770cec": "2026-11-27T12:18:58.669039+00:00",
+  "2b677b1073f30c76": "2026-11-27T12:19:13.701589+00:00",
+  "b9707a9204dc90bf": "2026-11-27T12:19:26.255494+00:00",
+  "662224b83bc7e867": "2026-11-27T12:19:32.888279+00:00",
+  "db9ffe85b9e4e08c": "2026-11-27T12:19:34.099286+00:00",
+  "c7ea1d2299f24622": "2026-11-27T12:34:53.962671+00:00",
+  "ab687459044cca18": "2026-11-27T12:34:55.724602+00:00",
+  "42251fbb149c6151": "2026-11-27T12:34:56.987526+00:00",
+  "4d08a0efa98edba6": "2026-11-27T12:34:58.150970+00:00",
+  "bd2a2b51f5b139a5": "2026-11-27T12:34:59.271987+00:00",
+  "2969535e097bce03": "2026-11-27T12:35:00.721232+00:00",
+  "d4686ccedf785541": "2026-11-27T12:35:01.984747+00:00",
+  "429f0588995035eb": "2026-11-27T12:35:02.969854+00:00"
  },
  "recent": [
   {
@@ -17368,6 +17405,142 @@
    "status": "skipped",
    "ts": "2026-11-27T12:03:09.384785+00:00",
    "card_title": ""
+  },
+  {
+   "title": "Mark Zuckerberg's Thanksgiving menu: 'GTA 6,' smoked meat, and Meta's AI gadget",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-27T12:18:33.079778+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Max Verstappen Played 40 Hours of GTA 6 and Still Won the Las Vegas Grand Prix",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-27T12:18:41.302718+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Meet GTA VI Lucia voice actress Manni Perez who said ‘gender is fluid’",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T12:18:49.554214+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "The best hidden side missions in GTA 6 and where to find them",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T12:18:58.669183+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Mark Zuckerberg's Thanksgiving menu: 'GTA 6,' smoked meat, and Meta's AI gadget",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T12:19:07.300151+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 PC Modders Test Multiplayer with Vehicle Syncing, Proximity Chat",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T12:19:23.649426+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Should you kill or spare Monty in GTA 6? Choice and consequences explained",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T12:19:26.255644+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6: How To Suplex",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T12:19:32.888405+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "The Simpsons: Hit & Run remake hits a dead end as project seemingly cancelled amid GTA 6 hype",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T12:19:34.099427+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Should you participate or not as the pool boy in GTA 6?",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-27T12:34:54.551001+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Justice make Club Space debut as Miami club turns into GTA VI’s The Vault",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T12:34:55.724758+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Teen Behind Project Leonida Says GTA 6 PC Effort Is Not Dead",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T12:34:56.987671+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Rockstar Co-Studio Head Expects Some GTA 6 Players to Reject Its New Systems",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T12:34:58.151108+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Игрок GTA 6 отошёл на 20 минут, и Лусия в одиночку перебила полицию Леониды",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T12:34:59.272132+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Where to find all Sunrise RV Park Key Valuables in GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T12:35:00.721386+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GitHub cheers a GTA 6-linked PS5 emulator, then hits delete, Kotaku reports",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T12:35:01.984892+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Системные требования неофициального порта GTA 6 на ПК: что известно о Leonida",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T12:35:02.969998+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -17610,36 +17783,6 @@
   "2026-11-26T18:29:20.883321+00:00"
  ],
  "clips": [
-  {
-   "clip": {
-    "source": "twitch",
-    "url": "https://www.twitch.tv/mrdzinold/clip/StrangeShySwordPhilosoraptor-VG0eG7jvLHjeN2vV",
-    "title": "3",
-    "author": "MrDzinold",
-    "views": 473,
-    "duration": 60.0,
-    "created": "2026-11-25T22:49:30+00:00",
-    "lang": "pl",
-    "description": "",
-    "vod_id": "",
-    "vod_offset": -1
-   },
-   "caption": "СПОЙЛЕР. Финальная погоня в кабриолете — это чистая пушка. Джейсон и Лусия решают уйти красиво под пулями, такой вайб в конце — просто лютый разнос 💀",
-   "interest": 9,
-   "spoiler": true,
-   "nsfw": false,
-   "watched": true,
-   "model": "gemini:gemini-3.1-flash-lite",
-   "media": {
-    "width": null,
-    "height": 720,
-    "duration": 60
-   },
-   "queued_at": "2026-11-26T12:33:48.097459+00:00",
-   "file_id": "BAACAgIAAxkDAAO2awgnLV0Py4qS6xiKmoI02DvnLjoAAuivAAJzy0FITc5tOM1BEDQ9BA",
-   "moderation": "pending",
-   "draft_msg_id": 182
-  },
   {
    "clip": {
     "source": "twitch",
@@ -23706,6 +23849,38 @@
    "ts": "2026-11-27T11:44:48.601760+00:00",
    "frames": [],
    "caption": "NPC в GTA 6 злопамятнее моей бывшей — подрезал, и он гнал за тобой через пол-карты, пока не выкинул из тачки. Жесткий ра"
+  },
+  {
+   "author": "youtube:ben esherick",
+   "vod": "",
+   "offset": -1,
+   "title": "New Zealand GTA 6 Glitch BACKFIRES…",
+   "drafted": false,
+   "ts": "2026-11-27T12:45:08.395323+00:00"
+  },
+  {
+   "author": "youtube:dax is live",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 vs gta 5🔥 Which Game Is More Realistic? #Shorts #gta6 #gta5 #rdr2 #usa #usagaming #smalltobig",
+   "drafted": false,
+   "ts": "2026-11-27T12:45:09.099400+00:00"
+  },
+  {
+   "author": "youtube:jponsen",
+   "vod": "",
+   "offset": -1,
+   "title": "Kaget Rumah Aslinya Disalin Persis ke Dalam Game GTA 6! #shorts",
+   "drafted": false,
+   "ts": "2026-11-27T12:45:09.910294+00:00"
+  },
+  {
+   "author": "youtube:joseph han",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 vs GTA 5: Can You Stop the Train? 💀",
+   "drafted": false,
+   "ts": "2026-11-27T12:45:10.684270+00:00"
   }
  ],
  "published": [
