@@ -5185,7 +5185,13 @@
   "5bae26fdb5262e90": "2026-11-27T00:58:31.452912+00:00",
   "d04c816b0ca57a19": "2026-11-27T00:58:33.077274+00:00",
   "ea6a493d6a716f19": "2026-11-27T00:58:35.214431+00:00",
-  "587699f8f276eff8": "2026-11-27T00:58:37.108201+00:00"
+  "587699f8f276eff8": "2026-11-27T00:58:37.108201+00:00",
+  "0f465fe6efa6836d": "2026-11-27T01:13:55.325676+00:00",
+  "c78d8047248e21d7": "2026-11-27T01:13:56.427348+00:00",
+  "31f75a4fa8d5711c": "2026-11-27T01:13:57.551435+00:00",
+  "57828530cd1ba236": "2026-11-27T01:13:58.682417+00:00",
+  "cef4e69176ae1997": "2026-11-27T01:29:14.908883+00:00",
+  "75761de52d3b138d": "2026-11-27T01:29:15.847947+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -8704,7 +8710,13 @@
   "682bbce544971503": "2026-11-27T00:43:15.788074+00:00",
   "d96f02a3004d6546": "2026-11-27T00:58:33.077274+00:00",
   "23a2c990af3971e5": "2026-11-27T00:58:35.214431+00:00",
-  "1965aa777d7305d7": "2026-11-27T00:58:37.108201+00:00"
+  "1965aa777d7305d7": "2026-11-27T00:58:37.108201+00:00",
+  "9b4f0a1b482b7e8d": "2026-11-27T01:13:55.325676+00:00",
+  "8563246972d456e1": "2026-11-27T01:13:56.427348+00:00",
+  "0920e6710f5bf3cf": "2026-11-27T01:13:57.551435+00:00",
+  "95e62d51151bdedf": "2026-11-27T01:13:58.682417+00:00",
+  "8000348e4024a5ed": "2026-11-27T01:29:14.908883+00:00",
+  "9b5d25d90780a177": "2026-11-27T01:29:15.847947+00:00"
  },
  "recent": [
   {
@@ -16793,6 +16805,54 @@
    "trust": "rumor",
    "status": "skipped",
    "ts": "2026-11-27T00:58:37.108331+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Is Jason's GTA 6 House Really for Sale for $739,000?",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-27T01:13:55.325783+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Почти 50% игроков на Xbox не завершили в GTA 6 даже первую главу",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T01:13:56.427469+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Has Turned Gaming Back Into a Creator Power Center",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T01:13:57.551561+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6’s driving physics got a Gran Turismo assist, ComplexPop reports",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T01:13:58.682544+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Tennis was planned for GTA 6 and cut, two Rockstar North developers told PC Games, while crawling, furnishing homes and crafting were considered at length and rejected and cinema and theatre trips were dropped as not interactive enough",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T01:29:14.909023+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Rockstar объяснила отказ от бензопил в GTA 6: «слишком»",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T01:29:15.848061+00:00",
    "card_title": ""
   }
  ],
