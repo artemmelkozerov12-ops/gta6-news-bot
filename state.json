@@ -5706,7 +5706,20 @@
   "93a4a6f060c64206": "2026-11-27T20:45:12.143837+00:00",
   "03a24c50673b5584": "2026-11-27T20:45:13.383966+00:00",
   "25ed315e7d911123": "2026-11-27T20:45:14.618149+00:00",
-  "8d27c0eeb5ab14b9": "2026-11-27T20:45:16.022583+00:00"
+  "8d27c0eeb5ab14b9": "2026-11-27T20:45:16.022583+00:00",
+  "c57f4c67456457fe": "2026-11-27T20:52:03.900097+00:00",
+  "00a1c2751d69006e": "2026-11-27T20:52:05.002711+00:00",
+  "af4a72639d5cf566": "2026-11-27T20:52:05.765298+00:00",
+  "12696326a48f8bf9": "2026-11-27T20:52:06.632027+00:00",
+  "0bde320772aa2d8d": "2026-11-27T20:52:57.567209+00:00",
+  "41986bc2b8a60e0b": "2026-11-27T21:00:49.441841+00:00",
+  "8735390bc1f425f5": "2026-11-27T21:00:50.817000+00:00",
+  "bf62fa48aa3f9948": "2026-11-27T21:00:51.736887+00:00",
+  "7315bb9b955626b2": "2026-11-27T21:00:52.793427+00:00",
+  "93f27127395680ba": "2026-11-27T21:00:53.782711+00:00",
+  "d3ba4a08f250ef91": "2026-11-27T21:16:15.198816+00:00",
+  "0f1bd4b7622297ef": "2026-11-27T21:16:17.138097+00:00",
+  "141df34759e87694": "2026-11-27T21:16:18.263383+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -9638,7 +9651,15 @@
   "d67fe64a9fa6a2ea": "2026-11-27T20:45:12.143837+00:00",
   "d18281d57fee3add": "2026-11-27T20:45:13.383966+00:00",
   "0f921d2f40191102": "2026-11-27T20:45:14.618149+00:00",
-  "03d0bfb13f642882": "2026-11-27T20:45:16.022583+00:00"
+  "03d0bfb13f642882": "2026-11-27T20:45:16.022583+00:00",
+  "1b61b5ff271d9256": "2026-11-27T21:00:49.441841+00:00",
+  "4fa5201ba55a4faa": "2026-11-27T21:00:50.817000+00:00",
+  "82a2ef8f07193141": "2026-11-27T21:00:51.736887+00:00",
+  "aeac144ee2959bf5": "2026-11-27T21:00:52.793427+00:00",
+  "c0ca34be0ab5da1b": "2026-11-27T21:00:53.782711+00:00",
+  "bf4255e577b7786c": "2026-11-27T21:16:15.198816+00:00",
+  "070260850c8cb835": "2026-11-27T21:16:17.138097+00:00",
+  "b5accffcfce659c5": "2026-11-27T21:16:18.263383+00:00"
  },
  "recent": [
   {
@@ -18256,6 +18277,46 @@
    "status": "skipped",
    "ts": "2026-11-27T20:45:16.022705+00:00",
    "card_title": ""
+  },
+  {
+   "title": "'GTA 6' is here, and these are the top 3 TVs I'd play it on",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T21:00:50.817120+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Inside GTA 6 – How Rockstar Made the Game of the Generation",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T21:00:51.737026+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Where to Find the Pegassi Infernus in GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T21:00:52.793544+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Карта, читы и секреты GTA 6 в одном бесплатном приложении для iPhone",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T21:00:53.782835+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Over 50,000,000 GTA VI copies reportedly sold in first week",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T21:16:17.138224+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -18736,36 +18797,6 @@
   {
    "clip": {
     "source": "twitch",
-    "url": "https://www.twitch.tv/sypherpk/clip/ArtsyNeighborlyMarrowJonCarnage-MWIXsfykGLE9nlGt",
-    "title": "keep it family friendly",
-    "author": "SypherPK",
-    "views": 1046,
-    "duration": 28.6,
-    "created": "2026-11-25T22:36:09+00:00",
-    "lang": "en",
-    "description": "",
-    "vod_id": "2940627025",
-    "vod_offset": 9590.0
-   },
-   "caption": "СПОЙЛЕР. Лусия застала Джейсона в неловкой ситуации — сюжетка в GTA 6 это чистый рофл 💀",
-   "interest": 9,
-   "spoiler": true,
-   "nsfw": false,
-   "watched": true,
-   "model": "gemini:gemini-3.5-flash-lite",
-   "media": {
-    "width": null,
-    "height": 720,
-    "duration": 28
-   },
-   "queued_at": "2026-11-26T20:51:27.598580+00:00",
-   "file_id": "BAACAgIAAxkDAAO_awib0CRZeLdWzSYOEP_pw0IMls4AAru3AAJzy0FIZxuYWiZZH249BA",
-   "moderation": "pending",
-   "draft_msg_id": 191
-  },
-  {
-   "clip": {
-    "source": "twitch",
     "url": "https://www.twitch.tv/lru_rose/clip/AmazingFamousPheasantCoolCat-HGI4pmHPJny7793y",
     "title": "Обезьяна бекон",
     "author": "LRU_ROSE",
@@ -19032,6 +19063,36 @@
    "file_id": "BAACAgIAAxkDAAPTawnfAvH43BmNrWfJeQK24Fz9BCkAAsO1AALiwFBIS9cmWaag-cM9BA",
    "moderation": "pending",
    "draft_msg_id": 211
+  },
+  {
+   "clip": {
+    "source": "twitch",
+    "url": "https://www.twitch.tv/donatchottv/clip/UnsightlyHeadstrongOstrichPermaSmug-j-EQd1bO9AwhTbhZ",
+    "title": "ahhahahahaahah",
+    "author": "donatchottv",
+    "views": 608,
+    "duration": 30.0,
+    "created": "2026-11-27T18:10:38+00:00",
+    "lang": "fr",
+    "description": "",
+    "vod_id": "",
+    "vod_offset": -1
+   },
+   "caption": "Лусия решила оставить послание на капоте из баллончика — база 💀",
+   "interest": 7,
+   "spoiler": false,
+   "nsfw": false,
+   "watched": true,
+   "model": "gemini:gemini-3.5-flash-lite",
+   "media": {
+    "width": null,
+    "height": 720,
+    "duration": 30
+   },
+   "queued_at": "2026-11-27T20:53:02.393146+00:00",
+   "file_id": "BAACAgIAAxkDAAPVawntsDl9h-UM-FIDsn8VXpr6OiwAAim2AALiwFBI8MAUDvh1OJU9BA",
+   "moderation": "pending",
+   "draft_msg_id": 213
   }
  ],
  "clip_drafts": [
@@ -19055,7 +19116,8 @@
   "2026-11-27T11:44:48.601743+00:00",
   "2026-11-27T12:49:39.078273+00:00",
   "2026-11-27T13:51:17.116374+00:00",
-  "2026-11-27T19:50:26.633361+00:00"
+  "2026-11-27T19:50:26.633361+00:00",
+  "2026-11-27T20:53:04.519306+00:00"
  ],
  "clip_history": [
   {
@@ -23541,6 +23603,57 @@
    "ts": "2026-11-27T19:50:26.633379+00:00",
    "frames": [],
    "caption": "СПОЙЛЕР. Лусию вырубили в подвале и на грудь села огромная лягушка — сюжетка в GTA 6 это чистый рофл 💀"
+  },
+  {
+   "author": "youtube:soy relevante",
+   "vod": "",
+   "offset": -1,
+   "title": "MISTERIOS de GTA 6 ☠️🙀 #mrrelevante #videojuegos",
+   "drafted": false,
+   "ts": "2026-11-27T20:52:03.900131+00:00"
+  },
+  {
+   "author": "youtube:klebinho",
+   "vod": "",
+   "offset": -1,
+   "title": "COMPROU UM GTA 6 FALSO E O CARA ACREDITOU KKKKK 💀😂 #gta #klebiinh00 #gta6 #gtaiv",
+   "drafted": false,
+   "ts": "2026-11-27T20:52:05.002748+00:00"
+  },
+  {
+   "author": "youtube:pedro gameplays",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 NO PC: LIVE CAIUUU, 30 FPS ESTAVEIS FALTA POUCOOOOO",
+   "drafted": false,
+   "ts": "2026-11-27T20:52:05.765339+00:00"
+  },
+  {
+   "author": "youtube:long gamer yi",
+   "vod": "",
+   "offset": -1,
+   "title": "I Played Draw Bridge Game in GTA 6 Gameplay 😱 | Draw BridgeChallenge #crazygameplay #gta6",
+   "drafted": false,
+   "ts": "2026-11-27T20:52:06.632058+00:00"
+  },
+  {
+   "author": "twitch:donatchottv",
+   "vod": "",
+   "offset": -1,
+   "title": "ahhahahahaahah",
+   "drafted": false,
+   "ts": "2026-11-27T20:52:57.567255+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:donatchottv",
+   "vod": "",
+   "offset": -1,
+   "title": "ahhahahahaahah",
+   "drafted": true,
+   "ts": "2026-11-27T20:53:04.519323+00:00",
+   "frames": [],
+   "caption": "Лусия решила оставить послание на капоте из баллончика — база 💀"
   }
  ],
  "published": [
@@ -24211,6 +24324,94 @@
    },
    "corr": false,
    "since": "2026-11-27T19:27:45.988100+00:00"
+  },
+  {
+   "item": {
+    "title": "Rockstar Explains Why GTA VI Left Some Classic Features Behind",
+    "link": "https://rockstarintel.com/rockstar-explains-why-gta-vi-left-some-classic-features-behind/",
+    "summary": "SPOILER ALERT: This article discusses a major early-game twist and the events of GTA VI’s Chapter 1 finale. If you haven’t completed the first chapter yet, we recommend coming back to this article later! Rockstar Games has made several changes to the Grand Theft Auto formula in GTA VI. While some players have been asking [...] The post Rockstar Explains Why GTA VI Left Some Classic Features Behind appeared first on RockstarINTEL .",
+    "published": "2026-11-27T20:58:54+00:00",
+    "source": "Rockstar Intel",
+    "site_name": "Rockstar Intel",
+    "trust": "medium",
+    "text": "SPOILER ALERT: This article discusses a major early-game twist and the events of GTA VI’s Chapter 1 finale. If you haven’t completed the first chapter yet, we recommend coming back to this article later!Rockstar Games has made several changes to the Grand Theft Auto formula in GTA VI. While some players have been asking about missing features from previous games, the studio has now explained why certain decisions were made.\nIn a new interview with Video Games Chronicle, Rockstar North co-head and GTA VI producer Rob Nelson discussed some of the game’s biggest design choices, including cut content, the new Criminal Profile system, and the freedom players have during missions.\nWhy Some Features Didn’t Make It Into GTA VI\nOne of the biggest changes is the new Criminal Profile system. Some players have welcomed it as a new role-playing element, while others would rather cause chaos in Vice City without worrying about the consequences. Nelson said Rockstar expected these different reactions and explained that the system was designed to give players more choices rather than completely change how GTA works.\nHe also explained why some classic weapons are missing. For example, chainsaws can be found in the game world, but players cannot pick them up. According to Nelson, the weapon did not really fit Jason and Lucia’s characters or the tone Rockstar wanted to create for GTA VI.\nOther familiar activities were also considered during development. Nelson mentioned golf, tennis, volleyball, and darts, explaining that the team would have liked to make more activities fully playable if they had unlimited time. However, Rockstar had to decide which features were important enough to include.\nThe same thinking applied to a possible parody of Disney World. Nelson confirmed that Rockstar considered the idea but decided against creating a fully functioning theme park. The team did not have a strong enough narrative reason to send Jason and Lucia there, and building such a location would have required a lot of work.\nNelson also discussed Rockstar’s approach to mission design. The studio wanted to reduce unnecessary fail conditions and give players more freedom to complete objectives in different ways. He explained that allowing missions to unfold differently creates more work for the developers, but the team believes that freedom is worth the effort.\nThe interview offers an interesting look at the decisions behind GTA VI and shows how Rockstar wanted to move the series forward w",
+    "extra": {
+     "image": "https://rockstarintel.com/wp-content/uploads/2026/10/jason-lucia-bloomeberg-2-1024x576.webp"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "ПОЧЕМУ разработчики вырезали фишки из GTA 6\n\nRockstar наконец-то пояснили, почему в игре нет бензопил в инвентаре и полноценного парка развлечений. Оказывается, старые механики просто не вписывались в вайб Джейсона и Люции.\n\n❤️ — Жаль бензопилу\n👎 — Да пофиг, и так пушка",
+    "card_title": "ПОЧЕМУ ВЫРЕЗАЛИ ФИШКИ ИЗ GTA 6",
+    "reason": "Official interview with Rockstar producer explaining cut content, features, and design choices in GTA 6.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-27T21:00:50.067113+00:00"
+  },
+  {
+   "item": {
+    "title": "Florida Congresswoman Anna Paulina Luna Is Embracing Her GTA 6 Lookalike",
+    "link": "https://www.gtaboom.com/florida-congresswoman-anna-paulina-luna-is-embracing-her-gta-6-lookalike-fe83",
+    "summary": "Rep. Luna joked about her GTA 6 lookalike Camila Fuentes after sharing photos of their nearly identical rifle poses in front of an American flag.",
+    "published": "2026-11-27T21:04:00+00:00",
+    "source": "GTA BOOM",
+    "site_name": "GTA BOOM",
+    "trust": "medium",
+    "text": "A sitting member of Congress shared on social media that her likeness is in Grand Theft Auto VI. Rep. Anna Paulina Luna, a Florida Republican, posted a side-by-side on Thanksgiving of herself next to Senator Camila Fuentes, a Leonida state senator in the game. Both are holding rifles in front of an American flag in nearly the same pose. The likeness in that one image is real. Whether Rockstar Games had her in mind is another story.\n\"So there I was eating Turkey and my friend David calls to tell me I am in GTA6,\" Luna wrote on Instagram, tagging the game and signing off with \"Don't hate the player, hate the game.\" The David is her communications director, David Leatherwood. She followed up on X with the same image and \"GTA6 FTW.\"\nThe comparison is far from flattering, though. Spoiler alert!\nIn GTA 6, Fuentes is a former pop star turned hard-line conservative senator who campaigns on tough immigration rules. In-game media hails her as \"the unicorn America's been waiting for.\" Unfortunately, behind that is a woman with compromised morals and footage of her snorting cocaine, among other things, is part of the encrypted hard drive that most of the game's story revolves around on.\nYou'll run into her during the Chapter 4 surveillance mission \"Close Surveillance,\" and once you've seen this photo of Luna, it's hard not to see the resemblances and agree with her sentiments.\nHowever, it's unclear if Luna is aware of who Fuentes is in GTA 6 and what her role is in the game's story.\nBilly Corben, the Miami documentary filmmaker behind Cocaine Cowboys who hosts the in-game Vice City True Stories podcast, told the Bradenton Herald that Fuentes is a composite. He said she draws on elements of Marco Rubio, bears similarities to Rep. María Elvira Salazar and borrows from pop icons like Jennifer Lopez, Selena and Madonna. He described her as a send-up of the entertainment-to-politics pipeline rather than of any one person.\nWith \"Don't hate the player,\" Luna had a little fun with the Grand Theft Auto comparison. It's also a long way from how Washington greeted GTA 6 a week earlier.\nOn release day, the violence debate reached Congress, with Rep. Tim Burchett criticizing the game and Rep. Maxwell Frost pushing back. Now a congresswoman is posting her GTA 6 lookalike with a trophy emoji. Satire works best when its targets play along, even when their in-game counterpart, confirmed or not, is part of a cocaine scandal and a theorized larger conspiracy involving corrupt government",
+    "extra": {
+     "image": "https://media.gtaboom.com/variants/1920/media/images/0d/1d/florida-congresswoman-anna-paulina-luna-is-embracing-her-gta-6-lookalike.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "Американский политик нашла себя в GTA 6\n\nКонгрессвумен Анна Паулина Луна заметила, что сенатор Камила Фуэнтес из игры — её точная копия. Она закинула флекс в соцсети, подписав фото «Не hate игрока, hate игру». Жаль только, что персонаж замешан в сочных скандалах с кокаином.\n\n❤️ — Ждем в Белом доме\n👎 — Обычная база для Лениды",
+    "card_title": "КОНГРЕССВУМЕН В GTA 6",
+    "reason": "Конгрессвумен США нашла себя в GTA 6 и забавно отреагировала в соцсетях.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-27T21:16:15.842594+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA 6 is the UK's biggest physical launch since 2019, despite having no actual game disc",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNczNuVmZxNVVTWmxGNmljZ0wzTndaYV9MbU1OV1ZzUDBVRkxhdk56OXZ3UW9fMXUwcVlEbjNtX1NZMTRicjJWZ0JaUlFIY2txaWFEaUxGTnZwWGdOR1dnZTA1Y01DZ19ROExZaDVlMkhOODdSNGZMQWttSXktZDMySXg5eFk5M1l0alhiUnJVM2V0emNTQktUWHRPekdiMncwemhPNjdiVFU5LUdQblJZUlJxNUx1d2Z4ZjNaNHNJbW1abmJxNlNqdS0xZ2pUaEEx?oc=5",
+    "summary": "GTA 6 is the UK's biggest physical launch since 2019, despite having no actual game disc TweakTown",
+    "published": "2026-11-27T21:01:17+00:00",
+    "source": "Google News (EN)",
+    "site_name": "TweakTown",
+    "trust": "rumor",
+    "text": "GTA 6 is the UK's biggest physical launch since 2019, despite having no actual game disc TweakTown",
+    "extra": {}
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "РЕКОРДНЫЙ запуск в Британии\n\nGTA 6 порвала чарты Великобритании и стала крупнейшим физическим релизом с 2019 года. И это без самого диска с игрой, просто имба.\n\n❤️ — Заслуженно\n👎 — Где диски?!",
+    "card_title": "РЕКОРД ПРОДАЖ В УК",
+    "reason": "Official sales milestone data showing GTA 6 broke UK physical launch records despite lacking a physical disc.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": true,
+   "since": "2026-11-27T21:16:18.960000+00:00"
   }
  ]
 }
