@@ -5586,7 +5586,26 @@
   "ea62cbd30d79bb7f": "2026-11-27T16:48:10.513832+00:00",
   "1b077df01beae483": "2026-11-27T16:48:11.656748+00:00",
   "df99c8cb02c4f505": "2026-11-27T16:48:12.509322+00:00",
-  "2ded5a33a91bf36b": "2026-11-27T16:48:13.333315+00:00"
+  "2ded5a33a91bf36b": "2026-11-27T16:48:13.333315+00:00",
+  "e2cec9ba532ee827": "2026-11-27T17:03:31.269680+00:00",
+  "6a3e8ca42d69f8e2": "2026-11-27T17:03:31.368789+00:00",
+  "245d12d8d82ef722": "2026-11-27T17:03:39.682523+00:00",
+  "0388a976e1995000": "2026-11-27T17:03:44.800345+00:00",
+  "7e49680cb478c82d": "2026-11-27T17:03:46.392857+00:00",
+  "c0e611ee18de4b6b": "2026-11-27T17:03:47.169099+00:00",
+  "efed1d173636f227": "2026-11-27T17:03:48.324873+00:00",
+  "cb77f93a2f6e2b8d": "2026-11-27T17:03:50.009664+00:00",
+  "86c2910e09b529fc": "2026-11-27T17:03:51.218747+00:00",
+  "65b1b89dad99755c": "2026-11-27T17:03:52.301794+00:00",
+  "190243ab3e55973f": "2026-11-27T17:19:14.711607+00:00",
+  "2337df8509efe824": "2026-11-27T17:19:16.349182+00:00",
+  "a5376e8f388165a5": "2026-11-27T17:19:17.450233+00:00",
+  "3296ea1645efe496": "2026-11-27T17:19:18.582418+00:00",
+  "8af85ac38a1eb6c2": "2026-11-27T17:19:20.088480+00:00",
+  "15f9562c33d37f4c": "2026-11-27T17:19:21.040912+00:00",
+  "c6066be66d50b892": "2026-11-27T17:19:21.819459+00:00",
+  "e6754bb8896e6550": "2026-11-27T17:19:23.008103+00:00",
+  "85175a624d6bb28c": "2026-11-27T17:19:24.125853+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -9415,7 +9434,25 @@
   "3a23f28107163b66": "2026-11-27T16:48:10.513832+00:00",
   "256ed1960e59fc68": "2026-11-27T16:48:11.656748+00:00",
   "d8775c3baf43ac4d": "2026-11-27T16:48:12.509322+00:00",
-  "12e65f496ed14193": "2026-11-27T16:48:13.333315+00:00"
+  "12e65f496ed14193": "2026-11-27T16:48:13.333315+00:00",
+  "47d622e27003ee88": "2026-11-27T17:03:31.269680+00:00",
+  "a280752875f048bc": "2026-11-27T17:03:31.368789+00:00",
+  "4af4bf6ec4b231bc": "2026-11-27T17:03:39.682523+00:00",
+  "13d83f52478f5ba5": "2026-11-27T17:03:44.800345+00:00",
+  "33d27f162efb07b1": "2026-11-27T17:03:46.392857+00:00",
+  "fb4c35a6d4fee13c": "2026-11-27T17:03:47.169099+00:00",
+  "83452386855af664": "2026-11-27T17:03:48.324873+00:00",
+  "4795d126d8bf9581": "2026-11-27T17:03:50.009664+00:00",
+  "555cd5235dc77d3d": "2026-11-27T17:03:51.218747+00:00",
+  "3345160f7545c263": "2026-11-27T17:03:52.301794+00:00",
+  "feb5e171244cff55": "2026-11-27T17:19:16.349182+00:00",
+  "e3fbbd36bf409ade": "2026-11-27T17:19:17.450233+00:00",
+  "4eb01dace7910841": "2026-11-27T17:19:18.582418+00:00",
+  "bac80323cf67f06c": "2026-11-27T17:19:20.088480+00:00",
+  "f79e0b7fa272138e": "2026-11-27T17:19:21.040912+00:00",
+  "b07f2968b659a3ca": "2026-11-27T17:19:21.819459+00:00",
+  "7aee380ba50ed4e3": "2026-11-27T17:19:23.008103+00:00",
+  "7f975f69567e2b30": "2026-11-27T17:19:24.125853+00:00"
  },
  "recent": [
   {
@@ -18185,6 +18222,150 @@
    "status": "skipped",
    "ts": "2026-11-27T16:48:13.333438+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GTA VI memorial honors developers’ late family members, RockstarINTEL reports",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-27T17:03:31.269715+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Географ объяснила, почему мир GTA 6 кажется настолько реалистичным",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-27T17:03:31.368822+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Our favorite GTA 6 outfits and where to find them",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-27T17:03:43.358419+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "6 essential GTA 6 car mods you should pay for to make racing and heists easier",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T17:03:46.393011+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 метавселенная Цукберг Meta 79 миллиардов",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T17:03:47.169224+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Продажи GTA 6 за первую неделю оценили в $4,7 млрд",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T17:03:48.324998+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How GTA 6's Graphics Evolved from Pre-Release Trailers to the Final Game",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T17:03:50.009778+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "'GTA VI' Easter Eggs: NPC Thinks He's Trapped in a Video Game",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T17:03:51.218864+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Jason PTSD Theory Explained",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T17:03:52.301923+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Poll: What Review Score Would You Give GTA 6?",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-27T17:19:14.711636+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Poll: What Review Score Would You Give GTA 6?",
+   "source": "Push Square",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-27T17:19:16.349280+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "‘GTA 6’ Is Already One Of The Best-Selling Games Ever, Says Report",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T17:19:17.450363+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Limited-edition: The GTA 6 DualSense PS5 Controller is up at Best Buy for Black Friday",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T17:19:18.582559+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Where to find all La Cascara Motel Key Valuables in GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T17:19:20.088625+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "As GTA VI Dominates the Sales Charts, Which Classic Grand Theft Auto Entry Is Your Favourite?",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T17:19:21.041030+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Кто сыграл Мэнди в GTA 6",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T17:19:21.819570+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "«Хватит ныть, уе***ы»: Нед Люк в резкой форме ответил хейтерам GTA 6",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T17:19:23.008217+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "On Top of Everything Else It Does Brilliantly, GTA 6 Is a Solid Stealth Sandbox",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T17:19:24.125974+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -18246,7 +18427,9 @@
     "guide": false,
     "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
    },
-   "queued_at": "2026-11-27T16:14:52.978174+00:00"
+   "queued_at": "2026-11-27T16:14:52.978174+00:00",
+   "moderation": "pending",
+   "draft_msg_id": 208
   },
   {
    "item": {
@@ -18503,7 +18686,8 @@
   "2026-11-27T13:03:29.525284+00:00",
   "2026-11-27T14:04:19.748863+00:00",
   "2026-11-27T15:05:09.715486+00:00",
-  "2026-11-27T16:05:26.773812+00:00"
+  "2026-11-27T16:05:26.773812+00:00",
+  "2026-11-27T17:05:40.855067+00:00"
  ],
  "slots_sent": {
   "2026-11-25:guide:2": "2026-11-25T19:30:49.885888+00:00",
@@ -24364,6 +24548,36 @@
    },
    "corr": false,
    "since": "2026-11-27T16:32:42.308570+00:00"
+  },
+  {
+   "item": {
+    "title": "Ex-Rockstar dev says GTA 6 looks \"almost flawless\" but loses to Red Dead Redemption 2 in a few areas",
+    "link": "https://www.gamesradar.com/games/grand-theft-auto/former-rockstar-artist-says-gta-6-looks-almost-flawless-but-loses-to-red-dead-redemption-2-in-a-few-areas/",
+    "summary": "The natural world is just that much livelier",
+    "published": "2026-11-27T16:46:01+00:00",
+    "source": "GamesRadar+",
+    "site_name": "GamesRadar+",
+    "trust": "high",
+    "text": "You'd be hard-pressed to argue against the visual element of GTA 6. Leonida is a stunningly realized modern American state in Rockstar's crime playground, but an artist who contributed to both this and Red Dead Redemption 2 believes the Western has the edge in some respects.\nDavid O'Reilly, an environment artist who worked for Rockstar until 2023, recorded himself jumping into GTA 6. Naturally, he went straight for areas that he contributed to, specifically Mount Kalaga, a beautiful national park nestled in the urban sprawl. While wandering around, he noted that while GTA 6 is \"almost flawless,\" Red Dead Redemption 2 tended to have finer details when it came to forestry and wilderness.\n\"I'm seeing a slight paring back in the natural world in GTA 6 from Red Dead Redemption 2, but obviously a much greater emphasis and much more kind of detail in the urban environments,\" he says.\n\"GTA 6 is more a systems-driven modern urban world with countryside, natural landscapes, whereas Red Dead Redemption 2 was almost purely natural landscapes,\" he notes. They are very distinct experiences in this way. Taking place over 100 years ago, Arthur Morgan's adventure features only a few towns and cities compared to the high-rises and concrete jungles of modern day America.\nThis means a lot of the map is open fields and marshland, pushing the devs to get into the minutiae of those ecosystems. In GTA 6, the opposite is needed, since most of your time is spent on roads and in buildings.\nRivers are a specialty of O'Reilly's, and he notes that Red Dead 2's streams are \"on balance\" a little better. \"Rivers were a bigger emphasis on Red Dead Redemption 2. They were a big part of the world, and in this game they're a lesser part of the world,\" O'Reilly says, mentioning that ultimately, GTA 6's are \"a little bit slow\" compared to what you see in the second Red Dead Redemption.\nThese are but minor critiques amid a technical marvel, and I wouldn't be surprised if Rockstar eventually improves the rivers in Grand Theft Auto 6. But for now, this is a win for Arthur.\nWeekly digests, tales from the communities you love, and more\nRead our GTA 6 review to see our thoughts on the game, or our GTA 6 guides for some handy tips.\nAnthony is an Irish entertainment and games journalist, now based in Glasgow. He previously served as Senior Anime Writer at Dexerto and News Editor at The Digital Fix, on top of providing work for Variety, IGN, Den of Geek, PC Gamer, and many more. Besides Studio Ghibli, h",
+    "extra": {
+     "image": "https://cdn.mos.cms.futurecdn.net/q8PPr4fKcHqMKZAYVAEbX7-1920-80.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "GTA 6 против RDR 2: чья графика круче?\n\nБывший художник Rockstar заценил графон в GTA 6 и заявил, что в плане дикой природы и рек вестерн всё ещё имба. Зато города в новой части — просто разнос!\n\n❤️ — RDR 2 база\n👎 — GTA 6 топчик",
+    "card_title": "GTA 6 ПРОТИВ RDR 2",
+    "reason": "Бывший разработчик Rockstar сравнил графику GTA 6 и RDR 2, что очень интересно фанатам.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-27T17:03:45.446567+00:00"
   }
  ]
 }
