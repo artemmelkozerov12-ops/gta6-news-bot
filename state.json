@@ -5174,7 +5174,12 @@
   "cda8a58cf1209582": "2026-11-26T23:22:05.893900+00:00",
   "3929731af5eec1e8": "2026-11-26T23:41:52.850119+00:00",
   "50387419a8f103da": "2026-11-26T23:57:16.906171+00:00",
-  "c0d43960dc3be9ff": "2026-11-26T23:57:18.333626+00:00"
+  "c0d43960dc3be9ff": "2026-11-26T23:57:18.333626+00:00",
+  "7ab63a65a2782ad9": "2026-11-27T00:12:36.308859+00:00",
+  "dc2d710761c09bce": "2026-11-27T00:12:37.464003+00:00",
+  "f6981b4300ba034c": "2026-11-27T00:12:38.604528+00:00",
+  "8f93148a2363670d": "2026-11-27T00:27:54.757507+00:00",
+  "c19e7c3bad02c749": "2026-11-27T00:27:56.254076+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -8683,7 +8688,12 @@
   "9aa635bf2b580c97": "2026-11-26T23:22:05.893900+00:00",
   "84a46753df64e04b": "2026-11-26T23:41:52.850119+00:00",
   "820fec87f579126d": "2026-11-26T23:57:16.906171+00:00",
-  "f856e648ddd33da5": "2026-11-26T23:57:18.333626+00:00"
+  "f856e648ddd33da5": "2026-11-26T23:57:18.333626+00:00",
+  "8fe6ffec7ef19f37": "2026-11-27T00:12:36.308859+00:00",
+  "37cfe4b711bec3cf": "2026-11-27T00:12:37.464003+00:00",
+  "b7e3bd4c5e1c0d88": "2026-11-27T00:12:38.604528+00:00",
+  "8f673f2e920f7fec": "2026-11-27T00:27:54.757507+00:00",
+  "7dff7469302a39b4": "2026-11-27T00:27:56.254076+00:00"
  },
  "recent": [
   {
@@ -16692,6 +16702,46 @@
    "trust": "rumor",
    "status": "skipped",
    "ts": "2026-11-26T23:57:18.333742+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Enthusiasts launched GTA 6 with frame rates up to 60 FPS and DLSS 5",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T00:12:36.308987+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Энтузиасты запустили GTA 6 с генерацией кадров до 60 FPS и DLSS 5",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T00:12:37.464133+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Players have found a simple way to fix a weather bug in GTA 6 on the PlayStation 5 console.",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T00:12:38.604661+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Kitty Litter Lab Locations: All 20 Drug Labs",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T00:27:55.331702+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Should I buy a gaming console just to play 'GTA 6'? That depends on your FOMO.",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T00:27:56.254250+00:00",
    "card_title": ""
   }
  ],
