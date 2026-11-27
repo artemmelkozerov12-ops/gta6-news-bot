@@ -5566,7 +5566,27 @@
   "b6864fe0f5da2fa6": "2026-11-27T16:16:48.591382+00:00",
   "84c9dedad68b8946": "2026-11-27T16:17:15.777669+00:00",
   "ca1a9773a93080ca": "2026-11-27T16:17:17.207875+00:00",
-  "3ec3794c0c81e420": "2026-11-27T16:17:18.628884+00:00"
+  "3ec3794c0c81e420": "2026-11-27T16:17:18.628884+00:00",
+  "d9cc541a125ed202": "2026-11-27T16:32:37.314630+00:00",
+  "940e095c8ebf276b": "2026-11-27T16:32:37.314676+00:00",
+  "08151c7b0da475a7": "2026-11-27T16:32:37.322042+00:00",
+  "1e401f3f4884da2e": "2026-11-27T16:32:39.203434+00:00",
+  "a8814ede4619a93f": "2026-11-27T16:32:41.677670+00:00",
+  "bb283447c31882fa": "2026-11-27T16:32:43.745925+00:00",
+  "821b0afebfe31166": "2026-11-27T16:32:44.808371+00:00",
+  "25114361fcd53e2b": "2026-11-27T16:32:46.233748+00:00",
+  "1de859bc99f2bb2b": "2026-11-27T16:32:47.251566+00:00",
+  "006fcdc7355dd742": "2026-11-27T16:32:48.592032+00:00",
+  "bed18d43214984dc": "2026-11-27T16:32:49.546819+00:00",
+  "35849ed680ede1ea": "2026-11-27T16:48:04.905869+00:00",
+  "cebc2ec04241ac3f": "2026-11-27T16:48:06.176443+00:00",
+  "218b8369cf40b1d9": "2026-11-27T16:48:07.269034+00:00",
+  "63d57833a4f6c49e": "2026-11-27T16:48:08.052889+00:00",
+  "5d1cdabaa78be05f": "2026-11-27T16:48:09.073137+00:00",
+  "ea62cbd30d79bb7f": "2026-11-27T16:48:10.513832+00:00",
+  "1b077df01beae483": "2026-11-27T16:48:11.656748+00:00",
+  "df99c8cb02c4f505": "2026-11-27T16:48:12.509322+00:00",
+  "2ded5a33a91bf36b": "2026-11-27T16:48:13.333315+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -9377,7 +9397,25 @@
   "f3d118c239680517": "2026-11-27T16:16:48.591382+00:00",
   "a4087dd847e5ba66": "2026-11-27T16:17:15.777669+00:00",
   "d10807ee8e55bfbf": "2026-11-27T16:17:17.207875+00:00",
-  "ef53196d28a33d64": "2026-11-27T16:17:18.628884+00:00"
+  "ef53196d28a33d64": "2026-11-27T16:17:18.628884+00:00",
+  "0979166aadfb0a83": "2026-11-27T16:32:39.203434+00:00",
+  "cbb0e6b75aff89c2": "2026-11-27T16:32:41.677670+00:00",
+  "1a82d976bb02df0b": "2026-11-27T16:32:37.322042+00:00",
+  "26ab6be230bfd172": "2026-11-27T16:32:43.745925+00:00",
+  "dd50840fae815300": "2026-11-27T16:32:44.808371+00:00",
+  "cd7e94f5ec82f1ca": "2026-11-27T16:32:46.233748+00:00",
+  "9b14ab1aae13fbe4": "2026-11-27T16:32:47.251566+00:00",
+  "9f1eb2cf9b30565b": "2026-11-27T16:32:48.592032+00:00",
+  "3837564771c24478": "2026-11-27T16:32:49.546819+00:00",
+  "ae33c0ccf6a3675a": "2026-11-27T16:48:04.905869+00:00",
+  "41e4a51b3add28c1": "2026-11-27T16:48:06.176443+00:00",
+  "aaf976fb64907490": "2026-11-27T16:48:07.269034+00:00",
+  "16197f5cfdfac9ec": "2026-11-27T16:48:08.052889+00:00",
+  "7c7e323c39399bc3": "2026-11-27T16:48:09.073137+00:00",
+  "3a23f28107163b66": "2026-11-27T16:48:10.513832+00:00",
+  "256ed1960e59fc68": "2026-11-27T16:48:11.656748+00:00",
+  "d8775c3baf43ac4d": "2026-11-27T16:48:12.509322+00:00",
+  "12e65f496ed14193": "2026-11-27T16:48:13.333315+00:00"
  },
  "recent": [
   {
@@ -17995,6 +18033,158 @@
    "status": "skipped",
    "ts": "2026-11-27T16:17:18.629044+00:00",
    "card_title": ""
+  },
+  {
+   "title": "All Randy's wish list car locations in GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-27T16:32:37.314656+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI Hits 53 Million Copies Sold in Just 1 Week, Generating $4.7 Billion",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-27T16:32:37.314695+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to Find and Complete Sound4Sound Studio Illegal Operation in GTA 6–All Key Valuables",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "dup",
+   "ts": "2026-11-27T16:32:37.322061+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "All Randy's wish list car locations in GTA 6",
+   "source": "Polygon",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-27T16:32:39.958311+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "AI-Powered GTA 6 PC Ports Now Have Multiplayer as Modders Unlock 30 and 60 FPS",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T16:32:43.746062+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "After its record launch, GTA 6 sets its sights on the music charts",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T16:32:44.808510+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "I Tried to Get Six Stars in GTA 6 With Just One Bullet and Broke the Game",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T16:32:46.233897+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6: 15 Easter Eggs & References You Totally Missed",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T16:32:47.251711+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Сообщается о выходе из строя консолей Xbox и PlayStation из-за GTA 6",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T16:32:48.592182+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Vehicle Physics: Lewis Bentley's Rockstar Role",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T16:32:49.546962+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "All 11 GTA 6 meditation spots and where to find them",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-27T16:48:04.905897+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Don't expect a GTA set outside the USA anytime soon, as Rockstar has \"not had a lot of conversations over doing it anywhere else\"",
+   "source": "Eurogamer",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-27T16:48:06.176549+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Житель Доминиканы неделю пытается скачать GTA 6 из-за медленного интернета",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T16:48:07.269152+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "One week on, here's the impact GTA 6's launch had on the industry so far",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T16:48:08.053033+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GT-Caliber: Claude Agents Built GTA 6 Basics in 7 Days",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T16:48:09.073262+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Sales Hit 53 Million, Becoming 13th Best-Selling Game",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T16:48:10.513951+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Круг замкнулся — утекшую PS5-версию GTA 6 запустили на майнинговой плате AMD BC-250 с урезанным чипом от консоли",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T16:48:11.656867+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Changes Fans Want Most",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T16:48:12.509435+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "TheBurntPeanut GTA 6 Verdict Explained",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T16:48:13.333438+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -24144,5 +24334,36 @@
   "digest-20261125": "2026-11-25T19:30:50.081169+00:00",
   "digest-20261126": "2026-11-26T19:30:31.000089+00:00"
  },
- "rewrite_wait": []
+ "rewrite_wait": [
+  {
+   "item": {
+    "title": "GTA VI Hits 53 Million Copies Sold in Just 1 Week, Generating $4.7 Billion",
+    "link": "https://rockstarintel.com/gta-vi-hits-53-million-copies-sold-in-just-1-week-generating-4-7-billion/",
+    "summary": "GTA VI has been out for a week and new sales estimates are in following that record breaking launch several days ago. According to new research by Alinea Analytics, GTA VI has sold through 53 million copies. That’s up about 10 million in 4 days. If true, it is now the 3rd best selling video [...] The post GTA VI Hits 53 Million Copies Sold in Just 1 Week, Generating $4.7 Billion appeared first on RockstarINTEL .",
+    "published": "2026-11-27T16:16:27+00:00",
+    "source": "Rockstar Intel",
+    "site_name": "Rockstar Intel",
+    "trust": "medium",
+    "text": "GTA VI has been out for a week and new sales estimates are in following that record breaking launch several days ago.\nAccording to new research by Alinea Analytics, GTA VI has sold through 53 million copies. That’s up about 10 million in 4 days. If true, it is now the 3rd best selling video game of all time overtaking Animal Crossing: New Horizons and closing in on The Elder Scrolls V: Skyrim and The Witcher 3: Wild Hunt. In terms of revenue, it has earned around $4.7 billion for Rockstar and Take-Two Interactive.\nAnother data point is that almost 7 million gamers have played the game for more than 50 hours. Also, roughly a quarter of a million people have not put in over 100 hours. That’s quite a staggering amount of hours played when you combine the numbers. However, they will be the more hardcore of GTA fans. It remains to be seen if GTA VI will suffer from the same very poor player retention rates that GTA Online has.\nAlinea’s report also claims the platform split in favour of PS5 over XBOX Series X|S is starting to grow a little more. The split was at 75/26 for some time but it is now down to 24.3% with casual gamers picking up a PS5. XBOX is still doing just fine though as that’s about 13 million copies on the platform. Considering how many XBOX Series X|S consoles have been sold, around a third of all XBOX owners got the game. This is a a really big attachment rate for one game.\nIn other Grand Theft Auto VI stats, YouTube have revealed just how big the game is on the the platform as it pushes the series to 1 trillion views.\nYou can order your PS5 or XBOX copy of GTA VI with this link. Using the link to order the game will help support this website as we’ll earn a small commission. Thank you!",
+    "extra": {
+     "image": "https://substackcdn.com/image/fetch/$s_!JHwA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdf7b8b13-4afc-43b7-8eab-21dcf3b9556c_1938x1080.png"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "53 МИЛЛИОНА копий за неделю!\n\nGTA 6 просто порвала индустрию, собрав 4.7 миллиарда зелени за семь дней. Имба-старт, челы уже рубится сутками без сна.\n\n❤️ — Ждем скидку на ПК\n👎 — База, я уже в отпуске",
+    "card_title": "ПРОДАЖИ GTA 6 УБИЛИ ВСЕХ",
+    "reason": "Официальные данные о продажах GTA 6 и выручке в 4.7 млрд долларов за первую неделю",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "GTA VI Hits 53 Million Copies Sold in Just 1 Week, Generating 4.7 Billion — Google News (EN)",
+    "corroborated_by": "GTA VI Hits 53 Million Copies Sold in Just 1 Week, Generating 4.7 Billion — Google News (EN)",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-27T16:32:42.308570+00:00"
+  }
+ ]
 }
