@@ -5179,7 +5179,13 @@
   "dc2d710761c09bce": "2026-11-27T00:12:37.464003+00:00",
   "f6981b4300ba034c": "2026-11-27T00:12:38.604528+00:00",
   "8f93148a2363670d": "2026-11-27T00:27:54.757507+00:00",
-  "c19e7c3bad02c749": "2026-11-27T00:27:56.254076+00:00"
+  "c19e7c3bad02c749": "2026-11-27T00:27:56.254076+00:00",
+  "d11648d1475e627d": "2026-11-27T00:43:14.016642+00:00",
+  "cb39a53bcc2bea45": "2026-11-27T00:43:15.788074+00:00",
+  "5bae26fdb5262e90": "2026-11-27T00:58:31.452912+00:00",
+  "d04c816b0ca57a19": "2026-11-27T00:58:33.077274+00:00",
+  "ea6a493d6a716f19": "2026-11-27T00:58:35.214431+00:00",
+  "587699f8f276eff8": "2026-11-27T00:58:37.108201+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -8693,7 +8699,12 @@
   "37cfe4b711bec3cf": "2026-11-27T00:12:37.464003+00:00",
   "b7e3bd4c5e1c0d88": "2026-11-27T00:12:38.604528+00:00",
   "8f673f2e920f7fec": "2026-11-27T00:27:54.757507+00:00",
-  "7dff7469302a39b4": "2026-11-27T00:27:56.254076+00:00"
+  "7dff7469302a39b4": "2026-11-27T00:27:56.254076+00:00",
+  "794b3109b6925fc7": "2026-11-27T00:43:14.016642+00:00",
+  "682bbce544971503": "2026-11-27T00:43:15.788074+00:00",
+  "d96f02a3004d6546": "2026-11-27T00:58:33.077274+00:00",
+  "23a2c990af3971e5": "2026-11-27T00:58:35.214431+00:00",
+  "1965aa777d7305d7": "2026-11-27T00:58:37.108201+00:00"
  },
  "recent": [
   {
@@ -16743,6 +16754,46 @@
    "status": "skipped",
    "ts": "2026-11-27T00:27:56.254250+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GTA 6 Set Physical Launch Records Across Europe Without a Disc",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-27T00:43:14.605350+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "'GTA VI' Leaker's Hacking Spree Ends With Seven Year Sentence and Same-Day Release",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T00:43:15.788204+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6's Car Physics Were Tuned by a Gran Turismo Pro",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-27T00:58:31.452942+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6's Car Physics Were Tuned by a Gran Turismo Pro",
+   "source": "Push Square",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-27T00:58:34.010871+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 PC Ports via AI 'Vibe Coding' Spark Legal Crackdown",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T00:58:37.108331+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -23912,5 +23963,36 @@
   "digest-20261125": "2026-11-25T19:30:50.081169+00:00",
   "digest-20261126": "2026-11-26T19:30:31.000089+00:00"
  },
- "rewrite_wait": []
+ "rewrite_wait": [
+  {
+   "item": {
+    "title": "South Park Finale Puts Kenny Inside GTA 6",
+    "link": "https://www.gtaboom.com/south-park-finale-puts-kenny-inside-gta-6-a029",
+    "summary": "Kenny crawls out of the boys’ TV while they play GTA 6 in the South Park finale, giving the season’s running gag a horror movie punchline.",
+    "published": "2026-11-27T00:47:50+00:00",
+    "source": "GTA BOOM",
+    "site_name": "GTA BOOM",
+    "trust": "medium",
+    "text": "South Park spent its entire 29th season joking about Grand Theft Auto VI and the finale paid it off with Kenny crawling out of the game. In \"City Endings,\" which aired November 25 on Comedy Central, the boys sit down to play GTA 6, spot Kenny lying on a sidewalk and realize they forgot about him, right before he drags himself toward the screen and bursts out of the TV like something out of The Ring.\nJust to be clear, Kenny is not in GTA 6 as an Easter Egg, whatever the viral clip's caption suggests. The sequence is South Park dropping its own dead kid into gameplay it shows on screen.\nAs we've mentioned, this was the payoff for a season that started with a town that kept insisting things would get better in November, the show's stand-in for the release date. Episode 2 turned a blackout into a GTA 6 save-data crisis. By Episode 4 the show was airing real GTA 6 footage straight from Rockstar Games, Jason on the beach and all, confirmed in the credits. \"City Endings\" is the last beat of a joke built across the whole season.\nThe plot around it is pure South Park. With the whole town glued to GTA 6, rolling outages hit. The boys trace them to Mayor McDaniels' secret deal with the \"billionaire weenies\" whose AI data centers are draining the grid, while the town's politicians hunt for a scapegoat, pointing to GTA VI instead. Kenny's spirit cannot rest until the corruption comes out, so his horror-show breakout is what pushes the kids to act. By the end the power is back and Kenny is too.\nThe joke works because it is barely a joke. GTA 6 is the kind of event South Park used to save for elections. The show treated its launch in the same way, a date the whole country counted down to and a blackout when it arrived. The game's record-breaking launch gave the writers the perfect thing to unplug.\nSouth Park is only the latest corner of pop culture to rebuild itself around GTA 6 this month. NBA 2K27 turned its online hub into a neon Vice City, the soundtrack took over Spotify and the boxed edition set physical sales records across Europe without a disc inside. A cartoon town losing power while everyone is playing it is the most honest version of that story yet.\nKenny always comes back. This time he had to crawl out of GTA 6 to get anyone to look up from the controller.\nOnce a post receives 3 qualifying Helpful marks\nGTA 6 Set Physical Launch Records Across Europe Without a Disc\nThe GTA 6 Soundtrack Took Over Spotify and Revived a Decade-Old Song",
+    "extra": {
+     "image": "https://media.gtaboom.com/variants/1920/media/images/f6/a6/south-park-finale-puts-kenny-inside-gta-6.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "Кенни выполз из GTA 6\n\nВ финале 29-го сезона Южного Парка Кенни вылез прямо из экрана телевизора во время катсценки в игре. Создатели сериала весь сезон посвещали шуткам про релиз нашей любимой катки и даже использовали реальные кадры от Rockstar.\n\n❤️ — Ждем серию в озвучке\n👎 — Опять Кенни слили",
+    "card_title": "SOUTH PARK И GTA 6",
+    "reason": "South Park featured GTA 6 in its season finale, showing real game footage and making it a central plot point.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-27T00:58:35.872678+00:00"
+  }
+ ]
 }
