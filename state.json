@@ -5203,7 +5203,14 @@
   "4c6a965d9303baa0": "2026-11-27T02:21:00.387650+00:00",
   "1c1ada36ed68a954": "2026-11-27T02:36:20.246634+00:00",
   "4394008471a5a525": "2026-11-27T02:36:21.290761+00:00",
-  "255a63e60a14fc39": "2026-11-27T02:36:22.729703+00:00"
+  "255a63e60a14fc39": "2026-11-27T02:36:22.729703+00:00",
+  "752d58d246cbfd2d": "2026-11-27T02:51:43.851037+00:00",
+  "cd387c10dcc5f828": "2026-11-27T02:51:45.377584+00:00",
+  "3e9feb2217e3f978": "2026-11-27T02:51:46.565013+00:00",
+  "a623f48e3f3355f5": "2026-11-27T02:51:48.813792+00:00",
+  "c56e585f22f8bbcd": "2026-11-27T03:07:08.893193+00:00",
+  "11a11573ebbe52d2": "2026-11-27T03:07:10.308629+00:00",
+  "55ff31ec8c629cb8": "2026-11-27T03:07:11.691114+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -8740,7 +8747,14 @@
   "a44afe8f25709f66": "2026-11-27T02:21:00.387650+00:00",
   "f4bcf379b4654e1d": "2026-11-27T02:36:20.246634+00:00",
   "a2167dec74979adf": "2026-11-27T02:36:21.290761+00:00",
-  "2209306e0682fd7f": "2026-11-27T02:36:22.729703+00:00"
+  "2209306e0682fd7f": "2026-11-27T02:36:22.729703+00:00",
+  "1862c5091fa833cc": "2026-11-27T02:51:43.851037+00:00",
+  "cf23bd533ff63aa8": "2026-11-27T02:51:45.377584+00:00",
+  "4694bb7e7fbe63ba": "2026-11-27T02:51:46.565013+00:00",
+  "2384140edc671139": "2026-11-27T02:51:48.813792+00:00",
+  "ea954eb2a13fd5ec": "2026-11-27T03:07:08.893193+00:00",
+  "c8afdb799a2dcb99": "2026-11-27T03:07:10.308629+00:00",
+  "6f131e24c40a16f1": "2026-11-27T03:07:11.691114+00:00"
  },
  "recent": [
   {
@@ -15974,6 +15988,62 @@
    "status": "skipped",
    "ts": "2026-11-27T02:36:22.729829+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GTA 6 Graphics Settings Leak: 4 Consoles, 0 Confirmed",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T02:51:43.851161+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Мультиплеер Grand Theft Auto 6 запустили на ПК при 25–30 FPS — видео проверил трекер PortWatch",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T02:51:45.377719+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Every Luxury Watch Found in GTA 6 So Far (and How to Find Them)",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T02:51:47.294519+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI on Polymarket: Betting on When Streamers Finish",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T02:51:48.813913+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Лусия» из GTA 6 обратилась к фанатам игры",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T03:07:08.893308+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Bowden: Hating GTA VI won’t make you a good person",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T03:07:10.308772+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Rockstar признали баг с погодой в GTA VI, фанаты нашли исправление на PS5",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T03:07:11.691236+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -16094,37 +16164,6 @@
     "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
    },
    "queued_at": "2026-11-26T23:40:56.462643+00:00"
-  },
-  {
-   "item": {
-    "title": "Despite being a code in a box, GTA 6’s physical release broke sales records",
-    "link": "https://www.videogameschronicle.com/news/despite-being-a-code-in-a-box-gta-6s-physical-release-broke-sales-records/",
-    "summary": "Across Europe, GTA 6 has enjoyed one of the most successful physical launches of all time",
-    "published": "2026-11-26T14:49:17+00:00",
-    "source": "VGC",
-    "site_name": "VGC",
-    "trust": "high",
-    "text": "Grand Theft Auto 6’s physical release is breaking records in Europe, despite copies of the game not including a disc.\nAs reported by The Game Business, GTA 6 is now the “biggest physical game launch since 2019” in the UK, earning £32 million in its first three days on the market. This makes it the 17th biggest physical game release since 1995, when records began.\nIn Spain, it’s reported that GTA 6 is the most successful physical release in the country’s history. In France, one million physical copies were sold in three days.\nThis comes after Rockstar and Take-Two made the controversial decision to not release GTA 6 on disc. Any physical copies that are purchased simply contain a digital download code.\nIt seems that hasn’t deterred players, and GTA 6 has been able to weather the backlash. PlayStation will be hoping that it can weather it too, when it goes completely digital from 2028.\nElsewhere, The Game Business notes that live services have taken a hit after GTA 6’s launch. This suggests that players are abandoning Call of Duty, Fortnite, and other online games to play through GTA 6.\nOne game that has benefited from this is GTA 5, which has seen an increase in sales.\nWe already knew that GTA 6 was a great success for Rockstar and Take-Two, with PlayStation describing it as the biggest launch in the console maker’s history, bringing in 39 million players. However, this is our first indication that Rockstar’s no-disc approach didn’t dissuade consumers from buying physical copies, despite there being little difference between this and buying it digitally.\nIt remains to be seen if other publishers can replicate this, as well as GTA 6’s higher price point. So far, attempts to push game prices as high as GTA 6’s have struggled, with Microsoft having to walk back on plans to make The Outer Worlds 2 a $80 release (albeit well before GTA 6’s launch). Nintendo has had better luck here, selling games like Mario Kart World and Donkey Kong Bananza for $80.",
-    "extra": {
-     "image": "https://www.videogameschronicle.com/files/2026/06/gta6box.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "🔥 Физический релиз GTA 6 разбил рекорды продаж\n\nКод в коробке, а всё равно влетело в топ продаж – £32 млн за 3 дня в UK, миллион копий во Франции и рекорд в Испании. Игроки в очереди за коробкой, хоть там только цифровой код, и это реально лютый вайб.",
-    "card_title": "ФИЗИЧЕСКИЙ РЕЛИЗ РАЗБИЛ РЕКОРДЫ",
-    "reason": "Официальный источник VGC с высоким доверием, новость о продажах, важна для фанатов",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "groq:openai/gpt-oss-120b → groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-26T14:56:26.341189+00:00",
-   "moderation": "pending",
-   "draft_msg_id": 185
   },
   {
    "item": {
