@@ -5746,7 +5746,14 @@
   "7dca6073cb024b0a": "2026-11-27T22:36:00.284421+00:00",
   "37432484abc54b15": "2026-11-27T22:36:04.156794+00:00",
   "5b314945a353c2e9": "2026-11-27T22:36:05.686542+00:00",
-  "50440084a00fbd74": "2026-11-27T22:36:06.694651+00:00"
+  "50440084a00fbd74": "2026-11-27T22:36:06.694651+00:00",
+  "75b7738028f8b124": "2026-11-27T22:51:28.484686+00:00",
+  "17aec680eabf74f2": "2026-11-27T22:51:29.675215+00:00",
+  "a0863ed1adae3730": "2026-11-27T23:06:50.881430+00:00",
+  "7368e180c9004ef4": "2026-11-27T23:06:51.997209+00:00",
+  "1baa3f3bca0aaea2": "2026-11-27T23:06:52.807679+00:00",
+  "0ae4fd736f356cd4": "2026-11-27T23:06:54.215185+00:00",
+  "ee9bac887a480763": "2026-11-27T23:06:55.482235+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -9703,7 +9710,14 @@
   "2c8ffca8b4e342e9": "2026-11-27T22:36:00.284421+00:00",
   "e7f03a288d99c071": "2026-11-27T22:36:04.156794+00:00",
   "949447bbad599539": "2026-11-27T22:36:05.686542+00:00",
-  "31c581f1430e4c14": "2026-11-27T22:36:06.694651+00:00"
+  "31c581f1430e4c14": "2026-11-27T22:36:06.694651+00:00",
+  "05e8ce653ea2b7a7": "2026-11-27T22:51:28.484686+00:00",
+  "4f24ae959218fb61": "2026-11-27T22:51:29.675215+00:00",
+  "4ab1142fadbafae7": "2026-11-27T23:06:50.881430+00:00",
+  "8931a6cbb86ab745": "2026-11-27T23:06:51.997209+00:00",
+  "6bb4456d0436ce75": "2026-11-27T23:06:52.807679+00:00",
+  "34c151046170851a": "2026-11-27T23:06:54.215185+00:00",
+  "f67637f800445da1": "2026-11-27T23:06:55.482235+00:00"
  },
  "recent": [
   {
@@ -18536,6 +18550,62 @@
    "trust": "rumor",
    "status": "skipped",
    "ts": "2026-11-27T22:36:06.694792+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Bradley Stone says GTA 6 honors his baby daughter with an in-game memorial",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T22:51:28.484806+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Lands on PlayStation Cloud Streaming as Sony Ties Access to $19.99 Premium Tier",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T22:51:29.675333+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Chapter 1's Ending Has A Major Twist You Need To Watch Out For",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T23:06:50.881550+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Sony едва справляется со спросом на PS5 на фоне ажиотажа вокруг GTA 6",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T23:06:51.997330+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "5 Ways To Make Sure Your Console Isn't Holding Back Your GTA 6 Performance",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T23:06:52.807798+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "NSFW Creators Say Their AI Lucia Lookalikes Pull Five-Figure Months From GTA 6 Role-Play",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T23:06:54.215305+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "В Digital Foundry сравнили трейлеры GTA VI с реальной игрой — как изменилась графика",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T23:06:55.482358+00:00",
    "card_title": ""
   }
  ],
