@@ -5171,7 +5171,10 @@
   "f27d58d22a236dfc": "2026-11-26T23:06:37.348332+00:00",
   "c428d1c86e2ab849": "2026-11-26T23:21:54.376593+00:00",
   "8d5c4b06272ec0b2": "2026-11-26T23:21:57.894200+00:00",
-  "cda8a58cf1209582": "2026-11-26T23:22:05.893900+00:00"
+  "cda8a58cf1209582": "2026-11-26T23:22:05.893900+00:00",
+  "3929731af5eec1e8": "2026-11-26T23:41:52.850119+00:00",
+  "50387419a8f103da": "2026-11-26T23:57:16.906171+00:00",
+  "c0d43960dc3be9ff": "2026-11-26T23:57:18.333626+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -8677,7 +8680,10 @@
   "66512c433284b393": "2026-11-26T23:06:37.348332+00:00",
   "fc57d50a6a5ccec9": "2026-11-26T23:21:54.376593+00:00",
   "05a4ae2b86ae15bb": "2026-11-26T23:21:57.894200+00:00",
-  "9aa635bf2b580c97": "2026-11-26T23:22:05.893900+00:00"
+  "9aa635bf2b580c97": "2026-11-26T23:22:05.893900+00:00",
+  "84a46753df64e04b": "2026-11-26T23:41:52.850119+00:00",
+  "820fec87f579126d": "2026-11-26T23:57:16.906171+00:00",
+  "f856e648ddd33da5": "2026-11-26T23:57:18.333626+00:00"
  },
  "recent": [
   {
@@ -16599,6 +16605,94 @@
    "status": "skipped",
    "ts": "2026-11-26T23:22:05.894021+00:00",
    "card_title": ""
+  },
+  {
+   "title": "Rockstar boss was \"praying\" that GTA 6's early plot twist wouldn't leak \"given everything that we've gone through\"",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-26T23:37:56.850436+00:00",
+   "card_title": "ТВИСТ ПЕРВОЙ ГЛАВЫ НЕ СЛИЛИ"
+  },
+  {
+   "title": "Rockstar Developer Explains How Players Should Experience GTA VI",
+   "source": "Rockstar Intel",
+   "trust": "medium",
+   "status": "queued",
+   "ts": "2026-11-26T23:38:16.593754+00:00",
+   "card_title": "ИССЛЕДУЙТЕ ЛЕОНИДУ БЕЗ ГАЙДОВ"
+  },
+  {
+   "title": "GTA VI Features a Hidden Memorial for Rockstar Developers’ Late Family Members",
+   "source": "Rockstar Intel",
+   "trust": "medium",
+   "status": "queued",
+   "ts": "2026-11-26T23:39:40.182236+00:00",
+   "card_title": "СЕКРЕТНЫЙ МЕМОРИАЛ РОКСТАР"
+  },
+  {
+   "title": "GTA VI Features a Previously Unreleased Song From D’Angelo",
+   "source": "Rockstar Intel",
+   "trust": "medium",
+   "status": "queued",
+   "ts": "2026-11-26T23:39:43.032483+00:00",
+   "card_title": "ДЭНДЖЕЛО НЕИЗВЕСТНЫЙ ТРЕК"
+  },
+  {
+   "title": "Lucia actress Manni L. Perez claims she worked on GTA 6 for ‘almost a decade’",
+   "source": "VGC",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-26T23:40:05.712171+00:00",
+   "card_title": "ЛЮСИЯ ИЗ GTA 6: ДЕСЯТЬ ЛЕТ"
+  },
+  {
+   "title": "Lucia Actress Manni L. Perez Issues First Statement Since GTA 6 Launch",
+   "source": "IGN",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-26T23:40:24.226483+00:00",
+   "card_title": "МАНИ ПЭРЕЗ БЛАГОДАРИТ ФАНАТОВ"
+  },
+  {
+   "title": "Microsoft's Github posts message celebrating efforts to port PlayStation 5 version of Grand Theft Auto 6 to PC, then quickly deletes it",
+   "source": "PC Gamer",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-26T23:40:56.462655+00:00",
+   "card_title": "ГИТХУБ И ПОРТ GTA6"
+  },
+  {
+   "title": "The GTA 6 Soundtrack Took Over Spotify and Revived a Decade-Old Song",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "queued",
+   "ts": "2026-11-26T23:41:20.539818+00:00",
+   "card_title": "GTA 6 ЗАХВАТИЛ SPOTIFY"
+  },
+  {
+   "title": "GTA 6 All Kitty Litter lab locations: Where to find all drug labs & North Balsero code",
+   "source": "VGC",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-26T23:42:00.378739+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Fan Ports Climb to 20 FPS on PC, Still Rough Around the Edges",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T23:57:16.906296+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 на ПК уже показывает до 44 FPS: модерам помогает Claude",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-26T23:57:18.333742+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -16632,6 +16726,93 @@
    "queued_at": "2026-11-26T18:28:34.624645+00:00",
    "moderation": "pending",
    "draft_msg_id": 187
+  },
+  {
+   "item": {
+    "title": "Lucia actress Manni L. Perez claims she worked on GTA 6 for ‘almost a decade’",
+    "link": "https://www.videogameschronicle.com/news/lucia-actress-manni-l-perez-claims-she-worked-on-gta-6-for-almost-a-decade/",
+    "summary": "Manni L. Perez thanks GTA 6 fans for their response to Lucia",
+    "published": "2026-11-26T20:52:29+00:00",
+    "source": "VGC",
+    "site_name": "VGC",
+    "trust": "high",
+    "text": "Actress Manni L. Perez has responded to Grand Theft Auto 6 fans after its “whirlwind” launch week.\nPerez, who played Lucia in GTA 6, also gives us a better idea of when she started working with Rockstar. She says claims has been playing Lucia for “almost a decade” now, suggesting she was cast very early on in development.\n“Life has been such a whirlwind these past couple of days, and I just want to take a moment to say thank you,” Perez says on an Instagram story.\n“Thank you to all the new followers, to all the beautiful messages, and the positive reception the game and my character have received.\n“I’ve dedicated almost a decade bringing Lucia to life. She’s been such a significant part of mine and I am beyond grateful she now gets to be a small part of yours.”\nPerez’s involvement in GTA 6 was deduced by fans shortly after the first trailer was released in 2023. However, all of the actors in GTA 6 were under an NDA throughout its development, so she was unable to confirm that she was playing Lucia until launch day.\nUltimately, the first official confirmation that Perez was playing Lucia did come before launch, as she was nominated for Best Performance at The Game Awards.\nWhat’s interesting to note is that Perez appeared to be playing Lucia as early as the 2022 gameplay leaks, whereas Jason’s voice was completely different. It’s unclear if Jason’s voice at this time was a placeholder, or if he was recast when his character underwent changes. Either way, Perez clearly had to keep her involvement under wraps for some time.\nPerez and Jason’s actor, Dylan Rourke, issued a joint statement on GTA 6’s launch day, finally acknowledging that they are in the game.\n“We are truly honored to collaborate on this worldwide testament to human creativity, ingenuity, and sheer willpower,” the pair said at the time. “So much learned and so much to learn, keep fighting for what you love, stay humble. See y’all in Leonida.”",
+    "extra": {
+     "image": "https://www.videogameschronicle.com/files/2026/11/Lucia-actor-GTA-6.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "🎬 Актриса Люсия почти 10 лет в GTA 6\n\nManni L. Perez призналась, что качала роль Люсии почти десятилетие – значит, она была в проекте с самого старта. Фанаты, это жиза: теперь точно знаем, кто озвучивает нашу любимую героиню. 😎",
+    "card_title": "ЛЮСИЯ ИЗ GTA 6: ДЕСЯТЬ ЛЕТ",
+    "reason": "Манни Л. Перес рассказала, что потратила почти десятилетие на роль Люсии в GTA 6.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
+   },
+   "queued_at": "2026-11-26T23:40:05.712156+00:00"
+  },
+  {
+   "item": {
+    "title": "Lucia Actress Manni L. Perez Issues First Statement Since GTA 6 Launch",
+    "link": "https://www.ign.com/articles/lucia-actress-manni-l-perez-issues-first-statement-since-gta-6-launch",
+    "summary": "Manni L. Perez, the actress who plays Lucia in GTA 6, has issued her first statement since the game came out.",
+    "published": "2026-11-26T21:02:21+00:00",
+    "source": "IGN",
+    "site_name": "IGN",
+    "trust": "high",
+    "text": "\"Life has been such a whirlwind these past couple of days...\"\nManni L. Perez, the actress who plays Lucia in GTA 6, has issued her first statement since the game came out.\nPerez’s role as Lucia Caminos was confirmed when she was nominated in the Best Performance category for this year’s The Game Awards, a day before GTA 6 launched on November 19. She’s now considered the favorite following the game’s critically acclaimed, record-breaking launch.\nNow, a week later, Perez took to social media to thank fans for the reception to GTA 6.\n“Life has been such a whirlwind these past couple of days and I just want to take a moment to say thank you,” an Instagram Stories post began.\n“Thank you to all the new followers, to all the beautiful messages, and the positive reception the game and my character have received.\n“I've dedicated almost a decade bringing Lucia to life. She's been such a significant part of mine and I am beyond grateful she now gets to be a small part of yours.”\nPerez is an actress with a smattering of credits to her acting resume, including TV guest roles in Jessica Jones, Chicago P.D., and Law & Order: Special Victims Unit. While she hasn't been up to much else over the past few years, it's easy to know why — GTA 6 sounds like it was a pretty involved project. Indeed, Lucia isn’t Perez's first GTA role. In GTA 5, she plays the background character of \"Clubber #2,\" while in GTA Online she voices a blackjack dealer.\nMeanwhile, Jason actor Dylan Rourke also posted a message of gratitude on Instagram Stories, saying: “Thankful for this wild ride. Gratitude won’t cut it. Make today about the ones you love.”\nManni L. Perez shouldn't be confused with Manny Perez, who plays Raul Bautista in GTA 6. This week, Manny Perez bought a PS5 just so he could play the game, saying in a video posted to social media: “Guy, I’m playing and this s**t is crazy! Look how real that looks. I’m learning, I’m loving this, it’s crazy.”\nOther GTA 6 actors who've started to talk about their work on the game include Lexie Shoaibi, who recently spoke out about her \"bittersweet\" newfound fame after her character, Mandy, went viral online, and Cocoteo FM radio host Issa Lopez, who described the wild non-disclosure agreement she had to sign before working on the game.\nLast month, the actors behind GTA 5's Franklin, Michael, and Trevor shared their advice for GTA 6's cast in a bid to ready them for the kind of fame few video game actors achieve.\nJust getting started in GTA 6 or wonde",
+    "extra": {
+     "image": "https://assets-prd.ignimgs.com/2026/11/26/gtavi-38-1795726955205.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "🎤 Мани Пэрез поблагодарила фанатов после запуска GTA 6\n\nАктриса, озвучившая Лусию, в Instagram Stories сказала, что всё это – просто вихрь эмоций. Спасибо за любовь, ребят, вы сделали наш релиз лютым! 🚀",
+    "card_title": "МАНИ ПЭРЕЗ БЛАГОДАРИТ ФАНАТОВ",
+    "reason": "Официальное обращение актрисы озвучки Люсии после рекордового запуска игры.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "I've Dedicated Almost a Decade Bringing Lucia to Life — GTA 6 Actress Manni L. Perez Breaks Silence in First Statement Since Launch — Google News (EN)",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
+   },
+   "queued_at": "2026-11-26T23:40:24.226469+00:00"
+  },
+  {
+   "item": {
+    "title": "Microsoft's Github posts message celebrating efforts to port PlayStation 5 version of Grand Theft Auto 6 to PC, then quickly deletes it",
+    "link": "https://www.pcgamer.com/games/microsofts-github-posts-message-celebrating-efforts-to-port-playstation-5-version-of-grand-theft-auto-6-to-pc-then-quickly-deletes-it/",
+    "summary": "Guess who just got yelled at?",
+    "published": "2026-11-26T22:29:06+00:00",
+    "source": "PC Gamer",
+    "site_name": "PC Gamer",
+    "trust": "high",
+    "text": "Microsoft-owned developer platform Github stepped in it earlier today when it posted a message on X celebrating the success of AnyPS5, an open source project that aims to let users port PS5 executables to PC, and then linked that success directly to efforts to port Grand Theft Auto 6 to PC. The message was deleted shortly after it was posted, but not before it was widely noticed and called out for being a very bad idea.\n\"GTA 6 is finally here, sparking one of the biggest weeks in gaming and open source on Github,\" the message stated (via Kotaku).\n\"The repo AnyPS5 has passed 58K stars since its August launch, rewriting PS5 executables to run on Windows and Linux. Does changing where games run cross a legal line? Share your take. Happy GTA VImas!\"\nLest there be any misunderstanding, a video that accompanied the post made the GTA 6 connection explicit: \"The project rewrites a game's executable so Windows and Linux can run it directly. Performance seems to be the main issue for users wanting to run GTA 6, with one contributor telling the project's community to 'lock in and get your agents to help' if they need to.\"\nThe question of whether or not this sort of thing crosses a legal line has, predictably, sparked debate among those who think they have a clear understanding of the answer. What caught most by surprise, though, is that Github—which is owned by Microsoft—would put forth the question in the first place, implicitly suggesting that it might not. GTA 6 publisher Take-Two Interactive has been pretty aggressive with its efforts to keep recompiled versions of GTA 6 from landing on PC, and I can't imagine it would too thrilled with Github—which, I must emphasize, is owned by Microsoft—telling the world that it might actually be okay to go ahead and vibe-code it up.\nThat point wasn't missed by redditors, one of whom described it as Github \"openly taunting Sony and Rockstar.\" Even the AnyPS5 subreddit seemed baffled: Redditor superkickstart asked, \"Do they have AI running their socials? Lol\"\nThere's also a little bit of irony in the fact that, until earlier this week, the leading effort to get GTA 6 running on PC was based on an Xbox build of the game posted by GTA 6 leaker Cyberleeks. Beyond that, there are also some very obvious questions about how Github (owned by Microsoft) would react to AI-powered ports of, say, other software:\nKeep up to date with the most important stories and the best deals, as picked by the PC Gamer team.\nThe whole thing is weird, re",
+    "extra": {
+     "image": "https://cdn.mos.cms.futurecdn.net/fcoJMA24BgZGj8SXahRBLF-1920-80.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "🚨 GitHub отпраздновал порт GTA 6 на ПК, но быстро удалил\n\nGitHub встал в центр скандала: в X они похвастались, что AnyPS5 помогает запустить GTA 6 на Windows, а потом удалили пост. Чисто имба‑драма, и теперь все в треш‑режиме обсуждают, легально ли это. 🤔",
+    "card_title": "ГИТХУБ И ПОРТ GTA6",
+    "reason": "Microsoft's GitHub posted and deleted a tweet celebrating a tool used to port PS5 GTA 6 to PC, causing massive drama.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
+   },
+   "queued_at": "2026-11-26T23:40:56.462643+00:00"
   },
   {
    "item": {
@@ -16817,6 +16998,35 @@
   },
   {
    "item": {
+    "title": "Rockstar boss was \"praying\" that GTA 6's early plot twist wouldn't leak \"given everything that we've gone through\"",
+    "link": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-boss-was-praying-that-gta-6s-early-plot-twist-wouldnt-leak-given-everything-that-weve-gone-through/",
+    "summary": "\"It's meant to shock,\" says Rob Nelson",
+    "published": "2026-11-26T20:00:00+00:00",
+    "source": "GamesRadar+",
+    "site_name": "GamesRadar+",
+    "trust": "high",
+    "text": "GTA 6 was subject to more than a few leaks in the run-up to its eventual launch, but despite it all, one big early-game twist was kept a total secret until release – something Rockstar Games boss Rob Nelson was \"praying\" for.\nBefore we get into it, we're obviously about to discuss some spoilers for GTA 6 Chapter 1. It's an early moment – one you'll have seen if you've played the first hour of the game – but if you're yet to dive in, you might want to bookmark this to come back to later. Or, of course, feel free to carry on if you don't care about a spoiler-free experience.\nEveryone still here who wants to be? Great. As you probably guessed, the twist in question is the existence of Jason and Lucia's son, Tomás.\nAfter being moved to her aunt's care following her arrest, as shown in the game's prologue, Lucia's primary motivation is to get Tomás back and give him a good life alongside Jason, but none of this was revealed prior to launch – officially or otherwise. This was something that co-studio head of Rockstar North, Rob Nelson, had his \"fingers crossed\" for.\nIn an interview with VGC a few days before GTA 6's launch, Nelson confirmed that Rockstar was \"never\" planning to reveal the twist and, at the time, was still praying no one would spill the beans ahead of schedule. \"I am still holding on,\" he said. \"Fingers crossed, how many more days? I'm praying it stays under wraps. Given everything that we've gone through, every day I'm just like, 'please, please don't do that, please don't do that.'\"\nWhile VGC notes that there was a small amount of chatter on forums about Jason and Lucia having a son, these whispers generally didn't stick, and, notably, none of the Cyberleek videos that appeared online before launch showed Tomás. Honestly, that feels somewhat miraculous given how early he's revealed and how frequently he comes up in the story and dialogue.\nCyberleek wasn't the only hacker to target Rockstar, either – there was also an enormous wave of GTA 6 leaks in 2022 – but even so, no baby boy and the driving force of the plot were plastered all over the internet as a result.\nWeekly digests, tales from the communities you love, and more\nAnyway, however the bullet was dodged, it made for an excellent twist, and let Rockstar have the story moment it was hoping for. \"It's meant to shock,\" Nelson explained. \"We were watching everyone speculate about the nature of their relationship and Jason's character, and that takes it in a completely different context. You h",
+    "extra": {
+     "image": "https://cdn.mos.cms.futurecdn.net/7GKLvfHyNh9cXxWFVLB7Zg-1920-80.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "🙏 Босс Rockstar МОЛИЛСЯ, чтобы твист GTA 6 не слили\n\nСоглава Rockstar North Роб Нельсон перед релизом скрещивал пальцы, чтобы не утек секрет первой главы — сын Джейсона и Лусии по имени Томас. Ни сливы 2022-го, ни видосы Cyberleek пацана не засветили, вот это рил лютый стелс.",
+    "card_title": "ТВИСТ ПЕРВОЙ ГЛАВЫ НЕ СЛИЛИ",
+    "reason": "Официальное интервью босса Rockstar о том, как они боялись слива главного сюжетного твиста с сыном Джейсона и Люсии.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-4-hydrogen"
+   },
+   "queued_at": "2026-11-26T23:37:56.850426+00:00"
+  },
+  {
+   "item": {
     "title": "GTA 6 Players Have Found a Cheeky Method to Quickly Steal ATMs",
     "link": "https://www.ign.com/articles/robbing-gta-6-atms-quickly",
     "summary": "Somewhere around the middle of GTA 6 you unlock the ability to rob ATMs. Any ATM marked green can be pulled out of the wall and cracked open.",
@@ -16962,6 +17172,93 @@
   },
   {
    "item": {
+    "title": "GTA VI Features a Hidden Memorial for Rockstar Developers’ Late Family Members",
+    "link": "https://rockstarintel.com/gta-vi-features-a-hidden-memorial-for-rockstar-developers-late-family-members/",
+    "summary": "Rockstar Games has included a special memorial in Grand Theft Auto VI to honor the late family members of some of its developers. Located in Leonida, the memorial features several names of people who passed away during the game’s development. According to a report by GAMER2GO, two Rockstar developers have shared the personal stories behind [...] The post GTA VI Features a Hidden Memorial for Rockstar Developers’ Late Family Members appeared first on RockstarINTEL .",
+    "published": "2026-11-26T20:35:44+00:00",
+    "source": "Rockstar Intel",
+    "site_name": "Rockstar Intel",
+    "trust": "medium",
+    "text": "Rockstar Games has included a special memorial in Grand Theft Auto VI to honor the late family members of some of its developers. Located in Leonida, the memorial features several names of people who passed away during the game’s development. According to a report by GAMER2GO, two Rockstar developers have shared the personal stories behind the tribute.\nOne of them is Matt Green, a Rockstar Games QA developer whose late mother, Bev Green, is among the names on the memorial. He shared a post on Instagram, explaining how much the tribute means to him.\nGreen revealed that his mother played an important role in his journey into game development. When he was younger, he asked her if he could play Grand Theft Auto: Vice City. Looking back, he believes that decision may have helped set him on the path toward eventually working at Rockstar Games.\nSadly, his mother passed away in March 2026, around eight months before GTA VI was released. Green explained that she was excited to see the game he had been working on, but he never got the chance to show her the finished project.\nThe memorial can be found just north of Hamlet in Leonida. Her name, Bev Green, appears alongside several other names on the wall.\nAnother Rockstar Developer Also Finds His Family Members\nMatt Green is not the only Rockstar developer whose family members have been remembered in GTA VI. Production designer Terrance Radcliff also revealed that his late father and daughter were included in the same memorial.\nRadcliff shared his reaction on X, explaining that he lost both of them during the game’s development. Their names, Elhuntry Radcliff and Jade Radcliff, appear next to each other on the memorial.He described it as an honor to see his father and first daughter forever remembered in GTA VI. He also explained that having them connected to such an important moment in gaming history meant everything to him.\nThe full list of names on the memorial has not been explained yet, so it is possible that other Rockstar developers have also honored their loved ones in the same location.\nWhile GTA VI is filled with hidden details, Easter eggs and references for players to discover, this memorial is something different. It carries a real personal meaning for the people who worked on the game, giving them a way to remember their loved ones inside a world they helped create.In other Grand Theft Auto VI news, the game’s launch has caused a major increase in UK console and physical game sales, which you can read ab",
+    "extra": {
+     "image": "https://rockstarintel.com/wp-content/uploads/2026/11/image-15-1024x576.png"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "🕊️ Скрытый мемориал в Леониде: дань разработчикам\n\nНайди мемориал к северу от Хэмлетта в Леониде — на стене висят имена мам, пап и даже дочерей разработчиков. Реальная личная история, а не просто пасхалка, лютый вайб для тех, кто любит копать.",
+    "card_title": "СЕКРЕТНЫЙ МЕМОРИАЛ РОКСТАР",
+    "reason": "Tрогательная пасхалка с именами разработчиков и их близких в игре",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
+   },
+   "queued_at": "2026-11-26T23:39:40.182224+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA VI Features a Previously Unreleased Song From D’Angelo",
+    "link": "https://rockstarintel.com/gta-vi-features-a-previously-unreleased-song-from-dangelo/",
+    "summary": "Grand Theft Auto VI has brought another surprise for music fans. The previously unreleased song “Kamikazi” by the late singer D’Angelo has officially been released on streaming platforms. According to a report by Pitchfork, the track was created specifically for GTA VI and first appeared on Worldwide FM, one of the game’s radio stations. “Kamikazi” [...] The post GTA VI Features a Previously Unreleased Song From D’Angelo appeared first on RockstarINTEL .",
+    "published": "2026-11-26T20:32:20+00:00",
+    "source": "Rockstar Intel",
+    "site_name": "Rockstar Intel",
+    "trust": "medium",
+    "text": "Grand Theft Auto VI has brought another surprise for music fans. The previously unreleased song “Kamikazi” by the late singer D’Angelo has officially been released on streaming platforms. According to a report by Pitchfork, the track was created specifically for GTA VI and first appeared on Worldwide FM, one of the game’s radio stations.\n“Kamikazi” was written by D’Angelo and multi-instrumentalist Terry Slingbaum. The song features a funky sound with guitar, synths and two different drum performances. It also includes backing vocals from several artists, including Nick Hakim and keiyaA.\nInterestingly, D’Angelo had already approved the song before his passing in October 2025. According to his longtime engineer Ben Kane, the track was originally recorded as a quick idea before being put aside. D’Angelo later returned to it in November 2024 and worked with Slingbaum to complete it for GTA VI.\nThe song also has a special connection to the franchise. D’Angelo was a longtime fan of Rockstar Games and particularly enjoyed playing Grand Theft Auto: Vice City. His brother, Luther Archer Jr., revealed that the two played Vice City together more than any other game in the series.This is not D’Angelo’s first collaboration with Rockstar Games. He previously recorded “Unshaken” for Red Dead Redemption 2, which was later released on streaming platforms in 2019With “Kamikazi” now available to everyone, GTA VI has once again shown how important music is to the Grand Theft Auto experience. It is also a special release for fans who were hoping to hear more of D’Angelo’s music.\nIn other Grand Theft Auto VI news, GTA VI has caused a major surge in UK console sales, read more here. Rockstar developers have voted against unionization, find out more here. Meanwhile, Rob Nelson has explained why Tennis and Theatres were removed from GTA VI, read more here.REPLACE WITH QUESTION ABOUT ARTICLE? Let us know down in the comment section below.\nYou can order your PS5 or XBOX copy of GTA VI with this link. Using the link to order the game will help support this website as we’ll earn a small commission. Thank you!\nFor more news on GTA VI, stay tuned to RockstarINTEL and sign up to our newsletter for a weekly round-up of all things Rockstar Games delivered straight to your inbox.",
+    "extra": {
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/D%27Angelo_Pori_Jazz_2012_%28cropped%29.jpg/960px-D%27Angelo_Pori_Jazz_2012_%28cropped%29.jpg?utm_source=en.wikipedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "🎧 D’Angelo в GTA VI: новый трек «Kamikazi»\n\nНаконец в игре появился эксклюзивный трек от легенды — «Kamikazi». Слушай на радио Worldwide FM, качай, и почувствуй, как фанк ломает вайб Майами. Это последний релиз D’Angelo, так что реально имба‑момент.",
+    "card_title": "ДЭНДЖЕЛО НЕИЗВЕСТНЫЙ ТРЕК",
+    "reason": "Official release of a previously unreleased song by D'Angelo created for GTA 6 radio.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
+   },
+   "queued_at": "2026-11-26T23:39:43.032471+00:00"
+  },
+  {
+   "item": {
+    "title": "The GTA 6 Soundtrack Took Over Spotify and Revived a Decade-Old Song",
+    "link": "https://www.gtaboom.com/the-gta-6-soundtrack-took-over-spotify-and-revived-a-decade-old-song-8f22",
+    "summary": "US streams of Carly Rae Jepsen’s 2015 song Run Away With Me jumped 940% the day after it played in an early Grand Theft Auto VI scene.",
+    "published": "2026-11-26T23:13:44+00:00",
+    "source": "GTA BOOM",
+    "site_name": "GTA BOOM",
+    "trust": "medium",
+    "text": "Justice's \"Flower in A Hurricane\" topped Spotify’s global daily chart on November 23. The Grand Theft Auto 6 artist page has climbed past 43 million monthly listeners and Spotify has handed the game its own corner of the app.\nThe centerpiece is a dedicated GTA 6 soundtrack destination Spotify opened across 33 markets on November 20, a day after the game arrived. It gathers the Official Playlist of new originals from Dua Lipa, Playboi Carti and Lana Del Rey, more than 20 playlists pulled from Leonida's in-game radio stations and a GTA Series Museum that picks one iconic track from each past game. Flash FM even returns from Vice City with Robyn hosting. The scale is real, with Spotify telling IGN that Official Playlist streams rose 275% worldwide and 355% in the United States the week of launch.\nSpotify's own account posted that \"Flower in A Hurricane\" pulled 10 million US streams. The track also topped Spotify’s US daily chart on November 23.\nThe new songs are only half the story. The series' real trick is the one it has pulled since the Grand Theft Auto: San Andreas days, dragging old records back into rotation. Carly Rae Jepsen's 2015 \"Run Away With Me\" jumped 940% in US streams the day after a pivotal early scene put it in players' ears.\nWhat sets this stretch apart from past Grand Theft Auto music moments is permanence. A trailer used to spike a song for a week. The hub turns the whole soundtrack into a standing destination that keeps filling as players unlock radio stations and Rockstar Games adds music, which is how an album that did 41 million streams in a day could feed months of listening instead of one chart cycle.\nOff the back of the biggest launch in entertainment history, the soundtrack is not spiking. It is settling in.\nThe one number everyone will quote is Spotify's 10 million. The quieter headline is the bigger one, GTA 6 has turned its radio dial into the most powerful playlist in music.\nSpeaking of radio, did you know that the ability to listen to music on foot was a feature Rockstar had considered since Grand Theft Auto: Vice City in 2002? Also, this in-game podcast just hinted at the future of the Grand Theft Auto V trio.\nHave you even opened the Spotify hub or are you just letting the radio play?\nOnce a post receives 3 qualifying Helpful marks\nCarly Rae Jepsen going up 940% after a decade because GTA 6 put her in one cutscene is just nothing short of amazing. No other game on earth moves music like this.\nTake-Two Is Rebuilding Vice City",
+    "extra": {
+     "image": "https://media.gtaboom.com/variants/1920/media/images/a0/4b/the-gta-6-soundtrack-took-over-spotify-and-revived-a-decade-old-song.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "🎧 GTA 6 захватил Spotify: 10 млн стримов за день\n\nТрек Justice «Flower in A Hurricane» взорвал глобальный чарт, а старый хит Carly Rae Jepsen подскочил почти в 10 раз. Слушать саундтрек теперь отдельный раздел в Spotify — лутим новые треки и ностальгию в одном месте. 🚀",
+    "card_title": "GTA 6 ЗАХВАТИЛ SPOTIFY",
+    "reason": "Саундтрек GTA 6 порвал Spotify и оживил старые треки, официальные данные от сервиса.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "GTA VI causes major surge in Spotify streams of a Carly Rae Jepsen classic",
+    "corroborated_by": "GTA VI causes major surge in Spotify streams of a Carly Rae Jepsen classic",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
+   },
+   "queued_at": "2026-11-26T23:41:20.539799+00:00"
+  },
+  {
+   "item": {
     "title": "How to Find and Complete the Biker Hideout Illegal Operation in GTA 6—All Key Valuables",
     "link": "https://insider-gaming.com/gta-6-biker-hideout-all-key-valuables/",
     "summary": "Here’s a guide on how to find the Biker Hideout Alley illegal operation in GTA 6 and grabbing all it’s key valuables. The post How to Find and Complete the Biker Hideout Illegal Operation in GTA 6—All Key Valuables appeared first on Insider Gaming .",
@@ -17046,6 +17343,35 @@
     "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
    },
    "queued_at": "2026-11-26T18:12:05.896861+00:00"
+  },
+  {
+   "item": {
+    "title": "Rockstar Developer Explains How Players Should Experience GTA VI",
+    "link": "https://rockstarintel.com/rockstar-developer-explains-how-players-should-experience-gta-vi/",
+    "summary": "According to a recent report by Kotaku, Rockstar Games wants Grand Theft Auto VI players to experience the world of Leonida without constantly worrying about completing tasks or reaching 100% completion. According to the game’s Vice President of Design, Stephen Donkin, players should take their time and discover things naturally instead of treating the game [...] The post Rockstar Developer Explains How Players Should Experience GTA VI appeared first on RockstarINTEL .",
+    "published": "2026-11-26T20:26:07+00:00",
+    "source": "Rockstar Intel",
+    "site_name": "Rockstar Intel",
+    "trust": "medium",
+    "text": "According to a recent report by Kotaku, Rockstar Games wants Grand Theft Auto VI players to experience the world of Leonida without constantly worrying about completing tasks or reaching 100% completion. According to the game’s Vice President of Design, Stephen Donkin, players should take their time and discover things naturally instead of treating the game like a checklist.\nIn a set of development notes shared with the press, Donkin explained that there is so much to do and discover in Leonida that he hopes players will eventually stop thinking about tasks, completion percentages and online guides.\nHe also explained that exploring the world at your own pace can make the experience feel almost infinite. While Leonida feels incredibly large, Donkin believes that individual encounters still feel carefully handcrafted, with a human touch behind them. Donkin’s first Rockstar Games credit was as a QA tester on Grand Theft Auto V. His comments also give an insight into how the studio approaches world design and player exploration.\nGTA VI Also Has Quiet and Relaxing Moments\nSenior Design Director Ghyan Koehne also shared his thoughts about the different experiences found throughout GTA VI. According to him, the game features plenty of high-energy moments, action, thrills and humor. However, he also mentioned quieter and more meditative experiences that offer a completely different feeling.\nWhen asked to describe the feeling Rockstar wants players to experience with a single word, Koehne chose “wonder.” He explained that the studio wants players to constantly experience this feeling and go through a mixture of emotions throughout the game.\nDonkin also shared what he hopes players feel while exploring Leonida. He explained that players who let themselves become immersed in the world and simply follow their curiosity can experience Leonida in the same way he did during development.\nThese comments offer an interesting perspective on how Rockstar approaches open-world games. Instead of focusing entirely on completing objectives and finding everything through online guides, the studio encourages players to explore at their own pace.\nWith GTA VI having been out for a week now, players have already started exploring Leonida and discovering its many details. As Donkin explained, sometimes the best way to experience the game is simply to follow your curiosity.\nIn other Grand Theft Auto VI news, GTA VI has caused a major surge in UK console sales, read more here. Rockstar d",
+    "extra": {
+     "image": "https://rockstarintel.com/wp-content/uploads/2026/11/image-12-1024x576.png"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "Разрабы GTA 6 просят ЗАБИТЬ на гайды и 100% прохождение 🌴\n\nВ Rockstar советуют не делать из Леониды чек-лист задач, а ловить тихий вайб и следовать за любопытством. Звучит как база, но челов со списком на сотку уже не остановить.\n\n❤️ — гуляю по миру сам\n👎 — иду на 100%",
+    "card_title": "ИССЛЕДУЙТЕ ЛЕОНИДУ БЕЗ ГАЙДОВ",
+    "reason": "Разработчики рассказали, как правильно исследовать Леониду без душного гринда.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-4-hydrogen"
+   },
+   "queued_at": "2026-11-26T23:38:16.593743+00:00"
   },
   {
    "item": {
@@ -23536,246 +23862,5 @@
   "digest-20261125": "2026-11-25T19:30:50.081169+00:00",
   "digest-20261126": "2026-11-26T19:30:31.000089+00:00"
  },
- "rewrite_wait": [
-  {
-   "item": {
-    "title": "Rockstar boss was \"praying\" that GTA 6's early plot twist wouldn't leak \"given everything that we've gone through\"",
-    "link": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-boss-was-praying-that-gta-6s-early-plot-twist-wouldnt-leak-given-everything-that-weve-gone-through/",
-    "summary": "\"It's meant to shock,\" says Rob Nelson",
-    "published": "2026-11-26T20:00:00+00:00",
-    "source": "GamesRadar+",
-    "site_name": "GamesRadar+",
-    "trust": "high",
-    "text": "GTA 6 was subject to more than a few leaks in the run-up to its eventual launch, but despite it all, one big early-game twist was kept a total secret until release – something Rockstar Games boss Rob Nelson was \"praying\" for.\nBefore we get into it, we're obviously about to discuss some spoilers for GTA 6 Chapter 1. It's an early moment – one you'll have seen if you've played the first hour of the game – but if you're yet to dive in, you might want to bookmark this to come back to later. Or, of course, feel free to carry on if you don't care about a spoiler-free experience.\nEveryone still here who wants to be? Great. As you probably guessed, the twist in question is the existence of Jason and Lucia's son, Tomás.\nAfter being moved to her aunt's care following her arrest, as shown in the game's prologue, Lucia's primary motivation is to get Tomás back and give him a good life alongside Jason, but none of this was revealed prior to launch – officially or otherwise. This was something that co-studio head of Rockstar North, Rob Nelson, had his \"fingers crossed\" for.\nIn an interview with VGC a few days before GTA 6's launch, Nelson confirmed that Rockstar was \"never\" planning to reveal the twist and, at the time, was still praying no one would spill the beans ahead of schedule. \"I am still holding on,\" he said. \"Fingers crossed, how many more days? I'm praying it stays under wraps. Given everything that we've gone through, every day I'm just like, 'please, please don't do that, please don't do that.'\"\nWhile VGC notes that there was a small amount of chatter on forums about Jason and Lucia having a son, these whispers generally didn't stick, and, notably, none of the Cyberleek videos that appeared online before launch showed Tomás. Honestly, that feels somewhat miraculous given how early he's revealed and how frequently he comes up in the story and dialogue.\nCyberleek wasn't the only hacker to target Rockstar, either – there was also an enormous wave of GTA 6 leaks in 2022 – but even so, no baby boy and the driving force of the plot were plastered all over the internet as a result.\nWeekly digests, tales from the communities you love, and more\nAnyway, however the bullet was dodged, it made for an excellent twist, and let Rockstar have the story moment it was hoping for. \"It's meant to shock,\" Nelson explained. \"We were watching everyone speculate about the nature of their relationship and Jason's character, and that takes it in a completely different context. You h",
-    "extra": {
-     "image": "https://cdn.mos.cms.futurecdn.net/7GKLvfHyNh9cXxWFVLB7Zg-1920-80.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "🤫 Твист с сыном Джейсона и Люсии чуть не слили\n\nБосс Rockstar Роб Нельсон признался, что молился о том, чтобы утечки не затронули главного сюжетного малыша Томаса в первой главе. Имба, что этот секрет дожил до релиза и реально шокировал игроков в катках!\n\n❤️ — Красавчики, удержали интригу\n👎 — Слили бы, не страшно",
-    "card_title": "ТВИСТ С РЕБЕНКОМ УДАЛОСЬ СКРЫТЬ",
-    "reason": "Официальное интервью босса Rockstar о том, как они боялись слива главного сюжетного твиста с сыном Джейсона и Люсии.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-26T20:03:55.616980+00:00"
-  },
-  {
-   "item": {
-    "title": "Rockstar Developer Explains How Players Should Experience GTA VI",
-    "link": "https://rockstarintel.com/rockstar-developer-explains-how-players-should-experience-gta-vi/",
-    "summary": "According to a recent report by Kotaku, Rockstar Games wants Grand Theft Auto VI players to experience the world of Leonida without constantly worrying about completing tasks or reaching 100% completion. According to the game’s Vice President of Design, Stephen Donkin, players should take their time and discover things naturally instead of treating the game [...] The post Rockstar Developer Explains How Players Should Experience GTA VI appeared first on RockstarINTEL .",
-    "published": "2026-11-26T20:26:07+00:00",
-    "source": "Rockstar Intel",
-    "site_name": "Rockstar Intel",
-    "trust": "medium",
-    "text": "According to a recent report by Kotaku, Rockstar Games wants Grand Theft Auto VI players to experience the world of Leonida without constantly worrying about completing tasks or reaching 100% completion. According to the game’s Vice President of Design, Stephen Donkin, players should take their time and discover things naturally instead of treating the game like a checklist.\nIn a set of development notes shared with the press, Donkin explained that there is so much to do and discover in Leonida that he hopes players will eventually stop thinking about tasks, completion percentages and online guides.\nHe also explained that exploring the world at your own pace can make the experience feel almost infinite. While Leonida feels incredibly large, Donkin believes that individual encounters still feel carefully handcrafted, with a human touch behind them. Donkin’s first Rockstar Games credit was as a QA tester on Grand Theft Auto V. His comments also give an insight into how the studio approaches world design and player exploration.\nGTA VI Also Has Quiet and Relaxing Moments\nSenior Design Director Ghyan Koehne also shared his thoughts about the different experiences found throughout GTA VI. According to him, the game features plenty of high-energy moments, action, thrills and humor. However, he also mentioned quieter and more meditative experiences that offer a completely different feeling.\nWhen asked to describe the feeling Rockstar wants players to experience with a single word, Koehne chose “wonder.” He explained that the studio wants players to constantly experience this feeling and go through a mixture of emotions throughout the game.\nDonkin also shared what he hopes players feel while exploring Leonida. He explained that players who let themselves become immersed in the world and simply follow their curiosity can experience Leonida in the same way he did during development.\nThese comments offer an interesting perspective on how Rockstar approaches open-world games. Instead of focusing entirely on completing objectives and finding everything through online guides, the studio encourages players to explore at their own pace.\nWith GTA VI having been out for a week now, players have already started exploring Leonida and discovering its many details. As Donkin explained, sometimes the best way to experience the game is simply to follow your curiosity.\nIn other Grand Theft Auto VI news, GTA VI has caused a major surge in UK console sales, read more here. Rockstar d",
-    "extra": {
-     "image": "https://rockstarintel.com/wp-content/uploads/2026/11/image-12-1024x576.png"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 6,
-    "post": "КАК играть\n\nРазработчики из Rockstar советуют забить на чек-листы и просто чилить в Леониде по кайфу. Ласт игра создана для исследования, а не для душного гринда на соточку. ❤️ — за неспешный вайб\n👎 — ток спидран, ток хардкор",
-    "card_title": "КАК ИГРАТЬ В GTA 6",
-    "reason": "Разработчики рассказали, как правильно исследовать Леониду без душного гринда.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-26T20:30:54.077654+00:00"
-  },
-  {
-   "item": {
-    "title": "GTA VI Features a Hidden Memorial for Rockstar Developers’ Late Family Members",
-    "link": "https://rockstarintel.com/gta-vi-features-a-hidden-memorial-for-rockstar-developers-late-family-members/",
-    "summary": "Rockstar Games has included a special memorial in Grand Theft Auto VI to honor the late family members of some of its developers. Located in Leonida, the memorial features several names of people who passed away during the game’s development. According to a report by GAMER2GO, two Rockstar developers have shared the personal stories behind [...] The post GTA VI Features a Hidden Memorial for Rockstar Developers’ Late Family Members appeared first on RockstarINTEL .",
-    "published": "2026-11-26T20:35:44+00:00",
-    "source": "Rockstar Intel",
-    "site_name": "Rockstar Intel",
-    "trust": "medium",
-    "text": "Rockstar Games has included a special memorial in Grand Theft Auto VI to honor the late family members of some of its developers. Located in Leonida, the memorial features several names of people who passed away during the game’s development. According to a report by GAMER2GO, two Rockstar developers have shared the personal stories behind the tribute.\nOne of them is Matt Green, a Rockstar Games QA developer whose late mother, Bev Green, is among the names on the memorial. He shared a post on Instagram, explaining how much the tribute means to him.\nGreen revealed that his mother played an important role in his journey into game development. When he was younger, he asked her if he could play Grand Theft Auto: Vice City. Looking back, he believes that decision may have helped set him on the path toward eventually working at Rockstar Games.\nSadly, his mother passed away in March 2026, around eight months before GTA VI was released. Green explained that she was excited to see the game he had been working on, but he never got the chance to show her the finished project.\nThe memorial can be found just north of Hamlet in Leonida. Her name, Bev Green, appears alongside several other names on the wall.\nAnother Rockstar Developer Also Finds His Family Members\nMatt Green is not the only Rockstar developer whose family members have been remembered in GTA VI. Production designer Terrance Radcliff also revealed that his late father and daughter were included in the same memorial.\nRadcliff shared his reaction on X, explaining that he lost both of them during the game’s development. Their names, Elhuntry Radcliff and Jade Radcliff, appear next to each other on the memorial.He described it as an honor to see his father and first daughter forever remembered in GTA VI. He also explained that having them connected to such an important moment in gaming history meant everything to him.\nThe full list of names on the memorial has not been explained yet, so it is possible that other Rockstar developers have also honored their loved ones in the same location.\nWhile GTA VI is filled with hidden details, Easter eggs and references for players to discover, this memorial is something different. It carries a real personal meaning for the people who worked on the game, giving them a way to remember their loved ones inside a world they helped create.In other Grand Theft Auto VI news, the game’s launch has caused a major increase in UK console and physical game sales, which you can read ab",
-    "extra": {
-     "image": "https://rockstarintel.com/wp-content/uploads/2026/11/image-15-1024x576.png"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "Трогательный МЕМОРИАЛ разработчиков\n\nRockstar оставили в Леониде скрытую стену памяти с именами близких сотрудников, ушедших из жизни во время разработки. Очень душевная пасхалка получилась.\n\n❤️ — Жизненно и сильно\n👎 — Слишком грустно",
-    "card_title": "МЕМОРИАЛ РАЗРАБОТЧИКОВ В GTA 6",
-    "reason": "Tрогательная пасхалка с именами разработчиков и их близких в игре",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-26T20:46:59.387404+00:00"
-  },
-  {
-   "item": {
-    "title": "GTA VI Features a Previously Unreleased Song From D’Angelo",
-    "link": "https://rockstarintel.com/gta-vi-features-a-previously-unreleased-song-from-dangelo/",
-    "summary": "Grand Theft Auto VI has brought another surprise for music fans. The previously unreleased song “Kamikazi” by the late singer D’Angelo has officially been released on streaming platforms. According to a report by Pitchfork, the track was created specifically for GTA VI and first appeared on Worldwide FM, one of the game’s radio stations. “Kamikazi” [...] The post GTA VI Features a Previously Unreleased Song From D’Angelo appeared first on RockstarINTEL .",
-    "published": "2026-11-26T20:32:20+00:00",
-    "source": "Rockstar Intel",
-    "site_name": "Rockstar Intel",
-    "trust": "medium",
-    "text": "Grand Theft Auto VI has brought another surprise for music fans. The previously unreleased song “Kamikazi” by the late singer D’Angelo has officially been released on streaming platforms. According to a report by Pitchfork, the track was created specifically for GTA VI and first appeared on Worldwide FM, one of the game’s radio stations.\n“Kamikazi” was written by D’Angelo and multi-instrumentalist Terry Slingbaum. The song features a funky sound with guitar, synths and two different drum performances. It also includes backing vocals from several artists, including Nick Hakim and keiyaA.\nInterestingly, D’Angelo had already approved the song before his passing in October 2025. According to his longtime engineer Ben Kane, the track was originally recorded as a quick idea before being put aside. D’Angelo later returned to it in November 2024 and worked with Slingbaum to complete it for GTA VI.\nThe song also has a special connection to the franchise. D’Angelo was a longtime fan of Rockstar Games and particularly enjoyed playing Grand Theft Auto: Vice City. His brother, Luther Archer Jr., revealed that the two played Vice City together more than any other game in the series.This is not D’Angelo’s first collaboration with Rockstar Games. He previously recorded “Unshaken” for Red Dead Redemption 2, which was later released on streaming platforms in 2019With “Kamikazi” now available to everyone, GTA VI has once again shown how important music is to the Grand Theft Auto experience. It is also a special release for fans who were hoping to hear more of D’Angelo’s music.\nIn other Grand Theft Auto VI news, GTA VI has caused a major surge in UK console sales, read more here. Rockstar developers have voted against unionization, find out more here. Meanwhile, Rob Nelson has explained why Tennis and Theatres were removed from GTA VI, read more here.REPLACE WITH QUESTION ABOUT ARTICLE? Let us know down in the comment section below.\nYou can order your PS5 or XBOX copy of GTA VI with this link. Using the link to order the game will help support this website as we’ll earn a small commission. Thank you!\nFor more news on GTA VI, stay tuned to RockstarINTEL and sign up to our newsletter for a weekly round-up of all things Rockstar Games delivered straight to your inbox.",
-    "extra": {
-     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/D%27Angelo_Pori_Jazz_2012_%28cropped%29.jpg/960px-D%27Angelo_Pori_Jazz_2012_%28cropped%29.jpg?utm_source=en.wikipedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "🎵 В GTA 6 ЗАВЕЗЛИ неизданный трек D’Angelo\n\nПесня «Kamikazi», написанная специально для радиостанции Worldwide FM, теперь доступна и на стримингах. Музыкалка в игре — просто пушка!\n\n❤️ — Ждем в плейлисте\n👎 — Не мой вайб",
-    "card_title": "НОВЫЙ ТРЕК D’ANGELO В GTA 6",
-    "reason": "Official release of a previously unreleased song by D'Angelo created for GTA 6 radio.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-26T20:47:01.466945+00:00"
-  },
-  {
-   "item": {
-    "title": "Lucia actress Manni L. Perez claims she worked on GTA 6 for ‘almost a decade’",
-    "link": "https://www.videogameschronicle.com/news/lucia-actress-manni-l-perez-claims-she-worked-on-gta-6-for-almost-a-decade/",
-    "summary": "Manni L. Perez thanks GTA 6 fans for their response to Lucia",
-    "published": "2026-11-26T20:52:29+00:00",
-    "source": "VGC",
-    "site_name": "VGC",
-    "trust": "high",
-    "text": "Actress Manni L. Perez has responded to Grand Theft Auto 6 fans after its “whirlwind” launch week.\nPerez, who played Lucia in GTA 6, also gives us a better idea of when she started working with Rockstar. She says claims has been playing Lucia for “almost a decade” now, suggesting she was cast very early on in development.\n“Life has been such a whirlwind these past couple of days, and I just want to take a moment to say thank you,” Perez says on an Instagram story.\n“Thank you to all the new followers, to all the beautiful messages, and the positive reception the game and my character have received.\n“I’ve dedicated almost a decade bringing Lucia to life. She’s been such a significant part of mine and I am beyond grateful she now gets to be a small part of yours.”\nPerez’s involvement in GTA 6 was deduced by fans shortly after the first trailer was released in 2023. However, all of the actors in GTA 6 were under an NDA throughout its development, so she was unable to confirm that she was playing Lucia until launch day.\nUltimately, the first official confirmation that Perez was playing Lucia did come before launch, as she was nominated for Best Performance at The Game Awards.\nWhat’s interesting to note is that Perez appeared to be playing Lucia as early as the 2022 gameplay leaks, whereas Jason’s voice was completely different. It’s unclear if Jason’s voice at this time was a placeholder, or if he was recast when his character underwent changes. Either way, Perez clearly had to keep her involvement under wraps for some time.\nPerez and Jason’s actor, Dylan Rourke, issued a joint statement on GTA 6’s launch day, finally acknowledging that they are in the game.\n“We are truly honored to collaborate on this worldwide testament to human creativity, ingenuity, and sheer willpower,” the pair said at the time. “So much learned and so much to learn, keep fighting for what you love, stay humble. See y’all in Leonida.”",
-    "extra": {
-     "image": "https://www.videogameschronicle.com/files/2026/11/Lucia-actor-GTA-6.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "ЛУСИЯ отдала РОЛИ почти 10 лет\n\nАктриса Манни Л. Перес поделилась эмоциями после релиза и призналась, что оживляла Люсию почти целое десятилетие. Вот это имба, столько лет молчать под NDA ради релиза века.",
-    "card_title": "ЛУСИЯ ПИСАЛА ЕЁ ПОЧТИ 10 ЛЕТ",
-    "reason": "Манни Л. Перес рассказала, что потратила почти десятилетие на роль Люсии в GTA 6.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-26T21:02:34.371920+00:00"
-  },
-  {
-   "item": {
-    "title": "Lucia Actress Manni L. Perez Issues First Statement Since GTA 6 Launch",
-    "link": "https://www.ign.com/articles/lucia-actress-manni-l-perez-issues-first-statement-since-gta-6-launch",
-    "summary": "Manni L. Perez, the actress who plays Lucia in GTA 6, has issued her first statement since the game came out.",
-    "published": "2026-11-26T21:02:21+00:00",
-    "source": "IGN",
-    "site_name": "IGN",
-    "trust": "high",
-    "text": "\"Life has been such a whirlwind these past couple of days...\"\nManni L. Perez, the actress who plays Lucia in GTA 6, has issued her first statement since the game came out.\nPerez’s role as Lucia Caminos was confirmed when she was nominated in the Best Performance category for this year’s The Game Awards, a day before GTA 6 launched on November 19. She’s now considered the favorite following the game’s critically acclaimed, record-breaking launch.\nNow, a week later, Perez took to social media to thank fans for the reception to GTA 6.\n“Life has been such a whirlwind these past couple of days and I just want to take a moment to say thank you,” an Instagram Stories post began.\n“Thank you to all the new followers, to all the beautiful messages, and the positive reception the game and my character have received.\n“I've dedicated almost a decade bringing Lucia to life. She's been such a significant part of mine and I am beyond grateful she now gets to be a small part of yours.”\nPerez is an actress with a smattering of credits to her acting resume, including TV guest roles in Jessica Jones, Chicago P.D., and Law & Order: Special Victims Unit. While she hasn't been up to much else over the past few years, it's easy to know why — GTA 6 sounds like it was a pretty involved project. Indeed, Lucia isn’t Perez's first GTA role. In GTA 5, she plays the background character of \"Clubber #2,\" while in GTA Online she voices a blackjack dealer.\nMeanwhile, Jason actor Dylan Rourke also posted a message of gratitude on Instagram Stories, saying: “Thankful for this wild ride. Gratitude won’t cut it. Make today about the ones you love.”\nManni L. Perez shouldn't be confused with Manny Perez, who plays Raul Bautista in GTA 6. This week, Manny Perez bought a PS5 just so he could play the game, saying in a video posted to social media: “Guy, I’m playing and this s**t is crazy! Look how real that looks. I’m learning, I’m loving this, it’s crazy.”\nOther GTA 6 actors who've started to talk about their work on the game include Lexie Shoaibi, who recently spoke out about her \"bittersweet\" newfound fame after her character, Mandy, went viral online, and Cocoteo FM radio host Issa Lopez, who described the wild non-disclosure agreement she had to sign before working on the game.\nLast month, the actors behind GTA 5's Franklin, Michael, and Trevor shared their advice for GTA 6's cast in a bid to ready them for the kind of fame few video game actors achieve.\nJust getting started in GTA 6 or wonde",
-    "extra": {
-     "image": "https://assets-prd.ignimgs.com/2026/11/26/gtavi-38-1795726955205.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "ЛЮСИЯ РИЛ ЗАВЕЗЛА БАЗУ\n\nМанни Л. Перес, подарившая голос и образ Люсии, впервые высказалась после релиза. Актриса почти 10 лет пилила эту роль и теперь кайфует от вайба и поддержки фанатов в катке.\n\n❤️ — Ждем от нее оскар\n👎 — Ждем патч на ПК",
-    "card_title": "АКТРИСА ЛЮСИИ ВЫШЕЛА НА СВЯЗЬ",
-    "reason": "Официальное обращение актрисы озвучки Люсии после рекордового запуска игры.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "I've Dedicated Almost a Decade Bringing Lucia to Life — GTA 6 Actress Manni L. Perez Breaks Silence in First Statement Since Launch — Google News (EN)",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-26T21:33:18.110073+00:00"
-  },
-  {
-   "item": {
-    "title": "Microsoft's Github posts message celebrating efforts to port PlayStation 5 version of Grand Theft Auto 6 to PC, then quickly deletes it",
-    "link": "https://www.pcgamer.com/games/microsofts-github-posts-message-celebrating-efforts-to-port-playstation-5-version-of-grand-theft-auto-6-to-pc-then-quickly-deletes-it/",
-    "summary": "Guess who just got yelled at?",
-    "published": "2026-11-26T22:29:06+00:00",
-    "source": "PC Gamer",
-    "site_name": "PC Gamer",
-    "trust": "high",
-    "text": "Microsoft-owned developer platform Github stepped in it earlier today when it posted a message on X celebrating the success of AnyPS5, an open source project that aims to let users port PS5 executables to PC, and then linked that success directly to efforts to port Grand Theft Auto 6 to PC. The message was deleted shortly after it was posted, but not before it was widely noticed and called out for being a very bad idea.\n\"GTA 6 is finally here, sparking one of the biggest weeks in gaming and open source on Github,\" the message stated (via Kotaku).\n\"The repo AnyPS5 has passed 58K stars since its August launch, rewriting PS5 executables to run on Windows and Linux. Does changing where games run cross a legal line? Share your take. Happy GTA VImas!\"\nLest there be any misunderstanding, a video that accompanied the post made the GTA 6 connection explicit: \"The project rewrites a game's executable so Windows and Linux can run it directly. Performance seems to be the main issue for users wanting to run GTA 6, with one contributor telling the project's community to 'lock in and get your agents to help' if they need to.\"\nThe question of whether or not this sort of thing crosses a legal line has, predictably, sparked debate among those who think they have a clear understanding of the answer. What caught most by surprise, though, is that Github—which is owned by Microsoft—would put forth the question in the first place, implicitly suggesting that it might not. GTA 6 publisher Take-Two Interactive has been pretty aggressive with its efforts to keep recompiled versions of GTA 6 from landing on PC, and I can't imagine it would too thrilled with Github—which, I must emphasize, is owned by Microsoft—telling the world that it might actually be okay to go ahead and vibe-code it up.\nThat point wasn't missed by redditors, one of whom described it as Github \"openly taunting Sony and Rockstar.\" Even the AnyPS5 subreddit seemed baffled: Redditor superkickstart asked, \"Do they have AI running their socials? Lol\"\nThere's also a little bit of irony in the fact that, until earlier this week, the leading effort to get GTA 6 running on PC was based on an Xbox build of the game posted by GTA 6 leaker Cyberleeks. Beyond that, there are also some very obvious questions about how Github (owned by Microsoft) would react to AI-powered ports of, say, other software:\nKeep up to date with the most important stories and the best deals, as picked by the PC Gamer team.\nThe whole thing is weird, re",
-    "extra": {
-     "image": "https://cdn.mos.cms.futurecdn.net/fcoJMA24BgZGj8SXahRBLF-1920-80.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "GITHUB ЗАЛЕТЕЛ В СКАНДАЛ\n\nMicrosoft-owned GitHub случайно респектанул проект AnyPS5, который пилит порт GTA 6 на ПК, а потом быстро потёр твит. Вот это поворот, Take-Two точно в тильте от такого пранка.\n\n❤️ — Мелкомягкие троллят Сони\n👎 — Опять баг в соцсетях",
-    "card_title": "GITHUB ЗАТВИТЕРИЛ ПРО ПОРТ GTA 6",
-    "reason": "Microsoft's GitHub posted and deleted a tweet celebrating a tool used to port PS5 GTA 6 to PC, causing massive drama.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-26T22:35:49.876037+00:00"
-  },
-  {
-   "item": {
-    "title": "The GTA 6 Soundtrack Took Over Spotify and Revived a Decade-Old Song",
-    "link": "https://www.gtaboom.com/the-gta-6-soundtrack-took-over-spotify-and-revived-a-decade-old-song-8f22",
-    "summary": "US streams of Carly Rae Jepsen’s 2015 song Run Away With Me jumped 940% the day after it played in an early Grand Theft Auto VI scene.",
-    "published": "2026-11-26T23:13:44+00:00",
-    "source": "GTA BOOM",
-    "site_name": "GTA BOOM",
-    "trust": "medium",
-    "text": "Justice's \"Flower in A Hurricane\" topped Spotify’s global daily chart on November 23. The Grand Theft Auto 6 artist page has climbed past 43 million monthly listeners and Spotify has handed the game its own corner of the app.\nThe centerpiece is a dedicated GTA 6 soundtrack destination Spotify opened across 33 markets on November 20, a day after the game arrived. It gathers the Official Playlist of new originals from Dua Lipa, Playboi Carti and Lana Del Rey, more than 20 playlists pulled from Leonida's in-game radio stations and a GTA Series Museum that picks one iconic track from each past game. Flash FM even returns from Vice City with Robyn hosting. The scale is real, with Spotify telling IGN that Official Playlist streams rose 275% worldwide and 355% in the United States the week of launch.\nSpotify's own account posted that \"Flower in A Hurricane\" pulled 10 million US streams. The track also topped Spotify’s US daily chart on November 23.\nThe new songs are only half the story. The series' real trick is the one it has pulled since the Grand Theft Auto: San Andreas days, dragging old records back into rotation. Carly Rae Jepsen's 2015 \"Run Away With Me\" jumped 940% in US streams the day after a pivotal early scene put it in players' ears.\nWhat sets this stretch apart from past Grand Theft Auto music moments is permanence. A trailer used to spike a song for a week. The hub turns the whole soundtrack into a standing destination that keeps filling as players unlock radio stations and Rockstar Games adds music, which is how an album that did 41 million streams in a day could feed months of listening instead of one chart cycle.\nOff the back of the biggest launch in entertainment history, the soundtrack is not spiking. It is settling in.\nThe one number everyone will quote is Spotify's 10 million. The quieter headline is the bigger one, GTA 6 has turned its radio dial into the most powerful playlist in music.\nSpeaking of radio, did you know that the ability to listen to music on foot was a feature Rockstar had considered since Grand Theft Auto: Vice City in 2002? Also, this in-game podcast just hinted at the future of the Grand Theft Auto V trio.\nHave you even opened the Spotify hub or are you just letting the radio play?\nOnce a post receives 3 qualifying Helpful marks\nCarly Rae Jepsen going up 940% after a decade because GTA 6 put her in one cutscene is just nothing short of amazing. No other game on earth moves music like this.\nTake-Two Is Rebuilding Vice City",
-    "extra": {
-     "image": "https://media.gtaboom.com/variants/1920/media/images/a0/4b/the-gta-6-soundtrack-took-over-spotify-and-revived-a-decade-old-song.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "МУЗЫКА ИЗ GTA 6 РАЗРЫВАЕТ CHаРТЫ\n\nСаундтрек игры захватил Spotify: трек Justice взлетел на вершину, а старый хит Карли Рэй Джепсен прибавил почти 1000% прослушиваний после одной кат-сценки. Имба-радиостанции Leonida работают на все сто.\n\n❤️ — Уже добавил в плейлист\n👎 — Гоняю со стандартным радио",
-    "card_title": "САУНДТРЕК GTA 6 ВЗОРВАЛ SPOTIFY",
-    "reason": "Саундтрек GTA 6 порвал Spotify и оживил старые треки, официальные данные от сервиса.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "GTA VI causes major surge in Spotify streams of a Carly Rae Jepsen classic",
-    "corroborated_by": "GTA VI causes major surge in Spotify streams of a Carly Rae Jepsen classic",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-26T23:21:56.324008+00:00"
-  }
- ]
+ "rewrite_wait": []
 }
