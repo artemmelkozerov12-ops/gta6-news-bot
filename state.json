@@ -5275,7 +5275,23 @@
   "0bcc3c194e055d00": "2026-11-27T07:52:20.888963+00:00",
   "0f70d49cefd30172": "2026-11-27T07:52:24.662957+00:00",
   "c7a99ab9bff1b7ce": "2026-11-27T07:52:49.402849+00:00",
-  "625d64c35ff348fa": "2026-11-27T07:53:11.099408+00:00"
+  "625d64c35ff348fa": "2026-11-27T07:53:11.099408+00:00",
+  "d0b8e43836f58a1b": "2026-11-27T08:08:35.389580+00:00",
+  "8a0ad0efd6fc5f73": "2026-11-27T08:08:36.061159+00:00",
+  "1dfa51ab11fcc8c5": "2026-11-27T08:08:44.078453+00:00",
+  "2bdef76e6caa16fd": "2026-11-27T08:09:37.712659+00:00",
+  "748e362df9fddb3e": "2026-11-27T08:09:38.724500+00:00",
+  "9d4a34719d1b5f33": "2026-11-27T08:09:39.478363+00:00",
+  "c7cd69b2b1faf21c": "2026-11-27T08:09:40.293600+00:00",
+  "e43af0bb94195b31": "2026-11-27T08:10:31.157028+00:00",
+  "345ed38ac2c062ef": "2026-11-27T08:10:31.966145+00:00",
+  "556b0390af4e0a75": "2026-11-27T08:10:32.643273+00:00",
+  "cfb29c903b59ef81": "2026-11-27T08:13:17.750699+00:00",
+  "1092a33e5bcc7457": "2026-11-27T08:14:15.012217+00:00",
+  "9e92370ee4214672": "2026-11-27T08:14:53.996968+00:00",
+  "bc7f29d431a9c14d": "2026-11-27T08:24:23.052473+00:00",
+  "1bea825bb20eaf2b": "2026-11-27T08:24:25.165920+00:00",
+  "5d0e3960c8a01b74": "2026-11-27T08:24:25.792707+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -8866,7 +8882,13 @@
   "82ef5b7cc192c84f": "2026-11-27T07:52:20.888963+00:00",
   "9df10f015c0e1d24": "2026-11-27T07:52:24.662957+00:00",
   "3a94194223dc1ac5": "2026-11-27T07:52:49.402849+00:00",
-  "c1c285bd26523d25": "2026-11-27T07:53:11.099408+00:00"
+  "c1c285bd26523d25": "2026-11-27T07:53:11.099408+00:00",
+  "2f11b54d8734d527": "2026-11-27T08:08:35.389580+00:00",
+  "d4a2b1bdecdcfc95": "2026-11-27T08:08:36.061159+00:00",
+  "89d7ba5bf8f67c51": "2026-11-27T08:08:44.078453+00:00",
+  "6fec216782a9f06a": "2026-11-27T08:24:23.052473+00:00",
+  "6e0ef6cf4d76d382": "2026-11-27T08:24:25.165920+00:00",
+  "b1e4ea07a56b5543": "2026-11-27T08:24:25.792707+00:00"
  },
  "recent": [
   {
@@ -16436,6 +16458,54 @@
    "status": "skipped",
    "ts": "2026-11-27T07:53:11.099557+00:00",
    "card_title": ""
+  },
+  {
+   "title": "Свинка Пеппа заняла PS5 на релизе GTA 6 – почему консоль не стоит делать главным плеером дома и какая медиа приставка самая лучшая",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T08:08:35.389739+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Buy Cars: How to Get Cars and Make Them Yours",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T08:08:36.061306+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Сколько конечностей в GTA 6 и хороша ли: что известно",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T08:08:44.078593+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Here’s What We Actually Know About Getting The Best Ending In GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T08:24:23.052616+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Фанаты GTA 6 часами стоят в очереди, чтобы бесплатно поиграть на чужой PS5",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T08:24:25.166068+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Rick Ross Challenges GTA VI Players to Find His Lookalike Mansion",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T08:24:25.792831+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -16999,36 +17069,6 @@
   {
    "clip": {
     "source": "twitch",
-    "url": "https://www.twitch.tv/baupenner/clip/AmazingCloudyLEDSquadGoals-d83p2N3_ykaEOzTf",
-    "title": "Panzer Olleeeeeee",
-    "author": "BauPenner",
-    "views": 1253,
-    "duration": 28.6,
-    "created": "2026-11-25T22:36:11+00:00",
-    "lang": "de",
-    "description": "",
-    "vod_id": "2939184789",
-    "vod_offset": 44665.0
-   },
-   "caption": "Имба: угнал танк прямо с военной базы — копы теперь точно не догонят 💀",
-   "interest": 9,
-   "spoiler": false,
-   "nsfw": false,
-   "watched": true,
-   "model": "gemini:gemini-3.5-flash-lite",
-   "media": {
-    "width": null,
-    "height": 720,
-    "duration": 28
-   },
-   "queued_at": "2026-11-26T08:07:48.435206+00:00",
-   "file_id": "BAACAgIAAxkDAAOxawfo1rHf2uhvmYyuTT_MEMiWd6EAApS1AAJzyzlI5U1SntUnFLE9BA",
-   "moderation": "pending",
-   "draft_msg_id": 177
-  },
-  {
-   "clip": {
-    "source": "twitch",
     "url": "https://www.twitch.tv/illojuan/clip/ProudLuckyAxeOhMyDog-nVG0HtPeeu1mT614",
     "title": "Viva el Nudismo!!!",
     "author": "IlloJuan",
@@ -17295,6 +17335,36 @@
    "file_id": "BAACAgIAAxkDAAPDawksndjKlFPM0cVK7nssseoSIJwAAn-vAAJzy0lIeP2oRATL5Aw9BA",
    "moderation": "pending",
    "draft_msg_id": 195
+  },
+  {
+   "clip": {
+    "source": "twitch",
+    "url": "https://www.twitch.tv/bratishkinoff/clip/ViscousTenaciousMilkHeyGirl-iFSaxWNhfKWBzefl",
+    "title": "Фулл",
+    "author": "bratishkinOFF",
+    "views": 1510,
+    "duration": 10.6,
+    "created": "2026-11-26T20:26:52+00:00",
+    "lang": "ru",
+    "description": "",
+    "vod_id": "2941301054",
+    "vod_offset": 25268.0
+   },
+   "caption": "🔞 В гардеробе GTA 6 при примерке отвалились текстуры одежды — Братишкин словил лютый тильт 💀",
+   "interest": 9,
+   "spoiler": false,
+   "nsfw": true,
+   "watched": true,
+   "model": "gemini:gemini-3.5-flash",
+   "media": {
+    "width": null,
+    "height": 720,
+    "duration": 10
+   },
+   "queued_at": "2026-11-27T08:14:57.085033+00:00",
+   "file_id": "BAACAgIAAxkDAAPFawk8AgW3-TRRXimYlGDB20m0se0AAiewAAJzy0lIlMRU3wxdWKo9BA",
+   "moderation": "pending",
+   "draft_msg_id": 197
   }
  ],
  "clip_drafts": [
@@ -17316,7 +17386,8 @@
   "2026-11-26T19:47:30.183798+00:00",
   "2026-11-26T20:51:28.947882+00:00",
   "2026-11-26T21:54:00.092981+00:00",
-  "2026-11-27T07:09:18.469703+00:00"
+  "2026-11-27T07:09:18.469703+00:00",
+  "2026-11-27T08:14:59.224574+00:00"
  ],
  "clip_history": [
   {
@@ -22669,6 +22740,100 @@
    "ts": "2026-11-27T07:09:18.469720+00:00",
    "frames": [],
    "caption": "СПОЙЛЕР. Чел просто «попросил» ключи от тачки в стиле GTA, а в итоге устроил эпичный побег от охраны. Вот это вайб, чист"
+  },
+  {
+   "author": "youtube:jajamaru",
+   "vod": "",
+   "offset": -1,
+   "title": "Este Chico Demostró Cómo Sería Jugar GTA 6 en la Vida Real 😂🎮",
+   "drafted": false,
+   "ts": "2026-11-27T08:09:37.712721+00:00"
+  },
+  {
+   "author": "youtube:shayvise",
+   "vod": "",
+   "offset": -1,
+   "title": "Quand ta prof joue à GTA 6 #humour #pourtoi #foryou",
+   "drafted": false,
+   "ts": "2026-11-27T08:09:38.724544+00:00"
+  },
+  {
+   "author": "youtube:ohnepixel raw",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 is a little TOO realistic 😭💀",
+   "drafted": false,
+   "ts": "2026-11-27T08:09:39.478404+00:00"
+  },
+  {
+   "author": "youtube:typical gamer",
+   "vod": "",
+   "offset": -1,
+   "title": "How to Get the *BEST ENDING* in GTA 6 [SPOILER FREE]",
+   "drafted": false,
+   "ts": "2026-11-27T08:09:40.293642+00:00"
+  },
+  {
+   "author": "youtube:hikakingames",
+   "vod": "",
+   "offset": -1,
+   "title": "人の心がないヒカキン 💀💀 #GTA6",
+   "drafted": false,
+   "ts": "2026-11-27T08:10:31.157077+00:00"
+  },
+  {
+   "author": "youtube:conzo zx",
+   "vod": "",
+   "offset": -1,
+   "title": "\" AN NPC IN GTA 6 REALIZED HE'S IN A GAME \"",
+   "drafted": false,
+   "ts": "2026-11-27T08:10:31.966194+00:00"
+  },
+  {
+   "author": "twitch:rubius",
+   "vod": "2941531941",
+   "offset": 15073.0,
+   "title": "JASON SE SPAMEA A TIEMPO",
+   "drafted": false,
+   "ts": "2026-11-27T08:10:32.643339+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:donatchottv",
+   "vod": "",
+   "offset": -1,
+   "title": "ces quoi se bordel ahahah",
+   "drafted": false,
+   "ts": "2026-11-27T08:13:17.750761+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:ohnepixel",
+   "vod": "2941322278",
+   "offset": 26082.0,
+   "title": "Meow",
+   "drafted": false,
+   "ts": "2026-11-27T08:14:15.012266+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:bratishkinoff",
+   "vod": "2941301054",
+   "offset": 25268.0,
+   "title": "Фулл",
+   "drafted": false,
+   "ts": "2026-11-27T08:14:53.997014+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:bratishkinoff",
+   "vod": "2941301054",
+   "offset": 25268.0,
+   "title": "Фулл",
+   "drafted": true,
+   "ts": "2026-11-27T08:14:59.224592+00:00",
+   "frames": [],
+   "caption": "🔞 В гардеробе GTA 6 при примерке отвалились текстуры одежды — Братишкин словил лютый тильт 💀"
   }
  ],
  "published": [
