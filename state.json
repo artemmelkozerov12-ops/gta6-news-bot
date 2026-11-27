@@ -5353,7 +5353,16 @@
   "9f3a0a0e93575358": "2026-11-27T10:31:38.553939+00:00",
   "8f0bf0b77f7721c6": "2026-11-27T10:31:45.502034+00:00",
   "af6b87cc4f0d0044": "2026-11-27T10:32:28.136208+00:00",
-  "2bb186f7db6a5072": "2026-11-27T10:34:34.343727+00:00"
+  "2bb186f7db6a5072": "2026-11-27T10:34:34.343727+00:00",
+  "32e7f634ea180312": "2026-11-27T10:40:02.482253+00:00",
+  "091c57d14336c794": "2026-11-27T10:40:03.552118+00:00",
+  "ac46cfd7c33e7bbd": "2026-11-27T10:40:12.652833+00:00",
+  "7c4112609a6c11d3": "2026-11-27T10:40:34.773432+00:00",
+  "6a0e7f5a8b8894ee": "2026-11-27T10:40:46.967806+00:00",
+  "ec3d1206331b8fb7": "2026-11-27T10:41:11.058640+00:00",
+  "6fd67684a36a0a4f": "2026-11-27T10:41:34.158667+00:00",
+  "dc84a42bded2e9e6": "2026-11-27T10:41:56.022741+00:00",
+  "3b423489cb02fce4": "2026-11-27T10:57:14.232391+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -8988,7 +8997,16 @@
   "24b003d4c3772cef": "2026-11-27T10:23:30.801576+00:00",
   "d5a4d6c9563e9635": "2026-11-27T10:23:44.575256+00:00",
   "79416bda41faf9c9": "2026-11-27T10:24:08.357732+00:00",
-  "fa0e53b7027dfc75": "2026-11-27T10:24:29.834531+00:00"
+  "fa0e53b7027dfc75": "2026-11-27T10:24:29.834531+00:00",
+  "3584238b94aee1c8": "2026-11-27T10:40:02.482253+00:00",
+  "a6b555d0325b1678": "2026-11-27T10:40:03.552118+00:00",
+  "92285571e57d091a": "2026-11-27T10:40:12.652833+00:00",
+  "06b29737b0ac0bae": "2026-11-27T10:40:34.773432+00:00",
+  "4828c08f80c93f8e": "2026-11-27T10:40:46.967806+00:00",
+  "d4cd9b6598c6b62f": "2026-11-27T10:41:11.058640+00:00",
+  "1f6521e93128b5e4": "2026-11-27T10:41:34.158667+00:00",
+  "e253a262602b667a": "2026-11-27T10:41:56.022741+00:00",
+  "73ea42fccbdc0568": "2026-11-27T10:57:14.232391+00:00"
  },
  "recent": [
   {
@@ -16917,6 +16935,78 @@
    "trust": "rumor",
    "status": "skipped",
    "ts": "2026-11-27T10:24:29.834646+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Rockstar North Boss Knew Some GTA 6 Players Would 'Reject' New Systems Like Criminal Profiles, but Insists 'You Can Still Do Whatever You Wanted to Do Before'",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T10:40:02.482392+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Релиз GTA 6 привел к взлету продаж Xbox Series X | S в Великобритании, а также поставил рекорды в рознице",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T10:40:03.552266+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Более 1000 случайных встреч в GTA 6 подстраиваются под действия игрока",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T10:40:12.652974+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6: The 29 best Easter eggs and secrets found so far in Leonida",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T10:40:34.773582+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Remote play GTA VI with Raspberry Pi and Greenlight",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T10:40:46.967945+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Пользователям PS5 недостаточно погодных эффектов в GTA VI — они нашли способ, как это исправить",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T10:41:11.058796+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI Voice Actors Speak Out In Emotional Thanksgiving Messages",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T10:41:34.158802+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "People are making their own art from GTA VI, and it's really quite beautiful",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T10:41:56.022884+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Collapse: «Я бы поставил GTA VI где-то 9,5 из 10. Я ждал покемонов, но разработчики не добавили их»",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T10:57:14.232521+00:00",
    "card_title": ""
   }
  ],
