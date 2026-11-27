@@ -5605,7 +5605,23 @@
   "15f9562c33d37f4c": "2026-11-27T17:19:21.040912+00:00",
   "c6066be66d50b892": "2026-11-27T17:19:21.819459+00:00",
   "e6754bb8896e6550": "2026-11-27T17:19:23.008103+00:00",
-  "85175a624d6bb28c": "2026-11-27T17:19:24.125853+00:00"
+  "85175a624d6bb28c": "2026-11-27T17:19:24.125853+00:00",
+  "508ab434eba15220": "2026-11-27T17:34:44.974463+00:00",
+  "0887dd67cf28a43c": "2026-11-27T17:34:46.734175+00:00",
+  "4dbae32fc0c85305": "2026-11-27T17:34:47.949197+00:00",
+  "bd4dff4c5ea64d7a": "2026-11-27T17:34:50.108277+00:00",
+  "20883481d5d40372": "2026-11-27T17:34:52.491849+00:00",
+  "9c0a93a90de9e0f1": "2026-11-27T17:34:53.589039+00:00",
+  "977716fca19b360f": "2026-11-27T17:34:54.406916+00:00",
+  "25dfc685a00056c7": "2026-11-27T17:34:56.010298+00:00",
+  "df00885b2a0ca9cc": "2026-11-27T17:50:13.150271+00:00",
+  "52e2692577420bbf": "2026-11-27T17:50:14.308229+00:00",
+  "19efe92f97e9248a": "2026-11-27T17:50:16.558440+00:00",
+  "59938186c39a412d": "2026-11-27T17:50:18.606969+00:00",
+  "efa0754171e7816d": "2026-11-27T17:50:20.710103+00:00",
+  "6120230b81cc3155": "2026-11-27T17:50:22.322234+00:00",
+  "1936fcc6f617a210": "2026-11-27T17:50:23.659737+00:00",
+  "84808ce628ad2e5f": "2026-11-27T17:50:24.672417+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -9452,7 +9468,23 @@
   "f79e0b7fa272138e": "2026-11-27T17:19:21.040912+00:00",
   "b07f2968b659a3ca": "2026-11-27T17:19:21.819459+00:00",
   "7aee380ba50ed4e3": "2026-11-27T17:19:23.008103+00:00",
-  "7f975f69567e2b30": "2026-11-27T17:19:24.125853+00:00"
+  "7f975f69567e2b30": "2026-11-27T17:19:24.125853+00:00",
+  "3d2a1fe876855fe1": "2026-11-27T17:34:44.974463+00:00",
+  "80da0a12227a1b83": "2026-11-27T17:34:46.734175+00:00",
+  "ed0f83ba885e01ad": "2026-11-27T17:34:47.949197+00:00",
+  "fcc191993c642161": "2026-11-27T17:34:50.108277+00:00",
+  "e90fba384e7d4d06": "2026-11-27T17:34:52.491849+00:00",
+  "628034f2912279d7": "2026-11-27T17:34:53.589039+00:00",
+  "ad8f67bc41eb54a6": "2026-11-27T17:34:54.406916+00:00",
+  "0227a2b2532b6bdd": "2026-11-27T17:34:56.010298+00:00",
+  "674d3e1806e73d25": "2026-11-27T17:50:13.150271+00:00",
+  "2151195763246747": "2026-11-27T17:50:14.308229+00:00",
+  "a5da835f2fa4ae1d": "2026-11-27T17:50:16.558440+00:00",
+  "1d747f47fda3d7de": "2026-11-27T17:50:18.606969+00:00",
+  "1ecaa9770c4ae5df": "2026-11-27T17:50:20.710103+00:00",
+  "7745a54bef242eb8": "2026-11-27T17:50:22.322234+00:00",
+  "9df0a0f8e6b4a2b0": "2026-11-27T17:50:23.659737+00:00",
+  "59fc3ed07d745dd0": "2026-11-27T17:50:24.672417+00:00"
  },
  "recent": [
   {
@@ -18366,6 +18398,110 @@
    "status": "skipped",
    "ts": "2026-11-27T17:19:24.125974+00:00",
    "card_title": ""
+  },
+  {
+   "title": "Grand Theft Auto VI become a Spotify top 10 Artist whilst dominating the charts",
+   "source": "Rockstar Intel",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-27T17:34:45.655481+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Black Friday Sale—Where is the Best Place to Buy GTA 6 on Black Friday?",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-27T17:34:46.734283+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Lucia Topless Glitch Method in GTA 6, Explained",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-27T17:34:48.704806+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Глава Rockstar \"молился\", чтобы сюжетный твист из самого начала GTA 6 не утёк в сеть – и очень доволен, что этого не случилось",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T17:34:52.491971+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Sales of GTA 6 have exceeded 53 million copies, with revenue reaching $4.7 billion",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T17:34:53.589157+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Vice City just got a whole lot bigger: This GTA 6-ready projector is $600 off",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T17:34:54.407029+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GitHub прорекламировал слой трансляции PS5-игр для ПК AnyPS5 на фоне чистки репозиториев GTA 6, а затем удалил пост",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T17:34:56.010426+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "6 Upcoming Steam Games To Wishlist For Life After GTA 6",
+   "source": "Polygon",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-27T17:50:13.150379+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 PC Port Takes a Massive Leap Forward in Just Days",
+   "source": "Polygon",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-27T17:50:15.010164+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Lucia actor \"dedicated almost a decade\" to bringing Rockstar's new protagonist to life",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-27T17:50:21.267926+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI's record launch strengthens the case for human-made games, says USC ethics director",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T17:50:22.322369+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "All the ‘GTA 6’ Celebrity Cameos: Jeremy Irons, Janelle James, John Leguizamo, Chloe Fineman and More Vice City Residents",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T17:50:23.659880+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Phishing Surge Puts Corporate Credentials at Risk",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T17:50:24.672540+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -24578,6 +24714,96 @@
    },
    "corr": false,
    "since": "2026-11-27T17:03:45.446567+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA 6 sales estimates place it as the 13th best-selling game ever",
+    "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-sales-estimates-place-it-above-cyberpunk-2077-the-sims-and-the-first-pokemon-games-as-the-13th-best-selling-game-ever/",
+    "summary": "53 million puts it above any Call of Duty game",
+    "published": "2026-11-27T17:17:46+00:00",
+    "source": "GamesRadar+",
+    "site_name": "GamesRadar+",
+    "trust": "high",
+    "text": "Analyst estimates have put GTA 6 at 53 million copies sold, which, if accurate, places it as the 13th best-selling game of all time after just a week.\nIn the least surprising bit of news of 2026, GTA 6 is selling pretty well. It was probably the most anticipated game ever and is the highest-rated game of all time on Metacritic, so naturally the sales have followed. The first official number from Rockstar Games placed it at 32.5 million copies sold before it was even released, which had made it the 30th best-selling game ever above the likes of Super Mario Odyssey, Monster Hunter World, and Elden Ring. But that was just pre-release, so it's no shock to say that its fortunes haven't ended there.\nAlinea Analytics' head of market analysis, Rhys Elliott, posts the latest estimate over on Twitter, which places Rockstar's latest at 53 million copies sold, making $4.7 billion in its first week.\nIf this number is accurate, GTA 6 is the 13th best-selling game ever, with it unseating Animal Crossing: New Horizons, and overtaking the likes of Cyberpunk 2077, The Sims, and the Pokemon Generation 1 games (which have a combined sales figure of 47.44 million across Red, Blue and Yellow).\nElliott's data also estimates that just under a quarter of GTA 6 sales were on Xbox, with the Series X|S version accounting for 13 million vs PS5's 40 million. And it's not like it's just selling well either, as he reckons that seven million players have already played over 50 hours, with 250k of those having already played 100 hours. For reference, the game had been out in New Zealand around 219 hours at the time the tweet was posted.\nObviously, this is massively impressive no matter how you look at it. But it's worth keeping in mind that the PC release hasn't even dropped yet, so this has the potential to skyrocket once more when PC players – and console players who are going to double dip – get their hands on it.\nPlaying Rockstar's new game? Be sure to read through our GTA 6 review and look through our GTA 6 guide for some more knowledge on the 2026 behemoth.\nWeekly digests, tales from the communities you love, and more\n4. Best pro Xbox: Nacon Revolution X Unlimited\nScott has been freelancing for over four years across a number of different gaming publications, first appearing on GamesRadar+ in 2024. He has also written for the likes of PC Gamer, Eurogamer, VG247, Play, TechRadar, and others. He's typically rambling about Metal Gear Solid, God Hand, or any other PS2-era titles that rar",
+    "extra": {
+     "image": "https://cdn.mos.cms.futurecdn.net/NnRLcujy7xjWDUq5xRqoCG-1920-80.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "GTA 6 СДЕЛАЛА СОЧНЫЕ 4,7 МИЛЛИАРДА\n\nИгры еще толком нет на ПК, а продажи уже перевалили за 53 миллиона копий за первую неделю. Имба абсолютная, а ведь некоторые игроки уже трасят по 100+ часов в катках. Рорл полнейший.\n\n❤️ — Ждем релиз на ПК\n👎 — Опять цифры от аналитиков",
+    "card_title": "ПРОДАЖИ GTA 6 УЛЕТЕЛИ В КОСМОС",
+    "reason": "Analyst sales estimates for GTA 6 reaching 53 million copies are confirmed via major outlet GamesRadar+.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "Продажи GTA 6 за первую неделю оценили в $4,7 млрд",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-27T17:34:51.147888+00:00"
+  },
+  {
+   "item": {
+    "title": "Game Developers Say GTA VI Looks Like Something From the Future",
+    "link": "https://rockstarintel.com/game-developers-say-gta-vi-looks-like-something-from-the-future/",
+    "summary": "GTA VI continues to impress people across the gaming industry, including developers who have spent decades creating video games themselves. As reported by IGN, several industry professionals have shared their reactions to Rockstar’s latest release, with one Naughty Dog developer coming up with a rather unusual comparison. Michael Barclay, World Design Director at Naughty Dog, [...] The post Game Developers Say GTA VI Looks Like Something From the Future appeared first on RockstarINTEL .",
+    "published": "2026-11-27T17:41:20+00:00",
+    "source": "Rockstar Intel",
+    "site_name": "Rockstar Intel",
+    "trust": "medium",
+    "text": "GTA VI continues to impress people across the gaming industry, including developers who have spent decades creating video games themselves. As reported by IGN, several industry professionals have shared their reactions to Rockstar’s latest release, with one Naughty Dog developer coming up with a rather unusual comparison.\nMichael Barclay, World Design Director at Naughty Dog, described his experience with GTA VI in a short post on social media. “I’ve made video games for 19 years and GTA VI appears to me as a Bugatti Veyron would to a nervous Victorian child,” he wrote.\nHowever, Barclay wasn’t the only developer struggling to find the right words. David Goldfarb, game director of Payday 2, also shared his thoughts. After more than 30 years in the industry, he said he couldn’t even find the words to describe what he was playing. He later added that he had “never been this floored by anything ever.”\nCharacter artist Del Walker, whose previous work includes The Last of Us Part II, Suicide Squad: Kill the Justice League and Star Wars Jedi: Survivor, had a similarly funny reaction. He explained that whenever GTA VI clips appear in his group chat, people ask him how Rockstar managed to create something like that. His post was simple: “Brother, I wasn’t there when they opened the portal? This is not magic I recognize.”\nIt’s not every day that developers with so much experience openly admit that they’re struggling to understand how another studio achieved something. Rockstar’s latest release is clearly making an impression even on the people who know exactly what goes into making video games.\nIn other Grand Theft Auto VI news, GTA VI has reportedly sold 53 million copies in one week, generating $4.7 billion plus the GTA series is also nearing 1 trillion YouTube views.\nYou can order your PS5 or XBOX copy of GTA VI with this link. Using the link to order the game will help support this website as we’ll earn a small commission. Thank you!\nFor more news on GTA VI, stay tuned to RockstarINTEL and sign up to our newsletter for a weekly round-up of all things Rockstar Games delivered straight to your inbox.",
+    "extra": {
+     "image": "https://rockstarintel.com/wp-content/uploads/2026/11/IMG_7049.JPG-1024x576.jpeg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "Разработчики в ШОКЕ от графики GTA 6\n\nСоздатели игр из Naughty Dog и Payday признались, что не понимают, как Rockstar вообще смогли выдать такую имбу. Говорят, это магия из будущего, а не обычная игра.",
+    "card_title": "РАЗРАБОТЧИКИ В ШОКЕ ОТ GTA 6",
+    "reason": "Разработчики из Naughty Dog и других студий в шоке от технологий GTA 6",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-27T17:50:17.328061+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA VI Is Already Bringing More Tourists to Miami",
+    "link": "https://rockstarintel.com/gta-vi-is-already-bringing-more-tourists-to-miami/",
+    "summary": "Grand Theft Auto VI is having an impact beyond the gaming world. The game’s release has also brought more attention to the real-life city that inspired Vice City, with new data showing a major increase in travel interest. According to Secret Miami, international searches for flights and vacation packages to Miami have surged in recent [...] The post GTA VI Is Already Bringing More Tourists to Miami appeared first on RockstarINTEL .",
+    "published": "2026-11-27T17:36:53+00:00",
+    "source": "Rockstar Intel",
+    "site_name": "Rockstar Intel",
+    "trust": "medium",
+    "text": "Grand Theft Auto VI is having an impact beyond the gaming world. The game’s release has also brought more attention to the real-life city that inspired Vice City, with new data showing a major increase in travel interest.\nAccording to Secret Miami, international searches for flights and vacation packages to Miami have surged in recent months. The data comes from eSky Group, a Poland-based travel agency.\nPoland saw a 215% increase in flight searches to Miami between September 21 and November 15 compared to the same period last year. Searches across eSky’s Latin American websites also increased by approximately 200%.\nGTA VI Is Making People Want to Visit Vice City\nThe numbers are even higher in some Eastern European countries. Searches for Miami flight and hotel packages increased by 545% in Romania and 500% in Bulgaria.\nActual bookings have also seen an increase. According to eSky, Miami vacation package bookings are up 56% over the past year. Travelers spent an average of $1,350 per person on trips lasting around eight nights.\nWhile the timing suggests that GTA VI may be playing a role in this growing interest, the data alone doesn’t prove that the game is responsible for the entire increase.\nStill, it’s interesting to see how Rockstar’s fictional version of Miami is attracting attention to the real city. After spending hours exploring Vice City, some players may now want to experience its real-life inspiration for themselves.In other Grand Theft Auto VI news, GTA VI has reportedly sold 53 million copies in one week, generating $4.7 billion plus the GTA series is also nearing 1 trillion YouTube views.\nYou can order your PS5 or XBOX copy of GTA VI with this link. Using the link to order the game will help support this website as we’ll earn a small commission. Thank you!\nFor more news on GTA VI, stay tuned to RockstarINTEL and sign up to our newsletter for a weekly round-up of all things Rockstar Games delivered straight to your inbox.",
+    "extra": {
+     "image": "https://rockstarintel.com/wp-content/uploads/2026/10/score-background-desktop.00160ew9j.7ha-1024x427.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "Туристы штурмуют МАЙАМИ\n\nРелиз игры вызвал дикий рост интереса к реальному прототипу Вайс-Сити: в некоторых странах поиск туров взлетел на 500%.\n\n❤️ — Залетим в отпуск\n👎 — Сидим в катке",
+    "card_title": "ТУРИСТЫ ЕДУТ В МАЙАМИ",
+    "reason": "Реальный туристический бум в Майами из-за релиза GTA 6",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-27T17:50:19.285083+00:00"
   }
  ]
 }
