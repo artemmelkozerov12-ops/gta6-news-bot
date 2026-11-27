@@ -5638,7 +5638,16 @@
   "d61af087ee3e8477": "2026-11-27T18:21:16.403726+00:00",
   "b8541216917f226f": "2026-11-27T18:21:17.387125+00:00",
   "5dcf9450fbb56af9": "2026-11-27T18:21:18.320809+00:00",
-  "9ea66e47fcaed1d1": "2026-11-27T18:21:19.569540+00:00"
+  "9ea66e47fcaed1d1": "2026-11-27T18:21:19.569540+00:00",
+  "9df81286a0a1362f": "2026-11-27T18:36:38.173045+00:00",
+  "531c0140474370e6": "2026-11-27T18:37:26.803151+00:00",
+  "938f5abbfb8391b8": "2026-11-27T18:37:28.402444+00:00",
+  "1d35065c6bdb75ef": "2026-11-27T18:37:31.459866+00:00",
+  "4b2f7c63732c817a": "2026-11-27T18:37:33.393829+00:00",
+  "d9356c03ef1e935f": "2026-11-27T18:37:34.274133+00:00",
+  "cce4dda29c655cd1": "2026-11-27T18:37:34.969109+00:00",
+  "8897d661a3544877": "2026-11-27T18:37:35.790307+00:00",
+  "7a478140cc911371": "2026-11-27T18:37:36.598992+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -9518,7 +9527,15 @@
   "ad5780bc0a9b151c": "2026-11-27T18:21:16.403726+00:00",
   "6df4e785d38edc7c": "2026-11-27T18:21:17.387125+00:00",
   "d4ff1e8d2a280eaa": "2026-11-27T18:21:18.320809+00:00",
-  "486f46cacb2134d8": "2026-11-27T18:21:19.569540+00:00"
+  "486f46cacb2134d8": "2026-11-27T18:21:19.569540+00:00",
+  "102a7abeaa480112": "2026-11-27T18:37:28.402444+00:00",
+  "3d1cac63401afe00": "2026-11-27T18:37:26.803151+00:00",
+  "bf7047af13310eb7": "2026-11-27T18:37:31.459866+00:00",
+  "49c96b774e1cef81": "2026-11-27T18:37:33.393829+00:00",
+  "9a19b94ae017f605": "2026-11-27T18:37:34.274133+00:00",
+  "3f4f0f5c53f784b7": "2026-11-27T18:37:34.969109+00:00",
+  "d0c7cf8f8e91d239": "2026-11-27T18:37:35.790307+00:00",
+  "078537d42f3cd6f2": "2026-11-27T18:37:36.598992+00:00"
  },
  "recent": [
   {
@@ -18656,6 +18673,62 @@
    "status": "skipped",
    "ts": "2026-11-27T18:21:19.569693+00:00",
    "card_title": ""
+  },
+  {
+   "title": "'GTA 6' Fans Are Pulling Off Perfect Robberies With Only A Six Pack of Beer",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-27T18:36:38.173072+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Players Are Not, In Fact, Eating Good",
+   "source": "Polygon",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-27T18:37:26.803259+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI reportedly runs on Macs. The frames are taking their time.",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T18:37:33.393937+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Version 2.2.0 of the unofficial GTA VI port has reduced frame rate lag by 78%.",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T18:37:34.274251+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Play GTA VI Remotely with Raspberry Pi? #piday #raspberrypi",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T18:37:34.969222+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Mercer County has the most GTA 6-ready internet in Ohio, study finds",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T18:37:35.790426+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "DeSoto Sheriff Tuggle Warns Parents About GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T18:37:36.599110+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -25018,6 +25091,66 @@
    },
    "corr": false,
    "since": "2026-11-27T18:21:12.490600+00:00"
+  },
+  {
+   "item": {
+    "title": "'GTA 6' Fans Are Pulling Off Perfect Robberies With Only A Six Pack of Beer",
+    "link": "https://www.polygon.com/gta-6-bank-robbery-beer-weapon-how-to-facebook-youtube-videos/",
+    "summary": "These GTA 6 fans only need liquid courage to pull off professional heists with no casualties in Rockstar's open-world game",
+    "published": "2026-11-27T18:27:39+00:00",
+    "source": "Polygon",
+    "site_name": "Polygon",
+    "trust": "high",
+    "text": "If you're like me, then you approach Grand Theft Auto 6's heists with anxiety. You case the joint inside and out. You plan meticulously, leaving the getaway car running nearby with the trunk open. You know exactly where all the cameras are, and have a plan for what to do if anyone tries anything funny. Well, what if I told you that you didn't need to do any of that to steal everything from a store in a way that inches your criminal profile closer to professional status?\nGTA 6 gives fans a lot of flexibility in how they approach their Bonnie and Clyde story with Jason and Lucia. Where some people pull off robberies as if they were playing a stealth game like Hitman, others just go in guns blazing. Some people are using this freedom to get creative with their heists, and the results are as hilarious as they are impressive.\nRight now, social media is filling up with videos of people waltzing into jewelry stores, six-pack of beer in hand — and walking away with every single valuable in the establishment. Often, these GTA 6 fans don't even bother wearing a mask or pulling out a gun.\nIn this example uploaded by a meme account on Facebook, for example, Jason pulls off a beer-bottle robbery with the nonchalance of someone picking up a prescription at the pharmacy. Jason even stops to eat an apple before actually breaking any displays. Later, he smokes a cigarette while walking out with bags full of loot in front of nearby NPCs.\nThe trend is catching on, judging from other viral videos showing similar shenanigans. In this video by 1-Up Gaming, the alarm does go off — but Jason turns it off within seconds. The guards almost seem confused by what's going on, since Jason technically doesn't have a weapon drawn​​​​​​​.\nSome variations show Jason actively drinking during the robbery.​​​​​​​ In this case, the player does pull out a gun to threaten an employee, but no shots are fired.\nTo be fair, the videos do seem to involve at least some planning​​​​​​​. In the Reddit video, the player knows exactly where a guard will come out before he appears​​​​​​​. Still, it's a jewelry caper taking place in a medium-security facility​​​​​​​ with two floors of gems. I tried hitting up that same target with the help of Lucia and couldn't even get half of what the player stole before I was in the middle of a two-star police chase. The damage to my car was higher than what I actually stole!\nHere's an example of how YouTuber​​​​​​​ RandomWeirdThings 248 buys a six-pack and enters a bank",
+    "extra": {
+     "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/jason_and_lucia_04.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "ИМБА-ОБКРАДЫВАНИЕ\n\nИгроки в GTA 6 начали грабить ювелирки и банки вообще без оружия, просто с упаковкой пива в руках. Чистый рофл, охранники в шоке, а Джейсон спокойно выносит лут под яблочки и сигареты.\n\n❤️ — Гениальная тактика\n👎 — Охрана просто в доле",
+    "card_title": "ГРАБЕЖ С ПИВОМ",
+    "reason": "Funny emerging gameplay trend in GTA 6 with players robbing stores using just a beer pack, highly engaging for fans.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "'GTA 6' Fans Are Pulling Off Perfect Robberies With Only A Six Pack of Beer — Google News (EN)",
+    "corroborated_by": "'GTA 6' Fans Are Pulling Off Perfect Robberies With Only A Six Pack of Beer — Google News (EN)",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-27T18:37:29.155593+00:00"
+  },
+  {
+   "item": {
+    "title": "«Дом Джейсона» из GTA VI продают за 60 миллионов рублей, но исследователи карты считают, что он находится в другом месте",
+    "link": "https://ixbt.games/news/2026/11/27/dom-dzeisona-iz-gta-vi-prodaiut-za-60-millionov-rublei-no-issledovateli-karty-scitaiut-cto-on-naxoditsia-v-drugom-meste.html",
+    "summary": "Предполагается, что прототипом стала иная локация.",
+    "published": "2026-11-27T18:04:00+00:00",
+    "source": "iXBT.games",
+    "site_name": "iXBT.games",
+    "trust": "medium",
+    "text": "Предполагается, что прототипом стала иная локация.\nНедавно вышла Grand Theft Auto VI и игроки постепенно начали изучать контент. Виртуальный штат Леонида вдохновлён реальной Флоридой, поэтому поклонники стали искать похожие объекты.\nВнимание многих привлекло объявление о продаже дома. Оно очень напоминает стартовое жилище главного героя Джейсона (из первой главы). Дом на сваях располагается во Флориде в Ки-Ларго, его оценили в ~739 тысяч долларов (порядка 60 миллионов рублей). Он был построен в 1971 году, есть балкон, две спальни и одна ванная комната.\nОднако некоторые исследователи карты Grand Theft Auto VI усомнились, что именно этим домом вдохновлялись разработчики. Они читают, что источником вдохновления всё же мог послужить «старый дом на сваях в Сидар-Ки на побережье Мексиканского залива во Флориде, в сотнях миль от Ки-Ларго». Он был построен ещё в 1940 году и не продаётся, его оценочная стоимость 257 тысяч долларов.\nСейчас Grand Theft Auto VI официально доступна на консолях PlayStation 5 и Xbox Series X|S. Но недавно в сеть слили билд и техно-энтузиасты его разобрали: теперь появляются различные неофициальные ПК-версии новой игры Rockstar Games.\nНе пропускайте наши новостиДобавьте сайт в предпочитаемые источники, чтобы видеть нас чащеДобавить в Google",
+    "extra": {
+     "image": "https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1747119/media-335ceb45b9ca40d007dc6531f35a05d533c3612738635a9578c81142c1784b20.png"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "ДОМ Джейсона продают за 60 лямов\n\nИгроки нашли хату героя из первой главы во Флориде и знатно офигели с ценника. Правда, картоделы спорят — то ли это самое место, то ли разработчики вдохновлялись другой лачугой.",
+    "card_title": "ДОМ ДЖЕЙСОНА ЗА 60 МИЛЛИОНОВ",
+    "reason": "Интересная фанатская находка и спор о реальном прототипе дома Джейсона",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-27T18:37:32.272698+00:00"
   }
  ]
 }
