@@ -5723,7 +5723,21 @@
   "b120753f2712c5e5": "2026-11-27T21:31:48.216377+00:00",
   "a3c2d34117ac7381": "2026-11-27T21:31:49.155409+00:00",
   "fb0b83f598cd56b1": "2026-11-27T21:31:50.060566+00:00",
-  "7aacfbec4cc76b2a": "2026-11-27T21:49:10.091136+00:00"
+  "7aacfbec4cc76b2a": "2026-11-27T21:49:10.091136+00:00",
+  "df5cb18df5629c1c": "2026-11-27T21:54:17.520882+00:00",
+  "ab2ea7630dd4d2d1": "2026-11-27T21:54:18.296084+00:00",
+  "426aff6cc618e8ed": "2026-11-27T21:54:19.054084+00:00",
+  "52ddcf835d1f80de": "2026-11-27T21:54:19.873659+00:00",
+  "2d7f44f2e39854bb": "2026-11-27T21:55:10.852516+00:00",
+  "fb7b138ded71c14d": "2026-11-27T21:55:14.212391+00:00",
+  "aacb3824d837e273": "2026-11-27T21:55:19.172928+00:00",
+  "60f5917c01873544": "2026-11-27T21:55:27.201387+00:00",
+  "5f812096ba36c0ab": "2026-11-27T21:56:20.357256+00:00",
+  "1c6a62dd60e1d515": "2026-11-27T21:56:23.141819+00:00",
+  "35992d8dc8591809": "2026-11-27T22:05:01.833647+00:00",
+  "a2a5232ba75dbc65": "2026-11-27T22:05:03.735467+00:00",
+  "80be6e58de712747": "2026-11-27T22:05:05.263650+00:00",
+  "6f3bd8855832b96a": "2026-11-27T22:05:06.103432+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -9667,7 +9681,11 @@
   "fec40bce82dac9a9": "2026-11-27T21:31:48.216377+00:00",
   "d29b001bb7f08ee0": "2026-11-27T21:31:49.155409+00:00",
   "1903e22760876e9a": "2026-11-27T21:31:50.060566+00:00",
-  "a972b940790dcbc1": "2026-11-27T21:49:10.091136+00:00"
+  "a972b940790dcbc1": "2026-11-27T21:49:10.091136+00:00",
+  "ebea776c786363b1": "2026-11-27T22:05:01.833647+00:00",
+  "b31085ad2b18d698": "2026-11-27T22:05:03.735467+00:00",
+  "fcea037232d5e325": "2026-11-27T22:05:05.263650+00:00",
+  "c246ba0753b3039a": "2026-11-27T22:05:06.103432+00:00"
  },
  "recent": [
   {
@@ -18405,6 +18423,30 @@
    "status": "skipped",
    "ts": "2026-11-27T21:49:10.091284+00:00",
    "card_title": ""
+  },
+  {
+   "title": "How to Enter Cheat Codes in GTA 6—GTA 6 Cheat Code Guide",
+   "source": "Insider Gaming",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-27T22:05:04.372674+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Black Friday GTA 6 deals — all the best prices on the game, bundles, and experience-enhancing peripherals I can find",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T22:05:05.263799+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Преимущества GTA 6 на Playstation 5 стали проблемой для игроков",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T22:05:06.103556+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -18975,36 +19017,6 @@
   {
    "clip": {
     "source": "twitch",
-    "url": "https://www.twitch.tv/lru_rose/clip/AmazingFamousPheasantCoolCat-HGI4pmHPJny7793y",
-    "title": "Обезьяна бекон",
-    "author": "LRU_ROSE",
-    "views": 300,
-    "duration": 27.4,
-    "created": "2026-11-26T17:23:34+00:00",
-    "lang": "ru",
-    "description": "",
-    "vod_id": "2941377523",
-    "vod_offset": 7007.0
-   },
-   "caption": "Чел решил ночью заглянуть в лес и встретил люто агрессивного кабана. Жиза, в Леониде лучше не гулять после закатов 💀",
-   "interest": 9,
-   "spoiler": false,
-   "nsfw": false,
-   "watched": true,
-   "model": "gemini:gemini-3.5-flash-lite",
-   "media": {
-    "width": null,
-    "height": 720,
-    "duration": 27
-   },
-   "queued_at": "2026-11-26T21:53:58.811335+00:00",
-   "file_id": "BAACAgIAAxkDAAPAawiqd9Wz7LH6N_wXnSklwMcIavAAAui3AAJzy0FIjN6YaNF5cb89BA",
-   "moderation": "pending",
-   "draft_msg_id": 192
-  },
-  {
-   "clip": {
-    "source": "twitch",
     "url": "https://www.twitch.tv/joe_bartolozzi/clip/CloudyBeautifulSageAliens-lPvnP92e3db1_lR1",
     "title": "hard r",
     "author": "Joe_Bartolozzi",
@@ -19271,6 +19283,36 @@
    "file_id": "BAACAgIAAxkDAAPVawntsDl9h-UM-FIDsn8VXpr6OiwAAim2AALiwFBI8MAUDvh1OJU9BA",
    "moderation": "pending",
    "draft_msg_id": 213
+  },
+  {
+   "clip": {
+    "source": "twitch",
+    "url": "https://www.twitch.tv/kr1stw/clip/RudeTalentedBaguetteBloodTrail-hMLBEVn1kfGP1ssG",
+    "title": "十分跳水動作",
+    "author": "西南69",
+    "views": 192,
+    "duration": 16.4,
+    "created": "2026-11-27T19:18:51+00:00",
+    "lang": "zh",
+    "description": "",
+    "vod_id": "2942272131",
+    "vod_offset": 15317.0
+   },
+   "caption": "Чел решил срезать поворот на байке и улетел прямо в озеро с моста 💀 Полет сквозь пальмы — чистый разнос",
+   "interest": 8,
+   "spoiler": false,
+   "nsfw": false,
+   "watched": true,
+   "model": "gemini:gemini-3.5-flash-lite",
+   "media": {
+    "width": null,
+    "height": 720,
+    "duration": 16
+   },
+   "queued_at": "2026-11-27T21:56:26.171220+00:00",
+   "file_id": "BAACAgIAAxkDAAPXawn8iy6YdCss-cacmRbY2oANwdQAAqO2AALiwFBIm16SPhk46CE9BA",
+   "moderation": "pending",
+   "draft_msg_id": 215
   }
  ],
  "clip_drafts": [
@@ -19295,7 +19337,8 @@
   "2026-11-27T12:49:39.078273+00:00",
   "2026-11-27T13:51:17.116374+00:00",
   "2026-11-27T19:50:26.633361+00:00",
-  "2026-11-27T20:53:04.519306+00:00"
+  "2026-11-27T20:53:04.519306+00:00",
+  "2026-11-27T21:56:27.671209+00:00"
  ],
  "clip_history": [
   {
@@ -23832,6 +23875,102 @@
    "ts": "2026-11-27T20:53:04.519323+00:00",
    "frames": [],
    "caption": "Лусия решила оставить послание на капоте из баллончика — база 💀"
+  },
+  {
+   "author": "youtube:gta6-次元狂飙",
+   "vod": "",
+   "offset": -1,
+   "title": "#gta #gta6  #cosplay  #shorts",
+   "drafted": false,
+   "ts": "2026-11-27T21:54:17.520931+00:00"
+  },
+  {
+   "author": "youtube:bux vlogs",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 y México 🇲🇽",
+   "drafted": false,
+   "ts": "2026-11-27T21:54:18.296116+00:00"
+  },
+  {
+   "author": "youtube:studio ci",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 Em Diferentes Consoles",
+   "drafted": false,
+   "ts": "2026-11-27T21:54:19.054119+00:00"
+  },
+  {
+   "author": "youtube:game forensics",
+   "vod": "",
+   "offset": -1,
+   "title": "Suspension Test: GTA 6 VS GTA 5",
+   "drafted": false,
+   "ts": "2026-11-27T21:54:19.873691+00:00"
+  },
+  {
+   "author": "twitch:adm1tr1pow",
+   "vod": "2942430428",
+   "offset": 2535.0,
+   "title": "помидорный загар",
+   "drafted": false,
+   "ts": "2026-11-27T21:55:10.852549+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:chloeyummyyy",
+   "vod": "2942031070",
+   "offset": 928.0,
+   "title": "gg",
+   "drafted": false,
+   "ts": "2026-11-27T21:55:14.212437+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:montanablack88",
+   "vod": "2942071933",
+   "offset": 514.0,
+   "title": "fy",
+   "drafted": false,
+   "ts": "2026-11-27T21:55:19.172979+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:bratishkinoff",
+   "vod": "2941301054",
+   "offset": 47067.0,
+   "title": "Переодевание 18+",
+   "drafted": false,
+   "ts": "2026-11-27T21:55:27.201435+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:buster",
+   "vod": "2942445595",
+   "offset": 1520.0,
+   "title": "про мрв",
+   "drafted": false,
+   "ts": "2026-11-27T21:56:20.357303+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:西南69",
+   "vod": "2942272131",
+   "offset": 15317.0,
+   "title": "十分跳水動作",
+   "drafted": false,
+   "ts": "2026-11-27T21:56:23.141865+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:西南69",
+   "vod": "2942272131",
+   "offset": 15317.0,
+   "title": "十分跳水動作",
+   "drafted": true,
+   "ts": "2026-11-27T21:56:27.671226+00:00",
+   "frames": [],
+   "caption": "Чел решил срезать поворот на байке и улетел прямо в озеро с моста 💀 Полет сквозь пальмы — чистый разнос"
   }
  ],
  "published": [
@@ -24410,6 +24549,36 @@
    },
    "corr": true,
    "since": "2026-11-27T21:16:18.960000+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA 6 Is Exposing Worn-Out PS5 and Xbox Consoles",
+    "link": "https://www.gtaboom.com/gta-6-is-exposing-worn-out-ps5-and-xbox-consoles-d96f",
+    "summary": "Stop playing and seek service if shutdowns persist after ventilation and update checks; Modyfikator89 reports Xbox shutdowns since GTA 6 launched.",
+    "published": "2026-11-27T22:00:32+00:00",
+    "source": "GTA BOOM",
+    "site_name": "GTA BOOM",
+    "trust": "medium",
+    "text": "Grand Theft Auto VI launched with a return to Vice City, and a repair technician in Poland now reports seeing Xboxes with overheating and mid-game shutdowns since launch. Earlier reports came mostly from PS5 players and ranged from crashes to the odd console that would not turn back on.\nMost of the early reports came from PlayStation 5 owners, many of them hitting the error code CE-108255-1 mid-session. Sony describes that code as a generic application error that has more to do with the gaming you're playing and Rockstar Games' first post-GTA 6 launch patch, update 01.002.002, fixed several crashes without making the reports go away. The more dramatic cases, consoles that shut down for good or smelled of smoke, are rare and come from individual players.\nThe technician behind the Modyfikator89 account posted the Xbox numbers on X on November 26. Xbox consoles are uncommon in Poland, so the shop used to see about 10 a month. Since GTA 6 launched, Xboxes make up about 2 of every 10 repairs each day for overheating, mid-game shutdowns, consoles that boot with no picture before the fan stops, slowdowns and freezes during updates.\nAn earlier post from the same technician dug into one PS5 with 235 days, 10 hours and 37 minutes of total runtime. Its error logs showed 40 Main SoC Access Errors, seven APU VRM Power Fail entries and seven SSD Controller Watchdog Errors. The technician also measured the power draw. GTA 6 pulled around 220 W in a quiet scene and 274.2 W at full load, against 67 W with the game closed.\nA long session of GTA 6 could expose a cooling or hardware problem that was already there. The game works console CPUs hard enough that Digital Foundry ruled out a 40fps mode even on PS5 Pro. The many hours of 30fps play with the CPU and GPU pinned is a stress test few other games run. Sustained load could expose cooling problems such as dust-choked heatsinks, dried-out thermal paste or issues with liquid metal, even on consoles that still run other games fine. The measured peak sits inside the original PS5's 350 W rating. Nobody at Sony, Microsoft or Rockstar Games has blamed the game for hardware damage. These failures also remain a small slice of a player base in the tens of millions.\nKeeping your console alive comes down to boring maintenance. Put it on a hard, flat surface with about 10 cm (4 inches) of clear space around it, out of closed cabinets and off the floor, away from dust. Every month or two, power it down fully, unplug it and gently vacuum",
+    "extra": {
+     "image": "https://media.gtaboom.com/variants/1920/media/images/a5/18/gta-6-is-exposing-worn-out-ps5-and-xbox-consoles.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "КОНСОЛИ ПЛАВЯТСЯ\n\nGTA 6 оказалась лютым стресс-тестом для железа. Ремонтники жалуются, что игра перегревает старые PS5 и Xbox, вызывая вылеты и зависания.\n\n❤️ — Чистил пыль вчера\n👎 — Моя консоль живая",
+    "card_title": "GTA 6 ЖЖЕТ КОНСОЛИ",
+    "reason": "Technician reports show GTA 6 stresses old consoles, causing overheating and shutdowns, acting as a real hardware stress test.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-27T22:05:02.463508+00:00"
   }
  ]
 }
