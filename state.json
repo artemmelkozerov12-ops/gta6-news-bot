@@ -5647,7 +5647,29 @@
   "d9356c03ef1e935f": "2026-11-27T18:37:34.274133+00:00",
   "cce4dda29c655cd1": "2026-11-27T18:37:34.969109+00:00",
   "8897d661a3544877": "2026-11-27T18:37:35.790307+00:00",
-  "7a478140cc911371": "2026-11-27T18:37:36.598992+00:00"
+  "7a478140cc911371": "2026-11-27T18:37:36.598992+00:00",
+  "e6642bb1af248635": "2026-11-27T18:41:18.478793+00:00",
+  "876caee2fb04dec2": "2026-11-27T18:41:19.375883+00:00",
+  "4b708a2b17711c0d": "2026-11-27T18:41:20.580352+00:00",
+  "bf6b5b251d3d3264": "2026-11-27T18:41:21.972625+00:00",
+  "237088b525729182": "2026-11-27T18:41:23.148289+00:00",
+  "ce38949591fe7211": "2026-11-27T18:41:24.591331+00:00",
+  "590e9e46bc85238a": "2026-11-27T18:41:25.485266+00:00",
+  "ee121e0f4956c958": "2026-11-27T18:41:26.759453+00:00",
+  "519c01401c74de4a": "2026-11-27T18:56:49.411529+00:00",
+  "eeb43ec3d2929728": "2026-11-27T18:56:51.257664+00:00",
+  "ab573049fa5e4677": "2026-11-27T18:56:52.420898+00:00",
+  "b15c0f6581c8fff3": "2026-11-27T18:56:53.501334+00:00",
+  "25c96ff0c9f1f051": "2026-11-27T18:56:54.535617+00:00",
+  "8c2c5796fa028a1b": "2026-11-27T18:56:55.515157+00:00",
+  "a4d9ab22abb72fdf": "2026-11-27T18:56:56.727182+00:00",
+  "1d6065df122d6112": "2026-11-27T19:12:15.072308+00:00",
+  "6b0a2cc4052f5bdb": "2026-11-27T19:12:16.866484+00:00",
+  "247f843f88a266bb": "2026-11-27T19:12:18.667181+00:00",
+  "05efee816a2ba206": "2026-11-27T19:12:21.382278+00:00",
+  "96f3d647b5041553": "2026-11-27T19:12:22.461662+00:00",
+  "ebc178f08abe7d90": "2026-11-27T19:12:23.265976+00:00",
+  "bdbbbb5361f41ae8": "2026-11-27T19:12:24.602949+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -9535,985 +9557,31 @@
   "9a19b94ae017f605": "2026-11-27T18:37:34.274133+00:00",
   "3f4f0f5c53f784b7": "2026-11-27T18:37:34.969109+00:00",
   "d0c7cf8f8e91d239": "2026-11-27T18:37:35.790307+00:00",
-  "078537d42f3cd6f2": "2026-11-27T18:37:36.598992+00:00"
+  "078537d42f3cd6f2": "2026-11-27T18:37:36.598992+00:00",
+  "21ef0911634aace2": "2026-11-27T18:41:18.478793+00:00",
+  "49f3663b2a13a355": "2026-11-27T18:41:19.375883+00:00",
+  "42a89adbc18ae504": "2026-11-27T18:41:20.580352+00:00",
+  "4261815dc6db78eb": "2026-11-27T18:41:21.972625+00:00",
+  "76a716af39e81b0d": "2026-11-27T18:41:23.148289+00:00",
+  "1436501f88ab75f1": "2026-11-27T18:41:24.591331+00:00",
+  "a4b7155d5a5ab823": "2026-11-27T18:41:25.485266+00:00",
+  "f83d1562a8d5f0e1": "2026-11-27T18:41:26.759453+00:00",
+  "ca296776a26b4840": "2026-11-27T18:56:49.411529+00:00",
+  "8d4bcce3ee0dfa8b": "2026-11-27T18:56:51.257664+00:00",
+  "417922dafd67bcfa": "2026-11-27T18:56:52.420898+00:00",
+  "5c4e1508e79c32b9": "2026-11-27T18:56:53.501334+00:00",
+  "519df77dda7c55b8": "2026-11-27T18:56:54.535617+00:00",
+  "afd77e05f6b27934": "2026-11-27T18:56:55.515157+00:00",
+  "bb37f71a8bc46ebb": "2026-11-27T18:56:56.727182+00:00",
+  "68c89e623b9cf33c": "2026-11-27T19:12:15.072308+00:00",
+  "b29c248023694245": "2026-11-27T19:12:16.866484+00:00",
+  "c721c47f6bd05697": "2026-11-27T19:12:18.667181+00:00",
+  "6d55f8f88022c27b": "2026-11-27T19:12:21.382278+00:00",
+  "9be9c6a33d7b0018": "2026-11-27T19:12:22.461662+00:00",
+  "1dda0c84f2bf69ef": "2026-11-27T19:12:23.265976+00:00",
+  "c07578ad3833a882": "2026-11-27T19:12:24.602949+00:00"
  },
  "recent": [
-  {
-   "title": "Where To Find Progen Black Widow Emerus In GTA 6—Fastest Cars Location & Stats",
-   "source": "Insider Gaming",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-25T13:07:17.878287+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Take-Two Appears to Be Trying to Scrub GTA 6 PC Ports From the Internet, as Vibecoders Race Toward Controversial World First",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-25T13:07:20.253001+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Xbox Series X больше подходит для GTA 6, чем PS5",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-25T13:07:38.765167+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Барко: GTA 6 только вышла, но некоторые ребята в «Спартаке» уже скачали её",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-25T13:07:39.526712+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "5 Game of the Year nominees are up to 57% off in Loaded's Black Friday sale: GTA 6, 007 First Light and more",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-25T13:07:40.042173+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Ведущая сценаристка GTA 6 удалила аккаунт в X из-за травли в Сети",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-25T13:07:59.816154+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Калининградская бодибилдерша стала прототипом персонажа в GTA 6",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-25T13:08:22.497795+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA VI hits 45.5M units sold in first 3 days",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-25T13:08:36.799174+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "How to get abducted and find aliens in GTA 6",
-   "source": "GamesRadar+",
-   "trust": "high",
-   "status": "dup",
-   "ts": "2026-11-25T13:24:09.453968+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "How to get the fastest cars in GTA 6",
-   "source": "GamesRadar+",
-   "trust": "high",
-   "status": "dup",
-   "ts": "2026-11-25T13:24:09.460117+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Top 10 GTA VI Mods That Fans Are Requesting",
-   "source": "Rockstar Intel",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-25T13:24:24.876834+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Макс Ферстаппен провёл 40 часов за GTA VI во время уикенда Гран-при Лас-Вегаса",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-25T13:24:32.283236+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Digital Foundry сравнила производительность GTA 6 на консолях — PS5 Pro в лидерах, а Xbox Series X стабильнее базовой PS5",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-25T13:24:40.864405+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "The Tampa Bay Times went birding in ‘GTA VI’",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-25T13:24:41.563569+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Where I’d Buy Sony After GTA VI’s $3 Billion Debut",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-25T13:24:48.716671+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Is Taylor Swift in GTA 6? What the official soundtrack reveals",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-25T13:25:01.531403+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Classics Such as Soulcalibur and Zelda: Ocarina of Time Are Being Review-Bombed on Metacritic to Drive Up GTA VI Scores",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-25T13:25:24.681497+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Игроки GTA 6 заметили, что макияж Лусии со временем размазывается, если его не обновлять",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-25T13:25:38.993102+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Where To Find the Piccia Dragon Gate Furia In GTA 6—Fastest Cars Location & Stats",
-   "source": "Insider Gaming",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-25T13:41:53.567660+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "‘Grand Theft Auto VI’ Made Nearly $4 Billion Doing What Movies Can’t",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-25T13:41:54.229724+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "10 Games That Will Feel Better To Play After GTA 6",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-25T13:42:03.920030+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "How to Get the Little Friend SMG in GTA 6 – Scarface Easter Egg",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-25T13:42:26.097123+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "CD Projekt RED уверяет, что разница между The Witcher 3 и The Witcher 4 будет такой же, как между GTA 5 и GTA 6",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-25T13:42:49.180730+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Rockstar начала отдельно продавать набор Vintage Vice City Pack для GTA 6 за $4,99 — ранее он шел бонусом за предзаказ",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-25T13:43:12.365458+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Only 28 % of the buildings on the GTA VI map can be explored",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-25T13:43:26.104577+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Getting prepped for the GTA 6 PC release? These top-rated gaming accessories are up to 41% off for Black Friday",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-25T13:43:47.718642+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "How to Listen to the Radio While Walking in GTA 6",
-   "source": "Insider Gaming",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-25T13:59:19.805190+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Raul Bautista Actor Manny Perez Bought a PS5 So He Could Play GTA 6",
-   "source": "IGN",
-   "trust": "high",
-   "status": "queued",
-   "ts": "2026-11-25T13:59:25.556975+00:00",
-   "card_title": "АКТЁР КУПИЛ PS5 РАДИ ГТА 6"
-  },
-  {
-   "title": "Почему весь мир сходит с ума по GTA-6?",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-25T13:59:32.781402+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 players report PS5 consoles failing as tests reveal unusually high power consumption",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-25T13:59:45.631158+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Digital Foundry сравнила версии GTA VI на консолях",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-25T14:00:11.003895+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Just Introduced a New Generation to a 70s Rock Star, and His Streaming Numbers Are Exploding",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-25T14:00:31.686217+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Meet the Cincinnati voice actor featured in GTA 6",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-25T14:00:43.581743+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "I Can't Stop Watching GTA 6's Fake TV",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-25T14:00:56.485079+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Causes PS5 Consoles to Sell Out in US Before Black Friday",
-   "source": "Push Square",
-   "trust": "high",
-   "status": "published",
-   "ts": "2026-11-25T14:16:31.639497+00:00",
-   "card_title": "ДЕФИЦИТ PS5 ИЗ-ЗА GTA 6"
-  },
-  {
-   "title": "Unable to buy gas, I feel broke in GTA 6 – for the first time, money matters",
-   "source": "GamesRadar+",
-   "trust": "high",
-   "status": "published",
-   "ts": "2026-11-25T14:17:52.277947+00:00",
-   "card_title": "НЕ ХВАТАЕТ ДЕНЕГ НА ЗАПРАВКУ"
-  },
-  {
-   "title": "GTA 6 features something Rockstar tried to add in Grand Theft Auto: Vice City, former tech lead says",
-   "source": "GamesRadar+",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-25T14:17:58.852221+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "I'm having a much better time in GTA 6 now I've disabled its pesky Criminal Profile pings",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-25T14:18:20.241522+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Is Overrated, and the User Reviews Prove It",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-25T14:18:44.220213+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Be thankful for GTA 6 and Zelda: Ocarina of Time",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-25T14:19:16.516012+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Any official GTA 6 PC port’s ability to deliver a proper first person mode would be its biggest ace in the hole, so reckon I, a traitor",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-25T14:19:17.284422+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "'GTA 6' May Be ‘High Art.’ But Is it Good?",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-25T14:19:20.893472+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Форк VIctory запустил GTA 6 на RX 9070 XT и Ryzen 7 9800X3D при 3 FPS и расходе 46 ГБ ОЗУ",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-25T14:35:22.712111+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Even Max Verstappen has succumbed to GTA 6 fever, squeezing in 40 hours around his Las Vegas Grand Prix win",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-25T14:35:22.712212+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "How to steal an ATM and get a winched vehicle in GTA 6",
-   "source": "PC Gamer",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-25T14:35:32.051368+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Where To Find Transgressors for Wyman in GTA 6—All Locations, Explained",
-   "source": "Insider Gaming",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-25T14:35:47.449657+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Where To Find Dante’s Pegassi Vitello In GTA 6—Fastest Cars Location & Stats",
-   "source": "Insider Gaming",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-25T14:35:48.250354+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6: Find and steal Paul Walker’s car, a Fast & Furious reference",
-   "source": "VGC",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-25T14:36:22.830359+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Even Max Verstappen has succumbed to GTA 6 fever, squeezing in 40 hours around his Las Vegas Grand Prix win",
-   "source": "PC Gamer",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-25T14:36:45.823161+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "The Witcher 4 Wants To Be The GTA 6 Of The Witcher Franchise",
-   "source": "GameSpot",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-25T14:37:11.437831+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 на ПК: почему первое лицо важнее, чем кажется",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-25T14:37:52.803900+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Victory fork launched GTA 6 on RX 9070 XT и Ryzen 7 9800X3D at 3 FPS and 46 GB of RAM consumption",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-25T14:38:15.464650+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Where To Find Grotti Dolce Vita RSX In GTA 6—Fastest Cars Location & Stats",
-   "source": "Insider Gaming",
-   "trust": "medium",
-   "status": "dup",
-   "ts": "2026-11-25T14:53:38.985575+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "How To Unlock Hurricane Weather In ‘GTA 6’",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-25T14:53:38.985663+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6: How to Find the Tommy Vercetti Easter Egg",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-25T14:53:38.985775+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Digital Foundry сравнил GTA 6 на PS5, PS5 Pro, Xbox Series S и X — какая консоль справляется лучше",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-25T14:53:38.985857+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA VI Console Graphics Settings Revealed In Detailed Comparison",
-   "source": "Rockstar Intel",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-25T14:54:12.853451+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Where To Find Pfister Class Act Comet In GTA 6—Fastest Cars Location & Stats",
-   "source": "Insider Gaming",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-25T14:54:38.046044+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "The Normal Person’s Guide To Understanding Grand Theft Auto 6",
-   "source": "Kotaku",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-25T14:55:03.362595+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Modders Are Trying To Vibe-Code A PC Port, And It’s Not Going Well",
-   "source": "GameSpot",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-25T14:55:18.915467+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 has already achieved an incredible sales record after less than a week",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-25T14:55:19.566825+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "How to Unlock Kodak Black’s Radio Station in GTA 6",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-25T14:55:24.354070+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 собрала впечатляющее количество просмотров на YouTube в день релиза — Twitch и Kickstarter не отстают",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-25T14:56:00.836908+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "You Should Go Back To Your Old House After GTA 6’s Second Chapter",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-25T15:12:19.518085+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Where to find Red Hulk in GTA 6",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-25T15:12:19.518168+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Where To Find Pegassi Splattered Vitello In GTA 6—Fastest Cars Location & Stats",
-   "source": "Insider Gaming",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-25T15:12:55.771929+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "После релиза GTA VI игроки переосмыслили слова босса Valve о реализме, — самое интересное за 24 ноября",
-   "source": "iXBT.games",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-25T15:12:57.436136+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "You Should Go Back To Your Old House After GTA 6’s Second Chapter",
-   "source": "Kotaku",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-25T15:13:30.888436+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "How to Find & Equip Armor in GTA 6",
-   "source": "Insider Gaming",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-25T15:13:51.703714+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Unofficial GTA 6 PC race is the \"most ridiculous dumpster fire ever,\" says former Destiny 2 dev",
-   "source": "GamesRadar+",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-25T15:14:34.609279+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "The unexpected joy hiding in Grand Theft Auto VI’s chaos? A little routine",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-25T15:15:04.928785+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Game Engine Tech Reaches 5 Fields Beyond Gaming",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-25T15:15:48.456792+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Every GTA 6 fence location and where to find them",
-   "source": "GamesRadar+",
-   "trust": "high",
-   "status": "dup",
-   "ts": "2026-11-25T15:31:44.155517+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Seven Improvements We'd Still Love To See In GTA 6",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-25T15:48:24.414639+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 May Actually Play Better on Xbox After All",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-25T15:48:24.414747+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Where To Find Granforma Tsunami Zorrusso In GTA 6—Fastest Cars Location & Stats",
-   "source": "Insider Gaming",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-25T15:48:37.054003+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6: 10 Things You Shouldn’t Miss in Chapter 1",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-25T16:04:29.961792+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Max Verstappen says he played 40 hours of GTA 6 during victorious Las Vegas GP weekend",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-25T16:04:30.166681+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "How to steal the Pegassi Infernus in GTA 6",
-   "source": "PC Gamer",
-   "trust": "high",
-   "status": "dup",
-   "ts": "2026-11-25T16:21:29.058378+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Someone counted all 5,588 buildings in GTA 6, and it turns out you can go inside 28% of them",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-25T16:37:05.636800+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Max Verstappen played an obscene amount of 'GTA VI' and still won the Las Vegas Grand Prix",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-25T16:37:05.993808+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Where To Find Pegassi Gold Rope Infernus In GTA 6—Fastest Cars Location & Stats",
-   "source": "Insider Gaming",
-   "trust": "medium",
-   "status": "dup",
-   "ts": "2026-11-25T16:43:44.706790+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "All GTA 6 Nude Scenes—Every Sex Scene in GTA 6",
-   "source": "Insider Gaming",
-   "trust": "medium",
-   "status": "published",
-   "ts": "2026-11-25T16:44:03.368961+00:00",
-   "card_title": "НЮ СЦЕНЫ GTA 6"
-  },
-  {
-   "title": "Rob Nelson explains why Tennis & Theatres was removed from GTA 6",
-   "source": "Rockstar Intel",
-   "trust": "medium",
-   "status": "queued",
-   "ts": "2026-11-25T16:44:05.332462+00:00",
-   "card_title": "ТЕННИС И КИНО УДАЛЕНЫ"
-  },
-  {
-   "title": "Where To Find Progen Purple Drank Emerus In GTA 6—Fastest Cars Location & Stats",
-   "source": "Insider Gaming",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-25T16:44:56.515890+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Is Reportedly Frying Some PS5 Consoles",
-   "source": "Insider Gaming",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-25T16:46:39.462901+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Grand Theft Auto 6 writer leaves social media following online harassment",
-   "source": "VGC",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-25T16:46:40.384379+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "PS5 And Xbox Series X|S Console Sales Surged Just Before GTA 6 Came Out",
-   "source": "GameSpot",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-25T16:46:41.143440+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Everything you should do before the final mission of Chapter 2 in GTA 6",
-   "source": "GamesRadar+",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-25T16:47:01.016850+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "«Божечки мои, вы это видели?»: GTA VI «убила» консоль стримерши в прямом эфире",
-   "source": "iXBT.games",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-25T16:47:03.388178+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 - Pegassi Infernus",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-25T17:02:31.101936+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Теннис, кино и крафт — что вырезали из GTA 6",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-25T17:02:31.101971+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 is \"pure sorcery,\" Skyrim and Fallout lead says",
-   "source": "GamesRadar+",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-25T17:02:34.871187+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Owes Everything to The Legend of Zelda: Ocarina of Time",
-   "source": "Polygon",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-25T17:02:38.224576+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Where To Find Bravado Devil’s Rope Gauntlet In GTA 6—Fastest Cars Location & Stats",
-   "source": "Insider Gaming",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-25T17:02:52.802286+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 still has the \"gritty patina\" of more controversial Rockstar games, former Take-Two boss says",
-   "source": "GamesRadar+",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-25T17:02:54.268265+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Разработчики The Witcher 4 не боятся GTA VI — пока игра Rockstar не вышла на ПК",
-   "source": "iXBT.games",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-25T17:04:13.622001+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Grand Theft Auto 6 Patch Notes: Latest Update and Full Patch History (November 2026)",
-   "source": "Insider Gaming",
-   "trust": "medium",
-   "status": "error",
-   "ts": "2026-11-25T17:04:28.304696+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "How to disable advanced trackers in GTA 6",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-25T17:21:01.011061+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Можно ли купить дом в GTA 6? Недвижимость, гаражи и убежища в Леониде",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-25T17:21:01.011112+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "How to Use a Parachute in GTA 6",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-25T17:21:01.011147+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6-Like Partnership With Playstation Announced by Witcher Developer",
-   "source": "Polygon",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-25T17:21:04.104190+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6: Auntie’s Place location in LaPerle",
-   "source": "VGC",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-25T17:21:06.377081+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Where To Find Invetero Vice Vinyl Coquette In GTA 6—Fastest Cars Location & Stats",
-   "source": "Insider Gaming",
-   "trust": "medium",
-   "status": "dup",
-   "ts": "2026-11-25T17:37:08.849506+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "This GTA 6 Radio Station Represents Its Florida-Inspired Setting Perfectly",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-25T17:54:02.034850+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Player Gets $160,000 in One Minute In The Cleanest Bank Robbery We’ve Seen Yet",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-25T17:54:02.034903+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Grand Theft Auto 6 Is Out, and There Are Already Black Friday GTA 6 Deals",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-25T17:54:02.034933+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6: Here's Why You Should Go Back to Jason's House After Chapter 1",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-25T17:54:02.034961+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Save $600 On The XGIMI HORIZON 30 Pro This Black Friday So You Can Play GTA 6 In Style",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-25T17:54:02.034991+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "The Outrage Over Jason Buying Lucia Flowers Is GTA 6's Dumbest Controversy",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-25T17:54:02.035021+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Hidden Charges walkthrough: How to plant all three explosives",
-   "source": "VGC",
-   "trust": "high",
-   "status": "dup",
-   "ts": "2026-11-25T17:54:02.070888+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Hidden Charges: Ask for Help or Go Solo?",
-   "source": "VGC",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-25T17:54:09.762290+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "All GTA 6 Guides, Walkthroughs, Best Tips & Tricks",
-   "source": "Insider Gaming",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-25T17:54:11.469810+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Every Feature and Activity Rockstar Cut From GTA 6",
-   "source": "GTA BOOM",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-25T17:54:19.157335+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Fans Are Hissing Mad About Dolores the Snake",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-25T18:10:48.377950+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Take-Two Hits GTA 6 PC Port Leonida With DMCA, Taking Down 3,007 GitHub Repos",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-25T18:10:48.377987+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Streams to PlayStation Portal With PS Plus Premium, No PS5 Needed",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-25T18:10:48.580966+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "How to Find and Complete Sunrise RV Park Illegal Operation in GTA 6—All Key Valuables",
-   "source": "Insider Gaming",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-25T18:15:03.330137+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "DJ Stevie J To Host 'GTA VI' Takeover On Black Friday",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-25T18:31:27.561031+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "How to Win Drone Races in GTA 6—All Locations & Tips to Win",
-   "source": "Insider Gaming",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-25T18:32:06.797613+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Where To Find Pegassi Mojito Tempesta In GTA 6—Fastest Cars Location & Stats",
-   "source": "Insider Gaming",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-25T18:32:12.478731+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Мужчины начали искать женщин, повторяющих танцы из GTA VI — бизнес отреагировал на запрос",
-   "source": "iXBT.games",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-25T18:32:16.655115+00:00",
-   "card_title": ""
-  },
   {
    "title": "How to whistle to distract enemies in GTA 6",
    "source": "Google News (EN)",
@@ -18729,6 +17797,222 @@
    "status": "skipped",
    "ts": "2026-11-27T18:37:36.599110+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GTA VI Hits 53 Million Copies Sold in Just 1 Week, Generating $4.7 Billion",
+   "source": "Rockstar Intel",
+   "trust": "medium",
+   "status": "queued",
+   "ts": "2026-11-27T18:39:29.386706+00:00",
+   "card_title": "53 МИЛЛИОНА КОПИЙ"
+  },
+  {
+   "title": "Ex-Rockstar dev says GTA 6 looks \"almost flawless\" but loses to Red Dead Redemption 2 in a few areas",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-27T18:39:31.856663+00:00",
+   "card_title": "ЭКС‑ДЕВ ОЦЕНИЛ GTA 6"
+  },
+  {
+   "title": "GTA 6 sales estimates place it as the 13th best-selling game ever",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-27T18:39:43.726413+00:00",
+   "card_title": "53 МИЛЛИОНА КОПИЙ ЗА НЕДЕЛЮ"
+  },
+  {
+   "title": "Game Developers Say GTA VI Looks Like Something From the Future",
+   "source": "Rockstar Intel",
+   "trust": "medium",
+   "status": "queued",
+   "ts": "2026-11-27T18:40:15.849997+00:00",
+   "card_title": "РАЗРАБОТЧИКИ В ШОКЕ"
+  },
+  {
+   "title": "GTA VI Is Already Bringing More Tourists to Miami",
+   "source": "Rockstar Intel",
+   "trust": "medium",
+   "status": "queued",
+   "ts": "2026-11-27T18:40:45.728978+00:00",
+   "card_title": "ТУРИСТЫ В МАЙАМИ С ГТА VI"
+  },
+  {
+   "title": "Forza Horizon 6 Still Beats GTA 6 in One Key Way",
+   "source": "Polygon",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-27T18:41:17.203786+00:00",
+   "card_title": "ГТА 6 VS ФОРЗА ХОРИЗОНТ"
+  },
+  {
+   "title": "Colombian Salsa Legend Joe Arroyo Joins GTA VI Radio with ‘Rebelion’",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T18:41:18.478956+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 вредит консолям, спин-офф Atomic Heart: новости недели Медиа VK Play",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T18:41:19.376037+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Как угнать Bravado Banshee в GTA 6: гайд",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T18:41:20.580471+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6: выйдет ли игра на ПК?",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T18:41:21.972761+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Круг замкнулся: GTA 6 запустили на майнинговой плате с чипом от PS5",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T18:41:23.148435+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Энтузиаст запустил GTA 6 на старой майнинговой системе AMD BC-250 | Видеоигры | Новости",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T18:41:24.591469+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Toyota Turned The Hilux Into Something Straight Out of GTA VI",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T18:41:25.485404+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Easy To Miss Dialogue in GTA 6 Hints at a Romantic History Between Jason and Mandy",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T18:41:26.759576+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "‘GTA VI’ release has swept PlayStation 5 off the shelves worldwide",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T18:56:51.257789+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Carly Rae Jepsen Says She’s ‘Really Enjoying’ Viral Moment Following ‘GTA VI’ Streaming Surge",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T18:56:52.421051+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "We Got GTA 6 Online Before GTA 6 Online",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T18:56:53.501458+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Вдова решила купить PS5 ради GTA 6 в память о муже — история растрогала сеть",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T18:56:54.535754+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Дом Джейсона из GTA 6 выставили на продажу — за 61 млн рублей",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T18:56:55.515275+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6: какие трофеи откроются сами собой, а к каким стоит готовиться уже с первой главы?",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T18:56:56.727321+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 passes massive sales milestone just 1 week in",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-27T19:12:15.072349+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Officially Passes a Massive Sales Milestone Just 1 Week In",
+   "source": "Polygon",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-27T19:12:17.492361+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Where To Find GTA 6's The Last Of Us Easter Egg",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T19:12:18.667319+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Michaël Brun Talks Ten Years of BAYO, 'GTA VI,' and His Kodak Black Collaboration",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T19:12:21.382399+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 обзор: почему это самая смешная игра года",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T19:12:22.461785+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Anthropic Gets a Blockbuster IPO; Take-Two Gets a Blockbuster GTA VI Release",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T19:12:23.266096+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI has sold 53M copies after a week | Alinea Analytics",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T19:12:24.603080+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -18796,6 +18080,37 @@
   },
   {
    "item": {
+    "title": "GTA 6 sales estimates place it as the 13th best-selling game ever",
+    "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-sales-estimates-place-it-above-cyberpunk-2077-the-sims-and-the-first-pokemon-games-as-the-13th-best-selling-game-ever/",
+    "summary": "53 million puts it above any Call of Duty game",
+    "published": "2026-11-27T17:17:46+00:00",
+    "source": "GamesRadar+",
+    "site_name": "GamesRadar+",
+    "trust": "high",
+    "text": "Analyst estimates have put GTA 6 at 53 million copies sold, which, if accurate, places it as the 13th best-selling game of all time after just a week.\nIn the least surprising bit of news of 2026, GTA 6 is selling pretty well. It was probably the most anticipated game ever and is the highest-rated game of all time on Metacritic, so naturally the sales have followed. The first official number from Rockstar Games placed it at 32.5 million copies sold before it was even released, which had made it the 30th best-selling game ever above the likes of Super Mario Odyssey, Monster Hunter World, and Elden Ring. But that was just pre-release, so it's no shock to say that its fortunes haven't ended there.\nAlinea Analytics' head of market analysis, Rhys Elliott, posts the latest estimate over on Twitter, which places Rockstar's latest at 53 million copies sold, making $4.7 billion in its first week.\nIf this number is accurate, GTA 6 is the 13th best-selling game ever, with it unseating Animal Crossing: New Horizons, and overtaking the likes of Cyberpunk 2077, The Sims, and the Pokemon Generation 1 games (which have a combined sales figure of 47.44 million across Red, Blue and Yellow).\nElliott's data also estimates that just under a quarter of GTA 6 sales were on Xbox, with the Series X|S version accounting for 13 million vs PS5's 40 million. And it's not like it's just selling well either, as he reckons that seven million players have already played over 50 hours, with 250k of those having already played 100 hours. For reference, the game had been out in New Zealand around 219 hours at the time the tweet was posted.\nObviously, this is massively impressive no matter how you look at it. But it's worth keeping in mind that the PC release hasn't even dropped yet, so this has the potential to skyrocket once more when PC players – and console players who are going to double dip – get their hands on it.\nPlaying Rockstar's new game? Be sure to read through our GTA 6 review and look through our GTA 6 guide for some more knowledge on the 2026 behemoth.\nWeekly digests, tales from the communities you love, and more\n4. Best pro Xbox: Nacon Revolution X Unlimited\nScott has been freelancing for over four years across a number of different gaming publications, first appearing on GamesRadar+ in 2024. He has also written for the likes of PC Gamer, Eurogamer, VG247, Play, TechRadar, and others. He's typically rambling about Metal Gear Solid, God Hand, or any other PS2-era titles that rar",
+    "extra": {
+     "image": "https://cdn.mos.cms.futurecdn.net/NnRLcujy7xjWDUq5xRqoCG-1920-80.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "🚀 GTA 6 продал 53 млн копий за неделю — 13‑й в топе\n\nЭти цифры — просто лютый разнос: 53 млн проданных дисков и $4,7 млрд за первую неделю. Игроки уже тащат по 50+ часов, а ПК‑версия ещё не вышла — готовьте к очередному скачку!",
+    "card_title": "53 МИЛЛИОНА КОПИЙ ЗА НЕДЕЛЮ",
+    "reason": "Analyst sales estimates for GTA 6 reaching 53 million copies are confirmed via major outlet GamesRadar+.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "Продажи GTA 6 за первую неделю оценили в $4,7 млрд",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
+   },
+   "queued_at": "2026-11-27T18:39:43.726401+00:00",
+   "moderation": "pending",
+   "draft_msg_id": 209
+  },
+  {
+   "item": {
     "title": "I got eaten by a gator in GTA 6 because I exploded too many motorbikes to make a clean getaway",
     "link": "https://www.gamesradar.com/games/grand-theft-auto/i-got-eaten-by-a-gator-in-gta-6-because-i-exploded-too-many-motorbikes-to-make-a-clean-getaway/",
     "summary": "Ah yes, the Florida experience",
@@ -18827,6 +18142,64 @@
   },
   {
    "item": {
+    "title": "Ex-Rockstar dev says GTA 6 looks \"almost flawless\" but loses to Red Dead Redemption 2 in a few areas",
+    "link": "https://www.gamesradar.com/games/grand-theft-auto/former-rockstar-artist-says-gta-6-looks-almost-flawless-but-loses-to-red-dead-redemption-2-in-a-few-areas/",
+    "summary": "The natural world is just that much livelier",
+    "published": "2026-11-27T16:46:01+00:00",
+    "source": "GamesRadar+",
+    "site_name": "GamesRadar+",
+    "trust": "high",
+    "text": "You'd be hard-pressed to argue against the visual element of GTA 6. Leonida is a stunningly realized modern American state in Rockstar's crime playground, but an artist who contributed to both this and Red Dead Redemption 2 believes the Western has the edge in some respects.\nDavid O'Reilly, an environment artist who worked for Rockstar until 2023, recorded himself jumping into GTA 6. Naturally, he went straight for areas that he contributed to, specifically Mount Kalaga, a beautiful national park nestled in the urban sprawl. While wandering around, he noted that while GTA 6 is \"almost flawless,\" Red Dead Redemption 2 tended to have finer details when it came to forestry and wilderness.\n\"I'm seeing a slight paring back in the natural world in GTA 6 from Red Dead Redemption 2, but obviously a much greater emphasis and much more kind of detail in the urban environments,\" he says.\n\"GTA 6 is more a systems-driven modern urban world with countryside, natural landscapes, whereas Red Dead Redemption 2 was almost purely natural landscapes,\" he notes. They are very distinct experiences in this way. Taking place over 100 years ago, Arthur Morgan's adventure features only a few towns and cities compared to the high-rises and concrete jungles of modern day America.\nThis means a lot of the map is open fields and marshland, pushing the devs to get into the minutiae of those ecosystems. In GTA 6, the opposite is needed, since most of your time is spent on roads and in buildings.\nRivers are a specialty of O'Reilly's, and he notes that Red Dead 2's streams are \"on balance\" a little better. \"Rivers were a bigger emphasis on Red Dead Redemption 2. They were a big part of the world, and in this game they're a lesser part of the world,\" O'Reilly says, mentioning that ultimately, GTA 6's are \"a little bit slow\" compared to what you see in the second Red Dead Redemption.\nThese are but minor critiques amid a technical marvel, and I wouldn't be surprised if Rockstar eventually improves the rivers in Grand Theft Auto 6. But for now, this is a win for Arthur.\nWeekly digests, tales from the communities you love, and more\nRead our GTA 6 review to see our thoughts on the game, or our GTA 6 guides for some handy tips.\nAnthony is an Irish entertainment and games journalist, now based in Glasgow. He previously served as Senior Anime Writer at Dexerto and News Editor at The Digital Fix, on top of providing work for Variety, IGN, Den of Geek, PC Gamer, and many more. Besides Studio Ghibli, h",
+    "extra": {
+     "image": "https://cdn.mos.cms.futurecdn.net/q8PPr4fKcHqMKZAYVAEbX7-1920-80.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "🎮 Ex‑dev: GTA 6 почти безупречен, но RDR2 всё равно круче\n\nБывший художник Rockstar отметил, что город в GTA 6 выглядит сочно, а природа чуть‑чуть отстаёт от Red Dead 2. Фанаты уже в шоке, но это лишь мелкие детали, так что игра всё равно топчик 🤘",
+    "card_title": "ЭКС‑ДЕВ ОЦЕНИЛ GTA 6",
+    "reason": "Бывший разработчик Rockstar сравнил графику GTA 6 и RDR 2, что очень интересно фанатам.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
+   },
+   "queued_at": "2026-11-27T18:39:31.856649+00:00"
+  },
+  {
+   "item": {
+    "title": "Forza Horizon 6 Still Beats GTA 6 in One Key Way",
+    "link": "https://www.polygon.com/gta-6-racing-vs-forza-horizon-6/",
+    "summary": "Rockstar's Grand Theft Auto 6 makes a stab at being a proper racing game, but the competition from Playground's series can't be beat",
+    "published": "2026-11-27T18:00:18+00:00",
+    "source": "Polygon",
+    "site_name": "Polygon",
+    "trust": "high",
+    "text": "Rockstar Games is justifiably proud of everything it put into Grand Theft Auto 6, and one technical detail the studio has taken the time to highlight is the game's vehicle physics simulation. According to Ben Lyons, Rockstar's technical director for physics, some of the team started building and racing cars after finishing Grand Theft Auto 5, even winning in their class at the Nürbrugring 24 hours.\n\"This taught us a huge amount about how to modify, design, and set up real cars to go fast and what happens to them when things go wrong, like bursting tires and crashing,\" Lyons told Polygon in a statement. (As if to underline the point, Lyons' LinkedIn profile pic shows him proudly holding up a blown racecar tire in a pit garage.) \"We also took the same approach with rally-racing dirt bikes — it’s important to us to understand the difference between racing on two and four wheels and on- versus off-road so we can give our players as convincing authentic experience as we can,\" he said. \"For this game, we completely rewrote the vehicle simulation for every vehicle type so we could add more detail and realism, as well as authenticity and believability, to the game.\"\nKnowing how detail-obsessed Rockstar's developers are, and how seemingly limitless their resources were, I wondered if GTA 6's handling physics would be able to hold their own against the best the racing game genre has to offer​​​​​​​. My interest was doubly piqued when Polygon's reviewer Giovanni Colantonio told me there was a ton of racing in the game, both in the form of organized events on racing circuits and impromptu street races. Could GTA 6 secretly be a great racing game, along with everything else?\nThe answer is: no, not really. The cars are great to drive, and the races can be fun, but the design and technology of GTA 6 are fundamentally not set up for racing, and it shows.\nAs a benchmark to measure GTA 6 against, I chose Forza Horizon 6. It wouldn't be right to compare Rockstar's everything-game to the most realistic circuit-racing sims, but an open-world racing game that has entertaining, accessible, and credible driving physics, with a degree of depth, seemed like fair game.\nGTA 6's racing options are hardly minor. Street-racing leagues unlock in chapter 3, but you can roll up to any circuit and start racing, or log some time trial laps, from the very beginning. A racing career is even a viable way to make money in the game. If you have enough cash for the entry fee and to rent a competit",
+    "extra": {
+     "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/ultimate_edition_wyman_car_collection_04.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "🚗 GTA 6 vs Forza: физика не дотянула\n\nГТА 6 крутая, но в гонках Forza всё равно держит планку. Физика машин в новой GTA проработана до мелочей, но всё равно не хватает той точности, что в Forza Horizon 6 🏎. Если хотите реальный драйв, лучше зайти в Forza, а в GTA гонки — просто фановый вайб.",
+    "card_title": "ГТА 6 VS ФОРЗА ХОРИЗОНТ",
+    "reason": "Разбор физики машин в GTA 6 и сравнение с гонками от Polygon",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
+   },
+   "queued_at": "2026-11-27T18:41:17.203774+00:00"
+  },
+  {
+   "item": {
     "title": "40 часов в GTA VI между гонками. Макс Ферстаппен рассказал, чем занимался в Лас-Вегасе",
     "link": "https://ixbt.games/news/2026/11/27/40-casov-v-gta-vi-mezdu-gonkami-maks-ferstappen-rasskazal-cem-zanimalsia-v-las-vegase.html",
     "summary": "Макс Ферстаппен провёл 40 часов за GTA VI между тренировками и этапами Формулы-1, а затем выиграл Гран-при Лас-Вегаса.",
@@ -18855,6 +18228,64 @@
    "queued_at": "2026-11-27T07:36:31.933090+00:00",
    "moderation": "pending",
    "draft_msg_id": 196
+  },
+  {
+   "item": {
+    "title": "GTA VI Hits 53 Million Copies Sold in Just 1 Week, Generating $4.7 Billion",
+    "link": "https://rockstarintel.com/gta-vi-hits-53-million-copies-sold-in-just-1-week-generating-4-7-billion/",
+    "summary": "GTA VI has been out for a week and new sales estimates are in following that record breaking launch several days ago. According to new research by Alinea Analytics, GTA VI has sold through 53 million copies. That’s up about 10 million in 4 days. If true, it is now the 3rd best selling video [...] The post GTA VI Hits 53 Million Copies Sold in Just 1 Week, Generating $4.7 Billion appeared first on RockstarINTEL .",
+    "published": "2026-11-27T16:16:27+00:00",
+    "source": "Rockstar Intel",
+    "site_name": "Rockstar Intel",
+    "trust": "medium",
+    "text": "GTA VI has been out for a week and new sales estimates are in following that record breaking launch several days ago.\nAccording to new research by Alinea Analytics, GTA VI has sold through 53 million copies. That’s up about 10 million in 4 days. If true, it is now the 3rd best selling video game of all time overtaking Animal Crossing: New Horizons and closing in on The Elder Scrolls V: Skyrim and The Witcher 3: Wild Hunt. In terms of revenue, it has earned around $4.7 billion for Rockstar and Take-Two Interactive.\nAnother data point is that almost 7 million gamers have played the game for more than 50 hours. Also, roughly a quarter of a million people have not put in over 100 hours. That’s quite a staggering amount of hours played when you combine the numbers. However, they will be the more hardcore of GTA fans. It remains to be seen if GTA VI will suffer from the same very poor player retention rates that GTA Online has.\nAlinea’s report also claims the platform split in favour of PS5 over XBOX Series X|S is starting to grow a little more. The split was at 75/26 for some time but it is now down to 24.3% with casual gamers picking up a PS5. XBOX is still doing just fine though as that’s about 13 million copies on the platform. Considering how many XBOX Series X|S consoles have been sold, around a third of all XBOX owners got the game. This is a a really big attachment rate for one game.\nIn other Grand Theft Auto VI stats, YouTube have revealed just how big the game is on the the platform as it pushes the series to 1 trillion views.\nYou can order your PS5 or XBOX copy of GTA VI with this link. Using the link to order the game will help support this website as we’ll earn a small commission. Thank you!",
+    "extra": {
+     "image": "https://substackcdn.com/image/fetch/$s_!JHwA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdf7b8b13-4afc-43b7-8eab-21dcf3b9556c_1938x1080.png"
+    }
+   },
+   "verdict": {
+    "type": "rumor",
+    "importance": 8,
+    "post": "🔥 Слух, не подтверждено (Rockstar Intel)\nGTA VI продала 53 млн копий за неделю\n\nЕсли цифры правдоподобны, то игра уже в топ‑3 всех продаж, а доход — $4,7 млрд 💰. Фанаты уже проштрафили 50+ часов 🎮. Как вам такие цифры? 🤔",
+    "card_title": "53 МИЛЛИОНА КОПИЙ",
+    "reason": "Официальные данные о продажах GTA 6 и выручке в 4.7 млрд долларов за первую неделю",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "GTA VI Hits 53 Million Copies Sold in Just 1 Week, Generating 4.7 Billion — Google News (EN)",
+    "corroborated_by": "GTA VI Hits 53 Million Copies Sold in Just 1 Week, Generating 4.7 Billion — Google News (EN)",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
+   },
+   "queued_at": "2026-11-27T18:39:29.386692+00:00"
+  },
+  {
+   "item": {
+    "title": "Game Developers Say GTA VI Looks Like Something From the Future",
+    "link": "https://rockstarintel.com/game-developers-say-gta-vi-looks-like-something-from-the-future/",
+    "summary": "GTA VI continues to impress people across the gaming industry, including developers who have spent decades creating video games themselves. As reported by IGN, several industry professionals have shared their reactions to Rockstar’s latest release, with one Naughty Dog developer coming up with a rather unusual comparison. Michael Barclay, World Design Director at Naughty Dog, [...] The post Game Developers Say GTA VI Looks Like Something From the Future appeared first on RockstarINTEL .",
+    "published": "2026-11-27T17:41:20+00:00",
+    "source": "Rockstar Intel",
+    "site_name": "Rockstar Intel",
+    "trust": "medium",
+    "text": "GTA VI continues to impress people across the gaming industry, including developers who have spent decades creating video games themselves. As reported by IGN, several industry professionals have shared their reactions to Rockstar’s latest release, with one Naughty Dog developer coming up with a rather unusual comparison.\nMichael Barclay, World Design Director at Naughty Dog, described his experience with GTA VI in a short post on social media. “I’ve made video games for 19 years and GTA VI appears to me as a Bugatti Veyron would to a nervous Victorian child,” he wrote.\nHowever, Barclay wasn’t the only developer struggling to find the right words. David Goldfarb, game director of Payday 2, also shared his thoughts. After more than 30 years in the industry, he said he couldn’t even find the words to describe what he was playing. He later added that he had “never been this floored by anything ever.”\nCharacter artist Del Walker, whose previous work includes The Last of Us Part II, Suicide Squad: Kill the Justice League and Star Wars Jedi: Survivor, had a similarly funny reaction. He explained that whenever GTA VI clips appear in his group chat, people ask him how Rockstar managed to create something like that. His post was simple: “Brother, I wasn’t there when they opened the portal? This is not magic I recognize.”\nIt’s not every day that developers with so much experience openly admit that they’re struggling to understand how another studio achieved something. Rockstar’s latest release is clearly making an impression even on the people who know exactly what goes into making video games.\nIn other Grand Theft Auto VI news, GTA VI has reportedly sold 53 million copies in one week, generating $4.7 billion plus the GTA series is also nearing 1 trillion YouTube views.\nYou can order your PS5 or XBOX copy of GTA VI with this link. Using the link to order the game will help support this website as we’ll earn a small commission. Thank you!\nFor more news on GTA VI, stay tuned to RockstarINTEL and sign up to our newsletter for a weekly round-up of all things Rockstar Games delivered straight to your inbox.",
+    "extra": {
+     "image": "https://rockstarintel.com/wp-content/uploads/2026/11/IMG_7049.JPG-1024x576.jpeg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "🚀 Разработчики в шоке от GTA VI\n\nНи один ветеран из Naughty Dog и Payday 2 не смог сдержать восторг — GTA VI для них как Bugatti Veyron для нервного викторианца. И 53 млн копий за неделю? Это имба, лютый топчик.",
+    "card_title": "РАЗРАБОТЧИКИ В ШОКЕ",
+    "reason": "Разработчики из Naughty Dog и других студий в шоке от технологий GTA 6",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
+   },
+   "queued_at": "2026-11-27T18:40:15.849983+00:00"
   },
   {
    "item": {
@@ -18917,6 +18348,35 @@
    "queued_at": "2026-11-27T13:24:02.415189+00:00",
    "moderation": "pending",
    "draft_msg_id": 207
+  },
+  {
+   "item": {
+    "title": "GTA VI Is Already Bringing More Tourists to Miami",
+    "link": "https://rockstarintel.com/gta-vi-is-already-bringing-more-tourists-to-miami/",
+    "summary": "Grand Theft Auto VI is having an impact beyond the gaming world. The game’s release has also brought more attention to the real-life city that inspired Vice City, with new data showing a major increase in travel interest. According to Secret Miami, international searches for flights and vacation packages to Miami have surged in recent [...] The post GTA VI Is Already Bringing More Tourists to Miami appeared first on RockstarINTEL .",
+    "published": "2026-11-27T17:36:53+00:00",
+    "source": "Rockstar Intel",
+    "site_name": "Rockstar Intel",
+    "trust": "medium",
+    "text": "Grand Theft Auto VI is having an impact beyond the gaming world. The game’s release has also brought more attention to the real-life city that inspired Vice City, with new data showing a major increase in travel interest.\nAccording to Secret Miami, international searches for flights and vacation packages to Miami have surged in recent months. The data comes from eSky Group, a Poland-based travel agency.\nPoland saw a 215% increase in flight searches to Miami between September 21 and November 15 compared to the same period last year. Searches across eSky’s Latin American websites also increased by approximately 200%.\nGTA VI Is Making People Want to Visit Vice City\nThe numbers are even higher in some Eastern European countries. Searches for Miami flight and hotel packages increased by 545% in Romania and 500% in Bulgaria.\nActual bookings have also seen an increase. According to eSky, Miami vacation package bookings are up 56% over the past year. Travelers spent an average of $1,350 per person on trips lasting around eight nights.\nWhile the timing suggests that GTA VI may be playing a role in this growing interest, the data alone doesn’t prove that the game is responsible for the entire increase.\nStill, it’s interesting to see how Rockstar’s fictional version of Miami is attracting attention to the real city. After spending hours exploring Vice City, some players may now want to experience its real-life inspiration for themselves.In other Grand Theft Auto VI news, GTA VI has reportedly sold 53 million copies in one week, generating $4.7 billion plus the GTA series is also nearing 1 trillion YouTube views.\nYou can order your PS5 or XBOX copy of GTA VI with this link. Using the link to order the game will help support this website as we’ll earn a small commission. Thank you!\nFor more news on GTA VI, stay tuned to RockstarINTEL and sign up to our newsletter for a weekly round-up of all things Rockstar Games delivered straight to your inbox.",
+    "extra": {
+     "image": "https://rockstarintel.com/wp-content/uploads/2026/10/score-background-desktop.00160ew9j.7ha-1024x427.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "🚀 GTA VI подгоняет туристов в Майами\n\nИгроки, после всех каток в Вайс‑Сити, реально захотели полететь в реальный Майами — запросы билетов взлетели на 200%+ в Европе. Считаем, что наш виртуальный вояж уже стал топовым тур‑бустом. 😎",
+    "card_title": "ТУРИСТЫ В МАЙАМИ С ГТА VI",
+    "reason": "Реальный туристический бум в Майами из-за релиза GTA 6",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
+   },
+   "queued_at": "2026-11-27T18:40:45.728965+00:00"
   },
   {
    "item": {
@@ -19009,10 +18469,6 @@
   }
  ],
  "posts": [
-  "2026-11-25T13:11:20.337917+00:00",
-  "2026-11-25T17:21:45.937168+00:00",
-  "2026-11-25T17:38:45.051199+00:00",
-  "2026-11-25T17:55:29.278716+00:00",
   "2026-11-25T20:00:53.556249+00:00",
   "2026-11-26T07:05:06.630939+00:00",
   "2026-11-26T07:20:58.761582+00:00",
@@ -19025,11 +18481,6 @@
   "username": "gta6_hotnews"
  },
  "drafts": [
-  "2026-11-25T14:03:34.684152+00:00",
-  "2026-11-25T15:03:40.761643+00:00",
-  "2026-11-25T16:11:56.509162+00:00",
-  "2026-11-25T17:12:22.400219+00:00",
-  "2026-11-25T18:30:22.933992+00:00",
   "2026-11-25T19:30:49.885794+00:00",
   "2026-11-25T20:31:08.281051+00:00",
   "2026-11-25T21:38:36.246061+00:00",
@@ -19050,7 +18501,8 @@
   "2026-11-27T14:04:19.748863+00:00",
   "2026-11-27T15:05:09.715486+00:00",
   "2026-11-27T16:05:26.773812+00:00",
-  "2026-11-27T17:05:40.855067+00:00"
+  "2026-11-27T17:05:40.855067+00:00",
+  "2026-11-27T18:41:33.664807+00:00"
  ],
  "slots_sent": {
   "2026-11-25:guide:2": "2026-11-25T19:30:49.885888+00:00",
@@ -19387,613 +18839,6 @@
   "2026-11-27T13:51:17.116374+00:00"
  ],
  "clip_history": [
-  {
-   "author": "twitch:jerma985",
-   "vod": "2938334131",
-   "offset": 14920.0,
-   "title": "look at the puppy",
-   "drafted": false,
-   "ts": "2026-11-24T13:11:16.078643+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:leva2k",
-   "vod": "2937392051",
-   "offset": 102656.0,
-   "title": ".",
-   "drafted": false,
-   "ts": "2026-11-24T13:27:31.500584+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:rejiboi",
-   "vod": "2938563485",
-   "offset": 14465.0,
-   "title": "Разозлился",
-   "drafted": false,
-   "ts": "2026-11-24T13:43:02.484709+00:00",
-   "frames": []
-  },
-  {
-   "author": "youtube:meowing",
-   "vod": "",
-   "offset": -1,
-   "title": "Jalanan Palsu di GTA VI, Referensi Kartun di Game GTA VI 😹",
-   "drafted": false,
-   "ts": "2026-11-24T13:58:40.256338+00:00"
-  },
-  {
-   "author": "youtube:danirep | +6 vídeos diarios de gta 5 online!",
-   "vod": "",
-   "offset": -1,
-   "title": "ME QUEDO SIN GASOLINA EN GTA 6",
-   "drafted": false,
-   "ts": "2026-11-24T13:58:41.141399+00:00"
-  },
-  {
-   "author": "youtube:vice7erse",
-   "vod": "",
-   "offset": -1,
-   "title": "Never Take Your Girlfriend to the GTA Shop #gta6 #gta #gta5",
-   "drafted": false,
-   "ts": "2026-11-24T13:58:41.993279+00:00"
-  },
-  {
-   "author": "youtube:astro key",
-   "vod": "",
-   "offset": -1,
-   "title": "DAVY JONES SOFRE O ACIDENTE MAIS ABSURDO DE GTA 6?! 💀",
-   "drafted": false,
-   "ts": "2026-11-24T13:58:42.774255+00:00"
-  },
-  {
-   "author": "youtube:ludwig",
-   "vod": "",
-   "offset": -1,
-   "title": "🚘NON-LETHAL GTA VI MARATHON 🚔 GIVING AWAY CODES EVERY HOUR 🚔 !RedBull !AT&T !Alienware #GameChanger",
-   "drafted": false,
-   "ts": "2026-11-24T13:59:34.098271+00:00"
-  },
-  {
-   "author": "youtube:gameplayrj",
-   "vod": "",
-   "offset": -1,
-   "title": "GTA 6 VAMOS ZERAR HOJE? by Logitech G",
-   "drafted": false,
-   "ts": "2026-11-24T13:59:35.148362+00:00"
-  },
-  {
-   "author": "twitch:grxneronkel",
-   "vod": "2937295990",
-   "offset": 22204.0,
-   "title": "Lucia im Traum gefangen. GTA 6",
-   "drafted": false,
-   "ts": "2026-11-24T14:14:18.039879+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:alanzoka",
-   "vod": "2938467977",
-   "offset": 27336.0,
-   "title": "vai bebe vem",
-   "drafted": false,
-   "ts": "2026-11-24T14:14:19.041706+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:captaindarkseason",
-   "vod": "2938583224",
-   "offset": 10048.0,
-   "title": "SUB FOR DROPS! || GTA 6 LAUNCH || Playthrough & Exploration | 📣 !TTS = 5 bits 🎹 !sounds ☕️ !coffee 🚨 !lights 🎣 !fish",
-   "drafted": false,
-   "ts": "2026-11-24T14:14:19.641396+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:grxneronkel",
-   "vod": "2938817567",
-   "offset": 126.0,
-   "title": "BigMoney? am ende von Minenschacht GTA 6",
-   "drafted": false,
-   "ts": "2026-11-24T14:30:51.980433+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:alanzoka",
-   "vod": "2938467977",
-   "offset": 14668.0,
-   "title": "A praia da galeta :0",
-   "drafted": false,
-   "ts": "2026-11-24T14:30:52.624778+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:chowh1",
-   "vod": "2938482312",
-   "offset": 4681.0,
-   "title": "[DROP]🌴1 SUB = BADGE ou EMOTE GTA6 -  MODE PMU 180FPS 🌴 !!holy !vpn",
-   "drafted": false,
-   "ts": "2026-11-24T14:30:53.207227+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:sasavot",
-   "vod": "2938288604",
-   "offset": 11256.0,
-   "title": ",,,",
-   "drafted": false,
-   "ts": "2026-11-24T14:30:53.692097+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:missmikkaa",
-   "vod": "2938373303",
-   "offset": 24730.0,
-   "title": "Mikkaa's EPIC ramp stunt",
-   "drafted": false,
-   "ts": "2026-11-24T14:46:41.744304+00:00",
-   "frames": []
-  },
-  {
-   "author": "youtube:rahul bhatia",
-   "vod": "",
-   "offset": -1,
-   "title": "That One GTA 6 Paglu Friend🎮🤣 #gta6 #relatable #comedy #trending #shorts",
-   "drafted": false,
-   "ts": "2026-11-24T15:02:47.546508+00:00"
-  },
-  {
-   "author": "youtube:jacobweeby",
-   "vod": "",
-   "offset": -1,
-   "title": "GTA 6 FILES ARE NOW ON PC #shorts",
-   "drafted": false,
-   "ts": "2026-11-24T15:02:48.508192+00:00"
-  },
-  {
-   "author": "youtube:dimucc",
-   "vod": "",
-   "offset": -1,
-   "title": "GTA V vs GTA 6...",
-   "drafted": false,
-   "ts": "2026-11-24T15:02:50.116826+00:00"
-  },
-  {
-   "author": "youtube:spectrex gaming",
-   "vod": "",
-   "offset": -1,
-   "title": "Where to find the Scarface Easter egg & little friend unique weapon in GTA 6 👀",
-   "drafted": false,
-   "ts": "2026-11-24T15:02:51.028124+00:00"
-  },
-  {
-   "author": "youtube:edgarftw",
-   "vod": "",
-   "offset": -1,
-   "title": "EL FINAL DE JASON EN GTA 6!",
-   "drafted": false,
-   "ts": "2026-11-24T15:03:42.210139+00:00"
-  },
-  {
-   "author": "youtube:leanfijo1",
-   "vod": "",
-   "offset": -1,
-   "title": "JASON PUEDE VIAJAR EN EL TIEMPO EN GTA VI!! #gta6 #gtavi #vicecity #gta6gameplay #gtaviral",
-   "drafted": false,
-   "ts": "2026-11-24T15:03:43.080803+00:00"
-  },
-  {
-   "author": "twitch:哈耿",
-   "vod": "2939317723",
-   "offset": 4786.0,
-   "title": "公開道歉",
-   "drafted": false,
-   "ts": "2026-11-24T15:03:44.184621+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:mastersnakou",
-   "vod": "2938614628",
-   "offset": 4028.0,
-   "title": "MOM ? 😂",
-   "drafted": false,
-   "ts": "2026-11-24T15:03:45.147844+00:00",
-   "frames": []
-  },
-  {
-   "author": "youtube:edgarftw",
-   "vod": "",
-   "offset": -1,
-   "title": "DETENIENDO EL TREN EN GTA 6!",
-   "drafted": false,
-   "ts": "2026-11-24T15:20:08.007219+00:00"
-  },
-  {
-   "author": "twitch:staryuuki",
-   "vod": "2938941728",
-   "offset": 5257.0,
-   "title": "RESPETO",
-   "drafted": false,
-   "ts": "2026-11-24T15:20:08.783894+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:gotaga",
-   "vod": "2938725055",
-   "offset": 13158.0,
-   "title": "1",
-   "drafted": false,
-   "ts": "2026-11-24T15:20:09.510812+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:squeezie",
-   "vod": "2938523523",
-   "offset": 2016.0,
-   "title": "Voiture sur le toit",
-   "drafted": false,
-   "ts": "2026-11-24T15:20:10.090914+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:zloyn",
-   "vod": "2938763812",
-   "offset": 5425.0,
-   "title": "авхаах",
-   "drafted": false,
-   "ts": "2026-11-24T15:36:23.967030+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:missmikkaa",
-   "vod": "2938373303",
-   "offset": 30188.0,
-   "title": "Behold, the perfect car!",
-   "drafted": false,
-   "ts": "2026-11-24T15:36:24.851382+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:西南69",
-   "vod": "2938233418",
-   "offset": 25388.0,
-   "title": "西南教你怎麼教訓機車猴",
-   "drafted": false,
-   "ts": "2026-11-24T15:52:22.568173+00:00",
-   "frames": []
-  },
-  {
-   "author": "youtube:carterpcs",
-   "vod": "",
-   "offset": -1,
-   "title": "My portable GTA 6 setup for thanksgiving..",
-   "drafted": false,
-   "ts": "2026-11-24T16:11:35.942921+00:00"
-  },
-  {
-   "author": "youtube:oye jid show",
-   "vod": "",
-   "offset": -1,
-   "title": "GTA 6  🤩 | #oyejid #funny #comedy #shorts #gta #gta6",
-   "drafted": false,
-   "ts": "2026-11-24T16:11:36.798344+00:00"
-  },
-  {
-   "author": "youtube:surprisefact - curiosities ",
-   "vod": "",
-   "offset": -1,
-   "title": "THE MOST USELESS BUTTONS IN GTA 6",
-   "drafted": false,
-   "ts": "2026-11-24T16:11:37.797561+00:00"
-  },
-  {
-   "author": "youtube:poseidon",
-   "vod": "",
-   "offset": -1,
-   "title": "GTA 6 Karıma Sorabilir Miyim :D Rraenee Elraenn",
-   "drafted": false,
-   "ts": "2026-11-24T16:11:38.547038+00:00"
-  },
-  {
-   "author": "youtube:virluxeditz",
-   "vod": "",
-   "offset": -1,
-   "title": "BMW in GTA 6 💀🥶 #bmw #bmwm5 #gta6 #gta #viral #shorts #fyp",
-   "drafted": false,
-   "ts": "2026-11-24T16:12:29.495436+00:00"
-  },
-  {
-   "author": "youtube:bytetalkyt",
-   "vod": "",
-   "offset": -1,
-   "title": "How To Get Stuck In First Person In GTA 6",
-   "drafted": false,
-   "ts": "2026-11-24T16:12:30.475283+00:00"
-  },
-  {
-   "author": "twitch:cinna",
-   "vod": "2938693218",
-   "offset": 9924.0,
-   "title": "Not Even Hiding It Anymore",
-   "drafted": false,
-   "ts": "2026-11-24T16:12:31.196480+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:cinna",
-   "vod": "2938693218",
-   "offset": 9924.0,
-   "title": "Not Even Hiding It Anymore",
-   "drafted": true,
-   "ts": "2026-11-24T16:12:54.165668+00:00",
-   "frames": [],
-   "caption": "🔞 В GTA 6 завезли интерактивную мини-игру в душе — и стримерша словила тильт, не понимая, куда смотреть 💀"
-  },
-  {
-   "author": "twitch:shroud",
-   "vod": "2938768445",
-   "offset": 8717.0,
-   "title": "disgusting",
-   "drafted": false,
-   "ts": "2026-11-24T17:13:07.634371+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:frametamer666",
-   "vod": "2936786153",
-   "offset": 154167.0,
-   "title": "братишкин под каблуком лежит",
-   "drafted": false,
-   "ts": "2026-11-24T17:13:08.239093+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:zarbex",
-   "vod": "2938362563",
-   "offset": 19791.0,
-   "title": "Testo Mommy",
-   "drafted": false,
-   "ts": "2026-11-24T17:13:08.788537+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:peereira7",
-   "vod": "2938439263",
-   "offset": 8865.0,
-   "title": "a",
-   "drafted": false,
-   "ts": "2026-11-24T17:13:09.355960+00:00",
-   "frames": []
-  },
-  {
-   "author": "youtube:anna kursakina",
-   "vod": "",
-   "offset": -1,
-   "title": "What Happens When I Try GTA 6 Lipstick?🤯🌴💄",
-   "drafted": false,
-   "ts": "2026-11-24T17:21:01.851671+00:00"
-  },
-  {
-   "author": "youtube:unknown smug",
-   "vod": "",
-   "offset": -1,
-   "title": "POV: Hopping On GTA 6 Based On How Long You Waited...",
-   "drafted": false,
-   "ts": "2026-11-24T17:21:02.779148+00:00"
-  },
-  {
-   "author": "youtube:ピンシー　",
-   "vod": "",
-   "offset": -1,
-   "title": "次元を越える　タイムトラベル、マルチバース　#gta #gta6 #グラセフ",
-   "drafted": false,
-   "ts": "2026-11-24T17:21:03.528617+00:00"
-  },
-  {
-   "author": "youtube:nirami",
-   "vod": "",
-   "offset": -1,
-   "title": "accidentally punching everyone in GTA 6 #gta",
-   "drafted": false,
-   "ts": "2026-11-24T17:21:04.393464+00:00"
-  },
-  {
-   "author": "youtube:alvi",
-   "vod": "",
-   "offset": -1,
-   "title": "GELDAUTOMATEN STEHLEN IN GTA 6.. #gta6",
-   "drafted": false,
-   "ts": "2026-11-24T17:21:55.640949+00:00"
-  },
-  {
-   "author": "youtube:kingshahx",
-   "vod": "",
-   "offset": -1,
-   "title": "SUMPAH LAH ADE RED HULK DEKAT DALAM GTA 6!! AKU AKAN PINDAH KER VICE CITY !! GAMPLAY 6",
-   "drafted": false,
-   "ts": "2026-11-24T17:21:56.478175+00:00"
-  },
-  {
-   "author": "twitch:ironmouse",
-   "vod": "2939161873",
-   "offset": 14554.0,
-   "title": "Donkey Dick",
-   "drafted": false,
-   "ts": "2026-11-24T17:21:57.275982+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:cellbit",
-   "vod": "2938687639",
-   "offset": 4531.0,
-   "title": "endereço do moço que matou o russo (?)",
-   "drafted": false,
-   "ts": "2026-11-24T17:21:58.008038+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:silky",
-   "vod": "2939060529",
-   "offset": 9488.0,
-   "title": ".",
-   "drafted": false,
-   "ts": "2026-11-24T17:41:12.635353+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:nickeh30",
-   "vod": "2938347685",
-   "offset": 33064.0,
-   "title": "Family Friendly activities.",
-   "drafted": false,
-   "ts": "2026-11-24T17:41:13.238520+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:fibii",
-   "vod": "2938450334",
-   "offset": 12694.0,
-   "title": "Mandy",
-   "drafted": false,
-   "ts": "2026-11-24T17:41:13.763217+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:leva2k",
-   "vod": "2937392051",
-   "offset": 94787.0,
-   "title": "треш",
-   "drafted": false,
-   "ts": "2026-11-24T17:41:14.292211+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:nagaikouji074",
-   "vod": "2939251340",
-   "offset": 12287.0,
-   "title": "www",
-   "drafted": false,
-   "ts": "2026-11-24T17:57:36.026830+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:samueletienne",
-   "vod": "2938420112",
-   "offset": 17383.0,
-   "title": "Sam sort l'hélico",
-   "drafted": false,
-   "ts": "2026-11-24T17:57:36.893938+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:adm1tr1pow",
-   "vod": "2939481639",
-   "offset": 2737.0,
-   "title": "в салоне чисто",
-   "drafted": false,
-   "ts": "2026-11-24T18:14:20.934969+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:staryuuki",
-   "vod": "2938941728",
-   "offset": 12887.0,
-   "title": "SE SORPRENDE CON MANDY",
-   "drafted": false,
-   "ts": "2026-11-24T18:14:21.819815+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:alanzoka",
-   "vod": "2938467977",
-   "offset": 19292.0,
-   "title": "LUCIA TA BOLADA",
-   "drafted": false,
-   "ts": "2026-11-24T18:14:22.451218+00:00",
-   "frames": []
-  },
-  {
-   "author": "twitch:syndicate",
-   "vod": "2938643974",
-   "offset": 3758.0,
-   "title": "🚨GTA 6 100% COMPLETED - TIME FOR FUN!🚨",
-   "drafted": false,
-   "ts": "2026-11-24T18:14:23.164730+00:00",
-   "frames": []
-  },
-  {
-   "author": "youtube:alex vice rush",
-   "vod": "",
-   "offset": -1,
-   "title": "❤️🥏SAVE THE GTA 6 CHARACTERS BY STOPPING THE DISCS FROM FALLING | WHO WON? #shorts #gta6",
-   "drafted": false,
-   "ts": "2026-11-24T18:29:42.767853+00:00"
-  },
-  {
-   "author": "youtube:ánh sao",
-   "vod": "",
-   "offset": -1,
-   "title": "NGƯỜI BỐ XUẤT HIỆN TRONG GTA 6",
-   "drafted": false,
-   "ts": "2026-11-24T18:29:43.842222+00:00"
-  },
-  {
-   "author": "youtube:bucketjosh",
-   "vod": "",
-   "offset": -1,
-   "title": "Games would last 10 seconds 😭 #GTA6",
-   "drafted": false,
-   "ts": "2026-11-24T18:29:44.663884+00:00"
-  },
-  {
-   "author": "youtube:vida do lucrazy",
-   "vod": "",
-   "offset": -1,
-   "title": "Jogo do GTA 6 impossível 😱 #shorts",
-   "drafted": false,
-   "ts": "2026-11-24T18:29:45.582179+00:00"
-  },
-  {
-   "author": "youtube:masti zone am",
-   "vod": "",
-   "offset": -1,
-   "title": "GTA 6 game 🤣🤣🤣 #comedy #funny #viral #shorts",
-   "drafted": false,
-   "ts": "2026-11-24T18:30:39.084545+00:00"
-  },
-  {
-   "author": "youtube:akio kina",
-   "vod": "",
-   "offset": -1,
-   "title": "JOGUEI SINUCA NO GTA 6",
-   "drafted": false,
-   "ts": "2026-11-24T18:30:39.854769+00:00"
-  },
-  {
-   "author": "youtube:hecticsherlock gaming",
-   "vod": "",
-   "offset": -1,
-   "title": "Never back down never wha- 🤯😨",
-   "drafted": false,
-   "ts": "2026-11-24T18:30:40.648439+00:00"
-  },
-  {
-   "author": "youtube:kai cenat live",
-   "vod": "",
-   "offset": -1,
-   "title": "FIRST TO MAKE $1 MILLION IN GTA 6 VS SPEED",
-   "drafted": false,
-   "ts": "2026-11-24T18:30:42.052875+00:00"
-  },
-  {
-   "author": "twitch:gotaga",
-   "vod": "2938725055",
-   "offset": 4678.0,
-   "title": "x",
-   "drafted": false,
-   "ts": "2026-11-24T18:31:32.919434+00:00",
-   "frames": []
-  },
   {
    "author": "twitch:montanablack88",
    "vod": "2939188825",
@@ -24884,186 +23729,6 @@
  "rewrite_wait": [
   {
    "item": {
-    "title": "GTA VI Hits 53 Million Copies Sold in Just 1 Week, Generating $4.7 Billion",
-    "link": "https://rockstarintel.com/gta-vi-hits-53-million-copies-sold-in-just-1-week-generating-4-7-billion/",
-    "summary": "GTA VI has been out for a week and new sales estimates are in following that record breaking launch several days ago. According to new research by Alinea Analytics, GTA VI has sold through 53 million copies. That’s up about 10 million in 4 days. If true, it is now the 3rd best selling video [...] The post GTA VI Hits 53 Million Copies Sold in Just 1 Week, Generating $4.7 Billion appeared first on RockstarINTEL .",
-    "published": "2026-11-27T16:16:27+00:00",
-    "source": "Rockstar Intel",
-    "site_name": "Rockstar Intel",
-    "trust": "medium",
-    "text": "GTA VI has been out for a week and new sales estimates are in following that record breaking launch several days ago.\nAccording to new research by Alinea Analytics, GTA VI has sold through 53 million copies. That’s up about 10 million in 4 days. If true, it is now the 3rd best selling video game of all time overtaking Animal Crossing: New Horizons and closing in on The Elder Scrolls V: Skyrim and The Witcher 3: Wild Hunt. In terms of revenue, it has earned around $4.7 billion for Rockstar and Take-Two Interactive.\nAnother data point is that almost 7 million gamers have played the game for more than 50 hours. Also, roughly a quarter of a million people have not put in over 100 hours. That’s quite a staggering amount of hours played when you combine the numbers. However, they will be the more hardcore of GTA fans. It remains to be seen if GTA VI will suffer from the same very poor player retention rates that GTA Online has.\nAlinea’s report also claims the platform split in favour of PS5 over XBOX Series X|S is starting to grow a little more. The split was at 75/26 for some time but it is now down to 24.3% with casual gamers picking up a PS5. XBOX is still doing just fine though as that’s about 13 million copies on the platform. Considering how many XBOX Series X|S consoles have been sold, around a third of all XBOX owners got the game. This is a a really big attachment rate for one game.\nIn other Grand Theft Auto VI stats, YouTube have revealed just how big the game is on the the platform as it pushes the series to 1 trillion views.\nYou can order your PS5 or XBOX copy of GTA VI with this link. Using the link to order the game will help support this website as we’ll earn a small commission. Thank you!",
-    "extra": {
-     "image": "https://substackcdn.com/image/fetch/$s_!JHwA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdf7b8b13-4afc-43b7-8eab-21dcf3b9556c_1938x1080.png"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "53 МИЛЛИОНА копий за неделю!\n\nGTA 6 просто порвала индустрию, собрав 4.7 миллиарда зелени за семь дней. Имба-старт, челы уже рубится сутками без сна.\n\n❤️ — Ждем скидку на ПК\n👎 — База, я уже в отпуске",
-    "card_title": "ПРОДАЖИ GTA 6 УБИЛИ ВСЕХ",
-    "reason": "Официальные данные о продажах GTA 6 и выручке в 4.7 млрд долларов за первую неделю",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "GTA VI Hits 53 Million Copies Sold in Just 1 Week, Generating 4.7 Billion — Google News (EN)",
-    "corroborated_by": "GTA VI Hits 53 Million Copies Sold in Just 1 Week, Generating 4.7 Billion — Google News (EN)",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-27T16:32:42.308570+00:00"
-  },
-  {
-   "item": {
-    "title": "Ex-Rockstar dev says GTA 6 looks \"almost flawless\" but loses to Red Dead Redemption 2 in a few areas",
-    "link": "https://www.gamesradar.com/games/grand-theft-auto/former-rockstar-artist-says-gta-6-looks-almost-flawless-but-loses-to-red-dead-redemption-2-in-a-few-areas/",
-    "summary": "The natural world is just that much livelier",
-    "published": "2026-11-27T16:46:01+00:00",
-    "source": "GamesRadar+",
-    "site_name": "GamesRadar+",
-    "trust": "high",
-    "text": "You'd be hard-pressed to argue against the visual element of GTA 6. Leonida is a stunningly realized modern American state in Rockstar's crime playground, but an artist who contributed to both this and Red Dead Redemption 2 believes the Western has the edge in some respects.\nDavid O'Reilly, an environment artist who worked for Rockstar until 2023, recorded himself jumping into GTA 6. Naturally, he went straight for areas that he contributed to, specifically Mount Kalaga, a beautiful national park nestled in the urban sprawl. While wandering around, he noted that while GTA 6 is \"almost flawless,\" Red Dead Redemption 2 tended to have finer details when it came to forestry and wilderness.\n\"I'm seeing a slight paring back in the natural world in GTA 6 from Red Dead Redemption 2, but obviously a much greater emphasis and much more kind of detail in the urban environments,\" he says.\n\"GTA 6 is more a systems-driven modern urban world with countryside, natural landscapes, whereas Red Dead Redemption 2 was almost purely natural landscapes,\" he notes. They are very distinct experiences in this way. Taking place over 100 years ago, Arthur Morgan's adventure features only a few towns and cities compared to the high-rises and concrete jungles of modern day America.\nThis means a lot of the map is open fields and marshland, pushing the devs to get into the minutiae of those ecosystems. In GTA 6, the opposite is needed, since most of your time is spent on roads and in buildings.\nRivers are a specialty of O'Reilly's, and he notes that Red Dead 2's streams are \"on balance\" a little better. \"Rivers were a bigger emphasis on Red Dead Redemption 2. They were a big part of the world, and in this game they're a lesser part of the world,\" O'Reilly says, mentioning that ultimately, GTA 6's are \"a little bit slow\" compared to what you see in the second Red Dead Redemption.\nThese are but minor critiques amid a technical marvel, and I wouldn't be surprised if Rockstar eventually improves the rivers in Grand Theft Auto 6. But for now, this is a win for Arthur.\nWeekly digests, tales from the communities you love, and more\nRead our GTA 6 review to see our thoughts on the game, or our GTA 6 guides for some handy tips.\nAnthony is an Irish entertainment and games journalist, now based in Glasgow. He previously served as Senior Anime Writer at Dexerto and News Editor at The Digital Fix, on top of providing work for Variety, IGN, Den of Geek, PC Gamer, and many more. Besides Studio Ghibli, h",
-    "extra": {
-     "image": "https://cdn.mos.cms.futurecdn.net/q8PPr4fKcHqMKZAYVAEbX7-1920-80.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "GTA 6 против RDR 2: чья графика круче?\n\nБывший художник Rockstar заценил графон в GTA 6 и заявил, что в плане дикой природы и рек вестерн всё ещё имба. Зато города в новой части — просто разнос!\n\n❤️ — RDR 2 база\n👎 — GTA 6 топчик",
-    "card_title": "GTA 6 ПРОТИВ RDR 2",
-    "reason": "Бывший разработчик Rockstar сравнил графику GTA 6 и RDR 2, что очень интересно фанатам.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-27T17:03:45.446567+00:00"
-  },
-  {
-   "item": {
-    "title": "GTA 6 sales estimates place it as the 13th best-selling game ever",
-    "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-sales-estimates-place-it-above-cyberpunk-2077-the-sims-and-the-first-pokemon-games-as-the-13th-best-selling-game-ever/",
-    "summary": "53 million puts it above any Call of Duty game",
-    "published": "2026-11-27T17:17:46+00:00",
-    "source": "GamesRadar+",
-    "site_name": "GamesRadar+",
-    "trust": "high",
-    "text": "Analyst estimates have put GTA 6 at 53 million copies sold, which, if accurate, places it as the 13th best-selling game of all time after just a week.\nIn the least surprising bit of news of 2026, GTA 6 is selling pretty well. It was probably the most anticipated game ever and is the highest-rated game of all time on Metacritic, so naturally the sales have followed. The first official number from Rockstar Games placed it at 32.5 million copies sold before it was even released, which had made it the 30th best-selling game ever above the likes of Super Mario Odyssey, Monster Hunter World, and Elden Ring. But that was just pre-release, so it's no shock to say that its fortunes haven't ended there.\nAlinea Analytics' head of market analysis, Rhys Elliott, posts the latest estimate over on Twitter, which places Rockstar's latest at 53 million copies sold, making $4.7 billion in its first week.\nIf this number is accurate, GTA 6 is the 13th best-selling game ever, with it unseating Animal Crossing: New Horizons, and overtaking the likes of Cyberpunk 2077, The Sims, and the Pokemon Generation 1 games (which have a combined sales figure of 47.44 million across Red, Blue and Yellow).\nElliott's data also estimates that just under a quarter of GTA 6 sales were on Xbox, with the Series X|S version accounting for 13 million vs PS5's 40 million. And it's not like it's just selling well either, as he reckons that seven million players have already played over 50 hours, with 250k of those having already played 100 hours. For reference, the game had been out in New Zealand around 219 hours at the time the tweet was posted.\nObviously, this is massively impressive no matter how you look at it. But it's worth keeping in mind that the PC release hasn't even dropped yet, so this has the potential to skyrocket once more when PC players – and console players who are going to double dip – get their hands on it.\nPlaying Rockstar's new game? Be sure to read through our GTA 6 review and look through our GTA 6 guide for some more knowledge on the 2026 behemoth.\nWeekly digests, tales from the communities you love, and more\n4. Best pro Xbox: Nacon Revolution X Unlimited\nScott has been freelancing for over four years across a number of different gaming publications, first appearing on GamesRadar+ in 2024. He has also written for the likes of PC Gamer, Eurogamer, VG247, Play, TechRadar, and others. He's typically rambling about Metal Gear Solid, God Hand, or any other PS2-era titles that rar",
-    "extra": {
-     "image": "https://cdn.mos.cms.futurecdn.net/NnRLcujy7xjWDUq5xRqoCG-1920-80.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "GTA 6 СДЕЛАЛА СОЧНЫЕ 4,7 МИЛЛИАРДА\n\nИгры еще толком нет на ПК, а продажи уже перевалили за 53 миллиона копий за первую неделю. Имба абсолютная, а ведь некоторые игроки уже трасят по 100+ часов в катках. Рорл полнейший.\n\n❤️ — Ждем релиз на ПК\n👎 — Опять цифры от аналитиков",
-    "card_title": "ПРОДАЖИ GTA 6 УЛЕТЕЛИ В КОСМОС",
-    "reason": "Analyst sales estimates for GTA 6 reaching 53 million copies are confirmed via major outlet GamesRadar+.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "Продажи GTA 6 за первую неделю оценили в $4,7 млрд",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-27T17:34:51.147888+00:00"
-  },
-  {
-   "item": {
-    "title": "Game Developers Say GTA VI Looks Like Something From the Future",
-    "link": "https://rockstarintel.com/game-developers-say-gta-vi-looks-like-something-from-the-future/",
-    "summary": "GTA VI continues to impress people across the gaming industry, including developers who have spent decades creating video games themselves. As reported by IGN, several industry professionals have shared their reactions to Rockstar’s latest release, with one Naughty Dog developer coming up with a rather unusual comparison. Michael Barclay, World Design Director at Naughty Dog, [...] The post Game Developers Say GTA VI Looks Like Something From the Future appeared first on RockstarINTEL .",
-    "published": "2026-11-27T17:41:20+00:00",
-    "source": "Rockstar Intel",
-    "site_name": "Rockstar Intel",
-    "trust": "medium",
-    "text": "GTA VI continues to impress people across the gaming industry, including developers who have spent decades creating video games themselves. As reported by IGN, several industry professionals have shared their reactions to Rockstar’s latest release, with one Naughty Dog developer coming up with a rather unusual comparison.\nMichael Barclay, World Design Director at Naughty Dog, described his experience with GTA VI in a short post on social media. “I’ve made video games for 19 years and GTA VI appears to me as a Bugatti Veyron would to a nervous Victorian child,” he wrote.\nHowever, Barclay wasn’t the only developer struggling to find the right words. David Goldfarb, game director of Payday 2, also shared his thoughts. After more than 30 years in the industry, he said he couldn’t even find the words to describe what he was playing. He later added that he had “never been this floored by anything ever.”\nCharacter artist Del Walker, whose previous work includes The Last of Us Part II, Suicide Squad: Kill the Justice League and Star Wars Jedi: Survivor, had a similarly funny reaction. He explained that whenever GTA VI clips appear in his group chat, people ask him how Rockstar managed to create something like that. His post was simple: “Brother, I wasn’t there when they opened the portal? This is not magic I recognize.”\nIt’s not every day that developers with so much experience openly admit that they’re struggling to understand how another studio achieved something. Rockstar’s latest release is clearly making an impression even on the people who know exactly what goes into making video games.\nIn other Grand Theft Auto VI news, GTA VI has reportedly sold 53 million copies in one week, generating $4.7 billion plus the GTA series is also nearing 1 trillion YouTube views.\nYou can order your PS5 or XBOX copy of GTA VI with this link. Using the link to order the game will help support this website as we’ll earn a small commission. Thank you!\nFor more news on GTA VI, stay tuned to RockstarINTEL and sign up to our newsletter for a weekly round-up of all things Rockstar Games delivered straight to your inbox.",
-    "extra": {
-     "image": "https://rockstarintel.com/wp-content/uploads/2026/11/IMG_7049.JPG-1024x576.jpeg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "Разработчики в ШОКЕ от графики GTA 6\n\nСоздатели игр из Naughty Dog и Payday признались, что не понимают, как Rockstar вообще смогли выдать такую имбу. Говорят, это магия из будущего, а не обычная игра.",
-    "card_title": "РАЗРАБОТЧИКИ В ШОКЕ ОТ GTA 6",
-    "reason": "Разработчики из Naughty Dog и других студий в шоке от технологий GTA 6",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-27T17:50:17.328061+00:00"
-  },
-  {
-   "item": {
-    "title": "GTA VI Is Already Bringing More Tourists to Miami",
-    "link": "https://rockstarintel.com/gta-vi-is-already-bringing-more-tourists-to-miami/",
-    "summary": "Grand Theft Auto VI is having an impact beyond the gaming world. The game’s release has also brought more attention to the real-life city that inspired Vice City, with new data showing a major increase in travel interest. According to Secret Miami, international searches for flights and vacation packages to Miami have surged in recent [...] The post GTA VI Is Already Bringing More Tourists to Miami appeared first on RockstarINTEL .",
-    "published": "2026-11-27T17:36:53+00:00",
-    "source": "Rockstar Intel",
-    "site_name": "Rockstar Intel",
-    "trust": "medium",
-    "text": "Grand Theft Auto VI is having an impact beyond the gaming world. The game’s release has also brought more attention to the real-life city that inspired Vice City, with new data showing a major increase in travel interest.\nAccording to Secret Miami, international searches for flights and vacation packages to Miami have surged in recent months. The data comes from eSky Group, a Poland-based travel agency.\nPoland saw a 215% increase in flight searches to Miami between September 21 and November 15 compared to the same period last year. Searches across eSky’s Latin American websites also increased by approximately 200%.\nGTA VI Is Making People Want to Visit Vice City\nThe numbers are even higher in some Eastern European countries. Searches for Miami flight and hotel packages increased by 545% in Romania and 500% in Bulgaria.\nActual bookings have also seen an increase. According to eSky, Miami vacation package bookings are up 56% over the past year. Travelers spent an average of $1,350 per person on trips lasting around eight nights.\nWhile the timing suggests that GTA VI may be playing a role in this growing interest, the data alone doesn’t prove that the game is responsible for the entire increase.\nStill, it’s interesting to see how Rockstar’s fictional version of Miami is attracting attention to the real city. After spending hours exploring Vice City, some players may now want to experience its real-life inspiration for themselves.In other Grand Theft Auto VI news, GTA VI has reportedly sold 53 million copies in one week, generating $4.7 billion plus the GTA series is also nearing 1 trillion YouTube views.\nYou can order your PS5 or XBOX copy of GTA VI with this link. Using the link to order the game will help support this website as we’ll earn a small commission. Thank you!\nFor more news on GTA VI, stay tuned to RockstarINTEL and sign up to our newsletter for a weekly round-up of all things Rockstar Games delivered straight to your inbox.",
-    "extra": {
-     "image": "https://rockstarintel.com/wp-content/uploads/2026/10/score-background-desktop.00160ew9j.7ha-1024x427.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "Туристы штурмуют МАЙАМИ\n\nРелиз игры вызвал дикий рост интереса к реальному прототипу Вайс-Сити: в некоторых странах поиск туров взлетел на 500%.\n\n❤️ — Залетим в отпуск\n👎 — Сидим в катке",
-    "card_title": "ТУРИСТЫ ЕДУТ В МАЙАМИ",
-    "reason": "Реальный туристический бум в Майами из-за релиза GTA 6",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-27T17:50:19.285083+00:00"
-  },
-  {
-   "item": {
-    "title": "Forza Horizon 6 Still Beats GTA 6 in One Key Way",
-    "link": "https://www.polygon.com/gta-6-racing-vs-forza-horizon-6/",
-    "summary": "Rockstar's Grand Theft Auto 6 makes a stab at being a proper racing game, but the competition from Playground's series can't be beat",
-    "published": "2026-11-27T18:00:18+00:00",
-    "source": "Polygon",
-    "site_name": "Polygon",
-    "trust": "high",
-    "text": "Rockstar Games is justifiably proud of everything it put into Grand Theft Auto 6, and one technical detail the studio has taken the time to highlight is the game's vehicle physics simulation. According to Ben Lyons, Rockstar's technical director for physics, some of the team started building and racing cars after finishing Grand Theft Auto 5, even winning in their class at the Nürbrugring 24 hours.\n\"This taught us a huge amount about how to modify, design, and set up real cars to go fast and what happens to them when things go wrong, like bursting tires and crashing,\" Lyons told Polygon in a statement. (As if to underline the point, Lyons' LinkedIn profile pic shows him proudly holding up a blown racecar tire in a pit garage.) \"We also took the same approach with rally-racing dirt bikes — it’s important to us to understand the difference between racing on two and four wheels and on- versus off-road so we can give our players as convincing authentic experience as we can,\" he said. \"For this game, we completely rewrote the vehicle simulation for every vehicle type so we could add more detail and realism, as well as authenticity and believability, to the game.\"\nKnowing how detail-obsessed Rockstar's developers are, and how seemingly limitless their resources were, I wondered if GTA 6's handling physics would be able to hold their own against the best the racing game genre has to offer​​​​​​​. My interest was doubly piqued when Polygon's reviewer Giovanni Colantonio told me there was a ton of racing in the game, both in the form of organized events on racing circuits and impromptu street races. Could GTA 6 secretly be a great racing game, along with everything else?\nThe answer is: no, not really. The cars are great to drive, and the races can be fun, but the design and technology of GTA 6 are fundamentally not set up for racing, and it shows.\nAs a benchmark to measure GTA 6 against, I chose Forza Horizon 6. It wouldn't be right to compare Rockstar's everything-game to the most realistic circuit-racing sims, but an open-world racing game that has entertaining, accessible, and credible driving physics, with a degree of depth, seemed like fair game.\nGTA 6's racing options are hardly minor. Street-racing leagues unlock in chapter 3, but you can roll up to any circuit and start racing, or log some time trial laps, from the very beginning. A racing career is even a viable way to make money in the game. If you have enough cash for the entry fee and to rent a competit",
-    "extra": {
-     "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/ultimate_edition_wyman_car_collection_04.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 6,
-    "post": "ФИЗИКА тачек в GTA 6\n\nРазработчики реально заморочились: полностью переписали симуляцию для каждого типа транспорта и даже гоняли на реальных треках. Но до чистокровных гонок всё равно не дотягивает.\n\n❤️ — Норм рулится\n👎 — Не Forza",
-    "card_title": "ФИЗИКА МАШИН В GTA 6",
-    "reason": "Разбор физики машин в GTA 6 и сравнение с гонками от Polygon",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-27T18:05:44.042792+00:00"
-  },
-  {
-   "item": {
     "title": "Для GTA VI уже делают русскую озвучку — показали геймплей с полной локализацией",
     "link": "https://ixbt.games/news/2026/11/27/dlia-gta-vi-uze-delaiut-russkuiu-ozvucku-pokazali-geimplei-s-polnoi-lokalizaciei.html",
     "summary": "Демонстрация получилась специфической в силу технических особенностей используемой версии GTA VI.",
@@ -25151,6 +23816,36 @@
    },
    "corr": false,
    "since": "2026-11-27T18:37:32.272698+00:00"
+  },
+  {
+   "item": {
+    "title": "Оказывается, у GTA VI есть кое-что общее с Metal Gear и сериалом «Гриффины»",
+    "link": "https://ixbt.games/news/2026/11/27/okazyvaetsia-u-gta-vi-est-koe-cto-obshhee-s-metal-gear-i-serialom-griffiny.html",
+    "summary": "Игроки начали проводить своеобразные параллели.",
+    "published": "2026-11-27T17:57:00+00:00",
+    "source": "iXBT.games",
+    "site_name": "iXBT.games",
+    "trust": "medium",
+    "text": "Игроки начали проводить своеобразные параллели.\nИгроки постепенно исследуют мир У. Пока одни рассматривают различные детали мира, пользователь под ником Minstura обратил внимание на общий план карты.\nСхема виртуального штата Леонида напомнила ему образ персонажа Питера Гриффина из мультсериала «Гриффины». Внешне карта действительно очень похожа на Питера в его характерной позе:\nO mapa do GTA 6 parece com o Peter Griffin? by u/Minstura in r/perguntas\nСначала это сходство было не очевидным, но теперь некоторые игроки «не могут развидеть» этот образ.\nGUIBERNARODW решил удостовериться и наложил Питера Гриффина на карту GTA VI:\nУчастники сообщества Grand Theft Auto VI обратили внимание и на другой элемент, который знаком многим геймерам. В геймплее усмотрели механику в духе Metal Gear Solid V: The Phantom Pain.\nИгроки могут совершать налёты на базы бандитов. Внимательные пользователи заметили, что если попытаться проникнуть несколько раз на одну и ту же территорию тем же путём, то противники начинают пересматривать стратегию обороны. Например, подготовить дополнительное препятствие на определённом участке, установить колючую проволоку там, где персонаж ранее смог пролезть.\nNever seen this in a game before: I kept trying, and failing, to rob this gang base by sneaking in through a gap in the fence. I’ve died about three times trying. Just came back again… and they’ve boarded up the gap in the fence LOL\nАдаптивное поведение противников не уникальная механика, но многие знют её именно по игре Хидео Кодзимы.\nНе пропускайте наши новостиДобавьте сайт в предпочитаемые источники, чтобы видеть нас чащеДобавить в Google",
+    "extra": {
+     "image": "https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1747123/media-7603629122bfb6abc0e55b2d483d659e4bfe7f70aa3b16a756abae7d8ac23964.png"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "КАРТА GTA 6 — ЭТО ПИТЕР ГРИФФИН\n\nИгроки разглядели в контурах штата Леонида фигуру того самого персонажа из мультика. А еще враги на базах просекают фишку и заколачивают дыры в заборах, если часто ломиться в одну щель, как в Metal Gear Solid.\n\n❤️ — Топовая пасхалка\n👎 — Опять шиза фанатов",
+    "card_title": "КАРТА GTA 6 И ПИТЕР ГРИФФИН",
+    "reason": "Забавная пасхалка про карту в виде Питера Гриффина и умные враги из MGSV в GTA 6.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-27T18:56:50.104779+00:00"
   }
  ]
 }
