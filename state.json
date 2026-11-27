@@ -5621,7 +5621,24 @@
   "efa0754171e7816d": "2026-11-27T17:50:20.710103+00:00",
   "6120230b81cc3155": "2026-11-27T17:50:22.322234+00:00",
   "1936fcc6f617a210": "2026-11-27T17:50:23.659737+00:00",
-  "84808ce628ad2e5f": "2026-11-27T17:50:24.672417+00:00"
+  "84808ce628ad2e5f": "2026-11-27T17:50:24.672417+00:00",
+  "928c3611dc567839": "2026-11-27T18:05:43.477664+00:00",
+  "79413c49b07a4e0b": "2026-11-27T18:05:45.399305+00:00",
+  "3d746ecf693be109": "2026-11-27T18:05:48.699076+00:00",
+  "68f31cd3ae7ba85d": "2026-11-27T18:05:49.775035+00:00",
+  "9e886ea55a87536e": "2026-11-27T18:05:50.606276+00:00",
+  "a1a824ef07afc0b8": "2026-11-27T18:05:51.662436+00:00",
+  "89861c174ea6ebc9": "2026-11-27T18:05:52.780590+00:00",
+  "1f9f4420d520d253": "2026-11-27T18:05:53.651834+00:00",
+  "4d8f83112703f522": "2026-11-27T18:21:10.112391+00:00",
+  "8d7562cfe899c163": "2026-11-27T18:21:11.929811+00:00",
+  "35732679274a7797": "2026-11-27T18:21:13.687264+00:00",
+  "eed71ca8b0b4d3c2": "2026-11-27T18:21:14.783207+00:00",
+  "10a80b09fa971456": "2026-11-27T18:21:15.413131+00:00",
+  "d61af087ee3e8477": "2026-11-27T18:21:16.403726+00:00",
+  "b8541216917f226f": "2026-11-27T18:21:17.387125+00:00",
+  "5dcf9450fbb56af9": "2026-11-27T18:21:18.320809+00:00",
+  "9ea66e47fcaed1d1": "2026-11-27T18:21:19.569540+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -9484,7 +9501,24 @@
   "1ecaa9770c4ae5df": "2026-11-27T17:50:20.710103+00:00",
   "7745a54bef242eb8": "2026-11-27T17:50:22.322234+00:00",
   "9df0a0f8e6b4a2b0": "2026-11-27T17:50:23.659737+00:00",
-  "59fc3ed07d745dd0": "2026-11-27T17:50:24.672417+00:00"
+  "59fc3ed07d745dd0": "2026-11-27T17:50:24.672417+00:00",
+  "d6bdd6dad6bd75ab": "2026-11-27T18:05:43.477664+00:00",
+  "d7002a0bee9699db": "2026-11-27T18:05:45.399305+00:00",
+  "78fb616592630346": "2026-11-27T18:05:48.699076+00:00",
+  "37c2ededf8e64c48": "2026-11-27T18:05:49.775035+00:00",
+  "19ce455520f9734b": "2026-11-27T18:05:50.606276+00:00",
+  "c85d98d8714bbf21": "2026-11-27T18:05:51.662436+00:00",
+  "fc70b1eb7a792085": "2026-11-27T18:05:52.780590+00:00",
+  "b5a341a34703fdc9": "2026-11-27T18:05:53.651834+00:00",
+  "bef03a2c18fa590b": "2026-11-27T18:21:10.112391+00:00",
+  "a32cddb3756e0bab": "2026-11-27T18:21:11.929811+00:00",
+  "95a777ef2a998b42": "2026-11-27T18:21:13.687264+00:00",
+  "a7fc9e6bbb0ececa": "2026-11-27T18:21:14.783207+00:00",
+  "cbd0a9d655d00274": "2026-11-27T18:21:15.413131+00:00",
+  "ad5780bc0a9b151c": "2026-11-27T18:21:16.403726+00:00",
+  "6df4e785d38edc7c": "2026-11-27T18:21:17.387125+00:00",
+  "d4ff1e8d2a280eaa": "2026-11-27T18:21:18.320809+00:00",
+  "486f46cacb2134d8": "2026-11-27T18:21:19.569540+00:00"
  },
  "recent": [
   {
@@ -18502,6 +18536,126 @@
    "status": "skipped",
    "ts": "2026-11-27T17:50:24.672540+00:00",
    "card_title": ""
+  },
+  {
+   "title": "Исполнительница роли Лусии из GTA VI работала над ролью почти 10 лет",
+   "source": "iXBT.games",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-27T18:05:46.148049+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Grand Theft Auto VI: Прохождение всех миссий и концовки — Глава 5 «Я на вершине мира, мам»",
+   "source": "StopGame",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-27T18:05:48.699190+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Where to Buy Masks in GTA 6 – All Shop Locations",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T18:05:49.775153+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "6 Steam games to wishlist for life after GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T18:05:50.606400+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Where to find the Gallivanter Baller ST-D in GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T18:05:51.662545+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Is a version of Anna Paulina Luna in GTA 6?",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T18:05:52.780708+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Hijacked by Hype: The Weaponization of GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T18:05:53.651946+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "25 things you probably missed in GTA 6",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "dup",
+   "ts": "2026-11-27T18:21:10.112414+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Grayson Ghost Cat's Pet Cemetery (Pet Sematary Easter Egg) In GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T18:21:13.687421+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "209GB GTA 6 'PC version' appears on Russian torrent site",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T18:21:14.783336+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6: Can You Get Six Stars With Just One Bullet?",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T18:21:15.413271+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Bow Wow Dismisses 'GTA VI' Relationship Storyline With Lucia",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T18:21:16.403868+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Grand Theft Auto 6 artists set to crash UK music charts",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T18:21:17.387280+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Avoid the bad GTA 6 Black Friday deals – use this price hack instead",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T18:21:18.320961+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "'GTA VI' Lucia Actor Manni L. Perez Shares Thanksgiving Message to Fans: 'I Am Beyond Grateful'",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T18:21:19.569693+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -24804,6 +24958,66 @@
    },
    "corr": false,
    "since": "2026-11-27T17:50:19.285083+00:00"
+  },
+  {
+   "item": {
+    "title": "Forza Horizon 6 Still Beats GTA 6 in One Key Way",
+    "link": "https://www.polygon.com/gta-6-racing-vs-forza-horizon-6/",
+    "summary": "Rockstar's Grand Theft Auto 6 makes a stab at being a proper racing game, but the competition from Playground's series can't be beat",
+    "published": "2026-11-27T18:00:18+00:00",
+    "source": "Polygon",
+    "site_name": "Polygon",
+    "trust": "high",
+    "text": "Rockstar Games is justifiably proud of everything it put into Grand Theft Auto 6, and one technical detail the studio has taken the time to highlight is the game's vehicle physics simulation. According to Ben Lyons, Rockstar's technical director for physics, some of the team started building and racing cars after finishing Grand Theft Auto 5, even winning in their class at the Nürbrugring 24 hours.\n\"This taught us a huge amount about how to modify, design, and set up real cars to go fast and what happens to them when things go wrong, like bursting tires and crashing,\" Lyons told Polygon in a statement. (As if to underline the point, Lyons' LinkedIn profile pic shows him proudly holding up a blown racecar tire in a pit garage.) \"We also took the same approach with rally-racing dirt bikes — it’s important to us to understand the difference between racing on two and four wheels and on- versus off-road so we can give our players as convincing authentic experience as we can,\" he said. \"For this game, we completely rewrote the vehicle simulation for every vehicle type so we could add more detail and realism, as well as authenticity and believability, to the game.\"\nKnowing how detail-obsessed Rockstar's developers are, and how seemingly limitless their resources were, I wondered if GTA 6's handling physics would be able to hold their own against the best the racing game genre has to offer​​​​​​​. My interest was doubly piqued when Polygon's reviewer Giovanni Colantonio told me there was a ton of racing in the game, both in the form of organized events on racing circuits and impromptu street races. Could GTA 6 secretly be a great racing game, along with everything else?\nThe answer is: no, not really. The cars are great to drive, and the races can be fun, but the design and technology of GTA 6 are fundamentally not set up for racing, and it shows.\nAs a benchmark to measure GTA 6 against, I chose Forza Horizon 6. It wouldn't be right to compare Rockstar's everything-game to the most realistic circuit-racing sims, but an open-world racing game that has entertaining, accessible, and credible driving physics, with a degree of depth, seemed like fair game.\nGTA 6's racing options are hardly minor. Street-racing leagues unlock in chapter 3, but you can roll up to any circuit and start racing, or log some time trial laps, from the very beginning. A racing career is even a viable way to make money in the game. If you have enough cash for the entry fee and to rent a competit",
+    "extra": {
+     "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/ultimate_edition_wyman_car_collection_04.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "ФИЗИКА тачек в GTA 6\n\nРазработчики реально заморочились: полностью переписали симуляцию для каждого типа транспорта и даже гоняли на реальных треках. Но до чистокровных гонок всё равно не дотягивает.\n\n❤️ — Норм рулится\n👎 — Не Forza",
+    "card_title": "ФИЗИКА МАШИН В GTA 6",
+    "reason": "Разбор физики машин в GTA 6 и сравнение с гонками от Polygon",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-27T18:05:44.042792+00:00"
+  },
+  {
+   "item": {
+    "title": "Для GTA VI уже делают русскую озвучку — показали геймплей с полной локализацией",
+    "link": "https://ixbt.games/news/2026/11/27/dlia-gta-vi-uze-delaiut-russkuiu-ozvucku-pokazali-geimplei-s-polnoi-lokalizaciei.html",
+    "summary": "Демонстрация получилась специфической в силу технических особенностей используемой версии GTA VI.",
+    "published": "2026-11-27T18:09:00+00:00",
+    "source": "iXBT.games",
+    "site_name": "iXBT.games",
+    "trust": "medium",
+    "text": "Демонстрация получилась специфической в силу технических особенностей используемой версии GTA VI.\nНедавно состоялся релиз Grand Theft Auto VI на консолях PlayStation 5 и Xbox Series X|S. Вскоре в сеть слили билд и техно-энтузиасты начали собирать различные ПК-версии игры.\nУже появились первые публичные «играбельные» ПК-версии Grand Theft Auto VI — графика в них сильно глючит, а производительность не очень хорошая: иногда игра выдаёт всего несколько FPS, но есть и более удачные примеры.\nВ MGV-Dubbing обратили внимание на Grand Theft Auto VI и решили сделать полную русскую локализацию с помощью искусственного интеллекта. Недавно провели первую демонстрацию озвучки:\nОсталось совсем немного до первой публичной версии русской озвучки GTA VI. На видео демонстрация текущего этапа, к сожалению текущий этап порта GTA VI на пк не позволяет показать качественную картинку, но оценить качество дубляжа уже более менее можно.\nСейчас юристы Take-Two активно блокируют на GitHub репозитории проектов-рекомпиляций Grand Theft Auto VI, однако этот поток пока не удалось остановить. Официальную ПК-версию пока не анонсировали: игроки считают, что ситуация с портами вынудит Rockstar Games ускорить работу.\nНе пропускайте наши новостиДобавьте сайт в предпочитаемые источники, чтобы видеть нас чащеДобавить в Google",
+    "extra": {
+     "image": "https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1747116/media-5bdeb2d747d03435d40035f9c9549270f3e49109a9a0bcd4f46fee85dfcf2301.png"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "РУССКАЯ озвучка уже в разработке\n\nСтудия MGV-Dubbing запилила демонстрацию полной локализации для GTA 6 с помощью ИИ. Картина на кадрах мыльная из-за кривых сливов на ПК, но послушать голоса уже можно. Ждем релиз, чел?\n\n❤️ — Заценим этот дубляж\n👎 — Только оригинал, кринж",
+    "card_title": "РУССКАЯ ОЗВУЧКА GTA 6",
+    "reason": "Студия озвучки показала русскую локализацию для GTA 6, это подтвержденная новость",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-27T18:21:12.490600+00:00"
   }
  ]
 }
