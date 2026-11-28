@@ -5887,7 +5887,18 @@
   "ff8212f0815571e3": "2026-11-28T09:52:54.725872+00:00",
   "0e9613afbb6e7661": "2026-11-28T09:53:00.805149+00:00",
   "da9835bbde09b2f7": "2026-11-28T09:53:23.836263+00:00",
-  "b675be00b2b3b04d": "2026-11-28T10:08:43.010556+00:00"
+  "b675be00b2b3b04d": "2026-11-28T10:08:43.010556+00:00",
+  "05ec0b66daa85b35": "2026-11-28T10:24:04.105416+00:00",
+  "ace7879311bd4e1e": "2026-11-28T10:39:21.547911+00:00",
+  "e0c0a43f053b9b87": "2026-11-28T10:41:55.529870+00:00",
+  "b1df48e66b979dc8": "2026-11-28T10:41:56.347601+00:00",
+  "1414e57acfbc4660": "2026-11-28T10:41:57.244977+00:00",
+  "ddd6ff9cc289d0f0": "2026-11-28T10:41:58.074445+00:00",
+  "90feed3325e987e3": "2026-11-28T10:42:49.042706+00:00",
+  "7b18fce1f0b877bc": "2026-11-28T10:46:20.776038+00:00",
+  "6da45130c2ce09a0": "2026-11-28T10:47:08.357314+00:00",
+  "299353b1ad74a890": "2026-11-28T10:47:12.014131+00:00",
+  "54a6fd1ecbdf9ab6": "2026-11-28T10:48:08.586166+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -9936,7 +9947,9 @@
   "716f8c3d34e344b9": "2026-11-28T09:52:54.725872+00:00",
   "ff0b2bcd5a766982": "2026-11-28T09:53:00.805149+00:00",
   "8c8c04487c937b2f": "2026-11-28T09:53:23.836263+00:00",
-  "d990ebed1672bb91": "2026-11-28T10:08:43.010556+00:00"
+  "d990ebed1672bb91": "2026-11-28T10:08:43.010556+00:00",
+  "3dce2d06e3abcdb3": "2026-11-28T10:24:04.105416+00:00",
+  "8cb25a014c7f1118": "2026-11-28T10:39:21.547911+00:00"
  },
  "recent": [
   {
@@ -17826,6 +17839,22 @@
    "status": "skipped",
    "ts": "2026-11-28T10:08:43.010670+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GTA 6: 16 Secret Controls You Could Easily Miss",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T10:24:04.105551+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "«Навсегда останешься в нашей памяти»: в GTA 6 есть мемориал умершей дочери разработчика",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T10:39:21.548032+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -18030,36 +18059,6 @@
   "2026-11-26T18:29:20.883321+00:00"
  ],
  "clips": [
-  {
-   "clip": {
-    "source": "twitch",
-    "url": "https://www.twitch.tv/blexinfinity/clip/WimpyResoluteGalagoNotATK-heINgDRDo_gTjfMt",
-    "title": "Будни в Гта",
-    "author": "BlexInfinity",
-    "views": 809,
-    "duration": 45.1,
-    "created": "2026-11-26T16:51:46+00:00",
-    "lang": "ru",
-    "description": "",
-    "vod_id": "2941270452",
-    "vod_offset": 15696.0
-   },
-   "caption": "Случайно задел NPC на хайвее, вышел извиниться — а он просто сел в твою тачку и уехал 💀 NPC в GTA 6 вообще без комплексов, ору",
-   "interest": 7,
-   "spoiler": false,
-   "nsfw": false,
-   "watched": true,
-   "model": "gemini:gemini-3.5-flash",
-   "media": {
-    "width": null,
-    "height": 720,
-    "duration": 45
-   },
-   "queued_at": "2026-11-27T10:35:34.342127+00:00",
-   "file_id": "BAACAgIAAxkDAAPHawlc-K6yHH7I0orKwjHmjAfbMSMAAluyAAJzy0lItVaI9jrZY4k9BA",
-   "moderation": "pending",
-   "draft_msg_id": 199
-  },
   {
    "clip": {
     "source": "twitch",
@@ -18329,6 +18328,36 @@
    "file_id": "BAACAgIAAxkDAAPdawqh2zImJqEXWYx-R_hS6o_l2dIAAoWoAALiwFhISEjFdeis02g9BA",
    "moderation": "pending",
    "draft_msg_id": 221
+  },
+  {
+   "clip": {
+    "source": "twitch",
+    "url": "https://www.twitch.tv/joe_bartolozzi/clip/WrongDifferentPheasantMcaT-P8jo6Tjw9C9ygjk4",
+    "title": "freaky joe",
+    "author": "Joe_Bartolozzi",
+    "views": 348,
+    "duration": 6.9,
+    "created": "2026-11-27T21:36:40+00:00",
+    "lang": "en",
+    "description": "",
+    "vod_id": "2942412891",
+    "vod_offset": 13058.0
+   },
+   "caption": "🔞 Съёмки клипа у бассейна в Леониде — база. NPC вообще без комплексов, полный рофл 💀",
+   "interest": 7,
+   "spoiler": false,
+   "nsfw": true,
+   "watched": true,
+   "model": "gemini:gemini-3.5-flash-lite",
+   "media": {
+    "width": null,
+    "height": 720,
+    "duration": 6
+   },
+   "queued_at": "2026-11-28T10:48:18.042510+00:00",
+   "file_id": "BAACAgIAAxkDAAPeawqxcx2MN__w1bRdhSBJqLYLgsUAAm-pAALiwFhIUqdKFqau0QU9BA",
+   "moderation": "pending",
+   "draft_msg_id": 222
   }
  ],
  "clip_drafts": [
@@ -18354,7 +18383,8 @@
   "2026-11-27T21:56:27.671209+00:00",
   "2026-11-28T07:14:19.192954+00:00",
   "2026-11-28T08:18:12.051727+00:00",
-  "2026-11-28T09:41:48.084411+00:00"
+  "2026-11-28T09:41:48.084411+00:00",
+  "2026-11-28T10:48:19.566961+00:00"
  ],
  "clip_history": [
   {
@@ -22981,6 +23011,93 @@
    "ts": "2026-11-28T09:41:48.084454+00:00",
    "frames": [],
    "caption": "Поездка на байке закончилась эпичным вылетом через руль — физика в GTA 6 просто разнос 💀"
+  },
+  {
+   "author": "youtube:zelta",
+   "vod": "",
+   "offset": -1,
+   "title": "'your relationship has downgraded to Running on Empty' #gta #gta6",
+   "drafted": false,
+   "ts": "2026-11-28T10:41:55.529902+00:00"
+  },
+  {
+   "author": "youtube:schlayer",
+   "vod": "",
+   "offset": -1,
+   "title": "Why you should stay away from here in GTA 6 🚫 #gta6 #shorts",
+   "drafted": false,
+   "ts": "2026-11-28T10:41:56.347636+00:00"
+  },
+  {
+   "author": "youtube:nightedts",
+   "vod": "",
+   "offset": -1,
+   "title": "\"Best Gta Stunt\"🔥👀 (Gta 6 clip is a lil slow mb) | Gta Stunt edit",
+   "drafted": false,
+   "ts": "2026-11-28T10:41:57.245007+00:00"
+  },
+  {
+   "author": "youtube:tara arts game indonesia",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 (Part 13) - MALAM MINGGU ARTINYA GTA 6 😍",
+   "drafted": false,
+   "ts": "2026-11-28T10:41:58.074485+00:00"
+  },
+  {
+   "author": "twitch:baupenner",
+   "vod": "",
+   "offset": -1,
+   "title": "Penna kann kein Motorrad fahren",
+   "drafted": false,
+   "ts": "2026-11-28T10:42:49.042757+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:loya",
+   "vod": "2942071352",
+   "offset": 12376.0,
+   "title": "\"Massage Therapist\" - Looking",
+   "drafted": false,
+   "ts": "2026-11-28T10:46:20.776086+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:jynxzi",
+   "vod": "2942559633",
+   "offset": 2068.0,
+   "title": "naked",
+   "drafted": false,
+   "ts": "2026-11-28T10:47:08.357361+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:bratishkinoff",
+   "vod": "2941301054",
+   "offset": 41446.0,
+   "title": "на",
+   "drafted": false,
+   "ts": "2026-11-28T10:47:12.014176+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:joe_bartolozzi",
+   "vod": "2942412891",
+   "offset": 13058.0,
+   "title": "freaky joe",
+   "drafted": false,
+   "ts": "2026-11-28T10:48:08.586211+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:joe_bartolozzi",
+   "vod": "2942412891",
+   "offset": 13058.0,
+   "title": "freaky joe",
+   "drafted": true,
+   "ts": "2026-11-28T10:48:19.566977+00:00",
+   "frames": [],
+   "caption": "🔞 Съёмки клипа у бассейна в Леониде — база. NPC вообще без комплексов, полный рофл 💀"
   }
  ],
  "published": [
