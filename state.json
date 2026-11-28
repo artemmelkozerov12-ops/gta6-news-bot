@@ -5942,7 +5942,22 @@
   "b75bf14d81e5cee0": "2026-11-28T12:34:24.769679+00:00",
   "85e6f3f932aa0cb7": "2026-11-28T12:49:37.887787+00:00",
   "f33428ae36e9bf4a": "2026-11-28T12:49:38.869542+00:00",
-  "21288ffb5bd3a6c0": "2026-11-28T12:49:39.821694+00:00"
+  "21288ffb5bd3a6c0": "2026-11-28T12:49:39.821694+00:00",
+  "aad70b3e876f0e75": "2026-11-28T12:52:13.774844+00:00",
+  "f9ccd646bff71031": "2026-11-28T12:52:24.186997+00:00",
+  "f39398b183072403": "2026-11-28T12:52:34.726601+00:00",
+  "47542dd40a294d80": "2026-11-28T12:52:41.886274+00:00",
+  "29cd888e6fb8a21e": "2026-11-28T12:53:39.768673+00:00",
+  "0d8a31da9752a9f4": "2026-11-28T13:05:12.473332+00:00",
+  "67af40708de67c98": "2026-11-28T13:05:13.485933+00:00",
+  "f1e9b2c0720d95e1": "2026-11-28T13:05:14.822580+00:00",
+  "83aec87072e8e2fb": "2026-11-28T13:05:16.198235+00:00",
+  "ab9125a0e300386b": "2026-11-28T13:05:17.402857+00:00",
+  "d1808027b21fe60f": "2026-11-28T13:20:31.401872+00:00",
+  "a07e3d5bef79b159": "2026-11-28T13:20:32.815194+00:00",
+  "933686d408a4feee": "2026-11-28T13:20:33.856589+00:00",
+  "b029e2366fee9e04": "2026-11-28T13:20:34.988388+00:00",
+  "9b06a41f68d80049": "2026-11-28T13:20:36.011145+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -10026,7 +10041,17 @@
   "83e5cabb5c02fd87": "2026-11-28T12:34:24.769679+00:00",
   "485986d751bc3a08": "2026-11-28T12:49:37.887787+00:00",
   "2b7ccafdb1837b41": "2026-11-28T12:49:38.869542+00:00",
-  "3ef08bb51944d5e6": "2026-11-28T12:49:39.821694+00:00"
+  "3ef08bb51944d5e6": "2026-11-28T12:49:39.821694+00:00",
+  "78b6d8b6e6fbb161": "2026-11-28T13:05:12.473332+00:00",
+  "93931d0c49560d39": "2026-11-28T13:05:13.485933+00:00",
+  "e020e05915a4e63e": "2026-11-28T13:05:14.822580+00:00",
+  "9516dee27a5a95c9": "2026-11-28T13:05:16.198235+00:00",
+  "2ef45646df098889": "2026-11-28T13:05:17.402857+00:00",
+  "acc99ec080ab5e06": "2026-11-28T13:20:31.401872+00:00",
+  "330abfbf814b2aaf": "2026-11-28T13:20:32.815194+00:00",
+  "91d2b15e4b7a2ea9": "2026-11-28T13:20:33.856589+00:00",
+  "1259117f4ac79ba6": "2026-11-28T13:20:34.988388+00:00",
+  "8c10236e11a37c7e": "2026-11-28T13:20:36.011145+00:00"
  },
  "recent": [
   {
@@ -17364,6 +17389,78 @@
    "status": "skipped",
    "ts": "2026-11-28T12:49:39.821826+00:00",
    "card_title": ""
+  },
+  {
+   "title": "The Real-World Planes GTA VI's Aircraft Are Based On",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T13:05:12.473453+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Ведущий программист Grand Theft Auto 6 объяснил, почему 75,3% сотрудников Rockstar проголосовали против профсоюза",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T13:05:13.486064+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Unofficial 209 GB GTA 6 Windows repack reportedly surfaces just one week after console launch",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T13:05:14.822711+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Старт Grand Theft Auto 6 на стримах обогнал суммарные показатели Valorant, Elden Ring, Diablo 4 и Lost Ark",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T13:05:16.198359+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 заработала $4,7 млрд за неделю и побила все рекорды индустрии развлечений",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T13:05:17.402978+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "On the Radar: ‘GTA 6’, How Gen Z Uses AI and AI Agent Issues",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T13:20:32.815315+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 players have found a hidden line that changes how you see Mandy and Jason",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T13:20:33.856714+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "D’Angelo’s GTA VI track “Kamikazi” reaches streaming, RockstarINTEL reports",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T13:20:34.988524+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI unofficial PC port goes ultrawide, reaches 180 FPS with Frame Generation",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T13:20:36.011279+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -17770,6 +17867,36 @@
    "file_id": "BAACAgIAAxkDAAPgawrAWyaIItVpdHbyWkZlPDUOO2IAAgOqAALiwFhIaDi6iOk1JrY9BA",
    "moderation": "pending",
    "draft_msg_id": 224
+  },
+  {
+   "clip": {
+    "source": "twitch",
+    "url": "https://www.twitch.tv/saber2080/clip/IncredulousBloodyCrabsKappaRoss-eoHFu3SB1LKN1fM4",
+    "title": "CRAZY CAR FLIP",
+    "author": "saber2080",
+    "views": 223,
+    "duration": 30.0,
+    "created": "2026-11-28T11:37:44+00:00",
+    "lang": "en",
+    "description": "",
+    "vod_id": "2943076736",
+    "vod_offset": 12595.0
+   },
+   "caption": "Случайно задел тачку на перекрестке, и физика устроила такой цирк с полетом — чистый разнос 💀",
+   "interest": 8,
+   "spoiler": false,
+   "nsfw": false,
+   "watched": true,
+   "model": "gemini:gemini-3.5-flash-lite",
+   "media": {
+    "width": null,
+    "height": 720,
+    "duration": 30
+   },
+   "queued_at": "2026-11-28T12:54:10.563118+00:00",
+   "file_id": "BAACAgIAAxkDAAPhawrO8yzalMEGD7C5ovPj9vLIut4AAouqAALiwFhIRsDqctNaGZc9BA",
+   "moderation": "pending",
+   "draft_msg_id": 225
   }
  ],
  "clip_drafts": [
@@ -17793,7 +17920,8 @@
   "2026-11-28T08:18:12.051727+00:00",
   "2026-11-28T09:41:48.084411+00:00",
   "2026-11-28T10:48:19.566961+00:00",
-  "2026-11-28T11:51:55.920704+00:00"
+  "2026-11-28T11:51:55.920704+00:00",
+  "2026-11-28T12:54:12.087095+00:00"
  ],
  "clip_history": [
   {
@@ -22232,6 +22360,57 @@
    "ts": "2026-11-28T11:51:55.920723+00:00",
    "frames": [],
    "caption": "Чел решил срезать через болото, но встретил кабана. Ласт его ошибка — в Леониде после заката лучше не гулять 💀"
+  },
+  {
+   "author": "youtube:rk gaming world",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA VI JASON LUCIA MANDY ROMANCE SCENE PART 22 NO COMMENTRY  PS5 LIVE GAMEPLAY",
+   "drafted": false,
+   "ts": "2026-11-28T12:52:13.774894+00:00"
+  },
+  {
+   "author": "youtube:obbersgta",
+   "vod": "",
+   "offset": -1,
+   "title": "Never Help Lucia's Mom in GTA 6 #gta #gta6 #gtavi",
+   "drafted": false,
+   "ts": "2026-11-28T12:52:24.187040+00:00"
+  },
+  {
+   "author": "youtube:ta5teem gaming - تختيم جيمنج",
+   "vod": "",
+   "offset": -1,
+   "title": "3 شخصيات أسطورية من اجزاء قراند السابقة ظهرت في قراند 6 ؟!! 💀🔥",
+   "drafted": false,
+   "ts": "2026-11-28T12:52:34.726643+00:00"
+  },
+  {
+   "author": "youtube:jeje adriel",
+   "vod": "",
+   "offset": -1,
+   "title": "FOKUS MISI CURI MOBIL DAN RAMPOK BANK | GTA 6 #9",
+   "drafted": false,
+   "ts": "2026-11-28T12:52:41.886313+00:00"
+  },
+  {
+   "author": "twitch:saber2080",
+   "vod": "2943076736",
+   "offset": 12595.0,
+   "title": "CRAZY CAR FLIP",
+   "drafted": false,
+   "ts": "2026-11-28T12:53:39.768705+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:saber2080",
+   "vod": "2943076736",
+   "offset": 12595.0,
+   "title": "CRAZY CAR FLIP",
+   "drafted": true,
+   "ts": "2026-11-28T12:54:12.087113+00:00",
+   "frames": [],
+   "caption": "Случайно задел тачку на перекрестке, и физика устроила такой цирк с полетом — чистый разнос 💀"
   }
  ],
  "published": [
@@ -22731,5 +22910,36 @@
   "digest-20261126": "2026-11-26T19:30:31.000089+00:00",
   "digest-20261127": "2026-11-27T19:30:25.546809+00:00"
  },
- "rewrite_wait": []
+ "rewrite_wait": [
+  {
+   "item": {
+    "title": "It looks like GTA 6's Jason and Mandy might have had a history after all",
+    "link": "https://www.eurogamer.net/gta-6-jason-mandy-history-lucia-meditation-dialogue",
+    "summary": "Warning: spoilers for GTA 6 follow. Read more",
+    "published": "2026-11-28T13:05:00+00:00",
+    "source": "Eurogamer",
+    "site_name": "Eurogamer",
+    "trust": "high",
+    "text": "Mandy was one of GTA 6's breakout characters almost as soon as the game launched, but it's only now that we're learning how her obsession with Jason may have come to be.\nAs spotted by IGN, an easy-to-miss line of dialogue suggests the pair do have some kind of history. It's heard during one of Lucia's meditation sequences, which replay snippets from a character's past, usually centred on their insecurities.\nIn this particular sequence, Lucia recalls a conversation with Jason that seems to have taken place off-screen.\n\"Yeah, okay, we hooked up once, but, you know, barely. And it was a long time ago,\" Jason says. \"You don't need to worry about her, Lu. Have you seen you? I know how good I got it. I'm not gonna screw that up again.\"\nAAAAAAAAAH pic.twitter.com/4xxj8rHZAR— 𐔌 . ⋮ ιvσɾყ ֹ ₊ ꒱ (@ivysmores) November 25, 2026\nJason doesn't name Mandy, but IGN reckons the context makes it pretty clear who he's talking about. As he mentions not wanting to lose Lucia again, it believes the conversation took place after the couple first split up, and after Lucia's release from prison, when she was living in the same neighbourhood as Mandy.\nThat would also explain why Lucia is so clearly aware of Mandy. At the end of Chapter 1, while fleeing Jason's house as Lucia, players can find Mandy giving the police a statement, in which she exaggerates how close she and Jason were. If players step out of hiding, Lucia confronts her directly: \"Stay the fu*k away from Jason, you crazy bitch.\"\nLUCIA FINDS OUT ABOUTMANDY & GOES CRAZY 🤯#GTA6 #GTAVI pic.twitter.com/nTEDFb3PA8— Lanzino (@Lanziino) November 24, 2026\nThe same encounter adds weight to fan theories that Mandy is hiding something far darker, as she tells police she \"wanted to light [Jason's] house on fire so many times\".\nMandy actress Lexie Shoaibi has since spoken about her \"bittersweet\" newfound fame, revealing that people keep trying to impersonate her on social media. She also said she spent around 10 days on set playing Mandy, and voiced several other NPCs while working with Rockstar.\nGTA 6 launched on Thursday, 19th November, for PS5 and Xbox Series X/S. It's the biggest entertainment launch of all time, selling 32.5 million pre-release copies and making $3.79 billion by the end of its first day.\nEurogamer called GTA 6 an open world of \"awe, minute detail and impossible scale\" in our five-star GTA 6 review.\nIf you're visiting Leonida this weekend, make sure you check out Eurogamer's GTA 6 walkthrough where our guides te",
+    "extra": {
+     "image": "https://assetsio.gnwcdn.com/gta-6-pipework-meeting-mandy.jpg?width=690&quality=85&format=jpg&auto=webp"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "Тайное прошлое Джейсона\n\nВ диалогах во время медитации Люсии всплывает занятная деталь: Джейсон подтверждает, что у него была интрижка с Мэнди. Кажется, ее одержимость парнем теперь обретает полный смысл.\n\n❤️ — Ждем драку Люсии и Мэнди\n👎 — Да пофиг на их разборки",
+    "card_title": "ТАЙНА ПРОШЛОГО ДЖЕЙСОНА",
+    "reason": "Подтвержденная деталь сюжета про Джейсона и Мэнди из игры, найдено в диалоге.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-28T13:20:32.018336+00:00"
+  }
+ ]
 }
