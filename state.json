@@ -5964,7 +5964,26 @@
   "2e761391f36e97a4": "2026-11-28T13:51:09.056290+00:00",
   "b8e28862de21eb1e": "2026-11-28T13:51:10.269848+00:00",
   "e1cae6df1a96fe79": "2026-11-28T13:51:11.386120+00:00",
-  "a61bc7e4897d523d": "2026-11-28T13:51:12.510153+00:00"
+  "a61bc7e4897d523d": "2026-11-28T13:51:12.510153+00:00",
+  "43903e597ad539e8": "2026-11-28T13:54:36.742504+00:00",
+  "2cbd45a98ab43338": "2026-11-28T13:54:42.756922+00:00",
+  "30907e93b2bf71de": "2026-11-28T13:54:52.332071+00:00",
+  "64b2ab9f06b52705": "2026-11-28T13:54:58.347669+00:00",
+  "011daaaa1059dd23": "2026-11-28T13:55:54.981581+00:00",
+  "f20c24b13c5fa7f4": "2026-11-28T13:56:04.855433+00:00",
+  "f0dd02d57b756934": "2026-11-28T13:56:13.817542+00:00",
+  "959eefb99cf8922c": "2026-11-28T13:56:21.395609+00:00",
+  "905e1d600ed1b656": "2026-11-28T13:57:20.057534+00:00",
+  "c36cdf8e78057e07": "2026-11-28T13:57:26.184797+00:00",
+  "1a47752d6f49fb79": "2026-11-28T13:57:31.062812+00:00",
+  "8f7af9aaadac3872": "2026-11-28T13:57:33.467848+00:00",
+  "cb281bd4e55d6ac9": "2026-11-28T14:07:01.979716+00:00",
+  "fb6b07bd1df42ca9": "2026-11-28T14:07:03.786182+00:00",
+  "3be2e11b628c2a69": "2026-11-28T14:07:04.951474+00:00",
+  "7e4811576c52115a": "2026-11-28T14:07:06.049808+00:00",
+  "193d173d59610f0b": "2026-11-28T14:07:07.842620+00:00",
+  "e0a16c9429755a2c": "2026-11-28T14:07:08.944936+00:00",
+  "b2f64e031a6a8599": "2026-11-28T14:07:09.710653+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -10065,7 +10084,14 @@
   "d3b77cd45c43d91f": "2026-11-28T13:51:09.056290+00:00",
   "2aced8e4e00a57ce": "2026-11-28T13:51:10.269848+00:00",
   "b3e099f8c5898920": "2026-11-28T13:51:11.386120+00:00",
-  "956ada3fde73c4b1": "2026-11-28T13:51:12.510153+00:00"
+  "956ada3fde73c4b1": "2026-11-28T13:51:12.510153+00:00",
+  "4570c6f7926b8779": "2026-11-28T14:07:01.979716+00:00",
+  "65d03f563c0764f0": "2026-11-28T14:07:03.786182+00:00",
+  "c7e6c0b0a9ba53e2": "2026-11-28T14:07:04.951474+00:00",
+  "43fdbf5d6c64d1e8": "2026-11-28T14:07:06.049808+00:00",
+  "78b6c81221409787": "2026-11-28T14:07:07.842620+00:00",
+  "c808861bd3f5e077": "2026-11-28T14:07:08.944936+00:00",
+  "9d1977b1ae27248c": "2026-11-28T14:07:09.710653+00:00"
  },
  "recent": [
   {
@@ -17531,6 +17557,46 @@
    "status": "skipped",
    "ts": "2026-11-28T13:51:12.510283+00:00",
    "card_title": ""
+  },
+  {
+   "title": "«Только идиоты могут её ненавидеть»: актёр Майкла из GTA 5 — о Лусии в GTA 6",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T14:07:03.786326+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 cut features: Report says tennis was cut",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T14:07:04.951620+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 UK Physical Sales: £32M in 3 Days, No Disc",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T14:07:07.842761+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "🇺🇸 GTA VI has gone to WILD lengths to help couples manage their issues. 😂 Writer: Mhedi",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T14:07:08.945074+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Roblox Just Gained 12% in a Week. Is GTA VI Really Only “a Modest Headwind”?",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T14:07:09.710776+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -17668,36 +17734,6 @@
   "2026-11-26T18:29:20.883321+00:00"
  ],
  "clips": [
-  {
-   "clip": {
-    "source": "twitch",
-    "url": "https://www.twitch.tv/ohnepixel/clip/GoldenWildPepperoniTwitchRaid-dJPNN-6ZwFtouU7s",
-    "title": "gta 6 fastest hands standoff",
-    "author": "ohnePixel",
-    "views": 545,
-    "duration": 23.2,
-    "created": "2026-11-26T21:32:51+00:00",
-    "lang": "en",
-    "description": "",
-    "vod_id": "2941322278",
-    "vod_offset": 19429.0
-   },
-   "caption": "СПОЙЛЕР. Сюжетка в GTA 6: Лусия держит заложницу на прицеле, а потом спасает её — чистый разнос 💀",
-   "interest": 9,
-   "spoiler": true,
-   "nsfw": false,
-   "watched": true,
-   "model": "gemini:gemini-3.5-flash-lite",
-   "media": {
-    "width": null,
-    "height": 720,
-    "duration": 23
-   },
-   "queued_at": "2026-11-27T13:51:15.680285+00:00",
-   "file_id": "BAACAgIAAxkDAAPMawmK1Hq8H5G9H7dUvTB9JmRQ1nAAAjO1AAJzy0lIsrOO7nnhEHg9BA",
-   "moderation": "pending",
-   "draft_msg_id": 204
-  },
   {
    "clip": {
     "source": "twitch",
@@ -17967,6 +18003,36 @@
    "file_id": "BAACAgIAAxkDAAPhawrO8yzalMEGD7C5ovPj9vLIut4AAouqAALiwFhIRsDqctNaGZc9BA",
    "moderation": "pending",
    "draft_msg_id": 225
+  },
+  {
+   "clip": {
+    "source": "twitch",
+    "url": "https://www.twitch.tv/welovegames/clip/LaconicWrongAlbatrossBrainSlug-gTybEO90RLt-cS_L",
+    "title": "Обезьянка Дениска",
+    "author": "WELOVEGAMES",
+    "views": 520,
+    "duration": 60.0,
+    "created": "2026-11-27T16:51:39+00:00",
+    "lang": "ru",
+    "description": "",
+    "vod_id": "2942196252",
+    "vod_offset": 13751.0
+   },
+   "caption": "Чел случайно залез в клетку и сам себя закрыл — ласт его ошибка 💀",
+   "interest": 8,
+   "spoiler": false,
+   "nsfw": false,
+   "watched": true,
+   "model": "gemini:gemini-3.5-flash-lite",
+   "media": {
+    "width": null,
+    "height": 720,
+    "duration": 60
+   },
+   "queued_at": "2026-11-28T13:57:39.998620+00:00",
+   "file_id": "BAACAgIAAxkDAAPiawrd1TvQaTEISziacClGJLt-YLgAAi-rAALiwFhI9yyVY7GSpJI9BA",
+   "moderation": "pending",
+   "draft_msg_id": 226
   }
  ],
  "clip_drafts": [
@@ -17991,7 +18057,8 @@
   "2026-11-28T09:41:48.084411+00:00",
   "2026-11-28T10:48:19.566961+00:00",
   "2026-11-28T11:51:55.920704+00:00",
-  "2026-11-28T12:54:12.087095+00:00"
+  "2026-11-28T12:54:12.087095+00:00",
+  "2026-11-28T13:57:41.607454+00:00"
  ],
  "clip_history": [
   {
@@ -22481,6 +22548,116 @@
    "ts": "2026-11-28T12:54:12.087113+00:00",
    "frames": [],
    "caption": "Случайно задел тачку на перекрестке, и физика устроила такой цирк с полетом — чистый разнос 💀"
+  },
+  {
+   "author": "youtube:hungry fam",
+   "vod": "",
+   "offset": -1,
+   "title": "He Only Wanted GTA 6… She Took EVERYTHING 😭 // Grab the Present Challenge (Round 6)",
+   "drafted": false,
+   "ts": "2026-11-28T13:54:36.742565+00:00"
+  },
+  {
+   "author": "youtube:facttechz",
+   "vod": "",
+   "offset": -1,
+   "title": "Man...This is is Why GTA 6 Costed $2 Billion or ₹18,000 CRORE To Develop! #shorts",
+   "drafted": false,
+   "ts": "2026-11-28T13:54:42.756976+00:00"
+  },
+  {
+   "author": "youtube:nirami",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 side quests are very distracting #gta",
+   "drafted": false,
+   "ts": "2026-11-28T13:54:52.332115+00:00"
+  },
+  {
+   "author": "youtube:yoshi, ale gry",
+   "vod": "",
+   "offset": -1,
+   "title": "Nigdy nie stawaj CZERWONYCH ŚWIATŁACH w GTA 6!",
+   "drafted": false,
+   "ts": "2026-11-28T13:54:58.347710+00:00"
+  },
+  {
+   "author": "youtube:lukster",
+   "vod": "",
+   "offset": -1,
+   "title": "HOW TO ROB THE BIGGEST JEWELRY IN VC WITHOUT BEING CAUGHT #gta #gta6 #gta6gameplay #fyp #gtavi",
+   "drafted": false,
+   "ts": "2026-11-28T13:55:54.981625+00:00"
+  },
+  {
+   "author": "youtube:the burnt peanut shorts",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA VI's Ending Didn't Hit Peanut Hard Enough...",
+   "drafted": false,
+   "ts": "2026-11-28T13:56:04.855471+00:00"
+  },
+  {
+   "author": "youtube:nahv gta",
+   "vod": "",
+   "offset": -1,
+   "title": "THE BEST WAY TO MAKE MONEY FAST IN GTA 6! #gta6 #gta #gaming #gtavi",
+   "drafted": false,
+   "ts": "2026-11-28T13:56:13.817596+00:00"
+  },
+  {
+   "author": "youtube:clipz4yalls",
+   "vod": "",
+   "offset": -1,
+   "title": "Jynxzi and Stableronaldo Reacts to Nick Eh 30 GTA 6 Massacre 💀",
+   "drafted": false,
+   "ts": "2026-11-28T13:56:21.395652+00:00"
+  },
+  {
+   "author": "twitch:alekslevo",
+   "vod": "2942822249",
+   "offset": 1589.0,
+   "title": "Aleks tried asking his chat how to control the fins of the plane while flying",
+   "drafted": false,
+   "ts": "2026-11-28T13:57:20.057614+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:quin69",
+   "vod": "2942286375",
+   "offset": 20740.0,
+   "title": "🚨GTA6 CHAPTER V🚨60FPS🚨DRIVER GOD🚨TOTALLY CHILL NON-PSYCHO PoV🚨UNLOCKING ALL SECRETS🚨STORY GOD🚨",
+   "drafted": false,
+   "ts": "2026-11-28T13:57:26.184863+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:bonjwa",
+   "vod": "2942418649",
+   "offset": 10127.0,
+   "title": "New Sub Alert",
+   "drafted": false,
+   "ts": "2026-11-28T13:57:31.062860+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:welovegames",
+   "vod": "2942196252",
+   "offset": 13751.0,
+   "title": "Обезьянка Дениска",
+   "drafted": false,
+   "ts": "2026-11-28T13:57:33.467897+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:welovegames",
+   "vod": "2942196252",
+   "offset": 13751.0,
+   "title": "Обезьянка Дениска",
+   "drafted": true,
+   "ts": "2026-11-28T13:57:41.607472+00:00",
+   "frames": [],
+   "caption": "Чел случайно залез в клетку и сам себя закрыл — ласт его ошибка 💀"
   }
  ],
  "published": [
@@ -23010,6 +23187,64 @@
    },
    "corr": false,
    "since": "2026-11-28T13:20:32.018336+00:00"
+  },
+  {
+   "item": {
+    "title": "I rescued a hogtied old man from BDSM hell in GTA 6 and all I got was $3,000",
+    "link": "https://www.gamesradar.com/games/grand-theft-auto/i-rescued-a-hogtied-old-man-from-bdsm-hell-in-gta-6-and-all-i-got-was-usd3-000/",
+    "summary": "And in that moment, Jason wished he was still unconscious",
+    "published": "2026-11-28T14:00:00+00:00",
+    "source": "GamesRadar+",
+    "site_name": "GamesRadar+",
+    "trust": "high",
+    "text": "There are so many environmental encounters in GTA 6, I think I'd need months to see them all. It seems NPCs are having loud, obnoxious conversations everywhere I turn, from tips on places to rob to animal rights activists freeing a polar bear in the middle of the highway. Loitering to hear them out comes with the risk of getting entirely sidetracked while out in free roam, so I constantly need to curb my own curiosity. Especially if I want any hope of finishing GTA 6 before Christmas.\nBut while driving away from the Port Gellhorn motel as Jason one evening, a frantic woman's pleas made me hit the brakes. She's standing beneath a huge billboard at a near deserted intersection, no car in sight, with little more than a bathrobe protecting her modesty. My Jason is a gentleman, so of course I ask her what's wrong. And so began Jason's forays into pensioner BDSM.\nThe woman thanks Jason profusely and tells her of her troubles: she and her husband were playing a game and now he's unresponsive. I agree to help her out, already wary of the fact that she's wearing thigh-high stockings under that bathrobe.\nEntering the bedroom of the couple's stately farmhouse, I see a mostly-naked man dangling from the ceiling. He's not hanging by his neck or anything. He's hogtied in a sex swing. I barely have time to register the person in a scalp-to-toe latex body suit sitting in front of a dog food bowl in the bedroom corner before the woman screeches for me to get her husband down.\nI oblige, naturally, nearly drowning in musty old people sweat as the man's bloated stomach bulges against poor Jason's face. He drops the man to the ground, proclaiming him dead – only for the dead man's wife to demand he help her dispose of the body. They're very important people, you see, and she cannot have the scandal of Death by Dominatrix tarnishing their reputation.\nI sling the fat old man back over my shoulder and head out into the yard, making for the river at the bottom edge of the property. Just as I'm about to toss him, the man sputters to life. Once he's righted himself, he starts blustering bitterly about how his wife tried to murder him. He said the safe word, after all! Jason doesn't get a chance to respond, and I'm already so deep in this elderly sex scandal that I need to know what happens next.\nI follow him back toward the house as he continues to rant about his wife's devious plot, finally confronting her in the kitchen. Why didn't she stop when he gave the safe word, he asks? She",
+    "extra": {
+     "image": "https://cdn.mos.cms.futurecdn.net/dgkevvtEtyLxBeaDuR8MXW-1920-80.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "ВСТРЕЧА С БУМЕРАМИ\n\nДжейсон случайно вляпался в дикий квест с БДСМ-пенсионерами в Порт-Гелхорне, получив за спасение деда всего три косаря. Вот это вайб, катка удалась!\n\n❤️ — Жизненная ситуация\n👎 — Кринж полный",
+    "card_title": "СЕКРЕТНЫЙ КВЕСТ С BDSM",
+    "reason": "Interesting random world encounter in GTA 6 with a funny BDSM storyline, fully confirmed by media playing the released game.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-28T14:07:02.653990+00:00"
+  },
+  {
+   "item": {
+    "title": "Despite Lacking a Disc, GTA 6 Becomes This Region’s Biggest Physical Launch Since 2019",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTXRnVFRkUXFwU0RBTDBUSk1nWElxR3BlUjM0ZTJwSWtLWGhOTjY5WExQZUZqa3VWa1NWX0x0cVJFZWJpam1Xank4alVlMUFXZ19GXy00MDhkcWt6ZWx0NHYxSXNiYko3Mi1MdFU0aUdPeHB3dXU4bUt3Y0xhV0NKaUNTN2pXUTFoZ1JhMkUwX2g5YzFTVXpuZGdGaUxBVjZ0OHl1c1kxZzNXNFJkUS1Wb1p5bkRIOWNw?oc=5",
+    "summary": "Despite Lacking a Disc, GTA 6 Becomes This Region’s Biggest Physical Launch Since 2019 www.levelup.com",
+    "published": "2026-11-28T14:00:00+00:00",
+    "source": "Google News (EN)",
+    "site_name": "www.levelup.com",
+    "trust": "rumor",
+    "text": "Despite Lacking a Disc, GTA 6 Becomes This Region’s Biggest Physical Launch Since 2019 www.levelup.com",
+    "extra": {}
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "РЕКОРДНЫЙ запуск без дисков\n\nGTA 6 порвала все шаблоны и стала крупнейшим физическим релизом региона с 2019 года, хотя самого диска в коробке даже не было. Вот это имба, рофл полный.",
+    "card_title": "РЕКОРДНЫЙ ФИЗИЧЕСКИЙ ЗАПУСК GTA 6",
+    "reason": "Новость о том, что релиз GTA 6 стал крупнейшим физическим запуском в регионе с 2019 года несмотря на отсутствие диска, является подтвержденным фактом и интересна геймерам.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": true,
+   "since": "2026-11-28T14:07:06.722708+00:00"
   }
  ]
 }
