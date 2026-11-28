@@ -5992,7 +5992,20 @@
   "bf980fdb7e88b52a": "2026-11-28T14:39:40.685169+00:00",
   "893ea9f251171d38": "2026-11-28T14:39:41.871139+00:00",
   "95f7e0e3fefecf1b": "2026-11-28T14:39:43.155056+00:00",
-  "2d013bb4e809cb50": "2026-11-28T14:39:44.431618+00:00"
+  "2d013bb4e809cb50": "2026-11-28T14:39:44.431618+00:00",
+  "ac85f41cd30fe96f": "2026-11-28T14:55:00.154659+00:00",
+  "bda7c926bc9126bf": "2026-11-28T14:55:57.227591+00:00",
+  "eef32940a0d85b19": "2026-11-28T14:55:58.099261+00:00",
+  "53952fd980a39dbb": "2026-11-28T14:55:59.177695+00:00",
+  "70859c68e9fb7945": "2026-11-28T14:56:00.249819+00:00",
+  "8cfb2638bda7c100": "2026-11-28T14:56:01.603910+00:00",
+  "d6c0d4ef4739db2f": "2026-11-28T14:56:02.777115+00:00",
+  "dfe8cba7d9cf944e": "2026-11-28T15:11:29.795167+00:00",
+  "5b4c1931ff6a641d": "2026-11-28T15:11:31.287107+00:00",
+  "79f25e46d61c4371": "2026-11-28T15:11:36.119313+00:00",
+  "4a26bda52feedf87": "2026-11-28T15:11:37.239959+00:00",
+  "bb680a6b71628745": "2026-11-28T15:11:38.550388+00:00",
+  "2403c0c2357770c2": "2026-11-28T15:11:39.728306+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -10109,7 +10122,20 @@
   "cde4252016b8fc2c": "2026-11-28T14:39:40.685169+00:00",
   "332fa695c2ab4c32": "2026-11-28T14:39:41.871139+00:00",
   "501646dd0a0dacf9": "2026-11-28T14:39:43.155056+00:00",
-  "299005a6f271b6e1": "2026-11-28T14:39:44.431618+00:00"
+  "299005a6f271b6e1": "2026-11-28T14:39:44.431618+00:00",
+  "ad81a39de06b4167": "2026-11-28T14:55:00.154659+00:00",
+  "7d65f5450f40e508": "2026-11-28T14:55:57.227591+00:00",
+  "00fc81fdfdd4a7c8": "2026-11-28T14:55:58.099261+00:00",
+  "86d9e465b49d4739": "2026-11-28T14:55:59.177695+00:00",
+  "fa4c2c94b7c1c680": "2026-11-28T14:56:00.249819+00:00",
+  "f63a38b4f77215fd": "2026-11-28T14:56:01.603910+00:00",
+  "e04dd0098e73c7fd": "2026-11-28T14:56:02.777115+00:00",
+  "e6d846f0ea3caf77": "2026-11-28T15:11:29.795167+00:00",
+  "1413c1e793a8eafc": "2026-11-28T15:11:31.287107+00:00",
+  "39c5b140ab7d5a37": "2026-11-28T15:11:36.119313+00:00",
+  "1ae76fa83b11909e": "2026-11-28T15:11:37.239959+00:00",
+  "d001849472f778bf": "2026-11-28T15:11:38.550388+00:00",
+  "5680b286e15d8c74": "2026-11-28T15:11:39.728306+00:00"
  },
  "recent": [
   {
@@ -17710,6 +17736,110 @@
    "trust": "rumor",
    "status": "skipped",
    "ts": "2026-11-28T14:39:44.431762+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 took so long partly because devs \"took months\" to animate characters with their hands full",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-28T14:55:55.925428+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Вся суть GTA VI",
+   "source": "StopGame",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-28T14:55:57.227700+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Does Your Boyfriend's GTA 6 Obsession Say Something About You? Here's What the Internet Thinks.",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T14:55:58.099391+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Travis Scott Opens GTA VI Deluxe Soundtrack With \"Burn This Sh*t Down\"",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T14:55:59.177842+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "An unofficial GTA 6 port has been updated to run on Linux via VKD3D-Proton.",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T14:56:00.249980+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Неофициальный порт GTA 6 научился работать на Linux через VKD3D-Proton",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T14:56:01.604045+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "'GTA VI: The Album' Enlists Travis Scott, Slayyyter for Deluxe Edition",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T14:56:02.777250+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to steal keyless cars in GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-28T15:11:29.795194+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to get the Snap Gun in GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T15:11:34.812891+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6: Can You Get Back Into the Prison?",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T15:11:36.119429+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Pays Homage To Stephen King In The Best Way",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T15:11:37.240085+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How a GTA 6 NPC Picking Up Poop Became My Nemesis",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T15:11:38.550500+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Игроки заметили, что карта GTA 6 похожа на Питера Гриффина",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T15:11:39.728425+00:00",
    "card_title": ""
   }
  ],
