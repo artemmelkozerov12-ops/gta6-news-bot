@@ -5854,7 +5854,34 @@
   "369b112646dc7429": "2026-11-28T08:35:25.288962+00:00",
   "ccebb7f023d1ace9": "2026-11-28T08:50:45.316584+00:00",
   "2159198a27f24cfe": "2026-11-28T08:50:46.390261+00:00",
-  "f48dea3076c9c27f": "2026-11-28T09:06:05.964039+00:00"
+  "f48dea3076c9c27f": "2026-11-28T09:06:05.964039+00:00",
+  "2e5ad5a08df3a07f": "2026-11-28T09:21:33.330295+00:00",
+  "30dd45d87ad317ec": "2026-11-28T09:27:28.085104+00:00",
+  "71ceed8e00407a40": "2026-11-28T09:27:28.885166+00:00",
+  "d64a17f09937e306": "2026-11-28T09:27:29.856467+00:00",
+  "152df2404e756da7": "2026-11-28T09:27:30.726069+00:00",
+  "7b147230dd5193c5": "2026-11-28T09:28:21.772869+00:00",
+  "256b7d3465992764": "2026-11-28T09:30:57.043809+00:00",
+  "ae6d70752f74f015": "2026-11-28T09:31:10.038170+00:00",
+  "d8ed7789492f0bf3": "2026-11-28T09:31:19.040602+00:00",
+  "8a7b2bbd62a7dafb": "2026-11-28T09:32:27.915344+00:00",
+  "d4b3934f34b586ce": "2026-11-28T09:32:38.567179+00:00",
+  "79c6eafca4091b3d": "2026-11-28T09:32:50.035298+00:00",
+  "286a9323d7b1f7cb": "2026-11-28T09:32:57.425051+00:00",
+  "b29426e74c8b9adb": "2026-11-28T09:33:56.297500+00:00",
+  "95ce6bac51334bfe": "2026-11-28T09:34:15.113623+00:00",
+  "a6d8306cf80ba5e1": "2026-11-28T09:35:18.051053+00:00",
+  "295253536ed86e8f": "2026-11-28T09:35:24.010129+00:00",
+  "cc573342ed02491c": "2026-11-28T09:36:51.502981+00:00",
+  "660db8d610ba1e07": "2026-11-28T09:36:55.042563+00:00",
+  "798c238316711160": "2026-11-28T09:38:37.885036+00:00",
+  "fb7d8679fbc67ac9": "2026-11-28T09:38:46.437619+00:00",
+  "9effe465f39d968f": "2026-11-28T09:38:51.796894+00:00",
+  "9b0d21625fb770f4": "2026-11-28T09:40:04.207594+00:00",
+  "3f08e901803e7218": "2026-11-28T09:40:26.041463+00:00",
+  "f9d62208a8564766": "2026-11-28T09:40:31.239672+00:00",
+  "c83562b61c4b5f88": "2026-11-28T09:40:44.785853+00:00",
+  "e12b448fb0a43a62": "2026-11-28T09:41:40.091525+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -9895,7 +9922,9 @@
   "3376f29b76e51443": "2026-11-28T08:35:25.288962+00:00",
   "bd2ba268dfb6e623": "2026-11-28T08:50:45.316584+00:00",
   "70d1b771cf75e022": "2026-11-28T08:50:46.390261+00:00",
-  "4a4b5f4ee87e75a5": "2026-11-28T09:06:05.964039+00:00"
+  "4a4b5f4ee87e75a5": "2026-11-28T09:06:05.964039+00:00",
+  "ee44d064697331c8": "2026-11-28T09:21:33.330295+00:00",
+  "624b319ed38ed4ca": "2026-11-28T09:36:51.502981+00:00"
  },
  "recent": [
   {
@@ -17721,6 +17750,22 @@
    "status": "skipped",
    "ts": "2026-11-28T09:06:05.964163+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GTA 6 Vehicle List: Cars With Sale Value and Registration Cost",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T09:21:33.330404+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "В сеть слили Xbox GDK — это может ускорить создание ПК-порта GTA 6",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T09:36:51.503095+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -18015,36 +18060,6 @@
   {
    "clip": {
     "source": "twitch",
-    "url": "https://www.twitch.tv/rubius/clip/CourageousRealClipsmomCoolStoryBob-g464sM3pq46lUQ-P",
-    "title": "sospechoso",
-    "author": "Rubius",
-    "views": 417,
-    "duration": 30.0,
-    "created": "2026-11-27T02:04:30+00:00",
-    "lang": "es",
-    "description": "",
-    "vod_id": "2941531941",
-    "vod_offset": 27176.0
-   },
-   "caption": "Чел решил, что он в фильме «Форсаж», но физика GTA 6 сказала «нет» — вылет из лобового стекла это просто лютый разнос 💀",
-   "interest": 8,
-   "spoiler": false,
-   "nsfw": false,
-   "watched": true,
-   "model": "gemini:gemini-3.1-flash-lite",
-   "media": {
-    "width": null,
-    "height": 720,
-    "duration": 30
-   },
-   "queued_at": "2026-11-27T09:26:48.836899+00:00",
-   "file_id": "BAACAgIAAxkDAAPGawlM2mg-Km01px7bIglQjc3QXGsAAhmxAAJzy0lIW3p45ypYSCU9BA",
-   "moderation": "pending",
-   "draft_msg_id": 198
-  },
-  {
-   "clip": {
-    "source": "twitch",
     "url": "https://www.twitch.tv/blexinfinity/clip/WimpyResoluteGalagoNotATK-heINgDRDo_gTjfMt",
     "title": "Будни в Гта",
     "author": "BlexInfinity",
@@ -18311,6 +18326,36 @@
    "file_id": "BAACAgIAAxkDAAPcawqOQ73Oq85O8_hMSGR88JJph4IAAqGnAALiwFhIgalH2-ZFIpA9BA",
    "moderation": "pending",
    "draft_msg_id": 220
+  },
+  {
+   "clip": {
+    "source": "twitch",
+    "url": "https://www.twitch.tv/voodoosh/clip/AbstruseAggressiveTofuTBTacoRight-5wuIPuxm6tOUqzNp",
+    "title": "Козлик для малой",
+    "author": "VooDooSh",
+    "views": 449,
+    "duration": 34.4,
+    "created": "2026-11-27T18:06:27+00:00",
+    "lang": "ru",
+    "description": "",
+    "vod_id": "2942302455",
+    "vod_offset": 8298.0
+   },
+   "caption": "Поездка на байке закончилась эпичным вылетом через руль — физика в GTA 6 просто разнос 💀",
+   "interest": 8,
+   "spoiler": false,
+   "nsfw": false,
+   "watched": true,
+   "model": "gemini:gemini-3.5-flash-lite",
+   "media": {
+    "width": null,
+    "height": 720,
+    "duration": 34
+   },
+   "queued_at": "2026-11-28T09:41:46.361611+00:00",
+   "file_id": "BAACAgIAAxkDAAPdawqh2zImJqEXWYx-R_hS6o_l2dIAAoWoAALiwFhISEjFdeis02g9BA",
+   "moderation": "pending",
+   "draft_msg_id": 221
   }
  ],
  "clip_drafts": [
@@ -18335,7 +18380,8 @@
   "2026-11-27T20:53:04.519306+00:00",
   "2026-11-27T21:56:27.671209+00:00",
   "2026-11-28T07:14:19.192954+00:00",
-  "2026-11-28T08:18:12.051727+00:00"
+  "2026-11-28T08:18:12.051727+00:00",
+  "2026-11-28T09:41:48.084411+00:00"
  ],
  "clip_history": [
   {
@@ -22731,6 +22777,237 @@
    "ts": "2026-11-28T08:18:12.051744+00:00",
    "frames": [],
    "caption": "Чел решил погладить белого медведя прямо на улице — ласт его ошибка 💀"
+  },
+  {
+   "author": "youtube:ben esherick",
+   "vod": "",
+   "offset": -1,
+   "title": "Nick Eh 30’s WILD GTA 6￼ DISCOVERY",
+   "drafted": false,
+   "ts": "2026-11-28T09:27:28.085140+00:00"
+  },
+  {
+   "author": "youtube:nathan pereira ",
+   "vod": "",
+   "offset": -1,
+   "title": "BABI QUEBROU MEU PS5 POR CAUSA DO GTA 6 #nathanpereira #gta6",
+   "drafted": false,
+   "ts": "2026-11-28T09:27:28.885199+00:00"
+  },
+  {
+   "author": "youtube:gamerfleet",
+   "vod": "",
+   "offset": -1,
+   "title": "PLAYING GTA 6 UNTIL I BEAT IT 😎 | GTA 6 MARATHON",
+   "drafted": false,
+   "ts": "2026-11-28T09:27:29.856522+00:00"
+  },
+  {
+   "author": "youtube:pokeccc",
+   "vod": "",
+   "offset": -1,
+   "title": "Vyměnil Jsem GTA 6 za Vlastní!",
+   "drafted": false,
+   "ts": "2026-11-28T09:27:30.726101+00:00"
+  },
+  {
+   "author": "twitch:ohnepixel",
+   "vod": "2941322278",
+   "offset": 15380.0,
+   "title": "almost almost",
+   "drafted": false,
+   "ts": "2026-11-28T09:28:21.772915+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:bratishkinoff",
+   "vod": "2942254430",
+   "offset": 9772.0,
+   "title": "ВОВА ПРОЕХАЛ МИМО КОШКИ",
+   "drafted": false,
+   "ts": "2026-11-28T09:30:57.043856+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:cohhcarnage",
+   "vod": "2942196441",
+   "offset": 3016.0,
+   "title": "GTA NPCs",
+   "drafted": false,
+   "ts": "2026-11-28T09:31:10.038216+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:stormfall33",
+   "vod": "2942526200",
+   "offset": 16911.0,
+   "title": "but first",
+   "drafted": false,
+   "ts": "2026-11-28T09:31:19.040647+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:samwitch",
+   "vod": "",
+   "offset": -1,
+   "title": "found Lucia",
+   "drafted": false,
+   "ts": "2026-11-28T09:32:27.915390+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:frametamer666",
+   "vod": "2940859463",
+   "offset": 135410.0,
+   "title": "танец",
+   "drafted": false,
+   "ts": "2026-11-28T09:32:38.567225+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:loserfruit",
+   "vod": "2942092383",
+   "offset": 1827.0,
+   "title": "the least horny bookclub",
+   "drafted": false,
+   "ts": "2026-11-28T09:32:50.035344+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:alanzoka",
+   "vod": "2942407120",
+   "offset": 13740.0,
+   "title": "Se fica esperto",
+   "drafted": false,
+   "ts": "2026-11-28T09:32:57.425099+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:berticuss",
+   "vod": "2942871087",
+   "offset": 8691.0,
+   "title": "h",
+   "drafted": false,
+   "ts": "2026-11-28T09:33:56.297545+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:fanum",
+   "vod": "2942920365",
+   "offset": 2361.0,
+   "title": "W gta",
+   "drafted": false,
+   "ts": "2026-11-28T09:34:15.113670+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:tusoved",
+   "vod": "2942173875",
+   "offset": 3956.0,
+   "title": "xz",
+   "drafted": false,
+   "ts": "2026-11-28T09:35:18.051099+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:morgpie",
+   "vod": "2942582251",
+   "offset": 1324.0,
+   "title": "Bouncing it crazy style",
+   "drafted": false,
+   "ts": "2026-11-28T09:35:24.010176+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:bratishkinoff",
+   "vod": "2942254430",
+   "offset": 12106.0,
+   "title": "люси без трусов",
+   "drafted": false,
+   "ts": "2026-11-28T09:36:55.042598+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:domingo",
+   "vod": "2942165235",
+   "offset": 1454.0,
+   "title": "streamer",
+   "drafted": false,
+   "ts": "2026-11-28T09:38:37.885081+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:egorkreed",
+   "vod": "2942367858",
+   "offset": 8096.0,
+   "title": "Упал xD",
+   "drafted": false,
+   "ts": "2026-11-28T09:38:46.437665+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:nickeh30",
+   "vod": "2942366082",
+   "offset": 857.0,
+   "title": "what did he sayyy?????",
+   "drafted": false,
+   "ts": "2026-11-28T09:38:51.796941+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:5opka",
+   "vod": "2942527200",
+   "offset": 4853.0,
+   "title": "Лусия клок",
+   "drafted": false,
+   "ts": "2026-11-28T09:40:04.207640+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:jotta",
+   "vod": "2941974241",
+   "offset": 50436.0,
+   "title": "aaaaaaaaaaaa",
+   "drafted": false,
+   "ts": "2026-11-28T09:40:26.041510+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:montanablack88",
+   "vod": "2942071933",
+   "offset": 6214.0,
+   "title": "Polizist ist in Loop gefangen",
+   "drafted": false,
+   "ts": "2026-11-28T09:40:31.239718+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:darkviperau",
+   "vod": "2942698687",
+   "offset": 7948.0,
+   "title": "CyberleekViperAU",
+   "drafted": false,
+   "ts": "2026-11-28T09:40:44.785902+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:voodoosh",
+   "vod": "2942302455",
+   "offset": 8298.0,
+   "title": "Козлик для малой",
+   "drafted": false,
+   "ts": "2026-11-28T09:41:40.091573+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:voodoosh",
+   "vod": "2942302455",
+   "offset": 8298.0,
+   "title": "Козлик для малой",
+   "drafted": true,
+   "ts": "2026-11-28T09:41:48.084454+00:00",
+   "frames": [],
+   "caption": "Поездка на байке закончилась эпичным вылетом через руль — физика в GTA 6 просто разнос 💀"
   }
  ],
  "published": [
