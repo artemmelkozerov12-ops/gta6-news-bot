@@ -5808,7 +5808,9 @@
   "e00e95583718dd49": "2026-11-28T06:00:06.448660+00:00",
   "b76e95a2fac180e3": "2026-11-28T06:00:13.407971+00:00",
   "ffd4eb07af2eba09": "2026-11-28T06:15:36.366032+00:00",
-  "eb473d8b3040db3d": "2026-11-28T06:15:37.387392+00:00"
+  "eb473d8b3040db3d": "2026-11-28T06:15:37.387392+00:00",
+  "f669deb36edd7670": "2026-11-28T06:30:57.409868+00:00",
+  "41eef861d95fe5e6": "2026-11-28T06:46:20.430158+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -9827,7 +9829,9 @@
   "d1db679a0694acd5": "2026-11-28T06:00:06.448660+00:00",
   "e5d9d17e0cae9682": "2026-11-28T06:00:13.407971+00:00",
   "5b4e8f8783aefa2c": "2026-11-28T06:15:36.366032+00:00",
-  "3bd09b6797ac1b17": "2026-11-28T06:15:37.387392+00:00"
+  "3bd09b6797ac1b17": "2026-11-28T06:15:37.387392+00:00",
+  "c4d37dc86d183943": "2026-11-28T06:30:57.409868+00:00",
+  "d39885ea9c4cdec8": "2026-11-28T06:46:20.430158+00:00"
  },
  "recent": [
   {
@@ -17477,40 +17481,25 @@
    "status": "skipped",
    "ts": "2026-11-28T06:15:37.387544+00:00",
    "card_title": ""
+  },
+  {
+   "title": "Секрет управления автомобилями в GTA VI раскрыт. Rockstar привлекла профессионала",
+   "source": "iXBT.games",
+   "trust": "medium",
+   "status": "queued",
+   "ts": "2026-11-28T06:31:01.961047+00:00",
+   "card_title": "СЕКРЕТ ФИЗИКИ МАШИН В GTA 6"
+  },
+  {
+   "title": "Digital Foundry сравнили геймплей GTA 6 с трейлерами игры на предмет даунгрейда графики",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T06:46:20.430280+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
-  {
-   "item": {
-    "title": "GTA 6 sales estimates place it as the 13th best-selling game ever",
-    "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-sales-estimates-place-it-above-cyberpunk-2077-the-sims-and-the-first-pokemon-games-as-the-13th-best-selling-game-ever/",
-    "summary": "53 million puts it above any Call of Duty game",
-    "published": "2026-11-27T17:17:46+00:00",
-    "source": "GamesRadar+",
-    "site_name": "GamesRadar+",
-    "trust": "high",
-    "text": "Analyst estimates have put GTA 6 at 53 million copies sold, which, if accurate, places it as the 13th best-selling game of all time after just a week.\nIn the least surprising bit of news of 2026, GTA 6 is selling pretty well. It was probably the most anticipated game ever and is the highest-rated game of all time on Metacritic, so naturally the sales have followed. The first official number from Rockstar Games placed it at 32.5 million copies sold before it was even released, which had made it the 30th best-selling game ever above the likes of Super Mario Odyssey, Monster Hunter World, and Elden Ring. But that was just pre-release, so it's no shock to say that its fortunes haven't ended there.\nAlinea Analytics' head of market analysis, Rhys Elliott, posts the latest estimate over on Twitter, which places Rockstar's latest at 53 million copies sold, making $4.7 billion in its first week.\nIf this number is accurate, GTA 6 is the 13th best-selling game ever, with it unseating Animal Crossing: New Horizons, and overtaking the likes of Cyberpunk 2077, The Sims, and the Pokemon Generation 1 games (which have a combined sales figure of 47.44 million across Red, Blue and Yellow).\nElliott's data also estimates that just under a quarter of GTA 6 sales were on Xbox, with the Series X|S version accounting for 13 million vs PS5's 40 million. And it's not like it's just selling well either, as he reckons that seven million players have already played over 50 hours, with 250k of those having already played 100 hours. For reference, the game had been out in New Zealand around 219 hours at the time the tweet was posted.\nObviously, this is massively impressive no matter how you look at it. But it's worth keeping in mind that the PC release hasn't even dropped yet, so this has the potential to skyrocket once more when PC players – and console players who are going to double dip – get their hands on it.\nPlaying Rockstar's new game? Be sure to read through our GTA 6 review and look through our GTA 6 guide for some more knowledge on the 2026 behemoth.\nWeekly digests, tales from the communities you love, and more\n4. Best pro Xbox: Nacon Revolution X Unlimited\nScott has been freelancing for over four years across a number of different gaming publications, first appearing on GamesRadar+ in 2024. He has also written for the likes of PC Gamer, Eurogamer, VG247, Play, TechRadar, and others. He's typically rambling about Metal Gear Solid, God Hand, or any other PS2-era titles that rar",
-    "extra": {
-     "image": "https://cdn.mos.cms.futurecdn.net/NnRLcujy7xjWDUq5xRqoCG-1920-80.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "🚀 GTA 6 продал 53 млн копий за неделю — 13‑й в топе\n\nЭти цифры — просто лютый разнос: 53 млн проданных дисков и $4,7 млрд за первую неделю. Игроки уже тащат по 50+ часов, а ПК‑версия ещё не вышла — готовьте к очередному скачку!",
-    "card_title": "53 МИЛЛИОНА КОПИЙ ЗА НЕДЕЛЮ",
-    "reason": "Analyst sales estimates for GTA 6 reaching 53 million copies are confirmed via major outlet GamesRadar+.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "Продажи GTA 6 за первую неделю оценили в $4,7 млрд",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-27T18:39:43.726401+00:00",
-   "moderation": "pending",
-   "draft_msg_id": 209
-  },
   {
    "item": {
     "title": "'GTA 6' Fans Are Pulling Off Perfect Robberies With Only A Six Pack of Beer",
@@ -17539,128 +17528,6 @@
     "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
    },
    "queued_at": "2026-11-27T21:47:16.875158+00:00"
-  },
-  {
-   "item": {
-    "title": "Ex-Rockstar dev says GTA 6 looks \"almost flawless\" but loses to Red Dead Redemption 2 in a few areas",
-    "link": "https://www.gamesradar.com/games/grand-theft-auto/former-rockstar-artist-says-gta-6-looks-almost-flawless-but-loses-to-red-dead-redemption-2-in-a-few-areas/",
-    "summary": "The natural world is just that much livelier",
-    "published": "2026-11-27T16:46:01+00:00",
-    "source": "GamesRadar+",
-    "site_name": "GamesRadar+",
-    "trust": "high",
-    "text": "You'd be hard-pressed to argue against the visual element of GTA 6. Leonida is a stunningly realized modern American state in Rockstar's crime playground, but an artist who contributed to both this and Red Dead Redemption 2 believes the Western has the edge in some respects.\nDavid O'Reilly, an environment artist who worked for Rockstar until 2023, recorded himself jumping into GTA 6. Naturally, he went straight for areas that he contributed to, specifically Mount Kalaga, a beautiful national park nestled in the urban sprawl. While wandering around, he noted that while GTA 6 is \"almost flawless,\" Red Dead Redemption 2 tended to have finer details when it came to forestry and wilderness.\n\"I'm seeing a slight paring back in the natural world in GTA 6 from Red Dead Redemption 2, but obviously a much greater emphasis and much more kind of detail in the urban environments,\" he says.\n\"GTA 6 is more a systems-driven modern urban world with countryside, natural landscapes, whereas Red Dead Redemption 2 was almost purely natural landscapes,\" he notes. They are very distinct experiences in this way. Taking place over 100 years ago, Arthur Morgan's adventure features only a few towns and cities compared to the high-rises and concrete jungles of modern day America.\nThis means a lot of the map is open fields and marshland, pushing the devs to get into the minutiae of those ecosystems. In GTA 6, the opposite is needed, since most of your time is spent on roads and in buildings.\nRivers are a specialty of O'Reilly's, and he notes that Red Dead 2's streams are \"on balance\" a little better. \"Rivers were a bigger emphasis on Red Dead Redemption 2. They were a big part of the world, and in this game they're a lesser part of the world,\" O'Reilly says, mentioning that ultimately, GTA 6's are \"a little bit slow\" compared to what you see in the second Red Dead Redemption.\nThese are but minor critiques amid a technical marvel, and I wouldn't be surprised if Rockstar eventually improves the rivers in Grand Theft Auto 6. But for now, this is a win for Arthur.\nWeekly digests, tales from the communities you love, and more\nRead our GTA 6 review to see our thoughts on the game, or our GTA 6 guides for some handy tips.\nAnthony is an Irish entertainment and games journalist, now based in Glasgow. He previously served as Senior Anime Writer at Dexerto and News Editor at The Digital Fix, on top of providing work for Variety, IGN, Den of Geek, PC Gamer, and many more. Besides Studio Ghibli, h",
-    "extra": {
-     "image": "https://cdn.mos.cms.futurecdn.net/q8PPr4fKcHqMKZAYVAEbX7-1920-80.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "🎮 Ex‑dev: GTA 6 почти безупречен, но RDR2 всё равно круче\n\nБывший художник Rockstar отметил, что город в GTA 6 выглядит сочно, а природа чуть‑чуть отстаёт от Red Dead 2. Фанаты уже в шоке, но это лишь мелкие детали, так что игра всё равно топчик 🤘",
-    "card_title": "ЭКС‑ДЕВ ОЦЕНИЛ GTA 6",
-    "reason": "Бывший разработчик Rockstar сравнил графику GTA 6 и RDR 2, что очень интересно фанатам.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-27T18:39:31.856649+00:00"
-  },
-  {
-   "item": {
-    "title": "Forza Horizon 6 Still Beats GTA 6 in One Key Way",
-    "link": "https://www.polygon.com/gta-6-racing-vs-forza-horizon-6/",
-    "summary": "Rockstar's Grand Theft Auto 6 makes a stab at being a proper racing game, but the competition from Playground's series can't be beat",
-    "published": "2026-11-27T18:00:18+00:00",
-    "source": "Polygon",
-    "site_name": "Polygon",
-    "trust": "high",
-    "text": "Rockstar Games is justifiably proud of everything it put into Grand Theft Auto 6, and one technical detail the studio has taken the time to highlight is the game's vehicle physics simulation. According to Ben Lyons, Rockstar's technical director for physics, some of the team started building and racing cars after finishing Grand Theft Auto 5, even winning in their class at the Nürbrugring 24 hours.\n\"This taught us a huge amount about how to modify, design, and set up real cars to go fast and what happens to them when things go wrong, like bursting tires and crashing,\" Lyons told Polygon in a statement. (As if to underline the point, Lyons' LinkedIn profile pic shows him proudly holding up a blown racecar tire in a pit garage.) \"We also took the same approach with rally-racing dirt bikes — it’s important to us to understand the difference between racing on two and four wheels and on- versus off-road so we can give our players as convincing authentic experience as we can,\" he said. \"For this game, we completely rewrote the vehicle simulation for every vehicle type so we could add more detail and realism, as well as authenticity and believability, to the game.\"\nKnowing how detail-obsessed Rockstar's developers are, and how seemingly limitless their resources were, I wondered if GTA 6's handling physics would be able to hold their own against the best the racing game genre has to offer​​​​​​​. My interest was doubly piqued when Polygon's reviewer Giovanni Colantonio told me there was a ton of racing in the game, both in the form of organized events on racing circuits and impromptu street races. Could GTA 6 secretly be a great racing game, along with everything else?\nThe answer is: no, not really. The cars are great to drive, and the races can be fun, but the design and technology of GTA 6 are fundamentally not set up for racing, and it shows.\nAs a benchmark to measure GTA 6 against, I chose Forza Horizon 6. It wouldn't be right to compare Rockstar's everything-game to the most realistic circuit-racing sims, but an open-world racing game that has entertaining, accessible, and credible driving physics, with a degree of depth, seemed like fair game.\nGTA 6's racing options are hardly minor. Street-racing leagues unlock in chapter 3, but you can roll up to any circuit and start racing, or log some time trial laps, from the very beginning. A racing career is even a viable way to make money in the game. If you have enough cash for the entry fee and to rent a competit",
-    "extra": {
-     "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/ultimate_edition_wyman_car_collection_04.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 6,
-    "post": "🚗 GTA 6 vs Forza: физика не дотянула\n\nГТА 6 крутая, но в гонках Forza всё равно держит планку. Физика машин в новой GTA проработана до мелочей, но всё равно не хватает той точности, что в Forza Horizon 6 🏎. Если хотите реальный драйв, лучше зайти в Forza, а в GTA гонки — просто фановый вайб.",
-    "card_title": "ГТА 6 VS ФОРЗА ХОРИЗОНТ",
-    "reason": "Разбор физики машин в GTA 6 и сравнение с гонками от Polygon",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-27T18:41:17.203774+00:00",
-   "moderation": "pending",
-   "draft_msg_id": 214
-  },
-  {
-   "item": {
-    "title": "GTA VI Hits 53 Million Copies Sold in Just 1 Week, Generating $4.7 Billion",
-    "link": "https://rockstarintel.com/gta-vi-hits-53-million-copies-sold-in-just-1-week-generating-4-7-billion/",
-    "summary": "GTA VI has been out for a week and new sales estimates are in following that record breaking launch several days ago. According to new research by Alinea Analytics, GTA VI has sold through 53 million copies. That’s up about 10 million in 4 days. If true, it is now the 3rd best selling video [...] The post GTA VI Hits 53 Million Copies Sold in Just 1 Week, Generating $4.7 Billion appeared first on RockstarINTEL .",
-    "published": "2026-11-27T16:16:27+00:00",
-    "source": "Rockstar Intel",
-    "site_name": "Rockstar Intel",
-    "trust": "medium",
-    "text": "GTA VI has been out for a week and new sales estimates are in following that record breaking launch several days ago.\nAccording to new research by Alinea Analytics, GTA VI has sold through 53 million copies. That’s up about 10 million in 4 days. If true, it is now the 3rd best selling video game of all time overtaking Animal Crossing: New Horizons and closing in on The Elder Scrolls V: Skyrim and The Witcher 3: Wild Hunt. In terms of revenue, it has earned around $4.7 billion for Rockstar and Take-Two Interactive.\nAnother data point is that almost 7 million gamers have played the game for more than 50 hours. Also, roughly a quarter of a million people have not put in over 100 hours. That’s quite a staggering amount of hours played when you combine the numbers. However, they will be the more hardcore of GTA fans. It remains to be seen if GTA VI will suffer from the same very poor player retention rates that GTA Online has.\nAlinea’s report also claims the platform split in favour of PS5 over XBOX Series X|S is starting to grow a little more. The split was at 75/26 for some time but it is now down to 24.3% with casual gamers picking up a PS5. XBOX is still doing just fine though as that’s about 13 million copies on the platform. Considering how many XBOX Series X|S consoles have been sold, around a third of all XBOX owners got the game. This is a a really big attachment rate for one game.\nIn other Grand Theft Auto VI stats, YouTube have revealed just how big the game is on the the platform as it pushes the series to 1 trillion views.\nYou can order your PS5 or XBOX copy of GTA VI with this link. Using the link to order the game will help support this website as we’ll earn a small commission. Thank you!",
-    "extra": {
-     "image": "https://substackcdn.com/image/fetch/$s_!JHwA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdf7b8b13-4afc-43b7-8eab-21dcf3b9556c_1938x1080.png"
-    }
-   },
-   "verdict": {
-    "type": "rumor",
-    "importance": 8,
-    "post": "🔥 Слух, не подтверждено (Rockstar Intel)\nGTA VI продала 53 млн копий за неделю\n\nЕсли цифры правдоподобны, то игра уже в топ‑3 всех продаж, а доход — $4,7 млрд 💰. Фанаты уже проштрафили 50+ часов 🎮. Как вам такие цифры? 🤔",
-    "card_title": "53 МИЛЛИОНА КОПИЙ",
-    "reason": "Официальные данные о продажах GTA 6 и выручке в 4.7 млрд долларов за первую неделю",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "GTA VI Hits 53 Million Copies Sold in Just 1 Week, Generating 4.7 Billion — Google News (EN)",
-    "corroborated_by": "GTA VI Hits 53 Million Copies Sold in Just 1 Week, Generating 4.7 Billion — Google News (EN)",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-27T18:39:29.386692+00:00",
-   "moderation": "pending",
-   "draft_msg_id": 210
-  },
-  {
-   "item": {
-    "title": "Game Developers Say GTA VI Looks Like Something From the Future",
-    "link": "https://rockstarintel.com/game-developers-say-gta-vi-looks-like-something-from-the-future/",
-    "summary": "GTA VI continues to impress people across the gaming industry, including developers who have spent decades creating video games themselves. As reported by IGN, several industry professionals have shared their reactions to Rockstar’s latest release, with one Naughty Dog developer coming up with a rather unusual comparison. Michael Barclay, World Design Director at Naughty Dog, [...] The post Game Developers Say GTA VI Looks Like Something From the Future appeared first on RockstarINTEL .",
-    "published": "2026-11-27T17:41:20+00:00",
-    "source": "Rockstar Intel",
-    "site_name": "Rockstar Intel",
-    "trust": "medium",
-    "text": "GTA VI continues to impress people across the gaming industry, including developers who have spent decades creating video games themselves. As reported by IGN, several industry professionals have shared their reactions to Rockstar’s latest release, with one Naughty Dog developer coming up with a rather unusual comparison.\nMichael Barclay, World Design Director at Naughty Dog, described his experience with GTA VI in a short post on social media. “I’ve made video games for 19 years and GTA VI appears to me as a Bugatti Veyron would to a nervous Victorian child,” he wrote.\nHowever, Barclay wasn’t the only developer struggling to find the right words. David Goldfarb, game director of Payday 2, also shared his thoughts. After more than 30 years in the industry, he said he couldn’t even find the words to describe what he was playing. He later added that he had “never been this floored by anything ever.”\nCharacter artist Del Walker, whose previous work includes The Last of Us Part II, Suicide Squad: Kill the Justice League and Star Wars Jedi: Survivor, had a similarly funny reaction. He explained that whenever GTA VI clips appear in his group chat, people ask him how Rockstar managed to create something like that. His post was simple: “Brother, I wasn’t there when they opened the portal? This is not magic I recognize.”\nIt’s not every day that developers with so much experience openly admit that they’re struggling to understand how another studio achieved something. Rockstar’s latest release is clearly making an impression even on the people who know exactly what goes into making video games.\nIn other Grand Theft Auto VI news, GTA VI has reportedly sold 53 million copies in one week, generating $4.7 billion plus the GTA series is also nearing 1 trillion YouTube views.\nYou can order your PS5 or XBOX copy of GTA VI with this link. Using the link to order the game will help support this website as we’ll earn a small commission. Thank you!\nFor more news on GTA VI, stay tuned to RockstarINTEL and sign up to our newsletter for a weekly round-up of all things Rockstar Games delivered straight to your inbox.",
-    "extra": {
-     "image": "https://rockstarintel.com/wp-content/uploads/2026/11/IMG_7049.JPG-1024x576.jpeg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "🚀 Разработчики в шоке от GTA VI\n\nНи один ветеран из Naughty Dog и Payday 2 не смог сдержать восторг — GTA VI для них как Bugatti Veyron для нервного викторианца. И 53 млн копий за неделю? Это имба, лютый топчик.",
-    "card_title": "РАЗРАБОТЧИКИ В ШОКЕ",
-    "reason": "Разработчики из Naughty Dog и других студий в шоке от технологий GTA 6",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-27T18:40:15.849983+00:00",
-   "moderation": "pending",
-   "draft_msg_id": 212
   },
   {
    "item": {
@@ -17722,35 +17589,6 @@
   },
   {
    "item": {
-    "title": "GTA VI Is Already Bringing More Tourists to Miami",
-    "link": "https://rockstarintel.com/gta-vi-is-already-bringing-more-tourists-to-miami/",
-    "summary": "Grand Theft Auto VI is having an impact beyond the gaming world. The game’s release has also brought more attention to the real-life city that inspired Vice City, with new data showing a major increase in travel interest. According to Secret Miami, international searches for flights and vacation packages to Miami have surged in recent [...] The post GTA VI Is Already Bringing More Tourists to Miami appeared first on RockstarINTEL .",
-    "published": "2026-11-27T17:36:53+00:00",
-    "source": "Rockstar Intel",
-    "site_name": "Rockstar Intel",
-    "trust": "medium",
-    "text": "Grand Theft Auto VI is having an impact beyond the gaming world. The game’s release has also brought more attention to the real-life city that inspired Vice City, with new data showing a major increase in travel interest.\nAccording to Secret Miami, international searches for flights and vacation packages to Miami have surged in recent months. The data comes from eSky Group, a Poland-based travel agency.\nPoland saw a 215% increase in flight searches to Miami between September 21 and November 15 compared to the same period last year. Searches across eSky’s Latin American websites also increased by approximately 200%.\nGTA VI Is Making People Want to Visit Vice City\nThe numbers are even higher in some Eastern European countries. Searches for Miami flight and hotel packages increased by 545% in Romania and 500% in Bulgaria.\nActual bookings have also seen an increase. According to eSky, Miami vacation package bookings are up 56% over the past year. Travelers spent an average of $1,350 per person on trips lasting around eight nights.\nWhile the timing suggests that GTA VI may be playing a role in this growing interest, the data alone doesn’t prove that the game is responsible for the entire increase.\nStill, it’s interesting to see how Rockstar’s fictional version of Miami is attracting attention to the real city. After spending hours exploring Vice City, some players may now want to experience its real-life inspiration for themselves.In other Grand Theft Auto VI news, GTA VI has reportedly sold 53 million copies in one week, generating $4.7 billion plus the GTA series is also nearing 1 trillion YouTube views.\nYou can order your PS5 or XBOX copy of GTA VI with this link. Using the link to order the game will help support this website as we’ll earn a small commission. Thank you!\nFor more news on GTA VI, stay tuned to RockstarINTEL and sign up to our newsletter for a weekly round-up of all things Rockstar Games delivered straight to your inbox.",
-    "extra": {
-     "image": "https://rockstarintel.com/wp-content/uploads/2026/10/score-background-desktop.00160ew9j.7ha-1024x427.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "🚀 GTA VI подгоняет туристов в Майами\n\nИгроки, после всех каток в Вайс‑Сити, реально захотели полететь в реальный Майами — запросы билетов взлетели на 200%+ в Европе. Считаем, что наш виртуальный вояж уже стал топовым тур‑бустом. 😎",
-    "card_title": "ТУРИСТЫ В МАЙАМИ С ГТА VI",
-    "reason": "Реальный туристический бум в Майами из-за релиза GTA 6",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-27T18:40:45.728965+00:00"
-  },
-  {
-   "item": {
     "title": "Rockstar Explains Why GTA VI Left Some Classic Features Behind",
     "link": "https://rockstarintel.com/rockstar-explains-why-gta-vi-left-some-classic-features-behind/",
     "summary": "SPOILER ALERT: This article discusses a major early-game twist and the events of GTA VI’s Chapter 1 finale. If you haven’t completed the first chapter yet, we recommend coming back to this article later! Rockstar Games has made several changes to the Grand Theft Auto formula in GTA VI. While some players have been asking [...] The post Rockstar Explains Why GTA VI Left Some Classic Features Behind appeared first on RockstarINTEL .",
@@ -17806,6 +17644,35 @@
     "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-3.5-flash"
    },
    "queued_at": "2026-11-28T00:12:10.881375+00:00"
+  },
+  {
+   "item": {
+    "title": "Секрет управления автомобилями в GTA VI раскрыт. Rockstar привлекла профессионала",
+    "link": "https://ixbt.games/news/2026/11/28/sekret-upravleniia-avtomobiliami-v-gta-vi-raskryt-rockstar-privlekla-professionala.html",
+    "summary": "В GTA VI обнаружили связь с Gran Turismo. Sony и Rockstar нашли способ сделать управление автомобилями невероятным.",
+    "published": "2026-11-28T06:21:00+00:00",
+    "source": "iXBT.games",
+    "site_name": "iXBT.games",
+    "trust": "medium",
+    "text": "В GTA VI обнаружили связь с Gran Turismo. Sony и Rockstar нашли способ сделать управление автомобилями невероятным.\nВпечатляющая физика автомобилей в GTA VI появилась не случайно: Rockstar привлекла к разработке специалиста по гоночным симуляторам, который ранее выступал в чемпионате Gran Turismo.\nРечь о Льюисе Бентли, финалисте чемпионата GT World Series 2018 года. В удалённом впоследствии видео на YouTube, которое успел сохранить портал GT Planet, он рассказал, что последние три с половиной года работал в команде, отвечающей за физику автомобилей в GTA VI. Бентли даже пошутил, что помог добавить в название Grand Theft Auto настоящее «Auto». Также он тепло отозвался о коллегах, вместе с которыми совершенствовал поведение машин на дорогах.\nУвлечение автоспортом в шотландской студии Rockstar North давно не секрет. Четыре года назад команда из Эдинбурга выставила собственный экипаж на настоящую 24-часовую гонку на знаменитой трассе Нюрбургринг и одержала победу. Одним из пилотов был технический директор Бен Лайонс, отвечающий за физику в новой GTA. Его опыт реальных гонок в сочетании с экспертизой специалиста по Gran Turismo позволил добиться впечатляющего результата.\nУправление автомобилями в GTA VI действительно получилось удачным. Машины не такие тяжёлые и валкие, как в GTA IV, но и не напоминают игрушки, намертво приклеенные к асфальту, как в аркадной GTA V. Каждый класс автомобилей ведёт себя по-своему, а тюнинг заметно влияет на поведение в поворотах. Отдельно отмечаются вибрации контроллера DualSense, позволяющие буквально ощущать пальцами, как шины теряют или восстанавливают сцепление с разными покрытиями.\nНе пропускайте наши новостиДобавьте сайт в предпочитаемые источники, чтобы видеть нас чащеДобавить в Google",
+    "extra": {
+     "image": "https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1747245/522da573-75b5-4b8e-88e6-6a544385ebf2.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "🏎️ Секрет автофизики GTA 6: Rockstar наняла ПРОФИ из Gran Turismo\n\nОказывается, над рулёжкой в игре три с половиной года пахал Льюис Бентли — финалист киберспортивного чемпионата GT! Разрабы завезли идеальный баланс между утюгами из четвёрки и приклейками из пятёрки, а отдача на DualSense — чистая пушка.",
+    "card_title": "СЕКРЕТ ФИЗИКИ МАШИН В GTA 6",
+    "reason": "Подтверждённый факт от medium‑источника, интересен фанатам физики машин",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "groq:openai/gpt-oss-120b → gemini:gemini-3.5-flash"
+   },
+   "queued_at": "2026-11-28T06:31:01.961035+00:00"
   },
   {
    "item": {
