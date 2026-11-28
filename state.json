@@ -5774,7 +5774,12 @@
   "fd8a35b24410e949": "2026-11-28T01:00:04.516964+00:00",
   "2cb8676d1042553a": "2026-11-28T01:00:05.862706+00:00",
   "cb3547f377eaf856": "2026-11-28T01:15:24.483739+00:00",
-  "8a511b465e8fcd4d": "2026-11-28T01:15:25.695715+00:00"
+  "8a511b465e8fcd4d": "2026-11-28T01:15:25.695715+00:00",
+  "43471914136584e8": "2026-11-28T01:30:47.072945+00:00",
+  "cc6215af3c3d7d04": "2026-11-28T01:46:09.285229+00:00",
+  "510a6455db0b27ac": "2026-11-28T01:46:10.423535+00:00",
+  "aa941eaef23d1192": "2026-11-28T01:46:11.573367+00:00",
+  "be983213508321d2": "2026-11-28T01:46:12.605432+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -9759,7 +9764,12 @@
   "231116d985290578": "2026-11-28T01:00:04.516964+00:00",
   "9ad615631d2886e2": "2026-11-28T01:00:05.862706+00:00",
   "2f850ecf07123f38": "2026-11-28T01:15:24.483739+00:00",
-  "3658408d87193a6b": "2026-11-28T01:15:25.695715+00:00"
+  "3658408d87193a6b": "2026-11-28T01:15:25.695715+00:00",
+  "74c8a53a8d34ce24": "2026-11-28T01:30:47.072945+00:00",
+  "906a274586b9f7ad": "2026-11-28T01:46:09.285229+00:00",
+  "b71ec9780d0bf616": "2026-11-28T01:46:10.423535+00:00",
+  "94882cb5f9e5452c": "2026-11-28T01:46:11.573367+00:00",
+  "c85e2bf43dbb501c": "2026-11-28T01:46:12.605432+00:00"
  },
  "recent": [
   {
@@ -17625,6 +17635,46 @@
    "status": "skipped",
    "ts": "2026-11-28T01:15:25.695832+00:00",
    "card_title": ""
+  },
+  {
+   "title": "🚨🎮 OMFG!! GTA VI has P. Diddy's mansion... Complete with his FREAK OFF room!! This game thought of everything... 😆 Writer: Marie",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T01:30:47.073085+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Is Finally Running on PC Thanks to ScarelttPort, But It's Not All Sunshine and Gunfights",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T01:46:09.285372+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "В GTA 6 обнаружен «Маленький Сэм», похожий на главу Rockstar",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T01:46:10.423677+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Почему в GTA 6 нет пародии на Disney World: Rockstar объяснила отказ от парка развлечений",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T01:46:11.573500+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Эксперт Digital Foundry показал, как GTA VI изменилась по сравнению с трейлерами — апгрейд или даунгрейд?",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T01:46:12.605576+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -17929,37 +17979,6 @@
     "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
    },
    "queued_at": "2026-11-28T00:12:32.570135+00:00"
-  },
-  {
-   "item": {
-    "title": "GTA VI Pushes Series To Nearly 1 Trillion YouTube Views With Record Breaking Launch",
-    "link": "https://rockstarintel.com/gta-vi-pushes-series-to-nearly-1-trillion-youtube-views-with-record-breaking-launch/",
-    "summary": "YouTube and Rockstar Games have teamed up to provide fans with new content on the platform and share some truly impressive stats around the game’s launch. Launch And Historical Data According to YouTube via a blog post and culture report, there was over 3.5 billion global views of videos with GTA VI in the title [...] The post GTA VI Pushes Series To Nearly 1 Trillion YouTube Views With Record Breaking Launch appeared first on RockstarINTEL .",
-    "published": "2026-11-27T13:22:23+00:00",
-    "source": "Rockstar Intel",
-    "site_name": "Rockstar Intel",
-    "trust": "medium",
-    "text": "YouTube and Rockstar Games have teamed up to provide fans with new content on the platform and share some truly impressive stats around the game’s launch.\nAccording to YouTube via a blog post and culture report, there was over 3.5 billion global views of videos with GTA VI in the title on the day of the game’s release, November 19th, 2026. Prior to launch, videos on the game garnered over 40 billion views. Combined with the other games in the franchise, there has now been over 900 billion views for the Grand Theft Auto series. Given the immense success of Rockstar’s latest project, 1 trillion will not be far away.\nSince 2013, Grand Theft Auto V has been within the top 10 most viewed video games on YouTube every single year. That goes to show it isn’t just people playing the game in the millions for over a decade but also consuming content on it. Story Mode and vanilla online isn’t the only thing continuing to be popular. GTA RP is in a league of its own. YouTube say roleplay content hit more than 8 billion all-time views and an all-time peak of 1.7 million uploads in 2025.\n82% of respondents to a recent NRG study in collaboration with YouTube ranked GTA higher than Hollywood celebrities (79%) and comparable to the Super Bowl (83%) in terms of topics perceived as widely recognized. Respondents were online people age 14–29 based in the US.\nYouTube Live has launched five limited-edition, GTA VI-themed gifts, including iconic animations like Wanted Stars that pop up directly on screen during streams. To kick things off, eligible viewers tuning into select creator live streams can claim and send a Grand Theft Auto VI gift courtesy of YouTube while they last. You can view all of them below.\nThe GTAVI: Visit Vice City Shorts Effect is now live. The feature includes multiple iconic backgrounds, making it easy for creators and fans to build their own launch-week videos.\nIn other Grand Theft Auto VI news, there’s a working multiplayer mod for the game already. Plus, physical copies of the game have been hugely successful according to new research.\nYou can order your PS5 or XBOX copy of GTA VI with this link. Using the link to order the game will help support this website as we’ll earn a small commission. Thank you!\nFor more news on GTA VI, stay tuned to RockstarINTEL and sign up to our newsletter for a weekly round-up of all things Rockstar Games delivered straight to your inbox.",
-    "extra": {
-     "image": "https://rockstarintel.com/wp-content/uploads/2026/11/Vice_City_14-0fu8u9jh5hkg7-1024x576.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "💥 3,5 МИЛЛИАРДА просмотров за день на YouTube!\n\nЮтуб отчитался, что в день релиза ролики по GTA 6 собрали космические цифры, а вся франшиза уже подбирается к 1 триллиону просмотров. В честь этого на стримах даже запустили гифты со звёздами розыска. Наш любимый симулятор хаоса разносит интернет в щепки, база.",
-    "card_title": "3,5 МИЛЛИАРДА ПРОСМОТРОВ НА YOUTUBE",
-    "reason": "Official stats from YouTube and Rockstar showing record-breaking views and cultural impact of GTA 6",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-3.5-flash"
-   },
-   "queued_at": "2026-11-27T13:24:02.415189+00:00",
-   "moderation": "pending",
-   "draft_msg_id": 207
   },
   {
    "item": {
