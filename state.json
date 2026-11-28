@@ -5898,7 +5898,10 @@
   "7b18fce1f0b877bc": "2026-11-28T10:46:20.776038+00:00",
   "6da45130c2ce09a0": "2026-11-28T10:47:08.357314+00:00",
   "299353b1ad74a890": "2026-11-28T10:47:12.014131+00:00",
-  "54a6fd1ecbdf9ab6": "2026-11-28T10:48:08.586166+00:00"
+  "54a6fd1ecbdf9ab6": "2026-11-28T10:48:08.586166+00:00",
+  "6202cad63bce8333": "2026-11-28T10:55:14.816829+00:00",
+  "5d89922caffa6a9d": "2026-11-28T11:10:33.208818+00:00",
+  "39e1da6c4e0f79f0": "2026-11-28T11:10:34.147598+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -9949,7 +9952,10 @@
   "8c8c04487c937b2f": "2026-11-28T09:53:23.836263+00:00",
   "d990ebed1672bb91": "2026-11-28T10:08:43.010556+00:00",
   "3dce2d06e3abcdb3": "2026-11-28T10:24:04.105416+00:00",
-  "8cb25a014c7f1118": "2026-11-28T10:39:21.547911+00:00"
+  "8cb25a014c7f1118": "2026-11-28T10:39:21.547911+00:00",
+  "f57ee1d4c72d84e2": "2026-11-28T10:55:14.816829+00:00",
+  "023d380cdd89de11": "2026-11-28T11:10:33.208818+00:00",
+  "c1fa3a3f554da310": "2026-11-28T11:10:34.147598+00:00"
  },
  "recent": [
   {
@@ -17854,6 +17860,30 @@
    "trust": "rumor",
    "status": "skipped",
    "ts": "2026-11-28T10:39:21.548032+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "🇺🇸 GTA VI showing you the most realistic way to get rich in today's economy. 🤣 Writer: Mhedi",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T10:55:14.816953+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Everything you need to know about unofficial GTA 6 PC ports — including how they're happening so fast, how Rockstar is dealing with them, and what this might mean for the official release",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T11:10:33.208943+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Как запустить ГТА 6 на ПК прямо сейчас: что скачать, минимальные системные требования для GTA 6",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T11:10:34.147725+00:00",
    "card_title": ""
   }
  ],
