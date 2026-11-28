@@ -5920,7 +5920,22 @@
   "8c626ba5e1b25b50": "2026-11-28T11:48:37.181788+00:00",
   "b59d7ad2758c86dc": "2026-11-28T11:48:45.147830+00:00",
   "3d0032f2da31684d": "2026-11-28T11:48:55.217625+00:00",
-  "4b274baa3bf86b8e": "2026-11-28T11:49:02.275936+00:00"
+  "4b274baa3bf86b8e": "2026-11-28T11:49:02.275936+00:00",
+  "18fef9c2a1deb626": "2026-11-28T11:50:03.020951+00:00",
+  "191ef77f9496906d": "2026-11-28T11:50:10.652456+00:00",
+  "e04826391be488b2": "2026-11-28T11:50:20.651268+00:00",
+  "678d2e580a9d3e54": "2026-11-28T11:50:27.620989+00:00",
+  "91de912d54ee64d8": "2026-11-28T11:51:25.295675+00:00",
+  "453d5efc63c3b8e1": "2026-11-28T11:51:33.542449+00:00",
+  "48d2ebf5d7e83b8d": "2026-11-28T11:51:42.165141+00:00",
+  "35d4616bacf3fcce": "2026-11-28T12:03:45.637781+00:00",
+  "43586c0dc0b1d5ec": "2026-11-28T12:03:46.612814+00:00",
+  "5278e79a03e1f6ae": "2026-11-28T12:03:47.344294+00:00",
+  "ea249475287d0168": "2026-11-28T12:03:48.257641+00:00",
+  "f98d70fc544c3566": "2026-11-28T12:03:49.447015+00:00",
+  "00e9cec317ac2194": "2026-11-28T12:03:50.554188+00:00",
+  "ed47179e8c80f862": "2026-11-28T12:03:51.660885+00:00",
+  "4f33565a1ea05daf": "2026-11-28T12:03:52.828496+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -9989,7 +10004,15 @@
   "63b609e99a3ac031": "2026-11-28T11:48:31.359000+00:00",
   "8f49c0fddac287a9": "2026-11-28T11:48:32.561732+00:00",
   "f7b5d83b5d802a4c": "2026-11-28T11:48:33.659501+00:00",
-  "3c24dccbd66e4858": "2026-11-28T11:48:34.734122+00:00"
+  "3c24dccbd66e4858": "2026-11-28T11:48:34.734122+00:00",
+  "d253579a6bf61770": "2026-11-28T12:03:45.637781+00:00",
+  "085b0add86f82d19": "2026-11-28T12:03:46.612814+00:00",
+  "43ab22b99d2f0c48": "2026-11-28T12:03:47.344294+00:00",
+  "533523c8b38c1075": "2026-11-28T12:03:48.257641+00:00",
+  "1b345fd5611c8965": "2026-11-28T12:03:49.447015+00:00",
+  "a9a7bbd52ce30897": "2026-11-28T12:03:50.554188+00:00",
+  "8316aaa56febb43c": "2026-11-28T12:03:51.660885+00:00",
+  "1e5f985973973b83": "2026-11-28T12:03:52.828496+00:00"
  },
  "recent": [
   {
@@ -17207,6 +17230,70 @@
    "status": "skipped",
    "ts": "2026-11-28T11:48:34.734258+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GTA 6 для ПК выдала 7 FPS на ноутбуке с Ryzen 5 8645HS и RTX 4060",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-28T12:03:45.637807+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Raylo's Black Friday Deals Mean You Can Get A PS5 With GTA 6 & Other Consoles Right Away at Under £20 a Month",
+   "source": "IGN",
+   "trust": "high",
+   "status": "skipped",
+   "ts": "2026-11-28T12:03:46.612917+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "HBO Max's 115-Minute Tom Cruise Movie Is Basically GTA 6 Come To Life",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T12:03:47.344414+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Is Great, but It’s Missing a Feature Saints Row Nailed 20 Years Ago",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T12:03:48.257765+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 for PC delivered 7 FPS on a laptop with a Ryzen 5 8645HS and RTX 4060.",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T12:03:49.447135+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Машину мечты в GTA 6 можно не угонять, а вытащить со свалки и восстановить",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T12:03:50.554300+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Build with Ryzen 9 9950X3D and RX 9070 XT delivered up to 48 FPS in the PC version of GTA VI",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T12:03:51.660997+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 PlayStation record: over 39 million PS5 players",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T12:03:52.828632+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -17243,35 +17330,6 @@
   },
   {
    "item": {
-    "title": "GTA 6 Is Exposing Worn-Out PS5 and Xbox Consoles",
-    "link": "https://www.gtaboom.com/gta-6-is-exposing-worn-out-ps5-and-xbox-consoles-d96f",
-    "summary": "Stop playing and seek service if shutdowns persist after ventilation and update checks; Modyfikator89 reports Xbox shutdowns since GTA 6 launched.",
-    "published": "2026-11-27T22:00:32+00:00",
-    "source": "GTA BOOM",
-    "site_name": "GTA BOOM",
-    "trust": "medium",
-    "text": "Grand Theft Auto VI launched with a return to Vice City, and a repair technician in Poland now reports seeing Xboxes with overheating and mid-game shutdowns since launch. Earlier reports came mostly from PS5 players and ranged from crashes to the odd console that would not turn back on.\nMost of the early reports came from PlayStation 5 owners, many of them hitting the error code CE-108255-1 mid-session. Sony describes that code as a generic application error that has more to do with the gaming you're playing and Rockstar Games' first post-GTA 6 launch patch, update 01.002.002, fixed several crashes without making the reports go away. The more dramatic cases, consoles that shut down for good or smelled of smoke, are rare and come from individual players.\nThe technician behind the Modyfikator89 account posted the Xbox numbers on X on November 26. Xbox consoles are uncommon in Poland, so the shop used to see about 10 a month. Since GTA 6 launched, Xboxes make up about 2 of every 10 repairs each day for overheating, mid-game shutdowns, consoles that boot with no picture before the fan stops, slowdowns and freezes during updates.\nAn earlier post from the same technician dug into one PS5 with 235 days, 10 hours and 37 minutes of total runtime. Its error logs showed 40 Main SoC Access Errors, seven APU VRM Power Fail entries and seven SSD Controller Watchdog Errors. The technician also measured the power draw. GTA 6 pulled around 220 W in a quiet scene and 274.2 W at full load, against 67 W with the game closed.\nA long session of GTA 6 could expose a cooling or hardware problem that was already there. The game works console CPUs hard enough that Digital Foundry ruled out a 40fps mode even on PS5 Pro. The many hours of 30fps play with the CPU and GPU pinned is a stress test few other games run. Sustained load could expose cooling problems such as dust-choked heatsinks, dried-out thermal paste or issues with liquid metal, even on consoles that still run other games fine. The measured peak sits inside the original PS5's 350 W rating. Nobody at Sony, Microsoft or Rockstar Games has blamed the game for hardware damage. These failures also remain a small slice of a player base in the tens of millions.\nKeeping your console alive comes down to boring maintenance. Put it on a hard, flat surface with about 10 cm (4 inches) of clear space around it, out of closed cabinets and off the floor, away from dust. Every month or two, power it down fully, unplug it and gently vacuum",
-    "extra": {
-     "image": "https://media.gtaboom.com/variants/1920/media/images/a5/18/gta-6-is-exposing-worn-out-ps5-and-xbox-consoles.jpg"
-    }
-   },
-   "verdict": {
-    "type": "rumor",
-    "importance": 8,
-    "post": "⚠️ GTA 6 греет консоли до предела\n\nТехник из Польши заметил, что PS5 и Xbox врезаются в перегрев уже после пары часов катки. Если не чистить пыль и ставить коробку на вентилируемую поверхность — ждёт краш и дым, так что держите флекс в чистоте.",
-    "card_title": "ПЕРЕГРЕВ КОНСОЛЕЙ GTA6",
-    "reason": "Technician reports show GTA 6 stresses old consoles, causing overheating and shutdowns, acting as a real hardware stress test.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-28T00:12:32.570135+00:00"
-  },
-  {
-   "item": {
     "title": "GTA VI избежала графического даунгрейда! Digital Foundry сравнила игру с первыми трейлерами",
     "link": "https://ixbt.games/news/2026/11/28/gta-vi-izbezala-graficeskogo-daungreida-digital-foundry-sravnila-igru-s-pervymi-treilerami.html",
     "summary": "GTA VI не подверглась графическому даунгрейду: специалисты Digital Foundry сравнили финальную версию игры с первыми трейлерами и обнаружили улучшения.",
@@ -17303,35 +17361,6 @@
   },
   {
    "item": {
-    "title": "Florida Congresswoman Anna Paulina Luna Is Embracing Her GTA 6 Lookalike",
-    "link": "https://www.gtaboom.com/florida-congresswoman-anna-paulina-luna-is-embracing-her-gta-6-lookalike-fe83",
-    "summary": "Rep. Luna joked about her GTA 6 lookalike Camila Fuentes after sharing photos of their nearly identical rifle poses in front of an American flag.",
-    "published": "2026-11-27T21:04:00+00:00",
-    "source": "GTA BOOM",
-    "site_name": "GTA BOOM",
-    "trust": "medium",
-    "text": "A sitting member of Congress shared on social media that her likeness is in Grand Theft Auto VI. Rep. Anna Paulina Luna, a Florida Republican, posted a side-by-side on Thanksgiving of herself next to Senator Camila Fuentes, a Leonida state senator in the game. Both are holding rifles in front of an American flag in nearly the same pose. The likeness in that one image is real. Whether Rockstar Games had her in mind is another story.\n\"So there I was eating Turkey and my friend David calls to tell me I am in GTA6,\" Luna wrote on Instagram, tagging the game and signing off with \"Don't hate the player, hate the game.\" The David is her communications director, David Leatherwood. She followed up on X with the same image and \"GTA6 FTW.\"\nThe comparison is far from flattering, though. Spoiler alert!\nIn GTA 6, Fuentes is a former pop star turned hard-line conservative senator who campaigns on tough immigration rules. In-game media hails her as \"the unicorn America's been waiting for.\" Unfortunately, behind that is a woman with compromised morals and footage of her snorting cocaine, among other things, is part of the encrypted hard drive that most of the game's story revolves around on.\nYou'll run into her during the Chapter 4 surveillance mission \"Close Surveillance,\" and once you've seen this photo of Luna, it's hard not to see the resemblances and agree with her sentiments.\nHowever, it's unclear if Luna is aware of who Fuentes is in GTA 6 and what her role is in the game's story.\nBilly Corben, the Miami documentary filmmaker behind Cocaine Cowboys who hosts the in-game Vice City True Stories podcast, told the Bradenton Herald that Fuentes is a composite. He said she draws on elements of Marco Rubio, bears similarities to Rep. María Elvira Salazar and borrows from pop icons like Jennifer Lopez, Selena and Madonna. He described her as a send-up of the entertainment-to-politics pipeline rather than of any one person.\nWith \"Don't hate the player,\" Luna had a little fun with the Grand Theft Auto comparison. It's also a long way from how Washington greeted GTA 6 a week earlier.\nOn release day, the violence debate reached Congress, with Rep. Tim Burchett criticizing the game and Rep. Maxwell Frost pushing back. Now a congresswoman is posting her GTA 6 lookalike with a trophy emoji. Satire works best when its targets play along, even when their in-game counterpart, confirmed or not, is part of a cocaine scandal and a theorized larger conspiracy involving corrupt government",
-    "extra": {
-     "image": "https://media.gtaboom.com/variants/1920/media/images/0d/1d/florida-congresswoman-anna-paulina-luna-is-embracing-her-gta-6-lookalike.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "🇺🇸 ПОЛИТИКИ уже флексят персонажами из GTA 6!\n\nКонгрессвумен США Анна Паулина Луна заценила свою копию в игре — сенатора Камилу Фуэнтес. Чиновница выложила фото в той же позе с винтовкой и подписала: «GTA6 FTW».\n\nПравда, она явно не в курсе сюжета. По лору Фуэнтес — экс-поп-звезда, у которой в игре сливают видео с кокаином. Зато вайб поймала!\n\n❤️ — Заценила и красава!\n👎 — Кринж, лучше бы в игру поиграла",
-    "card_title": "КОНГРЕССВУМЕН В GTA 6",
-    "reason": "Конгрессвумен США нашла себя в GTA 6 и забавно отреагировала в соцсетях.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-3.5-flash"
-   },
-   "queued_at": "2026-11-28T00:12:10.881375+00:00"
-  },
-  {
-   "item": {
     "title": "Секрет управления автомобилями в GTA VI раскрыт. Rockstar привлекла профессионала",
     "link": "https://ixbt.games/news/2026/11/28/sekret-upravleniia-avtomobiliami-v-gta-vi-raskryt-rockstar-privlekla-professionala.html",
     "summary": "В GTA VI обнаружили связь с Gran Turismo. Sony и Rockstar нашли способ сделать управление автомобилями невероятным.",
@@ -17360,37 +17389,6 @@
    "queued_at": "2026-11-28T06:31:01.961035+00:00",
    "moderation": "pending",
    "draft_msg_id": 217
-  },
-  {
-   "item": {
-    "title": "GTA 6 Stash Bag Money Glitch—Duplication Trick To Make Millions",
-    "link": "https://insider-gaming.com/how-to-gta-6-money-glitch-stash-bag-duplication/",
-    "summary": "There's a new GTA 6 money glitch that involves duplicating stash bags, and this is exactly how you can do it. The post GTA 6 Stash Bag Money Glitch—Duplication Trick To Make Millions appeared first on Insider Gaming .",
-    "published": "2026-11-27T23:53:40+00:00",
-    "source": "Insider Gaming",
-    "site_name": "Insider Gaming",
-    "trust": "medium",
-    "text": "There’s a new GTA 6 stash bag money glitch doing the rounds, and by taking advantage of it, you can make millions of dollars in a matter of minutes, provided you do things the right way. It’s by far and wide the easiest money glitch in GTA 6, and it will allow you to generate stacks of cash with almost no effort involved.\nThe problem is, everyone is going crazy about it on social media, and it’ll probably be patched by Rockstar Games in hours. It’s a good idea to take advantage of it while you can to make your millions without issue.\nBelow, I’ve mapped out exactly how to do the new stash bag glitch in GTA 6 for unlimited money.\nHow to Duplicate Stash Bags in GTA 6 (Free Money Glitch)\nIn GTA 6, you’ll want to follow these steps to get yourself a fat wad of cash with almost no effort.\nGet a stash bag by robbing somewhere with jewelry, drugs, or marked notes (IMPORTANT: If you start with a full bag, it makes the glitch much more valuable)\nGet away from wherever you’ve obtained the stash bag to ensure you’re not distracted by the police or other enemies\nCrouch down and then don’t touch the left thumbstick again\nBring up the weapon wheel, then hit R1 or RB to switch to the ‘Items’ panel\nHover over the stash bag and hold B or CIRCLE to drop the bag\nWithout touching the left thumbstick, swivel the camera with the right stick and pick up the stash bag again\nIf you’ve done it correctly (and I can’t see how you wouldn’t), you’ll see the value of the stash bag added to the value of the stash bag.\nBy that, I mean if you have a $10,000 stash bag and you do this glitch, you’ll see it move to $20,000, then $30,000, and so on. It’ll top out around 8 – 12 times, for some reason, so you’re limited in that respect, but as long as you can keep grabbing bags, you can keep doing the stash bag duplication glitch.\nIf you have two bags, you drop bag 2/2 first and then bag 1/1, and then pick them both up using the same method as above, and they’ll both duplicate. It’s money on money.\nYou can maximize your gains further by selling whatever loot you’ve got to the fence who offers the most for it. For example, if you’ve maxed out your relationship with Tyrone, he offers the most money for narcotics, so that’s a good place to start.\nThat’s it! That’s exactly how you duplicate stash bags in GTA 6 to make unlimited money.\nIf you need to know anything else about Grand Theft Auto 6, make sure you stop by our full guides hub. It contains everything you could need to learn about the most imp",
-    "extra": {
-     "image": "https://insider-gaming.com/wp-content/uploads/2026/11/6480ca93-1849-4c7e-8a1e-dd324c23dca8-1024x576.png"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 6,
-    "post": "🗺 Гайд: Дублирование Stash Bag = миллионы 💰\n\n1. Схватите полную сумку (ювелирка, дроги или марки).\n2. Уйдите от полиции, присесть, не трогайте левый стик.\n3. Откройте колесо оружия → Items, держите B/Circle, бросьте сумку.\n4. Не двигая левый стик, вращайте камеру правым стиком и поднимите её обратно — стоимость удвоится. Повторяйте пока не достигнете лимита. Патч прилетит, так что качайте пока можно.",
-    "card_title": "ДОБЫТЬ МИЛЛИОНЫ СТЭШ БЭГ",
-    "reason": "Глитч на бесконечные деньги в игре — полезный секрет для игроков",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": true,
-    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
-   },
-   "queued_at": "2026-11-28T00:14:03.280345+00:00",
-   "moderation": "pending",
-   "draft_msg_id": 216
   }
  ],
  "posts": [],
@@ -17702,6 +17700,36 @@
    "file_id": "BAACAgIAAxkDAAPeawqxcx2MN__w1bRdhSBJqLYLgsUAAm-pAALiwFhIUqdKFqau0QU9BA",
    "moderation": "pending",
    "draft_msg_id": 222
+  },
+  {
+   "clip": {
+    "source": "twitch",
+    "url": "https://www.twitch.tv/tusoved/clip/CrazyLuckySandstormChocolateRain-IId8pkYU8gOnvO6m",
+    "title": "только с гранат срать",
+    "author": "TUSOVED",
+    "views": 238,
+    "duration": 30.0,
+    "created": "2026-11-28T11:12:24+00:00",
+    "lang": "ru",
+    "description": "",
+    "vod_id": "2943121976",
+    "vod_offset": 4767.0
+   },
+   "caption": "Чел решил срезать через болото, но встретил кабана. Ласт его ошибка — в Леониде после заката лучше не гулять 💀",
+   "interest": 9,
+   "spoiler": false,
+   "nsfw": false,
+   "watched": true,
+   "model": "gemini:gemini-3.1-flash-lite",
+   "media": {
+    "width": null,
+    "height": 720,
+    "duration": 30
+   },
+   "queued_at": "2026-11-28T11:51:54.610932+00:00",
+   "file_id": "BAACAgIAAxkDAAPgawrAWyaIItVpdHbyWkZlPDUOO2IAAgOqAALiwFhIaDi6iOk1JrY9BA",
+   "moderation": "pending",
+   "draft_msg_id": 224
   }
  ],
  "clip_drafts": [
@@ -17724,7 +17752,8 @@
   "2026-11-28T07:14:19.192954+00:00",
   "2026-11-28T08:18:12.051727+00:00",
   "2026-11-28T09:41:48.084411+00:00",
-  "2026-11-28T10:48:19.566961+00:00"
+  "2026-11-28T10:48:19.566961+00:00",
+  "2026-11-28T11:51:55.920704+00:00"
  ],
  "clip_history": [
   {
@@ -22096,6 +22125,73 @@
    "title": "there's a mario easter egg in GTA 6",
    "drafted": false,
    "ts": "2026-11-28T11:49:02.275977+00:00"
+  },
+  {
+   "author": "youtube:darsa gaming",
+   "vod": "",
+   "offset": -1,
+   "title": "Aku Menemukan Easter Egg Diatas Tower GTA 6 #shorts",
+   "drafted": false,
+   "ts": "2026-11-28T11:50:03.020986+00:00"
+  },
+  {
+   "author": "youtube:gourav slayz",
+   "vod": "",
+   "offset": -1,
+   "title": "I Asked Gaming Cafes to Let Me Play GTA 6 for ₹1! 😱",
+   "drafted": false,
+   "ts": "2026-11-28T11:50:10.652488+00:00"
+  },
+  {
+   "author": "youtube:polish dad",
+   "vod": "",
+   "offset": -1,
+   "title": "Hiding my Dad’s GTA 6 game!🤣🎮",
+   "drafted": false,
+   "ts": "2026-11-28T11:50:20.651309+00:00"
+  },
+  {
+   "author": "youtube:pixeliplier",
+   "vod": "",
+   "offset": -1,
+   "title": "CaseOh Is A MENACE In GTA 6",
+   "drafted": false,
+   "ts": "2026-11-28T11:50:27.621026+00:00"
+  },
+  {
+   "author": "youtube:player7",
+   "vod": "",
+   "offset": -1,
+   "title": "What happens when Lucia finds out about Mandy?",
+   "drafted": false,
+   "ts": "2026-11-28T11:51:25.295706+00:00"
+  },
+  {
+   "author": "youtube:schlayer",
+   "vod": "",
+   "offset": -1,
+   "title": "HOW TO GET MILLIONS IN GTA 6 (Fastest Method) 💸 #gta6 #gtavi #shorts",
+   "drafted": false,
+   "ts": "2026-11-28T11:51:33.542487+00:00"
+  },
+  {
+   "author": "twitch:tusoved",
+   "vod": "2943121976",
+   "offset": 4767.0,
+   "title": "только с гранат срать",
+   "drafted": false,
+   "ts": "2026-11-28T11:51:42.165180+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:tusoved",
+   "vod": "2943121976",
+   "offset": 4767.0,
+   "title": "только с гранат срать",
+   "drafted": true,
+   "ts": "2026-11-28T11:51:55.920723+00:00",
+   "frames": [],
+   "caption": "Чел решил срезать через болото, но встретил кабана. Ласт его ошибка — в Леониде после заката лучше не гулять 💀"
   }
  ],
  "published": [
