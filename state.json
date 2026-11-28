@@ -5779,7 +5779,11 @@
   "cc6215af3c3d7d04": "2026-11-28T01:46:09.285229+00:00",
   "510a6455db0b27ac": "2026-11-28T01:46:10.423535+00:00",
   "aa941eaef23d1192": "2026-11-28T01:46:11.573367+00:00",
-  "be983213508321d2": "2026-11-28T01:46:12.605432+00:00"
+  "be983213508321d2": "2026-11-28T01:46:12.605432+00:00",
+  "5b3c9aefd4bf9bfa": "2026-11-28T02:01:33.865874+00:00",
+  "ae8a7fbf2c377f5c": "2026-11-28T02:01:35.182513+00:00",
+  "cbf34845afd843a5": "2026-11-28T02:16:54.031288+00:00",
+  "788f1a2610242683": "2026-11-28T02:16:55.323816+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -9769,7 +9773,11 @@
   "906a274586b9f7ad": "2026-11-28T01:46:09.285229+00:00",
   "b71ec9780d0bf616": "2026-11-28T01:46:10.423535+00:00",
   "94882cb5f9e5452c": "2026-11-28T01:46:11.573367+00:00",
-  "c85e2bf43dbb501c": "2026-11-28T01:46:12.605432+00:00"
+  "c85e2bf43dbb501c": "2026-11-28T01:46:12.605432+00:00",
+  "8d10ce9fbd715752": "2026-11-28T02:01:33.865874+00:00",
+  "99e55aa9867ceb75": "2026-11-28T02:01:35.182513+00:00",
+  "6943ba325135e522": "2026-11-28T02:16:54.031288+00:00",
+  "a1683501bcebee1c": "2026-11-28T02:16:55.323816+00:00"
  },
  "recent": [
   {
@@ -17675,6 +17683,38 @@
    "status": "skipped",
    "ts": "2026-11-28T01:46:12.605576+00:00",
    "card_title": ""
+  },
+  {
+   "title": "'It's a surreal moment': Cincinnati native voices character in GTA VI",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T02:01:33.866025+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6: The AI race to clone the world's biggest video game for PC",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T02:01:35.182658+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Exposes the Console Hardware Crisis",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T02:16:54.031447+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Coders use AI to attempt GTA VI PC ports as Take-Two targets GitHub projects",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T02:16:55.323938+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -17768,37 +17808,6 @@
     "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
    },
    "queued_at": "2026-11-27T21:47:16.875158+00:00"
-  },
-  {
-   "item": {
-    "title": "I got eaten by a gator in GTA 6 because I exploded too many motorbikes to make a clean getaway",
-    "link": "https://www.gamesradar.com/games/grand-theft-auto/i-got-eaten-by-a-gator-in-gta-6-because-i-exploded-too-many-motorbikes-to-make-a-clean-getaway/",
-    "summary": "Ah yes, the Florida experience",
-    "published": "2026-11-27T14:00:00+00:00",
-    "source": "GamesRadar+",
-    "site_name": "GamesRadar+",
-    "trust": "high",
-    "text": "I love making stuff go boom in GTA 6. I've always loved the cover shooter antics of Rockstar's action-adventure series, but sometimes you need a nice big explosion to clear up the crowd. Since the vast GTA 6 map of Leonida is a veritable powder keg just waiting for me to pop a bullet into its many, many car engines, I thought it would be cool to try out some action hero stunts early on in the process.\nOne main GTA 6 mission saw me defending \"work colleague\" Donnie from waves of biker gang enemies, ducking behind cover and holding them off while my partner brought the plane around so we could make a grand escape. But indulging my desire for big explosions left me with one ill-fated choice: do a cardio workout or die trying.\nIn a departure from past entries, GTA 6 is all about due restraint. I bear this in mind as I pop shots into the gang members, aiming for kneecaps, torsos, and limbs over vitals. A few more bikers arrive, screeching to a halt in a nice little cluster. There's too many of them, and I'm quickly becoming overwhelmed. I enter Focus Mode to zero in on the engine tanks and do what I do best: fire off an entire clip into one of them. A cataclysmic boom clears the crowd in a satisfying blast of fire, smoke, and biker boy chunks.\nDonnie, of course, chooses that exact moment to tell me to grab a bike and hop on the plane with him. The only problem is that there are no motorbikes before me, but a heap of smoldering chassis.\nI panic and run up to one that looks more intact than the others. To my horror, the engine is completely dead. I race to another, and the tank is out of fuel. I turn and watch Donnie soar into the skies, telling me to meet him on the road, right as I hear another wave of enemies roar onto the scene. I don't think – I just run off toward the nearest body of water.\nI have no plan. Maybe I can lose my pursuers in the bushes, I wonder, or maybe some kind NPC will have left me a speedboat or canoe or set of flotation devices – anything, anything to get me out onto the water and away from the bikers as fast as possible – but of course there is nothing but open water. I open the map to check Donnie's whereabouts. Wherever he is doesn't look that far off, so I leap into the water without a second thought\nMy frantic front-crawl is the last bastion of hope I cling to as bullets continue to fly overhead. Each one pierces the water's surface with delicate precision, yet further evidence of the game's painstaking realism. But as the bullets s",
-    "extra": {
-     "image": "https://cdn.mos.cms.futurecdn.net/t3XyQ2pSrC2inpvMbBDgdW-1920-80.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "🐊 В GTA 6 аллигатор СОЖРАЛ игрока из-за любви к взрывам\n\nАвтор GamesRadar+ в миссии с Донни так увлёкся взрывами байков через Focus Mode, что уцелевшие мотики заглохли или остались без топлива. Пришлось удирать вплавь — жиза, когда зрелищный экшен заканчивается тильтом в пасти рептилии.",
-    "card_title": "ВЗОРВАЛ БАЙКИ — СЪЕЛ АЛЛИГАТОР",
-    "reason": "Забавная игровая ситуация и механика с аллигаторами в открытом мире GTA 6",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-4-hydrogen"
-   },
-   "queued_at": "2026-11-27T14:11:04.049226+00:00",
-   "moderation": "pending",
-   "draft_msg_id": 206
   },
   {
    "item": {
