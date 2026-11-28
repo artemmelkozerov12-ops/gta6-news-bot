@@ -5803,7 +5803,12 @@
   "314da37088579791": "2026-11-28T05:05:54.275645+00:00",
   "f2f8c07d2f96462d": "2026-11-28T05:05:55.157555+00:00",
   "2c46bc67aca13257": "2026-11-28T05:36:39.618771+00:00",
-  "ef19fe128ca8743c": "2026-11-28T05:36:40.637016+00:00"
+  "ef19fe128ca8743c": "2026-11-28T05:36:40.637016+00:00",
+  "873f48417b09a16b": "2026-11-28T06:00:04.952311+00:00",
+  "e00e95583718dd49": "2026-11-28T06:00:06.448660+00:00",
+  "b76e95a2fac180e3": "2026-11-28T06:00:13.407971+00:00",
+  "ffd4eb07af2eba09": "2026-11-28T06:15:36.366032+00:00",
+  "eb473d8b3040db3d": "2026-11-28T06:15:37.387392+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -9817,497 +9822,14 @@
   "39e5b980e26759cf": "2026-11-28T05:05:54.275645+00:00",
   "5139a76f963d9850": "2026-11-28T05:05:55.157555+00:00",
   "72b12e851a73adf9": "2026-11-28T05:36:39.618771+00:00",
-  "371eb79e1b8c40f7": "2026-11-28T05:36:40.637016+00:00"
+  "371eb79e1b8c40f7": "2026-11-28T05:36:40.637016+00:00",
+  "9db330819875a342": "2026-11-28T06:00:04.952311+00:00",
+  "d1db679a0694acd5": "2026-11-28T06:00:06.448660+00:00",
+  "e5d9d17e0cae9682": "2026-11-28T06:00:13.407971+00:00",
+  "5b4e8f8783aefa2c": "2026-11-28T06:15:36.366032+00:00",
+  "3bd09b6797ac1b17": "2026-11-28T06:15:37.387392+00:00"
  },
  "recent": [
-  {
-   "title": "[Видео] NVIDIA тонет без Хуанга / В GTA 6 играют иди*ты / Steam в белые списки / DDR кончится в 2027",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "dup",
-   "ts": "2026-11-26T00:25:52.859459+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "[Видео] NVIDIA тонет без Хуанга / В GTA 6 играют иди*ты / Steam в белые списки / DDR кончится в 2027",
-   "source": "iXBT.games",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-26T00:25:58.619241+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Justice Enlist Michael McDonald for GTA VI Track ‘Starting From Zero’",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-26T00:26:04.015870+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Here’s How to Find Rick Ross’ Mansion in ‘Grand Theft Auto VI’",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-26T00:41:23.842093+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Rockstar Added GTA 6's New Morality System in Response to Crime Lacking Substance in Previous Games",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-26T00:41:25.420824+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "В GTA 6 нашли инопланетянина на горе Чилиад из GTA 5 — но есть нюанс",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-26T00:41:26.822279+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Does GTA 6 Really \"Play Best\" On PS5? - IGN Daily Fix",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-26T00:41:28.193529+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Главное за день: GTA 6 ломает консоли, сроки выхода Intergalactic",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-26T00:41:29.579713+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Сценарист Half-Life назвал GTA 6 шедевром и ответил хейтерам бытовухи",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-26T00:41:30.954392+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Rockstar Explains Why it Added Consequences to GTA 6's Violence and Crimes",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-26T00:56:55.116793+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "'GTA 6' fake brands and the real companies they parody",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-26T00:56:56.476616+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Animation Director Reveals Rockstar Made 3 Animations for Each Item Interaction",
-   "source": "IGN",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-26T01:12:19.700262+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Here Are Some Video Game Conversation Starters That Aren’t About GTA 6",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-26T01:12:21.899442+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 vault: How to open them during big bank jobs",
-   "source": "PC Gamer",
-   "trust": "high",
-   "status": "queued",
-   "ts": "2026-11-26T01:27:58.459023+00:00",
-   "card_title": "БАНКОВЫЕ ХРАНИЛИЩА GTA6"
-  },
-  {
-   "title": "30 Things You Might Have Missed in GTA 6",
-   "source": "Insider Gaming",
-   "trust": "medium",
-   "status": "queued",
-   "ts": "2026-11-26T01:28:02.705348+00:00",
-   "card_title": "СЕКРЕТЫ GTA 6, КОТОРЫЕ ПРОПУСТИЛИ"
-  },
-  {
-   "title": "Buckingham Jubilee GTA 6 Location – Where to Find the Rolls-Royce SUV",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-26T01:28:36.825767+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "This Website Lets You Play GTA 6 For Free, With One Big Catch",
-   "source": "GTA BOOM",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-26T01:29:08.588744+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Guide: GTA 6: Secret Controls the Game Doesn't Tell You",
-   "source": "Push Square",
-   "trust": "high",
-   "status": "queued",
-   "ts": "2026-11-26T01:29:40.520514+00:00",
-   "card_title": "СЕКРЕТНЫЕ УПРАВЛЕНИЯ GTA 6"
-  },
-  {
-   "title": "GTA 6 Leonida Carrier Warehouse: Safe Code, GRX-556 and Gunrunner Camacho",
-   "source": "GTA BOOM",
-   "trust": "medium",
-   "status": "queued",
-   "ts": "2026-11-26T01:30:12.580008+00:00",
-   "card_title": "СЕКРЕТЫ СКЛАДА ЛЕОНИДА"
-  },
-  {
-   "title": "GTA 6: How To Unlock More Legendary Vehicles And Weapons",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-26T01:30:16.503745+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 After Launch: How Rockstar Keeps the Hype",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-26T01:45:40.931000+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "“GTA VI” Will Dominate Everything",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-26T02:01:06.737215+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Most Romantic Dating Spots for Jason & Lucia In GTA 6",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-26T02:01:09.645835+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Teachers urge parents to look closely at Grand Theft Auto VI",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-26T02:01:14.040112+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Best Black Friday PS5 game deals (since you already bought GTA VI)",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-26T02:16:38.016793+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "How to Unlock and Enter All 4 Kitty Litter Labs in GTA 6",
-   "source": "GTA BOOM",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-26T02:32:07.876482+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Chatfield Storage Guide to the Suppressed ES9, Safe Code and Supercar",
-   "source": "GTA BOOM",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-26T02:32:07.876571+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "All Peewees Billboard locations in GTA 6",
-   "source": "Polygon",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-26T02:32:07.876596+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "«Вырезанный» контент GTA 6 включает теннис, посещение кинотеатров, декорирование дома и не только",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-26T02:32:11.438557+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Headset Test: 7 Headsets, 130 Hours (TechRadar)",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-26T02:32:15.151766+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Как спасти Яго в миссии «Брат за брата» в ГТА 6. Бросить Яго или спасти его: последствия выбора",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-26T02:32:19.288743+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Capri Corrupt Cops Walkthrough: Both Starts and the CPD Moreland 850",
-   "source": "GTA BOOM",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-26T02:47:40.029925+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 has weird purple streetlights because actual Florida screwed up its streetlights",
-   "source": "PC Gamer",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-26T02:47:40.029992+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6’s Lucia Writer Quit X. The Abuse Then Hit Another Woman With Her Name",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-26T02:47:45.118455+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6’s in-game sports cards are becoming real collectibles, with Panini packs arriving in December",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-26T02:47:49.566315+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "How To Unlock The Alien Questline in GTA 6",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-26T02:47:59.775193+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 PC Leak: 1 Xbox Build, 0 Official PC Dates",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-26T03:03:39.534275+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "The Weeknd’s ‘GTA VI’ Song Was Called Game-Exclusive. Here’s What Justice Actually Said",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-26T03:19:03.120451+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Site lets gamers play GTA 6 for free, as alternative to PS5 or Xbox cloud gaming",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-26T03:19:04.086867+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Rockstar Hired a Gran Turismo World Finalist to Work on GTA 6’s Car Physics",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-26T03:19:05.339171+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "«Зачем её проходить, если сюжетка унылая?» Korb3n не видит смысла в стримах по GTA 6",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-26T03:19:06.604632+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Никаких крайностей: Rockstar рассказала о балансе сложности в Grand Theft Auto",
-   "source": "iXBT.games",
-   "trust": "medium",
-   "status": "queued",
-   "ts": "2026-11-26T03:50:48.359053+00:00",
-   "card_title": "БАЛАНС СЛОЖНОСТИ GTA 6"
-  },
-  {
-   "title": "GTA 6's Map Has a Useful Feature I've Only Just Noticed",
-   "source": "Push Square",
-   "trust": "high",
-   "status": "queued",
-   "ts": "2026-11-26T03:50:50.778584+00:00",
-   "card_title": "КАРТА ТЁМНЫЕ ЗДАНИЯ ВХОД"
-  },
-  {
-   "title": "How to Meet Cool Dog in GTA 6 and Ride to Dog Island",
-   "source": "GTA BOOM",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-26T03:51:25.415992+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA VI удивила игроков погодой после обновления. Таких дождей в серии ещё не было",
-   "source": "iXBT.games",
-   "trust": "medium",
-   "status": "queued",
-   "ts": "2026-11-26T04:06:52.078418+00:00",
-   "card_title": "ГРЗА И ЛОКАЛЬНЫЙ ДОЖДЬ"
-  },
-  {
-   "title": "'South Park' Season 29 Finale: 'GTA 6,' Data Centers and Billionares",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-26T04:08:47.147610+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "‘South Park’ Celebrates ‘GTA VI’ But Outages, AI Data Centers & Zombie Kenny Stand In The Way In Season 29 Finale",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-26T04:08:56.197556+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Cooties Walkthrough for Starting the Mission, Filming and Escaping DWNPLY’s Crew",
-   "source": "GTA BOOM",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-26T04:24:34.105860+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Where to Find Jason's '70 Vapid Ganado (Again) in GTA 6",
-   "source": "GTA BOOM",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-26T04:24:48.334776+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Больше половины ПК-геймеров не интересуется GTA VI. Опрос показал неожиданные результаты",
-   "source": "iXBT.games",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-26T04:24:50.704295+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Crosstown Traffic Walkthrough for Both Starts and Missed Jumps",
-   "source": "GTA BOOM",
-   "trust": "medium",
-   "status": "dup",
-   "ts": "2026-11-26T04:40:15.370518+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Caught Slipping Walkthrough for Both Chases and the Bag Stash",
-   "source": "GTA BOOM",
-   "trust": "medium",
-   "status": "dup",
-   "ts": "2026-11-26T04:40:15.389930+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "GTA 6 Hidden Charges Walkthrough for All Three Cell Tower Routes",
-   "source": "GTA BOOM",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-26T04:40:23.061758+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "В GTA VI нельзя завести роман на стороне. Игроки вспомнили любовные похождения в The Witcher 3",
-   "source": "iXBT.games",
-   "trust": "medium",
-   "status": "skipped",
-   "ts": "2026-11-26T04:40:31.944271+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Rockstar назвали 6 механик Grand Theft Auto VI, которые вырезали или не реализовали",
-   "source": "Google News (RU)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-26T04:40:33.141826+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "How to Get the Free Anime Car in GTA 6",
-   "source": "GTA BOOM",
-   "trust": "medium",
-   "status": "dup",
-   "ts": "2026-11-26T04:55:53.303185+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Sexyy Red Honors Late Tay Keith After “Pound Town” Appears in 'GTA VI'",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-26T05:11:24.309743+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "All Unique Animal Map Locations in Grand Theft Auto 6",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-26T05:11:26.294573+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Waka Flocka Flame Calls 'GTA VI' Players Over 35 'Pathetic'",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-26T05:26:51.677774+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "Neuralink Trial Participant Plays GTA 6 Through His Brain Implant",
-   "source": "Google News (EN)",
-   "trust": "rumor",
-   "status": "skipped",
-   "ts": "2026-11-26T05:26:56.606377+00:00",
-   "card_title": ""
-  },
-  {
-   "title": "All Missing Persons locations in GTA 6",
-   "source": "PC Gamer",
-   "trust": "high",
-   "status": "skipped",
-   "ts": "2026-11-26T05:42:28.098528+00:00",
-   "card_title": ""
-  },
   {
    "title": "Witcher 4 vs Witcher 3: CD Projekt RED обещает скачок, сравнимый с GTA 6",
    "source": "Google News (RU)",
@@ -17915,6 +17437,46 @@
    "status": "skipped",
    "ts": "2026-11-28T05:36:40.637168+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GTA 6 Graphics: Naughty Dog Director Calls It a Veyron",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T06:00:04.952440+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "The GTA 6 Era: Can Hyper-Real Gaming Cut Its Carbon Emissions?",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T06:00:06.448781+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 takes 10 places in the UK's top 100 a week after launch",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T06:00:13.408083+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Всего 4 FPS на RTX 3060. Неофициальный порт GTA VI пока неиграбелен",
+   "source": "iXBT.games",
+   "trust": "medium",
+   "status": "skipped",
+   "ts": "2026-11-28T06:15:36.366137+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Руководитель Rockstar предвидел, что некоторым геймерам не понравится система криминальных профилей в GTA 6, но хотел дать игрокам выбор",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T06:15:37.387544+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -18272,7 +17834,9 @@
     "guide": true,
     "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
    },
-   "queued_at": "2026-11-28T00:14:03.280345+00:00"
+   "queued_at": "2026-11-28T00:14:03.280345+00:00",
+   "moderation": "pending",
+   "draft_msg_id": 216
   }
  ],
  "posts": [
@@ -18308,13 +17872,15 @@
   "2026-11-27T18:41:33.664807+00:00",
   "2026-11-27T19:42:09.193381+00:00",
   "2026-11-27T20:42:24.846714+00:00",
-  "2026-11-27T21:42:48.504030+00:00"
+  "2026-11-27T21:42:48.504030+00:00",
+  "2026-11-28T06:00:20.851208+00:00"
  ],
  "slots_sent": {
   "2026-11-26:guide:1": "2026-11-26T07:01:31.326765+00:00",
   "2026-11-26:guide:2": "2026-11-26T08:01:50.799942+00:00",
   "2026-11-27:guide:1": "2026-11-27T06:00:52.250312+00:00",
-  "2026-11-27:guide:2": "2026-11-27T07:01:30.279964+00:00"
+  "2026-11-27:guide:2": "2026-11-27T07:01:30.279964+00:00",
+  "2026-11-28:guide:1": "2026-11-28T06:00:20.851311+00:00"
  },
  "urgent": [
   "2026-11-26T18:29:20.883321+00:00"
