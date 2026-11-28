@@ -5983,7 +5983,16 @@
   "7e4811576c52115a": "2026-11-28T14:07:06.049808+00:00",
   "193d173d59610f0b": "2026-11-28T14:07:07.842620+00:00",
   "e0a16c9429755a2c": "2026-11-28T14:07:08.944936+00:00",
-  "b2f64e031a6a8599": "2026-11-28T14:07:09.710653+00:00"
+  "b2f64e031a6a8599": "2026-11-28T14:07:09.710653+00:00",
+  "db9cb1206d0f0f37": "2026-11-28T14:23:24.583015+00:00",
+  "a403090f99e03bad": "2026-11-28T14:23:47.671527+00:00",
+  "4d3b1b14ad9c604e": "2026-11-28T14:39:06.967176+00:00",
+  "db5b38c5b58858e4": "2026-11-28T14:39:08.192972+00:00",
+  "0b8689c55af73f30": "2026-11-28T14:39:39.843542+00:00",
+  "bf980fdb7e88b52a": "2026-11-28T14:39:40.685169+00:00",
+  "893ea9f251171d38": "2026-11-28T14:39:41.871139+00:00",
+  "95f7e0e3fefecf1b": "2026-11-28T14:39:43.155056+00:00",
+  "2d013bb4e809cb50": "2026-11-28T14:39:44.431618+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -10091,7 +10100,16 @@
   "43fdbf5d6c64d1e8": "2026-11-28T14:07:06.049808+00:00",
   "78b6c81221409787": "2026-11-28T14:07:07.842620+00:00",
   "c808861bd3f5e077": "2026-11-28T14:07:08.944936+00:00",
-  "9d1977b1ae27248c": "2026-11-28T14:07:09.710653+00:00"
+  "9d1977b1ae27248c": "2026-11-28T14:07:09.710653+00:00",
+  "fc0f3a9006543013": "2026-11-28T14:23:24.583015+00:00",
+  "52296f5ba40f8f1e": "2026-11-28T14:23:47.671527+00:00",
+  "50e289d251a1e6e8": "2026-11-28T14:39:06.967176+00:00",
+  "a9b1ac2aaed85b8f": "2026-11-28T14:39:08.192972+00:00",
+  "43e41252cb8d0ff9": "2026-11-28T14:39:39.843542+00:00",
+  "cde4252016b8fc2c": "2026-11-28T14:39:40.685169+00:00",
+  "332fa695c2ab4c32": "2026-11-28T14:39:41.871139+00:00",
+  "501646dd0a0dacf9": "2026-11-28T14:39:43.155056+00:00",
+  "299005a6f271b6e1": "2026-11-28T14:39:44.431618+00:00"
  },
  "recent": [
   {
@@ -17597,9 +17615,136 @@
    "status": "skipped",
    "ts": "2026-11-28T14:07:09.710776+00:00",
    "card_title": ""
+  },
+  {
+   "title": "It looks like GTA 6's Jason and Mandy might have had a history after all",
+   "source": "Eurogamer",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-28T14:22:27.589849+00:00",
+   "card_title": "СКРЫТЫЙ ДИАЛОГ ДЖЕЙСОН МЭНДИ"
+  },
+  {
+   "title": "I rescued a hogtied old man from BDSM hell in GTA 6 and all I got was $3,000",
+   "source": "GamesRadar+",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-28T14:22:30.112196+00:00",
+   "card_title": "БДСМ ПАПКА И $3 000"
+  },
+  {
+   "title": "Despite Lacking a Disc, GTA 6 Becomes This Region’s Biggest Physical Launch Since 2019",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T14:22:54.369886+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "В GTA 6 спрятали секретное радио: все станции, музыка и как открыть скрытые плейлисты",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T14:23:24.583148+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Users bought 53 million copies of GTA VI worth $4.7 billion in a week. Most copies were bought for PlayStation",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T14:23:47.671660+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "8 Most Thought-Provoking Messages in GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T14:39:06.967292+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "An unofficial port of GTA VI based on RAZDA4A XEN Wave 11 has been launched on Radeon RX 9070 XT at 52 FPS",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T14:39:08.193110+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 fans use AI to chase a PC release",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T14:39:39.843690+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Optimal HDR settings for GTA VI on 55-inch TCL TVs for different lighting conditions",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T14:39:40.685297+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How to Fix GTA 6’s Weather Glitch Without Waiting for Another Rockstar Update",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T14:39:41.871260+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Did GTA 6 get a graphics downgrade? PS5 players say update 01.002.002 looks worse; Rockstar hasn't confirmed",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T14:39:43.155187+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Is Jake Paul Target of 'GTA VI' Joke About Influencer Fighting 86-Year-Old?",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T14:39:44.431762+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
+  {
+   "item": {
+    "title": "I rescued a hogtied old man from BDSM hell in GTA 6 and all I got was $3,000",
+    "link": "https://www.gamesradar.com/games/grand-theft-auto/i-rescued-a-hogtied-old-man-from-bdsm-hell-in-gta-6-and-all-i-got-was-usd3-000/",
+    "summary": "And in that moment, Jason wished he was still unconscious",
+    "published": "2026-11-28T14:00:00+00:00",
+    "source": "GamesRadar+",
+    "site_name": "GamesRadar+",
+    "trust": "high",
+    "text": "There are so many environmental encounters in GTA 6, I think I'd need months to see them all. It seems NPCs are having loud, obnoxious conversations everywhere I turn, from tips on places to rob to animal rights activists freeing a polar bear in the middle of the highway. Loitering to hear them out comes with the risk of getting entirely sidetracked while out in free roam, so I constantly need to curb my own curiosity. Especially if I want any hope of finishing GTA 6 before Christmas.\nBut while driving away from the Port Gellhorn motel as Jason one evening, a frantic woman's pleas made me hit the brakes. She's standing beneath a huge billboard at a near deserted intersection, no car in sight, with little more than a bathrobe protecting her modesty. My Jason is a gentleman, so of course I ask her what's wrong. And so began Jason's forays into pensioner BDSM.\nThe woman thanks Jason profusely and tells her of her troubles: she and her husband were playing a game and now he's unresponsive. I agree to help her out, already wary of the fact that she's wearing thigh-high stockings under that bathrobe.\nEntering the bedroom of the couple's stately farmhouse, I see a mostly-naked man dangling from the ceiling. He's not hanging by his neck or anything. He's hogtied in a sex swing. I barely have time to register the person in a scalp-to-toe latex body suit sitting in front of a dog food bowl in the bedroom corner before the woman screeches for me to get her husband down.\nI oblige, naturally, nearly drowning in musty old people sweat as the man's bloated stomach bulges against poor Jason's face. He drops the man to the ground, proclaiming him dead – only for the dead man's wife to demand he help her dispose of the body. They're very important people, you see, and she cannot have the scandal of Death by Dominatrix tarnishing their reputation.\nI sling the fat old man back over my shoulder and head out into the yard, making for the river at the bottom edge of the property. Just as I'm about to toss him, the man sputters to life. Once he's righted himself, he starts blustering bitterly about how his wife tried to murder him. He said the safe word, after all! Jason doesn't get a chance to respond, and I'm already so deep in this elderly sex scandal that I need to know what happens next.\nI follow him back toward the house as he continues to rant about his wife's devious plot, finally confronting her in the kitchen. Why didn't she stop when he gave the safe word, he asks? She",
+    "extra": {
+     "image": "https://cdn.mos.cms.futurecdn.net/dgkevvtEtyLxBeaDuR8MXW-1920-80.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 8,
+    "post": "🤑 Поймал BDSM‑папку, получил $3 000\n\nНаткнулся в свободном режиме на старуху, которая просит снять своего мужа‑домохозяина из секс‑свинг‑клетки. Снял, получил $3 000 и успел уйти, пока он не воскрешал себя. Тот же квест — лутовый, имба‑подарок, лулз!",
+    "card_title": "БДСМ ПАПКА И $3 000",
+    "reason": "Interesting random world encounter in GTA 6 with a funny BDSM storyline, fully confirmed by media playing the released game.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
+   },
+   "queued_at": "2026-11-28T14:22:30.112180+00:00",
+   "moderation": "pending",
+   "draft_msg_id": 227
+  },
   {
    "item": {
     "title": "Even GTA 6 devs \"felt like the day would never come\" that it launches, Rockstar's Rob Nelson says",
@@ -17630,6 +17775,35 @@
    "queued_at": "2026-11-28T11:30:44.201086+00:00",
    "moderation": "pending",
    "draft_msg_id": 223
+  },
+  {
+   "item": {
+    "title": "It looks like GTA 6's Jason and Mandy might have had a history after all",
+    "link": "https://www.eurogamer.net/gta-6-jason-mandy-history-lucia-meditation-dialogue",
+    "summary": "Warning: spoilers for GTA 6 follow. Read more",
+    "published": "2026-11-28T13:05:00+00:00",
+    "source": "Eurogamer",
+    "site_name": "Eurogamer",
+    "trust": "high",
+    "text": "Mandy was one of GTA 6's breakout characters almost as soon as the game launched, but it's only now that we're learning how her obsession with Jason may have come to be.\nAs spotted by IGN, an easy-to-miss line of dialogue suggests the pair do have some kind of history. It's heard during one of Lucia's meditation sequences, which replay snippets from a character's past, usually centred on their insecurities.\nIn this particular sequence, Lucia recalls a conversation with Jason that seems to have taken place off-screen.\n\"Yeah, okay, we hooked up once, but, you know, barely. And it was a long time ago,\" Jason says. \"You don't need to worry about her, Lu. Have you seen you? I know how good I got it. I'm not gonna screw that up again.\"\nAAAAAAAAAH pic.twitter.com/4xxj8rHZAR— 𐔌 . ⋮ ιvσɾყ ֹ ₊ ꒱ (@ivysmores) November 25, 2026\nJason doesn't name Mandy, but IGN reckons the context makes it pretty clear who he's talking about. As he mentions not wanting to lose Lucia again, it believes the conversation took place after the couple first split up, and after Lucia's release from prison, when she was living in the same neighbourhood as Mandy.\nThat would also explain why Lucia is so clearly aware of Mandy. At the end of Chapter 1, while fleeing Jason's house as Lucia, players can find Mandy giving the police a statement, in which she exaggerates how close she and Jason were. If players step out of hiding, Lucia confronts her directly: \"Stay the fu*k away from Jason, you crazy bitch.\"\nLUCIA FINDS OUT ABOUTMANDY & GOES CRAZY 🤯#GTA6 #GTAVI pic.twitter.com/nTEDFb3PA8— Lanzino (@Lanziino) November 24, 2026\nThe same encounter adds weight to fan theories that Mandy is hiding something far darker, as she tells police she \"wanted to light [Jason's] house on fire so many times\".\nMandy actress Lexie Shoaibi has since spoken about her \"bittersweet\" newfound fame, revealing that people keep trying to impersonate her on social media. She also said she spent around 10 days on set playing Mandy, and voiced several other NPCs while working with Rockstar.\nGTA 6 launched on Thursday, 19th November, for PS5 and Xbox Series X/S. It's the biggest entertainment launch of all time, selling 32.5 million pre-release copies and making $3.79 billion by the end of its first day.\nEurogamer called GTA 6 an open world of \"awe, minute detail and impossible scale\" in our five-star GTA 6 review.\nIf you're visiting Leonida this weekend, make sure you check out Eurogamer's GTA 6 walkthrough where our guides te",
+    "extra": {
+     "image": "https://assetsio.gnwcdn.com/gta-6-pipework-meeting-mandy.jpg?width=690&quality=85&format=jpg&auto=webp"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "🕵️‍♂️ Скрытый диалог раскрывает тайну Джейсона и Мэнди\n\nНаконец нашли строку, где Джейсон признаётся, что с Мэнди у него был роман. Это меняет всё, ведь теперь её вражда с Люсией выглядит совсем иначе. Зацените, как мелочь в медитации раскрывает квестовый вайб. 🤯",
+    "card_title": "СКРЫТЫЙ ДИАЛОГ ДЖЕЙСОН МЭНДИ",
+    "reason": "Подтвержденная деталь сюжета про Джейсона и Мэнди из игры, найдено в диалоге.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
+   },
+   "queued_at": "2026-11-28T14:22:27.589834+00:00"
   },
   {
    "item": {
@@ -17723,7 +17897,8 @@
   "2026-11-28T06:00:20.851208+00:00",
   "2026-11-28T07:00:44.245024+00:00",
   "2026-11-28T08:04:25.437087+00:00",
-  "2026-11-28T11:30:54.452759+00:00"
+  "2026-11-28T11:30:54.452759+00:00",
+  "2026-11-28T14:23:52.772995+00:00"
  ],
  "slots_sent": {
   "2026-11-27:guide:1": "2026-11-27T06:00:52.250312+00:00",
@@ -23157,94 +23332,5 @@
   "digest-20261126": "2026-11-26T19:30:31.000089+00:00",
   "digest-20261127": "2026-11-27T19:30:25.546809+00:00"
  },
- "rewrite_wait": [
-  {
-   "item": {
-    "title": "It looks like GTA 6's Jason and Mandy might have had a history after all",
-    "link": "https://www.eurogamer.net/gta-6-jason-mandy-history-lucia-meditation-dialogue",
-    "summary": "Warning: spoilers for GTA 6 follow. Read more",
-    "published": "2026-11-28T13:05:00+00:00",
-    "source": "Eurogamer",
-    "site_name": "Eurogamer",
-    "trust": "high",
-    "text": "Mandy was one of GTA 6's breakout characters almost as soon as the game launched, but it's only now that we're learning how her obsession with Jason may have come to be.\nAs spotted by IGN, an easy-to-miss line of dialogue suggests the pair do have some kind of history. It's heard during one of Lucia's meditation sequences, which replay snippets from a character's past, usually centred on their insecurities.\nIn this particular sequence, Lucia recalls a conversation with Jason that seems to have taken place off-screen.\n\"Yeah, okay, we hooked up once, but, you know, barely. And it was a long time ago,\" Jason says. \"You don't need to worry about her, Lu. Have you seen you? I know how good I got it. I'm not gonna screw that up again.\"\nAAAAAAAAAH pic.twitter.com/4xxj8rHZAR— 𐔌 . ⋮ ιvσɾყ ֹ ₊ ꒱ (@ivysmores) November 25, 2026\nJason doesn't name Mandy, but IGN reckons the context makes it pretty clear who he's talking about. As he mentions not wanting to lose Lucia again, it believes the conversation took place after the couple first split up, and after Lucia's release from prison, when she was living in the same neighbourhood as Mandy.\nThat would also explain why Lucia is so clearly aware of Mandy. At the end of Chapter 1, while fleeing Jason's house as Lucia, players can find Mandy giving the police a statement, in which she exaggerates how close she and Jason were. If players step out of hiding, Lucia confronts her directly: \"Stay the fu*k away from Jason, you crazy bitch.\"\nLUCIA FINDS OUT ABOUTMANDY & GOES CRAZY 🤯#GTA6 #GTAVI pic.twitter.com/nTEDFb3PA8— Lanzino (@Lanziino) November 24, 2026\nThe same encounter adds weight to fan theories that Mandy is hiding something far darker, as she tells police she \"wanted to light [Jason's] house on fire so many times\".\nMandy actress Lexie Shoaibi has since spoken about her \"bittersweet\" newfound fame, revealing that people keep trying to impersonate her on social media. She also said she spent around 10 days on set playing Mandy, and voiced several other NPCs while working with Rockstar.\nGTA 6 launched on Thursday, 19th November, for PS5 and Xbox Series X/S. It's the biggest entertainment launch of all time, selling 32.5 million pre-release copies and making $3.79 billion by the end of its first day.\nEurogamer called GTA 6 an open world of \"awe, minute detail and impossible scale\" in our five-star GTA 6 review.\nIf you're visiting Leonida this weekend, make sure you check out Eurogamer's GTA 6 walkthrough where our guides te",
-    "extra": {
-     "image": "https://assetsio.gnwcdn.com/gta-6-pipework-meeting-mandy.jpg?width=690&quality=85&format=jpg&auto=webp"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 7,
-    "post": "Тайное прошлое Джейсона\n\nВ диалогах во время медитации Люсии всплывает занятная деталь: Джейсон подтверждает, что у него была интрижка с Мэнди. Кажется, ее одержимость парнем теперь обретает полный смысл.\n\n❤️ — Ждем драку Люсии и Мэнди\n👎 — Да пофиг на их разборки",
-    "card_title": "ТАЙНА ПРОШЛОГО ДЖЕЙСОНА",
-    "reason": "Подтвержденная деталь сюжета про Джейсона и Мэнди из игры, найдено в диалоге.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-28T13:20:32.018336+00:00"
-  },
-  {
-   "item": {
-    "title": "I rescued a hogtied old man from BDSM hell in GTA 6 and all I got was $3,000",
-    "link": "https://www.gamesradar.com/games/grand-theft-auto/i-rescued-a-hogtied-old-man-from-bdsm-hell-in-gta-6-and-all-i-got-was-usd3-000/",
-    "summary": "And in that moment, Jason wished he was still unconscious",
-    "published": "2026-11-28T14:00:00+00:00",
-    "source": "GamesRadar+",
-    "site_name": "GamesRadar+",
-    "trust": "high",
-    "text": "There are so many environmental encounters in GTA 6, I think I'd need months to see them all. It seems NPCs are having loud, obnoxious conversations everywhere I turn, from tips on places to rob to animal rights activists freeing a polar bear in the middle of the highway. Loitering to hear them out comes with the risk of getting entirely sidetracked while out in free roam, so I constantly need to curb my own curiosity. Especially if I want any hope of finishing GTA 6 before Christmas.\nBut while driving away from the Port Gellhorn motel as Jason one evening, a frantic woman's pleas made me hit the brakes. She's standing beneath a huge billboard at a near deserted intersection, no car in sight, with little more than a bathrobe protecting her modesty. My Jason is a gentleman, so of course I ask her what's wrong. And so began Jason's forays into pensioner BDSM.\nThe woman thanks Jason profusely and tells her of her troubles: she and her husband were playing a game and now he's unresponsive. I agree to help her out, already wary of the fact that she's wearing thigh-high stockings under that bathrobe.\nEntering the bedroom of the couple's stately farmhouse, I see a mostly-naked man dangling from the ceiling. He's not hanging by his neck or anything. He's hogtied in a sex swing. I barely have time to register the person in a scalp-to-toe latex body suit sitting in front of a dog food bowl in the bedroom corner before the woman screeches for me to get her husband down.\nI oblige, naturally, nearly drowning in musty old people sweat as the man's bloated stomach bulges against poor Jason's face. He drops the man to the ground, proclaiming him dead – only for the dead man's wife to demand he help her dispose of the body. They're very important people, you see, and she cannot have the scandal of Death by Dominatrix tarnishing their reputation.\nI sling the fat old man back over my shoulder and head out into the yard, making for the river at the bottom edge of the property. Just as I'm about to toss him, the man sputters to life. Once he's righted himself, he starts blustering bitterly about how his wife tried to murder him. He said the safe word, after all! Jason doesn't get a chance to respond, and I'm already so deep in this elderly sex scandal that I need to know what happens next.\nI follow him back toward the house as he continues to rant about his wife's devious plot, finally confronting her in the kitchen. Why didn't she stop when he gave the safe word, he asks? She",
-    "extra": {
-     "image": "https://cdn.mos.cms.futurecdn.net/dgkevvtEtyLxBeaDuR8MXW-1920-80.jpg"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "ВСТРЕЧА С БУМЕРАМИ\n\nДжейсон случайно вляпался в дикий квест с БДСМ-пенсионерами в Порт-Гелхорне, получив за спасение деда всего три косаря. Вот это вайб, катка удалась!\n\n❤️ — Жизненная ситуация\n👎 — Кринж полный",
-    "card_title": "СЕКРЕТНЫЙ КВЕСТ С BDSM",
-    "reason": "Interesting random world encounter in GTA 6 with a funny BDSM storyline, fully confirmed by media playing the released game.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": false,
-   "since": "2026-11-28T14:07:02.653990+00:00"
-  },
-  {
-   "item": {
-    "title": "Despite Lacking a Disc, GTA 6 Becomes This Region’s Biggest Physical Launch Since 2019",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTXRnVFRkUXFwU0RBTDBUSk1nWElxR3BlUjM0ZTJwSWtLWGhOTjY5WExQZUZqa3VWa1NWX0x0cVJFZWJpam1Xank4alVlMUFXZ19GXy00MDhkcWt6ZWx0NHYxSXNiYko3Mi1MdFU0aUdPeHB3dXU4bUt3Y0xhV0NKaUNTN2pXUTFoZ1JhMkUwX2g5YzFTVXpuZGdGaUxBVjZ0OHl1c1kxZzNXNFJkUS1Wb1p5bkRIOWNw?oc=5",
-    "summary": "Despite Lacking a Disc, GTA 6 Becomes This Region’s Biggest Physical Launch Since 2019 www.levelup.com",
-    "published": "2026-11-28T14:00:00+00:00",
-    "source": "Google News (EN)",
-    "site_name": "www.levelup.com",
-    "trust": "rumor",
-    "text": "Despite Lacking a Disc, GTA 6 Becomes This Region’s Biggest Physical Launch Since 2019 www.levelup.com",
-    "extra": {}
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 8,
-    "post": "РЕКОРДНЫЙ запуск без дисков\n\nGTA 6 порвала все шаблоны и стала крупнейшим физическим релизом региона с 2019 года, хотя самого диска в коробке даже не было. Вот это имба, рофл полный.",
-    "card_title": "РЕКОРДНЫЙ ФИЗИЧЕСКИЙ ЗАПУСК GTA 6",
-    "reason": "Новость о том, что релиз GTA 6 стал крупнейшим физическим запуском в регионе с 2019 года несмотря на отсутствие диска, является подтвержденным фактом и интересна геймерам.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite"
-   },
-   "corr": true,
-   "since": "2026-11-28T14:07:06.722708+00:00"
-  }
- ]
+ "rewrite_wait": []
 }
