@@ -5847,7 +5847,11 @@
   "9f0691d1dea93110": "2026-11-28T08:16:55.054587+00:00",
   "726fae05d8ebd924": "2026-11-28T08:17:50.058770+00:00",
   "9a9c78884ebbb3b4": "2026-11-28T08:17:52.446383+00:00",
-  "c06025c2260c4c7b": "2026-11-28T08:18:05.130073+00:00"
+  "c06025c2260c4c7b": "2026-11-28T08:18:05.130073+00:00",
+  "3b0933ca4efe462b": "2026-11-28T08:20:06.683610+00:00",
+  "72f488a387a04fb4": "2026-11-28T08:20:07.772452+00:00",
+  "708a0999f883198b": "2026-11-28T08:20:08.594658+00:00",
+  "369b112646dc7429": "2026-11-28T08:35:25.288962+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -9881,7 +9885,11 @@
   "f30482c1c9af670f": "2026-11-28T07:47:47.725805+00:00",
   "fd1a3972a4f6fb42": "2026-11-28T08:03:08.570593+00:00",
   "c62eb771b00611ab": "2026-11-28T08:04:17.087028+00:00",
-  "96d1191cbc9596f7": "2026-11-28T08:04:17.936745+00:00"
+  "96d1191cbc9596f7": "2026-11-28T08:04:17.936745+00:00",
+  "b53459ebaf7ce83c": "2026-11-28T08:20:06.683610+00:00",
+  "70d1c8909bceb191": "2026-11-28T08:20:07.772452+00:00",
+  "41ea2aed9074d198": "2026-11-28T08:20:08.594658+00:00",
+  "3376f29b76e51443": "2026-11-28T08:35:25.288962+00:00"
  },
  "recent": [
   {
@@ -17651,6 +17659,38 @@
    "status": "skipped",
    "ts": "2026-11-28T08:04:17.936868+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GTA 6 Florida Man: Satire, Influencers and Social Media",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T08:20:06.683721+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Could Make Your PC the Most Expensive Part of the Console War",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T08:20:07.772569+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI Controversy: Sexism, Violence and Gaming Ethics",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T08:20:08.594777+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Stash Bag Duplication Glitch: How to Sell the Loot",
+   "source": "GTA BOOM",
+   "trust": "medium",
+   "status": "dup",
+   "ts": "2026-11-28T08:35:25.288992+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -17942,36 +17982,6 @@
   "2026-11-26T18:29:20.883321+00:00"
  ],
  "clips": [
-  {
-   "clip": {
-    "source": "twitch",
-    "url": "https://www.twitch.tv/bratishkinoff/clip/ViscousTenaciousMilkHeyGirl-iFSaxWNhfKWBzefl",
-    "title": "Фулл",
-    "author": "bratishkinOFF",
-    "views": 1510,
-    "duration": 10.6,
-    "created": "2026-11-26T20:26:52+00:00",
-    "lang": "ru",
-    "description": "",
-    "vod_id": "2941301054",
-    "vod_offset": 25268.0
-   },
-   "caption": "🔞 В гардеробе GTA 6 при примерке отвалились текстуры одежды — Братишкин словил лютый тильт 💀",
-   "interest": 9,
-   "spoiler": false,
-   "nsfw": true,
-   "watched": true,
-   "model": "gemini:gemini-3.5-flash",
-   "media": {
-    "width": null,
-    "height": 720,
-    "duration": 10
-   },
-   "queued_at": "2026-11-27T08:14:57.085033+00:00",
-   "file_id": "BAACAgIAAxkDAAPFawk8AgW3-TRRXimYlGDB20m0se0AAiewAAJzy0lIlMRU3wxdWKo9BA",
-   "moderation": "pending",
-   "draft_msg_id": 197
-  },
   {
    "clip": {
     "source": "twitch",
