@@ -5762,7 +5762,12 @@
   "7c14a28e9212e61b": "2026-11-27T23:38:23.104535+00:00",
   "09a20cb4bf59ee45": "2026-11-27T23:38:24.027370+00:00",
   "434ca5817a39ab56": "2026-11-27T23:38:25.461345+00:00",
-  "73b2179cb0128df0": "2026-11-27T23:38:26.748562+00:00"
+  "73b2179cb0128df0": "2026-11-27T23:38:26.748562+00:00",
+  "eb236b80313b0d2d": "2026-11-27T23:53:48.683755+00:00",
+  "79d675228e6e1882": "2026-11-28T00:09:10.078551+00:00",
+  "72befb8df18924d0": "2026-11-28T00:09:11.654425+00:00",
+  "31edd86d0acd0735": "2026-11-28T00:09:12.561934+00:00",
+  "3bdb67a0204a5121": "2026-11-28T00:09:13.901764+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -9735,7 +9740,12 @@
   "e240b26fe125a378": "2026-11-27T23:38:23.104535+00:00",
   "e3e8ef49fb7d354a": "2026-11-27T23:38:24.027370+00:00",
   "558d10973a44048d": "2026-11-27T23:38:25.461345+00:00",
-  "4a597991e126561b": "2026-11-27T23:38:26.748562+00:00"
+  "4a597991e126561b": "2026-11-27T23:38:26.748562+00:00",
+  "dc0b078add7325af": "2026-11-27T23:53:48.683755+00:00",
+  "8876a120aa20fce0": "2026-11-28T00:09:10.078551+00:00",
+  "b04b9e8c628647ae": "2026-11-28T00:09:11.654425+00:00",
+  "2972f8eeea81c86f": "2026-11-28T00:09:12.561934+00:00",
+  "df6022aa46076037": "2026-11-28T00:09:13.901764+00:00"
  },
  "recent": [
   {
@@ -18681,40 +18691,41 @@
    "status": "skipped",
    "ts": "2026-11-27T23:38:26.748687+00:00",
    "card_title": ""
+  },
+  {
+   "title": "Сравнение GTA 6 с ранними трейлерами показало существенное различия в графике",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-27T23:53:48.683879+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Gone but not forgotten: Cape Romano Dome Homes appear in GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T00:09:11.654579+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI record-breaking launch: New figures reveal stunning success",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T00:09:12.562069+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "1976 Country Rock Classic Given A New Lease Of Life Thanks to GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T00:09:13.901905+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
-  {
-   "item": {
-    "title": "GTA 6 multiplayer reportedly running on PC as unofficial ports near completion",
-    "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-multiplayer-reportedly-running-on-pc-as-unofficial-ports-near-completion-but-its-certainly-no-grand-theft-auto-online/",
-    "summary": "There are apparently mods now, too",
-    "published": "2026-11-27T11:53:08+00:00",
-    "source": "GamesRadar+",
-    "site_name": "GamesRadar+",
-    "trust": "high",
-    "text": "The lack of an official GTA 6 launch on PC hasn't stopped fans from attempting to tackle one themselves, with many projects allegedly making quick progress toward a working version of Rockstar's behemoth – and, now, multiplayer, too.\nIn case you're out of the loop, this is all being tracked on PortWatch – a platform dedicated to updating folks with progress on every unofficial PC port currently in development. As of now, the website claims we're 91.3% of the way to seeing one fully come to fruition… but that's not the most eye-catching news on there. Late last night, PortWatch reported that \"GTA 6 multiplayer is running on PC.\" Yes, multiplayer.\n\"TeK's group has players, cars and proximity voice chat working at a stable 25 to 30 fps, on a private fork of CGBJ's build,\" their update reads. \"PortWatch has verified the video is real.\" For reference, \"TeK's group\" is one of the teams heading the (again, unofficial) race to get GTA 6 on PC. Apparently, their take on multiplayer features \"player characters and vehicles together in the world, with proximity voice chat, so you hear the players near you.\" It is \"private,\" of course, but still – this is sort of mind-boggling, as PortWatch notes. \"Until now, every build we track has been single-player: getting GTA 6's story to run on PC at all has taken everyone's effort. Multiplayer means separate copies of the game agreeing on where every player and car is, and no build on our board had shown that before.\" Especially seeing as there's been no word from Rockstar on GTA 6 Online.\nAll of this started with notorious GTA 6 leaker \"Cyberleek,\" who uploaded an executable file for the Xbox build of the game they previously dropped online. That's when groups like TeK picked it up and began working toward a PC version of Grand Theft Auto 6. It's not the only feat fans have taken upon themselves, either. As per VideoCardz, we've seemingly got mods popping up now, too – a possibility that previously felt uncertain thanks to Rockstar's anti-cheat software.\nIn other words, there's a lot going on right now – but, yet another disclaimer, none of it's official… and it's likely that Rockstar will eventually crack down when things start going live and public (should they do so). Here's hoping we get an actual PC launch someday, though.\nCheck our GTA 6 review to learn how we feel about one of the biggest new games this year, or read through our GTA 6 guide for more about Rockstar's stunning release.\n4. Best pro Xbox: Nacon Revolution ",
-    "extra": {
-     "image": "https://cdn.mos.cms.futurecdn.net/ruB3Hrjv4rqSN9d38kkzEV-1920-80.jpg"
-    }
-   },
-   "verdict": {
-    "type": "rumor",
-    "importance": 8,
-    "post": "🔥 В неофициальном ПК-порте GTA 6 уже работает МУЛЬТИПЛЕЕР\n\nПока Rockstar молчит про онлайн, команда TeK на приватной сборке запустила игру с игроками, тачками и войс-чатом в 25–30 fps. PortWatch подтвердил, что видео не фейк — лютый флекс, пока юристы студии не проснулись.\n\n❤️ — го хоть в 25 fps\n👎 — жду нормальный релиз",
-    "card_title": "ФАНАТЫ ЗАПУСТИЛИ МУЛЬТИПЛЕЕР GTA 6",
-    "reason": "Энтузиасты запустили неофициальный мультиплеер GTA 6 на ПК по слухам от GamesRadar",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-4-hydrogen"
-   },
-   "queued_at": "2026-11-27T12:03:01.295414+00:00",
-   "moderation": "pending",
-   "draft_msg_id": 201
-  },
   {
    "item": {
     "title": "Losing Six Stars in GTA 6 Is Meant to Be Impossible, but Players Are Trying Everything From Interdimensional Portals to Hidden Bunkers",
@@ -19107,37 +19118,6 @@
     "model": "gemini:gemini-3.5-flash-lite → groq:openai/gpt-oss-120b"
    },
    "queued_at": "2026-11-27T21:49:08.654817+00:00"
-  },
-  {
-   "item": {
-    "title": "Исследовательница городской географии объяснила, почему мир GTA VI кажется таким реалистичным",
-    "link": "https://ixbt.games/news/2026/11/27/issledovatelnica-gorodskoi-geografii-obieiasnila-pocemu-mir-gta-vi-kazetsia-takim-realisticnym.html",
-    "summary": "Некоторые специалисты изучают устройство городов и в видеоиграх.",
-    "published": "2026-11-27T11:14:00+00:00",
-    "source": "iXBT.games",
-    "site_name": "iXBT.games",
-    "trust": "medium",
-    "text": "Некоторые специалисты изучают устройство городов и в видеоиграх.\nНедавно состоялся релиз Grand Theft Auto VI и игроки отправились исследовать виртуальный штат Леонида. К новинке Rockstar Games приобщились не только «обычные» люди, но и, например, доцент Калифорнийского университета в Беркли, которая изучает городскую географию и виртуальные пространства.\nЭмма Фрейзер (Emma Fraser) объяснила, почему мир GTA VI кажется игрокам таким похожим на реальный мир. Исследовательница объяснила, что у штата Леонида есть «узнаваемость окружающей среды»: он не является точной копией — отсутствуют многие элементы, вроде детских садов или школ, а парковочных мест относительно мало.\nОднако игра достаточно точно передаёт характерные детали, определённые части города выглядят правильно: освещение, оформление перекрёстков, основные магистрали. Игроки смогут увидеть достаточно элементов, которые создадут ощущение, что они находятся в месте, которое напоминает реальный Майами.\nЭмма объяснила, что авторы Grand Theft Auto VI создали множетво узнаваемых образов, отражающих особенности штата Флорида и города Майами:\nВы не можете удержать в голове целый город. Вместо этого в памяти остаются отдельные яркие моменты. То, что [Rockstar] очень удачно делают в игре — создаёт такие образы. В этой игре гораздо больше контента, который напоминает особенности Флориды или Майами, чем в предыдущих играх. Поэтому возникает гораздо более сильное ощущение, что вы действительно находитесь в этом месте.\nПо её мнению, нельзя «просто сгенерировать обычный город и расставить значки», как делают во многих играх — в таком случае игрок «не почувствует атмосферу реального места».\nТеперь Фрейзер надеется использовать Grand Theft Auto VI для исследования того, как люди ведут себя в виртуальном и реальном мире — её интересует их перемещение по городам.\nСейчас Grand Theft Auto VI официально представлена на консолях PlayStation 5 и Xbox Series X|S, однако после утечки билда начали создавать различные ПК-порты. Первые версии уже появились в сети в открытом доступе: техно-энтузиасты продолжают работать, а юристы Take-Two пытаются сворачивать подобные проекты.\nВ сети появилась пиратская ПК-версия GTA VI — вышли первые моды, лаунчер и спавнер транспорта\nНе пропускайте наши новостиДобавьте сайт в предпочитаемые источники, чтобы видеть нас чащеДобавить в Google",
-    "extra": {
-     "image": "https://media.ixbt.games/fit-in/1600x1200/jpeg/ixbt-images/1747011/media-fcb31665ea7aa78fb72a7d512badb2a436e4f21523c73501dd712779a6449795.png"
-    }
-   },
-   "verdict": {
-    "type": "confirmed",
-    "importance": 6,
-    "post": "🧠 Учёная объяснила, почему Леонида в GTA 6 такая РЕАЛИСТИЧНАЯ\n\nЭмма Фрейзер из Беркли заметила базу: в штате нет школ и мало парковок, но свет, перекрёстки и вайб Майами переданы так точно, что мозг сразу верит. Теперь она хочет изучать поведение игроков в городе — видимо, смотреть, как мы паркуемся в столб.",
-    "card_title": "ПОЧЕМУ ШТАТ ЛЕОНИДА ТАКОЙ ЖИВОЙ",
-    "reason": "Интересный разбор реалистичности мира GTA 6 от географа, но новость носит аналитический характер.",
-    "duplicate": false,
-    "corroborated": false,
-    "duplicate_of": "",
-    "corroborated_by": "",
-    "guide": false,
-    "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-4-hydrogen"
-   },
-   "queued_at": "2026-11-27T12:02:38.322624+00:00",
-   "moderation": "pending",
-   "draft_msg_id": 203
   }
  ],
  "posts": [
@@ -24811,6 +24791,36 @@
    },
    "corr": true,
    "since": "2026-11-27T23:38:21.828963+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA 6 Stash Bag Money Glitch—Duplication Trick To Make Millions",
+    "link": "https://insider-gaming.com/how-to-gta-6-money-glitch-stash-bag-duplication/",
+    "summary": "There's a new GTA 6 money glitch that involves duplicating stash bags, and this is exactly how you can do it. The post GTA 6 Stash Bag Money Glitch—Duplication Trick To Make Millions appeared first on Insider Gaming .",
+    "published": "2026-11-27T23:53:40+00:00",
+    "source": "Insider Gaming",
+    "site_name": "Insider Gaming",
+    "trust": "medium",
+    "text": "There’s a new GTA 6 stash bag money glitch doing the rounds, and by taking advantage of it, you can make millions of dollars in a matter of minutes, provided you do things the right way. It’s by far and wide the easiest money glitch in GTA 6, and it will allow you to generate stacks of cash with almost no effort involved.\nThe problem is, everyone is going crazy about it on social media, and it’ll probably be patched by Rockstar Games in hours. It’s a good idea to take advantage of it while you can to make your millions without issue.\nBelow, I’ve mapped out exactly how to do the new stash bag glitch in GTA 6 for unlimited money.\nHow to Duplicate Stash Bags in GTA 6 (Free Money Glitch)\nIn GTA 6, you’ll want to follow these steps to get yourself a fat wad of cash with almost no effort.\nGet a stash bag by robbing somewhere with jewelry, drugs, or marked notes (IMPORTANT: If you start with a full bag, it makes the glitch much more valuable)\nGet away from wherever you’ve obtained the stash bag to ensure you’re not distracted by the police or other enemies\nCrouch down and then don’t touch the left thumbstick again\nBring up the weapon wheel, then hit R1 or RB to switch to the ‘Items’ panel\nHover over the stash bag and hold B or CIRCLE to drop the bag\nWithout touching the left thumbstick, swivel the camera with the right stick and pick up the stash bag again\nIf you’ve done it correctly (and I can’t see how you wouldn’t), you’ll see the value of the stash bag added to the value of the stash bag.\nBy that, I mean if you have a $10,000 stash bag and you do this glitch, you’ll see it move to $20,000, then $30,000, and so on. It’ll top out around 8 – 12 times, for some reason, so you’re limited in that respect, but as long as you can keep grabbing bags, you can keep doing the stash bag duplication glitch.\nIf you have two bags, you drop bag 2/2 first and then bag 1/1, and then pick them both up using the same method as above, and they’ll both duplicate. It’s money on money.\nYou can maximize your gains further by selling whatever loot you’ve got to the fence who offers the most for it. For example, if you’ve maxed out your relationship with Tyrone, he offers the most money for narcotics, so that’s a good place to start.\nThat’s it! That’s exactly how you duplicate stash bags in GTA 6 to make unlimited money.\nIf you need to know anything else about Grand Theft Auto 6, make sure you stop by our full guides hub. It contains everything you could need to learn about the most imp",
+    "extra": {
+     "image": "https://insider-gaming.com/wp-content/uploads/2026/11/6480ca93-1849-4c7e-8a1e-dd324c23dca8-1024x576.png"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "🗺 Гайд: ДЕНЬГИ из воздуха\n\nВ GTA 6 завезли имбовый глитч со схронами, который позволяет поднять лямы за пару минут, пока Rockstar это не фиксанули.\n\nБерем сумку с лутом, приседаем без движения стика, открываем колесо оружия и сбрасываем предмет через меню предметов, а затем подбираем снова для дублирования.\n\n❤️ — Успел фартануть\n👎 — Уже пофиксили, ор",
+    "card_title": "ГЛИТЧ НА ДЕНЬГИ В GTA 6",
+    "reason": "Глитч на бесконечные деньги в игре — полезный секрет для игроков",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": true,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-28T00:09:10.706355+00:00"
   }
  ]
 }
