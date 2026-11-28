@@ -5935,7 +5935,14 @@
   "f98d70fc544c3566": "2026-11-28T12:03:49.447015+00:00",
   "00e9cec317ac2194": "2026-11-28T12:03:50.554188+00:00",
   "ed47179e8c80f862": "2026-11-28T12:03:51.660885+00:00",
-  "4f33565a1ea05daf": "2026-11-28T12:03:52.828496+00:00"
+  "4f33565a1ea05daf": "2026-11-28T12:03:52.828496+00:00",
+  "6c2502ac88ce2823": "2026-11-28T12:34:21.683317+00:00",
+  "f7418650cd739a04": "2026-11-28T12:34:22.486464+00:00",
+  "4b866289a25ce0a4": "2026-11-28T12:34:23.599269+00:00",
+  "b75bf14d81e5cee0": "2026-11-28T12:34:24.769679+00:00",
+  "85e6f3f932aa0cb7": "2026-11-28T12:49:37.887787+00:00",
+  "f33428ae36e9bf4a": "2026-11-28T12:49:38.869542+00:00",
+  "21288ffb5bd3a6c0": "2026-11-28T12:49:39.821694+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -10012,7 +10019,14 @@
   "1b345fd5611c8965": "2026-11-28T12:03:49.447015+00:00",
   "a9a7bbd52ce30897": "2026-11-28T12:03:50.554188+00:00",
   "8316aaa56febb43c": "2026-11-28T12:03:51.660885+00:00",
-  "1e5f985973973b83": "2026-11-28T12:03:52.828496+00:00"
+  "1e5f985973973b83": "2026-11-28T12:03:52.828496+00:00",
+  "b55749d9dbc38541": "2026-11-28T12:34:21.683317+00:00",
+  "0bfa999ff080f566": "2026-11-28T12:34:22.486464+00:00",
+  "118874bd06102ce6": "2026-11-28T12:34:23.599269+00:00",
+  "83e5cabb5c02fd87": "2026-11-28T12:34:24.769679+00:00",
+  "485986d751bc3a08": "2026-11-28T12:49:37.887787+00:00",
+  "2b7ccafdb1837b41": "2026-11-28T12:49:38.869542+00:00",
+  "3ef08bb51944d5e6": "2026-11-28T12:49:39.821694+00:00"
  },
  "recent": [
   {
@@ -17294,6 +17308,62 @@
    "status": "skipped",
    "ts": "2026-11-28T12:03:52.828632+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GTA 6: How To Rob Banks & Not Get Caught",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T12:34:21.683419+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "‘GTA 6’ Meets ‘Tiger King’ in the HBO Max Sensation Officially Returning Next Week",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T12:34:22.486598+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "За девять дней аудитория стримов GTA VI рухнула на 88%",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T12:34:23.599392+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Первый патч GTA 6 ухудшил графику на PS5 Pro: игроки бьют тревогу",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T12:34:24.769791+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Игра GTA 6 убивает консоли?",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T12:49:37.887907+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 уже можно играть на ПК с частотой 30 FPS в 4K",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T12:49:38.869688+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Фанатский ПК-порт GTA VI застопорился из-за архитектуры памяти",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T12:49:39.821826+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -17431,36 +17501,6 @@
   "2026-11-26T18:29:20.883321+00:00"
  ],
  "clips": [
-  {
-   "clip": {
-    "source": "twitch",
-    "url": "https://www.twitch.tv/illojuan/clip/CharmingShyVampireDxAbomb-6_UAd-H_bBFN59dY",
-    "title": "jason?",
-    "author": "IlloJuan",
-    "views": 529,
-    "duration": 60.0,
-    "created": "2026-11-26T19:59:28+00:00",
-    "lang": "es",
-    "description": "",
-    "vod_id": "2941530066",
-    "vod_offset": 5378.0
-   },
-   "caption": "Поездка на байке с Джейсоном превратилась в лютый разнос из-за бага с физикой. Иллуху знатно поджало под грузовик, просто ору с этого вайба 💀",
-   "interest": 8,
-   "spoiler": false,
-   "nsfw": false,
-   "watched": true,
-   "model": "gemini:gemini-3.1-flash-lite",
-   "media": {
-    "width": null,
-    "height": 720,
-    "duration": 60
-   },
-   "queued_at": "2026-11-27T12:49:36.360051+00:00",
-   "file_id": "BAACAgIAAxkDAAPKawl8YgLcuC3Mdrb9XXQh5f3pd8oAAlq0AAJzy0lI8gvNHKmrSaI9BA",
-   "moderation": "pending",
-   "draft_msg_id": 202
-  },
   {
    "clip": {
     "source": "twitch",
