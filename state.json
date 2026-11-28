@@ -6012,7 +6012,25 @@
   "1df69eddcbe31c60": "2026-11-28T15:42:15.081149+00:00",
   "e05946bf8a420210": "2026-11-28T15:42:16.139966+00:00",
   "38d84286bc9c867e": "2026-11-28T15:42:17.373888+00:00",
-  "14fa271bef2ea35d": "2026-11-28T15:42:18.452980+00:00"
+  "14fa271bef2ea35d": "2026-11-28T15:42:18.452980+00:00",
+  "fda8835deb1d2d85": "2026-11-28T15:57:33.598134+00:00",
+  "9f77b9c1e38bb1de": "2026-11-28T15:57:34.933968+00:00",
+  "5007907a37a3041d": "2026-11-28T15:58:01.226118+00:00",
+  "7250ffdf60bd4de0": "2026-11-28T15:58:02.390731+00:00",
+  "d6d73395025bba08": "2026-11-28T15:58:03.510609+00:00",
+  "ce4fdc1357a52489": "2026-11-28T15:58:04.517659+00:00",
+  "e1220a52d16ba6a6": "2026-11-28T15:58:05.788887+00:00",
+  "c30be574d0afe101": "2026-11-28T15:58:06.827193+00:00",
+  "248182ccdb7cbdfa": "2026-11-28T15:58:08.029673+00:00",
+  "8f2438e0f343ec15": "2026-11-28T16:13:20.375499+00:00",
+  "dc2df15ec826aeba": "2026-11-28T16:13:20.375565+00:00",
+  "f78f5f55f9db4578": "2026-11-28T16:13:21.887268+00:00",
+  "93c863827c2fc21c": "2026-11-28T16:13:23.844106+00:00",
+  "ce24097ea8356aa6": "2026-11-28T16:13:25.672962+00:00",
+  "b2c225ce0c93e2b8": "2026-11-28T16:13:27.468664+00:00",
+  "c47cc72c0aa4d606": "2026-11-28T16:13:28.539120+00:00",
+  "f1b60052d7f00891": "2026-11-28T16:13:29.755960+00:00",
+  "ea331a721fb95d73": "2026-11-28T16:13:30.931732+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -10148,7 +10166,22 @@
   "387c1ab1ffe82bff": "2026-11-28T15:42:15.081149+00:00",
   "ecb9f9957cd04452": "2026-11-28T15:42:16.139966+00:00",
   "1da336233c76087f": "2026-11-28T15:42:17.373888+00:00",
-  "fb34f1179617e7b9": "2026-11-28T15:42:18.452980+00:00"
+  "fb34f1179617e7b9": "2026-11-28T15:42:18.452980+00:00",
+  "a87e940652603a1d": "2026-11-28T15:57:34.933968+00:00",
+  "0dc3939929a53b3a": "2026-11-28T15:58:01.226118+00:00",
+  "c407ab57980570e4": "2026-11-28T15:58:02.390731+00:00",
+  "95060724b4e9f51e": "2026-11-28T15:58:03.510609+00:00",
+  "c3f17ef7b23bbbea": "2026-11-28T15:58:04.517659+00:00",
+  "54d02ab836f68e94": "2026-11-28T15:58:05.788887+00:00",
+  "b434030c75985f5a": "2026-11-28T15:58:06.827193+00:00",
+  "f33c8591fb2c7733": "2026-11-28T15:58:08.029673+00:00",
+  "fa5d1f2cb2cea34d": "2026-11-28T16:13:23.844106+00:00",
+  "9324a528c99005bb": "2026-11-28T16:13:25.672962+00:00",
+  "badf25e7fcf5fd24": "2026-11-28T16:13:21.887268+00:00",
+  "b879c9998a5c1db1": "2026-11-28T16:13:27.468664+00:00",
+  "693103421029fb39": "2026-11-28T16:13:28.539120+00:00",
+  "d865ab7808ee9a34": "2026-11-28T16:13:29.755960+00:00",
+  "983b663c4bdb5af3": "2026-11-28T16:13:30.931732+00:00"
  },
  "recent": [
   {
@@ -17910,6 +17943,126 @@
    "status": "skipped",
    "ts": "2026-11-28T15:42:18.453104+00:00",
    "card_title": ""
+  },
+  {
+   "title": "GTA 6: All Peewees Billboard locations, rewards",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-28T15:57:33.598162+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6: All Peewees Billboard locations, rewards",
+   "source": "VGC",
+   "trust": "high",
+   "status": "queued",
+   "ts": "2026-11-28T15:58:00.530276+00:00",
+   "card_title": "ВСЕ БИЛБОРДЫ PEEWEES В GTA 6"
+  },
+  {
+   "title": "‘GTA 6’ Has Two Main, Mirrored Endgame Problems",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T15:58:01.226231+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Gamer Gets Hate for Playing GTA 6 While Their Wife is Giving Birth",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T15:58:02.390848+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "How To Unlock More Hair And Makeup Styles For Jason And Lucia In GTA 6",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T15:58:03.510728+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "WTF!! Bro is playing GTA 6 like he's on the Pentagon's payroll! Writer: Sol",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T15:58:04.517776+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6: Can Lucia Make Money Dancing At Strip Clubs?",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T15:58:05.789020+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Все 397 трюков в GTA 6: прыжки, мосты, «полеты на ноже» и прыжки с высоты",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T15:58:06.827315+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Президент Rockstar Сэм Хаузер появился в камео в GTA 6",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T15:58:08.029793+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "So, Did GTA 6 Live up to the Hype?",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-28T16:13:20.375528+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 has successfully done what only one other game has ever managed: a good nightclub",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "dup",
+   "ts": "2026-11-28T16:13:20.375587+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Слух: в сети обсуждают «утечку» готовой ПК-версии GTA 6 в 4K при 120 FPS на RTX 5090",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T16:13:27.468792+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA 6 Sold Over 1.1 Million Units in Spain Across Physical and Digital",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T16:13:28.539250+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI on Mac: 3 to 6 FPS in Unofficial Tests",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T16:13:29.756089+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Мы прошли GTA 6. Это лучшая игра 2026 года — но не лучшая игра Rockstar",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T16:13:30.931862+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -18005,6 +18158,35 @@
    "queued_at": "2026-11-28T14:22:27.589834+00:00",
    "moderation": "pending",
    "draft_msg_id": 228
+  },
+  {
+   "item": {
+    "title": "GTA 6: All Peewees Billboard locations, rewards",
+    "link": "https://www.videogameschronicle.com/guide/gta-6-peewees-billboard-locations-rewards/",
+    "summary": "How to find every Peewees Billboard location and get all possible rewards in Grand Theft Auto 6",
+    "published": "2026-11-28T15:42:21+00:00",
+    "source": "VGC",
+    "site_name": "VGC",
+    "trust": "high",
+    "text": "If you want to caloriemax in Grand Theft Auto 6, you need to visit Peewees.\nPeewees is a chicken place that you go to if you want to put on weight, and if you want a fabulous prize made just for chicken fanatics, then you just need to find all four of the Peewees Billboards dotted around Leonida.\nIn this guide, we’re breaking down the location for all four Peewees Billboards and how to get all of your rewards.\nGuides: If you're playing Grand Theft Auto 6, make sure to check out our complete walkthrough hub, featuring beginner tips, navigation experience explained, GTA 6 cheats, and more.\nThere are just four Peewees Billboards to be found around Leonida. Once you find one, you just need to scan it with the in-game WAiNK App. They can all be found overlooking the highway. Which is what billboards are supposed to do.\nYou can find a Peewees Billboard on the highway passing between North Mariana County and Grassrivers. Just East of Richardson Hunting Supplies, you’ll see the billboard.\nAnother Peewees Billboard can be found near Randy’s place, just North of the Top Fun Droves – Balsero organiser, on the Northwest edge of Vice City’s border.\nAnother can be found to the Northeast of Lake Leonida, just a touch Southeast of One-Eyed Willie’s Auto Shop (Ultimate Edition exclusive).\nOur final Peewees Billboard for this list is located on the border of South West Lummox County and Mount Kalaga National Park. The billboard is located directly between the Animal Crackers – Grayson and Mount Kalaga – Cycling Trail race organisers on the map.\nFinal Peewees Billboards prize, how to get it – GTA 6\nOnce you’ve scanned every Peewees Billboard, you have one more final cryptic step to complete to claim your prize. You need to head to the Peewees – Belville, which is in Belville, of course. It’s across the road from Druthers State Bank and the Empowered Electronics shop.\nInside, speak to the manager behind the counter, and he’ll give you your final prize: a Peewees Uniform. Wearing it at Peewees locations will allow you to get a lot of free food. Cool, I guess?",
+    "extra": {
+     "image": "https://www.videogameschronicle.com/files/2026/11/GTA-6-All-Peewees-Billboard-locations-rewards-9.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "🗺 Гайд: 4 билборда Peewees и ХАЛЯВНАЯ еда в GTA 6\n\nСканируй 4 щита через WAiNK App вдоль трасс:\n• Восток от Richardson Hunting Supplies (у Grassrivers)\n• СЗ Vice City, севернее гонки Balsero\n• СВ Lake Leonida, у One-Eyed Willie’s Auto Shop\n• Граница Lummox и Mount Kalaga (между гонками)\nПотом дуй в Peewees (Belville, напротив Druthers State Bank) к менеджеру — даст форму на бесплатную еду. Топчик для набора массы!",
+    "card_title": "ВСЕ БИЛБОРДЫ PEEWEES В GTA 6",
+    "reason": "Гайд по поиску билбордов Peewees и получению уникальной формы с бесплатной едой в GTA 6",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "GTA 6: All Peewees Billboard locations, rewards — Google News (EN)",
+    "corroborated_by": "GTA 6: All Peewees Billboard locations, rewards — Google News (EN)",
+    "guide": true,
+    "model": "gemini:gemini-3.5-flash-lite → gemini:gemini-4-hydrogen"
+   },
+   "queued_at": "2026-11-28T15:58:00.530265+00:00"
   },
   {
    "item": {
@@ -23532,7 +23714,99 @@
   "digest-20261124": "2026-11-24T19:30:13.623703+00:00",
   "digest-20261125": "2026-11-25T19:30:50.081169+00:00",
   "digest-20261126": "2026-11-26T19:30:31.000089+00:00",
-  "digest-20261127": "2026-11-27T19:30:25.546809+00:00"
+  "digest-20261127": "2026-11-27T19:30:25.546809+00:00",
+  "poll-2026-W48": "2026-11-28T16:00:40.916726+00:00"
  },
- "rewrite_wait": []
+ "rewrite_wait": [
+  {
+   "item": {
+    "title": "All Paranormal and Creepy missions in GTA 6",
+    "link": "https://www.videogameschronicle.com/guide/all-paranormal-and-creepy-missions-in-gta-6/",
+    "summary": "All of GTA 6's weird and creepy missions",
+    "published": "2026-11-28T16:10:06+00:00",
+    "source": "VGC",
+    "site_name": "VGC",
+    "trust": "high",
+    "text": "GTA 6 is full of paranormal and creepy side missions that plenty of players may have missed.\nWhile you’ll spend much of your time in GTA 6 robbing banks and completing missions, it also has plenty of hidden secrets and complex missions worth exploring.\nThis this hub, we’ve brought together all the strangest missions in the game, all of which we’ve published extensive guides for.\nWhether you’re hunting for aliens, investigating government cover-ups or looking for something lurking in Leonida’s swamps, here’s how to uncover the creepiest mysteries in GTA 6.\nSpoiler warning: Some entries reveal hidden encounters, story details and rewards.\nGuides: If you're playing Grand Theft Auto 6, make sure to check out our complete walkthrough hub, featuring beginner tips, navigation experience explained, GTA 6 cheats, and more.\nAll Paranormal and Creepy missions in GTA 6\nHow to find the UFO and complete the alien questline in GTA 6\nLocation: Kelly County and Pelican Valley\nReward: The Truth Is Out There trophy and permanent stat boosts\nThe GTA 6 UFO encounter begins with an abandoned car found on a deserted road at night. Following a trail of clothing leads to a mysterious woman suspended in a UFO’s light.\nBut that’s only the beginning. The encounter triggers a series of strange dreams, puzzles and a secret underground facility where players can eventually encounter an actual extraterrestrial.\nRead more: GTA 6: Full Alien UFO questline walkthrough.\nHow to find Bigfoot (the Skunk Ape) in GTA 6\nLocation: Pelican River and Pelican Valley\nReward: Unique tranquiliser sniper rifle and up to $10,000\nGTA 6’s Leonida has its own version of Bigfoot, known as the Skunk Ape, and Rockstar has given the legendary creature its own storyline in GTA 6.\nJason can team up with a local cryptid hunter named Kirk to investigate reports of a mysterious creature known as Mr Mangrove.\nThe three-part questline involves tracking the creature through the swamps, investigating strange tree effigies and eventually discovering the truth behind the legend.\nThere’s also a difficult decision to make at the end of the investigation, with different outcomes depending on whether you shoot Kirk, Mr Mangrove or neither.\nRead more: GTA 6 Skunk Ape questline walkthrough: All effigy locations and choices.\nHow to find the haunted Marbelle Hotel in GTA 6\nThis abandoned building hides a disturbing Easter egg featuring flickering lights, strange symbols and a thick blanket of fog. This easily missable Silent Hill E",
+    "extra": {
+     "image": "https://www.videogameschronicle.com/files/2026/11/GTA-6-Marbelle-Hotel-Silent-Hill-4.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "🗺 Гайд: СЕКРЕТЫ И МИСТИКА В ЛЕОНИДЕ\n\nВ игре завезли лютую крипту: ищи заброшенную тачку в Келли-Каунти для квеста с НЛО или гоняй по болотам в поисках Бигфута (он же Скунк-Эйп). Топчик для тех, кто устал от грабежей и хочет поймать криповый вайб.\n\n❤️ — уже нашёл пришельцев\n👎 — боюсь идти на болота",
+    "card_title": "ПАРАНОРМАЛЬНЫЕ СЕКРЕТЫ GTA 6",
+    "reason": "Гайд по секретным паранормальным миссиям с НЛО и Бигфутом в GTA 6.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "",
+    "corroborated_by": "",
+    "guide": true,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-28T16:13:22.505116+00:00"
+  },
+  {
+   "item": {
+    "title": "So, Did GTA 6 Live up to the Hype?",
+    "link": "https://www.polygon.com/gta-6-launch-week-expectations/",
+    "summary": "Grand Theft Auto 6 was hyped up for 13 years, and Rockstar just might have actually delivered on the impossible expectations.",
+    "published": "2026-11-28T16:01:18+00:00",
+    "source": "Polygon",
+    "site_name": "Polygon",
+    "trust": "high",
+    "text": "Thirteen years — that’s how long players waited to get their hands on Grand Theft Auto 6. The road to Rockstar’s mega-hit was an unusually long one for a bankable franchise video game, but the wait was arguably an even better marketing tactic than that flashy Netflix reveal. Hype came to define GTA 6: It birthed memes, fueled impatient YouTube chat spam, and spawned a cottage industry of so-called leakers who only made the game feel larger-than-life in the absence of official details. For many, the anticipation of GTA 6 became a game in and of itself.\nWhile that helped GTA 6’s launch reach the loudest crescendo possible, it came with a risk. Too much excitement can be a bad thing. Rockstar Games would have to combat outsized expectations from fans who had convinced themselves that the open-world game would feature a bevy of revolutionary features, regardless of how implausible they were.\nNow that the dust has settled and players are cruising around Leonida, I find myself trying to unpack an impossible question: Did GTA 6 live up to all that hype, after all?\nOn some level, it’s a ridiculous thing to ask. Hype is not a quantifiable metric, so how would you even begin to measure how well it paid off? I suppose we could start by looking at sales data. We already know GTA 6 is a hit in that regard, as Rockstar confirmed that it sold 32.5 million copies in its pre-release period alone. That’s a fairly convincing $3.79 billion answer, right? But there was never any doubt that GTA 6 would be a financial success. If anything, the pre-release sales are actually a reflection of the hype, not the game itself. It’s going to take a few more rounds of post-launch sales figures to gauge success by numbers.\nIf I were to try and view success through cultural dominance, I have plenty of anecdotal evidence I could pull from. On launch weekend, I got a call from my aunt, who I’ve never spoken to about video games, asking if I had played this game they were talking about on Good Morning America. One night while talking about the game with my friends at a bar, I overheard a separate group across the room talking about Lucia. My social media feeds are filled with clips, as seemingly everyone I follow is playing at the same time. It’s an indicator that GTA 6 is a true monoculture moment, the likes of which gaming hasn’t seen since Halo 3 or the Nintendo Wii. But again, it’s hard to say if that’s any indication of a game living up to expectations.\nWe could instead look at critical ",
+    "extra": {
+     "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/boobie_ike_01.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 6,
+    "post": "Оправдала ли GTA 6 хайп?\n\nТринадцать лет ожиданий, миллиардные продажи на старте и обсуждения везде — от утреннего ТВ до баров. Чел, это лютый феномен, но переварить такой масштаб сложно даже фанатам.\n\n❤️ — Жизячно, игра топчик\n👎 — Ожидал большего, душно",
+    "card_title": "ОПРАВДАЛА ЛИ GTA 6 ОЖИДАНИЯ?",
+    "reason": "Статья-рассуждение крупного издания о релизе и ожиданиях от GTA 6 без уникальных эксклюзивных фактов.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "So, Did GTA 6 Live up to the Hype? — Google News (EN)",
+    "corroborated_by": "So, Did GTA 6 Live up to the Hype? — Google News (EN)",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-28T16:13:24.439991+00:00"
+  },
+  {
+   "item": {
+    "title": "GTA 6 has successfully done what only one other game has ever managed: a good nightclub",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-has-successfully-done-what-only-one-other-game-has-ever-managed-a-good-nightclub/",
+    "summary": "I'm obsessed with Leonida's nightlife.",
+    "published": "2026-11-28T16:00:00+00:00",
+    "source": "PC Gamer",
+    "site_name": "PC Gamer",
+    "trust": "high",
+    "text": "When Hitman 3 first launched in 2021, it was the first time since Absolution that I'd felt a strong urge to step into the shoes of Agent 47. The reason: its Berlin level. Set in the grimy, sweaty Club Hölle, it was the first time I'd ever seen a videogame get a nightclub right. The density of people on the dancefloor, the slight griminess that coated the whole place. The lights, the music. I didn't think another game would out-do it anytime soon.\nThere's an awful lot to be impressed with in Rockstar's newest blockbuster—and I should hope so, considering how much money and time went into making the damn thing—but nothing has stood out to me more than Leonida's nightlife. Hitman 3 did it excellently in isolation, but GTA 6 has managed to incorporate an immersive, lively club scene right into the open world.\nAnd after spending far too much time in Vice City's Big Three—that's NINE1NINE, Jack of Hearts, and The Vault—I'm floored not only by how good a job Rockstar did of making them feel like a club you would end up inside in real life, but how distinct they all are from one another.\nYou've got your overpriced luxury half-strip-club, half-regular-club with NINE1NINE (inspired by Miami's own E11EVEN), where a beer costs 15 goddamn bucks even after you already fork out the $150 cover charge to get in. There's the sticky, dollar bill-laden floors of Jack of Hearts where MCs belt out over the mic and the bass practically splits the speakers open. And then you've got the cool, underground rave vibes of The Vault with multiple floors offering different music styles.\nEven before heading inside each one, its patrons spill out of the doors and onto the sidewalks. Some are queueing up waiting to get in, while others huddle around back entrances having a smoke and talking about all the diabolical topics you get into after a few drinks. They aren't just isolated interiors, capturing the parts of the night that happen outside of the club itself.\nThat's an issue videogame nightclubs so often have: its people. A smattering of NPCs here and there, standing idly around in a venue that's a little too well-lit and making me feel like I just rocked up at 2 pm on a Monday afternoon.\nKeep up to date with the most important stories and the best deals, as picked by the PC Gamer team.\nYet everywhere you look in GTA 6's nightclubs, you'll find swarms of bodies. The Vault is by far my favourite nightclub of the three—perhaps because it's the closest to what I've experienced in the real ",
+    "extra": {
+     "image": "https://cdn.mos.cms.futurecdn.net/uH4HVCG6DkzwRjendWpp2D-1920-80.jpg"
+    }
+   },
+   "verdict": {
+    "type": "confirmed",
+    "importance": 7,
+    "post": "КЛУБЫ в GTA 6 — просто имба\n\nРокстаровцы реально смогли в гранулу реализма: клубы вроде NINE1NINE и The Vault выглядят живыми, а не как пустые коробки. Толпы на танцполе, очереди на входе и полный вайб.",
+    "card_title": "ЛУЧШИЕ КЛУБЫ В VICE CITY",
+    "reason": "Обзор ночных клубов GTA 6 от крупного СМИ, подтверждающий крутую проработку локаций.",
+    "duplicate": false,
+    "corroborated": false,
+    "duplicate_of": "GTA 6 has successfully done what only one other game has ever managed: a good nightclub — Google News (EN)",
+    "corroborated_by": "GTA 6 has successfully done what only one other game has ever managed: a good nightclub — Google News (EN)",
+    "guide": false,
+    "model": "gemini:gemini-3.5-flash-lite"
+   },
+   "corr": false,
+   "since": "2026-11-28T16:13:26.283535+00:00"
+  }
+ ]
 }
