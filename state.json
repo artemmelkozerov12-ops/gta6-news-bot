@@ -5810,7 +5810,24 @@
   "ffd4eb07af2eba09": "2026-11-28T06:15:36.366032+00:00",
   "eb473d8b3040db3d": "2026-11-28T06:15:37.387392+00:00",
   "f669deb36edd7670": "2026-11-28T06:30:57.409868+00:00",
-  "41eef861d95fe5e6": "2026-11-28T06:46:20.430158+00:00"
+  "41eef861d95fe5e6": "2026-11-28T06:46:20.430158+00:00",
+  "12469a64c46f39da": "2026-11-28T07:01:45.757657+00:00",
+  "491f3f8b27009419": "2026-11-28T07:01:47.078871+00:00",
+  "4e34775009798f9a": "2026-11-28T07:09:22.613154+00:00",
+  "2fa2d5bcef0048ba": "2026-11-28T07:09:23.740055+00:00",
+  "b2a6f53ef4e94241": "2026-11-28T07:09:24.526250+00:00",
+  "f44f672c3647f71f": "2026-11-28T07:09:25.263526+00:00",
+  "3cb5b16b5ea83150": "2026-11-28T07:10:16.428033+00:00",
+  "925c68ad14440dee": "2026-11-28T07:10:17.277036+00:00",
+  "4f4972372a0bb484": "2026-11-28T07:10:18.171575+00:00",
+  "cffa8cdc50dbc45e": "2026-11-28T07:10:19.058337+00:00",
+  "6f05c7e9699a95aa": "2026-11-28T07:11:10.066318+00:00",
+  "5fee757b6fb35b37": "2026-11-28T07:11:10.813194+00:00",
+  "0f399b10cd47f13b": "2026-11-28T07:11:11.614563+00:00",
+  "3705079006fc61af": "2026-11-28T07:11:12.429120+00:00",
+  "3c76098246ce6b8e": "2026-11-28T07:12:03.315890+00:00",
+  "979c7fa188e36d3a": "2026-11-28T07:17:03.911357+00:00",
+  "0de9f547b217c036": "2026-11-28T07:17:04.953170+00:00"
  },
  "titles": {
   "33509a619c5ae271": "2026-11-17T20:46:42.130550+00:00",
@@ -9831,7 +9848,11 @@
   "5b4e8f8783aefa2c": "2026-11-28T06:15:36.366032+00:00",
   "3bd09b6797ac1b17": "2026-11-28T06:15:37.387392+00:00",
   "c4d37dc86d183943": "2026-11-28T06:30:57.409868+00:00",
-  "d39885ea9c4cdec8": "2026-11-28T06:46:20.430158+00:00"
+  "d39885ea9c4cdec8": "2026-11-28T06:46:20.430158+00:00",
+  "2993a7c5ff5314c9": "2026-11-28T07:01:45.757657+00:00",
+  "a941e54e30e92159": "2026-11-28T07:01:47.078871+00:00",
+  "3ff7bf9a324e65aa": "2026-11-28T07:17:03.911357+00:00",
+  "8b7a2106baf31c06": "2026-11-28T07:17:04.953170+00:00"
  },
  "recent": [
   {
@@ -17497,6 +17518,38 @@
    "status": "skipped",
    "ts": "2026-11-28T06:46:20.430280+00:00",
    "card_title": ""
+  },
+  {
+   "title": "Scott Butchard, Rockstar's senior design director, says GTA 6 mission replay felt at odds with the story, and guides point to 15 save slots",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T07:01:45.757775+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "Alinea Analytics estimates GTA 6 sold 53 million copies in week one, against the nearly 29 million Take-Two said GTA V shipped in six weeks",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T07:01:47.078995+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "GTA VI вышла в день IPO Anthropic и может стать последней игрой без ИИ",
+   "source": "Google News (RU)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T07:17:03.911514+00:00",
+   "card_title": ""
+  },
+  {
+   "title": "TeK says its private fork of the CGBJ GTA 6 PC build now runs multiplayer with proximity voice chat at 25 to 30fps",
+   "source": "Google News (EN)",
+   "trust": "rumor",
+   "status": "skipped",
+   "ts": "2026-11-28T07:17:04.953311+00:00",
+   "card_title": ""
   }
  ],
  "queue": [
@@ -17672,7 +17725,9 @@
     "guide": false,
     "model": "groq:openai/gpt-oss-120b → gemini:gemini-3.5-flash"
    },
-   "queued_at": "2026-11-28T06:31:01.961035+00:00"
+   "queued_at": "2026-11-28T06:31:01.961035+00:00",
+   "moderation": "pending",
+   "draft_msg_id": 217
   },
   {
    "item": {
@@ -17740,7 +17795,8 @@
   "2026-11-27T19:42:09.193381+00:00",
   "2026-11-27T20:42:24.846714+00:00",
   "2026-11-27T21:42:48.504030+00:00",
-  "2026-11-28T06:00:20.851208+00:00"
+  "2026-11-28T06:00:20.851208+00:00",
+  "2026-11-28T07:00:44.245024+00:00"
  ],
  "slots_sent": {
   "2026-11-26:guide:1": "2026-11-26T07:01:31.326765+00:00",
@@ -17753,36 +17809,6 @@
   "2026-11-26T18:29:20.883321+00:00"
  ],
  "clips": [
-  {
-   "clip": {
-    "source": "twitch",
-    "url": "https://www.twitch.tv/joe_bartolozzi/clip/CloudyBeautifulSageAliens-lPvnP92e3db1_lR1",
-    "title": "hard r",
-    "author": "Joe_Bartolozzi",
-    "views": 2100,
-    "duration": 30.0,
-    "created": "2026-11-26T19:58:44+00:00",
-    "lang": "en",
-    "description": "",
-    "vod_id": "2941461420",
-    "vod_offset": 10127.0
-   },
-   "caption": "СПОЙЛЕР. Чел просто «попросил» ключи от тачки в стиле GTA, а в итоге устроил эпичный побег от охраны. Вот это вайб, чисто пушка 💀",
-   "interest": 8,
-   "spoiler": true,
-   "nsfw": false,
-   "watched": true,
-   "model": "gemini:gemini-3.1-flash-lite",
-   "media": {
-    "width": null,
-    "height": 720,
-    "duration": 30
-   },
-   "queued_at": "2026-11-27T07:09:16.033828+00:00",
-   "file_id": "BAACAgIAAxkDAAPDawksndjKlFPM0cVK7nssseoSIJwAAn-vAAJzy0lIeP2oRATL5Aw9BA",
-   "moderation": "pending",
-   "draft_msg_id": 195
-  },
   {
    "clip": {
     "source": "twitch",
@@ -18052,6 +18078,36 @@
    "file_id": "BAACAgIAAxkDAAPXawn8iy6YdCss-cacmRbY2oANwdQAAqO2AALiwFBIm16SPhk46CE9BA",
    "moderation": "pending",
    "draft_msg_id": 215
+  },
+  {
+   "clip": {
+    "source": "twitch",
+    "url": "https://www.twitch.tv/tminnzy/clip/StupidSuperHerbsHeyGuys-eucUPrGUhTD5GtXs",
+    "title": "mf is distracted 😭😭",
+    "author": "Tminnzy",
+    "views": 49152,
+    "duration": 60.0,
+    "created": "2026-11-27T14:28:00+00:00",
+    "lang": "en",
+    "description": "",
+    "vod_id": "2935827889",
+    "vod_offset": 10543.0
+   },
+   "caption": "СПОЙЛЕР. Джейсон пытался спокойно починить раковину, но с такой заказчицей сфокусироваться на работе просто без шансов 💀 Побочки в Леониде — чистый рофл!",
+   "interest": 8,
+   "spoiler": true,
+   "nsfw": false,
+   "watched": true,
+   "model": "gemini:gemini-3.5-flash",
+   "media": {
+    "width": null,
+    "height": 720,
+    "duration": 60
+   },
+   "queued_at": "2026-11-28T07:14:17.405267+00:00",
+   "file_id": "BAACAgIAAxkDAAPaawp_SnoP4EdhFKrXdPwvV9nTqysAAiCnAALiwFhI_17z78_pw_g9BA",
+   "moderation": "pending",
+   "draft_msg_id": 218
   }
  ],
  "clip_drafts": [
@@ -18074,7 +18130,8 @@
   "2026-11-27T13:51:17.116374+00:00",
   "2026-11-27T19:50:26.633361+00:00",
   "2026-11-27T20:53:04.519306+00:00",
-  "2026-11-27T21:56:27.671209+00:00"
+  "2026-11-27T21:56:27.671209+00:00",
+  "2026-11-28T07:14:19.192954+00:00"
  ],
  "clip_history": [
   {
@@ -22250,6 +22307,121 @@
    "ts": "2026-11-27T21:56:27.671226+00:00",
    "frames": [],
    "caption": "Чел решил срезать поворот на байке и улетел прямо в озеро с моста 💀 Полет сквозь пальмы — чистый разнос"
+  },
+  {
+   "author": "youtube:hazax",
+   "vod": "",
+   "offset": -1,
+   "title": "GTA 6 users map: #memes",
+   "drafted": false,
+   "ts": "2026-11-28T07:09:22.613194+00:00"
+  },
+  {
+   "author": "youtube:timeng",
+   "vod": "",
+   "offset": -1,
+   "title": "When the Developers Are Terminator Fans - GTA6",
+   "drafted": false,
+   "ts": "2026-11-28T07:09:23.740100+00:00"
+  },
+  {
+   "author": "youtube:gta2025",
+   "vod": "",
+   "offset": -1,
+   "title": "cual protagonista recarga más rápido en #gta6",
+   "drafted": false,
+   "ts": "2026-11-28T07:09:24.526292+00:00"
+  },
+  {
+   "author": "youtube:o victor magalhães",
+   "vod": "",
+   "offset": -1,
+   "title": "PROFESSORA ENSINA GTA 6",
+   "drafted": false,
+   "ts": "2026-11-28T07:09:25.263559+00:00"
+  },
+  {
+   "author": "youtube:dimucc",
+   "vod": "",
+   "offset": -1,
+   "title": "POV: Running from the cops in GTA 6...",
+   "drafted": false,
+   "ts": "2026-11-28T07:10:16.428073+00:00"
+  },
+  {
+   "author": "youtube:edgarftw",
+   "vod": "",
+   "offset": -1,
+   "title": "SIGUENDO A LUCIA 24 HORAS EN GTA 6!",
+   "drafted": false,
+   "ts": "2026-11-28T07:10:17.277086+00:00"
+  },
+  {
+   "author": "youtube:void darc",
+   "vod": "",
+   "offset": -1,
+   "title": "I can’t keep doing this! 😂🔥  #gta6 #comedy #skit #videogames",
+   "drafted": false,
+   "ts": "2026-11-28T07:10:18.171625+00:00"
+  },
+  {
+   "author": "youtube:みどこー",
+   "vod": "",
+   "offset": -1,
+   "title": "落ちてるスマホを再生すると【GTA6】#携帯#蛇#丸呑み#トラウマ",
+   "drafted": false,
+   "ts": "2026-11-28T07:10:19.058383+00:00"
+  },
+  {
+   "author": "youtube:e2k_gaming",
+   "vod": "",
+   "offset": -1,
+   "title": "I tried to steal a supercar in GTA 6 and it trapped me #gta6 #gta6shorts #gta6clips",
+   "drafted": false,
+   "ts": "2026-11-28T07:11:10.066350+00:00"
+  },
+  {
+   "author": "youtube:xgtaharry",
+   "vod": "",
+   "offset": -1,
+   "title": "What Happens If Jason Drinks Too Much Beer in GTA 6?",
+   "drafted": false,
+   "ts": "2026-11-28T07:11:10.813228+00:00"
+  },
+  {
+   "author": "youtube:brunelviss games",
+   "vod": "",
+   "offset": -1,
+   "title": "Ele testou se existe assédio no GTA 6 e ficou chocado!",
+   "drafted": false,
+   "ts": "2026-11-28T07:11:11.614603+00:00"
+  },
+  {
+   "author": "youtube:cellbit lives",
+   "vod": "",
+   "offset": -1,
+   "title": "CELLBIT JOGANDO GTA 6 DE MANEIRA TOTALMENTE SAUDÁVEL MENTALMENTE",
+   "drafted": false,
+   "ts": "2026-11-28T07:11:12.429155+00:00"
+  },
+  {
+   "author": "twitch:tminnzy",
+   "vod": "2935827889",
+   "offset": 10543.0,
+   "title": "mf is distracted 😭😭",
+   "drafted": false,
+   "ts": "2026-11-28T07:12:03.315936+00:00",
+   "frames": []
+  },
+  {
+   "author": "twitch:tminnzy",
+   "vod": "2935827889",
+   "offset": 10543.0,
+   "title": "mf is distracted 😭😭",
+   "drafted": true,
+   "ts": "2026-11-28T07:14:19.192969+00:00",
+   "frames": [],
+   "caption": "СПОЙЛЕР. Джейсон пытался спокойно починить раковину, но с такой заказчицей сфокусироваться на работе просто без шансов 💀"
   }
  ],
  "published": [
